@@ -10,6 +10,7 @@ export interface BOEAuditResponse {
   nivel_transparencia: number;
   analisis_critico: string;
   resumen_ciudadano: string;
+  resumen_tweet: string;
   banderas_rojas: string[];
   vencedores_vencidos: {
     ganadores: string[];
@@ -38,4 +39,8 @@ export interface AnalysisState {
   rawXml?: string;
   scrapingResults?: ScrapedLaw[];
   isScraping?: boolean;
+  thumbnailUrl?: string;
+  isGeneratingThumbnail?: boolean;
+  videoUrl?: string;
+  isGeneratingVideo?: boolean;
 }

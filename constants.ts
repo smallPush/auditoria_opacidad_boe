@@ -5,27 +5,63 @@ import { BOEArticle } from './types';
 export const BOE_SOURCES: BOEArticle[] = [
   {
     id: "BOE-A-2024-4161",
-    title: "Ley de Presupuestos Generales",
+    title: "Ley de Presupuestos Generales del Estado para el ejercicio 2024",
     url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-4161",
     category: "Economía"
   },
   {
     id: "BOE-A-2024-5012",
-    title: "Reforma del Mercado de Trabajo",
+    title: "Reforma urgente del Mercado de Trabajo y fomento de la contratación indefinida",
     url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-5012",
     category: "Social"
   },
   {
     id: "BOE-A-2024-6123",
-    title: "Regulación de Vivienda Pública",
+    title: "Regulación de Vivienda Pública y medidas contra el desahucio",
     url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-6123",
     category: "Vivienda"
   },
   {
     id: "BOE-A-2024-7788",
-    title: "Subvenciones a la Innovación Digital",
+    title: "Subvenciones directas a la Innovación Digital en PYMES",
     url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-7788",
     category: "Tecnología"
+  },
+  {
+    id: "BOE-A-2024-8901",
+    title: "Modificación de la Ley de Montes y gestión forestal sostenible",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-8901",
+    category: "Medio Ambiente"
+  },
+  {
+    id: "BOE-A-2024-9122",
+    title: "Protocolo de actuación contra la sequía en la cuenca del Ebro",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-9122",
+    category: "Recursos Naturales"
+  },
+  {
+    id: "BOE-A-2024-1055",
+    title: "Plan de fomento de la Inteligencia Artificial en la Administración Pública",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-1055",
+    category: "Innovación"
+  },
+  {
+    id: "BOE-A-2024-1122",
+    title: "Ayudas extraordinarias al sector del transporte por carretera",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-1122",
+    category: "Transportes"
+  },
+  {
+    id: "BOE-A-2024-2233",
+    title: "Regulación del teletrabajo en las Fuerzas y Cuerpos de Seguridad",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-2233",
+    category: "Interior"
+  },
+  {
+    id: "BOE-A-2024-3344",
+    title: "Convenio colectivo del sector de la industria cinematográfica",
+    url: "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-3344",
+    category: "Cultura"
   }
 ];
 
