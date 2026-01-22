@@ -68,9 +68,13 @@ export const translations = {
     alreadyAudited: "Ya Auditado",
     pendingAudit: "Pendiente",
     downloadJson: "Descargar JSON",
+    importJson: "Importar JSON",
+    exportAllJson: "Exportar Todo (JSON)",
     copyJson: "Copiar JSON",
     jsonExportTitle: "Reporte Técnico (JSON)",
     exportHistoryJson: "Exportar Índice (JSON)",
+    importSuccess: "JSON importado correctamente",
+    importError: "Error al importar el archivo JSON",
     passwordPlaceholder: "Contraseña de Agente...",
     invalidPassword: "Credenciales de acceso no válidas."
   },
@@ -140,9 +144,13 @@ export const translations = {
     alreadyAudited: "Audited",
     pendingAudit: "Pending",
     downloadJson: "Download JSON",
+    importJson: "Import JSON",
+    exportAllJson: "Export All (JSON)",
     copyJson: "Copy JSON",
     jsonExportTitle: "Technical Report (JSON)",
     exportHistoryJson: "Export Index (JSON)",
+    importSuccess: "JSON imported successfully",
+    importError: "Error importing JSON file",
     passwordPlaceholder: "Agent Password...",
     invalidPassword: "Invalid access credentials."
   }

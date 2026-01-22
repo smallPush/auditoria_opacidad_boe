@@ -1,19 +1,45 @@
 
 import React from 'react';
 import { AuditHistoryItem } from '../types';
-import { ChevronRight, BarChart3, ExternalLink, Download } from 'lucide-react';
+import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 interface Props {
   history: AuditHistoryItem[];
   onSelect: (item: AuditHistoryItem) => void;
   onClear: () => void;
+  onImport: (data: any) => void;
   lang: Language;
 }
 
-const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, lang }) => {
+const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImport, lang }) => {
   const t = translations[lang];
-  if (history.length === 0) return null;
+
+  const handleExportAll = () => {
+    const blob = new Blob([JSON.stringify(history, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `BOE_Audit_Full_History_${new Date().getTime()}.json`;
+    link.click();
+    URL.revokeObjectURL(url);
+  };
+
+  const handleImport = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      try {
+        const json = JSON.parse(event.target?.result as string);
+        onImport(json);
+      } catch (err) {
+        alert(t.importError);
+      }
+    };
+    reader.readAsText(file);
+  };
 
   const handleExportIndex = () => {
     const index = history.map(item => ({
@@ -35,23 +61,43 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, lang })
 
   return (
     <div className="flex flex-col h-full">
-      <div className="flex gap-2 mb-4">
-        <button 
+      <div className="grid grid-cols-2 gap-2 mb-4">
+        <button
           onClick={handleExportIndex}
-          className="flex-1 bg-emerald-600/10 hover:bg-emerald-600 text-emerald-400 hover:text-white px-3 py-2 rounded-xl text-[10px] font-bold transition-all border border-emerald-600/20 flex items-center justify-center gap-2"
+          disabled={history.length === 0}
+          className="bg-emerald-600/10 hover:bg-emerald-600 disabled:opacity-30 text-emerald-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-emerald-600/20 flex items-center justify-center gap-1.5"
         >
-          <Download size={12} />
+          <Download size={10} />
           {t.exportHistoryJson}
         </button>
-        <button 
+        <button
+          onClick={handleExportAll}
+          disabled={history.length === 0}
+          className="bg-blue-600/10 hover:bg-blue-600 disabled:opacity-30 text-blue-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-blue-600/20 flex items-center justify-center gap-1.5"
+        >
+          <FileJson size={10} />
+          {t.exportAllJson}
+        </button>
+        <label className="cursor-pointer bg-purple-600/10 hover:bg-purple-600 text-purple-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-purple-600/20 flex items-center justify-center gap-1.5">
+          <Upload size={10} />
+          {t.importJson}
+          <input type="file" accept=".json" onChange={handleImport} className="hidden" />
+        </label>
+        <button
           onClick={onClear}
-          className="bg-slate-800 hover:bg-red-900/40 text-slate-500 hover:text-red-400 px-3 py-2 rounded-xl text-[10px] font-bold transition-all border border-slate-700"
+          disabled={history.length === 0}
+          className="bg-slate-800 hover:bg-red-900/40 disabled:opacity-30 text-slate-500 hover:text-red-400 px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-slate-700"
         >
           {t.clearHistory}
         </button>
       </div>
 
       <div className="space-y-3 overflow-y-auto pr-2 custom-scrollbar flex-1">
+        {history.length === 0 && (
+          <div className="flex flex-col items-center justify-center py-12 text-slate-600 opacity-40 italic text-xs">
+            No hay auditorías procesadas aún
+          </div>
+        )}
         {history.map((item) => (
           <div
             key={`${item.boeId}-${item.timestamp}`}
@@ -60,7 +106,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, lang })
             <div className="flex items-start justify-between mb-2">
               <span className="text-[9px] font-mono text-slate-500 uppercase tracking-widest">{item.boeId}</span>
               <div className="flex items-center gap-2">
-                <a 
+                <a
                   href={`https://www.boe.es/buscar/doc.php?id=${item.boeId}`}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -82,12 +128,12 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, lang })
               </h3>
 
               <div className="w-full bg-slate-900 h-1 rounded-full overflow-hidden mb-2">
-                <div 
+                <div
                   className={`h-full transition-all duration-1000 ${item.audit.nivel_transparencia > 70 ? 'bg-emerald-500' : item.audit.nivel_transparencia > 40 ? 'bg-amber-500' : 'bg-red-500'}`}
                   style={{ width: `${item.audit.nivel_transparencia}%` }}
                 />
               </div>
-              
+
               <div className="flex justify-between items-center text-[8px] text-slate-500 italic">
                 <span>{t.auditedOn(new Date(item.timestamp).toLocaleDateString())}</span>
                 <ChevronRight size={10} className="text-purple-500 opacity-0 group-hover:opacity-100 transition-all" />

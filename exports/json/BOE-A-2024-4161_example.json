@@ -1,0 +1,25 @@
+{
+  "boe_id": "BOE-A-2024-4161",
+  "timestamp": "2026-01-22T17:35:27Z",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La ley presenta una estructura compleja con múltiples remisiones a normativas externas, lo que dificulta la trazabilidad de las partidas presupuestarias. Se detectan términos ambiguos en la sección de subvenciones directas.",
+    "resumen_ciudadano": "Esta ley regula los Presupuestos Generales de 2024. Aunque establece el marco económico, la falta de detalle en ciertas inversiones locales reduce la claridad para el ciudadano medio.",
+    "resumen_tweet": "Auditoría del BOE: La Ley de Presupuestos 2024 obtiene un 45% en transparencia. Demasiadas 'zonas grises' en subvenciones detectadas. 🕵️‍♂️💸 #BOE #Opacidad #Transparencia",
+    "banderas_rojas": [
+      "Ambigüedad en el destino de fondos de contingencia",
+      "Falta de desglose en partidas de innovación digital",
+      "Lenguaje técnico excesivo en la sección de deuda"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes constructoras",
+        "Sector tecnológico"
+      ],
+      "perdedores": [
+        "Pequeños municipios",
+        "Autónomos del sector servicios"
+      ]
+    }
+  }
+}

@@ -14,7 +14,7 @@ const App: React.FC = () => {
     const saved = localStorage.getItem('boe_pref_lang');
     return (saved as Language) || 'es';
   });
-  
+
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
     return localStorage.getItem('boe_agent_session') === 'active';
   });
@@ -25,7 +25,7 @@ const App: React.FC = () => {
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
-  
+
   const [state, setState] = useState<AnalysisState>({
     loading: false,
     error: null,
@@ -61,7 +61,7 @@ const App: React.FC = () => {
       const parser = new DOMParser();
       const xml = parser.parseFromString(text, 'text/xml');
       const items = xml.querySelectorAll('item');
-      
+
       const articles: ScrapedLaw[] = Array.from(items).slice(0, 50).map((item: any) => ({
         id: item.getAttribute('id') || '',
         titulo: item.querySelector('titulo')?.textContent || 'Sin título',
@@ -145,7 +145,7 @@ const App: React.FC = () => {
 
   const handleAudit = async (boeId: string, customTitle?: string) => {
     setSearchId(boeId);
-    
+
     const cached = history.find(item => item.boeId === boeId);
     if (cached) {
       setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit, thumbnailUrl: undefined, videoUrl: undefined }));
@@ -157,7 +157,7 @@ const App: React.FC = () => {
     try {
       let xmlText = "";
       let docTitle = customTitle || (lang === 'es' ? "Documento BOE" : "Gazette Document");
-      
+
       try {
         const response = await fetch(`https://www.boe.es/diario_boe/xml.php?id=${boeId}`);
         if (!response.ok) throw new Error("CORS Blocked");
@@ -173,12 +173,39 @@ const App: React.FC = () => {
       const audit = await analyzeBOE(xmlText, lang);
       await saveAuditToDB(boeId, docTitle, audit);
       await loadHistory();
-      
+
       setState(prev => ({ ...prev, loading: false, error: null, result: audit }));
       handleGenerateThumbnail(audit);
 
     } catch (error: any) {
       setState(prev => ({ ...prev, loading: false, error: error.message || "Error during analysis" }));
+    }
+  };
+
+  const handleImportData = async (data: any) => {
+    try {
+      if (Array.isArray(data)) {
+        // Bulk import of AuditHistoryItem[]
+        for (const item of data) {
+          if (item.boeId && item.title && item.audit) {
+            await saveAuditToDB(item.boeId, item.title, item.audit);
+          }
+        }
+      } else if (data.boe_id && data.report) {
+        // Single report import from Download format
+        await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
+      } else if (data.boeId && data.audit) {
+        // Single AuditHistoryItem import
+        await saveAuditToDB(data.boeId, data.title || data.boeId, data.audit);
+      } else {
+        throw new Error("Invalid Format");
+      }
+
+      await loadHistory();
+      alert(t.importSuccess);
+    } catch (err) {
+      console.error("Import failed", err);
+      alert(t.importError);
     }
   };
 
@@ -206,7 +233,7 @@ const App: React.FC = () => {
           <div className="inline-flex items-center justify-center w-24 h-24 bg-blue-600/10 rounded-3xl border border-blue-600/20 text-blue-500 mb-2 rotate-3 hover:rotate-0 transition-transform duration-300">
             <Lock size={48} />
           </div>
-          
+
           <div className="space-y-3">
             <h1 className="text-4xl font-black tracking-tight text-white">{t.loginTitle}</h1>
             <p className="text-slate-400 text-sm">{t.loginSubtitle}</p>
@@ -218,8 +245,8 @@ const App: React.FC = () => {
                 <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
                   <KeyRound size={18} />
                 </div>
-                <input 
-                  type="password" 
+                <input
+                  type="password"
                   placeholder={t.passwordPlaceholder}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
@@ -232,8 +259,8 @@ const App: React.FC = () => {
               </div>
             )}
 
-            <button 
-              onClick={handleLogin} 
+            <button
+              onClick={handleLogin}
               className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
             >
               <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
@@ -242,14 +269,14 @@ const App: React.FC = () => {
           </div>
 
           <div className="flex justify-center gap-4 pt-4">
-             <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
-                <div className={`w-2 h-2 rounded-full ${process.env.API_KEY ? 'bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]' : 'bg-red-500'}`}></div>
-                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Gemini API</span>
-             </div>
-             <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
-                <div className={`w-2 h-2 rounded-full ${requiredPassword ? 'bg-amber-500 shadow-[0_0_8px_rgba(245,158,11,0.5)]' : 'bg-slate-600'}`}></div>
-                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Secure Link</span>
-             </div>
+            <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
+              <div className={`w-2 h-2 rounded-full ${process.env.API_KEY ? 'bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]' : 'bg-red-500'}`}></div>
+              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Gemini API</span>
+            </div>
+            <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
+              <div className={`w-2 h-2 rounded-full ${requiredPassword ? 'bg-amber-500 shadow-[0_0_8px_rgba(245,158,11,0.5)]' : 'bg-slate-600'}`}></div>
+              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Secure Link</span>
+            </div>
           </div>
         </div>
       </div>
@@ -280,10 +307,10 @@ const App: React.FC = () => {
       {state.result ? (
         <div className="space-y-6">
           <button onClick={resetState} className="flex items-center gap-2 bg-slate-900 border border-slate-800 px-6 py-3 rounded-xl text-slate-300 hover:bg-slate-800 transition-all"><ArrowLeft size={18} /> {t.backToHome}</button>
-          <AuditDashboard 
-            data={state.result} 
-            boeId={searchId} 
-            lang={lang} 
+          <AuditDashboard
+            data={state.result}
+            boeId={searchId}
+            lang={lang}
             thumbnailUrl={state.thumbnailUrl}
             isGeneratingThumbnail={state.isGeneratingThumbnail}
             onGenerateThumbnail={() => state.result && handleGenerateThumbnail(state.result)}
@@ -314,7 +341,7 @@ const App: React.FC = () => {
                 </div>
                 {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
               </div>
-              
+
               <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
                 {latestArticles.map((art) => {
                   const audited = isAlreadyAudited(art.id);
@@ -332,8 +359,8 @@ const App: React.FC = () => {
                       </div>
                       <div className="flex items-center justify-between mt-4">
                         <span className="text-[10px] text-slate-600 font-mono">{art.id}</span>
-                        <button 
-                          onClick={() => handleAudit(art.id, art.titulo)} 
+                        <button
+                          onClick={() => handleAudit(art.id, art.titulo)}
                           className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
                         >
                           <Zap size={10} />
@@ -356,7 +383,7 @@ const App: React.FC = () => {
                   <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.historySubtitle}</p>
                 </div>
               </div>
-              
+
               <div className="bg-slate-900/20 border border-slate-800 rounded-3xl p-4 min-h-[400px]">
                 {history.length === 0 ? (
                   <div className="flex flex-col items-center justify-center py-24 text-slate-600 opacity-40 italic text-sm">
@@ -364,7 +391,13 @@ const App: React.FC = () => {
                     No hay auditorías procesadas aún
                   </div>
                 ) : (
-                  <HistoryDashboard history={history} onSelect={handleSelectHistory} onClear={handleClearHistory} lang={lang} />
+                  <HistoryDashboard
+                    history={history}
+                    onSelect={handleSelectHistory}
+                    onClear={handleClearHistory}
+                    onImport={handleImportData}
+                    lang={lang}
+                  />
                 )}
               </div>
 
