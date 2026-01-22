@@ -21,6 +21,9 @@ jobs:
           npm run build
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          AGENT_PASSWORD: ${{ secrets.AGENT_PASSWORD }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
