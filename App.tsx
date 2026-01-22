@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
-import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck } from 'lucide-react';
+import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound } from 'lucide-react';
 import { BOE_SOURCES } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
 import { analyzeBOE, generateThumbnail, generateVideoSummary } from './services/geminiService';
@@ -19,6 +19,8 @@ const App: React.FC = () => {
     return localStorage.getItem('boe_agent_session') === 'active';
   });
 
+  const [password, setPassword] = useState('');
+  const [loginError, setLoginError] = useState(false);
   const [searchId, setSearchId] = useState('');
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
@@ -37,6 +39,7 @@ const App: React.FC = () => {
   });
 
   const t = translations[lang];
+  const requiredPassword = (process.env as any).AGENT_PASSWORD;
 
   useEffect(() => {
     localStorage.setItem('boe_pref_lang', lang);
@@ -59,7 +62,6 @@ const App: React.FC = () => {
       const xml = parser.parseFromString(text, 'text/xml');
       const items = xml.querySelectorAll('item');
       
-      // Aumentado el límite de 10 a 50 artículos para una mayor cobertura
       const articles: ScrapedLaw[] = Array.from(items).slice(0, 50).map((item: any) => ({
         id: item.getAttribute('id') || '',
         titulo: item.querySelector('titulo')?.textContent || 'Sin título',
@@ -96,23 +98,21 @@ const App: React.FC = () => {
 
   const toggleLang = () => setLang(l => l === 'es' ? 'en' : 'es');
 
-  const handleLogin = async () => {
-    // When using the Veo video generation models, users must select their own paid API key.
-    // This is a mandatory step before accessing the main app.
-    if (typeof window !== 'undefined' && (window as any).aistudio) {
-      try {
-        const hasKey = await (window as any).aistudio.hasSelectedApiKey();
-        if (!hasKey) {
-          // Trigger the API key selection dialog.
-          await (window as any).aistudio.openSelectKey();
-          // You MUST assume the key selection was successful after triggering openSelectKey() and proceed to the app.
-        }
-      } catch (e) {
-        console.error("API key selection error:", e);
+  const handleLogin = () => {
+    if (requiredPassword) {
+      if (password === requiredPassword) {
+        setIsLoggedIn(true);
+        localStorage.setItem('boe_agent_session', 'active');
+        setLoginError(false);
+      } else {
+        setLoginError(true);
+        setTimeout(() => setLoginError(false), 3000);
       }
+    } else {
+      // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
+      setIsLoggedIn(true);
+      localStorage.setItem('boe_agent_session', 'active');
     }
-    setIsLoggedIn(true);
-    localStorage.setItem('boe_agent_session', 'active');
   };
 
   const handleLogout = () => {
@@ -197,22 +197,60 @@ const App: React.FC = () => {
 
   if (!isLoggedIn) {
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-slate-950">
-        <div className="w-full max-w-md bg-slate-900 border border-slate-800 p-8 rounded-3xl shadow-2xl text-center space-y-8">
-          <div className="inline-flex items-center justify-center w-20 h-20 bg-blue-600/10 rounded-full border border-blue-600/20 text-blue-500 mb-4">
-            <Lock size={40} />
+      <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-slate-950 relative overflow-hidden">
+        {/* Background Accents */}
+        <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-blue-600/10 blur-[120px] rounded-full"></div>
+        <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-purple-600/10 blur-[120px] rounded-full"></div>
+
+        <div className="w-full max-w-md bg-slate-900/50 backdrop-blur-xl border border-slate-800 p-8 md:p-12 rounded-[2.5rem] shadow-2xl text-center space-y-8 relative z-10 animate-in fade-in zoom-in duration-500">
+          <div className="inline-flex items-center justify-center w-24 h-24 bg-blue-600/10 rounded-3xl border border-blue-600/20 text-blue-500 mb-2 rotate-3 hover:rotate-0 transition-transform duration-300">
+            <Lock size={48} />
           </div>
-          <div className="space-y-2">
-            <h1 className="text-3xl font-black tracking-tight">{t.loginTitle}</h1>
-            <p className="text-slate-400">{t.loginSubtitle}</p>
+          
+          <div className="space-y-3">
+            <h1 className="text-4xl font-black tracking-tight text-white">{t.loginTitle}</h1>
+            <p className="text-slate-400 text-sm">{t.loginSubtitle}</p>
           </div>
-          <button onClick={handleLogin} className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all flex items-center justify-center gap-2 group">
-            <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
-            {t.loginBtn}
-          </button>
-          <p className="text-[10px] text-slate-500 mt-4 italic">
-            Note: Use of video features requires a paid GCP project. <a href="https://ai.google.dev/gemini-api/docs/billing" target="_blank" rel="noopener noreferrer" className="underline hover:text-blue-400">Billing Docs</a>
-          </p>
+
+          <div className="space-y-4">
+            {requiredPassword && (
+              <div className="relative group">
+                <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
+                  <KeyRound size={18} />
+                </div>
+                <input 
+                  type="password" 
+                  placeholder={t.passwordPlaceholder}
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
+                  className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
+                />
+                {loginError && (
+                  <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
+                )}
+              </div>
+            )}
+
+            <button 
+              onClick={handleLogin} 
+              className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
+            >
+              <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
+              {t.loginBtn}
+            </button>
+          </div>
+
+          <div className="flex justify-center gap-4 pt-4">
+             <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
+                <div className={`w-2 h-2 rounded-full ${process.env.API_KEY ? 'bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]' : 'bg-red-500'}`}></div>
+                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Gemini API</span>
+             </div>
+             <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
+                <div className={`w-2 h-2 rounded-full ${requiredPassword ? 'bg-amber-500 shadow-[0_0_8px_rgba(245,158,11,0.5)]' : 'bg-slate-600'}`}></div>
+                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Secure Link</span>
+             </div>
+          </div>
         </div>
       </div>
     );

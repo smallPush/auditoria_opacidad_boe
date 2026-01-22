@@ -60,8 +60,8 @@ export const translations = {
     footerDesc: "Transparencia radical.",
     cacheNote: "Datos persistidos en Supabase Cloud.",
     loginTitle: "Acceso Agente",
-    loginSubtitle: "Identifícate para acceder al panel.",
-    loginBtn: "Iniciar Sesión",
+    loginSubtitle: "Identifícate con tus credenciales de entorno.",
+    loginBtn: "Validar Identidad",
     logoutBtn: "Salir",
     dbSync: "Sincronizado con Supabase",
     closeBtn: "Cerrar",
@@ -70,7 +70,9 @@ export const translations = {
     downloadJson: "Descargar JSON",
     copyJson: "Copiar JSON",
     jsonExportTitle: "Reporte Técnico (JSON)",
-    exportHistoryJson: "Exportar Índice (JSON)"
+    exportHistoryJson: "Exportar Índice (JSON)",
+    passwordPlaceholder: "Contraseña de Agente...",
+    invalidPassword: "Credenciales de acceso no válidas."
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -130,8 +132,8 @@ export const translations = {
     footerDesc: "Radical transparency.",
     cacheNote: "Data persisted in Supabase Cloud.",
     loginTitle: "Agent Access",
-    loginSubtitle: "Identify yourself to access the dashboard.",
-    loginBtn: "Sign In",
+    loginSubtitle: "Identify yourself with environment credentials.",
+    loginBtn: "Validate Identity",
     logoutBtn: "Sign Out",
     dbSync: "Synced with Supabase",
     closeBtn: "Close",
@@ -140,6 +142,8 @@ export const translations = {
     downloadJson: "Download JSON",
     copyJson: "Copy JSON",
     jsonExportTitle: "Technical Report (JSON)",
-    exportHistoryJson: "Export Index (JSON)"
+    exportHistoryJson: "Export Index (JSON)",
+    passwordPlaceholder: "Agent Password...",
+    invalidPassword: "Invalid access credentials."
   }
 };
