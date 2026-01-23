@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2024-3344",
+  "timestamp": "2026-01-23T16:24:32.129Z",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El uso del Real Decreto-ley 6/2022 para acelerar este proyecto bajo la excusa de la 'guerra de Ucrania' es una bandera roja de libro. Esta vía de urgencia reduce los plazos de escrutinio público para un proyecto que afecta gravemente a especies en peligro de extinción (Avutarda, Sisón). Existe una contradicción flagrante entre los informes técnicos de la Dirección General del Medio Natural de Murcia, que advierten de impactos inasumibles, y la insistencia del promotor en minimizar el valor ecológico de la zona tachándolo de simple 'viñedo'. La fragmentación del proyecto en tres plantas colindantes (Almendros I, II y Reventones) sugiere una táctica para diluir el impacto ambiental acumulado.",
+    "resumen_ciudadano": "Una empresa privada intenta construir una planta solar de 32 MW en Jumilla (Murcia) sobre hábitats críticos de aves protegidas. Aunque los organismos de medio ambiente advierten que el daño a la biodiversidad es irreparable y que las medidas compensatorias del promotor son imprecisas, el proyecto se tramita por una vía de urgencia diseñada para crisis energéticas. La comunidad local y expertos denuncian que se está priorizando el beneficio empresarial sobre la protección legal de especies en peligro.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! Se usa la 'vía de urgencia' por la guerra de Ucrania para tramitar una planta solar en Murcia que amenaza a la Avutarda y el Sisón 🦅🚫. El promotor ignora informes técnicos negativos. ¿Energía limpia o negocio opaco? #Transparencia #Jumilla",
+    "banderas_red_flags": [
+      "Tramitación mediante RDL 6/2022 (vía de urgencia por guerra)",
+      "Contradicción grave entre promotor e informes técnicos ambientales",
+      "Posible fragmentación de proyectos (Almendros I, II y Reventones)",
+      "Falta de respuesta a requerimientos de subsanación de consultas",
+      "Ubicación en zona de 'Lek' (reproducción) de especies en peligro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Energías Renovables de la Región de Murcia SA (Promotor)",
+        "Sector de infraestructuras energéticas industriales"
+      ],
+      "perdedores": [
+        "Biodiversidad local (Avutarda, Sisón, Ganga)",
+        "Asociación STIPA y Ecologistas en Acción",
+        "Ciudadanos de Jumilla (pérdida de suelo agrícola y valor paisajístico)"
+      ]
+    },
+    "banderas_rojas": [
+      "Tramitación mediante RDL 6/2022 (vía de urgencia por guerra)",
+      "Contradicción grave entre promotor e informes técnicos ambientales",
+      "Posible fragmentación de proyectos (Almendros I, II y Reventones)",
+      "Falta de respuesta a requerimientos de subsanación de consultas",
+      "Ubicación en zona de 'Lek' (reproducción) de especies en peligro"
+    ]
+  }
+}

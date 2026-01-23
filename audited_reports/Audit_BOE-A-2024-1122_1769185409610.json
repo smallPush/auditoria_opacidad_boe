@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2024-1122",
+  "timestamp": "2026-01-23T16:23:29.609Z",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El documento presenta una estructura de acceso al empleo público que favorece la consolidación de personal interno mediante el sistema de 'concurso' en 15 de las 18 plazas, lo cual limita la competencia real para ciudadanos externos. Se observa un retraso administrativo significativo: las bases se publicaron originalmente en diciembre de 2022, pero el anuncio en el BOE no llega hasta enero de 2024, tras una rectificación de errores en septiembre de 2023. Esta dilatación en los tiempos y el uso de procesos basados mayoritariamente en méritos y no en exámenes (oposición) para puestos de base como limpieza y auxiliares de enfermería, suelen actuar como mecanismos de blindaje para el personal interino ya presente en la administración local.",
+    "resumen_ciudadano": "El Organismo Autónomo de la Residencia Zallako Eguzki (Bizkaia) convoca 18 plazas de personal laboral fijo (limpiadoras, auxiliares, enfermería y administración). La mayoría de los puestos se otorgarán por méritos (concurso), lo que beneficia a quienes ya trabajan allí. El proceso ha tardado más de un año en llegar al BOE, dificultando el acceso a la información para personas ajenas al municipio.",
+    "resumen_tweet": "🔍 Auditoría BOE: Zalla ofrece 18 plazas en residencia, pero el 83% son por méritos (concurso), beneficiando a interinos actuales. Retraso de un año en la publicación oficial. ¿Igualdad real o proceso a medida? 🐢💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Predominio del sistema de concurso (méritos) sobre oposición",
+      "Brecha temporal de 13 meses entre bases y publicación en BOE",
+      "Rectificación de errores tardía",
+      "Posible proceso de estabilización encubierto bajo 'turno libre'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad acumulada",
+        "Administración local (estabilización de plantilla)",
+        "Sindicatos con presencia en la mesa de negociación"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Jóvenes profesionales del sector sanitario",
+        "Transparencia en el acceso al empleo público"
+      ]
+    },
+    "banderas_rojas": [
+      "Predominio del sistema de concurso (méritos) sobre oposición",
+      "Brecha temporal de 13 meses entre bases y publicación en BOE",
+      "Rectificación de errores tardía",
+      "Posible proceso de estabilización encubierto bajo 'turno libre'"
+    ]
+  }
+}

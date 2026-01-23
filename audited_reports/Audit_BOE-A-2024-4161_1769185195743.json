@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2024-4161",
+  "timestamp": "2026-01-23T16:19:55.741Z",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento detalla un proceso de nombramiento administrativo estándar para una sección territorial específica. Aunque cumple con la legalidad vigente (Estatuto Orgánico del Ministerio Fiscal), destaca que solo hubo una solicitante para el cargo. Esto sugiere una falta de competencia o de atractivo en las plazas de secciones territoriales rurales como Monforte de Lemos. No se detectan gastos fantasma directos, pero la opacidad reside en la ponderación de méritos, que se despacha con fórmulas genéricas sin detallar la trayectoria específica que justifica la idoneidad frente a la ausencia de otros candidatos.",
+    "resumen_ciudadano": "Elena Fernández Landeiro ha sido nombrada Fiscal Decana de Monforte de Lemos (Lugo). El puesto quedó vacante por concurso y ella fue la única persona de la plantilla de fiscales que solicitó la plaza. El Fiscal General del Estado ha ratificado el nombramiento basándose en su experiencia previa cubriendo ausencias en dicho cargo.",
+    "resumen_tweet": "⚖️ Elena Fernández Landeiro, nueva Fiscal Decana en Monforte de Lemos. Un proceso con candidata única: ¿falta de competencia o desinterés por la justicia rural? Transparencia formal, pero sin pluralidad de opciones. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Candidatura única (falta de concurrencia competitiva)",
+      "Motivación basada en fórmulas genéricas de idoneidad",
+      "Posible endogamia administrativa en secciones territoriales pequeñas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Fernández Landeiro (ascenso profesional)",
+        "Ministerio Fiscal (cobertura de vacante en zona periférica)"
+      ],
+      "perdedores": [
+        "Sociedad civil (por la ausencia de alternativas en la selección de cargos públicos)",
+        "Carrera Fiscal (posible falta de incentivos para la movilidad en zonas rurales)"
+      ]
+    },
+    "banderas_rojas": [
+      "Candidatura única (falta de concurrencia competitiva)",
+      "Motivación basada en fórmulas genéricas de idoneidad",
+      "Posible endogamia administrativa en secciones territoriales pequeñas"
+    ]
+  }
+}

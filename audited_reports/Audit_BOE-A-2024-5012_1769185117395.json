@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2024-5012",
+  "timestamp": "2026-01-23T16:18:37.394Z",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'estabilización' mediante sistema de concurso (solo méritos, sin examen), lo cual es una herramienta legal para reducir la temporalidad pero que, en la práctica, suele estar diseñada para que las plazas sean obtenidas por quienes ya las ocupan de forma interina. Aunque cumple la legalidad, este sistema levanta sospechas sobre la igualdad de oportunidades real para ciudadanos externos sin experiencia previa en esa administración específica. No se detallan los baremos de puntuación en este extracto, remitiendo a boletines provinciales, lo que fragmenta la información y dificulta la fiscalización ciudadana inmediata.",
+    "resumen_ciudadano": "El Ayuntamiento de Los Llanos de Aridane convoca tres plazas (Dirección de Escuela Infantil, Trabajo Social y Agente de Desarrollo Local) bajo un proceso de estabilización. Esto significa que se busca convertir empleos temporales en fijos, utilizando principalmente la experiencia previa como criterio de selección.",
+    "resumen_tweet": "🚨 Los Llanos de Aridane convoca plazas de Director/a, Trabajador/a Social y AEDL vía 'estabilización'. Al ser por concurso (méritos), se facilita que los actuales interinos se queden la plaza. ¿Puerta cerrada al talento externo? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso-méritos sin fase de oposición/examen",
+      "Falta de desglose presupuestario asociado a las nuevas plazas fijas",
+      "Remisión a múltiples boletines (BOP, BOC, BOE) para dificultar el seguimiento",
+      "Uso del proceso de estabilización como barrera de entrada para nuevos aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual (consolidación de puesto)",
+        "Administración Local (cumplimiento de cuotas de reducción de temporalidad)"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en la administración pública",
+        "Jóvenes graduados que compiten contra décadas de antigüedad acumulada"
+      ]
+    },
+    "banderas_rojas": [
+      "Sistema de selección por concurso-méritos sin fase de oposición/examen",
+      "Falta de desglose presupuestario asociado a las nuevas plazas fijas",
+      "Remisión a múltiples boletines (BOP, BOC, BOE) para dificultar el seguimiento",
+      "Uso del proceso de estabilización como barrera de entrada para nuevos aspirantes"
+    ]
+  }
+}

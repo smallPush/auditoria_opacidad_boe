@@ -266,41 +266,6 @@ const App: React.FC = () => {
               <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
               {t.loginBtn}
             </button>
-
-            <div className="relative py-2">
-              <div className="absolute inset-0 flex items-center" aria-hidden="true">
-                <div className="w-full border-t border-slate-800"></div>
-              </div>
-              <div className="relative flex justify-center text-xs uppercase">
-                <span className="bg-[#0f172a] px-2 text-slate-500 font-bold tracking-widest leading-none">o</span>
-              </div>
-            </div>
-
-            <label className="w-full bg-slate-800/50 hover:bg-slate-800 text-slate-300 py-3 rounded-2xl font-bold text-sm border border-slate-700 transition-all active:scale-[0.98] flex items-center justify-center gap-2 cursor-pointer group">
-              <FileJson size={18} className="text-purple-400 group-hover:scale-110 transition-transform" />
-              {t.importJson}
-              <input
-                type="file"
-                accept=".json"
-                onChange={async (e) => {
-                  const file = e.target.files?.[0];
-                  if (!file) return;
-                  const reader = new FileReader();
-                  reader.onload = async (event) => {
-                    try {
-                      const json = JSON.parse(event.target?.result as string);
-                      await handleImportData(json);
-                      setIsLoggedIn(true);
-                      localStorage.setItem('boe_agent_session', 'active');
-                    } catch (err) {
-                      alert(t.importError);
-                    }
-                  };
-                  reader.readAsText(file);
-                }}
-                className="hidden"
-              />
-            </label>
           </div>
 
           <div className="flex justify-center gap-4 pt-4">

@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2024-1055",
+  "timestamp": "2026-01-23T16:22:58.894Z",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "El documento oficializa el cese de un puesto clave en la lucha contra el narcotráfico en Canarias. Aunque el procedimiento sigue el Reglamento del Ministerio Fiscal, la utilizacion de 'motivos personales' como justificación genera un vacío informativo sobre el estado de la Fiscalía Antidroga en una zona de alta presión. La firma por sustitución (P.S.) de la Teniente Fiscal Sánchez Conde, en lugar del Fiscal General, sugiere una delegación administrativa recurrente que diluye la responsabilidad directa en nombramientos de alta sensibilidad.",
+    "resumen_ciudadano": "El Fiscal Delegado Antidroga de Las Palmas, Antonio Amor López, deja su cargo voluntariamente por motivos personales. Se trata de un trámite administrativo que pone fin a su etapa liderando la persecución del narcotráfico en la provincia sin que se especifique quién asumirá el mando.",
+    "resumen_tweet": "📉 Cese en la Fiscalía Antidroga de Las Palmas. Antonio Amor López deja el cargo por 'motivos personales'. ¿Desgaste o falta de recursos en la lucha contra el narco en Canarias? ⚖️ Un puesto clave que queda pendiente de relevo. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en los motivos reales de la renuncia en un área crítica",
+      "Firma por sustitución de la autoridad máxima",
+      "Publicación con un mes de retraso desde la propuesta de cese"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Amor López (por la aceptación de su renuncia)",
+        "Estructuras de narcotráfico (por la interrupción de la continuidad en el mando)"
+      ],
+      "perdedores": [
+        "Ciudadanía de Las Palmas (pérdida de un especialista en activo)",
+        "Transparencia institucional (por falta de detalle en la motivación)"
+      ]
+    },
+    "banderas_rojas": [
+      "Opacidad en los motivos reales de la renuncia en un área crítica",
+      "Firma por sustitución de la autoridad máxima",
+      "Publicación con un mes de retraso desde la propuesta de cese"
+    ]
+  }
+}

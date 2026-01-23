@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2024-9122",
+  "timestamp": "2026-01-23T16:22:26.373Z",
+  "report": {
+    "nivel_transparencia": 42,
+    "analisis_critico": "La resolución del Ayuntamiento de Albalat dels Sorells evidencia una gestión administrativa fragmentada y potencialmente excluyente. El uso del sistema de 'concurso' (en lugar de oposición libre) para proveer puestos de trabajo, sumado a una rectificación de bases publicada en el BOP de Valencia que obliga a reabrir plazos en el BOE, genera una 'burocracia de laberinto'. Este desfase temporal entre las bases originales (diciembre 2022) y la rectificación (abril 2024) sugiere una falta de planificación o una adaptación 'ad hoc' de los requisitos, lo que dificulta el acceso en igualdad de condiciones para quienes no sigan diariamente múltiples boletines oficiales.",
+    "resumen_ciudadano": "Se han modificado las reglas y reabierto el plazo para optar a puestos de trabajo en el Ayuntamiento de Albalat dels Sorells debido a una rectificación de las bases originales. El proceso se realiza por concurso, lo que valora méritos previos sobre exámenes.",
+    "resumen_tweet": "⚠️ ¡Ojo a la burocracia! Albalat dels Sorells rectifica bases de empleo de 2022 en pleno 2024. Un laberinto de boletines (BOP/BOE) que dificulta el acceso real al empleo público. ¿Transparencia o parcheo? 📑🧐 #BOE #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Dilación excesiva: bases de 2022 rectificadas en 2024",
+      "Fragmentación informativa entre BOP Valencia y BOE",
+      "Opacidad en la naturaleza de la 'rectificación' técnica",
+      "Uso de sistema de concurso que favorece la discrecionalidad técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos internos o interinos que conocen la operativa local",
+        "Gestores administrativos que dilatan procesos de selección"
+      ],
+      "perdedores": [
+        "Opositores externos sin red de vigilancia de boletines provinciales",
+        "Ciudadanía que costea la ineficiencia de un proceso que tarda 2 años en definirse"
+      ]
+    },
+    "banderas_rojas": [
+      "Dilación excesiva: bases de 2022 rectificadas en 2024",
+      "Fragmentación informativa entre BOP Valencia y BOE",
+      "Opacidad en la naturaleza de la 'rectificación' técnica",
+      "Uso de sistema de concurso que favorece la discrecionalidad técnica"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2024-7788",
+  "timestamp": "2026-01-23T16:20:25.652Z",
+  "report": {
+    "nivel_transparencia": 62,
+    "analisis_critico": "El documento es una resolucion administrativa estandar que aprueba la Carta de Servicios de la Subdelegacion del Gobierno en Pontevedra. Aunque se ampara en el Real Decreto 951/2005 para la mejora de la calidad, el texto analizado es puramente formal y omite el contenido real de los compromisos adquiridos, remitiendo al ciudadano a portales externos. Existe una delegacion de competencias (P.D.) que, si bien es legal, diluye la responsabilidad politica directa del titular del Ministerio. No se especifican partidas presupuestarias concretas para la implementacion o mantenimiento de estos compromisos de calidad, lo que podria ocultar costes operativos bajo la etiqueta de gestion ordinaria.",
+    "resumen_ciudadano": "La Subdelegacion del Gobierno en Pontevedra ha renovado su guia de servicios para los proximos tres años. Se supone que esto sirve para que sepas a que tienes derecho y como deben atenderte, pero el anuncio en el BOE no incluye la guia en si, solo dice que ya esta aprobada y que puedes buscarla en internet. Es un tramite obligatorio que no garantiza por si mismo una mejor atencion al ciudadano.",
+    "resumen_tweet": "🔍 ¿Papel mojado o mejora real? El #BOE publica la Carta de Servicios de Pontevedra 2024-2027, pero oculta el contenido real remitiendo a webs externas. Burocracia que se autoproclama 'de calidad'. 🏛️📉 #Opacidad #Transparencia #Pontevedra",
+    "banderas_red_flags": [
+      "Omision del contenido sustantivo en el cuerpo del BOE",
+      "Uso de delegacion de firma (P.D.) para evitar responsabilidad directa",
+      "Falta de desglose economico para la mejora de servicios",
+      "Vigencia temporal ya iniciada respecto a la fecha de publicacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos que cumplen hitos administrativos",
+        "Estructura burocratica del Ministerio de Politica Territorial"
+      ],
+      "perdedores": [
+        "Ciudadanos que requieren transparencia directa sin intermediarios digitales",
+        "Usuarios afectados por la brecha digital al remitirse la informacion a portales web"
+      ]
+    },
+    "banderas_rojas": [
+      "Omision del contenido sustantivo en el cuerpo del BOE",
+      "Uso de delegacion de firma (P.D.) para evitar responsabilidad directa",
+      "Falta de desglose economico para la mejora de servicios",
+      "Vigencia temporal ya iniciada respecto a la fecha de publicacion"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2024-2233",
+  "timestamp": "2026-01-23T16:23:58.897Z",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El proceso presenta una opacidad procedimental típica de las administraciones locales. Se convoca una plaza de Auxiliar mediante el sistema de 'concurso' en turno libre, lo que prescinde de examen y se basa únicamente en méritos. Existe un desfase temporal alarmante: las bases se publicaron en el Boletín Provincial en diciembre de 2022, pero el extracto no llega al BOE hasta febrero de 2024. Este retraso de 14 meses dificulta el acceso de candidatos externos y favorece a quienes ya conocen la convocatoria desde el ámbito local.",
+    "resumen_ciudadano": "El Ayuntamiento de Altafulla convoca una plaza de Auxiliar para la Oficina de Atención al Ciudadano. El método de selección es por concurso (méritos), no por examen. El plazo para apuntarse es de 20 días tras esta publicación.",
+    "resumen_tweet": "🧐 ¿Oportunidad o plaza con nombre? Altafulla convoca 1 plaza de Auxiliar vía concurso (sin examen). El aviso llega al #BOE con 14 meses de retraso respecto a las bases locales. ¡Ojo a los procesos a dedo! #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Sistema de concurso puro para plaza de auxiliar (sin examen)",
+      "Retraso de 14 meses en la publicación nacional",
+      "Alta probabilidad de proceso de estabilización encubierto para personal interino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que ya ocupa el puesto",
+        "Candidatos locales con méritos específicos acumulados"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Ciudadanos externos al municipio",
+        "Meritocracia basada en aptitudes examinables"
+      ]
+    },
+    "banderas_rojas": [
+      "Sistema de concurso puro para plaza de auxiliar (sin examen)",
+      "Retraso de 14 meses en la publicación nacional",
+      "Alta probabilidad de proceso de estabilización encubierto para personal interino"
+    ]
+  }
+}

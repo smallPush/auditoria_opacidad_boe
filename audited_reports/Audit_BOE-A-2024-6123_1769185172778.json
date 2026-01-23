@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2024-6123",
+  "timestamp": "2026-01-23T16:19:32.777Z",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de personal estatutario fijo. Aunque el proceso es transparente en cuanto a la identificación de la persona y el destino (Melilla), la opacidad reside en la gestión temporal: el proceso selectivo se inició en diciembre de 2022 y se resuelve en marzo de 2024. Esta demora de 15 meses para cubrir una plaza de anestesiología en una zona de difícil cobertura como Melilla refleja una ineficiencia burocrática que afecta directamente a la calidad asistencial.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de una especialista en Anestesiología y Reanimación para el Hospital Comarcal de Melilla. La plaza es de carácter fijo bajo el Instituto Nacional de Gestión Sanitaria (INGESA). Esto supone un refuerzo necesario para la sanidad en las ciudades autónomas, aunque el proceso administrativo ha tardado más de un año en materializarse desde la convocatoria original.",
+    "resumen_tweet": "🏥 Melilla suma una anestesista tras 15 meses de espera burocrática. El #BOE publica el nombramiento del INGESA. Refuerzo vital para la sanidad periférica, pero ¿por qué procesos tan lentos para plazas críticas? ⏳ #Transparencia #Sanidad #Melilla #Opacidad",
+    "banderas_red_flags": [
+      "Lentitud administrativa extrema (15 meses desde la convocatoria hasta el nombramiento)",
+      "Gestión centralizada desde Madrid para necesidades locales críticas en Melilla",
+      "Falta de desglose sobre el coste presupuestario total de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Débora Beatriz Cuello Caruso (obtiene plaza fija)",
+        "Sistema sanitario de Melilla (recupera un especialista)"
+      ],
+      "perdedores": [
+        "Pacientes en lista de espera (perjudicados por la demora administrativa de más de un año)",
+        "Eficiencia del gasto público en procesos de selección lentos"
+      ]
+    },
+    "banderas_rojas": [
+      "Lentitud administrativa extrema (15 meses desde la convocatoria hasta el nombramiento)",
+      "Gestión centralizada desde Madrid para necesidades locales críticas en Melilla",
+      "Falta de desglose sobre el coste presupuestario total de la plaza"
+    ]
+  }
+}
