@@ -18,7 +18,7 @@ const App: React.FC = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
     return localStorage.getItem('boe_agent_session') === 'active';
   });
-
+  const [showLogin, setShowLogin] = useState(false);
   const [password, setPassword] = useState('');
   const [loginError, setLoginError] = useState(false);
   const [searchId, setSearchId] = useState('');
@@ -46,11 +46,9 @@ const App: React.FC = () => {
   }, [lang]);
 
   useEffect(() => {
-    if (isLoggedIn) {
-      loadHistory();
-      fetchLatestBOE();
-    }
-  }, [isLoggedIn]);
+    loadHistory();
+    fetchLatestBOE();
+  }, []);
 
   const fetchLatestBOE = async () => {
     setIsFetchingLatest(true);
@@ -104,6 +102,7 @@ const App: React.FC = () => {
         setIsLoggedIn(true);
         localStorage.setItem('boe_agent_session', 'active');
         setLoginError(false);
+        setShowLogin(false);
       } else {
         setLoginError(true);
         setTimeout(() => setLoginError(false), 3000);
@@ -112,6 +111,7 @@ const App: React.FC = () => {
       // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
       setIsLoggedIn(true);
       localStorage.setItem('boe_agent_session', 'active');
+      setShowLogin(false);
     }
   };
 
@@ -149,7 +149,14 @@ const App: React.FC = () => {
     const cached = history.find(item => item.boeId === boeId);
     if (cached) {
       setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit, thumbnailUrl: undefined, videoUrl: undefined }));
-      handleGenerateThumbnail(cached.audit);
+      if (isLoggedIn) {
+        handleGenerateThumbnail(cached.audit);
+      }
+      return;
+    }
+
+    if (!isLoggedIn) {
+      setShowLogin(true);
       return;
     }
 
@@ -217,71 +224,65 @@ const App: React.FC = () => {
   const handleSelectHistory = (item: AuditHistoryItem) => {
     setSearchId(item.boeId);
     setState(prev => ({ ...prev, result: item.audit, loading: false, error: null, thumbnailUrl: undefined, videoUrl: undefined }));
-    handleGenerateThumbnail(item.audit);
+    // No necesitamos login para ver auditorías ya hechas
+    if (isLoggedIn) {
+      handleGenerateThumbnail(item.audit);
+    }
   };
 
   const isAlreadyAudited = (id: string) => history.some(h => h.boeId === id);
 
-  if (!isLoggedIn) {
-    return (
-      <div className="min-h-screen flex flex-col items-center justify-center p-6 bg-slate-950 relative overflow-hidden">
-        {/* Background Accents */}
-        <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-blue-600/10 blur-[120px] rounded-full"></div>
-        <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-purple-600/10 blur-[120px] rounded-full"></div>
+  const LoginOverlay = () => (
+    <div className="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-300">
+      <div className="w-full max-w-md bg-slate-900 border border-slate-800 p-8 md:p-12 rounded-[2.5rem] shadow-2xl text-center space-y-8 relative animate-in zoom-in duration-300">
+        <button
+          onClick={() => setShowLogin(false)}
+          className="absolute top-6 right-6 text-slate-500 hover:text-white transition-colors"
+        >
+          <ArrowLeft size={24} />
+        </button>
 
-        <div className="w-full max-w-md bg-slate-900/50 backdrop-blur-xl border border-slate-800 p-8 md:p-12 rounded-[2.5rem] shadow-2xl text-center space-y-8 relative z-10 animate-in fade-in zoom-in duration-500">
-          <div className="inline-flex items-center justify-center w-24 h-24 bg-blue-600/10 rounded-3xl border border-blue-600/20 text-blue-500 mb-2 rotate-3 hover:rotate-0 transition-transform duration-300">
-            <Lock size={48} />
-          </div>
+        <div className="inline-flex items-center justify-center w-20 h-20 bg-blue-600/10 rounded-3xl border border-blue-600/20 text-blue-500 mb-2 rotate-3">
+          <Lock size={40} />
+        </div>
 
-          <div className="space-y-3">
-            <h1 className="text-4xl font-black tracking-tight text-white">{t.loginTitle}</h1>
-            <p className="text-slate-400 text-sm">{t.loginSubtitle}</p>
-          </div>
+        <div className="space-y-3">
+          <h2 className="text-3xl font-black text-white">{t.loginTitle}</h2>
+          <p className="text-slate-400 text-sm">{t.loginSubtitle}</p>
+        </div>
 
-          <div className="space-y-4">
-            {requiredPassword && (
-              <div className="relative group">
-                <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
-                  <KeyRound size={18} />
-                </div>
-                <input
-                  type="password"
-                  placeholder={t.passwordPlaceholder}
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
-                  className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
-                />
-                {loginError && (
-                  <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
-                )}
+        <div className="space-y-4">
+          {requiredPassword && (
+            <div className="relative group">
+              <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
+                <KeyRound size={18} />
               </div>
-            )}
-
-            <button
-              onClick={handleLogin}
-              className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
-            >
-              <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
-              {t.loginBtn}
-            </button>
-          </div>
-
-          <div className="flex justify-center gap-4 pt-4">
-            <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
-              <div className={`w-2 h-2 rounded-full ${process.env.API_KEY ? 'bg-emerald-500 shadow-[0_0_8px_rgba(16,185,129,0.5)]' : 'bg-red-500'}`}></div>
-              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Gemini API</span>
+              <input
+                type="password"
+                placeholder={t.passwordPlaceholder}
+                value={password}
+                onChange={(e) => setPassword(e.target.value)}
+                onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
+                className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
+                autoFocus
+              />
+              {loginError && (
+                <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
+              )}
             </div>
-            <div className="flex items-center gap-1.5 bg-slate-800/50 px-3 py-1.5 rounded-full border border-slate-700/50">
-              <div className={`w-2 h-2 rounded-full ${requiredPassword ? 'bg-amber-500 shadow-[0_0_8px_rgba(245,158,11,0.5)]' : 'bg-slate-600'}`}></div>
-              <span className="text-[10px] font-bold text-slate-400 uppercase tracking-tighter">Secure Link</span>
-            </div>
-          </div>
+          )}
+
+          <button
+            onClick={handleLogin}
+            className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
+          >
+            <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
+            {t.loginBtn}
+          </button>
         </div>
       </div>
-    );
-  }
+    </div>
+  );
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 md:py-16">
@@ -290,10 +291,17 @@ const App: React.FC = () => {
           <Globe size={16} className="text-blue-400" />
           {lang.toUpperCase()}
         </button>
-        <button onClick={handleLogout} className="bg-red-900/20 border border-red-900/30 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-red-900/40 transition-all text-sm font-bold text-red-400">
-          <LogOut size={16} />
-          {t.logoutBtn}
-        </button>
+        {isLoggedIn ? (
+          <button onClick={handleLogout} className="bg-red-900/20 border border-red-900/30 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-red-900/40 transition-all text-sm font-bold text-red-400">
+            <LogOut size={16} />
+            {t.logoutBtn}
+          </button>
+        ) : (
+          <button onClick={() => setShowLogin(true)} className="bg-blue-600 hover:bg-blue-500 px-4 py-2 rounded-full flex items-center gap-2 transition-all text-sm font-bold text-white shadow-lg shadow-blue-900/20">
+            <ShieldCheck size={16} />
+            {t.loginTitle}
+          </button>
+        )}
       </div>
 
       <header className="mb-12 text-center">
@@ -364,7 +372,7 @@ const App: React.FC = () => {
                           className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
                         >
                           <Zap size={10} />
-                          {audited ? t.back : t.auditWithGemini}
+                          {audited ? t.goToAudit : t.auditWithGemini}
                         </button>
                       </div>
                     </div>
@@ -423,6 +431,7 @@ const App: React.FC = () => {
       <footer className="mt-24 pt-12 border-t border-slate-800 text-center text-slate-500 text-sm">
         <p>&copy; 2024 Civic Intelligence Auditor. {t.footerDesc}</p>
       </footer>
+      {showLogin && <LoginOverlay />}
     </div>
   );
 };
