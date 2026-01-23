@@ -10,9 +10,10 @@ interface Props {
   onClear: () => void;
   onImport: (data: any) => void;
   lang: Language;
+  isLoggedIn?: boolean;
 }
 
-const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImport, lang }) => {
+const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImport, lang, isLoggedIn }) => {
   const t = translations[lang];
 
   const handleExportAll = () => {
@@ -61,36 +62,39 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
 
   return (
     <div className="flex flex-col h-full">
-      <div className="grid grid-cols-2 gap-2 mb-4">
-        <button
-          onClick={handleExportIndex}
-          disabled={history.length === 0}
-          className="bg-emerald-600/10 hover:bg-emerald-600 disabled:opacity-30 text-emerald-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-emerald-600/20 flex items-center justify-center gap-1.5"
-        >
-          <Download size={10} />
-          {t.exportHistoryJson}
-        </button>
-        <button
-          onClick={handleExportAll}
-          disabled={history.length === 0}
-          className="bg-blue-600/10 hover:bg-blue-600 disabled:opacity-30 text-blue-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-blue-600/20 flex items-center justify-center gap-1.5"
-        >
-          <FileJson size={10} />
-          {t.exportAllJson}
-        </button>
-        <label className="cursor-pointer bg-purple-600/10 hover:bg-purple-600 text-purple-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-purple-600/20 flex items-center justify-center gap-1.5">
-          <Upload size={10} />
-          {t.importJson}
-          <input type="file" accept=".json" onChange={handleImport} className="hidden" />
-        </label>
-        <button
-          onClick={onClear}
-          disabled={history.length === 0}
-          className="bg-slate-800 hover:bg-red-900/40 disabled:opacity-30 text-slate-500 hover:text-red-400 px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-slate-700"
-        >
-          {t.clearHistory}
-        </button>
-      </div>
+      {isLoggedIn && (
+        <div className="grid grid-cols-2 gap-2 mb-4">
+          <button
+            onClick={handleExportIndex}
+            disabled={history.length === 0}
+            className="bg-emerald-600/10 hover:bg-emerald-600 disabled:opacity-30 text-emerald-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-emerald-600/20 flex items-center justify-center gap-1.5"
+          >
+            <Download size={10} />
+            {t.exportHistoryJson}
+          </button>
+          <button
+            onClick={handleExportAll}
+            disabled={history.length === 0}
+            className="bg-blue-600/10 hover:bg-blue-600 disabled:opacity-30 text-blue-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-blue-600/20 flex items-center justify-center gap-1.5"
+          >
+            <FileJson size={10} />
+            {t.exportAllJson}
+          </button>
+          <label className="cursor-pointer bg-purple-600/10 hover:bg-purple-600 text-purple-400 hover:text-white px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-purple-600/20 flex items-center justify-center gap-1.5">
+            <Upload size={10} />
+            {t.importJson}
+            <input type="file" accept=".json" onChange={handleImport} className="hidden" />
+          </label>
+          <button
+            onClick={onClear}
+            disabled={history.length === 0}
+            className="bg-slate-800 hover:bg-red-900/40 disabled:opacity-30 text-slate-500 hover:text-red-400 px-2 py-2 rounded-xl text-[9px] font-bold transition-all border border-slate-700"
+          >
+            {t.clearHistory}
+          </button>
+        </div>
+      )}
+
 
       <div className="space-y-3 overflow-y-auto pr-2 custom-scrollbar flex-1">
         {history.length === 0 && (

@@ -325,6 +325,7 @@ const App: React.FC = () => {
             videoUrl={state.videoUrl}
             isGeneratingVideo={state.isGeneratingVideo}
             onGenerateVideo={() => state.result && handleGenerateVideo(state.result)}
+            isLoggedIn={isLoggedIn}
           />
         </div>
       ) : state.loading || state.isScraping ? (
@@ -405,6 +406,7 @@ const App: React.FC = () => {
                     onClear={handleClearHistory}
                     onImport={handleImportData}
                     lang={lang}
+                    isLoggedIn={isLoggedIn}
                   />
                 )}
               </div>

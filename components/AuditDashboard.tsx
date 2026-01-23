@@ -15,6 +15,7 @@ interface Props {
   videoUrl?: string;
   isGeneratingVideo?: boolean;
   onGenerateVideo: () => void;
+  isLoggedIn?: boolean;
 }
 
 const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> & { lang: Language }) => {
@@ -22,7 +23,7 @@ const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> &
     const t = translations[lang];
     const data = payload[0];
     const isTransparency = data.name === t.transparencyLevel;
-    
+
     return (
       <div className="bg-slate-950 border border-slate-800 p-3 rounded-xl shadow-2xl max-w-[200px]">
         <p className="text-sm font-bold mb-1" style={{ color: data.fill }}>
@@ -37,16 +38,17 @@ const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> &
   return null;
 };
 
-const AuditDashboard: React.FC<Props> = ({ 
-  data, 
-  boeId, 
-  lang, 
-  thumbnailUrl, 
-  isGeneratingThumbnail, 
+const AuditDashboard: React.FC<Props> = ({
+  data,
+  boeId,
+  lang,
+  thumbnailUrl,
+  isGeneratingThumbnail,
   onGenerateThumbnail,
   videoUrl,
   isGeneratingVideo,
-  onGenerateVideo
+  onGenerateVideo,
+  isLoggedIn
 }) => {
   const t = translations[lang];
   const [copiedTweet, setCopiedTweet] = useState(false);
@@ -146,9 +148,9 @@ const AuditDashboard: React.FC<Props> = ({
               {t.citizenSummary}
             </h3>
             <div className="flex gap-2">
-              <a 
-                href={boeUrl} 
-                target="_blank" 
+              <a
+                href={boeUrl}
+                target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-slate-800 hover:bg-slate-700 px-4 py-2 rounded-lg text-sm font-bold transition-all border border-slate-700 hover:border-blue-500/50"
               >
@@ -161,8 +163,8 @@ const AuditDashboard: React.FC<Props> = ({
             {data.resumen_ciudadano}
           </div>
           <div className="mt-6 flex flex-wrap gap-2">
-             <span className="bg-slate-800 px-3 py-1 rounded-full text-xs text-slate-400 font-mono">ID: {boeId}</span>
-             <span className="bg-emerald-950/40 text-emerald-400 px-3 py-1 rounded-full text-xs border border-emerald-900/50">Gemini 3 Flash</span>
+            <span className="bg-slate-800 px-3 py-1 rounded-full text-xs text-slate-400 font-mono">ID: {boeId}</span>
+            <span className="bg-emerald-950/40 text-emerald-400 px-3 py-1 rounded-full text-xs border border-emerald-900/50">Gemini 3 Flash</span>
           </div>
         </div>
       </div>
@@ -185,8 +187,8 @@ const AuditDashboard: React.FC<Props> = ({
 
         <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl lg:col-span-1">
           <h3 className="text-xl font-bold flex items-center gap-2 mb-6">
-             <TrendingUp className="text-purple-400" />
-             {t.impactBalance}
+            <TrendingUp className="text-purple-400" />
+            {t.impactBalance}
           </h3>
           <div className="space-y-6">
             <div>
@@ -263,7 +265,7 @@ const AuditDashboard: React.FC<Props> = ({
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        <div className="lg:col-span-2 bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl">
+        <div className={`${isLoggedIn ? 'lg:col-span-2' : 'lg:col-span-3'} bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl`}>
           <h3 className="text-2xl font-bold mb-6 border-b border-slate-800 pb-4 flex items-center gap-3">
             <TrendingDown className="text-amber-400" />
             {t.criticalAnalysis}
@@ -273,31 +275,33 @@ const AuditDashboard: React.FC<Props> = ({
           </p>
         </div>
 
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl flex flex-col">
-          <h3 className="text-xl font-bold mb-4 flex items-center gap-2 text-emerald-400">
-            <FileJson size={20} />
-            {t.jsonExportTitle}
-          </h3>
-          <div className="bg-slate-950 rounded-xl border border-slate-800 p-4 font-mono text-[10px] overflow-auto max-h-[300px] custom-scrollbar text-emerald-500/80 mb-4 flex-1">
-            <pre>{JSON.stringify(data, null, 2)}</pre>
+        {isLoggedIn && (
+          <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl flex flex-col">
+            <h3 className="text-xl font-bold mb-4 flex items-center gap-2 text-emerald-400">
+              <FileJson size={20} />
+              {t.jsonExportTitle}
+            </h3>
+            <div className="bg-slate-950 rounded-xl border border-slate-800 p-4 font-mono text-[10px] overflow-auto max-h-[300px] custom-scrollbar text-emerald-500/80 mb-4 flex-1">
+              <pre>{JSON.stringify(data, null, 2)}</pre>
+            </div>
+            <div className="flex gap-2">
+              <button
+                onClick={handleCopyJson}
+                className="flex-1 flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white py-3 rounded-xl font-bold text-xs transition-all"
+              >
+                {copiedJson ? <Check size={14} className="text-emerald-500" /> : <Copy size={14} />}
+                {t.copyJson}
+              </button>
+              <button
+                onClick={handleDownloadJson}
+                className="flex-1 flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white py-3 rounded-xl font-bold text-xs transition-all"
+              >
+                <Download size={14} />
+                {t.downloadJson}
+              </button>
+            </div>
           </div>
-          <div className="flex gap-2">
-            <button 
-              onClick={handleCopyJson} 
-              className="flex-1 flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white py-3 rounded-xl font-bold text-xs transition-all"
-            >
-              {copiedJson ? <Check size={14} className="text-emerald-500" /> : <Copy size={14} />}
-              {t.copyJson}
-            </button>
-            <button 
-              onClick={handleDownloadJson} 
-              className="flex-1 flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-500 text-white py-3 rounded-xl font-bold text-xs transition-all"
-            >
-              <Download size={14} />
-              {t.downloadJson}
-            </button>
-          </div>
-        </div>
+        )}
       </div>
 
       <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl max-w-2xl">
