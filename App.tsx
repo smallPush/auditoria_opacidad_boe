@@ -25,6 +25,7 @@ const App: React.FC = () => {
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
+  const [view, setView] = useState<'home' | 'history'>('home');
 
   const [state, setState] = useState<AnalysisState>({
     loading: false,
@@ -286,6 +287,23 @@ const App: React.FC = () => {
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 md:py-16">
+      <nav className="fixed top-6 left-1/2 -translate-x-1/2 z-[60] flex items-center gap-2 bg-slate-900/60 backdrop-blur-xl border border-slate-800 p-1.5 rounded-2xl shadow-2xl">
+        <button
+          onClick={() => { setView('home'); resetState(); }}
+          className={`px-6 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-2 ${view === 'home' && !state.result ? 'bg-blue-600 text-white shadow-lg shadow-blue-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
+        >
+          <Zap size={16} />
+          {t.home}
+        </button>
+        <button
+          onClick={() => { setView('history'); resetState(); }}
+          className={`px-6 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-2 ${view === 'history' && !state.result ? 'bg-purple-600 text-white shadow-lg shadow-purple-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
+        >
+          <History size={16} />
+          {t.historyMenu}
+        </button>
+      </nav>
+
       <div className="fixed top-6 right-6 z-[60] flex items-center gap-3">
         <button onClick={toggleLang} className="bg-slate-900/80 backdrop-blur border border-slate-700 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-slate-800 transition-all text-sm font-bold text-slate-200">
           <Globe size={16} className="text-blue-400" />
@@ -336,7 +354,7 @@ const App: React.FC = () => {
             <p className="text-slate-400 max-w-md mx-auto">{t.processingGemini}</p>
           </div>
         </div>
-      ) : (
+      ) : view === 'home' ? (
         <div className="space-y-16 animate-in fade-in duration-500">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             <section className="space-y-6">
@@ -382,43 +400,70 @@ const App: React.FC = () => {
               </div>
             </section>
 
-            <section className="space-y-6">
-              <div className="flex items-center justify-between border-b border-slate-800 pb-4">
-                <div>
-                  <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
-                    <History className="text-purple-500" size={24} />
-                    {t.historyTitle}
-                  </h2>
-                  <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.historySubtitle}</p>
-                </div>
-              </div>
-
-              <div className="bg-slate-900/20 border border-slate-800 rounded-3xl p-4 min-h-[400px]">
-                {history.length === 0 ? (
-                  <div className="flex flex-col items-center justify-center py-24 text-slate-600 opacity-40 italic text-sm">
-                    <Database size={48} className="mb-4" />
-                    No hay auditorías procesadas aún
+            <section className="space-y-8 flex flex-col">
+              <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex-1 flex flex-col justify-center gap-8">
+                <div className="text-center space-y-4">
+                  <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                    <Search size={32} />
                   </div>
-                ) : (
-                  <HistoryDashboard
-                    history={history}
-                    onSelect={handleSelectHistory}
-                    onClear={handleClearHistory}
-                    onImport={handleImportData}
-                    lang={lang}
-                    isLoggedIn={isLoggedIn}
-                  />
-                )}
-              </div>
+                  <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
+                  <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
+                </div>
 
-              <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-6 rounded-3xl shadow-2xl mt-8">
-                <h3 className="text-xs font-bold text-slate-500 uppercase mb-4 tracking-widest flex items-center gap-2"><Search size={14} /> Búsqueda por ID</h3>
-                <div className="flex gap-2">
-                  <input type="text" placeholder={t.searchPlaceholder} className="flex-1 bg-slate-950 border border-slate-800 rounded-xl py-3 px-4 outline-none text-white text-sm" value={searchId} onChange={(e) => setSearchId(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)} />
-                  <button onClick={() => handleAudit(searchId)} disabled={!searchId} className="bg-slate-800 hover:bg-slate-700 disabled:bg-slate-900 px-6 rounded-xl font-bold text-sm transition-all">{t.analyzeBtn}</button>
+                <div className="flex flex-col gap-3">
+                  <input
+                    type="text"
+                    placeholder={t.searchPlaceholder}
+                    className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
+                    value={searchId}
+                    onChange={(e) => setSearchId(e.target.value)}
+                    onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
+                  />
+                  <button
+                    onClick={() => handleAudit(searchId)}
+                    disabled={!searchId}
+                    className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
+                  >
+                    {t.analyzeBtn}
+                  </button>
                 </div>
               </div>
             </section>
+          </div>
+        </div>
+      ) : (
+        <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
+          <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
+            <div>
+              <h2 className="text-3xl font-black flex items-center gap-3 text-white">
+                <History className="text-purple-500" size={32} />
+                {t.historyTitle}
+              </h2>
+              <p className="text-slate-500 text-sm font-medium uppercase tracking-widest mt-1">{t.historySubtitle}</p>
+            </div>
+            {history.length > 0 && (
+              <span className="bg-purple-950/40 text-purple-400 px-4 py-1.5 rounded-full text-xs font-bold border border-purple-900/50">
+                {history.length} Auditorías
+              </span>
+            )}
+          </div>
+
+          <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
+            {history.length === 0 ? (
+              <div className="flex flex-col items-center justify-center py-32 text-slate-600 opacity-40 italic text-sm">
+                <Database size={64} className="mb-6" />
+                No hay auditorías procesadas aún
+              </div>
+            ) : (
+              <HistoryDashboard
+                history={history}
+                onSelect={handleSelectHistory}
+                onClear={handleClearHistory}
+                onImport={handleImportData}
+                lang={lang}
+                isLoggedIn={isLoggedIn}
+              />
+            )}
           </div>
         </div>
       )}

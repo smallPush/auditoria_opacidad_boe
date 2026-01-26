@@ -21,7 +21,8 @@ interface Props {
 const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> & { lang: Language }) => {
   if (active && payload && payload.length) {
     const t = translations[lang];
-    const data = payload[0];
+    const data = payload && Array.isArray(payload) && payload.length > 0 ? payload[0] : null;
+    if (!data) return null;
     const isTransparency = data.name === t.transparencyLevel;
 
     return (

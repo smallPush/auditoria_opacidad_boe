@@ -70,7 +70,12 @@ export const translations = {
     transparencyVeryBad: "Muy Mala",
     transparencyBad: "Mala",
     transparencyAcceptable: "Aceptable",
-    apiKeyError: "La API Key de Gemini no es válida o falta. Por favor, revisa tu archivo .env (GEMINI_API_KEY)."
+    apiKeyError: "La API Key de Gemini no es válida o falta. Por favor, revisa tu archivo .env (GEMINI_API_KEY).",
+    home: "Inicio",
+    historyMenu: "Histórico",
+    filters: "Filtros",
+    minTransparency: "Transparencia Mínima",
+    allTags: "Todos los Tags"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -140,6 +145,11 @@ export const translations = {
     transparencyVeryBad: "Very Bad",
     transparencyBad: "Bad",
     transparencyAcceptable: "Acceptable",
-    apiKeyError: "The Gemini API Key is missing or invalid. Please check your .env file (GEMINI_API_KEY)."
+    apiKeyError: "The Gemini API Key is missing or invalid. Please check your .env file (GEMINI_API_KEY).",
+    home: "Home",
+    historyMenu: "History",
+    filters: "Filters",
+    minTransparency: "Min Transparency",
+    allTags: "All Tags"
   }
 };
