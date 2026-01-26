@@ -16,6 +16,8 @@ export interface BOEAuditResponse {
     ganadores: string[];
     perdedores: string[];
   };
+  comunidad_autonoma?: string;
+  tipologia?: string;
 }
 
 export interface ScrapedLaw {

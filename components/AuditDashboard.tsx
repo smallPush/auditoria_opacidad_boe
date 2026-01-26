@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, TooltipProps } from 'recharts';
 import { BOEAuditResponse } from '../types';
-import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Image as ImageIcon, Zap, Download, Loader2, Twitter, Copy, Check, Video, Play, FileJson, Terminal } from 'lucide-react';
+import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Image as ImageIcon, Zap, Download, Loader2, Twitter, Copy, Check, Video, Play, FileJson, Terminal, MapPin, Tag } from 'lucide-react';
 import { translations, Language } from '../translations';
 
 interface Props {
@@ -113,7 +113,7 @@ const AuditDashboard: React.FC<Props> = ({
               <CheckCircle className="text-emerald-400" />
               {t.transparencyLevel}
             </h3>
-            <span className={`text-4xl font-black ${data.nivel_transparencia > 70 ? 'text-emerald-400' : 'text-amber-400'}`}>
+            <span className={`text-4xl font-black ${data.nivel_transparencia <= 33 ? 'text-red-400' : data.nivel_transparencia < 70 ? 'text-amber-400' : 'text-emerald-400'}`}>
               {data.nivel_transparencia}%
             </span>
           </div>
@@ -165,6 +165,37 @@ const AuditDashboard: React.FC<Props> = ({
           <div className="mt-6 flex flex-wrap gap-2">
             <span className="bg-slate-800 px-3 py-1 rounded-full text-xs text-slate-400 font-mono">ID: {boeId}</span>
             <span className="bg-emerald-950/40 text-emerald-400 px-3 py-1 rounded-full text-xs border border-emerald-900/50">Gemini 3 Flash</span>
+            {data.comunidad_autonoma && (
+              <span className="bg-blue-950/40 text-blue-400 px-3 py-1 rounded-full text-xs border border-blue-900/50 flex items-center gap-1">
+                <MapPin size={10} />
+                {data.comunidad_autonoma}
+              </span>
+            )}
+            {data.tipologia && (
+              <span className="bg-purple-950/40 text-purple-400 px-3 py-1 rounded-full text-xs border border-purple-900/50 flex items-center gap-1">
+                <Tag size={10} />
+                {data.tipologia}
+              </span>
+            )}
+            {(() => {
+              const val = data.nivel_transparencia;
+              let label = t.transparencyAcceptable;
+              let style = "bg-emerald-950/40 text-emerald-400 border-emerald-900/50";
+
+              if (val <= 33) {
+                label = t.transparencyVeryBad;
+                style = "bg-red-950/40 text-red-400 border-red-900/50";
+              } else if (val < 70) {
+                label = t.transparencyBad;
+                style = "bg-amber-950/40 text-amber-400 border-amber-900/50";
+              }
+
+              return (
+                <span className={`${style} px-3 py-1 rounded-full text-xs border flex items-center gap-1`}>
+                  {label}
+                </span>
+              );
+            })()}
           </div>
         </div>
       </div>

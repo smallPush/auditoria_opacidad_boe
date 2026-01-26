@@ -76,7 +76,14 @@ export const translations = {
     importSuccess: "JSON importado correctamente",
     importError: "Error al importar el archivo JSON",
     passwordPlaceholder: "Contraseña de Agente...",
-    invalidPassword: "Credenciales de acceso no válidas."
+    invalidPassword: "Credenciales de acceso no válidas.",
+    region: "Comunidad Autónoma",
+    typology: "Tipología",
+    transparencyRating: "Calificación de Transparencia",
+    transparencyVeryBad: "Muy Mala",
+    transparencyBad: "Mala",
+    transparencyAcceptable: "Aceptable",
+    apiKeyError: "La API Key de Gemini no es válida o falta. Por favor, revisa tu archivo .env (GEMINI_API_KEY)."
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -152,6 +159,13 @@ export const translations = {
     importSuccess: "JSON imported successfully",
     importError: "Error importing JSON file",
     passwordPlaceholder: "Agent Password...",
-    invalidPassword: "Invalid access credentials."
+    invalidPassword: "Invalid access credentials.",
+    region: "Autonomous Community",
+    typology: "Typology",
+    transparencyRating: "Transparency Rating",
+    transparencyVeryBad: "Very Bad",
+    transparencyBad: "Bad",
+    transparencyAcceptable: "Acceptable",
+    apiKeyError: "The Gemini API Key is missing or invalid. Please check your .env file (GEMINI_API_KEY)."
   }
 };

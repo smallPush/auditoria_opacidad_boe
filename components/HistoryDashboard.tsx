@@ -133,7 +133,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
 
               <div className="w-full bg-slate-900 h-1 rounded-full overflow-hidden mb-2">
                 <div
-                  className={`h-full transition-all duration-1000 ${item.audit.nivel_transparencia > 70 ? 'bg-emerald-500' : item.audit.nivel_transparencia > 40 ? 'bg-amber-500' : 'bg-red-500'}`}
+                  className={`h-full transition-all duration-1000 ${item.audit.nivel_transparencia >= 70 ? 'bg-emerald-500' : item.audit.nivel_transparencia > 33 ? 'bg-amber-500' : 'bg-red-500'}`}
                   style={{ width: `${item.audit.nivel_transparencia}%` }}
                 />
               </div>
