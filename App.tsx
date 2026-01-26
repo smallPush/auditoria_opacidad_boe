@@ -286,8 +286,8 @@ const App: React.FC = () => {
   );
 
   return (
-    <div className="max-w-7xl mx-auto px-4 py-8 md:py-16">
-      <nav className="fixed top-6 left-1/2 -translate-x-1/2 z-[60] flex items-center gap-2 bg-slate-900/60 backdrop-blur-xl border border-slate-800 p-1.5 rounded-2xl shadow-2xl">
+    <div className="max-w-7xl mx-auto px-4 pt-32 pb-16 md:pt-40 md:pb-24">
+      <nav className="fixed top-8 left-1/2 -translate-x-1/2 z-[60] flex items-center gap-2 bg-slate-900/40 backdrop-blur-2xl border border-slate-800 p-1.5 rounded-2xl shadow-2xl animate-in slide-in-from-top-4 duration-1000">
         <button
           onClick={() => { setView('home'); resetState(); }}
           className={`px-6 py-2 rounded-xl text-sm font-bold transition-all flex items-center gap-2 ${view === 'home' && !state.result ? 'bg-blue-600 text-white shadow-lg shadow-blue-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
@@ -304,7 +304,7 @@ const App: React.FC = () => {
         </button>
       </nav>
 
-      <div className="fixed top-6 right-6 z-[60] flex items-center gap-3">
+      <div className="fixed top-8 right-6 z-[60] flex items-center gap-3 animate-in fade-in slide-in-from-right-4 duration-1000">
         <button onClick={toggleLang} className="bg-slate-900/80 backdrop-blur border border-slate-700 px-4 py-2 rounded-full flex items-center gap-2 hover:bg-slate-800 transition-all text-sm font-bold text-slate-200">
           <Globe size={16} className="text-blue-400" />
           {lang.toUpperCase()}
