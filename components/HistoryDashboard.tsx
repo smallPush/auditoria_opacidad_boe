@@ -16,6 +16,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
   const t = translations[lang];
   const [searchTerm, setSearchTerm] = React.useState('');
   const [minTransparency, setMinTransparency] = React.useState(0);
+  const [maxTransparency, setMaxTransparency] = React.useState(100);
   const [selectedTag, setSelectedTag] = React.useState('');
 
   const allTags = React.useMemo(() => {
@@ -31,14 +32,15 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
     return history.filter(item => {
       const matchesSearch = item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         item.boeId.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesTransparency = item.audit.nivel_transparencia >= minTransparency;
+      const matchesTransparency = item.audit.nivel_transparencia >= minTransparency &&
+        item.audit.nivel_transparencia <= maxTransparency;
       const matchesTag = !selectedTag ||
         item.audit.comunidad_autonoma === selectedTag ||
         item.audit.tipologia === selectedTag;
 
       return matchesSearch && matchesTransparency && matchesTag;
     });
-  }, [history, searchTerm, minTransparency, selectedTag]);
+  }, [history, searchTerm, minTransparency, maxTransparency, selectedTag]);
 
   const handleExportAll = () => {
     const blob = new Blob([JSON.stringify(history, null, 2)], { type: 'application/json' });
@@ -99,18 +101,34 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
             />
           </div>
 
-          <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-xl px-3 py-2">
-            <Filter size={14} className="text-slate-500" />
-            <span className="text-xs text-slate-400 whitespace-nowrap">{t.minTransparency}:</span>
-            <input
-              type="range"
-              min="0"
-              max="100"
-              value={minTransparency}
-              onChange={(e) => setMinTransparency(parseInt(e.target.value))}
-              className="w-24 h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-blue-500"
-            />
-            <span className="text-xs font-mono text-blue-400 w-8 text-right">{minTransparency}%</span>
+          <div className="flex flex-wrap gap-2">
+            <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-xl px-3 py-2">
+              <Filter size={14} className="text-slate-500" />
+              <span className="text-xs text-slate-400 whitespace-nowrap">{t.minTransparency}:</span>
+              <input
+                type="range"
+                min="0"
+                max="100"
+                value={minTransparency}
+                onChange={(e) => setMinTransparency(parseInt(e.target.value))}
+                className="w-20 h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-blue-500"
+              />
+              <span className="text-xs font-mono text-blue-400 w-8 text-right">{minTransparency}%</span>
+            </div>
+
+            <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-xl px-3 py-2">
+              <Filter size={14} className="text-slate-500" />
+              <span className="text-xs text-slate-400 whitespace-nowrap">{t.maxTransparency}:</span>
+              <input
+                type="range"
+                min="0"
+                max="100"
+                value={maxTransparency}
+                onChange={(e) => setMaxTransparency(parseInt(e.target.value))}
+                className="w-20 h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-red-500"
+              />
+              <span className="text-xs font-mono text-red-400 w-8 text-right">{maxTransparency}%</span>
+            </div>
           </div>
 
           <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-xl px-3 py-2">

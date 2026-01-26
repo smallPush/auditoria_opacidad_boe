@@ -75,6 +75,7 @@ export const translations = {
     historyMenu: "Histórico",
     filters: "Filtros",
     minTransparency: "Transparencia Mínima",
+    maxTransparency: "Transparencia Máxima",
     allTags: "Todos los Tags"
   },
   en: {
@@ -150,6 +151,7 @@ export const translations = {
     historyMenu: "History",
     filters: "Filters",
     minTransparency: "Min Transparency",
+    maxTransparency: "Max Transparency",
     allTags: "All Tags"
   }
 };
