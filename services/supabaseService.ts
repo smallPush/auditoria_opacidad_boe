@@ -71,11 +71,22 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
   const merged = [...remoteData];
 
   // Añadir datos de la carpeta si no están ya (por boeId)
+  let localStorageUpdated = false;
   auditedFolderData.forEach(folderItem => {
     if (!merged.find(m => m.boeId === folderItem.boeId)) {
       merged.push(folderItem);
     }
+    // Sincronizar con LocalStorage si no está (según petición del usuario)
+    if (!localStorageData.find(l => l.boeId === folderItem.boeId)) {
+      localStorageData.push(folderItem);
+      localStorageUpdated = true;
+    }
   });
+
+  // Guardar en LocalStorage si hubo cambios
+  if (localStorageUpdated) {
+    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(localStorageData));
+  }
 
   // Añadir datos de localStorage si no están ya
   localStorageData.forEach(localItem => {
@@ -100,6 +111,19 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
   const localData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
   const filteredLocal = localData.filter(item => item.boeId !== boeId);
   localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify([newItem, ...filteredLocal]));
+
+  // Guardar en Sistema de Archivos Local (Bridge) si estamos en desarrollo
+  if (import.meta.env.DEV) {
+    try {
+      await fetch('/api/save-audit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ boeId, title, audit })
+      });
+    } catch (err) {
+      console.warn('Local bridge save failed (expected if not using vite dev server):', err);
+    }
+  }
 
   // Guardar en Supabase (si está disponible)
   if (supabase) {

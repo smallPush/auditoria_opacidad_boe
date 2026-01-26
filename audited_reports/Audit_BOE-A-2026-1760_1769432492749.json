@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1760",
+  "timestamp": "2026-01-26T13:01:32.749Z",
+  "title": "Real Decreto 51/2026, de 23 de enero, por el que se modifica el Real Decreto 676/2025, de 28 de julio, por el que se aprueba la estructura de la Presidencia del Gobierno.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este Real Decreto opera una reestructuración interna de la Presidencia del Gobierno bajo una retórica de 'necesidades organizativas' no cuantificadas. Destaca la creación del 'Departamento de Estudios Estratégicos', un nombre ambiguo que permite el encaje de funciones de asesoría política de alto nivel sin una fiscalización clara de sus objetivos específicos. Asimismo, la disposición transitoria segunda permite que el personal siga cobrando de partidas previas hasta que se adapte la nueva estructura, lo que genera un 'periodo de sombra' presupuestaria donde el coste real de la nueva organización queda diluido y oculto al escrutinio público inmediato.",
+    "resumen_ciudadano": "El Gobierno ha modificado su estructura interna en Moncloa, creando un nuevo departamento de estrategia política y reorganizando sus áreas de comunicación digital y control territorial. Aunque se eliminan algunos órganos antiguos, se crean otros nuevos con rango de Dirección General, lo que suele implicar un mantenimiento o aumento del gasto en altos cargos y personal eventual de confianza, sin que el texto detalle el coste económico para el ciudadano.",
+    "resumen_tweet": "🚩 Nueva reforma en la estructura de Moncloa: nace el 'Dpto. de Estudios Estratégicos' y se refuerza el área Digital. ¿Más eficacia o más control? Sin rastro del coste real de estos cambios. 📉 #BOE #Opacidad #Transparencia #ControlPolítico 🏛️",
+    "banderas_red_flags": [
+      "Creación de órganos con nombres vagos y ambivalentes",
+      "Ausencia de memoria económica o detalle de impacto presupuestario",
+      "Uso de disposiciones transitorias para mantener retribuciones con créditos antiguos",
+      "Reorganización de la Secretaría de Estado de Comunicación hacia un mayor control digital"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de libre designación",
+        "Asesores de estrategia política",
+        "Estructura técnica de comunicación digital del Gobierno"
+      ],
+      "perdedores": [
+        "Contribuyentes (por opacidad en el gasto)",
+        "Transparencia institucional (por terminología ambigua)",
+        "Control legislativo sobre la administración"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Administrativa / Estructura de Gobierno",
+    "banderas_rojas": [
+      "Creación de órganos con nombres vagos y ambivalentes",
+      "Ausencia de memoria económica o detalle de impacto presupuestario",
+      "Uso de disposiciones transitorias para mantener retribuciones con créditos antiguos",
+      "Reorganización de la Secretaría de Estado de Comunicación hacia un mayor control digital"
+    ]
+  }
+}

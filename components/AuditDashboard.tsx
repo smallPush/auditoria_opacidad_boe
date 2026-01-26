@@ -200,8 +200,8 @@ const AuditDashboard: React.FC<Props> = ({
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl lg:col-span-1">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
           <h3 className="text-xl font-bold flex items-center gap-2 mb-4 text-red-400">
             <AlertTriangle />
             {t.redFlags}
@@ -216,7 +216,7 @@ const AuditDashboard: React.FC<Props> = ({
           </ul>
         </div>
 
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl lg:col-span-1">
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
           <h3 className="text-xl font-bold flex items-center gap-2 mb-6">
             <TrendingUp className="text-purple-400" />
             {t.impactBalance}
@@ -249,50 +249,7 @@ const AuditDashboard: React.FC<Props> = ({
           </div>
         </div>
 
-        <div className="lg:col-span-2 space-y-6">
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl flex flex-col h-full">
-              <h3 className="text-sm font-bold flex items-center gap-2 mb-2 text-blue-400">
-                <ImageIcon size={14} />
-                {t.diffusionTools}
-              </h3>
-              <div className="flex-1 flex flex-col items-center justify-center bg-slate-950 border border-slate-800 rounded-xl overflow-hidden relative aspect-[9/16] min-h-[200px]">
-                {thumbnailUrl ? (
-                  <>
-                    <img src={thumbnailUrl} alt="Thumbnail Reel" className="w-full h-full object-cover" />
-                    <div className="absolute inset-0 bg-gradient-to-t from-slate-950/80 to-transparent flex items-end justify-center p-3">
-                      <a href={thumbnailUrl} download className="bg-blue-600 hover:bg-blue-500 text-white p-2 rounded-lg"><Download size={14} /></a>
-                    </div>
-                  </>
-                ) : isGeneratingThumbnail ? (
-                  <Loader2 className="animate-spin text-blue-500" size={24} />
-                ) : (
-                  <button onClick={onGenerateThumbnail} className="bg-slate-800 hover:bg-slate-700 text-white p-4 rounded-full"><Zap size={24} /></button>
-                )}
-              </div>
-            </div>
 
-            <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 shadow-xl flex flex-col h-full">
-              <h3 className="text-sm font-bold flex items-center gap-2 mb-2 text-red-400">
-                <Video size={14} />
-                {t.videoSummaryTitle}
-              </h3>
-              <div className="flex-1 flex flex-col items-center justify-center bg-slate-950 border border-slate-800 rounded-xl overflow-hidden relative aspect-[9/16] min-h-[200px]">
-                {videoUrl ? (
-                  <video src={videoUrl} controls className="w-full h-full object-cover" />
-                ) : isGeneratingVideo ? (
-                  <div className="flex flex-col items-center gap-3 p-4 text-center">
-                    <div className="w-8 h-8 border-2 border-red-500/20 border-t-red-500 rounded-full animate-spin"></div>
-                    <span className="text-[10px] text-red-400 font-mono animate-pulse">{videoLoadingText}</span>
-                  </div>
-                ) : (
-                  <button onClick={onGenerateVideo} className="bg-red-600 hover:bg-red-500 text-white p-4 rounded-full transition-all hover:scale-110"><Play size={24} /></button>
-                )}
-              </div>
-              <p className="text-[9px] text-slate-500 mt-2 text-center">{t.videoDesc}</p>
-            </div>
-          </div>
-        </div>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
