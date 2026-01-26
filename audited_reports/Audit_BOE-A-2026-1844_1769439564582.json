@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1844",
+  "timestamp": "2026-01-26T14:59:24.582Z",
+  "title": "Resolución de 20 de enero de 2026, de la Subsecretaría, por la que se publica el Convenio de asistencia jurídica entre la Abogacía General del Estado y la Autoridad Portuaria de Avilés.",
+  "report": {
+    "nivel_transparencia": 72,
+    "analisis_critico": "El convenio formaliza una transferencia de 22.000 euros anuales entre entes del sector público por servicios de defensa jurídica. El punto más crítico reside en la Cláusula Cuarta, que permite que el Abogado del Estado designado como coordinador perciba 'indemnizaciones por razón del servicio' equivalentes a las de un miembro del Consejo de Administración del Puerto. Esto constituye un mecanismo legal para el incremento de ingresos de funcionarios públicos mediante su inserción en órganos de dirección de entidades portuarias, diluyendo la separación entre el órgano consultivo y el órgano ejecutivo.",
+    "resumen_ciudadano": "El Puerto de Avilés pagará a la Abogacía del Estado una cuota fija anual para su defensa legal. El acuerdo también facilita que los abogados estatales cobren dietas adicionales por asistir a las reuniones del Consejo de Administración del puerto, sumando costes a la gestión portuaria bajo una apariencia de eficiencia administrativa.",
+    "resumen_tweet": "🚢 El Puerto de Avilés pagará 22.000€/año a la Abogacía del Estado por defensa legal. 💼 Ojo: se permite el cobro de dietas extra por sentarse en el Consejo de Administración. ¿Eficiencia o sobresueldos encubiertos? 🧐💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Doble remuneración: dietas de consejo adicionales al sueldo público",
+      "Tarifa plana de 22.000€ sin desglose de carga de trabajo",
+      "Posible conflicto de interés entre defensa técnica y toma de decisiones en el consejo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Abogados del Estado (acceso a dietas de consejo)",
+        "Abogacía General del Estado (captación de fondos de otras entidades)"
+      ],
+      "perdedores": [
+        "Presupuesto de la Autoridad Portuaria (coste fijo de asesoría)",
+        "Transparencia en la retribución total de altos funcionarios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Doble remuneración: dietas de consejo adicionales al sueldo público",
+      "Tarifa plana de 22.000€ sin desglose de carga de trabajo",
+      "Posible conflicto de interés entre defensa técnica y toma de decisiones en el consejo"
+    ]
+  }
+}
