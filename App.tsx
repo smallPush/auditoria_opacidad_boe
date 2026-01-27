@@ -346,7 +346,18 @@ const App: React.FC = () => {
                     </h2>
                     <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.latestRadarSubtitle}</p>
                   </div>
-                  {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => fetchLatestBOE()}
+                      disabled={isFetchingLatest}
+                      className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-all flex items-center gap-2 text-xs font-bold border border-slate-700 disabled:opacity-50"
+                      title={t.refreshBtn}
+                    >
+                      <Radio size={14} className={isFetchingLatest ? 'animate-pulse' : ''} />
+                      {t.refreshBtn}
+                    </button>
+                    {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
+                  </div>
                 </div>
 
                 <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">

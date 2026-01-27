@@ -76,7 +76,8 @@ export const translations = {
     filters: "Filtros",
     minTransparency: "Transparencia Mínima",
     maxTransparency: "Transparencia Máxima",
-    allTags: "Todos los Tags"
+    allTags: "Todos los Tags",
+    refreshBtn: "Actualizar"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -152,6 +153,7 @@ export const translations = {
     filters: "Filters",
     minTransparency: "Min Transparency",
     maxTransparency: "Max Transparency",
-    allTags: "All Tags"
+    allTags: "All Tags",
+    refreshBtn: "Refresh"
   }
 };
