@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-1920",
+  "timestamp": "2026-01-27T11:36:28.436Z",
+  "title": "Orden TED/30/2026, de 26 de enero, por la que se establecen parámetros técnicos y económicos a emplear en el cálculo de la retribución de la actividad de producción de energía eléctrica en los territorios no peninsulares con régimen retributivo adicional durante el periodo regulatorio 2026-2031.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "La Orden TED/30/2026 utiliza un lenguaje extremadamente técnico y fórmulas algebraicas complejas [a(i), b(i), c(i)] para enmascarar lo que en la práctica es un subsidio masivo a las operadoras energéticas en territorios no peninsulares. El concepto de 'instalación tipo' de una 'empresa eficiente' es una abstracción que permite fijar retribuciones basadas en modelos teóricos en lugar de costes reales auditados con total transparencia. Se detecta una 'Incongruencia Ideológica' al seguir remunerando tecnologías basadas en carbón y fuel-oil en un ministerio que nominalmente prioriza la 'Transición Ecológica'. Además, el mantenimiento de parámetros para 'familias tipo que no incluyen ningún grupo generador' abre la puerta a 'Gastos Fantasma' mediante el mantenimiento de estructuras retributivas sin activos reales que las sustenten.",
+    "resumen_ciudadano": "El Gobierno ha fijado cuánto dinero recibirán las eléctricas por producir luz en las islas, Ceuta y Melilla entre 2026 y 2031. Aunque se dice que es para cubrir costes extra, las fórmulas son tan complejas que es imposible para un ciudadano saber si el beneficio de las empresas es justo o excesivo. El sistema garantiza pagos fijos a las grandes energéticas por mantener centrales, algunas de ellas de carbón, cuyo coste pagamos todos en la factura de la luz o vía presupuestos.",
+    "resumen_tweet": "🔌 El #BOE publica el reparto de millones para las eléctricas en Baleares y Canarias hasta 2031. Una maraña de fórmulas 📊 que oculta el beneficio real de las grandes energéticas. ¿Transición o subsidio al fuel? 🤔📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de fórmulas matemáticas complejas que impiden la fiscalización pública directa",
+      "Retribución a instalaciones tipo que actualmente no tienen grupos operativos",
+      "Mantenimiento de incentivos a tecnologías contaminantes (carbón) hasta 2031",
+      "Delegación de la propuesta de parámetros en la CNMC sin desglose de beneficios industriales reales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones energéticas (Endesa y similares en territorios insulares)",
+        "Gestores de plantas de combustibles fósiles con retribución garantizada"
+      ],
+      "perdedores": [
+        "Consumidores eléctricos (que asumen el sobrecoste en el sistema)",
+        "Medio ambiente (por la prolongación de vida útil de plantas de fuel y carbón)",
+        "Pequeños productores de renovables con menos barreras de entrada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Canarias, Baleares, Ceuta y Melilla)",
+    "tipologia": "Económica",
+    "banderas_rojas": [
+      "Uso de fórmulas matemáticas complejas que impiden la fiscalización pública directa",
+      "Retribución a instalaciones tipo que actualmente no tienen grupos operativos",
+      "Mantenimiento de incentivos a tecnologías contaminantes (carbón) hasta 2031",
+      "Delegación de la propuesta de parámetros en la CNMC sin desglose de beneficios industriales reales"
+    ]
+  }
+}
