@@ -87,7 +87,8 @@ export default defineConfig(({ mode }) => {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
       'process.env.SUPABASE_URL': JSON.stringify(env.SUPABASE_URL),
       'process.env.SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY),
-      'process.env.AGENT_PASSWORD': JSON.stringify(env.AGENT_PASSWORD)
+      'process.env.AGENT_PASSWORD': JSON.stringify(env.AGENT_PASSWORD),
+      'process.env.GOOGLE_ANALYTICS_ID': JSON.stringify(env.GOOGLE_ANALYTICS_ID)
     },
     resolve: {
       alias: {

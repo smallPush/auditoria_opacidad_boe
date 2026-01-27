@@ -10,6 +10,7 @@ import { getAuditHistory, saveAuditToDB, clearLocalHistory } from './services/su
 import AuditDashboard from './components/AuditDashboard';
 import HistoryDashboard from './components/HistoryDashboard';
 import Navbar from './components/Navbar';
+import GoogleAnalytics from './components/GoogleAnalytics';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -346,6 +347,7 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-blue-500/30">
+      <GoogleAnalytics />
       <Navbar
         currentView={getCurrentView()}
         resetState={resetState}
