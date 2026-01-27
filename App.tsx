@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
+import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
 import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson } from 'lucide-react';
 import { BOE_SOURCES } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
@@ -26,7 +27,8 @@ const App: React.FC = () => {
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
-  const [view, setView] = useState<'home' | 'history'>('home');
+  const navigate = useNavigate();
+  const location = useLocation();
 
   const [state, setState] = useState<AnalysisState>({
     loading: false,
@@ -145,11 +147,14 @@ const App: React.FC = () => {
     }
   };
 
-  const handleAudit = async (boeId: string, customTitle?: string) => {
-    setSearchId(boeId);
+  const handleAudit = (boeId: string) => {
+    navigate(`/audit/${boeId}`);
+  };
 
+  const performAudit = async (boeId: string, customTitle?: string) => {
     const cached = history.find(item => item.boeId === boeId);
     if (cached) {
+      setSearchId(boeId);
       setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit, thumbnailUrl: undefined, videoUrl: undefined }));
       if (isLoggedIn) {
         handleGenerateThumbnail(cached.audit);
@@ -162,6 +167,7 @@ const App: React.FC = () => {
       return;
     }
 
+    setSearchId(boeId);
     setState(prev => ({ ...prev, loading: true, error: null, result: null, scrapingResults: undefined, thumbnailUrl: undefined, videoUrl: undefined }));
     try {
       let xmlText = "";
@@ -223,13 +229,65 @@ const App: React.FC = () => {
     setSearchId('');
   };
 
-  const handleSelectHistory = (item: AuditHistoryItem) => {
-    setSearchId(item.boeId);
-    setState(prev => ({ ...prev, result: item.audit, loading: false, error: null, thumbnailUrl: undefined, videoUrl: undefined }));
-    // No necesitamos login para ver auditorías ya hechas
-    if (isLoggedIn) {
-      handleGenerateThumbnail(item.audit);
+  // Logic to trigger analysis when URL changes
+  const AuditTrigger = () => {
+    const { boeId } = useParams<{ boeId: string }>();
+
+    useEffect(() => {
+      if (boeId) {
+        performAudit(boeId);
+      }
+    }, [boeId, isLoggedIn]);
+
+    if (state.error) {
+      return (
+        <div className="bg-red-950/20 border border-red-900/50 p-8 rounded-3xl flex flex-col items-center gap-4 text-red-200 mt-8">
+          <AlertCircle className="text-red-500" size={64} /><h3 className="font-bold text-2xl">{t.errorTitle}</h3><p className="text-slate-400">{state.error}</p>
+          <button onClick={() => boeId && performAudit(boeId)} className="bg-slate-800 hover:bg-slate-700 px-10 py-3 rounded-xl font-bold">{t.retryBtn}</button>
+        </div>
+      );
     }
+
+    if (state.loading) {
+      return (
+        <div className="flex flex-col items-center justify-center py-24 space-y-6">
+          <div className="w-16 h-16 border-4 border-blue-500/20 border-t-blue-500 rounded-full animate-spin"></div>
+          <div className="text-center space-y-2">
+            <h2 className="text-2xl font-bold">{t.decodingOpacity}</h2>
+            <p className="text-slate-400 max-w-md mx-auto">{t.processingGemini}</p>
+          </div>
+        </div>
+      );
+    }
+
+    if (state.result) {
+      return (
+        <div className="space-y-6">
+          <button onClick={() => navigate('/')} className="flex items-center gap-2 bg-slate-900 border border-slate-800 px-6 py-3 rounded-xl text-slate-300 hover:bg-slate-800 transition-all"><ArrowLeft size={18} /> {t.backToHome}</button>
+          <AuditDashboard
+            data={state.result}
+            boeId={searchId}
+            lang={lang}
+            thumbnailUrl={state.thumbnailUrl}
+            isGeneratingThumbnail={state.isGeneratingThumbnail}
+            onGenerateThumbnail={() => state.result && handleGenerateThumbnail(state.result)}
+            videoUrl={state.videoUrl}
+            isGeneratingVideo={state.isGeneratingVideo}
+            onGenerateVideo={() => state.result && handleGenerateVideo(state.result)}
+            isLoggedIn={isLoggedIn}
+          />
+        </div>
+      );
+    }
+
+    return null;
+  };
+
+  const getCurrentView = () => {
+    if (location.pathname === '/') return 'home';
+    if (location.pathname === '/history') return 'history';
+    if (location.pathname.startsWith('/audit/')) return 'audit';
+    return 'home';
   };
 
   const isAlreadyAudited = (id: string) => history.some(h => h.boeId === id);
@@ -289,8 +347,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-200 selection:bg-blue-500/30">
       <Navbar
-        view={view}
-        setView={setView}
+        currentView={getCurrentView()}
         resetState={resetState}
         lang={lang}
         toggleLang={toggleLang}
@@ -310,154 +367,135 @@ const App: React.FC = () => {
           <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
         </header>
 
-        {state.result ? (
-          <div className="space-y-6">
-            <button onClick={resetState} className="flex items-center gap-2 bg-slate-900 border border-slate-800 px-6 py-3 rounded-xl text-slate-300 hover:bg-slate-800 transition-all"><ArrowLeft size={18} /> {t.backToHome}</button>
-            <AuditDashboard
-              data={state.result}
-              boeId={searchId}
-              lang={lang}
-              thumbnailUrl={state.thumbnailUrl}
-              isGeneratingThumbnail={state.isGeneratingThumbnail}
-              onGenerateThumbnail={() => state.result && handleGenerateThumbnail(state.result)}
-              videoUrl={state.videoUrl}
-              isGeneratingVideo={state.isGeneratingVideo}
-              onGenerateVideo={() => state.result && handleGenerateVideo(state.result)}
-              isLoggedIn={isLoggedIn}
-            />
-          </div>
-        ) : state.loading || state.isScraping ? (
-          <div className="flex flex-col items-center justify-center py-24 space-y-6">
-            <div className="w-16 h-16 border-4 border-blue-500/20 border-t-blue-500 rounded-full animate-spin"></div>
-            <div className="text-center space-y-2">
-              <h2 className="text-2xl font-bold">{state.isScraping ? t.scanningData : t.decodingOpacity}</h2>
-              <p className="text-slate-400 max-w-md mx-auto">{t.processingGemini}</p>
-            </div>
-          </div>
-        ) : view === 'home' ? (
-          <div className="space-y-16 animate-in fade-in duration-500">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-              <section className="space-y-6">
-                <div className="flex items-center justify-between border-b border-slate-800 pb-4">
-                  <div>
-                    <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
-                      <Radio className="text-red-500 animate-pulse" size={24} />
-                      {t.latestRadarTitle}
-                    </h2>
-                    <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.latestRadarSubtitle}</p>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <button
-                      onClick={() => fetchLatestBOE()}
-                      disabled={isFetchingLatest}
-                      className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-all flex items-center gap-2 text-xs font-bold border border-slate-700 disabled:opacity-50"
-                      title={t.refreshBtn}
-                    >
-                      <Radio size={14} className={isFetchingLatest ? 'animate-pulse' : ''} />
-                      {t.refreshBtn}
-                    </button>
-                    {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
-                  </div>
-                </div>
-
-                <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
-                  {latestArticles.map((art) => {
-                    const audited = isAlreadyAudited(art.id);
-                    return (
-                      <div key={art.id} className={`bg-slate-900/40 border p-4 rounded-2xl transition-all flex flex-col justify-between group relative overflow-hidden ${audited ? 'border-emerald-500/20' : 'border-slate-800 hover:border-blue-500/30'}`}>
-                        {audited && (
-                          <div className="absolute top-2 right-2 flex items-center gap-1 bg-emerald-900/40 text-emerald-400 px-2 py-0.5 rounded text-[9px] font-bold border border-emerald-500/30">
-                            <BookmarkCheck size={10} />
-                            {t.alreadyAudited}
-                          </div>
-                        )}
-                        <div>
-                          <span className="text-[10px] font-mono text-slate-500 block mb-1">{art.departamento}</span>
-                          <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">{art.titulo}</h3>
-                        </div>
-                        <div className="flex items-center justify-between mt-4">
-                          <span className="text-[10px] text-slate-600 font-mono">{art.id}</span>
-                          <button
-                            onClick={() => handleAudit(art.id, art.titulo)}
-                            className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
-                          >
-                            <Zap size={10} />
-                            {audited ? t.goToAudit : t.auditWithGemini}
-                          </button>
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
-              </section>
-
-              <section className="space-y-8 flex flex-col">
-                <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex-1 flex flex-col justify-center gap-8">
-                  <div className="text-center space-y-4">
-                    <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
-                      <Search size={32} />
+        <Routes>
+          <Route path="/" element={
+            <div className="space-y-16 animate-in fade-in duration-500">
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <section className="space-y-6">
+                  <div className="flex items-center justify-between border-b border-slate-800 pb-4">
+                    <div>
+                      <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
+                        <Radio className="text-red-500 animate-pulse" size={24} />
+                        {t.latestRadarTitle}
+                      </h2>
+                      <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.latestRadarSubtitle}</p>
                     </div>
-                    <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
-                    <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
+                    <div className="flex items-center gap-2">
+                      <button
+                        onClick={() => fetchLatestBOE()}
+                        disabled={isFetchingLatest}
+                        className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-all flex items-center gap-2 text-xs font-bold border border-slate-700 disabled:opacity-50"
+                        title={t.refreshBtn}
+                      >
+                        <Radio size={14} className={isFetchingLatest ? 'animate-pulse' : ''} />
+                        {t.refreshBtn}
+                      </button>
+                      {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
+                    </div>
                   </div>
 
-                  <div className="flex flex-col gap-3">
-                    <input
-                      type="text"
-                      placeholder={t.searchPlaceholder}
-                      className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
-                      value={searchId}
-                      onChange={(e) => setSearchId(e.target.value)}
-                      onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
-                    />
-                    <button
-                      onClick={() => handleAudit(searchId)}
-                      disabled={!searchId}
-                      className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
-                    >
-                      {t.analyzeBtn}
-                    </button>
+                  <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
+                    {latestArticles.map((art) => {
+                      const audited = isAlreadyAudited(art.id);
+                      return (
+                        <div key={art.id} className={`bg-slate-900/40 border p-4 rounded-2xl transition-all flex flex-col justify-between group relative overflow-hidden ${audited ? 'border-emerald-500/20' : 'border-slate-800 hover:border-blue-500/30'}`}>
+                          {audited && (
+                            <div className="absolute top-2 right-2 flex items-center gap-1 bg-emerald-900/40 text-emerald-400 px-2 py-0.5 rounded text-[9px] font-bold border border-emerald-500/30">
+                              <BookmarkCheck size={10} />
+                              {t.alreadyAudited}
+                            </div>
+                          )}
+                          <div>
+                            <span className="text-[10px] font-mono text-slate-500 block mb-1">{art.departamento}</span>
+                            <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">{art.titulo}</h3>
+                          </div>
+                          <div className="flex items-center justify-between mt-4">
+                            <span className="text-[10px] text-slate-600 font-mono">{art.id}</span>
+                            <Link
+                              to={`/audit/${art.id}`}
+                              className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
+                            >
+                              <Zap size={10} />
+                              {audited ? t.goToAudit : t.auditWithGemini}
+                            </Link>
+                          </div>
+                        </div>
+                      );
+                    })}
                   </div>
-                </div>
-              </section>
-            </div>
-          </div>
-        ) : (
-          <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
-            <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
-              <div>
-                <h2 className="text-3xl font-black flex items-center gap-3 text-white">
-                  <History className="text-purple-500" size={32} />
-                  {t.historyTitle}
-                </h2>
-                <p className="text-slate-500 text-sm font-medium uppercase tracking-widest mt-1">{t.historySubtitle}</p>
+                </section>
+
+                <section className="space-y-8 flex flex-col">
+                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex-1 flex flex-col justify-center gap-8">
+                    <div className="text-center space-y-4">
+                      <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                        <Search size={32} />
+                      </div>
+                      <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
+                      <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
+                    </div>
+
+                    <div className="flex flex-col gap-3">
+                      <input
+                        type="text"
+                        placeholder={t.searchPlaceholder}
+                        className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
+                        value={searchId}
+                        onChange={(e) => setSearchId(e.target.value)}
+                        onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
+                      />
+                      <button
+                        onClick={() => handleAudit(searchId)}
+                        disabled={!searchId}
+                        className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
+                      >
+                        {t.analyzeBtn}
+                      </button>
+                    </div>
+                  </div>
+                </section>
               </div>
-              {history.length > 0 && (
-                <span className="bg-purple-950/40 text-purple-400 px-4 py-1.5 rounded-full text-xs font-bold border border-purple-900/50">
-                  {history.length} Auditorías
-                </span>
-              )}
             </div>
+          } />
 
-            <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
-              {history.length === 0 ? (
-                <div className="flex flex-col items-center justify-center py-32 text-slate-600 opacity-40 italic text-sm">
-                  <Database size={64} className="mb-6" />
-                  No hay auditorías procesadas aún
+          <Route path="/history" element={
+            <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
+              <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
+                <div>
+                  <h2 className="text-3xl font-black flex items-center gap-3 text-white">
+                    <History className="text-purple-500" size={32} />
+                    {t.historyTitle}
+                  </h2>
+                  <p className="text-slate-500 text-sm font-medium uppercase tracking-widest mt-1">{t.historySubtitle}</p>
                 </div>
-              ) : (
-                <HistoryDashboard
-                  history={history}
-                  onSelect={handleSelectHistory}
-                  onClear={handleClearHistory}
-                  onImport={handleImportData}
-                  lang={lang}
-                  isLoggedIn={isLoggedIn}
-                />
-              )}
+                {history.length > 0 && (
+                  <span className="bg-purple-950/40 text-purple-400 px-4 py-1.5 rounded-full text-xs font-bold border border-purple-900/50">
+                    {history.length} Auditorías
+                  </span>
+                )}
+              </div>
+
+              <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
+                {history.length === 0 ? (
+                  <div className="flex flex-col items-center justify-center py-32 text-slate-600 opacity-40 italic text-sm">
+                    <Database size={64} className="mb-6" />
+                    No hay auditorías procesadas aún
+                  </div>
+                ) : (
+                  <HistoryDashboard
+                    history={history}
+                    onClear={handleClearHistory}
+                    onImport={handleImportData}
+                    lang={lang}
+                    isLoggedIn={isLoggedIn}
+                  />
+                )}
+              </div>
             </div>
-          </div>
-        )}
+          } />
+
+          <Route path="/audit/:boeId" element={<AuditTrigger />} />
+        </Routes>
 
         {state.error && (
           <div className="bg-red-950/20 border border-red-900/50 p-8 rounded-3xl flex flex-col items-center gap-4 text-red-200 mt-8">

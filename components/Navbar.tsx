@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Zap, History, Globe, LogOut, ShieldCheck, Menu, X, User } from 'lucide-react';
 import { Language } from '../translations';
 
 interface NavbarProps {
-    view: 'home' | 'history';
-    setView: (view: 'home' | 'history') => void;
     resetState: () => void;
     lang: Language;
     toggleLang: () => void;
@@ -12,23 +11,24 @@ interface NavbarProps {
     handleLogout: () => void;
     setShowLogin: (show: boolean) => void;
     t: any;
+    currentView: 'home' | 'history' | 'audit';
 }
 
 const Navbar: React.FC<NavbarProps> = ({
-    view,
-    setView,
     resetState,
     lang,
     toggleLang,
     isLoggedIn,
     handleLogout,
     setShowLogin,
-    t
+    t,
+    currentView
 }) => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const navigate = useNavigate();
 
-    const handleNavClick = (newView: 'home' | 'history') => {
-        setView(newView);
+    const handleNavClick = (path: string) => {
+        navigate(path);
         resetState();
         setIsMenuOpen(false);
     };
@@ -39,7 +39,7 @@ const Navbar: React.FC<NavbarProps> = ({
                 <div className="flex items-center justify-between h-20">
                     {/* Logo & Badge */}
                     <div className="flex items-center gap-4">
-                        <div className="flex items-center gap-2 group cursor-pointer" onClick={() => handleNavClick('home')}>
+                        <div className="flex items-center gap-2 group cursor-pointer" onClick={() => handleNavClick('/')}>
                             <div className="w-10 h-10 bg-blue-600 rounded-xl flex items-center justify-center shadow-lg shadow-blue-900/20 group-hover:scale-110 transition-transform">
                                 <ShieldCheck className="text-white" size={24} />
                             </div>
@@ -53,15 +53,15 @@ const Navbar: React.FC<NavbarProps> = ({
                     {/* Desktop Navigation */}
                     <div className="hidden md:flex items-center gap-1 bg-slate-900/50 p-1 rounded-xl border border-slate-800">
                         <button
-                            onClick={() => handleNavClick('home')}
-                            className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${view === 'home' ? 'bg-blue-600 text-white shadow-lg shadow-blue-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
+                            onClick={() => handleNavClick('/')}
+                            className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${currentView === 'home' ? 'bg-blue-600 text-white shadow-lg shadow-blue-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
                         >
                             <Zap size={16} />
                             {t.home}
                         </button>
                         <button
-                            onClick={() => handleNavClick('history')}
-                            className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${view === 'history' ? 'bg-purple-600 text-white shadow-lg shadow-purple-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
+                            onClick={() => handleNavClick('/history')}
+                            className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${currentView === 'history' ? 'bg-purple-600 text-white shadow-lg shadow-purple-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
                         >
                             <History size={16} />
                             {t.historyMenu}
@@ -120,15 +120,15 @@ const Navbar: React.FC<NavbarProps> = ({
                 <div className="md:hidden bg-slate-950 border-b border-slate-800 animate-in slide-in-from-top duration-300">
                     <div className="px-4 pt-2 pb-6 space-y-3">
                         <button
-                            onClick={() => handleNavClick('home')}
-                            className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${view === 'home' ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20' : 'text-slate-400'}`}
+                            onClick={() => handleNavClick('/')}
+                            className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${currentView === 'home' ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20' : 'text-slate-400'}`}
                         >
                             <Zap size={20} />
                             {t.home}
                         </button>
                         <button
-                            onClick={() => handleNavClick('history')}
-                            className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${view === 'history' ? 'bg-purple-600/10 text-purple-400 border border-purple-600/20' : 'text-slate-400'}`}
+                            onClick={() => handleNavClick('/history')}
+                            className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${currentView === 'history' ? 'bg-purple-600/10 text-purple-400 border border-purple-600/20' : 'text-slate-400'}`}
                         >
                             <History size={20} />
                             {t.historyMenu}

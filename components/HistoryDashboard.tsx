@@ -1,18 +1,18 @@
 import React from 'react';
 import { AuditHistoryItem } from '../types';
 import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { translations, Language } from '../translations';
 
 interface Props {
   history: AuditHistoryItem[];
-  onSelect: (item: AuditHistoryItem) => void;
   onClear: () => void;
   onImport: (data: any) => void;
   lang: Language;
   isLoggedIn?: boolean;
 }
 
-const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImport, lang, isLoggedIn }) => {
+const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, isLoggedIn }) => {
   const t = translations[lang];
   const [searchTerm, setSearchTerm] = React.useState('');
   const [minTransparency, setMinTransparency] = React.useState(0);
@@ -222,7 +222,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
               </div>
             </div>
 
-            <button onClick={() => onSelect(item)} className="text-left group/btn">
+            <Link to={`/audit/${item.boeId}`} className="text-left group/btn">
               <h3 className="font-bold text-slate-200 line-clamp-2 text-sm leading-snug mb-4 group-hover/btn:text-blue-400 transition-colors">
                 {item.title}
               </h3>
@@ -243,7 +243,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onSelect, onClear, onImpor
                   {t.goToAudit} <ChevronRight size={10} />
                 </span>
               </div>
-            </button>
+            </Link>
           </div>
         ))}
       </div>
