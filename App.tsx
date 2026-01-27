@@ -57,34 +57,71 @@ const App: React.FC = () => {
 
   const fetchLatestBOE = async () => {
     setIsFetchingLatest(true);
-    try {
-      const response = await fetch('https://www.boe.es/diario_boe/xml.php');
-      if (!response.ok) throw new Error("CORS or Network error");
-      const text = await response.text();
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(text, 'text/xml');
-      const items = xml.querySelectorAll('item');
+    const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
 
-      const articles: ScrapedLaw[] = Array.from(items).slice(0, 50).map((item: any) => ({
-        id: item.getAttribute('id') || '',
-        titulo: item.querySelector('titulo')?.textContent || 'Sin título',
-        departamento: item.closest('departamento')?.querySelector('nombre')?.textContent || 'Varios',
-        seccion: 'I'
-      }));
+    const urls = [
+      `https://www.boe.es/datosabiertos/api/boe/sumario/${today}`,
+      `https://www.boe.es/datosabiertos/api/boe/sumario/${yesterday}`,
+      'https://www.boe.es/diario_boe/xml.php'
+    ];
 
-      if (articles.length === 0) throw new Error("No items in today's BOE");
-      setLatestArticles(articles);
-    } catch (e) {
-      console.warn("Failed to fetch live BOE, using sources as fallback", e);
+    let foundArticles: ScrapedLaw[] = [];
+
+    for (const url of urls) {
+      if (foundArticles.length > 0) break;
+
+      try {
+        console.log(`🔍 Try fetching BOE from: ${url}`);
+        const response = await fetch(url, {
+          headers: {
+            'Accept': 'application/xml',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AuditoriaCívica/1.0'
+          }
+        });
+        if (!response.ok) continue;
+
+        const text = await response.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, 'text/xml');
+
+        // Handle both possible structures (REST API vs legacy xml.php)
+        const items = xml.querySelectorAll('item');
+        if (items.length === 0) continue;
+
+        foundArticles = Array.from(items).map((item: any) => {
+          // Identificador can be in an attribute (xml.php) or in a child node (REST API)
+          const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
+          const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
+
+          // Structure mapping:
+          // REST API: item -> departamento (parent) @nombre
+          // xml.xml: item -> departamento (ancestor) -> nombre
+          const deptNode = item.closest('departamento');
+          const departamento = deptNode?.getAttribute('nombre') || deptNode?.querySelector('nombre')?.textContent || 'Varios';
+
+          const seccionNode = item.closest('seccion');
+          const seccionName = seccionNode?.getAttribute('nombre') || seccionNode?.querySelector('nombre')?.textContent || 'I';
+
+          return { id, titulo, departamento, seccion: seccionName };
+        });
+      } catch (e) {
+        console.warn(`Failed to fetch from ${url}:`, e);
+      }
+    }
+
+    if (foundArticles.length > 0) {
+      setLatestArticles(foundArticles);
+    } else {
+      console.warn("Using sources as fallback");
       setLatestArticles(BOE_SOURCES.map(s => ({
         id: s.id,
         titulo: s.title,
         departamento: s.category,
         seccion: 'I'
       })));
-    } finally {
-      setIsFetchingLatest(false);
     }
+    setIsFetchingLatest(false);
   };
 
   const loadHistory = async () => {
