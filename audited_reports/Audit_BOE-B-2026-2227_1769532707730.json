@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-B-2026-2227",
+  "timestamp": "2026-01-27T16:51:47.730Z",
+  "title": "Anuncio de la Comunidad de Regantes de la Acequia de Tarramonta, sobre convocatoria de Junta.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La convocatoria de la Comunidad de Regantes de la Acequia de Tarramonta sigue un patrón de opacidad administrativa común en entes locales. El punto octavo 'Asuntos varios' y el séptimo 'Todo cuanto corresponda al mejor aprovechamiento' funcionan como cajones de sastre donde se pueden introducir decisiones de gran calado económico o de gestión de recursos hídricos sin aviso previo. Además, la cláusula que valida acuerdos 'sea cualquiera el número de asistentes' en segunda convocatoria diluye el control democrático, permitiendo que una minoría organizada tome decisiones sobre el presupuesto y el padrón de 2026.",
+    "resumen_ciudadano": "Se convoca a los regantes de Vegas de Genil para aprobar las cuentas pasadas y el presupuesto de 2026. La reunión permite tomar decisiones críticas sobre el dinero y el agua aunque asistan muy pocos socios, y utiliza puntos del día extremadamente genéricos que dificultan la fiscalización ciudadana.",
+    "resumen_tweet": "💧 ¡Ojo al #BOE! La C.R. Acequia de Tarramonta convoca junta con puntos ambiguos como 'Asuntos varios' y validez sin quórum mínimo. ¿Quién controla realmente el agua y el presupuesto de 2026? 🧐📉 #Opacidad #Transparencia #VegasDeGenil",
+    "banderas_red_flags": [
+      "Validez de acuerdos sin quórum mínimo",
+      "Puntos del día genéricos y ambiguos",
+      "Aprobación de presupuestos y cobros sin desglose previo",
+      "Posible toma de decisiones discrecional en 'Asuntos varios'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Junta de Gobierno (por la flexibilidad de los puntos genéricos)",
+        "Grandes propietarios con capacidad de movilización rápida"
+      ],
+      "perdedores": [
+        "Pequeños regantes con dificultades de asistencia",
+        "Transparencia pública en la gestión del agua",
+        "Participación ciudadana efectiva"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Económica-Administrativa",
+    "banderas_rojas": [
+      "Validez de acuerdos sin quórum mínimo",
+      "Puntos del día genéricos y ambiguos",
+      "Aprobación de presupuestos y cobros sin desglose previo",
+      "Posible toma de decisiones discrecional en 'Asuntos varios'"
+    ]
+  }
+}
