@@ -499,6 +499,7 @@ const App: React.FC = () => {
               onGenerateThumbnail={handleGenerateThumbnail}
               onGenerateVideo={handleGenerateVideo}
               resetState={resetState}
+              history={history}
             />
           } />
         </Routes>

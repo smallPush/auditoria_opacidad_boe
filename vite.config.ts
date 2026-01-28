@@ -42,6 +42,46 @@ export default defineConfig(({ mode }) => {
         }
       },
       {
+        name: 'twitter-bridge',
+        configureServer(server) {
+          server.middlewares.use(async (req, res, next) => {
+            if (req.url === '/api/post-tweet' && req.method === 'POST') {
+              let body = '';
+              req.on('data', chunk => { body += chunk; });
+              req.on('end', async () => {
+                try {
+                  const { TwitterApi } = await import('twitter-api-v2');
+                  const { text } = JSON.parse(body);
+
+                  if (!env.TWITTER_API_KEY || !env.TWITTER_API_SECRET || !env.TWITTER_ACCESS_TOKEN || !env.TWITTER_ACCESS_SECRET) {
+                    throw new Error("Twitter API keys are not configured.");
+                  }
+
+                  const client = new TwitterApi({
+                    appKey: env.TWITTER_API_KEY,
+                    appSecret: env.TWITTER_API_SECRET,
+                    accessToken: env.TWITTER_ACCESS_TOKEN,
+                    accessSecret: env.TWITTER_ACCESS_SECRET,
+                  });
+
+                  const rwClient = client.readWrite;
+                  await rwClient.v2.tweet(text);
+
+                  res.statusCode = 200;
+                  res.end(JSON.stringify({ success: true }));
+                } catch (err) {
+                  console.error("Twitter Error:", err);
+                  res.statusCode = 500;
+                  res.end(JSON.stringify({ error: err.message }));
+                }
+              });
+            } else {
+              next();
+            }
+          });
+        }
+      },
+      {
         name: 'save-audit-bridge',
         configureServer(server) {
           server.middlewares.use(async (req, res, next) => {

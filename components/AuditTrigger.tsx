@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { AlertCircle, ArrowLeft, Loader2 } from 'lucide-react';
-import { AnalysisState, BOEAuditResponse } from '../types';
+import { AnalysisState, BOEAuditResponse, AuditHistoryItem } from '../types';
 import { Language } from '../translations';
 import AuditDashboard from './AuditDashboard';
 
@@ -15,6 +15,7 @@ interface AuditTriggerProps {
   onGenerateThumbnail: (audit: BOEAuditResponse) => void;
   onGenerateVideo: (audit: BOEAuditResponse) => void;
   resetState: () => void;
+  history: AuditHistoryItem[];
 }
 
 const AuditTrigger: React.FC<AuditTriggerProps> = ({
@@ -26,10 +27,14 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   lang,
   onGenerateThumbnail,
   onGenerateVideo,
-  resetState
+  resetState,
+  history
 }) => {
   const { boeId } = useParams<{ boeId: string }>();
   const navigate = useNavigate();
+
+  const currentItem = history.find(h => h.boeId === (boeId || searchId));
+  const title = currentItem?.title || boeId || "BOE Document";
 
   useEffect(() => {
     if (boeId) {
@@ -78,6 +83,7 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
         <AuditDashboard
           data={state.result}
           boeId={searchId}
+          title={title}
           lang={lang}
           thumbnailUrl={state.thumbnailUrl}
           isGeneratingThumbnail={state.isGeneratingThumbnail}

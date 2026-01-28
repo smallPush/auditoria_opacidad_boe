@@ -18,6 +18,7 @@ export interface BOEAuditResponse {
   };
   comunidad_autonoma?: string;
   tipologia?: string;
+  tweet_sent?: boolean;
 }
 
 export interface ScrapedLaw {

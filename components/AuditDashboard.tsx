@@ -2,12 +2,15 @@
 import React, { useState, useEffect } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, TooltipProps } from 'recharts';
 import { BOEAuditResponse } from '../types';
-import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Image as ImageIcon, Zap, Download, Loader2, Twitter, Copy, Check, Video, Play, FileJson, Terminal, MapPin, Tag } from 'lucide-react';
+import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Image as ImageIcon, Zap, Download, Loader2, Twitter, Copy, Check, Video, Play, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
 import { translations, Language } from '../translations';
+import { postTweet } from '../services/twitterService';
+import { saveAuditToDB } from '../services/supabaseService';
 
 interface Props {
   data: BOEAuditResponse;
   boeId: string;
+  title: string;
   lang: Language;
   thumbnailUrl?: string;
   isGeneratingThumbnail?: boolean;
@@ -42,6 +45,7 @@ const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> &
 const AuditDashboard: React.FC<Props> = ({
   data,
   boeId,
+  title,
   lang,
   thumbnailUrl,
   isGeneratingThumbnail,
@@ -55,6 +59,12 @@ const AuditDashboard: React.FC<Props> = ({
   const [copiedTweet, setCopiedTweet] = useState(false);
   const [copiedJson, setCopiedJson] = useState(false);
   const [videoPhase, setVideoPhase] = useState(1);
+  const [isPostingTweet, setIsPostingTweet] = useState(false);
+  const [tweetSent, setTweetSent] = useState(data.tweet_sent || false);
+
+  useEffect(() => {
+    setTweetSent(data.tweet_sent || false);
+  }, [data.tweet_sent]);
 
   useEffect(() => {
     let interval: any;
@@ -78,6 +88,22 @@ const AuditDashboard: React.FC<Props> = ({
     navigator.clipboard.writeText(data.resumen_tweet);
     setCopiedTweet(true);
     setTimeout(() => setCopiedTweet(false), 2000);
+  };
+
+  const handlePostTweet = async () => {
+    if (tweetSent) return;
+    setIsPostingTweet(true);
+    try {
+      await postTweet(data);
+      const updatedData = { ...data, tweet_sent: true };
+      await saveAuditToDB(boeId, title, updatedData);
+      setTweetSent(true);
+    } catch (err: any) {
+      console.error(err);
+      alert("Error posting tweet: " + err.message);
+    } finally {
+      setIsPostingTweet(false);
+    }
   };
 
   const handleCopyJson = () => {
@@ -303,9 +329,17 @@ const AuditDashboard: React.FC<Props> = ({
             {copiedTweet ? <Check size={14} className="text-emerald-500" /> : <Copy size={14} />}
           </button>
         </div>
-        <div className="bg-slate-950 p-3 rounded-lg border border-slate-800 text-xs text-slate-400 leading-relaxed italic">
+        <div className="bg-slate-950 p-3 rounded-lg border border-slate-800 text-xs text-slate-400 leading-relaxed italic mb-3">
           "{data.resumen_tweet}"
         </div>
+        <button
+          onClick={handlePostTweet}
+          disabled={tweetSent || isPostingTweet || !isLoggedIn}
+          className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
+        >
+          {isPostingTweet ? <Loader2 size={14} className="animate-spin" /> : tweetSent ? <Check size={14} /> : <Send size={14} />}
+          {tweetSent ? 'Tweet Enviado' : 'Publicar Tweet'}
+        </button>
       </div>
     </div>
   );
