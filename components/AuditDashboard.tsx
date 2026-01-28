@@ -85,7 +85,7 @@ const AuditDashboard: React.FC<Props> = ({
   const boeUrl = `https://www.boe.es/buscar/doc.php?id=${boeId}`;
 
   const handleCopyTweet = () => {
-    navigator.clipboard.writeText(data.resumen_tweet);
+    navigator.clipboard.writeText(`${data.resumen_tweet}\n\n${boeUrl}`);
     setCopiedTweet(true);
     setTimeout(() => setCopiedTweet(false), 2000);
   };
@@ -94,7 +94,7 @@ const AuditDashboard: React.FC<Props> = ({
     if (tweetSent) return;
     setIsPostingTweet(true);
     try {
-      await postTweet(data);
+      await postTweet(data, boeUrl);
       const updatedData = { ...data, tweet_sent: true };
       await saveAuditToDB(boeId, title, updatedData);
       setTweetSent(true);
@@ -330,7 +330,9 @@ const AuditDashboard: React.FC<Props> = ({
           </button>
         </div>
         <div className="bg-slate-950 p-3 rounded-lg border border-slate-800 text-xs text-slate-400 leading-relaxed italic mb-3">
-          "{data.resumen_tweet}"
+          "{data.resumen_tweet}
+          <br /><br />
+          {boeUrl}"
         </div>
         <button
           onClick={handlePostTweet}

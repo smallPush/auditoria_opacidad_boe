@@ -1,11 +1,11 @@
 import { BOEAuditResponse } from "../types";
 
-export const postTweet = async (auditData: BOEAuditResponse): Promise<void> => {
+export const postTweet = async (auditData: BOEAuditResponse, boeUrl?: string): Promise<void> => {
   const response = await fetch('/api/post-tweet', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      text: auditData.resumen_tweet
+      text: auditData.resumen_tweet + (boeUrl ? `\n\n${boeUrl}` : '')
     })
   });
 
