@@ -18,6 +18,12 @@ This application leverages a sophisticated, multi-modal integration of Google's 
 
 This deep integration of reasoning, structured extraction, and generative creativity makes Gemini 3 the central engine enabling radical transparency in government publications.
 
+### Safety Mechanism (Circuit Breaker)
+To prevent excessive API usage or error loops, the application implements a strict **Circuit Breaker** mechanism. If any call to the Gemini API fails (due to network errors, quotas, or invalid keys), a global lock is activated (`isApiBlocked`).
+- **Behavior:** All subsequent API attempts will be immediately blocked with the message: *"API calls are blocked due to a previous error."*
+- **Reset:** The application must be reloaded/restarted to reset this safety lock.
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js

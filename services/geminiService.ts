@@ -1,8 +1,9 @@
-
 import { GoogleGenAI, Type } from "@google/genai";
 import { BOEAuditResponse } from "../types";
 import { SYSTEM_INSTRUCTION } from "../constants";
 import { translations, Language } from "../translations";
+
+let isApiBlocked = false;
 
 const validateApiKey = (lang: Language) => {
   const apiKey = process.env.API_KEY;
@@ -14,6 +15,7 @@ const validateApiKey = (lang: Language) => {
 
 // Audits a BOE law XML content using Gemini 3 Flash.
 export const analyzeBOE = async (xmlContent: string, lang: Language = 'es'): Promise<BOEAuditResponse> => {
+  if (isApiBlocked) throw new Error("API calls are blocked due to a previous error.");
   try {
     const apiKey = validateApiKey(lang);
     const ai = new GoogleGenAI({ apiKey });
@@ -68,6 +70,7 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es'): Pro
       banderas_rojas: rawData.banderas_red_flags || rawData.banderas_rojas || []
     };
   } catch (error: any) {
+    isApiBlocked = true;
     if (error.message?.toLowerCase().includes("api key") || error.message?.includes("401") || error.message?.includes("403")) {
       throw new Error(translations[lang].apiKeyError);
     }
@@ -77,6 +80,7 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es'): Pro
 
 // Generates a thumbnail image for social media reels using gemini-2.5-flash-image.
 export const generateThumbnail = async (auditData: BOEAuditResponse, lang: Language): Promise<string> => {
+  if (isApiBlocked) throw new Error("API calls are blocked due to a previous error.");
   try {
     const apiKey = validateApiKey(lang);
     const ai = new GoogleGenAI({ apiKey });
@@ -114,6 +118,7 @@ export const generateThumbnail = async (auditData: BOEAuditResponse, lang: Langu
 
     throw new Error("No image part found in response");
   } catch (error: any) {
+    isApiBlocked = true;
     if (error.message?.toLowerCase().includes("api key") || error.message?.includes("401") || error.message?.includes("403")) {
       throw new Error(translations[lang].apiKeyError);
     }
@@ -123,6 +128,7 @@ export const generateThumbnail = async (auditData: BOEAuditResponse, lang: Langu
 
 // Generates a cinematic video summary using veo-3.1-fast-generate-preview.
 export const generateVideoSummary = async (auditData: BOEAuditResponse, lang: Language): Promise<string> => {
+  if (isApiBlocked) throw new Error("API calls are blocked due to a previous error.");
   try {
     const apiKey = validateApiKey(lang);
     const ai = new GoogleGenAI({ apiKey });
@@ -156,6 +162,7 @@ export const generateVideoSummary = async (auditData: BOEAuditResponse, lang: La
 
     return `${downloadLink}&key=${apiKey}`;
   } catch (err: any) {
+    isApiBlocked = true;
     if (err.message?.toLowerCase().includes("api key") || err.message?.includes("401") || err.message?.includes("403")) {
       throw new Error(translations[lang].apiKeyError);
     }
