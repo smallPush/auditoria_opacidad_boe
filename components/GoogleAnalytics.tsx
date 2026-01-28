@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 const GoogleAnalytics: React.FC = () => {
-    const gaId = (process.env as any).GOOGLE_ANALYTICS_ID;
+    const gaId = process.env.GOOGLE_ANALYTICS_ID;
 
     useEffect(() => {
         if (!gaId || gaId === 'G-XXXXXXXXXX') return;
