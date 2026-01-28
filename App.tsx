@@ -398,7 +398,13 @@ const App: React.FC = () => {
 
       <div className="max-w-7xl mx-auto px-4 pt-4 pb-16 md:pt-4 md:pb-24 mt-20 md:mt-24">
 
-        <header className="mb-12 text-center">
+        <header className="mb-12 text-center relative">
+          <div className="absolute top-0 right-0 hidden md:flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-900/50 border border-slate-800 text-[10px] font-bold">
+            <div className={`w-2 h-2 rounded-full ${window.GA_INITIALIZED ? 'bg-emerald-500 animate-pulse' : 'bg-slate-700'}`}></div>
+            <span className={window.GA_INITIALIZED ? 'text-emerald-400' : 'text-slate-500'}>
+              {window.GA_INITIALIZED ? t.gaStatusActive : t.gaStatusInactive}
+            </span>
+          </div>
           <div className="inline-flex items-center gap-2 bg-blue-900/30 px-4 py-2 rounded-full border border-blue-500/30 text-blue-400 mb-6">
             <User size={16} /><span className="text-sm font-bold tracking-widest uppercase">Agent #0412 · {t.badge}</span>
           </div>

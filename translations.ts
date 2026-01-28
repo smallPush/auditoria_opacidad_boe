@@ -77,7 +77,9 @@ export const translations = {
     minTransparency: "Transparencia Mínima",
     maxTransparency: "Transparencia Máxima",
     allTags: "Todos los Tags",
-    refreshBtn: "Actualizar"
+    refreshBtn: "Actualizar",
+    gaStatusActive: "Google Analytics: Activo",
+    gaStatusInactive: "Google Analytics: No Configurado"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -154,6 +156,8 @@ export const translations = {
     minTransparency: "Min Transparency",
     maxTransparency: "Max Transparency",
     allTags: "All Tags",
-    refreshBtn: "Refresh"
+    refreshBtn: "Refresh",
+    gaStatusActive: "Google Analytics: Active",
+    gaStatusInactive: "Google Analytics: Not Configured"
   }
 };

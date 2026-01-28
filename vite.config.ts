@@ -4,6 +4,15 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
+
+  // Detect valid GA ID, ignoring mock values
+  const getValidGaId = () => {
+    const ids = [env.VITE_GOOGLE_ANALYTICS_ID, env.GOOGLE_ANALYTICS_ID];
+    return ids.find(id => id && id !== 'G-XXXXXXXXXX' && id !== 'your_ga_id_here');
+  };
+
+  const gaId = getValidGaId();
+
   return {
     base: '/',
     server: {
@@ -12,6 +21,26 @@ export default defineConfig(({ mode }) => {
     },
     plugins: [
       react(),
+      {
+        name: 'google-analytics',
+        transformIndexHtml(html) {
+          if (!gaId) return html;
+          return html.replace(
+            '</head>',
+            `
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '${gaId}');
+    window.GA_INITIALIZED = true;
+  </script>
+</head>`
+          );
+        }
+      },
       {
         name: 'save-audit-bridge',
         configureServer(server) {
@@ -88,7 +117,7 @@ export default defineConfig(({ mode }) => {
       'process.env.SUPABASE_URL': JSON.stringify(env.SUPABASE_URL),
       'process.env.SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY),
       'process.env.AGENT_PASSWORD': JSON.stringify(env.AGENT_PASSWORD),
-      'process.env.GOOGLE_ANALYTICS_ID': JSON.stringify(env.GOOGLE_ANALYTICS_ID)
+      'process.env.GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
     },
     resolve: {
       alias: {
