@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2072",
+  "timestamp": "2026-01-29T14:53:22.656Z",
+  "title": "Real Decreto 54/2026, de 28 de enero, por el que se modifica el Catálogo de la Red de Carreteras del Estado.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "Se trata de un acto administrativo de descentralización de competencias en materia de infraestructuras. Aunque el texto es técnicamente preciso sobre los tramos transferidos (PP.KK.), la opacidad reside en la ausencia de la memoria económica adjunta en este Real Decreto. La transferencia de la AP-68 a Navarra es el resultado de acuerdos políticos específicos que suelen implicar ajustes en el Cupo o transferencias de crédito que no se desglosan aquí, dificultando el seguimiento del coste real de mantenimiento que asume la comunidad o el ahorro para el Estado.",
+    "resumen_ciudadano": "El Gobierno de España ha entregado formalmente a la Comunidad Foral de Navarra la gestión de varios tramos de la autopista AP-68 (Vasco-Aragonesa). A partir de ahora, Navarra es la responsable única de su mantenimiento y regulación, eliminando estos tramos del catálogo nacional de carreteras.",
+    "resumen_tweet": "🛣️ El Estado cede tramos de la AP-68 a Navarra. Menos control central, más gestión foral. Se concreta la transferencia pero sin detalle de la letra pequeña económica. ¿Quién paga el mantenimiento a largo plazo? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la transferencia",
+      "Falta de mención sobre la futura política de peajes en esos tramos",
+      "Tramitación por vía de Real Decreto que agiliza pero limita el debate parlamentario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidad Foral de Navarra (gana soberanía sobre sus infraestructuras)",
+        "Ministerio de Transportes (reduce su carga de gestión operativa)"
+      ],
+      "perdedores": [
+        "Usuarios nacionales (posible fragmentación de criterios de mantenimiento y tarifas)",
+        "Transparencia fiscal (el coste del traspaso no es visible en este documento)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la transferencia",
+      "Falta de mención sobre la futura política de peajes en esos tramos",
+      "Tramitación por vía de Real Decreto que agiliza pero limita el debate parlamentario"
+    ]
+  }
+}

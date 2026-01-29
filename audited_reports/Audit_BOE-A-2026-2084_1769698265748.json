@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2084",
+  "timestamp": "2026-01-29T14:51:05.748Z",
+  "title": "Resolución de 12 de enero de 2026, de la Universidad Autónoma de Barcelona, por la que se nombra Profesor Titular de Universidad a don Juan Romero Morales.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento administrativo estándar para una plaza de funcionario docente (Profesor Titular). El texto cumple con la legalidad vigente pero perpetúa la opacidad sobre los méritos específicos que determinaron la elección del candidato frente a otros posibles aspirantes. No se detallan los costes salariales asociados ni la baremación de la comisión, delegando la transparencia a fases previas del proceso que no son de fácil acceso público en este documento final.",
+    "resumen_ciudadano": "La Universidad Autónoma de Barcelona ha nombrado oficialmente a Juan Romero Morales como Profesor Titular en el área de Lengua Española. Este es el paso final tras un concurso de oposición iniciado en mayo de 2025.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la @UABBarcelona: Juan Romero Morales es ya Profesor Titular de Filología Española. El #BOE publica el trámite final, aunque sin detalles sobre la baremación del concurso. ⚖️ #Transparencia #Opacidad #Universidades",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial de la plaza pública",
+      "Falta de enlace a la baremación de méritos del tribunal",
+      "Opacidad en el número de candidatos que compitieron por la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Romero Morales (obtiene plaza vitalicia)",
+        "Universidad Autónoma de Barcelona (cubre vacante estructural)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (sin visibilidad de motivos)",
+        "Contribuyente (falta de transparencia en la eficiencia del gasto docente)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial de la plaza pública",
+      "Falta de enlace a la baremación de méritos del tribunal",
+      "Opacidad en el número de candidatos que compitieron por la plaza"
+    ]
+  }
+}

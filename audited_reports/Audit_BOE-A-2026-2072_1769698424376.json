@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2072",
+  "timestamp": "2026-01-29T14:53:44.376Z",
+  "title": "Real Decreto 54/2026, de 28 de enero, por el que se modifica el Catálogo de la Red de Carreteras del Estado.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El Real Decreto formaliza el traspaso de tramos de la AP-68 a Navarra basándose en el régimen foral. Aunque técnico y preciso en los puntos kilométricos, adolece de 'opacidad financiera': no detalla la valoración económica del traspaso ni el impacto en los presupuestos generales por el cese de mantenimiento. Es una medida de descentralización que fragmenta la gestión de una vía de alta capacidad, priorizando la arquitectura institucional sobre la eficiencia operativa de una red nacional unificada.",
+    "resumen_ciudadano": "El Gobierno central entrega la gestión y titularidad de varios tramos de la autopista AP-68 (Vasco-Aragonesa) a la Comunidad Foral de Navarra. A partir de ahora, el Estado se desentiende de estos kilómetros, que pasan a ser competencia exclusiva navarra, modificando así el Catálogo de la Red de Carreteras del Estado.",
+    "resumen_tweet": "🚗 El Estado cede tramos de la AP-68 a Navarra. Fragmentación administrativa en marcha: se publican los kilómetros pero no el coste ni el ahorro real para el ciudadano. ¿Gestión eficiente o pacto político? 🧐 #BOE #Opacidad #Transparencia #Carreteras",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica adjunta",
+      "Fragmentación de la red de carreteras nacional",
+      "Falta de detalle sobre el personal de mantenimiento afectado",
+      "Dependencia de acuerdos bilaterales sin escrutinio público del coste"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidad Foral de Navarra (mayor control territorial y competencial)",
+        "Ministerio de Transportes (reducción de carga administrativa directa)"
+      ],
+      "perdedores": [
+        "Ciudadanos (posible confusión por gestión fragmentada de una misma vía)",
+        "Transparencia pública (desconocimiento del ajuste presupuestario real)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal/Navarra",
+    "tipologia": "Infraestructuras y Administrativa",
+    "banderas_rojas": [
+      "Ausencia de memoria económica adjunta",
+      "Fragmentación de la red de carreteras nacional",
+      "Falta de detalle sobre el personal de mantenimiento afectado",
+      "Dependencia de acuerdos bilaterales sin escrutinio público del coste"
+    ]
+  }
+}
