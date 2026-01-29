@@ -14,6 +14,7 @@ import GoogleAnalytics from './components/GoogleAnalytics';
 import AuditTrigger from './components/AuditTrigger';
 import SEO from './components/SEO';
 import Tags3DCloud from './components/Tags3DCloud';
+import Pagination from './components/Pagination';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -31,6 +32,8 @@ const App: React.FC = () => {
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [isHistoryLoaded, setIsHistoryLoaded] = useState(false);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
+  const [radarPage, setRadarPage] = useState(1);
+  const radarItemsPerPage = 5;
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
@@ -365,7 +368,7 @@ const App: React.FC = () => {
                   </div>
 
                   <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
-                    {latestArticles.map((art) => {
+                    {latestArticles.slice((radarPage - 1) * radarItemsPerPage, radarPage * radarItemsPerPage).map((art) => {
                       const audited = isAlreadyAudited(art.id);
                       return (
                         <div key={art.id} className={`bg-slate-900/40 border p-4 rounded-2xl transition-all flex flex-col justify-between group relative overflow-hidden ${audited ? 'border-emerald-500/20' : 'border-slate-800 hover:border-blue-500/30'}`}>
@@ -402,6 +405,14 @@ const App: React.FC = () => {
                       );
                     })}
                   </div>
+                  <Pagination 
+                    currentPage={radarPage}
+                    totalPages={Math.ceil(latestArticles.length / radarItemsPerPage)}
+                    onPageChange={setRadarPage}
+                    itemsPerPage={radarItemsPerPage}
+                    totalItems={latestArticles.length}
+                    label="Artículos"
+                  />
                 </section>
 
                 <section className="space-y-8 flex flex-col">

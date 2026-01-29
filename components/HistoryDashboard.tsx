@@ -3,6 +3,7 @@ import { AuditHistoryItem } from '../types';
 import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin } from 'lucide-react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { translations, Language } from '../translations';
+import Pagination from './Pagination';
 
 interface Props {
   history: AuditHistoryItem[];
@@ -19,6 +20,12 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
   const [minTransparency, setMinTransparency] = React.useState(0);
   const [maxTransparency, setMaxTransparency] = React.useState(100);
   const [selectedTag, setSelectedTag] = React.useState(searchParams.get('tag') || '');
+  const [currentPage, setCurrentPage] = React.useState(1);
+  const itemsPerPage = 8;
+
+  React.useEffect(() => {
+    setCurrentPage(1); // Reset to page 1 when filters change
+  }, [searchTerm, minTransparency, maxTransparency, selectedTag]);
 
   React.useEffect(() => {
     const tagFromUrl = searchParams.get('tag');
@@ -205,7 +212,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
             No se han encontrado auditorías que coincidan con los filtros
           </div>
         )}
-        {filteredHistory.map((item) => (
+        {filteredHistory.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage).map((item) => (
           <div
             key={`${item.boeId}-${item.timestamp}`}
             className="group relative bg-slate-900/40 border border-slate-800/80 p-4 rounded-2xl hover:bg-slate-900 hover:border-blue-500/30 transition-all text-left shadow-lg flex flex-col"
@@ -266,6 +273,15 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
           </div>
         ))}
       </div>
+      
+      <Pagination
+        currentPage={currentPage}
+        totalPages={Math.ceil(filteredHistory.length / itemsPerPage)}
+        onPageChange={setCurrentPage}
+        itemsPerPage={itemsPerPage}
+        totalItems={filteredHistory.length}
+        label="Auditorías"
+      />
     </div>
   );
 };
