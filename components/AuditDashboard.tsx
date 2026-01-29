@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, TooltipProps } from 'recharts';
 import { BOEAuditResponse } from '../types';
-import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Image as ImageIcon, Zap, Download, Loader2, Twitter, Copy, Check, Video, Play, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
+import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Zap, Download, Loader2, Twitter, Copy, Check, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
 import { translations, Language } from '../translations';
 import { postTweet } from '../services/twitterService';
 import { saveAuditToDB } from '../services/supabaseService';
@@ -12,12 +12,6 @@ interface Props {
   boeId: string;
   title: string;
   lang: Language;
-  thumbnailUrl?: string;
-  isGeneratingThumbnail?: boolean;
-  onGenerateThumbnail: () => void;
-  videoUrl?: string;
-  isGeneratingVideo?: boolean;
-  onGenerateVideo: () => void;
   isLoggedIn?: boolean;
 }
 
@@ -47,34 +41,17 @@ const AuditDashboard: React.FC<Props> = ({
   boeId,
   title,
   lang,
-  thumbnailUrl,
-  isGeneratingThumbnail,
-  onGenerateThumbnail,
-  videoUrl,
-  isGeneratingVideo,
-  onGenerateVideo,
   isLoggedIn
 }) => {
   const t = translations[lang];
   const [copiedTweet, setCopiedTweet] = useState(false);
   const [copiedJson, setCopiedJson] = useState(false);
-  const [videoPhase, setVideoPhase] = useState(1);
   const [isPostingTweet, setIsPostingTweet] = useState(false);
   const [tweetSent, setTweetSent] = useState(data.tweet_sent || false);
 
   useEffect(() => {
     setTweetSent(data.tweet_sent || false);
   }, [data.tweet_sent]);
-
-  useEffect(() => {
-    let interval: any;
-    if (isGeneratingVideo) {
-      interval = setInterval(() => {
-        setVideoPhase(p => p < 3 ? p + 1 : 1);
-      }, 8000);
-    }
-    return () => clearInterval(interval);
-  }, [isGeneratingVideo]);
 
   const chartData = [
     { name: t.transparencyLevel, value: data.nivel_transparencia },
@@ -128,8 +105,6 @@ const AuditDashboard: React.FC<Props> = ({
     document.body.removeChild(link);
     URL.revokeObjectURL(url);
   };
-
-  const videoLoadingText = videoPhase === 1 ? t.loadingVideoPhase1 : videoPhase === 2 ? t.loadingVideoPhase2 : t.loadingVideoPhase3;
 
   return (
     <div className="space-y-8 animate-in fade-in duration-700 pb-20">
