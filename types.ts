@@ -42,8 +42,4 @@ export interface AnalysisState {
   rawXml?: string;
   scrapingResults?: ScrapedLaw[];
   isScraping?: boolean;
-  thumbnailUrl?: string;
-  isGeneratingThumbnail?: boolean;
-  videoUrl?: string;
-  isGeneratingVideo?: boolean;
 }

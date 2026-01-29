@@ -4,7 +4,7 @@ import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-
 import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson } from 'lucide-react';
 import { BOE_SOURCES } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
-import { analyzeBOE, generateThumbnail, generateVideoSummary } from './services/geminiService';
+import { analyzeBOE } from './services/geminiService';
 import { translations, Language } from './translations';
 import { getAuditHistory, saveAuditToDB, clearLocalHistory } from './services/supabaseService';
 import AuditDashboard from './components/AuditDashboard';
@@ -37,11 +37,7 @@ const App: React.FC = () => {
     error: null,
     result: null,
     scrapingResults: undefined,
-    isScraping: false,
-    thumbnailUrl: undefined,
-    isGeneratingThumbnail: false,
-    videoUrl: undefined,
-    isGeneratingVideo: false
+    isScraping: false
   });
 
   const t = translations[lang];
@@ -164,28 +160,6 @@ const App: React.FC = () => {
     resetState();
   };
 
-  const handleGenerateThumbnail = async (audit: BOEAuditResponse) => {
-    setState(prev => ({ ...prev, isGeneratingThumbnail: true }));
-    try {
-      const url = await generateThumbnail(audit, lang);
-      setState(prev => ({ ...prev, isGeneratingThumbnail: false, thumbnailUrl: url }));
-    } catch (err: any) {
-      console.error("Image generation failed", err);
-      setState(prev => ({ ...prev, isGeneratingThumbnail: false }));
-    }
-  };
-
-  const handleGenerateVideo = async (audit: BOEAuditResponse) => {
-    setState(prev => ({ ...prev, isGeneratingVideo: true, error: null }));
-    try {
-      const url = await generateVideoSummary(audit, lang);
-      setState(prev => ({ ...prev, isGeneratingVideo: false, videoUrl: url }));
-    } catch (err: any) {
-      console.error("Video generation failed", err);
-      setState(prev => ({ ...prev, isGeneratingVideo: false, error: "Video generation failed: " + err.message }));
-    }
-  };
-
   const handleAudit = (boeId: string) => {
     navigate(`/audit/${boeId}`);
   };
@@ -194,10 +168,7 @@ const App: React.FC = () => {
     const cached = history.find(item => item.boeId === boeId);
     if (cached) {
       setSearchId(boeId);
-      setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit, thumbnailUrl: undefined, videoUrl: undefined }));
-      if (isLoggedIn) {
-        handleGenerateThumbnail(cached.audit);
-      }
+      setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit }));
       return;
     }
 
@@ -207,7 +178,7 @@ const App: React.FC = () => {
     }
 
     setSearchId(boeId);
-    setState(prev => ({ ...prev, loading: true, error: null, result: null, scrapingResults: undefined, thumbnailUrl: undefined, videoUrl: undefined }));
+    setState(prev => ({ ...prev, loading: true, error: null, result: null, scrapingResults: undefined }));
     try {
       let xmlText = "";
       let docTitle = customTitle || (lang === 'es' ? "Documento BOE" : "Gazette Document");
@@ -229,7 +200,6 @@ const App: React.FC = () => {
       await loadHistory();
 
       setState(prev => ({ ...prev, loading: false, error: null, result: audit }));
-      handleGenerateThumbnail(audit);
 
     } catch (error: any) {
       setState(prev => ({ ...prev, loading: false, error: error.message || "Error during analysis" }));
@@ -264,7 +234,7 @@ const App: React.FC = () => {
   };
 
   const resetState = () => {
-    setState({ loading: false, error: null, result: null, scrapingResults: undefined, isScraping: false, thumbnailUrl: undefined, isGeneratingThumbnail: false, videoUrl: undefined, isGeneratingVideo: false });
+    setState({ loading: false, error: null, result: null, scrapingResults: undefined, isScraping: false });
     setSearchId('');
   };
 
@@ -496,8 +466,6 @@ const App: React.FC = () => {
               isLoggedIn={isLoggedIn}
               searchId={searchId}
               lang={lang}
-              onGenerateThumbnail={handleGenerateThumbnail}
-              onGenerateVideo={handleGenerateVideo}
               resetState={resetState}
               history={history}
             />

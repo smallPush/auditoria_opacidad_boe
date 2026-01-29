@@ -12,8 +12,6 @@ interface AuditTriggerProps {
   isLoggedIn: boolean;
   searchId: string;
   lang: Language;
-  onGenerateThumbnail: (audit: BOEAuditResponse) => void;
-  onGenerateVideo: (audit: BOEAuditResponse) => void;
   resetState: () => void;
   history: AuditHistoryItem[];
 }
@@ -25,8 +23,6 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   isLoggedIn,
   searchId,
   lang,
-  onGenerateThumbnail,
-  onGenerateVideo,
   resetState,
   history
 }) => {
@@ -85,12 +81,6 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
           boeId={searchId}
           title={title}
           lang={lang}
-          thumbnailUrl={state.thumbnailUrl}
-          isGeneratingThumbnail={state.isGeneratingThumbnail}
-          onGenerateThumbnail={() => state.result && onGenerateThumbnail(state.result)}
-          videoUrl={state.videoUrl}
-          isGeneratingVideo={state.isGeneratingVideo}
-          onGenerateVideo={() => state.result && onGenerateVideo(state.result)}
           isLoggedIn={isLoggedIn}
         />
       </div>
