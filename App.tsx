@@ -13,6 +13,7 @@ import Navbar from './components/Navbar';
 import GoogleAnalytics from './components/GoogleAnalytics';
 import AuditTrigger from './components/AuditTrigger';
 import SEO from './components/SEO';
+import Tags3DCloud from './components/Tags3DCloud';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -246,6 +247,7 @@ const App: React.FC = () => {
   const getCurrentView = () => {
     if (location.pathname === '/') return 'home';
     if (location.pathname === '/history') return 'history';
+    if (location.pathname === '/tags') return 'tags';
     if (location.pathname.startsWith('/audit/')) return 'audit';
     return 'home';
   };
@@ -320,19 +322,15 @@ const App: React.FC = () => {
 
       <div className="max-w-7xl mx-auto px-4 pt-4 pb-16 md:pt-4 md:pb-24 mt-20 md:mt-24">
 
-        <header className="mb-12 text-center relative">
-          <div className="absolute top-0 right-0 hidden md:flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-900/50 border border-slate-800 text-[10px] font-bold">
-            <div className={`w-2 h-2 rounded-full ${window.GA_INITIALIZED ? 'bg-emerald-500 animate-pulse' : 'bg-slate-700'}`}></div>
-            <span className={window.GA_INITIALIZED ? 'text-emerald-400' : 'text-slate-500'}>
-              {window.GA_INITIALIZED ? t.gaStatusActive : t.gaStatusInactive}
-            </span>
-          </div>
-          <div className="inline-flex items-center gap-2 bg-blue-900/30 px-4 py-2 rounded-full border border-blue-500/30 text-blue-400 mb-6">
-            <User size={16} /><span className="text-sm font-bold tracking-widest uppercase">Agent #0412 · {t.badge}</span>
-          </div>
-          <h1 className="text-5xl md:text-7xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">{t.title}</h1>
-          <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
-        </header>
+        {location.pathname === '/' && (
+          <header className="mb-12 text-center relative">
+            <div className="inline-flex items-center gap-2 bg-blue-900/30 px-4 py-2 rounded-full border border-blue-500/30 text-blue-400 mb-6">
+              <User size={16} /><span className="text-sm font-bold tracking-widest uppercase">Agent #0412 · {t.badge}</span>
+            </div>
+            <h1 className="text-5xl md:text-7xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">{t.title}</h1>
+            <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
+          </header>
+        )}
 
         <Routes>
           <Route path="/" element={
@@ -477,6 +475,17 @@ const App: React.FC = () => {
                   />
                 )}
               </div>
+            </div>
+          } />
+
+          <Route path="/tags" element={
+            <div className="space-y-8 animate-in fade-in duration-500">
+               <SEO 
+                title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
+                description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
+                keywords={["BOE", "3D", "Visualización", "Datos", "React Three Fiber"]}
+              />
+              <Tags3DCloud history={history} />
             </div>
           } />
 

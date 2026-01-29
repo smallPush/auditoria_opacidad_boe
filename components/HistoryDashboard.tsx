@@ -1,7 +1,7 @@
 import React from 'react';
 import { AuditHistoryItem } from '../types';
 import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { translations, Language } from '../translations';
 
 interface Props {
@@ -14,10 +14,27 @@ interface Props {
 
 const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, isLoggedIn }) => {
   const t = translations[lang];
+  const [searchParams, setSearchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = React.useState('');
   const [minTransparency, setMinTransparency] = React.useState(0);
   const [maxTransparency, setMaxTransparency] = React.useState(100);
-  const [selectedTag, setSelectedTag] = React.useState('');
+  const [selectedTag, setSelectedTag] = React.useState(searchParams.get('tag') || '');
+
+  React.useEffect(() => {
+    const tagFromUrl = searchParams.get('tag');
+    if (tagFromUrl) {
+      setSelectedTag(tagFromUrl);
+    }
+  }, [searchParams]);
+
+  const handleTagChange = (tag: string) => {
+    setSelectedTag(tag);
+    if (tag) {
+      setSearchParams({ tag });
+    } else {
+      setSearchParams({});
+    }
+  };
 
   const allTags = React.useMemo(() => {
     const tags = new Set<string>();
@@ -34,9 +51,11 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
         item.boeId.toLowerCase().includes(searchTerm.toLowerCase());
       const matchesTransparency = item.audit.nivel_transparencia >= minTransparency &&
         item.audit.nivel_transparencia <= maxTransparency;
+      
       const matchesTag = !selectedTag ||
         item.audit.comunidad_autonoma === selectedTag ||
-        item.audit.tipologia === selectedTag;
+        item.audit.tipologia === selectedTag ||
+        (item.audit.banderas_rojas && item.audit.banderas_rojas.includes(selectedTag));
 
       return matchesSearch && matchesTransparency && matchesTag;
     });
@@ -136,7 +155,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
             <select
               className="bg-transparent text-xs text-slate-300 outline-none cursor-pointer"
               value={selectedTag}
-              onChange={(e) => setSelectedTag(e.target.value)}
+              onChange={(e) => handleTagChange(e.target.value)}
             >
               <option value="">{t.allTags}</option>
               {allTags.map(tag => (

@@ -11,12 +11,16 @@
   },
   "dependencies": {
     "@google/genai": "^1.36.0",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
     "@supabase/supabase-js": "2.48.1",
+    "@types/three": "^0.182.0",
     "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-router-dom": "^7.13.0",
     "recharts": "^3.6.0",
+    "three": "^0.182.0",
     "twitter-api-v2": "^1.29.0"
   },
   "devDependencies": {
