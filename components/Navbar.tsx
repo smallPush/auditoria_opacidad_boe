@@ -71,7 +71,7 @@ const Navbar: React.FC<NavbarProps> = ({
                             className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${currentView === 'tags' ? 'bg-cyan-600 text-white shadow-lg shadow-cyan-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
                         >
                             <Box size={16} />
-                            3D Tags
+                            Etiquetas 3D
                         </button>
                     </div>
 
@@ -145,7 +145,7 @@ const Navbar: React.FC<NavbarProps> = ({
                             className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${currentView === 'tags' ? 'bg-cyan-600/10 text-cyan-400 border border-cyan-600/20' : 'text-slate-400'}`}
                         >
                             <Box size={20} />
-                            3D Tags
+                            Etiquetas 3D
                         </button>
 
                         <div className="pt-4 border-t border-slate-800/50">

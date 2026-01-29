@@ -330,7 +330,7 @@ const App: React.FC = () => {
             <div className="inline-flex items-center gap-2 bg-blue-900/30 px-4 py-2 rounded-full border border-blue-500/30 text-blue-400 mb-6">
               <User size={16} /><span className="text-sm font-bold tracking-widest uppercase">Agent #0412 · {t.badge}</span>
             </div>
-            <h1 className="text-5xl md:text-7xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">{t.title}</h1>
+            <h1 className="text-3xl md:text-4xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">{t.title}</h1>
             <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
           </header>
         )}
@@ -338,7 +338,7 @@ const App: React.FC = () => {
         <Routes>
           <Route path="/" element={
             <div className="space-y-16 animate-in fade-in duration-500">
-              <SEO 
+              <SEO
                 title={t.title + " - " + t.subtitle}
                 description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
                 keywords={["BOE", "Auditoría", "Transparencia", "IA", "Civic Tech", "España", "Leyes"]}
@@ -383,10 +383,10 @@ const App: React.FC = () => {
                             <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">{art.titulo}</h3>
                           </div>
                           <div className="flex items-center justify-between mt-4">
-                            <a 
-                              href={`https://www.boe.es/buscar/doc.php?id=${art.id}`} 
-                              target="_blank" 
-                              rel="noopener noreferrer" 
+                            <a
+                              href={`https://www.boe.es/buscar/doc.php?id=${art.id}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
                               className="text-[10px] text-slate-600 font-mono hover:text-blue-400 transition-colors flex items-center gap-1"
                             >
                               {art.id} <ExternalLink size={10} />
@@ -405,7 +405,7 @@ const App: React.FC = () => {
                       );
                     })}
                   </div>
-                  <Pagination 
+                  <Pagination
                     currentPage={radarPage}
                     totalPages={Math.ceil(latestArticles.length / radarItemsPerPage)}
                     onPageChange={setRadarPage}
@@ -417,30 +417,69 @@ const App: React.FC = () => {
 
                 <section className="space-y-8 flex flex-col">
                   <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex-1 flex flex-col justify-center gap-8">
-                    <div className="text-center space-y-4">
-                      <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
-                        <Search size={32} />
-                      </div>
-                      <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
-                      <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
-                    </div>
+                    {isLoggedIn ? (
+                      <>
+                        <div className="text-center space-y-4">
+                          <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                            <Search size={32} />
+                          </div>
+                          <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
+                          <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
+                        </div>
 
-                    <div className="flex flex-col gap-3">
-                      <input
-                        type="text"
-                        placeholder={t.searchPlaceholder}
-                        className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
-                        value={searchId}
-                        onChange={(e) => setSearchId(e.target.value)}
-                        onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
-                      />
-                      <button
-                        onClick={() => handleAudit(searchId)}
-                        disabled={!searchId}
-                        className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
-                      >
-                        {t.analyzeBtn}
-                      </button>
+                        <div className="flex flex-col gap-3">
+                          <input
+                            type="text"
+                            placeholder={t.searchPlaceholder}
+                            className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
+                            value={searchId}
+                            onChange={(e) => setSearchId(e.target.value)}
+                            onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
+                          />
+                          <button
+                            onClick={() => handleAudit(searchId)}
+                            disabled={!searchId}
+                            className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
+                          >
+                            {t.analyzeBtn}
+                          </button>
+                        </div>
+                      </>
+                    ) : (
+                      <div className="text-center space-y-4 mb-4">
+                        <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                          <ShieldCheck size={32} />
+                        </div>
+                        <h3 className="text-2xl font-bold text-white tracking-tight">Acceso Restringido</h3>
+                        <p className="text-slate-500 text-sm max-w-xs mx-auto">Inicia sesión como Agente para realizar nuevas auditorías personalizadas.</p>
+                      </div>
+                    )}
+
+                    <div className={`pt-6 ${isLoggedIn ? 'border-t border-slate-800' : ''}`}>
+                      <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-4 text-center">Explorar por Nivel de Opacidad</p>
+                      <div className="grid grid-cols-3 gap-3">
+                        <button 
+                          onClick={() => navigate('/history?min=0&max=33')}
+                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
+                        >
+                          <span className="text-xs font-bold text-red-400">0 - 33%</span>
+                          <span className="text-[8px] text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">Crítico</span>
+                        </button>
+                        <button 
+                          onClick={() => navigate('/history?min=34&max=66')}
+                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
+                        >
+                          <span className="text-xs font-bold text-amber-400">34 - 66%</span>
+                          <span className="text-[8px] text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">Advertencia</span>
+                        </button>
+                        <button 
+                          onClick={() => navigate('/history?min=67&max=100')}
+                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
+                        >
+                          <span className="text-xs font-bold text-emerald-400">67 - 100%</span>
+                          <span className="text-[8px] text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">Transparente</span>
+                        </button>
+                      </div>
                     </div>
                   </div>
                 </section>
@@ -450,7 +489,7 @@ const App: React.FC = () => {
 
           <Route path="/history" element={
             <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
-              <SEO 
+              <SEO
                 title={`${t.historyTitle} - ${t.title}`}
                 description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
                 keywords={["BOE", "Historial", "Auditorías", "Transparencia", "Archivo"]}
@@ -491,7 +530,7 @@ const App: React.FC = () => {
 
           <Route path="/tags" element={
             <div className="space-y-8 animate-in fade-in duration-500">
-               <SEO 
+              <SEO
                 title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
                 description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
                 keywords={["BOE", "3D", "Visualización", "Datos", "React Three Fiber"]}
@@ -518,7 +557,7 @@ const App: React.FC = () => {
 
 
         <footer className="mt-24 pt-12 border-t border-slate-800 text-center text-slate-500 text-sm">
-          <p>&copy; 2024 Civic Intelligence Auditor. {t.footerDesc}</p>
+          <p>&copy; 2026 Spanish BOE Transparency Auditor. {t.footerDesc}</p>
         </footer>
         {showLogin && <LoginOverlay />}
       </div>

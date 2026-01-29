@@ -17,8 +17,8 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
   const t = translations[lang];
   const [searchParams, setSearchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = React.useState('');
-  const [minTransparency, setMinTransparency] = React.useState(0);
-  const [maxTransparency, setMaxTransparency] = React.useState(100);
+  const [minTransparency, setMinTransparency] = React.useState(parseInt(searchParams.get('min') || '0'));
+  const [maxTransparency, setMaxTransparency] = React.useState(parseInt(searchParams.get('max') || '100'));
   const [selectedTag, setSelectedTag] = React.useState(searchParams.get('tag') || '');
   const [currentPage, setCurrentPage] = React.useState(1);
   const itemsPerPage = 8;
@@ -29,18 +29,35 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
 
   React.useEffect(() => {
     const tagFromUrl = searchParams.get('tag');
-    if (tagFromUrl) {
-      setSelectedTag(tagFromUrl);
-    }
+    if (tagFromUrl) setSelectedTag(tagFromUrl);
+
+    const minFromUrl = searchParams.get('min');
+    if (minFromUrl) setMinTransparency(parseInt(minFromUrl));
+
+    const maxFromUrl = searchParams.get('max');
+    if (maxFromUrl) setMaxTransparency(parseInt(maxFromUrl));
   }, [searchParams]);
 
-  const handleTagChange = (tag: string) => {
-    setSelectedTag(tag);
-    if (tag) {
-      setSearchParams({ tag });
-    } else {
-      setSearchParams({});
+  const handleFilterChange = (updates: { tag?: string, min?: number, max?: number }) => {
+    const newParams = new URLSearchParams(searchParams);
+    
+    if (updates.tag !== undefined) {
+      setSelectedTag(updates.tag);
+      if (updates.tag) newParams.set('tag', updates.tag);
+      else newParams.delete('tag');
     }
+
+    if (updates.min !== undefined) {
+      setMinTransparency(updates.min);
+      newParams.set('min', updates.min.toString());
+    }
+
+    if (updates.max !== undefined) {
+      setMaxTransparency(updates.max);
+      newParams.set('max', updates.max.toString());
+    }
+
+    setSearchParams(newParams);
   };
 
   const allTags = React.useMemo(() => {
@@ -136,7 +153,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
                 min="0"
                 max="100"
                 value={minTransparency}
-                onChange={(e) => setMinTransparency(parseInt(e.target.value))}
+                onChange={(e) => handleFilterChange({ min: parseInt(e.target.value) })}
                 className="w-20 h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-blue-500"
               />
               <span className="text-xs font-mono text-blue-400 w-8 text-right">{minTransparency}%</span>
@@ -150,7 +167,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
                 min="0"
                 max="100"
                 value={maxTransparency}
-                onChange={(e) => setMaxTransparency(parseInt(e.target.value))}
+                onChange={(e) => handleFilterChange({ max: parseInt(e.target.value) })}
                 className="w-20 h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-red-500"
               />
               <span className="text-xs font-mono text-red-400 w-8 text-right">{maxTransparency}%</span>
@@ -162,7 +179,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
             <select
               className="bg-transparent text-xs text-slate-300 outline-none cursor-pointer"
               value={selectedTag}
-              onChange={(e) => handleTagChange(e.target.value)}
+              onChange={(e) => handleFilterChange({ tag: e.target.value })}
             >
               <option value="">{t.allTags}</option>
               {allTags.map(tag => (

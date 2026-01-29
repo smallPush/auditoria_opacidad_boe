@@ -4,7 +4,7 @@ export type Language = 'es' | 'en';
 export const translations = {
   es: {
     badge: "Agente de Inteligencia Cívica de Élite",
-    title: "Auditoría de Opacidad",
+    title: "Auditoria del BOE",
     subtitle: "Monitorización ciudadana del BOE. Detectando lenguaje opaco y desviaciones presupuestarias con IA.",
     searchPlaceholder: "ID BOE (ej. BOE-A-2024-4161)...",
     analyzeBtn: "Analizar",
@@ -81,7 +81,7 @@ export const translations = {
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
-    title: "Opacity Auditor",
+    title: "BOE Audit",
     subtitle: "Civic monitoring of the BOE. Detecting opaque language with AI.",
     searchPlaceholder: "BOE ID (e.g. BOE-A-2024-4161)...",
     analyzeBtn: "Analyze",
