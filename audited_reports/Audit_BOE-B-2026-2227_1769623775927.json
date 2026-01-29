@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-B-2026-2227",
+  "timestamp": "2026-01-28T18:09:35.927Z",
+  "title": "Anuncio de la Comunidad de Regantes de la Acequia de Tarramonta, sobre convocatoria de Junta.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El anuncio presenta una estructura clásica de opacidad administrativa en la gestión de recursos hídricos. Destaca la cláusula de validez de acuerdos 'sea cualquiera el número de asistentes', lo que debilita la representatividad democrática. El uso de epígrafes vagos como 'Asuntos varios' o 'Todo cuanto corresponda al mejor aprovechamiento' funciona como un cheque en blanco para la toma de decisiones críticas sin supervisión previa de los comuneros.",
+    "resumen_ciudadano": "La Comunidad de Regantes de la Acequia de Tarramonta convoca una reunión clave para decidir el presupuesto de 2026 y renovar cargos. Sin embargo, lo que se decida será vinculante aunque asistan muy pocos socios, y el orden del día incluye puntos genéricos que impiden saber de antemano qué se va a votar exactamente sobre el reparto del agua.",
+    "resumen_tweet": "🚩 Alerta en el #BOE: La Acequia de Tarramonta convoca junta con puntos ciegos. Acuerdos válidos sin quórum mínimo y 'Asuntos varios' que ocultan decisiones clave sobre el agua. 💧📉 #Opacidad #Transparencia #VegasDeGenil",
+    "banderas_red_flags": [
+      "Validez de acuerdos sin quórum mínimo",
+      "Punto del orden del día 'Asuntos varios' (falta de especificidad)",
+      "Falta de información sobre las cuantías de los presupuestos y repartimientos",
+      "Delegación de poder genérica en el punto séptimo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Junta de Gobierno actual (mayor control administrativo)",
+        "Grandes propietarios con capacidad de influencia directa"
+      ],
+      "perdedores": [
+        "Pequeños regantes (riesgo de falta de representatividad)",
+        "Transparencia en la gestión del bien público hídrico"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Administrativa y de Gestión de Recursos",
+    "banderas_rojas": [
+      "Validez de acuerdos sin quórum mínimo",
+      "Punto del orden del día 'Asuntos varios' (falta de especificidad)",
+      "Falta de información sobre las cuantías de los presupuestos y repartimientos",
+      "Delegación de poder genérica en el punto séptimo"
+    ],
+    "tweet_sent": true
+  }
+}
