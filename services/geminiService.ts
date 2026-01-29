@@ -160,7 +160,7 @@ export const generateVideoSummary = async (auditData: BOEAuditResponse, lang: La
     const downloadLink = operation.response?.generatedVideos?.[0]?.video?.uri;
     if (!downloadLink) throw new Error("No video generated");
 
-    return `${downloadLink}&key=${apiKey}`;
+    return downloadLink;
   } catch (err: any) {
     isApiBlocked = true;
     if (err.message?.toLowerCase().includes("api key") || err.message?.includes("401") || err.message?.includes("403")) {
