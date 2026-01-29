@@ -4,6 +4,7 @@ import { AlertCircle, ArrowLeft, Loader2 } from 'lucide-react';
 import { AnalysisState, BOEAuditResponse, AuditHistoryItem } from '../types';
 import { Language } from '../translations';
 import AuditDashboard from './AuditDashboard';
+import SEO from './SEO';
 
 interface AuditTriggerProps {
   performAudit: (boeId: string) => void;
@@ -68,8 +69,23 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   }
 
   if (state.result) {
+    const keywords = [
+      "BOE", 
+      searchId, 
+      "Auditoría", 
+      "Transparencia", 
+      ...(state.result.banderas_rojas || []), 
+      state.result.tipologia, 
+      state.result.comunidad_autonoma
+    ].filter((k): k is string => !!k);
+
     return (
       <div className="space-y-6">
+        <SEO 
+          title={`Auditoría ${searchId} - ${title}`}
+          description={state.result.resumen_tweet || state.result.resumen_ciudadano.substring(0, 160)}
+          keywords={keywords}
+        />
         <button 
           onClick={() => navigate('/')} 
           className="flex items-center gap-2 bg-slate-900 border border-slate-800 px-6 py-3 rounded-xl text-slate-300 hover:bg-slate-800 transition-all"

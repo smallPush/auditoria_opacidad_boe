@@ -12,6 +12,7 @@ import HistoryDashboard from './components/HistoryDashboard';
 import Navbar from './components/Navbar';
 import GoogleAnalytics from './components/GoogleAnalytics';
 import AuditTrigger from './components/AuditTrigger';
+import SEO from './components/SEO';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -334,6 +335,11 @@ const App: React.FC = () => {
         <Routes>
           <Route path="/" element={
             <div className="space-y-16 animate-in fade-in duration-500">
+              <SEO 
+                title={t.title + " - " + t.subtitle}
+                description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
+                keywords={["BOE", "Auditoría", "Transparencia", "IA", "Civic Tech", "España", "Leyes"]}
+              />
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                 <section className="space-y-6">
                   <div className="flex items-center justify-between border-b border-slate-800 pb-4">
@@ -433,6 +439,11 @@ const App: React.FC = () => {
 
           <Route path="/history" element={
             <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
+              <SEO 
+                title={`${t.historyTitle} - ${t.title}`}
+                description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
+                keywords={["BOE", "Historial", "Auditorías", "Transparencia", "Archivo"]}
+              />
               <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
                 <div>
                   <h2 className="text-3xl font-black flex items-center gap-3 text-white">
