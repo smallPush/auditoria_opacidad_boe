@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2075",
+  "timestamp": "2026-01-29T12:07:48.064Z",
+  "title": "Orden EFD/41/2026, de 22 de enero, por la que, a propuesta de la Consejería de Educación y Empleo de la Comunidad Autónoma de La Rioja, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores Especialistas en Sectores Singulares de Formación Profesional, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, y Maestros, a las personas seleccionadas en el procedimiento selectivo convocado por Resolución 185/2022, de 23 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una Orden de nombramiento de funcionarios de carrera en La Rioja tras un proceso de estabilización. La mayor crítica reside en la 'dilatación temporal': un proceso convocado en 2022 se resuelve administrativamente para el BOE en 2026, aunque con efectos retroactivos a 2024. Este desfase evidencia la lentitud burocrática en la reducción de la temporalidad. Existe un claro sesgo de género (feminización) en el sector docente, especialmente en Maestros y Servicios a la Comunidad. No se observan gastos fantasma directos, pero la consolidación de plazas implica un compromiso presupuestario a largo plazo sin desglose de masa salarial total asociada.",
+    "resumen_ciudadano": "El Ministerio de Educación oficializa el nombramiento de nuevos profesores y maestros en La Rioja que superaron las oposiciones de estabilización iniciadas en 2022. Estas personas ya son oficialmente funcionarios de carrera con efectos desde finales de 2024.",
+    "resumen_tweet": "📉 El #BOE publica hoy los nombramientos de docentes en #LaRioja tras procesos de 2022. ¡4 años para oficializar la estabilidad! 👩‍🏫 Predominio femenino en las nuevas plazas. La burocracia sigue siendo el cuello de botella. #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Desfase temporal excesivo (Convocatoria 2022 - Publicación 2026)",
+      "Retroactividad administrativa de efectos económicos y administrativos",
+      "Opacidad en el coste presupuestario total de la consolidación de plantilla"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que consolida su plaza (predominantemente mujeres)",
+        "Consejería de Educación de La Rioja (reduce tasas de temporalidad legal)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en un proceso que ha tardado 4 años",
+        "Agilidad administrativa (el sistema muestra una lentitud estructural)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramientos de personal funcionario",
+    "banderas_rojas": [
+      "Desfase temporal excesivo (Convocatoria 2022 - Publicación 2026)",
+      "Retroactividad administrativa de efectos económicos y administrativos",
+      "Opacidad en el coste presupuestario total de la consolidación de plantilla"
+    ]
+  }
+}

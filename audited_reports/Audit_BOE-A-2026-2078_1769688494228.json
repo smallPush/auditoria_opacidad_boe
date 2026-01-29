@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2078",
+  "timestamp": "2026-01-29T12:08:14.228Z",
+  "title": "Resolución de 21 de enero de 2026, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se dispone el cese y nombramiento de vocales en la Comisión de Calificación de Películas Cinematográficas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución cumple formalmente con la ley, se observa una opacidad sistemática en la selección de los vocales. Se citan artículos normativos pero no se exponen los méritos específicos ni el proceso de concurrencia competitiva (si lo hubo) para los nuevos nombramientos. Estos puestos son clave para la industria cinematográfica, ya que determinan el acceso comercial según la edad, lo que impacta directamente en los ingresos de las productoras. La falta de mención a las dietas o remuneraciones por sesión genera un espacio de 'gasto fantasma' administrativo.",
+    "resumen_ciudadano": "El Ministerio de Cultura ha cambiado a tres de los miembros encargados de poner la calificación de edad (TP, +12, +18) a las películas en España. Salen tres personas y entran otras tres por un periodo máximo de dos años. Estas personas tienen el poder de influir en el éxito comercial de una película, pero el documento no explica por qué han sido elegidas ellas ni cuánto dinero público perciben por realizar este trabajo asesor.",
+    "resumen_tweet": "🚨 ¿Quién decide qué ven tus hij@s? El ICAA renueva vocales en la Comisión de Calificación de Cine. 🎬 Mucha norma técnica pero CERO info sobre sueldos o por qué eligen a estos nombres y no a otros. ¿Transparencia? A medias. #BOE #Opacidad #Cine 🔍",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario para dietas de la comisión",
+      "Criterios de selección basados en designación directa sin publicidad de méritos",
+      "Opacidad en la justificación de la 'idoneidad' de los perfiles elegidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pablo Huelves Garrido, Camelia Ciruelos de Cela y Pilar Manuela Ordóñez Miyar (nuevos vocales)",
+        "Ministerio de Cultura (mantiene control sobre la calificación de contenidos)"
+      ],
+      "perdedores": [
+        "Profesionales del sector audiovisual fuera del círculo de confianza ministerial",
+        "Ciudadanía (desconoce el coste real de este órgano asesor)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario para dietas de la comisión",
+      "Criterios de selección basados en designación directa sin publicidad de méritos",
+      "Opacidad en la justificación de la 'idoneidad' de los perfiles elegidos"
+    ]
+  }
+}

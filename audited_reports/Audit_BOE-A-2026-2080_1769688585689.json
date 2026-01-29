@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2080",
+  "timestamp": "2026-01-29T12:09:45.689Z",
+  "title": "Resolución de 23 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de diciembre de 2025, en el Organismo Autónomo Instituto Nacional de Estadística.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el sistema de 'Libre Designacion' para cubrir puestos de Nivel 30 (el maximo en la carrera administrativa). Aunque se ampara en el Real Decreto-ley 6/2023 del Plan de Recuperacion, este metodo permite una discrecionalidad que bordea el clientelismo institucional, alejandose de los principios de concurso-oposicion y merito puro. La 'valoracion de asesores' mencionada es opaca, sin baremos publicos de puntuacion.",
+    "resumen_ciudadano": "El Ministerio de Economia ha nombrado a dedo a dos nuevos Subdirectores Generales para el Instituto Nacional de Estadistica (INE). Estos puestos, con el sueldo y nivel mas alto posible para funcionarios, se han otorgado mediante un sistema de confianza en lugar de una competicion abierta basada estrictamente en examenes o meritos comparativos publicos.",
+    "resumen_tweet": "🚩 ¿Meritocracia o confianza? El INE adjudica dos Subdirecciones Generales (Nivel 30) mediante 'Libre Designacion'. Otra vez, los puestos mas altos se deciden con opacidad bajo el paraguas del Plan de Recuperacion. 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designacion (eleccion discrecional)",
+      "Puestos de Nivel 30 (maxima remuneracion y poder administrativo)",
+      "Uso de asesores no identificados para valorar la idoneidad",
+      "Amparado en medidas urgentes del Plan de Recuperacion para agilizar nombramientos directivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Estadisticos",
+        "Especialistas en Tecnologias de la Informacion con acceso a la cupula directiva",
+        "Estructura jerarquica del INE que consolida mandos de confianza"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vinculos de confianza con la direccion",
+        "Principio de concurrencia competitiva",
+        "Transparencia en la gestion del talento publico"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Nombramientos y Personal (Libre Designacion)",
+    "banderas_rojas": [
+      "Sistema de Libre Designacion (eleccion discrecional)",
+      "Puestos de Nivel 30 (maxima remuneracion y poder administrativo)",
+      "Uso de asesores no identificados para valorar la idoneidad",
+      "Amparado en medidas urgentes del Plan de Recuperacion para agilizar nombramientos directivos"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2079",
+  "timestamp": "2026-01-29T12:08:28.780Z",
+  "title": "Resolución 22 de enero de 2026, de la Subsecretaría, por la que se resuelve el concurso específico convocado por Resolución de 23 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución revela una preocupante incapacidad del Ministerio de Cultura para atraer o retener talento en áreas críticas. Un 38% de las plazas ofertadas han quedado desiertas, especialmente en jefaturas de sección de sistemas informáticos y archivos. Existe una circularidad burocrática donde los 'ganadores' son funcionarios que saltan de ministerios como Interior o Hacienda hacia Cultura, buscando presumiblemente mejores condiciones de vida o proximidad geográfica, pero sin que se perciba una renovación real del cuerpo administrativo. La falta de cobertura en puestos técnicos (niveles 24-26) sugiere que la Administración no es competitiva frente al sector privado o que los requisitos internos son excesivamente rígidos.",
+    "resumen_ciudadano": "El Ministerio de Cultura ha publicado quiénes ocuparán nuevos puestos de trabajo tras un concurso interno. Aunque algunos funcionarios han cambiado de departamento (viniendo de áreas como Investigación o Interior), muchos puestos importantes en informática y gestión de archivos se han quedado vacíos porque nadie cumplía los requisitos o nadie se presentó. Esto afecta directamente a la modernización y digitalización de nuestros museos y archivos nacionales.",
+    "resumen_tweet": "🏛️ El Ministerio de Cultura reparte sillas: ¡un 38% de las plazas quedan VACÍAS! 📉 Puestos clave en sistemas y archivos históricos se quedan sin personal. ¿Fuga de talento o burocracia obsoleta? La cultura se queda atrás. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de vacantes (plazas desiertas) en puestos técnicos",
+      "Endogamia administrativa: trasvase de personal entre ministerios sin entrada de perfiles externos",
+      "Incongruencia en la digitalización: plazas de sistemas informáticos sin cubrir en plena era digital"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con movilidad (ej. traslados desde Tenerife a Cantabria o Madrid a Soria)",
+        "Ministerio del Interior y CSIC (que actúan como cantera de personal para Cultura)"
+      ],
+      "perdedores": [
+        "Patrimonio Nacional y Archivos (por falta de personal especializado)",
+        "Ciudadanos (retrasos en la gestión cultural y digitalización de archivos)",
+        "Candidatos cualificados del sector privado (excluidos por ser un concurso específico restringido)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Alta tasa de vacantes (plazas desiertas) en puestos técnicos",
+      "Endogamia administrativa: trasvase de personal entre ministerios sin entrada de perfiles externos",
+      "Incongruencia en la digitalización: plazas de sistemas informáticos sin cubrir en plena era digital"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2072",
+  "timestamp": "2026-01-29T11:57:03.683Z",
+  "title": "Real Decreto 54/2026, de 28 de enero, por el que se modifica el Catálogo de la Red de Carreteras del Estado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto formaliza el traspaso de tramos específicos de la AP-68 a Navarra, cumpliendo acuerdos políticos de descentralización. Sin embargo, el texto presenta una opacidad financiera total: no detalla la valoración económica del traspaso ni cómo se verá afectado el presupuesto estatal para mantenimiento. Se prioriza la geometría administrativa foral sobre la unidad técnica de la red de transporte, lo que genera una fragmentación de la infraestructura nacional sin explicar las ventajas directas para el usuario.",
+    "resumen_ciudadano": "El Gobierno de España ha cedido oficialmente la gestión y titularidad de dos tramos de la autopista AP-68 (Vasco-Aragonesa) a la Comunidad Foral de Navarra. Esto implica que el Estado deja de ser responsable de estos kilómetros, modificando el Catálogo de Carreteras del Estado para que Navarra asuma sus competencias plenas de mantenimiento y regulación en dicho territorio.",
+    "resumen_tweet": "🚨 El Estado cede tramos de la AP-68 a Navarra. Mucha gestión técnica pero 0️⃣ claridad sobre el coste del traspaso para el ciudadano. ¿Descentralización o fragmentación de la red nacional? 🛣️💸 #BOE #Opacidad #Transparencia #Navarra",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica o valoración del coste de transferencia",
+      "Fragmentación de la red de interés general del Estado",
+      "Referencia a acuerdos de una 'Junta de Transferencias' cuyos detalles financieros no son públicos en este texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno Foral de Navarra (mayor autonomía y control territorial)",
+        "Partidos políticos forales (logro en la agenda de transferencias)"
+      ],
+      "perdedores": [
+        "Ciudadanos españoles (falta de información sobre el impacto en los Presupuestos Generales)",
+        "Cohesión de la Red de Carreteras del Estado (creciente atomización administrativa)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Traspaso de Competencias e Infraestructuras",
+    "banderas_rojas": [
+      "Ausencia de memoria económica o valoración del coste de transferencia",
+      "Fragmentación de la red de interés general del Estado",
+      "Referencia a acuerdos de una 'Junta de Transferencias' cuyos detalles financieros no son públicos en este texto"
+    ]
+  }
+}

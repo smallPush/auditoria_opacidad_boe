@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2074",
+  "timestamp": "2026-01-29T12:07:32.278Z",
+  "title": "Resolución de 20 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 29 en la Dirección General de Protección Civil y Emergencias subraya la persistencia de mecanismos de discrecionalidad en la alta administración. Aunque legal, este sistema permite el nombramiento basado en la confianza política sobre el mérito competitivo. Resulta llamativo que el adjudicatario provenga del cuerpo de Profesores de Enseñanza Secundaria para un puesto de coordinación técnica en Interior, lo que sugiere una priorización de la lealtad personal o política sobre la especialización sectorial. El complemento específico de 23.597,14 euros es una carga presupuestaria consolidada sin una justificación de méritos pública más allá de la resolución administrativa.",
+    "resumen_ciudadano": "El Ministerio del Interior ha nombrado a un nuevo Coordinador de Área mediante el sistema de 'libre designación' (a dedo). El funcionario, que anteriormente pertenecía al cuerpo de profesores, ocupará ahora un puesto de alto nivel (Nivel 29) con un sobresueldo específico de más de 23.000 euros anuales. No se ha realizado un concurso público de méritos para esta elección.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio del Interior. Un docente pasa a Coordinador de Área (Nivel 29) vía libre designación. +23.500€ de complemento específico. ¿Confianza o competencia? 🕵️‍♂️ #BOE #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Incongruencia de perfil (Docente a Interior)",
+      "Elevado complemento salarial específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafel Andreu Güell (ascenso a nivel 29 y mejora salarial)",
+        "Subsecretaría del Interior (colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con perfil técnico en emergencias",
+        "Contribuyentes (por falta de procesos selectivos competitivos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Incongruencia de perfil (Docente a Interior)",
+      "Elevado complemento salarial específico"
+    ]
+  }
+}
