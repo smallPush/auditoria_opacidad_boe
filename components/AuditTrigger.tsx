@@ -15,6 +15,7 @@ interface AuditTriggerProps {
   lang: Language;
   resetState: () => void;
   history: AuditHistoryItem[];
+  isHistoryLoaded: boolean;
 }
 
 const AuditTrigger: React.FC<AuditTriggerProps> = ({
@@ -25,7 +26,8 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   searchId,
   lang,
   resetState,
-  history
+  history,
+  isHistoryLoaded
 }) => {
   const { boeId } = useParams<{ boeId: string }>();
   const navigate = useNavigate();
@@ -34,11 +36,11 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   const title = currentItem?.title || boeId || "BOE Document";
 
   useEffect(() => {
-    if (boeId) {
+    if (boeId && isHistoryLoaded) {
       performAudit(boeId);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [boeId, isLoggedIn]);
+  }, [boeId, isLoggedIn, isHistoryLoaded]);
 
   if (state.error) {
     return (
@@ -56,13 +58,13 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
     );
   }
 
-  if (state.loading) {
+  if (state.loading || !isHistoryLoaded) {
     return (
       <div className="flex flex-col items-center justify-center py-24 space-y-6">
         <div className="w-16 h-16 border-4 border-blue-500/20 border-t-blue-500 rounded-full animate-spin"></div>
         <div className="text-center space-y-2">
-          <h2 className="text-2xl font-bold">{t.decodingOpacity}</h2>
-          <p className="text-slate-400 max-w-md mx-auto">{t.processingGemini}</p>
+          <h2 className="text-2xl font-bold">{!isHistoryLoaded ? "Cargando historial..." : t.decodingOpacity}</h2>
+          <p className="text-slate-400 max-w-md mx-auto">{!isHistoryLoaded ? "Verificando auditorías previas" : t.processingGemini}</p>
         </div>
       </div>
     );

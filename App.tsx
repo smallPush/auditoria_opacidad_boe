@@ -28,6 +28,7 @@ const App: React.FC = () => {
   const [loginError, setLoginError] = useState(false);
   const [searchId, setSearchId] = useState('');
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
+  const [isHistoryLoaded, setIsHistoryLoaded] = useState(false);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
   const navigate = useNavigate();
@@ -125,6 +126,7 @@ const App: React.FC = () => {
   const loadHistory = async () => {
     const data = await getAuditHistory();
     setHistory(data);
+    setIsHistoryLoaded(true);
   };
 
   const handleClearHistory = () => {
@@ -488,6 +490,7 @@ const App: React.FC = () => {
               lang={lang}
               resetState={resetState}
               history={history}
+              isHistoryLoaded={isHistoryLoaded}
             />
           } />
         </Routes>
