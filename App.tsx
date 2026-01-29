@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
-import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson } from 'lucide-react';
+import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson, ExternalLink } from 'lucide-react';
 import { BOE_SOURCES } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
 import { analyzeBOE } from './services/geminiService';
@@ -374,14 +374,23 @@ const App: React.FC = () => {
                             <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">{art.titulo}</h3>
                           </div>
                           <div className="flex items-center justify-between mt-4">
-                            <span className="text-[10px] text-slate-600 font-mono">{art.id}</span>
-                            <Link
-                              to={`/audit/${art.id}`}
-                              className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
+                            <a 
+                              href={`https://www.boe.es/buscar/doc.php?id=${art.id}`} 
+                              target="_blank" 
+                              rel="noopener noreferrer" 
+                              className="text-[10px] text-slate-600 font-mono hover:text-blue-400 transition-colors flex items-center gap-1"
                             >
-                              <Zap size={10} />
-                              {audited ? t.goToAudit : t.auditWithGemini}
-                            </Link>
+                              {art.id} <ExternalLink size={10} />
+                            </a>
+                            {(isLoggedIn || audited) && (
+                              <Link
+                                to={`/audit/${art.id}`}
+                                className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
+                              >
+                                <Zap size={10} />
+                                {audited ? t.goToAudit : t.auditWithGemini}
+                              </Link>
+                            )}
                           </div>
                         </div>
                       );
