@@ -152,7 +152,7 @@ async function run() {
   try {
     const latestItems = await fetchLatestBOE();
     const filteredItems = latestItems.filter(item => item.id.startsWith('BOE-A-'));
-    const itemsToProcess = filteredItems.slice(0, 2); // Small batch for verification
+    const itemsToProcess = filteredItems.slice(0, 10); // Batch for verification
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
     const files = fs.readdirSync(AUDITED_REPORTS_DIR);
@@ -163,11 +163,19 @@ async function run() {
     });
 
     const newAudits = [];
+    let processedCount = 0;
     for (const item of itemsToProcess) {
       if (auditedIds.has(item.id)) {
         console.log(`⏩ Skipping ${item.id} (already exist)`);
         continue;
       }
+
+      // Rate Limiting: Wait 1 minute every 4 processed items
+      if (processedCount > 0 && processedCount % 4 === 0) {
+        console.log("⏳ Rate limit reached. Waiting 1 minute...");
+        await new Promise(resolve => setTimeout(resolve, 60000));
+      }
+
       console.log(`🤖 Auditing ${item.id}: ${item.titulo}...`);
       try {
         const itemXmlResponse = await fetchWithHeaders(`https://www.boe.es/diario_boe/xml.php?id=${item.id}`);
@@ -180,6 +188,8 @@ async function run() {
         fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
         console.log(`💾 Saved to ${fileName}`);
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
+        
+        processedCount++;
       } catch (err) {
         console.error(`❌ Error auditing ${item.id}:`, err.message);
       }

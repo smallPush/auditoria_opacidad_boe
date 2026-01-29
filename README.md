@@ -34,3 +34,19 @@ To prevent excessive API usage or error loops, the application implements a stri
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Automated Auditing Script
+
+The project includes a Node.js script to automatically audit the latest BOE publications without manual intervention.
+
+### How to run:
+```bash
+npm run audit
+```
+
+### Behavior:
+1. **Fetches the latest 10 legislative items** from the BOE (Official State Gazette).
+2. **Checks if they have already been audited** locally to avoid duplicates.
+3. **Audits only the new items** using Gemini 3 Flash.
+4. **Rate Limiting:** To respect API quotas, the script processes a maximum of **4 items per minute**. It will automatically pause for 60 seconds after every 4th audit.
+5. **Saves results** to `audited_reports/` and updates the index file.
