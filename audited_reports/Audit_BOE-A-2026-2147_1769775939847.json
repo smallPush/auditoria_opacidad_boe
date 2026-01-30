@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2147",
+  "timestamp": "2026-01-30T12:25:39.847Z",
+  "title": "Resolución 24E/2025, de 31 de diciembre, del Servicio de Tráfico, del Departamento de Interior, Función Pública y Justicia, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026 en la Comunidad Foral de Navarra.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se presenta como un ejercicio técnico de seguridad vial, pero esconde una alta discrecionalidad en las excepciones. Al permitir eventos deportivos basados en criterios subjetivos como 'impacto social o tradicional', se abre la puerta al favoritismo político. Además, el traspaso de competencias de tráfico a Navarra se utiliza aquí para consolidar un marco regulatorio que prioriza el flujo logístico sobre el descanso de los trabajadores del sector transporte, sin mencionar compensaciones por el uso obligatorio de itinerarios que pueden suponer mayores costes operativos (peajes encubiertos o mayor kilometraje).",
+    "resumen_ciudadano": "Navarra establece las reglas de quién y cuándo puede usar sus carreteras en 2026. Los camiones de gran tonelaje y mercancías peligrosas tendrán rutas y horarios muy limitados. Las carreras ciclistas y eventos deportivos estarán prohibidos en puentes y festivos, a menos que sean competiciones internacionales de élite o eventos tradicionales, lo que deja a los clubes modestos fuera de las vías principales.",
+    "resumen_tweet": "⚠️ ¡Navarra pone orden al asfalto en 2026! 🚛 Restricciones severas a transportistas mientras se blindan eventos de élite y 'tradicionales' con criterios ambiguos. ¿Seguridad vial o gestión a dedo? 🤔 #BOE #Opacidad #Transparencia #Navarra 🚦",
+    "banderas_red_flags": [
+      "Excepciones discrecionales para eventos 'sociales o tradicionales' sin baremo objetivo",
+      "Falta de estimación del gasto público derivado de las escoltas policiales necesarias",
+      "Uso de términos vagos como 'itinerario más idóneo' que genera inseguridad jurídica",
+      "Obligatoriedad de rutas (RIMP) que beneficia indirectamente a gestoras de vías de alta capacidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes organizadores de eventos deportivos (UCI)",
+        "Sector turístico de masas",
+        "Administración autonómica (consolidación de competencias)"
+      ],
+      "perdedores": [
+        "Transportistas autónomos (mayores restricciones de tiempo/ruta)",
+        "Clubes deportivos locales amateurs",
+        "Sector logístico de mercancías peligrosas"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Regulación de Tráfico y Seguridad Vial",
+    "banderas_rojas": [
+      "Excepciones discrecionales para eventos 'sociales o tradicionales' sin baremo objetivo",
+      "Falta de estimación del gasto público derivado de las escoltas policiales necesarias",
+      "Uso de términos vagos como 'itinerario más idóneo' que genera inseguridad jurídica",
+      "Obligatoriedad de rutas (RIMP) que beneficia indirectamente a gestoras de vías de alta capacidad"
+    ]
+  }
+}

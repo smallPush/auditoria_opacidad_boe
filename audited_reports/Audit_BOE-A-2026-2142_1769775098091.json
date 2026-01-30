@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2142",
+  "timestamp": "2026-01-30T12:11:38.091Z",
+  "title": "Orden PJC/44/2026, de 27 de enero, por la que se establece el umbral salarial de referencia para la concesión de la autorización de residencia para profesionales altamente cualificados titulares de una Tarjeta azul-UE prevista en la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La norma utiliza una técnica de remisión externa que dificulta la comprensión inmediata: no establece una cifra en euros, sino una fórmula basada en 1,4 veces la ganancia media del INE. Esto genera una opacidad reactiva, obligando al ciudadano a cruzar datos estadísticos complejos. Existe una incongruencia de clase al permitir una reducción del 20% (coeficiente 0,8) en el salario exigido para jóvenes y sectores de 'difícil cobertura', lo que técnicamente facilita la contratación pero también institucionaliza una escala salarial inferior para perfiles cualificados recién graduados, operando como una forma de precariedad de élite legalizada.",
+    "resumen_ciudadano": "El Gobierno ha fijado el sueldo mínimo necesario para que los extranjeros de alta cualificación obtengan la Tarjeta Azul en España. El salario debe ser, como regla general, un 40% superior a la media española. Sin embargo, para jóvenes o empleos con mucha demanda de trabajadores, se permite que el sueldo sea algo menor. La cifra exacta no aparece en el BOE, sino que depende de las encuestas anuales de salarios del INE.",
+    "resumen_tweet": "🛂 España pone precio al talento: para la Tarjeta Azul-UE se exige ganar 1,4 veces el sueldo medio. ¿Atracción de talento o filtro de clase? 📉 Se permite pagar un 20% menos a jóvenes, precarizando el perfil cualificado. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de cifra monetaria explícita en el texto legal",
+      "Delegación de la actualización a informes internos de la Dirección General de Gestión Migratoria",
+      "Uso de conceptos elásticos como 'circunstancias excepcionales' para modificar umbrales",
+      "Posible brecha salarial al permitir descuentos del 20% según la edad del solicitante"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones (facilidad para importar perfiles específicos)",
+        "Sector tecnológico",
+        "Inmigrantes con rentas muy altas"
+      ],
+      "perdedores": [
+        "Trabajadores locales de clase media (presión a la baja en salarios cualificados)",
+        "Jóvenes profesionales (sujetos a un umbral menor y por tanto menor poder adquisitivo)",
+        "PYMES con menos margen presupuestario"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Extranjería y Regulación Laboral",
+    "banderas_rojas": [
+      "Falta de cifra monetaria explícita en el texto legal",
+      "Delegación de la actualización a informes internos de la Dirección General de Gestión Migratoria",
+      "Uso de conceptos elásticos como 'circunstancias excepcionales' para modificar umbrales",
+      "Posible brecha salarial al permitir descuentos del 20% según la edad del solicitante"
+    ]
+  }
+}

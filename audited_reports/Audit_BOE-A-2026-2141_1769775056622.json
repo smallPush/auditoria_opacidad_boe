@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2141",
+  "timestamp": "2026-01-30T12:10:56.622Z",
+  "title": "Real Decreto 53/2026, de 28 de enero, por el que se crea y regula la Comisión Nacional para la conmemoración del Centenario de la Generación del 27.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto establece una estructura burocrática hipertrofiada con seis niveles jerárquicos para gestionar una efeméride cultural. Si bien el texto destaca la perspectiva de género (Las Sinsombrero) y la memoria democrática, el núcleo real de la norma es la declaración de 'acontecimiento de excepcional interés público'. Esto activa el artículo 27 de la Ley 49/2002, permitiendo deducciones fiscales masivas para patrocinadores privados. La norma afirma que no incrementará el gasto público, pero ignora el coste de oportunidad por la pérdida de ingresos tributarios y la carga administrativa de gestionar las certificaciones de gastos.",
+    "resumen_ciudadano": "El Gobierno crea una macro-comisión para celebrar los 100 años de la Generación del 27 entre 2025 y 2028. Aunque se presenta como un acto de justicia histórica y cultural, el mecanismo principal es ofrecer beneficios fiscales a empresas que financien los eventos. La comisión tiene una composición excesiva que incluye desde ministros hasta universidades extranjeras, lo que puede dificultar la rendición de cuentas sobre el destino real de los fondos privados incentivados con dinero público.",
+    "resumen_tweet": "🏛️ ¿Cultura o arquitectura burocrática? El #BOE crea una comisión de 6 niveles para el Centenario del 27. Bajo el 'interés público' se esconden deducciones fiscales para grandes patrocinadores. Más cargos que versos. 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Estructura orgánica sobredimensionada (6 órganos distintos)",
+      "Falta de presupuesto detallado bajo la premisa de 'medios existentes'",
+      "Opacidad en el impacto fiscal por deducciones de mecenazgo",
+      "Inclusión de entidades privadas en órganos de decisión pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones (beneficios fiscales por patrocinio)",
+        "Fundaciones privadas (Lorca, Alberti, etc.) con influencia estatal",
+        "Altos cargos ministeriales (visibilidad política)"
+      ],
+      "perdedores": [
+        "Agencia Tributaria (menor recaudación por incentivos)",
+        "Sector cultural de base (sin acceso a estos mecanismos de financiación)",
+        "Contribuyente (financiación indirecta de eventos sin control parlamentario directo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Creación de órgano colegiado y regulación de incentivos fiscales",
+    "banderas_rojas": [
+      "Estructura orgánica sobredimensionada (6 órganos distintos)",
+      "Falta de presupuesto detallado bajo la premisa de 'medios existentes'",
+      "Opacidad en el impacto fiscal por deducciones de mecenazgo",
+      "Inclusión de entidades privadas en órganos de decisión pública"
+    ]
+  }
+}

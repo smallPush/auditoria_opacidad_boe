@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-2144",
+  "timestamp": "2026-01-30T12:21:57.816Z",
+  "title": "Real Decreto 56/2026, de 28 de enero, por el que se modifica el Real Decreto 988/2021, de 16 de noviembre, por el que se aprueba la concesión directa de ayudas a las comunidades autónomas y a las ciudades de Ceuta y Melilla para la ejecución de diversas acciones de refuerzo de la conectividad en polígonos industriales y centros logísticos, en el marco del Plan de Recuperación, Transformación y Resiliencia, para su adaptación a la Adenda al Plan de Recuperación, Transformación y Resiliencia de Apoyo a la Recuperación y Resiliencia en respuesta a desastres naturales (Programa UNICO-Industria y empresas).",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Este Real Decreto es una confesión de incapacidad de gestión. Se reduce el objetivo de conectividad Gigabit en polígonos industriales en un 62.5% (de 1.600 a solo 600 centros), utilizando la DANA de 2024 y una supuesta 'simplificación' como escudo para encubrir la falta de ejecución de los fondos NextGenerationEU. Resulta especialmente sangrante el Anexo I, donde comunidades enteras como Andalucía, Canarias o Murcia quedan con '0' actuaciones mínimas. Además, se introduce la amnistía de intereses de demora para las CCAA que devuelvan fondos no utilizados, lo que incentiva la inacción administrativa y penaliza el coste de oportunidad del dinero público.",
+    "resumen_ciudadano": "El Gobierno ha recortado drásticamente las metas de llevar internet de alta velocidad a los polígonos industriales. De los 1.600 previstos originalmente, ahora solo se aspira a 600. Varias regiones se quedan totalmente fuera del plan (0 actuaciones). Se permite a las comunidades autónomas devolver el dinero que no han gastado sin pagar intereses, facilitando que el incumplimiento de objetivos no tenga consecuencias económicas para la administración.",
+    "resumen_tweet": "📉 ¡Hachazo digital en el #BOE! El Gobierno recorta un 62% el objetivo de conectar polígonos industriales (de 1.600 a 600). Varias CCAA se quedan con CERO objetivos. Además, podrán devolver fondos sin pagar intereses. ¿Y la competitividad? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reducción masiva de objetivos cuantitativos (CID #238)",
+      "Exención de intereses de demora en el reintegro de subvenciones",
+      "Asignación de '0' actuaciones a 7 comunidades y ciudades autónomas",
+      "Uso de catástrofes naturales para justificar reducciones en digitalización",
+      "Simplificación de la justificación que reduce la fiscalización"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administraciones autonómicas ineficientes (no pagarán intereses por no ejecutar)",
+        "Polígonos industriales en Cataluña y Galicia (concentran el 46% de las metas restantes)"
+      ],
+      "perdedores": [
+        "Pymes industriales en Andalucía, Canarias, Murcia, Asturias y Baleares (objetivo cero)",
+        "Contribuyentes (por el coste de oportunidad de fondos europeos infrautilizados)",
+        "Estrategia de digitalización nacional"
+      ]
+    },
+    "comunidad_autonoma": "Multicomunidad / Estatal",
+    "tipologia": "Modificación de Subvenciones / Fondos Europeos",
+    "banderas_rojas": [
+      "Reducción masiva de objetivos cuantitativos (CID #238)",
+      "Exención de intereses de demora en el reintegro de subvenciones",
+      "Asignación de '0' actuaciones a 7 comunidades y ciudades autónomas",
+      "Uso de catástrofes naturales para justificar reducciones en digitalización",
+      "Simplificación de la justificación que reduce la fiscalización"
+    ]
+  }
+}

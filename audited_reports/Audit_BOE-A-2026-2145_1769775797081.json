@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-2145",
+  "timestamp": "2026-01-30T12:23:17.081Z",
+  "title": "Real Decreto 57/2026, de 28 de enero, por el que se modifica el Real Decreto 989/2021, de 16 de noviembre, por el que se aprueba la concesión directa a las comunidades autónomas y a las ciudades de Ceuta y Melilla de ayudas para la ejecución del programa de emisión de bonos digitales para colectivos vulnerables, en el marco del Plan de Recuperación, Transformación y Resiliencia, para su adaptación a la Adenda al Plan de Recuperación, Transformación y Resiliencia de Apoyo a la Recuperación y Resiliencia en respuesta a desastres naturales (Programa UNICO-Bono social).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este Real Decreto instrumenta un recorte masivo del 96% en el programa de bonos digitales para familias vulnerables, reduciendo el objetivo de 125.000 a apenas 5.000 unidades a nivel nacional. La norma utiliza la 'Adenda DANA' como justificación técnica para detraer recursos originalmente destinados a la brecha digital. Además, se introduce una 'Adenda de Simplificación' que reduce la carga burocrática de verificación, lo que en la práctica disminuye la fiscalización del uso de fondos europeos. Es especialmente llamativo el Anexo I, donde comunidades como Cataluña o las ciudades de Ceuta y Melilla pasan a tener una asignación de 0 bonos, eliminando por completo la ayuda en esos territorios.",
+    "resumen_ciudadano": "El Gobierno ha reducido drásticamente la ayuda para conexión a internet de familias pobres: de los 125.000 bonos previstos originalmente, solo se entregarán 5.000 en toda España. Se facilita además que las comunidades autónomas devuelvan el dinero no gastado sin pagar intereses y con menos controles de auditoría. Algunas regiones se quedan directamente sin ningún bono asignado para sus ciudadanos vulnerables.",
+    "resumen_tweet": "🚨 ¡Hachazo digital! El Gobierno recorta un 96% los bonos de internet para familias vulnerables: de 125.000 a solo 5.000. 📉 Menos ayudas, menos controles y regiones con CERO bonos asignados. ¿Resiliencia o tijeretazo? ✂️💻 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Recorte drástico del 96% en los objetivos de impacto social",
+      "Relajación de los mecanismos de verificación y control (simplificación)",
+      "Exención de intereses de demora en la devolución de fondos no utilizados",
+      "Asignación de cero actuaciones en Cataluña, Ceuta y Melilla",
+      "Uso de una catástrofe (DANA) para justificar la reducción de objetivos de digitalización social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administraciones autonómicas (menos trabajo administrativo y sin penalización por no gastar)",
+        "Ministerio para la Transformación Digital (ajuste de hitos europeos a la baja para evitar incumplimientos)"
+      ],
+      "perdedores": [
+        "Familias en riesgo de exclusión (120.000 hogares pierden el derecho al bono)",
+        "Ciudadanos vulnerables de Cataluña, Ceuta y Melilla (excluidos del reparto)",
+        "Transparencia pública (se reducen los informes de verificación de fraude y doble financiación)"
+      ]
+    },
+    "comunidad_autonoma": "España (Varias CC.AA.)",
+    "tipologia": "Modificación de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Recorte drástico del 96% en los objetivos de impacto social",
+      "Relajación de los mecanismos de verificación y control (simplificación)",
+      "Exención de intereses de demora en la devolución de fondos no utilizados",
+      "Asignación de cero actuaciones en Cataluña, Ceuta y Melilla",
+      "Uso de una catástrofe (DANA) para justificar la reducción de objetivos de digitalización social"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2154",
+  "timestamp": "2026-01-30T12:36:04.130Z",
+  "title": "Resolución de 22 de enero de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "Se trata de un nombramiento por 'Libre Designación', un mecanismo legal que permite la discrecionalidad en la elección de altos cargos, a menudo criticado por ser un 'dedazo' encubierto. Aunque se detallan los méritos de la adjudicataria, el proceso elude el concurso de méritos puro. La posición (Nivel 30) es la más alta en la administración, con poder directo sobre la regulación económica y precios del sector energético, un área de alta sensibilidad y presión de lobbies.",
+    "resumen_ciudadano": "La CNMC ha nombrado a una nueva Subdirectora de Regulación Económica y Precios Regulados mediante libre designación. Este cargo es estratégico para el control de los precios de la energía en España y se otorga de forma discrecional a una profesional que ya formaba parte del organismo.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en la #CNMC. Henar Soto Tejero ocupará la Subdirección de Regulación Energética (Nivel 30). Controlará precios regulados tras un proceso de 'Libre Designación'. ¿Transparencia o control político? 🔌⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máximo nivel administrativo)",
+      "Contratación en régimen laboral para puesto directivo",
+      "Alta sensibilidad regulatoria en sector energético"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Henar Soto Tejero (adjudicataria)",
+        "Cúpula de la CNMC (control sobre personal directivo)",
+        "Lobbies energéticos (interlocución consolidada)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de promoción por mérito)",
+        "Consumidores (riesgo de captura del regulador)",
+        "Transparencia pública (proceso discrecional)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máximo nivel administrativo)",
+      "Contratación en régimen laboral para puesto directivo",
+      "Alta sensibilidad regulatoria en sector energético"
+    ]
+  }
+}

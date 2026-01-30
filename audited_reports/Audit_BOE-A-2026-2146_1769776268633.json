@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2146",
+  "timestamp": "2026-01-30T12:31:08.633Z",
+  "title": "Real Decreto 58/2026, de 28 de enero, por el que se modifica el Real Decreto 990/2021, de 16 de noviembre, por el que se aprueba la concesión directa de ayudas a las comunidades autónomas y a las ciudades de Ceuta y Melilla para la ejecución de diversas actuaciones de mejora de las infraestructuras de telecomunicaciones en edificios, en el marco del Plan de Recuperación, Transformación y Resiliencia, para su adaptación a la Adenda al Plan de Recuperación, Transformación y Resiliencia de Apoyo a la Recuperación y Resiliencia en respuesta a desastres naturales (Programa UNICO-Edificios).",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "Este Real Decreto formaliza el fracaso del programa UNICO-Edificios para la modernización de telecomunicaciones. Bajo la premisa de adaptar el Plan de Recuperación a los daños de la DANA, se elimina de facto la inversión C15.I4. La opacidad reside en la 'amnistía financiera' concedida a las Comunidades Autónomas: deben devolver los fondos no utilizados pero se les exime del pago de intereses de demora, lo cual supone una pérdida de valor real para las arcas públicas por la inflación. Además, las cifras de ejecución son ridículas en la mayoría del territorio nacional, evidenciando una gestión fallida de los fondos europeos.",
+    "resumen_ciudadano": "El Gobierno cancela el plan de mejora de internet en edificios. Los datos revelan que la mayoría de las regiones no hicieron nada: 13 comunidades y ciudades autónomas presentan 0 o solo 1 actuación realizada. Las autonomías que no gastaron el dinero podrán devolverlo sin pagar intereses, un beneficio que no tendría un ciudadano común con una deuda pública. Se usa la excusa de la DANA para reasignar fondos que, en realidad, no se estaban ejecutando.",
+    "resumen_tweet": "📉 El programa UNICO-Edificios fracasa: 13 regiones con 0 o 1 actuación realizada. El Gobierno aprovecha la Adenda DANA para borrar la inversión y perdona los intereses a las CCAA que no ejecutaron los fondos. #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Ejecución nula en el 68% de las regiones",
+      "Exención de intereses de demora en devoluciones",
+      "Reasignación de fondos por infrautilización",
+      "Desequilibrio territorial extremo en la ejecución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administraciones Autonómicas (evitan penalizaciones por no gestionar)",
+        "Cataluña (concentra el 70% de las actuaciones totales)",
+        "País Vasco (concentra el 23% de las actuaciones)"
+      ],
+      "perdedores": [
+        "Ciudadanos de las 13 CCAA con cero actuaciones",
+        "Tesoro Público (pérdida de intereses por fondos parados)",
+        "Sector de la construcción y digitalización"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiterritorial",
+    "tipologia": "Modificación de Concesión Directa de Ayudas",
+    "banderas_rojas": [
+      "Ejecución nula en el 68% de las regiones",
+      "Exención de intereses de demora en devoluciones",
+      "Reasignación de fondos por infrautilización",
+      "Desequilibrio territorial extremo en la ejecución"
+    ]
+  }
+}

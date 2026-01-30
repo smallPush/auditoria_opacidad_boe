@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2140",
+  "timestamp": "2026-01-30T12:10:10.486Z",
+  "title": "Real Decreto 52/2026, de 28 de enero, por el que se modifica el Reglamento General de Vehículos y el Real Decreto 2822/1998, de 23 de diciembre, que lo aprueba, para regular el Registro de Vehículos Personales Ligeros.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 52/2026 impone una estructura burocrática sobre la micromovilidad bajo la bandera de la seguridad vial. Lo más alarmante es la utilización del procedimiento de urgencia para eludir el trámite de consulta pública previa, lo que limita la participación ciudadana en una norma que afecta directamente a la economía de los sectores más jóvenes y de menores rentas. La transformación del Registro de Vehículos en un 'Registro Nacional' centraliza el poder de datos bajo la Jefatura Central de Tráfico, facilitando un control total sobre medios de transporte que hasta ahora eran espacios de libertad y ahorro para el ciudadano. Se introduce una barrera de entrada económica (seguros, certificaciones y registros) que podría desincentivar la transición ecológica que el mismo texto dice promover.",
+    "resumen_ciudadano": "Si usas patinete eléctrico o vehículos ligeros, prepárate: ahora es obligatorio inscribirlos en un nuevo Registro Nacional y contar con un seguro de responsabilidad civil. Los vehículos nuevos deberán tener un certificado de circulación de fábrica. Si tienes uno antiguo no certificado, tienes de plazo hasta enero de 2027. Esta norma busca regularizar estos vehículos igualándolos en control administrativo a los coches, lo que implica nuevos costes en trámites y aseguramiento para el usuario.",
+    "resumen_tweet": "🛴 El #BOE impone el Registro Nacional de Vehículos Personales Ligeros. Más control, seguros obligatorios y tasas encubiertas bajo el pretexto de la seguridad. ¿Movilidad sostenible o nuevo nicho recaudatorio? #Opacidad #Transparencia #VMP #DGT",
+    "banderas_red_flags": [
+      "Omisión del trámite de consulta pública previa bajo declaración de urgencia",
+      "Creación de obligaciones de aseguramiento que benefician directamente al sector privado asegurador",
+      "Falta de desglose de costes administrativos para el ciudadano en la obtención de etiquetas y certificados",
+      "Ambigüedad en la gestión de datos personales dentro del nuevo Registro Nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades Aseguradoras (nuevo mercado cautivo)",
+        "DGT (mayor control de datos y capacidad sancionadora)",
+        "Grandes fabricantes de VMP ya homologados"
+      ],
+      "perdedores": [
+        "Usuarios de movilidad personal de rentas bajas",
+        "Pequeños comercios con stock de vehículos no certificados",
+        "Jóvenes (principales usuarios de la micromovilidad económica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Transportes y Seguridad Vial",
+    "banderas_rojas": [
+      "Omisión del trámite de consulta pública previa bajo declaración de urgencia",
+      "Creación de obligaciones de aseguramiento que benefician directamente al sector privado asegurador",
+      "Falta de desglose de costes administrativos para el ciudadano en la obtención de etiquetas y certificados",
+      "Ambigüedad en la gestión de datos personales dentro del nuevo Registro Nacional"
+    ]
+  }
+}
