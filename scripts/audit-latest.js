@@ -43,7 +43,7 @@ const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 async function analyzeBOE(xmlContent) {
   // Using the same pattern as geminiService.ts
   const response = await ai.models.generateContent({
-    model: 'gemini-3-flash', // Using the same model as in the UI service
+    model: 'gemini-3-flash-preview', // Using the same model as in the UI service
     contents: `AUDITA ESTA LEY DEL BOE (XML):
 
     ${xmlContent.substring(0, 30000)}
@@ -170,9 +170,9 @@ async function run() {
         continue;
       }
 
-      // Rate Limiting: Wait 1 minute every 4 processed items
-      if (processedCount > 0 && processedCount % 4 === 0) {
-        console.log("⏳ Rate limit reached. Waiting 1 minute...");
+      // Rate Limiting: Wait 1 minute between items to avoid Gemini API limits
+      if (processedCount > 0) {
+        console.log("⏳ Waiting 1 minute before next audit...");
         await new Promise(resolve => setTimeout(resolve, 60000));
       }
 
@@ -188,7 +188,7 @@ async function run() {
         fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
         console.log(`💾 Saved to ${fileName}`);
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
-        
+
         processedCount++;
       } catch (err) {
         console.error(`❌ Error auditing ${item.id}:`, err.message);
