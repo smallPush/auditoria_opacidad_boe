@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2174",
+  "timestamp": "2026-01-30T15:02:25.791Z",
+  "title": "Resolución de 20 de enero de 2026, del Ayuntamiento de La Ràpita (Tarragona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "La resolución presenta una estructura administrativa estándar pero adolece de la 'dispersión informativa' típica del sistema burocrático español. Al remitir las bases íntegras al Boletín Oficial de la Provincia (BOP), se obliga al ciudadano a un rastreo por múltiples plataformas. El uso del sistema de concurso-oposición para una única plaza de turno libre es una red flag común: la fase de concurso suele estar diseñada para favorecer la consolidación de personal interino o con experiencia previa en la misma administración, dificultando el acceso real por mérito y capacidad a nuevos opositores sin vínculos previos.",
+    "resumen_ciudadano": "El Ayuntamiento de La Ràpita convoca dos plazas de policía local: una para nuevos agentes y otra para ascenso interno (Caporal). El proceso se basa en examen y méritos (concurso-oposición). Los interesados tienen 20 días hábiles para presentar su solicitud tras la publicación en el BOE, aunque los detalles específicos sobre los requisitos están ocultos en el boletín provincial de Tarragona.",
+    "resumen_tweet": "👮‍♂️ La Ràpita convoca plazas de Policía Local. ¿Igualdad real o consolidación encubierta? El sistema de concurso-oposición para plazas únicas y la dispersión de bases dificultan el acceso libre. 📄 #BOE #Opacidad #Transparencia #Oposiciones2026",
+    "banderas_red_flags": [
+      "Fragmentación de información entre BOE, DOGC y BOP",
+      "Sistema de concurso-oposición para plazas individuales",
+      "Falta de transparencia en el coste presupuestario del proceso selectivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados",
+        "Estructuras administrativas municipales"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en la administración local",
+        "Ciudadanos que buscan transparencia directa en un único documento"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Administrativa / Seguridad Pública",
+    "banderas_rojas": [
+      "Fragmentación de información entre BOE, DOGC y BOP",
+      "Sistema de concurso-oposición para plazas individuales",
+      "Falta de transparencia en el coste presupuestario del proceso selectivo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2153",
+  "timestamp": "2026-01-30T14:58:07.500Z",
+  "title": "Resolución de 22 de enero de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 30 (el máximo en la administración) en un organismo regulador como la CNMC es un mecanismo legal pero intrínsecamente opaco. Aunque se detallan los méritos de la candidata, este sistema permite la selección discrecional basada en la 'confianza' y no estrictamente en una comparativa objetiva de méritos entre aspirantes. Se observa una tendencia a la endogamia institucional, ya que la seleccionada ya ocupaba puestos de estructura en la propia CNMC desde 2021.",
+    "resumen_ciudadano": "La CNMC ha nombrado 'a dedo' (libre designación) a la nueva Subdirectora de Recursos Humanos y Gestión Económica. Se trata de una funcionaria de alto nivel (A1, Nivel 30) que ya trabajaba dentro del organismo. El sistema de libre designación suele ser criticado por priorizar la afinidad personal o política sobre la competencia técnica en igualdad de condiciones.",
+    "resumen_tweet": "🕵️‍♂️ Nueva 'libre designación' en la CNMC. Un puesto de Nivel 30 (el máximo) adjudicado bajo el sistema de confianza. ¿Meritocracia real o red de contactos institucional? La opacidad del sistema 'a dedo' sigue vigente. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo complemento de destino)",
+      "Promoción interna de círculo cerrado",
+      "Gestión de recursos económicos y humanos en manos de un cargo de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Sánchez-Calero López (adjudicataria)",
+        "Cúpula de la CNMC (asegura personal de confianza en puestos clave)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores pero sin red de confianza",
+        "Ciudadanía (por la falta de un proceso de concurso abierto y puramente meritocrático)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo complemento de destino)",
+      "Promoción interna de círculo cerrado",
+      "Gestión de recursos económicos y humanos en manos de un cargo de confianza"
+    ]
+  }
+}

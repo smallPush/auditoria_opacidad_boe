@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2217",
+  "timestamp": "2026-01-30T14:55:46.056Z",
+  "title": "Resolución de 29 de enero de 2026, de la Dirección General de Carreteras, por la que se publica la Adenda de modificación del Convenio de encomienda de gestión con la Generalitat de Cataluña, para la ejecución de las obras de «Implantación de carril bus de entrada a Barcelona en la autopista B-23, del P.K.: 0+000 al P.K.: 7+260», y de las obras de «Mejora de los elementos funcionales existentes de la B-23 del P.K. 0+000 al P.K. 7+260. Barcelona-Sant Feliu de Llobregat». Actuación incluida en el Plan de Recuperación, Transformación y Resiliencia financiado por la Unión Europea Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "Se observa una paradoja financiera clásica en la gestión de infraestructuras: la reducción del alcance de la obra coincide con un incremento del presupuesto. La Adenda elimina explícitamente las 'obras de mejora de los elementos funcionales' de la B-23, reduciendo la carga de trabajo, pero incrementa el coste total en 841.461,40 euros. Esta 'optimización' sugiere una mala planificación inicial o un ajuste de costes sobrevenido que se traslada al erario público. La redistribución de anualidades muestra una inyección masiva en 2025 (15 millones de euros frente a los 4 millones previstos), indicando una urgencia por ejecutar fondos Next Generation EU antes de su caducidad, priorizando el gasto sobre la eficiencia.",
+    "resumen_ciudadano": "El Ministerio de Transportes y la Generalitat han modificado el convenio para el carril bus de la B-23. El cambio es polémico: se han cancelado parte de las obras de mejora previstas, pero el presupuesto total ha subido hasta los 20,8 millones de euros. Es decir, se hará menos trabajo por más dinero. Además, casi todo el pago se ha aplazado para realizarse de golpe en 2025, posiblemente para no perder las ayudas europeas.",
+    "resumen_tweet": "⚠️ ¡Menos obras pero más caras! El #BOE publica que se eliminan mejoras en la B-23 pero el presupuesto SUBE 841.461€. Además, se concentran 15M€ de gasto en 2025. ¿Gestión eficiente o urgencia por gastar fondos europeos? 🤨📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Incremento de presupuesto simultáneo a la reducción del objeto del contrato",
+      "Concentración del 72% del gasto total en una única anualidad (2025)",
+      "Modificación técnica de calado que elimina elementos funcionales previamente considerados necesarios",
+      "Uso de fondos europeos para cubrir sobrecostes en proyectos con alcance reducido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Generalitat de Catalunya (menor carga de ejecución de obra con mayor presupuesto)",
+        "Empresas adjudicatarias (ajuste de precios al alza por proyectos modificados)"
+      ],
+      "perdedores": [
+        "Usuarios de la B-23 (pierden las mejoras funcionales eliminadas del convenio)",
+        "Contribuyente europeo (financiación de proyectos con eficiencia decreciente)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Económica/Infraestructuras",
+    "banderas_rojas": [
+      "Incremento de presupuesto simultáneo a la reducción del objeto del contrato",
+      "Concentración del 72% del gasto total en una única anualidad (2025)",
+      "Modificación técnica de calado que elimina elementos funcionales previamente considerados necesarios",
+      "Uso de fondos europeos para cubrir sobrecostes en proyectos con alcance reducido"
+    ]
+  }
+}
