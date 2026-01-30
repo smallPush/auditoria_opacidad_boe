@@ -19,17 +19,33 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
   const [searchTerm, setSearchTerm] = React.useState('');
   const [minTransparency, setMinTransparency] = React.useState(parseInt(searchParams.get('min') || '0'));
   const [maxTransparency, setMaxTransparency] = React.useState(parseInt(searchParams.get('max') || '100'));
-  const [selectedTag, setSelectedTag] = React.useState(searchParams.get('tag') || '');
+  const [selectedTags, setSelectedTags] = React.useState<string[]>([]);
+  const [isTagDropdownOpen, setIsTagDropdownOpen] = React.useState(false);
+  const tagDropdownRef = React.useRef<HTMLDivElement>(null);
   const [currentPage, setCurrentPage] = React.useState(1);
   const itemsPerPage = 8;
 
   React.useEffect(() => {
     setCurrentPage(1); // Reset to page 1 when filters change
-  }, [searchTerm, minTransparency, maxTransparency, selectedTag]);
+  }, [searchTerm, minTransparency, maxTransparency, selectedTags]);
 
   React.useEffect(() => {
-    const tagFromUrl = searchParams.get('tag');
-    if (tagFromUrl) setSelectedTag(tagFromUrl);
+    const handleClickOutside = (event: MouseEvent) => {
+      if (tagDropdownRef.current && !tagDropdownRef.current.contains(event.target as Node)) {
+        setIsTagDropdownOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, []);
+
+  React.useEffect(() => {
+    const tagsFromUrl = searchParams.get('tags');
+    if (tagsFromUrl) {
+      setSelectedTags(tagsFromUrl.split(',').filter(Boolean));
+    } else {
+      setSelectedTags([]);
+    }
 
     const minFromUrl = searchParams.get('min');
     if (minFromUrl) setMinTransparency(parseInt(minFromUrl));
@@ -38,13 +54,13 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
     if (maxFromUrl) setMaxTransparency(parseInt(maxFromUrl));
   }, [searchParams]);
 
-  const handleFilterChange = (updates: { tag?: string, min?: number, max?: number }) => {
+  const handleFilterChange = (updates: { tags?: string[], min?: number, max?: number }) => {
     const newParams = new URLSearchParams(searchParams);
     
-    if (updates.tag !== undefined) {
-      setSelectedTag(updates.tag);
-      if (updates.tag) newParams.set('tag', updates.tag);
-      else newParams.delete('tag');
+    if (updates.tags !== undefined) {
+      setSelectedTags(updates.tags);
+      if (updates.tags.length > 0) newParams.set('tags', updates.tags.join(','));
+      else newParams.delete('tags');
     }
 
     if (updates.min !== undefined) {
@@ -60,11 +76,19 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
     setSearchParams(newParams);
   };
 
+  const toggleTag = (tag: string) => {
+    const newTags = selectedTags.includes(tag)
+      ? selectedTags.filter(t => t !== tag)
+      : [...selectedTags, tag];
+    handleFilterChange({ tags: newTags });
+  };
+
   const allTags = React.useMemo(() => {
     const tags = new Set<string>();
     history.forEach(item => {
       if (item.audit.comunidad_autonoma) tags.add(item.audit.comunidad_autonoma);
       if (item.audit.tipologia) tags.add(item.audit.tipologia);
+      // We could add flags too, but let's stick to categories for now to keep list manageable
     });
     return Array.from(tags).sort();
   }, [history]);
@@ -76,14 +100,14 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
       const matchesTransparency = item.audit.nivel_transparencia >= minTransparency &&
         item.audit.nivel_transparencia <= maxTransparency;
       
-      const matchesTag = !selectedTag ||
-        item.audit.comunidad_autonoma === selectedTag ||
-        item.audit.tipologia === selectedTag ||
-        (item.audit.banderas_rojas && item.audit.banderas_rojas.includes(selectedTag));
+      const matchesTag = selectedTags.length === 0 ||
+        (item.audit.comunidad_autonoma && selectedTags.includes(item.audit.comunidad_autonoma)) ||
+        (item.audit.tipologia && selectedTags.includes(item.audit.tipologia)) ||
+        (item.audit.banderas_rojas && item.audit.banderas_rojas.some(flag => selectedTags.includes(flag)));
 
       return matchesSearch && matchesTransparency && matchesTag;
     });
-  }, [history, searchTerm, minTransparency, maxTransparency, selectedTag]);
+  }, [history, searchTerm, minTransparency, maxTransparency, selectedTags]);
 
   const handleExportAll = () => {
     const blob = new Blob([JSON.stringify(history, null, 2)], { type: 'application/json' });
@@ -174,18 +198,42 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
             </div>
           </div>
 
-          <div className="flex items-center gap-2 bg-slate-950 border border-slate-800 rounded-xl px-3 py-2">
-            <Tag size={14} className="text-slate-500" />
-            <select
-              className="bg-transparent text-xs text-slate-300 outline-none cursor-pointer"
-              value={selectedTag}
-              onChange={(e) => handleFilterChange({ tag: e.target.value })}
+          <div className="relative" ref={tagDropdownRef}>
+            <button
+              onClick={() => setIsTagDropdownOpen(!isTagDropdownOpen)}
+              className={`flex items-center gap-2 bg-slate-950 border ${selectedTags.length > 0 ? 'border-blue-500/50 text-blue-400' : 'border-slate-800 text-slate-400'} rounded-xl px-3 py-2 text-xs transition-all hover:border-slate-700`}
             >
-              <option value="">{t.allTags}</option>
-              {allTags.map(tag => (
-                <option key={tag} value={tag}>{tag}</option>
-              ))}
-            </select>
+              <Tag size={14} />
+              <span>{selectedTags.length > 0 ? `${selectedTags.length} filtros` : t.allTags}</span>
+            </button>
+            
+            {isTagDropdownOpen && (
+              <div className="absolute top-full right-0 mt-2 w-64 max-h-80 overflow-y-auto bg-slate-900 border border-slate-700 rounded-xl shadow-2xl z-50 p-2 custom-scrollbar">
+                {allTags.length === 0 ? (
+                  <div className="p-2 text-slate-500 text-xs italic text-center">No tags available</div>
+                ) : (
+                  <div className="space-y-1">
+                    {allTags.map(tag => {
+                      const isSelected = selectedTags.includes(tag);
+                      return (
+                        <label key={tag} className={`flex items-center gap-3 p-2 rounded-lg cursor-pointer transition-colors ${isSelected ? 'bg-blue-900/20 hover:bg-blue-900/30' : 'hover:bg-slate-800'}`}>
+                          <div className={`w-4 h-4 rounded border flex items-center justify-center transition-all ${isSelected ? 'bg-blue-500 border-blue-500' : 'border-slate-600 bg-transparent'}`}>
+                            {isSelected && <svg className="w-3 h-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7"></path></svg>}
+                          </div>
+                          <input
+                            type="checkbox"
+                            className="hidden"
+                            checked={isSelected}
+                            onChange={() => toggleTag(tag)}
+                          />
+                          <span className={`text-xs ${isSelected ? 'text-blue-200 font-medium' : 'text-slate-300'}`}>{tag}</span>
+                        </label>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+            )}
           </div>
         </div>
 
@@ -212,13 +260,6 @@ const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, i
               {t.importJson}
               <input type="file" accept=".json" onChange={handleImport} className="hidden" />
             </label>
-            <button
-              onClick={onClear}
-              disabled={history.length === 0}
-              className="bg-slate-800 hover:bg-red-900/40 disabled:opacity-30 text-slate-500 hover:text-red-400 px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all border border-slate-700 ml-auto"
-            >
-              {t.clearHistory}
-            </button>
           </div>
         )}
       </div>
