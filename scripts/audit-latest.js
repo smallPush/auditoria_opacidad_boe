@@ -43,7 +43,7 @@ const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 async function analyzeBOE(xmlContent) {
   // Using the same pattern as geminiService.ts
   const response = await ai.models.generateContent({
-    model: 'gemini-3-flash-preview', // Using the same model as in the UI service
+    model: 'gemini-3-flash', // Using the same model as in the UI service
     contents: `AUDITA ESTA LEY DEL BOE (XML):
 
     ${xmlContent.substring(0, 30000)}

@@ -26,7 +26,7 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es'): Pro
       : "The response MUST be entirely in ENGLISH.";
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3-flash-preview',
+      model: 'gemini-3-flash',
       contents: `AUDITA ESTA LEY DEL BOE (XML):
 
       ${xmlContent.substring(0, 30000)}

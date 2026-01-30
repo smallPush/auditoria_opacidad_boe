@@ -345,6 +345,39 @@ const App: React.FC = () => {
               />
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
                 <section className="space-y-6">
+                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl">
+                    <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-4 text-center">Explorar por Nivel de Opacidad</p>
+                    <div className="grid grid-cols-3 gap-3">
+                      <button 
+                        onClick={() => navigate('/history?min=0&max=33')}
+                        className="flex flex-col items-center gap-2 p-3 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
+                      >
+                        <span className="text-xs font-bold text-red-400">0 - 33%</span>
+                        <span className="text-xs font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
+                          Crítico ({history.filter(h => h.audit.nivel_transparencia <= 33).length})
+                        </span>
+                      </button>
+                      <button 
+                        onClick={() => navigate('/history?min=34&max=66')}
+                        className="flex flex-col items-center gap-2 p-3 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
+                      >
+                        <span className="text-xs font-bold text-amber-400">34 - 66%</span>
+                        <span className="text-xs font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
+                          Advertencia ({history.filter(h => h.audit.nivel_transparencia > 33 && h.audit.nivel_transparencia <= 66).length})
+                        </span>
+                      </button>
+                      <button 
+                        onClick={() => navigate('/history?min=67&max=100')}
+                        className="flex flex-col items-center gap-2 p-3 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
+                      >
+                        <span className="text-xs font-bold text-emerald-400">67 - 100%</span>
+                        <span className="text-xs font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
+                          Transparente ({history.filter(h => h.audit.nivel_transparencia > 66).length})
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+
                   <div className="flex items-center justify-between border-b border-slate-800 pb-4">
                     <div>
                       <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
@@ -415,8 +448,8 @@ const App: React.FC = () => {
                   />
                 </section>
 
-                <section className="space-y-8 flex flex-col">
-                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex-1 flex flex-col justify-center gap-8">
+                <section className="space-y-6 flex flex-col">
+                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
                     {isLoggedIn ? (
                       <>
                         <div className="text-center space-y-4">
@@ -454,33 +487,6 @@ const App: React.FC = () => {
                         <p className="text-slate-500 text-sm max-w-xs mx-auto">Inicia sesión como Agente para realizar nuevas auditorías personalizadas.</p>
                       </div>
                     )}
-
-                    <div className={`pt-6 ${isLoggedIn ? 'border-t border-slate-800' : ''}`}>
-                      <p className="text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-4 text-center">Explorar por Nivel de Opacidad</p>
-                      <div className="grid grid-cols-3 gap-3">
-                        <button 
-                          onClick={() => navigate('/history?min=0&max=33')}
-                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
-                        >
-                          <span className="text-xs font-bold text-red-400">0 - 33%</span>
-                          <span className="text-[8px] text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">Crítico</span>
-                        </button>
-                        <button 
-                          onClick={() => navigate('/history?min=34&max=66')}
-                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
-                        >
-                          <span className="text-xs font-bold text-amber-400">34 - 66%</span>
-                          <span className="text-[8px] text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">Advertencia</span>
-                        </button>
-                        <button 
-                          onClick={() => navigate('/history?min=67&max=100')}
-                          className="flex flex-col items-center gap-2 p-3 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
-                        >
-                          <span className="text-xs font-bold text-emerald-400">67 - 100%</span>
-                          <span className="text-[8px] text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">Transparente</span>
-                        </button>
-                      </div>
-                    </div>
                   </div>
                 </section>
               </div>

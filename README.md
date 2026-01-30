@@ -12,7 +12,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1ijlVxAjhZR-GGd2NFIao5_
 
 This application leverages a sophisticated, multi-modal integration of Google's next-generation **Gemini 3** models to bridge the gap between complex legal jargon and citizen understanding.
 
-- **Advanced Text Auditing (Gemini 3 Flash)**: The core "brain" of the project uses `gemini-3-flash-preview` to parse dense BOE XML data. It utilizes massive context windows to scan up to 30,000 characters of legal text, identifying buried budgetary transfers, opaque language, and potential red flags. By using **Structured Output (JSON Schema)**, it converts unstructured law into actionable data points like transparency ratings and "winners vs. losers" impact balances.
+- **Advanced Text Auditing (Gemini 3 Flash)**: The core "brain" of the project uses `gemini-3-flash` to parse dense BOE XML data. It utilizes massive context windows to scan up to 30,000 characters of legal text, identifying buried budgetary transfers, opaque language, and potential red flags. By using **Structured Output (JSON Schema)**, it converts unstructured law into actionable data points like transparency ratings and "winners vs. losers" impact balances.
 
 -  This enables the "translation" of a dry government notice into an impactful visual narrative for platforms like Instagram Reels or X.
 

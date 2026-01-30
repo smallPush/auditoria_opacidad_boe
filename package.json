@@ -10,7 +10,7 @@
     "audit": "node scripts/audit-latest.js"
   },
   "dependencies": {
-    "@google/genai": "^1.36.0",
+    "@google/genai": "^1.38.0",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.5.0",
     "@supabase/supabase-js": "2.48.1",
