@@ -203,13 +203,13 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
               className={`flex items-center gap-2 bg-slate-950 border ${selectedTags.length > 0 ? 'border-blue-500/50 text-blue-400' : 'border-slate-800 text-slate-400'} rounded-xl px-3 py-2 text-xs transition-all hover:border-slate-700`}
             >
               <Tag size={14} />
-              <span>{selectedTags.length > 0 ? `${selectedTags.length} filtros` : t.allTags}</span>
+              <span>{selectedTags.length > 0 ? `${selectedTags.length} ${t.filtersCount}` : t.allTags}</span>
             </button>
             
             {isTagDropdownOpen && (
               <div className="absolute top-full right-0 mt-2 w-64 max-h-80 overflow-y-auto bg-slate-900 border border-slate-700 rounded-xl shadow-2xl z-50 p-2 custom-scrollbar">
                 {allTags.length === 0 ? (
-                  <div className="p-2 text-slate-500 text-xs italic text-center">No tags available</div>
+                  <div className="p-2 text-slate-500 text-xs italic text-center">{t.noTagsAvailable}</div>
                 ) : (
                   <div className="space-y-1">
                     {allTags.map(tag => {
@@ -266,7 +266,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
       <div className="space-y-3 overflow-y-auto pr-2 custom-scrollbar flex-1 min-h-[400px]">
         {filteredHistory.length === 0 && (
           <div className="flex flex-col items-center justify-center py-20 text-slate-600 opacity-40 italic text-sm">
-            No se han encontrado auditorías que coincidan con los filtros
+            {t.noAuditsFound}
           </div>
         )}
         {filteredHistory.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage).map((item) => (
@@ -337,7 +337,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
         onPageChange={setCurrentPage}
         itemsPerPage={itemsPerPage}
         totalItems={filteredHistory.length}
-        label="Auditorías"
+        label={t.auditsLabel}
       />
     </div>
   );

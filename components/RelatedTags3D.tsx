@@ -4,9 +4,11 @@ import { Text, OrbitControls, Sphere, Line, Stars } from '@react-three/drei';
 import * as THREE from 'three';
 import { useNavigate } from 'react-router-dom';
 import { AuditHistoryItem } from '../types';
+import { translations, Language } from '../translations';
 
 interface RelatedTags3DProps {
   history: AuditHistoryItem[];
+  lang: Language;
 }
 
 interface Node {
@@ -135,8 +137,9 @@ const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; on
   );
 };
 
-const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history }) => {
+const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
   const navigate = useNavigate();
+  const t = translations[lang];
 
   const { nodes, links } = useMemo(() => {
     const tagStats: Record<string, { count: number; totalTransparency: number }> = {};
@@ -208,7 +211,7 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history }) => {
   if (nodes.length === 0) {
     return (
       <div className="h-[600px] flex items-center justify-center text-slate-500 bg-slate-900/20 rounded-3xl border border-slate-800">
-        <p>No hay suficientes datos de relaciones para generar el grafo.</p>
+        <p>{t.notEnoughDataNetwork}</p>
       </div>
     );
   }
@@ -216,23 +219,23 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history }) => {
   return (
     <div className="h-[80vh] w-full bg-slate-950 rounded-3xl border border-slate-800 overflow-hidden relative shadow-2xl">
       <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl max-w-xs">
-        <h3 className="text-xl font-bold text-white mb-1">Red de Conceptos</h3>
-        <p className="text-xs text-slate-400 mb-3">Conexiones basadas en co-ocurrencia y transparencia media.</p>
+        <h3 className="text-xl font-bold text-white mb-1">{t.conceptNetworkTitle}</h3>
+        <p className="text-xs text-slate-400 mb-3">{t.networkDescription}</p>
         
         <div className="space-y-2">
-          <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">Nivel de Transparencia</p>
+          <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">{t.transparencyLevelLegend}</p>
           <div className="flex items-center gap-3">
             <div className="flex items-center gap-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
-              <span className="text-[9px] text-slate-400">Crítico</span>
+              <span className="text-[9px] text-slate-400">{t.legendCritical}</span>
             </div>
             <div className="flex items-center gap-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
-              <span className="text-[9px] text-slate-400">Advertencia</span>
+              <span className="text-[9px] text-slate-400">{t.legendWarning}</span>
             </div>
             <div className="flex items-center gap-1.5">
               <span className="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
-              <span className="text-[9px] text-slate-400">Transparente</span>
+              <span className="text-[9px] text-slate-400">{t.legendTransparent}</span>
             </div>
           </div>
         </div>

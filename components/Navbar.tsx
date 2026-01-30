@@ -71,14 +71,14 @@ const Navbar: React.FC<NavbarProps> = ({
                             className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${currentView === 'tags' ? 'bg-cyan-600 text-white shadow-lg shadow-cyan-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
                         >
                             <Box size={16} />
-                            Etiquetas 3D
+                            {t.tagsMenu}
                         </button>
                         <button
                             onClick={() => handleNavClick('/related-tags')}
                             className={`px-5 py-2 rounded-lg text-sm font-bold transition-all flex items-center gap-2 ${currentView === 'related-tags' ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-900/40' : 'text-slate-400 hover:text-white hover:bg-slate-800'}`}
                         >
                             <Share2 size={16} />
-                            Red
+                            {t.networkMenu}
                         </button>
                     </div>
 
@@ -152,14 +152,14 @@ const Navbar: React.FC<NavbarProps> = ({
                             className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${currentView === 'tags' ? 'bg-cyan-600/10 text-cyan-400 border border-cyan-600/20' : 'text-slate-400'}`}
                         >
                             <Box size={20} />
-                            Etiquetas 3D
+                            {t.tagsMenu}
                         </button>
                         <button
                             onClick={() => handleNavClick('/related-tags')}
                             className={`w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 ${currentView === 'related-tags' ? 'bg-indigo-600/10 text-indigo-400 border border-indigo-600/20' : 'text-slate-400'}`}
                         >
                             <Share2 size={20} />
-                            Red de Conceptos
+                            {t.networkMenuMobile}
                         </button>
 
                         <div className="pt-4 border-t border-slate-800/50">

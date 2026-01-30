@@ -356,14 +356,13 @@ const App: React.FC = () => {
               {isLoggedIn && (
                 <section className="w-full max-w-4xl mx-auto">
                   <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
-                    <div className="text-center space-y-4">
-                      <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
-                        <Search size={32} />
-                      </div>
-                      <h3 className="text-2xl font-bold text-white tracking-tight">Búsqueda Inteligente</h3>
-                      <p className="text-slate-500 text-sm max-w-xs mx-auto">Introduce el identificador del BOE para realizar una auditoría instantánea.</p>
-                    </div>
-
+                                          <div className="text-center space-y-4">
+                                            <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                                              <Search size={32} />
+                                            </div>
+                                            <h3 className="text-2xl font-bold text-white tracking-tight">{t.smartSearchTitle}</h3>
+                                            <p className="text-slate-500 text-sm max-w-xs mx-auto">{t.smartSearchSubtitle}</p>
+                                          </div>
                     <div className="flex flex-col gap-3">
                       <input
                         type="text"
@@ -388,7 +387,43 @@ const App: React.FC = () => {
               {/* SECTION 2: CONTENT GRID */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
                 
-                {/* Left Column: Latest Radar (Wider) */}
+                {/* Left Column: Exploration (Narrower) */}
+                <div className="lg:col-span-4 space-y-6">
+                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-6 rounded-3xl shadow-2xl h-full">
+                    <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6 text-center">{t.exploreByOpacity}</p>
+                    <div className="grid grid-cols-1 gap-4">
+                      <button 
+                        onClick={() => navigate('/history?min=0&max=33')}
+                        className="flex items-center justify-between p-4 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
+                      >
+                        <span className="text-sm font-bold text-red-400">{t.opacityCritical} (0-33%)</span>
+                        <span className="text-sm font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
+                          {history.filter(h => h.audit.nivel_transparencia <= 33).length}
+                        </span>
+                      </button>
+                      <button 
+                        onClick={() => navigate('/history?min=34&max=66')}
+                        className="flex items-center justify-between p-4 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
+                      >
+                        <span className="text-sm font-bold text-amber-400">{t.opacityWarning} (34-66%)</span>
+                        <span className="text-sm font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
+                          {history.filter(h => h.audit.nivel_transparencia > 33 && h.audit.nivel_transparencia <= 66).length}
+                        </span>
+                      </button>
+                      <button 
+                        onClick={() => navigate('/history?min=67&max=100')}
+                        className="flex items-center justify-between p-4 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
+                      >
+                        <span className="text-sm font-bold text-emerald-400">{t.opacityTransparent} (67-100%)</span>
+                        <span className="text-sm font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
+                          {history.filter(h => h.audit.nivel_transparencia > 66).length}
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Right Column: Latest Radar (Wider) */}
                 <div className="lg:col-span-8 space-y-6">
                   <div className="flex items-center justify-between border-b border-slate-800 pb-4">
                     <div>
@@ -417,7 +452,7 @@ const App: React.FC = () => {
                     <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500" size={18} />
                     <input
                       type="text"
-                      placeholder="Buscar en el radar (título o ID)..."
+                      placeholder={t.radarSearchPlaceholder}
                       className="w-full bg-slate-900/50 border border-slate-800 rounded-xl py-3 pl-12 pr-4 text-sm text-slate-200 focus:border-blue-500/50 outline-none transition-all placeholder:text-slate-600"
                       value={radarSearchQuery}
                       onChange={(e) => {
@@ -430,7 +465,7 @@ const App: React.FC = () => {
                   <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
                     {filteredArticles.length === 0 ? (
                       <div className="text-center py-12 text-slate-500 italic">
-                        No se encontraron resultados para "{radarSearchQuery}"
+                        {t.noResultsFound} "{radarSearchQuery}"
                       </div>
                     ) : (
                       filteredArticles.slice((radarPage - 1) * radarItemsPerPage, radarPage * radarItemsPerPage).map((art) => {
@@ -478,45 +513,9 @@ const App: React.FC = () => {
                       onPageChange={setRadarPage}
                       itemsPerPage={radarItemsPerPage}
                       totalItems={filteredArticles.length}
-                      label="Artículos"
+                      label={t.articlesLabel}
                     />
                   )}
-                </div>
-
-                {/* Right Column: Exploration (Narrower) */}
-                <div className="lg:col-span-4 space-y-6">
-                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-6 rounded-3xl shadow-2xl h-full">
-                    <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6 text-center">Explorar por Nivel de Opacidad</p>
-                    <div className="grid grid-cols-1 gap-4">
-                      <button 
-                        onClick={() => navigate('/history?min=0&max=33')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-red-400">Crítico (0-33%)</span>
-                        <span className="text-sm font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
-                          {history.filter(h => h.audit.nivel_transparencia <= 33).length}
-                        </span>
-                      </button>
-                      <button 
-                        onClick={() => navigate('/history?min=34&max=66')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-amber-400">Advertencia (34-66%)</span>
-                        <span className="text-sm font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
-                          {history.filter(h => h.audit.nivel_transparencia > 33 && h.audit.nivel_transparencia <= 66).length}
-                        </span>
-                      </button>
-                      <button 
-                        onClick={() => navigate('/history?min=67&max=100')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-emerald-400">Transparente (67-100%)</span>
-                        <span className="text-sm font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
-                          {history.filter(h => h.audit.nivel_transparencia > 66).length}
-                        </span>
-                      </button>
-                    </div>
-                  </div>
                 </div>
 
               </div>
@@ -570,7 +569,7 @@ const App: React.FC = () => {
                 description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
                 keywords={["BOE", "3D", "Visualización", "Datos", "React Three Fiber"]}
               />
-              <Tags3DCloud history={history} />
+              <Tags3DCloud history={history} lang={lang} />
             </div>
           } />
 
@@ -581,7 +580,7 @@ const App: React.FC = () => {
                 description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
                 keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
               />
-              <RelatedTags3D history={history} />
+              <RelatedTags3D history={history} lang={lang} />
             </div>
           } />
 

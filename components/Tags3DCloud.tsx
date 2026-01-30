@@ -5,9 +5,11 @@ import * as THREE from 'three';
 import { useNavigate } from 'react-router-dom';
 import { Search } from 'lucide-react';
 import { AuditHistoryItem } from '../types';
+import { translations, Language } from '../translations';
 
 interface Tags3DCloudProps {
   history: AuditHistoryItem[];
+  lang: Language;
 }
 
 interface TagData {
@@ -73,9 +75,10 @@ const WordCloud = ({ tags, onTagClick }: { tags: TagData[]; onTagClick: (tag: st
   );
 };
 
-const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
+const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history, lang }) => {
   const navigate = useNavigate();
   const [searchTerm, setSearchTerm] = useState('');
+  const t = translations[lang];
 
   const uniqueTags = useMemo(() => {
     const tagCounts: Record<string, number> = {};
@@ -134,7 +137,7 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
   if (uniqueTags.length === 0) {
      return (
         <div className="h-[600px] flex items-center justify-center text-slate-500">
-            No hay suficientes datos para generar la nube de etiquetas 3D.
+            {t.notEnoughDataTags}
         </div>
      )
   }
@@ -143,15 +146,15 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
     <div className="h-[80vh] w-full bg-slate-900/20 rounded-3xl border border-slate-800 overflow-hidden relative">
       <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 w-64 space-y-4">
         <div>
-          <h3 className="text-xl font-bold text-white mb-1">Universo de Opacidad</h3>
-          <p className="text-xs text-slate-400">Navega por los conceptos detectados en el BOE</p>
+          <h3 className="text-xl font-bold text-white mb-1">{t.opacityUniverseTitle}</h3>
+          <p className="text-xs text-slate-400">{t.opacityUniverseSubtitle}</p>
         </div>
         
         <div className="relative">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-500" size={14} />
           <input 
             type="text" 
-            placeholder="Filtrar etiquetas..." 
+            placeholder={t.filterTagsPlaceholder} 
             className="w-full bg-slate-950 border border-slate-700 rounded-lg py-2 pl-9 pr-3 text-xs text-white focus:border-blue-500 outline-none"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
@@ -159,9 +162,9 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
         </div>
 
         <p className="text-[10px] text-slate-500">
-          Mostrando {filteredTags.length} de {uniqueTags.length} etiquetas
+          {t.showingTagsCount(filteredTags.length, uniqueTags.length)}
           <br/>
-          Arrastra para rotar • Rueda para zoom
+          {t.controlsHint3d}
         </p>
       </div>
       

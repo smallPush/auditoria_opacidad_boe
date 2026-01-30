@@ -309,14 +309,16 @@ const AuditDashboard: React.FC<Props> = ({
           <br /><br />
           {boeUrl}"
         </div>
-        <button
-          onClick={handlePostTweet}
-          disabled={tweetSent || isPostingTweet || !isLoggedIn}
-          className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
-        >
-          {isPostingTweet ? <Loader2 size={14} className="animate-spin" /> : tweetSent ? <Check size={14} /> : <Send size={14} />}
-          {tweetSent ? 'Tweet Enviado' : 'Publicar Tweet'}
-        </button>
+        {isLoggedIn && (
+          <button
+            onClick={handlePostTweet}
+            disabled={tweetSent || isPostingTweet}
+            className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
+          >
+            {isPostingTweet ? <Loader2 size={14} className="animate-spin" /> : tweetSent ? <Check size={14} /> : <Send size={14} />}
+            {tweetSent ? t.tweetSent : t.postTweet}
+          </button>
+        )}
       </div>
     </div>
   );
