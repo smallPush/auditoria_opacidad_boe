@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2150",
+  "timestamp": "2026-01-30T15:20:01.055Z",
+  "title": "Resolución de 20 de enero de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se dispone el cese de doña Elena Camblor Magadán como Delegada de la Agencia Estatal de Administración Tributaria de Gijón.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "Se trata de un cese administrativo estándar en la cúpula de la Agencia Tributaria local. Aunque se indica que es 'a petición propia', este tipo de movimientos en Hacienda suelen preceder a reestructuraciones internas o cambios en la estrategia de inspección. La falta de un nombramiento simultáneo para cubrir la vacante en Gijón sugiere una gestión reactiva en lugar de una transición planificada, lo que puede afectar la continuidad de los procesos de fiscalización en la zona.",
+    "resumen_ciudadano": "Elena Camblor Magadán deja de ser la jefa de la Agencia Tributaria en Gijón por voluntad propia. Es un trámite oficial que libera el cargo sin explicar quién asumirá sus funciones de supervisión de impuestos en la ciudad.",
+    "resumen_tweet": "📉 Cambio en la cúpula de Hacienda: cesa la Delegada de la AEAT en Gijón 'a petición propia'. Silencio sobre el relevo, lo que genera incertidumbre en la gestión fiscal local. ¿Transición natural o vacío de poder? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de sucesor inmediato en la misma resolución",
+      "Falta de detalle sobre los motivos del cese voluntario en un puesto clave",
+      "Potencial interrupción en la cadena de mando de fiscalización local"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La funcionaria saliente (que abandona un puesto de alta presión)",
+        "El Ministerio de Hacienda (libera una plaza para designación discrecional)"
+      ],
+      "perdedores": [
+        "Contribuyentes de Gijón (posible ralentización de expedientes)",
+        "Transparencia institucional (por la falta de información sobre el futuro de la delegación)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Ausencia de sucesor inmediato en la misma resolución",
+      "Falta de detalle sobre los motivos del cese voluntario en un puesto clave",
+      "Potencial interrupción en la cadena de mando de fiscalización local"
+    ]
+  }
+}
