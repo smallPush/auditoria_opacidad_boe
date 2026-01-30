@@ -1,0 +1,242 @@
+import React, { useMemo, useState, useRef } from 'react';
+import { Canvas, useFrame } from '@react-three/fiber';
+import { Text, OrbitControls, Sphere, Line, Stars } from '@react-three/drei';
+import * as THREE from 'three';
+import { useNavigate } from 'react-router-dom';
+import { AuditHistoryItem } from '../types';
+
+interface RelatedTags3DProps {
+  history: AuditHistoryItem[];
+}
+
+interface Node {
+  id: string;
+  name: string;
+  count: number;
+  avgTransparency: number;
+  position: THREE.Vector3;
+  velocity: THREE.Vector3;
+}
+
+interface Link {
+  source: string;
+  target: string;
+  strength: number;
+}
+
+const getTransparencyColor = (transparency: number) => {
+  // 0 -> Red, 50 -> Amber, 100 -> Green
+  if (transparency <= 33) return "#ef4444"; // red-500
+  if (transparency <= 66) return "#f59e0b"; // amber-500
+  return "#10b981"; // emerald-500
+};
+
+const NodeMesh = ({ node, onClick }: { node: Node; onClick: (tag: string) => void }) => {
+  const [hovered, setHovered] = useState(false);
+  const size = Math.log(node.count + 1) * 0.2 + 0.3;
+  
+  const baseColor = new THREE.Color(getTransparencyColor(node.avgTransparency));
+  const hoverColor = new THREE.Color("#ffffff");
+
+  return (
+    <group position={node.position}>
+      <Sphere args={[size, 32, 32]} onClick={() => onClick(node.name)}
+        onPointerOver={() => { document.body.style.cursor = 'pointer'; setHovered(true); }}
+        onPointerOut={() => { document.body.style.cursor = 'auto'; setHovered(false); }}>
+        <meshPhysicalMaterial 
+          color={hovered ? hoverColor : baseColor} 
+          emissive={hovered ? hoverColor : baseColor}
+          emissiveIntensity={hovered ? 0.8 : 0.3}
+          metalness={0.6}
+          roughness={0.1}
+          clearcoat={1}
+        />
+      </Sphere>
+      <Text
+        position={[0, size + 0.4, 0]}
+        fontSize={Math.max(0.3, size * 0.6)}
+        color="white"
+        anchorX="center"
+        anchorY="bottom"
+        outlineWidth={0.02}
+        outlineColor="#0f172a"
+      >
+        {`${node.name} (${Math.round(node.avgTransparency)}%)`}
+      </Text>
+    </group>
+  );
+};
+
+const LinkMesh = ({ start, end, strength }: { start: THREE.Vector3; end: THREE.Vector3; strength: number }) => {
+  return (
+    <Line
+      points={[start, end]}
+      color="#94a3b8"
+      lineWidth={Math.min(2, strength * 0.5)}
+      transparent
+      opacity={0.1}
+    />
+  );
+};
+
+const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; onNodeClick: (tag: string) => void }) => {
+  useFrame(() => {
+    // Repulsion
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const nodeA = nodes[i];
+        const nodeB = nodes[j];
+        const diff = new THREE.Vector3().subVectors(nodeA.position, nodeB.position);
+        const dist = diff.length();
+        if (dist < 0.1) continue;
+        const force = diff.normalize().multiplyScalar(5 / (dist * dist)); 
+        nodeA.velocity.add(force.multiplyScalar(0.005));
+        nodeB.velocity.sub(force.multiplyScalar(0.005));
+      }
+    }
+
+    // Attraction
+    links.forEach(link => {
+      const nodeA = nodes.find(n => n.id === link.source);
+      const nodeB = nodes.find(n => n.id === link.target);
+      if (nodeA && nodeB) {
+        const diff = new THREE.Vector3().subVectors(nodeB.position, nodeA.position);
+        const dist = diff.length();
+        const targetLen = 6;
+        const force = diff.normalize().multiplyScalar((dist - targetLen) * 0.05);
+        nodeA.velocity.add(force.multiplyScalar(0.01));
+        nodeB.velocity.sub(force.multiplyScalar(0.01));
+      }
+    });
+
+    // Physics Update
+    nodes.forEach(node => {
+      node.velocity.sub(node.position.clone().multiplyScalar(0.002));
+      node.velocity.multiplyScalar(0.92);
+      if (node.velocity.length() > 0.5) node.velocity.normalize().multiplyScalar(0.5);
+      node.position.add(node.velocity);
+    });
+  });
+
+  return (
+    <group>
+      {links.map((link, i) => {
+        const start = nodes.find(n => n.id === link.source)?.position;
+        const end = nodes.find(n => n.id === link.target)?.position;
+        if (start && end) {
+          return <LinkMesh key={`link-${i}`} start={start} end={end} strength={link.strength} />;
+        }
+        return null;
+      })}
+      {nodes.map(node => (
+        <NodeMesh key={node.id} node={node} onClick={onNodeClick} />
+      ))}
+    </group>
+  );
+};
+
+const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history }) => {
+  const navigate = useNavigate();
+
+  const { nodes, links } = useMemo(() => {
+    const tagStats: Record<string, { count: number; totalTransparency: number }> = {};
+    const coOccurrences: Record<string, number> = {};
+
+    history.forEach(item => {
+      const tags = new Set<string>();
+      if (item.audit.banderas_rojas) item.audit.banderas_rojas.forEach(t => tags.add(t));
+      if (item.audit.tipologia) tags.add(item.audit.tipologia);
+      if (item.audit.comunidad_autonoma) tags.add(item.audit.comunidad_autonoma);
+
+      const uniqueTags = Array.from(tags).filter(t => t && t.length > 2 && t.length < 40);
+      
+      uniqueTags.forEach(tag => {
+        if (!tagStats[tag]) tagStats[tag] = { count: 0, totalTransparency: 0 };
+        tagStats[tag].count += 1;
+        tagStats[tag].totalTransparency += item.audit.nivel_transparencia;
+      });
+
+      for (let i = 0; i < uniqueTags.length; i++) {
+        for (let j = i + 1; j < uniqueTags.length; j++) {
+          const t1 = uniqueTags[i];
+          const t2 = uniqueTags[j];
+          const key = [t1, t2].sort().join('|');
+          coOccurrences[key] = (coOccurrences[key] || 0) + 1;
+        }
+      }
+    });
+
+    const nodes: Node[] = Object.entries(tagStats)
+      //.filter(([_, stats]) => stats.count > 1) // Allow all tags
+      .map(([name, stats]) => ({
+        id: name,
+        name,
+        count: stats.count,
+        avgTransparency: stats.totalTransparency / stats.count,
+        position: new THREE.Vector3((Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15),
+        velocity: new THREE.Vector3()
+      }));
+
+    const links: Link[] = Object.entries(coOccurrences)
+      .map(([key, strength]) => {
+        const [source, target] = key.split('|');
+        return { source, target, strength };
+      })
+      .filter(l => nodes.find(n => n.id === l.source) && nodes.find(n => n.id === l.target));
+
+    return { nodes, links };
+  }, [history]);
+
+  const handleNodeClick = (tag: string) => {
+    navigate(`/history?tags=${encodeURIComponent(tag)}`);
+  };
+
+  if (nodes.length === 0) {
+    return (
+      <div className="h-[600px] flex items-center justify-center text-slate-500 bg-slate-900/20 rounded-3xl border border-slate-800">
+        <p>No hay suficientes datos de relaciones para generar el grafo.</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="h-[80vh] w-full bg-slate-950 rounded-3xl border border-slate-800 overflow-hidden relative shadow-2xl">
+      <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl max-w-xs">
+        <h3 className="text-xl font-bold text-white mb-1">Red de Conceptos</h3>
+        <p className="text-xs text-slate-400 mb-3">Conexiones basadas en co-ocurrencia y transparencia media.</p>
+        
+        <div className="space-y-2">
+          <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">Nivel de Transparencia</p>
+          <div className="flex items-center gap-3">
+            <div className="flex items-center gap-1.5">
+              <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
+              <span className="text-[9px] text-slate-400">Crítico</span>
+            </div>
+            <div className="flex items-center gap-1.5">
+              <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
+              <span className="text-[9px] text-slate-400">Advertencia</span>
+            </div>
+            <div className="flex items-center gap-1.5">
+              <span className="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
+              <span className="text-[9px] text-slate-400">Transparente</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <Canvas camera={{ position: [0, 0, 35], fov: 50 }}>
+        <fog attach="fog" args={['#020617', 10, 50]} />
+        <ambientLight intensity={0.4} />
+        <pointLight position={[10, 10, 10]} intensity={1} color="#ffffff" />
+        <pointLight position={[-10, -10, -10]} intensity={0.5} />
+        
+        <Stars radius={100} depth={50} count={3000} factor={4} saturation={0} fade speed={1} />
+        
+        <OrbitControls autoRotate autoRotateSpeed={0.2} enableDamping dampingFactor={0.05} />
+        <Graph nodes={nodes} links={links} onNodeClick={handleNodeClick} />
+      </Canvas>
+    </div>
+  );
+};
+
+export default RelatedTags3D;

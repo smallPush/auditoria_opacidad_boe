@@ -3,13 +3,19 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { Text, OrbitControls, Float, Stars } from '@react-three/drei';
 import * as THREE from 'three';
 import { useNavigate } from 'react-router-dom';
+import { Search } from 'lucide-react';
 import { AuditHistoryItem } from '../types';
 
 interface Tags3DCloudProps {
   history: AuditHistoryItem[];
 }
 
-const Tag = ({ text, position, onClick }: { text: string; position: [number, number, number]; onClick: (tag: string) => void }) => {
+interface TagData {
+  name: string;
+  count: number;
+}
+
+const Tag = ({ text, count, position, onClick }: { text: string; count: number; position: [number, number, number]; onClick: (tag: string) => void }) => {
   const [hovered, setHovered] = useState(false);
   
   useFrame((state) => {
@@ -28,16 +34,16 @@ const Tag = ({ text, position, onClick }: { text: string; position: [number, num
         onPointerOut={() => { document.body.style.cursor = 'auto'; setHovered(false); }}
         onClick={() => onClick(text)}
       >
-        {text}
+        {`${text} (${count})`}
       </Text>
     </Float>
   );
 };
 
-const WordCloud = ({ tags, onTagClick }: { tags: string[]; onTagClick: (tag: string) => void }) => {
+const WordCloud = ({ tags, onTagClick }: { tags: TagData[]; onTagClick: (tag: string) => void }) => {
   // Spherical distribution
   const words = useMemo(() => {
-    const sphericalPoints: { position: [number, number, number]; text: string }[] = [];
+    const sphericalPoints: { position: [number, number, number]; text: string; count: number }[] = [];
     const phi = Math.PI * (3 - Math.sqrt(5)); // golden angle
 
     for (let i = 0; i < tags.length; i++) {
@@ -51,7 +57,8 @@ const WordCloud = ({ tags, onTagClick }: { tags: string[]; onTagClick: (tag: str
       const scale = 8; // Sphere radius
       sphericalPoints.push({
         position: [x * scale, y * scale, z * scale],
-        text: tags[i]
+        text: tags[i].name,
+        count: tags[i].count
       });
     }
     return sphericalPoints;
@@ -60,7 +67,7 @@ const WordCloud = ({ tags, onTagClick }: { tags: string[]; onTagClick: (tag: str
   return (
     <group>
       {words.map((word, i) => (
-        <Tag key={i} text={word.text} position={word.position} onClick={onTagClick} />
+        <Tag key={i} text={word.text} count={word.count} position={word.position} onClick={onTagClick} />
       ))}
     </group>
   );
@@ -68,33 +75,52 @@ const WordCloud = ({ tags, onTagClick }: { tags: string[]; onTagClick: (tag: str
 
 const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
   const navigate = useNavigate();
+  const [searchTerm, setSearchTerm] = useState('');
 
   const uniqueTags = useMemo(() => {
-    const tags = new Set<string>();
+    const tagCounts: Record<string, number> = {};
+    
     history.forEach(item => {
+      const tagsToProcess: string[] = [];
+      
       if (item.audit.banderas_rojas) {
         item.audit.banderas_rojas.forEach(tag => {
           if (tag && tag.length > 2 && tag.length < 40 && tag !== item.title) {
-            tags.add(tag);
+            tagsToProcess.push(tag);
           }
         });
       }
       
       const tipologia = item.audit.tipologia;
       if (tipologia && tipologia.length > 2 && tipologia.length < 40 && tipologia !== item.title) {
-        tags.add(tipologia);
+        tagsToProcess.push(tipologia);
       }
       
       const ca = item.audit.comunidad_autonoma;
       if (ca && ca.length > 2 && ca.length < 40) {
-        tags.add(ca);
+        tagsToProcess.push(ca);
       }
+
+      // Count unique tags per document to avoid double counting if a tag is both tipologia and in flags? 
+      // Actually, usually they are different. Let's just count occurrences.
+      new Set(tagsToProcess).forEach(tag => {
+        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+      });
     });
-    return Array.from(tags);
+
+    return Object.entries(tagCounts)
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
   }, [history]);
 
+  const filteredTags = useMemo(() => {
+    return uniqueTags.filter(tag => 
+      tag.name.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+  }, [uniqueTags, searchTerm]);
+
   const handleTagClick = (tag: string) => {
-    navigate(`/history?tag=${encodeURIComponent(tag)}`);
+    navigate(`/history?tags=${encodeURIComponent(tag)}`);
   };
 
   if (uniqueTags.length === 0) {
@@ -107,10 +133,28 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
 
   return (
     <div className="h-[80vh] w-full bg-slate-900/20 rounded-3xl border border-slate-800 overflow-hidden relative">
-      <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700">
-        <h3 className="text-xl font-bold text-white mb-1">Universo de Opacidad</h3>
-        <p className="text-xs text-slate-400">Navega por los conceptos detectados en el BOE</p>
-        <p className="text-[10px] text-slate-500 mt-2">Arrastra para rotar • Rueda para zoom</p>
+      <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 w-64 space-y-4">
+        <div>
+          <h3 className="text-xl font-bold text-white mb-1">Universo de Opacidad</h3>
+          <p className="text-xs text-slate-400">Navega por los conceptos detectados en el BOE</p>
+        </div>
+        
+        <div className="relative">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-500" size={14} />
+          <input 
+            type="text" 
+            placeholder="Filtrar etiquetas..." 
+            className="w-full bg-slate-950 border border-slate-700 rounded-lg py-2 pl-9 pr-3 text-xs text-white focus:border-blue-500 outline-none"
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+          />
+        </div>
+
+        <p className="text-[10px] text-slate-500">
+          Mostrando {filteredTags.length} de {uniqueTags.length} etiquetas
+          <br/>
+          Arrastra para rotar • Rueda para zoom
+        </p>
       </div>
       
       <Canvas dpr={[1, 2]} camera={{ position: [0, 0, 15], fov: 60 }}>
@@ -120,9 +164,9 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
         
         <Stars radius={100} depth={50} count={5000} factor={4} saturation={0} fade speed={1} />
         
-        <WordCloud tags={uniqueTags} onTagClick={handleTagClick} />
+        <WordCloud tags={filteredTags} onTagClick={handleTagClick} />
         
-        <OrbitControls autoRotate autoRotateSpeed={0.5} enablePan={false} />
+        <OrbitControls autoRotate={!searchTerm} autoRotateSpeed={0.5} enablePan={false} />
       </Canvas>
     </div>
   );

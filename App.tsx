@@ -14,6 +14,7 @@ import GoogleAnalytics from './components/GoogleAnalytics';
 import AuditTrigger from './components/AuditTrigger';
 import SEO from './components/SEO';
 import Tags3DCloud from './components/Tags3DCloud';
+import RelatedTags3D from './components/RelatedTags3D';
 import Pagination from './components/Pagination';
 
 const App: React.FC = () => {
@@ -257,6 +258,7 @@ const App: React.FC = () => {
     if (location.pathname === '/') return 'home';
     if (location.pathname === '/history') return 'history';
     if (location.pathname === '/tags') return 'tags';
+    if (location.pathname === '/related-tags') return 'related-tags';
     if (location.pathname.startsWith('/audit/')) return 'audit';
     return 'home';
   };
@@ -552,7 +554,6 @@ const App: React.FC = () => {
                 ) : (
                   <HistoryDashboard
                     history={history}
-                    onClear={handleClearHistory}
                     onImport={handleImportData}
                     lang={lang}
                     isLoggedIn={isLoggedIn}
@@ -570,6 +571,17 @@ const App: React.FC = () => {
                 keywords={["BOE", "3D", "Visualización", "Datos", "React Three Fiber"]}
               />
               <Tags3DCloud history={history} />
+            </div>
+          } />
+
+          <Route path="/related-tags" element={
+            <div className="space-y-8 animate-in fade-in duration-500">
+              <SEO
+                title={`Red de Conceptos - ${t.title}`}
+                description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
+                keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
+              />
+              <RelatedTags3D history={history} />
             </div>
           } />
 

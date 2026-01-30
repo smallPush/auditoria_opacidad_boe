@@ -7,13 +7,12 @@ import Pagination from './Pagination';
 
 interface Props {
   history: AuditHistoryItem[];
-  onClear: () => void;
   onImport: (data: any) => void;
   lang: Language;
   isLoggedIn?: boolean;
 }
 
-const HistoryDashboard: React.FC<Props> = ({ history, onClear, onImport, lang, isLoggedIn }) => {
+const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn }) => {
   const t = translations[lang];
   const [searchParams, setSearchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = React.useState('');
