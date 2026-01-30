@@ -144,11 +144,25 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history }) => {
 
     history.forEach(item => {
       const tags = new Set<string>();
-      if (item.audit.banderas_rojas) item.audit.banderas_rojas.forEach(t => tags.add(t));
-      if (item.audit.tipologia) tags.add(item.audit.tipologia);
-      if (item.audit.comunidad_autonoma) tags.add(item.audit.comunidad_autonoma);
+      
+      const isTagValid = (tag: string) => {
+        if (!tag) return false;
+        if (tag === item.title) return false;
+        if (tag.length < 2 || tag.length > 50) return false;
+        if (tag.split(/\s+/).length > 5) return false;
+        return true;
+      };
 
-      const uniqueTags = Array.from(tags).filter(t => t && t.length > 2 && t.length < 40);
+      if (item.audit.banderas_rojas) {
+        item.audit.banderas_rojas.forEach(t => {
+          if (isTagValid(t)) tags.add(t);
+        });
+      }
+      
+      if (isTagValid(item.audit.tipologia)) tags.add(item.audit.tipologia);
+      if (isTagValid(item.audit.comunidad_autonoma)) tags.add(item.audit.comunidad_autonoma);
+
+      const uniqueTags = Array.from(tags);
       
       uniqueTags.forEach(tag => {
         if (!tagStats[tag]) tagStats[tag] = { count: 0, totalTransparency: 0 };

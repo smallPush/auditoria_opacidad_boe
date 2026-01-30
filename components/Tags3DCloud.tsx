@@ -54,7 +54,7 @@ const WordCloud = ({ tags, onTagClick }: { tags: TagData[]; onTagClick: (tag: st
       const x = Math.cos(theta) * radius;
       const z = Math.sin(theta) * radius;
 
-      const scale = 8; // Sphere radius
+      const scale = 12; // Sphere radius
       sphericalPoints.push({
         position: [x * scale, y * scale, z * scale],
         text: tags[i].name,
@@ -83,21 +83,29 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
     history.forEach(item => {
       const tagsToProcess: string[] = [];
       
+      const isTagValid = (tag: string) => {
+        if (!tag) return false;
+        if (tag === item.title) return false;
+        if (tag.length < 2 || tag.length > 50) return false;
+        if (tag.split(/\s+/).length > 5) return false; // More than 5 words is likely a sentence/title
+        return true;
+      };
+
       if (item.audit.banderas_rojas) {
         item.audit.banderas_rojas.forEach(tag => {
-          if (tag && tag.length > 2 && tag.length < 40 && tag !== item.title) {
+          if (isTagValid(tag)) {
             tagsToProcess.push(tag);
           }
         });
       }
       
       const tipologia = item.audit.tipologia;
-      if (tipologia && tipologia.length > 2 && tipologia.length < 40 && tipologia !== item.title) {
+      if (isTagValid(tipologia)) {
         tagsToProcess.push(tipologia);
       }
       
       const ca = item.audit.comunidad_autonoma;
-      if (ca && ca.length > 2 && ca.length < 40) {
+      if (isTagValid(ca)) {
         tagsToProcess.push(ca);
       }
 
@@ -157,7 +165,7 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history }) => {
         </p>
       </div>
       
-      <Canvas dpr={[1, 2]} camera={{ position: [0, 0, 15], fov: 60 }}>
+      <Canvas dpr={[1, 2]} camera={{ position: [0, 0, 20], fov: 60 }}>
         <fog attach="fog" args={['#020617', 0, 40]} />
         <ambientLight intensity={0.5} />
         <pointLight position={[10, 10, 10]} />
