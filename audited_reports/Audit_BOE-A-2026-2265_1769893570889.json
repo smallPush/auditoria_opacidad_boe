@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2265",
+  "timestamp": "2026-01-31T21:06:10.889Z",
+  "title": "Resolución de 13 de enero de 2026, del Ayuntamiento de Nombela (Toledo), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para plazas de operario, un mecanismo que frecuentemente oculta procesos de consolidación de personal interino bajo una apariencia de libre concurrencia. Al ser plazas de 'servicios múltiples', la discrecionalidad en la valoración de méritos específicos puede favorecer a candidatos locales o con vínculos previos, dificultando el acceso a ciudadanos externos. La fragmentación de la información entre el BOE y el BOP de Toledo actúa como una barrera de acceso para el ciudadano común.",
+    "resumen_ciudadano": "El Ayuntamiento de Nombela ofrece dos puestos fijos como operarios. Sin embargo, al usar el método de 'concurso-oposición', no solo cuenta el examen, sino también la experiencia previa, lo que suele dar ventaja a personas que ya trabajan allí temporalmente. Es un proceso legal, pero poco accesible para quienes buscan su primer empleo público en el municipio.",
+    "resumen_tweet": "🚨 ¿Oportunidad real o proceso 'a medida'? Nombela convoca 2 plazas de operario mediante concurso-oposición. Este sistema suele blindar a interinos y dificultar el acceso al ciudadano externo. Menos meritocracia, más opacidad. 🧐🏢 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición con alta carga de méritos",
+      "Opacidad en la baremación de la fase de concurso",
+      "Posible sesgo hacia personal ya vinculado a la administración local"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores interinos actuales del ayuntamiento",
+        "Estructura política local (consolidación de plantillas)"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en la administración",
+        "Jóvenes desempleados de la región",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición con alta carga de méritos",
+      "Opacidad en la baremación de la fase de concurso",
+      "Posible sesgo hacia personal ya vinculado a la administración local"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2247",
+  "timestamp": "2026-01-31T20:42:00.018Z",
+  "title": "Resolución de 30 de enero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución publica datos concretos de precios, la opacidad reside en el mecanismo de fijación. El Estado actúa como mero notario de los intereses de fabricantes e importadores, validando precios 'propuestos' por ellos. No existe un desglose del porcentaje de carga impositiva real por cada producto en este documento, ocultando qué parte del precio final es beneficio industrial y qué parte es recaudación fiscal directa. Se observa una segmentación de mercado clara donde las labores de tabaco de bajo coste (clase trabajadora) mantienen precios ajustados para asegurar la demanda, mientras que los cigarros premium (clase alta) presentan márgenes de lujo sin una justificación de salud pública diferenciada.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha actualizado los precios oficiales de venta al público para cigarrillos, cigarros y picaduras en la Península y Baleares. Esta lista marca el precio mínimo y obligatorio que pagarás en el estanco, basado en lo que las propias tabaqueras han decidido subir.",
+    "resumen_tweet": "💸 Nueva actualización de precios del tabaco en el #BOE. Hacienda publica las tarifas fijadas por las grandes tabaqueras. ¿Control de salud o simple gestión de ingresos fiscales? El humo sale caro. 🚬 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Fijación de precios dirigida por la industria privada",
+      "Ausencia de desglose de la carga impositiva por unidad",
+      "Mecanismo de actualización automática sin debate parlamentario",
+      "Discriminación geográfica (excluye Canarias, Ceuta y Melilla)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantenimiento de la recaudación vía impuestos especiales)",
+        "Grandes corporaciones tabaqueras (ajuste de márgenes de beneficio)",
+        "Expendedurías (mantenimiento del monopolio de venta)"
+      ],
+      "perdedores": [
+        "Clases socioeconómicas bajas (mayor impacto del gasto en adicciones)",
+        "Salud pública (el documento trata el tabaco como una simple mercancía comercial)",
+        "Transparencia fiscal (no se detalla el destino de lo recaudado)"
+      ]
+    },
+    "comunidad_autonoma": "Península e Illes Balears",
+    "tipologia": "Resolución de Precios / Fiscalidad",
+    "banderas_rojas": [
+      "Fijación de precios dirigida por la industria privada",
+      "Ausencia de desglose de la carga impositiva por unidad",
+      "Mecanismo de actualización automática sin debate parlamentario",
+      "Discriminación geográfica (excluye Canarias, Ceuta y Melilla)"
+    ]
+  }
+}

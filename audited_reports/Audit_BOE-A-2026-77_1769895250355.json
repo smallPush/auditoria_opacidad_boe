@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-77",
+  "timestamp": "2026-01-31T21:34:10.355Z",
+  "title": "Resolución de 19 de diciembre de 2025, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de don Jesús María Cabezón Elías, Fiscal con destino en la Fiscalía de la Comunidad Autónoma de Cantabria.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la jubilación voluntaria de un alto funcionario (Fiscal). La opacidad no reside en el procedimiento, sino en la falta de transparencia sobre la cuantía de los 'derechos pasivos' (pensiones) que se derivan de estas resoluciones, las cuales pertenecen a un régimen especial de Clases Pasivas que suele ser más ventajoso que el general. No hay incongruencia ideológica detectable, ya que es un proceso técnico-burocrático.",
+    "resumen_ciudadano": "La Dirección General para la Eficiencia del Servicio Público de Justicia oficializa el retiro voluntario de Jesús María Cabezón Elías como Fiscal en Cantabria a partir del 7 de enero de 2026. Se le reconocen sus derechos a pensión tras sus años de servicio.",
+    "resumen_tweet": "⚖️ Se publica la jubilación de un Fiscal en Cantabria. Trámite transparente pero recordatorio del blindaje de las 'Clases Pasivas' del Estado: derechos económicos vitalicios sin desglose de coste público. #BOE #Opacidad #Transparencia #Justicia 📉",
+    "banderas_red_flags": [
+      "Cálculo de derechos pasivos no especificado",
+      "Opacidad en el coste real para el sistema de pensiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesús María Cabezón Elías (acceso a jubilación)",
+        "Ministerio de Justicia (posibilidad de renovación de plaza)"
+      ],
+      "perdedores": [
+        "Sistema Público de Pensiones (por la carga de clases pasivas)",
+        "Contribuyente (falta de desglose de compromisos financieros futuros)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Recursos Humanos / Justicia",
+    "banderas_rojas": [
+      "Cálculo de derechos pasivos no especificado",
+      "Opacidad en el coste real para el sistema de pensiones"
+    ]
+  }
+}

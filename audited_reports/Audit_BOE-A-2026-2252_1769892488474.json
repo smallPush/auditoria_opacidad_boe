@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2252",
+  "timestamp": "2026-01-31T20:48:08.474Z",
+  "title": "Decreto de 21 de enero de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Delitos contra la Administración Pública de la Fiscalía Provincial de Teruel a doña Patricia Albarellos Esteras.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El decreto se presenta como un acto puramente administrativo y reglamentario, pero oculta la competitividad real del proceso. Se menciona una 'convocatoria' y 'méritos alegados', pero no se desglosan los criterios específicos que hicieron a la elegida superior a otros candidatos, si es que los hubo. La 'idoneidad' se define de forma subjetiva por la jefatura, lo que permite el mantenimiento de redes de confianza internas bajo una apariencia de meritocracia técnica. El uso de términos como 'Expediente Gubernativo número 7/2025' remite a documentos no accesibles al escrutinio público.",
+    "resumen_ciudadano": "Se ha nombrado a Patricia Albarellos Esteras como nueva Fiscal encargada de perseguir delitos de corrupción y mala gestión pública en Teruel. Aunque el proceso dice seguir las reglas, los detalles sobre por qué ella es la mejor opción frente a otros posibles candidatos no son públicos, limitándose a una decisión interna de la Fiscalía General.",
+    "resumen_tweet": "⚖️ Nueva Fiscal en Teruel para vigilar la corrupción. Aunque citan reglamentos, la 'motivación' real queda en despachos cerrados. ¿Méritos o confianza jerárquica? La transparencia real brilla por su ausencia. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la comparativa de méritos entre aspirantes",
+      "Uso de conceptos jurídicos indeterminados como 'suficientemente motivada'",
+      "Remisión a expedientes internos no públicos (Expediente 7/2025)",
+      "Concentración de poder de designación en la Fiscal General tras propuesta unipersonal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Patricia Albarellos Esteras (ascenso profesional)",
+        "Fiscalía General del Estado (consolidación de estructura jerárquica)"
+      ],
+      "perdedores": [
+        "Otros fiscales aspirantes (sin visibilidad de su rechazo)",
+        "Ciudadanía (falta de acceso a los méritos reales de quien vigilará la administración)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en la comparativa de méritos entre aspirantes",
+      "Uso de conceptos jurídicos indeterminados como 'suficientemente motivada'",
+      "Remisión a expedientes internos no públicos (Expediente 7/2025)",
+      "Concentración de poder de designación en la Fiscal General tras propuesta unipersonal"
+    ]
+  }
+}

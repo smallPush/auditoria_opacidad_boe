@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3",
+  "timestamp": "2026-01-31T21:27:36.557Z",
+  "title": "Acuerdo de 30 de septiembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria anticipada del Magistrado don Mariano Ascandoni Lobato.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja un proceso administrativo estándar de jubilación anticipada bajo el régimen de Clases Pasivas del Estado. Aunque legalmente pulcro, existe una opacidad intrínseca sobre el coste real para el erario público, ya que no se especifican los 'derechos pasivos' (pensión) resultantes. La salida de un magistrado de un Juzgado de Violencia Sobre la Mujer en Madrid supone una pérdida de capital intelectual en una materia de extrema sensibilidad social, sin que se detalle el plan de relevo inmediato para evitar el colapso de causas pendientes.",
+    "resumen_ciudadano": "Se confirma la jubilación voluntaria y anticipada del magistrado Mariano Ascandoni Lobato, quien ejercía en el Juzgado de Violencia Sobre la Mujer nº 2 de Madrid. Esto implica que dejará de ejercer el 1 de enero de 2026, pasando a percibir su pensión del Estado tras años de servicio en la judicatura.",
+    "resumen_tweet": "⚖️ Jubilación anticipada en el #BOE de un magistrado de Violencia sobre la Mujer. 💸 ¿Cuál es el coste real para las arcas públicas? La opacidad en los derechos pasivos impide conocer el impacto económico. #Transparencia #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Falta de cuantificación económica del gasto público en pensiones de clases pasivas",
+      "Impacto potencial en la demora de procesos judiciales de violencia de género",
+      "Uso de terminología técnica que oculta el beneficio económico real del jubilado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mariano Ascandoni Lobato (acceso a jubilación anticipada)",
+        "Cargos judiciales que aspiran a la vacante en Madrid"
+      ],
+      "perdedores": [
+        "Ciudadanía (coste financiero de la jubilación anticipada)",
+        "Víctimas de violencia de género (posible discontinuidad en la gestión de sus casos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Administración de Justicia y Personal",
+    "banderas_rojas": [
+      "Falta de cuantificación económica del gasto público en pensiones de clases pasivas",
+      "Impacto potencial en la demora de procesos judiciales de violencia de género",
+      "Uso de terminología técnica que oculta el beneficio económico real del jubilado"
+    ]
+  }
+}

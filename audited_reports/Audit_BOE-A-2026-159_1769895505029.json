@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-159",
+  "timestamp": "2026-01-31T21:38:25.029Z",
+  "title": "Acuerdo de 7 de octubre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Arcadio Díaz Tejera.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento refleja un acto administrativo rutinario de jubilación forzosa por edad en la alta judicatura. Aunque cumple con la legalidad, el uso de términos como 'derechos pasivos' actúa como un eufemismo técnico que oculta el coste real de las pensiones de élite del régimen de Clases Pasivas, notablemente superior al sistema general de la Seguridad Social. No se cuantifica el impacto presupuestario de esta salida, manteniendo la opacidad financiera sobre los privilegios de los altos funcionarios del Estado.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial formaliza la jubilación del magistrado Arcadio Díaz Tejera por alcanzar la edad legal de 72 años. Se le conceden automáticamente las prestaciones de jubilación correspondientes a su alto cargo en el Tribunal Superior de Justicia de Canarias.",
+    "resumen_tweet": "⚖️ El CGPJ oficializa la jubilación del magistrado Díaz Tejera en Canarias. Se activan sus 'derechos pasivos' de élite, pero ¿cuánto le cuesta realmente al contribuyente? La opacidad presupuestaria persiste en la justicia. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la pensión (derechos pasivos)",
+      "Falta de desglose del coste presupuestario",
+      "Mantenimiento de regímenes de privilegio (Clases Pasivas)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Arcadio Díaz Tejera (acceso a pensión de máximo nivel)",
+        "Estructura judicial (apertura de plaza para nuevos nombramientos)"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social (sostenibilidad frente a regímenes especiales)",
+        "Ciudadanía (desconocimiento del gasto real en pensiones de magistrados)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Administración de Justicia",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la pensión (derechos pasivos)",
+      "Falta de desglose del coste presupuestario",
+      "Mantenimiento de regímenes de privilegio (Clases Pasivas)"
+    ]
+  }
+}

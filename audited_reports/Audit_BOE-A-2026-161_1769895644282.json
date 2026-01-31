@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-161",
+  "timestamp": "2026-01-31T21:40:44.282Z",
+  "title": "Resolución de 26 de diciembre de 2025, de la Universidad de Oviedo, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento estándar de funcionarios de carrera en la escala docente universitaria. Aunque el proceso cumple con la legalidad vigente (RD 678/2023), el documento es puramente administrativo y no detalla los costes salariales ni el proceso selectivo previo. Se observa una ausencia total de mujeres en este lote de nombramientos específicos, lo que contrasta con las políticas de igualdad de género que suelen promoverse desde las instituciones públicas.",
+    "resumen_ciudadano": "La Universidad de Oviedo formaliza el nombramiento de dos nuevos profesores titulares en las áreas de Economía y Literatura tras superar un concurso de acceso. Es un trámite burocrático para integrar a estos docentes como funcionarios del Estado.",
+    "resumen_tweet": "🏛️ La Universidad de Oviedo suma 2 nuevos Profesores Titulares. Cero mujeres en este listado de nombramientos. ¿Dónde queda el compromiso con la paridad? #BOE #Opacidad #Transparencia #Universidad #Igualdad 🧐",
+    "banderas_red_flags": [
+      "Brecha de género: 100% de los nombramientos son masculinos",
+      "Ausencia de información sobre el coste presupuestario de las plazas",
+      "Procedimiento de acceso derivado de procesos internos con potencial endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "André Carrascal Incera",
+        "Rodrigo Guijarro Lasheras",
+        "Universidad de Oviedo (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente femenino (nula representación en este anuncio)",
+        "Investigadores precarios sin plazas de estabilización",
+        "Contribuyentes (falta de desglose de carga presupuestaria)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Brecha de género: 100% de los nombramientos son masculinos",
+      "Ausencia de información sobre el coste presupuestario de las plazas",
+      "Procedimiento de acceso derivado de procesos internos con potencial endogamia académica"
+    ]
+  }
+}

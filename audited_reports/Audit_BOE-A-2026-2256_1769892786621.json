@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2256",
+  "timestamp": "2026-01-31T20:53:06.621Z",
+  "title": "Resolución de 20 de enero de 2026, de la Universidad Pablo de Olavide, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución cumple con la legalidad administrativa de publicar los nombramientos, existe una brecha de género alarmante: de 13 nombramientos de alto nivel (Catedráticos y Titulares), solo 2 son mujeres (aprox. 15%). El texto oculta tras un lenguaje técnico y aséptico la perpetuación de techos de cristal en áreas como Derecho Penal o Informática. No se detalla el coste salarial a largo plazo para las arcas públicas de estas plazas vitalicias, lo cual constituye una forma de opacidad presupuestaria indirecta.",
+    "resumen_ciudadano": "La Universidad Pablo de Olavide formaliza el nombramiento de 13 nuevos profesores funcionarios (6 Catedráticos y 7 Titulares). Estos puestos son permanentes y de por vida. La selección se basa en concursos realizados en 2025, pero el documento actual solo muestra los nombres finales de quienes han ganado la plaza.",
+    "resumen_tweet": "🏛️ La Univ. Pablo de Olavide suma 13 nuevos docentes fijos. 🚨 Alerta: Solo 2 mujeres frente a 11 hombres (15%). ¿Refleja esto la realidad del talento o persisten techos de cristal? 📉 Transparencia presupuestaria nula. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Brecha de género extrema (85% hombres)",
+      "Ausencia de información sobre el coste presupuestario",
+      "Opacidad en los criterios de mérito específicos dentro de la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes varones (11 de 13 plazas)",
+        "Cuerpo de funcionarios universitarios"
+      ],
+      "perdedores": [
+        "Equidad de género en la alta jerarquía académica",
+        "Contribuyentes (por falta de desglose de impacto económico)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Brecha de género extrema (85% hombres)",
+      "Ausencia de información sobre el coste presupuestario",
+      "Opacidad en los criterios de mérito específicos dentro de la resolución"
+    ]
+  }
+}

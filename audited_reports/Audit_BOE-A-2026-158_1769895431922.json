@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-158",
+  "timestamp": "2026-01-31T21:37:11.922Z",
+  "title": "Orden TES/1573/2025, de 31 de diciembre, por la que se actualiza el contenido del anexo 2 del Real Decreto 713/2010, de 28 de mayo, sobre registro y depósito de convenios colectivos, acuerdos colectivos de trabajo y planes de igualdad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden TES/1573/2025 se presenta como una actualización técnica de formularios estadísticos (REGCON). Aunque se justifica bajo la 'simplificación administrativa', la modificación de variables estadísticas es una herramienta de poder: lo que no se mide, no existe. Al ser consensuado solo por el Grupo Técnico Tripartito (CEOE, CEPYME, UGT, CC.OO.), se refuerza el oligopolio de la negociación colectiva, pudiendo dejar fuera nuevas realidades laborales o métricas de precariedad que no interesen a los agentes sociales tradicionales. La opacidad reside en que el texto no detalla qué variables específicas se eliminan o añaden, remitiendo a anexos de imagen que dificultan el procesamiento automatizado de datos por parte de la sociedad civil.",
+    "resumen_ciudadano": "El Gobierno ha cambiado los formularios que las empresas y sindicatos deben rellenar al registrar sus convenios colectivos y planes de igualdad. Dicen que es para adaptar los datos a las nuevas leyes laborales y que las estadísticas sean más fiables. Estos cambios fueron decididos entre el Ministerio, las grandes patronales y los sindicatos mayoritarios.",
+    "resumen_tweet": "📊 El Ministerio de Trabajo cambia los formularios para registrar convenios en el #BOE. ¿Mejora técnica o ingeniería estadística? 🧐 Consensuado con 'los de siempre' (CEOE, CCOO, UGT). La transparencia laboral empieza por el dato. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Consenso limitado a agentes sociales tradicionales (exclusión de minorías)",
+      "Opacidad en el detalle de las variables modificadas en el cuerpo del texto",
+      "Riesgo de sesgo estadístico en la medición de la precariedad laboral",
+      "Dependencia de anexos gráficos que dificultan la auditoría ciudadana digital"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Trabajo (mejores métricas para su narrativa política)",
+        "Sindicatos mayoritarios y patronal (validan su posición como únicos interlocutores)"
+      ],
+      "perdedores": [
+        "Sindicatos minoritarios (excluidos del diseño de la toma de datos)",
+        "Administradores de PYMES (carga administrativa de adaptarse a nuevos modelos)",
+        "Investigadores independientes (posible ruptura de series históricas estadísticas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa / Laboral",
+    "banderas_rojas": [
+      "Consenso limitado a agentes sociales tradicionales (exclusión de minorías)",
+      "Opacidad en el detalle de las variables modificadas en el cuerpo del texto",
+      "Riesgo de sesgo estadístico en la medición de la precariedad laboral",
+      "Dependencia de anexos gráficos que dificultan la auditoría ciudadana digital"
+    ]
+  }
+}

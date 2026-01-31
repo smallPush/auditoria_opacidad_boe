@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-74",
+  "timestamp": "2026-01-31T21:30:38.180Z",
+  "title": "Ley de Cantabria 6/2025, de 15 de diciembre, de modificación de la Ley de Cantabria 1/2023, de 5 de abril, de Reconocimiento, Homenaje, Memoria y Dignidad a las Víctimas del Terrorismo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La ley establece una mejora objetiva al fijar un porcentaje del 30% complementario a las ayudas estatales, reduciendo la arbitrariedad previa. No obstante, presenta riesgos de opacidad fiscal en su Disposición Final Segunda, donde se habilita la creación de créditos sin cuantificar el impacto presupuestario total de la retroactividad. Además, el artículo 6.5 delega el tope máximo de las indemnizaciones al reglamento (Poder Ejecutivo), restando control al Parlamento sobre el techo de gasto real. La concesión de 'espacios físicos' a asociaciones puede derivar en clientelismo si no se rigen por criterios de concurrencia competitiva.",
+    "resumen_ciudadano": "Cantabria aumenta las indemnizaciones a víctimas del terrorismo en un 30% adicional a lo que paga el Estado. La novedad es que ahora podrán cobrar herederos de víctimas ya fallecidas y personas que se mudaron a Cantabria huyendo de amenazas o extorsión. También se garantiza psicólogos y una sede física para asociaciones de víctimas.",
+    "resumen_tweet": "📢 Cantabria amplía ayudas a víctimas del terrorismo: +30% de indemnización estatal y retroactividad para herederos. 🕵️‍♂️ Ojo: el gasto total no está cuantificado y el Gobierno fijará los topes por reglamento. 💸 #BOE #Transparencia #Cantabria",
+    "banderas_red_flags": [
+      "Cláusula de gasto abierto: habilitación de créditos sin cuantía máxima especificada.",
+      "Delegación reglamentaria del tope de indemnización (Art. 6.5).",
+      "Posible arbitrariedad en la cesión de espacios físicos a asociaciones.",
+      "Ambigüedad en la financiación del 'Fondo Autonómico' mencionado en la Disposición Final Segunda."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas del terrorismo y sus herederos (retroactividad)",
+        "Asociaciones de víctimas (obtención de sede y recursos)",
+        "Víctimas de extorsión que se desplazaron a Cantabria"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen un gasto público no presupuestado inicialmente)",
+        "Otras partidas de servicios sociales (por la tramitación preferente de estos fondos)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Modificación de Ley de Ayudas y Reconocimiento",
+    "banderas_rojas": [
+      "Cláusula de gasto abierto: habilitación de créditos sin cuantía máxima especificada.",
+      "Delegación reglamentaria del tope de indemnización (Art. 6.5).",
+      "Posible arbitrariedad en la cesión de espacios físicos a asociaciones.",
+      "Ambigüedad en la financiación del 'Fondo Autonómico' mencionado en la Disposición Final Segunda."
+    ]
+  }
+}

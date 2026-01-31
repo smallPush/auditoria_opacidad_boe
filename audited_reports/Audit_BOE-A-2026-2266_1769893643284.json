@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2266",
+  "timestamp": "2026-01-31T21:07:23.284Z",
+  "title": "Resolución de 15 de enero de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolución se presenta bajo la apariencia de un proceso selectivo ordinario, pero el uso del sistema de 'promoción interna' actúa como un filtro de exclusión para el ciudadano común. Al restringir la plaza de Técnico/a Auxiliar de Personas Mayores a personal que ya forma parte de la plantilla municipal, se perpetúa el corporativismo y se limita la entrada de talento externo en un área tan crítica como la atención a la tercera edad. No se detallan los costes asociados al proceso ni el impacto presupuestario de la nueva escala salarial del adjudicatario.",
+    "resumen_ciudadano": "El Ayuntamiento de Castelldefels ha convocado una plaza de técnico auxiliar para el cuidado de personas mayores, pero esta oportunidad no está abierta a todo el mundo: es una plaza de promoción interna, lo que significa que solo pueden optar a ella quienes ya trabajan allí.",
+    "resumen_tweet": "⚠️ ¿Oportunidad o círculo cerrado? Castelldefels convoca una plaza para atención a mayores, pero SOLO para personal interno. La administración se blinda y limita el acceso al empleo público externo. 🛡️💼 #BOE #Opacidad #Transparencia #Castelldefels",
+    "banderas_red_flags": [
+      "Restricción por promoción interna",
+      "Falta de desglose presupuestario del puesto",
+      "Opacidad en los criterios específicos de baremación del concurso-oposición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral/funcionario interno del Ayuntamiento",
+        "Estructuras sindicales consolidadas"
+      ],
+      "perdedores": [
+        "Profesionales externos del sector de geriatría",
+        "Jóvenes titulados en busca de primer empleo público",
+        "Contribuyentes que financian procesos cerrados"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Restricción por promoción interna",
+      "Falta de desglose presupuestario del puesto",
+      "Opacidad en los criterios específicos de baremación del concurso-oposición"
+    ]
+  }
+}

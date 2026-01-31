@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-76",
+  "timestamp": "2026-01-31T21:32:55.605Z",
+  "title": "Resolución de 18 de diciembre de 2025, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de doña María José Montesinos de Lago, Fiscal con destino en la Fiscalía de la Comunitat Valenciana.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación voluntaria que, bajo una apariencia de normalidad procedimental, oculta el impacto financiero a largo plazo de las 'Clases Pasivas'. El texto invoca múltiples normativas (RD 305/2022, Ley 50/1981, RD 670/1987) para blindar los derechos pasivos de un alto cargo del Ministerio Fiscal sin especificar la cuantía ni el coste total para el erario público. Existe una opacidad sistémica en la cuantificación de estas pensiones de élite en comparación con el régimen general de la Seguridad Social.",
+    "resumen_ciudadano": "La Dirección General para la Eficiencia del Servicio Público de Justicia oficializa la jubilación voluntaria de una fiscal en la Comunidad Valenciana. Aunque el documento es legalmente preciso, no informa sobre el coste económico que supone esta pensión vitalicia para el Estado, amparándose en el régimen especial de clases pasivas.",
+    "resumen_tweet": "⚖️ Nueva jubilación voluntaria en la Fiscalía de la Comunitat Valenciana. Un trámite rutinario que activa derechos pasivos vitalicios sin transparencia en las cifras. ¿Cuánto nos cuestan las pensiones de la élite judicial? 📉 #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Uso del régimen de Clases Pasivas (privilegio histórico frente a la SS)",
+      "Opacidad en la cuantía de los derechos pasivos generados",
+      "Ausencia de informe de impacto presupuestario adjunto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alto funcionariado judicial (salida voluntaria con derechos blindados)",
+        "Ministerio de Justicia (gestión interna sin escrutinio de costes)"
+      ],
+      "perdedores": [
+        "Contribuyentes del régimen general (sostienen sistemas de pensiones duales)",
+        "Transparencia pública (datos financieros omitidos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Recursos Humanos y Pensiones",
+    "banderas_rojas": [
+      "Uso del régimen de Clases Pasivas (privilegio histórico frente a la SS)",
+      "Opacidad en la cuantía de los derechos pasivos generados",
+      "Ausencia de informe de impacto presupuestario adjunto"
+    ]
+  }
+}

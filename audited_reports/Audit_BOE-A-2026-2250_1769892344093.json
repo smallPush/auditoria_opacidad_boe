@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2250",
+  "timestamp": "2026-01-31T20:45:44.093Z",
+  "title": "Orden PJC/46/2026, de 20 de enero, por la que se resuelve la convocatoria de libre designación, efectuada por Orden PJC/1443/2025, de 11 de diciembre, para el Cuerpo de Letrados de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución se basa en el sistema de 'libre designación', un eufemismo legal para el nombramiento discrecional ('a dedo') dentro de la función pública. Aunque los seleccionados pertenecen al Cuerpo de Letrados, la falta de una tabla de méritos comparativa impide verificar si se ha elegido a los más aptos o a los más afines. Destaca que el 100% de los nombramientos en esta orden son mujeres, lo que refleja una feminización de las jefaturas intermedias en la administración de justicia, pero mantiene la opacidad en los criterios de selección.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha asignado 9 puestos de jefatura y dirección en juzgados de Barcelona, Madrid y A Coruña. Estos cargos no se han otorgado por concurso de méritos abierto, sino por elección directa de sus superiores. Los nombrados tomarán posesión de sus nuevos despachos en plazos que varían según su cambio de residencia, con todos los gastos de movilidad asociados que esto implica para las arcas públicas.",
+    "resumen_tweet": "🕵️‍♂️ Nueva auditoría: 9 puestos de mando en Justicia asignados por 'libre designación' (a dedo) ☝️. Pleno femenino en las jefaturas de Madrid y Barcelona. Mucha 'discrecionalidad' y poca transparencia en los criterios. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de desglose presupuestario por traslados",
+      "Ausencia de baremación pública de candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Letradas seleccionadas (ascenso jerárquico)",
+        "Ministerio de la Presidencia y Justicia (control de puestos clave)"
+      ],
+      "perdedores": [
+        "Candidatos por mérito/antigüedad sin redes de confianza",
+        "Contribuyente (opacidad en el coste del desplazamiento de funcionarios)"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Cataluña, Madrid, Galicia)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de desglose presupuestario por traslados",
+      "Ausencia de baremación pública de candidatos"
+    ]
+  }
+}

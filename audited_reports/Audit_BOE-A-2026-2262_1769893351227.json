@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2262",
+  "timestamp": "2026-01-31T21:02:31.227Z",
+  "title": "Resolución de 22 de enero de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el sistema de 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de cargos. Aunque se requiere ser funcionario, la ausencia de una tabla de puntuación objetiva para el currículum vitae abre la puerta al clientelismo dentro de la administración científica (CSIC). Se adjudica un puesto de nivel 24 con un complemento específico de 7.591,50 euros sin detallar las funciones exactas que justifican dicha discrecionalidad.",
+    "resumen_ciudadano": "El CSIC ha convocado una plaza de Gerente para su instituto en Salamanca. El proceso no es una oposición abierta, sino una elección 'a dedo' entre funcionarios (libre designación). Los interesados solo necesitan enviar su CV y la decisión final dependerá de la confianza de la presidencia del organismo, no necesariamente de quién tenga mejores méritos puntuables.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza? El @CSIC convoca plaza de Gerente en Salamanca vía 'Libre Designación'. Un sistema que permite elegir 'a dedo' en la administración pública. La transparencia brilla por su ausencia. 📉👥 #BOE #Opacidad #Transparencia #CSIC",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos/gestores",
+      "Ausencia de baremos de puntuación específicos",
+      "Falta de descripción detallada de funciones del puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con conexiones internas",
+        "Élites burocráticas del Ministerio de Ciencia"
+      ],
+      "perdedores": [
+        "Funcionarios con alta cualificación pero sin redes de confianza",
+        "Ciudadanía (por riesgo de gestión ineficiente o politizada)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos/gestores",
+      "Ausencia de baremos de puntuación específicos",
+      "Falta de descripción detallada de funciones del puesto"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2261",
+  "timestamp": "2026-01-31T21:01:19.837Z",
+  "title": "Resolución de 23 de enero de 2026, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas de la fase de oposición, del proceso selectivo para ingreso, por el sistema general de acceso libre, como personal laboral fijo en los grupos profesionales M3, M1 y E2 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 2 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución cumple con los protocolos de publicidad administrativa, presenta una barrera de opacidad técnica significativa: las 'causas de exclusión' se limitan a códigos numéricos (1, 3, 6, 13, etc.) cuyo significado no se detalla en este documento, obligando al ciudadano a rastrear la convocatoria original de 2025. Además, se observa un marcado centralismo geográfico; todas las sedes de examen están ubicadas en Madrid, lo que supone un 'impuesto indirecto' de desplazamiento y alojamiento para los aspirantes de la periferia, filtrando por capacidad económica el acceso al empleo público científico.",
+    "resumen_ciudadano": "El Ministerio de Ciencia ha publicado la lista definitiva de admitidos y excluidos para plazas de personal laboral (biólogos y técnicos de laboratorio). Se convoca a los admitidos a examen el 7 de marzo de 2026 en Madrid. Si estás en la lista de excluidos, este es el último paso administrativo antes de tener que acudir a los tribunales.",
+    "resumen_tweet": "🔬 El #BOE publica las listas para empleo científico en el Ministerio de Ciencia. ⚠️ Alerta: exámenes centralizados en Madrid el 7 de marzo, dificultando el acceso a candidatos de otras regiones. Códigos de exclusión poco claros. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralismo en la ejecución de pruebas (solo Madrid)",
+      "Opacidad en la descripción de causas de exclusión",
+      "Brecha de acceso para aspirantes de rentas bajas de otras CCAA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes residentes en Madrid (ahorro de costes)",
+        "Ministerio de Ciencia (reducción de carga administrativa tras la criba)"
+      ],
+      "perdedores": [
+        "Candidatos de regiones periféricas (barrera económica de viaje)",
+        "Aspirantes excluidos por errores burocráticos no aclarados en el texto"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Ciencia",
+    "banderas_rojas": [
+      "Centralismo en la ejecución de pruebas (solo Madrid)",
+      "Opacidad en la descripción de causas de exclusión",
+      "Brecha de acceso para aspirantes de rentas bajas de otras CCAA"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2",
+  "timestamp": "2026-01-31T21:26:21.291Z",
+  "title": "Acuerdo de 8 de julio de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria anticipada del Magistrado don Francisco Javier Forcada Miranda.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acto administrativo cumple con la legalidad vigente segun la LOPJ, pero evidencia la pervivencia del regimen de Clases Pasivas del Estado, un sistema de proteccion social para funcionarios que permite jubilaciones anticipadas inaccesibles para el trabajador promedio del regimen general. No existe transparencia sobre el montante economico de la pension que percibira el Magistrado, ocultando el coste real a largo plazo para las arcas publicas.",
+    "resumen_ciudadano": "Se aprueba la jubilacion voluntaria y antes de tiempo de un Magistrado de la Audiencia Provincial de Madrid. Esto le permite retirarse con los derechos economicos de su rango, bajo un sistema de pensiones especial diferente al de la mayoria de los ciudadanos.",
+    "resumen_tweet": "⚖️ Un nuevo magistrado se acoge a la jubilacion anticipada en el #BOE. Mientras la edad de retiro sube para todos, la elite judicial mantiene sus privilegios de 'Clases Pasivas'. ¿Transparencia en el coste real? Ninguna. 📉 #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantia de derechos pasivos",
+      "Uso de regimenes de jubilacion privilegiados",
+      "Falta de memoria economica sobre la vacante"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la judicatura",
+        "Beneficiarios del Regimen de Clases Pasivas"
+      ],
+      "perdedores": [
+        "Sostenibilidad del sistema general de pensiones",
+        "Ciudadania bajo el Regimen General de la Seguridad Social"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Administracion de Justicia y Pensiones Publicas",
+    "banderas_rojas": [
+      "Opacidad en la cuantia de derechos pasivos",
+      "Uso de regimenes de jubilacion privilegiados",
+      "Falta de memoria economica sobre la vacante"
+    ]
+  }
+}

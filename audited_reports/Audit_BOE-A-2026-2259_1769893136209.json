@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2259",
+  "timestamp": "2026-01-31T20:58:56.209Z",
+  "title": "Resolución de 22 de enero de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Rafael Pimentel Leiva.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Profesor Titular) tras un concurso convocado en 2025. Aunque el procedimiento cumple la legalidad vigente (LOSU), el documento es puramente administrativo y oculta el impacto presupuestario real a largo plazo de una plaza vitalicia. Existe una persistente brecha de género en las áreas de ingeniería (Agronomía/Hidráulica), reflejada en este nombramiento masculino. La transparencia es procedimental, pero no informa sobre los méritos específicos ni sobre la composición detallada de la comisión evaluadora en este extracto.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a Rafael Pimentel Leiva como Profesor Titular en el área de Ingeniería Hidráulica. Este es un puesto permanente de funcionario público.",
+    "resumen_tweet": "🚨 Nueva plaza vitalicia en la Univ. de Córdoba. Rafael Pimentel nombrado Prof. Titular en Ingeniería Hidráulica. ¿Transparencia real en la selección o inercia burocrática? El coste público a largo plazo no se desglosa. 🎓📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de memoria económica sobre el coste estructural de la plaza",
+      "Ausencia de información sobre la paridad en la Comisión Calificadora",
+      "Opacidad en la puntuación obtenida por el candidato frente a otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Pimentel Leiva (estabilidad laboral vitalicia)",
+        "Departamento de Agronomía (consolidación de plantilla)",
+        "Universidad de Córdoba"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada a la universidad)",
+        "Equidad de género en áreas STEM",
+        "Contribuyente (compromiso de gasto a 30+ años sin desglose)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Falta de memoria económica sobre el coste estructural de la plaza",
+      "Ausencia de información sobre la paridad en la Comisión Calificadora",
+      "Opacidad en la puntuación obtenida por el candidato frente a otros aspirantes"
+    ]
+  }
+}

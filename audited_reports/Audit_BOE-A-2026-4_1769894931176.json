@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-4",
+  "timestamp": "2026-01-31T21:28:51.176Z",
+  "title": "Acuerdo de 7 de octubre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don José Manuel Ramírez Sineiro.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa por edad. Aunque el lenguaje es claro y sigue la normativa vigente (LOPJ), este tipo de publicaciones oculta tras tecnicismos como 'derechos pasivos' el acceso a pensiones de la élite funcionarial que distan mucho de la realidad del ciudadano medio. No hay 'gastos fantasma' directos, pero sí un compromiso de gasto público a largo plazo no cuantificado en el texto. La brecha de clase se manifiesta en el régimen especial de Clases Pasivas del Estado frente al régimen general.",
+    "resumen_ciudadano": "El BOE oficializa la jubilación obligatoria por alcanzar la edad máxima de un Magistrado destinado en Melilla. A partir del 1 de enero de 2026, dejará de ejercer y pasará a cobrar su pensión correspondiente según el régimen especial de funcionarios judiciales.",
+    "resumen_tweet": "⚖️ Jubilación de un Magistrado en Melilla. Trámite técnico en el #BOE que activa pensiones de élite (clases pasivas). Transparencia formal, pero evidencia la brecha de clase en el sistema de retiro. 📉 #Transparencia #Opacidad #Justicia #Melilla",
+    "banderas_red_flags": [
+      "Compromiso de gasto público indefinido (pensiones de élite)",
+      "Inercia burocrática (3 meses entre acuerdo y publicación)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (acceso a pensión máxima)",
+        "Cuerpo de Magistrados (rotación de plazas)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de regímenes especiales)",
+        "Sistema judicial de Melilla (pérdida temporal de efectivo)"
+      ]
+    },
+    "comunidad_autonoma": "Melilla",
+    "tipologia": "Administrativo / Recursos Humanos Judiciales",
+    "banderas_rojas": [
+      "Compromiso de gasto público indefinido (pensiones de élite)",
+      "Inercia burocrática (3 meses entre acuerdo y publicación)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1",
+  "timestamp": "2026-01-31T21:25:06.128Z",
+  "title": "Orden SND/1562/2025, de 22 de diciembre, por la que se regula la composición, funciones y régimen de funcionamiento del Comité de Integridad y Antifraude.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden SND/1562/2025 formaliza la estructura de control para fondos europeos (MRR), pero revela una profunda endogamia administrativa. El Comité está compuesto exclusivamente por altos funcionarios (Subgrupo A1) del propio Ministerio de Sanidad, lo que genera un escenario de 'juez y parte'. Aunque cumple formalmente con las directrices de la UE, la falta de voces externas, expertos independientes o representantes de la sociedad civil limita su capacidad de fiscalización real frente a posibles casos de corrupción sistémica.",
+    "resumen_ciudadano": "Sanidad crea un nuevo Comité de Integridad y Antifraude para vigilar el uso de dinero público y fondos europeos. Sin embargo, este órgano está formado solo por personal interno del ministerio, lo que significa que la propia administración se supervisará a sí misma sin vigilancia externa independiente.",
+    "resumen_tweet": "🔍 Sanidad lanza su Comité Antifraude, pero el ministerio se vigila a sí mismo: todos los miembros son internos. ¿Independencia real o puro trámite burocrático? 🧐 Sin ojos externos para los fondos europeos. #BOE #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Endogamia administrativa: el vigilante es parte del vigilado",
+      "Falta de representación de la sociedad civil o peritos externos",
+      "Ambigüedad en los procedimientos de recuperación de fondos 'indebidamente desembolsados'",
+      "Concentración de poder en la Subsecretaría de Sanidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Subgrupo A1",
+        "Estructuras burocráticas ministeriales",
+        "Gabinete de la Ministra (con presencia directa)"
+      ],
+      "perdedores": [
+        "Transparencia independiente",
+        "Ciudadanía (sin acceso a fiscalización externa)",
+        "Sociedad civil organizada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa de Organización y Control Administrativo",
+    "banderas_rojas": [
+      "Endogamia administrativa: el vigilante es parte del vigilado",
+      "Falta de representación de la sociedad civil o peritos externos",
+      "Ambigüedad en los procedimientos de recuperación de fondos 'indebidamente desembolsados'",
+      "Concentración de poder en la Subsecretaría de Sanidad"
+    ]
+  }
+}

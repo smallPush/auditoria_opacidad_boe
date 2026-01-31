@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2255",
+  "timestamp": "2026-01-31T20:51:55.780Z",
+  "title": "Resolución de 20 de enero de 2026, conjunta de la Universidad Autónoma de Barcelona y el Instituto Catalán de la Salud, por la que se nombra Profesor Titular de Universidad a don Francisco Javier Muñoz Gall.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento ordinario de personal docente vinculado, una figura jurídica que une la Universidad Autónoma de Barcelona y el Instituto Catalán de la Salud. El proceso sigue la normativa estatutaria de 2025, pero como es habitual en estas resoluciones, se omite cualquier referencia al coste salarial que asumirán las arcas públicas. No hay evidencia de 'gastos fantasma' directos, pero la opacidad sobre el coste total de la plaza es una constante en la burocracia académica-sanitaria.",
+    "resumen_ciudadano": "La Universidad Autónoma de Barcelona y el Instituto Catalán de la Salud han nombrado a Francisco Javier Muñoz Gall como Profesor Titular de Medicina (especialidad Neumología) con destino en el Hospital Vall d’Hebron, tras superar un concurso público convocado en 2025.",
+    "resumen_tweet": "🩺 Nuevo nombramiento en el #BOE: El Dr. Muñoz Gall accede a la plaza de Profesor Titular de Neumología en el Vall d’Hebron. Gestión estándar entre @UABBarcelona e @icscat. 🏛️ Sin detalles de costes públicos o sueldos. #Opacidad #Transparencia #Salud",
+    "banderas_red_flags": [
+      "Ausencia de información sobre la retribución económica",
+      "Falta de detalle sobre los criterios de puntuación de la comisión",
+      "Opacidad en la financiación compartida entre educación y sanidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Muñoz Gall (estabilidad y ascenso profesional)",
+        "Hospital Universitari Vall d’Hebron (consolidación de personal)",
+        "UAB"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso",
+        "Ciudadanía (por falta de transparencia en el gasto público de personal)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de información sobre la retribución económica",
+      "Falta de detalle sobre los criterios de puntuación de la comisión",
+      "Opacidad en la financiación compartida entre educación y sanidad"
+    ]
+  }
+}

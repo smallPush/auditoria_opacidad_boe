@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-2254",
+  "timestamp": "2026-01-31T20:50:41.477Z",
+  "title": "Resolución de 14 de enero de 2026, de la Universidad de Oviedo, por la que se nombra Catedrático de Universidad a don Esteban Agulló Tomás.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de un catedrático. Si bien cumple con la legalidad vigente (Real Decreto 678/2023), este tipo de publicaciones en el BOE oculta el impacto presupuestario real a largo plazo (salario vitalicio y trienios). No existe una memoria económica adjunta que detalle el coste para el erario público asturiano. Representa la inercia de la jerarquía académica española frente a la precariedad de investigadores junior.",
+    "resumen_ciudadano": "Se ha nombrado oficialmente a Esteban Agulló Tomás como Catedrático de Psicología Social en la Universidad de Oviedo tras un concurso iniciado en septiembre de 2025. El interesado tiene 20 días para tomar posesión del cargo de funcionario.",
+    "resumen_tweet": "🎓 Nuevo Catedrático en la Univ. de Oviedo: Esteban Agulló Tomás asume Psicología Social. Un paso más en la burocracia académica. ¿Sabemos realmente cuánto cuestan estas plazas vitalicias al contribuyente? 🧐💸 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en el coste presupuestario total de la plaza",
+      "Falta de datos sobre otros candidatos en el concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Esteban Agulló Tomás (estabilidad laboral y ascenso)",
+        "Universidad de Oviedo (cobertura de cátedra)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (dificultad de acceso a plazas fijas)",
+        "Contribuyentes (desconocimiento del coste salarial consolidado)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Nombramiento de funcionario de carrera",
+    "banderas_rojas": [
+      "Opacidad en el coste presupuestario total de la plaza",
+      "Falta de datos sobre otros candidatos en el concurso"
+    ]
+  }
+}

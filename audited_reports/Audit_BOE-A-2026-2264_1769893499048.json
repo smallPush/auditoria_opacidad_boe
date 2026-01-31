@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2264",
+  "timestamp": "2026-01-31T21:04:59.048Z",
+  "title": "Resolución de 27 de enero de 2026, del Ayuntamiento de Cambrils (Tarragona), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una opacidad operativa al remitir los criterios de selección (bases) al Boletín Provincial, fragmentando la información y dificultando la fiscalización ciudadana inmediata. El uso del sistema de 'concurso' para una Jefatura de Recursos Humanos, en lugar de oposición abierta, suele favorecer la promoción interna discrecional o la consolidación de perfiles afines mediante la valoración subjetiva de méritos previos en lugar de aptitudes técnicas demostrables bajo examen ciego.",
+    "resumen_ciudadano": "El Ayuntamiento de Cambrils busca un nuevo Jefe de Recursos Humanos. El proceso se hará por concurso de méritos, lo que da gran peso a la experiencia previa y menos a un examen teórico. Los detalles clave no están en este anuncio nacional, sino enterrados en el boletín provincial de Tarragona, dificultando saber exactamente qué requisitos se piden.",
+    "resumen_tweet": "🚩 ¿Puesto a medida? Cambrils convoca plaza de Jefe de RRHH por concurso (méritos), no oposición. Opacidad al remitir bases al boletín provincial. Vigilamos la posible 'dedocracia' técnica en la administración local. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Selección por concurso de méritos para cargo directivo",
+      "Remisión externa de bases reguladoras",
+      "Ausencia de información sobre retribuciones brutas anuales",
+      "Fragmentación de la información administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos internos con antigüedad acumulada",
+        "Perfiles técnicos con red de contactos en la administración local"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin méritos previos",
+        "Ciudadanos que demandan transparencia en la gestión de personal municipal"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Empleo Público Local",
+    "banderas_rojas": [
+      "Selección por concurso de méritos para cargo directivo",
+      "Remisión externa de bases reguladoras",
+      "Ausencia de información sobre retribuciones brutas anuales",
+      "Fragmentación de la información administrativa"
+    ]
+  }
+}

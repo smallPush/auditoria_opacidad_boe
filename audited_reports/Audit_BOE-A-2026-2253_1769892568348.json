@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2253",
+  "timestamp": "2026-01-31T20:49:28.348Z",
+  "title": "Resolución de 9 de enero de 2026, de la Universidad de A Coruña, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento detalla nombramientos vitalicios de catedráticos y una profesora titular en la Universidad de A Coruña. Si bien la transparencia es alta en nombres y plazas, existe una opacidad estructural: el documento no detalla el compromiso de gasto público a largo plazo que suponen estas plazas de funcionarios de carrera. Se observa una paridad de género exacta (3 hombres, 3 mujeres), pero el dominio de las cátedras (5 de 6 nombramientos) sugiere una jerarquización elevada del gasto en personal frente a la posible precariedad de figuras docentes de menor rango no mencionadas.",
+    "resumen_ciudadano": "La Universidad de A Coruña ha nombrado a 6 nuevos docentes como funcionarios permanentes: 5 Catedráticos (máximo rango) y 1 Profesora Titular. Estos nombramientos afectan a áreas como Derecho, Sociología, Ingeniería y Lingüística. Los interesados tienen 20 días para tomar posesión de sus cargos.",
+    "resumen_tweet": "🎓 Paridad en la Universidad de A Coruña: 3 hombres y 3 mujeres logran plaza fija. Sin embargo, el 83% son Catedráticos, la élite salarial docente. El #BOE publica nombres pero oculta el coste total de estas plazas vitalicias. 🏛️ #Transparencia #Galicia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario individualizado por plaza",
+      "Alta concentración de Catedráticos frente a plazas de base",
+      "Dependencia de resoluciones previas de 2024 no adjuntas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 docentes nombrados (estabilidad laboral absoluta)",
+        "Departamentos de Derecho (3 plazas de 6)",
+        "Universidad de A Coruña (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (sin plazas de estabilización en este anuncio)",
+        "Ciudadanía (desconocimiento del impacto económico real en los presupuestos públicos)",
+        "Candidatos externos (barreras de entrada ante la inercia administrativa local)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario individualizado por plaza",
+      "Alta concentración de Catedráticos frente a plazas de base",
+      "Dependencia de resoluciones previas de 2024 no adjuntas"
+    ]
+  }
+}

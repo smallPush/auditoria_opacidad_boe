@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-78",
+  "timestamp": "2026-01-31T21:35:21.173Z",
+  "title": "Resolución de 19 de diciembre de 2025, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de don Juan Carlos Carranza Cantera, Teniente Fiscal con destino en la Fiscalía Provincial de Alicante.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para la jubilación voluntaria de un alto cargo fiscal. Aunque el procedimiento es legalmente nítido, existe una opacidad intrínseca en la cuantificación de los 'derechos pasivos' (pensiones de funcionarios). Se menciona la Ley de Clases Pasivas, un régimen que genera una brecha respecto al sistema general de la Seguridad Social, perpetuando una jerarquía económica en la administración pública. No hay rastro de gastos fantasma directos, pero la falta de transparencia en el coste vitalicio que supone esta jubilación para el erario público es notable.",
+    "resumen_ciudadano": "Se oficializa la jubilación voluntaria del Teniente Fiscal de Alicante, Juan Carlos Carranza Cantera. Esto implica su paso al régimen de pensiones del Estado (clases pasivas) a partir de enero de 2026. Es un trámite habitual que refleja la salida de un mando intermedio-alto de la estructura judicial.",
+    "resumen_tweet": "⚖️ Jubilación en la élite judicial: el Teniente Fiscal de Alicante se retira. ¿Transparencia? Solo administrativa. Los 'derechos pasivos' (pensiones) siguen siendo una caja negra presupuestaria para el ciudadano. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de derechos pasivos",
+      "Referencia a regímenes de jubilación diferenciados (Clases Pasivas)",
+      "Ausencia de memoria económica del relevo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alto cargo jubilado (acceso a pensión de élite)",
+        "Ministerio (procedimiento administrativo cerrado)"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social (por la fragmentación de regímenes)",
+        "Ciudadanía (desconocimiento del coste real de estas pensiones)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Recursos Humanos y Administración de Justicia",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de derechos pasivos",
+      "Referencia a regímenes de jubilación diferenciados (Clases Pasivas)",
+      "Ausencia de memoria económica del relevo"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2260",
+  "timestamp": "2026-01-31T21:00:08.800Z",
+  "title": "Resolución de 22 de enero de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un nivel 29 (Subdirector Adjunto) representa el culmen de la discrecionalidad administrativa. Al dejar en blanco las columnas de 'Funciones' y 'Méritos' en el Anexo I, la administración crea un vacío técnico que permite el nombramiento basado en afinidades personales o políticas en lugar de competencia técnica objetiva. Aunque legal, es una práctica que erosiona la meritocracia en la Función Pública.",
+    "resumen_ciudadano": "El Ministerio de Economía convoca una plaza de alto nivel (nivel 29, casi el máximo en la escala de funcionarios) para ser elegida 'a dedo'. No se especifican qué tareas se van a realizar ni qué experiencia concreta se busca, lo que dificulta que funcionarios cualificados sin contactos políticos puedan competir en igualdad de condiciones.",
+    "resumen_tweet": "🔍 ¿Transparencia o dedazo? El Ministerio de Economía convoca un puesto Nivel 29 por 'libre designación' con las casillas de funciones y méritos VACÍAS. El #BOE vuelve a blindar la discrecionalidad política. ☝️🇪🇸 #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Ausencia de descripción de funciones en la convocatoria",
+      "Méritos específicos no detallados en la tabla técnica",
+      "Puesto de alta jerarquía (Nivel 29)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad política o personal con la Subsecretaría",
+        "Estructuras de mando que prefieren lealtad sobre mérito objetivo"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con currículum brillante pero sin conexiones",
+        "Ciudadanía, por la falta de garantías sobre la idoneidad técnica del cargo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Ausencia de descripción de funciones en la convocatoria",
+      "Méritos específicos no detallados en la tabla técnica",
+      "Puesto de alta jerarquía (Nivel 29)"
+    ]
+  }
+}

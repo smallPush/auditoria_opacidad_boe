@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2248",
+  "timestamp": "2026-01-31T20:43:12.940Z",
+  "title": "Resolución de 26 de enero de 2026, del Consejo de Gobierno del Banco de España, por la que se aprueba la modificación del Reglamento Interno del Banco de España, de 28 de marzo de 2000.",
+  "report": {
+    "nivel_transparencia": 0.45,
+    "analisis_critico": "La resolución justifica la elusión del trámite de consulta y audiencia pública (Art. 133 Ley 39/2015) bajo el pretexto de ser meramente organizativo, limitando la participación ciudadana en una institución clave. Destaca la reforma del artículo 66.1 g), que permite prescindir del pliego de cargos en procesos sancionadores si existen 'elementos suficientes' en la incoación, lo que supone una aceleración del castigo a costa de reducir las fases de defensa del supervisado. Asimismo, se institucionaliza la Oficina Independiente de Evaluaciones con una 'partida presupuestaria específica e independiente', creando un compartimento estanco financiero difícil de auditar desde el presupuesto general.",
+    "resumen_ciudadano": "El Banco de España actualiza sus normas internas para permitir que sus directivos se reúnan por videollamada y para agilizar las multas y sanciones a bancos, eliminando pasos intermedios en el proceso legal. Además, crea una nueva oficina de evaluación con su propio dinero apartado del resto y ha decidido no preguntar a los ciudadanos su opinión sobre estos cambios, alegando que no les afectan directamente.",
+    "resumen_tweet": "🏦 El Banco de España se blinda: reforma su reglamento para agilizar sanciones eliminando el pliego de cargos y crea una oficina con presupuesto propio 'independiente'. 🚩 Todo sin consulta pública. ¿Control o discrecionalidad? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Elusión de consulta y audiencia pública",
+      "Debilitamiento de garantías procesales en expedientes sancionadores",
+      "Creación de presupuesto paralelo para oficina interna",
+      "Consolidación de poder en la Comisión Ejecutiva para nombramientos clave"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cúpula directiva (flexibilidad en reuniones y mayor control de auditoría)",
+        "Comisión Ejecutiva (capacidad de sancionar con menos trabas procedimentales)",
+        "Oficina Independiente de Evaluaciones (autonomía financiera propia)"
+      ],
+      "perdedores": [
+        "Entidades supervisadas (reducción de pasos defensivos en procesos sancionadores)",
+        "Ciudadanía (privada de consulta pública)",
+        "Transparencia presupuestaria general (por la fragmentación de partidas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación del Reglamento Interno",
+    "banderas_rojas": [
+      "Elusión de consulta y audiencia pública",
+      "Debilitamiento de garantías procesales en expedientes sancionadores",
+      "Creación de presupuesto paralelo para oficina interna",
+      "Consolidación de poder en la Comisión Ejecutiva para nombramientos clave"
+    ]
+  }
+}

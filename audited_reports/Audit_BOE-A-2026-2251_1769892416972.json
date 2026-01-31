@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2251",
+  "timestamp": "2026-01-31T20:46:56.972Z",
+  "title": "Resolución de 20 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 9 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica dos puestos de 'Ayudante de Secretaría' mediante el sistema de libre designación. Aunque legal, este método permite la elección discrecional ('a dedo') para puestos de nivel administrativo (nivel 17), donde habitualmente debería primar el concurso de méritos. Se observa una endogamia administrativa, ya que ambas adjudicatarias ya pertenecían al mismo centro directivo. Esto refuerza la estructura de 'personal de confianza' en niveles bajos de la jerarquía, reduciendo la movilidad basada puramente en méritos objetivos.",
+    "resumen_ciudadano": "El Ministerio de Inclusión ha seleccionado directamente a dos administrativas para su Secretaría General sin un concurso abierto basado en méritos. Se ha utilizado el procedimiento de libre designación para cubrir puestos de apoyo que, aunque no son de alta dirección, se gestionan bajo criterios de confianza política o personal.",
+    "resumen_tweet": "🚩 ¿Confianza o dedazo? El Ministerio de Inclusión adjudica por 'libre designación' dos puestos de nivel 17. Un sistema que permite elegir a dedo al personal de apoyo, mermando la meritocracia en la función pública. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles administrativos bajos (Nivel 17)",
+      "Adjudicatarias provenientes del mismo departamento (posible endogamia)",
+      "Falta de desglose de méritos específicos en el anexo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Hernández Carmona",
+        "Marta Gebellín Osuna",
+        "Altos cargos de la Secretaría General (aseguran personal de su agrado)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayor mérito/antigüedad sin acceso a estos puestos",
+        "Sistema de transparencia en la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles administrativos bajos (Nivel 17)",
+      "Adjudicatarias provenientes del mismo departamento (posible endogamia)",
+      "Falta de desglose de méritos específicos en el anexo"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2258",
+  "timestamp": "2026-01-31T20:57:40.287Z",
+  "title": "Resolución de 22 de enero de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Mario Gálvez Lara.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera bajo la nueva Ley Orgánica del Sistema Universitario (LOSU). Aunque el acto es legalmente transparente, existe una opacidad estructural: el BOE publica el nombre pero omite el impacto presupuestario real (sueldo base, complementos y coste para la seguridad social) que supone esta plaza vitalicia para el erario público. El proceso ha tardado 8 meses desde la convocatoria hasta el nombramiento, reflejando la lentitud burocrática del sistema universitario español.",
+    "resumen_ciudadano": "La Universidad de Córdoba formaliza la plaza de Profesor Titular para Mario Gálvez Lara en el área de Psicología. Es un trámite administrativo estándar que consolida un puesto de trabajo permanente en la administración pública tras un proceso de concurso iniciado en mayo de 2025.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de Córdoba. Mario Gálvez Lara accede a plaza vitalicia en Psicología tras 8 meses de burocracia. El #BOE publica el nombre, pero ¿cuánto nos cuesta esta plaza? 💸 #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Dilación administrativa de 8 meses desde la convocatoria original",
+      "Lenguaje técnico que oculta la carga financiera para la CCAA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mario Gálvez Lara (estabilidad laboral vitalicia)",
+        "Universidad de Córdoba (cubrimiento de plazas estructurales)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el concurso de 2025",
+        "Ciudadanía (desconocimiento del coste salarial total de la resolución)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Dilación administrativa de 8 meses desde la convocatoria original",
+      "Lenguaje técnico que oculta la carga financiera para la CCAA"
+    ]
+  }
+}
