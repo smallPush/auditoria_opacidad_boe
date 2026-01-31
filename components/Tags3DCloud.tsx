@@ -25,7 +25,7 @@ const Tag = ({ text, count, position, onClick }: { text: string; count: number; 
   });
 
   return (
-    <Float speed={2} rotationIntensity={0.5} floatIntensity={0.5}>
+    <Float speed={0.5} rotationIntensity={0.2} floatIntensity={0.2}>
       <Text
         position={position}
         fontSize={hovered ? 0.8 : 0.5}
@@ -177,7 +177,7 @@ const Tags3DCloud: React.FC<Tags3DCloudProps> = ({ history, lang }) => {
         
         <WordCloud tags={filteredTags} onTagClick={handleTagClick} />
         
-        <OrbitControls autoRotate={!searchTerm} autoRotateSpeed={0.5} enablePan={false} />
+        <OrbitControls autoRotate={!searchTerm} autoRotateSpeed={0.1} enablePan={false} />
       </Canvas>
     </div>
   );

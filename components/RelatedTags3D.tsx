@@ -73,10 +73,10 @@ const LinkMesh = ({ start, end, strength }: { start: THREE.Vector3; end: THREE.V
   return (
     <Line
       points={[start, end]}
-      color="#94a3b8"
-      lineWidth={Math.min(2, strength * 0.5)}
+      color="#64748b"
+      lineWidth={Math.min(15, strength * 5)}
       transparent
-      opacity={0.1}
+      opacity={0.6}
     />
   );
 };
@@ -92,8 +92,8 @@ const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; on
         const dist = diff.length();
         if (dist < 0.1) continue;
         const force = diff.normalize().multiplyScalar(5 / (dist * dist)); 
-        nodeA.velocity.add(force.multiplyScalar(0.005));
-        nodeB.velocity.sub(force.multiplyScalar(0.005));
+        nodeA.velocity.add(force.multiplyScalar(0.002));
+        nodeB.velocity.sub(force.multiplyScalar(0.002));
       }
     }
 
@@ -105,17 +105,17 @@ const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; on
         const diff = new THREE.Vector3().subVectors(nodeB.position, nodeA.position);
         const dist = diff.length();
         const targetLen = 6;
-        const force = diff.normalize().multiplyScalar((dist - targetLen) * 0.05);
-        nodeA.velocity.add(force.multiplyScalar(0.01));
-        nodeB.velocity.sub(force.multiplyScalar(0.01));
+        const force = diff.normalize().multiplyScalar((dist - targetLen) * 0.02);
+        nodeA.velocity.add(force.multiplyScalar(0.005));
+        nodeB.velocity.sub(force.multiplyScalar(0.005));
       }
     });
 
     // Physics Update
     nodes.forEach(node => {
-      node.velocity.sub(node.position.clone().multiplyScalar(0.002));
-      node.velocity.multiplyScalar(0.92);
-      if (node.velocity.length() > 0.5) node.velocity.normalize().multiplyScalar(0.5);
+      node.velocity.sub(node.position.clone().multiplyScalar(0.001));
+      node.velocity.multiplyScalar(0.95);
+      if (node.velocity.length() > 0.2) node.velocity.normalize().multiplyScalar(0.2);
       node.position.add(node.velocity);
     });
   });
@@ -249,7 +249,7 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
         
         <Stars radius={100} depth={50} count={3000} factor={4} saturation={0} fade speed={1} />
         
-        <OrbitControls autoRotate autoRotateSpeed={0.2} enableDamping dampingFactor={0.05} />
+        <OrbitControls autoRotate autoRotateSpeed={0.05} enableDamping dampingFactor={0.05} />
         <Graph nodes={nodes} links={links} onNodeClick={handleNodeClick} />
       </Canvas>
     </div>
