@@ -40,13 +40,28 @@ To prevent excessive API usage or error loops, the application implements a stri
 The project includes a Node.js script to automatically audit the latest BOE publications without manual intervention.
 
 ### How to run:
+Standard run (audits today's/yesterday's latest 20 items):
 ```bash
 npm run audit
 ```
 
+**Advanced Usage:**
+You can pass arguments to control the date and number of items:
+
+```bash
+# Audit a specific date (YYYYMMDD)
+node scripts/audit-latest.js --date 20240130
+
+# Limit the number of items to process
+node scripts/audit-latest.js --limit 5
+
+# Combine parameters
+node scripts/audit-latest.js --date 20240130 --limit 100
+```
+
 ### Behavior:
-1. **Fetches the latest 10 legislative items** from the BOE (Official State Gazette).
+1. **Fetches legislative items** from the BOE (Official State Gazette). By default, it checks today and yesterday.
 2. **Checks if they have already been audited** locally to avoid duplicates.
 3. **Audits only the new items** using Gemini 3 Flash.
-4. **Rate Limiting:** To respect API quotas, the script processes a maximum of **4 items per minute**. It will automatically pause for 60 seconds after every 4th audit.
+4. **Rate Limiting:** To respect API quotas, the script waits 60 seconds between audits.
 5. **Saves results** to `audited_reports/` and updates the index file.

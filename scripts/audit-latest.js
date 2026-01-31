@@ -123,14 +123,21 @@ function parseItemsFromXml(text) {
   return items;
 }
 
-async function fetchLatestBOE() {
-  const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
-  const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
-  const urls = [
-    `https://www.boe.es/datosabiertos/api/boe/sumario/${today}`,
-    `https://www.boe.es/datosabiertos/api/boe/sumario/${yesterday}`,
-    'https://www.boe.es/diario_boe/xml.php'
-  ];
+async function fetchLatestBOE(targetDate) {
+  let urls = [];
+  
+  if (targetDate) {
+     urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${targetDate}`);
+  } else {
+    const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
+    urls = [
+      `https://www.boe.es/datosabiertos/api/boe/sumario/${today}`,
+      `https://www.boe.es/datosabiertos/api/boe/sumario/${yesterday}`,
+      'https://www.boe.es/diario_boe/xml.php'
+    ];
+  }
+
   for (const url of urls) {
     console.log(`🔍 Try fetching: ${url}`);
     try {
@@ -150,9 +157,29 @@ async function fetchLatestBOE() {
 
 async function run() {
   try {
-    const latestItems = await fetchLatestBOE();
+    // Parse arguments
+    const args = process.argv.slice(2);
+    let targetDate = null;
+    let limit = 20; // Default limit
+
+    for (let i = 0; i < args.length; i++) {
+      if (args[i] === '--date') {
+        targetDate = args[i + 1];
+        i++;
+      } else if (args[i] === '--limit') {
+        limit = parseInt(args[i + 1], 10);
+        i++;
+      }
+    }
+
+    if (targetDate) {
+        console.log(`📅 Targeting specific date: ${targetDate}`);
+    }
+    console.log(`🔢 Limit set to: ${limit}`);
+
+    const latestItems = await fetchLatestBOE(targetDate);
     const filteredItems = latestItems.filter(item => item.id.startsWith('BOE-A-'));
-    const itemsToProcess = filteredItems.slice(0, 10); // Batch for verification
+    const itemsToProcess = filteredItems.slice(0, limit); 
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
     const files = fs.readdirSync(AUDITED_REPORTS_DIR);
