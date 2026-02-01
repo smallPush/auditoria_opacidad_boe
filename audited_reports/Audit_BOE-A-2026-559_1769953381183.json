@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-559",
+  "timestamp": "2026-02-01T13:43:01.183Z",
+  "title": "Resolución de 9 de enero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una actualizacion tecnica de precios de venta al publico para labores de tabaco, gestionada por el Comisionado para el Mercado de Tabacos. Aunque el texto es transparente en sus cifras, revela la disparidad extrema del mercado: conviven productos de consumo de masas con articulos de ultra-lujo (como el Cohiba Ideales a 550 euros la unidad). El Estado aqui actua como validador de los margenes de beneficio de fabricantes e importadores, manteniendo un control ferreo sobre el monopolio de las expendedurias. No se observan gastos fantasma directos, pero si una maquinaria administrativa dedicada exclusivamente a la regulacion de precios de una sustancia nociva.",
+    "resumen_ciudadano": "Hacienda publica la lista actualizada de precios para cigarrillos y puros. Los cambios afectan a marcas conocidas como Lucky Strike y Marlboro, asi como a una extensa gama de puros habanos. Los precios varian desde los pocos centimos por unidad en marcas economicas hasta mas de 500 euros por unidad en ediciones limitadas de lujo.",
+    "resumen_tweet": "🚬 Nuevo tarifazo de precios en el #BOE para el tabaco. Desde cajetillas a 4.85€ hasta habanos de lujo por 550€ la unidad. Hacienda actualiza el mercado mientras el Estado gestiona el monopolio. ¿Salud o recaudacion? 📉 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Validacion estatal de precios privados",
+      "Mantenimiento de estructura de monopolio",
+      "Extrema disparidad de precios (segmentacion de clase)",
+      "Uso de recursos publicos para la publicacion de intereses comerciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes tabacaleras (Philip Morris, BAT)",
+        "Estado (recaudacion por impuestos especiales)",
+        "Sector del lujo y coleccionismo de habanos"
+      ],
+      "perdedores": [
+        "Consumidores de clases populares (mayor peso relativo del gasto)",
+        "Salud publica (fomento de la normalizacion del consumo mediante regulacion de mercado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península e Illes Balears)",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Validacion estatal de precios privados",
+      "Mantenimiento de estructura de monopolio",
+      "Extrema disparidad de precios (segmentacion de clase)",
+      "Uso de recursos publicos para la publicacion de intereses comerciales"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-619",
+  "timestamp": "2026-02-01T13:48:14.933Z",
+  "title": "Decreto-ley 6/2025, de 18 de septiembre, de ayudas urgentes al alumnado con derecho a transporte escolar, matriculado en centros docentes públicos no universitarios de la Comunidad Autónoma de Extremadura, que se vea afectado por la falta de prestación de dicho servicio durante el inicio del curso escolar 2025/2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Decreto-ley 6/2025 es una medida reactiva ante un colapso manifiesto en la contratación pública de transporte escolar en Extremadura. La administración admite que mas de 200 rutas quedaron desiertas por 'reiterada ausencia de ofertas', lo que sugiere un error de cálculo en los pliegos de condiciones o una desconexión total con los costes del sector. Se utiliza la figura de la 'extraordinaria y urgente necesidad' para parchear un fallo de planificación administrativa. Aunque el pago de 0,26 euros/km es concreto, la ley oculta las causas estructurales del fracaso de la licitación y exime a los beneficiarios de los controles habituales de la Ley de Subvenciones para acelerar el pago, lo cual, aunque práctico para las familias, reduce la fiscalización ordinaria.",
+    "resumen_ciudadano": "La Junta de Extremadura pagará directamente a las familias 0,26 euros por kilómetro recorrido para compensar la falta de autobuses escolares al inicio del curso 2025/2026. Esta ayuda cubre solo del 11 al 19 de septiembre y surge porque el gobierno regional no logró encontrar empresas que quisieran hacerse cargo de más de 200 rutas escolares.",
+    "resumen_tweet": "🚌💥 El parche del #BOE: Extremadura compensa con 0,26€/km a familias sin transporte escolar tras dejar desiertas 200 rutas. Un fallo de gestión pública que pagan los padres con su tiempo y organización. ¿Eficiencia o improvisación? #Transparencia #Opacidad 🚩",
+    "banderas_red_flags": [
+      "Reiterada ausencia de ofertas de empresas para 200 rutas (fallo de mercado o presupuesto insuficiente)",
+      "Exención de requisitos de los artículos 12 y 13 de la Ley de Subvenciones",
+      "Uso de Decreto-ley para resolver un problema de licitación previsible",
+      "Periodo de cobertura extremadamente corto (9 días), dejando en el aire la solución a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de transporte (al no aceptar contratos que posiblemente no eran rentables)",
+        "Administración autonómica (al limitar su responsabilidad económica a un pago por kilómetro y evitar litigios mayores)"
+      ],
+      "perdedores": [
+        "Familias de zonas rurales (impacto de clase: mayor esfuerzo logístico)",
+        "Mujeres (impacto de género: la carga de la conciliación y transporte suele recaer en ellas ante fallos de servicios públicos)",
+        "Alumnado con menos recursos (riesgo de absentismo escolar por falta de movilidad)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Decreto-ley de Ayudas de Emergencia Educativa",
+    "banderas_rojas": [
+      "Reiterada ausencia de ofertas de empresas para 200 rutas (fallo de mercado o presupuesto insuficiente)",
+      "Exención de requisitos de los artículos 12 y 13 de la Ley de Subvenciones",
+      "Uso de Decreto-ley para resolver un problema de licitación previsible",
+      "Periodo de cobertura extremadamente corto (9 días), dejando en el aire la solución a largo plazo"
+    ]
+  }
+}

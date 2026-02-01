@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-560",
+  "timestamp": "2026-02-01T13:44:17.894Z",
+  "title": "Real Decreto 5/2026, de 8 de enero, por el que se modifica el Real Decreto 1085/2015, de 4 de diciembre, de fomento de los Biocarburantes, con el fin de actualizar el objetivo de venta o consumo de biocarburantes para el año 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 5/2026 presenta una fachada de ambición climática al elevar el objetivo de biocarburantes del 12% al 14% para 2026. Sin embargo, la 'Disposición transitoria segunda' actúa como una válvula de escape para las petroleras, permitiendo que durante los dos primeros trimestres solo cumplan el 50% del objetivo o, en su defecto, realicen un 'pago compensatorio'. Esta monetización del incumplimiento crea un sistema de 'pagar por contaminar' que protege la operativa financiera de las grandes distribuidoras frente a la urgencia climática. Además, la distinción entre infracciones 'muy graves' por cuotas y 'graves' por emisiones genera una asimetría regulatoria que beneficia a la industria si decide priorizar un objetivo sobre otro.",
+    "resumen_ciudadano": "El Gobierno aumenta por ley la cantidad obligatoria de biocombustible en la gasolina y el diésel para 2026, pasando del 12% al 14%. Aunque suena bien para el medio ambiente, esto suele traducirse en un aumento de precios en el surtidor para el ciudadano. Además, se permite a las gasolineras no cumplir el total en los primeros meses de 2026 a cambio de pagar una compensación económica, lo que prioriza la recaudación sobre la reducción real de emisiones.",
+    "resumen_tweet": "⛽️ ¿Más verde o más caro? El #BOE sube al 14% el objetivo de biocarburantes para 2026. Ojo: se permite a las petroleras pagar para no cumplir los objetivos los primeros meses. ¿Transparencia o recaudación? 💸🌱 #Opacidad #Transparencia #Combustibles",
+    "banderas_red_flags": [
+      "Uso de 'pagos compensatorios' como alternativa al cumplimiento ambiental",
+      "Flexibilización del 50% de la obligación en el primer semestre",
+      "Asimetría en la gravedad de sanciones entre contenido energético e intensidad de emisiones",
+      "Potencial traslado de costes de certificados de biocarburantes al consumidor final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes operadoras petrolíferas (por la flexibilidad operativa)",
+        "Productores de biocarburantes (aumento de demanda)",
+        "Administración Pública (recaudación vía pagos compensatorios)"
+      ],
+      "perdedores": [
+        "Consumidores finales (posible subida de precios por el coste del biocarburante)",
+        "Clase trabajadora dependiente del transporte privado",
+        "Compromiso climático real (debido a la moratoria encubierta del 50%)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Legislación Energética y Medioambiental",
+    "banderas_rojas": [
+      "Uso de 'pagos compensatorios' como alternativa al cumplimiento ambiental",
+      "Flexibilización del 50% de la obligación en el primer semestre",
+      "Asimetría en la gravedad de sanciones entre contenido energético e intensidad de emisiones",
+      "Potencial traslado de costes de certificados de biocarburantes al consumidor final"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-558",
+  "timestamp": "2026-02-01T13:41:49.112Z",
+  "title": "Acuerdo suscrito entre el Ministerio de Inclusión, Seguridad Social y Migraciones del Reino de España y la Organización Internacional para las Migraciones (OIM) para la realización de proyectos en las áreas temáticas de reasentamiento, retorno voluntario asistido y reintegración, movilidad laboral e inclusión social, hecho en Madrid el 17 de noviembre y 2 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo externaliza la gestión migratoria a la OIM, un organismo internacional, lo que reduce la capacidad de fiscalización directa del Estado español bajo el 'principio de auditoría única'. Se observa una desproporción significativa entre los fondos destinados al 'Retorno Voluntario' (1,65M€) frente a la 'Inclusión Social y Movilidad Laboral' (0,45M€), sugiriendo una prioridad política hacia la salida de migrantes más que a su integración. Además, se establece un cargo automático del 7% (280.000€) en concepto de gestión para la OIM, sin desglose de costes operativos reales.",
+    "resumen_ciudadano": "El Gobierno de España otorga 4 millones de euros a la Organización Internacional para las Migraciones para proyectos en 2026. La mayor parte del dinero se destina a reasentamiento y a incentivar que los migrantes regresen a sus países de origen, mientras que la inversión en su inclusión laboral en España es mínima (apenas un 11% del total). Los detalles específicos de los gastos no aparecen en el BOE, sino en enlaces externos.",
+    "resumen_tweet": "⚠️ Auditoría #BOE: 4M€ para la OIM en 2026. Se gasta 4 veces más en 'Retornos' que en 'Inclusión Laboral'. 💸 280.000€ van directos a gastos de gestión sin desglose. ¡Externalización de la política migratoria! 🕵️‍♂️ #Opacidad #Transparencia #Migración",
+    "banderas_red_flags": [
+      "Externalización de funciones estatales básicas a organismos internacionales",
+      "Opacidad en los anexos: los presupuestos detallados no están en el BOE, requieren consulta externa",
+      "Gasto fantasma: 7% de comisión de gestión (280.000€) sin justificación de costes reales",
+      "Incongruencia en prioridades: El retorno recibe 1.2M€ más que la inclusión laboral"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Organización Internacional para las Migraciones (OIM) por la recepción de fondos y comisión de gestión",
+        "Estructuras burocráticas de gestión de fronteras"
+      ],
+      "perdedores": [
+        "Contribuyentes españoles por la limitación en la auditoría directa de los fondos",
+        "Migrantes residentes que buscan inclusión laboral (partida presupuestaria minoritaria)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Externalización de funciones estatales básicas a organismos internacionales",
+      "Opacidad en los anexos: los presupuestos detallados no están en el BOE, requieren consulta externa",
+      "Gasto fantasma: 7% de comisión de gestión (280.000€) sin justificación de costes reales",
+      "Incongruencia en prioridades: El retorno recibe 1.2M€ más que la inclusión laboral"
+    ]
+  }
+}

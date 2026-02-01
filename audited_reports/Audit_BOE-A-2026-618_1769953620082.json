@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-618",
+  "timestamp": "2026-02-01T13:47:00.082Z",
+  "title": "Decreto-ley 5/2025, de 18 de septiembre, de ayudas extraordinarias y otras medidas urgentes para la recuperación de las zonas afectadas por los incendios forestales acaecidos en Extremadura durante el verano de 2025 y en materia preventiva de incendios forestales.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El Decreto-ley utiliza la catástrofe de los incendios de 2025 como 'caballo de Troya' para modificar permanentemente la Ley de Protección Ambiental (16/2015), bajo el eufemismo de 'agilización administrativa'. Se detecta una incongruencia ideológica: mientras se proclama la protección de la naturaleza, se relajan los controles ambientales para instalaciones eléctricas. Además, la concesión de ayudas a empresas que no están al corriente con la Seguridad Social o Hacienda supone un riesgo de riesgo moral y falta de equidad frente al ciudadano común. La bonificación del 100% al sector cinegético (caza) prioriza a un lobby específico sobre otros colectivos vulnerables afectados por el fuego.",
+    "resumen_ciudadano": "El Gobierno de Extremadura aprueba ayudas urgentes por los incendios de 2025, pero aprovecha para recortar trámites ambientales y perdonar impuestos a los dueños de cotos de caza. Lo más polémico es que permitirá a empresas con deudas con el Estado recibir subvenciones públicas, algo prohibido en condiciones normales.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Extremadura usa los incendios para perdonar impuestos a la caza 🦌 y permitir ayudas a empresas con deudas en la Seguridad Social. Además, recortan controles ambientales. ¿Emergencia o barra libre? 📉 #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Exención de estar al corriente de obligaciones tributarias/Seguridad Social para recibir ayudas públicas.",
+      "Modificación de anexos de la Ley de Protección Ambiental mediante un procedimiento de urgencia.",
+      "Bonificación fiscal total (100%) para el Impuesto sobre Aprovechamientos Cinegéticos.",
+      "Uso del Decreto-ley para regular aspectos del sector eléctrico que deberían tener debate parlamentario ordinario."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Propietarios de cotos de caza",
+        "Empresas turísticas con deudas administrativas",
+        "Grandes promotoras de instalaciones de generación eléctrica"
+      ],
+      "perdedores": [
+        "Rigurosidad en el control ambiental",
+        "Contribuyentes que cumplen sus obligaciones fiscales",
+        "Pequeños agricultores sin capacidad de presión política"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Decreto-ley de medidas extraordinarias por catástrofe natural",
+    "banderas_rojas": [
+      "Exención de estar al corriente de obligaciones tributarias/Seguridad Social para recibir ayudas públicas.",
+      "Modificación de anexos de la Ley de Protección Ambiental mediante un procedimiento de urgencia.",
+      "Bonificación fiscal total (100%) para el Impuesto sobre Aprovechamientos Cinegéticos.",
+      "Uso del Decreto-ley para regular aspectos del sector eléctrico que deberían tener debate parlamentario ordinario."
+    ]
+  }
+}

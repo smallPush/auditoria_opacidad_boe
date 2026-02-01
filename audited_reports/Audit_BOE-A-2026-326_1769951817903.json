@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-326",
+  "timestamp": "2026-02-01T13:16:57.903Z",
+  "title": "Orden TES/1582/2025, de 30 de diciembre, por la que se modifica la Orden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral, en relación con la oferta formativa de las administraciones competentes y su financiación, y se establecen las bases reguladoras para la concesión de subvenciones públicas destinadas a su financiación.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La orden actualiza módulos económicos congelados desde 2019 basándose en una subida del IPC del 18%. Aunque la justificación técnica es sólida, introduce una ventana de discrecionalidad preocupante al permitir incrementos de hasta el 50% en 'acciones singulares' sin definir criterios objetivos de 'singularidad'. Además, la flexibilización para modificar resoluciones mediante declaraciones responsables bajo 'circunstancias de toda índole' reduce el rigor del control administrativo previo sobre fondos públicos.",
+    "resumen_ciudadano": "El Ministerio de Trabajo actualiza los pagos por hora de formación profesional (15,4€ presencial / 8,9€ teleformación) y crea una nueva ayuda diaria para parados en Ceuta y Melilla (75% del IPREM). Se facilita que las empresas y centros de formación modifiquen los plazos y condiciones de sus subvenciones de forma más ágil, aunque se endurecen las incompatibilidades con otras ayudas sociales.",
+    "resumen_tweet": "📢 El #BOE actualiza la financiación de formación tras años de parón (+18% IPC). Cuidado: se abre la puerta a inflar costes un 50% en cursos 'singulares' sin control claro. 🧐 ¿Transparencia o cheque en blanco? #Opacidad #Transparencia #Empleo 📉",
+    "banderas_red_flags": [
+      "Incremento discrecional del 50% en módulos para acciones 'singulares' sin métricas definidas",
+      "Modificación de plazos de ejecución por 'circunstancias de toda índole', concepto jurídico indeterminado",
+      "Sustitución de verificaciones previas por declaraciones responsables en modificaciones sustanciales de subvenciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros de formación profesional (aumento de tarifas por alumno/hora)",
+        "Desempleados de Ceuta y Melilla (acceso a ayuda diaria de asistencia)",
+        "Entidades gestoras (mayor flexibilidad administrativa para justificar retrasos)"
+      ],
+      "perdedores": [
+        "Arcas públicas (riesgo de sobrecostes por la cláusula de excepcionalidad del 50%)",
+        "Beneficiarios de rentas mínimas (incompatibilidad estricta de la nueva percepción económica con otras ayudas sociales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial de Empleo y Formación",
+    "banderas_rojas": [
+      "Incremento discrecional del 50% en módulos para acciones 'singulares' sin métricas definidas",
+      "Modificación de plazos de ejecución por 'circunstancias de toda índole', concepto jurídico indeterminado",
+      "Sustitución de verificaciones previas por declaraciones responsables en modificaciones sustanciales de subvenciones"
+    ]
+  }
+}

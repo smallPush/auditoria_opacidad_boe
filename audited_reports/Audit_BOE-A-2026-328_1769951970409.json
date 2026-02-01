@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-328",
+  "timestamp": "2026-02-01T13:19:30.409Z",
+  "title": "Resolución de 24 de diciembre de 2025, de la Secretaría de Estado de Digitalización e Inteligencia Artificial, por la que se publica el Acuerdo del Consejo Rector por el que se dispone el cese de don Ignacio Belda Reig como Director de la Agencia Española de Supervisión de Inteligencia Artificial.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El cese 'a petición propia' del Director de la AESIA en un momento crítico para la implementación de la Ley de IA europea sugiere una posible inestabilidad institucional o el fenómeno de 'puertas giratorias' hacia el sector privado tecnológico. La resolución es escueta y no menciona un sucesor, dejando a la primera agencia de supervisión de IA en Europa en una situación de interinidad técnica.",
+    "resumen_ciudadano": "Ignasi Belda deja la dirección de la Agencia Española de Supervisión de Inteligencia Artificial (AESIA) por voluntad propia. Esta salida deja descabezado al organismo encargado de vigilar los algoritmos y la IA en España, justo cuando su labor es más necesaria para proteger los derechos ciudadanos frente a la tecnología.",
+    "resumen_tweet": "🚨 Dimisión en la cúpula de la IA: Ignasi Belda deja la AESIA 'a petición propia'. ¿Fuga de talento al sector privado o inestabilidad en el organismo? La supervisión del algoritmo se queda sin liderazgo. 🤖📉 #BOE #Opacidad #Transparencia #AESIA",
+    "banderas_red_flags": [
+      "Cese voluntario en cargo de alta responsabilidad estratégica",
+      "Ausencia de nombramiento de sustituto inmediato",
+      "Falta de justificación sobre la salida de un perfil técnico clave"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector privado (potencial captación de talento regulador)",
+        "Intereses tecnológicos con menor vigilancia inmediata"
+      ],
+      "perdedores": [
+        "Ciudadanía (debilitamiento de la supervisión algorítmica)",
+        "Estabilidad institucional de la AESIA",
+        "Estrategia Nacional de Inteligencia Artificial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Cese voluntario en cargo de alta responsabilidad estratégica",
+      "Ausencia de nombramiento de sustituto inmediato",
+      "Falta de justificación sobre la salida de un perfil técnico clave"
+    ]
+  }
+}

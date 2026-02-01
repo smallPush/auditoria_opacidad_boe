@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-425",
+  "timestamp": "2026-02-01T13:31:10.644Z",
+  "title": "Acuerdo de 7 de octubre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Mario Pestana Pérez.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es un acto administrativo reglado que cumple con la legalidad, pero incurre en la opacidad presupuestaria habitual al referirse a 'derechos pasivos' sin cuantificar el impacto económico para el erario público. Existe un desfase temporal notable entre el acuerdo (octubre 2025) y su publicación (enero 2026), lo que dilata innecesariamente la comunicación ciudadana de los movimientos en la alta magistratura.",
+    "resumen_ciudadano": "Se oficializa la jubilación forzosa de un Magistrado de la Audiencia Provincial de Madrid por alcanzar la edad legal, garantizándole el cobro de su pensión pública bajo el régimen especial de clases pasivas.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la Audiencia de Madrid: el Magistrado Mario Pestana Pérez se retira por edad. El #BOE otorga 'derechos pasivos' sin detallar el coste público. ¿Dónde está la claridad presupuestaria? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Gasto fantasma (derechos pasivos no cuantificados)",
+      "Retraso administrativo de 3 meses en la publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mario Pestana Pérez (acceso a retiro garantizado)",
+        "Futuro aspirante a la vacante en la Audiencia de Madrid"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de clases pasivas sin transparencia financiera)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Administración de Justicia / Recursos Humanos",
+    "banderas_rojas": [
+      "Gasto fantasma (derechos pasivos no cuantificados)",
+      "Retraso administrativo de 3 meses en la publicación oficial"
+    ]
+  }
+}

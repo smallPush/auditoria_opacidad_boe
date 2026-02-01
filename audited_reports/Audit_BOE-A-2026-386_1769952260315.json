@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-386",
+  "timestamp": "2026-02-01T13:24:20.315Z",
+  "title": "Acuerdo de 29 de julio de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria del Magistrado don Juan Mateo Ayala García.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado bajo la Ley Orgánica del Poder Judicial. Aunque el procedimiento es formalmente correcto, la opacidad reside en el sistema de 'Clases Pasivas', un régimen de seguridad social para funcionarios que permite jubilaciones con privilegios de cálculo que no se detallan en el texto. Existe un decalaje temporal entre la firma del acuerdo (julio 2025) y su efectividad (enero 2026), lo que refleja una planificación de salida blindada.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial formaliza la jubilación voluntaria de un magistrado de la Audiencia Provincial de Bizkaia. Esto le otorga el derecho a percibir una pensión vitalicia del Estado bajo un régimen especial reservado a altos funcionarios.",
+    "resumen_tweet": "⚖️ El CGPJ publica la jubilación voluntaria de un magistrado en Bizkaia. Se activan los 'derechos pasivos' bajo un régimen especial de pensiones no disponible para el ciudadano común. ¿Privilegios de clase en la judicatura? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Régimen de Clases Pasivas frente al Régimen General",
+      "Gestión de personal de alto nivel sin desglose de costes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Mateo Ayala García (acceso a jubilación blindada)",
+        "Élite judicial (mantenimiento de regímenes especiales)"
+      ],
+      "perdedores": [
+        "Sistema general de pensiones (por desigualdad de condiciones)",
+        "Contribuyente (falta de información sobre el impacto económico del retiro)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Acuerdo de Personal Judicial",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Régimen de Clases Pasivas frente al Régimen General",
+      "Gestión de personal de alto nivel sin desglose de costes"
+    ]
+  }
+}

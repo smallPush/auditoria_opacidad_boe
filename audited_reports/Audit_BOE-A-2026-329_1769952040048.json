@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-329",
+  "timestamp": "2026-02-01T13:20:40.048Z",
+  "title": "Resolución de 23 de diciembre de 2025, del Consejo de Seguridad Nuclear, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, como personal laboral fijo fuera de convenio, con la categoría de Responsable del Servicio Médico.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "La convocatoria para 'Responsable del Servicio Médico' en el CSN bajo la modalidad de 'personal laboral fuera de convenio' es un mecanismo que, aunque legal, permite una flexibilidad salarial y de condiciones que escapa a las tablas estándar de la función pública, generando opacidad presupuestaria. El uso del sistema 'concurso-oposición' en lugar de oposición pura permite que la valoración de méritos subjetivos sea determinante para una plaza única. No se especifica la cuantía retributiva ni los complementos específicos asociados a este estatus especial.",
+    "resumen_ciudadano": "El Consejo de Seguridad Nuclear busca un médico jefe con contrato fijo. Lo llamativo es que el puesto está 'fuera de convenio', lo que significa que sus condiciones y sueldo se negocian fuera de los acuerdos estándar de los trabajadores públicos, dificultando saber cuánto nos costará exactamente a los ciudadanos.",
+    "resumen_tweet": "🚨 Nueva plaza en el @CSN_es para Responsable Médico. 🩺 El puesto es 'fuera de convenio', lo que implica sueldos menos transparentes y condiciones especiales fuera de la norma general. ¿Transparencia o diseño a medida? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Contratación fuera de convenio",
+      "Plaza única con fase de concurso determinante",
+      "Falta de desglose retributivo en la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El candidato seleccionado (por estabilidad y sueldo discrecional)",
+        "Altos cargos del CSN (control interno de salud laboral)"
+      ],
+      "perdedores": [
+        "Sistema Público de Salud (fuga de profesionales)",
+        "Contribuyentes (por falta de claridad en el coste de la masa salarial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Contratación fuera de convenio",
+      "Plaza única con fase de concurso determinante",
+      "Falta de desglose retributivo en la convocatoria"
+    ]
+  }
+}

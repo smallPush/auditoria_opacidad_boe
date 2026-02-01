@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-423",
+  "timestamp": "2026-02-01T13:28:19.422Z",
+  "title": "Ley 5/2025, de 16 de diciembre, de Vivienda de Andalucía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 5/2025 de Andalucía desplaza el eje del derecho a la vivienda hacia un modelo de gestión mercantilista. Destaca la creación de la 'Unidad Aceleradora de Proyectos' (Art. 25) y una fuerte apuesta por la 'Colaboración público-privada' (Arts. 11-15), lo que en la práctica puede traducirse en la transferencia de suelo público a manos privadas bajo condiciones de opacidad administrativa. Mientras el discurso oficial habla de 'función social', el articulado refuerza la seguridad jurídica de los propietarios y la lucha contra la ocupación (Art. 43), relegando la vivienda pública directa a un segundo plano frente a la concertada.",
+    "resumen_ciudadano": "Andalucía aprueba una nueva regulación que facilita a las constructoras el acceso a suelo público para hacer vivienda protegida. Se crean registros para agentes inmobiliarios y se endurecen las medidas contra la ocupación ilegal. El acceso a la vivienda dependerá más de la iniciativa de empresas privadas que de la construcción directa por parte del Gobierno andaluz.",
+    "resumen_tweet": "🚨 Andalucía publica su nueva Ley de Vivienda: alfombra roja para la colaboración público-privada y vía rápida para promotoras. Mucho foco en anti-ocupación y menos en vivienda pública directa. ¿Derecho o negocio? 🏗️🏠 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de la Unidad Aceleradora de Proyectos para saltar trámites ordinarios",
+      "Ambigüedad en la financiación del parque público mediante fórmulas de colaboración privada",
+      "Posible privatización encubierta de la gestión de viviendas dotacionales (Art. 90)",
+      "Falta de criterios claros sobre el destino de los beneficios en las bolsas de suelo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Promotoras inmobiliarias",
+        "Grandes tenedores",
+        "Agentes inmobiliarios especializados",
+        "Unidad Aceleradora de Proyectos"
+      ],
+      "perdedores": [
+        "Demandantes de vivienda pública de gestión 100% directa",
+        "Colectivos vulnerables sin acceso a crédito",
+        "Ciudadanía crítica con la mercantilización del suelo público"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Ley Autonómica de Vivienda",
+    "banderas_rojas": [
+      "Uso de la Unidad Aceleradora de Proyectos para saltar trámites ordinarios",
+      "Ambigüedad en la financiación del parque público mediante fórmulas de colaboración privada",
+      "Posible privatización encubierta de la gestión de viviendas dotacionales (Art. 90)",
+      "Falta de criterios claros sobre el destino de los beneficios en las bolsas de suelo"
+    ]
+  }
+}

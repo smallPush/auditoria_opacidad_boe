@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-384",
+  "timestamp": "2026-02-01T13:21:59.197Z",
+  "title": "Real Decreto 1235/2025, de 26 de diciembre, por el que se nombra Presidenta de la Audiencia Provincial de Navarra a doña Ana Montserrat Llorca Blanco.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento oficializa un nombramiento de carácter discrecional bajo el amparo de la Ley Orgánica del Poder Judicial. Aunque legal, la 'discrecionalidad' en la designación de altos cargos judiciales es un punto crítico de opacidad en España, ya que los criterios de mérito y capacidad quedan supeditados a la voluntad política del Pleno del CGPJ. No se especifica el coste salarial para el erario público ni los méritos específicos que la han hecho prevalecer sobre otros posibles candidatos.",
+    "resumen_ciudadano": "Se ha nombrado a Ana Montserrat Llorca Blanco como nueva Presidenta de la Audiencia Provincial de Navarra. Este movimiento se produce tras el ascenso de su predecesor al Tribunal Superior de Justicia de la misma región. Es una reorganización interna de la cúpula judicial navarra decidida a puerta cerrada por el CGPJ.",
+    "resumen_tweet": "⚖️ Nueva presidencia en la Audiencia de Navarra. Ana Montserrat Llorca Blanco asciende mediante 'nombramiento discrecional'. La cúpula judicial se reorganiza entre despachos. ¿Y la meritocracia transparente? 🏛️🤔 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (elección a dedo)",
+      "Ausencia de desglose presupuestario del cargo",
+      "Falta de justificación de méritos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Montserrat Llorca Blanco",
+        "Consejo General del Poder Judicial (mantenimiento de cuotas de poder)"
+      ],
+      "perdedores": [
+        "Sistema de oposición pública transparente",
+        "Candidatos alternativos sin visibilidad de proceso"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional (elección a dedo)",
+      "Ausencia de desglose presupuestario del cargo",
+      "Falta de justificación de méritos en el texto"
+    ]
+  }
+}

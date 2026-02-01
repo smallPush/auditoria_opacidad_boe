@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-561",
+  "timestamp": "2026-02-01T13:45:31.612Z",
+  "title": "Decreto-ley 21/2025, de 14 de octubre, de medidas urgentes de apoyo al sector agrario y forestal.",
+  "report": {
+    "nivel_transparencia": 6.8,
+    "analisis_critico": "El uso recurrente del Decreto-ley por parte de la Generalitat de Cataluña para modificar leyes estructurales (Forestal, Urbanismo, Tasas) bajo el pretexto de 'extrema necesidad' por sequía e incendios es una maniobra que esquiva el debate parlamentario ordinario. Si bien las medidas de simplificación como el cuaderno digital son positivas, la exención de licencias urbanísticas para infraestructuras hídricas y la introducción del 'lucro cesante' en compensaciones por fauna salvaje abren la puerta a una discrecionalidad presupuestaria de difícil fiscalización. Se observa una clara tendencia a socializar las pérdidas del sector ganadero mediante la creación de seis tipos de ayudas para el vacuno (tuberculosis) y beneficios fiscales en Sucesiones y Donaciones, sin que se especifiquen los techos de gasto o el impacto recaudatorio real.",
+    "resumen_ciudadano": "Este decreto implementa un paquete de rescate y simplificación para el sector agrario y forestal. Entre los puntos clave: se eliminan tasas veterinarias en zonas con restricciones sanitarias, se dan ayudas directas por tuberculosis bovina, se perdonan impuestos en la transmisión de explotaciones y se permite construir puntos de agua contra incendios sin licencia municipal. Además, se agiliza la acreditación de 'Maestros Artesanos' alimentarios bajando los años de experiencia requeridos.",
+    "resumen_tweet": "🚜 Cataluña aprueba el Decreto-ley 21/2025: más ayudas directas al vacuno y menos burocracia. Ojo: se eliminan licencias para balsas de agua y se compensará el 'lucro cesante' con dinero público. ¿Agilidad o falta de control? 🧐 #BOE #Opacidad #Agricultura",
+    "banderas_red_flags": [
+      "Exención de licencias urbanísticas para puntos de agua (potencial descontrol territorial)",
+      "Concepto jurídico indeterminado en 'compensación por lucro cesante'",
+      "Modificación de 11 normas distintas en un solo texto de 'urgencia'",
+      "Falta de memoria económica detallada sobre el impacto de los beneficios fiscales en Sucesiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes propietarios de explotaciones ganaderas de vacuno",
+        "Titulares de terrenos forestales en zonas de alto riesgo de incendio",
+        "Empresas de artesanía alimentaria con relevo generacional pendiente"
+      ],
+      "perdedores": [
+        "Ayuntamientos (pierden control urbanístico sobre puntos de agua)",
+        "Contribuyentes generales (por la merma en la recaudación de Sucesiones y Transmisiones)",
+        "Control medioambiental preventivo (por bonificaciones en tasas de impacto ambiental)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Decreto-ley de Medidas Urgentes",
+    "banderas_rojas": [
+      "Exención de licencias urbanísticas para puntos de agua (potencial descontrol territorial)",
+      "Concepto jurídico indeterminado en 'compensación por lucro cesante'",
+      "Modificación de 11 normas distintas en un solo texto de 'urgencia'",
+      "Falta de memoria económica detallada sobre el impacto de los beneficios fiscales en Sucesiones"
+    ]
+  }
+}

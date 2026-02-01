@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-246",
+  "timestamp": "2026-02-01T09:22:29.850Z",
+  "title": "Acuerdo de 17 de diciembre de 2025, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 11 de noviembre de 2025, de la Comisión Permanente, en el Servicio de Selección y Formación Inicial de la Escuela Judicial.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El acuerdo oficializa el nombramiento de un cargo técnico dentro de la Escuela Judicial mediante el sistema de servicios especiales. Aunque se basa en un concurso de méritos, la opacidad reside en la falta de desglose de la baremación frente a otros candidatos. El uso de la figura de servicios especiales permite al magistrado conservar su plaza de origen, lo que genera una vacante temporal en un juzgado penal de Barcelona, impactando potencialmente en la celeridad de la justicia de a pie por un movimiento burocrático de formación interna. La duración de hasta diez años para un puesto de confianza técnica sugiere una consolidación de redes internas dentro del CGPJ.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a Carlos Cerrada Loranca, hasta ahora magistrado en Barcelona, como nuevo jefe de sección en la Escuela Judicial. Se encargará de la formación inicial de los futuros jueces. Este cambio supone que dejará su juzgado actual en Barcelona para dedicarse a tareas administrativas y formativas en el CGPJ por un periodo de entre dos y diez años.",
+    "resumen_tweet": "⚖️ Nuevo movimiento en el CGPJ: Carlos Cerrada deja su juzgado en Barcelona para formar a futuros jueces. El sistema de 'servicios especiales' facilita saltos a la burocracia judicial mientras los juzgados pierden titulares. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de detalle en la puntuación de méritos frente a otros aspirantes",
+      "Potencial vacante prolongada en el Juzgado de lo Penal n.º 26 de Barcelona",
+      "Extensión del mandato excepcionalmente larga (hasta 10 años) para un puesto técnico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Cerrada Loranca (ascenso administrativo y situación de servicios especiales)",
+        "CGPJ (consolidación de su estructura de formación)"
+      ],
+      "perdedores": [
+        "Justiciables del Juzgado de lo Penal n.º 26 de Barcelona (incertidumbre sobre el nuevo titular)",
+        "Candidatos no seleccionados (sin visibilidad de baremación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Falta de detalle en la puntuación de méritos frente a otros aspirantes",
+      "Potencial vacante prolongada en el Juzgado de lo Penal n.º 26 de Barcelona",
+      "Extensión del mandato excepcionalmente larga (hasta 10 años) para un puesto técnico"
+    ]
+  }
+}

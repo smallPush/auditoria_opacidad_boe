@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-247",
+  "timestamp": "2026-02-01T09:23:42.300Z",
+  "title": "Acuerdo de 17 de diciembre de 2025, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 14 de octubre de 2025, de la Comisión Permanente, en el Servicio de Relaciones Internacionales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento formaliza un nombramiento dentro del Consejo General del Poder Judicial (CGPJ) mediante la figura de 'servicios especiales'. Aunque se menciona un concurso de méritos, existe una opacidad absoluta sobre la baremación de los candidatos y las razones específicas que justifican la idoneidad de la elegida frente a otros aspirantes. El estatus de 'servicios especiales' permite a la magistrada abandonar la carga de trabajo jurisdiccional en Vizcaya manteniendo privilegios de antigüedad y derechos de carrera, lo que supone un trasvase de talento del campo de batalla judicial a la burocracia institucional sin transparencia presupuestaria sobre los complementos salariales del nuevo cargo.",
+    "resumen_ciudadano": "Se ha nombrado a Paula Boix Sampedro, magistrada en Vizcaya, como nueva jefa de sección de Relaciones Internacionales del CGPJ. Este puesto le permite dejar su juzgado por un periodo de hasta diez años manteniendo sus beneficios de carrera. El proceso se denomina concurso, pero el ciudadano no puede ver quiénes compitieron ni por qué ella fue la mejor opción.",
+    "resumen_tweet": "⚖️ ¿Cómo se eligen los cargos en la cúpula judicial? El CGPJ nombra nueva Jefa de Relaciones Internacionales. Deja su juzgado en Vizcaya por la burocracia de Madrid con carrera blindada. ¿Méritos públicos? Cero. #BOE #Opacidad #Justicia #Transparencia 🕵️",
+    "banderas_red_flags": [
+      "Opacidad en la baremación de méritos",
+      "Uso de la situación de servicios especiales para blindaje de carrera",
+      "Falta de información sobre el coste de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Paula Boix Sampedro (promoción a la élite administrativa)",
+        "CGPJ (refuerza su estructura interna)"
+      ],
+      "perdedores": [
+        "Justicia de proximidad en Vizcaya (pierde una magistrada titular)",
+        "Candidatos descartados por falta de publicidad en el proceso de selección"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en la baremación de méritos",
+      "Uso de la situación de servicios especiales para blindaje de carrera",
+      "Falta de información sobre el coste de la plaza"
+    ]
+  }
+}

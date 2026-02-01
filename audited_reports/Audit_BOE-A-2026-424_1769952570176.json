@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-424",
+  "timestamp": "2026-02-01T13:29:30.176Z",
+  "title": "Real Decreto 6/2026, de 7 de enero, por el que se nombra Delegado del Gobierno en la Comunidad Autónoma de Castilla-La Mancha a don José Pablo Sabrido Fernández.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se trata de un nombramiento discrecional bajo la figura de 'libre designación', una práctica legal pero que perpetúa la opacidad sobre los criterios de idoneidad técnica. No se especifica el coste total para las arcas públicas del mantenimiento de este alto cargo ni se acompaña de un plan de objetivos evaluables. Es un ejemplo clásico de la estructura de poder vertical donde la lealtad política prevalece sobre la transparencia de méritos públicos.",
+    "resumen_ciudadano": "El Gobierno ha designado a José Pablo Sabrido Fernández como su representante oficial en Castilla-La Mancha. Este cargo actúa como enlace entre el Ejecutivo central y la autonomía, pero su elección es puramente política y decidida directamente por el Presidente sin concurso público.",
+    "resumen_tweet": "📢 Nuevo 'dedazo' en el #BOE: José Pablo Sabrido Fernández es nombrado Delegado del Gobierno en Castilla-La Mancha. Sin concurso de méritos ni desglose de sueldo. La política de confianza sobre la transparencia. 🏛️💸 #Opacidad #Transparencia #CastillaLaMancha",
+    "banderas_red_flags": [
+      "Ausencia de justificación de méritos específicos en el texto",
+      "Falta de transparencia en la remuneración asignada",
+      "Nombramiento por libre designación (discrecionalidad política)",
+      "Inexistencia de memoria de impacto económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Pablo Sabrido Fernández (acceso a alto cargo)",
+        "Presidencia del Gobierno (control político territorial)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de cargos sin baremo de mérito público)",
+        "Funcionarios de carrera (limitación de ascenso por designaciones políticas)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia de justificación de méritos específicos en el texto",
+      "Falta de transparencia en la remuneración asignada",
+      "Nombramiento por libre designación (discrecionalidad política)",
+      "Inexistencia de memoria de impacto económico"
+    ]
+  }
+}

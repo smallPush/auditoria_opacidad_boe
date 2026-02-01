@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-250",
+  "timestamp": "2026-02-01T09:27:15.251Z",
+  "title": "Resolución de 26 de diciembre de 2025, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 13 de mayo de 2025, en el Organismo Estatal Inspección de Trabajo y Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una resolución de movilidad interna (concurso de traslados) en la Inspección de Trabajo. Aunque se publican nombres y puestos, la opacidad reside en la discrecionalidad administrativa: el artículo segundo permite retrasar el cese del funcionario hasta tres meses por 'necesidades del servicio' no especificadas. Esta cláusula actúa como un 'gasto fantasma de capital humano', donde la eficiencia operativa se supedita a la voluntad de mandos intermedios, dificultando la renovación de una institución clave para combatir el fraude laboral.",
+    "resumen_ciudadano": "Publicación de los resultados del concurso de traslados para funcionarios en la Inspección de Trabajo. Detalla quiénes cambian de puesto y hacia qué provincias se dirigen, estableciendo los plazos legales para que tomen posesión de sus nuevos destinos.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: Baile de sillas en la Inspección de Trabajo. Se resuelven los traslados, pero la 'letra pequeña' permite retener a funcionarios hasta 3 meses por 'necesidades del servicio'. ¿Eficiencia o bloqueo burocrático? #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Discrecionalidad en la prórroga de ceses (hasta 3 meses)",
+      "Opacidad en los criterios de puntuación de la Comisión de Valoración",
+      "Posible infrautilización de recursos en provincias con alta precariedad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios que logran cercanía geográfica (especialmente en Alicante y Cádiz)",
+        "La propia estructura administrativa que mantiene control sobre los tiempos de incorporación"
+      ],
+      "perdedores": [
+        "Ciudadanos en provincias con vacantes, que verán demoras en la incorporación real de inspectores",
+        "Funcionarios bloqueados en sus puestos actuales por 'necesidades del servicio' discrecionales"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica (Nacional)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Discrecionalidad en la prórroga de ceses (hasta 3 meses)",
+      "Opacidad en los criterios de puntuación de la Comisión de Valoración",
+      "Posible infrautilización de recursos en provincias con alta precariedad"
+    ]
+  }
+}

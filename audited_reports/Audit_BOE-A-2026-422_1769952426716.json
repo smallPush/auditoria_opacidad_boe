@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-422",
+  "timestamp": "2026-02-01T13:27:06.716Z",
+  "title": "Ley 4/2025, de 15 de diciembre, de espacios productivos para el fomento de la industria en Andalucía.",
+  "report": {
+    "nivel_transparencia": 6.2,
+    "analisis_critico": "La Ley 4/2025 de Andalucía presenta una estructura de gobernanza compleja que, bajo la bandera de la modernización, crea nuevas capas burocráticas (Gabinete Técnico, Oficinas Locales, Comisión de la Industria). El texto abusa de conceptos indeterminados como 'proyectos tractores' y 'entidades colaboradoras', los cuales otorgan una discrecionalidad preocupante a la Administración para asignar recursos y simplificar trámites de forma selectiva. La 'aceleración' de proyectos energéticos en espacios productivos podría comprometer la fiscalización ambiental previa en favor de grandes inversores.",
+    "resumen_ciudadano": "Andalucía redefine sus polígonos industriales impulsando la colaboración público-privada y creando una Red de Ciudades Industriales. Aunque busca modernizar infraestructuras y facilitar el acceso a energía renovable, la ley deja en manos de reglamentos posteriores y de la disponibilidad presupuestaria el detalle real de las ayudas y quiénes serán los beneficiarios finales de los incentivos económicos.",
+    "resumen_tweet": "🚨 Nueva Ley de Industria en Andalucía: ¿Modernización o red clientelar? 🏭 Se crean nuevos entes y 'proyectos tractores' con alta discrecionalidad. Se agilizan trámites energéticos pero la financiación real es una incógnita. 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Artículo 62: Programa específico de apoyo sin dotación presupuestaria definida (Gasto Fantasma).",
+      "Artículo 65-68: Discrecionalidad absoluta en la declaración de 'Proyecto Tractor'.",
+      "Artículo 17: Ventajas indeterminadas para entidades participantes en la gestión.",
+      "Disposición Adicional Quinta: Condiciona la efectividad de la ley a disponibilidades presupuestarias futuras."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes promotores industriales",
+        "Empresas de energías renovables (vía rápida de permisos)",
+        "Entidades de Gestión y Modernización (EGM)",
+        "Ayuntamientos alineados con la Red de Ciudades Industriales"
+      ],
+      "perdedores": [
+        "Pequeñas empresas (PYMES) fuera de núcleos industriales consolidados",
+        "Colectivos vecinales en zonas de regeneración industrial-urbana",
+        "Control medioambiental (por la simplificación de plazos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Legislación Industrial y Política Económica",
+    "banderas_rojas": [
+      "Artículo 62: Programa específico de apoyo sin dotación presupuestaria definida (Gasto Fantasma).",
+      "Artículo 65-68: Discrecionalidad absoluta en la declaración de 'Proyecto Tractor'.",
+      "Artículo 17: Ventajas indeterminadas para entidades participantes en la gestión.",
+      "Disposición Adicional Quinta: Condiciona la efectividad de la ley a disponibilidades presupuestarias futuras."
+    ]
+  }
+}

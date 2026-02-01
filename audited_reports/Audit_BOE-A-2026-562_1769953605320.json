@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-562",
+  "timestamp": "2026-02-01T13:46:45.320Z",
+  "title": "Decreto-ley 22/2025, de 28 de octubre, para aumentar la resiliencia del suministro eléctrico en Cataluña.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Decreto-ley 22/2025 utiliza el 'shock' del apagón de abril de 2025 para acelerar una agenda de desregulación administrativa. Si bien se justifica en la resiliencia, la declaración de 'interés público superior' para activos de almacenamiento actúa como un rodillo legal que limita la capacidad de oposición local o ambiental. Es notable la mención a los 371 millones de euros de sobrecoste ya repercutidos a los consumidores, mientras se facilita que las industrias se desconecten de la red general mediante líneas directas, lo que podría derivar en un sistema dual donde el mantenimiento de la red pública recaiga desproporcionadamente en los consumidores domésticos.",
+    "resumen_ciudadano": "Tras el gran apagón de 2025, Cataluña agiliza por ley la instalación de baterías gigantes y plantas renovables. Se eliminan trámites para instalaciones medianas y se permiten pérgolas solares en aparcamientos. La ley busca que Cataluña deje de depender de energía externa, pero admite que los ciudadanos ya han pagado cientos de millones extra en su factura para evitar nuevos fallos.",
+    "resumen_tweet": "🚨 Auditoría al DL 22/2025 de Cataluña: Tras el apagón masivo, se facilita el despliegue de baterías y renovables. ¡Ojo! Los consumidores ya han pagado 371M€ extra por la crisis. ¿Seguridad energética o vía libre sin control? 🔌📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del concepto 'interés público superior' para blindar proyectos frente a impugnaciones ambientales",
+      "Simplificación del trámite de impacto ambiental para hibridaciones",
+      "Repercusión de 371 millones de euros de coste de 'operación reforzada' directamente a los consumidores",
+      "Posible creación de un sistema eléctrico paralelo para grandes industrias mediante líneas directas declaradas de utilidad pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas desarrolladoras de almacenamiento (134 proyectos en espera)",
+        "Grandes industrias con capacidad de autoconsumo",
+        "Sector de energías renovables (eólica y fotovoltaica)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos (asumen sobrecostes de seguridad del sistema)",
+        "Entidades locales y plataformas ambientales (menor margen de supervisión)",
+        "Territorios rurales con baja densidad de población (receptores de infraestructuras para consumo urbano)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Emergencia Energética y Reordenación Administrativa",
+    "banderas_rojas": [
+      "Uso del concepto 'interés público superior' para blindar proyectos frente a impugnaciones ambientales",
+      "Simplificación del trámite de impacto ambiental para hibridaciones",
+      "Repercusión de 371 millones de euros de coste de 'operación reforzada' directamente a los consumidores",
+      "Posible creación de un sistema eléctrico paralelo para grandes industrias mediante líneas directas declaradas de utilidad pública"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-327",
+  "timestamp": "2026-02-01T13:18:08.540Z",
+  "title": "Resolución de 23 de diciembre de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'Libre Designación' para un puesto de Nivel 30, el máximo en la administración pública. Aunque se menciona un informe de valoración de competencias, este sistema es intrínsecamente discrecional y permite el nombramiento basado en la confianza política más que en un concurso de méritos abierto y comparable. Se observa un ascenso del nivel 29 al 30 dentro del mismo organismo, lo que sugiere una promoción interna previsible bajo un marco de opacidad competitiva.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica ha nombrado a un nuevo Subdirector General de Energía Nuclear. El proceso se ha realizado mediante 'libre designación', un método que permite elegir a cargos de alta responsabilidad de forma discrecional. El elegido es un funcionario del cuerpo de Ingenieros Industriales que ya trabajaba en la misma unidad, consolidando el control interno del departamento.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el Ministerio de Transición Ecológica. Se adjudica la Subdirección de Energía Nuclear por libre designación. ¿Meritocracia o confianza política en el nivel 30? ☢️ #BOE #Opacidad #Transparencia #MITECO",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (rango máximo salarial)",
+      "Falta de publicación de puntuaciones comparativas",
+      "Endogamia administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesús Tardón Silvestre (ascenso de nivel y sueldo)",
+        "Altos cargos del MITECO (aseguran un perfil de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos con mayores méritos técnicos sin respaldo político",
+        "Ciudadanía (por falta de transparencia en la selección de gestores nucleares)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (rango máximo salarial)",
+      "Falta de publicación de puntuaciones comparativas",
+      "Endogamia administrativa"
+    ]
+  }
+}

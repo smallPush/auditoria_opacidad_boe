@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-388",
+  "timestamp": "2026-02-01T13:26:53.599Z",
+  "title": "Resolución de 15 de diciembre de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 10 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento formaliza un nombramiento mediante 'libre designación', eufemismo legal para la adjudicación discrecional de puestos de alta responsabilidad. Aunque se ampara en el Real Decreto-ley 6/2023 de medidas urgentes para el Plan de Recuperación, la resolución carece de una memoria que justifique por qué este candidato es idóneo frente a otros, priorizando la confianza política sobre la concurrencia competitiva en un organismo clave como el CIEMAT. El uso de niveles 30 con complementos específicos de casi 30.000 euros anuales para puestos de confianza en el sector científico es una práctica que perpetúa la opacidad jerárquica.",
+    "resumen_ciudadano": "El Gobierno ha nombrado a un nuevo Director para el Departamento de Energía del CIEMAT sin realizar un concurso público de méritos, utilizando el sistema de libre elección. El beneficiario, hasta ahora catedrático en la Universidad de Castilla-La Mancha, percibirá un extra salarial de 29.254,82 euros anuales por este cargo de máxima confianza administrativa (Nivel 30).",
+    "resumen_tweet": "🚨 Nuevo dedazo en @CienciaGob. Se adjudica la Dirección de Energía del CIEMAT vía 'libre designación'. Un puesto Nivel 30 con +29k€ de complemento extra. ¿Mérito o confianza política? La opacidad administrativa continúa. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Complemento específico de alta cuantía (29.254,82€)",
+      "Nivel administrativo máximo (30)",
+      "Justificación basada en normas de urgencia (RDL 6/2023)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Emilio Gómez Lázaro (adjudicatario)",
+        "Ministerio de Ciencia (control de puestos directivos)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos objetivos sin acceso a concurso",
+        "Transparencia institucional",
+        "Ciudadanía (coste de puestos de confianza)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Complemento específico de alta cuantía (29.254,82€)",
+      "Nivel administrativo máximo (30)",
+      "Justificación basada en normas de urgencia (RDL 6/2023)"
+    ]
+  }
+}

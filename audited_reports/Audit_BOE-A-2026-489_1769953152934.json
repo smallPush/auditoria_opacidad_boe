@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-489",
+  "timestamp": "2026-02-01T13:39:12.934Z",
+  "title": "Resolución de 7 de enero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 24 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación', un mecanismo legal pero intrínsecamente discrecional que permite la selección de personal basada en la 'confianza' en lugar de un concurso de méritos puro. Resulta llamativo que los adjudicatarios pasen de niveles 22 en Madrid a niveles 18 en Orán (Argelia); esta aparente bajada de nivel suele esconder una compensación económica mediante indemnizaciones por residencia en el extranjero y otros complementos que no figuran en el extracto del BOE, diluyendo el coste real para el contribuyente.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha asignado 'a dedo' dos puestos de jefatura de visados en el Consulado de España en Orán, Argelia. Aunque es un procedimiento legal, la libre designación impide que la ciudadanía conozca si se ha elegido a los candidatos más preparados o simplemente a los más cercanos a la dirección política.",
+    "resumen_tweet": "🚨 El 'dedazo' en el @MAECgob: adjudicados por libre designación puestos de visados en Argelia 🇩🇿. De nivel 22 a 18, pero con pluses por destino que no verás en el #BOE. ¿Mérito o confianza? La transparencia sigue bajo mínimos. 🕵️‍♂️⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Resolución parcial (opacidad sobre el resto de la convocatoria)",
+      "Incongruencia de nivel (descenso de nivel administrativo que sugiere pluses ocultos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del Ministerio (capacidad de colocar personal de confianza)",
+        "Adjudicatarios (acceso a beneficios por servicio en el exterior)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayores méritos técnicos sin conexiones políticas",
+        "Contribuyente (opacidad en el coste real de los destinos internacionales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Resolución parcial (opacidad sobre el resto de la convocatoria)",
+      "Incongruencia de nivel (descenso de nivel administrativo que sugiere pluses ocultos)"
+    ]
+  }
+}

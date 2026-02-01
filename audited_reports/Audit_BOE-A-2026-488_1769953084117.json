@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-488",
+  "timestamp": "2026-02-01T13:38:04.117Z",
+  "title": "Real Decreto 1236/2025, de 26 de diciembre, por el que se nombran Magistrados y Magistradas a los aspirantes que han superado el concurso entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias de los órganos del orden jurisdiccional civil, penal y jurisdicción compartida, convocado por Acuerdo de 8 de febrero de 2023, de la Comisión Permanente del Consejo General del Poder Judicial, con asignación de los correspondientes destinos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento de 51 magistrados a través del 'cuarto turno' (juristas de reconocida competencia) representa una vía de acceso a la judicatura que evita la oposición tradicional, permitiendo una mayor discrecionalidad al CGPJ. Aunque el documento es formalmente correcto, la 'reconocida competencia' es un concepto jurídico indeterminado que a menudo sirve para introducir perfiles con afinidades ideológicas en plazas estratégicas como Violencia de Género y control de los Centros de Internamiento de Extranjeros (CIE). Se observa además el uso de plazas 'en sustitución' de titulares en servicios especiales, lo que genera una estructura de interinidad en puestos de alta responsabilidad.",
+    "resumen_ciudadano": "El Gobierno y el CGPJ han designado a 51 nuevos jueces basándose en su experiencia profesional previa en lugar de en la superación de una oposición estándar. Estos nuevos magistrados gestionarán casos sensibles sobre violencia machista, extranjería y derechos civiles en tribunales de toda España. El proceso es legal pero menos transparente que el examen tradicional.",
+    "resumen_tweet": "⚖️ 51 nuevos magistrados entran en la carrera judicial por el 'cuarto turno'. Sin oposición tradicional, acceden a plazas clave en Violencia de Género y control de CIEs. ¿Mérito técnico o discrecionalidad política? 🧐🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del concepto subjetivo 'reconocida competencia'",
+      "Nombramientos para plazas cuyos titulares están en cargos políticos (servicios especiales)",
+      "Asignación de plazas de control de fronteras y CIEs sin desglose de criterios específicos",
+      "Consolidación de una vía de acceso paralela a la meritocracia del examen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juristas del sector privado/administración que acceden a la judicatura",
+        "CGPJ por su capacidad de designación",
+        "Tribunales de Instancia que cubren vacantes"
+      ],
+      "perdedores": [
+        "Opositores de la carrera judicial tradicional",
+        "Ciudadanía (por la posible politización de los perfiles)",
+        "Transparencia en los procesos de selección de élites"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal Judicial",
+    "banderas_rojas": [
+      "Uso del concepto subjetivo 'reconocida competencia'",
+      "Nombramientos para plazas cuyos titulares están en cargos políticos (servicios especiales)",
+      "Asignación de plazas de control de fronteras y CIEs sin desglose de criterios específicos",
+      "Consolidación de una vía de acceso paralela a la meritocracia del examen"
+    ]
+  }
+}

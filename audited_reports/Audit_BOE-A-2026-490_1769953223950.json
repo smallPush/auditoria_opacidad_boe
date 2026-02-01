@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-490",
+  "timestamp": "2026-02-01T13:40:23.950Z",
+  "title": "Orden EFD/1583/2025, de 29 de diciembre, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad de Autónoma de Andalucía, se nombra personal funcionario de carrera del Cuerpo de Inspectores de Educación a las personas seleccionadas en las pruebas selectivas, convocadas por Orden de 20 de febrero de 2023.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento presenta un acto administrativo de trámite final para el acceso a la función pública. Aunque la publicación de nombres y puntuaciones cumple con los estándares de publicidad, destaca la dilatación temporal: un proceso iniciado en febrero de 2023 que no culmina en nombramiento definitivo hasta enero de 2026. Esta demora de casi tres años evidencia una burocracia lenta que afecta a la estabilidad del sistema educativo. No se especifica el impacto presupuestario derivado de estas incorporaciones ni el coste que ha supuesto la gestión del concurso-oposición para las arcas públicas.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de 25 nuevos inspectores de educación en la Comunidad Autónoma de Andalucía. Estas personas han superado un proceso de oposición y prácticas que comenzó hace tres años y ahora adquieren su plaza como funcionarios de carrera con efectos retroactivos a septiembre de 2025.",
+    "resumen_tweet": "🎓 Andalucía ya tiene 25 nuevos inspectores de educación tras un proceso de casi 3 años. ✅ Transparencia en las notas, pero 🕒 excesiva lentitud administrativa desde 2023. ¿Es eficiente este modelo? #BOE #Opacidad #Transparencia #Andalucía",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva (35 meses desde la convocatoria)",
+      "Opacidad en los costes de gestión del tribunal y logística del proceso",
+      "Ausencia de información sobre el impacto presupuestario total de las nuevas plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "25 nuevos funcionarios de carrera (estabilidad laboral)",
+        "Consejería de Desarrollo Educativo de Andalucía (refuerzo de supervisión)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (coste de oportunidad)",
+        "Contribuyentes (por la gestión de un proceso selectivo extremadamente lento)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva (35 meses desde la convocatoria)",
+      "Opacidad en los costes de gestión del tribunal y logística del proceso",
+      "Ausencia de información sobre el impacto presupuestario total de las nuevas plazas"
+    ]
+  }
+}

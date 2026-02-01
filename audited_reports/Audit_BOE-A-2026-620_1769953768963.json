@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-620",
+  "timestamp": "2026-02-01T13:49:28.963Z",
+  "title": "Decreto-ley 7/2025, de 18 de noviembre, por el que se modifica el Decreto-ley 5/2025, de 18 de septiembre, de ayudas extraordinarias y otras medidas urgentes para la recuperación de las zonas afectadas por los incendios forestales acaecidos en Extremadura durante el verano de 2025 y en materia preventiva de incendios forestales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Este Decreto-ley actúa como un parche legislativo para corregir la exclusión de municipios clave en la normativa previa (DL 5/2025). Lo más alarmante es la cláusula que exime a los beneficiarios de estar al corriente con sus obligaciones tributarias y de la Seguridad Social para recibir el dinero público. Bajo el pretexto de la 'urgencia', se abre una puerta a subvencionar empresas insolventes o con deudas previas a la catástrofe. Además, la ampliación de ayudas a 'restauración anexa a piscinas' bajo el argumento de 'fenómenos climáticos extremos' (calor) desvirtúa el origen de la ayuda por incendios, derivándola hacia un rescate de hostelería estacional que podría haber sufrido pérdidas por causas ajenas al fuego.",
+    "resumen_ciudadano": "La Junta de Extremadura amplía las ayudas por los incendios del verano de 2025 para incluir a los municipios de El Torno, Pinofranqueado y Caminomorisco. También se permite que empresas de restauración de piscinas y hoteles singulares reciban dinero. La novedad técnica es que, de forma excepcional, no se exigirá a las empresas estar libres de deudas con Hacienda o la Seguridad Social para cobrar la ayuda.",
+    "resumen_tweet": "📢 ¡Alerta #BOE! Extremadura amplía ayudas por incendios pero permite que empresas con DEUDAS con Hacienda reciban dinero público. 💸 Se incluyen chiringuitos de piscinas por 'calor'. ¿Ayuda urgente o rescate encubierto? 🤔 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Exoneración de requisitos de solvencia fiscal y social",
+      "Inclusión de restauración vinculada a piscinas por causas climáticas no forestales",
+      "Aprobación mediante Decreto-ley tras la disolución de la Asamblea",
+      "Dotación presupuestaria potencialmente insuficiente (300.000€) para 16 municipios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresarios turísticos con deudas tributarias",
+        "Propietarios de establecimientos de restauración en piscinas",
+        "Sector de alojamientos singulares"
+      ],
+      "perdedores": [
+        "Contribuyentes cumplidores",
+        "Sector agrario y forestal (fuera de este esquema de ayudas turísticas)",
+        "Transparencia administrativa y control de subvenciones"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Modificación de Medidas Urgentes por Catástrofe Natural",
+    "banderas_rojas": [
+      "Exoneración de requisitos de solvencia fiscal y social",
+      "Inclusión de restauración vinculada a piscinas por causas climáticas no forestales",
+      "Aprobación mediante Decreto-ley tras la disolución de la Asamblea",
+      "Dotación presupuestaria potencialmente insuficiente (300.000€) para 16 municipios"
+    ]
+  }
+}
