@@ -5,6 +5,7 @@ import * as THREE from 'three';
 import { useNavigate } from 'react-router-dom';
 import { AuditHistoryItem } from '../types';
 import { translations, Language } from '../translations';
+import { Search } from 'lucide-react';
 
 interface RelatedTags3DProps {
   history: AuditHistoryItem[];
@@ -33,12 +34,14 @@ const getTransparencyColor = (transparency: number) => {
   return "#10b981"; // emerald-500
 };
 
-const NodeMesh = ({ node, onClick }: { node: Node; onClick: (tag: string) => void }) => {
+const NodeMesh = ({ node, onClick, isDimmed }: { node: Node; onClick: (tag: string) => void; isDimmed: boolean }) => {
   const [hovered, setHovered] = useState(false);
   const size = Math.log(node.count + 1) * 0.2 + 0.3;
   
   const baseColor = new THREE.Color(getTransparencyColor(node.avgTransparency));
   const hoverColor = new THREE.Color("#ffffff");
+  const dimmedOpacity = 0.1;
+  const normalOpacity = 1;
 
   return (
     <group position={node.position}>
@@ -52,24 +55,29 @@ const NodeMesh = ({ node, onClick }: { node: Node; onClick: (tag: string) => voi
           metalness={0.6}
           roughness={0.1}
           clearcoat={1}
+          transparent
+          opacity={isDimmed ? dimmedOpacity : normalOpacity}
         />
       </Sphere>
-      <Text
-        position={[0, size + 0.4, 0]}
-        fontSize={Math.max(0.3, size * 0.6)}
-        color="white"
-        anchorX="center"
-        anchorY="bottom"
-        outlineWidth={0.02}
-        outlineColor="#0f172a"
-      >
-        {`${node.name} (${Math.round(node.avgTransparency)}%)`}
-      </Text>
+      {!isDimmed && (
+        <Text
+          position={[0, size + 0.4, 0]}
+          fontSize={Math.max(0.3, size * 0.6)}
+          color="white"
+          anchorX="center"
+          anchorY="bottom"
+          outlineWidth={0.02}
+          outlineColor="#0f172a"
+        >
+          {`${node.name} (${Math.round(node.avgTransparency)}%)`}
+        </Text>
+      )}
     </group>
   );
 };
 
-const LinkMesh = ({ start, end, strength }: { start: THREE.Vector3; end: THREE.Vector3; strength: number }) => {
+const LinkMesh = ({ start, end, strength, isDimmed }: { start: THREE.Vector3; end: THREE.Vector3; strength: number; isDimmed: boolean }) => {
+  if (isDimmed) return null;
   return (
     <Line
       points={[start, end]}
@@ -81,7 +89,7 @@ const LinkMesh = ({ start, end, strength }: { start: THREE.Vector3; end: THREE.V
   );
 };
 
-const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; onNodeClick: (tag: string) => void }) => {
+const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; links: Link[]; onNodeClick: (tag: string) => void; searchQuery: string }) => {
   useFrame(() => {
     // Repulsion
     for (let i = 0; i < nodes.length; i++) {
@@ -125,14 +133,22 @@ const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; on
       {links.map((link, i) => {
         const start = nodes.find(n => n.id === link.source)?.position;
         const end = nodes.find(n => n.id === link.target)?.position;
-        if (start && end) {
-          return <LinkMesh key={`link-${i}`} start={start} end={end} strength={link.strength} />;
+        const sourceNode = nodes.find(n => n.id === link.source);
+        const targetNode = nodes.find(n => n.id === link.target);
+
+        if (start && end && sourceNode && targetNode) {
+          const isDimmed = searchQuery !== '' && 
+            (!sourceNode.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+             !targetNode.name.toLowerCase().includes(searchQuery.toLowerCase()));
+             
+          return <LinkMesh key={`link-${i}`} start={start} end={end} strength={link.strength} isDimmed={isDimmed} />;
         }
         return null;
       })}
-      {nodes.map(node => (
-        <NodeMesh key={node.id} node={node} onClick={onNodeClick} />
-      ))}
+      {nodes.map(node => {
+        const isDimmed = searchQuery !== '' && !node.name.toLowerCase().includes(searchQuery.toLowerCase());
+        return <NodeMesh key={node.id} node={node} onClick={onNodeClick} isDimmed={isDimmed} />;
+      })}
     </group>
   );
 };
@@ -140,6 +156,7 @@ const Graph = ({ nodes, links, onNodeClick }: { nodes: Node[]; links: Link[]; on
 const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
   const navigate = useNavigate();
   const t = translations[lang];
+  const [searchQuery, setSearchQuery] = useState('');
 
   const { nodes, links } = useMemo(() => {
     const tagStats: Record<string, { count: number; totalTransparency: number }> = {};
@@ -218,26 +235,39 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
 
   return (
     <div className="h-[80vh] w-full bg-slate-950 rounded-3xl border border-slate-800 overflow-hidden relative shadow-2xl">
-      <div className="absolute top-4 left-4 z-10 bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl max-w-xs">
-        <h3 className="text-xl font-bold text-white mb-1">{t.conceptNetworkTitle}</h3>
-        <p className="text-xs text-slate-400 mb-3">{t.networkDescription}</p>
-        
-        <div className="space-y-2">
-          <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">{t.transparencyLevelLegend}</p>
-          <div className="flex items-center gap-3">
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
-              <span className="text-[9px] text-slate-400">{t.legendCritical}</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
-              <span className="text-[9px] text-slate-400">{t.legendWarning}</span>
-            </div>
-            <div className="flex items-center gap-1.5">
-              <span className="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
-              <span className="text-[9px] text-slate-400">{t.legendTransparent}</span>
+      <div className="absolute top-4 left-4 z-10 space-y-4 max-w-xs pointer-events-none">
+        <div className="bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl pointer-events-auto">
+          <h3 className="text-xl font-bold text-white mb-1">{t.conceptNetworkTitle}</h3>
+          <p className="text-xs text-slate-400 mb-3">{t.networkDescription}</p>
+          
+          <div className="space-y-2">
+            <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">{t.transparencyLevelLegend}</p>
+            <div className="flex items-center gap-3">
+              <div className="flex items-center gap-1.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-red-500"></span>
+                <span className="text-[9px] text-slate-400">{t.legendCritical}</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
+                <span className="text-[9px] text-slate-400">{t.legendWarning}</span>
+              </div>
+              <div className="flex items-center gap-1.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
+                <span className="text-[9px] text-slate-400">{t.legendTransparent}</span>
+              </div>
             </div>
           </div>
+        </div>
+
+        <div className="bg-slate-900/80 p-2 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl pointer-events-auto flex items-center gap-2">
+          <Search className="text-slate-400 ml-2" size={16} />
+          <input 
+            type="text" 
+            placeholder="Buscar concepto..." 
+            className="bg-transparent border-none outline-none text-white text-sm w-full placeholder:text-slate-500"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+          />
         </div>
       </div>
 
@@ -250,7 +280,7 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
         <Stars radius={100} depth={50} count={3000} factor={4} saturation={0} fade speed={1} />
         
         <OrbitControls autoRotate autoRotateSpeed={0.05} enableDamping dampingFactor={0.05} />
-        <Graph nodes={nodes} links={links} onNodeClick={handleNodeClick} />
+        <Graph nodes={nodes} links={links} onNodeClick={handleNodeClick} searchQuery={searchQuery} />
       </Canvas>
     </div>
   );
