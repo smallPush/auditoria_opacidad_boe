@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2332",
+  "timestamp": "2026-02-02T09:52:59.365Z",
+  "title": "Resolución de 21 de enero de 2026, de la Viceconsejería de Justicia, de la Consejería de Hacienda, Justicia y Asuntos Europeos, por la que se resuelve el concurso específico para la provisión de puestos de trabajo singularizados de las Oficinas Judiciales en el partido judicial de Avilés, convocado por Resolución de 12 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento resuelve la adjudicación de puestos de jefatura 'singularizados' en el partido judicial de Avilés. Se observa un fenómeno de 'sillas musicales': el 100% de los adjudicatarios ya desempeñaban funciones en el mismo partido judicial (Avilés), lo que sugiere una estructura de promoción interna circular y endogámica. Aunque el proceso es legal, el uso de términos como 'puestos singularizados' y la evaluación mediante una 'Comisión de Valoración' sin desglose de méritos específicos en el texto, mantiene una opacidad técnica sobre por qué estos perfiles son los idóneos frente a otros. Además, el hecho de que una plaza quede desierta indica una posible falta de incentivos o de personal cualificado para roles de ejecución.",
+    "resumen_ciudadano": "La Viceconsejería de Justicia de Asturias ha asignado 9 puestos de jefatura en las oficinas judiciales de Avilés. Todos los seleccionados ya trabajaban en los juzgados de la misma ciudad, lo que supone un movimiento interno de mandos. Estos puestos suelen conllevar complementos salariales por responsabilidad.",
+    "resumen_tweet": "⚖️ ¿Reforma judicial o cambio de cromos? Asturias reparte 9 jefaturas en Avilés: todos los elegidos ya estaban en la casa. 🔄 Puestos 'singularizados' que blindan la endogamia administrativa. 1 plaza queda desierta por falta de interés. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia institucional: todos los premiados proceden del mismo destino geográfico",
+      "Opacidad salarial: no se detallan los pluses económicos de los puestos singularizados",
+      "Falta de competitividad: una plaza de gestión de ejecución queda desierta",
+      "Criterios de valoración no desglosados en la resolución final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "9 funcionarios específicos (Enrique, José, Pablo, Ana Isabel, Adrián, Nuria, M.ª del Mar, M.ª Elena, Javier) que consolidan jefaturas",
+        "La burocracia interna del Principado de Asturias por mantener perfiles de confianza"
+      ],
+      "perdedores": [
+        "Candidatos externos al partido judicial de Avilés con barreras de acceso de facto",
+        "Ciudadanía, que financia pluses de 'singularización' sin métricas claras de mejora de eficiencia judicial"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Resolución de provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Endogamia institucional: todos los premiados proceden del mismo destino geográfico",
+      "Opacidad salarial: no se detallan los pluses económicos de los puestos singularizados",
+      "Falta de competitividad: una plaza de gestión de ejecución queda desierta",
+      "Criterios de valoración no desglosados en la resolución final"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-2337",
+  "timestamp": "2026-02-02T09:58:56.576Z",
+  "title": "Resolución de 22 de enero de 2026, de la Universidad de Barcelona, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento es una resolución administrativa estándar de nombramiento de personal funcionario. Se detecta la opacidad habitual en la administración pública española respecto a la carga presupuestaria: se mencionan 'las retribuciones que según las disposiciones vigentes correspondan' sin especificar la cuantía bruta anual ni el impacto en el capítulo 1 de los presupuestos universitarios. Existe un equilibrio de género aparente en este lote de nombramientos (3 mujeres, 2 hombres). La redacción es puramente procedimental, lo que dificulta al ciudadano medio entender el coste de oportunidad de estas plazas fijas vitalicias.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha oficializado el nombramiento de cinco nuevos profesores titulares con plaza fija en las áreas de Derecho Penal, Fisiología, Filología Inglesa, Didáctica de las Ciencias Experimentales y Anatomía Humana.",
+    "resumen_tweet": "🎓 La Universidad de Barcelona otorga 5 plazas fijas de profesor titular. 📝 Nombres claros, pero ¿y los salarios? La 'retribución según ley' oculta el gasto real por cada puesto vitalicio. 💸 #BOE #Opacidad #Transparencia #Universidad #UB",
+    "banderas_red_flags": [
+      "Falta de transparencia salarial específica",
+      "Remisión genérica a partidas presupuestarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 5 profesores nombrados (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Barcelona (consolidación de su estructura docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de desglose de costes por plaza)",
+        "Candidatos fuera del círculo académico local (barrera de entrada por el diseño de concursos específicos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente Investigador",
+    "banderas_rojas": [
+      "Falta de transparencia salarial específica",
+      "Remisión genérica a partidas presupuestarias"
+    ]
+  }
+}

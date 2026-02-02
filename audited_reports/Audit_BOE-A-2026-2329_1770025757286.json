@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-2329",
+  "timestamp": "2026-02-02T09:49:17.286Z",
+  "title": "Orden DCA/48/2026, de 23 de enero, por la que se aprueba la Política de Seguridad de la Información en el ámbito de la administración electrónica del Ministerio de Derechos Sociales, Consumo y Agenda 2030.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden DCA/48/2026 diseña un entramado burocrático de seguridad que sobre el papel cumple el Esquema Nacional de Seguridad pero introduce riesgos de opacidad operativa. El hallazgo más crítico es la 'cláusula de escape' del Artículo 8.3, que permite que el Responsable de Seguridad y el del Sistema sean la misma persona en 'casos excepcionales', anulando de facto el principio de segregación de funciones indispensable para evitar abusos de poder o negligencias encubiertas. Además, la norma evita la participación ciudadana al autodefinirse como 'puramente organizativa', hurtando el debate sobre el tratamiento de datos de alta sensibilidad (dependencia y consumo). Se detecta una ausencia total de memoria económica, ocultando el coste real de la implementación de estas estructuras de mando.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha definido las reglas para proteger sus sistemas informáticos y tus datos personales. Sin embargo, la norma crea comités internos difíciles de fiscalizar y permite que, si no hay personal suficiente, el controlador y el controlado sean el mismo funcionario. Esto debilita la vigilancia real sobre cómo se accede a la información de los ciudadanos.",
+    "resumen_tweet": "🛡️ Derechos Sociales blinda su seguridad digital vía #BOE. 🚩 Ojo: el Art. 8.3 permite que una misma persona gestione y vigile los datos en 'casos excepcionales'. ¿Seguridad o falta de control real? 🕵️‍♂️ #Opacidad #Transparencia #Ciberseguridad",
+    "banderas_red_flags": [
+      "Fusión de roles de control y ejecución (Art. 8.3)",
+      "Ausencia de memoria económica detallada (Gastos Fantasma)",
+      "Evasión de consulta pública previa",
+      "Delegación de normativa de segundo nivel a documentos no publicados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del Ministerio (mayor control jerárquico)",
+        "Empresas de consultoría de seguridad TIC",
+        "Estructuras administrativas internas"
+      ],
+      "perdedores": [
+        "Colectivos vulnerables (datos expuestos a menor control independiente)",
+        "Transparencia presupuestaria ciudadana"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administración Electrónica y Seguridad de la Información",
+    "banderas_rojas": [
+      "Fusión de roles de control y ejecución (Art. 8.3)",
+      "Ausencia de memoria económica detallada (Gastos Fantasma)",
+      "Evasión de consulta pública previa",
+      "Delegación de normativa de segundo nivel a documentos no publicados"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2328",
+  "timestamp": "2026-02-02T09:47:59.481Z",
+  "title": "Enmienda al artículo 12.1 del Convenio constitutivo del Banco Asiático de Desarrollo, adoptada por Resolución n.º 437 de la Junta de Gobernadores el 30 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La enmienda suprime el apartado 1 del artículo 12 del Convenio del Banco Asiático de Desarrollo (BAsD), eliminando formalmente el límite estatutario que restringía el volumen total de préstamos y garantías al capital suscrito y reservas (gearing ratio). Esta medida busca aumentar la capacidad de apalancamiento del banco, pero lo hace eliminando el freno de seguridad constitucional de la entidad. Para el ciudadano español, esto representa un aumento del riesgo financiero indirecto, ya que España, como miembro, respalda la solvencia de una institución que ahora puede endeudarse y prestar sin los límites rígidos originales. La redacción es extremadamente opaca al limitarse a decir 'Suprimido' sin explicar las implicaciones de riesgo crediticio globales.",
+    "resumen_ciudadano": "Se ha eliminado la regla que prohibía al Banco Asiático de Desarrollo (del que España es socio) prestar más dinero de la cuenta. Al borrar este límite, el banco puede aumentar su actividad financiera y riesgos. Si el banco tuviera problemas por exceso de préstamos, los países miembros, incluyendo España con dinero público, tendrían que responder. Se presenta como un cambio técnico, pero es una eliminación de controles sobre el gasto y la deuda.",
+    "resumen_tweet": "🚨 El #BOE publica la eliminación del techo legal de préstamos del Banco Asiático de Desarrollo. Menos límites = más riesgo financiero para los países miembros como España. ¡Vía libre al apalancamiento sin control! 💸🔍 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desmantelamiento de límites de endeudamiento",
+      "Opacidad en la justificación del riesgo",
+      "Aumento de pasivos contingentes para el Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mercados financieros internacionales",
+        "Grandes constructoras de infraestructuras en Asia",
+        "Directivos del BAsD"
+      ],
+      "perdedores": [
+        "Contribuyente español (como avalista último)",
+        "Transparencia en la gestión de riesgos globales",
+        "Soberanía financiera estatal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Desmantelamiento de límites de endeudamiento",
+      "Opacidad en la justificación del riesgo",
+      "Aumento de pasivos contingentes para el Estado"
+    ]
+  }
+}

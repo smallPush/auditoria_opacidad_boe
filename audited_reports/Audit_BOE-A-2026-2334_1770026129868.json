@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2334",
+  "timestamp": "2026-02-02T09:55:29.868Z",
+  "title": "Resolución de 16 de enero de 2026, de la Dirección General de Justicia y Autogobierno, de la Consellería de Justicia y Administración Pública, por la que se resuelve definitivamente concurso específico para la provisión de puestos de trabajo singularizados en Oficinas Fiscales de la Comunitat Valenciana, convocado por Resolución de 5 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "La resolución adjudica puestos 'singularizados' en las Oficinas Fiscales de la Comunitat Valenciana. Aunque se basa en un concurso de méritos, existe una opacidad intrínseca en la denominación 'puesto singularizado', que suele implicar complementos retributivos específicos y funciones de confianza o coordinación técnica. La transparencia es parcial, ya que las actas de valoración y las puntuaciones no se publican en el BOE, remitiendo al interesado a una web institucional, lo que dificulta el escrutinio público directo sobre la meritocracia aplicada.",
+    "resumen_ciudadano": "Se han nombrado oficialmente a tres gestores como coordinadores en las fiscalías de Valencia y Elche. El proceso incluyó una renuncia de última hora y la sustitución por la siguiente candidata en la lista. Son puestos de mando intermedio dentro de la administración de justicia valenciana.",
+    "resumen_tweet": "⚖️ Adjudicados puestos 'singularizados' en fiscalías de la C. Valenciana. ¿Meritocracia real o burocracia opaca? Los detalles de la puntuación quedan fuera del alcance del ciudadano común. 💡 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de términos vagos como puestos singularizados",
+      "Falta de publicación de baremos de méritos en el texto oficial",
+      "Remisión de información clave a webs externas fuera del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios promocionados (María José García, Emilia Aguilar, Dolores Urban)",
+        "Administración autonómica (consolidación de estructura jerárquica)"
+      ],
+      "perdedores": [
+        "Ciudadanía (dificultad para auditar la imparcialidad del proceso)",
+        "Candidatos excluidos (sin visibilidad pública de sus puntuaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Resolución de provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Uso de términos vagos como puestos singularizados",
+      "Falta de publicación de baremos de méritos en el texto oficial",
+      "Remisión de información clave a webs externas fuera del BOE"
+    ]
+  }
+}

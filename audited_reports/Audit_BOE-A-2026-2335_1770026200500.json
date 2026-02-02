@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2335",
+  "timestamp": "2026-02-02T09:56:40.500Z",
+  "title": "Resolución de 17 de enero de 2026, de la Universidad de Cantabria, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de personal funcionario de carrera. Aunque cumple con la legalidad vigente (LOSU 2/2023), existe una opacidad intrinseca en cuanto al coste presupuestario a largo plazo que suponen estas plazas vitalicias para las arcas publicas. No obstante, destaca la presencia exclusivamente femenina tanto en las adjudicatarias como en la firma de la Rectora, lo cual refleja un cambio en la hegemonia de genero en la cupula academica de la Universidad de Cantabria.",
+    "resumen_ciudadano": "La Universidad de Cantabria ha nombrado oficialmente a dos nuevas Profesoras Titulares: Eva Pelayo Sañudo (Filologia Inglesa) y Maria Margallo Blanco (Ingenieria Quimica). Estas plazas son fijas y se otorgan tras superar los concursos de acceso correspondientes.",
+    "resumen_tweet": "🎓 Nueva promocion en la Univ. de Cantabria: Eva Pelayo y Maria Margallo ya son profesoras titulares. Un exito para la presencia femenina en la ciencia y letras, aunque el #BOE sigue sin detallar el coste de estas plazas vitalicias. 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de informacion sobre la puntuacion obtenida frente a otros candidatos",
+      "Consolidacion de gasto publico estructural sin mencion a la sostenibilidad financiera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña Eva Pelayo Sañudo",
+        "Doña Maria Margallo Blanco",
+        "Representacion femenina en catedras/titularidades"
+      ],
+      "perdedores": [
+        "Personal docente e investigador (PDI) en situacion de precariedad",
+        "Candidatos no seleccionados sin acceso publico a las actas de evaluacion en este documento",
+        "Contribuyentes (por la falta de transparencia en la partida presupuestaria exacta)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de informacion sobre la puntuacion obtenida frente a otros candidatos",
+      "Consolidacion de gasto publico estructural sin mencion a la sostenibilidad financiera"
+    ]
+  }
+}

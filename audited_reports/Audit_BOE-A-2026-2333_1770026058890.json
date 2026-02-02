@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2333",
+  "timestamp": "2026-02-02T09:54:18.890Z",
+  "title": "Resolución de 26 de enero de 2026, de la Viceconsejería de Justicia de la Consejería de Hacienda, Justicia y Asuntos Europeos, por la que se resuelve el concurso específico para la provisión de puestos de trabajo singularizados de las Oficinas Judiciales en el partido judicial de Gijón, convocado por Resolución de 12 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oficializa una estructura jerárquica en el partido judicial de Gijón bajo el modelo de Oficina Judicial. Aunque el listado de adjudicatarios es público, existe opacidad en la resolución de las alegaciones, que se despachan de forma genérica sin detallar los fundamentos de la desestimación. El impacto socioeconómico muestra una consolidación de una 'clase media' administrativa con complementos por jefatura, predominando nombres femeninos, lo que refleja la feminización del sector pero también la creación de una micro-burocracia intermedia cuya eficiencia real no se evalúa en el texto.",
+    "resumen_ciudadano": "Se han asignado 18 cargos de jefatura en los juzgados de Gijón a funcionarios que ya trabajaban en la zona. Estos puestos implican mayor responsabilidad y salario en la futura Oficina Judicial. Dos puestos han quedado vacíos por falta de candidatos o por haber obtenido otra plaza. La fecha real de inicio de estos nuevos cargos es incierta, ya que depende de cuándo abra físicamente la nueva oficina.",
+    "resumen_tweet": "🏛️ ¿Más jefes para la justicia en Gijón? El #BOE publica 18 nuevos cargos singularizados. Alegaciones rechazadas sin detalle y fecha de inicio incierta. ¿Eficiencia o simple cambio de nombres? 🧐 #Opacidad #Transparencia #Asturias #Justicia",
+    "banderas_red_flags": [
+      "Desestimación de alegaciones sin desglose de motivos en el texto",
+      "Fecha de toma de posesión condicionada a un evento futuro indeterminado",
+      "Posible aumento de gasto público en complementos de jefatura sin indicadores de productividad vinculados",
+      "Limitación de la movilidad laboral (obligación de permanencia de un año)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "18 funcionarios que acceden a complementos salariales por jefatura",
+        "Viceconsejería de Justicia (consolida su estructura de mando)",
+        "Cuerpo de Gestión Procesal (acapara las jefaturas principales)"
+      ],
+      "perdedores": [
+        "Aspirantes cuyas reclamaciones fueron ignoradas o rechazadas de plano",
+        "Ciudadanía (incertidumbre sobre si la nueva estructura mejorará los tiempos de espera judiciales)",
+        "Presupuesto público por la creación de puestos con mayor carga de complementos específicos"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Recursos Humanos y Organización Judicial",
+    "banderas_rojas": [
+      "Desestimación de alegaciones sin desglose de motivos en el texto",
+      "Fecha de toma de posesión condicionada a un evento futuro indeterminado",
+      "Posible aumento de gasto público en complementos de jefatura sin indicadores de productividad vinculados",
+      "Limitación de la movilidad laboral (obligación de permanencia de un año)"
+    ]
+  }
+}

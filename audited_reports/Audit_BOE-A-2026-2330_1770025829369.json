@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2330",
+  "timestamp": "2026-02-02T09:50:29.369Z",
+  "title": "Resolución de 16 de enero de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 4 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un patrón de 'adjudicación de espejo': gran parte de los funcionarios adjudicados ya ocupaban el mismo puesto del que cesan (casos 1, 2, 3, 4, 5, 6, 7, 9, 12, 13, 15). Esto indica que el concurso específico no busca la movilidad ni la captación de talento, sino la regularización administrativa de situaciones provisionales previas. Aunque la información es pública, el lenguaje técnico oculta que se trata de un proceso de consolidación interna más que de una competencia real abierta.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica ha publicado la lista de funcionarios que han ganado plazas en su reciente concurso. En la práctica, la mayoría de los trabajadores se han quedado exactamente en el mismo escritorio donde ya estaban, simplemente formalizando su situación legal. Es un trámite administrativo que consume recursos públicos para mantener el statu quo de la plantilla.",
+    "resumen_tweet": "🧐 ¿Concurso o puro trámite? El #BOE revela adjudicaciones en MITECO donde casi todos los funcionarios 'ganan' la plaza que ya ocupaban. Poca movilidad real y mucho papeleo para consolidar puestos internos. 🏛️🔍 #Transparencia #Opacidad #Funcionarios",
+    "banderas_red_flags": [
+      "Endogamia administrativa",
+      "Consolidación masiva de puestos previos",
+      "Puestos declarados desiertos sin justificación detallada",
+      "Falta de competitividad real en las adjudicaciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de los niveles A1 y A2",
+        "Personal ya asentado en el Ministerio (MITECO)",
+        "Cuerpos técnicos de élite (Ingenieros, Estadísticos)"
+      ],
+      "perdedores": [
+        "Candidatos externos al ministerio",
+        "Nuevos talentos sin antigüedad previa en la unidad",
+        "Ciudadanía (por el coste administrativo de procesos que no generan cambio real)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Endogamia administrativa",
+      "Consolidación masiva de puestos previos",
+      "Puestos declarados desiertos sin justificación detallada",
+      "Falta de competitividad real en las adjudicaciones"
+    ]
+  }
+}
