@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-943",
+  "timestamp": "2026-02-02T15:37:26.470Z",
+  "title": "Ley 6/2025, de 22 de diciembre, del Tercer Sector de Acción Social de Andalucía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 6/2025 de Andalucía establece un marco jurídico que institucionaliza la colaboración entre la Junta y las entidades sin ánimo de lucro. Aunque se presenta como una democratización de la gobernanza, el texto refuerza la 'concertación social' como instrumento preferente, lo que en la práctica puede interpretarse como una externalización sistémica de servicios públicos esenciales hacia entidades privadas (aunque no lucrativas). Se detecta una falta de cuantificación económica en las 'medidas de fomento', lo que deja el respaldo financiero al arbitrio de presupuestos anuales futuros, generando una inseguridad jurídica sobre la sostenibilidad real del sector. Además, la creación de un registro obligatorio actúa como un filtro de control administrativo que podría excluir a movimientos ciudadanos más espontáneos o menos tecnificados.",
+    "resumen_ciudadano": "Esta ley otorga a las ONG, asociaciones y fundaciones (como Cáritas o Cruz Roja) un papel privilegiado en la gestión de servicios sociales en Andalucía. Se busca que estas organizaciones participen más en el diseño de las leyes y que tengan preferencia para gestionar servicios de ayuda a la dependencia o inclusión social. Sin embargo, no especifica cuánto dinero se va a invertir realmente y obliga a todas las entidades a estar en un registro oficial para poder recibir ayudas o colaborar.",
+    "resumen_tweet": "📢 Andalucía aprueba la Ley del Tercer Sector. Se prioriza a las ONG para gestionar servicios públicos sociales. 🧐 ¿Participación real o externalización encubierta? Sin cifras claras en el texto. #BOE #Opacidad #Transparencia #Andalucía 🏛️🤝",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada en el texto legal",
+      "Preferencia explícita por la concertación privada sobre la gestión pública directa",
+      "Discrecionalidad en la definición de 'medidas de fomento'",
+      "Riesgo de burocratización excesiva mediante el registro obligatorio",
+      "Ambigüedad en los mecanismos de evaluación del impacto de género"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes estructuras del Tercer Sector (Cáritas, ONCE, Cruz Roja)",
+        "Administración Autonómica (descarga de gestión directa)",
+        "Entidades de iniciativa social con alta capacidad administrativa"
+      ],
+      "perdedores": [
+        "Servicios de gestión pública directa",
+        "Pequeñas asociaciones vecinales sin estructura legal compleja",
+        "Personal laboral de la administración que ve reducida la gestión directa"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Ley de Acción Social y Fomento del Asociacionismo",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada en el texto legal",
+      "Preferencia explícita por la concertación privada sobre la gestión pública directa",
+      "Discrecionalidad en la definición de 'medidas de fomento'",
+      "Riesgo de burocratización excesiva mediante el registro obligatorio",
+      "Ambigüedad en los mecanismos de evaluación del impacto de género"
+    ]
+  }
+}

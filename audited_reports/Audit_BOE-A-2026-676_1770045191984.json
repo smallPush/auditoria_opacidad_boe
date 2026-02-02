@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-676",
+  "timestamp": "2026-02-02T15:13:11.984Z",
+  "title": "Real Decreto 3/2026, de 8 de enero, por el que se establece el Certificado profesional en Operaciones de fabricación de pirotecnia, de la familia profesional Química, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 3/2026 regula una actividad de alto riesgo mediante la burocratización del aprendizaje tradicional en pirotecnia. Aunque el texto es técnicamente detallado en cuanto a contenidos (500 horas, nivel 2), peca de un uso excesivo de fórmulas genéricas sobre igualdad de género que no se traducen en medidas específicas para un sector históricamente masculinizado. El uso de fondos europeos (FSE+) para esta titulación indica una externalización de la financiación de la educación pública hacia programas que requieren una gestión administrativa compleja, lo que a menudo beneficia a grandes consultoras de formación sobre los centros pequeños.",
+    "resumen_ciudadano": "Se establece oficialmente el certificado para trabajar fabricando fuegos artificiales y explosivos civiles. El curso dura 500 horas e incluye prácticas obligatorias en empresas. El objetivo es profesionalizar el sector bajo estándares europeos, aunque impone requisitos técnicos y de instalaciones que podrían ser difíciles de cumplir para los talleres pirotécnicos tradicionales más pequeños.",
+    "resumen_tweet": "🧨 El #BOE publica el nuevo título de fabricante de pirotecnia: 500h de formación con fondos europeos. Mucha burocracia y lenguaje de 'igualdad' genérico en un sector de alto riesgo. ¿Realidad laboral o maquillaje estadístico? 🧐 #FP #Transparencia",
+    "banderas_red_flags": [
+      "Financiación dependiente de fondos externos (FSE+)",
+      "Cláusulas de igualdad de género puramente retóricas",
+      "Alta complejidad en requisitos de instalaciones que favorece a grandes empresas",
+      "Ambigüedad en la gestión de residuos y restos de mezclas pirotécnicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas de pirotecnia",
+        "Centros de formación acreditados",
+        "Ministerio de Educación (ejecución de fondos europeos)"
+      ],
+      "perdedores": [
+        "Talleres pirotécnicos tradicionales/familiares",
+        "Aprendices del modelo antiguo sin titulación",
+        "Microempresas con dificultad para la tutoría dual"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional (Estatal)",
+    "tipologia": "Regulación de Cualificaciones Profesionales",
+    "banderas_rojas": [
+      "Financiación dependiente de fondos externos (FSE+)",
+      "Cláusulas de igualdad de género puramente retóricas",
+      "Alta complejidad en requisitos de instalaciones que favorece a grandes empresas",
+      "Ambigüedad en la gestión de residuos y restos de mezclas pirotécnicas"
+    ]
+  }
+}

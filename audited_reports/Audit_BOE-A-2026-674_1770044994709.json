@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-674",
+  "timestamp": "2026-02-02T15:09:54.709Z",
+  "title": "Real Decreto 1/2026, de 8 de enero, por el que se establece el Certificado profesional en Gestión de instalaciones de intercambio geotérmico en circuito cerrado, de la familia profesional Energía y Agua, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El Real Decreto establece un marco curricular detallado para una especialidad técnica necesaria en la transición energética. Sin embargo, la opacidad reside en la ejecución de la modalidad dual: al delegar gran parte de la formación a la empresa privada y financiarse mediante fondos FSE+ (Programa EFESO), no se detallan los mecanismos de control para evitar que la estancia en empresa sea mano de obra barata encubierta. Además, aunque cita la igualdad de género, no propone cuotas ni incentivos específicos para un sector (Energía y Agua) históricamente masculinizado.",
+    "resumen_ciudadano": "Se crea oficialmente el título de experto en instalaciones de calefacción geotérmica. El curso dura 420 horas e incluye obligatoriamente prácticas en empresas. El objetivo es preparar trabajadores para el sector de las energías renovables bajo los estándares de la nueva Formación Profesional española.",
+    "resumen_tweet": "🌍 Nuevo título en el #BOE: Gestión de Geotermia. 420 horas para profesionalizar el sector renovable. ✅ Financiado por fondos europeos, pero ¿quién controla la calidad de las prácticas en empresas? 🧐 #Transparencia #FP #EnergíaLimpia",
+    "banderas_red_flags": [
+      "Externalización de la formación práctica a entes privados",
+      "Ausencia de desglose presupuestario por comunidad autónoma en este decreto",
+      "Reticencia a detallar medidas concretas contra la segregación de género mencionada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas instaladoras de energías renovables (mano de obra cualificada)",
+        "Entidades receptoras de fondos FSE+",
+        "Técnicos especialistas en transición energética"
+      ],
+      "perdedores": [
+        "Trabajadores del sector térmico tradicional sin acceso a recualificación",
+        "Estudiantes en regímenes de dualidad sin remuneración clara o garantizada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Cualificaciones Profesionales",
+    "banderas_rojas": [
+      "Externalización de la formación práctica a entes privados",
+      "Ausencia de desglose presupuestario por comunidad autónoma en este decreto",
+      "Reticencia a detallar medidas concretas contra la segregación de género mencionada"
+    ]
+  }
+}

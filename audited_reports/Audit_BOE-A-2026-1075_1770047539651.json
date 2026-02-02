@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1075",
+  "timestamp": "2026-02-02T15:52:19.651Z",
+  "title": "Cuestión de inconstitucionalidad n.º 3632-2025, en relación con el artículo 4 c) del Decreto-ley de la Comunidad Autónoma de las Illes Balears 11/2020, de 10 de julio, por el que se establece un régimen sancionador específico para afrontar los incumplimientos de las disposiciones dictadas para paliar los efectos de la crisis ocasionada por la COVID-19.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento admite a trámite una cuestión de inconstitucionalidad contra el régimen sancionador COVID de Baleares seis años después de su promulgación. El artículo 4 c) del Decreto-ley 11/2020 representa un potencial uso abusivo de decretos-leyes para imponer sanciones administrativas sin la adecuada cobertura de ley orgánica, vulnerando el principio de legalidad. Se detecta una opacidad reactiva: el ciudadano solo conoce la posible ilegalidad años después de haber pagado las multas.",
+    "resumen_ciudadano": "El Tribunal Constitucional investigará si las multas impuestas en Baleares por incumplir las normas de la COVID-19 fueron constitucionales. Un juzgado de Palma ha denunciado que el castigo específico creado por el Gobierno regional podría ser ilegal, lo que abre la puerta a la anulación de sanciones impuestas durante la pandemia.",
+    "resumen_tweet": "⚠️ ¿Multas ilegales? El TC admite la cuestión de inconstitucionalidad contra el régimen sancionador COVID de Baleares. Seis años después, la justicia duda de la legalidad de los castigos impuestos. ⚖️ #BOE #Opacidad #Transparencia #Baleares",
+    "banderas_red_flags": [
+      "Justicia tardía: revisión constitucional 6 años después del decreto",
+      "Uso de Decreto-ley para materia sancionadora restrictiva de derechos",
+      "Posible vulneración del principio de tipicidad y legalidad",
+      "Ausencia de detalle sobre el contenido exacto del artículo cuestionado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadanos sancionados (posible devolución de multas)",
+        "Estado de Derecho (control de excesos ejecutivos)"
+      ],
+      "perdedores": [
+        "Gobierno de las Illes Balears (reputación y posible devolución de ingresos)",
+        "Seguridad jurídica del periodo de emergencia"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Revisión Constitucional / Sancionador",
+    "banderas_rojas": [
+      "Justicia tardía: revisión constitucional 6 años después del decreto",
+      "Uso de Decreto-ley para materia sancionadora restrictiva de derechos",
+      "Posible vulneración del principio de tipicidad y legalidad",
+      "Ausencia de detalle sobre el contenido exacto del artículo cuestionado"
+    ]
+  }
+}

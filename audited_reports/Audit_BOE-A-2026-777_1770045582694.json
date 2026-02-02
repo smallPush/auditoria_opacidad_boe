@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-777",
+  "timestamp": "2026-02-02T15:19:42.694Z",
+  "title": "Sentencia de 24 de octubre de 2025, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo interpuesto por la representación de E-Distribución Redes Digitales, SLU, contra la Orden TED/749/2022, de 27 de julio, por la que se aprueba el incentivo o penalización para la reducción de pérdidas en la red de distribución de energía eléctrica para el año 2016, se modifica la retribución base del año 2016 para varias empresas distribuidoras, y se aprueba la retribución de las empresas de distribución de energía eléctrica para los años 2017, 2018 y 2019.",
+  "report": {
+    "nivel_transparencia": 0.35,
+    "analisis_critico": "Se observa un fenómeno de 'litigiosidad rentable' donde las grandes eléctricas corrigen sistemáticamente al alza su retribución mediante sentencias años después de los ejercicios fiscales correspondientes. El texto es opaco al no detallar la cuantía de los 'ajustes correspondientes', ocultando el impacto real en el sistema eléctrico. La inclusión de intereses legales desde 2016 supone una carga financiera adicional para el sistema debido a una gestión administrativa deficiente.",
+    "resumen_ciudadano": "El Tribunal Supremo ha dado la razón parcialmente a E-Distribución (Endesa), obligando al Estado a recalcular y aumentar su retribución por la distribución de energía entre 2016 y 2019. Además de recibir más dinero por esos años, la empresa cobrará intereses legales. Este coste suele acabar repercutiendo en la factura de la luz de los hogares o en los Presupuestos Generales del Estado.",
+    "resumen_tweet": "⚖️ ¡Mas madera al sistema eléctrico! El Supremo obliga a pagar más a E-Distribución (Endesa) por los años 2016-2019 más intereses legales. Un error ministerial que pagaremos entre todos. 💸 #BOE #Opacidad #Transparencia #FacturaLuz",
+    "banderas_red_flags": [
+      "Retraso de casi una década en la fijación definitiva de retribuciones",
+      "Generación de intereses legales a cargo de fondos públicos por errores administrativos",
+      "Falta de cuantificación económica directa en el extracto de la sentencia",
+      "Modificación retroactiva de la retribución base"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "E-Distribución Redes Digitales SLU (Endesa)",
+        "Accionistas del sector energético",
+        "Bufetes de abogados especializados en derecho administrativo"
+      ],
+      "perdedores": [
+        "Consumidores eléctricos (vía peajes)",
+        "Contribuyentes (vía intereses legales)",
+        "Ministerio para la Transición Ecológica (desprestigio técnico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sentencia Judicial / Regulación Energética",
+    "banderas_rojas": [
+      "Retraso de casi una década en la fijación definitiva de retribuciones",
+      "Generación de intereses legales a cargo de fondos públicos por errores administrativos",
+      "Falta de cuantificación económica directa en el extracto de la sentencia",
+      "Modificación retroactiva de la retribución base"
+    ]
+  }
+}

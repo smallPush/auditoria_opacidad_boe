@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-678",
+  "timestamp": "2026-02-02T15:15:51.929Z",
+  "title": "Orden ECM/2/2026, de 9 de enero, por la que se dispone la creación de Deuda del Estado durante el año 2026 y enero de 2027.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una técnica de 'presupuestación zombie'. El Estado recurre a una prórroga de los presupuestos de 2023 para autorizar deuda en 2026, lo que elude el debate parlamentario actual y diluye la responsabilidad fiscal. Resulta alarmante el Artículo 19, que permite el sometimiento a tribunales extranjeros, y la reducción de miembros mínimos en la comisión de subastas, eliminando contrapesos bajo el pretexto de 'flexibilidad'. No hay un destino específico para los 96.000 millones de euros, sino una mención genérica a 'gastos del Estado', lo que constituye un cheque en blanco de dimensiones masivas.",
+    "resumen_ciudadano": "El Gobierno ha aprobado una orden para pedir prestados hasta 96.021 millones de euros durante 2026. Como no hay presupuestos nuevos, se están usando las leyes de 2023. Además, se ha reducido el número de personas necesarias para vigilar las subastas de deuda y se permite que, en caso de conflicto legal con los prestamistas, se utilicen tribunales extranjeros en lugar de los españoles.",
+    "resumen_tweet": "⚠️ El BOE autoriza 96.000M€ de deuda para 2026 usando presupuestos de 2023. ¡3 años de prórroga! 📉 Menos control en subastas y posible sumisión a tribunales extranjeros. ¿Dónde va el dinero? 💸 #BOE #Opacidad #Transparencia #DeudaPública",
+    "banderas_red_flags": [
+      "Prórroga presupuestaria por tercer año consecutivo",
+      "Reducción de supervisores en la comisión de subastas",
+      "Posible sometimiento a legislación y tribunales extranjeros",
+      "Ausencia de trámites de consulta pública",
+      "Destino de fondos no especificado ('Gastos del Estado')"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Creadores de Mercado (Grandes bancos)",
+        "Entidades financieras internacionales",
+        "Interventores con menos supervisión colegiada"
+      ],
+      "perdedores": [
+        "Contribuyentes (Carga de deuda a largo plazo)",
+        "Soberanía judicial española",
+        "Transparencia democrática parlamentaria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera y Deuda Pública",
+    "banderas_rojas": [
+      "Prórroga presupuestaria por tercer año consecutivo",
+      "Reducción de supervisores en la comisión de subastas",
+      "Posible sometimiento a legislación y tribunales extranjeros",
+      "Ausencia de trámites de consulta pública",
+      "Destino de fondos no especificado ('Gastos del Estado')"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-992",
+  "timestamp": "2026-02-02T15:50:23.217Z",
+  "title": "Ley 7/2025, de 26 de diciembre, de la Generalitat, reguladora del acceso al entorno de las personas con discapacidad usuarias de perro de asistencia.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La ley expande acertadamente la definicion de perros de asistencia a colectivos con autismo y enfermedades cronicas, pero incurre en una contradiccion estructural mediante la Disposicion Adicional Septima, que declara la no incidencia presupuestaria. Esto sugiere que las nuevas cargas administrativas, como el Registro de Perros de Asistencia y la supervision de entidades de adiestramiento, deberan ser absorbidas por una estructura ya existente sin recursos adicionales, lo que suele derivar en ineficacia o retrasos en el reconocimiento de derechos. Existe un sesgo de clase implicito: al no preverse ayudas publicas directas para el costoso proceso de adiestramiento y vinculacion, el acceso real al derecho queda supeditado a la capacidad economica del usuario o a la disponibilidad de fundaciones privadas.",
+    "resumen_ciudadano": "La Generalitat Valenciana permite ahora que personas con autismo, diabetes o epilepsia, ademas de personas con discapacidad visual o fisica, entren con sus perros de asistencia en todos los espacios publicos, transportes y lugares de trabajo. Se introduce un carnet digital para facilitar la identificacion y se regula la situacion de los perros cuando estos se jubilan para que puedan permanecer con sus dueños.",
+    "resumen_tweet": "🐕 Valencia amplia derechos para perros de asistencia (autismo, diabetes, epilepsia). ¡OJO! La ley dice 'coste cero' para la administracion, lo que pone en duda su ejecucion real sin nuevos fondos. 🚩 #BOE #Valencia #Discapacidad #Transparencia",
+    "banderas_red_flags": [
+      "Clausula de no incidencia presupuestaria (Art. Disposicion adicional septima)",
+      "Dependencia de entidades de adiestramiento privadas sin mencion a financiacion publica",
+      "Regimen sancionador de hasta 30.000 euros que podria recaer sobre pequeños establecimientos sin campañas previas de sensibilizacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades privadas de adiestramiento canino",
+        "Personas con discapacidad con recursos para costear el adiestramiento",
+        "Empresas de desarrollo de software para el carnet digital"
+      ],
+      "perdedores": [
+        "Personas con discapacidad de rentas bajas (sin ayudas para el perro)",
+        "Pequeño comercio con riesgo de sanciones elevadas",
+        "Personal administrativo de la Generalitat (mas carga de trabajo sin mas presupuesto)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Derechos de Ciudadania y Accesibilidad Universal",
+    "banderas_rojas": [
+      "Clausula de no incidencia presupuestaria (Art. Disposicion adicional septima)",
+      "Dependencia de entidades de adiestramiento privadas sin mencion a financiacion publica",
+      "Regimen sancionador de hasta 30.000 euros que podria recaer sobre pequeños establecimientos sin campañas previas de sensibilizacion"
+    ]
+  }
+}

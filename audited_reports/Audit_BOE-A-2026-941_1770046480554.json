@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-941",
+  "timestamp": "2026-02-02T15:34:40.554Z",
+  "title": "Real Decreto 27/2026, de 14 de enero, por el que se regula la concesión directa de subvenciones a la Fundación José Ortega y Gasset-Gregorio Marañón, a NOVACT y a la Associació PEN Català, para actuaciones culturales de especial interés público.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del mecanismo de concesión directa (Art. 22.2.c de la Ley General de Subvenciones) se presenta como una excepción que, en la práctica, elude la concurrencia competitiva. Destaca la subvención a NOVACT por su carácter retroactivo, financiando actividades iniciadas en 2025, lo que sugiere una regularización a posteriori de gastos ya realizados. Mientras que la ayuda a la Fundación Ortega-Marañón se justifica por la propiedad de los fondos documentales, las otras dos partidas poseen una fuerte carga de activismo político-internacional bajo el paraguas de 'cultura', lo que difumina la frontera entre la diplomacia y el fomento cultural.",
+    "resumen_ciudadano": "El Gobierno asigna 315.000 euros sin concurso público a tres entidades específicas: la Fundación Ortega-Marañón (140.000€), NOVACT (150.000€) y PEN Català (25.000€). Se justifican por razones de interés público como el centenario del Lyceum Club Femenino o campañas sobre el conflicto en Palestina. Al ser subvenciones 'a dedo', no ha habido posibilidad de que otras asociaciones presentaran proyectos alternativos o mejores presupuestos.",
+    "resumen_tweet": "🚨 ¡Más subvenciones 'a dedo' en el #BOE! 315.000€ repartidos sin concurso público a tres entidades. Se financian desde actos pasados hasta campañas políticas bajo el sello de 'Cultura'. ¿Transparencia o favoritismo? 💸🔍 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin publicidad ni concurrencia",
+      "Financiación retroactiva para actividades de 2025 (NOVACT)",
+      "Justificación de excepcionalidad basada en acuerdos privados previos",
+      "Ambigüedad en el desglose de costes indirectos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación José Ortega y Gasset-Gregorio Marañón",
+        "NOVACT (ONG de justicia global)",
+        "Associació PEN Català"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones culturales sin acceso a convenios directos",
+        "Principio de eficiencia presupuestaria",
+        "Ecosistema cultural de base fuera de los circuitos institucionales"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con impacto específico en Madrid y Cataluña)",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Concesión directa sin publicidad ni concurrencia",
+      "Financiación retroactiva para actividades de 2025 (NOVACT)",
+      "Justificación de excepcionalidad basada en acuerdos privados previos",
+      "Ambigüedad en el desglose de costes indirectos"
+    ]
+  }
+}

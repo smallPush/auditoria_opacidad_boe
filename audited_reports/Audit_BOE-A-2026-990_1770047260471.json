@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-990",
+  "timestamp": "2026-02-02T15:47:40.471Z",
+  "title": "Ley 8/2025, de 29 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de La Rioja para el año 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Los Presupuestos de La Rioja para 2026 se construyen sobre un escenario de 'incertidumbre técnica' admitida. El texto confiesa basarse en estimaciones de entregas a cuenta no confirmadas por el Estado y en un marco fiscal europeo aún no traspuesto, lo que introduce un riesgo de opacidad en la sostenibilidad real de las cuentas. Existe una incongruencia entre la retórica de 'alivio fiscal' y la consignación de 619 millones de euros en beneficios fiscales, una cifra masiva que carece de un desglose por deciles de renta, dificultando saber si el impacto favorece a las clases trabajadoras o a grandes fortunas bajo la máscara del mecenazgo. Además, el recurso a 306 millones de euros en deuda (capítulo 9) contradice la narrativa de solvencia absoluta ante un contexto de tipos de interés volátiles.",
+    "resumen_ciudadano": "La Rioja planea gastar 2.118 millones de euros en 2026, con un fuerte peso en sanidad y educación (más del 50% del gasto funcional). Sin embargo, el presupuesto se ha diseñado 'a ciegas', sin conocer las transferencias definitivas del Gobierno central y bajo la amenaza de una crisis arancelaria global. Se mantienen rebajas de impuestos y se destinan ayudas específicas a vivienda joven y sector agrario, aunque se financia una parte importante mediante nueva deuda pública.",
+    "resumen_tweet": "🚨 AUDITORÍA #BOE: La Rioja aprueba presupuestos de 2.118M€ para 2026. Escenario de alta incertidumbre por falta de datos estatales y riesgos globales. 📉 619M€ en beneficios fiscales bajo sospecha y 306M€ en deuda. #LaRioja #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Cálculo de ingresos basado en estimaciones no vinculantes del Ministerio de Hacienda",
+      "Ausencia de transposición del marco fiscal europeo al derecho nacional",
+      "Elevada cuantía de beneficios fiscales (619,2M€) sin auditoría de impacto social clara",
+      "Dependencia crítica de fondos europeos Next Generation en su fase final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jóvenes demandantes de vivienda",
+        "Sector Agrario",
+        "Centros de Investigación Biomédica (beneficiarios de mecenazgo)",
+        "Entidades del tercer sector y fundaciones públicas"
+      ],
+      "perdedores": [
+        "Generaciones futuras (asunción de 306M€ de deuda adicional)",
+        "Transparencia presupuestaria (por el uso de ingresos 'estimados')",
+        "Pequeños municipios (dependencia de fondos de cooperación local condicionados)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Ley de Presupuestos Generales",
+    "banderas_rojas": [
+      "Cálculo de ingresos basado en estimaciones no vinculantes del Ministerio de Hacienda",
+      "Ausencia de transposición del marco fiscal europeo al derecho nacional",
+      "Elevada cuantía de beneficios fiscales (619,2M€) sin auditoría de impacto social clara",
+      "Dependencia crítica de fondos europeos Next Generation en su fase final"
+    ]
+  }
+}

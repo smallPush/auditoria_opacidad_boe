@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-840",
+  "timestamp": "2026-02-02T15:27:43.910Z",
+  "title": "Orden DEF/6/2026, de 8 de enero, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de promocion individual en la escala de Cabos y Guardias. Aunque cumple con la legalidad de la Ley 29/2014, destaca el decalaje temporal entre la antiguedad reconocida (julio de 2025) y la publicacion oficial (enero de 2026). No se detallan los costes de formacion asociados en las academias de Baeza o Valdemoro.",
+    "resumen_ciudadano": "El Ministerio de Defensa oficializa el ascenso a Guardia Civil de un alumno tras superar su plan de estudios, integrandolo en la promocion de Baeza y Valdemoro con efectos retroactivos a julio de 2025.",
+    "resumen_tweet": "👮‍♂️ Oficializado en el #BOE el ascenso de un nuevo Guardia Civil tras completar su formacion. Un tramite administrativo estandar que refuerza la escala de Cabos y Guardias. #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Retraso administrativo de 6 meses en la publicacion respecto a la antiguedad de la plaza",
+      "Ausencia de desglose presupuestario del coste de formacion por alumno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marco Labrador Rebull (ascenso y estabilidad laboral)",
+        "Ministerio de Defensa (reposicion de efectivos)"
+      ],
+      "perdedores": [
+        "No se identifican perdedores directos en este acto administrativo individual"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Retraso administrativo de 6 meses en la publicacion respecto a la antiguedad de la plaza",
+      "Ausencia de desglose presupuestario del coste de formacion por alumno"
+    ]
+  }
+}

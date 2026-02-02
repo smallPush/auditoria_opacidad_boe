@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-677",
+  "timestamp": "2026-02-02T15:14:31.557Z",
+  "title": "Real Decreto 4/2026, de 8 de enero, por el que se establece el Certificado profesional en Mantenimiento de instalaciones de transporte por cable, de la familia profesional Instalación y Mantenimiento, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 4/2026 formaliza el currículo para el mantenimiento de sistemas de transporte por cable, un sector técnico crítico. Aunque la estructura educativa es clara, el texto incurre en una 'opacidad presupuestaria' al remitir a fondos europeos (FSE+) y al Programa EFESO 2021-2027 sin detallar el coste real de implementación o las subvenciones directas a las empresas que acogerán la formación dual. Existe una incongruencia ideológica leve: se menciona la igualdad de género como objetivo (art. 6.11), pero el contenido técnico y el entorno profesional descrito carecen de medidas activas para romper la brecha en un sector históricamente masculinizado. El modelo dual (estancia en empresa) corre el riesgo de ser utilizado como fuente de mano de obra de bajo coste bajo el pretexto formativo.",
+    "resumen_ciudadano": "Se crea un nuevo certificado profesional de 270 horas para trabajar en el mantenimiento y conducción de teleféricos, telesillas y funiculares. Este título será obligatorio para nuevos trabajadores y regula tanto la parte técnica (mecánica, eléctrica) como la atención al usuario. La formación se realizará en parte dentro de empresas (formación dual), lo que busca alinear la educación con las necesidades de las estaciones de esquí y transportes urbanos por cable.",
+    "resumen_tweet": "🚠 Nuevo título en el #BOE: Certificado de Mantenimiento de Transporte por Cable. 270h de formación dual financiada con fondos europeos. ¿Más profesionalización o mano de obra barata para el sector turístico? ⛷️ #Transparencia #Opacidad #FP",
+    "banderas_red_flags": [
+      "Financiación genérica mediante fondos EFESO sin desglose de cuantías",
+      "Falta de medidas concretas para la paridad en un sector segregado",
+      "Potencial externalización de costes de formación de grandes empresas hacia el Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes estaciones de esquí y resorts turísticos",
+        "Empresas de transporte urbano por cable",
+        "Ministerio de Educación (ejecución de fondos europeos)"
+      ],
+      "perdedores": [
+        "Trabajadores veteranos sin titulación (barreras de entrada)",
+        "Pequeñas academias rurales (exigencia de espacios mínimos)",
+        "Mujeres (ausencia de incentivos para entrar en el sector)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Ordenación de Formación Profesional",
+    "banderas_rojas": [
+      "Financiación genérica mediante fondos EFESO sin desglose de cuantías",
+      "Falta de medidas concretas para la paridad en un sector segregado",
+      "Potencial externalización de costes de formación de grandes empresas hacia el Estado"
+    ]
+  }
+}

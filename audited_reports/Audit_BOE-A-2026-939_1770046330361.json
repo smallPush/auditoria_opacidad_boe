@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-939",
+  "timestamp": "2026-02-02T15:32:10.361Z",
+  "title": "Orden TRM/10/2026, de 12 de enero, por la que se modifican las condiciones operativas en las obligaciones de servicio público establecidas en el Acuerdo del Consejo de Ministros de 27 de julio de 2018, por el que se declaran obligaciones de servicio público en la ruta aérea Menorca-Madrid.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden TRM/10/2026 aumenta la frecuencia mínima de vuelos entre Menorca y Madrid a tres trayectos diarios durante el periodo invernal. Si bien la justificación técnica es el 'incremento continuado de la demanda', el texto omite por completo el impacto presupuestario y el coste de la compensación económica que el Estado otorga a la aerolínea que opera en régimen de exclusividad. Se detecta una opacidad financiera bajo el paraguas de 'obligación de servicio público' (OSP).",
+    "resumen_ciudadano": "El Gobierno obliga a que haya al menos tres vuelos diarios de ida y vuelta entre Menorca y Madrid en invierno. Estos vuelos deben salir de Menorca temprano y volver tarde de Madrid. El servicio se presta mediante un contrato de exclusividad con una única aerolínea, cuyo coste para el contribuyente no se especifica en este documento.",
+    "resumen_tweet": "✈️ Más vuelos Menorca-Madrid en invierno: el @transportesgob fija 3 frecuencias diarias obligatorias. Pero ¡CUIDADO! 👁️ El BOE no revela cuánto nos cuesta este contrato de exclusividad. ¿Más servicio o más gasto fantasma? 💸 #BOE #Opacidad #Menorca",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario en la modificación de la OSP",
+      "Mantenimiento de régimen de exclusividad sin debate sobre competencia",
+      "Falta de datos concretos sobre el incremento de demanda que justifica la medida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes en Menorca (mayor conectividad invernal)",
+        "Aerolínea adjudicataria (mantiene monopolio de la ruta con garantía de ingresos)",
+        "Sector turístico y de negocios madrileño"
+      ],
+      "perdedores": [
+        "Contribuyentes generales (asumen el coste del subsidio no detallado)",
+        "Aerolíneas de la competencia (excluidas por el régimen de exclusividad)",
+        "Transparencia pública (por la omisión de cifras económicas)"
+      ]
+    },
+    "comunidad_autonoma": "Islas Baleares",
+    "tipologia": "Transporte y Movilidad Sostenible",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario en la modificación de la OSP",
+      "Mantenimiento de régimen de exclusividad sin debate sobre competencia",
+      "Falta de datos concretos sobre el incremento de demanda que justifica la medida"
+    ]
+  }
+}

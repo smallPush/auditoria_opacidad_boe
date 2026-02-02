@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-779",
+  "timestamp": "2026-02-02T15:22:35.415Z",
+  "title": "Sentencia de 11 de noviembre de 2025, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo interpuesto por la representación de Hidroeléctrica de Silleda, SL, contra la Orden TED/749/2022, de 27 de julio, por la que se aprueba el incentivo o penalización para la reducción de pérdidas en la red de distribución de energía eléctrica para el año 2016, se modifica la retribución base del año 2016 para varias empresas distribuidoras, y se aprueba la retribución de las empresas de distribución de energía eléctrica para los años 2017, 2018 y 2019.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "La sentencia revela una corrección judicial a la arbitrariedad técnica del Ministerio. El uso del 'parámetro Lambda' (0,8614) como eje del conflicto evidencia una regulación energética blindada tras tecnicismos matemáticos que impiden al ciudadano entender el coste real de la red. Este tipo de litigiosidad demuestra que el cálculo de la retribución eléctrica es un proceso opaco donde solo grandes actores y expertos jurídicos pueden intervenir para corregir errores de cálculo de la Administración que afectan a los ejercicios 2017, 2018 y 2019.",
+    "resumen_ciudadano": "El Tribunal Supremo ha dado la razón parcialmente a una empresa eléctrica gallega (Hidroeléctrica de Silleda), obligando al Gobierno a recalcular y probablemente aumentar la retribución que recibió entre 2017 y 2019. El fallo se debe a un error en el valor de un coeficiente técnico que el Ministerio aplicó mal. Esto significa que la planificación energética estatal fue defectuosa y requiere ajustes financieros años después.",
+    "resumen_tweet": "⚖️ ¡Varapalo al Ministerio! El Supremo anula el cálculo de retribución de una eléctrica por un error técnico en el 'parámetro Lambda'. ¿Cuántos errores más habrá ocultos en nuestra factura? 📉 Opacidad técnica que pagamos todos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de variables matemáticas (Lambda) sin explicación de impacto monetario",
+      "Corrección de retribuciones con casi una década de retraso (2016-2019)",
+      "Nulidad parcial de una Orden Ministerial por errores técnicos de cálculo",
+      "Ausencia de cuantificación del gasto público derivado de la sentencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hidroeléctrica de Silleda, S.L.",
+        "Abogados especialistas en derecho administrativo y energético"
+      ],
+      "perdedores": [
+        "Ministerio para la Transición Ecológica (por error administrativo)",
+        "Consumidor final (el sistema eléctrico asume los ajustes retributivos)",
+        "Transparencia pública"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Sentencia Judicial / Regulación Energética",
+    "banderas_rojas": [
+      "Uso de variables matemáticas (Lambda) sin explicación de impacto monetario",
+      "Corrección de retribuciones con casi una década de retraso (2016-2019)",
+      "Nulidad parcial de una Orden Ministerial por errores técnicos de cálculo",
+      "Ausencia de cuantificación del gasto público derivado de la sentencia"
+    ]
+  }
+}

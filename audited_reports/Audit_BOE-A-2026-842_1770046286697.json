@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-842",
+  "timestamp": "2026-02-02T15:31:26.697Z",
+  "title": "Resolución de 2 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 7 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante un ejemplo de 'endogamia administrativa'. La resolución utiliza el mecanismo de 'Libre Designación', que permite el nombramiento discrecional (a dedo) de altos cargos. Es llamativo que los 6 adjudicatarios ya ocupaban puestos del mismo nivel (29 y 30) en el mismo Ministerio y unidad, lo que sugiere una formalización de puestos ya ocupados o una rotación interna cerrada al mérito externo. No se explican los criterios de idoneidad, solo se publica el resultado.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha adjudicado 6 puestos de alta dirección (niveles 29 y 30, los más altos de la administración) de forma discrecional. Estos puestos, destinados a la gestión de recursos agrarios y seguridad alimentaria, han sido asignados a personas que ya trabajaban en el mismo departamento, manteniendo la estructura de élite sin apertura a nuevos perfiles.",
+    "resumen_tweet": "🚨 ¿Meritocracia o dedazo en el @mapagob? 6 puestos de élite (Nivel 29-30) adjudicados por 'Libre Designación'. Funcionarios A1 que rotan en la misma cúpula administrativa. ¿Y la transparencia en los criterios? 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación discrecional",
+      "Endogamia: origen y destino coinciden en nivel y unidad",
+      "Ausencia de justificación de méritos específicos",
+      "Concentración de poder administrativo en niveles 29/30"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo A1 (Marta Pérez, Ana Mendoza, etc.)",
+        "Consolidación de la cúpula administrativa del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso a libre designación",
+        "Ciudadanía (por opacidad en los criterios de selección de gestores públicos)",
+        "Candidatos externos con méritos técnicos pero sin perfil político/confianza"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación discrecional",
+      "Endogamia: origen y destino coinciden en nivel y unidad",
+      "Ausencia de justificación de méritos específicos",
+      "Concentración de poder administrativo en niveles 29/30"
+    ]
+  }
+}

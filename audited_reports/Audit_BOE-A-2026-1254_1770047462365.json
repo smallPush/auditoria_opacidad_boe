@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1254",
+  "timestamp": "2026-02-02T15:51:02.365Z",
+  "title": "Real Decreto 37/2026, de 19 de enero, por el que se declara luto oficial por los fallecidos en el accidente ferroviario acaecido en Adamuz (Córdoba).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto se limita a la esfera de lo simbólico. Aunque la declaración de luto es un procedimiento estándar, su publicación inmediata actúa como una cortina de humo emocional que precede a cualquier investigación técnica o asunción de responsabilidades políticas por el accidente ferroviario. No hay mención a la seguridad de la infraestructura ni a partidas presupuestarias para la compensación de víctimas, centrando el gasto público únicamente en el protocolo de banderas y actos oficiales.",
+    "resumen_ciudadano": "Se declaran tres días de luto oficial (del 20 al 22 de enero de 2026) por el accidente de tren en Adamuz, Córdoba. Esto implica que las banderas en edificios públicos y barcos de la Armada ondearán a media asta como señal de duelo estatal.",
+    "resumen_tweet": "🚂 El #BOE declara luto oficial por el accidente ferroviario en Adamuz. Mucha bandera a media asta pero ¿y la inversión en seguridad? Símbolos para cubrir fallos en infraestructuras. #Opacidad #Transparencia #Córdoba #Ferrocarril 🇪🇸📉",
+    "banderas_red_flags": [
+      "Ausencia de medidas compensatorias inmediatas",
+      "Falta de referencia a la investigación de causas",
+      "Uso del protocolo como herramienta de gestión de crisis reputacional",
+      "Omiten detalles sobre el estado de la vía ferroviaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno (control del relato emocional)",
+        "Instituciones públicas (cumplimiento de protocolo sin coste estructural)"
+      ],
+      "perdedores": [
+        "Usuarios de la red ferroviaria (infraestructura bajo sospecha)",
+        "Víctimas y familiares (reciben símbolos en lugar de compromisos de reforma o ayudas)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Declaración de Luto y Protocolo",
+    "banderas_rojas": [
+      "Ausencia de medidas compensatorias inmediatas",
+      "Falta de referencia a la investigación de causas",
+      "Uso del protocolo como herramienta de gestión de crisis reputacional",
+      "Omiten detalles sobre el estado de la vía ferroviaria"
+    ]
+  }
+}

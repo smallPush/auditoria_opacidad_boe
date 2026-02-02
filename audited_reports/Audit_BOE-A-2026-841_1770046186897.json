@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-841",
+  "timestamp": "2026-02-02T15:29:46.897Z",
+  "title": "Resolución de 8 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla un nombramiento mediante el sistema de 'libre designación', un mecanismo que permite la elección discrecional de funcionarios para puestos de alta responsabilidad. En este caso, se trata de una Jefatura de Área (Nivel 28) en la Subsecretaría de Hacienda. Aunque legalmente fundamentado en la Ley 30/1984, este sistema suele ser criticado por priorizar la confianza política sobre el mérito y la capacidad técnica estricta, fomentando estructuras de mando alineadas ideológicamente en lugar de cuerpos técnicos independientes. No se especifican los criterios cualitativos de la elección, solo el cumplimiento formal de requisitos.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha nombrado a una nueva Jefa de Área de Relaciones Internacionales mediante el sistema de designación libre (sin oposición directa). El puesto es de nivel alto (28) y procede de la administración autonómica andaluza. Este proceso permite elegir al candidato por confianza en lugar de por una puntuación objetiva de méritos.",
+    "resumen_tweet": "🚩 Nuevo puesto 'a dedo' en el Ministerio de Hacienda. Se adjudica una Jefatura de Área (Nivel 28) mediante libre designación. La discrecionalidad vuelve a imponerse al mérito puro en la alta administración. #BOE #Opacidad #Transparencia 🏛️⚖️",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de alto nivel salarial (Nivel 28)",
+      "Posible politización de puestos técnicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iris Pugnaire Saez",
+        "Cuerpo Superior de Administradores de la Junta de Andalucía"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza",
+        "Transparencia administrativa basada en mérito ciego"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de alto nivel salarial (Nivel 28)",
+      "Posible politización de puestos técnicos"
+    ]
+  }
+}

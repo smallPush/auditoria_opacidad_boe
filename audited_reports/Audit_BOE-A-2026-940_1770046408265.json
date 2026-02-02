@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-940",
+  "timestamp": "2026-02-02T15:33:28.265Z",
+  "title": "Resolución de 22 de diciembre de 2025, de la Autoridad Portuaria de Gijón, por la que se modifica la de 15 de enero de 2013, por la que se crea y regula el Registro Electrónico del Organismo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque la resolución se presenta como una actualización técnica necesaria para cumplir con las Leyes 39/2015 y 40/2015, contiene cláusulas que erosionan los derechos del ciudadano frente a la Administración. Destaca el Artículo 6.1, que permite a la Autoridad Portuaria imponer la obligatoriedad electrónica a personas físicas basándose en criterios subjetivos como 'capacidad económica' o 'dedicación profesional', lo cual genera inseguridad jurídica y puede profundizar la brecha digital. Asimismo, el Artículo 4.2 establece una exención de responsabilidad unilateral para la Administración por el uso fraudulento del sistema, trasladando todo el riesgo al usuario incluso ante posibles fallos de seguridad del propio portal.",
+    "resumen_ciudadano": "El Puerto de Gijón renueva su sede electrónica. Las empresas están obligadas a usarla, pero la autoridad también podrá obligar a personas particulares si considera que tienen medios suficientes. Importante: si alguien usa tus datos de forma fraudulenta en su sistema, el organismo no se hace responsable, recayendo la culpa y custodia solo en ti.",
+    "resumen_tweet": "⚓️ El Puerto de Gijón actualiza su registro electrónico. ¡Ojo! 👁️ Se reservan el derecho de obligarte a usar internet según tu 'capacidad económica' y se lavan las manos ante fraudes en el sistema. #BOE #Opacidad #Transparencia #Gijón #Asturias 🚢",
+    "banderas_red_flags": [
+      "Discrecionalidad en la imposición de medios electrónicos a personas físicas",
+      "Cláusula de exención de responsabilidad administrativa ante fraude",
+      "Uso de conceptos jurídicos indeterminados para definir obligatoriedad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Autoridad Portuaria de Gijón (reducción de costes operativos)",
+        "Empresas de servicios tecnológicos y certificación"
+      ],
+      "perdedores": [
+        "Ciudadanos con baja competencia digital",
+        "Usuarios víctimas de ciberfraude (por la exención de responsabilidad del ente)",
+        "Pequeños proveedores sin infraestructura IT avanzada"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Administración Electrónica",
+    "banderas_rojas": [
+      "Discrecionalidad en la imposición de medios electrónicos a personas físicas",
+      "Cláusula de exención de responsabilidad administrativa ante fraude",
+      "Uso de conceptos jurídicos indeterminados para definir obligatoriedad"
+    ]
+  }
+}

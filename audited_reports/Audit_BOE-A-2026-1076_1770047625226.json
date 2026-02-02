@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1076",
+  "timestamp": "2026-02-02T15:53:45.226Z",
+  "title": "Resolución de 12 de enero de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza un modelo de 'actualización automática' que blinda los márgenes de beneficio de las distribuidoras basándose en normativas de 1998 y 2008. Este 'piloto automático' legislativo evita el debate público sobre la justicia de los precios energéticos. La opacidad reside en el término de 'costes de comercialización', cuya revisión anual no se detalla en este documento, dejando al ciudadano como mero pagador de variables externas como el flete o el cambio dólar/euro, sin capacidad de fiscalización sobre la eficiencia de las empresas suministradoras.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios del gas licuado por canalización (el que llega a casa por tubería, común en zonas sin gas natural). A partir del 20 de enero de 2026, el término fijo será de 1,58 euros al mes y el variable de unos 78,76 céntimos por kilo consumido. Estos precios se calculan según el mercado internacional y se aplican incluso a pedidos realizados antes de la fecha pero entregados después.",
+    "resumen_tweet": "📢 ¡Gas por canalización en 'piloto automático'! El #BOE publica nuevos precios basados en leyes de hace 25 años. Las distribuidoras aseguran su margen mientras tú asumes el riesgo del dólar y el mercado. 💸⛽ #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Determinación de precios mediante fórmulas technocráticas sin supervisión parlamentaria directa",
+      "Uso de referencias legislativas obsoletas (Orden de 1998) para fijar costes actuales",
+      "Traspaso íntegro del riesgo de tipo de cambio (dólar/euro) al consumidor final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas distribuidoras de GLP (márgenes protegidos)",
+        "Estado (mantiene recaudación de IVA e Impuesto de Hidrocarburos sobre el nuevo precio)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos en zonas rurales o periferias urbanas sin acceso a gas natural",
+        "Hogares vulnerables ante la volatilidad del mercado internacional de energía"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (España)",
+    "tipologia": "Resolución de fijación de precios energéticos",
+    "banderas_rojas": [
+      "Determinación de precios mediante fórmulas technocráticas sin supervisión parlamentaria directa",
+      "Uso de referencias legislativas obsoletas (Orden de 1998) para fijar costes actuales",
+      "Traspaso íntegro del riesgo de tipo de cambio (dólar/euro) al consumidor final"
+    ]
+  }
+}

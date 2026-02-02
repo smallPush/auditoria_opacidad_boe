@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-988",
+  "timestamp": "2026-02-02T15:44:22.863Z",
+  "title": "Resolución de 16 de enero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Esta resolución es un ejemplo de la 'gestión administrativa del vicio'. Aunque el BOE publica los precios de forma abierta, el proceso subyacente es opaco: los fabricantes e importadores proponen el precio y el Estado simplemente lo valida, actuando como el brazo ejecutor de un monopolio comercial. No existe un desglose de cuánto de ese PVP corresponde a impuestos especiales, IVA o margen de beneficio estatal, ocultando la dependencia fiscal del Estado respecto al tabaquismo. Se observa una contradicción ética entre las políticas de salud pública y la facilitación administrativa de la comercialización de labores como el tabaco de mascar o picaduras de pipa con sabores atractivos.",
+    "resumen_ciudadano": "El Gobierno publica la lista actualizada de precios para el tabaco en estancos. Los precios, que afectan a puros, tabaco de liar, de mascar y de pipa, son decididos por las propias empresas tabaqueras y oficializados por el Comisionado para el Mercado de Tabacos para su aplicación inmediata en toda España (salvo Canarias).",
+    "resumen_tweet": "📉 El BOE actualiza los precios del tabaco: de puros premium a picadura de liar. ¿Salud pública o caja registradora? 🚬 El Estado vuelve a validar los precios de las tabaqueras bajo el régimen de monopolio. #BOE #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Fijación de precios dirigida por la industria",
+      "Ausencia de desglose impositivo por unidad",
+      "Mantenimiento de estructuras de monopolio histórico",
+      "Inexistencia de valoración de impacto sanitario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales tabaqueras (fijan sus márgenes)",
+        "Ministerio de Hacienda (asegura la recaudación por impuestos especiales)",
+        "Expendedurías de tabaco (margen comercial garantizado)"
+      ],
+      "perdedores": [
+        "Consumidores (especialmente clases bajas dependientes de la picadura de liar)",
+        "Sistema público de salud (costes derivados del consumo)",
+        "Libre competencia (mercado rígidamente regulado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios / Monopolio",
+    "banderas_rojas": [
+      "Fijación de precios dirigida por la industria",
+      "Ausencia de desglose impositivo por unidad",
+      "Mantenimiento de estructuras de monopolio histórico",
+      "Inexistencia de valoración de impacto sanitario"
+    ]
+  }
+}

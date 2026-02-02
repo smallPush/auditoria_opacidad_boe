@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1078",
+  "timestamp": "2026-02-02T15:56:22.854Z",
+  "title": "Acuerdo de 17 de diciembre de 2025, del Pleno, por el que se aprueba la reforma del Reglamento de Les Corts Valencianes.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La reforma consolida el poder de las mayorías mediante un sistema de desempate que favorece sistemáticamente a la lista más votada en las elecciones, reduciendo el margen de negociación parlamentaria. Aunque introduce lenguaje de paridad en las mesas, el control financiero de las subvenciones a grupos parlamentarios sigue siendo predominantemente interno, lo que genera un riesgo de opacidad en el uso de fondos públicos. La tramitación por 'lectura única' limita el debate profundo sobre una norma que rige el funcionamiento democrático de la institución.",
+    "resumen_ciudadano": "Se han modificado las reglas de funcionamiento interno del Parlamento Valenciano. Los cambios principales afectan a cómo se elige a los jefes de la cámara (favoreciendo a los partidos grandes en caso de empate), cómo se reparten el dinero y las oficinas los grupos políticos, y cómo se controla la televisión pública valenciana. Se exige que las listas para cargos internos sean de hombres y mujeres alternados, pero se mantiene un control muy cerrado sobre el dinero que reciben los partidos.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Nueva reforma en Les Corts Valencianas. Se blindan subvenciones a grupos y se cambia el sistema de votación para favorecer a las listas más votadas. ¿Transparencia o control interno? 📉🏛️ #Opacidad #Transparencia #ComunitatValenciana",
+    "banderas_red_flags": [
+      "Desempate automático a favor de la lista más votada (Art. 37.1)",
+      "Control interno de contabilidad de subvenciones sin auditoría externa independiente (Art. 28.3)",
+      "Uso del procedimiento de lectura única para reformas de calado institucional",
+      "Limitación de medios materiales para diputados no adscritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partidos políticos mayoritarios",
+        "Síndicos de los grupos",
+        "Estructura administrativa de la Corporación Audiovisual"
+      ],
+      "perdedores": [
+        "Partidos minoritarios (menor peso en voto ponderado)",
+        "Diputados no adscritos",
+        "Ciudadanía (por control financiero interno y no externo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Reforma del Reglamento Parlamentario",
+    "banderas_rojas": [
+      "Desempate automático a favor de la lista más votada (Art. 37.1)",
+      "Control interno de contabilidad de subvenciones sin auditoría externa independiente (Art. 28.3)",
+      "Uso del procedimiento de lectura única para reformas de calado institucional",
+      "Limitación de medios materiales para diputados no adscritos"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-991",
+  "timestamp": "2026-02-02T15:49:08.889Z",
+  "title": "Ley 9/2025, de 29 de diciembre, de Medidas Fiscales y Administrativas para el año 2026.",
+  "report": {
+    "nivel_transparencia": 4.2,
+    "analisis_critico": "La Ley 9/2025 utiliza la figura de la 'Ley de Acompañamiento' para realizar modificaciones estructurales en 11 leyes riojanas diferentes, una técnica que dificulta el debate parlamentario detallado. Destaca el uso de una 'deflactación automática' del IRPF que, paradójicamente, requiere la aprobación de otra ley posterior para ejecutarse, creando una falsa sensación de automatismo. En el ámbito fiscal, la ampliación de beneficios en Sucesiones a colaterales por afinidad (cuñados, sobrinos políticos) profundiza en la reducción de la progresividad fiscal en la región. Se observa una delegación de poder significativa en la Consejería de Hacienda para modificar anexos municipales por resolución, restando control legislativo sobre el territorio.",
+    "resumen_ciudadano": "Esta ley regula los impuestos y la administración riojana para 2026. Los puntos clave son: una posible rebaja del IRPF si la inflación supera el 3%, menos impuestos en herencias para familiares lejanos y nuevas reglas para seguros en espectáculos públicos. También crea la figura del 'Defensor del Contribuyente' y facilita la contratación de médicos en plazas de difícil cobertura, aunque utiliza un formato legal 'ómnibus' que mezcla temas tan dispares como carreteras, igualdad y sanidad en un solo paquete, dificultando su fiscalización.",
+    "resumen_tweet": "🚨 Auditoría #BOE: La Rioja aprueba su Ley de Medidas 2026. Mucho ruido con la deflactación del IRPF que NO será automática y más ventajas fiscales para herencias entre familiares lejanos. 📉 ¿Transparencia? Poca, al ser una 'Ley Ómnibus'. #LaRioja #Opacidad",
+    "banderas_red_flags": [
+      "Uso de Ley de Medidas para eludir el debate parlamentario ordinario",
+      "Falsa automaticidad en la deflactación del IRPF (requiere ley adicional)",
+      "Habilitación de fondos de cooperación 'humanitaria' con disposición anticipada y menos control previo",
+      "Capacidad del Consejero para modificar el anexo de municipios por resolución administrativa",
+      "Acceso extraordinario por concurso (sin examen) a plazas de personal sanitario facultativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Herederos colaterales de 2º y 3º grado (sobrinos, tíos, cuñados)",
+        "Organizadores de espectáculos (se permiten seguros con franquicia)",
+        "Facultativos especialistas (vías de acceso extraordinario a plazas)",
+        "Grandes propietarios en suelo no urbanizable (facilidades de conexión a servicios)"
+      ],
+      "perdedores": [
+        "Clases bajas (la deflactación del IRPF beneficia proporcionalmente más a rentas medias-altas)",
+        "Control parlamentario (cedido a favor de resoluciones administrativas)",
+        "Colectivos sociales con menos recursos que dependen de la Renta de Ciudadanía (procedimiento de recurso judicializado y complejo)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Ley de Medidas Fiscales y Administrativas (Ley de Acompañamiento)",
+    "banderas_rojas": [
+      "Uso de Ley de Medidas para eludir el debate parlamentario ordinario",
+      "Falsa automaticidad en la deflactación del IRPF (requiere ley adicional)",
+      "Habilitación de fondos de cooperación 'humanitaria' con disposición anticipada y menos control previo",
+      "Capacidad del Consejero para modificar el anexo de municipios por resolución administrativa",
+      "Acceso extraordinario por concurso (sin examen) a plazas de personal sanitario facultativo"
+    ]
+  }
+}
