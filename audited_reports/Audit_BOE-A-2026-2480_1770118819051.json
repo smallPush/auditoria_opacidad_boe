@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2480",
+  "timestamp": "2026-02-03T11:40:19.051Z",
+  "title": "Resolución de 27 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 3 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La adjudicación mediante 'libre designación' de un puesto de Nivel 30 en la Subdirección General de Gestión de la Financiación Autonómica confirma la persistencia de mecanismos discrecionales en áreas de alta sensibilidad económica. Aunque el adjudicatario pertenece al Cuerpo Superior de Interventores y Auditores del Estado, el sistema de elección directa por parte del Ministerio de Hacienda antepone la confianza política a la concurrencia competitiva en un departamento clave para el equilibrio territorial.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha nombrado 'a dedo' a un alto directivo para gestionar los fondos destinados a las Comunidades Autónomas, utilizando un proceso que permite elegir a la persona sin un concurso público de méritos tradicional.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en Hacienda. Se adjudica por libre designación la Subdirección de Gestión de Financiación Autonómica. ¿Gestión técnica o control político del dinero regional? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Control de recursos económicos territoriales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Jimenez Molinos",
+        "Élite burocrática del Cuerpo de Interventores",
+        "Ministerio de Hacienda (control directo)"
+      ],
+      "perdedores": [
+        "Candidatos por mérito puro sin perfil de confianza",
+        "Transparencia en procesos de selección",
+        "Ciudadanía (opacidad en cargos clave)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Madrid",
+    "tipologia": "Nombramientos y Adjudicaciones de Libre Designación",
+    "banderas_rojas": [
+      "Libre designación",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Control de recursos económicos territoriales"
+    ]
+  }
+}

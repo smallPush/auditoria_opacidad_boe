@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-1379",
+  "timestamp": "2026-02-03T11:19:00.359Z",
+  "title": "Orden DEF/15/2026, de 13 de enero, por la que se establece el régimen de pruebas físicas unificadas de ingreso, formación y egreso de los Centros Docentes Militares de Formación y evaluación periódica en las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden DEF/15/2026 centraliza y endurece el control sobre el personal militar bajo la premisa de 'eficacia operativa'. Aunque se presenta como una 'unificación' para mejorar la seguridad jurídica, en realidad traslada una discrecionalidad técnica significativa a los Jefes de Estado Mayor y a la Subsecretaría de Defensa, quienes pueden ajustar periodicidades y marcas para destinos específicos. No se detalla el impacto presupuestario de la implementación de este nuevo sistema de evaluación (infraestructuras, personal evaluador, material), lo que sugiere 'gastos fantasma' operativos que serán absorbidos por las unidades sin partidas claras. La norma vincula la salud al régimen disciplinario, lo que podría derivar en sanciones por condiciones físicas deterioradas por el propio servicio.",
+    "resumen_ciudadano": "Defensa ha unificado las pruebas físicas para todos los militares. A partir de ahora, desde que entras hasta que sales (y cada dos años durante tu carrera), tendrás que pasar exámenes de fuerza, resistencia y agilidad. Los resultados afectarán a los ascensos y a la permanencia en el ejército. La norma busca que todos tengan un nivel físico similar, independientemente de si su trabajo es en una oficina o en el campo de batalla, aunque permite excepciones por edad (mayores de 45) o salud.",
+    "resumen_tweet": "🪖 Defensa endurece el control físico en las Fuerzas Armadas con la Orden DEF/15/2026. Pruebas unificadas cada 2 años y vinculación al régimen disciplinario. ¿Mejora operativa o presión excesiva al soldado? 🏃‍♂️💨 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Delegación de marcas específicas en anexos técnicos sujetos a cambios por mandos",
+      "Vinculación del cuidado de la salud al régimen disciplinario (Art. 83.3 Ley 39/2007)",
+      "Ausencia de memoria económica para la adaptación de centros de formación",
+      "Periodicidad bianual obligatoria incluso para personal con funciones administrativas",
+      "Discrecionalidad de los Jefes de Estado Mayor para reducir la periodicidad a anual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos mandos (mayor control disciplinario sobre la tropa)",
+        "Academias de preparación física externas",
+        "Perfiles jóvenes y atletas de élite en el ejército"
+      ],
+      "perdedores": [
+        "Personal veterano con cargas familiares (dificultad para conciliar entrenamiento)",
+        "Militares en puestos técnicos o administrativos con menor disponibilidad de tiempo",
+        "Aspirantes de entornos socioeconómicos bajos sin recursos para entrenamiento previo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Defensa / Personal Militar",
+    "banderas_rojas": [
+      "Delegación de marcas específicas en anexos técnicos sujetos a cambios por mandos",
+      "Vinculación del cuidado de la salud al régimen disciplinario (Art. 83.3 Ley 39/2007)",
+      "Ausencia de memoria económica para la adaptación de centros de formación",
+      "Periodicidad bianual obligatoria incluso para personal con funciones administrativas",
+      "Discrecionalidad de los Jefes de Estado Mayor para reducir la periodicidad a anual"
+    ]
+  }
+}

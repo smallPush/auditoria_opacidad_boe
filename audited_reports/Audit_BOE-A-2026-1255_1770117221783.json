@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1255",
+  "timestamp": "2026-02-03T11:13:41.783Z",
+  "title": "Resolución de 14 de enero de 2026, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución presenta una estructura técnica sólida pero adolece de una excesiva discrecionalidad administrativa en su punto primero, apartado A. La capacidad del Director General o Jefes Provinciales para autorizar eventos bajo el paraguas de 'relevancia social o tradicional' es un concepto jurídico indeterminado que permite la arbitrariedad. Asimismo, el acceso a carriles VAO basado en etiquetas ambientales (0, ECO, C, B) perpetúa una segregación por renta: los ciudadanos que no pueden permitirse renovar su vehículo se ven excluidos de vías rápidas, incluso cumpliendo la función de alta ocupación, mientras que el sistema otorga privilegios de movilidad a quienes tienen capacidad de compra de vehículos nuevos.",
+    "resumen_ciudadano": "La DGT establece el calendario de prohibiciones de circulación para camiones de más de 7.500 kg, mercancías peligrosas y vehículos especiales durante 2026. También regula qué vehículos pueden usar los carriles BUS-VAO y cuándo se prohíben las pruebas deportivas para evitar atascos en días clave.",
+    "resumen_tweet": "🚦 La DGT publica las restricciones de tráfico para 2026. Se mantiene la discrecionalidad para eventos 'especiales' y el privilegio de acceso a carriles VAO para coches nuevos. ¿Movilidad para todos o solo para algunos? 🚗💨 #BOE #Opacidad #DGT",
+    "banderas_red_flags": [
+      "Cláusulas de excepcionalidad por 'interés público' sin criterios objetivos",
+      "Sesgo de clase en el uso de infraestructuras públicas (VAO)",
+      "Poder discrecional del Director General de la DGT para alterar restricciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Turistas y conductores de vehículos ligeros en puentes",
+        "Propietarios de vehículos con etiqueta ECO o 0",
+        "Eventos deportivos con 'relevancia social' reconocida discrecionalmente"
+      ],
+      "perdedores": [
+        "Sector logístico y transporte de mercancías",
+        "Trabajadores de rentas bajas con vehículos antiguos (excluidos de carriles VAO)",
+        "Pequeños organizadores de eventos locales sin peso político"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Regulación de Tráfico",
+    "banderas_rojas": [
+      "Cláusulas de excepcionalidad por 'interés público' sin criterios objetivos",
+      "Sesgo de clase en el uso de infraestructuras públicas (VAO)",
+      "Poder discrecional del Director General de la DGT para alterar restricciones"
+    ]
+  }
+}

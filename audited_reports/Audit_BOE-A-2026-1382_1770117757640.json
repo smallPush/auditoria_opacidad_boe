@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1382",
+  "timestamp": "2026-02-03T11:22:37.640Z",
+  "title": "Acuerdo de 23 de diciembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la continuidad en la situación administrativa de servicios especiales en la Carrera Judicial de la Magistrada doña María Luisa Mediavilla Cruz.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento refleja una práctica común que compromete la separación de poderes: la magistrada Mediavilla Cruz mantiene su estatus y antigüedad en la carrera judicial mientras desempeña un cargo político de libre designación en el ejecutivo valenciano. Bajo el amparo de 'servicios especiales', se garantiza un retorno seguro a la judicatura tras ejercer funciones políticas, lo que alimenta la percepción de politización de la justicia y las 'puertas giratorias' dentro de la administración pública.",
+    "resumen_ciudadano": "Se permite que una jueza continúe trabajando en un cargo de alto nivel para el Gobierno de la Comunidad Valenciana sin perder su plaza ni sus beneficios como magistrada. Esto le permite saltar de la justicia a la política y viceversa sin riesgo laboral, una ventaja que el ciudadano común no posee.",
+    "resumen_tweet": "⚖️ ¿Justicia o política? El CGPJ avala que una magistrada siga en el Gobierno Valenciano manteniendo sus privilegios de carrera judicial. La 'puerta giratoria' legal que difumina la separación de poderes. 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Interconexión Poder Judicial-Ejecutivo",
+      "Mantenimiento de privilegios de carrera en cargos políticos",
+      "Opacidad sobre el sueldo total acumulado",
+      "Potencial conflicto de intereses futuro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Luisa Mediavilla Cruz (seguridad laboral)",
+        "Generalitat Valenciana (perfil jurídico técnico)",
+        "Élite burocrática"
+      ],
+      "perdedores": [
+        "Independencia judicial",
+        "Percepción ciudadana de imparcialidad",
+        "Separación estricta de poderes"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Situación Administrativa / Nombramiento",
+    "banderas_rojas": [
+      "Interconexión Poder Judicial-Ejecutivo",
+      "Mantenimiento de privilegios de carrera en cargos políticos",
+      "Opacidad sobre el sueldo total acumulado",
+      "Potencial conflicto de intereses futuro"
+    ]
+  }
+}

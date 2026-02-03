@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1484",
+  "timestamp": "2026-02-03T11:31:06.462Z",
+  "title": "Real Decreto 39/2026, de 21 de enero, sobre limitación de la cuantía inicial de las pensiones públicas y revalorización de las pensiones del sistema de la Seguridad Social, de las pensiones de Clases Pasivas del Estado y de otras prestaciones sociales públicas para el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 39/2026 opera bajo una prórroga presupuestaria, lo que indica una incapacidad política para legislar nuevos presupuestos, recurriendo a la inercia técnica. Aunque se fija una revalorización del 2,7%, el texto revela una ingeniería fiscal compleja: se implementa un incremento acumulativo de 0,115 puntos porcentuales anuales hasta 2050 para la pensión máxima, una carga diferida para futuras generaciones. El uso de remisiones constantes a otros Reales Decretos-leyes (16/2025, 1/2025) crea una 'matrioshka' legislativa que dificulta la fiscalización ciudadana directa sobre el origen de los fondos.",
+    "resumen_ciudadano": "El Gobierno sube las pensiones un 2,7% para 2026 para compensar la inflación. La pensión máxima se fija en 3.359,60€ al mes. Se mantienen las ayudas por brecha de género y prestaciones por discapacidad, pero se advierte que si cobras varias pensiones, la suma no puede superar el límite establecido. La norma se aplica de forma retroactiva desde el 1 de enero.",
+    "resumen_tweet": "🚨 AUDITORÍA BOE: El Gobierno sube las pensiones un 2,7% en 2026 mediante decretazo tras no aprobar presupuestos. 📉 Se detecta opacidad en la gestión de fondos especiales y una carga fiscal diferida hasta 2050. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de prórroga presupuestaria para evitar debate parlamentario",
+      "Opacidad en la cuantía de 'ayudas sociales' a colectivos específicos (VIH, Clases Pasivas)",
+      "Complejidad en el cálculo de concurrencia de pensiones que genera indefensión",
+      "Incrementos porcentuales acumulativos (0,115) con impacto de deuda a largo plazo hasta 2050"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pensionistas actuales (mantenimiento de poder adquisitivo)",
+        "Beneficiarios del complemento por brecha de género",
+        "Huérfanos por violencia de género (revalorización específica)"
+      ],
+      "perdedores": [
+        "Contribuyentes futuros (asumen el incremento acumulativo hasta 2050)",
+        "Trabajadores de rentas altas (su pensión queda topada en 47.034€ anuales a pesar de cotizaciones superiores)",
+        "Ciudadanía (pérdida de control democrático por uso de decretos ante presupuestos prorrogados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Socio-económica / Seguridad Social",
+    "banderas_rojas": [
+      "Uso de prórroga presupuestaria para evitar debate parlamentario",
+      "Opacidad en la cuantía de 'ayudas sociales' a colectivos específicos (VIH, Clases Pasivas)",
+      "Complejidad en el cálculo de concurrencia de pensiones que genera indefensión",
+      "Incrementos porcentuales acumulativos (0,115) con impacto de deuda a largo plazo hasta 2050"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1485",
+  "timestamp": "2026-02-03T11:32:22.023Z",
+  "title": "Corrección de errores del Real Decreto 1120/2025, de 4 de diciembre, por el que se nombran Magistrados y Magistradas a los Jueces y Juezas a quienes corresponde la promoción por el turno de antigüedad.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa el uso recurrente de la 'Corrección de errores' para introducir cláusulas de interinidad que no figuraban en el texto original. El cambio no es una errata tipográfica, sino una precisión jurídica de calado: el nuevo magistrado ocupa la plaza de forma condicionada a que el titular (en 'servicios especiales') no regrese. Los 'servicios especiales' suelen ocultar el paso de jueces a la política o a altos cargos administrativos, manteniendo su plaza blindada, lo que compromete la percepción de independencia judicial.",
+    "resumen_ciudadano": "El CGPJ rectifica el nombramiento de un magistrado en el Juzgado de lo Penal de Teruel. Lo que parecía un ascenso definitivo se aclara ahora como una sustitución mientras el titular real de la plaza desempeña otras funciones fuera de la judicatura. Esto revela cómo se gestionan las plazas judiciales como fichas de ajedrez administrativo.",
+    "resumen_tweet": "🚨 ¿Erratas o parches? El CGPJ usa una 'corrección' para aclarar que una plaza de magistrado en Teruel es temporal mientras el titular sigue en 'servicios especiales'. Menos transparencia y más sillas musicales. ⚖️🚩 #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Uso de fe de erratas para modificar condiciones de titularidad",
+      "Opacidad en el destino de jueces en servicios especiales",
+      "Inestabilidad encubierta en la planta judicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Oswaldo Cañadas Santamaría (mantiene su plaza en reserva mientras ejerce otros cargos)",
+        "David Asensio Jiménez (logra el ascenso de categoría)"
+      ],
+      "perdedores": [
+        "Ciudadanía de Teruel (incertidumbre sobre la estabilidad de su tribunal)",
+        "Transparencia administrativa (uso de mecanismos de corrección para cambios de fondo)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos y Situaciones Jurisdiccionales",
+    "banderas_rojas": [
+      "Uso de fe de erratas para modificar condiciones de titularidad",
+      "Opacidad en el destino de jueces en servicios especiales",
+      "Inestabilidad encubierta en la planta judicial"
+    ]
+  }
+}

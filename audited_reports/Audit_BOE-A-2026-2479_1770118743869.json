@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2479",
+  "timestamp": "2026-02-03T11:39:03.869Z",
+  "title": "Orden PJC/54/2026, de 29 de enero, por la que se resuelve el proceso de selección para la designación de candidaturas al puesto de Fiscal Europeo Delegado, convocado por Orden PJC/1241/2025, de 22 de octubre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La orden resuelve un proceso de designación para puestos de alta relevancia en la Fiscalía Europea (EPPO). Si bien se apoya en un aumento del 56% de la carga de trabajo para justificar los nuevos puestos, el documento adolece de la opacidad típica en nombramientos discrecionales disfrazados de concursos de méritos. La 'propuesta motivada' de la Comisión de selección no es pública, lo que impide verificar si la designación de Ana María Palomar Marcos y Marta Marquina Beltrán responde a criterios técnicos superiores a los de la lista de reserva. La estructura de selección, bajo el paraguas del Ministerio de la Presidencia y Justicia, mantiene el cordón umbilical entre el poder ejecutivo y el judicial en puestos clave para la persecución de delitos financieros que afectan a intereses de la Unión.",
+    "resumen_ciudadano": "El Gobierno ha designado a dos nuevas fiscales para representar a España ante la Fiscalía Europea. El motivo es el fuerte incremento de investigaciones por fraude en el último año. Aunque se menciona un proceso de selección con entrevistas y currículos, los ciudadanos no pueden ver las notas o criterios específicos que hicieron ganadoras a estas candidatas frente a otros aspirantes.",
+    "resumen_tweet": "⚖️ España refuerza la Fiscalía Europea ante el aumento del 56% en investigaciones por fraude. Designadas dos nuevas fiscales delegadas en un proceso donde la 'motivación' de la selección sigue siendo un secreto de pasillo. #BOE #Opacidad #Transparencia 🇪🇺",
+    "banderas_red_flags": [
+      "Ausencia de baremación de méritos detallada",
+      "Comisión de selección vinculada orgánicamente al Secretario de Estado",
+      "Uso de conceptos jurídicos indeterminados para la selección final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Palomar Marcos",
+        "Marta Marquina Beltrán",
+        "Ministerio de Justicia (mantenimiento de influencia en fiscalía estratégica)"
+      ],
+      "perdedores": [
+        "Aspirantes en lista de reserva (Hernández Villalba, García-Berro, Morlanes)",
+        "Transparencia pública (al no publicarse las actas de evaluación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de baremación de méritos detallada",
+      "Comisión de selección vinculada orgánicamente al Secretario de Estado",
+      "Uso de conceptos jurídicos indeterminados para la selección final"
+    ]
+  }
+}

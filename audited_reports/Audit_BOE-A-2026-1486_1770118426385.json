@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-1486",
+  "timestamp": "2026-02-03T11:33:46.385Z",
+  "title": "Resolución de 15 de enero de 2026, del Instituto de Contabilidad y Auditoría de Cuentas, por la que se dispone el cese y nombramiento de vocales titulares y vocal suplente del Comité Consultivo de Contabilidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion refleja el funcionamiento de un organo tecnico de gran influencia en la sombra: el Comite Consultivo de Contabilidad. Aunque el texto es formalmente transparente al citar los nombres, el proceso de seleccion sigue siendo un sistema de cooptacion cerrada entre instituciones (Banco de España y Consejo de Economistas). Se observa una 'promocion interna' de Esther Ortiz Martinez de suplente a titular, lo que garantiza el continuismo. La falta de detalle sobre las dietas o compensaciones por estos cargos en el texto constituye una opacidad economica tipica en nombramientos de asesoramiento tecnico.",
+    "resumen_ciudadano": "Se han renovado los miembros del comite que decide las reglas de como deben presentar sus cuentas las empresas y bancos en España. Este grupo de expertos, aunque tecnico, es vital porque sus interpretaciones influyen en la transparencia financiera y fiscal de las grandes corporaciones. Han entrado representantes del Banco de España y del Consejo General de Economistas, sustituyendo a cargos que llevaban años en el puesto.",
+    "resumen_tweet": "🔄 Baile de sillas en el Comite Consultivo de Contabilidad. El #BOE publica el cese y nombramiento de vocales a propuesta del Banco de España y Economistas. Expertos que deciden como se cuentan los beneficios en España. ¿Tecnocracia o transparencia? #Opacidad",
+    "banderas_red_flags": [
+      "Endogamia institucional en la renovacion de cargos",
+      "Ausencia de criterios publicos de merito para el 'reconocido prestigio'",
+      "Falta de informacion sobre remuneraciones asociadas al cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Luis Ramos Pasarin (Banco de España)",
+        "Esther Ortiz Martinez (Promocion a titular)",
+        "Consejo General de Economistas (mantiene cuota de influencia)"
+      ],
+      "perdedores": [
+        "Ciudadania (por falta de perfiles independientes de la gran banca/auditoria)",
+        "Diversidad de perfiles academicos fuera del circuito tradicional"
+      ]
+    },
+    "comunidad_autonoma": "España",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Endogamia institucional en la renovacion de cargos",
+      "Ausencia de criterios publicos de merito para el 'reconocido prestigio'",
+      "Falta de informacion sobre remuneraciones asociadas al cargo"
+    ]
+  }
+}

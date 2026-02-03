@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1259",
+  "timestamp": "2026-02-03T11:18:44.929Z",
+  "title": "Ley 3/2025, de 22 de diciembre, de medidas extraordinarias para impulsar la provisión estable y permanente de puestos sanitarios de difícil cobertura y garantizar la asistencia sanitaria en el Servicio de Salud de Castilla y León.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Ley utiliza el concepto de 'medical deserts' para justificar medidas de excepcion que alteran los principios de acceso al empleo publico. Bajo la apariencia de mejorar la asistencia rural, se establece un sistema de provision de plazas mas agil pero menos riguroso que el concurso-oposicion tradicional, lo que abre la puerta a la discrecionalidad administrativa. Resulta preocupante que la sostenibilidad del sistema dependa de incentivar a facultativos mayores de 55 anos para que renuncien a su derecho de exencion de guardias y de permitir que farmaceuticos de 70 anos operen sin personal adjunto, lo que podria comprometer la calidad del servicio a largo plazo. No se detallan las partidas presupuestarias especificas para los 'incentivos potentes', lo que constituye un riesgo de gasto fantasma o desviacion de fondos sin control ciudadano directo.",
+    "resumen_ciudadano": "Castilla y Leon crea una via rapida para contratar medicos y enfermeras en zonas rurales con incentivos economicos extra. Tambien permite que los medicos mayores sigan haciendo guardias de forma voluntaria y que las farmacias rurales con dueños de mas de 70 años funcionen con menos personal para evitar su cierre.",
+    "resumen_tweet": "🏥 Castilla y Leon aprueba una ley para cubrir 'desiertos medicos' pero ¡CUIDADO! 🚩 Crea procesos de seleccion 'exprés' saltandose el sistema ordinario. Incentivos opacos y presion a mayores de 55 para cubrir huecos. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Acceso excepcional al empleo publico eludiendo el concurso-oposicion ordinario",
+      "Incentivos economicos sin cuantificacion presupuestaria detallada",
+      "Sostenibilidad del sistema basada en la renuncia a descansos de mayores de 55 años",
+      "Desregulacion de la asistencia farmaceutica en el medio rural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración regional (maquillaje de vacantes)",
+        "Sanitarios que acepten zonas de dificil cobertura (bonos economicos)",
+        "Farmaceuticos rurales mayores de 70 años (reduccion de costes laborales)"
+      ],
+      "perdedores": [
+        "Opositores por via ordinaria (agravio comparativo)",
+        "Personal senior (presion para no dejar las guardias)",
+        "Ciudadanos rurales (parche temporal en lugar de solucion estructural)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Ley de Medidas Sanitarias Extraordinarias",
+    "banderas_rojas": [
+      "Acceso excepcional al empleo publico eludiendo el concurso-oposicion ordinario",
+      "Incentivos economicos sin cuantificacion presupuestaria detallada",
+      "Sostenibilidad del sistema basada en la renuncia a descansos de mayores de 55 años",
+      "Desregulacion de la asistencia farmaceutica en el medio rural"
+    ]
+  }
+}

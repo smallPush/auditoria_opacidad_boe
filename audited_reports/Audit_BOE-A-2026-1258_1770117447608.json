@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1258",
+  "timestamp": "2026-02-03T11:17:27.608Z",
+  "title": "Ley 7/2025, de 5 de enero, de Participación Ciudadana en la Administración de la Comunidad Autónoma de Cantabria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 7/2025 de Cantabria presenta un marco normativo que, bajo una apariencia de apertura democrática, mantiene una estructura de control centralizada. Aunque introduce 'Presupuestos Participativos' (Art. 16), la norma carece de blindaje presupuestario mínimo, delegando la cuantía a la voluntad del gobierno de turno. Se detecta un riesgo de 'Gastos Fantasma' en el despliegue del Portal de Participación y el mantenimiento de las nuevas 'Unidades responsables', cuyos costes operativos no están detallados. La eficacia de los procesos (Art. 11) queda sujeta a criterios de 'viabilidad jurídica y financiera', lo que otorga a la Administración una cláusula de escape para ignorar resultados ciudadanos no deseados. Existe una incongruencia ideológica: se predica la lucha contra la brecha digital, pero se prioriza un modelo de participación virtual (Portal) que favorece a clases urbanas tecnificadas.",
+    "resumen_ciudadano": "Cantabria aprueba una ley para que los ciudadanos propongan políticas y voten presupuestos. Sin embargo, el Gobierno regional se reserva la última palabra sobre qué propuestas se aplican, basándose en criterios económicos y legales propios. Además, se crean nuevos puestos burocráticos y portales web sin aclarar cuánto nos costará su mantenimiento.",
+    "resumen_tweet": "Cantabria lanza su Ley de Participación 🗳️ ¿Democracia real o maquillaje? Presupuestos sin cuantía blindada y un portal digital que olvida la brecha rural profunda. ¡Ojo al control administrativo sobre el voto ciudadano! 🧐🚫 #BOE #Opacidad #Cantabria",
+    "banderas_red_flags": [
+      "Ambigüedad en la financiación de presupuestos participativos",
+      "Falta de memoria económica para las Unidades de Participación",
+      "Potestad administrativa para invalidar procesos por 'viabilidad'",
+      "Excesiva dependencia de la vía digital en zonas rurales con brecha tecnológica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consultoras tecnológicas (desarrollo del portal)",
+        "Altos cargos de la nueva estructura directiva",
+        "Sociedad civil organizada con recursos técnicos"
+      ],
+      "perdedores": [
+        "Población rural con brecha digital",
+        "Ciudadanos sin tiempo para procesos deliberativos complejos",
+        "Colectivos vulnerables sin asesoramiento técnico para realizar propuestas"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Ley de Participación Ciudadana",
+    "banderas_rojas": [
+      "Ambigüedad en la financiación de presupuestos participativos",
+      "Falta de memoria económica para las Unidades de Participación",
+      "Potestad administrativa para invalidar procesos por 'viabilidad'",
+      "Excesiva dependencia de la vía digital en zonas rurales con brecha tecnológica"
+    ]
+  }
+}

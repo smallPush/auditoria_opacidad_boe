@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1380",
+  "timestamp": "2026-02-03T11:20:18.062Z",
+  "title": "Resolución de 15 de enero de 2026, de la Secretaría de Estado de Educación, por la que se regula el proceso de admisión de alumnos y alumnas en centros docentes públicos y privados concertados que imparten el segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria y bachillerato en las ciudades de Ceuta y Melilla, para el curso 2026-2027.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "La resolucion se presenta como un instrumento de equidad bajo la LOMLOE, pero mantiene mecanismos de gestion que perpetuan la opacidad administrativa. El uso de un sorteo de letras para el desempate es un metodo aleatorio que elude una baremacion socioeconomica mas profunda en territorios con altas tasas de exclusion como Ceuta y Melilla. Ademas, aunque menciona la lucha contra la segregacion, no detalla la dotacion presupuestaria especifica para los recursos de apoyo educativo, dejando la 'inclusion' como una obligacion administrativa sin respaldo financiero visible en el texto.",
+    "resumen_ciudadano": "Se establecen las reglas para solicitar plaza en colegios e institutos de Ceuta y Melilla para el proximo curso. Se prioriza la continuidad en el centro y se reservan plazas para alumnos con necesidades especiales. Los desempates se resolveran mediante un sorteo de letras del apellido si persisten las igualdades tras aplicar los puntos por proximidad o hermanos.",
+    "resumen_tweet": "🏫 Publicada la admision escolar en Ceuta y Melilla 2026-27. Se mantiene el sorteo de letras para desempates, un sistema que ignora la realidad social. ¿Equidad real o simple burocracia? ⚖️📉 #BOE #Opacidad #Educacion #Ceuta #Melilla",
+    "banderas_red_flags": [
+      "Arbitrariedad en el desempate por sorteo alfabetico",
+      "Ausencia de memoria economica para la inclusion educativa",
+      "Posible sesgo digital en el acceso a la informacion y tramitacion",
+      "Ambiguedad en los criterios de 'distribucion equilibrada' de alumnado vulnerable"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros concertados (garantizan su oferta con fondos publicos)",
+        "Familias con alta alfabetizacion digital y administrativa"
+      ],
+      "perdedores": [
+        "Alumnado en situaciones de extrema vulnerabilidad sin soporte para tramitacion",
+        "Familias en zonas de alta densidad con menor capacidad de eleccion real"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla",
+    "tipologia": "Resolucion de Escolarizacion",
+    "banderas_rojas": [
+      "Arbitrariedad en el desempate por sorteo alfabetico",
+      "Ausencia de memoria economica para la inclusion educativa",
+      "Posible sesgo digital en el acceso a la informacion y tramitacion",
+      "Ambiguedad en los criterios de 'distribucion equilibrada' de alumnado vulnerable"
+    ]
+  }
+}

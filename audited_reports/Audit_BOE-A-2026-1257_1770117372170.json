@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-1257",
+  "timestamp": "2026-02-03T11:16:12.170Z",
+  "title": "Ley 7/2025, de 23 de diciembre, por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma de Euskadi para el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Los presupuestos de Euskadi para 2026 presentan una estructura financiera de alto volumen con un gasto de 17.313 millones de euros. Se detecta una fuerte dependencia del endeudamiento (1.445 millones) y una masiva asignación a instrumentos financieros y avales que superan los 1.000 millones de euros, lo cual puede derivar en 'gastos fantasma' si no se fiscaliza el destino final de los reafianzamientos. Resulta incongruente el peso de la industria del armamento como materia legislada frente a los modestos presupuestos de institutos de igualdad (Emakunde: 8,2M) o memoria (Gogora: 5,2M).",
+    "resumen_ciudadano": "El Gobierno Vasco aprueba gastar más de 17.000 millones en 2026. La mayor parte va a Sanidad (Osakidetza: 4.276M) y Empleo (Lanbide: 1.204M). Sin embargo, se autoriza un aumento de deuda de 1.445 millones y se destinan enormes sumas a la gestión financiera y ferroviaria, mientras que las políticas de género y derechos humanos reciben partidas comparativamente ínfimas.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: Euskadi gastará 17.313M€ en 2026. 🏥 Osakidetza lidera, pero ojo al endeudamiento de 1.445M€ y los 1.000M€ en avales financieros. ¿Prioridades? Emakunde recibe 500 veces menos que el Instituto de Finanzas. 📉 #Transparencia #Euskadi",
+    "banderas_red_flags": [
+      "Incremento de deuda neta de 1.445 millones de euros",
+      "Materia de 'Industria de armamento' incluida en presupuestos civiles",
+      "Desequilibrio extremo entre presupuesto financiero y presupuesto de igualdad",
+      "Compromisos futuros de 1.389 millones en Red Ferroviaria sin desglose de proyectos",
+      "Uso de remanentes de tesorería por 82 millones para cuadrar balance"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector financiero (Instituto Vasco de Finanzas con 1.038M)",
+        "Infraestructuras ferroviarias (1.389M en compromisos)",
+        "Ciberseguridad y desarrollo empresarial"
+      ],
+      "perdedores": [
+        "Políticas de igualdad (Emakunde con solo el 0.04% del presupuesto total)",
+        "Víctimas y Memoria (Gogora)",
+        "Ciudadanía futura cargada con 1.4B más de deuda"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Presupuestos Generales",
+    "banderas_rojas": [
+      "Incremento de deuda neta de 1.445 millones de euros",
+      "Materia de 'Industria de armamento' incluida en presupuestos civiles",
+      "Desequilibrio extremo entre presupuesto financiero y presupuesto de igualdad",
+      "Compromisos futuros de 1.389 millones en Red Ferroviaria sin desglose de proyectos",
+      "Uso de remanentes de tesorería por 82 millones para cuadrar balance"
+    ]
+  }
+}

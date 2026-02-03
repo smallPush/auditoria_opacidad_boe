@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2478",
+  "timestamp": "2026-02-03T11:37:50.627Z",
+  "title": "Resolución de 26 de enero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 24 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'libre designación', un sistema legal que permite el nombramiento discrecional (a dedo) de funcionarios para puestos clave, eludiendo el concurso de méritos abierto. No se detallan las retribuciones adicionales, dietas de residencia o complementos de destino por peligrosidad o coste de vida, que en ciudades como Luanda o Ryad suelen elevar significativamente el coste para el erario público. Se observa un patrón donde los puestos de mayor rango administrativo (Canciller, Nivel 22) son asignados a varones que 'descienden' de nivel (del 26 al 22), lo cual sugiere una estrategia de posicionamiento en el extranjero con beneficios no salariales ocultos o futuras consolidaciones de grado.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha adjudicado seis puestos de trabajo en embajadas y consulados extranjeros mediante el sistema de libre designación. Los destinos incluyen Manila, Bogotá, Mumbai, Luanda, Abu Dhabi y Ryad. Este proceso permite a la administración elegir directamente a los ocupantes sin un proceso de oposición tradicional para estos puestos específicos, ocultando tras la burocracia los costes reales de desplazamiento y mantenimiento de este personal en el exterior.",
+    "resumen_tweet": "🌍 Nuevos puestos 'a dedo' en el @MAECgob. Destinos en Manila, Bogotá y Ryad asignados por libre designación. ¿Cuánto nos cuestan realmente sus pluses de destino? La transparencia en el servicio exterior sigue bajo mínimos. 🕵️‍♂️🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Opacidad en complementos salariales por destino",
+      "Adjudicación de puesto desde excedencia voluntaria",
+      "Posible sesgo de género en puestos de mayor jerarquía"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del servicio exterior",
+        "Candidatos seleccionados discrecionalmente",
+        "Personal en excedencia que recupera servicio activo en el extranjero"
+      ],
+      "perdedores": [
+        "Funcionarios sin conexiones políticas o de confianza",
+        "Contribuyentes (falta de control sobre el gasto de personal en el exterior)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Exterior",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Opacidad en complementos salariales por destino",
+      "Adjudicación de puesto desde excedencia voluntaria",
+      "Posible sesgo de género en puestos de mayor jerarquía"
+    ]
+  }
+}

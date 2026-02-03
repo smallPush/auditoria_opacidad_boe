@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2476",
+  "timestamp": "2026-02-03T11:35:23.333Z",
+  "title": "Orden TED/53/2026, de 27 de enero, por la que se actualizan los parámetros retributivos de las instalaciones tipo aplicables a determinadas instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, a efectos de su aplicación al periodo regulatorio que tiene su inicio el 1 de enero de 2026, y se aprueban nuevas instalaciones tipo y sus correspondientes parámetros retributivos.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La Orden TED/53/2026 es un ejemplo de hiper-regulación técnica que blinda la rentabilidad del sector energético bajo un lenguaje críptico. Al citar más de 20 órdenes previas, crea una barrera de entrada al conocimiento ciudadano. Se mantiene una 'rentabilidad razonable' del 7,398% para instalaciones antiguas, una cifra que parece desconectada del riesgo real de mercado actual, actuando como un seguro de beneficio para el oligopolio. Además, la creación de 'nuevas instalaciones tipo' para ajustar desviaciones de precios introduce una discrecionalidad técnica difícil de auditar por observadores externos.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los pagos que recibirán las plantas de energías renovables y cogeneración para el periodo 2026-2031. Básicamente, se asegura que estas empresas sigan ganando entre un 7,09% y un 7,39% de rentabilidad ajustando sus ingresos según lo que se espera que cueste la luz en el mercado. El documento es extremadamente complejo y técnico, lo que dificulta saber si el cálculo favorece en exceso a las eléctricas frente al consumidor.",
+    "resumen_tweet": "📢 ¿Entiendes tu factura? Difícil con la nueva Orden TED/53/2026. Un laberinto técnico que asegura beneficios del 7,4% a grandes energéticas hasta 2031. Menos transparencia, más complejidad burocrática. 💸 #BOE #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Complejidad recursiva: Referencia a más de 15 normas previas para entender una sola cifra.",
+      "Rentabilidad garantizada: Blindaje de beneficios por encima del 7% sin riesgo empresarial claro.",
+      "Instalaciones fantasma: Reconocimiento de categorías para subastas que nunca se celebraron.",
+      "Opacidad en flujos de caja: Parámetros de biomasa definidos por resoluciones no vinculadas directamente en el texto principal."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones energéticas con instalaciones previas a 2013",
+        "Productores de biomasa y cogeneración con costes variables protegidos",
+        "Consultoras regulatorias especializadas en el sector eléctrico"
+      ],
+      "perdedores": [
+        "Consumidor final (riesgo de traslado de costes regulados a la tarifa)",
+        "Pequeños inversores en renovables sin capacidad de gestión administrativa compleja",
+        "Transparencia pública debido a la ininteligibilidad del texto"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Económica y Sectorial",
+    "banderas_rojas": [
+      "Complejidad recursiva: Referencia a más de 15 normas previas para entender una sola cifra.",
+      "Rentabilidad garantizada: Blindaje de beneficios por encima del 7% sin riesgo empresarial claro.",
+      "Instalaciones fantasma: Reconocimiento de categorías para subastas que nunca se celebraron.",
+      "Opacidad en flujos de caja: Parámetros de biomasa definidos por resoluciones no vinculadas directamente en el texto principal."
+    ]
+  }
+}

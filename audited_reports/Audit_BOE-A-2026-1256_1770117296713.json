@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1256",
+  "timestamp": "2026-02-03T11:14:56.713Z",
+  "title": "Ley 6/2025, de 11 de diciembre, de Medidas Urgentes en materia de Vivienda, Suelo y Urbanismo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 6/2025 busca agilizar la producción de vivienda mediante la creación del 'Proyecto de Actuación Prioritaria', un mecanismo que permite saltarse instrumentos urbanísticos intermedios bajo el pretexto de urgencia. Se detecta una 'Incongruencia Ideológica' al reducirse la reserva mínima de vivienda de protección pública (VPO) en suelo urbanizable del 75% al 60% en ciertos casos, favoreciendo la viabilidad económica del promotor privado sobre el derecho social declarado. Además, la centralización del suelo mediante la cesión automatizada de plusvalías al Gobierno Vasco drena autonomía a los municipios. Existe un riesgo de opacidad en la ejecución de la 'reserva estratégica de suelo' al no detallarse mecanismos de control ciudadano sobre su gestión final.",
+    "resumen_ciudadano": "Esta ley introduce medidas de choque para acelerar la construcción en el País Vasco. Crea procesos rápidos para edificar, permite usar suelos destinados a equipamientos para alojamientos temporales y obliga a los ayuntamientos a ceder terrenos de plusvalías directamente al Gobierno Vasco. Aunque busca bajar precios, reduce las exigencias de vivienda protegida en nuevos desarrollos y simplifica trámites administrativos que antes servían de control ambiental y vecinal.",
+    "resumen_tweet": "🚨 #BOE: Euskadi acelera la construcción pero reduce la protección. Se baja la reserva de VPO del 75% al 60% en nuevos suelos y se centraliza el control del suelo municipal. ¿Rapidez o pérdida de control ciudadano? 🏗️📉 #Vivienda #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reducción del estándar de VPO del 75% al 60%",
+      "Procedimiento abreviado que elimina instrumentos urbanísticos intermedios",
+      "Cesión automatizada de plusvalías municipales al poder regional",
+      "Uso de suelos dotacionales para vivienda sin modificar el planeamiento general"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Promotoras inmobiliarias (menos burocracia y menores cuotas de protección)",
+        "Gobierno Vasco (mayor acumulación de suelo estratégico)",
+        "Sector turístico (se clarifica el régimen sancionador pero se abre la puerta a ajustes de uso)"
+      ],
+      "perdedores": [
+        "Ayuntamientos (pierden gestión de sus plusvalías de suelo)",
+        "Ciudadanos con rentas muy bajas (reducción del porcentaje total de reserva social)",
+        "Plataformas vecinales (menores plazos de exposición pública y alegaciones)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Ley de Vivienda y Urbanismo",
+    "banderas_rojas": [
+      "Reducción del estándar de VPO del 75% al 60%",
+      "Procedimiento abreviado que elimina instrumentos urbanísticos intermedios",
+      "Cesión automatizada de plusvalías municipales al poder regional",
+      "Uso de suelos dotacionales para vivienda sin modificar el planeamiento general"
+    ]
+  }
+}

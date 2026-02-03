@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1483",
+  "timestamp": "2026-02-03T11:24:05.561Z",
+  "title": "Real Decreto 38/2026, de 21 de enero, por el que se desarrollan medidas de coordinación instrumental para la prevención, vigilancia y extinción de los incendios forestales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 38/2026 busca resolver el caos de coordinación en incendios forestales mediante la estandarización técnica (radios, mapas, EPIs). Sin embargo, bajo un lenguaje de 'eficiencia' y 'seguridad', se detecta una centralización operativa que desplaza los costes de implementación hacia las Comunidades Autónomas. Existe una omisión flagrante sobre la financiación de estas 'medidas de coordinación instrumental'. Aunque se mencionan condiciones mínimas de seguridad, el texto ignora la precariedad laboral sistémica de los brigadistas y bomberos forestales, centrándose más en el 'indicativo de radio' que en la estabilidad de los equipos humanos. El sistema de prefijos para radio es un parche técnico ante la incapacidad de crear un mando único nacional verdaderamente integrado.",
+    "resumen_ciudadano": "El Gobierno establece normas comunes para que todos los servicios de extinción de incendios de España usen los mismos códigos de radio, mapas y equipos de protección. El objetivo es que, cuando una región ayude a otra, hablen el mismo idioma técnico para evitar accidentes. Se crean categorías oficiales para las unidades de bomberos y se dan dos años para profesionalizar la figura del coordinador de medios aéreos.",
+    "resumen_tweet": "🔥 El #BOE publica nuevas normas para incendios: ¡mismos mapas y radios para todos! Pero ojo: mucha 'coordinación' y poca mención a quién paga la cuenta o cómo se acaba con la precariedad de los brigadistas. 🚒💨 #Opacidad #Transparencia #IncendiosForestales",
+    "banderas_red_flags": [
+      "Desplazamiento de costes a las CCAA sin memoria financiera detallada",
+      "Falta de mención a la gestión de empresas privadas subcontratadas en la extinción",
+      "Ambigüedad en la financiación de los nuevos Equipos de Protección Individual (EPI)",
+      "Habilitación excesiva al Ministerio para modificar anexos técnicos mediante orden ministerial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Central (mayor control normativo)",
+        "Proveedores de tecnología y EPIs (nuevos estándares obligatorios)",
+        "Mandos intermedios (estandarización de protocolos)"
+      ],
+      "perdedores": [
+        "Presupuestos autonómicos (asunción de costes de re-etiquetado y equipamiento)",
+        "Brigadistas forestales (se ignoran sus demandas laborales estructurales)",
+        "Personal veterano (necesidad de desaprender códigos locales por el sistema de prefijos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multirregional",
+    "tipologia": "Real Decreto de Coordinación de Emergencias",
+    "banderas_rojas": [
+      "Desplazamiento de costes a las CCAA sin memoria financiera detallada",
+      "Falta de mención a la gestión de empresas privadas subcontratadas en la extinción",
+      "Ambigüedad en la financiación de los nuevos Equipos de Protección Individual (EPI)",
+      "Habilitación excesiva al Ministerio para modificar anexos técnicos mediante orden ministerial"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2477",
+  "timestamp": "2026-02-03T11:36:36.291Z",
+  "title": "Acuerdo de 28 de enero de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 21 de octubre de 2025, de la Comisión Permanente, en el Centro de Documentación Judicial.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se formaliza el nombramiento de la Jefatura de Informática del CENDOJ mediante un concurso de méritos interno. Destaca el salto funcional de la adjudicataria, quien proviene de Relaciones Externas en la Escuela Judicial para asumir un área técnica crítica. El uso de la figura de 'servicios especiales' garantiza el blindaje de la plaza de origen de la funcionaria, una práctica común en la alta administración que reduce la movilidad real y el acceso de talento externo especializado.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a Patricia Moragues Escrivá como nueva Jefa de Informática del Centro de Documentación Judicial. El cargo tiene una duración inicial de dos años, con posibilidad de extenderse hasta diez. La seleccionada ya pertenecía a la estructura del CGPJ, lo que indica una promoción interna dentro de la escala técnica superior de organismos públicos.",
+    "resumen_tweet": "⚖️ El CGPJ mueve sus fichas: Patricia Moragues pasa de Relaciones Externas a Jefa de Informática en el CENDOJ. Un cargo clave que se queda 'en casa' mediante concurso de méritos. ¿Especialización técnica o confianza institucional? 💻🔄 #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Discrepancia entre perfil previo (Relaciones Externas) y nuevo cargo (Informática)",
+      "Nombramiento de larga duración (hasta 10 años) mediante sistema de prórrogas",
+      "Opacidad en la comparativa de méritos frente a otros posibles candidatos",
+      "Uso de servicios especiales para blindar estatus funcionarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Patricia Moragues Escrivá",
+        "Endogamia administrativa del CGPJ"
+      ],
+      "perdedores": [
+        "Expertos informáticos externos",
+        "Transparencia en la selección de perfiles técnicos específicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Discrepancia entre perfil previo (Relaciones Externas) y nuevo cargo (Informática)",
+      "Nombramiento de larga duración (hasta 10 años) mediante sistema de prórrogas",
+      "Opacidad en la comparativa de méritos frente a otros posibles candidatos",
+      "Uso de servicios especiales para blindar estatus funcionarial"
+    ]
+  }
+}
