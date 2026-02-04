@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1555",
+  "timestamp": "2026-02-04T15:33:52.180Z",
+  "title": "Adenda n.º 3 al Convenio de 20 de diciembre de 2022, para la explotación y mantenimiento de la sección internacional de una línea ferroviaria de alta velocidad entre Figueres y Perpiñán, hecho en Madrid y París el 26 de noviembre, 3 y 5 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante un caso de manual de 'socialización de pérdidas'. Tras la quiebra de la concesionaria privada TP Ferro, los Estados español y francés asumieron la infraestructura a través de la sociedad LFP. Esta Adenda n.º 3 es el tercer 'parche' financiero en apenas tres años, lo que evidencia una planificación presupuestaria deficiente y una dependencia absoluta del erario público para sostener un trazado que no es rentable. Se justifica el aumento de gasto por 'acontecimientos exógenos' (huelgas y falta de trenes de RENFE), pero no se detalla cómo se gestionarán estos fondos exactamente, más allá de cubrir el déficit de explotación de la propia sociedad pública gestionada por ADIF y SNCF.",
+    "resumen_ciudadano": "España y Francia vuelven a inyectar dinero público para cubrir las pérdidas de la línea ferroviaria de alta velocidad Figueres-Perpiñán. Se han presupuestado 11,1 millones de euros adicionales por parte de España para compensar la caída de ingresos por huelgas en Francia y problemas operativos de RENFE. Básicamente, el Estado paga el déficit de una infraestructura que fue rescatada tras quebrar en manos privadas.",
+    "resumen_tweet": "🚨 ¡Nuevo rescate encubierto! 🚅 España inyecta 11,1M€ para tapar el agujero de la línea Figueres-Perpiñán. Es la 3ª modificación para cubrir pérdidas de una concesión fallida. ¿Dinero público al túnel sin fondo? #BOE #Opacidad #Transparencia 💸",
+    "banderas_red_flags": [
+      "Frecuencia inusual de adendas (3 en menos de 3 años)",
+      "Rescate encubierto de infraestructuras deficitarias",
+      "Previsiones de ingresos sistemáticamente erróneas",
+      "Falta de detalle en el destino de las partidas de gasto corriente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Línea Figueras Perpignan, SA (recibe liquidez directa)",
+        "ADIF y SNCF Réseau (externalizan el riesgo financiero a los presupuestos estatales)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen 11,1 millones de euros por un déficit operativo)",
+        "Usuarios del transporte ferroviario (sufren la inestabilidad del servicio mencionada en el texto)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Acuerdo Internacional / Gestión Presupuestaria",
+    "banderas_rojas": [
+      "Frecuencia inusual de adendas (3 en menos de 3 años)",
+      "Rescate encubierto de infraestructuras deficitarias",
+      "Previsiones de ingresos sistemáticamente erróneas",
+      "Falta de detalle en el destino de las partidas de gasto corriente"
+    ]
+  }
+}

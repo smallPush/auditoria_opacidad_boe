@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1559",
+  "timestamp": "2026-02-04T15:40:10.418Z",
+  "title": "Real Decreto 44/2026, de 20 de enero, por el que se dispone el cese de doña Pilar Sánchez Núñez como Consejera de la Comisión Nacional de los Mercados y la Competencia.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una opacidad procedimental típica al cesar a una alta funcionaria de la CNMC sin especificar la causa técnica o administrativa (fin de mandato, renuncia o remoción). Al ser la CNMC el principal organismo regulador de mercados y competencia, la falta de una nota explicativa o balance de gestión genera incertidumbre sobre la independencia del regulador frente al Ministerio de Economía.",
+    "resumen_ciudadano": "Se formaliza la salida de Pilar Sánchez Núñez de su puesto como Consejera en la Comisión Nacional de los Mercados y la Competencia (CNMC). Este organismo es el 'árbitro' que evita abusos de empresas en sectores como luz, telefonía o transporte. Su salida deja una vacante de alto nivel en un ente que debería ser independiente del Gobierno.",
+    "resumen_tweet": "🔴 Cese en la CNMC: Sale Pilar Sánchez Núñez como consejera. Un organismo clave para vigilar precios y competencia se queda con una silla vacía sin explicar los motivos del relevo. ¿Quién ocupará su lugar? 🧐 #BOE #Opacidad #Transparencia #CNMC",
+    "banderas_red_flags": [
+      "Falta de motivación del cese",
+      "Potencial interinidad en un órgano regulador crítico",
+      "Uso de fórmulas de cortesía que ocultan la causa real de la salida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poder Ejecutivo (capacidad de proponer un nuevo perfil)",
+        "Grandes corporaciones (la rotación en el regulador puede ralentizar procesos de vigilancia)"
+      ],
+      "perdedores": [
+        "Consumidores (inestabilidad en la supervisión de mercados)",
+        "Transparencia democrática (ausencia de rendición de cuentas sobre la gestión saliente)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Falta de motivación del cese",
+      "Potencial interinidad en un órgano regulador crítico",
+      "Uso de fórmulas de cortesía que ocultan la causa real de la salida"
+    ]
+  }
+}

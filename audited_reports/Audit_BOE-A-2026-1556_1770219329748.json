@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1556",
+  "timestamp": "2026-02-04T15:35:29.748Z",
+  "title": "Real Decreto 40/2026, de 21 de enero, por el que se crea la Agregaduría de Interior en la Misión Diplomática Permanente de España en el Estado de Qatar.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 40/2026 utiliza una técnica de 'ingeniería presupuestaria' clásica en el Artículo 3, alegando que la creación de una oficina física en una de las capitales más caras del mundo (Doha) no supondrá incremento de gasto, lo cual es técnicamente inverosímil sin detraer recursos de otras partidas de seguridad ciudadana. La norma justifica la expansión policial basándose en la inercia del Mundial de Fútbol 2022 y el papel mediador de Qatar en Gaza, argumentos geopolíticos que sirven de 'paraguas' para aumentar la burocracia en el exterior. Existe una opacidad estructural al no definir la Relación de Puestos de Trabajo (RPT) ni el coste real de los complementos de destino por extranjería.",
+    "resumen_ciudadano": "El Gobierno crea una nueva oficina del Ministerio del Interior en Qatar para reforzar la cooperación policial. A pesar de abrir una delegación permanente en el extranjero, aseguran que no costará dinero extra porque se pagará con 'créditos existentes', ocultando el coste real de los salarios y el mantenimiento que saldrá del bolsillo del contribuyente.",
+    "resumen_tweet": "🚩 El Gobierno abre oficina policial en Qatar 🇶🇦. Dice que el coste es CERO (Art. 3) usando 'créditos existentes'. ¿De dónde sale realmente el dinero? 🕵️‍♂️ Más burocracia exterior sin transparencia en sueldos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Artículo 3: Cláusula de gasto fantasma (reubicación de créditos sin cuantificar)",
+      "Falta de detalle en la estructura de personal (RPT diferida)",
+      "Dependencia administrativa anómala de la Consejería en Pakistán",
+      "Justificación basada en eventos pasados (Mundial 2022) para gastos permanentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de las Fuerzas y Cuerpos de Seguridad (nuevos puestos diplomáticos)",
+        "Estado de Qatar (legitimación y cercanía operativa con cuerpos españoles)",
+        "Ministerio del Interior (expansión de influencia exterior)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de estructuras opacas)",
+        "Transparencia pública (imposibilidad de fiscalizar el coste real por plaza)",
+        "Seguridad nacional operativa (detracción de recursos de otras partidas presupuestarias)"
+      ]
+    },
+    "comunidad_autonoma": "No aplica (Acción Exterior)",
+    "tipologia": "Reestructuración Orgánica Exterior",
+    "banderas_rojas": [
+      "Artículo 3: Cláusula de gasto fantasma (reubicación de créditos sin cuantificar)",
+      "Falta de detalle en la estructura de personal (RPT diferida)",
+      "Dependencia administrativa anómala de la Consejería en Pakistán",
+      "Justificación basada en eventos pasados (Mundial 2022) para gastos permanentes"
+    ]
+  }
+}

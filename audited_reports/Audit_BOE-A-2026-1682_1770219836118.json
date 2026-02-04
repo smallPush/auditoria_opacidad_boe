@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1682",
+  "timestamp": "2026-02-04T15:43:56.118Z",
+  "title": "Ley 4/2025, de 15 de diciembre, de incremento del importe de las plazas y del Servicio de Atención Temprana en los conciertos sociales y convenios de los sectores de personas mayores y personas con discapacidad.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Ley 4/2025 de la Región de Murcia aplica un incremento lineal del 6% a los importes percibidos por entidades gestoras de conciertos sociales y convenios. Aunque se justifica bajo el paraguas de la 'calidad', el texto incurre en opacidad presupuestaria al no desglosar el impacto económico total en las arcas públicas ni especificar si este aumento debe repercutir en las condiciones laborales de los trabajadores o exclusivamente en el margen de beneficio de las entidades gestoras. La retroactividad al 1 de enero de 2025 sugiere una urgencia financiera para compensar a los prestadores de servicios por encima de una planificación estratégica de los derechos de los usuarios.",
+    "resumen_ciudadano": "El Gobierno de Murcia ha aprobado una subida del 6% en el dinero que paga a empresas y asociaciones que gestionan residencias de mayores, centros de discapacidad y atención temprana. Este aumento de dinero público se aplica con carácter retroactivo desde principios de 2025, beneficiando directamente a las entidades que tienen conciertos con la administración, sin detallar cuánto dinero total supondrá esta medida para el contribuyente.",
+    "resumen_tweet": "🚨 Murcia sube un 6% el pago a empresas de residencias y atención temprana. Dinero público directo a conciertos sociales de forma retroactiva y sin cifras totales. ¿Mejora la atención o solo los beneficios? #BOE #Opacidad #Transparencia 💸📉",
+    "banderas_red_flags": [
+      "Retroactividad económica (enero 2025)",
+      "Ausencia de memoria económica con cifras absolutas",
+      "Incremento porcentual ciego sin auditoría de costes reales",
+      "Falta de condicionalidad en la mejora de salarios del personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades privadas y ONGs gestoras de conciertos sociales",
+        "Ayuntamientos con convenios de atención social",
+        "Gestoras de centros de día y atención temprana"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de desglose de gasto total)",
+        "Trabajadores del sector (no se garantiza repercusión salarial del 6%)",
+        "Usuarios (no se especifican mejoras concretas en la prestación del servicio)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Legislación de Servicios Sociales / Financiación de Conciertos",
+    "banderas_rojas": [
+      "Retroactividad económica (enero 2025)",
+      "Ausencia de memoria económica con cifras absolutas",
+      "Incremento porcentual ciego sin auditoría de costes reales",
+      "Falta de condicionalidad en la mejora de salarios del personal"
+    ]
+  }
+}
