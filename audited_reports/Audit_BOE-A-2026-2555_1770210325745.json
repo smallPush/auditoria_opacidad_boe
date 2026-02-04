@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2555",
+  "timestamp": "2026-02-04T13:05:25.745Z",
+  "title": "Real Decreto 55/2026, de 3 de febrero, por el que se aprueba el Programa anual 2026 del Plan Estadístico Nacional 2025-2028.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 55/2026 profundiza en la digitalización de la vigilancia estadística mediante el uso de 'Big Data', 'fuentes privadas de datos' y 'machine learning'. Bajo un lenguaje de 'eficiencia' y 'modernización', se oculta la falta de control ciudadano sobre los algoritmos que procesarán esta información. Los 'gastos fantasma' se camuflan en el Capítulo 6 de inversiones, donde se autorizan créditos para 'nuevos desarrollos' sin un desglose pormenorizado de proveedores tecnológicos. Existe una incongruencia ideológica: se habla de reducir cargas administrativas mientras se mantiene la obligatoriedad estricta de entrega de datos, reforzando el poder del Estado sobre la privacidad individual.",
+    "resumen_ciudadano": "Este decreto aprueba la hoja de ruta para la recogida de datos oficiales en 2026. El Estado integrará información de empresas privadas y registros digitales para vigilar la economía y el padrón. Aunque prometen transparencia, el uso de inteligencia artificial para analizar a los ciudadanos se hará sin supervisión pública directa y con presupuestos genéricos.",
+    "resumen_tweet": "📊 El Gobierno aprueba el Plan Estadístico 2026. Más Big Data, Machine Learning y rastreo digital, pero poca claridad en el coste de los 'Nuevos Desarrollos'. ¿Eficiencia o vigilancia masiva? 🕵️‍♂️💸 #BOE #Opacidad #Transparencia #Privacidad",
+    "banderas_red_flags": [
+      "Uso de fuentes de datos privadas sin protocolos de anonimización auditables",
+      "Inversiones opacas en el Capítulo 6 para 'modernización tecnológica'",
+      "Inclusión automática de normas de la UE sin debate soberano previo",
+      "Obligatoriedad de respuesta bajo amenaza de sanción administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas (beneficiadas por la nueva División del INE)",
+        "Consultoras tecnológicas de datos",
+        "Administración Central (mayor control social)"
+      ],
+      "perdedores": [
+        "Ciudadanos (pérdida de privacidad por Padrón online)",
+        "Autónomos y PYMES (carga de respuesta obligatoria)",
+        "Soberanía de datos frente a mandatos de la UE"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Planificación Estadística y Presupuestaria",
+    "banderas_rojas": [
+      "Uso de fuentes de datos privadas sin protocolos de anonimización auditables",
+      "Inversiones opacas en el Capítulo 6 para 'modernización tecnológica'",
+      "Inclusión automática de normas de la UE sin debate soberano previo",
+      "Obligatoriedad de respuesta bajo amenaza de sanción administrativa"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2548",
+  "timestamp": "2026-02-04T12:53:52.486Z",
+  "title": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El RDL 3/2026 se presenta como una medida de 'urgencia social' tras el fracaso legislativo del RDL 16/2025. Aunque la revalorización del 2,7% es transparente, el texto camufla una 'patada adelante' financiera en su disposición adicional segunda, aplazando 10 años el pago de préstamos vencidos de la Seguridad Social, lo que oculta un déficit estructural bajo la apariencia de gestión técnica. Asimismo, la eliminación de la obligación de declarar IRPF para desempleados se vende como reducción de carga administrativa, pero reduce la trazabilidad fiscal de estas rentas, facilitando una potencial opacidad en el control de subsidios.",
+    "resumen_ciudadano": "El Gobierno aprueba por decreto la subida de pensiones del 2,7% para 2026 ante la falta de presupuestos. La norma también ajusta las bases de cotización, mantiene la cuota de solidaridad y permite que médicos jubilados sigan trabajando en atención primaria. Lo más polémico es el aplazamiento por 10 años de las deudas de la Seguridad Social y la exención de presentar el IRPF para quienes cobran el paro, simplificando trámites pero relajando el control tributario.",
+    "resumen_tweet": "🚨 El Gobierno sube pensiones un 2,7% por Decreto tras el caos presupuestario. Pero ¡ojo! 👁️ se aplaza 10 años la deuda de la Seg. Social y se elimina el control fiscal (IRPF) en el subsidio por desempleo. ¿Parche o transparencia? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Aplazamiento de deuda de la Seguridad Social a 10 años (Gastos Fantasma)",
+      "Eliminación de obligación de declaración IRPF para beneficiarios de desempleo (Opacidad Fiscal)",
+      "Abuso de la figura del Real Decreto-ley por incapacidad de consenso presupuestario",
+      "Uso de anexos complejos para fijar haberes reguladores fuera del cuerpo principal de la ley"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pensionistas (incremento del 2,7% garantizado)",
+        "Médicos de familia y pediatras (pueden cobrar pensión y sueldo)",
+        "Entidades gestoras (reducción de carga administrativa inmediata)"
+      ],
+      "perdedores": [
+        "Generaciones futuras (heredan la deuda de la Seguridad Social prorrogada)",
+        "Trabajadores de rentas altas (cuota adicional de solidaridad)",
+        "Contribuyentes (menor control fiscal sobre las prestaciones de desempleo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de medidas urgentes",
+    "banderas_rojas": [
+      "Aplazamiento de deuda de la Seguridad Social a 10 años (Gastos Fantasma)",
+      "Eliminación de obligación de declaración IRPF para beneficiarios de desempleo (Opacidad Fiscal)",
+      "Abuso de la figura del Real Decreto-ley por incapacidad de consenso presupuestario",
+      "Uso de anexos complejos para fijar haberes reguladores fuera del cuerpo principal de la ley"
+    ]
+  }
+}

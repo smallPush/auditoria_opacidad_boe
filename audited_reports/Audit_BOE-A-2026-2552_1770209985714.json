@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2552",
+  "timestamp": "2026-02-04T12:59:45.714Z",
+  "title": "Acta de la XI Reunión de la Comisión Mixta Hispano-Colombiana de Cooperación por la que se aprueba el Marco de Asociación País España-Colombia 2025-2030, hecha en Madrid el 18 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo presenta una estructura de cooperacion clasica bajo el lenguaje de la Agenda 2030. Destaca la clausula de no compromiso financiero lo que convierte los 167 millones de euros en una cifra meramente orientativa y volatil. Se observa un conflicto institucional con la Iglesia (Arquidiocesis de Cartagena) que amenaza la continuidad de infraestructuras educativas clave. El enfoque feminista y de paz es central pero la mencion a agilizar procesos de subvencion podria diluir controles de fiscalizacion previa.",
+    "resumen_ciudadano": "España y Colombia acuerdan un plan de cooperacion de 167 millones de euros para el periodo 2025-2029 enfocado en paz, genero y cambio climatico. No obstante, el texto aclara que estas cifras no obligan legalmente al desembolso por parte de España. Existe un riesgo real de cierre del Centro de Formacion de Cartagena de Indias por falta de acuerdo con la Iglesia local.",
+    "resumen_tweet": "🚨 ¿167M€ para Colombia? El nuevo Marco de Asociacion 2025-2030 suena bien, pero ¡ojo! 👁️ el BOE admite que NO supone compromiso financiero real. Mucha Agenda 2030 pero el centro de formación clave peligra. #BOE #Opacidad #Transparencia #Cooperacion 🇪🇸🇨🇴",
+    "banderas_red_flags": [
+      "Presupuesto de 167M sin obligacion juridica de desembolso",
+      "Riesgo de clausura de activos por vencimiento de comodato en 2027",
+      "Ambigüedad en la agilizacion de tramites de subvenciones publicas",
+      "Uso de lenguaje administrativo para ocultar falta de vinculacion financiera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "ONGD españolas acreditadas en el exterior",
+        "Agencias de cooperacion descentralizada",
+        "Instituciones estatales colombianas (PDET)"
+      ],
+      "perdedores": [
+        "Contribuyente español por falta de compromiso de retorno o control",
+        "Usuarios del Centro de Formacion de Cartagena de Indias",
+        "Poblacion rural con expectativas de ayuda no vinculante"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional de Cooperacion",
+    "banderas_rojas": [
+      "Presupuesto de 167M sin obligacion juridica de desembolso",
+      "Riesgo de clausura de activos por vencimiento de comodato en 2027",
+      "Ambigüedad en la agilizacion de tramites de subvenciones publicas",
+      "Uso de lenguaje administrativo para ocultar falta de vinculacion financiera"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2550",
+  "timestamp": "2026-02-04T12:56:34.277Z",
+  "title": "Recurso de inconstitucionalidad n.º 7696-2025, contra el artículo único de la Ley 3/2025, de 25 de julio, de modificación de la Ley 11/2003, de 4 de abril, sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias, en lo referido al apartado cuatro, en cuanto modifica los arts. 3.c) y 3.d) de la Ley 11/2003 y añade un nuevo art. 3.k) a dicha ley; el apartado cinco, en cuanto añade un nuevo art. 3 ter.k) a la Ley 11/2003; el apartado seis, en cuanto modifica el art. 4.1.h) de la Ley 11/2003; y el apartado veinticuatro, en cuanto añade una nueva disposición adicional tercera a la Ley 11/2003.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La providencia admite un recurso del Defensor del Pueblo contra la reforma de la Ley de Universidades de Canarias. El conflicto se centra en los Consejos Sociales, los organos que supervisan la gestion economica y estrategica. La intervencion del Defensor del Pueblo sugiere que la reforma podria vulnerar la autonomia universitaria o la libertad democratica en estos centros. La opacidad reside en que el BOE se limita a enumerar articulos modificados sin explicar que derechos fundamentales se estan viendo amenazados por el Gobierno de Canarias.",
+    "resumen_ciudadano": "El Defensor del Pueblo ha solicitado al Tribunal Constitucional que anule partes de la nueva ley de universidades de Canarias. El problema esta en quien controla los Consejos Sociales de las universidades, que son los que deciden sobre el dinero y la organizacion. Es una señal de alarma sobre posibles intentos de control politico excesivo sobre la educacion superior.",
+    "resumen_tweet": "⚠️ El Defensor del Pueblo impugna la reforma universitaria en Canarias ante el TC. Peligra la autonomia de las facultades frente al control politico de sus fondos y gestion. 🏛️📉 #BOE #Opacidad #Transparencia #Canarias #Universidades",
+    "banderas_red_flags": [
+      "Control politico de organos de supervision economica",
+      "Conflicto competencial grave",
+      "Modificacion de estructuras de gobernanza sin consenso",
+      "Vulneracion potencial de autonomia universitaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Defensor del Pueblo (al paralizar cautelarmente la implementacion total)",
+        "Comunidad Universitaria (proteccion de su autonomia)"
+      ],
+      "perdedores": [
+        "Gobierno de Canarias (ley cuestionada legalmente)",
+        "Ciudadania (incertidumbre sobre el modelo educativo regional)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Recurso de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Control politico de organos de supervision economica",
+      "Conflicto competencial grave",
+      "Modificacion de estructuras de gobernanza sin consenso",
+      "Vulneracion potencial de autonomia universitaria"
+    ]
+  }
+}

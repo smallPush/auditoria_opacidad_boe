@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2547",
+  "timestamp": "2026-02-04T12:52:40.010Z",
+  "title": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso recurrente de la figura del Real Decreto-ley en 2026 citando aún la invasión de Ucrania (2022) como motivo de 'urgencia' sugiere una normalización de la excepcionalidad democrática. La estructura 'ómnibus' que mezcla desahucios, IVA, IRPF y financiación autonómica impide un escrutinio claro de cada medida, diluyendo la responsabilidad política tras un escudo de ayuda social.",
+    "resumen_ciudadano": "El Gobierno prorroga las medidas contra desahucios y vulnerabilidad, pero aprovecha para retocar de forma compleja el Impuesto de Sociedades y el sistema de reparto de dinero a las Comunidades Autónomas. Es una mezcla de protección social real con ingeniería fiscal técnica difícil de seguir para el ciudadano de a pie.",
+    "resumen_tweet": "🚨 ¿Urgencia o costumbre? El RDL 2/2026 usa la crisis de 2022 para legislar en 2026 sin pasar por el Congreso. Se mezcla escudo social con ingeniería fiscal y financiación regional. Menos debate, más opacidad. 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Justificación de urgencia basada en hechos de hace 4 años",
+      "Legislación ómnibus: mezcla de materias inconexas para facilitar su aprobación",
+      "Modificaciones técnicas profundas en Impuesto de Sociedades ocultas bajo 'vulnerabilidad'",
+      "Falta de memoria económica detallada en el preámbulo sobre el impacto de la financiación territorial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobiernos autonómicos (nuevos recursos de financiación)",
+        "Inquilinos vulnerables (prórroga de moratorias)",
+        "Sector energético (mantenimiento de regímenes retributivos específicos)"
+      ],
+      "perdedores": [
+        "Pequeños propietarios (incertidumbre por prórroga de medidas de vivienda)",
+        "Transparencia institucional (por eludir el debate parlamentario ordinario)",
+        "Grandes empresas (afectadas por cambios en el Impuesto de Sociedades)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con impacto específico en Comunidad Valenciana y sistemas de financiación autonómica)",
+    "tipologia": "Real Decreto-ley de Medidas Urgentes (Multisectorial)",
+    "banderas_rojas": [
+      "Justificación de urgencia basada en hechos de hace 4 años",
+      "Legislación ómnibus: mezcla de materias inconexas para facilitar su aprobación",
+      "Modificaciones técnicas profundas en Impuesto de Sociedades ocultas bajo 'vulnerabilidad'",
+      "Falta de memoria económica detallada en el preámbulo sobre el impacto de la financiación territorial"
+    ]
+  }
+}

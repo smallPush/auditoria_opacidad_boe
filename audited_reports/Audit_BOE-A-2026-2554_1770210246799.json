@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2554",
+  "timestamp": "2026-02-04T13:04:06.799Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Dirección General de Política Energética y Minas, por la que se aprueban los precios de referencia para calcular el valor de la extracción de gas, petróleo y condensados correspondientes al año 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución técnica fija los precios de referencia para el Impuesto sobre el Valor de la Extracción de Hidrocarburos del año anterior (2025). Aunque los precios son explícitos, existe una opacidad intrínseca en cómo estos valores de mercado (Brent, MIBGAS) se traducen en una 'reversión de riqueza a la sociedad', ya que el beneficio para el ciudadano común es indirecto y diluido en las arcas del Estado, mientras que los pagos directos benefician mayoritariamente a grandes propietarios de terrenos suprayacentes.",
+    "resumen_ciudadano": "El Gobierno ha publicado los precios oficiales del petróleo, gas y otros derivados para calcular los impuestos que deben pagar las empresas extractoras por su actividad en 2025. Estos precios también sirven para determinar cuánto dinero deben recibir los dueños de los terrenos donde se encuentran los pozos de extracción.",
+    "resumen_tweet": "🛢️ ¿Transición o recaudación? El #BOE fija los precios para el impuesto a la extracción de hidrocarburos de 2025. Se habla de 'revertir riqueza', pero el beneficio para el ciudadano es invisible frente al de los terratenientes. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Determinación de precios a año vencido",
+      "Falta de detalle sobre el volumen total extraído",
+      "Ambigüedad en el impacto social de la recaudación",
+      "Vinculación de recursos nacionales a índices internacionales (Brent)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Propietarios de terrenos suprayacentes",
+        "Estado (recaudación tributaria)",
+        "Empresas extractoras (certidumbre fiscal retrospectiva)"
+      ],
+      "perdedores": [
+        "Consumidores finales (sin impacto en facturas)",
+        "Medio ambiente (incentivo a la industria extractiva fósil)",
+        "Clases bajas (nulo retorno directo de la riqueza del subsuelo)"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Fiscalidad Energética",
+    "banderas_rojas": [
+      "Determinación de precios a año vencido",
+      "Falta de detalle sobre el volumen total extraído",
+      "Ambigüedad en el impacto social de la recaudación",
+      "Vinculación de recursos nacionales a índices internacionales (Brent)"
+    ]
+  }
+}

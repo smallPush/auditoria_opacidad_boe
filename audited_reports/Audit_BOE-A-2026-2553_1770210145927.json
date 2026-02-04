@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-2553",
+  "timestamp": "2026-02-04T13:02:25.927Z",
+  "title": "Real Decreto 65/2026, de 3 de febrero, por el que se aprueba el Estatuto de la Agencia Estatal de Evaluación de Políticas Públicas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 65/2026 formaliza la creación de una nueva Agencia Estatal para cumplir con los hitos del Plan de Recuperación (Hito 149). Aunque se presenta como una herramienta de modernización y eficiencia, se observa una paradoja: se crea un ente para evaluar la transparencia bajo la tutela directa del Ministerio de Economía, lo que genera dudas sobre su independencia real. Destaca la 'Disposición transitoria segunda', que permite el uso de servicios comunes y presupuestos prorrogados, dificultando el rastreo inicial de costes operativos reales. El mandato del Director se extiende hasta 7 años en su fase inicial, un periodo inusualmente largo que podría blindar cargos frente a cambios de gobierno.",
+    "resumen_ciudadano": "El Gobierno transforma el antiguo Instituto de Evaluación en una Agencia Estatal con mayor autonomía aparente para auditar si las políticas públicas funcionan. Se hace para cumplir con las exigencias de la Unión Europea y recibir fondos Next Generation, integrando a todo el personal anterior y creando nuevos órganos de control interno.",
+    "resumen_tweet": "🕵️‍♂️ ¿Evaluación real o más burocracia? Nace la nueva Agencia Estatal de Evaluación de Políticas Públicas. Bajo control de Economía y con mandatos blindados de hasta 7 años. ¿Garantizará transparencia o es solo un trámite por los fondos #NextGenEU? 📉 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Prórroga discrecional de 2 años adicional al mandato inicial de 5 años para la Dirección",
+      "Régimen presupuestario transitorio que permite opacidad en el gasto inicial",
+      "Dependencia jerárquica de un Ministerio político para evaluar políticas técnicas",
+      "Nombramiento de 'expertos independientes' con mandatos escalonados decididos por sorteo o voluntad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Economía (gana control sobre la evaluación estatal)",
+        "Personal del antiguo Instituto (subrogación y blindaje de condiciones)",
+        "Altos cargos (nuevas estructuras de mando y dietas en el Consejo Rector)"
+      ],
+      "perdedores": [
+        "Contribuyentes (nueva capa administrativa sin ahorro de costes demostrado)",
+        "Independencia técnica (riesgo de evaluaciones complacientes al depender del Ejecutivo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Organización Administrativa y Transparencia",
+    "banderas_rojas": [
+      "Prórroga discrecional de 2 años adicional al mandato inicial de 5 años para la Dirección",
+      "Régimen presupuestario transitorio que permite opacidad en el gasto inicial",
+      "Dependencia jerárquica de un Ministerio político para evaluar políticas técnicas",
+      "Nombramiento de 'expertos independientes' con mandatos escalonados decididos por sorteo o voluntad"
+    ]
+  }
+}
