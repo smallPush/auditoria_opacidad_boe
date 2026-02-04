@@ -5,8 +5,8 @@ import { translations, Language } from "../translations";
 
 let isApiBlocked = false;
 
-const validateApiKey = (lang: Language) => {
-  const apiKey = process.env.GEMINI_API_KEY || process.env.API_KEY;
+const validateApiKey = (lang: Language, userApiKey?: string) => {
+  const apiKey = userApiKey || process.env.GEMINI_API_KEY || process.env.API_KEY;
   if (!apiKey || apiKey === 'undefined' || apiKey === 'null' || apiKey.length < 15) {
     throw new Error(translations[lang].apiKeyError);
   }
@@ -14,9 +14,9 @@ const validateApiKey = (lang: Language) => {
 };
 
 // Audits a BOE law XML content using Gemini 3 Flash.
-export const analyzeBOE = async (xmlContent: string, lang: Language = 'es'): Promise<BOEAuditResponse> => {
-  const apiKey = validateApiKey(lang);
-  if (isApiBlocked) throw new Error("API calls are blocked due to a previous error.");
+export const analyzeBOE = async (xmlContent: string, lang: Language = 'es', userApiKey?: string): Promise<BOEAuditResponse> => {
+  const apiKey = validateApiKey(lang, userApiKey);
+  if (isApiBlocked && !userApiKey) throw new Error("API calls are blocked due to a previous error.");
   
   try {
     const ai = new GoogleGenAI({ apiKey });

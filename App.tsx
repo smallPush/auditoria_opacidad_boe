@@ -26,8 +26,12 @@ const App: React.FC = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
     return localStorage.getItem('boe_agent_session') === 'active';
   });
+  const [userApiKey, setUserApiKey] = useState(() => {
+    return localStorage.getItem('boe_user_api_key') || '';
+  });
   const [showLogin, setShowLogin] = useState(false);
   const [password, setPassword] = useState('');
+  const [tempApiKey, setTempApiKey] = useState('');
   const [loginError, setLoginError] = useState(false);
   const [searchId, setSearchId] = useState('');
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
@@ -168,9 +172,19 @@ const App: React.FC = () => {
     }
   };
 
+  const handleApiKeySubmit = () => {
+    if (tempApiKey.length >= 15) {
+      setUserApiKey(tempApiKey);
+      localStorage.setItem('boe_user_api_key', tempApiKey);
+      setShowLogin(false);
+    }
+  };
+
   const handleLogout = () => {
     setIsLoggedIn(false);
+    setUserApiKey('');
     localStorage.removeItem('boe_agent_session');
+    localStorage.removeItem('boe_user_api_key');
     resetState();
   };
 
@@ -186,7 +200,7 @@ const App: React.FC = () => {
       return;
     }
 
-    if (!isLoggedIn) {
+    if (!isLoggedIn && !userApiKey) {
       setShowLogin(true);
       return;
     }
@@ -209,7 +223,7 @@ const App: React.FC = () => {
         xmlText = `<boe><diario id="BOE-S-2024"><titulo>BOE</titulo><item id="${boeId}"><titulo>${docTitle}</titulo><texto>Contenido simulado para auditoría...</texto></item></diario></boe>`;
       }
 
-      const audit = await analyzeBOE(xmlText, lang);
+      const audit = await analyzeBOE(xmlText, lang, userApiKey);
       await saveAuditToDB(boeId, docTitle, audit);
       await loadHistory();
 
@@ -286,32 +300,64 @@ const App: React.FC = () => {
 
         <div className="space-y-4">
           {requiredPassword && (
-            <div className="relative group">
-              <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
-                <KeyRound size={18} />
+            <div className="space-y-4">
+              <div className="relative group">
+                <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
+                  <KeyRound size={18} />
+                </div>
+                <input
+                  type="password"
+                  placeholder={t.passwordPlaceholder}
+                  value={password}
+                  onChange={(e) => setPassword(e.target.value)}
+                  onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
+                  className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
+                  autoFocus
+                />
+                {loginError && (
+                  <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
+                )}
               </div>
-              <input
-                type="password"
-                placeholder={t.passwordPlaceholder}
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
-                className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
-                autoFocus
-              />
-              {loginError && (
-                <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
-              )}
+              <button
+                onClick={handleLogin}
+                className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
+              >
+                <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
+                {t.loginBtn}
+              </button>
             </div>
           )}
 
-          <button
-            onClick={handleLogin}
-            className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
-          >
-            <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
-            {t.loginBtn}
-          </button>
+          <div className="relative py-4 flex items-center gap-4">
+            <div className="flex-1 h-px bg-slate-800"></div>
+            <span className="text-slate-600 text-xs font-bold uppercase tracking-widest">{t.orEnterApiKey}</span>
+            <div className="flex-1 h-px bg-slate-800"></div>
+          </div>
+
+          <div className="space-y-4">
+            <div className="relative group">
+              <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-emerald-400 transition-colors">
+                <Database size={18} />
+              </div>
+              <input
+                type="text"
+                placeholder={t.apiKeyPlaceholder}
+                value={tempApiKey}
+                onChange={(e) => setTempApiKey(e.target.value)}
+                onKeyDown={(e) => e.key === 'Enter' && handleApiKeySubmit()}
+                className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-emerald-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
+              />
+            </div>
+            <p className="text-[10px] text-slate-500 text-left px-2">{t.apiKeyNote}</p>
+            <button
+              onClick={handleApiKeySubmit}
+              disabled={tempApiKey.length < 15}
+              className="w-full bg-emerald-600/10 hover:bg-emerald-600 text-emerald-500 hover:text-white border border-emerald-600/20 py-4 rounded-2xl font-bold text-lg transition-all active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 group"
+            >
+              <Zap size={18} className="group-hover:scale-110 transition-transform" />
+              {t.useApiKeyBtn}
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -326,6 +372,7 @@ const App: React.FC = () => {
         lang={lang}
         toggleLang={toggleLang}
         isLoggedIn={isLoggedIn}
+        userApiKey={userApiKey}
         handleLogout={handleLogout}
         setShowLogin={setShowLogin}
         t={t}
@@ -353,36 +400,34 @@ const App: React.FC = () => {
               />
 
               {/* SECTION 1: SEARCH / HERO (Full Width) */}
-              {isLoggedIn && (
-                <section className="w-full max-w-4xl mx-auto">
-                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
-                                          <div className="text-center space-y-4">
-                                            <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
-                                              <Search size={32} />
-                                            </div>
-                                            <h3 className="text-2xl font-bold text-white tracking-tight">{t.smartSearchTitle}</h3>
-                                            <p className="text-slate-500 text-sm max-w-xs mx-auto">{t.smartSearchSubtitle}</p>
+              <section className="w-full max-w-4xl mx-auto">
+                <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
+                                        <div className="text-center space-y-4">
+                                          <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                                            <Search size={32} />
                                           </div>
-                    <div className="flex flex-col gap-3">
-                      <input
-                        type="text"
-                        placeholder={t.searchPlaceholder}
-                        className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
-                        value={searchId}
-                        onChange={(e) => setSearchId(e.target.value)}
-                        onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
-                      />
-                      <button
-                        onClick={() => handleAudit(searchId)}
-                        disabled={!searchId}
-                        className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
-                      >
-                        {t.analyzeBtn}
-                      </button>
-                    </div>
+                                          <h3 className="text-2xl font-bold text-white tracking-tight">{t.smartSearchTitle}</h3>
+                                          <p className="text-slate-500 text-sm max-w-xs mx-auto">{t.smartSearchSubtitle}</p>
+                                        </div>
+                  <div className="flex flex-col gap-3">
+                    <input
+                      type="text"
+                      placeholder={t.searchPlaceholder}
+                      className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
+                      value={searchId}
+                      onChange={(e) => setSearchId(e.target.value)}
+                      onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
+                    />
+                    <button
+                      onClick={() => handleAudit(searchId)}
+                      disabled={!searchId}
+                      className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
+                    >
+                      {t.analyzeBtn}
+                    </button>
                   </div>
-                </section>
-              )}
+                </div>
+              </section>
 
               {/* SECTION 2: CONTENT GRID */}
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
@@ -491,15 +536,13 @@ const App: React.FC = () => {
                               >
                                 {art.id} <ExternalLink size={10} />
                               </a>
-                              {(isLoggedIn || audited) && (
-                                <Link
-                                  to={`/audit/${art.id}`}
-                                  className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
-                                >
-                                  <Zap size={10} />
-                                  {audited ? t.goToAudit : t.auditWithGemini}
-                                </Link>
-                              )}
+                              <Link
+                                to={`/audit/${art.id}`}
+                                className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
+                              >
+                                <Zap size={10} />
+                                {audited ? t.goToAudit : t.auditWithGemini}
+                              </Link>
                             </div>
                           </div>
                         );

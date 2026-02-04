@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2579",
+  "timestamp": "2026-02-04T18:26:52.574Z",
+  "title": "Resolución de 21 de enero de 2026, del Ayuntamiento de Madrid, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución se ampara en la legalidad administrativa pero fomenta la endogamia institucional. Al tratarse de una convocatoria exclusivamente de promoción interna mediante concurso-oposición, se limita el acceso al talento externo y se prioriza la antigüedad y la permanencia sobre la excelencia competitiva. La opacidad reside en la remisión a un boletín municipal (BOAM) para conocer las bases reales, obligando al ciudadano a un rastreo documental adicional que dificulta la fiscalización inmediata de los criterios de baremación.",
+    "resumen_ciudadano": "El Ayuntamiento de Madrid ha convocado 10 plazas de alto nivel para archivos, bibliotecas y museos. Sin embargo, estas plazas no están abiertas al público general, sino reservadas únicamente para empleados que ya forman parte de la plantilla municipal. El ciudadano común queda excluido de este proceso de ascenso profesional financiado con fondos públicos.",
+    "resumen_tweet": "🏛️ ¿Talento nuevo? No hoy. El Ayto. de Madrid convoca 10 plazas de Técnicos de Museos solo para quienes YA están dentro. La promoción interna exclusiva limita la renovación y bloquea a opositores libres. #BOE #Opacidad #Transparencia #Madrid 📜🚫",
+    "banderas_red_flags": [
+      "Reserva total a promoción interna",
+      "Falta de desglose de costes del proceso",
+      "Uso del concurso-oposición que permite alta subjetividad en la fase de concurso",
+      "Fragmentación informativa al remitir a otro diario oficial (BOAM)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ayuntamiento de Madrid",
+        "Sindicatos con acuerdos de promoción interna",
+        "Estructuras administrativas consolidadas"
+      ],
+      "perdedores": [
+        "Licenciados y graduados externos en paro o precariedad",
+        "Talento joven sin acceso a la administración",
+        "Contribuyentes que financian procesos sin competencia abierta"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Administrativa y Empleo Público",
+    "banderas_rojas": [
+      "Reserva total a promoción interna",
+      "Falta de desglose de costes del proceso",
+      "Uso del concurso-oposición que permite alta subjetividad en la fase de concurso",
+      "Fragmentación informativa al remitir a otro diario oficial (BOAM)"
+    ]
+  }
+}

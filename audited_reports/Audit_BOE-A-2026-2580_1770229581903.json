@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2580",
+  "timestamp": "2026-02-04T18:26:21.903Z",
+  "title": "Resolución de 22 de enero de 2026, del Ayuntamiento de Esparreguera (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para todas las plazas, un modelo que permite puntuar la experiencia previa (méritos) por encima del examen puro, lo cual suele beneficiar a personal interino ya presente en la administración. Destaca una plaza de promoción interna para sistemas de información, un nicho habitual para la consolidación de personal específico sin competencia externa. La opacidad reside en la remisión a boletines provinciales para conocer las bases detalladas, dificultando el escrutinio directo desde el BOE.",
+    "resumen_ciudadano": "El Ayuntamiento de Esparreguera convoca 5 plazas: una de técnico informático (solo para empleados actuales), tres de trabajador social y una de maestro. El proceso incluye valoración de méritos, no solo examen.",
+    "resumen_tweet": "🧐 ¡Ojo a las plazas en Esparreguera! 5 puestos bajo el modelo de concurso-oposición. La promoción interna en sistemas y el acceso libre en servicios sociales bajo méritos marcan la agenda. ¿Mérito o consolidación? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistemático de concurso-oposición frente a oposición libre",
+      "Promoción interna en áreas técnicas específicas",
+      "Fragmentación de la información entre BOE, DOGC y BOPB"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del ayuntamiento",
+        "Empleados públicos en promoción interna",
+        "Opositores con experiencia previa en la administración"
+      ],
+      "perdedores": [
+        "Nuevos graduados sin experiencia administrativa",
+        "Candidatos del sector privado",
+        "Defensores de la meritocracia pura (oposición libre)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Uso sistemático de concurso-oposición frente a oposición libre",
+      "Promoción interna en áreas técnicas específicas",
+      "Fragmentación de la información entre BOE, DOGC y BOPB"
+    ]
+  }
+}

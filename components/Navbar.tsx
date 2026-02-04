@@ -8,6 +8,7 @@ interface NavbarProps {
     lang: Language;
     toggleLang: () => void;
     isLoggedIn: boolean;
+    userApiKey?: string;
     handleLogout: () => void;
     setShowLogin: (show: boolean) => void;
     t: any;
@@ -19,6 +20,7 @@ const Navbar: React.FC<NavbarProps> = ({
     lang,
     toggleLang,
     isLoggedIn,
+    userApiKey,
     handleLogout,
     setShowLogin,
     t,
@@ -86,7 +88,14 @@ const Navbar: React.FC<NavbarProps> = ({
                             <Globe size={18} />
                         </button>
 
-                        {isLoggedIn ? (
+                        {userApiKey && !isLoggedIn && (
+                            <div className="bg-emerald-900/20 border border-emerald-900/30 px-3 py-2 rounded-xl flex items-center gap-2 text-[10px] font-bold text-emerald-400">
+                                <Box size={14} />
+                                <span>CUSTOM API KEY</span>
+                            </div>
+                        )}
+
+                        {isLoggedIn || userApiKey ? (
                             <button
                                 onClick={handleLogout}
                                 className="bg-red-900/10 border border-red-900/30 px-4 py-2 rounded-xl flex items-center gap-2 hover:bg-red-900/20 transition-all text-sm font-bold text-red-400"
@@ -150,8 +159,15 @@ const Navbar: React.FC<NavbarProps> = ({
                             {t.networkMenuMobile}
                         </button>
 
-                        <div className="pt-4 border-t border-slate-800/50">
-                            {isLoggedIn ? (
+                        <div className="pt-4 border-t border-slate-800/50 space-y-3">
+                            {userApiKey && !isLoggedIn && (
+                                <div className="w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 text-emerald-400 bg-emerald-900/10 border border-emerald-900/20">
+                                    <Box size={20} />
+                                    <span>CUSTOM API KEY ACTIVE</span>
+                                </div>
+                            )}
+
+                            {isLoggedIn || userApiKey ? (
                                 <button
                                     onClick={() => { handleLogout(); setIsMenuOpen(false); }}
                                     className="w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 text-red-400 bg-red-900/10"
