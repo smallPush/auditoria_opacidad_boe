@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1763",
+  "timestamp": "2026-02-06T19:21:12.991Z",
+  "title": "Acuerdo de 12 de enero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de excedencia voluntaria en la Carrera Judicial a la Magistrada doña Tomasa Hernández Martín.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento formaliza el paso de la magistrada Tomasa Hernández Martín de la judicatura a la arena política de Aragón. Aunque se cumple estrictamente la legalidad (Art. 356.f LOPJ), este acto subraya la porosidad de la separación de poderes en España. El uso de la 'excedencia voluntaria' permite a miembros del poder judicial participar activamente en listas electorales, manteniendo su estatus administrativo garantizado, lo que alimenta el debate sobre la imparcialidad y la independencia judicial tras su posible retorno.",
+    "resumen_ciudadano": "La Comisión Permanente del CGPJ autoriza a la magistrada Tomasa Hernández Martín a dejar su puesto judicial para presentarse como candidata en las próximas elecciones a las Cortes de Aragón. Esta excedencia suspende sus funciones como juez mientras compite por un cargo político.",
+    "resumen_tweet": "⚖️➡️🗳️ Magistrada de la carrera judicial deja el mazo por las listas electorales en Aragón. El #BOE publica su excedencia voluntaria para entrar en política. ¿Puertas giratorias o derecho legítimo? #Opacidad #Transparencia #IndependenciaJudicial",
+    "banderas_red_flags": [
+      "Puertas giratorias justicia-política",
+      "Posible erosión de la apariencia de imparcialidad judicial",
+      "Garantía de retorno al puesto tras actividad política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tomasa Hernández Martín (mantiene reserva de carrera)",
+        "Partido político receptor del perfil técnico/judicial"
+      ],
+      "perdedores": [
+        "Ciudadanía (percepción de politización de la justicia)",
+        "Sistema judicial (pérdida temporal de un efectivo especializado)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Situaciones Administrativas",
+    "banderas_rojas": [
+      "Puertas giratorias justicia-política",
+      "Posible erosión de la apariencia de imparcialidad judicial",
+      "Garantía de retorno al puesto tras actividad política"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1681",
+  "timestamp": "2026-02-06T19:15:14.465Z",
+  "title": "Orden INT/25/2026, de 19 de enero, por la que se regula la habilitación de instructor de tiro del personal de seguridad privada.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "La Orden INT/25/2026 formaliza una estructura de habilitacion que centraliza el poder de certificacion en la Guardia Civil (SEPROSE). Aunque se invoca la Ley 39/2015 de transparencia, el texto incurre en una opacidad operativa significativa al delegar la definicion de criterios de valoracion del profesorado a una Comision que los establecera 'oportunamente', lo que genera inseguridad juridica y espacio para la discrecionalidad administrativa. No existe una memoria economica que detalle el impacto de las tasas o el coste de supervision estatal.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los requisitos para ser instructor de tiro en seguridad privada. Ahora es obligatorio realizar un curso previo de 50 horas en centros autorizados y superar pruebas de la Guardia Civil. Esta norma afecta especialmente a los guardas rurales, quienes ahora estan obligados a contratar instructores externos si no pertenecen a una empresa, aumentando sus costes operativos.",
+    "resumen_tweet": "🎯 Nueva traba burocratica en el #BOE: El Ministerio del Interior endurece la habilitacion de instructores de tiro. Mas control estatal y costes para el trabajador, pero sin rastro de presupuesto claro. 🚩 ¿Transparencia o negocio? #Opacidad #Seguridad",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica detallada",
+      "Criterios de evaluacion del profesorado no definidos (discrecionalidad)",
+      "Externalizacion de costes de formacion hacia el trabajador",
+      "Ambigüedad en la duracion de la validez de la habilitacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros de formacion privada (nuevo nicho de mercado)",
+        "Direccion General de la Guardia Civil (aumento de control centralizado)",
+        "Grandes empresas de seguridad con recursos para formar instructores propios"
+      ],
+      "perdedores": [
+        "Guardas rurales (nuevos costes de contratacion externa)",
+        "Aspirantes individuales (barreras economicas y formativas de 50 horas)",
+        "Contribuyentes (opacidad en el uso de recursos publicos para la Comision de Valoracion)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Regulacion Profesional",
+    "banderas_rojas": [
+      "Ausencia de memoria economica detallada",
+      "Criterios de evaluacion del profesorado no definidos (discrecionalidad)",
+      "Externalizacion de costes de formacion hacia el trabajador",
+      "Ambigüedad en la duracion de la validez de la habilitacion"
+    ]
+  }
+}

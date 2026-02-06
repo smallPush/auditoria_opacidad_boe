@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2076",
+  "timestamp": "2026-02-06T20:44:09.294Z",
+  "title": "Orden EFD/42/2026, de 22 de enero, por la que, a propuesta de la Consejería de Educación de la Comunidad Autónoma de Castilla y León, en ejecución de sentencia, se nombra funcionario de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria a don Jesús Piñuela Martín.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento refleja una patología recurrente en la Administración Pública: la resolución de procesos selectivos mediante vía judicial. Aunque el nombramiento es explícito, la opacidad reside en el proceso previo que forzó al aspirante a litigar desde 2020. Existe un 'gasto fantasma' implícito derivado de las costas judiciales y el abono de atrasos con efectos retroactivos desde el 1 de enero de 2022, lo que supone una carga presupuestaria no planificada originalmente por un error administrativo en la baremación o exclusión inicial.",
+    "resumen_ciudadano": "Tras seis años de litigio, el Ministerio de Educación se ve obligado por el Tribunal Superior de Justicia a nombrar catedrático a un docente en Castilla y León. El proceso, que comenzó en 2020, demuestra la lentitud y los fallos en la gestión de recursos humanos de la comunidad autónoma, que solo rectifica bajo mandato judicial.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 6 años de espera! Un docente logra su plaza de Catedrático en Castilla y León solo tras ganar en los tribunales. La administración rectifica forzada por el TSJ. ¿Coste para el ciudadano? Atrasos desde 2022. #BOE #Opacidad #CastillaYLeón",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Efectos económicos retroactivos de larga duración (4 años)",
+      "Dilación excesiva en la resolución de procesos selectivos (2020-2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesús Piñuela Martín (recupera su derecho de carrera)",
+        "Servicios jurídicos privados"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de atrasos y posibles intereses)",
+        "Eficiencia administrativa de la Junta de Castilla y León"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Efectos económicos retroactivos de larga duración (4 años)",
+      "Dilación excesiva en la resolución de procesos selectivos (2020-2026)"
+    ]
+  }
+}

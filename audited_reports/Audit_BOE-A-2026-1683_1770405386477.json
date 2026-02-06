@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-1683",
+  "timestamp": "2026-02-06T19:16:26.477Z",
+  "title": "Decreto-ley 7/2025, de 3 de diciembre, del Gobierno de Aragón, de medidas para la prevención y lucha contra la peste porcina africana en jabalí en Aragón.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El decreto-ley utiliza la 'extraordinaria y urgente necesidad' para eludir el debate parlamentario y flexibilizar protecciones medioambientales previas. Bajo la premisa de proteger la industria cárnica (el lobby porcino), se legalizan métodos de caza antes prohibidos (visores térmicos y redes masivas) y se habilita la entrada en terrenos privados sin permiso del titular. Existe opacidad en la cuantía de las 'ayudas económicas' mencionadas, que se tramitarán por vía de urgencia, lo que reduce la fiscalización previa del gasto público destinado a cazadores y empresas de recogida.",
+    "resumen_ciudadano": "Aragón aprueba medidas de choque contra la peste porcina: se autoriza el uso de visores térmicos para cazadores, trampas de red tipo nasa y se crean subvenciones directas para fomentar la matanza de jabalíes. El Gobierno podrá ordenar cazas en fincas privadas incluso contra la voluntad del dueño para proteger las exportaciones de cerdo industrial.",
+    "resumen_tweet": "🚨 Aragón blinda el negocio porcino con un Decreto-ley que autoriza visores térmicos y trampas masivas 🐗. Se prioriza la industria sobre la biodiversidad con subvenciones de 'urgencia' y saltándose la propiedad privada. 💰🚫 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de decreto-ley para saltar controles medioambientales",
+      "Autorización de métodos de caza no selectivos previamente prohibidos",
+      "Subvenciones directas tramitadas por procedimiento de urgencia",
+      "Vulneración de la autonomía del titular del terreno cinegético",
+      "Posible conflicto de intereses al favorecer a la gran industria cárnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria cárnica porcina (macrogranjas)",
+        "SARGA (empresa pública de gestión)",
+        "Cazadores habilitados (receptores de ayudas)",
+        "Centros de recogida de carne de caza"
+      ],
+      "perdedores": [
+        "Biodiversidad (por el uso de métodos no selectivos)",
+        "Pequeños propietarios de terrenos (pérdida de control sobre su propiedad)",
+        "Bienestar animal (trampas tipo nasa)",
+        "Transparencia presupuestaria (gasto por vía de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Emergencia Sanitaria / Sector Primario",
+    "banderas_rojas": [
+      "Uso de decreto-ley para saltar controles medioambientales",
+      "Autorización de métodos de caza no selectivos previamente prohibidos",
+      "Subvenciones directas tramitadas por procedimiento de urgencia",
+      "Vulneración de la autonomía del titular del terreno cinegético",
+      "Posible conflicto de intereses al favorecer a la gran industria cárnica"
+    ]
+  }
+}

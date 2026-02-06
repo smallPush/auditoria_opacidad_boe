@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2026",
+  "timestamp": "2026-02-06T20:39:51.072Z",
+  "title": "Orden HAC/34/2026, de 21 de enero, por la que se fija la relación de subgrupos de clasificación para los cuales se tendrán en cuenta las obras ejecutadas en el curso de los últimos diez años a los únicos efectos de acreditación de la solvencia técnica de los empresarios en contratos de obras.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Bajo la apariencia de fomentar la competencia, esta orden ministerial expande el periodo de acreditación de experiencia de 5 a 10 años para subgrupos específicos de obra pública. Aunque el texto alega un 'reducido volumen de obra licitada', la medida actúa como un salvavidas regulatorio para las grandes constructoras tradicionales que podrían haber perdido su clasificación técnica tras años de menor actividad. Esto genera una barrera de entrada indirecta para nuevas empresas o PYMEs con tecnología puntera pero menor historial cronológico, perpetuando el dominio de los actores históricos en sectores estratégicos como túneles, ferrocarriles y presas.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha decidido que las empresas constructoras puedan utilizar proyectos realizados hace una década para demostrar que son aptas para contratos públicos actuales. Esta medida afecta a obras complejas (como túneles o vías de tren). Oficialmente se hace para que más empresas puedan participar, pero en la práctica permite que las grandes compañías de siempre mantengan sus privilegios de contratación aunque no hayan renovado su actividad o tecnología recientemente.",
+    "resumen_tweet": "🏗️ ¿Competencia o blindaje al oligopolio? El #BOE permite a constructoras usar obras de hace 10 años para ganar contratos. Se vende como apertura, pero protege a las 'grandes de siempre' frente a nuevas empresas. 🧐📉 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Ampliación del plazo de solvencia al doble del estándar general",
+      "Justificación vaga de 'volumen reducido' sin aportar datos estadísticos",
+      "Riesgo de obsolescencia técnica al validar experiencia de hace una década",
+      "Favorecimiento implícito de estructuras empresariales antiguas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes constructoras históricas",
+        "Empresas con baja actividad reciente pero gran historial",
+        "Oligopolio de infraestructuras"
+      ],
+      "perdedores": [
+        "Nuevas PYMEs de construcción",
+        "Empresas innovadoras con menos de 10 años de vida",
+        "Libre mercado real"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Contratación Pública / Clasificación de Empresas",
+    "banderas_rojas": [
+      "Ampliación del plazo de solvencia al doble del estándar general",
+      "Justificación vaga de 'volumen reducido' sin aportar datos estadísticos",
+      "Riesgo de obsolescencia técnica al validar experiencia de hace una década",
+      "Favorecimiento implícito de estructuras empresariales antiguas"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1922",
+  "timestamp": "2026-02-06T20:19:20.398Z",
+  "title": "Real Decreto 47/2026, de 21 de enero, por el que se nombra Presidenta del Tribunal de Instancia de Cartagena a la Magistrada doña Teresa Álvarez Medina.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 47/2026 formaliza el nombramiento de una presidencia judicial basándose en una eleccion interna de la Junta de Jueces. Aunque cumple la legalidad formal (LOPJ), el documento es opaco respecto a los criterios de merito y capacidad que motivaron la eleccion. No se adjunta memoria de la votacion ni comparativa de candidatos, lo que perpetua la percepcion de una justicia gestionada mediante mecanismos de cooptacion interna sin rendicion de cuentas ante la ciudadania.",
+    "resumen_ciudadano": "Se ha nombrado a Teresa Alvarez Medina como nueva Presidenta del Tribunal de Instancia de Cartagena. Este cargo se decide por votacion entre los propios jueces y es ratificado por el Consejo General del Poder Judicial y el Gobierno, sin que el publico conozca las razones tecnicas de su eleccion.",
+    "resumen_tweet": "⚖️ Nueva presidencia en el Tribunal de Cartagena: Teresa Alvarez Medina toma el mando. Un proceso de eleccion interna entre jueces que el #BOE publica sin detalle de meritos ni votos. ¿Justicia abierta o endogamia legal? #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de publicacion de meritos competitivos",
+      "Falta de desglose en el resultado de la votacion interna",
+      "Nombramiento discrecional validado por el CGPJ en funciones/provisional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Teresa Alvarez Medina",
+        "Corporativismo judicial (autonomia de eleccion interna)"
+      ],
+      "perdedores": [
+        "Transparencia democratica",
+        "Candidatos alternativos sin visibilidad publica"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Ausencia de publicacion de meritos competitivos",
+      "Falta de desglose en el resultado de la votacion interna",
+      "Nombramiento discrecional validado por el CGPJ en funciones/provisional"
+    ]
+  }
+}

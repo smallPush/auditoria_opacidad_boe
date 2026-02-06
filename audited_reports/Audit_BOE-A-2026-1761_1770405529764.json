@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-1761",
+  "timestamp": "2026-02-06T19:18:49.764Z",
+  "title": "Orden HAC/27/2026, de 22 de enero, por la que se modifican la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de Autoliquidación mensual, modelo individual, y 353 de Autoliquidación mensual, modelo agregado; la Orden EHA/3786/2008, de 29 de diciembre, por la que se aprueba el modelo 303 Impuesto sobre el Valor Añadido, autoliquidación; la Orden EHA/3111/2009, de 5 de noviembre, por la que se aprueba el modelo 390 de Declaración-resumen anual del Impuesto sobre el Valor Añadido; y la Orden HFP/417/2017, de 12 de mayo, por la que se regulan las especificaciones normativas y técnicas que desarrollan la llevanza de los libros registro del Impuesto sobre el Valor Añadido a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria establecida en el artículo 62.6 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Esta Orden Ministerial actúa como el brazo ejecutor técnico de la Ley 7/2024. Aunque se presenta como una mera adaptación de modelos de autoliquidación (303, 390, etc.), su núcleo es el control férreo sobre el IVA de hidrocarburos. La norma impone un sistema de garantías financieras (avales o pagos a cuenta) para quienes extraigan combustible de depósitos fiscales. Se detecta una barrera de entrada implícita mediante la figura del 'operador confiable', una categoría que exime de garantías a grandes actores consolidados, dificultando la liquidez de pequeños distribuidores independientes que deberán inmovilizar capital o pagar avales bancarios.",
+    "resumen_ciudadano": "Hacienda actualiza los formularios del IVA para asegurar que el impuesto de la gasolina y el gasóleo se cobre sí o sí. Las empresas que sacan combustible de los grandes depósitos ahora deben adelantar el pago del IVA o presentar un aval bancario. Solo aquellas empresas que Hacienda clasifique como 'operadores de confianza' o 'operadores económicos autorizados' se librarán de estos trámites financieros, lo que refuerza el control sobre el sector energético y biocarburantes.",
+    "resumen_tweet": "⛽ Hacienda refuerza el control del #IVA en carburantes. Nuevos modelos 303 y 390 obligan a pagos anticipados o avales bancarios. ¿Más trabas para los pequeños y ventajas para los 'operadores confiables'? #BOE #Transparencia #Hacienda #Gasolina 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Creación de la categoría discrecional de 'operador confiable'",
+      "Exigencia de avales financieros que benefician indirectamente al sector bancario y asegurador",
+      "Aumento de la complejidad en la llevanza de libros registro electrónicos (SII)",
+      "Impacto en la liquidez inmediata de distribuidores medianos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Tributaria (recaudación garantizada y anticipada)",
+        "Grandes multinacionales energéticas (estatus de operador confiable)",
+        "Entidades financieras (comisiones por emisión de avales)"
+      ],
+      "perdedores": [
+        "Pequeños distribuidores de hidrocarburos (tensión de tesorería)",
+        "Sector de biocarburantes (nuevas obligaciones técnicas)",
+        "Consumidor final (riesgo de traslación de costes financieros al precio del surtidor)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Tributaria y Gestión Administrativa",
+    "banderas_rojas": [
+      "Creación de la categoría discrecional de 'operador confiable'",
+      "Exigencia de avales financieros que benefician indirectamente al sector bancario y asegurador",
+      "Aumento de la complejidad en la llevanza de libros registro electrónicos (SII)",
+      "Impacto en la liquidez inmediata de distribuidores medianos"
+    ]
+  }
+}

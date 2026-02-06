@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-1680",
+  "timestamp": "2026-02-06T19:08:14.130Z",
+  "title": "Resolución de 23 de enero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución actúa como un mero trámite administrativo donde el Estado valida y oficializa los precios de mercado propuestos por fabricantes e importadores privados. Se observa una contradicción sistémica: mientras el Estado promueve políticas de salud pública antitabaco, actúa simultáneamente como el garante de la rentabilidad y la estructura de precios del sector. El lenguaje es técnico y aséptico, ocultando el desglose real de cuánto de ese PVP (especialmente en productos de lujo de hasta 36 euros la unidad) corresponde a impuestos especiales y cuánto a márgenes comerciales de grandes corporaciones.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios oficiales de venta al público para marcas específicas de puros y cigarritos de gama alta en la Península y Baleares. Estos precios, que incluyen todos los impuestos, son propuestos por las empresas tabaqueras y el Comisionado para el Mercado de Tabacos simplemente los publica para que tengan validez legal en las estancos.",
+    "resumen_tweet": "📉 El Estado oficializa nuevos precios de tabaco de lujo. Puros a 36€/unidad bajo el sello del Ministerio de Hacienda. ¿Salud pública o simple afán recaudatorio con las tabaqueras? 🚬💰 #BOE #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Fijación de precios por agentes privados validada por ente público",
+      "Ausencia de desglose tributario detallado por unidad",
+      "Incongruencia entre fines sanitarios y facilitación del mercado de tabaco"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fabricantes de tabaco (Hoyo de Monterrey, Plasencia)",
+        "Ministerio de Hacienda (Recaudación vía impuestos especiales)",
+        "Expendedurías de Tabaco (márgenes fijos sobre PVP)"
+      ],
+      "perdedores": [
+        "Consumidores (asumen el coste final)",
+        "Salud pública (fomento indirecto a través de la regularización del mercado)"
+      ]
+    },
+    "comunidad_autonoma": "Península y Baleares",
+    "tipologia": "Resolución Administrativa de Precios",
+    "banderas_rojas": [
+      "Fijación de precios por agentes privados validada por ente público",
+      "Ausencia de desglose tributario detallado por unidad",
+      "Incongruencia entre fines sanitarios y facilitación del mercado de tabaco"
+    ]
+  }
+}

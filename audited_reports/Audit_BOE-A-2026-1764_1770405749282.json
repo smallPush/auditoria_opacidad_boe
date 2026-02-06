@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1764",
+  "timestamp": "2026-02-06T19:22:29.282Z",
+  "title": "Acuerdo de 12 de enero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de servicios especiales en la Carrera Judicial al Magistrado don Josep Tomás Salas Darrocha.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo facilita la transición de un Magistrado desde el poder judicial hacia un cargo de designación político-administrativa (Dirección de la Oficina Antifrau de Catalunya). Aunque el procedimiento es legal bajo la LOPJ, la figura de 'servicios especiales' actúa como un seguro de carrera que permite a la élite judicial ocupar puestos en organismos de control sin riesgo de perder su plaza o antigüedad, lo que genera dudas sobre la neutralidad e independencia futura del magistrado al retornar. No se especifica el proceso de selección ni los criterios de idoneidad para el nuevo cargo.",
+    "resumen_ciudadano": "El Magistrado Josep Tomás Salas Darrocha deja temporalmente su plaza en la Sección Penal de Barcelona para liderar la Oficina Antifrau de Catalunya. Se le concede una excedencia especial que le permite mantener todos sus privilegios y antigüedad en la carrera judicial mientras desempeña esta función externa.",
+    "resumen_tweet": "🔄 De los juzgados a la política: el Magistrado Salas Darrocha pasa a dirigir la Oficina Antifrau de Catalunya. 'Servicios especiales' para asegurar su silla judicial. ¿Independencia o puertas giratorias? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Puertas giratorias entre judicatura y organismos de control",
+      "Mantenimiento de privilegios de carrera en cargos políticos",
+      "Opacidad en los criterios de idoneidad para el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Josep Tomás Salas Darrocha (promoción y reserva de plaza)",
+        "Oficina Antifrau de Catalunya (perfil técnico-judicial)"
+      ],
+      "perdedores": [
+        "Ciudadanía (percepción de politización de la justicia)",
+        "Candidatos externos sin red de seguridad judicial"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Situaciones Administrativas",
+    "banderas_rojas": [
+      "Puertas giratorias entre judicatura y organismos de control",
+      "Mantenimiento de privilegios de carrera en cargos políticos",
+      "Opacidad en los criterios de idoneidad para el nombramiento"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2023",
+  "timestamp": "2026-02-06T20:36:06.285Z",
+  "title": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto-ley 1/2026 utiliza la figura de la 'extraordinaria y urgente necesidad' para implementar un régimen de ayudas que, si bien es humanitariamente justificable, introduce opacidad financiera al declarar las ayudas exentas de la Ley General de Subvenciones. Esta maniobra técnica elimina controles de fiscalización previa y transparencia competitiva. Resulta especialmente llamativa la subrogación del Estado en los derechos de crédito: el erario público asume el desembolso inmediato y el riesgo de litigiosidad, aliviando la presión financiera inmediata sobre las operadoras privadas (como Iryo) y la pública (Renfe), trasladando posibles impagos de aseguradoras al contribuyente.",
+    "resumen_ciudadano": "Se establecen ayudas económicas directas y exentas de impuestos para los afectados por los accidentes de tren en Adamuz y Gélida. El Estado adelantará las indemnizaciones para evitar que las víctimas esperen a los juicios, y se crea una protección laboral especial para quienes no puedan desplazarse a sus trabajos por el corte de las líneas ferroviarias.",
+    "resumen_tweet": "🚨 El Gobierno aprueba ayudas para víctimas de tren en Adamuz y Gélida. Se saltan la Ley de Subvenciones para ganar rapidez, pero el Estado asume el riesgo financiero de las operadoras. ¿Control o urgencia? #BOE #Opacidad #Transparencia 🚂💰⚖️",
+    "banderas_red_flags": [
+      "Exención de la Ley General de Subvenciones (artículo 7.2)",
+      "Subrogación del Estado en derechos de crédito contra aseguradoras",
+      "Falta de cuantificación del límite de gasto en la exposición de motivos",
+      "Uso de Real Decreto-ley para evitar el debate parlamentario ordinario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas y familiares (reciben liquidez inmediata)",
+        "Operadoras ferroviarias (el Estado gestiona el conflicto legal inicial)",
+        "Ministerio de Transportes (mejora de imagen pública tras siniestro)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el riesgo de que las aseguradoras no devuelvan el anticipo al Estado)",
+        "Sistema de fiscalización financiera (debilitado por la vía de urgencia)",
+        "Viajeros de líneas secundarias (el foco de inversión se desvía a indemnizaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Cataluña",
+    "tipologia": "Real Decreto-ley de Medidas de Emergencia",
+    "banderas_rojas": [
+      "Exención de la Ley General de Subvenciones (artículo 7.2)",
+      "Subrogación del Estado en derechos de crédito contra aseguradoras",
+      "Falta de cuantificación del límite de gasto en la exposición de motivos",
+      "Uso de Real Decreto-ley para evitar el debate parlamentario ordinario"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2025",
+  "timestamp": "2026-02-06T20:38:35.886Z",
+  "title": "Resolución de 27 de enero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion convalida el uso de un Real Decreto-ley para una medida que, por su naturaleza recurrente, deberia formar parte del presupuesto ordinario o una ley sectorial. Se observa una 'opacidad procedimental' al utilizar la via de urgencia para evitar el debate parlamentario detallado sobre el coste real de las subvenciones y el margen de beneficio que mantienen las operadoras privadas de transporte por carretera frente a lo publico.",
+    "resumen_ciudadano": "El Congreso confirma legalmente los descuentos y abonos gratuitos de transporte para 2026. Aunque beneficia al usuario directo, el metodo de aprobacion impide saber exactamente cuanto dinero publico extra se entrega a las empresas concesionarias para cubrir estos descuentos.",
+    "resumen_tweet": "🚂 ¡Confirmado! El Congreso valida los abonos de transporte bonificados para 2026. 💶 Un respiro para el bolsillo, pero se usa el Decreto-ley para esquivar el debate sobre financiacion real y reparto a empresas. #BOE #Opacidad #Transparencia 🚌💨",
+    "banderas_red_flags": [
+      "Uso sistematico del Real Decreto-ley para evitar tramitacion ordinaria",
+      "Falta de desglose sobre la compensacion a empresas privadas",
+      "Inexistencia de auditoria de costes operativos por kilometro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Usuarios recurrentes de transporte metropolitano",
+        "Grandes operadoras de transporte (ingreso garantizado)",
+        "Ministerio de Transportes (marketing politico de corto plazo)"
+      ],
+      "perdedores": [
+        "Poblacion rural sin servicios de transporte publico que bonificar",
+        "Transparencia presupuestaria",
+        "Sostenibilidad financiera a largo plazo del sistema"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolucion Legislativa (Convalidacion)",
+    "banderas_rojas": [
+      "Uso sistematico del Real Decreto-ley para evitar tramitacion ordinaria",
+      "Falta de desglose sobre la compensacion a empresas privadas",
+      "Inexistencia de auditoria de costes operativos por kilometro"
+    ]
+  }
+}

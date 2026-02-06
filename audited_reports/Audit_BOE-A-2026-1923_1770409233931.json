@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-1923",
+  "timestamp": "2026-02-06T20:20:33.931Z",
+  "title": "Real Decreto 48/2026, de 21 de enero, por el que se nombra Presidente del Tribunal de Instancia de Mataró al Magistrado don Rafael Ponce Cuéllar.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento discrecional basado en una eleccion interna de la Junta de Jueces de Mataro. Aunque se cita la base legal (LOPJ), el BOE actua como un simple registro de decisiones tomadas en organos cerrados. No se detallan los meritos comparativos ni si hubo otros candidatos, manteniendo la tradicion de opacidad en la promocion de la elite judicial. Es relevante que el nombrado provenga de la Seccion de Violencia sobre la Mujer, lo que sugiere una especializacion tecnica, pero el ascenso a la presidencia consolida la estructura jerarquica masculina en la cupula de instancia.",
+    "resumen_ciudadano": "El Gobierno formaliza el nombramiento de Rafael Ponce Cuellar como nuevo Presidente de los juzgados de Mataro. Este magistrado, que anteriormente se encargaba de casos de violencia de genero, fue elegido por sus propios compañeros jueces en octubre de 2025.",
+    "resumen_tweet": "⚖️ Nuevo presidente en los juzgados de Mataro: Rafael Ponce Cuellar. Un ascenso desde la seccion de Violencia sobre la Mujer decidido en juntas internas. ¿Criterios de seleccion? En el aire. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose de la votacion interna",
+      "Falta de informacion sobre el coste salarial del nuevo cargo",
+      "Invisibilidad de otros candidatos o candidatas al puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Ponce Cuellar",
+        "Cuerpo de la Magistratura (consolidacion interna)"
+      ],
+      "perdedores": [
+        "Transparencia publica (proceso electivo opaco)",
+        "Representacion femenina en presidencias judiciales"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Ausencia de desglose de la votacion interna",
+      "Falta de informacion sobre el coste salarial del nuevo cargo",
+      "Invisibilidad de otros candidatos o candidatas al puesto"
+    ]
+  }
+}

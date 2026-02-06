@@ -120,7 +120,8 @@ export const translations = {
     tweetSent: "Tweet Enviado",
     postTweet: "Publicar Tweet",
     tweetSummaryTitle: "Resumen para Tweet",
-    tweetPlaceholder: "Escribe tu tweet aquí..."
+    tweetPlaceholder: "Escribe tu tweet aquí...",
+    minFrequency: "Frecuencia Mínima"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -240,6 +241,7 @@ export const translations = {
     tweetSent: "Tweet Sent",
     postTweet: "Post Tweet",
     tweetSummaryTitle: "Tweet Summary",
-    tweetPlaceholder: "Write your tweet here..."
+    tweetPlaceholder: "Write your tweet here...",
+    minFrequency: "Min Frequency"
   }
 };

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-1921",
+  "timestamp": "2026-02-06T20:18:06.288Z",
+  "title": "Orden ISM/31/2026, de 23 de enero, por la que se establecen para el año 2026 las bases de cotización a la Seguridad Social de las personas trabajadoras del Régimen Especial de la Seguridad Social de los Trabajadores del Mar incluidas en los grupos segundo y tercero.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden ISM/31/2026 se presenta bajo una apariencia de tecnicismo necesario, pero esconde una profunda inercia legislativa al basarse en la Ley 31/2022 (Presupuestos de 2023) prorrogada por tercer año consecutivo. El sistema de 'bases únicas' calculado sobre promedios del año anterior ignora la volatilidad real del sector pesquero, imponiendo cargas fijas a ingresos variables. La 'opacidad' reside en la determinación de los valores medios de remuneración: se citan consultas a organizaciones, pero no se publican los datos brutos que justifican por qué un marinero en Huelva cotiza sobre una base distinta a uno de Gipuzkoa por la misma modalidad.",
+    "resumen_ciudadano": "El Gobierno ha fijado cuánto deben pagar a la Seguridad Social los trabajadores del mar en 2026. Estas cuotas no se basan en lo que ganen cada mes, sino en una media de lo que el sector ganó en 2025 por provincias y tipo de pesca. Si la pesca va mal este año, el trabajador seguirá pagando lo mismo, basándose en un presupuesto estatal de 2023 que sigue prorrogado.",
+    "resumen_tweet": "⚓️ El #BOE publica las cuotas del mar para 2026 basándose en presupuestos de 2023 prorrogados. ¿Realidad o inercia? Bases fijas para ingresos volátiles que asfixian al pequeño pescador. 📉 La transparencia se queda en la orilla. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de presupuestos prorrogados (Ley 31/2022) para el ejercicio 2026",
+      "Metodología de cálculo de 'valores medios' no desglosada en el texto",
+      "Disparidad regional de bases sin justificación socioeconómica explícita",
+      "Posible deuda retroactiva (Disposición transitoria única sobre ingreso de diferencias)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración del Estado (mantenimiento de recaudación mediante bases fijas)",
+        "Grandes empresas de arrastre (mayor previsibilidad de costes laborales)"
+      ],
+      "perdedores": [
+        "Pequeños pescadores y artes menores (soportan bases fijas ante crisis de capturas)",
+        "Transparencia democrática (dependencia de leyes de hace 3 años)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ámbito nacional marítimo)",
+    "tipologia": "Orden Ministerial de Cotización Social",
+    "banderas_rojas": [
+      "Uso de presupuestos prorrogados (Ley 31/2022) para el ejercicio 2026",
+      "Metodología de cálculo de 'valores medios' no desglosada en el texto",
+      "Disparidad regional de bases sin justificación socioeconómica explícita",
+      "Posible deuda retroactiva (Disposición transitoria única sobre ingreso de diferencias)"
+    ]
+  }
+}

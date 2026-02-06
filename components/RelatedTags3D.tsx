@@ -37,7 +37,7 @@ const getTransparencyColor = (transparency: number) => {
 const NodeMesh = ({ node, onClick, isDimmed }: { node: Node; onClick: (tag: string) => void; isDimmed: boolean }) => {
   const [hovered, setHovered] = useState(false);
   const size = Math.log(node.count + 1) * 0.2 + 0.3;
-  
+
   const baseColor = new THREE.Color(getTransparencyColor(node.avgTransparency));
   const hoverColor = new THREE.Color("#ffffff");
   const dimmedOpacity = 0.1;
@@ -48,8 +48,8 @@ const NodeMesh = ({ node, onClick, isDimmed }: { node: Node; onClick: (tag: stri
       <Sphere args={[size, 32, 32]} onClick={() => onClick(node.name)}
         onPointerOver={() => { document.body.style.cursor = 'pointer'; setHovered(true); }}
         onPointerOut={() => { document.body.style.cursor = 'auto'; setHovered(false); }}>
-        <meshPhysicalMaterial 
-          color={hovered ? hoverColor : baseColor} 
+        <meshPhysicalMaterial
+          color={hovered ? hoverColor : baseColor}
           emissive={hovered ? hoverColor : baseColor}
           emissiveIntensity={hovered ? 0.8 : 0.3}
           metalness={0.6}
@@ -99,7 +99,7 @@ const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; link
         const diff = new THREE.Vector3().subVectors(nodeA.position, nodeB.position);
         const dist = diff.length();
         if (dist < 0.1) continue;
-        const force = diff.normalize().multiplyScalar(5 / (dist * dist)); 
+        const force = diff.normalize().multiplyScalar(5 / (dist * dist));
         nodeA.velocity.add(force.multiplyScalar(0.002));
         nodeB.velocity.sub(force.multiplyScalar(0.002));
       }
@@ -137,10 +137,10 @@ const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; link
         const targetNode = nodes.find(n => n.id === link.target);
 
         if (start && end && sourceNode && targetNode) {
-          const isDimmed = searchQuery !== '' && 
-            (!sourceNode.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
-             !targetNode.name.toLowerCase().includes(searchQuery.toLowerCase()));
-             
+          const isDimmed = searchQuery !== '' &&
+            (!sourceNode.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+              !targetNode.name.toLowerCase().includes(searchQuery.toLowerCase()));
+
           return <LinkMesh key={`link-${i}`} start={start} end={end} strength={link.strength} isDimmed={isDimmed} />;
         }
         return null;
@@ -157,14 +157,16 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
   const navigate = useNavigate();
   const t = translations[lang];
   const [searchQuery, setSearchQuery] = useState('');
+  const [minFrequency, setMinFrequency] = useState(1);
 
-  const { nodes, links } = useMemo(() => {
+  const { nodes, links, maxCount } = useMemo(() => {
     const tagStats: Record<string, { count: number; totalTransparency: number }> = {};
     const coOccurrences: Record<string, number> = {};
+    let maxCountFound = 1;
 
     history.forEach(item => {
       const tags = new Set<string>();
-      
+
       const isTagValid = (tag: string) => {
         if (!tag) return false;
         if (tag === item.title) return false;
@@ -178,16 +180,17 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
           if (isTagValid(t)) tags.add(t);
         });
       }
-      
+
       if (isTagValid(item.audit.tipologia)) tags.add(item.audit.tipologia);
       if (isTagValid(item.audit.comunidad_autonoma)) tags.add(item.audit.comunidad_autonoma);
 
       const uniqueTags = Array.from(tags);
-      
+
       uniqueTags.forEach(tag => {
         if (!tagStats[tag]) tagStats[tag] = { count: 0, totalTransparency: 0 };
         tagStats[tag].count += 1;
         tagStats[tag].totalTransparency += item.audit.nivel_transparencia;
+        if (tagStats[tag].count > maxCountFound) maxCountFound = tagStats[tag].count;
       });
 
       for (let i = 0; i < uniqueTags.length; i++) {
@@ -201,7 +204,7 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
     });
 
     const nodes: Node[] = Object.entries(tagStats)
-      //.filter(([_, stats]) => stats.count > 1) // Allow all tags
+      .filter(([_, stats]) => stats.count >= minFrequency)
       .map(([name, stats]) => ({
         id: name,
         name,
@@ -218,8 +221,8 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
       })
       .filter(l => nodes.find(n => n.id === l.source) && nodes.find(n => n.id === l.target));
 
-    return { nodes, links };
-  }, [history]);
+    return { nodes, links, maxCount: maxCountFound };
+  }, [history, minFrequency]);
 
   const handleNodeClick = (tag: string) => {
     navigate(`/history?tags=${encodeURIComponent(tag)}`);
@@ -239,7 +242,7 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
         <div className="bg-slate-900/80 p-4 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl pointer-events-auto">
           <h3 className="text-xl font-bold text-white mb-1">{t.conceptNetworkTitle}</h3>
           <p className="text-xs text-slate-400 mb-3">{t.networkDescription}</p>
-          
+
           <div className="space-y-2">
             <p className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">{t.transparencyLevelLegend}</p>
             <div className="flex items-center gap-3">
@@ -259,15 +262,33 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
           </div>
         </div>
 
-        <div className="bg-slate-900/80 p-2 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl pointer-events-auto flex items-center gap-2">
-          <Search className="text-slate-400 ml-2" size={16} />
-          <input 
-            type="text" 
-            placeholder="Buscar concepto..." 
-            className="bg-transparent border-none outline-none text-white text-sm w-full placeholder:text-slate-500"
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-          />
+        <div className="bg-slate-900/80 p-3 rounded-xl backdrop-blur-md border border-slate-700 shadow-xl pointer-events-auto space-y-2">
+          <div className="flex items-center gap-2">
+            <Search className="text-slate-400" size={16} />
+            <input
+              type="text"
+              placeholder="Buscar concepto..."
+              className="bg-transparent border-none outline-none text-white text-sm w-full placeholder:text-slate-500"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </div>
+
+          <div className="pt-2 border-t border-slate-800">
+            <div className="flex items-center justify-between mb-1">
+              <label className="text-[10px] text-slate-500 font-bold uppercase tracking-widest">{t.minFrequency}</label>
+              <span className="text-[10px] text-blue-400 font-mono font-bold">{minFrequency}</span>
+            </div>
+            <input
+              type="range"
+              min="1"
+              max={maxCount}
+              step="1"
+              value={minFrequency}
+              onChange={(e) => setMinFrequency(parseInt(e.target.value))}
+              className="w-full h-1.5 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-blue-500"
+            />
+          </div>
         </div>
       </div>
 
@@ -276,9 +297,9 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
         <ambientLight intensity={0.4} />
         <pointLight position={[10, 10, 10]} intensity={1} color="#ffffff" />
         <pointLight position={[-10, -10, -10]} intensity={0.5} />
-        
+
         <Stars radius={100} depth={50} count={3000} factor={4} saturation={0} fade speed={1} />
-        
+
         <OrbitControls autoRotate autoRotateSpeed={0.05} enableDamping dampingFactor={0.05} />
         <Graph nodes={nodes} links={links} onNodeClick={handleNodeClick} searchQuery={searchQuery} />
       </Canvas>
