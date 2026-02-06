@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2742",
+  "timestamp": "2026-02-06T10:40:21.553Z",
+  "title": "Resolución de 27 de enero de 2026, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para un puesto de alto nivel (Nivel 29) en la Gerencia Territorial de Justicia de Albacete. Aunque legalmente amparado, este mecanismo permite la elección discrecional por parte del político de turno, eludiendo el sistema de concurso de méritos objetivo. Se observa la inclusión de 'entrevistas para valorar la idoneidad', una herramienta frecuentemente utilizada para justificar decisiones subjetivas bajo una apariencia de proceso selectivo.",
+    "resumen_ciudadano": "Se ha convocado una plaza de Gerente en Albacete con un sueldo extra (complemento específico) de casi 22.000 euros anuales. El puesto no se dará a quien más puntos tenga por su experiencia, sino que será elegido 'a dedo' (libre designación) por los altos cargos del Ministerio, pudiendo realizar entrevistas personales no reguladas por baremos fijos.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza política? Justicia convoca puesto de Gerente en Albacete (Nivel 29) por LIBRE DESIGNACIÓN. Elegido a dedo y con entrevistas subjetivas. Complemento de 21.874€. La transparencia brilla por su ausencia. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Entrevistas subjetivas sin baremo detallado",
+      "Alta remuneración en puesto de gestión territorial",
+      "Falta de desglose de méritos específicos requeridos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad política o personal con la Dirección General",
+        "Cargos de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin conexiones políticas",
+        "Ciudadanos que financian puestos de alta dirección sin garantías de meritocracia"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Entrevistas subjetivas sin baremo detallado",
+      "Alta remuneración en puesto de gestión territorial",
+      "Falta de desglose de méritos específicos requeridos"
+    ]
+  }
+}

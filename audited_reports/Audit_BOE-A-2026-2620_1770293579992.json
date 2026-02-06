@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2620",
+  "timestamp": "2026-02-05T12:12:59.992Z",
+  "title": "Real Decreto 64/2026, de 4 de febrero, por el que se modifica el Real Decreto 312/2019, de 26 de abril, por el que se aprueba el Estatuto del Organismo Autónomo Centro de Estudios Jurídicos.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El Real Decreto formaliza una estructura de becas que ya operaba desde 2022, pretendiendo democratizar el acceso a las élites judiciales. La mayor red flag reside en las 'becas mixtas' que incluyen 'prestaciones en especie' (servicios de preparación). Esto permite derivar fondos públicos a preparadores o entidades externas bajo un modelo de 'servicio' cuya fiscalización de calidad y coste unitario suele ser más opaca que la transferencia monetaria directa. Aunque prohíbe el conflicto de intereses entre preparadores y coordinadores, no detalla los criterios de selección de las entidades privadas que podrían prestar estos servicios de preparación en especie.",
+    "resumen_ciudadano": "Se reforma el Estatuto del Centro de Estudios Jurídicos para gestionar oficialmente becas para opositores a Juez, Fiscal y Abogado del Estado. El objetivo es que personas con pocos recursos o que vivan en pueblos pequeños puedan opositar. Se añaden cursos obligatorios para los funcionarios sobre derechos de la infancia, discapacidad, igualdad de género y violencia sexual. Además, los Letrados de la Administración de Justicia ahora tendrán voz en el Consejo Rector.",
+    "resumen_tweet": "⚖️ ¿Democratización o externalización? El #BOE formaliza becas para oposiciones de élite judicial. Ojo a las 'becas en especie': clases pagadas con dinero público que requieren máxima #Transparencia. 🎓 Se refuerza la formación en igualdad. #Justicia",
+    "banderas_red_flags": [
+      "Creación de becas mixtas con 'prestación en especie' (riesgo de opacidad en la contratación de preparadores)",
+      "Uso del procedimiento de urgencia para una reforma principalmente organizativa",
+      "Ausencia de desglose presupuestario para la nueva función de gestión de becas y reintegros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores de entornos rurales o nivel socioeconómico bajo",
+        "Letrados de la Administración de Justicia (obtienen representación política)",
+        "Infancia y adolescencia (se garantiza formación específica de los funcionarios que les atienden)"
+      ],
+      "perdedores": [
+        "Sistemas tradicionales de preparación basados en redes informales de élite",
+        "Academias privadas de preparación (ante la posible competencia de servicios en especie del CEJ)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Estructural / Administrativa",
+    "banderas_rojas": [
+      "Creación de becas mixtas con 'prestación en especie' (riesgo de opacidad en la contratación de preparadores)",
+      "Uso del procedimiento de urgencia para una reforma principalmente organizativa",
+      "Ausencia de desglose presupuestario para la nueva función de gestión de becas y reintegros"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-2726",
+  "timestamp": "2026-02-06T10:20:40.755Z",
+  "title": "Real Decreto 67/2026, de 4 de febrero, por el que se regula la gestión de la incapacidad temporal del personal del Cuerpo de la Guardia Civil.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 67/2026 intenta modernizar y digitalizar la gestion de bajas en la Guardia Civil, pero introduce elementos de opacidad bajo la clausula de 'no incremento de gasto'. Resulta incongruente proponer una reestructuracion administrativa y tecnologica sin dotacion presupuestaria adicional, lo que sugiere una posible precariedad en la implementacion o una redistribucion de fondos no explicitada. Destaca la tension entre el derecho a la intimidad y la seguridad ciudadana al obligar a revelar tratamientos psiquiatricos para el control de armas, lo cual es logico pero requiere garantias de proteccion de datos extremas que el texto menciona de forma genérica. La posibilidad de externalizar reconocimientos medicos abre la puerta a la privatizacion de la evaluacion de la salud de los agentes.",
+    "resumen_ciudadano": "Esta norma regula como se gestionan las bajas por enfermedad o accidente en la Guardia Civil. Busca que todo sea electronico y que los agentes no pierdan sueldo durante la incapacidad temporal. Sin embargo, tambien aumenta el control de los medicos militares sobre los agentes, permite que empresas externas realicen pruebas medicas y obliga a los guardias a informar sobre su salud mental si usan armas. Lo mas llamativo es que el Gobierno afirma que este cambio no costara ni un euro extra, lo cual genera dudas sobre su ejecucion real.",
+    "resumen_tweet": "🚑 Nueva regulacion de bajas en la @guardiacivil. Mas control interno y digitalizacion, pero con letra pequeña: permite contratar medicos externos y exige revelar salud mental. ¿Como se hara sin gastar un euro mas? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Clausula de 'No incremento de gasto público' en una reforma estructural",
+      "Externalizacion de reconocimientos medicos mediante acuerdos o contratos con terceros",
+      "Obligatoriedad de comunicar tratamientos psicofarmacologicos (riesgo para la privacidad)",
+      "Ambigüedad en los 'criterios de duracion optima' de patologias",
+      "Dependencia técnica y jerárquica de los organos de inspeccion dentro del propio cuerpo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administracion del Estado (mayor control sobre el absentismo)",
+        "Empresas privadas de servicios medicos (posibles beneficiarias de contratos externos)",
+        "Personal en situaciones de 'acto de servicio' o riesgo durante el embarazo (blindaje retributivo)"
+      ],
+      "perdedores": [
+        "Personal de la Guardia Civil (perdida de privacidad en salud mental)",
+        "Sindicatos y asociaciones (pueden ver reducida su capacidad de mediacion ante inspecciones mas rigidas)",
+        "Transparencia presupuestaria (por la falta de partidas claras para la digitalizacion)"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Real Decreto de Gestion de Recursos Humanos y Salud Laboral",
+    "banderas_rojas": [
+      "Clausula de 'No incremento de gasto público' en una reforma estructural",
+      "Externalizacion de reconocimientos medicos mediante acuerdos o contratos con terceros",
+      "Obligatoriedad de comunicar tratamientos psicofarmacologicos (riesgo para la privacidad)",
+      "Ambigüedad en los 'criterios de duracion optima' de patologias",
+      "Dependencia técnica y jerárquica de los organos de inspeccion dentro del propio cuerpo"
+    ]
+  }
+}

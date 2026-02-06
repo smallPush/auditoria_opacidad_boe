@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2730",
+  "timestamp": "2026-02-06T10:25:40.994Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 27 de enero de 2026, por el que se establece el carácter oficial de determinados títulos de Doctor o Doctora y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento cumple con el trámite administrativo de oficializar títulos de doctorado tras su verificación. Aunque el proceso es formalmente correcto, se observa una opacidad sistemática en cuanto a la memoria económica que sustenta estos programas. La resolución se limita a un 'visto bueno' burocrático sin mencionar el coste público de la implantación o el precio de las tasas para el ciudadano. Destaca la inclusión de programas en universidades privadas como UDIMA o la Universidad de las Hespérides, lo que plantea una transferencia de legitimidad estatal a negocios educativos particulares sin detallar criterios de equidad en el acceso.",
+    "resumen_ciudadano": "El Gobierno ha dado validez oficial a nuevos títulos de doctorado en varias universidades españolas. Áreas como la Criminología, Salud Mental en la Era Digital, y Filosofía, Política y Economía ya cuentan con programas de investigación reconocidos legalmente. Esto permite que los estudiantes de estos programas obtengan títulos válidos en toda España y con efectos académicos internacionales.",
+    "resumen_tweet": "🎓 El #BOE oficializa nuevos doctorados en Salud Mental, Criminología y Arquitectura. ¿Garantía de calidad o simple trámite administrativo? Faltan datos sobre costes y acceso económico. 🧐 #Opacidad #Transparencia #Universidad #Educación",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario o coste por crédito",
+      "Falta de mención a becas o ayudas para el acceso a estos nuevos títulos",
+      "Validación de títulos en universidades de carácter privado con ánimo de lucro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (UDIMA, Hespérides) que ganan prestigio comercial",
+        "Universidades públicas andaluzas y madrileñas que consolidan programas conjuntos",
+        "Cargos directivos universitarios"
+      ],
+      "perdedores": [
+        "Estudiantes con rentas bajas (no se especifican precios ni ayudas)",
+        "Transparencia presupuestaria (se desconocen los 'gastos fantasma' de gestión administrativa de estos registros)"
+      ]
+    },
+    "comunidad_autonoma": "España (Multiautonómico: Madrid, Andalucía, Castilla-La Mancha, Murcia, Comunidad Valenciana)",
+    "tipologia": "Educación, Universidades y Títulos Oficiales",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario o coste por crédito",
+      "Falta de mención a becas o ayudas para el acceso a estos nuevos títulos",
+      "Validación de títulos en universidades de carácter privado con ánimo de lucro"
+    ]
+  }
+}

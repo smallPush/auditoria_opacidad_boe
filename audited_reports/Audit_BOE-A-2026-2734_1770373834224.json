@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2734",
+  "timestamp": "2026-02-06T10:30:34.224Z",
+  "title": "Resolución de 29 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'Libre Designación', una figura legal que permite el nombramiento discrecional ('a dedo') por razones de confianza, eludiendo los principios de mérito y capacidad competitiva estricta. Se adjudica un puesto de Nivel 30, el grado máximo de la escala funcionarial, a un Vocal Asesor en un área sensible como Consumo y Juego. La opacidad reside en la nula justificación de por qué estos perfiles son idóneos frente a otros, más allá de la normativa citada.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha nombrado directamente a dos personas para cargos de confianza en la Secretaría General de Consumo y Juego. El puesto más alto (Nivel 30) conlleva una retribución máxima dentro de la administración. Un tercer puesto ha quedado desierto, lo que sugiere que no se encontró el perfil de confianza deseado o se reserva para futuros movimientos.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Adjudicados puestos 'a dedo' en el Ministerio de Derechos Sociales. Un Nivel 30 (sueldo máximo) para asesoría en Consumo y Juego. La libre designación sigue blindando la discrecionalidad política. 🚩 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Puesto de asesoría política en regulador de juego",
+      "Puesto declarado desierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Briz García (adjudicatario Nivel 30)",
+        "Paloma Vivanco Rubio (adjudicataria Nivel 22)",
+        "Cargos de confianza política"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza política",
+        "Ciudadanía (por falta de transparencia en criterios de idoneidad)",
+        "Mérito y capacidad competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Puesto de asesoría política en regulador de juego",
+      "Puesto declarado desierto"
+    ]
+  }
+}

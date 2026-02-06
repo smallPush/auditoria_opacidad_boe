@@ -1,0 +1,29 @@
+{
+  "boe_id": "BOE-A-2026-2635",
+  "timestamp": "2026-02-05T12:31:13.395Z",
+  "title": "Resolución de 27 de enero de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 4 de diciembre de 2025, por la que se nombra personal funcionario de carrera, por promoción interna, del Cuerpo de Técnicos Auxiliares de Informática de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una corrección de errores en nombramientos de funcionarios de carrera por promoción interna. El error radica en la denominación del puesto de trabajo: se les asignó 'Jefe/Jefa de Negociado' cuando les correspondía 'Técnico/Técnica Auxiliar de Informática'. Aunque los niveles retributivos (Nivel 16 y Complemento Específico) parecen mantenerse idénticos, esta fe de erratas evidencia una falta de rigor administrativo en la gestión de personal del Ministerio para la Transformación Digital.",
+    "resumen_ciudadano": "La Administración del Estado ha corregido el nombre del cargo de dos nuevos funcionarios en Murcia y Badajoz. Donde antes decía que eran Jefes de Negociado, ahora se aclara que son Técnicos de Informática. Es un trámite burocrático para ajustar la realidad del puesto al nombramiento oficial sin afectar a sus sueldos.",
+    "resumen_tweet": "🔄 El #BOE rectifica: dos informáticos en Murcia y Badajoz no son 'Jefes de Negociado', sino 'Técnicos Auxiliares'. La burocracia se enreda en títulos mientras el sueldo no varía. ¿Falta de rigor o simple descuido? 🧐 #Transparencia #Opacidad #Funcionarios",
+    "banderas_red_flags": [
+      "Inconsistencia en la denominación de puestos",
+      "Errores en la publicación original de nombramientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los funcionarios afectados (por seguridad jurídica en su plaza)"
+      ],
+      "perdedores": [
+        "La eficiencia administrativa (gasto de recursos en corregir documentos ya publicados)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Afecta a Murcia y Extremadura)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Inconsistencia en la denominación de puestos",
+      "Errores en la publicación original de nombramientos"
+    ]
+  }
+}

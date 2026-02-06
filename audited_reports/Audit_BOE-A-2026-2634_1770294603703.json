@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2634",
+  "timestamp": "2026-02-05T12:30:03.703Z",
+  "title": "Resolución de 30 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se observa un uso del procedimiento de libre designación para un puesto de Nivel 30, el máximo rango en la escala funcionarial. Aunque la ley lo permite para puestos de especial responsabilidad, este mecanismo es frecuentemente criticado por ser un 'dedazo' legalizado que esquiva los principios de mérito y capacidad. En este caso, la adjudicataria ya ocupaba un nivel 30 en el mismo organismo, lo que sugiere un enroque de la élite administrativa o una consolidación de posiciones de confianza política bajo el paraguas de la función pública técnica.",
+    "resumen_ciudadano": "El Ministerio ha adjudicado un puesto de Vocal Asesor (el nivel más alto y mejor pagado) a una persona elegida discrecionalmente en lugar de por un concurso abierto de méritos. Este sistema de 'libre designación' permite que los altos cargos elijan a su equipo cercano sin justificar objetivamente por qué esa persona es la mejor entre todos los funcionarios cualificados.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El @inclusiongob asigna un puesto de Vocal Asesor (Nivel 30) por 'libre designación'. La élite administrativa se mueve entre despachos sin concurso público transparente. 🏛️💼 #BOE #Opacidad #Transparencia #Dedazo",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máxima categoría salarial)",
+      "Vocal Asesor (cargo de confianza técnica/política)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alegre Porrero, Maria (consolida puesto de máxima categoría)",
+        "Cúpula del Ministerio (asegura personal afín)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores sin red de contactos",
+        "Ciudadanía (pérdida de imparcialidad en la gestión pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máxima categoría salarial)",
+      "Vocal Asesor (cargo de confianza técnica/política)"
+    ]
+  }
+}

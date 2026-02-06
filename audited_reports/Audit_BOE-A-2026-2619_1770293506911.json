@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-2619",
+  "timestamp": "2026-02-05T12:11:46.911Z",
+  "title": "Real Decreto 63/2026, de 4 de febrero, por el que se regula la concesión directa de subvenciones al Consejo General de la Abogacía Española y al Consejo General de los Procuradores de España, en materia de prestación de asistencia jurídica gratuita, y al Consejo General de Colegios Oficiales de Psicólogos, para la asistencia psicológica a las víctimas de los delitos, para el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' amparándose en el artículo 22.2.c) de la Ley General de Subvenciones, lo cual permite saltarse el concurso público bajo la premisa de 'interés público' y 'urgencia'. Aunque el fin (Justicia Gratuita) es un mandato constitucional (Art. 119 CE), la recurrencia de este mecanismo para financiar a los Consejos Generales de Abogacía, Procura y Psicología denota una dependencia estructural y una falta de apertura a modelos de gestión más competitivos o transparentes. Se observa un lenguaje que justifica la excepcionalidad como norma para evitar la fiscalización previa que implicaría una convocatoria abierta.",
+    "resumen_ciudadano": "El Gobierno aprueba el pago directo de subvenciones a los colegios de abogados, procuradores y psicólogos para cubrir el servicio de justicia gratuita y atención a víctimas de delitos durante 2026. Se hace sin concurso público porque se considera una labor social urgente. Este dinero también servirá para pagar deudas pendientes de los últimos meses de 2025.",
+    "resumen_tweet": "⚖️ El Gobierno otorga subvenciones directas a los Consejos de Abogados, Procuradores y Psicólogos para 2026. Se evita el concurso público alegando 'interés social'. ¿Excepcionalidad o costumbre? 🕵️‍♂️ #BOE #Opacidad #Transparencia #JusticiaGratuita",
+    "banderas_red_flags": [
+      "Uso de concesión directa sin convocatoria pública",
+      "Justificación de excepcionalidad para servicios recurrentes",
+      "Regularización de pagos pendientes del ejercicio anterior (2025) con presupuesto de 2026",
+      "Falta de desglose de cuantías específicas en el preámbulo analizado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejo General de la Abogacía Española",
+        "Consejo General de los Procuradores de España",
+        "Consejo General de Colegios Oficiales de Psicólogos",
+        "Víctimas de delitos con acceso a asistencia gratuita"
+      ],
+      "perdedores": [
+        "Principio de concurrencia competitiva",
+        "Contribuyentes (por la falta de fiscalización en procesos de licitación abierta)",
+        "Nuevos actores o entidades sociales que podrían prestar servicios similares"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones de Concesión Directa",
+    "banderas_rojas": [
+      "Uso de concesión directa sin convocatoria pública",
+      "Justificación de excepcionalidad para servicios recurrentes",
+      "Regularización de pagos pendientes del ejercicio anterior (2025) con presupuesto de 2026",
+      "Falta de desglose de cuantías específicas en el preámbulo analizado"
+    ]
+  }
+}

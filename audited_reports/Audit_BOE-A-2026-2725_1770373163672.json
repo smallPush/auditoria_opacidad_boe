@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2725",
+  "timestamp": "2026-02-06T10:19:23.672Z",
+  "title": "Real Decreto 66/2026, de 4 de febrero, por el que se regulan las adquisiciones en común y proyectos colaborativos en el marco de las iniciativas europeas de defensa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 66/2026 establece un marco de opacidad operativa al permitir que el Ministerio de Defensa actúe como comisionista de armamento para terceros Estados. El Artículo 4 es especialmente alarmante al excluir estos bienes del patrimonio de las administraciones públicas, lo que reduce los mecanismos de control patrimonial y fiscalización ordinaria. Se observa una 'incongruencia ideológica' al citar explícitamente el Real Decreto-ley 10/2025 sobre Gaza, posiblemente para blindar éticamente una norma que, en la práctica, facilita el flujo de armas transnacional con fondos europeos (SAFE) y procesos de adjudicación que eluden la Ley de Contratos del Sector Público estándar.",
+    "resumen_ciudadano": "El Gobierno autoriza al Ministerio de Defensa para comprar armas y tecnología militar en nombre de otros países de la UE. Lo más relevante es que este armamento no se registrará como propiedad de España, lo que genera una zona gris en la contabilidad nacional y en el destino final de las armas, financiándose mediante préstamos y acuerdos operativos que no se detallan en el presupuesto ordinario.",
+    "resumen_tweet": "🚨 Defensa actuará como agente de compras de armas para otros países. El material NO será patrimonio público, dificultando su control. ¿Transparencia o cheque en blanco a la industria militar? 🛡️💸 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Contratación en nombre y representación de terceros Estados",
+      "Exclusión de bienes del patrimonio público (Art. 4)",
+      "Dependencia de 'arreglos operativos' no publicados para la gestión de fondos",
+      "Uso de terminología geopolítica (Gaza/Israel) en un decreto técnico para legitimación política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria del armamento europea",
+        "Grandes contratistas de I+D+i militar",
+        "Ministerio de Defensa (aumento de capacidad ejecutiva)"
+      ],
+      "perdedores": [
+        "Sistemas de fiscalización ciudadana",
+        "Transparencia en el gasto público",
+        "Control de exportación de material sensible"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Defensa y Seguridad / Contratación Pública",
+    "banderas_rojas": [
+      "Contratación en nombre y representación de terceros Estados",
+      "Exclusión de bienes del patrimonio público (Art. 4)",
+      "Dependencia de 'arreglos operativos' no publicados para la gestión de fondos",
+      "Uso de terminología geopolítica (Gaza/Israel) en un decreto técnico para legitimación política"
+    ]
+  }
+}

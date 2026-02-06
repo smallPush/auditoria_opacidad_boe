@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-2624",
+  "timestamp": "2026-02-05T12:17:56.891Z",
+  "title": "Real Decreto 71/2026, de 4 de febrero, por el que se crea y regula la Comisión Nacional para la conmemoración del Bicentenario del fallecimiento de Francisco de Goya.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se establece una estructura burocrática masiva para una efeméride que ocurrirá en 2028. La norma destaca por su 'hiper-representación' política: incluye al Presidente del Gobierno, tres ministros y una legión de Secretarios de Estado y Subsecretarios. Bajo la premisa de 'no incrementar el gasto', se oculta el coste de oportunidad de movilizar a la cúpula del Estado para tareas de gestión cultural que podrían realizar órganos técnicos ya existentes. La cláusula de 'honorificidad' de los cargos es una verdad a medias, ya que el Ministerio de Cultura asumirá los gastos operativos y de desplazamiento, permitiendo 'excepcionalmente' cubrir gastos de miembros privados sin baremos claros de control.",
+    "resumen_ciudadano": "El Gobierno crea una macro-comisión para celebrar el bicentenario de Goya en 2028. El grupo estará liderado por el Presidente y varios ministros. Aunque dicen que no costará dinero extra, la realidad es que usará personal y recursos ya pagados por los ciudadanos y permitirá pagar viajes a invitados seleccionados a dedo. Además, se han saltado la consulta pública con la excusa de que es un tema puramente organizativo.",
+    "resumen_tweet": "🚨 ¿Gasto cero? El #BOE crea una macro-comisión de políticos para el Bicentenario de Goya. 25+ vocales y altos cargos para 'gestionar' cultura en 2028. Sin consulta pública y con gastos de viaje 'excepcionales' cubiertos. 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de 'no incremento de gasto' engañosa ante el despliegue de recursos humanos",
+      "Exención de consulta pública alegando naturaleza puramente organizativa",
+      "Ambigüedad en la financiación de gastos de desplazamiento para miembros privados",
+      "Estructura excesivamente jerarquizada (Presidencia del Gobierno para un evento cultural)",
+      "Uso de términos ideológicos para justificar la composición del comité"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (visibilidad política)",
+        "Instituciones de 'reconocido prestigio' (acceso a influencia)",
+        "Estructuras burocráticas del Ministerio de Cultura"
+      ],
+      "perdedores": [
+        "Contribuyentes (costes indirectos de gestión)",
+        "Gestores culturales locales (excluidos de la cúpula de decisión)",
+        "Sociedad civil (excluida mediante la omisión de consulta pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Creación de Órgano Colegiado",
+    "banderas_rojas": [
+      "Cláusula de 'no incremento de gasto' engañosa ante el despliegue de recursos humanos",
+      "Exención de consulta pública alegando naturaleza puramente organizativa",
+      "Ambigüedad en la financiación de gastos de desplazamiento para miembros privados",
+      "Estructura excesivamente jerarquizada (Presidencia del Gobierno para un evento cultural)",
+      "Uso de términos ideológicos para justificar la composición del comité"
+    ]
+  }
+}

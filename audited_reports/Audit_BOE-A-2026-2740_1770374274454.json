@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2740",
+  "timestamp": "2026-02-06T10:37:54.454Z",
+  "title": "Resolución de 19 de enero de 2026, conjunta de la Universidad de Salamanca y la Consejería de Sanidad de la Junta de Castilla y León, por la que se nombra Profesor Titular de Universidad, con plaza vinculada, a don Javier Cañueto Álvarez.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un nombramiento de 'plaza vinculada', una figura que permite la bicefalia entre la docencia universitaria y la asistencia hospitalaria. Aunque cumple la legalidad formal, existe una opacidad intrínseca sobre el coste total para el erario público al dividirse la responsabilidad entre la Universidad y la Consejería de Sanidad. El texto no especifica las dietas o complementos derivados de esta doble función, perpetuando la falta de visibilidad en el gasto real de personal de alta cualificación.",
+    "resumen_ciudadano": "La Universidad de Salamanca y la Junta de Castilla y León han nombrado formalmente a un nuevo Profesor Titular en el área de Dermatología. Este profesional tendrá la doble función de profesor en la Facultad de Medicina y médico en el Complejo Asistencial Universitario de Salamanca.",
+    "resumen_tweet": "🏥🎓 Nuevo nombramiento en Salamanca: un Profesor Titular para Dermatología con plaza vinculada al hospital. ¿Sabemos el coste real de estas plazas duales? La transparencia presupuestaria sigue siendo una asignatura pendiente. #BOE #Opacidad #Sanidad",
+    "banderas_red_flags": [
+      "Opacidad en la remuneración total desglosada",
+      "Concentración de poder en comisiones de selección cerradas",
+      "Doble adscripción administrativa que dificulta el control de gasto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Cañueto Álvarez (estabilidad laboral y doble estatus)",
+        "Universidad de Salamanca",
+        "Consejería de Sanidad de Castilla y León"
+      ],
+      "perdedores": [
+        "Otros candidatos del área de Dermatología",
+        "Ciudadanos (por la falta de desglose de costes en la resolución)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Académico-Sanitario",
+    "banderas_rojas": [
+      "Opacidad en la remuneración total desglosada",
+      "Concentración de poder en comisiones de selección cerradas",
+      "Doble adscripción administrativa que dificulta el control de gasto"
+    ]
+  }
+}

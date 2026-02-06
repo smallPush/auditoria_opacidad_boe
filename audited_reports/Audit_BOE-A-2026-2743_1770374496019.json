@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2743",
+  "timestamp": "2026-02-06T10:41:36.019Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas del proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo Superior de Técnicos de Instituciones Penitenciarias, especialidad de Juristas y Psicólogos/Psicólogas, convocado por Resolución de 7 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución presenta una transparencia procedimental estándar pero una opacidad operativa significativa. La centralización absoluta del examen en Madrid genera una barrera socioeconómica para aspirantes de la periferia. Además, la prohibición estricta de entrar con 'equipaje, bolsos y mochilas' penaliza desproporcionadamente a quienes viajan desde otras provincias, quienes se ven obligados a buscar consignas externas. La lista de admitidos se deriva a sitios web externos, reduciendo la trazabilidad directa en el propio BOE. El código de exclusión '9' es el más recurrente, lo cual suele referirse a problemas con la tasa de examen o verificación de datos, actuando como un filtro burocrático masivo.",
+    "resumen_ciudadano": "Se publica la lista definitiva de admitidos y excluidos para las oposiciones de Técnicos de Instituciones Penitenciarias (Juristas y Psicólogos). El examen será el 8 de febrero de 2026 en Madrid. Se imponen reglas extremadamente estrictas para el examen, incluyendo la prohibición de llevar cualquier tipo de mochila o bolso y la obligatoriedad de que las botellas de agua sean pequeñas, transparentes y sin etiqueta.",
+    "resumen_tweet": "🚨 Oposiciones Prisiones: Publicada lista definitiva para Juristas y Psicólogos. Examen centralizado en Madrid, dificultando el acceso a candidatos de fuera. ¡Ojo! Prohibido llevar mochilas o etiquetas en el agua. #BOE #Transparencia #Oposiciones 🏛️⚖️",
+    "banderas_red_flags": [
+      "Centralización geográfica del proceso selectivo en Madrid",
+      "Barrera logística: prohibición total de mochilas y equipaje en el centro de examen",
+      "Derivación de la lista de admitidos a plataformas externas (opacidad de datos)",
+      "Filtro burocrático masivo bajo el código de exclusión 9"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos residentes en la Comunidad de Madrid",
+        "Sector hotelero y transportes de la capital",
+        "Academias de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Opositores de regiones periféricas (sobrecoste de viaje)",
+        "Aspirantes con menos recursos para costear logística sin mochila",
+        "Los 60+ excluidos definitivamente por errores administrativos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en Madrid)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Centralización geográfica del proceso selectivo en Madrid",
+      "Barrera logística: prohibición total de mochilas y equipaje en el centro de examen",
+      "Derivación de la lista de admitidos a plataformas externas (opacidad de datos)",
+      "Filtro burocrático masivo bajo el código de exclusión 9"
+    ]
+  }
+}

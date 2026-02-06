@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-2741",
+  "timestamp": "2026-02-06T10:39:10.040Z",
+  "title": "Resolución de 30 de enero de 2026, de la Universitat de València, por la que se corrigen errores en las de 19 de septiembre, de 17 y de 27 de octubre de 2025, por la que se nombran Catedráticas y Catedráticos de Universidad y Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es una correccion de errores materiales en el nombramiento de personal docente e investigador (Catedraticos y Profesores Titulares) de la Universitat de Valencia. Aunque es un tramite puramente administrativo y transparente en su ejecucion, revela una falta de rigor en la gestion documental inicial de la universidad. Se corrigen hasta ocho casos de nombres y apellidos mal escritos o erratas tipograficas (como 'Juna' por 'Juan' o 'Llovera' por 'Llobera') en resoluciones publicadas originalmente meses atras. No se detectan gastos fantasma directos, pero la publicacion de correcciones en el BOE supone un coste administrativo derivado de la ineficiencia en el control de calidad previo.",
+    "resumen_ciudadano": "La Universitat de València ha publicado una rectificacion para subsanar errores en los nombres de varios profesores y catedraticos nombrados a finales de 2025. Los cambios afectan a departamentos de Derecho, Histologia, Literatura y Enfermeria. Es un ajuste burocratico para que los titulos y nombramientos oficiales tengan validez legal correcta.",
+    "resumen_tweet": "📝 Erratas en el #BOE: La Universitat de València corrige nombres mal escritos de catedráticos y profesores meses después de su nombramiento. ¿Falta de rigor administrativo en la gestión de personal? ⚖️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ineficiencia administrativa por errores evitables",
+      "Demora en la correccion de actos administrativos (hasta 5 meses despues)",
+      "Falta de revision en la cadena de mando antes de la publicacion original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los academicos citados (Maria Vilanova Sanchez, Mireya Llobera Vila, Juan Antonio Ureña Salcedo, entre otros), cuyos nombres ahora constan correctamente a efectos de trienios, sexenios y carrera administrativa."
+      ],
+      "perdedores": [
+        "La ciudadania, que asume el coste indirecto de la gestion administrativa duplicada y la ocupacion de espacio en el BOE por falta de supervision previa."
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Recursos Humanos y Educacion",
+    "banderas_rojas": [
+      "Ineficiencia administrativa por errores evitables",
+      "Demora en la correccion de actos administrativos (hasta 5 meses despues)",
+      "Falta de revision en la cadena de mando antes de la publicacion original"
+    ]
+  }
+}

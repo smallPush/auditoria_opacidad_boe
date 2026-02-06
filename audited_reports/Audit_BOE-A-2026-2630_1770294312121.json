@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2630",
+  "timestamp": "2026-02-05T12:25:12.121Z",
+  "title": "Resolución 430/38029/2026, de 26 de enero, de la Subsecretaría, por la que se nombra personal estatutario fijo en el proceso selectivo para la estabilización del empleo temporal, para el acceso a la condición de personal estatutario fijo, en la categoría de Celador/a en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38515/2024, de 25 de noviembre, y modificada por Resolución 400/38547/2024, de 18 de diciembre.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Aunque la resolución es clara en cuanto a los beneficiarios y destinos, el proceso de 'estabilización' del Ministerio de Defensa arrastra una inercia burocrática de dos años (convocatoria iniciada en 2024 y resuelta en 2026). El uso exclusivo del sistema de concurso, si bien legal bajo la Ley 20/2021, genera una barrera de entrada para nuevos aspirantes, consolidando a quienes ya ocupaban plazas temporales. No se detectan gastos fantasma, pero sí una fragmentación normativa evidenciada en las múltiples modificaciones de resoluciones previas citadas, lo que dificulta el seguimiento ciudadano del proceso.",
+    "resumen_ciudadano": "El Ministerio de Defensa nombra oficialmente personal fijo a cuatro celadores para la Red Hospitalaria en Madrid, tras un proceso de estabilización para reducir la temporalidad. Los nombrados disponen de 15 días para tomar posesión de su plaza definitiva.",
+    "resumen_tweet": "🏥 Defensa nombra fijos a celadores en Madrid tras 2 años de trámites. Se cumple la ley de estabilización, pero la lentitud administrativa sigue siendo el estándar. ¡Adiós a la temporalidad para 4 trabajadores! ⚖️📦 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación temporal excesiva (2024-2026)",
+      "Complejidad de referencias cruzadas entre resoluciones modificatorias",
+      "Falta de mención al impacto presupuestario de la consolidación de plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino de larga duración",
+        "Red Hospitalaria de la Defensa (estabilidad de plantilla)",
+        "Hospital Central de la Defensa en Madrid"
+      ],
+      "perdedores": [
+        "Opositores de libre acceso sin méritos previos",
+        "Aspirantes de otras Comunidades Autónomas (oferta centralizada en Madrid)",
+        "Eficiencia administrativa (proceso de 26 meses)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal y Estabilización de Empleo",
+    "banderas_rojas": [
+      "Dilación temporal excesiva (2024-2026)",
+      "Complejidad de referencias cruzadas entre resoluciones modificatorias",
+      "Falta de mención al impacto presupuestario de la consolidación de plazas"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2623",
+  "timestamp": "2026-02-05T12:16:43.429Z",
+  "title": "Real Decreto 70/2026, de 4 de febrero, por el que se crea la Comisión Mixta para la reconstrucción y recuperación tras los daños provocados en la Comunitat Valenciana por la Depresión Aislada en Niveles Altos (DANA).",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 70/2026 se presenta con una narrativa de urgencia y cooperacion institucional que choca frontalmente con la realidad temporal: se crea una Comision Mixta de reconstruccion en febrero de 2026 para una catastrofe ocurrida en octubre de 2024. Este desfase de 15 meses sugiere una reaccion tardia o una formalizacion burocratica de procesos que deberian haber sido ejecutivos desde el primer dia. La estructura de la comision, que incluye a todos los alcaldes de los municipios afectados, amenaza con convertir el organo en un foro inoperante por su dimension masiva, diluyendo la responsabilidad ejecutiva. Ademas, la clausula de 'no aumento de gasto publico' es un arma de doble filo: por un lado evita el despilfarro directo, pero por otro confirma que no se estan inyectando nuevos recursos especificos para el funcionamiento de este organo de control, lo que podria condenarlo a la inaccion o a ser un simple escaparate politico de 'lealtad institucional'.",
+    "resumen_ciudadano": "Se crea oficialmente una comision para coordinar la recuperacion de Valencia tras la DANA de 2024. Estara presidida conjuntamente por el Gobierno central y la Generalitat, e incluira a la Diputacion y a todos los ayuntamientos afectados. Aunque se habla de agilizar ayudas, el decreto llega mas de un año despues de la tragedia y especifica que no habra dinero extra para el funcionamiento de esta comision, utilizando solo los recursos que ya existen en las administraciones.",
+    "resumen_tweet": "🚨 ¡15 MESES DESPUÉS! El Gobierno crea la Comisión Mixta para la #DANA de 2024. ¿Urgencia o burocracia tardía en 2026? 🏛️ Sin presupuesto extra y con decenas de cargos implicados. ¿Llega la ayuda o solo las reuniones? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Anacronismo legislativo: Creacion de organos de 'urgencia' 15 meses despues del evento.",
+      "Riesgo de inoperancia: Inclusion de decenas de alcaldes en un solo organo colegiado.",
+      "Ambiguedad financiera: La clausula de 'no incremento de gasto' puede ocultar falta de medios reales para la gestion.",
+      "Duplicidad potencial: El texto menciona evitar duplicidades pero crea un 'mecanismo adicional' sobre los ya existentes."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales y autonómicos (ganan visibilidad politica y control sobre el flujo de informacion de ayudas)",
+        "Estructuras burocraticas (se consolidan nuevos espacios de reunion y comisionados)"
+      ],
+      "perdedores": [
+        "Ciudadanos damnificados (que perciben una respuesta institucional formalizada con excesivo retraso)",
+        "Municipios pequeños (cuya voz puede quedar diluida en una comision masiva copresidida por grandes administraciones)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Organización Administrativa y Gestión de Catástrofes",
+    "banderas_rojas": [
+      "Anacronismo legislativo: Creacion de organos de 'urgencia' 15 meses despues del evento.",
+      "Riesgo de inoperancia: Inclusion de decenas de alcaldes en un solo organo colegiado.",
+      "Ambiguedad financiera: La clausula de 'no incremento de gasto' puede ocultar falta de medios reales para la gestion.",
+      "Duplicidad potencial: El texto menciona evitar duplicidades pero crea un 'mecanismo adicional' sobre los ya existentes."
+    ]
+  }
+}

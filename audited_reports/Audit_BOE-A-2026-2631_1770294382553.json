@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2631",
+  "timestamp": "2026-02-05T12:26:22.553Z",
+  "title": "Resolución de 20 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 7 de noviembre de 2025, en la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos técnicos de coordinación en la Entidad de Trabajo Penitenciario representa una vulneración de facto de los principios de mérito y capacidad. Se observa una práctica habitual de 'consolidación encubierta': la adjudicataria ya ocupaba el puesto en 'comisión de servicios', lo que sugiere que la convocatoria pública fue un mero trámite administrativo para legalizar una situación de hecho preexistente. El complemento específico de 19.221,72 euros se suma al sueldo base del nivel 25, configurando una remuneración de alto nivel otorgada bajo criterios discrecionales en un área tan sensible como la reinserción y el empleo penitenciario.",
+    "resumen_ciudadano": "El Ministerio del Interior ha formalizado el nombramiento 'a dedo' de una coordinadora para el Centro de Inserción Social Victoria Kent en Madrid. Aunque se publica en el BOE, el sistema de libre designación permite elegir a la persona sin un concurso público de méritos real. La beneficiaria ya estaba desempeñando el cargo temporalmente, lo que indica una selección predeterminada. El puesto cuenta con un plus salarial de más de 19.000 euros anuales.",
+    "resumen_tweet": "🚨 El @interiorgob adjudica 'a dedo' la Coordinación de Zona en el CIS Victoria Kent. La elegida ya ocupaba el puesto en comisión de servicios. ¿Procedimiento abierto o mero trámite? Complemento de 19.221€ anuales. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad total)",
+      "Puesto previamente ocupado en comisión de servicios (traje a medida)",
+      "Falta de desglose de méritos específicos del adjudicatario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marta Oro-Pulido M. (estabilidad y alta remuneración)",
+        "Subsecretaría del Interior (control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin contactos políticos o personales",
+        "Transparencia administrativa",
+        "Sistema de mérito real en el empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento por Libre Designación",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad total)",
+      "Puesto previamente ocupado en comisión de servicios (traje a medida)",
+      "Falta de desglose de méritos específicos del adjudicatario"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2728",
+  "timestamp": "2026-02-06T10:23:12.761Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 27 de enero de 2026, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento actúa como un sello de legitimidad para la expansión del mercado educativo privado. Resulta llamativo que, bajo un gobierno que discursivamente prioriza lo público, esta resolución valide una avalancha de títulos (10 en total) para una única entidad privada (Universidad Tecnológica de las Islas Canarias) frente a un solo título para universidades públicas históricas como Zaragoza o Las Palmas. No se detallan los criterios de calidad específicos ni el coste público de los procesos de verificación para estos entes privados.",
+    "resumen_ciudadano": "El Gobierno ha dado validez oficial a nuevos títulos de grado en varias universidades. Esto significa que estos estudios ahora tienen reconocimiento legal total para oposiciones y ejercicio profesional. La mayoría de los nuevos títulos aprobados pertenecen a universidades privadas en las Islas Canarias y a la Universidad de Navarra.",
+    "resumen_tweet": "🎓 ¿Educación o Negocio? El #BOE oficializa una avalancha de grados en universidades PRIVADAS mientras la pública apenas suma títulos. 💸 ¿Se está facilitando la 'titulitis' de pago con el sello del Estado? #Opacidad #Transparencia #Universidades 🏛️🧐",
+    "banderas_red_flags": [
+      "Desproporción de títulos otorgados a entidades privadas frente a públicas",
+      "Validación masiva de títulos para centros tecnológicos privados",
+      "Ausencia de información sobre el coste de los procesos de acreditación",
+      "Concentración geográfica de nuevas ofertas privadas en zonas de baja fiscalidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (especialmente en Canarias)",
+        "Entidades educativas de la Iglesia Católica",
+        "Sector de la educación superior como activo de inversión"
+      ],
+      "perdedores": [
+        "Universidad Pública (pérdida de cuota de mercado)",
+        "Alumnado con menos recursos (barreras de acceso económicas a los nuevos títulos oficiales)",
+        "Criterios de meritocracia frente a capacidad de pago"
+      ]
+    },
+    "comunidad_autonoma": "Multicomunidad (Especial impacto en Canarias, Aragón y Navarra)",
+    "tipologia": "Resolución Administrativa de Carácter Educativo",
+    "banderas_rojas": [
+      "Desproporción de títulos otorgados a entidades privadas frente a públicas",
+      "Validación masiva de títulos para centros tecnológicos privados",
+      "Ausencia de información sobre el coste de los procesos de acreditación",
+      "Concentración geográfica de nuevas ofertas privadas en zonas de baja fiscalidad"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2636",
+  "timestamp": "2026-02-05T12:32:23.125Z",
+  "title": "Resolución de 28 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 18 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', una modalidad legal pero cuestionada que permite la elección discrecional (a dedo) de funcionarios por parte de altos cargos bajo el pretexto de la 'confianza'. El adjudicatario ya pertenecía al mismo entorno de la Secretaría de Estado (Gabinete), lo que refuerza la endogamia administrativa y la falta de competencia real basada exclusivamente en méritos objetivos.",
+    "resumen_ciudadano": "El Ministerio para la Transformación Digital ha nombrado a un nuevo Jefe Adjunto de Secretaría para la Secretaría de Estado de Telecomunicaciones. El puesto se ha cubierto de forma discrecional entre una lista de candidatos, favoreciendo a alguien que ya trabajaba en el mismo gabinete de origen.",
+    "resumen_tweet": "🚩 Nuevo ascenso por 'libre designación' en el #BOE. Un funcionario del mismo gabinete es elegido 'a dedo' para la Secretaría de Estado de Telecomunicaciones. ¿Meritocracia o confianza política? 🕵️‍♂️ #Opacidad #Transparencia #Administración",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Promoción interna dentro del mismo círculo de confianza",
+      "Falta de detalle sobre los méritos específicos comparados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Manuel Luque Molinos",
+        "Cuerpo Ejecutivo Postal y de Telecomunicación"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos sin vinculación política/personal",
+        "Criterio de transparencia absoluta en el empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Promoción interna dentro del mismo círculo de confianza",
+      "Falta de detalle sobre los méritos específicos comparados"
+    ]
+  }
+}

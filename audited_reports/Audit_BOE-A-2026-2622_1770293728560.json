@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2622",
+  "timestamp": "2026-02-05T12:15:28.560Z",
+  "title": "Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 68/2026 actualiza una normativa de 1995 para adecuarla a la LOMLOE, consolidando al Cuerpo de Inspectores como una elite dentro de la funcion publica docente. Se detecta opacidad en el Articulo 3.2 al blindar 'complementos retributivos' acordes a su 'consideracion' sin especificar cuantias ni impacto presupuestario real. El capitulo de evaluacion (Capitulo V) sugiere un modelo de autocontrol que podria derivar en endogamia corporativa, limitando la rendicion de cuentas ante la ciudadania.",
+    "resumen_ciudadano": "El Gobierno redefine las reglas para los inspectores educativos, dandoles mas poder de control sobre colegios publicos y privados. Se les reconoce como autoridad publica y se les asignan pluses salariales no detallados. Aunque busca modernizar el sistema, aumenta la burocracia y el gasto en desplazamientos y sueldos sin explicar de donde saldra exactamente el dinero ni como se medira su exito de forma externa.",
+    "resumen_tweet": "🔍 Nueva ley para la Inspeccion Educativa: mas estatus y 'pluses' salariales sin detalle presupuestario 💸 Se refuerza la autoridad pero falta transparencia en el coste real para el contribuyente. ¿Control o burocracia? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Gasto fantasma en complementos retributivos no cuantificados",
+      "Indemnizaciones por desplazamiento con criterios variables por CCAA",
+      "Modelo de evaluacion interna con riesgo de falta de independencia",
+      "Ambiguedad en la financiacion de la formacion especializada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo de Inspectores de Educación (mayor estatus y blindaje salarial)",
+        "Administraciones autonomas (mayor capacidad de supervision directiva)"
+      ],
+      "perdedores": [
+        "Centros educativos (mayor carga fiscalizadora y burocratica)",
+        "Contribuyentes (asuncion de costes salariales no especificados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto",
+    "banderas_rojas": [
+      "Gasto fantasma en complementos retributivos no cuantificados",
+      "Indemnizaciones por desplazamiento con criterios variables por CCAA",
+      "Modelo de evaluacion interna con riesgo de falta de independencia",
+      "Ambiguedad en la financiacion de la formacion especializada"
+    ]
+  }
+}

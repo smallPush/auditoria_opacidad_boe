@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2731",
+  "timestamp": "2026-02-06T10:26:51.532Z",
+  "title": "Acuerdo de 2 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria del Magistrado don Carlos Martín Meizoso.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta un acto administrativo rutinario bajo una capa de formalismo jurídico que oculta el impacto económico real. Aunque se cita la Ley de Clases Pasivas, no se desglosa la cuantía de los 'derechos pasivos' (pensión) que el Estado asumirá. Este tipo de jubilaciones voluntarias en la alta judicatura a menudo pasan desapercibidas, omitiendo información sobre el coste de reemplazo y la carga prestacional para las arcas públicas.",
+    "resumen_ciudadano": "Se confirma la jubilación a petición propia de un Magistrado de la Audiencia Provincial de Madrid. El acuerdo garantiza sus beneficios económicos de por vida, pero no especifica cuánto dinero público se destinará a su pensión ni cómo se cubrirá su plaza para no retrasar la justicia.",
+    "resumen_tweet": "🏛️ Jubilación voluntaria en la Audiencia de Madrid. Mucho lenguaje jurídico pero 0️⃣ transparencia en las cifras de la pensión vitalicia que pagaremos todos. ¿Y la eficiencia judicial? La opacidad continúa. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Cálculo de derechos pasivos no especificado",
+      "Falta de información sobre el proceso de sucesión en la plaza",
+      "Uso de referencias legales cruzadas que dificultan la comprensión del coste económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Carlos Martín Meizoso (acceso a jubilación voluntaria con derechos pasivos garantizados)",
+        "Cúpula judicial (mantenimiento de privilegios de clase pasiva)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de la pensión sin conocer el desglose)",
+        "Justicia ciudadana (posible vacante que ralentiza procesos en la Audiencia de Madrid)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Cálculo de derechos pasivos no especificado",
+      "Falta de información sobre el proceso de sucesión en la plaza",
+      "Uso de referencias legales cruzadas que dificultan la comprensión del coste económico"
+    ]
+  }
+}

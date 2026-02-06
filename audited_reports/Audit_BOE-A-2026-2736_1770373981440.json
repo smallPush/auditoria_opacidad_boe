@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2736",
+  "timestamp": "2026-02-06T10:33:01.440Z",
+  "title": "Resolución de 27 de enero de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 2 de diciembre de 2025, por la que se nombra personal funcionario de carrera, por promoción interna, en la Escala de Personal Investigador Científico de los Organismos Públicos de Investigación.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de una corrección de errores en la asignación de destinos para personal investigador científico de alto nivel (Nivel 28). La opacidad reside en la disparidad de las retribuciones: para una misma escala (Investigador A2) y mismo nivel de complemento de destino, existen variaciones en el complemento específico que van desde los 12.482€ hasta los 17.092€. El texto no explica por qué unos centros de destino o departamentos gozan de un 37% más de complemento que otros para el mismo rango jerárquico. Además, el hecho de tener que corregir 'errores' en un proceso de promoción interna de élite científica denota una gestión administrativa descuidada.",
+    "resumen_ciudadano": "El Gobierno rectifica la asignación de puestos de trabajo para investigadores que han ascendido dentro de organismos como el CSIC, el CIEMAT y el Instituto de Salud Carlos III. La resolución ajusta los departamentos y lugares de trabajo finales para cinco científicos en Madrid, Barcelona, Soria y Valencia.",
+    "resumen_tweet": "🔍 El #BOE corrige errores en destinos de investigadores científicos. Misma categoría y nivel, pero brechas salariales de hasta 5.000€ en complementos sin explicación clara. ¿Premio o arbitrariedad? 🧪📉 #Transparencia #Opacidad #Ciencia",
+    "banderas_red_flags": [
+      "Brecha salarial interna injustificada en el complemento específico",
+      "Errores administrativos en la adjudicación inicial de destinos",
+      "Falta de transparencia sobre los criterios de valoración de los puestos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Investigadores que consolidan su plaza (Ana Prades, Luis Saúl Esteban, etc.)",
+        "Centros de investigación que finalmente reciben al personal asignado correctamente"
+      ],
+      "perdedores": [
+        "Equidad retributiva: investigadores con igual nivel pero menor complemento específico",
+        "Eficiencia administrativa por la necesidad de subsanar errores tras la publicación original"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Brecha salarial interna injustificada en el complemento específico",
+      "Errores administrativos en la adjudicación inicial de destinos",
+      "Falta de transparencia sobre los criterios de valoración de los puestos"
+    ]
+  }
+}

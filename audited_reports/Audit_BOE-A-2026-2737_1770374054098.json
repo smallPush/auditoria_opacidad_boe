@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-2737",
+  "timestamp": "2026-02-06T10:34:14.098Z",
+  "title": "Resolución de 27 de enero de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 4 de diciembre de 2025, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo de Técnicos Auxiliares de Informática de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Estamos ante una correccion de errores tipicos de la burocracia estatal. Aunque la transparencia es alta al publicar los cambios, el documento evidencia una falta de rigor en la gestion de datos inicial de la Secretaria de Estado de Funcion Publica. Se utilizan recursos publicos para subsanar errores nominales (apellidos) en el nombramiento de tecnicos de informatica. No se detectan gastos fantasma, pero si una ineficiencia administrativa que obliga a re-publicar actos administrativos en el BOE.",
+    "resumen_ciudadano": "El Gobierno ha corregido los apellidos de dos funcionarios de carrera del Cuerpo de Tecnicos Auxiliares de Informatica. Los afectados trabajan en areas como el control del juego seguro y la transformacion digital de la justicia. Esta correccion es puramente administrativa y no altera los plazos de toma de posesion ni las condiciones economicas (Nivel 16, complemento especifico de 4060,14 euros).",
+    "resumen_tweet": "📝 Mas fe de erratas en el #BOE. Se corrigen nombres de nuevos funcionarios de informatica. ¿Falta de rigor en la gestion de datos? Alta transparencia procedimental, pero ineficiencia administrativa evitable. 🏛️💻 #Opacidad #Transparencia #FuncionPublica",
+    "banderas_red_flags": [
+      "Ineficiencia en la gestion de bases de datos de personal",
+      "Gasto administrativo derivado de la republicacion por errores de transcripcion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ruben Martin Maderuelo (seguridad juridica sobre su nombre)",
+        "Pedro Jose Garcia Andres (seguridad juridica sobre su nombre)"
+      ],
+      "perdedores": [
+        "Contribuyente (coste de gestion y publicacion de correcciones evitables)",
+        "Eficiencia administrativa del Ministerio para la Transformacion Digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ineficiencia en la gestion de bases de datos de personal",
+      "Gasto administrativo derivado de la republicacion por errores de transcripcion"
+    ]
+  }
+}

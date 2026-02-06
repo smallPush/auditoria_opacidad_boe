@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2739",
+  "timestamp": "2026-02-06T10:36:42.393Z",
+  "title": "Resolución de 19 de enero de 2026, de la Universidad de A Coruña, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de funcionarios de carrera en el ámbito universitario. Aunque el proceso cumple con la formalidad legal, persiste la opacidad sobre los costes salariales reales asociados a cada plaza. Se observa una paridad de género exacta (50%) en este grupo y un enfoque claro en áreas STEM (IA, Tecnología de Computadores) y Salud Pública.",
+    "resumen_ciudadano": "La Universidad de A Coruña ha nombrado formalmente a cuatro nuevos profesores funcionarios: dos mujeres como Titulares de Universidad y dos hombres como Catedráticos, centrados en informática, electrónica y medicina preventiva.",
+    "resumen_tweet": "🎓 Nuevos nombramientos en la @UDC_gal. 2 Profesoras Titulares y 2 Catedráticos se consolidan en IA, Salud y Tecnología. ⚖️ Paridad 50/50 en este lote, pero sin rastro de costes salariales públicos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Opacidad en la baremación de méritos en el extracto público",
+      "Uso de firma por delegación (P.D.) en actos administrativos de alto rango"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad de A Coruña (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores en situación de precariedad",
+        "Contribuyentes (por falta de transparencia en la masa salarial pública)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Recursos Humanos / Educación Superior",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Opacidad en la baremación de méritos en el extracto público",
+      "Uso de firma por delegación (P.D.) en actos administrativos de alto rango"
+    ]
+  }
+}

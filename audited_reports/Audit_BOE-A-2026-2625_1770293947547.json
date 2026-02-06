@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2625",
+  "timestamp": "2026-02-05T12:19:07.547Z",
+  "title": "Resolución de 9 de enero de 2026, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026 en la Comunidad Autónoma del País Vasco.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque la norma se presenta como técnica y necesaria para la seguridad vial, establece una clara jerarquía de intereses: se priorizan los eventos deportivos de élite (UCI) y el turismo sobre el derecho al trabajo y la logística de mercancías. La discrecionalidad en el 'levantamiento excepcional' de restricciones y en las 'autorizaciones especiales' genera un espacio de opacidad donde la Dirección de Tráfico puede favorecer a ciertos sectores sin criterios públicos claros. No se menciona presupuesto, pero el despliegue de la Ertzaintza para estas coberturas supone un coste público indirecto no detallado.",
+    "resumen_ciudadano": "El Gobierno Vasco regula el tráfico para 2026 prohibiendo la circulación de camiones de más de 7,5 toneladas y transporte de mercancías peligrosas durante festivos, puentes y vísperas. También restringe eventos deportivos locales, aunque permite grandes competiciones internacionales, buscando despejar las carreteras para el turismo y el ocio.",
+    "resumen_tweet": "🚨 ¿Seguridad o marketing? El #BOE publica las restricciones de tráfico 2026 en Euskadi: se castiga al transporte profesional mientras se protege a la élite ciclista internacional (UCI). Menos fluidez para el trabajador, más para el ocio. 🚚🚫 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en el otorgamiento de autorizaciones especiales",
+      "Exenciones arbitrarias para eventos internacionales frente a locales",
+      "Falta de memoria económica sobre el coste del despliegue policial para estas restricciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector turístico",
+        "Organizadores de eventos deportivos internacionales (UCI)",
+        "Usuarios de vehículos ligeros en vacaciones"
+      ],
+      "perdedores": [
+        "Transportistas autónomos y asalariados (sector mayoritariamente masculino de clase media-baja)",
+        "Pequeñas empresas de logística",
+        "Asociaciones deportivas locales"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Regulación de Tráfico y Seguridad Vial",
+    "banderas_rojas": [
+      "Discrecionalidad en el otorgamiento de autorizaciones especiales",
+      "Exenciones arbitrarias para eventos internacionales frente a locales",
+      "Falta de memoria económica sobre el coste del despliegue policial para estas restricciones"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2729",
+  "timestamp": "2026-02-06T10:24:27.996Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 27 de enero de 2026, por el que se establece el carácter oficial de determinados títulos de Máster y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento cumple con la formalidad de publicar la oficialidad de títulos de Máster, pero mantiene la opacidad sobre los costes de implantación y las tasas de expedición. Existe una notable presencia de universidades privadas (Europea de Madrid, UNIR, Villanueva) obteniendo validación oficial para títulos habilitantes en sectores críticos como Salud (Psicología Sanitaria) y Derecho. Esto sugiere una externalización de la formación obligatoria de posgrado hacia el sector privado, bajo la pátina de legalidad estatal. No se detalla el impacto presupuestario de la renovación de acreditaciones ni el control de precios en los másteres no públicos.",
+    "resumen_ciudadano": "El Gobierno ha oficializado una lista de nuevos títulos de Máster en diversas universidades españolas y extranjeras. Esto permite que estos estudios tengan validez legal para trabajar o seguir estudiando en toda España. Se incluyen desde másteres en ciberseguridad y MBA hasta programas internacionales Erasmus Mundus en biología y acción humanitaria.",
+    "resumen_tweet": "🎓 El #BOE publica nuevos Másteres oficiales. El sector privado gana terreno en títulos habilitantes (Psicología, Derecho). ¿Es educación o negocio? El Estado firma, tú pagas. 💸 #Opacidad #Transparencia #Universidades #Educación",
+    "banderas_red_flags": [
+      "Externalización de títulos habilitantes a universidades privadas",
+      "Ausencia de datos sobre el coste público de la supervisión de estos centros",
+      "Opacidad en los criterios de renovación de acreditación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (UNIR, Villanueva, Europea de Madrid)",
+        "Redes universitarias internacionales (Erasmus Mundus)",
+        "Universidad Tecnológica de las Islas Canarias"
+      ],
+      "perdedores": [
+        "Estudiantes de rentas bajas (por el alto coste de másteres habilitantes privados)",
+        "Sistema de educación pública (por la competencia creciente en posgrados)",
+        "Transparencia presupuestaria (sin desglose de costes de gestión de títulos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Títulos Oficiales",
+    "banderas_rojas": [
+      "Externalización de títulos habilitantes a universidades privadas",
+      "Ausencia de datos sobre el coste público de la supervisión de estos centros",
+      "Opacidad en los criterios de renovación de acreditación"
+    ]
+  }
+}

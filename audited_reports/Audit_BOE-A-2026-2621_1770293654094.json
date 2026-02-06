@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2621",
+  "timestamp": "2026-02-05T12:14:14.094Z",
+  "title": "Orden HAC/56/2026, de 22 de enero, por la que se modifica la Orden HFP/826/2022, de 30 de agosto, por la que se aprueba el modelo 587 «Impuesto sobre los Gases Fluorados de Efecto Invernadero. Autoliquidación» y el modelo A23 «Impuesto sobre los Gases Fluorados de Efecto Invernadero. Solicitud de devolución», se determinan la forma y procedimiento para la presentación de los mismos, y se regulan la inscripción en el Registro territorial y la llevanza de la contabilidad de existencias.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden HAC/56/2026 introduce la figura de la 'autoliquidación rectificativa' en el Impuesto sobre Gases Fluorados, transponiendo directivas europeas de cooperación administrativa. Si bien se presenta como una medida de 'eficiencia' y 'simplificación', en realidad desplaza la carga administrativa y la responsabilidad de corrección técnica directamente al contribuyente, liberando a la Administración de emitir resoluciones previas. La complejidad del modelo 587 y sus tablas de potencial de calentamiento atmosférico suponen una barrera técnica que beneficia la recaudación automatizada sobre la claridad para el pequeño operador industrial.",
+    "resumen_ciudadano": "Hacienda modifica los formularios para pagar el impuesto por gases de refrigeración y aires acondicionados. A partir de julio de 2026, si cometes un error al declarar, deberás usar un nuevo sistema para corregirte a ti mismo (autoliquidación rectificativa) sin esperar a que la administración revise tu caso. Esto acelera el proceso para el Estado, pero exige que las empresas tengan sistemas contables mucho más precisos y digitales.",
+    "resumen_tweet": "💨 Hacienda actualiza el impuesto a los Gases Fluorados. Se crea la 'autoliquidación rectificativa': ahora tú corriges tus errores antes de que el Estado te lo pida. ¿Agilidad o más carga para el autónomo? 🧐 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Desplazamiento de la carga de revisión administrativa al obligado tributario",
+      "Obligatoriedad estricta de medios electrónicos que excluye a sectores menos digitalizados",
+      "Complejidad técnica en la determinación de tipos impositivos basados en fórmulas de mezclas",
+      "Uso de conceptos jurídicos indeterminados en las causas de rectificación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Estatal de Administración Tributaria (menor carga de gestión manual)",
+        "Grandes corporaciones con departamentos fiscales automatizados",
+        "Consultoras de software tributario"
+      ],
+      "perdedores": [
+        "Pymes del sector de refrigeración y climatización",
+        "Instaladores autónomos con alta carga burocrática",
+        "Consumidor final (por posible traslado de costes de gestión fiscal)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Fiscal y Procedimientos Tributarios",
+    "banderas_rojas": [
+      "Desplazamiento de la carga de revisión administrativa al obligado tributario",
+      "Obligatoriedad estricta de medios electrónicos que excluye a sectores menos digitalizados",
+      "Complejidad técnica en la determinación de tipos impositivos basados en fórmulas de mezclas",
+      "Uso de conceptos jurídicos indeterminados en las causas de rectificación"
+    ]
+  }
+}

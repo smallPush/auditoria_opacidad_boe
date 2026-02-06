@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2744",
+  "timestamp": "2026-02-06T10:42:50.610Z",
+  "title": "Resolución de 28 de enero de 2026, de la Subsecretaría, por la que se convalida plazo para la presentación de solicitudes del concurso general para la provisión de puestos de trabajo en la Dirección General de la Policía, convocado por Resolución de 5 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución evidencia un fallo de coordinación técnica grave entre la información oficial del BOE y la sede electrónica del Ministerio del Interior. Al publicar fechas erróneas en la web (14 de enero frente al 12 oficial), la Administración vulneró el principio de seguridad jurídica. Este acto de 'convalidación' es un mecanismo de control de daños para evitar una lluvia de recursos contencioso-administrativos por parte de aspirantes que confiaron en la información institucional digital. Refleja una gestión reactiva y una brecha entre la norma y la ejecución digital.",
+    "resumen_ciudadano": "El Ministerio del Interior cometió un error en su página web al dar una fecha de plazo incorrecta para solicitar puestos en la Policía Nacional. Como el error fue suyo, ahora publican esta resolución para aceptar como válidas las solicitudes enviadas fuera de plazo (13 y 14 de enero), evitando así que los afectados queden fuera por culpa de la propia Administración.",
+    "resumen_tweet": "⚠️ Error administrativo en el @interiorgob: se dieron fechas falsas en la web para plazas de Policía. Ahora toca 'parchear' la resolución para evitar recursos legales. ¿Falta de rigor o simple incompetencia digital? 👮‍♂️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Causa imputable a la Administración",
+      "Discrepancia entre BOE y portal web",
+      "Inseguridad jurídica temporal",
+      "Corrección reactiva de plazos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos que se fiaron de la web y entregaron tarde",
+        "Subsecretaría (al evitar litigios masivos)"
+      ],
+      "perdedores": [
+        "Candidatos que cumplieron estrictamente el plazo original",
+        "Eficiencia administrativa del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Gestión de Recursos Humanos",
+    "banderas_rojas": [
+      "Causa imputable a la Administración",
+      "Discrepancia entre BOE y portal web",
+      "Inseguridad jurídica temporal",
+      "Corrección reactiva de plazos"
+    ]
+  }
+}

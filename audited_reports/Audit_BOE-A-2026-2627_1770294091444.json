@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2627",
+  "timestamp": "2026-02-05T12:21:31.444Z",
+  "title": "Real Decreto 73/2026, de 4 de febrero, por el que se adjudica plaza vacante de segunda categoría de la Fiscalía Provincial de Valencia a doña Ana Isabel Neira Alonso.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la cobertura de una plaza vacante en la carrera fiscal. La opacidad no reside en el nombramiento en sí, sino en el sistema de 'adscripción previa' mencionado (desde diciembre de 2025), lo que sugiere que la plaza ya estaba asignada de facto antes de la formalización del Real Decreto. No hay gastos fantasma directos, pero sí un refuerzo de la endogamia administrativa donde los procesos de selección competitiva son invisibles para el ciudadano en el texto final.",
+    "resumen_ciudadano": "El Gobierno formaliza el nombramiento de Ana Isabel Neira Alonso como fiscal de segunda categoría en Valencia. Es un movimiento interno de la carrera judicial que consolida una posición que ya venía ocupando de forma provisional desde hace dos meses.",
+    "resumen_tweet": "⚖️ Consolidación de plaza en la Fiscalía de Valencia. El BOE publica el nombramiento de Ana Isabel Neira como fiscal de 2ª categoría. Un trámite que formaliza una situación de hecho desde 2025. #BOE #Transparencia #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Adscripción previa desde diciembre de 2025",
+      "Falta de desglose de méritos competitivos en el texto",
+      "Procedimiento de libre designación camuflado como ordinario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel Neira Alonso (estabilidad laboral)",
+        "Ministerio Fiscal (cobertura de vacante)"
+      ],
+      "perdedores": [
+        "Aspirantes externos a la carrera fiscal",
+        "Transparencia en procesos competitivos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Adscripción previa desde diciembre de 2025",
+      "Falta de desglose de méritos competitivos en el texto",
+      "Procedimiento de libre designación camuflado como ordinario"
+    ]
+  }
+}

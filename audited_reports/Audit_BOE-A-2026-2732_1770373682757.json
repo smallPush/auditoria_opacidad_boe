@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-2732",
+  "timestamp": "2026-02-06T10:28:02.757Z",
+  "title": "Orden EFD/58/2026, de 29 de enero, por la que, a propuesta de la Consejería de Educación y Empleo de la Comunidad Autónoma de La Rioja, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño y Profesores Especialistas en Sectores Singulares de la Formación Profesional, a las personas seleccionadas en los procedimientos selectivos convocados por Resolución 29/2023, de 8 de marzo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una formalización administrativa de nombramientos docentes. Aunque cumple con la transparencia al publicar nombres y puntuaciones, se observa una notable latencia burocrática: el proceso se inició en 2023, los efectos económicos son de 2024 y el nombramiento definitivo llega en 2026. Esta 'lentitud institucional' actúa como una barrera de opacidad temporal, dificultando el seguimiento ciudadano del gasto real en personal y la planificación educativa efectiva.",
+    "resumen_ciudadano": "Se nombra oficialmente como funcionarios de carrera a los profesores que superaron las oposiciones de 2023 en La Rioja (Secundaria, Música, Artes y FP). Estos profesionales ya estaban trabajando en prácticas y ahora obtienen su plaza definitiva con efectos retroactivos al 1 de septiembre de 2024.",
+    "resumen_tweet": "🎓 ¡Por fin! El #BOE publica el nombramiento de docentes en La Rioja tras un proceso iniciado en 2023. Listas públicas y claras, pero una burocracia que tarda 3 años en cerrar el ciclo. ¿Es esta la eficiencia que buscamos? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (2023-2026)",
+      "Efectos retroactivos que complican la contabilidad pública inmediata",
+      "Alta complejidad en la denominación de los cuerpos docentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Profesores seleccionados (obtienen estabilidad laboral)",
+        "Sistema educativo riojano (consolida plantilla)"
+      ],
+      "perdedores": [
+        "Agilidad administrativa (proceso de casi 3 años)",
+        "Interinos desplazados",
+        "Transparencia en tiempo real (el ciudadano conoce el cierre del proceso con años de retraso)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (2023-2026)",
+      "Efectos retroactivos que complican la contabilidad pública inmediata",
+      "Alta complejidad en la denominación de los cuerpos docentes"
+    ]
+  }
+}

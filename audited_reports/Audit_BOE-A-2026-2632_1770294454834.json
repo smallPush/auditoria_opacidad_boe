@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2632",
+  "timestamp": "2026-02-05T12:27:34.834Z",
+  "title": "Resolución de 27 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "Se trata de un nombramiento mediante el sistema de 'libre designación', una figura legal que permite la adjudicación de puestos de alta responsabilidad por criterios de confianza en lugar de concurso de méritos puro. El adjudicatario procede de la Agencia Estatal Comisión Española para la lucha antidopaje en el deporte (CELAD), un salto funcional notable hacia la Dirección General de Apoyo a Víctimas del Terrorismo. Aunque la publicación cumple con la legalidad de mostrar el complemento específico (24.549,84 €), no existe justificación pública sobre la idoneidad técnica del perfil para este cambio de sector.",
+    "resumen_ciudadano": "El Ministerio del Interior ha nombrado a un nuevo Coordinador de Área para la Subdirección de Ayudas a Víctimas del Terrorismo. El puesto es de nivel 29 (uno de los más altos en la administración pública) y conlleva un sobresueldo específico de más de 24.500 euros anuales. El proceso ha sido por designación directa (a dedo), lo cual es común en estos niveles pero reduce la competencia real.",
+    "resumen_tweet": "📢 Nuevo 'dedazo' legal en el #BOE. Interior asigna un puesto de Nivel 29 con un complemento de 24.549€ mediante libre designación. Del sector antidopaje a Víctimas del Terrorismo. ¿Confianza o especialización? 🕵️‍♂️🇪🇸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Salto funcional entre ministerios (Educación/Deporte a Interior)",
+      "Elevado complemento específico sin desglose de funciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Carlos Calomarde Rodrigo (adjudicatario del puesto Nivel 29)",
+        "Ministerio del Interior (consolidación de equipo de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos específicos en terrorismo (excluidos por designación directa)",
+        "Ciudadanía (falta de transparencia en la motivación del fichaje)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal / Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Salto funcional entre ministerios (Educación/Deporte a Interior)",
+      "Elevado complemento específico sin desglose de funciones"
+    ]
+  }
+}

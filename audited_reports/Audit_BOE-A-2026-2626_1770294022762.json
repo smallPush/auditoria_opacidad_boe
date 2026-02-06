@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2626",
+  "timestamp": "2026-02-05T12:20:22.762Z",
+  "title": "Real Decreto 74/2026, de 4 de febrero, sobre promociones en la Carrera Fiscal.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El Real Decreto 74/2026 es un acto administrativo de promociones internas en la Carrera Fiscal. Si bien los nombres y destinos son publicos, existe una opacidad financiera inherente: se mencionan efectos economicos desde la toma de posesion pero no se adjunta una memoria economica que detalle el impacto presupuestario total de estos 29 ascensos. Se observa una clara feminizacion de la justicia, con una abrumadora mayoria de mujeres promocionadas (24 de 29), lo cual es un indicador de cambio demografico en la alta funcion publica. No obstante, el sistema de promocion sigue siendo una caja negra para el ciudadano medio al no explicarse los meritos especificos de cada ascenso en este documento.",
+    "resumen_ciudadano": "El Gobierno ha ascendido a 29 abogados fiscales a la categoria superior de Fiscal. Estos profesionales mantendran sus puestos actuales en diversas provincias (Madrid, Barcelona, Alicante, entre otras), pero recibiran un aumento salarial asociado a su nuevo rango. El proceso cumple con los tramites legales pero no informa sobre el coste total para el contribuyente.",
+    "resumen_tweet": "⚖️ Ascenso de 29 nuevos Fiscales en el #BOE. Gran presencia femenina (82%), pero sin rastro del coste total para el bolsillo publico. ¿Transparencia o burocracia opaca? La justicia avanza, pero los datos economicos no. 💸 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica detallada",
+      "Falta de cuantificacion del gasto publico agregado",
+      "Opacidad en los criterios de merito individual en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 29 fiscales promocionados (mejora de estatus y sueldo)",
+        "Ministerio de Justicia (estabilizacion de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el gasto sin conocer la cifra exacta)",
+        "Cuerpo de abogados fiscales que no han obtenido promocion en esta tanda"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Promociones",
+    "banderas_rojas": [
+      "Ausencia de memoria economica detallada",
+      "Falta de cuantificacion del gasto publico agregado",
+      "Opacidad en los criterios de merito individual en el texto publicado"
+    ]
+  }
+}
