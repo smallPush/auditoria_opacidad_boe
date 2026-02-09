@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-2825",
+  "timestamp": "2026-02-08T21:29:22.263Z",
+  "title": "Corrección de errores del Acuerdo de coproducción cinematográfica y audiovisual entre el Gobierno del Reino de España y el Gobierno de la República de Colombia, hecho en Bogotá y Barcelona el 26 y 29 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una deficiencia administrativa significativa al intentar presentar como una simple 'corrección de errores' un cambio sustancial en la fecha de entrada en vigor de un tratado internacional. Desplazar la vigencia de septiembre de 2025 a enero de 2026 no es un errata tipográfica, sino una alteración de la seguridad jurídica que deja en un limbo legal todas las coproducciones iniciadas en ese intervalo de cuatro meses. Este tipo de 'fe de erratas' encubre una falta de rigor en el seguimiento de los protocolos diplomáticos de notificación.",
+    "resumen_ciudadano": "El Gobierno ha corregido la fecha de inicio de un acuerdo de cine con Colombia. Originalmente se dijo que estaba vigente desde septiembre de 2025, pero ahora se admite que no lo estuvo hasta finales de enero de 2026. Esto afecta a las subvenciones y beneficios fiscales de las películas rodadas en ese periodo.",
+    "resumen_tweet": "🚨 ¡Cuidado! El Gobierno 'corrige' un error y retrasa 4 meses la vigencia de un acuerdo de cine con Colombia. ¿Qué pasa con las películas de 2025? Inseguridad jurídica camuflada de errata. 🎬📉 #BOE #Opacidad #Transparencia #Cine",
+    "banderas_red_flags": [
+      "Alteración retroactiva de vigencia legal",
+      "Uso de corrección de errores para cambios de fondo",
+      "Posible invalidez de actos administrativos previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (evita responsabilidad por retrasos burocráticos)"
+      ],
+      "perdedores": [
+        "Productoras cinematográficas con proyectos iniciados a finales de 2025",
+        "Seguridad jurídica internacional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Cultura",
+    "banderas_rojas": [
+      "Alteración retroactiva de vigencia legal",
+      "Uso de corrección de errores para cambios de fondo",
+      "Posible invalidez de actos administrativos previos"
+    ]
+  }
+}

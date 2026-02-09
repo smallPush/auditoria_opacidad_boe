@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2831",
+  "timestamp": "2026-02-08T21:36:34.175Z",
+  "title": "Resolución de 21 de enero de 2026, de la Universidad de A Coruña, por la que se nombra Catedrático de Universidad a don Luis Esteban Medina Rodríguez.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "El documento es una resolución estándar de nombramiento para el cuerpo de Catedráticos de Universidad bajo la LOSU. Aunque formalmente cumple la ley, la opacidad reside en el proceso de concurso previo (mencionado solo por referencia), donde se decide la plaza. Se perpetúa una estructura de promoción interna que, en el ámbito técnico de la ingeniería, suele presentar una baja rotación y escasa competitividad externa.",
+    "resumen_ciudadano": "La Universidad de A Coruña ha nombrado a Luis Esteban Medina Rodríguez como Catedrático de Universidad en Ingeniería del Terreno. Es un ascenso de rango funcionarial máximo dentro de la jerarquía académica tras superar un concurso de acceso interno iniciado en 2025.",
+    "resumen_tweet": "📢 Nuevo catedrático en @UDC_gal: Luis Esteban Medina Rodríguez logra plaza en Ingeniería del Terreno. ¿Meritocracia abierta o inercia administrativa en la universidad pública? 🎓🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de evaluación del concurso referenciado de 2025",
+      "Falta de detalle sobre el impacto presupuestario del nuevo sueldo de catedrático",
+      "Posible sesgo de endogamia académica habitual en promociones de departamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Esteban Medina Rodríguez (consolidación de estatus y aumento salarial)",
+        "Universidad de A Coruña (mantenimiento de jerarquía departamental)"
+      ],
+      "perdedores": [
+        "Talento investigador joven (sin acceso a plazas de este nivel)",
+        "Contribuyentes (por la falta de rendición de cuentas sobre la productividad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Opacidad en los criterios de evaluación del concurso referenciado de 2025",
+      "Falta de detalle sobre el impacto presupuestario del nuevo sueldo de catedrático",
+      "Posible sesgo de endogamia académica habitual en promociones de departamento"
+    ]
+  }
+}

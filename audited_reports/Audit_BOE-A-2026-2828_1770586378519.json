@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2828",
+  "timestamp": "2026-02-08T21:32:58.519Z",
+  "title": "Resolución de 5 de febrero de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución técnica bajo el pretexto de 'prudencia financiera' establece techos de endeudamiento que, si bien protegen de la usura bancaria extrema, consolidan una asimetría de poder. Se permite que las administraciones con 'asesoramiento externo independiente' determinen su propio coste, lo cual es una puerta abierta a la contratación discrecional de consultoras privadas (Gastos Fantasma). La tabla de tipos impuesta es de una complejidad técnica que excluye la supervisión ciudadana real, convirtiendo la gestión de la deuda pública en un reducto para tecnócratas y bancos.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los intereses máximos que Ayuntamientos y Comunidades Autónomas pueden pagar cuando piden dinero prestado o contratan seguros financieros. Aunque parece una medida de ahorro, la norma favorece a las regiones más ricas que pueden permitirse asesores financieros privados, mientras que los municipios pequeños deben ceñirse a tablas rígidas sin capacidad de negociación frente a los bancos.",
+    "resumen_tweet": "💸 El Tesoro fija el coste máximo de la deuda para Ayuntamientos y CCAA. ¿Protección o control centralizado? 🧐 Las entidades con 'asesores externos' tendrán más flexibilidad, favoreciendo a los de siempre. #BOE #Opacidad #Transparencia #Deuda 🏦📉",
+    "banderas_red_flags": [
+      "Externalización del cálculo de costes mediante asesoramiento privado",
+      "Falta de justificación técnica sobre el origen de los diferenciales de puntos básicos",
+      "Asimetría normativa entre grandes administraciones y pequeños municipios",
+      "Uso de lenguaje hiper-técnico para desincentivar el escrutinio público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades financieras (márgenes de beneficio asegurados)",
+        "Grandes consultoras financieras (contratadas como 'asesoramiento externo')",
+        "Comunidades Autónomas con mayor infraestructura técnica"
+      ],
+      "perdedores": [
+        "Pequeños ayuntamientos (menos margen de maniobra)",
+        "Contribuyentes (pagan el coste de asesores externos y servicios de deuda)",
+        "Transparencia democrática (decisiones financieras ocultas tras tablas de tipos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Todas",
+    "tipologia": "Financiera y Control de Endeudamiento",
+    "banderas_rojas": [
+      "Externalización del cálculo de costes mediante asesoramiento privado",
+      "Falta de justificación técnica sobre el origen de los diferenciales de puntos básicos",
+      "Asimetría normativa entre grandes administraciones y pequeños municipios",
+      "Uso de lenguaje hiper-técnico para desincentivar el escrutinio público"
+    ]
+  }
+}

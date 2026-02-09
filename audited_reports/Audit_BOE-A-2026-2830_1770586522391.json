@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2830",
+  "timestamp": "2026-02-08T21:35:22.391Z",
+  "title": "Resolución de 29 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento refleja el uso recurrente del sistema de 'libre designación' para puestos de máxima responsabilidad (Nivel 30 y 29), lo cual permite la discrecionalidad política en la elección de técnicos de alto nivel. Aunque se cita la normativa legal (Ley 30/1984), este método elude la concurrencia competitiva basada exclusivamente en méritos objetivos, priorizando la 'confianza' del cargo político superior. Se observa la consolidación de élites funcionariales (Cuerpo Superior de Técnicos Comerciales) en puestos clave de comercio territorial.",
+    "resumen_ciudadano": "El Ministerio de Economía ha nombrado a dedo a los nuevos directores territoriales de comercio en Valencia y Asturias. Son puestos de la escala más alta de la administración (Niveles 29 y 30) otorgados por decisión directa de la Subsecretaría entre funcionarios de cuerpos de élite.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Economía adjudica 'a dedo' (libre designación) puestos de Nivel 30 y 29 en Valencia y Asturias. ¿Mérito o confianza política? La opacidad en la selección de altos cargos territoriales continúa. 📉 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puestos de nivel máximo administrativo (30)",
+      "Ausencia de baremación pública de méritos comparativos",
+      "Nombramiento de altos funcionarios procedentes de otras regiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Técnicos Comerciales",
+        "Cuerpo de Inspectores del SOIVRE",
+        "Estructura política del Ministerio de Economía"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza política",
+        "Principio de mérito y capacidad en concurrencia competitiva",
+        "Transparencia en la gestión de altos cargos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana y Asturias",
+    "tipologia": "Nombramientos de Personal de Libre Designación",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puestos de nivel máximo administrativo (30)",
+      "Ausencia de baremación pública de méritos comparativos",
+      "Nombramiento de altos funcionarios procedentes de otras regiones"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2832",
+  "timestamp": "2026-02-08T21:37:47.490Z",
+  "title": "Resolución de 21 de enero de 2026, de la Universidad de Girona, por la que se nombra Catedrático de Universidad a don Joan Carles Ferrer Comalat.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de cátedra estándar bajo la Ley Orgánica del Sistema Universitario (LOSU). Aunque el proceso sigue el cauce legal, la publicación en el BOE es meramente formal y no ofrece visibilidad sobre la baremación de méritos ni la competitividad real del concurso (referencia CU25/03). La opacidad reside en la falta de acceso público a los criterios de selección de la comisión que juzgó la plaza.",
+    "resumen_ciudadano": "La Universidad de Girona ha nombrado oficialmente a Joan Carles Ferrer Comalat como Catedrático de Universidad en el área de Economía Financiera y Contabilidad. Este paso es el trámite final de un concurso iniciado en 2025 para consolidar su puesto docente y de investigación.",
+    "resumen_tweet": "🏛️ Nueva cátedra en la UdG. Joan Carles Ferrer Comalat nombrado Catedrático de Economía Financiera. Proceso legal, pero persiste la falta de detalles sobre los méritos frente a otros candidatos en el #BOE. 🎓💼 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la puntuación obtenida",
+      "Ausencia de información sobre el número de aspirantes presentados",
+      "Carencia de datos sobre el impacto económico del cambio de escala salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Joan Carles Ferrer Comalat (obtiene plaza vitalicia de máximo rango)",
+        "Departamento de Empresa de la UdG (estabiliza su cuadro docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos (dificultad histórica de acceso ante procesos de promoción interna)",
+        "Transparencia pública (imposibilidad de auditar la idoneidad del perfil desde el texto del BOE)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Falta de desglose de la puntuación obtenida",
+      "Ausencia de información sobre el número de aspirantes presentados",
+      "Carencia de datos sobre el impacto económico del cambio de escala salarial"
+    ]
+  }
+}

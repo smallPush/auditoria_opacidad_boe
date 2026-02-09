@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-2824",
+  "timestamp": "2026-02-08T21:28:11.855Z",
+  "title": "Aplicación provisional del Acuerdo entre el Reino de España y el Banco Asiático de Desarrollo relativo al centro de prestación de servicios informáticos del Banco Asiático de Desarrollo, hecho en Manila y Madrid el 28 de octubre y el 25 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo establece un enclave de extraterritorialidad jurídica y financiera para el Banco Asiático de Desarrollo (BAsD) en suelo español. Bajo la premisa de la resiliencia informática, se concede inmunidad absoluta frente a registros y embargos, incluso antes de sentencias firmes. El punto más crítico es la renuncia expresa a la legislación laboral española (Art. IV.6), dejando a los empleados bajo normativas internas del banco, y el uso de las aportaciones de capital de España al BAsD para sufragar los gastos operativos del propio centro (Art. VIII.3), lo que supone un subsidio encubierto.",
+    "resumen_ciudadano": "España permite al Banco Asiático de Desarrollo crear un centro informático con privilegios de embajada: no pagarán IVA ni impuestos de aduanas, sus oficinas son inviolables para la policía sin permiso previo y sus trabajadores no se rigen por el Estatuto de los Trabajadores. Además, el mantenimiento del centro se descontará de los fondos que España ya aporta al banco.",
+    "resumen_tweet": "🚨 ¡Alerta de Opacidad! España cede soberanía al Banco Asiático de Desarrollo: sede libre de impuestos, personal con inmunidad total y suspensión de leyes laborales nacionales en el centro. 📉 Pagamos con fondos públicos un búnker digital. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión de la legislación laboral nacional",
+      "Inviolabilidad de sede ante autoridades españolas",
+      "Exención total de impuestos indirectos y reembolsos de IVA",
+      "Uso de suscripciones de capital nacional para gastos de mantenimiento",
+      "Inmunidad judicial absoluta para activos y archivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Banco Asiático de Desarrollo (BAsD)",
+        "Altos directivos con estatus diplomático",
+        "Empresas tecnológicas proveedoras del banco"
+      ],
+      "perdedores": [
+        "Trabajadores del centro (sin protección laboral española)",
+        "Hacienda Pública (pérdida de ingresos fiscales)",
+        "Soberanía judicial del Estado"
+      ]
+    },
+    "comunidad_autonoma": "No especificada (pendiente de comunicación oficial)",
+    "tipologia": "Acuerdo Internacional de Extraterritorialidad",
+    "banderas_rojas": [
+      "Suspensión de la legislación laboral nacional",
+      "Inviolabilidad de sede ante autoridades españolas",
+      "Exención total de impuestos indirectos y reembolsos de IVA",
+      "Uso de suscripciones de capital nacional para gastos de mantenimiento",
+      "Inmunidad judicial absoluta para activos y archivos"
+    ]
+  }
+}

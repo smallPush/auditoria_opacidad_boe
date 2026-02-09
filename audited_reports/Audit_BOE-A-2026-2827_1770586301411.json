@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-2827",
+  "timestamp": "2026-02-08T21:31:41.411Z",
+  "title": "Orden INT/63/2026, de 5 de febrero, por la que se dispone la creación del nuevo centro de internamiento de extranjeros de Algeciras y la supresión del anterior en la misma localidad.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La Orden INT/63/2026 presenta una paradoja de transparencia: justifica la creación de un nuevo CIE en Algeciras basándose en críticas previas del Defensor del Pueblo sobre las malas condiciones de los centros antiguos, pero utiliza el lenguaje burocrático del Pacto Europeo de Migración y Asilo para normalizar la detención administrativa. Lo más alarmante es la cláusula de 'sin incremento del gasto público', una afirmación técnicamente cuestionable cuando se trata de la puesta en marcha de una infraestructura de nueva planta de gran envergadura. Se delega la ejecución íntegra a la Dirección General de la Policía, restando control civil directo sobre el proceso de traslado y gestión de internos.",
+    "resumen_ciudadano": "El Gobierno cierra el antiguo centro de internamiento de extranjeros (CIE) de Algeciras y el anexo de Tarifa para abrir uno nuevo en la carretera CA-9208. Aunque se vende como una mejora de las condiciones de vida y cumplimiento de normativas europeas, el texto oculta el coste real de la obra y refuerza el modelo de internamiento de personas migrantes en situación irregular.",
+    "resumen_tweet": "🏢 El Gobierno abre un nuevo CIE en Algeciras bajo el paraguas del Pacto Europeo de Migración. Dicen que es por \"derechos\", pero esconden el coste real tras la excusa de \"no hay gasto extra\". ¿Transparencia o lavado de imagen? 🧐 #BOE #Opacidad #CIE",
+    "banderas_red_flags": [
+      "Cláusula de 'sin incremento del gasto público' en una obra de nueva planta",
+      "Justificación mediante el polémico Pacto Europeo de Migración y Asilo",
+      "Opacidad sobre la capacidad total y el número de efectivos policiales",
+      "Delegación total de ejecución en la Dirección General de la Policía sin supervisión externa detallada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (expansión de infraestructura)",
+        "Empresas constructoras adjudicatarias de la obra previa",
+        "Sectores que abogan por el endurecimiento del control fronterizo"
+      ],
+      "perdedores": [
+        "Personas migrantes (institucionalización del internamiento)",
+        "Contribuyentes (falta de claridad en el desglose de costes operativos)",
+        "Colectivos de derechos humanos que exigen el cierre, no la renovación, de los CIE"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Creación y Supresión de Centros de Internamiento",
+    "banderas_rojas": [
+      "Cláusula de 'sin incremento del gasto público' en una obra de nueva planta",
+      "Justificación mediante el polémico Pacto Europeo de Migración y Asilo",
+      "Opacidad sobre la capacidad total y el número de efectivos policiales",
+      "Delegación total de ejecución en la Dirección General de la Policía sin supervisión externa detallada"
+    ]
+  }
+}
