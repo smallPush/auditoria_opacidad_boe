@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3014",
+  "timestamp": "2026-02-10T11:43:01.254Z",
+  "title": "Acuerdo de 11 de noviembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don José Miñarro García.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento representa un trámite administrativo estándar de jubilación forzosa por edad, amparado en la Ley Orgánica del Poder Judicial. Sin embargo, la opacidad surge en la referencia a los 'derechos pasivos', vinculados al Régimen de Clases Pasivas del Estado. Este sistema constituye un estrato de protección social diferenciado y superior al régimen general de la Seguridad Social. El BOE oculta el impacto económico real, es decir, el importe exacto de la pensión vitalicia que el Estado abonará a un alto cargo del poder judicial, manteniendo la desconexión entre la gestión de recursos públicos y el conocimiento ciudadano.",
+    "resumen_ciudadano": "Se oficializa la jubilación del magistrado José Miñarro García, del Tribunal Superior de Justicia de Murcia, por alcanzar la edad legal. El Estado le garantiza una pensión bajo el régimen especial de Clases Pasivas, cuyo coste mensual y acumulado para el erario público no se especifica en la publicación oficial.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la élite judicial: José Miñarro deja el TSJ de Murcia. El #BOE confirma sus 'derechos pasivos' pero oculta la cuantía de su pensión especial. ¿Privilegio de clase o transparencia? 📉💼 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Opacidad en el gasto público derivado de la pensión",
+      "Uso de regímenes de jubilación no unificados (Clases Pasivas)",
+      "Ausencia de memoria económica del cese"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Miñarro García (acceso a pensión de magistrado)",
+        "Cuerpo de Magistrados (mantenimiento de privilegios de jubilación)"
+      ],
+      "perdedores": [
+        "Contribuyentes (ausencia de información sobre el gasto comprometido)",
+        "Sistema de Seguridad Social (fragmentación de regímenes)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en el gasto público derivado de la pensión",
+      "Uso de regímenes de jubilación no unificados (Clases Pasivas)",
+      "Ausencia de memoria económica del cese"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3029",
+  "timestamp": "2026-02-10T12:04:44.887Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Subsecretaría, por la que se publica la relación de personas admitidas y excluidas en el proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Ingenieros Técnicos Forestales, convocado por Resolución de 11 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución cumple con los requisitos legales de publicidad, presenta barreras administrativas significativas. La exclusión basada en la acreditación de rentas (causa B) y situación de desempleo (causa A) refleja una carga burocrática excesiva sobre los sectores más vulnerables. La obligatoriedad de subsanación 'exclusivamente' a través de medios electrónicos puede suponer una brecha digital. Además, la ubicación exacta del examen se posterga, generando incertidumbre logística para los opositores.",
+    "resumen_ciudadano": "Se ha publicado la lista provisional de admitidos y excluidos para las oposiciones de Ingenieros Técnicos Forestales. Los aspirantes rechazados por errores en la documentación (como no demostrar bajos ingresos o desempleo) tienen 10 días hábiles desde el 11 de febrero para corregir su situación a través del portal IPS.",
+    "resumen_tweet": "🌲 Oposiciones Forestales: Publicada la lista de excluidos. ¡Atención! 🧐 Muchos fuera por no acreditar rentas bajas o desempleo. Tienes 10 días para subsanar. La burocracia castiga a los más precarios. #BOE #Opacidad #Transparencia #Oposiciones2026 ⚖️",
+    "banderas_red_flags": [
+      "Barrera de clase: Exclusiones por no acreditar rentas bajas",
+      "Brecha digital: Subsanación exclusivamente electrónica",
+      "Incertidumbre logística: Ubicación del examen no especificada",
+      "Trampa administrativa: Código G por doble inscripción en turnos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (criba de candidatos por defectos de forma)",
+        "Aspirantes con alta capacidad de gestión burocrática"
+      ],
+      "perdedores": [
+        "Desempleados con dificultades de acreditación documental",
+        "Familias numerosas con errores administrativos (causa C)",
+        "Aspirantes sin recursos para desplazamientos de última hora"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Barrera de clase: Exclusiones por no acreditar rentas bajas",
+      "Brecha digital: Subsanación exclusivamente electrónica",
+      "Incertidumbre logística: Ubicación del examen no especificada",
+      "Trampa administrativa: Código G por doble inscripción en turnos"
+    ]
+  }
+}

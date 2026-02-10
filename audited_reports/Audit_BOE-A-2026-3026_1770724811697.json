@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3026",
+  "timestamp": "2026-02-10T12:00:11.697Z",
+  "title": "Resolución de 22 de enero de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en la Oficina Española de Patentes y Marcas, O.A.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta una estructura aparentemente meritocratica pero esconde barreras de entrada significativas. Se observa opacidad en la validacion de cursos de formacion, ya que el listado de cursos valorables no se incluye en el BOE, sino que se remite a una URL externa de la OEPM, creando un silo de informacion que dificulta la fiscalizacion publica inmediata. Existe una potencial incongruencia ideologica al mencionar el IV Plan de Igualdad mientras se mantienen criterios de movilidad que dependen de autorizaciones discrecionales de ministerios ajenos (Transformacion Digital), lo que podria limitar la carrera profesional de ciertos colectivos bajo criterios no transparentes.",
+    "resumen_ciudadano": "Convocatoria de 21 puestos de trabajo en la Oficina Española de Patentes y Marcas. El proceso utiliza un sistema de puntos basado en el grado personal, experiencia previa, antiguedad y cursos de formacion. Aunque incluye clausulas para la conciliacion familiar y la igualdad de genero, la seleccion final depende fuertemente de cursos especificos validados internamente por el propio organismo.",
+    "resumen_tweet": "🚨 Nueva convocatoria en la OEPM: 21 plazas bajo lupa. ¿Meritocracia o barreras? El listado de cursos puntuables se oculta fuera del #BOE y la movilidad depende de autorizaciones discrecionales. Menos burocracia, mas #Transparencia 🧐💼",
+    "banderas_red_flags": [
+      "Remision a listados de cursos en web externa no vinculada al texto legal",
+      "Exclusiones de participacion sujetas a autorizacion discrecional del Ministerio de Transformacion Digital",
+      "Puntuacion adicional por 'area funcional' definida de forma ambigua como contenido tecnico similar",
+      "Barrera tecnologica al exigir certificado electronico con excepciones de papel muy restrictivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios ya destinados en el Ministerio de Industria (exencion de presentar certificados)",
+        "Perfiles con antiguedad consolidada y cursos realizados en los ultimos 10 años",
+        "Personas con conyuges funcionarios en el mismo municipio"
+      ],
+      "perdedores": [
+        "Funcionarios de otras administraciones con barreras de movilidad",
+        "Personal con brecha digital o dificultades de acceso al portal Funciona",
+        "Candidatos con formacion de mas de 10 años de antiguedad que queda invalidada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provision de puestos de trabajo",
+    "banderas_rojas": [
+      "Remision a listados de cursos en web externa no vinculada al texto legal",
+      "Exclusiones de participacion sujetas a autorizacion discrecional del Ministerio de Transformacion Digital",
+      "Puntuacion adicional por 'area funcional' definida de forma ambigua como contenido tecnico similar",
+      "Barrera tecnologica al exigir certificado electronico con excepciones de papel muy restrictivas"
+    ]
+  }
+}

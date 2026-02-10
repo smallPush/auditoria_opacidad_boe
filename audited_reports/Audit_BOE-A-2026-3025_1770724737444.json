@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3025",
+  "timestamp": "2026-02-10T11:58:57.444Z",
+  "title": "Resolución de 4 de febrero de 2026, del Letrado Mayor de las Cortes Generales, por la que se señala fecha, hora y lugar para la celebración del sorteo público que ha de determinar el orden de actuación de aspirantes en los procesos de selección convocados durante los años 2026 y 2027, en el ámbito de las Cortes Generales.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Aunque la resolución cumple con la formalidad legal de anunciar un sorteo público para determinar el orden de actuación de aspirantes, se observa una opacidad estructural al no detallar el volumen de plazas ni los perfiles específicos de la Oferta de Empleo Público mencionada. El sorteo se realiza en la Sala Istúriz, un espacio de acceso restringido dentro del Congreso, lo que limita la fiscalización ciudadana real. Además, comprometer el orden de actuación para un periodo de dos años (2026-2027) permite una planificación burocrática cerrada que aleja la inmediatez de la gestión del empleo público de la realidad del mercado laboral.",
+    "resumen_ciudadano": "Se ha fijado la fecha del 12 de febrero de 2026 para el sorteo que decidirá quién examina primero en las oposiciones del Congreso y el Senado para los próximos dos años. Es un paso administrativo previo para contratar personal en las Cortes Generales.",
+    "resumen_tweet": "🏛️ ¿Quién entrará a trabajar en el Congreso? Se convoca sorteo para el orden de los exámenes en 2026-2027. Mucho protocolo en la Sala Istúriz, pero seguimos sin detalles claros de todas las plazas. 🧐 #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Acceso físico al sorteo limitado a sede parlamentaria",
+      "Determinación de orden con dos años de antelación",
+      "Referencia a ofertas de empleo no detalladas en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo de Letrados de las Cortes Generales",
+        "Aspirantes con alta capacidad económica para preparar oposiciones de largo recorrido"
+      ],
+      "perdedores": [
+        "Candidatos con menos recursos que dependen de la agilidad de los procesos",
+        "Transparencia ciudadana directa por la ubicación del acto"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Ámbito Estatal)",
+    "tipologia": "Resolución de Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Acceso físico al sorteo limitado a sede parlamentaria",
+      "Determinación de orden con dos años de antelación",
+      "Referencia a ofertas de empleo no detalladas en el texto"
+    ]
+  }
+}

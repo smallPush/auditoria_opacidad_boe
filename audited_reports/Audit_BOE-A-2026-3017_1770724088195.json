@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3017",
+  "timestamp": "2026-02-10T11:48:08.195Z",
+  "title": "Resolución de 22 de enero de 2026, de la Secretaría de Estado de Medio Ambiente, por la que se designan miembros del Comité Científico del Listado de Especies Silvestres en Régimen de Protección Especial, del Catálogo Español de Especies Amenazadas y del Catálogo Español de Especies Exóticas Invasoras, y se designan integrantes adicionales para informar las cuestiones relativas a la Red de Áreas Marinas Protegidas de España.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolución se ampara en una maraña de reales decretos previos para justificar una expansión administrativa del comité. Aunque se detallan los nombres, el proceso de selección permanece opaco: se menciona la 'experiencia científica' pero no se publican los baremos ni los currículums comparativos que justifican estas designaciones frente a otros expertos. Además, la creación de 11 nuevas plazas 'adicionales' para áreas marinas sugiere un crecimiento de la estructura burocrática sin un desglose de las dietas o remuneraciones asociadas a dichas funciones.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica ha nombrado a 11 nuevos miembros para supervisar las Áreas Marinas Protegidas y ha sustituido a otros 4 en el Comité Científico de especies amenazadas. Los nombramientos son propuestos por comunidades autónomas, ONGs y el propio Ministerio. No se especifica el coste económico de mantener a este grupo ampliado de asesores ni el proceso exacto para haber elegido a estas personas sobre otras.",
+    "resumen_tweet": "🌊 El Gobierno amplía el Comité Científico de especies protegidas con 11 nuevos asesores para zonas marinas. ¿Dedazo o mérito? 🧐 Mucho nombre pero ni rastro del coste en dietas para el contribuyente. #BOE #Opacidad #Transparencia #MedioAmbiente 💸",
+    "banderas_red_flags": [
+      "Designación discrecional basada en propuestas de terceros",
+      "Ausencia de información sobre dietas o remuneración",
+      "Falta de transparencia en los criterios de mérito específicos",
+      "Expansión de la estructura consultiva sin memoria económica adjunta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 15 científicos designados (prestigio y potencial remuneración)",
+        "Ministerio para la Transición Ecológica (ampliación de red de influencia)",
+        "Entidades autonómicas con cuota de designación"
+      ],
+      "perdedores": [
+        "Científicos independientes sin vínculos con las instituciones proponentes",
+        "Contribuyentes (opacidad en el gasto de órganos colegiados)",
+        "Principio de concurrencia pública en el acceso a órganos consultivos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Designación discrecional basada en propuestas de terceros",
+      "Ausencia de información sobre dietas o remuneración",
+      "Falta de transparencia en los criterios de mérito específicos",
+      "Expansión de la estructura consultiva sin memoria económica adjunta"
+    ]
+  }
+}

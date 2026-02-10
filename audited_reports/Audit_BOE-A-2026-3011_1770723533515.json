@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3011",
+  "timestamp": "2026-02-10T11:38:53.515Z",
+  "title": "Acuerdo GOV/244/2025, de 21 de octubre, por el que se aprueba el Estatuto de la Universidad Rovira i Virgili.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nuevo Estatuto de la Universidad Rovira i Virgili (URV) se presenta como una adaptación técnica a la Ley Orgánica 2/2023 (LOSU), pero esconde tras su lenguaje administrativo un refuerzo de la autonomía de gestión que diluye el control público externo. Se observa una 'Incongruencia Ideológica' al proclamar valores democráticos y de justicia social, mientras se blindan mecanismos para la captación de recursos de 'otras fuentes' (Art. 11.g y 12.2.e) sin especificar protocolos de transparencia o límites éticos ante intereses privados. La exigencia lingüística (Art. 8) actúa como un mecanismo de protección identitaria pero también como una barrera de clase y procedencia para el profesorado investigador internacional.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili actualiza sus reglas internas. Destaca el refuerzo del catalán como lengua vehicular y la creación de una estructura de gestión más empresarial. Aunque garantiza el acceso a la educación, deja la puerta abierta a la financiación privada y a la gestión de fondos externos sin detallar cómo se evitarán conflictos de intereses.",
+    "resumen_tweet": "🏛️ Auditoría URV: Se aprueba nuevo Estatuto bajo la #LOSU. Se blinda el catalán y la autonomía, pero hay 'zonas grises' en la gestión de fondos privados y contratación externa. ¿Servicio público o gestión gerencial? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la fiscalización de fondos procedentes de 'otras fuentes'",
+      "Ambigüedad en los criterios de 'rendición de cuentas' no especificados",
+      "Potencial barrera de acceso para académicos no catalanoparlantes",
+      "Poder discrecional del Consejo de Gobierno para crear estructuras de investigación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración autonómica (control legal)",
+        "Cúpula burocrática universitaria",
+        "Sector académico catalanoparlante"
+      ],
+      "perdedores": [
+        "Investigadores externos/internacionales",
+        "Contribuyentes (por falta de claridad en el destino de fondos mixtos)",
+        "Estudiantes de entornos no catalanoparlantes"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Acuerdo de Aprobación de Estatutos Universitarios",
+    "banderas_rojas": [
+      "Opacidad en la fiscalización de fondos procedentes de 'otras fuentes'",
+      "Ambigüedad en los criterios de 'rendición de cuentas' no especificados",
+      "Potencial barrera de acceso para académicos no catalanoparlantes",
+      "Poder discrecional del Consejo de Gobierno para crear estructuras de investigación"
+    ]
+  }
+}

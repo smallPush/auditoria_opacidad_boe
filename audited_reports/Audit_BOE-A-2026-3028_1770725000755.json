@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3028",
+  "timestamp": "2026-02-10T12:03:20.755Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Subsecretaría, por la que se publica la relación de personas admitidas y excluidas en el proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros de Montes del Estado, convocado por Resolución de 11 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una transparencia técnica formal, pero una opacidad operativa. Al no publicar la lista completa de admitidos en el BOE y remitir a portales web externos y tablones físicos, se genera una barrera de acceso a la información ('Opacidad Digital'). Las causas de exclusión A y B revelan una fiscalización agresiva sobre la pobreza: se penaliza a quienes, estando en situación de desempleo o precariedad (rentas inferiores al SMI), no pueden acreditarlo burocráticamente en plazos ínfimos. Existe un sesgo de clase donde la administración delega en el ciudadano la carga de la prueba de su vulnerabilidad para acceder a un derecho básico de examen.",
+    "resumen_ciudadano": "Se publica la lista de personas excluidas para las oposiciones de Ingenieros de Montes del Estado. La mayoría de los rechazados lo son por no demostrar que ganan menos del Salario Mínimo o por no acreditar el tiempo suficiente en el paro. Los que sí han sido admitidos deberán consultar una web externa para saber la lista completa y esperar a próximas noticias para conocer el lugar exacto del examen y el horario de la segunda parte.",
+    "resumen_tweet": "⚠️ El @mitecogob publica excluidos para Ingenieros de Montes. Las trabas burocráticas sobre pobreza y desempleo dejan fuera a aspirantes. 📉 La lista de admitidos, oculta en webs externas. ¿Facilitamos o dificultamos el acceso? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad digital por remisión a URLs externas",
+      "Carga de la prueba de pobreza sobre el aspirante",
+      "Indeterminación del lugar y horario de la segunda fase del examen",
+      "Plazo de subsanación de solo 10 días para acreditar situaciones socioeconómicas complejas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos de promoción interna (exentos de la primera parte del examen)",
+        "Aspirantes con solvencia económica que no dependen de exenciones de tasas",
+        "Soportes digitales de la administración (por ahorro de espacio en el diario oficial)"
+      ],
+      "perdedores": [
+        "Aspirantes precarios excluidos por no acreditar rentas bajas (Causa B)",
+        "Desempleados de larga duración con errores administrativos (Causa A)",
+        "Ciudadanos sin acceso ágil a internet o firma digital para subsanaciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Oposiciones",
+    "banderas_rojas": [
+      "Opacidad digital por remisión a URLs externas",
+      "Carga de la prueba de pobreza sobre el aspirante",
+      "Indeterminación del lugar y horario de la segunda fase del examen",
+      "Plazo de subsanación de solo 10 días para acreditar situaciones socioeconómicas complejas"
+    ]
+  }
+}

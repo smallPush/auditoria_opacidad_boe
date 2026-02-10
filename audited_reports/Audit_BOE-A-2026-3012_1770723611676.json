@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3012",
+  "timestamp": "2026-02-10T11:40:11.676Z",
+  "title": "Ley 7/2025, de 16 de diciembre, de protección del arbolado urbano y del arbolado de especial protección de Canarias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley, aunque nace de una Iniciativa Legislativa Popular (ILP), presenta una 'trampa de implementación'. El principio 'favor arboris' queda supeditado a conceptos jurídicos indeterminados como 'interés general' o 'necesidad prioritaria' (Art. 4.1.c/d), lo que permite a la administración talar árboles bajo pretextos urbanísticos sin una fiscalización externa rigurosa. Existe una opacidad operativa en la definición de 'personal cualificado' (Art. 3.4), que es alarmantemente vaga al incluir a cualquier persona con 'experiencia', lo que abre la puerta al intrusismo o a decisiones no científicas en el mantenimiento del verde urbano.",
+    "resumen_ciudadano": "Canarias establece por ley que los árboles son seres vivos con 'capacidad de decisión' y prohíbe su tala generalizada en ciudades. Los ayuntamientos tienen dos años para crear un censo (inventario) de todos sus árboles. Sin embargo, la ley permite talar árboles si se considera que una obra es de 'interés general' y deja en manos de los ayuntamientos la creación de sus propias multas, lo que generará desigualdad de protección según el municipio.",
+    "resumen_tweet": "🌳 Canarias aprueba proteger sus árboles pero deja 'agujeros' legales: el 'interés general' permitirá talas por obras y los Ayuntamientos deberán pagar inventarios sin fondos extra. ¿Postureo verde o blindaje real? 🪓 #BOE #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica para los inventarios municipales (gasto fantasma asumido por ayuntamientos)",
+      "Concepto de 'interés general' como coladero para proyectos urbanísticos",
+      "Definición de 'personal cualificado' basada en experiencia no reglada",
+      "Delegación total del régimen sancionador a ordenanzas locales, evitando un marco común de multas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consultoras ambientales (contrataciones para inventarios)",
+        "Grandes constructoras (bajo excepciones de interés público)",
+        "Promotores de la ILP (victoria simbólica)"
+      ],
+      "perdedores": [
+        "Ayuntamientos de municipios pequeños (nuevas obligaciones sin financiación)",
+        "Propietarios privados de árboles singulares (limitación de derechos sin compensación)",
+        "Biodiversidad urbana (sujeta a interpretación política de 'necesidad')"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Protección Ambiental y Urbanismo",
+    "banderas_rojas": [
+      "Ausencia de memoria económica para los inventarios municipales (gasto fantasma asumido por ayuntamientos)",
+      "Concepto de 'interés general' como coladero para proyectos urbanísticos",
+      "Definición de 'personal cualificado' basada en experiencia no reglada",
+      "Delegación total del régimen sancionador a ordenanzas locales, evitando un marco común de multas"
+    ]
+  }
+}

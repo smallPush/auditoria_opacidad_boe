@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3016",
+  "timestamp": "2026-02-10T11:46:18.349Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 25 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del mecanismo de libre designación para un puesto de nivel 16 (Secretaría de Subdelegado) evidencia la persistencia de una cultura administrativa basada en la confianza personal sobre la competencia técnica puntuable. Aunque legal bajo la Ley 30/1984, este sistema permite la selección discrecional, lo que en la práctica actúa como un filtro de lealtad política en las delegaciones territoriales, alejándose de los principios de mérito y capacidad.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de una secretaria en la Subdelegación del Gobierno en Lleida mediante el sistema de 'libre designación', es decir, una elección directa por parte del cargo superior en lugar de un concurso de méritos abierto y objetivo.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el #BOE. La Subdelegación de Lleida adjudica por libre designación una secretaría de nivel 16. La discrecionalidad política sigue primando sobre el mérito objetivo en la administración. 🖋️ #Transparencia #Opacidad #Lleida",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Puesto de confianza en estructura territorial",
+      "Ausencia de baremación de méritos pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Rosa Companys Plana (adjudicataria)",
+        "Subdelegado del Gobierno en Lleida (elige personal afín)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no considerados",
+        "Sistema de meritocracia pública",
+        "Ciudadanía (opacidad en la selección de servidores)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Puesto de confianza en estructura territorial",
+      "Ausencia de baremación de méritos pública"
+    ]
+  }
+}

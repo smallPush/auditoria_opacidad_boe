@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3019",
+  "timestamp": "2026-02-10T11:51:11.852Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 13 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una resolución de concurso específico que, bajo una apariencia de movilidad y mérito, refleja una práctica habitual de 'consolidación' de puestos. Una auditoría de los nombres y puestos (Anexo IA) revela que varios adjudicatarios ya ocupaban el mismo puesto de forma provisional o en cese, lo que sugiere que el concurso es un trámite burocrático para legalizar situaciones de facto más que un proceso abierto de competencia real. Se observa una alta concentración de cargos de niveles 26 y 28 en áreas sensibles como la Dirección General de Ordenación del Juego y Consumo.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha formalizado la asignación de puestos de jefatura y técnicos superiores. Aunque el proceso es público, la mayoría de los puestos han sido asignados a las mismas personas que ya los desempeñaban, y otros han quedado desiertos, limitando la renovación real en la administración de áreas clave como la regulación del juego y el control de calidad.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: El Ministerio de Derechos Sociales adjudica plazas de alto nivel. Mucha 'silla musical': funcionarios que ya estaban en el puesto consolidan su plaza. ¿Movilidad real o trámite burocrático? #Transparencia #Opacidad #Funcionarios 💼⚖️",
+    "banderas_red_flags": [
+      "Adjudicaciones de puestos a quienes ya figuraban en el puesto de cese",
+      "Puestos de alto nivel (N28) declarados desiertos",
+      "Uso de terminología técnica que dificulta el rastreo de la trayectoria del funcionario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de los subgrupos A1 y A2 ya establecidos",
+        "Estructura interna de la Dirección General de Ordenación del Juego",
+        "Titulares previos que consolidan su situación administrativa"
+      ],
+      "perdedores": [
+        "Nuevos aspirantes a la función pública",
+        "Candidatos externos al ministerio con menos 'puntos' por experiencia previa específica",
+        "Principio de renovación de cuadros técnicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Adjudicaciones de puestos a quienes ya figuraban en el puesto de cese",
+      "Puestos de alto nivel (N28) declarados desiertos",
+      "Uso de terminología técnica que dificulta el rastreo de la trayectoria del funcionario"
+    ]
+  }
+}

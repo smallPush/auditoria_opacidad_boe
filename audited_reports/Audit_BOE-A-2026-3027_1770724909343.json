@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3027",
+  "timestamp": "2026-02-10T12:01:49.343Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Subsecretaría, por la que se publica la relación de personas admitidas y excluidas del proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Ingenieros de Minas del Estado, convocado por Resolución de 11 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un acto administrativo rutinario para el acceso al Cuerpo de Ingenieros de Minas. La opacidad reside en la derivación de los listados completos a sedes físicas o portales digitales de acceso restringido (Funciona), en lugar de publicarlos íntegramente en el BOE. Se observa una barrera de clase: las exclusiones registradas se deben exclusivamente a la incapacidad de acreditar niveles de renta bajos o condición de familia numerosa, lo que sugiere una carga burocrática desproporcionada para los solicitantes con menos recursos.",
+    "resumen_ciudadano": "Publicada la lista provisional de admitidos y excluidos para las oposiciones de Ingenieros de Minas del Estado. Los excluidos tienen 10 días para subsanar errores. El examen se celebrará el 11 de abril de 2026 en Madrid.",
+    "resumen_tweet": "⚠️ Solo 2 excluidos en la lista de Ingenieros de Minas y ambos por motivos socioeconómicos (renta y familia numerosa). La burocracia sigue siendo una barrera para los que menos tienen. Examen: 11 de abril en Madrid. 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión por falta de acreditación de rentas bajas",
+      "Centralización del examen exclusivamente en Madrid",
+      "Listas completas no publicadas directamente en el texto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con capacidad económica para desplazarse a Madrid",
+        "Administración Pública (por centralización de costes de examen)"
+      ],
+      "perdedores": [
+        "Opositores de bajos recursos excluidos por fallos burocráticos",
+        "Candidatos de fuera de Madrid (coste de transporte y alojamiento)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el Estado",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Exclusión por falta de acreditación de rentas bajas",
+      "Centralización del examen exclusivamente en Madrid",
+      "Listas completas no publicadas directamente en el texto del BOE"
+    ]
+  }
+}

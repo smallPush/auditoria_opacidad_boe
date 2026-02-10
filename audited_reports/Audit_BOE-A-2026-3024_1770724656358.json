@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3024",
+  "timestamp": "2026-02-10T11:57:36.358Z",
+  "title": "Resolución de 29 de enero de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Antonio Pineda Pineda.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Profesor Titular) en la Universidad de Córdoba. Aunque el proceso cumple con la legalidad vigente (LOSU 2/2023), este tipo de publicaciones en el BOE perpetúa una opacidad sistémica sobre el coste real de la plaza para el contribuyente. No se desglosa la partida presupuestaria específica ni el impacto económico a largo plazo de esta plaza vitalicia. Existe un sesgo de género implícito recurrente en las áreas de 'ciencias duras' como la Química Orgánica, donde los nombramientos siguen una inercia tradicional sin medidas correctoras visibles en el texto.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a un nuevo Profesor Titular en el área de Química Orgánica tras superar un proceso de concurso-oposición. Este es un cargo permanente en la administración pública estatal.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la @univcordoba. Antonio Pineda Pineda logra plaza vitalicia en Química Orgánica. Un proceso legal pero burocrático que omite el coste real para el ciudadano. ¿Hay transparencia en la universidad? 🧪 #BOE #Opacidad #UCO",
+    "banderas_red_flags": [
+      "Ausencia de información sobre el coste salarial anual de la plaza",
+      "Falta de desglose de los méritos específicos que justifican la idoneidad frente a otros candidatos",
+      "Dilatación temporal: convocatoria en mayo de 2025 para resolución en enero de 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Pineda Pineda (estabilidad laboral vitalicia)",
+        "Universidad de Córdoba (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menos red de contactos académica",
+        "Contribuyentes (por falta de transparencia presupuestaria detallada)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Ausencia de información sobre el coste salarial anual de la plaza",
+      "Falta de desglose de los méritos específicos que justifican la idoneidad frente a otros candidatos",
+      "Dilatación temporal: convocatoria en mayo de 2025 para resolución en enero de 2026"
+    ]
+  }
+}

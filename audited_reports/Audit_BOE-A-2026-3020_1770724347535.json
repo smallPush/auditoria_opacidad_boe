@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3020",
+  "timestamp": "2026-02-10T11:52:27.535Z",
+  "title": "Resolución de 5 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo General Auxiliar de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion oficializa el nombramiento de personal funcionario tras un proceso que acumula retrasos significativos al aglutinar ofertas de empleo publico desde 2021 hasta 2024. Se detecta una zona de opacidad en el punto tercero, donde la Administracion deniega de forma generica peticiones de alteracion de destino a personas con discapacidad alegando que la necesidad no ha quedado 'debidamente acreditada', sin detallar los criterios de evaluacion ni los motivos especificos de rechazo, lo que genera una indefension administrativa bajo una apariencia de legalidad tecnica.",
+    "resumen_ciudadano": "Se nombran nuevos funcionarios auxiliares para la Administracion General del Estado. Aunque el proceso incluye plazas para personas con discapacidad, el Ministerio ha rechazado varias solicitudes de estas personas para trabajar cerca de sus hogares por motivos de dependencia o movilidad, argumentando falta de pruebas suficientes pero sin explicar que baremos se han utilizado para tal decision.",
+    "resumen_tweet": "📢 Mas de 3 años para resolver oposiciones de 2021. El #BOE publica nuevos funcionarios pero deniega destinos por discapacidad a varios aspirantes sin explicar criterios claros. ¿Inclusion real o burocracia ciega? 🧐 #Transparencia #Opacidad #Estado",
+    "banderas_red_flags": [
+      "Gestion discrecional de solicitudes por discapacidad",
+      "Acumulacion de ofertas de empleo de cuatro años distintos (2021-2024)",
+      "Falta de motivacion individualizada en las denegaciones del punto tercero"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio para la Transformacion Digital (refuerza plantilla)",
+        "Aspirantes con discapacidad cuya acreditacion fue aceptada (Seccion Cuarta)",
+        "Nuevos funcionarios de carrera con plazas en grandes ciudades"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad rechazados en su peticion de destino (Seccion Tercera)",
+        "Eficiencia administrativa (proceso que arrastra plazas desde 2021)",
+        "Conciliacion familiar de los excluidos de la alteracion de orden"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Gestion discrecional de solicitudes por discapacidad",
+      "Acumulacion de ofertas de empleo de cuatro años distintos (2021-2024)",
+      "Falta de motivacion individualizada en las denegaciones del punto tercero"
+    ]
+  }
+}

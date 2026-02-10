@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3010",
+  "timestamp": "2026-02-10T11:37:36.631Z",
+  "title": "Instrumento de adhesión al Convenio relativo a la revisión del Convenio sobre la protección de la maternidad (revisado), 1952.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una incongruencia temporal masiva: España se adhiere en 2025 a un convenio de la OIT adoptado en el año 2000, un retraso de 26 años que denota una alarmante desidia legislativa internacional. Aunque el texto protege la maternidad, el Artículo 2.2 es una 'puerta trasera' que permite excluir a trabajadoras en formas atípicas de empleo, lo que podría perpetuar la precariedad en sectores vulnerables. No se detalla el impacto presupuestario de la implementación de las prestaciones médicas adicionales mencionadas en el Artículo 6.7.",
+    "resumen_ciudadano": "España ratifica por fin el convenio internacional de protección de la maternidad. Confirma las 16 semanas de baja ya vigentes, prohíbe el despido por embarazo y asegura el derecho a la lactancia. Sin embargo, el Gobierno se reserva el derecho de no aplicar estas protecciones a ciertos colectivos de trabajadoras si considera que su aplicación es problemática.",
+    "resumen_tweet": "¡26 años después! 🤰 España se une al Convenio de Maternidad de la OIT. Aunque blinda las 16 semanas y protege contra el despido, el retraso es injustificable y deja la puerta abierta a excluir a las más precarias. 💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Retraso de 26 años en la ratificación del convenio",
+      "Cláusula de exclusión discrecional para trabajadoras atípicas",
+      "Ausencia de desglose presupuestario para nuevas prestaciones médicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres con contratos indefinidos",
+        "Sindicatos mayoritarios",
+        "Sistema de Seguridad Social (por consolidación normativa)"
+      ],
+      "perdedores": [
+        "Trabajadoras en precario (posible exclusión según Art. 2.2)",
+        "Pequeñas empresas (por la inversión de la carga de la prueba en despidos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Retraso de 26 años en la ratificación del convenio",
+      "Cláusula de exclusión discrecional para trabajadoras atípicas",
+      "Ausencia de desglose presupuestario para nuevas prestaciones médicas"
+    ]
+  }
+}

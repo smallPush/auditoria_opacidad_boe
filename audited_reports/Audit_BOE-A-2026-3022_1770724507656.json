@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3022",
+  "timestamp": "2026-02-10T11:55:07.656Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por el sistema de 'libre designación', una fórmula legal que permite la discrecionalidad técnica en la elección de altos cargos. Aunque se menciona la existencia de asesores y entrevistas, este mecanismo es inherentemente menos transparente que un concurso de méritos abierto. Es especialmente relevante que el puesto sea la 'Subdirección de Selección', el órgano encargado de decidir los procesos de acceso a la función pública de miles de ciudadanos, siendo ocupado por una decisión de confianza del Ministerio.",
+    "resumen_ciudadano": "Se ha nombrado a la nueva responsable de los procesos de selección de funcionarios del Estado mediante el sistema de 'libre designación' (elección directa por confianza). Se trata de un puesto de nivel 30, el más alto de la administración, que gestionará cómo entran otros trabajadores al sector público.",
+    "resumen_tweet": "🚨 ¡Dedo en el INAP! Nombran a la Subdirectora de Selección mediante 'Libre Designación'. Quien decide cómo entran los funcionarios ha sido elegida de forma discrecional. ¿Transparencia o confianza política? 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en puesto crítico de selección",
+      "Nivel 30 (máximo rango administrativo)",
+      "Discrecionalidad bajo apariencia de informe técnico",
+      "Concentración de poder en la gestión de recursos humanos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sofía Pérez Puente",
+        "Ministerio para la Transformación Digital",
+        "Cuerpo Técnico de Gestión de OO.AA."
+      ],
+      "perdedores": [
+        "Candidatos por mérito puro",
+        "Transparencia en el acceso al empleo público",
+        "Independencia administrativa absoluta"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Uso de libre designación en puesto crítico de selección",
+      "Nivel 30 (máximo rango administrativo)",
+      "Discrecionalidad bajo apariencia de informe técnico",
+      "Concentración de poder en la gestión de recursos humanos"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3021",
+  "timestamp": "2026-02-10T11:53:55.103Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 1 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica puestos de máxima responsabilidad (Niveles 30 y 29) mediante el sistema de 'libre designación', un mecanismo legal pero discrecional que permite la elección de perfiles basada en la confianza política más que en la concurrencia competitiva pura. Se observa que los puestos están vinculados a áreas críticas de soberanía tecnológica y digitalización (Inteligencia Artificial y Sociedad Digital), lo que otorga un poder de influencia significativo a los seleccionados sobre fondos públicos y regulación tecnológica sin un desglose público de los méritos específicos frente a otros candidatos.",
+    "resumen_ciudadano": "El Ministerio de Transformación Digital ha nombrado a dedo a dos altos cargos (Niveles 30 y 29) para gestionar áreas de Inteligencia Artificial y Sociedad Digital. Aunque son funcionarios de carrera, el método de selección permite elegirlos sin explicar por qué son mejores que otros. Un tercer puesto de coordinación técnica ha quedado vacío.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: El Ministerio de Transformación Digital adjudica puestos de Nivel 30 y 29 por 'libre designación'. ¿Meritocracia o cercanía? Más cargos de confianza en áreas clave de IA y digitalización. 🚩 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Niveles salariales máximos (30 y 29) en la Administración",
+      "Concentración de cargos en áreas de alta inversión tecnológica",
+      "Puesto de coordinación técnica declarado desierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Julia Bella Martí (Vocal Asesora)",
+        "Marta Vega Bayo (Jefa de Área)",
+        "Cuerpo Superior de Administradores Civiles del Estado",
+        "Élite funcionarial de nivel A1"
+      ],
+      "perdedores": [
+        "Candidatos externos por concurso de méritos",
+        "Transparencia en la selección de perfiles técnicos",
+        "Ciudadanía (desconocimiento de criterios de idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Niveles salariales máximos (30 y 29) en la Administración",
+      "Concentración de cargos en áreas de alta inversión tecnológica",
+      "Puesto de coordinación técnica declarado desierto"
+    ]
+  }
+}

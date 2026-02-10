@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3013",
+  "timestamp": "2026-02-10T11:41:27.835Z",
+  "title": "Ley 8/2025, de 16 de diciembre, de Universidades Populares de Canarias.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "La Ley 8/2025 intenta dar un marco jurídico a las Universidades Populares de Canarias basándose en una retórica de la Unión Europea sobre el aprendizaje a lo largo de la vida. Sin embargo, el texto incurre en una opacidad financiera notable: las disposiciones adicionales sobre asignación económica y financiación son fórmulas genéricas que no garantizan partidas blindadas, dejando el desarrollo real de la ley a expensas de la voluntad política anual. Además, existe una incongruencia ideológica al ensalzar la 'profesionalización' del sector mientras se admite explícitamente el uso de voluntarios y personal autónomo, lo que encubre una posible precarización del profesorado en este ámbito no reglado.",
+    "resumen_ciudadano": "Esta ley regula los centros municipales que ofrecen cursos y talleres para adultos en Canarias. Busca formalizar su existencia y facilitar que los ayuntamientos reciban dinero para estos fines, promoviendo la cultura y el aprendizaje fuera del sistema escolar tradicional.",
+    "resumen_tweet": "🎓 Canarias regula sus Universidades Populares. Mucha retórica de 'aprendizaje permanente' pero poca claridad en la financiación real. ¿Dinero público para formación o para burocracia municipal? Ojo a la precariedad laboral. #BOE #Opacidad #Transparencia 🚩",
+    "banderas_red_flags": [
+      "Vaguedad presupuestaria en las disposiciones adicionales",
+      "Riesgo de duplicidad de funciones entre áreas de cultura y educación",
+      "Fomento de la figura del voluntariado para tareas de formación técnica",
+      "Dependencia excesiva de convenios con una entidad privada (ACUP)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos (mayor control político y visibilidad)",
+        "Asociación Canaria de Universidades Populares (ACUP) (rol de intermediario consolidado)",
+        "Universidades Públicas (convenios de extensión)"
+      ],
+      "perdedores": [
+        "Personal docente (riesgo de contratación como autónomos o sustitución por voluntarios)",
+        "Municipios pequeños (con menos capacidad de gestión frente a los grandes)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Legislación Educativa y Cultural",
+    "banderas_rojas": [
+      "Vaguedad presupuestaria en las disposiciones adicionales",
+      "Riesgo de duplicidad de funciones entre áreas de cultura y educación",
+      "Fomento de la figura del voluntariado para tareas de formación técnica",
+      "Dependencia excesiva de convenios con una entidad privada (ACUP)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3018",
+  "timestamp": "2026-02-10T11:49:57.668Z",
+  "title": "Resolución de 3 de febrero de 2026, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se dispone el cese y nombramiento de vocales del Comité Asesor de Ayudas a la Distribución.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución presenta una estructura administrativa estándar pero oculta detalles críticos bajo una capa de discrecionalidad técnica. Se menciona el cese de una vocal por un 'posible conflicto de intereses' sin detallar la naturaleza de este, lo que impide el control social sobre la integridad del proceso. Aunque se cita la normativa vigente, los criterios de 'aptitud e idoneidad' para los nuevos nombramientos son subjetivos y no se acompañan de una justificación de méritos comparada, manteniendo el sistema de 'puertas giratorias' o círculos cerrados en la gestión de subvenciones culturales.",
+    "resumen_ciudadano": "El Instituto de la Cinematografía (ICAA) ha cambiado a los miembros del comité que decide qué películas reciben ayudas para su distribución. Se ha sustituido a una persona para evitar conflictos de intereses no explicados y se han nombrado tres nuevos vocales bajo criterios de confianza del Ministerio de Cultura, manteniendo el control sobre el reparto de fondos públicos al cine.",
+    "resumen_tweet": "📽️ ¿Quién decide las ayudas al cine? El ICAA renueva el comité de distribución. Ojo: una vocal sale por \"conflicto de intereses\" no aclarado. Criterios de selección opacos en un órgano que reparte dinero público. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de transparencia en la naturaleza del conflicto de interés mencionado",
+      "Ausencia de currículum o méritos públicos de los nuevos vocales en el texto",
+      "Alta discrecionalidad en la determinación de la 'idoneidad'",
+      "Estructura de renovación parcial que puede favorecer el continuismo en los criterios de adjudicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos vocales nombrados (acceso a poder de decisión sobre fondos)",
+        "Ministerio de Cultura (mantiene control discrecional del comité)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocen por qué se apartó a un vocal por conflicto de intereses)",
+        "Distribuidoras pequeñas sin representación en el comité de expertos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Subvenciones",
+    "banderas_rojas": [
+      "Falta de transparencia en la naturaleza del conflicto de interés mencionado",
+      "Ausencia de currículum o méritos públicos de los nuevos vocales en el texto",
+      "Alta discrecionalidad en la determinación de la 'idoneidad'",
+      "Estructura de renovación parcial que puede favorecer el continuismo en los criterios de adjudicación"
+    ]
+  }
+}
