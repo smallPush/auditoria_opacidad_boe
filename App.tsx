@@ -16,6 +16,7 @@ import SEO from './components/SEO';
 import Tags3DCloud from './components/Tags3DCloud';
 import RelatedTags3D from './components/RelatedTags3D';
 import Pagination from './components/Pagination';
+import CookieConsent from './components/CookieConsent';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -648,6 +649,7 @@ const App: React.FC = () => {
           <p>&copy; 2026 Spanish BOE Transparency Auditor. {t.footerDesc}</p>
         </footer>
         {showLogin && <LoginOverlay />}
+        <CookieConsent t={t} />
       </div>
     </div>
   );
