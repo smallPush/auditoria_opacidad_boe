@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-2889",
+  "timestamp": "2026-02-09T13:33:01.695Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Presidencia del Tribunal Constitucional, por la que se resuelve el concurso convocado por Resolución de 9 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa un proceso de consolidación de personal técnico en el Tribunal Constitucional mediante concurso de méritos. La opacidad reside en la declaración de una plaza 'desierta' por no alcanzar la puntuación mínima en 'méritos específicos', un criterio que suele albergar alta discrecionalidad técnica. Además, los dos perfiles seleccionados son hombres procedentes de cuerpos estatales de informática, lo que refleja la brecha de género persistente en las escalas técnicas (IT) de la administración pública española.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha nombrado a dos nuevos analistas informáticos tras un concurso público. Una tercera plaza ha quedado vacía porque ningún aspirante cumplió con los requisitos específicos exigidos por el tribunal.",
+    "resumen_tweet": "🔍 El Tribunal Constitucional cubre solo 2 de 3 plazas de analista. ¿Exceso de celo o perfiles demasiado específicos? Dos hombres se incorporan; la brecha técnica persiste. Una plaza queda vacía. #BOE #Transparencia #Administración 🏛️⚖️",
+    "banderas_red_flags": [
+      "Plaza desierta por criterios de mérito específico",
+      "Ausencia de paridad en los nombramientos técnicos",
+      "Concentración de poder administrativo en escalas C1"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Abel Manuel Martínez García",
+        "Víctor Manuel Moreno Pose",
+        "Cuerpo de Técnicos Auxiliares de Informática del Estado"
+      ],
+      "perdedores": [
+        "Candidatos excluidos por puntuación mínima",
+        "Representación femenina en puestos técnicos del TC",
+        "Eficiencia administrativa (una plaza queda sin cubrir)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Plaza desierta por criterios de mérito específico",
+      "Ausencia de paridad en los nombramientos técnicos",
+      "Concentración de poder administrativo en escalas C1"
+    ]
+  }
+}

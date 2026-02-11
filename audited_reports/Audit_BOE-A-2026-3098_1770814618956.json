@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3098",
+  "timestamp": "2026-02-11T12:56:58.956Z",
+  "title": "Resolución de 23 de enero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla una adjudicación de puesto de Nivel 30 (el máximo en la administración general) mediante el sistema de 'libre designación'. Este mecanismo, aunque legal bajo la Ley 30/1984, es la antítesis de la transparencia meritocrática, permitiendo el nombramiento discrecional ('a dedo') de altos cargos. Es relevante que el adjudicatario proviene de la escala de Científicos Superiores de la Defensa para ocupar una Subdirección General en un Gabinete Técnico de Inclusión, lo que refuerza la sospecha de que los vínculos de confianza política prevalecen sobre la especialización técnica sectorial en los niveles más altos de la jerarquía estatal.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector General en el Ministerio de Inclusión mediante un procedimiento de libre designación. Esto significa que el puesto ha sido otorgado por decisión directa de los superiores y no por un concurso de méritos abierto, consolidando el control político sobre la alta administración pública con un sueldo y estatus de nivel máximo (Nivel 30).",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el #BOE: Adjudicado un puesto de Nivel 30 (Subdirector) por libre designación en el Ministerio de Inclusión. La alta administración sigue priorizando la confianza política sobre el mérito abierto. 🏛️📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Nivel 30 de máxima jerarquía",
+      "Puesto en Gabinete Técnico (carácter político)",
+      "Discrecionalidad en la selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pedro Eduardo Bernad Silva",
+        "Élites administrativas con conexiones en ministerios",
+        "Estructuras de mando por confianza"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza",
+        "Ciudadanía (pérdida de neutralidad administrativa)",
+        "Sistema de mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal de alta dirección",
+    "banderas_rojas": [
+      "Libre designación",
+      "Nivel 30 de máxima jerarquía",
+      "Puesto en Gabinete Técnico (carácter político)",
+      "Discrecionalidad en la selección"
+    ]
+  }
+}

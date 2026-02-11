@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3094",
+  "timestamp": "2026-02-11T12:50:41.994Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 11 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento refleja un procedimiento de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de puestos técnicos. En este caso, se adjudica la Jefatura de la Unidad contra la Violencia sobre la Mujer en El Hierro. Aunque se cita el cumplimiento de requisitos, no se detallan los méritos específicos que posicionaron al adjudicatario sobre otros posibles candidatos. Se observa un ascenso del nivel 20 al 24, consolidando una posición de poder administrativo mediante un proceso no competitivo.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial ha nombrado a un nuevo Jefe de Unidad contra la violencia sobre la mujer en la isla de El Hierro. Este nombramiento no se ha realizado por examen o concurso de méritos abierto, sino por el sistema de 'libre designación' (elección directa). El funcionario seleccionado pasa de un nivel 20 a un nivel 24 de la administración pública.",
+    "resumen_tweet": "⚠️ Nuevo 'dedazo' legal en el #BOE. El Ministerio de Memoria Democrática adjudica a dedo la jefatura de Violencia sobre la Mujer en El Hierro. Nivel 24 asegurado mediante libre designación. ¿Transparencia o discrecionalidad? 🕵️‍♂️🇪🇸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Falta de desglose de méritos comparativos",
+      "Resolución parcial de convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Antonio Lázaro Orcajo (promoción a nivel 24)",
+        "Ministerio de Política Territorial (capacidad de elección directa)"
+      ],
+      "perdedores": [
+        "Candidatos con mayores méritos técnicos sin afinidad política",
+        "Transparencia en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de personal / Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Falta de desglose de méritos comparativos",
+      "Resolución parcial de convocatoria"
+    ]
+  }
+}

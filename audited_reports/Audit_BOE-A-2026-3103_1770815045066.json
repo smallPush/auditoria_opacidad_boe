@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3103",
+  "timestamp": "2026-02-11T13:04:05.066Z",
+  "title": "Resolución de 5 de febrero de 2026, del Consejo de Seguridad Nuclear, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el sistema de 'libre designacion', un eufemismo legal para el nombramiento discrecional o 'a dedo' en puestos criticos del Consejo de Seguridad Nuclear (CSN). Aunque se menciona una valoracion de meritos, el proceso carece de una escala de puntuacion publica que justifique por que estas personas son mas aptas que otros candidatos. Los complementos especificos, que superan los 30.000 euros anuales solo en ese concepto, representan un gasto estructural significativo asignado sin la transparencia de una oposicion pura.",
+    "resumen_ciudadano": "El Consejo de Seguridad Nuclear ha asignado dos puestos de Jefatura de Area con salarios elevados mediante libre designacion. Este metodo permite a la administracion elegir a quien desee para puestos de alta responsabilidad y remuneracion, en lugar de seguir un orden estrictamente basado en la mejor puntuacion en un examen o concurso de meritos abierto.",
+    "resumen_tweet": "☢️ El Consejo de Seguridad Nuclear tira de 'libre designacion' (a dedo ☝️) para puestos nivel 28 con complementos de >30.000€. ¿Seguridad tecnica o confianza politica en sectores criticos? #BOE #Opacidad #Transparencia #CSN",
+    "banderas_red_flags": [
+      "Libre designacion en puestos tecnicos",
+      "Complementos especificos muy elevados",
+      "Falta de detalle en la motivacion del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios de la Escala Superior del CSN",
+        "Cargos con perfil de confianza politica/institucional"
+      ],
+      "perdedores": [
+        "Candidatos basados puramente en merito competitivo",
+        "Sistema de transparencia administrativa",
+        "Contribuyentes (por falta de justificacion de la eficiencia del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designacion en puestos tecnicos",
+      "Complementos especificos muy elevados",
+      "Falta de detalle en la motivacion del nombramiento"
+    ]
+  }
+}

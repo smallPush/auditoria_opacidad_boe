@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3096",
+  "timestamp": "2026-02-11T12:53:47.836Z",
+  "title": "Real Decreto 111/2026, de 10 de febrero, por el que se dispone el cese de doña Cristina Asacia Navarro Enterría como Subsecretaria de Inclusión, Seguridad Social y Migraciones.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El cese 'a petición propia' es una fórmula burocrática estándar que a menudo encubre crisis internas o reestructuraciones políticas no explicadas al público. El documento carece de información sobre el coste de la indemnización por cese (si corresponde) o el motivo real de la salida en un ministerio crítico para la gestión de pensiones y migraciones.",
+    "resumen_ciudadano": "Cristina Asacia Navarro Enterría deja su cargo como número tres del Ministerio de Inclusión. Aunque se presenta como una renuncia voluntaria, no se especifica quién asumirá sus funciones ni si percibirá indemnizaciones tras su salida, manteniendo la opacidad habitual en la rotación de altos cargos del Estado.",
+    "resumen_tweet": "📢 Cese en el Ministerio de Inclusión: Cristina Navarro deja la Subsecretaría 'a petición propia'. ¿Salida pactada o relevo estratégico? La falta de motivos claros en el #BOE alimenta la opacidad institucional. 🧐 #Transparencia #Políticos",
+    "banderas_red_flags": [
+      "Opacidad en los motivos reales de la renuncia",
+      "Falta de mención a posibles indemnizaciones por cese",
+      "Riesgo de puertas giratorias no supervisadas en el corto plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La propia ex-subsecretaria (si su salida es para un cargo de mayor relevancia o en el sector privado)",
+        "El Ministerio (si busca un cambio de perfil técnico por uno más político)"
+      ],
+      "perdedores": [
+        "La ciudadanía (por la pérdida de continuidad en la gestión técnica)",
+        "El sistema de transparencia (por el uso de fórmulas genéricas que ocultan la realidad política)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses de Altos Cargos",
+    "banderas_rojas": [
+      "Opacidad en los motivos reales de la renuncia",
+      "Falta de mención a posibles indemnizaciones por cese",
+      "Riesgo de puertas giratorias no supervisadas en el corto plazo"
+    ]
+  }
+}

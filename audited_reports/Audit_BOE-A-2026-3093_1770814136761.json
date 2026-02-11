@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3093",
+  "timestamp": "2026-02-11T12:48:56.761Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 31 de julio de 2025.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla la adjudicación de 21 puestos en la Agencia Tributaria (AEAT) bajo el sistema de 'libre designación'. Este método, aunque legal, es el mecanismo estándar para el nombramiento discrecional de perfiles afines, eludiendo el concurso de méritos tradicional. Se observa una 'endogamia administrativa' significativa: en casi todos los casos, el puesto de procedencia es idéntico al adjudicado, lo que sugiere que el proceso es una mera formalización jurídica de nombramientos a dedo ya existentes. Se blindan puestos críticos en Recaudación, Gestión Tributaria e Informática con complementos específicos de hasta 54.512,64 euros anuales, consolidando una red de confianza en la cúpula fiscal.",
+    "resumen_ciudadano": "La Agencia Tributaria ha formalizado el nombramiento de directivos y jefes de servicio en áreas clave como embargos y control tributario. En lugar de un concurso abierto, se ha usado la 'libre designación' (elección directa). La mayoría de los nombrados ya estaban realizando esa función, lo que indica un proceso de ratificación de la cúpula administrativa actual sin apertura real a nuevos candidatos por mérito.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza? La Agencia Tributaria adjudica 21 altos cargos mediante 'libre designación'. Muchos ya ocupaban el puesto: una formalidad para blindar la estructura interna con complementos de hasta 54.000€. #BOE #Opacidad #Transparencia 📉⚖️",
+    "banderas_red_flags": [
+      "Uso sistemático de libre designación",
+      "Coincidencia total entre origen y destino",
+      "Altos complementos retributivos",
+      "Discrecionalidad en puestos de control fiscal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios ratificados",
+        "Estructura interna de la AEAT"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza",
+        "Ciudadanía (por falta de meritocracia en la gestión fiscal)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistemático de libre designación",
+      "Coincidencia total entre origen y destino",
+      "Altos complementos retributivos",
+      "Discrecionalidad en puestos de control fiscal"
+    ]
+  }
+}

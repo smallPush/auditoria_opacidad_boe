@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3085",
+  "timestamp": "2026-02-11T12:37:05.309Z",
+  "title": "Real Decreto 91/2026, de 10 de febrero, por el que se dispone el cese de doña Cristina Pérez Valero como Delegada del Gobierno en Ceuta.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El documento presenta una opacidad sistémica típica de los ceses de altos cargos en España. Se utiliza la fórmula protocolaria de 'agradecimiento por los servicios prestados' para encubrir relevos que suelen responder a crisis de gestión o giros políticos estratégicos. En un enclave de alta sensibilidad geopolítica como Ceuta, la ausencia de una memoria justificativa sobre el cese impide evaluar si responde a fallos en la política migratoria, de seguridad o a simples purgas internas. No se detalla el coste económico derivado de posibles indemnizaciones por cese.",
+    "resumen_ciudadano": "Se oficializa la salida de Cristina Pérez Valero como máxima representante del Gobierno de España en Ceuta. El texto es puramente administrativo y no explica las razones de su destitución ni quién asumirá sus funciones, dejando a la ciudadanía sin capacidad de auditar la gestión realizada hasta la fecha.",
+    "resumen_tweet": "🔴 Nueva salida en el #BOE: El Gobierno cesa a la Delegada en Ceuta sin dar una sola explicación. ¿Crisis de gestión o relevo estratégico? La opacidad en los altos cargos sigue siendo la norma. #Opacidad #Transparencia #Ceuta 📉",
+    "banderas_red_flags": [
+      "Falta de motivación del cese",
+      "Opacidad en la rendición de cuentas de gestión",
+      "Posibles indemnizaciones post-cargo no cuantificadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Próximo designado para el cargo",
+        "Estructura orgánica de Presidencia"
+      ],
+      "perdedores": [
+        "Cristina Pérez Valero (pérdida de poder político)",
+        "Ciudadanía de Ceuta (falta de información sobre el relevo)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Falta de motivación del cese",
+      "Opacidad en la rendición de cuentas de gestión",
+      "Posibles indemnizaciones post-cargo no cuantificadas"
+    ]
+  }
+}

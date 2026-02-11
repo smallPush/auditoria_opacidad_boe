@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-2890",
+  "timestamp": "2026-02-09T13:34:23.328Z",
+  "title": "Real Decreto 78/2026, de 4 de febrero, por el que se nombra Presidenta del Tribunal de Instancia de Santa Cruz de Tenerife a la Magistrada doña Ana Esmeralda Casado Portilla.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se formaliza el nombramiento de la Presidencia del Tribunal de Instancia de Santa Cruz de Tenerife tras una elección interna por parte de la Junta de Jueces. Destaca que la magistrada proviene de la sección de Violencia sobre la Mujer, lo que sugiere una especialización en la materia. No obstante, el texto es lacónico respecto a los criterios de idoneidad o la existencia de otros candidatos, limitándose a dar fe de un acuerdo previo del CGPJ.",
+    "resumen_ciudadano": "La magistrada Ana Esmeralda Casado Portilla ha sido nombrada Presidenta de los juzgados de Santa Cruz de Tenerife tras ser elegida por sus propios compañeros y ratificada por el Consejo General del Poder Judicial.",
+    "resumen_tweet": "🏛️ Nueva presidencia judicial en Tenerife. Ana Esmeralda Casado, experta en Violencia sobre la Mujer, asume el cargo tras elección interna. ¿Transparencia o corporativismo? El #BOE lo hace oficial. ⚖️ #Justicia #Canarias #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de motivación de méritos en el texto público",
+      "Procedimiento de elección interna no auditable mediante este extracto",
+      "Falta de datos sobre el impacto presupuestario del cambio de cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Esmeralda Casado Portilla",
+        "Carrera judicial interna"
+      ],
+      "perdedores": [
+        "Transparencia pública sobre procesos de selección judicial"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Ausencia de motivación de méritos en el texto público",
+      "Procedimiento de elección interna no auditable mediante este extracto",
+      "Falta de datos sobre el impacto presupuestario del cambio de cargo"
+    ]
+  }
+}

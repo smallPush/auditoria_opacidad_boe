@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3100",
+  "timestamp": "2026-02-11T12:59:48.205Z",
+  "title": "Decreto de 29 de enero de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Medio Ambiente y Urbanismo de la Fiscalía de la Comunidad de Castilla y León a doña María del Carmen Barberán López.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El decreto formaliza el nombramiento de María del Carmen Barberán López basándose en el criterio de 'idoneidad' y 'trayectoria profesional', términos que, aunque legales, permiten un alto grado de discrecionalidad. Es relevante notar que hubo dos candidatos, pero el documento despacha al aspirante no seleccionado con una mención genérica a su 'particular motivación', sin detallar la comparativa técnica de méritos. Además, se menciona una vacante en la plaza del Fiscal de Sala Coordinador de Medio Ambiente, lo que obligó a que el informe favorable fuera emitido por la Secretaría Técnica, evidenciando huecos en la estructura de supervisión de la especialidad.",
+    "resumen_ciudadano": "Se ha designado a la nueva Fiscal Delegada de Medio Ambiente y Urbanismo para Castilla y León. El proceso contó con dos aspirantes y fue decidido por la Fiscal General del Estado tras un informe favorable de la Secretaría Técnica, motivado por la ausencia de un coordinador titular de sala en esa materia.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la Fiscalía de Medio Ambiente de Castilla y León. Dos candidatos, una elegida por 'idoneidad' sin detallar la comparativa de méritos. ¿Transparencia o discrecionalidad en puestos clave? 🧐🌳 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la valoración de la idoneidad",
+      "Opacidad en la comparativa de méritos entre los dos candidatos",
+      "Vacante estructural en la plaza de Fiscal de Sala Coordinador de Medio Ambiente",
+      "Sustitución de informes técnicos por informes de la Secretaría Técnica debido a vacantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María del Carmen Barberán López (nombramiento)",
+        "Fiscalía General del Estado (consolidación de estructura jerárquica)"
+      ],
+      "perdedores": [
+        "Candidato no seleccionado (sin justificación pública detallada del rechazo)",
+        "Ciudadanía (por la falta de transparencia en criterios de selección para delitos ambientales)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Especialista",
+    "banderas_rojas": [
+      "Discrecionalidad en la valoración de la idoneidad",
+      "Opacidad en la comparativa de méritos entre los dos candidatos",
+      "Vacante estructural en la plaza de Fiscal de Sala Coordinador de Medio Ambiente",
+      "Sustitución de informes técnicos por informes de la Secretaría Técnica debido a vacantes"
+    ]
+  }
+}
