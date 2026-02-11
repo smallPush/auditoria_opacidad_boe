@@ -121,7 +121,11 @@ export const translations = {
     postTweet: "Publicar Tweet",
     tweetSummaryTitle: "Resumen para Tweet",
     tweetPlaceholder: "Escribe tu tweet aquí...",
-    minFrequency: "Frecuencia Mínima"
+    minFrequency: "Frecuencia Mínima",
+    cookieTitle: "Uso de Cookies",
+    cookieText: "Utilizamos cookies para mejorar tu experiencia y analizar el tráfico. Al continuar navegando, aceptas nuestro uso de cookies.",
+    cookieAccept: "Aceptar",
+    cookieReject: "Rechazar"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -242,6 +246,10 @@ export const translations = {
     postTweet: "Post Tweet",
     tweetSummaryTitle: "Tweet Summary",
     tweetPlaceholder: "Write your tweet here...",
-    minFrequency: "Min Frequency"
+    minFrequency: "Min Frequency",
+    cookieTitle: "Cookie Usage",
+    cookieText: "We use cookies to improve your experience and analyze traffic. By continuing to browse, you accept our use of cookies.",
+    cookieAccept: "Accept",
+    cookieReject: "Reject"
   }
 };
