@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-3214",
+  "timestamp": "2026-02-12T15:42:38.637Z",
+  "title": "Real Decreto 89/2026, de 11 de febrero, por el que se modifica el Real Decreto 158/2021, de 16 de marzo, por el que se regula la composición y funciones del Consejo Asesor para la Promoción Estratégica y Comercial de Canarias.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 89/2026 presenta una clara tendencia a la hipertrofia administrativa bajo el pretexto de la 'mejora del funcionamiento'. La estructura del CAPECC se expande para dar cabida a una densa red de altos cargos (Direcciones Generales, Presidencias de Cabildos y Cámaras), lo que sugiere una priorización de la representación política sobre la eficacia operativa. Resulta alarmante la introducción de invitados externos 'vinculados a la internacionalización' con voz pero sin voto, ya que no se establecen criterios de selección objetivos, abriendo la puerta a la influencia de lobbies o intereses privados en un órgano público sin los mecanismos de control habituales. La flexibilización de los mandatos de las vocalías otorga un poder discrecional a la administración para cesar o renovar miembros a conveniencia, debilitando la independencia del consejo.",
+    "resumen_ciudadano": "Se reforma el consejo que decide las estrategias comerciales de Canarias para incluir a más cargos públicos (hasta 5 vicepresidencias) y permitir que personas ajenas al Gobierno asistan a las reuniones como invitados. Aunque dicen buscar eficiencia, la norma permite que los mandatos de sus miembros se acorten a dedo y no especifica quiénes serán esos 'expertos' invitados, lo que dificulta saber quién influye realmente en las decisiones económicas de las islas.",
+    "resumen_tweet": "🚨 Más sillones y menos claridad en el #BOE. Se reforma el consejo comercial de Canarias para sumar altos cargos y permitir 'invitados' sin criterios claros. ¿Expertos o lobbies? Menos control, más discrecionalidad. 📉 #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Hipertrofia de altos cargos (5 vicepresidencias y múltiples vocalías)",
+      "Invitaciones discrecionales a externos sin baremos públicos",
+      "Duración de mandatos flexible sujeta a conveniencia",
+      "Reducción de la obligatoriedad de reuniones periódicas en el Comité Ejecutivo",
+      "Ambigüedad en la definición de 'personas vinculadas a la internacionalización'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la Administración General del Estado",
+        "Élites políticas de los Cabildos Insulares",
+        "Grandes consultores y lobbies (como invitados externos)",
+        "Estructuras burocráticas ministeriales"
+      ],
+      "perdedores": [
+        "PYMES canarias (representadas solo por cúpulas de Cámaras)",
+        "Ciudadanía (por el aumento de la opacidad en la toma de decisiones)",
+        "Principio de independencia técnica de los órganos asesores"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Reforma de Órgano Colegiado / Real Decreto",
+    "banderas_rojas": [
+      "Hipertrofia de altos cargos (5 vicepresidencias y múltiples vocalías)",
+      "Invitaciones discrecionales a externos sin baremos públicos",
+      "Duración de mandatos flexible sujeta a conveniencia",
+      "Reducción de la obligatoriedad de reuniones periódicas en el Comité Ejecutivo",
+      "Ambigüedad en la definición de 'personas vinculadas a la internacionalización'"
+    ]
+  }
+}

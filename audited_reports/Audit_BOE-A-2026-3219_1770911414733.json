@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3219",
+  "timestamp": "2026-02-12T15:50:14.733Z",
+  "title": "Resolución de 9 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla una resolucion de libre designacion para un puesto de Subdirector General en el Ministerio de Asuntos Exteriores. Aunque se ampara en la ley de reforma de la Función Pública y en el Plan de Recuperación, Transformación y Resiliencia, el sistema de 'libre designacion' es intrinsecamente opaco, permitiendo el nombramiento discrecional de altos cargos sin una comparativa de meritos publica. En este caso, el adjudicatario ya pertenecia al mismo centro directivo con el mismo nivel (30), lo que sugiere una consolidacion interna de poder mas que una seleccion competitiva abierta.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector General de Administración Financiera en el Ministerio de Exteriores mediante el metodo de 'libre designacion' (eleccion directa). El elegido, Javier Martin Vivas, ya ocupaba un cargo de maximo nivel en la misma subsecretaria. Este tipo de nombramientos permite a los ministerios colocar a personal de su confianza en puestos clave de gestion economica sin explicar por que son mejores que otros candidatos.",
+    "resumen_tweet": "🚩 ¿Meritocracia o confianza? El Ministerio de Exteriores asigna a dedo una Subdirección General de nivel 30. La 'libre designación' sigue blindando la opacidad en la gestión de fondos. #BOE #Opacidad #Transparencia #FunciónPública 🇪🇸",
+    "banderas_red_flags": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Endogamia administrativa (el candidato procede del mismo departamento y nivel)",
+      "Falta de motivacion en la eleccion del perfil frente a otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Martin Vivas (consolida puesto de elite administrativa)",
+        "Ministerio de Asuntos Exteriores (mantiene control directo sobre el area financiera)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza politica",
+        "Ciudadania (opacidad en la eleccion de responsables de fondos publicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Endogamia administrativa (el candidato procede del mismo departamento y nivel)",
+      "Falta de motivacion en la eleccion del perfil frente a otros aspirantes"
+    ]
+  }
+}

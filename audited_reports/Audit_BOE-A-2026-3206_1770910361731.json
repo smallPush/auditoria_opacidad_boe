@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3206",
+  "timestamp": "2026-02-12T15:32:41.731Z",
+  "title": "Corrección de errores del Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque formalmente es una 'corrección de errores', el cambio en la Disposición Adicional Tercera es sustancial. Al eliminar la referencia específica a la 'disposición adicional segunda' en el contexto de sanciones por alteraciones del servicio, se amplía la ambigüedad sobre qué incumplimientos quedan exentos de castigo. Este tipo de 'fe de erratas' a menudo oculta ajustes legales de calado que deberían debatirse como modificaciones de ley, no como simples erratas tipográficas.",
+    "resumen_ciudadano": "El Gobierno corrige el texto de la ley de ayudas para los accidentes de tren en Adamuz y Gélida. Los cambios ajustan la numeración de los apartados y modifican la redacción sobre quiénes no pueden ser sancionados por fallos en el servicio ferroviario a raíz de los accidentes.",
+    "resumen_tweet": "⚠️ ¿Error o estrategia? El #BOE corrige la ley de ayudas ferroviarias (Adamuz/Gélida). Se matiza la exención de sanciones por fallos en el servicio. Menos claridad en la rendición de cuentas. 🚂📉 #Opacidad #Transparencia #Ferrocarriles",
+    "banderas_red_flags": [
+      "Modificación sustancial bajo apariencia de error tipográfico",
+      "Ampliación de la exención de sanciones por alteraciones del servicio",
+      "Uso de correcciones para ajustar responsabilidades administrativas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadoras ferroviarias (mayor blindaje frente a sanciones)",
+        "Administración central (simplificación del marco de responsabilidad)"
+      ],
+      "perdedores": [
+        "Usuarios del servicio ferroviario (menor capacidad de fiscalización de sanciones)",
+        "Transparencia legislativa (uso de correcciones para cambios de fondo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Cataluña",
+    "tipologia": "Legislación de Emergencia / Ferroviaria",
+    "banderas_rojas": [
+      "Modificación sustancial bajo apariencia de error tipográfico",
+      "Ampliación de la exención de sanciones por alteraciones del servicio",
+      "Uso de correcciones para ajustar responsabilidades administrativas"
+    ]
+  }
+}

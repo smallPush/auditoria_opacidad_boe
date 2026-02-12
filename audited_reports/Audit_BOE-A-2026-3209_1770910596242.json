@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3209",
+  "timestamp": "2026-02-12T15:36:36.242Z",
+  "title": "Real Decreto 85/2026, de 11 de febrero, por el que se establece el Certificado profesional en Instalación y mantenimiento de ascensores y otros equipos fijos de elevación y transporte, de la familia profesional Instalación y Mantenimiento, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 85/2026 establece un marco educativo para técnicos de ascensores bajo el paraguas de los fondos europeos EFESO. Aunque formaliza una profesión técnica, presenta una 'opacidad de implementación': delega en las autonomías y empresas el coste real del modelo dual. La mención a la igualdad de género (Art. 6.11) parece un 'tokenismo' legislativo, ya que no introduce medidas de acción positiva en un sector con una segregación vertical y horizontal extrema. Se detecta un sesgo pro-corporativo al estandarizar currículos que benefician principalmente a las grandes multinacionales del sector de la elevación, facilitando el acceso a mano de obra certificada bajo la modalidad de formación dual (menor coste laboral).",
+    "resumen_ciudadano": "Se crea un nuevo título oficial de 720 horas para trabajar instalando y manteniendo ascensores. Este título será válido en toda España e incluye prácticas obligatorias en empresas. El objetivo es profesionalizar el sector, aunque deja en manos de las grandes empresas gran parte de la formación práctica.",
+    "resumen_tweet": "🔍 Auditamos el RD 85/2026: Nueva titulación para técnicos de ascensores 🏗️ 720h de formación dual que beneficia a las grandes multinacionales. Mucha mención a la igualdad, pero ¿cómo se logrará en un sector tan masculinizado? #BOE #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Financiación dependiente de fondos FSE+ sin desglose presupuestario directo en el decreto",
+      "Ambigüedad en la ejecución de las cláusulas de igualdad de género",
+      "Riesgo de sustitución de empleo estable por formación dual de bajo coste",
+      "Externalización de la parte práctica de la formación a empresas privadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas de mantenimiento de ascensores",
+        "Centros de formación profesional privados",
+        "Fondos de cohesión europea (ejecución de gasto)"
+      ],
+      "perdedores": [
+        "Trabajadores veteranos sin titulación (riesgo de exclusión)",
+        "Pequeñas empresas con dificultad para gestionar alumnos duales",
+        "Mujeres (debido a la falta de medidas concretas contra la segregación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Educativa y Laboral",
+    "banderas_rojas": [
+      "Financiación dependiente de fondos FSE+ sin desglose presupuestario directo en el decreto",
+      "Ambigüedad en la ejecución de las cláusulas de igualdad de género",
+      "Riesgo de sustitución de empleo estable por formación dual de bajo coste",
+      "Externalización de la parte práctica de la formación a empresas privadas"
+    ]
+  }
+}

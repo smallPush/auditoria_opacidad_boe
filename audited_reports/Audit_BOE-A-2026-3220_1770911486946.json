@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3220",
+  "timestamp": "2026-02-12T15:51:26.946Z",
+  "title": "Resolución de 6 de febrero de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 14 de noviembre de 2025, en la Abogacía General del Estado.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución del concurso para la Abogacía General del Estado revela una preocupante ineficiencia administrativa: de los 21 puestos analizados en este extracto, el 76% (16 plazas) han quedado desiertos. Esto indica una falta de atractivo de los destinos o requisitos excesivamente rígidos que bloquean la movilidad funcional. Aunque el lenguaje es procedimentalmente correcto, la realidad subyacente es una parálisis en la cobertura de puestos base (C1/C2) que son esenciales para el funcionamiento del sistema jurídico del Estado.",
+    "resumen_ciudadano": "Se han adjudicado plazas de personal administrativo en la Abogacía del Estado, pero la gran mayoría de los puestos han quedado vacíos por falta de candidatos aptos o interesados. Esto afecta directamente a la agilidad de la justicia, ya que faltan auxiliares y jefes de negociado para tramitar expedientes.",
+    "resumen_tweet": "🚨 ¡Desierto administrativo en el #BOE! De 21 plazas para la Abogacía del Estado, 16 quedan VACANTES. ¿Falta de incentivos o gestión ineficiente? Menos burocracia y más soluciones para el personal público. ⚖️📉 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas (76%)",
+      "Posible falta de adecuación entre oferta y demanda interna",
+      "Riesgo de sobrecarga de trabajo para el personal existente",
+      "Ineficiencia en el gasto de gestión del concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 5 funcionarios adjudicatarios que logran movilidad (Begoña Antas, Patricia Espinosa, Carolina Campos, Juan Luis Payán, María Prado Blanco)"
+      ],
+      "perdedores": [
+        "La Administración General (por puestos sin cubrir)",
+        "La ciudadanía (por la ralentización de servicios jurídicos)",
+        "Candidatos de grupos C1/C2 con dificultades para el cambio de residencia sin dietas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas (76%)",
+      "Posible falta de adecuación entre oferta y demanda interna",
+      "Riesgo de sobrecarga de trabajo para el personal existente",
+      "Ineficiencia en el gasto de gestión del concurso"
+    ]
+  }
+}
