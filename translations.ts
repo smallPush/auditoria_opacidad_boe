@@ -125,7 +125,13 @@ export const translations = {
     cookieTitle: "Uso de Cookies",
     cookieText: "Utilizamos cookies para mejorar tu experiencia y analizar el tráfico. Al continuar navegando, aceptas nuestro uso de cookies.",
     cookieAccept: "Aceptar",
-    cookieReject: "Rechazar"
+    cookieReject: "Rechazar",
+    privacyPolicy: "Política de Privacidad",
+    privacyTitle: "Política de Privacidad y Protección de Datos",
+    privacyIntro: "En cumplimiento del Reglamento General de Protección de Datos (RGPD), te informamos sobre cómo tratamos tus datos.",
+    privacyCookies: "Cookies: Utilizamos cookies técnicas para recordar tu sesión y preferencias de idioma, y Google Analytics para análisis de tráfico (siempre que aceptes).",
+    privacyData: "Datos Personales: No almacenamos datos personales identificativos de los usuarios, salvo las claves de API que introduzcas voluntariamente, las cuales solo se mantienen en memoria durante la sesión activa.",
+    privacyRights: "Tus Derechos: Tienes derecho a acceder, rectificar o suprimir tus datos locales borrando el historial del navegador o usando la opción 'Limpiar Local'."
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -250,6 +256,12 @@ export const translations = {
     cookieTitle: "Cookie Usage",
     cookieText: "We use cookies to improve your experience and analyze traffic. By continuing to browse, you accept our use of cookies.",
     cookieAccept: "Accept",
-    cookieReject: "Reject"
+    cookieReject: "Reject",
+    privacyPolicy: "Privacy Policy",
+    privacyTitle: "Privacy Policy and Data Protection",
+    privacyIntro: "In compliance with the General Data Protection Regulation (GDPR), we inform you about how we process your data.",
+    privacyCookies: "Cookies: We use technical cookies to remember your session and language preferences, and Google Analytics for traffic analysis (provided you accept).",
+    privacyData: "Personal Data: We do not store personally identifiable user data, except for API keys you voluntarily enter, which are only kept in memory during the active session.",
+    privacyRights: "Your Rights: You have the right to access, rectify, or delete your local data by clearing your browser history or using the 'Clear Local' option."
   }
 };

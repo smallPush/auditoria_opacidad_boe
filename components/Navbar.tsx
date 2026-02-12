@@ -76,6 +76,14 @@ const Navbar: React.FC<NavbarProps> = ({
                             <Share2 size={16} />
                             {t.networkMenu}
                         </button>
+
+                        <button
+                            onClick={() => handleNavClick('/privacy')}
+                            className="px-5 py-2 rounded-lg text-sm font-bold text-slate-400 hover:text-white hover:bg-slate-800 transition-all flex items-center gap-2"
+                        >
+                            <ShieldCheck size={16} />
+                            {t.privacyPolicy}
+                        </button>
                     </div>
 
                     {/* Desktop Actions */}
@@ -157,6 +165,14 @@ const Navbar: React.FC<NavbarProps> = ({
                         >
                             <Share2 size={20} />
                             {t.networkMenuMobile}
+                        </button>
+
+                        <button
+                            onClick={() => handleNavClick('/privacy')}
+                            className="w-full p-4 rounded-2xl text-left font-bold flex items-center gap-3 text-slate-400"
+                        >
+                            <ShieldCheck size={20} />
+                            {t.privacyPolicy}
                         </button>
 
                         <div className="pt-4 border-t border-slate-800/50 space-y-3">

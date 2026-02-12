@@ -17,6 +17,7 @@ import Tags3DCloud from './components/Tags3DCloud';
 import RelatedTags3D from './components/RelatedTags3D';
 import Pagination from './components/Pagination';
 import CookieConsent from './components/CookieConsent';
+import PrivacyPolicy from './components/PrivacyPolicy';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
@@ -641,12 +642,35 @@ const App: React.FC = () => {
               isHistoryLoaded={isHistoryLoaded}
             />
           } />
+
+          <Route path="/a/:boeId" element={
+            <AuditTrigger
+              performAudit={performAudit}
+              state={state}
+              t={t}
+              isLoggedIn={isLoggedIn}
+              searchId={searchId}
+              lang={lang}
+              resetState={resetState}
+              history={history}
+              isHistoryLoaded={isHistoryLoaded}
+            />
+          } />
+
+          <Route path="/privacy" element={
+            <PrivacyPolicy t={t} />
+          } />
         </Routes>
 
 
 
         <footer className="mt-24 pt-12 border-t border-slate-800 text-center text-slate-500 text-sm">
           <p>&copy; 2026 Spanish BOE Transparency Auditor. {t.footerDesc}</p>
+          <div className="mt-4 flex justify-center gap-6">
+            <Link to="/privacy" className="hover:text-blue-400 transition-colors">
+              {t.privacyPolicy}
+            </Link>
+          </div>
         </footer>
         {showLogin && <LoginOverlay />}
         <CookieConsent t={t} />

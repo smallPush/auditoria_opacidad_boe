@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 interface CookieConsentProps {
   t: any;
@@ -32,6 +33,9 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ t }) => {
         <div className="space-y-2 text-center md:text-left">
             <h3 className="text-lg font-bold text-white">{t.cookieTitle}</h3>
             <p className="text-slate-400 text-sm">{t.cookieText}</p>
+            <Link to="/privacy" className="text-blue-400 text-xs hover:underline mt-1 inline-block">
+                {t.privacyPolicy}
+            </Link>
         </div>
         <div className="flex items-center gap-3 w-full md:w-auto">
             <button
