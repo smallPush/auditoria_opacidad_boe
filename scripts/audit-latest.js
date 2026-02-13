@@ -40,6 +40,16 @@ if (!GEMINI_API_KEY) {
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 
+async function shortenUrl(url) {
+  try {
+    const response = await fetch(`https://is.gd/create.php?format=simple&url=${encodeURIComponent(url)}`);
+    if (!response.ok) return url;
+    return await response.text();
+  } catch (e) {
+    return url;
+  }
+}
+
 async function analyzeBOE(xmlContent) {
   // Using the same pattern as geminiService.ts
   const response = await ai.models.generateContent({
@@ -214,6 +224,15 @@ async function run() {
         const auditRecord = { boe_id: item.id, timestamp: new Date(timestamp).toISOString(), title: item.titulo, report: audit };
         fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
         console.log(`💾 Saved to ${fileName}`);
+
+        if (audit.resumen_tweet) {
+          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
+          console.log(`\n--- TWEET PARA ${item.id} ---`);
+          console.log(audit.resumen_tweet);
+          console.log(shortUrl);
+          console.log('----------------------------\n');
+        }
+
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
 
         processedCount++;

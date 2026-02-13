@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3303",
+  "timestamp": "2026-02-13T09:44:49.626Z",
+  "title": "Resolución de 22 de enero de 2026, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Juan Antonio Rodríguez Sánchez.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento representa un nombramiento de funcionario de carrera (Catedrático) bajo la Ley Orgánica 2/2023. Aunque el proceso administrativo es legalmente pulcro, existe una opacidad intrínseca en la publicación: no se detalla la dotación presupuestaria asignada a la plaza ni el impacto económico a largo plazo para las arcas públicas. El área de 'Historia de la Ciencia', aunque académicamente valiosa, se sitúa en una zona de baja fiscalización de impacto socioeconómico directo, lo que puede interpretarse como una inercia de la estructura burocrática universitaria frente a demandas de transparencia en la inversión pública.",
+    "resumen_ciudadano": "La Universidad de Salamanca nombra formalmente a Juan Antonio Rodríguez Sánchez como Catedrático de Universidad en el área de Historia de la Ciencia. Este es un trámite administrativo que consolida una plaza de funcionario de alto nivel tras un proceso de concurso público.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Universidad de Salamanca. El #BOE publica el nombramiento sin detallar el coste real para el contribuyente de estas plazas vitalicias. ¿Inversión en ciencia o inercia administrativa? 🏛️🔍 #Opacidad #Transparencia #CastillayLeon",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario de la plaza",
+      "Falta de información sobre los criterios de mérito de la comisión",
+      "Riesgo de endogamia en procesos de promoción interna universitaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Antonio Rodríguez Sánchez (estabilidad laboral y aumento de rango)",
+        "Universidad de Salamanca (consolidación de su estructura de profesorado)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asunción de gasto recurrente sin análisis de retorno)",
+        "Investigadores jóvenes (escasez de plazas nuevas frente a consolidaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario de la plaza",
+      "Falta de información sobre los criterios de mérito de la comisión",
+      "Riesgo de endogamia en procesos de promoción interna universitaria"
+    ]
+  }
+}

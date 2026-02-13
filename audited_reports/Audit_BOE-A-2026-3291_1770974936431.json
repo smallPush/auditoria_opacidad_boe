@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3291",
+  "timestamp": "2026-02-13T09:28:56.431Z",
+  "title": "Modificación del Anexo del Acuerdo entre el Gobierno Español y el Gobierno de la República Peruana para servicios aéreos entre sus respectivos territorios y más allá de ellos, hecho en Madrid y Lima el 15 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una liberalización total del mercado aéreo entre España y Perú, sustituyendo el régimen de cuotas por uno de 'frecuencias ilimitadas'. Aunque el texto es breve, esconde un cambio sistémico: la renuncia del Estado a regular el volumen de tráfico, delegando totalmente en el 'mercado'. No se mencionan estudios de impacto ambiental ni compensaciones por emisiones de CO2. El uso de 'fórmulas virtuales' para la firma acelera procesos burocráticos pero reduce la visibilidad política de acuerdos que afectan a la soberanía del espacio aéreo.",
+    "resumen_ciudadano": "España y Perú han acordado permitir un número ilimitado de vuelos semanales entre ambos países. Se eliminan las restricciones previas que limitaban cuántos aviones podían operar, permitiendo que las aerolíneas decidan según sus intereses comerciales. Este acuerdo moderniza un convenio de 1954 y facilita el tráfico de pasajeros y carga sin límites administrativos.",
+    "resumen_tweet": "✈️ ¡Cielo abierto entre España y Perú! 🇪🇸🇵🇪 Se eliminan los límites y ahora los vuelos serán ILIMITADOS. Gran noticia para las aerolíneas, pero ¿y el impacto climático? 🌍 Otro acuerdo de despacho sin debate público. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Liberalización absoluta sin evaluación de impacto ambiental",
+      "Falta de transparencia sobre las 'necesidades del mercado' citadas",
+      "Ausencia de mecanismos de control sobre el aumento de emisiones",
+      "Delegación de la capacidad operativa totalmente en el sector privado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes aerolíneas comerciales (Iberia, LATAM)",
+        "Gestores aeroportuarios (AENA)",
+        "Sector del turismo de masas"
+      ],
+      "perdedores": [
+        "Objetivos de descarbonización",
+        "Ciudadanos residentes cerca de hubs aeroportuarios (contaminación acústica)",
+        "Modelos de transporte alternativos y sostenibles"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Sector Aeronáutico",
+    "banderas_rojas": [
+      "Liberalización absoluta sin evaluación de impacto ambiental",
+      "Falta de transparencia sobre las 'necesidades del mercado' citadas",
+      "Ausencia de mecanismos de control sobre el aumento de emisiones",
+      "Delegación de la capacidad operativa totalmente en el sector privado"
+    ]
+  }
+}

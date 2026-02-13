@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3292",
+  "timestamp": "2026-02-13T09:30:10.539Z",
+  "title": "Real Decreto 81/2026, de 4 de febrero, por el que se nombra Auditor Presidente del Tribunal Militar Territorial Segundo de Sevilla al Coronel Auditor don José María Medrano Juárez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El nombramiento del Coronel Auditor José María Medrano Juárez se produce bajo la modalidad de 'nombramiento discrecional', un mecanismo que permite a las élites del CGPJ y los Ministerios de Defensa y Justicia seleccionar perfiles afines sin una exposición pública de la comparativa de méritos con otros candidatos. Aunque legalmente fundamentado, este procedimiento refuerza la estructura de poder endogámica en la justicia militar española, dificultando la fiscalización externa y la meritocracia pura.",
+    "resumen_ciudadano": "Se ha designado al nuevo Jefe del Tribunal Militar de Sevilla (Andalucía) mediante un proceso de libre elección. Este tipo de cargos son vitales para la disciplina interna del ejército, pero su selección 'a dedo' por parte de la cúpula judicial y el Gobierno impide saber si se ha elegido al mejor profesional o al más cercano a los intereses del poder.",
+    "resumen_tweet": "⚖️ Nuevo cargo 'a dedo' en la justicia militar. El Coronel Medrano presidirá el Tribunal Militar de Sevilla. Un proceso discrecional que deja dudas sobre la meritocracia real. ¿Transparencia o endogamia? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plaza de nombramiento discrecional",
+      "Falta de justificación técnica en el anuncio",
+      "Intervención múltiple de órganos políticos (Defensa, Justicia, CGPJ)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Coronel José María Medrano Juárez",
+        "Ministerio de Defensa",
+        "Pleno del CGPJ"
+      ],
+      "perdedores": [
+        "Candidatos técnicos sin vínculos políticos",
+        "Transparencia democrática",
+        "Ciudadanía (desconocimiento de criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Alto Cargo Judicial Militar",
+    "banderas_rojas": [
+      "Plaza de nombramiento discrecional",
+      "Falta de justificación técnica en el anuncio",
+      "Intervención múltiple de órganos políticos (Defensa, Justicia, CGPJ)"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3305",
+  "timestamp": "2026-02-13T09:47:21.276Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Universidad de Almería, por la que se nombran Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Resolución estándar de nombramiento de profesorado que, aunque legal, perpetúa la opacidad sobre el impacto presupuestario a largo plazo de las plazas funcionariales. Se observa una nula diversidad de género en esta tanda de nombramientos (100% hombres), lo que entra en colisión con los discursos oficiales sobre paridad en la academia. El lenguaje es puramente burocrático, ocultando tras el tecnicismo de la 'toma de posesión' la consolidación de un gasto estructural sin desglose salarial directo.",
+    "resumen_ciudadano": "La Universidad de Almería formaliza el contrato fijo de dos nuevos profesores titulares en las áreas de Educación y Agronomía tras los procesos selectivos correspondientes.",
+    "resumen_tweet": "📢 La Univ. de Almería suma 2 profesores titulares. Dos hombres ocuparán plazas fijas en Educación y Agronomía. Cero mención al coste presupuestario o a la paridad de género en este proceso. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia total de representación femenina en los nombramientos",
+      "Falta de transparencia en el impacto económico por plaza",
+      "Opacidad sobre el número de aspirantes descartados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Villegas Lirola",
+        "Francisco Manuel Padilla Ruiz",
+        "Cuerpo de funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Políticas de paridad en el profesorado universitario",
+        "Ciudadanía (falta de transparencia presupuestaria detallada)",
+        "Aspirantes no seleccionados"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia total de representación femenina en los nombramientos",
+      "Falta de transparencia en el impacto económico por plaza",
+      "Opacidad sobre el número de aspirantes descartados"
+    ]
+  }
+}

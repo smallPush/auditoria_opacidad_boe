@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3304",
+  "timestamp": "2026-02-13T09:46:03.296Z",
+  "title": "Resolución de 30 de enero de 2026, de la Universidad Pablo de Olavide, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de funcionarios de carrera en el ámbito universitario. Aunque cumple con la legalidad vigente (LOSU 2/2023), presenta la opacidad sistémica del BOE: se publican los nombres y las plazas, pero no existe una valoración económica del impacto presupuestario que suponen estos 14 sueldos vitalicios para el erario público. La trazabilidad de los procesos de selección depende de resoluciones previas del 2025, dificultando una fiscalización inmediata.",
+    "resumen_ciudadano": "La Universidad Pablo de Olavide (Sevilla) oficializa el nombramiento de 14 nuevos docentes funcionarios: 3 Catedráticos y 11 Profesores Titulares. Las áreas afectadas incluyen desde Historia del Arte y Química Física hasta Economía Aplicada y Derecho Mercantil. Los nombrados tienen 20 días para tomar posesión de sus cargos.",
+    "resumen_tweet": "🏛️ La Univ. Pablo de Olavide nombra 14 nuevos docentes funcionarios (Catedráticos y Titulares). 🎓 Se consolida empleo público en #Sevilla, pero el #BOE sigue ocultando el coste total para el contribuyente de estas plazas. 💸 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Uso de códigos internos de plaza (DF0007XX) inaccesibles para el ciudadano",
+      "Referencia a procesos de selección externos no detallados en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Aranda Bernal y otros 13 docentes (estabilidad laboral vitalicia)",
+        "Universidad Pablo de Olavide (consolidación de estructura docente)"
+      ],
+      "perdedores": [
+        "Personal docente precario (sustitutos/interinos) sin acceso a plazas fijas",
+        "Transparencia pública (falta de datos sobre el gasto salarial consolidado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Uso de códigos internos de plaza (DF0007XX) inaccesibles para el ciudadano",
+      "Referencia a procesos de selección externos no detallados en el texto"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3307",
+  "timestamp": "2026-02-13T09:49:35.765Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Universidad Jaume I, por la que se nombra Profesora Titular de Universidad a doña Alba Puig Denia.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de funcionariado de carrera tras concurso. La opacidad no reside en el nombramiento en sí, sino en el sistema de comisiones internas universitarias que, aunque legal, suele ser criticado por la falta de competencia externa efectiva. La firma por delegación (P.D.) del Vicerrector en lugar de la Rectora es una práctica habitual que diluye la responsabilidad directa.",
+    "resumen_ciudadano": "La Universidad Jaume I ha formalizado el nombramiento de doña Alba Puig Denia como Profesora Titular de Universidad en el área de Organización de Empresas, tras haber superado el proceso selectivo correspondiente iniciado en 2025.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la @ujiapps. Nombramiento técnico tras concurso bajo la LOSU. Aunque formalmente correcto, el sistema de comisiones universitarias sigue siendo poco auditable externamente. 🧐 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Firma por delegación (P.D.)",
+      "Ausencia de detalles sobre los méritos evaluados",
+      "Tiempo de resolución de 6 meses desde la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alba Puig Denia",
+        "Universitat Jaume I (consolidación de plantilla)",
+        "Departamento de Administración de Empresas y Marketing"
+      ],
+      "perdedores": [
+        "Aspirantes externos al sistema universitario local",
+        "Transparencia sobre la composición y debates de la comisión evaluadora"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Firma por delegación (P.D.)",
+      "Ausencia de detalles sobre los méritos evaluados",
+      "Tiempo de resolución de 6 meses desde la convocatoria"
+    ]
+  }
+}

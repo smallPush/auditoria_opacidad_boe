@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3300",
+  "timestamp": "2026-02-13T09:41:04.231Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución detalla nombramientos mediante el sistema de 'libre designación', un mecanismo que permite la selección discrecional ('a dedo') de cargos. Se observa una clara militarización y policialización de los puestos de asesoría técnica (Vocal Asesor), donde coroneles, tenientes coroneles y comisarios ocupan niveles 30 con complementos específicos que superan los 32.000 euros anuales. Aunque los datos son públicos, la opacidad reside en la falta de motivación técnica para elegir a estos perfiles sobre otros funcionarios de carrera por concurso de méritos.",
+    "resumen_ciudadano": "El Ministerio del Interior ha adjudicado 12 puestos de alta dirección y asesoría a dedo. Los beneficiarios son principalmente altos mandos de la Policía Nacional y la Guardia Civil, quienes recibirán sueldos con pluses de hasta 32.500€ anuales adicionales a su salario base. Estos puestos de confianza se sitúan en la cúpula de la seguridad y las infraestructuras del Estado.",
+    "resumen_tweet": "🚩 ¡Alerta de dedazos en el Ministerio del Interior! 12 nuevos nombramientos de 'libre designación'. Altos mandos policiales y militares pasan a ser asesores con pluses de +32.000€. ¿Mérito o confianza política? 🕵️‍♂️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación discrecional",
+      "Elevados complementos específicos sin desglose de funciones",
+      "Concentración de cargos en cúpulas policiales/militares",
+      "Adjudicaciones en periodo de actualización presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos mandos de la Guardia Civil (Coroneles/Tenientes Coroneles)",
+        "Comisarios e Inspectores de la Policía Nacional",
+        "Personal de confianza política en el Ministerio del Interior"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos políticos",
+        "Candidatos por concurso de méritos",
+        "Criterio de meritocracia técnica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sedes en Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación discrecional",
+      "Elevados complementos específicos sin desglose de funciones",
+      "Concentración de cargos en cúpulas policiales/militares",
+      "Adjudicaciones en periodo de actualización presupuestaria"
+    ]
+  }
+}
