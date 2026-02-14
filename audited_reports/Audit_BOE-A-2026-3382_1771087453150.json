@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3382",
+  "timestamp": "2026-02-14T16:44:13.150Z",
+  "title": "Ley 10/2025, de 26 de noviembre, de la Agencia de Atención Integrada Social y Sanitaria de Cataluña.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Ley 10/2025 crea una nueva estructura administrativa (Agencia) bajo la premisa de la 'desburocratización', lo cual resulta paradójico y es una 'bandera roja' de manual en ciencia política. Aunque el preámbulo reconoce con acierto el sesgo de género en los cuidados (90% mujeres), el texto carece de una memoria económica vinculante que garantice la 'armonización de condiciones laborales' que promete. Se detecta un riesgo de 'Gastos Fantasma' en el despliegue de sistemas de información interoperables, una partida que históricamente ha servido para absorber fondos sin resultados tangibles de eficiencia.",
+    "resumen_ciudadano": "Se crea la Agencia de Atención Integrada Social y Sanitaria de Cataluña para unir servicios de salud y bienestar. Promete que los ancianos y dependientes sean atendidos en casa y que los cuidadores (mayoría mujeres) tengan más apoyo. Sin embargo, lo hace creando un nuevo organismo público con directivos y estructura propia, lo que podría aumentar el gasto político sin asegurar que el dinero llegue realmente a los sueldos de los trabajadores sociales.",
+    "resumen_tweet": "🏥 Cataluña crea la Agencia de Atención Integrada. Prometen 'desburocratizar' creando... ¡más burocracia! 📉 Mucha mención a la igualdad pero 0 euros concretos para subir sueldos en el sector social. ¿Mejora real o nueva capa política? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Creación de organismo autónomo para 'desburocratizar' (contradicción operativa).",
+      "Ausencia de cifras concretas en la 'dotación presupuestaria suficiente'.",
+      "Promesa de armonización salarial entre sectores sin fondo de contingencia definido.",
+      "Derogación de disposiciones previas de 2007, centralizando competencias locales."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos y personal directivo de la nueva Agencia.",
+        "Empresas tecnológicas proveedoras de sistemas de 'interoperabilidad'.",
+        "Administración autonómica (mayor centralización de datos y control)."
+      ],
+      "perdedores": [
+        "Entes locales (pierden autonomía frente a la gobernanza centralizada).",
+        "Contribuyentes (duplicidad de estructuras administrativas).",
+        "Profesionales del sector social (expectativas salariales sin respaldo financiero claro)."
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Creación de Organismo Público / Integración de Servicios",
+    "banderas_rojas": [
+      "Creación de organismo autónomo para 'desburocratizar' (contradicción operativa).",
+      "Ausencia de cifras concretas en la 'dotación presupuestaria suficiente'.",
+      "Promesa de armonización salarial entre sectores sin fondo de contingencia definido.",
+      "Derogación de disposiciones previas de 2007, centralizando competencias locales."
+    ]
+  },
+  "tweeted": true
+}

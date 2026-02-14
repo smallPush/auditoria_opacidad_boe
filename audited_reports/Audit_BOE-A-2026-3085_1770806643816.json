@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3085",
+  "timestamp": "2026-02-11T10:44:03.816Z",
+  "title": "Real Decreto 91/2026, de 10 de febrero, por el que se dispone el cese de doña Cristina Pérez Valero como Delegada del Gobierno en Ceuta.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El cese de Cristina Pérez Valero se articula bajo la opacidad administrativa habitual de los cargos de 'libre designación'. Aunque el Real Decreto cumple formalmente con la ley, carece de motivación alguna sobre las causas de la destitución (rendimiento, pérdida de confianza o reajuste político). El uso de la fórmula 'agradeciéndole los servicios prestados' es un eufemismo diplomático que impide al ciudadano evaluar si la gestión en Ceuta fue exitosa o deficiente. Asimismo, este acto administrativo suele activar derechos a indemnizaciones por cese que no se detallan, constituyendo un potencial gasto fantasma para el erario público hasta que se publiquen las cuentas de transparencia de forma diferida.",
+    "resumen_ciudadano": "El Gobierno ha cesado a la Delegada del Gobierno en Ceuta sin explicar los motivos. Es un movimiento de la élite política que utiliza cargos de confianza sin rendir cuentas sobre la gestión realizada, dejando en el aire posibles compensaciones económicas tras el cese.",
+    "resumen_tweet": "📉 Cese en el #BOE: Cristina Pérez Valero deja de ser Delegada en Ceuta. ¿Gestión fallida o reajuste de sillas? La falta de motivos en los ceses de libre designación es un muro contra la #Transparencia. 💸 #Opacidad #Ceuta #Politica",
+    "banderas_red_flags": [
+      "Ausencia absoluta de motivación del cese",
+      "Falta de balance de gestión previo al relevo",
+      "Opacidad en la posible indemnización económica post-cargo",
+      "Uso de fórmulas jurídicas genéricas para ocultar decisiones discrecionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El siguiente cargo designado por Presidencia",
+        "Estructuras de partido que buscan renovación de perfiles"
+      ],
+      "perdedores": [
+        "Ciudadanía de Ceuta por falta de explicaciones sobre el cambio de mando",
+        "Contribuyentes (por el coste de indemnizaciones y relevos)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Cese de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia absoluta de motivación del cese",
+      "Falta de balance de gestión previo al relevo",
+      "Opacidad en la posible indemnización económica post-cargo",
+      "Uso de fórmulas jurídicas genéricas para ocultar decisiones discrecionales"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-3384",
+  "timestamp": "2026-02-14T16:46:40.898Z",
+  "title": "Ley 4/2025, de 23 de diciembre, de presupuestos generales de la Comunidad Autónoma de Galicia para el año 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Los presupuestos de Galicia para 2026 presentan una narrativa de 'crecimiento récord' y 'estabilidad', pero esconden mecanismos de opacidad técnica. Destaca la creación de subfondos transitorios para ayuntamientos supeditados a una Ley de Administración Local aún en trámite, lo que genera una zona gris de discrecionalidad. Asimismo, la 'congelación salarial' se camufla bajo términos de 'masa salarial homogénea', trasladando la responsabilidad de cualquier aumento al Estado. El uso de la empresa pública Seaga para la gestión de biomasa mediante un fondo de garantía sugiere un rescate encubierto de tensiones de tesorería bajo la bandera de la prevención de incendios.",
+    "resumen_ciudadano": "Galicia aprueba 16.343 millones de euros para 2026. Se mantiene el cheque bebé (Tarjeta Bienvenida) y se crean avales para la compra de primera vivienda en jóvenes. Sin embargo, los salarios de los empleados públicos no subirán de inicio y se crean fondos millonarios cuya letra pequeña dependerá de leyes que aún no se han aprobado, lo que dificulta saber exactamente cómo se repartirá el dinero a los ayuntamientos.",
+    "resumen_tweet": "🚨 Auditamos el #BOE de Galicia: 16.343M€ para 2026. Congelación salarial, fondos 'transitorios' para ayuntamientos sin ley definitiva y 500M€ en avales empresariales. ¿Estabilidad o falta de claridad? 🛡️📉 #Galicia #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de subfondos transitorios vinculados a leyes no aprobadas",
+      "Congelación de la masa salarial del sector público",
+      "Fondo de garantía para Seaga por desequilibrios de tesorería",
+      "Dependencia de criterios de reparto discrecionales en el Fondo de Cooperación Local",
+      "Alta exposición en avales (500M€) a través del Igape"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias con nuevos nacimientos (Tarjeta Bienvenida)",
+        "Jóvenes menores de 36 años (avales para vivienda)",
+        "Empresa pública Seaga (garantía de fondos)",
+        "Sector turístico (inversiones Xacobeo 2027)"
+      ],
+      "perdedores": [
+        "Personal del sector público (salarios estancados)",
+        "Ayuntamientos (sujetos a la nueva Ley de Administración Local)",
+        "Contribuyentes (por riesgo en avales empresariales masivos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Presupuestos Generales",
+    "banderas_rojas": [
+      "Uso de subfondos transitorios vinculados a leyes no aprobadas",
+      "Congelación de la masa salarial del sector público",
+      "Fondo de garantía para Seaga por desequilibrios de tesorería",
+      "Dependencia de criterios de reparto discrecionales en el Fondo de Cooperación Local",
+      "Alta exposición en avales (500M€) a través del Igape"
+    ]
+  },
+  "tweeted": true
+}

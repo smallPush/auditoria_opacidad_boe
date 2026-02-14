@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { GoogleGenAI, Type } from "@google/genai";
+import { sendTweet } from './twitter-client.js';
 
 // Standard __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -12,7 +13,7 @@ const __dirname = path.dirname(__filename);
 const envPath = path.join(__dirname, '../.env');
 if (fs.existsSync(envPath)) {
   const envContent = fs.readFileSync(envPath, 'utf8');
-  envContent.split('\n').forEach(line => {
+  envContent.split(/\r?\n/).forEach(line => {
     const [key, ...valueParts] = line.split('=');
     if (key && valueParts.length > 0) {
       process.env[key.trim()] = valueParts.join('=').trim();
@@ -135,9 +136,9 @@ function parseItemsFromXml(text) {
 
 async function fetchLatestBOE(targetDate) {
   let urls = [];
-  
+
   if (targetDate) {
-     urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${targetDate}`);
+    urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${targetDate}`);
   } else {
     const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
     const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
@@ -183,27 +184,63 @@ async function run() {
     }
 
     if (targetDate) {
-        console.log(`📅 Targeting specific date: ${targetDate}`);
+      console.log(`📅 Targeting specific date: ${targetDate}`);
     }
     console.log(`🔢 Limit set to: ${limit}`);
 
     const latestItems = await fetchLatestBOE(targetDate);
     const filteredItems = latestItems.filter(item => item.id.startsWith('BOE-A-'));
-    const itemsToProcess = filteredItems.slice(0, limit); 
+    const itemsToProcess = filteredItems.slice(0, limit);
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
     const files = fs.readdirSync(AUDITED_REPORTS_DIR);
-    const auditedIds = new Set();
+    const auditedMap = new Map(); // boe_id -> { filePath, tweeted }
     files.forEach(file => {
       const match = file.match(/Audit_(BOE-A-\d+-\d+)_/);
-      if (match) auditedIds.add(match[1]);
+      if (match) {
+        const boeId = match[1];
+        const filePath = path.join(AUDITED_REPORTS_DIR, file);
+        try {
+          const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+          // Keep the latest file if there are duplicates
+          if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
+            auditedMap.set(boeId, {
+              filePath,
+              tweeted: !!content.tweeted,
+              report: content.report,
+              timestamp: content.timestamp
+            });
+          }
+        } catch (e) { }
+      }
     });
 
     const newAudits = [];
     let processedCount = 0;
     for (const item of itemsToProcess) {
-      if (auditedIds.has(item.id)) {
-        console.log(`⏩ Skipping ${item.id} (already exist)`);
+      const existing = auditedMap.get(item.id);
+
+      if (existing && existing.tweeted) {
+        console.log(`⏩ Skipping ${item.id} (already audited and tweeted)`);
+        continue;
+      }
+
+      if (existing && !existing.tweeted) {
+        console.log(`🐦 Audit exists for ${item.id} but not tweeted yet. Attempting tweet...`);
+        if (existing.report && existing.report.resumen_tweet) {
+          const shortUrl = await shortenUrl(`https://radarboe.es/#/audit/${item.id}`);
+          const tweetText = `${existing.report.resumen_tweet}\n\n${shortUrl}`;
+          try {
+            await sendTweet(tweetText);
+            // Update the file to mark as tweeted
+            const content = JSON.parse(fs.readFileSync(existing.filePath, 'utf8'));
+            content.tweeted = true;
+            fs.writeFileSync(existing.filePath, JSON.stringify(content, null, 2));
+            console.log(`✅ Marked ${item.id} as tweeted.`);
+          } catch (tweetErr) {
+            console.error(`❌ Error sending tweet for existing audit ${item.id}: ${tweetErr.message}`);
+          }
+        }
         continue;
       }
 
@@ -221,17 +258,32 @@ async function run() {
         const timestamp = Date.now();
         const fileName = `Audit_${item.id}_${timestamp}.json`;
         const filePath = path.join(AUDITED_REPORTS_DIR, fileName);
-        const auditRecord = { boe_id: item.id, timestamp: new Date(timestamp).toISOString(), title: item.titulo, report: audit };
-        fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
-        console.log(`💾 Saved to ${fileName}`);
 
+        let tweeted = false;
         if (audit.resumen_tweet) {
           const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
-          console.log(`\n--- TWEET PARA ${item.id} ---`);
-          console.log(audit.resumen_tweet);
-          console.log(shortUrl);
+          const tweetText = `${audit.resumen_tweet}\n\n${shortUrl}`;
+          console.log(`\n--- ENVIANDO TWEET PARA ${item.id} ---`);
+          console.log(tweetText);
+
+          try {
+            await sendTweet(tweetText);
+            tweeted = true;
+          } catch (tweetErr) {
+            console.error(`❌ Error enviando tweet: ${tweetErr.message}`);
+          }
           console.log('----------------------------\n');
         }
+
+        const auditRecord = {
+          boe_id: item.id,
+          timestamp: new Date(timestamp).toISOString(),
+          title: item.titulo,
+          report: audit,
+          tweeted: tweeted
+        };
+        fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
+        console.log(`💾 Saved to ${fileName}`);
 
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
 

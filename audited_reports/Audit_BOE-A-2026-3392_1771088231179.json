@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3392",
+  "timestamp": "2026-02-14T16:57:11.179Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Carlos Bejines López.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja un acto administrativo reglado de nombramiento de personal funcionario docente (PDI). Cumple con la normativa legal (LOSU), pero incurre en la opacidad salarial tradicional de la administracion al no desglosar la partida presupuestaria exacta ni el coste total (sueldo base mas complementos) del puesto de Profesor Titular, delegando esta informacion a 'disposiciones vigentes' de dificil acceso para el ciudadano medio. El sistema de concursos universitarios en España ha sido historicamente criticado por riesgos de endogamia, aunque este texto no permite confirmar ni desmentir tal extremo sin analizar el historico de la plaza 141TUN25.",
+    "resumen_ciudadano": "La Universidad de Malaga oficializa la incorporacion de Carlos Bejines Lopez como Profesor Titular de Universidad en el area de Matematica Aplicada. Este nombramiento le otorga la condicion de funcionario de carrera tras un proceso de concurso convocado en 2025.",
+    "resumen_tweet": "📢 Nuevo funcionario en la @InfoUMA: Carlos Bejines Lopez logra la plaza de Profesor Titular de Matematica Aplicada. Como es habitual, el #BOE oculta el coste real para el contribuyente bajo 'emolumentos vigentes'. 🎓📊 #Opacidad #Transparencia #UMA",
+    "banderas_red_flags": [
+      "Opacidad en los costes salariales reales de la plaza",
+      "Referencia genetica a la normativa sin especificacion economica",
+      "Posible falta de competencia efectiva si el concurso fue diseñado para promocion interna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Bejines Lopez (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Malaga (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema universitario (dificultad de acceso)",
+        "Ciudadania (falta de claridad en el destino de fondos publicos para sueldos PDI)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Funcionario / Sector Universitario",
+    "banderas_rojas": [
+      "Opacidad en los costes salariales reales de la plaza",
+      "Referencia genetica a la normativa sin especificacion economica",
+      "Posible falta de competencia efectiva si el concurso fue diseñado para promocion interna"
+    ]
+  },
+  "tweeted": true
+}

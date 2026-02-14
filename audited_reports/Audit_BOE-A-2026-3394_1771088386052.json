@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3394",
+  "timestamp": "2026-02-14T16:59:46.052Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Universidad de Sevilla, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion oficializa el ascenso de cuatro docentes a la categoria de Catedraticos de Universidad en la Universidad de Sevilla. Aunque se observa una paridad de genero exacta (50% hombres, 50% mujeres), el documento adolece de la opacidad habitual en la gestion universitaria: no se detalla la partida presupuestaria que financiara estos puestos vitalicios ni el incremento de coste que supone para las arcas publicas. La aplicacion de la nueva Ley Organica del Sistema Universitario (LOSU) se presenta como un tramite administrativo, ocultando las tensiones de financiacion que esta ley genera en las autonomias.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado a cuatro nuevos catedraticos en las areas de Ingenieria Quimica, Geografia Fisica, Construcciones Arquitectonicas y Farmacologia. Estos nombramientos consolidan plazas permanentes de alto nivel jerarquico y salarial siguiendo el nuevo marco legal de la LOSU.",
+    "resumen_tweet": "🎓 Cuatro nuevas catedras en la Univ. de Sevilla. Paridad formal (50/50), pero ¿cual es el coste real para el contribuyente? 🏛️ La LOSU sigue blindando plazas sin transparencia en el impacto financiero a largo plazo. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica asociada a los nombramientos",
+      "Opacidad en los criterios de seleccion mas alla de la mencion a comisiones internas",
+      "Falta de referencia al impacto de genero en el departamento de origen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 4 docentes promocionados (estabilidad vitalicia y aumento salarial)",
+        "Universidad de Sevilla (cumplimiento de ratios de catedraticos)"
+      ],
+      "perdedores": [
+        "Investigadores precarios y asociados (sin acceso a fondos por concentracion de gasto en niveles altos)",
+        "Contribuyentes (por la falta de informacion sobre el compromiso financiero plurianual)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de memoria economica asociada a los nombramientos",
+      "Opacidad en los criterios de seleccion mas alla de la mencion a comisiones internas",
+      "Falta de referencia al impacto de genero en el departamento de origen"
+    ]
+  },
+  "tweeted": true
+}
