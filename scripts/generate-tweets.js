@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
-const BASE_URL = 'https://radarboe.es/#/audit/';
+const BASE_URL = 'https://radarboe.es/#/a/';
 
 async function shortenUrl(url) {
   try {

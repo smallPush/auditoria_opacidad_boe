@@ -228,7 +228,7 @@ async function run() {
       if (existing && !existing.tweeted) {
         console.log(`🐦 Audit exists for ${item.id} but not tweeted yet. Attempting tweet...`);
         if (existing.report && existing.report.resumen_tweet) {
-          const shortUrl = await shortenUrl(`https://radarboe.es/#/audit/${item.id}`);
+          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
           const tweetText = `${existing.report.resumen_tweet}\n\n${shortUrl}`;
           try {
             await sendTweet(tweetText);
