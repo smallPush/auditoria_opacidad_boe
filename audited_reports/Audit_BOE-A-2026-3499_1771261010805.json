@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3499",
+  "timestamp": "2026-02-16T16:56:50.805Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Universidad de Murcia, por la que se nombra Catedrática de Universidad a doña Aurora Alcaide Ramírez.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionariado de alto nivel (Catedrática) bajo el marco de la LOSU 2/2023. Aunque el procedimiento es legalmente impecable, existe una 'opacidad de coste' recurrente en el BOE: no se especifica la cuantía salarial ni el impacto presupuestario plurianual de la plaza 110737. La resolución se limita al formalismo administrativo, omitiendo los méritos que justifican la elección frente a otros candidatos, lo cual es una norma en la burocracia académica española.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado formalmente a doña Aurora Alcaide Ramírez como Catedrática en el área de Pintura. Este es el grado más alto en la carrera docente universitaria en España y conlleva una plaza de funcionaria de carrera vinculada al Departamento de Bellas Artes.",
+    "resumen_tweet": "🎨 Nueva Cátedra de Pintura en la Universidad de Murcia. Aurora Alcaide Ramírez alcanza el máximo rango académico. ✅ Un paso más en la carrera docente, pero el #BOE sigue sin detallar el coste público de estas plazas vitalicias. 🏛️📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de publicidad de la baremación final en el extracto del BOE",
+      "Endogamia potencial: El proceso se resuelve internamente en la misma universidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aurora Alcaide Ramírez (Promoción personal)",
+        "Departamento de Bellas Artes (Consolidación de estructura)",
+        "Universidad de Murcia"
+      ],
+      "perdedores": [
+        "Candidatos externos (Dificultad de acceso a plazas consolidadas)",
+        "Contribuyentes (Por la falta de información sobre la carga fiscal de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Docente e Investigador (PDI)",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de publicidad de la baremación final en el extracto del BOE",
+      "Endogamia potencial: El proceso se resuelve internamente en la misma universidad"
+    ]
+  },
+  "tweeted": false
+}

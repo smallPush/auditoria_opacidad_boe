@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3483",
+  "timestamp": "2026-02-16T18:26:12.331Z",
+  "title": "Resolución de 9 de febrero de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura técnica basada en una fórmula de actualización automática que vincula el precio nacional a cotizaciones internacionales y tipos de cambio. No obstante, existe una 'caja negra' en los denominados 'costes de comercialización', los cuales se revisan anualmente de forma separada y no se desglosan en este documento, impidiendo una auditoría ciudadana real sobre el margen de beneficio de las distribuidoras. La indexación al dólar (1,173824) traslada directamente el riesgo de cambio y la volatilidad geopolítica al consumidor final sin mecanismos de amortiguación visibles en el texto.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios máximos del gas licuado (GLP) por tubería para febrero de 2026. El término fijo mensual será de 1,58 € y el precio por cada kilo de gas será de aproximadamente 80,83 céntimos (antes de impuestos). Este precio varía mensualmente según lo que cuesta el propano y butano en el mercado internacional y el valor del dólar frente al euro.",
+    "resumen_tweet": "📉 Nuevos precios del gas (GLP) por canalización en el #BOE. Aunque publican fórmulas, los 'costes de comercialización' siguen siendo una caja negra para el bolsillo ciudadano. ¡Revisa tu factura de febrero! ⛽️💸 #Opacidad #Transparencia #Energía #Consumo",
+    "banderas_red_flags": [
+      "Opacidad en el desglose de costes de comercialización",
+      "Traslado directo de volatilidad cambiaria al consumidor",
+      "Ausencia de mención a bonos sociales o protecciones para colectivos vulnerables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas distribuidoras (mantienen márgenes mediante actualización automática)",
+        "Estado (mantiene recaudación vía impuestos indirectos sobre el precio base)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos en zonas rurales o cascos antiguos con GLP canalizado",
+        "Clase trabajadora (el término fijo penaliza proporcionalmente más a los consumos bajos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios Energéticos",
+    "banderas_rojas": [
+      "Opacidad en el desglose de costes de comercialización",
+      "Traslado directo de volatilidad cambiaria al consumidor",
+      "Ausencia de mención a bonos sociales o protecciones para colectivos vulnerables"
+    ]
+  },
+  "tweeted": false
+}

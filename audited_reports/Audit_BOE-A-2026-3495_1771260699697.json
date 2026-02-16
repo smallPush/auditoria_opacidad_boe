@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3495",
+  "timestamp": "2026-02-16T16:51:39.697Z",
+  "title": "Decreto de 2 de febrero de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegado de la Jurisdicción Civil incluida la Protección de Personas con Discapacidad y Mayores de la Fiscalía Provincial de Cáceres a don José Manuel Rubio de la Iglesia, Fiscal destinado en la Sección Territorial de Plasencia.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento discrecional reglado donde se observa una transparencia formal alta al detallar las fechas y el proceso de convocatoria interna. No obstante, destaca que solo hubo un único peticionario para la plaza, un fenómeno común en fiscalías provinciales que puede indicar falta de incentivos competitivos o una estructura donde los perfiles ya están predeterminados. La mención a 'acreditada experiencia y formación' es una fórmula genérica que elude la exposición de méritos específicos evaluables por la ciudadanía.",
+    "resumen_ciudadano": "El Ministerio Fiscal ha nombrado a José Manuel Rubio de la Iglesia como nuevo Fiscal Delegado para la protección de personas con discapacidad y mayores en la provincia de Cáceres. El proceso fue abierto a la plantilla, pero él fue el único interesado en el cargo.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la Fiscalía de Cáceres: José Manuel Rubio de la Iglesia asume la protección de mayores y personas con discapacidad. Fue el ÚNICO candidato. ¿Falta de incentivos o plazas con nombre propio? #BOE #Transparencia #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Candidato único en el proceso",
+      "Criterios de mérito descritos de forma genérica",
+      "Dilación de 4 meses entre la convocatoria y la formalización"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Manuel Rubio de la Iglesia (consolidación de cargo)",
+        "Fiscalía Provincial de Cáceres (cobertura de especialidad sensible)"
+      ],
+      "perdedores": [
+        "Pluralidad democrática (ausencia de competencia por el cargo)",
+        "Transparencia meritocrática (no se detallan los méritos específicos frente a otros posibles perfiles)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Candidato único en el proceso",
+      "Criterios de mérito descritos de forma genérica",
+      "Dilación de 4 meses entre la convocatoria y la formalización"
+    ]
+  },
+  "tweeted": false
+}

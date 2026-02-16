@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3500",
+  "timestamp": "2026-02-16T18:38:27.282Z",
+  "title": "Resolución de 2 de febrero de 2026, de la Universidad de Murcia, por la que se nombra Catedrática de Universidad a doña Mónica Vallejo Ruiz.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento refleja un acto administrativo rutinario de nombramiento tras concurso-oposición. La opacidad no reside en el texto, sino en la estructura del sistema universitario que, amparado en la LOSU, mantiene procesos de selección que rara vez trascienden al escrutinio público real. No hay desglose de costes salariales ni detalles de los méritos evaluados por la comisión.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado formalmente a Mónica Vallejo Ruiz como Catedrática de Universidad en el área de Didáctica y Organización Escolar. Este es un trámite final tras la superación de un proceso selectivo interno/público convocado en 2025.",
+    "resumen_tweet": "🎓 Nueva cátedra en la @UMU. Mónica Vallejo Ruiz es nombrada Catedrática de Didáctica. Un trámite estándar bajo la LOSU, pero el acceso a la élite académica sigue siendo un proceso hermético para el ciudadano. #BOE #Transparencia #Universidad #Murcia",
+    "banderas_red_flags": [
+      "Ausencia de desglose de la masa salarial asignada a la plaza 110740",
+      "Uso de fórmulas jurídicas genéricas como 'demás disposiciones concordantes'",
+      "Falta de transparencia en el acta de selección dentro de la publicación del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mónica Vallejo Ruiz (promoción laboral)",
+        "Universidad de Murcia (consolidación de estructura docente)"
+      ],
+      "perdedores": [
+        "Aspirantes externos al sistema universitario regional",
+        "Contribuyente (por falta de detalle sobre el impacto presupuestario de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose de la masa salarial asignada a la plaza 110740",
+      "Uso de fórmulas jurídicas genéricas como 'demás disposiciones concordantes'",
+      "Falta de transparencia en el acta de selección dentro de la publicación del BOE"
+    ]
+  },
+  "tweeted": false
+}

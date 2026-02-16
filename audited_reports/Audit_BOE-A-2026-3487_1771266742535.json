@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3487",
+  "timestamp": "2026-02-16T18:32:22.535Z",
+  "title": "Resolución 430/38055/2026, de 9 de febrero, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38486/2025, de 18 de noviembre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica un puesto de 'Jefe Adjunto/Jefa Adjunta de Secretaría' mediante el sistema de libre designación, un método que permite la elección discrecional de personal sin los filtros de mérito y capacidad de una oposición abierta. Resulta llamativo que se declaren desiertos el resto de los puestos convocados en la resolución original de 2025, lo que sugiere una selección 'ad hoc' para un perfil muy concreto o una falta de idoneidad en el resto de los aspirantes bajo criterios no especificados. Aunque se trata de un nivel 18 (grupo C2), la estructura de libre designación en niveles medios-bajos de la administración a menudo se utiliza para blindar puestos de confianza técnica con personal afín.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha nombrado a dedo a una funcionaria para una jefatura de secretaría en el Ejército del Aire, mientras que el resto de las plazas vacantes de la misma convocatoria se han quedado sin cubrir. Este sistema de 'libre designación' evita la competencia pública por méritos, permitiendo a los altos cargos elegir a su personal de apoyo directo basándose en la confianza personal.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el #BOE: Defensa adjudica 'a dedo' (libre designación) una jefatura de secretaría nivel 18, dejando el resto de plazas desiertas. ¿Falta de candidatos o exceso de discrecionalidad? La opacidad sigue en los despachos. 🚫💼 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos administrativos",
+      "Plazas declaradas desiertas sin justificación técnica",
+      "Discrecionalidad en el nombramiento de personal de apoyo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Hornero Lamuela (ascenso y consolidación en puesto de confianza)",
+        "Subsecretaría de Defensa (control discrecional del personal de secretaría)"
+      ],
+      "perdedores": [
+        "Cuerpo General Auxiliar (limitación de promoción por méritos objetivos)",
+        "Ciudadanía (opacidad en los criterios de selección de servidores públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos administrativos",
+      "Plazas declaradas desiertas sin justificación técnica",
+      "Discrecionalidad en el nombramiento de personal de apoyo"
+    ]
+  },
+  "tweeted": false
+}

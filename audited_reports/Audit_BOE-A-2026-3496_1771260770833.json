@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3496",
+  "timestamp": "2026-02-16T16:52:50.833Z",
+  "title": "Decreto de 5 de febrero de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegado de Delitos contra la Administración Pública de la Fiscalía de la Comunidad Foral de Navarra a don Miguel Ros Martínez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento de Miguel Ros Martínez para un puesto tan sensible como la fiscalía de delitos contra la administración pública se produce mediante un proceso de 'candidato único'. Aunque cumple con la legalidad técnica del Reglamento del Ministerio Fiscal, la ausencia de competencia genera una sombra de endogamia institucional. La idoneidad se basa en criterios subjetivos ('demostrado compromiso') avalados por la jerarquía superior, lo que refuerza una estructura de poder interna donde la fiscalía que debe vigilar al poder es designada por el propio sistema sin contraste con otros perfiles.",
+    "resumen_ciudadano": "Se ha elegido al nuevo responsable de investigar la corrupción en Navarra. El proceso legal se completó, pero destaca que nadie más se presentó al cargo, dejando la vigilancia de los delitos públicos en manos de un único aspirante preseleccionado por la propia cúpula fiscal.",
+    "resumen_tweet": "⚖️ ¿Quién vigila al poder? Nombrado el nuevo Fiscal contra la Corrupción en Navarra tras un proceso con UN SOLO candidato. 🧐 La falta de competencia en puestos clave de control público debilita la confianza ciudadana. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Candidato único en plaza de alta sensibilidad",
+      "Criterios de idoneidad subjetivos",
+      "Posible endogamia en la promoción interna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Ros Martínez (consolidación de carrera)",
+        "Jerarquía del Ministerio Fiscal (control del proceso)"
+      ],
+      "perdedores": [
+        "Ciudadanía (menor percepción de independencia)",
+        "Pluralidad institucional (proceso sin alternativas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Nombramiento de Personal de Control",
+    "banderas_rojas": [
+      "Candidato único en plaza de alta sensibilidad",
+      "Criterios de idoneidad subjetivos",
+      "Posible endogamia en la promoción interna"
+    ]
+  },
+  "tweeted": false
+}

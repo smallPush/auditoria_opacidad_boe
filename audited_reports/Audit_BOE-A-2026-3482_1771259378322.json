@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-3482",
+  "timestamp": "2026-02-16T16:29:38.322Z",
+  "title": "Orden PJC/89/2026, de 10 de febrero, por la que se publica el Acuerdo del Consejo de Seguridad Nacional de 16 de diciembre de 2025, por el que se aprueba la Estrategia Nacional contra la Proliferación de Armas de Destrucción Masiva.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento establece un marco estratégico de alto nivel para la defensa nacional frente a amenazas NRBQ, pero incurre en una opacidad presupuestaria sistemática al no detallar la dotación económica para su ejecución. Se observa un desplazamiento de la soberanía hacia organismos multilaterales (OTAN/UE) y una preocupante ambigüedad en el término 'contra-proliferación', que permite acciones operativas y reactivas sin un control parlamentario claro. Existe una incongruencia entre la retórica de 'seguridad humana' y el refuerzo de la industria química y militar, priorizando la vigilancia industrial sobre la transparencia pública.",
+    "resumen_ciudadano": "España actualiza su plan contra armas nucleares y biológicas para alinearse con la OTAN tras la guerra en Ucrania. El plan permite al Gobierno vigilar más de cerca la industria química, la investigación científica y las fronteras. Aunque suena a protección, el texto evita decir cuánto dinero público se gastará en estas nuevas estructuras de seguridad y coordinación.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos la nueva Estrategia contra Armas de Destrucción Masiva en el #BOE. Mucha 'seguridad' pero CERO detalles sobre el coste para el ciudadano. ¿Gastos fantasma a la vista? 💸 La transparencia brilla por su ausencia. #Opacidad #SeguridadNacional",
+    "banderas_red_flags": [
+      "Ausencia total de memoria económica o desglose de partidas",
+      "Uso de términos operativos vagos en 'contra-proliferación'",
+      "Subordinación de la investigación científica civil a protocolos de seguridad estatal",
+      "Potencial uso de fondos reservados para acciones operativas internacionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria de defensa y armamento",
+        "Empresas de ciberseguridad y vigilancia tecnológica",
+        "Comité Especializado de no proliferación (mayor poder burocrático)",
+        "Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Comunidad científica (biocustodia restrictiva)",
+        "Transparencia pública (gastos no fiscalizados)",
+        "Sociedad civil (menor acceso a información sobre riesgos reales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estrategia de Seguridad Nacional",
+    "banderas_rojas": [
+      "Ausencia total de memoria económica o desglose de partidas",
+      "Uso de términos operativos vagos en 'contra-proliferación'",
+      "Subordinación de la investigación científica civil a protocolos de seguridad estatal",
+      "Potencial uso de fondos reservados para acciones operativas internacionales"
+    ]
+  },
+  "tweeted": false
+}

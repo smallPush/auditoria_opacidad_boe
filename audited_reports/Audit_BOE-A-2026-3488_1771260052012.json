@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3488",
+  "timestamp": "2026-02-16T16:40:52.012Z",
+  "title": "Resolución de 10 de febrero de 2026, de la Subsecretaría, por la que se corrigen errores en la de 15 de enero de 2026, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de una correccion de errores sobre una resolucion de libre designacion (puestos de confianza o 'a dedo'). La modificacion de un adjudicatario previo a una condicion de 'Desierto' en un area tan sensible como la Tributaria sugiere o bien una falta de rigor administrativo extremo en la publicacion original o una rectificacion politica de ultima hora sobre el perfil seleccionado. La 'libre designacion' es en si misma una figura que esquiva el merito y la capacidad publica, y su correccion posterior aumenta la percepcion de opacidad en la gestion de altos cargos de Hacienda.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha dado marcha atras en la adjudicacion de un puesto de Vocal en el Area Tributaria. Aunque inicialmente se tramito bajo el sistema de libre designacion, ahora se declara vacante tras detectar un supuesto error. Esto refleja la arbitrariedad en la seleccion de cargos estrategicos que gestionan nuestros impuestos.",
+    "resumen_tweet": "🔍 Hacienda rectifica un nombramiento 'a dedo' un mes despues. El puesto de Vocal de Area Tributaria queda desierto tras un 'error' en el anexo. ¿Falta de rigor o cambios internos opacos? 📉 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso de libre designacion para puestos tecnicos",
+      "Rectificacion de adjudicaciones ya publicadas",
+      "Falta de justificacion del cambio a estado Desierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ninguno (el puesto queda vacante)"
+      ],
+      "perdedores": [
+        "Candidatos descartados bajo criterios no transparentes",
+        "Ciudadania (por la ineficiencia administrativa en la Agencia Tributaria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso de libre designacion para puestos tecnicos",
+      "Rectificacion de adjudicaciones ya publicadas",
+      "Falta de justificacion del cambio a estado Desierto"
+    ]
+  },
+  "tweeted": false
+}

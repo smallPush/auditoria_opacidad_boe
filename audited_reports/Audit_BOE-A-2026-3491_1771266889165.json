@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-3491",
+  "timestamp": "2026-02-16T18:34:49.165Z",
+  "title": "Orden CNU/91/2026, de 9 de febrero, por la que se dispone el cese y nombramiento de Vicerrectores de la Universidad Internacional Menéndez Pelayo.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El documento formaliza una dimisión en bloque técnica: cuatro vicerrectores cesan 'a petición propia' simultáneamente, lo que sugiere una crisis interna o una remodelación forzada en la cúpula de la UIMP que no se explica al ciudadano. El uso de remisiones a leyes de 1989 para definir los sobresueldos (complemento específico singular) oculta la cifra real percibida detrás de una maraña burocrática. Aunque se cumple la paridad, la opacidad sobre los motivos de la salida masiva es evidente.",
+    "resumen_ciudadano": "La Universidad Internacional Menéndez Pelayo ha cambiado de golpe a todo su equipo de dirección (Vicerrectores). Los anteriores han dimitido en bloque y la Ministra ha nombrado a cuatro nuevos perfiles académicos que cobrarán un extra en su salario financiado por los presupuestos públicos, manteniendo sus puestos de origen en otras universidades.",
+    "resumen_tweet": "🚩 ¿Crisis en la @UIMP? Dimisión en bloque de sus 4 vicerrectores y renovación total del equipo directivo. 💸 Los nuevos cargos recibirán sobresueldos opacos basados en normas de 1989. ¿Por qué se van todos a la vez? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dimisión en bloque de toda la directiva",
+      "Opacidad en la cuantía exacta de los sobresueldos",
+      "Cese 'a petición propia' simultáneo sin justificación pública",
+      "Referencia a normativas retributivas de hace más de 30 años"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mariola Urrea Corres",
+        "Paloma Almudena Ortiz de Urbina Sobrino",
+        "María Begoña Aguado Orea",
+        "Salvador Tarodo Soria",
+        "Cuota de representación femenina (75% de los nuevos cargos)"
+      ],
+      "perdedores": [
+        "Transparencia institucional (se oculta el motivo del relevo total)",
+        "Contribuyentes (financiación de complementos de altos cargos con nula rendición de cuentas sobre su gestión previa)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Dimisión en bloque de toda la directiva",
+      "Opacidad en la cuantía exacta de los sobresueldos",
+      "Cese 'a petición propia' simultáneo sin justificación pública",
+      "Referencia a normativas retributivas de hace más de 30 años"
+    ]
+  },
+  "tweeted": false
+}
