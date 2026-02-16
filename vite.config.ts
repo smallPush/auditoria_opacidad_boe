@@ -1,4 +1,5 @@
 import path from 'path';
+import { createHash } from 'node:crypto';
 import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -141,12 +142,15 @@ export default defineConfig(({ mode }) => {
       }
     ],
     define: {
-      'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-      'process.env.SUPABASE_URL': JSON.stringify(env.SUPABASE_URL),
-      'process.env.SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY),
-      'process.env.AGENT_PASSWORD': JSON.stringify(env.AGENT_PASSWORD),
-      'process.env.GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
+      'import.meta.env.VITE_AGENT_PASSWORD_HASH': JSON.stringify(
+        env.AGENT_PASSWORD
+          ? createHash('sha256').update(env.AGENT_PASSWORD).digest('hex')
+          : ''
+      ),
+      'import.meta.env.VITE_GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY || env.VITE_GEMINI_API_KEY || env.API_KEY),
+      'import.meta.env.VITE_SUPABASE_URL': JSON.stringify(env.SUPABASE_URL || env.VITE_SUPABASE_URL),
+      'import.meta.env.VITE_SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY || env.VITE_SUPABASE_ANON_KEY),
+      'import.meta.env.VITE_GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
     },
     resolve: {
       alias: {
