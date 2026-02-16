@@ -55,7 +55,7 @@ const App: React.FC = () => {
   });
 
   const t = translations[lang];
-  const requiredPassword = (process.env as any).AGENT_PASSWORD;
+  const requiredPasswordHash = import.meta.env.VITE_AGENT_PASSWORD_HASH;
 
   useEffect(() => {
     localStorage.setItem('boe_pref_lang', lang);
@@ -155,9 +155,16 @@ const App: React.FC = () => {
 
   const toggleLang = () => setLang(l => l === 'es' ? 'en' : 'es');
 
-  const handleLogin = () => {
-    if (requiredPassword) {
-      if (password === requiredPassword) {
+  const handleLogin = async () => {
+    if (requiredPasswordHash) {
+      // Hashing for secure comparison
+      const encoder = new TextEncoder();
+      const data = encoder.encode(password);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+      if (hashHex === requiredPasswordHash) {
         setIsLoggedIn(true);
         localStorage.setItem('boe_agent_session', 'active');
         setLoginError(false);
@@ -301,7 +308,7 @@ const App: React.FC = () => {
         </div>
 
         <div className="space-y-4">
-          {requiredPassword && (
+          {requiredPasswordHash && (
             <div className="space-y-4">
               <div className="relative group">
                 <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
