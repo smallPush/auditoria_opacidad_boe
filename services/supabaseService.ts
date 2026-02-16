@@ -2,8 +2,8 @@
 import { createClient } from '@supabase/supabase-js';
 import { AuditHistoryItem, BOEAuditResponse } from '../types';
 
-const supabaseUrl = (process.env as any).SUPABASE_URL || '';
-const supabaseKey = (process.env as any).SUPABASE_ANON_KEY || '';
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || '';
+const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY || '';
 
 export const supabase = (supabaseUrl && supabaseKey)
   ? createClient(supabaseUrl, supabaseKey)
