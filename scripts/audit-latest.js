@@ -149,19 +149,29 @@ async function fetchLatestBOE(targetDate) {
     ];
   }
 
-  for (const url of urls) {
+  const fetchPromises = urls.map(url => {
     console.log(`🔍 Try fetching: ${url}`);
-    try {
-      const response = await fetchWithHeaders(url);
-      const text = await response.text();
-      if (response.status === 200) {
-        const items = parseItemsFromXml(text);
-        if (items.length > 0) {
-          console.log(`   ✅ Success: Found ${items.length} items.`);
-          return items;
+    return (async () => {
+      try {
+        const response = await fetchWithHeaders(url);
+        const text = await response.text();
+        if (response.status === 200) {
+          const items = parseItemsFromXml(text);
+          if (items.length > 0) {
+            return { url, items };
+          }
         }
-      }
-    } catch (err) { }
+      } catch (err) { }
+      return null;
+    })();
+  });
+
+  for (const promise of fetchPromises) {
+    const result = await promise;
+    if (result) {
+      console.log(`   ✅ Success: Found ${result.items.length} items from ${result.url}.`);
+      return result.items;
+    }
   }
   return [];
 }
