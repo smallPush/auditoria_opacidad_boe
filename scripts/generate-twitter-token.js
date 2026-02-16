@@ -70,15 +70,32 @@ async function main() {
       });
 
       console.log('\n✅ Authentication Successful!');
+
+      // Update .env file automatically
+      let envContent = '';
+      if (fs.existsSync(envPath)) {
+        envContent = fs.readFileSync(envPath, 'utf8');
+      }
+
+      const updateVar = (key, value, comment = '') => {
+        const line = `${key}=${value}${comment ? ` # ${comment}` : ''}`;
+        const regex = new RegExp(`^${key}=.*`, 'm');
+        if (envContent.match(regex)) {
+          envContent = envContent.replace(regex, () => line);
+        } else {
+          envContent += (envContent.length > 0 && !envContent.endsWith('\n') ? '\n' : '') + line + '\n';
+        }
+      };
+
+      updateVar('TWITTER_CLIENT_ID', CLIENT_ID);
+      updateVar('TWITTER_CLIENT_SECRET', CLIENT_SECRET);
+      updateVar('TWITTER_ACCESS_TOKEN', accessToken, '(TEMPORAL: 2 HORAS)');
+      updateVar('TWITTER_REFRESH_TOKEN', refreshToken, '(PERMANENTE: 6 MESES)');
+
+      fs.writeFileSync(envPath, envContent);
       console.log('--------------------------------------------------');
-      console.log('Update your .env file with these values:');
+      console.log('✅ Tokens have been automatically saved to your .env file.');
       console.log('--------------------------------------------------');
-      console.log(`TWITTER_CLIENT_ID=${CLIENT_ID}`);
-      console.log(`TWITTER_CLIENT_SECRET=${CLIENT_SECRET}`);
-      console.log(`TWITTER_ACCESS_TOKEN=${accessToken}  <-- (TEMPORAL: 2 HORAS)`);
-      console.log(`TWITTER_REFRESH_TOKEN=${refreshToken} <-- (PERMANENTE: 6 MESES)`);
-      console.log('--------------------------------------------------');
-      console.log('Note: The Access Token is for immediate use. The Refresh Token allows the app to stay logged in.');
 
     } catch (err) {
       console.error('\n❌ Error:', err);
