@@ -82,11 +82,7 @@ const App: React.FC = () => {
       'https://www.boe.es/diario_boe/xml.php'
     ];
 
-    let foundArticles: ScrapedLaw[] = [];
-
-    for (const url of urls) {
-      if (foundArticles.length > 0) break;
-
+    const fetchAndParse = async (url: string): Promise<ScrapedLaw[]> => {
       try {
         console.log(`🔍 Try fetching BOE from: ${url}`);
         const response = await fetch(url, {
@@ -95,7 +91,7 @@ const App: React.FC = () => {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AuditoriaCívica/1.0'
           }
         });
-        if (!response.ok) continue;
+        if (!response.ok) return [];
 
         const text = await response.text();
         const parser = new DOMParser();
@@ -103,9 +99,9 @@ const App: React.FC = () => {
 
         // Handle both possible structures (REST API vs legacy xml.php)
         const items = xml.querySelectorAll('item');
-        if (items.length === 0) continue;
+        if (items.length === 0) return [];
 
-        foundArticles = Array.from(items).map((item: any) => {
+        return Array.from(items).map((item: any) => {
           // Identificador can be in an attribute (xml.php) or in a child node (REST API)
           const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
           const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
@@ -123,6 +119,21 @@ const App: React.FC = () => {
         });
       } catch (e) {
         console.warn(`Failed to fetch from ${url}:`, e);
+        return [];
+      }
+    };
+
+    // Start all requests in parallel
+    const fetchPromises = urls.map(url => fetchAndParse(url));
+
+    let foundArticles: ScrapedLaw[] = [];
+
+    // Process results in priority order
+    for (const promise of fetchPromises) {
+      const articles = await promise;
+      if (articles.length > 0) {
+        foundArticles = articles;
+        break; // Stop at the first source that provides articles
       }
     }
 
