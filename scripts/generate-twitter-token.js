@@ -78,7 +78,9 @@ async function main() {
       }
 
       const updateVar = (key, value, comment = '') => {
-        const line = `${key}=${value}${comment ? ` # ${comment}` : ''}`;
+        // Sanitize value to prevent injection (remove newlines)
+        const sanitizedValue = String(value).replace(/[\r\n]/g, '');
+        const line = `${key}=${sanitizedValue}${comment ? ` # ${comment}` : ''}`;
         const regex = new RegExp(`^${key}=.*`, 'm');
         if (envContent.match(regex)) {
           envContent = envContent.replace(regex, () => line);
@@ -92,7 +94,17 @@ async function main() {
       updateVar('TWITTER_ACCESS_TOKEN', accessToken, '(TEMPORAL: 2 HORAS)');
       updateVar('TWITTER_REFRESH_TOKEN', refreshToken, '(PERMANENTE: 6 MESES)');
 
-      fs.writeFileSync(envPath, envContent);
+      // Atomic write with restricted permissions (0600)
+      const tmpPath = envPath + '.tmp';
+      try {
+        fs.writeFileSync(tmpPath, envContent, { mode: 0o600 });
+        fs.renameSync(tmpPath, envPath);
+      } catch (err) {
+        if (fs.existsSync(tmpPath)) {
+          try { fs.unlinkSync(tmpPath); } catch (e) { /* ignore */ }
+        }
+        throw err;
+      }
       console.log('--------------------------------------------------');
       console.log('✅ Tokens have been automatically saved to your .env file.');
       console.log('--------------------------------------------------');
