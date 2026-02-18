@@ -77,3 +77,12 @@ Analiza el BOE buscando:
 
 Tu respuesta debe ser un objeto JSON válido.
 `;
+
+export const STORAGE_KEYS = {
+  PREF_LANG: 'boe_pref_lang',
+  AGENT_SESSION: 'boe_agent_session',
+  USER_API_KEY: 'boe_user_api_key',
+  GITHUB_TOKEN: 'boe_github_token',
+  COOKIE_CONSENT: 'cookie_consent',
+  AUDIT_HISTORY: 'boe_audit_history_v1'
+} as const;

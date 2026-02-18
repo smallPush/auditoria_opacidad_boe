@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
 import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson, ExternalLink } from 'lucide-react';
-import { BOE_SOURCES } from './constants';
+import { BOE_SOURCES, STORAGE_KEYS } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
 import { analyzeBOE } from './services/geminiService';
 import { translations, Language } from './translations';
@@ -21,18 +21,18 @@ import PrivacyPolicy from './components/PrivacyPolicy';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
-    const saved = localStorage.getItem('boe_pref_lang');
+    const saved = localStorage.getItem(STORAGE_KEYS.PREF_LANG);
     return (saved as Language) || 'es';
   });
 
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
-    return localStorage.getItem('boe_agent_session') === 'active';
+    return localStorage.getItem(STORAGE_KEYS.AGENT_SESSION) === 'active';
   });
   const [userApiKey, setUserApiKey] = useState(() => {
-    return localStorage.getItem('boe_user_api_key') || '';
+    return localStorage.getItem(STORAGE_KEYS.USER_API_KEY) || '';
   });
   const [githubToken, setGithubToken] = useState(() => {
-    return localStorage.getItem('boe_github_token') || '';
+    return localStorage.getItem(STORAGE_KEYS.GITHUB_TOKEN) || '';
   });
   const [showLogin, setShowLogin] = useState(false);
   const [password, setPassword] = useState('');
@@ -61,7 +61,7 @@ const App: React.FC = () => {
   const requiredPasswordHash = import.meta.env.VITE_AGENT_PASSWORD_HASH;
 
   useEffect(() => {
-    localStorage.setItem('boe_pref_lang', lang);
+    localStorage.setItem(STORAGE_KEYS.PREF_LANG, lang);
   }, [lang]);
 
   useEffect(() => {
@@ -180,7 +180,7 @@ const App: React.FC = () => {
 
       if (hashHex === requiredPasswordHash) {
         setIsLoggedIn(true);
-        localStorage.setItem('boe_agent_session', 'active');
+        localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
         setLoginError(false);
         setShowLogin(false);
       } else {
@@ -190,7 +190,7 @@ const App: React.FC = () => {
     } else {
       // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
       setIsLoggedIn(true);
-      localStorage.setItem('boe_agent_session', 'active');
+      localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
       setShowLogin(false);
     }
   };
@@ -198,7 +198,7 @@ const App: React.FC = () => {
   const handleApiKeySubmit = () => {
     if (tempApiKey.length >= 15) {
       setUserApiKey(tempApiKey);
-      localStorage.setItem('boe_user_api_key', tempApiKey);
+      localStorage.setItem(STORAGE_KEYS.USER_API_KEY, tempApiKey);
       setShowLogin(false);
     }
   };
@@ -207,9 +207,9 @@ const App: React.FC = () => {
     setIsLoggedIn(false);
     setUserApiKey('');
     setGithubToken('');
-    localStorage.removeItem('boe_agent_session');
-    localStorage.removeItem('boe_user_api_key');
-    localStorage.removeItem('boe_github_token');
+    localStorage.removeItem(STORAGE_KEYS.AGENT_SESSION);
+    localStorage.removeItem(STORAGE_KEYS.USER_API_KEY);
+    localStorage.removeItem(STORAGE_KEYS.GITHUB_TOKEN);
     resetState();
   };
 
@@ -385,7 +385,7 @@ const App: React.FC = () => {
                   value={githubToken}
                   onChange={(e) => {
                     setGithubToken(e.target.value);
-                    localStorage.setItem('boe_github_token', e.target.value);
+                    localStorage.setItem(STORAGE_KEYS.GITHUB_TOKEN, e.target.value);
                   }}
                   className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-blue-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
                 />
