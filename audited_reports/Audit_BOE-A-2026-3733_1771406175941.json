@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3733",
+  "timestamp": "2026-02-18T09:16:15.941Z",
+  "title": "Conflicto entre órganos constitucionales n.º 554-2026, en relación con el acuerdo por el que el Gobierno expresa su disconformidad respecto a la tramitación de las enmiendas números 118 y 148 aprobadas por el Pleno del Senado, por las que se incorporan un artículo 61 bis (nuevo) y una disposición transitoria undécima (nueva) al Proyecto de Ley de Movilidad Sostenible.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se observa un choque institucional directo entre el Poder Ejecutivo y el Legislativo (Senado) utilizando el Tribunal Constitucional como árbitro. El Gobierno ha ejercido su derecho de veto presupuestario sobre enmiendas específicas de la Ley de Movilidad Sostenible, lo que suele ocultar una resistencia a ceder control sobre partidas de gasto no detalladas en la providencia. Existe una opacidad técnica: no se explicita el contenido de las enmiendas 118 y 148, dificultando el escrutinio público sobre si el veto es por rigor fiscal o por control político discrecional.",
+    "resumen_ciudadano": "El Gobierno y el Senado están enfrentados legalmente por dos cambios que el Senado quiso introducir en la nueva Ley de Movilidad Sostenible. El Gobierno ha bloqueado estos cambios y el caso ha llegado al Tribunal Constitucional. Básicamente, es una pelea por ver quién tiene la última palabra sobre el dinero y las reglas del transporte en España.",
+    "resumen_tweet": "⚖️ ¡Guerra de poderes! El Gobierno veta enmiendas del Senado para la Ley de Movilidad Sostenible y el TC debe intervenir. ¿Rigurosidad presupuestaria o bloqueo legislativo? La ciudadanía queda a oscuras sobre los cambios reales. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del veto gubernamental para frenar enmiendas legislativas",
+      "Falta de detalle sobre el impacto económico de las enmiendas 118 y 148",
+      "Judicialización de la tramitación parlamentaria ordinaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poder Ejecutivo (mantiene control sobre el presupuesto)",
+        "Ministerio de Transportes (evita modificaciones no consensuadas)"
+      ],
+      "perdedores": [
+        "Senado (ven limitada su capacidad de enmienda)",
+        "Ciudadanía (retraso en la seguridad jurídica de la movilidad)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Conflicto de Competencias Constitucionales",
+    "banderas_rojas": [
+      "Uso del veto gubernamental para frenar enmiendas legislativas",
+      "Falta de detalle sobre el impacto económico de las enmiendas 118 y 148",
+      "Judicialización de la tramitación parlamentaria ordinaria"
+    ]
+  },
+  "tweeted": true
+}

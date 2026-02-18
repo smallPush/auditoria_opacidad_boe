@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3745",
+  "timestamp": "2026-02-18T09:35:39.573Z",
+  "title": "Orden ECM/100/2026, de 13 de febrero, por la que se nombran las personas integrantes del Pleno del Consejo de Defensa de la Competencia en representación de la Administración General del Estado y la persona que ejerce su Secretaría.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una actualización técnica del Pleno del Consejo de Defensa de la Competencia, motivada por ceses previos. El análisis revela una estructura de poder altamente endogámica: los reguladores (CNMC) y los regulados (Ministerios) se sientan en la misma mesa. Aunque la ley busca coordinación, en la práctica consolida un 'club de altos cargos' donde la independencia es cuestionable. No hay rastro de perfiles técnicos externos, asociaciones de consumidores o expertos independientes, lo que perpetúa una visión puramente administrativa y política de la competencia de mercado.",
+    "resumen_ciudadano": "El Gobierno ha reorganizado las sillas del organismo que debe vigilar que las empresas no abusen de su poder. En lugar de expertos independientes, los puestos se reparten entre directores de la CNMC y altos cargos de diversos ministerios (Economía, Energía, Transportes). Este consejo decide cómo se aplica la ley de competencia en toda España, pero su composición es puramente política y burocrática.",
+    "resumen_tweet": "🚨 Nuevo reparto de sillas en el Consejo de Defensa de la Competencia. El control de los mercados se queda en el 'círculo íntimo' de Ministerios y la CNMC. ¿Independencia real o burocracia blindada? 🏛️⚖️ #BOE #Opacidad #Transparencia #CNMC",
+    "banderas_red_flags": [
+      "Endogamia institucional: Solo se nombran cargos internos del Gobierno y la CNMC",
+      "Ausencia de sociedad civil: Cero representación de consumidores o pymes",
+      "Opacidad en dietas: No se especifica si estos cargos conllevan remuneración extra o gastos de representación",
+      "Suplencias discrecionales: Se permite que subdirectores designados 'a dedo' sustituyan a los titulares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la CNMC (controlan el pleno)",
+        "Ministerio de Economía (mantiene la secretaría)",
+        "Ministerio para la Transición Ecológica (mantiene cuota de poder en energía)"
+      ],
+      "perdedores": [
+        "Consumidores (sin voz en el órgano de coordinación)",
+        "Independencia técnica (supeditada a jerarquías ministeriales)",
+        "Pequeñas empresas (lejanas a los círculos de decisión estatal)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Estructura Orgánica",
+    "banderas_rojas": [
+      "Endogamia institucional: Solo se nombran cargos internos del Gobierno y la CNMC",
+      "Ausencia de sociedad civil: Cero representación de consumidores o pymes",
+      "Opacidad en dietas: No se especifica si estos cargos conllevan remuneración extra o gastos de representación",
+      "Suplencias discrecionales: Se permite que subdirectores designados 'a dedo' sustituyan a los titulares"
+    ]
+  },
+  "tweeted": true
+}

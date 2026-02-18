@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3738",
+  "timestamp": "2026-02-18T09:25:27.414Z",
+  "title": "Orden EFD/99/2026, de 10 de febrero, por la que se corrigen errores en la Orden EFD/988/2025, de 28 de agosto, por la que, en estimación de recurso, se modifican la Orden EFD/1369/2023, de 18 de diciembre, dictada a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, y la Orden EFD/966/2024, de 16 de septiembre, dictada a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad Autónoma de Andalucía; por las que se nombra personal funcionario de carrera de cuerpos docentes como consecuencia de los procedimientos selectivos extraordinarios de estabilización convocados respectivamente por Resolución de 11 de noviembre de 2022 y por Resolución de 14 de noviembre de 2022.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La Orden EFD/99/2026 opera bajo la apariencia de una simple corrección de errores, pero en realidad ejerce una 'opacidad reactiva'. Al sustituir la mención explícita de un ciudadano (don Rafael Espiñeira Carrillo) y su puntuación específica por una fórmula genérica de 'varios aspirantes', la administración reduce la trazabilidad de los procesos de adjudicación de plazas públicas. Este movimiento es una incongruencia técnica: se utiliza la corrección de errores para modificar la 'argumentación', cuando esta figura debería usarse para errores tipográficos o aritméticos claros. Se diluye la responsabilidad sobre quiénes son los beneficiarios reales de la estimación de recursos de alzada en procesos de estabilización que ya arrastran años de retraso desde 2022.",
+    "resumen_ciudadano": "El Ministerio de Educación ha modificado una orden anterior para eliminar los datos concretos (nombre y notas) de una persona que ganó un recurso en las oposiciones de Madrid y Andalucía. En su lugar, han puesto una frase general que habla de 'varios aspirantes'. Esto hace más difícil saber quién ha conseguido plaza realmente y por qué razones se cambiaron las puntuaciones originales de los exámenes.",
+    "resumen_tweet": "🚨 ¿Transparencia o borrado de huellas? @educaciongob corrige una orden para ocultar nombres y notas específicas de recursos ganados en oposiciones de Madrid y Andalucía. Del detalle a la generalidad. 📄🧐 #BOE #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Anonimización reactiva de beneficiarios de recursos",
+      "Uso de la corrección de errores para cambios narrativos",
+      "Dilación temporal extrema: procesos de 2022 resueltos en 2026",
+      "Falta de desglose de las nuevas puntuaciones de los 'varios aspirantes'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes que ganaron recursos de alzada",
+        "Administración Educativa (al reducir la claridad del historial de fallos)"
+      ],
+      "perdedores": [
+        "Opositores que descendieron en la lista de prelación",
+        "Ciudadanía (por la pérdida de trazabilidad en el acceso a la función pública)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid y Andalucía",
+    "tipologia": "Recursos Administrativos y Personal Docente",
+    "banderas_rojas": [
+      "Anonimización reactiva de beneficiarios de recursos",
+      "Uso de la corrección de errores para cambios narrativos",
+      "Dilación temporal extrema: procesos de 2022 resueltos en 2026",
+      "Falta de desglose de las nuevas puntuaciones de los 'varios aspirantes'"
+    ]
+  },
+  "tweeted": true
+}

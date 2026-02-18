@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3734",
+  "timestamp": "2026-02-18T09:18:24.871Z",
+  "title": "Acuerdo concerniente al reconocimiento de la formación y titulación para la gente de mar procedente del Perú entre la Dirección General de Capitanías y Guardacostas en representación del Gobierno del Perú y la Dirección General de la Marina Mercante en representación del Gobierno de España, hecho en Madrid y Lima el 30 de julio de 2002.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento presenta una anomalía temporal severa: un acuerdo firmado en 2002 se publica en el BOE en 2026, lo que supone un apagón informativo de 24 años sobre la validez jurídica de títulos marítimos. Aunque el texto es técnico, la cláusula 4 permite 'inspecciones periódicas' en Perú por parte de funcionarios españoles sin especificar presupuesto, dietas o mecanismos de control de gasto, lo que constituye un potencial foco de gastos fantasma en viajes oficiales. Además, la delegación de funciones mediante simple 'telefax o correo electrónico' (cláusula 2) a personas no identificadas diluye la cadena de responsabilidad pública.",
+    "resumen_ciudadano": "España y Perú formalizan el reconocimiento mutuo de títulos para marineros. Esto permite que personal peruano trabaje en buques españoles bajo estándares internacionales. El acuerdo permite a inspectores españoles viajar a Perú para auditar centros de formación, pero no detalla cuánto costarán estos viajes al contribuyente.",
+    "resumen_tweet": "🚢 ¡24 años de retraso! El #BOE publica hoy un acuerdo con Perú firmado en 2002. ¿Por qué ocultar la validez de títulos marítimos dos décadas? 🧐 Ojo a los gastos en 'inspecciones' internacionales sin control presupuestario. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Anacronismo administrativo: publicación 24 años después de la firma",
+      "Gastos de desplazamiento internacional no cuantificados para inspecciones",
+      "Designación discrecional de responsables por medios informales (fax/email)",
+      "Falta de desglose sobre el impacto económico en las arcas públicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Navieras (acceso a mano de obra extranjera con títulos convalidados)",
+        "Gente de mar procedente de Perú (mayor movilidad laboral)",
+        "Altos cargos de Marina Mercante (capacidad de realizar viajes de inspección internacionales)"
+      ],
+      "perdedores": [
+        "Gente de mar española (mayor competencia laboral sin reciprocidad económica clara)",
+        "Contribuyente español (asume costes de supervisión en el extranjero)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Laboral",
+    "banderas_rojas": [
+      "Anacronismo administrativo: publicación 24 años después de la firma",
+      "Gastos de desplazamiento internacional no cuantificados para inspecciones",
+      "Designación discrecional de responsables por medios informales (fax/email)",
+      "Falta de desglose sobre el impacto económico en las arcas públicas"
+    ]
+  },
+  "tweeted": true
+}
