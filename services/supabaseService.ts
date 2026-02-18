@@ -24,10 +24,14 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
 
   const localAudits: AuditHistoryItem[] = [];
 
+  // Index indexData for faster lookup
+  const indexMap = new Map<string, any>();
+  indexData.forEach(idx => indexMap.set(idx.id, idx));
+
   Object.values(auditedFiles).forEach((mod: any) => {
     const data = mod.default;
     if (data && data.boe_id && data.report) {
-      const indexEntry = indexData.find(idx => idx.id === data.boe_id);
+      const indexEntry = indexMap.get(data.boe_id);
       localAudits.push({
         boeId: data.boe_id,
         title: indexEntry?.titulo || data.title || data.boe_id,
@@ -69,16 +73,23 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
 
   // Fusionar datos (priorizar remotos, luego locales de carpeta, finalmente localStorage)
   const merged = [...remoteData];
+  const mergedIds = new Set<string>();
+  merged.forEach(m => mergedIds.add(m.boeId));
+
+  const localIds = new Set<string>();
+  localStorageData.forEach(l => localIds.add(l.boeId));
 
   // Añadir datos de la carpeta si no están ya (por boeId)
   let localStorageUpdated = false;
   auditedFolderData.forEach(folderItem => {
-    if (!merged.find(m => m.boeId === folderItem.boeId)) {
+    if (!mergedIds.has(folderItem.boeId)) {
       merged.push(folderItem);
+      mergedIds.add(folderItem.boeId);
     }
     // Sincronizar con LocalStorage si no está (según petición del usuario)
-    if (!localStorageData.find(l => l.boeId === folderItem.boeId)) {
+    if (!localIds.has(folderItem.boeId)) {
       localStorageData.push(folderItem);
+      localIds.add(folderItem.boeId);
       localStorageUpdated = true;
     }
   });
@@ -90,8 +101,9 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
 
   // Añadir datos de localStorage si no están ya
   localStorageData.forEach(localItem => {
-    if (!merged.find(m => m.boeId === localItem.boeId)) {
+    if (!mergedIds.has(localItem.boeId)) {
       merged.push(localItem);
+      mergedIds.add(localItem.boeId);
     }
   });
 
