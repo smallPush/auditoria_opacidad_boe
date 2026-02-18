@@ -1,7 +1,8 @@
 import React from 'react';
 import { AuditHistoryItem } from '../types';
-import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin } from 'lucide-react';
+import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin, Zap } from 'lucide-react';
 import { Link, useSearchParams } from 'react-router-dom';
+import { GITHUB_REPO, GITHUB_WORKFLOW } from '../constants';
 import { translations, Language } from '../translations';
 import Pagination from './Pagination';
 
@@ -10,9 +11,10 @@ interface Props {
   onImport: (data: any) => void;
   lang: Language;
   isLoggedIn?: boolean;
+  githubToken?: string;
 }
 
-const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn }) => {
+const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn, githubToken }) => {
   const t = translations[lang];
   const [searchParams, setSearchParams] = useSearchParams();
   const [searchTerm, setSearchTerm] = React.useState('');
@@ -152,6 +154,36 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
     URL.revokeObjectURL(url);
   };
 
+  const handleBulkAudit = async () => {
+    if (!githubToken) {
+      window.open(`https://github.com/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW}`, '_blank');
+      return;
+    }
+
+    try {
+      const response = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${GITHUB_WORKFLOW}/dispatches`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${githubToken}`,
+          'Accept': 'application/vnd.github+json',
+          'X-GitHub-Api-Version': '2022-11-28'
+        },
+        body: JSON.stringify({
+          ref: 'main'
+        })
+      });
+
+      if (response.ok) {
+        alert(t.bulkAuditSuccess);
+      } else {
+        const err = await response.json();
+        alert(`Error: ${err.message || 'Failed to trigger audit'}`);
+      }
+    } catch (e: any) {
+      alert(`Error: ${e.message}`);
+    }
+  };
+
   return (
     <div className="flex flex-col h-full space-y-4">
       <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-4 space-y-4">
@@ -259,6 +291,15 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
               {t.importJson}
               <input type="file" accept=".json" onChange={handleImport} className="hidden" />
             </label>
+            <div className="flex-1"></div>
+            <button
+              onClick={handleBulkAudit}
+              title={t.bulkAuditDesc}
+              className="bg-red-600 hover:bg-red-500 text-white px-4 py-1.5 rounded-lg text-[10px] font-black transition-all shadow-lg shadow-red-900/20 flex items-center gap-1.5 ml-auto"
+            >
+              <Zap size={12} className="animate-pulse" />
+              {t.bulkAuditBtn}
+            </button>
           </div>
         )}
       </div>

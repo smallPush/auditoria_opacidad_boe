@@ -23,6 +23,12 @@ if (fs.existsSync(envPath)) {
 
 // Constants
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
+
+// Ensure the directory exists
+if (!fs.existsSync(AUDITED_REPORTS_DIR)) {
+  fs.mkdirSync(AUDITED_REPORTS_DIR, { recursive: true });
+}
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const SYSTEM_INSTRUCTION = `
 Eres un Agente de Inteligencia Cívica de Élite. Tu misión es desmantelar la opacidad del lenguaje legislativo español.

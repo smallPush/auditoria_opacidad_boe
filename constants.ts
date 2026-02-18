@@ -65,6 +65,9 @@ export const BOE_SOURCES: BOEArticle[] = [
   }
 ];
 
+export const GITHUB_REPO = "smallPush/auditoria_opacidad_boe";
+export const GITHUB_WORKFLOW = "audit.yml";
+
 export const SYSTEM_INSTRUCTION = `
 Eres un Agente de Inteligencia Cívica de Élite. Tu misión es desmantelar la opacidad del lenguaje legislativo español.
 Analiza el BOE buscando:
