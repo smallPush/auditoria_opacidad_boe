@@ -31,6 +31,9 @@ const App: React.FC = () => {
   const [userApiKey, setUserApiKey] = useState(() => {
     return localStorage.getItem('boe_user_api_key') || '';
   });
+  const [githubToken, setGithubToken] = useState(() => {
+    return localStorage.getItem('boe_github_token') || '';
+  });
   const [showLogin, setShowLogin] = useState(false);
   const [password, setPassword] = useState('');
   const [tempApiKey, setTempApiKey] = useState('');
@@ -203,8 +206,10 @@ const App: React.FC = () => {
   const handleLogout = () => {
     setIsLoggedIn(false);
     setUserApiKey('');
+    setGithubToken('');
     localStorage.removeItem('boe_agent_session');
     localStorage.removeItem('boe_user_api_key');
+    localStorage.removeItem('boe_github_token');
     resetState();
   };
 
@@ -368,6 +373,24 @@ const App: React.FC = () => {
                 className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-emerald-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
               />
             </div>
+
+            {isLoggedIn && (
+              <div className="relative group">
+                <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
+                  <ExternalLink size={18} />
+                </div>
+                <input
+                  type="password"
+                  placeholder={t.githubTokenPlaceholder}
+                  value={githubToken}
+                  onChange={(e) => {
+                    setGithubToken(e.target.value);
+                    localStorage.setItem('boe_github_token', e.target.value);
+                  }}
+                  className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-blue-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
+                />
+              </div>
+            )}
             <p className="text-[10px] text-slate-500 text-left px-2">{t.apiKeyNote}</p>
             <button
               onClick={handleApiKeySubmit}
@@ -608,19 +631,13 @@ const App: React.FC = () => {
               </div>
 
               <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
-                {history.length === 0 ? (
-                  <div className="flex flex-col items-center justify-center py-32 text-slate-600 opacity-40 italic text-sm">
-                    <Database size={64} className="mb-6" />
-                    No hay auditorías procesadas aún
-                  </div>
-                ) : (
-                  <HistoryDashboard
-                    history={history}
-                    onImport={handleImportData}
-                    lang={lang}
-                    isLoggedIn={isLoggedIn}
-                  />
-                )}
+                <HistoryDashboard
+                  history={history}
+                  onImport={handleImportData}
+                  lang={lang}
+                  isLoggedIn={isLoggedIn}
+                  githubToken={githubToken}
+                />
               </div>
             </div>
           } />
