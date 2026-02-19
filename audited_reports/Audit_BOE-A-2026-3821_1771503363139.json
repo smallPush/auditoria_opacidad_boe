@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3821",
+  "timestamp": "2026-02-19T12:16:03.139Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, del Cuerpo General Administrativo de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion detalla nombramientos por promocion interna en el Cuerpo General Administrativo. Aunque los datos de destino y nivel son claros, se evidencia una fragmentacion salarial interna: puestos con el mismo Nivel de Complemento de Destino (16 o 18) presentan variaciones de mas de 3.000 euros anuales en su Complemento Especifico segun el ministerio o el organismo autonomo asignado. Esto genera una jerarquia invisible dentro de la propia administracion donde el Ministerio del Interior y el SEPE suelen tener mejores retribuciones que Defensa o Politica Territorial.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de nuevos funcionarios de carrera que han ascendido por promocion interna. El documento incluye nombres, el ministerio donde trabajaran y su salario complementario. Cuatro personas han sido excluidas por no cumplir los requisitos de las bases y otras cuatro han renunciado voluntariamente.",
+    "resumen_tweet": "📢 Auditamos el #BOE: ¡Nuevos funcionarios! Pero ojo: misma categoria, distinto sueldo. La brecha salarial entre Ministerios sigue premiando a unos sobre otros para el mismo nivel administrativo. ⚖️ ¿Justicia o arbitrariedad? #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Disparidad salarial de complementos especificos para niveles identicos",
+      "Exclusiones definitivas sin detalle explicativo de la falta cometida",
+      "Alta tasa de renuncias en el proceso final (4 personas)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios promocionados al Ministerio del Interior (Complementos de 7.591 euros)",
+        "Ministerio de Inclusion y Seguridad Social (Complementos de mas de 6.200 euros)",
+        "Ministerio de Hacienda (puestos de Jefe de Negociado N18)"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos por requisitos de participacion",
+        "Ministerio de Defensa (complementos mas bajos, aprox. 4.894 euros)",
+        "Personal de Delegaciones de Gobierno en provincias con menor gratificacion"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Recursos Humanos y Funcion Publica",
+    "banderas_rojas": [
+      "Disparidad salarial de complementos especificos para niveles identicos",
+      "Exclusiones definitivas sin detalle explicativo de la falta cometida",
+      "Alta tasa de renuncias en el proceso final (4 personas)"
+    ]
+  },
+  "tweeted": true
+}

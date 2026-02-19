@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3812",
+  "timestamp": "2026-02-19T12:01:20.943Z",
+  "title": "Acuerdo concerniente al reconocimiento de la formación y titulación para la gente de mar procedente de México entre la Dirección General de Marina Mercante de México en representación del Gobierno de México y la Dirección General de la Marina Mercante de España en representación del Gobierno de España, hecho en Madrid y Ciudad de México el 18 y 30 de julio de 2002.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "Estamos ante un caso de arqueología legislativa extrema. El acuerdo fue firmado en 2002 y se publica en el BOE en 2026, lo que supone un desfase de 24 años. La opacidad no reside solo en el lenguaje, sino en la gestión temporal de la información pública. Se publican datos de contacto de funcionarios que probablemente ya no ocupan esos cargos o están jubilados. Además, el texto reconoce que el acuerdo ya ha sido denunciado por México en 2024 para su terminación, por lo que se publica algo que está técnicamente en fase de extinción.",
+    "resumen_ciudadano": "España y México acordaron en 2002 reconocerse mutuamente los títulos de marinero para que trabajadores de ambos países pudieran operar en sus barcos. Lo curioso es que el Gobierno español ha tardado 24 años en publicarlo oficialmente y lo hace justo cuando el acuerdo está a punto de caducar porque México ya no quiere mantenerlo.",
+    "resumen_tweet": "🕵️‍♂️ ¡Arqueología en el #BOE! Publican hoy un acuerdo de 2002 sobre títulos marítimos con México. 🚢 24 años de retraso para un texto que ya tiene fecha de caducidad en 2027. ¿Gestión eficiente o desidia administrativa? 🏛️📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desfase temporal de 24 años entre firma y publicación",
+      "Publicación de cargos y datos de contacto obsoletos",
+      "Vigencia residual: se publica un acuerdo que ya ha sido denunciado para su anulación",
+      "Falta de justificación sobre el retraso en la inserción oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La administración del Estado que 'limpia' expedientes antiguos",
+        "Empresas navieras que operaron en un limbo administrativo durante décadas"
+      ],
+      "perdedores": [
+        "Gente de mar (marineros) que requiere seguridad jurídica actualizada",
+        "Ciudadanía, por la nula utilidad de publicar acuerdos obsoletos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Desfase temporal de 24 años entre firma y publicación",
+      "Publicación de cargos y datos de contacto obsoletos",
+      "Vigencia residual: se publica un acuerdo que ya ha sido denunciado para su anulación",
+      "Falta de justificación sobre el retraso en la inserción oficial"
+    ]
+  },
+  "tweeted": true
+}

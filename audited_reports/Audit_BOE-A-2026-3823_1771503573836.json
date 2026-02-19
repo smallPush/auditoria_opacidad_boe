@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3823",
+  "timestamp": "2026-02-19T12:19:33.836Z",
+  "title": "Orden de 9 de febrero de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno libre, que superó el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento detalla la adjudicación de plazas fijas en la Administración de Justicia del País Vasco tras un proceso de oposición. Aunque el procedimiento es legalmente riguroso, revela la fragilidad del sistema de empleo público: la consolidación de unos implica el cese automático y sin preaviso extendido de trabajadores interinos. Se observa una rigidez burocrática en la cláusula que impide traslados durante 2 años y una gestión ineficiente al declarar plazas desiertas habiendo finalizado el proceso selectivo, lo que perpetúa la falta de personal en ciertas unidades judiciales.",
+    "resumen_ciudadano": "Se han asignado destinos definitivos a los nuevos funcionarios del Cuerpo de Tramitación Procesal en Euskadi (Bilbao, Donostia, Vitoria, etc.). Los seleccionados tienen 20 días para tomar posesión. Esto estabiliza las plantillas judiciales, pero conlleva el despido inmediato de los interinos que ocupaban esas plazas y deja varios puestos sin cubrir por falta de adjudicación.",
+    "resumen_tweet": "⚖️ Nuevos destinos judiciales en Euskadi: El #BOE publica la adjudicación de plazas para funcionarios de carrera. ✅ Estabilidad para aprobados. ❌ Cese inmediato de interinos. 📉 Sorprende la existencia de plazas desiertas. #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Cese fulminante de personal interino",
+      "Mantenimiento de plazas desiertas tras oposiciones",
+      "Restricción de movilidad geográfica por 2 años",
+      "Opacidad en la gestión de excedencias automáticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (adquieren estabilidad laboral)",
+        "Gobierno Vasco (profesionalización de la plantilla)"
+      ],
+      "perdedores": [
+        "Personal interino (cese inmediato tras la toma de posesión del titular)",
+        "Usuarios de la justicia en zonas con plazas desiertas"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Cese fulminante de personal interino",
+      "Mantenimiento de plazas desiertas tras oposiciones",
+      "Restricción de movilidad geográfica por 2 años",
+      "Opacidad en la gestión de excedencias automáticas"
+    ]
+  },
+  "tweeted": true
+}

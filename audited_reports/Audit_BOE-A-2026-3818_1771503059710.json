@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3818",
+  "timestamp": "2026-02-19T12:10:59.710Z",
+  "title": "Orden PJC/103/2026, de 9 de febrero, por la que se nombra personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno libre, a las personas que han superado el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento refleja una preocupante lentitud administrativa: un proceso selectivo convocado en 2022 culmina sus nombramientos en 2026. Se detecta una anomalía jurídica grave en el ámbito de Andalucía, donde el proceso está suspendido por cautelares judiciales, lo que genera inseguridad jurídica para los aspirantes. Además, la segregación por ámbitos territoriales y la exclusión de nombres en anexos separados (Anexo II) dificulta la fiscalización pública inmediata de quiénes han quedado fuera y por qué motivos exactos (base 8.3).",
+    "resumen_ciudadano": "Se nombra oficialmente al nuevo personal funcionario de Tramitación Procesal. Tras más de tres años de espera desde la convocatoria, los aprobados en casi toda España toman posesión, excepto en Andalucía, donde un juez ha paralizado los nombramientos. El proceso destaca por una altísima presencia femenina en los primeros puestos del escalafón.",
+    "resumen_tweet": "⚖️ ¡3 años después! El #BOE publica los nombramientos de Tramitación Procesal (convocatoria 2022). 🚩 Alerta: Andalucía queda bloqueada por los tribunales. ¿Justicia ágil con procesos de RRHH que duran años? #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retraso administrativo de 4 años en la resolución",
+      "Suspensión cautelar judicial en Andalucía",
+      "Opacidad en los motivos de exclusión del Anexo II",
+      "Fragmentación de la gestión de personal entre Estado y CCAA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores nombrados en Madrid, Valencia y Canarias",
+        "Administración de Justicia (refuerzo de plantilla)",
+        "Mujeres (clara mayoría en el acceso a esta escala administrativa)"
+      ],
+      "perdedores": [
+        "Opositores de Andalucía (atrapados en un limbo judicial)",
+        "Ciudadanía (soporta una justicia lenta por burocracia eterna)",
+        "Aspirantes excluidos por requisitos técnicos de última hora"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Retraso administrativo de 4 años en la resolución",
+      "Suspensión cautelar judicial en Andalucía",
+      "Opacidad en los motivos de exclusión del Anexo II",
+      "Fragmentación de la gestión de personal entre Estado y CCAA"
+    ]
+  },
+  "tweeted": true
+}

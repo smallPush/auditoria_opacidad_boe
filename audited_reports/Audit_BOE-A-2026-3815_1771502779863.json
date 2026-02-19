@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3815",
+  "timestamp": "2026-02-19T12:06:19.863Z",
+  "title": "Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto establece una subida del 3,1% del SMI para 2026, alcanzando los 1.221 euros mensuales. Si bien se alinea con la Carta Social Europea (objetivo del 60% del salario medio), existe una 'opacidad técnica' en la Disposición transitoria única. Esta cláusula desvincula el aumento del SMI de las normativas de comunidades autónomas y contratos privados que lo usan como referencia para ayudas o becas. Esto genera una 'clase de beneficiarios congelada': el salario sube para el trabajador, pero el acceso a servicios sociales no se flexibiliza, lo que puede excluir a familias del sistema de protección al superar los umbrales de renta antiguos.",
+    "resumen_ciudadano": "El salario mínimo sube a 1.221 euros al mes (en 14 pagas) para todos los sectores, incluyendo empleadas de hogar (9,55 €/hora). La subida tiene efectos retroactivos desde el 1 de enero de 2026. Sin embargo, esta subida no se aplicará automáticamente para calcular quién tiene derecho a ayudas públicas o becas en muchas regiones, evitando así un mayor gasto público en protección social.",
+    "resumen_tweet": "📈 El SMI sube a 1.221€ en 2026. Aunque es un avance para el trabajo decente, la 'letra pequeña' impide que esta subida mejore el acceso a ayudas sociales y becas, blindando el presupuesto estatal. ⚠️ ¿Progreso real o contable? #BOE #Opacidad #SMI2026",
+    "banderas_red_flags": [
+      "Desvinculación del SMI como indicador de renta para prestaciones sociales",
+      "Posible neutralización del aumento mediante compensación y absorción en convenios colectivos",
+      "Exención de consulta pública previa bajo el pretexto de 'regulación parcial'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores no cualificados sin convenio",
+        "Empleadas de hogar",
+        "Estado (mayor recaudación por cotizaciones)"
+      ],
+      "perdedores": [
+        "Solicitantes de ayudas sociales (umbrales de renta no actualizados)",
+        "Pequeñas empresas de sectores intensivos en mano de obra",
+        "Autónomos con empleados a cargo"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Real Decreto de Fijación de Salarios",
+    "banderas_rojas": [
+      "Desvinculación del SMI como indicador de renta para prestaciones sociales",
+      "Posible neutralización del aumento mediante compensación y absorción en convenios colectivos",
+      "Exención de consulta pública previa bajo el pretexto de 'regulación parcial'"
+    ]
+  },
+  "tweeted": true
+}

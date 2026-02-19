@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3813",
+  "timestamp": "2026-02-19T16:21:33.772Z",
+  "title": "Aplicación provisional del Acuerdo Internacional entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) relativo a la designación de la Fundación Tres Culturas del Mediterráneo como Centro de Categoría 2 auspiciado por la UNESCO, hecho en París el 28 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El acuerdo formaliza la designación de la Fundación Tres Culturas del Mediterráneo como centro de categoría 2 de la UNESCO. Si bien el texto es explícito en cuanto a la estructura de gobernanza y la relación con la UNESCO, incurre en una opacidad financiera típica de los acuerdos internacionales: se menciona un pago simbólico de 1.000 USD anuales a la UNESCO (Art. 8), pero se omite por completo el presupuesto operativo total que el Reino de España y la Junta de Andalucía destinan a la Fundación. El Artículo 2 compromete a España a 'ayudar' a la institución, un término jurídico vago que suele traducirse en subvenciones directas sin desglose en este documento.",
+    "resumen_ciudadano": "España y la UNESCO han firmado un convenio para elevar el estatus de la Fundación Tres Culturas del Mediterráneo (Sevilla). Esto le permite usar el logotipo de la UNESCO y recibir asesoría técnica. El centro será gestionado por un consejo donde se sientan representantes de España, Marruecos y la UNESCO. Aunque se anuncia como un hito cultural, el documento no aclara cuánto dinero público costará mantener esta estructura, más allá de un pequeño canon pagado a la ONU.",
+    "resumen_tweet": "🏛️ ¿Diplomacia cultural o estructura opaca? El #BOE oficializa el estatus UNESCO para la Fundación Tres Culturas. Mucho 'diálogo' pero ni rastro del coste total para el contribuyente. Se blindan privilegios burocráticos. 🛂🇲🇦 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de 'aplicación provisional' antes de la ratificación formal (Art. 14).",
+      "Ausencia de límites presupuestarios en la 'ayuda' que España debe prestar (Art. 2).",
+      "Externalización de costes de evaluación que recaen sobre la propia Fundación (Art. 12.b).",
+      "Responsabilidad jurídica diluida: la UNESCO se lava las manos ante posibles negligencias del centro (Art. 11)."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la Fundación Tres Culturas",
+        "UNESCO (recibe canon anual y expertos)",
+        "Reino de Marruecos (mantiene cuota de poder en el Consejo de Administración)"
+      ],
+      "perdedores": [
+        "Contribuyentes españoles (asumen el coste operativo no detallado)",
+        "Transparencia pública (se crea un ente con autonomía jurídica que dificulta el rastreo de fondos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Cláusula de 'aplicación provisional' antes de la ratificación formal (Art. 14).",
+      "Ausencia de límites presupuestarios en la 'ayuda' que España debe prestar (Art. 2).",
+      "Externalización de costes de evaluación que recaen sobre la propia Fundación (Art. 12.b).",
+      "Responsabilidad jurídica diluida: la UNESCO se lava las manos ante posibles negligencias del centro (Art. 11)."
+    ]
+  },
+  "tweeted": true
+}
