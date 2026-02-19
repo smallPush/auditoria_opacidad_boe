@@ -4,12 +4,13 @@ interface SEOProps {
   title: string;
   description: string;
   keywords?: string[];
+  image?: string;
 }
 
-const SEO: React.FC<SEOProps> = ({ title, description, keywords = [] }) => {
+const SEO: React.FC<SEOProps> = ({ title, description, keywords = [], image }) => {
   useEffect(() => {
     // Update Title
-    document.title = title;
+    document.title = title + " | Auditoría BOE";
 
     // Helper to update meta tags
     const updateMeta = (name: string, content: string) => {
@@ -44,7 +45,12 @@ const SEO: React.FC<SEOProps> = ({ title, description, keywords = [] }) => {
     updateOG('og:title', title);
     updateOG('og:description', description);
 
-  }, [title, description, keywords]);
+    if (image) {
+      updateOG('og:image', image);
+      updateOG('twitter:image', image);
+    }
+
+  }, [title, description, keywords, image]);
 
   return null;
 };
