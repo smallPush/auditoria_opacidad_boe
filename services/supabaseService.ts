@@ -1,6 +1,7 @@
 /// <reference types="vite/client" />
 import { createClient } from '@supabase/supabase-js';
 import { AuditHistoryItem, BOEAuditResponse } from '../types';
+import { STORAGE_KEYS } from '../constants';
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || '';
 const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY || '';
@@ -8,8 +9,6 @@ const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY || '';
 export const supabase = (supabaseUrl && supabaseKey)
   ? createClient(supabaseUrl, supabaseKey)
   : null;
-
-const LOCAL_STORAGE_KEY = 'boe_audit_history_v1';
 
 const loadLocalAudits = (): AuditHistoryItem[] => {
   const auditedFiles = import.meta.glob('../audited_reports/Audit_*.json', { eager: true });
@@ -65,7 +64,7 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
   }
 
   // Obtener de LocalStorage
-  const localRaw = localStorage.getItem(LOCAL_STORAGE_KEY);
+  const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localStorageData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
 
   // Obtener de carpeta audited_reports (empaquetados con la app)
@@ -96,7 +95,7 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
 
   // Guardar en LocalStorage si hubo cambios
   if (localStorageUpdated) {
-    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(localStorageData));
+    localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify(localStorageData));
   }
 
   // Añadir datos de localStorage si no están ya
@@ -119,10 +118,10 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
   };
 
   // Guardar en LocalStorage (siempre)
-  const localRaw = localStorage.getItem(LOCAL_STORAGE_KEY);
+  const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
   const filteredLocal = localData.filter(item => item.boeId !== boeId);
-  localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify([newItem, ...filteredLocal]));
+  localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify([newItem, ...filteredLocal]));
 
   // Guardar en Sistema de Archivos Local (Bridge) si estamos en desarrollo
   if (import.meta.env.DEV) {
@@ -155,5 +154,5 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
 };
 
 export const clearLocalHistory = () => {
-  localStorage.removeItem(LOCAL_STORAGE_KEY);
+  localStorage.removeItem(STORAGE_KEYS.AUDIT_HISTORY);
 };
