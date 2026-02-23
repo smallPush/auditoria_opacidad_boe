@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4067",
+  "timestamp": "2026-02-23T10:28:39.940Z",
+  "title": "Acuerdo de 11 de febrero de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Jueza sustituta para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento es un nombramiento estándar de jueza sustituta que oculta la precariedad estructural del sistema judicial español. Al nombrar a una sola persona para cubrir nueve sedes judiciales distintas (desde Granada hasta Motril), se evidencia una política de 'parches' legislativos que evita la creación de plazas fijas y estables. No hay mención al coste presupuestario ni a los criterios de selección específicos bajo el Artículo 109.",
+    "resumen_ciudadano": "Se ha nombrado a Gema Agudo Casero como jueza sustituta para múltiples juzgados en la provincia de Granada para el año 2025/2026. Este tipo de nombramientos temporales permite a la justicia seguir funcionando sin invertir en personal de carrera permanente, lo que puede afectar a la continuidad de los casos.",
+    "resumen_tweet": "⚖️ ¿Justicia de parche? El CGPJ nombra una jueza sustituta para cubrir 9 sedes en Granada. Se perpetúa la interinidad en lugar de crear plazas fijas. Poca claridad en el coste de estos 'refuerzos' temporales. 📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso sistemático de la figura del sustituto para vacantes estructurales",
+      "Falta de transparencia en la partida presupuestaria asignada al puesto",
+      "Alta dispersión geográfica para una sola persona (9 localidades)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (ahorro en costes de seguridad social y plazas fijas)",
+        "CGPJ (mantenimiento del statu quo sin reformas profundas)"
+      ],
+      "perdedores": [
+        "Ciudadanos (justicia potencialmente más lenta por la interinidad)",
+        "Profesionales de la carrera judicial (falta de estabilidad laboral)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistemático de la figura del sustituto para vacantes estructurales",
+      "Falta de transparencia en la partida presupuestaria asignada al puesto",
+      "Alta dispersión geográfica para una sola persona (9 localidades)"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4076",
+  "timestamp": "2026-02-23T10:42:17.001Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente discrecional que permite la selección de personal por criterios de confianza en lugar de un concurso abierto de méritos. El puesto adjudicado es el de Ayudante de Secretaría del Subsecretario dentro del Comisionado de Salud Mental. Aunque se cita el cumplimiento de la normativa vigente (Real Decreto 364/1995), el análisis revela que puestos de nivel administrativo (Nivel 17) son cubiertos por esta vía 'a dedo', lo que genera opacidad sobre si la persona elegida es la más capaz o simplemente la que goza de mayor afinidad política o personal.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha otorgado una plaza de secretaria en el área de Salud Mental a través de una designación directa. Este método evita que otros funcionarios puedan competir por el puesto basándose puramente en sus méritos y años de servicio, otorgando al alto cargo la potestad de elegir a quien desee bajo un criterio de 'idoneidad' no detallado públicamente.",
+    "resumen_tweet": "🚨 Nuevo nombramiento 'a dedo' en el Ministerio de Sanidad. Se adjudica puesto de secretaría para Salud Mental mediante Libre Designación. ¿Mérito o confianza? La transparencia en la función pública sigue bajo mínimos. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Uso de criterios de 'idoneidad' subjetivos sin baremación pública",
+      "Puesto de nivel administrativo bajo (17) tratado como puesto de confianza política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Edurne Irigoien Errazkin (adjudicataria del puesto)",
+        "Subsecretaría de Sanidad (mantiene control total sobre su equipo de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (excluidos de un proceso competitivo objetivo)",
+        "Ciudadanía (posible pérdida de eficiencia por criterios no meritocráticos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Uso de criterios de 'idoneidad' subjetivos sin baremación pública",
+      "Puesto de nivel administrativo bajo (17) tratado como puesto de confianza política"
+    ]
+  },
+  "tweeted": false
+}

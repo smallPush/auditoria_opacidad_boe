@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4080",
+  "timestamp": "2026-02-23T10:47:46.848Z",
+  "title": "Resolución de 13 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo de Traductores e Intérpretes del Estado.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se formaliza el nombramiento de 7 funcionarios de carrera para el Cuerpo de Traductores e Intérpretes tras un proceso de casi dos años (marzo 2024 a febrero 2026). Aunque el desglose de salarios y destinos es claro, destaca una centralización absoluta en Madrid y la falta de información sobre las lenguas de especialidad de cada adjudicatario, lo cual es vital para auditar la idoneidad en puestos críticos como Defensa o Guardia Civil.",
+    "resumen_ciudadano": "El Estado incorpora a siete nuevos traductores de alto nivel (Grupo A1) con puestos de Nivel 26 y complementos específicos de 12.721,10 euros anuales. Trabajarán en áreas sensibles como el Estado Mayor de la Defensa, la Secretaría de Estado de Comunicación y la Dirección General de la Guardia Civil.",
+    "resumen_tweet": "7 nuevos traductores nivel A1 para el Estado 🇪🇸. Proceso de casi 2 años para cubrir puestos en Defensa e Interior. Todos los destinos en Madrid, reforzando el centralismo administrativo. Sueldo nivel 26. 🐢💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Excesiva duración del proceso selectivo (23 meses)",
+      "Concentración geográfica total en Madrid",
+      "Opacidad sobre las especialidades lingüísticas asignadas a cada ministerio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 7 nuevos funcionarios (estabilidad y nivel salarial 26)",
+        "Ministerio de Defensa",
+        "Ministerio del Interior"
+      ],
+      "perdedores": [
+        "Candidatos que no superaron el proceso de 2 años",
+        "Administración periférica (nula descentralización)",
+        "Eficiencia administrativa (lentitud burocrática)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Excesiva duración del proceso selectivo (23 meses)",
+      "Concentración geográfica total en Madrid",
+      "Opacidad sobre las especialidades lingüísticas asignadas a cada ministerio"
+    ]
+  },
+  "tweeted": false
+}

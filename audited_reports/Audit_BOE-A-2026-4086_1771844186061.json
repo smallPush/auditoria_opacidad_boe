@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-4086",
+  "timestamp": "2026-02-23T10:56:26.061Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Universidad de A Coruña, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de personal funcionario docente (Profesoras Titulares). El texto cumple con la legalidad administrativa citando la LOSU 2/2023. No se detectan gastos fantasma, ya que son plazas regladas, aunque como es habitual en el BOE, no se especifica la cuantía retributiva ni el impacto presupuestario a largo plazo de estas plazas vitalicias. Hay un impacto positivo en la representación femenina en áreas técnicas (Informática).",
+    "resumen_ciudadano": "La Universidad de A Coruña oficializa el nombramiento de dos nuevas profesoras titulares en las áreas de Informática y Didáctica de la Lengua. Es un proceso administrativo ordinario de consolidación de empleo público universitario.",
+    "resumen_tweet": "🎓 Nueva consolidación de plazas en la Univ. de A Coruña. Dos profesoras titulares en Informática y Educación. Proceso reglado, pero sin detalle del coste salarial total para el contribuyente. #BOE #Opacidad #Transparencia #Universidad #Galicia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de información sobre el impacto presupuestario anual",
+      "Falta de desglose de las retribuciones asociadas a los niveles de plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Belén Cerdeira Pena",
+        "María Begoña Lasa Álvarez",
+        "Universidad de A Coruña (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso de acceso",
+        "Contribuyentes (asunción de gasto estructural sin transparencia de coste directo)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de información sobre el impacto presupuestario anual",
+      "Falta de desglose de las retribuciones asociadas a los niveles de plaza"
+    ]
+  },
+  "tweeted": false
+}

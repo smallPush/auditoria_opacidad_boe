@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4070",
+  "timestamp": "2026-02-23T10:32:43.349Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 14 de noviembre de 2025, en la Abogacía General del Estado.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolución muestra una alta tasa de ineficiencia en la provisión de puestos para la Abogacía General del Estado. De 18 posiciones analizadas en el extracto, 8 han sido declaradas desiertas (44%), lo que indica una posible desconexión entre los requisitos exigidos y el talento disponible, o bien una falta de incentivos. Además, se observa una 'movilidad circular' donde varios funcionarios (puestos 3, 5, 11, 14, 15, 17, 18) han sido adjudicados al mismo puesto que ya ocupaban, lo que sugiere un proceso puramente burocrático de consolidación sin regeneración real del cuerpo administrativo.",
+    "resumen_ciudadano": "Se han asignado nuevos puestos de trabajo en la Abogacía del Estado, pero casi la mitad de las plazas han quedado vacías por falta de candidatos idóneos. Gran parte de los seleccionados ya estaban trabajando en el mismo puesto, lo que convierte este concurso en un trámite de papel más que en una verdadera renovación de personal.",
+    "resumen_tweet": "⚖️ ¿Burocracia o renovación? El #BOE publica plazas para la Abogacía del Estado: un 44% quedan desiertas y muchos funcionarios 'ganan' el puesto que ya tenían. Poca entrada de nuevo talento en la justicia. 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas (44%)",
+      "Endogamia administrativa: funcionarios que se adjudican su propio puesto previo",
+      "Posible falta de idoneidad en los requisitos de convocatoria",
+      "Gasto administrativo en procesos que no logran cubrir vacantes críticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios ya integrados en la estructura que consolidan su posición",
+        "Personal de niveles A1 y A2 con movilidad garantizada en Madrid"
+      ],
+      "perdedores": [
+        "Eficiencia del sistema judicial por vacantes en áreas de Arbitraje e Inspección",
+        "Nuevos aspirantes del sector público bloqueados por criterios específicos",
+        "Ciudadanía que financia procesos selectivos con resultados nulos"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas (44%)",
+      "Endogamia administrativa: funcionarios que se adjudican su propio puesto previo",
+      "Posible falta de idoneidad en los requisitos de convocatoria",
+      "Gasto administrativo en procesos que no logran cubrir vacantes críticas"
+    ]
+  },
+  "tweeted": false
+}
