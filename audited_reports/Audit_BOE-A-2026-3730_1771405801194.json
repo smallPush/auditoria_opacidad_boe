@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3730",
+  "timestamp": "2026-02-18T09:10:01.194Z",
+  "title": "Cuestión de inconstitucionalidad n.º 8318-2025, en relación con el artículo 5.2 de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una providencia de admisión a trámite de una cuestión de inconstitucionalidad. La ley analizada (LO 1/2025) utiliza el término 'eficiencia' como un eufemismo para la aceleración de procesos, lo que a menudo implica la reducción de garantías procesales. La impugnación del artículo 5.2 sugiere que la búsqueda de rapidez administrativa podría estar colisionando con el derecho a la tutela judicial efectiva. El texto es puramente procedimental, ocultando al ciudadano los motivos reales de por qué un juzgado de instancia considera que la norma es inconstitucional.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha aceptado revisar si la nueva Ley de Eficiencia de la Justicia vulnera la Constitución. Un juzgado de Valencia de Alcántara ha cuestionado un artículo específico que afecta a cómo se tramitan los juicios civiles. Esto significa que la norma que pretendía hacer la justicia 'más rápida' podría estar recortando derechos básicos de los ciudadanos durante los pleitos.",
+    "resumen_tweet": "⚖️ ¡Alerta! El Constitucional admite a trámite una cuestión de inconstitucionalidad contra la Ley de Eficiencia de la Justicia. ¿Rapidez a costa de derechos? Un juzgado de pueblo frena la maquinaria estatal. 🚩 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de conceptos jurídicos indeterminados bajo el lema de eficiencia",
+      "Posible vulneración del artículo 24 de la Constitución (Tutela judicial)",
+      "Opacidad sobre el contenido lesivo del artículo 5.2 en el anuncio oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (por la reducción de tiempos estadísticos)",
+        "Grandes corporaciones con capacidad de litigación rápida"
+      ],
+      "perdedores": [
+        "Ciudadanos en procesos de familia o civiles con menos recursos",
+        "Garantías procesales individuales frente a la celeridad administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Control Constitucional",
+    "banderas_rojas": [
+      "Uso de conceptos jurídicos indeterminados bajo el lema de eficiencia",
+      "Posible vulneración del artículo 24 de la Constitución (Tutela judicial)",
+      "Opacidad sobre el contenido lesivo del artículo 5.2 en el anuncio oficial"
+    ]
+  },
+  "tweeted": true
+}

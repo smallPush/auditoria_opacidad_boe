@@ -4,6 +4,12 @@ on:
   push:
     tags:
       - '*'
+    branches:
+      - main
+  workflow_run:
+    workflows: ["Scheduled BOE Audit"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:

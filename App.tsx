@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
 import { Search, Loader2, AlertCircle, Globe, Lock, LogOut, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, FileJson, ExternalLink } from 'lucide-react';
-import { BOE_SOURCES } from './constants';
+import { BOE_SOURCES, STORAGE_KEYS } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
 import { analyzeBOE } from './services/geminiService';
 import { translations, Language } from './translations';
@@ -21,15 +21,18 @@ import PrivacyPolicy from './components/PrivacyPolicy';
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
-    const saved = localStorage.getItem('boe_pref_lang');
+    const saved = localStorage.getItem(STORAGE_KEYS.PREF_LANG);
     return (saved as Language) || 'es';
   });
 
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
-    return localStorage.getItem('boe_agent_session') === 'active';
+    return localStorage.getItem(STORAGE_KEYS.AGENT_SESSION) === 'active';
   });
   const [userApiKey, setUserApiKey] = useState(() => {
-    return localStorage.getItem('boe_user_api_key') || '';
+    return localStorage.getItem(STORAGE_KEYS.USER_API_KEY) || '';
+  });
+  const [githubToken, setGithubToken] = useState(() => {
+    return localStorage.getItem(STORAGE_KEYS.GITHUB_TOKEN) || '';
   });
   const [showLogin, setShowLogin] = useState(false);
   const [password, setPassword] = useState('');
@@ -58,7 +61,7 @@ const App: React.FC = () => {
   const requiredPasswordHash = import.meta.env.VITE_AGENT_PASSWORD_HASH;
 
   useEffect(() => {
-    localStorage.setItem('boe_pref_lang', lang);
+    localStorage.setItem(STORAGE_KEYS.PREF_LANG, lang);
   }, [lang]);
 
   useEffect(() => {
@@ -82,11 +85,7 @@ const App: React.FC = () => {
       'https://www.boe.es/diario_boe/xml.php'
     ];
 
-    let foundArticles: ScrapedLaw[] = [];
-
-    for (const url of urls) {
-      if (foundArticles.length > 0) break;
-
+    const fetchAndParse = async (url: string): Promise<ScrapedLaw[]> => {
       try {
         console.log(`🔍 Try fetching BOE from: ${url}`);
         const response = await fetch(url, {
@@ -95,7 +94,7 @@ const App: React.FC = () => {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AuditoriaCívica/1.0'
           }
         });
-        if (!response.ok) continue;
+        if (!response.ok) return [];
 
         const text = await response.text();
         const parser = new DOMParser();
@@ -103,9 +102,9 @@ const App: React.FC = () => {
 
         // Handle both possible structures (REST API vs legacy xml.php)
         const items = xml.querySelectorAll('item');
-        if (items.length === 0) continue;
+        if (items.length === 0) return [];
 
-        foundArticles = Array.from(items).map((item: any) => {
+        return Array.from(items).map((item: any) => {
           // Identificador can be in an attribute (xml.php) or in a child node (REST API)
           const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
           const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
@@ -123,6 +122,21 @@ const App: React.FC = () => {
         });
       } catch (e) {
         console.warn(`Failed to fetch from ${url}:`, e);
+        return [];
+      }
+    };
+
+    // Start all requests in parallel
+    const fetchPromises = urls.map(url => fetchAndParse(url));
+
+    let foundArticles: ScrapedLaw[] = [];
+
+    // Process results in priority order
+    for (const promise of fetchPromises) {
+      const articles = await promise;
+      if (articles.length > 0) {
+        foundArticles = articles;
+        break; // Stop at the first source that provides articles
       }
     }
 
@@ -166,7 +180,7 @@ const App: React.FC = () => {
 
       if (hashHex === requiredPasswordHash) {
         setIsLoggedIn(true);
-        localStorage.setItem('boe_agent_session', 'active');
+        localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
         setLoginError(false);
         setShowLogin(false);
       } else {
@@ -176,7 +190,7 @@ const App: React.FC = () => {
     } else {
       // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
       setIsLoggedIn(true);
-      localStorage.setItem('boe_agent_session', 'active');
+      localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
       setShowLogin(false);
     }
   };
@@ -184,7 +198,7 @@ const App: React.FC = () => {
   const handleApiKeySubmit = () => {
     if (tempApiKey.length >= 15) {
       setUserApiKey(tempApiKey);
-      localStorage.setItem('boe_user_api_key', tempApiKey);
+      localStorage.setItem(STORAGE_KEYS.USER_API_KEY, tempApiKey);
       setShowLogin(false);
     }
   };
@@ -192,8 +206,10 @@ const App: React.FC = () => {
   const handleLogout = () => {
     setIsLoggedIn(false);
     setUserApiKey('');
-    localStorage.removeItem('boe_agent_session');
-    localStorage.removeItem('boe_user_api_key');
+    setGithubToken('');
+    localStorage.removeItem(STORAGE_KEYS.AGENT_SESSION);
+    localStorage.removeItem(STORAGE_KEYS.USER_API_KEY);
+    localStorage.removeItem(STORAGE_KEYS.GITHUB_TOKEN);
     resetState();
   };
 
@@ -357,6 +373,24 @@ const App: React.FC = () => {
                 className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-emerald-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
               />
             </div>
+
+            {isLoggedIn && (
+              <div className="relative group">
+                <div className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-blue-400 transition-colors">
+                  <ExternalLink size={18} />
+                </div>
+                <input
+                  type="password"
+                  placeholder={t.githubTokenPlaceholder}
+                  value={githubToken}
+                  onChange={(e) => {
+                    setGithubToken(e.target.value);
+                    localStorage.setItem(STORAGE_KEYS.GITHUB_TOKEN, e.target.value);
+                  }}
+                  className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-blue-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
+                />
+              </div>
+            )}
             <p className="text-[10px] text-slate-500 text-left px-2">{t.apiKeyNote}</p>
             <button
               onClick={handleApiKeySubmit}
@@ -597,19 +631,13 @@ const App: React.FC = () => {
               </div>
 
               <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
-                {history.length === 0 ? (
-                  <div className="flex flex-col items-center justify-center py-32 text-slate-600 opacity-40 italic text-sm">
-                    <Database size={64} className="mb-6" />
-                    No hay auditorías procesadas aún
-                  </div>
-                ) : (
-                  <HistoryDashboard
-                    history={history}
-                    onImport={handleImportData}
-                    lang={lang}
-                    isLoggedIn={isLoggedIn}
-                  />
-                )}
+                <HistoryDashboard
+                  history={history}
+                  onImport={handleImportData}
+                  lang={lang}
+                  isLoggedIn={isLoggedIn}
+                  githubToken={githubToken}
+                />
               </div>
             </div>
           } />

@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3820",
+  "timestamp": "2026-02-19T16:25:00.834Z",
+  "title": "Orden INT/105/2026, de 12 de febrero, por la que se nombra para el Mando de la 3.ª Zona de la Guardia Civil, Comunidad Autónoma de Extremadura (Badajoz) al General de Brigada don Andrés Manuel Velarde Tazón.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta un nombramiento de alto mando basado en la libre designación ('a propuesta de'), una práctica legal pero que carece de transparencia en cuanto a la exposición de méritos comparativos. Se observa una estructura de poder vertical y masculina, característica de las fuerzas de seguridad, sin mención a criterios de idoneidad técnica específicos para la zona de Extremadura.",
+    "resumen_ciudadano": "El Ministerio del Interior ha designado al General de Brigada Andrés Manuel Velarde Tazón como nuevo jefe de la Guardia Civil en Extremadura (Badajoz). Este es un cargo de confianza política y militar decidido por el Ministro Grande-Marlaska.",
+    "resumen_tweet": "👮‍♂️ Nuevo mando en la Guardia Civil de #Extremadura. El General Velarde Tazón es nombrado por Interior. ¿Méritos? No se detallan en el texto oficial. La jerarquía se mantiene sin procesos de selección abiertos. #BOE #Opacidad #Transparencia 🔍",
+    "banderas_red_flags": [
+      "Nombramiento discrecional",
+      "Ausencia de justificación de méritos específicos",
+      "Opacidad en los criterios de selección de la terna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Andrés Manuel Velarde Tazón",
+        "Ministerio del Interior (consolidación de mandos afines)"
+      ],
+      "perdedores": [
+        "Candidatos bajo criterios de estricta meritocracia pública",
+        "Ciudadanía (por falta de información sobre los objetivos del mando)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramiento de alto rango",
+    "banderas_rojas": [
+      "Nombramiento discrecional",
+      "Ausencia de justificación de méritos específicos",
+      "Opacidad en los criterios de selección de la terna"
+    ]
+  },
+  "tweeted": true
+}

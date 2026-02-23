@@ -1,5 +1,6 @@
 
 import fs from 'fs';
+import { readFile, writeFile, readdir, unlink } from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { GoogleGenAI, Type } from "@google/genai";
@@ -23,6 +24,12 @@ if (fs.existsSync(envPath)) {
 
 // Constants
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
+
+// Ensure the directory exists
+if (!fs.existsSync(AUDITED_REPORTS_DIR)) {
+  fs.mkdirSync(AUDITED_REPORTS_DIR, { recursive: true });
+}
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const SYSTEM_INSTRUCTION = `
 Eres un Agente de Inteligencia Cívica de Élite. Tu misión es desmantelar la opacidad del lenguaje legislativo español.
@@ -203,15 +210,15 @@ async function run() {
     const itemsToProcess = filteredItems.slice(0, limit);
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
-    const files = fs.readdirSync(AUDITED_REPORTS_DIR);
+    const files = await readdir(AUDITED_REPORTS_DIR);
     const auditedMap = new Map(); // boe_id -> { filePath, tweeted }
-    files.forEach(file => {
+    for (const file of files) {
       const match = file.match(/Audit_(BOE-A-\d+-\d+)_/);
       if (match) {
         const boeId = match[1];
         const filePath = path.join(AUDITED_REPORTS_DIR, file);
         try {
-          const content = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+          const content = JSON.parse(await readFile(filePath, 'utf8'));
           // Keep the latest file if there are duplicates
           if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
             auditedMap.set(boeId, {
@@ -223,7 +230,7 @@ async function run() {
           }
         } catch (e) { }
       }
-    });
+    }
 
     const newAudits = [];
     let processedCount = 0;
@@ -243,9 +250,9 @@ async function run() {
           try {
             await sendTweet(tweetText);
             // Update the file to mark as tweeted
-            const content = JSON.parse(fs.readFileSync(existing.filePath, 'utf8'));
+            const content = JSON.parse(await readFile(existing.filePath, 'utf8'));
             content.tweeted = true;
-            fs.writeFileSync(existing.filePath, JSON.stringify(content, null, 2));
+            await writeFile(existing.filePath, JSON.stringify(content, null, 2));
             console.log(`✅ Marked ${item.id} as tweeted.`);
           } catch (tweetErr) {
             console.error(`❌ Error sending tweet for existing audit ${item.id}: ${tweetErr.message}`);
@@ -292,7 +299,7 @@ async function run() {
           report: audit,
           tweeted: tweeted
         };
-        fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
+        await writeFile(filePath, JSON.stringify(auditRecord, null, 2));
         console.log(`💾 Saved to ${fileName}`);
 
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
@@ -307,15 +314,15 @@ async function run() {
       console.log("🔄 Updating index...");
       const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
       let currentIndex = [];
-      indexFiles.forEach(f => {
+      for (const f of indexFiles) {
         try {
-          const contents = fs.readFileSync(path.join(AUDITED_REPORTS_DIR, f), 'utf8');
+          const contents = await readFile(path.join(AUDITED_REPORTS_DIR, f), 'utf8');
           if (contents.trim()) {
             const data = JSON.parse(contents);
             currentIndex = [...currentIndex, ...(Array.isArray(data) ? data : [])];
           }
         } catch (e) { }
-      });
+      }
       const seen = new Set();
       const mergedIndex = [...newAudits, ...currentIndex].filter(item => {
         if (!item.id || seen.has(item.id)) return false;
@@ -324,8 +331,12 @@ async function run() {
       });
       mergedIndex.sort((a, b) => new Date(b.fecha_auditoria).getTime() - new Date(a.fecha_auditoria).getTime());
       const newIndexName = `BOE_Audit_Index_${Date.now()}.json`;
-      fs.writeFileSync(path.join(AUDITED_REPORTS_DIR, newIndexName), JSON.stringify(mergedIndex, null, 2));
-      indexFiles.forEach(f => fs.unlinkSync(path.join(AUDITED_REPORTS_DIR, f)));
+      await writeFile(path.join(AUDITED_REPORTS_DIR, newIndexName), JSON.stringify(mergedIndex, null, 2));
+      for (const f of indexFiles) {
+        try {
+          await unlink(path.join(AUDITED_REPORTS_DIR, f));
+        } catch (e) { }
+      }
       console.log(`✨ Process finished. ${newAudits.length} new audits added.`);
     } else {
       console.log("💤 No new audits needed.");

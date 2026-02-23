@@ -57,23 +57,37 @@ export async function sendTweet(text) {
       // Persist new Tokens
       let currentEnvContent = fs.existsSync(envPath) ? fs.readFileSync(envPath, 'utf8') : '';
 
-      if (newRefreshToken && newRefreshToken !== refreshToken) {
-        if (currentEnvContent.includes('TWITTER_REFRESH_TOKEN=')) {
-          currentEnvContent = currentEnvContent.replace(/TWITTER_REFRESH_TOKEN=.*/, `TWITTER_REFRESH_TOKEN=${newRefreshToken}`);
+      const updateVar = (key, value) => {
+        // Sanitize value to prevent injection (remove newlines)
+        const sanitizedValue = String(value).replace(/[\r\n]/g, '');
+        const line = `${key}=${sanitizedValue}`;
+        const regex = new RegExp(`^${key}=.*`, 'm');
+        if (currentEnvContent.match(regex)) {
+          currentEnvContent = currentEnvContent.replace(regex, () => line);
         } else {
-          currentEnvContent += `\nTWITTER_REFRESH_TOKEN=${newRefreshToken}`;
+          currentEnvContent += (currentEnvContent.length > 0 && !currentEnvContent.endsWith('\n') ? '\n' : '') + line + '\n';
         }
+      };
+
+      if (newRefreshToken && newRefreshToken !== refreshToken) {
+        updateVar('TWITTER_REFRESH_TOKEN', newRefreshToken);
       }
 
       if (newAccessToken) {
-        if (currentEnvContent.includes('TWITTER_ACCESS_TOKEN=')) {
-          currentEnvContent = currentEnvContent.replace(/TWITTER_ACCESS_TOKEN=.*/, `TWITTER_ACCESS_TOKEN=${newAccessToken}`);
-        } else {
-          currentEnvContent += `\nTWITTER_ACCESS_TOKEN=${newAccessToken}`;
-        }
+        updateVar('TWITTER_ACCESS_TOKEN', newAccessToken);
       }
 
-      fs.writeFileSync(envPath, currentEnvContent);
+      // Atomic write with restricted permissions (0600)
+      const tmpPath = envPath + '.tmp';
+      try {
+        fs.writeFileSync(tmpPath, currentEnvContent, { mode: 0o600 });
+        fs.renameSync(tmpPath, envPath);
+      } catch (err) {
+        if (fs.existsSync(tmpPath)) {
+          try { fs.unlinkSync(tmpPath); } catch (e) { /* ignore */ }
+        }
+        throw err;
+      }
       console.log("✅ New Twitter Tokens saved to .env");
     } catch (refreshErr) {
       console.error("❌ Failed to refresh Twitter token:", refreshErr.message);

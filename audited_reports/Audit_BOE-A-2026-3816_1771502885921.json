@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3816",
+  "timestamp": "2026-02-19T12:08:05.921Z",
+  "title": "Real Decreto 123/2026, de 11 de febrero, por el que se nombra Presidente del Tribunal Superior de Justicia de Illes Balears a don Carlos Gómez Martínez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento de alto rango judicial que carece de motivación cualitativa en el texto publicado. La designación se basa en una propuesta del Pleno del CGPJ tras la expiración del mandato anterior, perpetuando el continuismo sin desglosar los méritos frente a otros posibles candidatos o los detalles de la votación interna. Este tipo de actos administrativos reflejan la opacidad procesal en la cúpula del Poder Judicial.",
+    "resumen_ciudadano": "El Gobierno ha oficializado la renovación de Carlos Gómez Martínez como Presidente del Tribunal Superior de Justicia de las Islas Baleares. Es una decisión de continuidad en el máximo órgano judicial de la región tras haber terminado su periodo anterior.",
+    "resumen_tweet": "⚖️ Renovación en la cúpula judicial: Carlos Gómez Martínez repite como Presidente del TSJ Baleares. El #BOE publica el nombramiento sin detallar méritos ni la deliberación del CGPJ. ¿Transparencia o continuismo? 🏛️ #Opacidad #Justicia #Baleares",
+    "banderas_red_flags": [
+      "Falta de justificación de méritos en el extracto",
+      "Ausencia de transparencia en la deliberación del CGPJ",
+      "Continuismo en el cargo sin alternancia explícita"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Gómez Martínez",
+        "Estructura actual del TSJ de Baleares",
+        "Continuismo institucional"
+      ],
+      "perdedores": [
+        "Renovación generacional en la magistratura",
+        "Transparencia en procesos de selección",
+        "Candidatos alternativos no publicados"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Falta de justificación de méritos en el extracto",
+      "Ausencia de transparencia en la deliberación del CGPJ",
+      "Continuismo en el cargo sin alternancia explícita"
+    ]
+  },
+  "tweeted": true
+}

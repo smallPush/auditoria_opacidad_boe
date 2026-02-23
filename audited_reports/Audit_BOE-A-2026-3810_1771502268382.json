@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3810",
+  "timestamp": "2026-02-19T11:57:48.382Z",
+  "title": "Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El RDL 5/2026 utiliza una narrativa de emergencia climática fundamentada en datos científicos para legitimar un giro drástico en la gestión de fondos públicos: el paso de la fiscalización previa al modelo de 'declaración responsable'. Si bien agiliza la ayuda, los anticipos del 100% a entidades locales y del 50% a particulares sin comprobación previa constituyen un riesgo elevado de opacidad. La creación de una Comisión de Evaluación bajo las Delegaciones del Gobierno traslada la decisión de reparto de fondos a un plano técnico-administrativo con amplia discrecionalidad política, eludiendo parcialmente el control parlamentario directo sobre los criterios de exclusión de ciertos municipios.",
+    "resumen_ciudadano": "El Gobierno aprueba ayudas urgentes por inundaciones en Andalucía y Extremadura. Lo más relevante es que se permitirá a ciudadanos y ayuntamientos cobrar parte o la totalidad del dinero antes de que se revisen los papeles, solo firmando que cumplen los requisitos. También se amplían las ayudas a obras de alcantarillado y saneamiento que antes no siempre estaban cubiertas.",
+    "resumen_tweet": "⚠️ Nuevo RDL 5/2026: Ayudas por borrascas en AND y EXT. Se habilitan anticipos del 100% mediante 'declaración responsable' 📝. ¿Agilidad necesaria o cheque en blanco? El cambio climático justifica la urgencia. #BOE #Opacidad #Transparencia #DANA ⛈️",
+    "banderas_red_flags": [
+      "Anticipos del 100% del importe máximo a entidades locales basados únicamente en declaración responsable.",
+      "Discrecionalidad de la 'Comisión de Evaluación' para determinar qué municipios entran o salen del paquete de ayudas.",
+      "Uso del Real Decreto-ley para modificar de forma permanente cuantías de ayudas fuera del procedimiento legislativo ordinario.",
+      "Riesgo de 'gasto fantasma' en reparaciones de infraestructuras hidráulicas bajo el concepto de 'resiliencia natural'."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos de Andalucía y Extremadura (liquidez inmediata)",
+        "Sector de infraestructuras y obras hidráulicas",
+        "Grandes explotaciones agrarias con seguros combinados"
+      ],
+      "perdedores": [
+        "Contribuyentes (por riesgo de fraude derivado de la falta de fiscalización previa)",
+        "Pequeños agricultores sin capacidad de tramitación digital rápida",
+        "Zonas afectadas limítrofes no incluidas en la delimitación de la Comisión"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Extremadura",
+    "tipologia": "Real Decreto-ley de Medidas Urgentes / Emergencia Civil",
+    "banderas_rojas": [
+      "Anticipos del 100% del importe máximo a entidades locales basados únicamente en declaración responsable.",
+      "Discrecionalidad de la 'Comisión de Evaluación' para determinar qué municipios entran o salen del paquete de ayudas.",
+      "Uso del Real Decreto-ley para modificar de forma permanente cuantías de ayudas fuera del procedimiento legislativo ordinario.",
+      "Riesgo de 'gasto fantasma' en reparaciones de infraestructuras hidráulicas bajo el concepto de 'resiliencia natural'."
+    ]
+  },
+  "tweeted": true
+}

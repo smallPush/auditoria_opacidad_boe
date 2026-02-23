@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import { STORAGE_KEYS } from '../constants';
 
 interface CookieConsentProps {
   t: any;
@@ -9,19 +10,19 @@ const CookieConsent: React.FC<CookieConsentProps> = ({ t }) => {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const consent = localStorage.getItem('cookie_consent');
+    const consent = localStorage.getItem(STORAGE_KEYS.COOKIE_CONSENT);
     if (consent === null) {
       setIsVisible(true);
     }
   }, []);
 
   const handleAccept = () => {
-    localStorage.setItem('cookie_consent', 'true');
+    localStorage.setItem(STORAGE_KEYS.COOKIE_CONSENT, 'true');
     setIsVisible(false);
   };
 
   const handleReject = () => {
-    localStorage.setItem('cookie_consent', 'false');
+    localStorage.setItem(STORAGE_KEYS.COOKIE_CONSENT, 'false');
     setIsVisible(false);
   };
 

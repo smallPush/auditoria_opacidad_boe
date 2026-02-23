@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3744",
+  "timestamp": "2026-02-18T09:33:55.597Z",
+  "title": "Real Decreto 134/2026, de 17 de febrero, por el que se dispone el cese de doña Laura Cadenas Lázaro como Secretaria General Técnica.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja un cese discrecional típico de la administración pública española. La opacidad reside en la absoluta falta de motivación o justificación del cese; no se especifica si es por voluntad propia, por deficiencias en la gestión o por un cambio de rumbo político del Ministerio de Cultura. Este tipo de actos administrativos perpetúan el 'sistema de botín' donde los altos cargos técnicos dependen de la voluntad política del ministro de turno.",
+    "resumen_ciudadano": "Se oficializa la salida de Laura Cadenas Lázaro como Secretaria General Técnica del Ministerio de Cultura. Es un movimiento de personal de alto nivel que se realiza sin dar explicaciones públicas sobre los motivos o el coste de la transición.",
+    "resumen_tweet": "🔴 Nuevo cese en el Ministerio de Cultura: Laura Cadenas Lázaro sale de la Secretaría General Técnica. ¿Por qué? El #BOE no lo aclara. La discrecionalidad en altos cargos sigue restando puntos a la #Transparencia institucional. 🏛️🔎 #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de motivación del acto administrativo",
+      "Opacidad en la gestión de recursos humanos de alto nivel",
+      "Posible indemnización por cese no especificada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El Ministro de Cultura (ejerce su poder de libre designación)",
+        "Sistema de discrecionalidad política"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconoce el motivo del cambio)",
+        "Rendición de cuentas sobre el desempeño del cargo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y ceses de altos cargos",
+    "banderas_rojas": [
+      "Ausencia de motivación del acto administrativo",
+      "Opacidad en la gestión de recursos humanos de alto nivel",
+      "Posible indemnización por cese no especificada"
+    ]
+  },
+  "tweeted": true
+}

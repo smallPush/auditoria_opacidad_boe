@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3819",
+  "timestamp": "2026-02-19T12:12:33.624Z",
+  "title": "Orden PJC/104/2026, de 9 de febrero, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno libre, que superó el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento regula la adjudicación de destinos para nuevos funcionarios judiciales, revelando la estructura de movilidad de la Administración de Justicia. Destaca la vulnerabilidad del personal interino (punto quinto), cuyo cese es automático y sin periodo de gracia. Se impone una restricción de movilidad geográfica de dos años (punto séptimo), lo que limita la conciliación de los nuevos funcionarios. La existencia de plazas desiertas (punto octavo) señala deficiencias en el atractivo de ciertos destinos o en la planificación de las ofertas de empleo público.",
+    "resumen_ciudadano": "Asignación definitiva de puestos de trabajo para los aprobados en las oposiciones de Tramitación Procesal. El texto explica los plazos para empezar a trabajar (20 días), cómo pedir excedencias si ya se trabajaba en justicia y el despido inmediato de los trabajadores temporales que ocupaban estas plazas.",
+    "resumen_tweet": "⚖️ Nuevos destinos en Justicia: estabilidad para los que aprueban, pero cese inmediato para los interinos sin preaviso. Además, los nuevos funcionarios quedan 'atrapados' 2 años sin poder pedir traslado. #BOE #Justicia #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Cese fulminante de personal interino",
+      "Bloqueo de movilidad de 2 años para nuevos funcionarios",
+      "Persistencia de plazas desiertas en el sistema",
+      "Adjudicaciones con carácter forzoso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios de carrera (obtienen estabilidad laboral)",
+        "Ministerio de Justicia (reduce temporalidad estructural)"
+      ],
+      "perdedores": [
+        "Personal interino cesado (pierden su puesto sin transición)",
+        "Nuevos funcionarios destinados lejos de su hogar (bloqueo de traslados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multicomunidad",
+    "tipologia": "Nombramientos y Destinos",
+    "banderas_rojas": [
+      "Cese fulminante de personal interino",
+      "Bloqueo de movilidad de 2 años para nuevos funcionarios",
+      "Persistencia de plazas desiertas en el sistema",
+      "Adjudicaciones con carácter forzoso"
+    ]
+  },
+  "tweeted": true
+}
