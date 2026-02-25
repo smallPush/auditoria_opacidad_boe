@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4248",
+  "timestamp": "2026-02-24T09:57:35.545Z",
+  "title": "Resolución 430/38070/2026, de 16 de febrero, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'Libre Designación' para puestos de alta cualificación técnica, como la Jefatura de Unidad de Inteligencia Artificial y Ciberseguridad (Nivel 28). Aunque se listan méritos preferentes, este mecanismo permite la elección discrecional ('a dedo') por parte del responsable político, lo cual es cuestionable para perfiles que gestionan fondos públicos, subvenciones y auditorías técnicas bajo la Ley de Contratos del Sector Público. Se observa una 'barrera de entrada' opaca mediante el requisito de Habilitación Personal de Seguridad (HPS) para el puesto OTAN, un proceso que no depende del mérito del candidato sino de una investigación de los servicios de inteligencia.",
+    "resumen_ciudadano": "El Ministerio de Defensa busca cubrir tres puestos clave, incluyendo un experto en Inteligencia Artificial y un técnico para comunicaciones de la OTAN, pero lo hará mediante elección directa en lugar de un concurso de méritos tradicional. Los sueldos incluyen complementos específicos de hasta 17.000 euros anuales. Al ser 'libre designación', el proceso carece de las garantías de objetividad de una oposición pública, permitiendo que el Ministerio elija a quien considere oportuno basándose en su 'confianza' personal.",
+    "resumen_tweet": "🕵️‍♂️ El @Defensagob convoca puestos en IA, Ciberseguridad y OTAN mediante 'Libre Designación'. ¿Dedazo o necesidad técnica? Sueldos altos y criterios que esquivan la competencia abierta. ¡Ojo a la gestión de fondos de IA! 🤖🛡️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos técnicos de alto nivel",
+      "Alta discrecionalidad en la selección del Jefe de Unidad de IA",
+      "Requisitos de habilitación de seguridad (HPS) como filtro de exclusión",
+      "Gestión de subvenciones y contratos bajo supervisión de un cargo de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal con habilitación de seguridad previa",
+        "Candidatos con vínculos de confianza con la actual Subsecretaría de Defensa",
+        "Expertos en IA que prefieran la vía discrecional al examen público"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran a la promoción por mérito y capacidad",
+        "Transparencia en la gestión de fondos de I+D estratégicos",
+        "Igualdad de oportunidades en el acceso a puestos de nivel 28"
+      ]
+    },
+    "comunidad_autonoma": "Madrid e Illes Balears",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos técnicos de alto nivel",
+      "Alta discrecionalidad en la selección del Jefe de Unidad de IA",
+      "Requisitos de habilitación de seguridad (HPS) como filtro de exclusión",
+      "Gestión de subvenciones y contratos bajo supervisión de un cargo de confianza"
+    ]
+  },
+  "tweeted": false
+}

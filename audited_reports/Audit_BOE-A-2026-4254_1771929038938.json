@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4254",
+  "timestamp": "2026-02-24T10:30:38.938Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Presidencia del Tribunal de Cuentas, por la que se aprueba la relación provisional de personas admitidas y excluidas en las pruebas selectivas, por el sistema de concurso-oposición, para la provisión de plazas de personal laboral fijo, por promoción interna, en la categoría profesional de Oficial de Gestión y Servicios Comunes, convocadas por Resolución de 16 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento regula un proceso de promoción interna para personal laboral fijo en el Tribunal de Cuentas, el máximo órgano fiscalizador del Estado. Aunque cumple con la legalidad, el uso del sistema de concurso-oposición para promoción interna refuerza estructuras burocráticas cerradas, limitando la entrada de nuevas metodologías externas. Llama la atención que no existan excluidos en la lista provisional, lo que sugiere un proceso altamente predecible o con escasa concurrencia competitiva fuera de los perfiles ya preseleccionados de facto.",
+    "resumen_ciudadano": "Se aprueba la lista provisional de trabajadores del Tribunal de Cuentas que aspiran a ascender a Oficial de Gestión y Servicios Comunes. No se ha rechazado a nadie por ahora. El examen será el 16 de abril de 2026 en la calle Fuencarral de Madrid.",
+    "resumen_tweet": "⚖️ El @TribunalCuentas impulsa su promoción interna. Sin excluidos en la lista provisional para Oficiales de Gestión. ¿Refuerzo de la estructura interna o falta de competencia real? Examen el 16 de abril. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cero excluidos en fase provisional",
+      "Acceso al listado limitado a sede electrónica (no visible directamente en BOE)",
+      "Promoción restringida a personal ya vinculado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral fijo del Tribunal de Cuentas",
+        "Sindicatos internos"
+      ],
+      "perdedores": [
+        "Candidatos externos al sector público",
+        "Ciudadanos que esperan renovación en los órganos de control"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Promoción Interna",
+    "banderas_rojas": [
+      "Cero excluidos en fase provisional",
+      "Acceso al listado limitado a sede electrónica (no visible directamente en BOE)",
+      "Promoción restringida a personal ya vinculado"
+    ]
+  },
+  "tweeted": false
+}

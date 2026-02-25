@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4240",
+  "timestamp": "2026-02-24T09:44:51.222Z",
+  "title": "Resolución de 18 de febrero de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La adjudicación de un puesto de Director General de Contabilidad y Presupuestos mediante el sistema de 'libre designación' en un municipio de gran población como Móstoles es una práctica legal pero éticamente cuestionable. Este sistema permite la elección discrecional del candidato, lo que en puestos de fiscalización económica y presupuestaria debilita la independencia técnica frente al poder político. Se observa una incongruencia entre la retórica de transparencia y el uso de mecanismos que favorecen la 'confianza' sobre el mérito competitivo puro.",
+    "resumen_ciudadano": "Se ha nombrado a la nueva responsable de las cuentas y presupuestos del Ayuntamiento de Móstoles. El problema es que se ha utilizado el método de 'libre designación', es decir, un nombramiento a dedo entre funcionarios, en lugar de un concurso de méritos abierto que garantice que la persona que vigila el dinero público sea la más preparada y no la más cercana al gobierno de turno.",
+    "resumen_tweet": "🚩 ¿Quién vigila el dinero en Móstoles? Adjudicada la Dirección de Contabilidad por 'libre designación'. Un puesto clave para el control presupuestario elegido a dedo. ¿Mérito o confianza política? 📉 #BOE #Opacidad #Transparencia #Móstoles",
+    "banderas_red_flags": [
+      "Sistema de libre designación para control financiero",
+      "Riesgo de politización de la fiscalización presupuestaria",
+      "Falta de publicación de baremos comparativos entre candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura de la Torre Montoro (adjudicataria)",
+        "Equipo de gobierno de Móstoles (control político de las cuentas)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor mérito técnico no seleccionados",
+        "Ciudadanía de Móstoles (posible merma en la neutralidad del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal con Habilitación Nacional",
+    "banderas_rojas": [
+      "Sistema de libre designación para control financiero",
+      "Riesgo de politización de la fiscalización presupuestaria",
+      "Falta de publicación de baremos comparativos entre candidatos"
+    ]
+  },
+  "tweeted": false
+}

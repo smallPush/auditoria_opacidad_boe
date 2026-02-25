@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-4250",
+  "timestamp": "2026-02-24T10:04:55.468Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria de 'concurso específico' para puestos de élite (Subgrupo A1) en la Inspección de Servicios de la AEAT. Aunque cumple con la legalidad formal, el diseño del baremo sugiere una técnica de 'consolidación encubierta' para personal que ya ocupa estos puestos de forma provisional. La exigencia de un diploma específico de la Escuela de la Hacienda Pública de los años 89/93 actúa como una barrera de entrada generacional y técnica, limitando drásticamente el pool de candidatos posibles. La Fase Segunda del concurso otorga un peso determinante (8 puntos sobre 20) a méritos altamente específicos y discrecionales, como la 'representación en foros internacionales' o 'conocimientos en ciberseguridad', lo que permite teledirigir las plazas hacia perfiles muy concretos ya identificados por la organización.",
+    "resumen_ciudadano": "La Agencia Tributaria convoca 4 plazas de Inspectores de Servicios Coordinadores. Son puestos de alto nivel con gran poder de supervisión interna. El proceso se divide en dos fases: una de méritos generales y otra de méritos específicos donde se valora la experiencia previa en tareas muy particulares que solo unos pocos funcionarios dentro de la propia casa suelen desempeñar. Se obliga a participar a quienes ya están ocupando estas plazas de forma provisional.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: La @AgenciaTributaria convoca 4 plazas de Inspector de Servicios. ¿Oportunidad o 'traje a medida'? El baremo premia experiencias tan específicas que parecen diseñadas para los que ya ocupan la silla. 🕵️‍♂️ #Transparencia #Opacidad #Hacienda",
+    "banderas_red_flags": [
+      "Uso de 'concurso específico' en lugar de concurso ordinario para limitar concurrencia",
+      "Exigencia de diploma histórico de la Escuela de Hacienda como filtro excluyente",
+      "Puntuación por 'adscripción provisional' obligatoria (indica puestos ya ocupados)",
+      "Fase segunda con 40% de la nota basado en méritos hiper-específicos",
+      "Posibilidad de declarar desierto el puesto si hay reestructuración (cláusula de escape)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inspectores de Hacienda del Estado (A1) que ya ocupan plazas de forma provisional",
+        "Funcionarios con redes de contactos en foros internacionales de fiscalidad",
+        "Personal veterano con diplomas de la Escuela de Hacienda de principios de los 90"
+      ],
+      "perdedores": [
+        "Nuevas promociones de funcionarios A1 sin acceso a formación histórica específica",
+        "Candidatos externos al círculo de confianza del Ministerio de Hacienda",
+        "Ciudadanía (por el riesgo de endogamia en los órganos de control interno de la AEAT)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Uso de 'concurso específico' en lugar de concurso ordinario para limitar concurrencia",
+      "Exigencia de diploma histórico de la Escuela de Hacienda como filtro excluyente",
+      "Puntuación por 'adscripción provisional' obligatoria (indica puestos ya ocupados)",
+      "Fase segunda con 40% de la nota basado en méritos hiper-específicos",
+      "Posibilidad de declarar desierto el puesto si hay reestructuración (cláusula de escape)"
+    ]
+  },
+  "tweeted": false
+}

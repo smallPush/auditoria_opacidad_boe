@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4242",
+  "timestamp": "2026-02-24T09:47:24.721Z",
+  "title": "Orden de 22 de enero de 2026, del Departamento de Gobernanza, Administración Digital y Autogobierno, por la que se nombra personal funcionario de carrera de la Escala de funcionarios de administración local con habilitación de carácter nacional, subescalas de Secretaría, Intervención-Tesorería y Secretaría-Intervención, y se asigna primer destino, en el marco de los procesos de estabilización en el ámbito de la Comunidad Autónoma de Euskadi.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden detalla el proceso de estabilización para funcionarios de administración local con habilitación nacional en el País Vasco. Aunque el proceso busca reducir la temporalidad, se observa una fuerte barrera de entrada mediante el requisito del Perfil Lingüístico 4 (PL4) en la gran mayoría de las plazas, lo que limita de facto el acceso a aspirantes de otras regiones de España o a ciudadanos vascos no bilingües de nivel alto. El sistema de 'concurso' predomina sobre el de 'concurso-oposición', favoreciendo la consolidación de quienes ya ocupaban los puestos de forma interina. Además, es reseñable el incumplimiento del objetivo de inserción para personas con discapacidad, al no alcanzar ni el 3% de las plazas, posponiendo esta obligación legal para futuras convocatorias.",
+    "resumen_ciudadano": "El Gobierno Vasco ha nombrado a nuevos funcionarios de carrera (Secretarios e Interventores) para diversos ayuntamientos. Estas plazas se han otorgado principalmente por méritos acumulados (concurso) y exigen, en casi todos los casos, el nivel más alto de euskera. Se destaca que no se han cubierto las plazas reservadas para personas con discapacidad por falta de candidatos o idoneidad, por lo que esos puestos se guardan para el futuro.",
+    "resumen_tweet": "⚖️ El #BOE publica nuevos nombramientos en Euskadi: Secretarios e Interventores. Puntos clave: 1️⃣ Barrera lingüística extrema (PL4 casi total). 2️⃣ El cupo de discapacidad no llega al 3%. 3️⃣ Consolidación de interinos vía concurso. #Transparencia #Euskadi",
+    "banderas_red_flags": [
+      "Incumplimiento de la tasa mínima del 3% para personas con discapacidad",
+      "Predominio del sistema de concurso (méritos) sobre oposición, lo que puede encubrir una selección 'ad hoc'",
+      "Exigencia generalizada del Perfil Lingüístico 4 (C2) como barrera de movilidad nacional",
+      "Desistimiento de aspirantes tras superar el proceso, indicando posibles fricciones en las plazas asignadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos actuales con perfiles lingüísticos altos (PL4)",
+        "Ayuntamientos de Guipúzcoa (gran cantidad de plazas asignadas)",
+        "Administración autonómica vasca al consolidar personal propio"
+      ],
+      "perdedores": [
+        "Personas con discapacidad (cuotas no cubiertas)",
+        "Habilitados nacionales de otras CCAA (barrera del euskera)",
+        "Aspirantes noveles sin méritos previos por antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de Personal y Estabilización de Empleo Público",
+    "banderas_rojas": [
+      "Incumplimiento de la tasa mínima del 3% para personas con discapacidad",
+      "Predominio del sistema de concurso (méritos) sobre oposición, lo que puede encubrir una selección 'ad hoc'",
+      "Exigencia generalizada del Perfil Lingüístico 4 (C2) como barrera de movilidad nacional",
+      "Desistimiento de aspirantes tras superar el proceso, indicando posibles fricciones en las plazas asignadas"
+    ]
+  },
+  "tweeted": false
+}

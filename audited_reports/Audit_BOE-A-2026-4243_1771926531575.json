@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4243",
+  "timestamp": "2026-02-24T09:48:51.575Z",
+  "title": "Resolución de 12 de febrero de 2026, de la Universidad de Málaga, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Resolución estándar de nombramiento de funcionarios docentes de carrera. Se observa la habitual opacidad administrativa al referirse a la retribución económica mediante la fórmula 'emolumentos que le corresponden según las disposiciones vigentes', evitando consignar el coste bruto anual para el erario público en el propio texto legislativo. La selección se basa en la Ley Orgánica 2/2023 (LOSU), que busca estabilizar plantillas pero mantiene el hermetismo sobre el impacto presupuestario individualizado por plaza.",
+    "resumen_ciudadano": "La Universidad de Málaga formaliza la plaza de tres nuevos Profesores Titulares en las áreas de Derecho Penal, Economía Aplicada y Psicología Social. Estos nombramientos otorgan carácter permanente a los docentes tras el proceso selectivo iniciado en septiembre de 2025.",
+    "resumen_tweet": "🎓 Tres nuevos profesores titulares en la @InfoUMA. El #BOE publica los nombres pero esconde el coste exacto tras la frase 'emolumentos vigentes'. ¿Transparencia real o burocracia opaca? 🧐📉 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Externalización de datos salariales",
+      "Falta de memoria económica en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marta Fernández Cabrera",
+        "Samuel Medina Claros",
+        "Carlos Herruzo Pino",
+        "Universidad de Málaga (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Ciudadanía (desconocimiento del coste salarial directo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Externalización de datos salariales",
+      "Falta de memoria económica en la resolución"
+    ]
+  },
+  "tweeted": false
+}

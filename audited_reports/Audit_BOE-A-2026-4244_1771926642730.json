@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-4244",
+  "timestamp": "2026-02-24T09:50:42.730Z",
+  "title": "Resolución de 12 de febrero de 2026, de la Universidad de La Laguna, por la que se nombra Profesor Titular de Universidad a don Cristian David Modroño Pascual.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de un funcionario de carrera. Cumple con la normativa legal (LOSU y Estatutos de la ULL). No obstante, este tipo de publicaciones son el eslabon final de procesos que suelen ser criticados por su falta de apertura externa (endogamia universitaria). No se especifican las partidas presupuestarias exactas que cubriran este salario vitalicio, considerandose un gasto estructural consolidado sin desglose de impacto economico a largo plazo.",
+    "resumen_ciudadano": "La Universidad de La Laguna nombra oficialmente a un nuevo Profesor Titular en el area de Fisiologia tras un concurso de acceso. Es un tramite habitual para formalizar la condicion de funcionario del docente.",
+    "resumen_tweet": "🏛️ Nuevo profesor titular en la Universidad de La Laguna. Cristian David Modroño Pascual accede a la plaza de Fisiologia. Proceso administrativo estandar que consolida gasto publico estructural. ¿Transparencia en la seleccion? 🤔 #BOE #Canarias #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en los meritos comparativos de la seleccion previa",
+      "Gasto publico estructural no cuantificado en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cristian David Modroño Pascual",
+        "Universidad de La Laguna (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada a la funcion publica)",
+        "Contribuyentes (gasto recurrente sin evaluacion de desempeño publicada)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en los meritos comparativos de la seleccion previa",
+      "Gasto publico estructural no cuantificado en el extracto"
+    ]
+  },
+  "tweeted": false
+}

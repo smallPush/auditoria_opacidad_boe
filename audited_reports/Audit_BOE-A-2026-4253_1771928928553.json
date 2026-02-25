@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4253",
+  "timestamp": "2026-02-24T10:28:48.553Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en la Agencia Española de Medicamentos y Productos Sanitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La convocatoria para la AEMPS, aunque técnicamente detallada, revela un sistema de puntuación que favorece el inmovilismo institucional. Al otorgar 25 puntos a la antigüedad y otros 10 al grado personal consolidado, se blinda el acceso frente al talento joven o externo. Especialmente opaco es el requisito de los cursos de formación: solo puntúan los incluidos en una lista específica de la propia Agencia, lo que genera una ventaja competitiva insalvable para quienes ya están dentro del organismo, dificultando la movilidad interministerial efectiva.",
+    "resumen_ciudadano": "La Agencia Española de Medicamentos convoca 10 plazas de trabajo. El proceso beneficia principalmente a quienes llevan más años en la administración y a quienes ya han realizado cursos específicos dentro de la propia agencia. Incluye cláusulas de conciliación familiar, pero estas tienen letra pequeña que excluye a quienes ya ocupan puestos provisionales en el municipio solicitado.",
+    "resumen_tweet": "🔍 Auditada convocatoria en la @AEMPS_es. ¿Mérito o inercia? 📜 La antigüedad y el grado personal pesan el 35% del total. Los cursos puntuables están limitados a una lista interna, dificultando el acceso externo. #BOE #Transparencia #Opacidad 🇪🇸",
+    "banderas_red_flags": [
+      "Endogamia formativa: cursos limitados a lista interna de la AEMPS",
+      "Peso excesivo de la antigüedad (25%) sobre la formación específica",
+      "Restricciones en conciliación para personal en adscripción provisional",
+      "Exigencia de certificado electrónico exclusivo 'Portal Funciona' limitando acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con larga trayectoria (seniority)",
+        "Personal ya vinculado a la AEMPS con acceso a formación interna",
+        "Cónyuges de otros funcionarios de carrera con destino previo"
+      ],
+      "perdedores": [
+        "Funcionarios de nuevo ingreso (talento joven)",
+        "Personal de otras administraciones sin acceso a cursos AEMPS",
+        "Candidatos con experiencia técnica superior pero menos años de servicio"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Provisión de puestos de trabajo / Función Pública",
+    "banderas_rojas": [
+      "Endogamia formativa: cursos limitados a lista interna de la AEMPS",
+      "Peso excesivo de la antigüedad (25%) sobre la formación específica",
+      "Restricciones en conciliación para personal en adscripción provisional",
+      "Exigencia de certificado electrónico exclusivo 'Portal Funciona' limitando acceso"
+    ]
+  },
+  "tweeted": false
+}
