@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3084",
+  "timestamp": "2026-02-11T10:42:49.308Z",
+  "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto-ley 4/2026 utiliza el reciente accidente ferroviario en Adamuz como catalizador para intervenir el mercado de precios en situaciones de emergencia. Aunque se presenta bajo una retórica de protección al consumidor vulnerable, la norma introduce una ambigüedad peligrosa: permite incrementos de precio si existe un 'aumento acreditable de los costes' por parte del operador. Esta cláusula de escape es un agujero negro de transparencia, ya que los consumidores difícilmente pueden auditar las estructuras de costes internas de grandes operadores de transporte o logística en medio de una crisis. Además, la subordinación de la medida en transportes a la autorización de la Comisión Europea genera una incertidumbre jurídica inmediata.",
+    "resumen_ciudadano": "A partir de ahora, si hay una catástrofe o emergencia (como una DANA o un corte de trenes), las empresas no pueden subir los precios de forma abusiva. El tope será el precio máximo de los últimos 30 días. Si los precios suelen cambiar por la temporada, se usará el precio del año pasado ajustado al IPC. Sin embargo, las empresas pueden saltarse este límite si demuestran que sus costes han subido, algo difícil de verificar para el ciudadano de a pie.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Tras el caos de Adamuz, el Gobierno prohíbe subir precios en emergencias. ¿El truco? Las empresas podrán alegar 'aumento de costes' para esquivar el límite. ¿Protección real o puerta trasera? 🧐📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de escape por 'aumento acreditable de costes' (difícil de auditar)",
+      "Dependencia de la aprobación de la Comisión Europea para el sector transporte",
+      "Uso de un evento puntual (accidente Adamuz) para legislar de urgencia de forma permanente",
+      "Vigencia vinculada a 'Acuerdos de Consejo de Ministros' discrecionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Usuarios de transporte público y esencial en zonas de catástrofe",
+        "Clases trabajadoras sin flexibilidad de movimientos en crisis",
+        "Gobierno (refuerza su imagen de intervención social ante crisis de infraestructuras)"
+      ],
+      "perdedores": [
+        "Operadores de transporte privado (aerolíneas, VTC) con algoritmos de precios dinámicos",
+        "Empresas de servicios básicos que operan con márgenes ajustados en logística de emergencia",
+        "Autónomos del transporte que asuman costes logísticos imprevistos sin poder repercutirlos fácilmente"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con mención específica a Andalucía por el accidente de Adamuz)",
+    "tipologia": "Control de Precios y Protección al Consumidor",
+    "banderas_rojas": [
+      "Cláusula de escape por 'aumento acreditable de costes' (difícil de auditar)",
+      "Dependencia de la aprobación de la Comisión Europea para el sector transporte",
+      "Uso de un evento puntual (accidente Adamuz) para legislar de urgencia de forma permanente",
+      "Vigencia vinculada a 'Acuerdos de Consejo de Ministros' discrecionales"
+    ]
+  }
+}

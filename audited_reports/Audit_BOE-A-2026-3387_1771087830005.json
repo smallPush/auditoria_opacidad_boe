@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3387",
+  "timestamp": "2026-02-14T16:50:30.005Z",
+  "title": "Acuerdo de 11 de noviembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Manuel Rodríguez Gómez.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es un acto administrativo rutinario de gestion de personal del CGPJ. Utiliza un lenguaje arcaico formalista ('Vengo en declarar') que perpetua la distancia entre la institucion y el ciudadano. Aunque cumple con la legalidad, omite cualquier referencia al coste economico que suponen los 'derechos pasivos' (pensiones de alta escala) para las arcas publicas, manteniendo la opacidad sobre el impacto presupuestario real de las jubilaciones de la elite judicial.",
+    "resumen_ciudadano": "Se oficializa la jubilacion forzosa por cumplimiento de edad del Magistrado Manuel Rodriguez Gomez, quien ejercia en la Sala de lo Social del Tribunal Superior de Justicia de Murcia, efectiva a partir del 15 de febrero de 2026.",
+    "resumen_tweet": "⚖️ El CGPJ jubila de forma forzosa a un Magistrado en Murcia. Procedimiento estandar bajo lenguaje arcaico. Se reconocen 'derechos pasivos' (pension) sin detalle de su impacto en el erario publico. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de lenguaje administrativo arcaico",
+      "Opacidad en la cuantificacion de derechos pasivos",
+      "Falta de informacion sobre el proceso de sucesion en la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Rodriguez Gomez (acceso a pension de jubilacion de alto rango)",
+        "Candidatos a la vacante en la Sala de lo Social del TSJ de Murcia"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de transparencia en el calculo de pensiones publicas de elite)",
+        "Ciudadanos (distanciamiento por lenguaje tecnico-juridico)"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Gestion de Personal Judicial",
+    "banderas_rojas": [
+      "Uso de lenguaje administrativo arcaico",
+      "Opacidad en la cuantificacion de derechos pasivos",
+      "Falta de informacion sobre el proceso de sucesion en la plaza"
+    ]
+  },
+  "tweeted": true
+}

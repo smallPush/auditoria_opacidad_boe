@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3099",
+  "timestamp": "2026-02-11T12:58:21.987Z",
+  "title": "Decreto de 27 de enero de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegado de la especialidad de lo Social de la Fiscalía Provincial de León a don Francisco Javier Rodríguez Balsera.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El proceso de nombramiento cumple con el formalismo administrativo del RD 305/2022, pero presenta una señal de alerta civica: la existencia de un unico aspirante para la plaza. Aunque se mencionan criterios como 'sensibilidad' y 'meritos', estos resultan subjetivos al no desglosarse los indicadores especificos de evaluacion. Se observa un relevo de genero (de mujer a hombre) en una posicion de mando intermedio en la judicatura, lo que ralentiza la paridad en los altos cargos fiscales provinciales.",
+    "resumen_ciudadano": "Se ha designado a Francisco Javier Rodriguez Balsera como Fiscal Delegado de lo Social en Leon. El proceso fue legalmente correcto pero carente de competencia real, ya que el Sr. Rodriguez fue el unico interesado en el puesto tras la jubilacion de la anterior titular.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la Fiscalia de Leon: Francisco Javier Rodriguez Balsera asume la especialidad de lo Social. ¿El detalle? Fue el UNICO aspirante al cargo. Transparencia legal, pero nula competencia por el puesto. #BOE #Opacidad #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de pluralidad de candidatos",
+      "Uso de terminos subjetivos como 'sensibilidad'",
+      "Falta de desglose de meritos especificos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Rodriguez Balsera",
+        "Continuidad institucional del Ministerio Fiscal"
+      ],
+      "perdedores": [
+        "Competitividad en la carrera fiscal",
+        "Representacion femenina en cargos delegados (sustitucion de una mujer)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de pluralidad de candidatos",
+      "Uso de terminos subjetivos como 'sensibilidad'",
+      "Falta de desglose de meritos especificos en el texto"
+    ]
+  }
+}

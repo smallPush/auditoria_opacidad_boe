@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4382",
+  "timestamp": "2026-02-26T07:55:08.383Z",
+  "title": "Orden ISM/128/2026, de 17 de febrero, por la que se resuelve la convocatoria de libre designación, efectuada por Orden ISM/36/2026, de 23 de enero.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por el procedimiento de 'libre designación', una fórmula legal que permite la elección discrecional de altos cargos. Aunque el candidato pertenece al cuerpo técnico adecuado (Escala de Médicos Inspectores), el uso de este mecanismo en un nivel 30 (el máximo en la carrera administrativa) reduce la meritocracia objetiva en favor de la confianza política. No se exponen los méritos específicos que decantaron la balanza sobre otros posibles candidatos.",
+    "resumen_ciudadano": "Se ha asignado a María Pilar Tabernero Castro como nueva Subdirectora General de Coordinación de Unidades Médicas en el INSS. Este puesto es de libre designación, lo que significa que ha sido elegida directamente por la dirección del Ministerio en lugar de por un concurso de méritos abierto y puramente competitivo. El cargo implica alcanzar el Nivel 30, el grado más alto de la administración pública.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Inclusión. María Pilar Tabernero asciende a Subdirectora General (Nivel 30) mediante libre designación. ¿Mérito o confianza política en la gestión médica? #BOE #Opacidad #Transparencia 👁️⚖️",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nombramiento en el nivel máximo administrativo (Nivel 30)",
+      "Ausencia de justificación de méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Pilar Tabernero Castro (ascenso de nivel 28 a 30)",
+        "Ministerio de Inclusión (asegura personal de confianza en puestos clave)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos superiores sin afinidad política",
+        "Ciudadanía (opacidad en la selección de gestores de fondos de Seguridad Social)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento Directivo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nombramiento en el nivel máximo administrativo (Nivel 30)",
+      "Ausencia de justificación de méritos comparativos"
+    ]
+  },
+  "tweeted": true
+}

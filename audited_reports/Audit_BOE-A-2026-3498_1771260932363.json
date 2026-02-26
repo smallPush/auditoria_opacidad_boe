@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3498",
+  "timestamp": "2026-02-16T16:55:32.363Z",
+  "title": "Resolución de 26 de enero de 2026, de la Universidad de A Coruña, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionarias de carrera en la Universidad de A Coruña. Aunque el texto cumple con la legalidad formal (LOSU 2/2023), la opacidad reside en el proceso previo: no se mencionan los criterios de selección ni el número de aspirantes descartados. Se utiliza la delegación de firma (P.D.), una práctica común que diluye la responsabilidad directa del Rector. Las áreas afectadas, Economía e Ingeniería Naval, son pilares del desarrollo regional gallego, lo que justifica la inversión, aunque el BOE omite el impacto presupuestario de estas plazas de por vida.",
+    "resumen_ciudadano": "La Universidad de A Coruña ha nombrado oficialmente a dos nuevas profesoras titulares: una en el área de Economía y otra en Ingeniería Naval e Industrial. Estas profesionales han superado el proceso de oposición y ahora tienen un plazo de 20 días para tomar posesión de sus cargos como funcionarias.",
+    "resumen_tweet": "🎓 Nuevas profesoras titulares en la Univ. de A Coruña. María José Pereira (Economía) y Ana Álvarez (Naval) se incorporan como funcionarias. ⚓️📈 Avance en representación femenina en áreas estratégicas de Galicia. #BOE #Opacidad #Transparencia #Universidades",
+    "banderas_red_flags": [
+      "Falta de desglose del coste salarial total de las plazas",
+      "Uso de delegación de firma (P.D.) para evitar responsabilidad directa",
+      "Ausencia de información sobre el número de candidatos que compitieron por la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María José Pereira Sáez (Estabilidad laboral/Funcionariado)",
+        "Ana Álvarez García (Estabilidad laboral/Funcionariado)",
+        "Universidad de A Coruña (Consolidación de plantilla)",
+        "Representación femenina en STEM"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso de acceso",
+        "Sector privado (fuga de talento hacia la seguridad del sector público)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de desglose del coste salarial total de las plazas",
+      "Uso de delegación de firma (P.D.) para evitar responsabilidad directa",
+      "Ausencia de información sobre el número de candidatos que compitieron por la plaza"
+    ]
+  },
+  "tweeted": false
+}

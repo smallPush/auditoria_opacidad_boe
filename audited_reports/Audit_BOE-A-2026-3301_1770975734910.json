@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-3301",
+  "timestamp": "2026-02-13T09:42:14.910Z",
+  "title": "Resolución de 4 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla una adjudicación de puesto mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente discrecional que permite a los altos cargos elegir a su personal de apoyo basándose en criterios de 'confianza' y no estrictamente en méritos competitivos (concurso). Aunque se cita el cumplimiento de la normativa, la 'valoración de idoneidad' realizada por el Centro Directivo es un proceso subjetivo que carece de desglose público de puntuaciones, lo que perpetúa la opacidad en la provisión de puestos públicos.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha nombrado a una nueva Ayudante de Secretaría para la Subsecretaría mediante libre designación (elección directa). Este método, aunque común para puestos de confianza, evita el sistema de concurso abierto donde los funcionarios compiten exclusivamente por sus méritos y antigüedad.",
+    "resumen_tweet": "🚩 Nueva adjudicación 'a dedo' en el Ministerio de Sanidad. Se resuelve por libre designación un puesto de Ayudante de Secretaría. ¿Mérito o confianza personal? La opacidad del sistema de elección discrecional bajo la lupa. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (Adjudicación discrecional)",
+      "Subjetividad en la valoración de idoneidad",
+      "Falta de transparencia en la comparativa de candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La candidata seleccionada",
+        "La Subsecretaría de Sanidad (al consolidar su equipo de confianza personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que optan a plazas por mérito y capacidad",
+        "Ciudadanía (por la opacidad en la gestión de recursos humanos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal / Recursos Humanos",
+    "banderas_rojas": [
+      "Libre designación (Adjudicación discrecional)",
+      "Subjetividad en la valoración de idoneidad",
+      "Falta de transparencia en la comparativa de candidatos"
+    ]
+  }
+}

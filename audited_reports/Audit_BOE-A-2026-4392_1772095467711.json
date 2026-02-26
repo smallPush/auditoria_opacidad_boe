@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4392",
+  "timestamp": "2026-02-26T08:44:27.711Z",
+  "title": "Resolución de 23 de febrero de 2026, de la Subsecretaría, por la que se aprueba la relación de personas admitidas y excluidas, se anuncia fecha, hora y lugar de celebración del primer ejercicio y se corrigen errores en la designación del Tribunal calificador del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Superior de Interventores y Auditores del Estado, convocado por Resolución de 23 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque el procedimiento sigue los cauces legales, se detecta una falta de eficiencia administrativa al tener que corregir por error la identidad de un miembro del Tribunal Calificador, un descuido irónico tratándose del Cuerpo de Interventores y Auditores. Asimismo, el punto sexto autoriza la actuación simultánea de los tribunales titular y suplente; esto supone un incremento del gasto público en concepto de dietas y asistencias que rara vez se justifica por volumen de opositores en estos cuerpos de élite.",
+    "resumen_ciudadano": "Hacienda publica la lista de admitidos para las oposiciones a Interventores y Auditores del Estado. Llama la atención que no hay ni una sola persona excluida en esta fase. El examen se celebrará en Madrid en marzo de 2026, lo que obliga a los opositores de otras provincias a costearse el viaje y estancia.",
+    "resumen_tweet": "📝 Publicada la lista para Interventores del Estado. ¡Cero excluidos! 🧐 El examen será solo en Madrid, manteniendo barreras para opositores de provincias. Ojo: tribunal titular y suplente actuarán a la vez (más dietas). 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralismo geográfico: Examen único en Madrid",
+      "Gasto público adicional: Autorización de actuación simultánea de tribunal titular y suplente",
+      "Falta de rigor inicial: Error en la designación nominal del tribunal calificador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores residentes en Madrid (ahorro de costes)",
+        "Miembros del tribunal (percibirán dietas por actuación simultánea)"
+      ],
+      "perdedores": [
+        "Opositores de fuera de Madrid (barrera socioeconómica por desplazamiento)",
+        "El erario público (por la falta de optimización del gasto en el tribunal)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Centralismo geográfico: Examen único en Madrid",
+      "Gasto público adicional: Autorización de actuación simultánea de tribunal titular y suplente",
+      "Falta de rigor inicial: Error en la designación nominal del tribunal calificador"
+    ]
+  },
+  "tweeted": true
+}

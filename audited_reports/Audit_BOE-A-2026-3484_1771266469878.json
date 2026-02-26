@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3484",
+  "timestamp": "2026-02-16T18:27:49.878Z",
+  "title": "Resolución de 5 de febrero de 2026, conjunta de las Presidencias del Congreso de los Diputados y del Senado, por la que se nombra personal funcionario del Cuerpo de Archiveros-Bibliotecarios de las Cortes Generales, a las personas que han superado la oposición, convocada por Resolución de 14 de mayo de 2024.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario de élite para las Cortes Generales. Aunque el proceso cumple con la normativa de publicidad de nombres y orden de puntuación, resalta la excesiva dilatación temporal: 21 meses transcurridos desde la convocatoria (mayo 2024) hasta el nombramiento (febrero 2026). Existe una ligera descompensación de género en los resultados finales (62.5% hombres vs 37.5% mujeres) en un cuerpo técnico que gestiona la memoria legislativa del Estado.",
+    "resumen_ciudadano": "El Estado formaliza la contratación de 8 nuevos Archiveros-Bibliotecarios para el Congreso y el Senado. Estos funcionarios han superado una oposición y ahora ocuparán puestos vitalicios encargados de custodiar y organizar los documentos de las leyes españolas.",
+    "resumen_tweet": "🏛️ 8 nuevos archiveros para las Cortes tras 21 meses de espera. Nombres públicos pero proceso excesivamente lento. El control de la memoria legislativa queda en manos de una promoción con mayoría masculina (62%). #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva entre convocatoria y resolución (casi 2 años)",
+      "Falta de referencia al impacto presupuestario de estos nuevos salarios públicos",
+      "Ausencia de paridad de género en la resolución final de la oposición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 8 opositores seleccionados (acceso a empleo público vitalicio de élite)",
+        "Estructura administrativa de las Cortes Generales"
+      ],
+      "perdedores": [
+        "Opositores no seleccionados tras años de estudio",
+        "Ciudadanía (coste de oportunidad por la lentitud en la renovación de personal técnico)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva entre convocatoria y resolución (casi 2 años)",
+      "Falta de referencia al impacto presupuestario de estos nuevos salarios públicos",
+      "Ausencia de paridad de género en la resolución final de la oposición"
+    ]
+  },
+  "tweeted": false
+}

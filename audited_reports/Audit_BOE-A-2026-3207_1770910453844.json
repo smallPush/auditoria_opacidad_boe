@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-3207",
+  "timestamp": "2026-02-12T15:34:13.844Z",
+  "title": "Acuerdo internacional administrativo entre la Diputación de Barcelona del Reino de España y el Programa de las Naciones Unidas para los Asentamientos Humanos a través de su División de Programas Regionales, hecho en Nairobi y Barcelona el 3 de noviembre y 22 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El acuerdo utiliza la figura de 'Acuerdo Internacional Administrativo' para externalizar competencias de urbanismo local a una entidad internacional (ONU-Hábitat). Destaca un gasto fijo del 13% (27.300€) en 'costes de apoyo administrativo ordinarios', una cifra que suele ser opaca en su ejecución real. Además, el pago se realiza de forma íntegra y anticipada en una cuenta del JP Morgan en Frankfurt, Alemania, lo que dificulta el seguimiento fiscal inmediato por parte de la intervención española. Aunque se justifica bajo la Agenda 2030, el control de los fondos queda sujeto a las normas de la ONU y no a la legislación de contratos del sector público español, creando un espacio de excepcionalidad jurídica.",
+    "resumen_ciudadano": "La Diputación de Barcelona entrega 210.000€ a ONU-Hábitat para asesorar a Granollers, Viladecans y Sant Boi en sus planes urbanos. El dinero se transfiere de golpe a una cuenta en Alemania y una parte significativa se queda en gastos de gestión de la propia oficina internacional.",
+    "resumen_tweet": "🚨 Nueva partida de 210.000€ de la Diputación de Barcelona para la ONU 🇺🇳. Un 13% se esfuma en 'gestión' y el dinero vuela a un banco en Alemania 🇩🇪. ¿Asesoría necesaria o marketing institucional con fondos públicos? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Pago total anticipado en 15 días",
+      "Cuenta bancaria fuera de España (Frankfurt, Alemania)",
+      "Comisión fija del 13% para gastos administrativos",
+      "Sometimiento a auditoría interna de la ONU, no española",
+      "Inmunidades y privilegios para el personal de la oficina"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "ONU-Hábitat (ingresos por gestión)",
+        "Ayuntamientos de Granollers, Viladecans y Sant Boi (visibilidad política internacional)",
+        "JP Morgan AG (entidad depositaria)"
+      ],
+      "perdedores": [
+        "Contribuyentes de la provincia de Barcelona (menor control fiscal)",
+        "Resto de municipios de la provincia (excluidos del proyecto piloto)",
+        "Empresas de consultoría urbana locales (competencia excluida por adjudicación directa)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Pago total anticipado en 15 días",
+      "Cuenta bancaria fuera de España (Frankfurt, Alemania)",
+      "Comisión fija del 13% para gastos administrativos",
+      "Sometimiento a auditoría interna de la ONU, no española",
+      "Inmunidades y privilegios para el personal de la oficina"
+    ]
+  }
+}

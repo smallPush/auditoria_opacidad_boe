@@ -1,0 +1,61 @@
+name: Scheduled BOE Audit
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # Every 12 hours
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Number of items to audit'
+        required: false
+        default: '20'
+      date:
+        description: 'Specific date to audit (YYYYMMDD)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js ⚙️
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies 🔧
+        run: npm install
+
+      - name: Run Audit 🤖
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.limit }}" != "" ]; then ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"; fi
+          if [ "${{ github.event.inputs.date }}" != "" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
+          npm run audit -- $ARGS
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TWITTER_CLIENT_ID: ${{ secrets.TWITTER_CLIENT_ID }}
+          TWITTER_CLIENT_SECRET: ${{ secrets.TWITTER_CLIENT_SECRET }}
+          TWITTER_REFRESH_TOKEN: ${{ secrets.TWITTER_REFRESH_TOKEN }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+
+      - name: Commit and Push changes 🚀
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add audited_reports/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update audited reports [skip ci]"
+            git push
+          fi

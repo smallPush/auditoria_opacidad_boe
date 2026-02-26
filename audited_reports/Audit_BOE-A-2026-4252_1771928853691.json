@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-4252",
+  "timestamp": "2026-02-24T10:27:33.691Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación, en el Organismo Autónomo Instituto Nacional de Estadística.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación', un mecanismo que permite la discrecionalidad en el nombramiento de altos cargos bajo la apariencia de un proceso reglado. Aunque se detallan méritos técnicos específicos, la selección final depende de una entrevista y la valoración de 'expertos' designados por el mismo órgano que realiza el nombramiento. Especialmente preocupante es la Base Novena, que exime al proceso de los informes de control habitualmente exigidos en la Ley 30/1984, reduciendo las garantías contra la arbitrariedad.",
+    "resumen_ciudadano": "El Instituto Nacional de Estadística (INE) busca cubrir dos puestos de Subdirector General (el nivel más alto de la administración) para supervisar las cuentas nacionales. Aunque se pide experiencia, el proceso permite elegir 'a dedo' a través de entrevistas personales. El plazo para presentarse es de solo 10 días naturales, lo que suele favorecer a candidatos que ya conocen la plaza de antemano.",
+    "resumen_tweet": "⚠️ ¿Cuentas claras o puestos a dedo? El #INE convoca subdirecciones de nivel 30 mediante libre designación. Plazo exprés de 10 días y selección por entrevista subjetiva. Se eliminan informes de control habituales. 🧐💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Plazo de solicitud reducido (10 días naturales)",
+      "Exención de informes de control previstos en la ley (Base 9)",
+      "Comité asesor de entrevistas nombrado por el propio órgano decisor",
+      "Uso de un cuestionario de autoevaluación subjetivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del subgrupo A1 con perfil político-técnico",
+        "Cúpula del Ministerio de Economía y Empresa por control de puestos clave"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin redes de confianza política",
+        "Transparencia institucional en la gestión de estadísticas críticas como el PIB",
+        "Ciudadanía, por el riesgo de politización en la supervisión de cuentas nacionales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Plazo de solicitud reducido (10 días naturales)",
+      "Exención de informes de control previstos en la ley (Base 9)",
+      "Comité asesor de entrevistas nombrado por el propio órgano decisor",
+      "Uso de un cuestionario de autoevaluación subjetivo"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-3216",
+  "timestamp": "2026-02-12T15:46:31.697Z",
+  "title": "Ley 4/2025, de 17 de diciembre, de reconocimiento de la universidad privada «IE Universidad Madrid».",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El reconocimiento de la IE Universidad Madrid bajo la forma jurídica de Sociedad de Responsabilidad Limitada (SL) evidencia la creciente mercantilización del sistema educativo madrileño. La ley utiliza un limbo jurídico entre la LO 6/2001 y la LO 2/2023 para validar el proceso, alegando 'unidad de procedimiento'. Aunque el texto afirma no tener impacto presupuestario, omite el coste de oportunidad y los recursos públicos destinados a la inspección y supervisión de una entidad con ánimo de lucro. La cláusula de 'garantías' en el Artículo 6 queda redactada de forma vaga, permitiendo discrecionalidad al Consejo de Gobierno.",
+    "resumen_ciudadano": "Se aprueba la creación de la universidad privada IE Universidad Madrid como una empresa de responsabilidad limitada. Aunque operará en Madrid y debe cumplir requisitos mínimos de títulos (10 grados y 6 másteres), su estructura está orientada al beneficio privado bajo el paraguas de 'servicio público'. La ley permite que el inicio de actividades se apruebe por silencio administrativo si la Comunidad no responde en 6 meses, un mecanismo que favorece a la entidad promotora.",
+    "resumen_tweet": "🚨 Nueva universidad privada en Madrid: IE Universidad Madrid. Una SL con ánimo de lucro gestionando educación superior. ¿Impacto cero? No para la universidad pública. 💸 La transparencia cojea en las garantías financieras. #BOE #Opacidad #Madrid 🎓🧐",
+    "banderas_red_flags": [
+      "Uso de forma societaria de Responsabilidad Limitada (ánimo de lucro)",
+      "Aplicación de normativa derogada (LO 6/2001) por falta de transitoriedad en la nueva ley",
+      "Silencio administrativo positivo para la autorización de inicio de actividades (Art. 3.5)",
+      "Indeterminación de las garantías financieras exigidas a los promotores",
+      "Declaración de 'ausencia de impacto presupuestario' que ignora costes de supervisión estatal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Instituto de Empresa, SL (beneficio corporativo)",
+        "Estudiantes de alto poder adquisitivo",
+        "Sector de la educación privada de élite"
+      ],
+      "perdedores": [
+        "Sistema universitario público (competencia desleal)",
+        "Familias de rentas medias y bajas (barrera de acceso por precio)",
+        "Transparencia en la gestión de servicios públicos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Ley de Reconocimiento de Universidad Privada",
+    "banderas_rojas": [
+      "Uso de forma societaria de Responsabilidad Limitada (ánimo de lucro)",
+      "Aplicación de normativa derogada (LO 6/2001) por falta de transitoriedad en la nueva ley",
+      "Silencio administrativo positivo para la autorización de inicio de actividades (Art. 3.5)",
+      "Indeterminación de las garantías financieras exigidas a los promotores",
+      "Declaración de 'ausencia de impacto presupuestario' que ignora costes de supervisión estatal"
+    ]
+  }
+}

@@ -4,6 +4,12 @@ on:
   push:
     tags:
       - '*'
+    branches:
+      - main
+  workflow_run:
+    workflows: ["Scheduled BOE Audit"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -12,13 +18,21 @@ permissions:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
 
+      - name: Setup Node.js ⚙️
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
       - name: Install and Build 🔧
         run: |
           npm install
+          npm run sitemap
           npm run build
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -31,3 +45,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}

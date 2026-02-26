@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-4380",
+  "timestamp": "2026-02-26T07:52:38.153Z",
+  "title": "Real Decreto 149/2026, de 25 de febrero, por el que se modifica el Real Decreto 535/2025, de 24 de junio, por el que se establecen las bases reguladoras para la concesión directa de ayudas a proyectos españoles por su participación en el esquema «Subasta como Servicio» del Banco Europeo del Hidrógeno, seleccionados por la Agencia Ejecutiva Europea de Clima, Infraestructuras y Medio Ambiente (CINEA), y se aprueba la primera convocatoria dentro del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 149/2026 externaliza la soberanía de selección de proyectos a una agencia europea (CINEA), lo que el texto denomina 'concurrencia competitiva comunitaria ajena a la voluntad de los Estados'. Aunque esto reduce el clientelismo local, crea una 'Caja Negra' donde el dinero público español (NextGenerationEU) financia proyectos que la UE validó pero no quiso pagar por falta de presupuesto. La figura de la 'concesión directa' se maquilla tras un proceso previo europeo, y la exigencia de garantías financieras de duración 'indefinida' supone una barrera de entrada masiva para cualquier actor que no sea una gran corporación energética con músculo financiero.",
+    "resumen_ciudadano": "El Gobierno modifica las ayudas para proyectos de hidrógeno renovable. En lugar de elegir España quién recibe el dinero, se pagará a las empresas que quedaron en 'lista de espera' en las subastas europeas. Se introduce el uso de minería de datos de Hacienda para detectar a los dueños reales de las empresas y evitar fraudes, pero se mantiene un sistema de concesión directa que beneficia a los grandes actores del sector energético bajo el paraguas de los fondos europeos.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el RD 149/2026: España financiará con fondos #NextGenEU los proyectos de hidrógeno que la UE rechazó por falta de fondos. Se usa 'minería de datos' anti-fraude, pero la concesión directa y avales indefinidos benefician a los de siempre. 💸 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Concesión directa de ayudas (baja concurrencia local)",
+      "Externalización total de la selección a organismos europeos (CINEA)",
+      "Garantías financieras de duración indefinida",
+      "Uso de 'data mining' para identificar titulares reales (indica riesgo previo de opacidad societaria)",
+      "Pago de proyectos 'en lista de reserva' no adjudicados originalmente por la UE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones energéticas (capacidad de generar avales indefinidos)",
+        "Agencia CINEA (mantiene el control de los criterios)",
+        "IDAE (gestiona el flujo de fondos sin responsabilidad directa en la selección)"
+      ],
+      "perdedores": [
+        "Pymes tecnológicas (excluidas por requisitos de capital y avales)",
+        "Contribuyente (financiación de proyectos que no pasaron el corte presupuestario europeo inicial)",
+        "Soberanía legislativa (dependencia total de procesos externos ajenos al control nacional)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Bases Reguladoras y Convocatoria de Ayudas",
+    "banderas_rojas": [
+      "Concesión directa de ayudas (baja concurrencia local)",
+      "Externalización total de la selección a organismos europeos (CINEA)",
+      "Garantías financieras de duración indefinida",
+      "Uso de 'data mining' para identificar titulares reales (indica riesgo previo de opacidad societaria)",
+      "Pago de proyectos 'en lista de reserva' no adjudicados originalmente por la UE"
+    ]
+  },
+  "tweeted": true
+}

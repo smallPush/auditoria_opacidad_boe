@@ -60,9 +60,10 @@ const AuditDashboard: React.FC<Props> = ({
 
   const COLORS = ['#22c55e', '#ef4444'];
   const boeUrl = `https://www.boe.es/buscar/doc.php?id=${boeId}`;
+  const radarUrl = `https://radarboe.es/#/audit/${boeId}`;
 
   const handleCopyTweet = () => {
-    navigator.clipboard.writeText(`${data.resumen_tweet}\n\n${boeUrl}`);
+    navigator.clipboard.writeText(`${data.resumen_tweet}\n\n${radarUrl}`);
     setCopiedTweet(true);
     setTimeout(() => setCopiedTweet(false), 2000);
   };
@@ -71,7 +72,7 @@ const AuditDashboard: React.FC<Props> = ({
     if (tweetSent) return;
     setIsPostingTweet(true);
     try {
-      await postTweet(data, boeUrl);
+      await postTweet(data, radarUrl);
       const updatedData = { ...data, tweet_sent: true };
       await saveAuditToDB(boeId, title, updatedData);
       setTweetSent(true);
@@ -307,18 +308,31 @@ const AuditDashboard: React.FC<Props> = ({
         <div className="bg-slate-950 p-3 rounded-lg border border-slate-800 text-xs text-slate-400 leading-relaxed italic mb-3">
           "{data.resumen_tweet}
           <br /><br />
-          {boeUrl}"
+          {radarUrl}"
         </div>
         {isLoggedIn && (
           <button
             onClick={handlePostTweet}
             disabled={tweetSent || isPostingTweet}
-            className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
+            className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all mb-2 ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
           >
             {isPostingTweet ? <Loader2 size={14} className="animate-spin" /> : tweetSent ? <Check size={14} /> : <Send size={14} />}
             {tweetSent ? t.tweetSent : t.postTweet}
           </button>
         )}
+        <button
+          onClick={() => {
+            const tweetText = `${data.resumen_tweet}\n\n${radarUrl}`;
+            window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`, '_blank');
+          }}
+          className="w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all bg-slate-800 hover:bg-slate-700 text-white border border-slate-700"
+        >
+          <Twitter size={14} />
+          {t.shareFree}
+        </button>
+        <p className="text-[10px] text-slate-500 mt-2 text-center italic">
+          {t.shareFreeDesc}
+        </p>
       </div>
     </div>
   );

@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4077",
+  "timestamp": "2026-02-23T10:43:54.145Z",
+  "title": "Orden DCA/117/2026, de 13 de febrero, por la que se resuelve la convocatoria de libre designación, efectuada por Orden DCA/9/2026, de 7 de enero.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución de 'libre designación', un eufemismo legal para nombramientos discrecionales o 'a dedo'. El adjudicatario, Manuel Alberto Martín-Pérez Rodríguez, ya ostentaba un Nivel 30 (el máximo en la administración) dentro del mismo organismo. Esto sugiere un movimiento de sillas internas en la élite funcionarial (Grupo A1) sin una apertura real a la competencia externa. Aunque se menciona la 'valoración de personal asesor', no se detallan los criterios técnicos que hicieron a este candidato superior a otros, perpetuando la opacidad en la gestión de altos cargos bajo el pretexto de la 'idoneidad'.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha nombrado a un nuevo Gerente para el Real Patronato sobre Discapacidad. El proceso no ha sido una oposición abierta, sino una elección directa de un alto funcionario que ya trabajaba en la misma unidad con el sueldo máximo. Es un ejemplo de cómo los puestos de mando se reparten entre un círculo cerrado de la administración pública.",
+    "resumen_tweet": "🔍 El @MSocialGob adjudica a 'dedo' (libre designación) la Gerencia del Real Patronato sobre Discapacidad. Un Nivel 30 que se queda 'en casa'. ¿Meritocracia o sillas musicales entre la élite administrativa? 🔄💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación",
+      "Nivel 30 (rango máximo salarial)",
+      "Endogamia administrativa (procedencia interna)",
+      "Falta de publicidad de los méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Alberto Martín-Pérez Rodríguez",
+        "Cuerpo de Escala Técnica de Gestión de OO.AA.",
+        "Cúpula del Ministerio de Derechos Sociales"
+      ],
+      "perdedores": [
+        "Candidatos externos por mérito",
+        "Principio de igualdad en el acceso a la función pública",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Sistema de libre designación",
+      "Nivel 30 (rango máximo salarial)",
+      "Endogamia administrativa (procedencia interna)",
+      "Falta de publicidad de los méritos comparativos"
+    ]
+  },
+  "tweeted": false
+}

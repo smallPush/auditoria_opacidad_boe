@@ -1,4 +1,5 @@
 import path from 'path';
+import { createHash } from 'node:crypto';
 import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -14,7 +15,7 @@ export default defineConfig(({ mode }) => {
   const gaId = getValidGaId();
 
   return {
-    base: '/',
+    base: mode === 'production' ? './' : '/',
     server: {
       port: 3000,
       host: '0.0.0.0',
@@ -50,80 +51,11 @@ export default defineConfig(({ mode }) => {
               req.on('data', chunk => { body += chunk; });
               req.on('end', async () => {
                 try {
-                  const { TwitterApi } = await import('twitter-api-v2');
-                  const fs = await import('fs');
-                  const path = await import('path');
+                  const { sendTweet } = await import('./scripts/twitter-client.js');
                   const { text } = JSON.parse(body);
 
-                  // Load latest .env values manually
-                  const envPath = path.resolve(__dirname, '.env');
-                  let localEnv = { ...env };
-                  
-                  if (fs.existsSync(envPath)) {
-                    const envContent = fs.readFileSync(envPath, 'utf8');
-                    envContent.split('\n').forEach(line => {
-                      const [key, ...val] = line.split('=');
-                      if (key) localEnv[key.trim()] = val.join('=').trim();
-                    });
-                  }
-
-                  const clientId = localEnv.TWITTER_CLIENT_ID;
-                  const clientSecret = localEnv.TWITTER_CLIENT_SECRET;
-                  const refreshToken = localEnv.TWITTER_REFRESH_TOKEN;
-                  const accessToken = localEnv.TWITTER_ACCESS_TOKEN;
-
-                  if (!clientId || !clientSecret || (!refreshToken && !accessToken)) {
-                    throw new Error("Twitter OAuth 2.0 keys are missing in .env (Need Client ID/Secret and either Access Token or Refresh Token)");
-                  }
-
-                  let loggedClient;
-
-                  // 1. Try with Access Token first (Prioritize if exists to save credits)
-                  if (accessToken) {
-                    try {
-                      console.log("Using TWITTER_ACCESS_TOKEN from .env...");
-                      const client = new TwitterApi(accessToken);
-                      loggedClient = client;
-                    } catch (e) {
-                      console.warn("Access Token failed, falling back to refresh token...");
-                    }
-                  }
-
-                  // 2. Fallback to Refresh Token if no client yet
-                  if (!loggedClient && refreshToken) {
-                    const client = new TwitterApi({
-                      clientId: clientId,
-                      clientSecret: clientSecret,
-                    });
-
-                    const { client: refreshedClient, refreshToken: newRefreshToken } = await client.refreshOAuth2Token(refreshToken);
-                    loggedClient = refreshedClient;
-                    
-                    // Persist new Refresh Token
-                    if (newRefreshToken && newRefreshToken !== refreshToken) {
-                      let currentEnvContent = fs.existsSync(envPath) ? fs.readFileSync(envPath, 'utf8') : '';
-                      if (currentEnvContent.includes('TWITTER_REFRESH_TOKEN=')) {
-                        currentEnvContent = currentEnvContent.replace(/TWITTER_REFRESH_TOKEN=.*/, `TWITTER_REFRESH_TOKEN=${newRefreshToken}`);
-                      } else {
-                        currentEnvContent += `\nTWITTER_REFRESH_TOKEN=${newRefreshToken}`;
-                      }
-                      fs.writeFileSync(envPath, currentEnvContent);
-                      console.log("✅ New Twitter Refresh Token saved to .env");
-                    }
-                  }
-
-                  if (!loggedClient) {
-                    throw new Error("Could not initialize Twitter client with provided tokens.");
-                  }
-
-                  // 3. Post Tweet
-                  try {
-                    await loggedClient.v2.tweet(text);
-                    console.log("✅ Tweet posted successfully!");
-                  } catch (twitterErr) {
-                    console.error("⚠️ Twitter API Error (likely rate limit or credits):", twitterErr);
-                    console.log("⚠️ Proceeding in SIMULATION MODE so the UI doesn't break.");
-                  }
+                  // Post Tweet using the shared helper
+                  await sendTweet(text);
 
                   res.statusCode = 200;
                   res.end(JSON.stringify({ success: true }));
@@ -210,12 +142,15 @@ export default defineConfig(({ mode }) => {
       }
     ],
     define: {
-      'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-      'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-      'process.env.SUPABASE_URL': JSON.stringify(env.SUPABASE_URL),
-      'process.env.SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY),
-      'process.env.AGENT_PASSWORD': JSON.stringify(env.AGENT_PASSWORD),
-      'process.env.GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
+      'import.meta.env.VITE_AGENT_PASSWORD_HASH': JSON.stringify(
+        env.AGENT_PASSWORD
+          ? createHash('sha256').update(env.AGENT_PASSWORD).digest('hex')
+          : ''
+      ),
+      'import.meta.env.VITE_GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY || env.VITE_GEMINI_API_KEY || env.API_KEY),
+      'import.meta.env.VITE_SUPABASE_URL': JSON.stringify(env.SUPABASE_URL || env.VITE_SUPABASE_URL),
+      'import.meta.env.VITE_SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY || env.VITE_SUPABASE_ANON_KEY),
+      'import.meta.env.VITE_GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
     },
     resolve: {
       alias: {

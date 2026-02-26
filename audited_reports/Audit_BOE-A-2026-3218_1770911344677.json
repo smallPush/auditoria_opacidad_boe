@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3218",
+  "timestamp": "2026-02-12T15:49:04.677Z",
+  "title": "Ley 6/2025, de 23 de diciembre, de Presupuestos Generales de la Comunidad de Madrid para el año 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Los presupuestos de la Comunidad de Madrid para 2026 presentan una dicotomía técnica: un incremento expansivo del gasto no financiero (6,98%) frente a una persistente reducción de la base imponible mediante beneficios fiscales dirigidos. La utilización de conceptos jurídicos indeterminados como negocios 'con solera' para otorgar bonificaciones del 95% en ITPAJD introduce una subjetividad peligrosa en la gestión tributaria. Se observa una 'Incongruencia Ideológica' al declararse la región más solidaria mientras se critica sistemáticamente el Fondo de Garantía y se opera en un marco de 'indefinición' de reglas fiscales nacionales, lo que podría ocultar riesgos de déficit estructural cubiertos por la liquidación de fondos MRR.",
+    "resumen_ciudadano": "Madrid aprueba sus presupuestos para 2026 con un gasto récord de 30.663 millones de euros. Destacan nuevas ayudas para pacientes de ELA, salud mental y un complemento para pensiones no contributivas. Sin embargo, se mantienen rebajas fiscales que benefician a sectores específicos, como dueños de negocios tradicionales y familias que costean matrículas educativas, lo que puede acentuar la desigualdad de clase.",
+    "resumen_tweet": "🚨 #BOE: Madrid presenta Presupuestos 2026. Gasto récord de 30.663M€ con foco en ELA y salud mental. Pero ojo: bonificaciones fiscales para negocios 'con solera' y deducciones por matrículas que plantean dudas de equidad. 🧐💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Criterio subjetivo de 'negocios con solera' para beneficios fiscales",
+      "Falta de concreción en los costes de cierre y justificación de fondos MRR",
+      "Elaboración presupuestaria sin objetivos de estabilidad formalmente aprobados",
+      "Dependencia de transferencias estatales críticas mientras se reduce la recaudación propia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pacientes de ELA (nueva residencia y banco de voz)",
+        "Estudiantes menores de 30 años (deducción por matrícula)",
+        "Propietarios de hostelería y comercio tradicional",
+        "Sector de infraestructuras (Ciudad de la Justicia y Metro)"
+      ],
+      "perdedores": [
+        "Nuevos emprendedores (sin acceso a bonificaciones por antigüedad)",
+        "Administración Central (tensión por el Sistema de Financiación Autonómica)",
+        "Familias de clase baja (menor impacto relativo de las deducciones fiscales en IRPF)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Presupuestos Generales",
+    "banderas_rojas": [
+      "Criterio subjetivo de 'negocios con solera' para beneficios fiscales",
+      "Falta de concreción en los costes de cierre y justificación de fondos MRR",
+      "Elaboración presupuestaria sin objetivos de estabilidad formalmente aprobados",
+      "Dependencia de transferencias estatales críticas mientras se reduce la recaudación propia"
+    ]
+  }
+}

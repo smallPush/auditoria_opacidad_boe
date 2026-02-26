@@ -1,8 +1,10 @@
 
 import fs from 'fs';
+import { readFile, writeFile, readdir, unlink } from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { GoogleGenAI, Type } from "@google/genai";
+import { sendTweet } from './twitter-client.js';
 
 // Standard __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -12,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const envPath = path.join(__dirname, '../.env');
 if (fs.existsSync(envPath)) {
   const envContent = fs.readFileSync(envPath, 'utf8');
-  envContent.split('\n').forEach(line => {
+  envContent.split(/\r?\n/).forEach(line => {
     const [key, ...valueParts] = line.split('=');
     if (key && valueParts.length > 0) {
       process.env[key.trim()] = valueParts.join('=').trim();
@@ -22,6 +24,12 @@ if (fs.existsSync(envPath)) {
 
 // Constants
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
+
+// Ensure the directory exists
+if (!fs.existsSync(AUDITED_REPORTS_DIR)) {
+  fs.mkdirSync(AUDITED_REPORTS_DIR, { recursive: true });
+}
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const SYSTEM_INSTRUCTION = `
 Eres un Agente de Inteligencia Cívica de Élite. Tu misión es desmantelar la opacidad del lenguaje legislativo español.
@@ -39,6 +47,16 @@ if (!GEMINI_API_KEY) {
 }
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
+
+async function shortenUrl(url) {
+  try {
+    const response = await fetch(`https://is.gd/create.php?format=simple&url=${encodeURIComponent(url)}`);
+    if (!response.ok) return url;
+    return await response.text();
+  } catch (e) {
+    return url;
+  }
+}
 
 async function analyzeBOE(xmlContent) {
   // Using the same pattern as geminiService.ts
@@ -125,9 +143,9 @@ function parseItemsFromXml(text) {
 
 async function fetchLatestBOE(targetDate) {
   let urls = [];
-  
+
   if (targetDate) {
-     urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${targetDate}`);
+    urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${targetDate}`);
   } else {
     const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
     const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
@@ -138,19 +156,29 @@ async function fetchLatestBOE(targetDate) {
     ];
   }
 
-  for (const url of urls) {
+  const fetchPromises = urls.map(url => {
     console.log(`🔍 Try fetching: ${url}`);
-    try {
-      const response = await fetchWithHeaders(url);
-      const text = await response.text();
-      if (response.status === 200) {
-        const items = parseItemsFromXml(text);
-        if (items.length > 0) {
-          console.log(`   ✅ Success: Found ${items.length} items.`);
-          return items;
+    return (async () => {
+      try {
+        const response = await fetchWithHeaders(url);
+        const text = await response.text();
+        if (response.status === 200) {
+          const items = parseItemsFromXml(text);
+          if (items.length > 0) {
+            return { url, items };
+          }
         }
-      }
-    } catch (err) { }
+      } catch (err) { }
+      return null;
+    })();
+  });
+
+  for (const promise of fetchPromises) {
+    const result = await promise;
+    if (result) {
+      console.log(`   ✅ Success: Found ${result.items.length} items from ${result.url}.`);
+      return result.items;
+    }
   }
   return [];
 }
@@ -173,27 +201,63 @@ async function run() {
     }
 
     if (targetDate) {
-        console.log(`📅 Targeting specific date: ${targetDate}`);
+      console.log(`📅 Targeting specific date: ${targetDate}`);
     }
     console.log(`🔢 Limit set to: ${limit}`);
 
     const latestItems = await fetchLatestBOE(targetDate);
     const filteredItems = latestItems.filter(item => item.id.startsWith('BOE-A-'));
-    const itemsToProcess = filteredItems.slice(0, limit); 
+    const itemsToProcess = filteredItems.slice(0, limit);
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
-    const files = fs.readdirSync(AUDITED_REPORTS_DIR);
-    const auditedIds = new Set();
-    files.forEach(file => {
+    const files = await readdir(AUDITED_REPORTS_DIR);
+    const auditedMap = new Map(); // boe_id -> { filePath, tweeted }
+    for (const file of files) {
       const match = file.match(/Audit_(BOE-A-\d+-\d+)_/);
-      if (match) auditedIds.add(match[1]);
-    });
+      if (match) {
+        const boeId = match[1];
+        const filePath = path.join(AUDITED_REPORTS_DIR, file);
+        try {
+          const content = JSON.parse(await readFile(filePath, 'utf8'));
+          // Keep the latest file if there are duplicates
+          if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
+            auditedMap.set(boeId, {
+              filePath,
+              tweeted: !!content.tweeted,
+              report: content.report,
+              timestamp: content.timestamp
+            });
+          }
+        } catch (e) { }
+      }
+    }
 
     const newAudits = [];
     let processedCount = 0;
     for (const item of itemsToProcess) {
-      if (auditedIds.has(item.id)) {
-        console.log(`⏩ Skipping ${item.id} (already exist)`);
+      const existing = auditedMap.get(item.id);
+
+      if (existing && existing.tweeted) {
+        console.log(`⏩ Skipping ${item.id} (already audited and tweeted)`);
+        continue;
+      }
+
+      if (existing && !existing.tweeted) {
+        console.log(`🐦 Audit exists for ${item.id} but not tweeted yet. Attempting tweet...`);
+        if (existing.report && existing.report.resumen_tweet) {
+          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
+          const tweetText = `${existing.report.resumen_tweet}\n\n${shortUrl}`;
+          try {
+            await sendTweet(tweetText);
+            // Update the file to mark as tweeted
+            const content = JSON.parse(await readFile(existing.filePath, 'utf8'));
+            content.tweeted = true;
+            await writeFile(existing.filePath, JSON.stringify(content, null, 2));
+            console.log(`✅ Marked ${item.id} as tweeted.`);
+          } catch (tweetErr) {
+            console.error(`❌ Error sending tweet for existing audit ${item.id}: ${tweetErr.message}`);
+          }
+        }
         continue;
       }
 
@@ -211,9 +275,33 @@ async function run() {
         const timestamp = Date.now();
         const fileName = `Audit_${item.id}_${timestamp}.json`;
         const filePath = path.join(AUDITED_REPORTS_DIR, fileName);
-        const auditRecord = { boe_id: item.id, timestamp: new Date(timestamp).toISOString(), title: item.titulo, report: audit };
-        fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
+
+        let tweeted = false;
+        if (audit.resumen_tweet) {
+          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
+          const tweetText = `${audit.resumen_tweet}\n\n${shortUrl}`;
+          console.log(`\n--- ENVIANDO TWEET PARA ${item.id} ---`);
+          console.log(tweetText);
+
+          try {
+            await sendTweet(tweetText);
+            tweeted = true;
+          } catch (tweetErr) {
+            console.error(`❌ Error enviando tweet: ${tweetErr.message}`);
+          }
+          console.log('----------------------------\n');
+        }
+
+        const auditRecord = {
+          boe_id: item.id,
+          timestamp: new Date(timestamp).toISOString(),
+          title: item.titulo,
+          report: audit,
+          tweeted: tweeted
+        };
+        await writeFile(filePath, JSON.stringify(auditRecord, null, 2));
         console.log(`💾 Saved to ${fileName}`);
+
         newAudits.push({ id: item.id, titulo: item.titulo, url_boe: `https://www.boe.es/buscar/doc.php?id=${item.id}`, transparencia: audit.nivel_transparencia, fecha_auditoria: auditRecord.timestamp });
 
         processedCount++;
@@ -226,15 +314,15 @@ async function run() {
       console.log("🔄 Updating index...");
       const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
       let currentIndex = [];
-      indexFiles.forEach(f => {
+      for (const f of indexFiles) {
         try {
-          const contents = fs.readFileSync(path.join(AUDITED_REPORTS_DIR, f), 'utf8');
+          const contents = await readFile(path.join(AUDITED_REPORTS_DIR, f), 'utf8');
           if (contents.trim()) {
             const data = JSON.parse(contents);
             currentIndex = [...currentIndex, ...(Array.isArray(data) ? data : [])];
           }
         } catch (e) { }
-      });
+      }
       const seen = new Set();
       const mergedIndex = [...newAudits, ...currentIndex].filter(item => {
         if (!item.id || seen.has(item.id)) return false;
@@ -243,8 +331,12 @@ async function run() {
       });
       mergedIndex.sort((a, b) => new Date(b.fecha_auditoria).getTime() - new Date(a.fecha_auditoria).getTime());
       const newIndexName = `BOE_Audit_Index_${Date.now()}.json`;
-      fs.writeFileSync(path.join(AUDITED_REPORTS_DIR, newIndexName), JSON.stringify(mergedIndex, null, 2));
-      indexFiles.forEach(f => fs.unlinkSync(path.join(AUDITED_REPORTS_DIR, f)));
+      await writeFile(path.join(AUDITED_REPORTS_DIR, newIndexName), JSON.stringify(mergedIndex, null, 2));
+      for (const f of indexFiles) {
+        try {
+          await unlink(path.join(AUDITED_REPORTS_DIR, f));
+        } catch (e) { }
+      }
       console.log(`✨ Process finished. ${newAudits.length} new audits added.`);
     } else {
       console.log("💤 No new audits needed.");

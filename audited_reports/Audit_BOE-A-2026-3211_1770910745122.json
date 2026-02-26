@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3211",
+  "timestamp": "2026-02-12T15:39:05.122Z",
+  "title": "Real Decreto 87/2026, de 11 de febrero, por el que se establece el Certificado profesional en Ilustración técnica, de la familia profesional Artes Gráficas, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 87/2026 define un nuevo marco para la Ilustración Técnica bajo el sistema de Grados A, B y C. Aunque el texto es técnicamente exhaustivo en competencias y currículo, adolece de la opacidad presupuestaria habitual al remitirse genéricamente al Programa FSE+ (EFESO 2021-2027) sin desglosar partidas específicas para la implementación en centros públicos. Se observa una contradicción entre la retórica de 'eliminar la segregación de género' mencionada en el preámbulo y la ausencia de medidas de acción positiva específicas en el diseño del certificado, que opera en un sector (Artes Gráficas/Ingeniería) tradicionalmente masculinizado.",
+    "resumen_ciudadano": "Se crea un nuevo título oficial de 500 horas para ilustradores técnicos. Este curso incluye formación obligatoria en empresas, nivel de inglés B1 y prevención de riesgos. Busca profesionalizar a quienes diseñan manuales técnicos y modelos 3D, permitiendo que la formación sea acumulable para obtener títulos mayores.",
+    "resumen_tweet": "🎨 Nuevo Certificado de Ilustración Técnica en el #BOE. 500h de formación dual con fondos europeos #FSE+. Mucha técnica pero poca claridad en la inversión real por alumno. ¿Formación real o parche curricular? 🧐 #Transparencia #FP #Opacidad",
+    "banderas_red_flags": [
+      "Financiación indeterminada vinculada a fondos europeos sin desglose local",
+      "Ambigüedad en la implementación de la igualdad de género prometida",
+      "Riesgo de exclusión para profesionales autodidactas ante la nueva oficialidad exigida",
+      "Alta dependencia de la voluntad de las empresas para la parte dual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas industriales (mano de obra dual de bajo coste)",
+        "Academias de idiomas (por la exigencia de Inglés B1)",
+        "Centros de formación con capacidad de inversión tecnológica"
+      ],
+      "perdedores": [
+        "Ilustradores tradicionales sin certificación oficial",
+        "SMEs/PYMES con dificultades para tutorizar alumnos duales",
+        "Mujeres en sectores técnicos (falta de incentivos específicos de acceso)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Cualificaciones Profesionales",
+    "banderas_rojas": [
+      "Financiación indeterminada vinculada a fondos europeos sin desglose local",
+      "Ambigüedad en la implementación de la igualdad de género prometida",
+      "Riesgo de exclusión para profesionales autodidactas ante la nueva oficialidad exigida",
+      "Alta dependencia de la voluntad de las empresas para la parte dual"
+    ]
+  }
+}

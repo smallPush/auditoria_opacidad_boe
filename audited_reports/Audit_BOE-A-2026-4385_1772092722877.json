@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-4385",
+  "timestamp": "2026-02-26T07:58:42.877Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña María Teresa Expósito Espinosa.",
+  "report": {
+    "nivel_transparencia": 90,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionaria de carrera tras un proceso selectivo. No se detectan 'Gastos Fantasma' directos, aunque el BOE omite sistemáticamente el coste presupuestario anual que supone la plaza. La resolución cumple con la legalidad vigente de la LOSU (2/2023). La opacidad es baja, limitada a la falta de información sobre los criterios de mérito específicos que llevaron a la elección en comparación con otros candidatos.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos ha nombrado oficialmente a María Teresa Expósito Espinosa como Profesora Titular de Ingeniería Química. Es un trámite final tras una convocatoria de plazas iniciada en octubre de 2025 para consolidar personal docente e investigador.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la @URJC: María Teresa Expósito Espinosa nombrada Profesora Titular de Ingeniería Química. Un trámite estándar que consolida personal funcionario bajo la LOSU. 📝 Transparencia administrativa correcta. #BOE #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Ausencia de detalle sobre el coste salarial total de la plaza",
+      "Falta de visibilidad de las actas de baremación en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Expósito Espinosa (estabilidad laboral y estatus de funcionaria)",
+        "Universidad Rey Juan Carlos (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el proceso selectivo de 2025",
+        "Contribuyentes (compromiso de gasto público estructural a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de detalle sobre el coste salarial total de la plaza",
+      "Falta de visibilidad de las actas de baremación en el extracto del BOE"
+    ]
+  },
+  "tweeted": true
+}

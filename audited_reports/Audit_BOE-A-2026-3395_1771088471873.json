@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3395",
+  "timestamp": "2026-02-14T17:01:11.873Z",
+  "title": "Resolución de 3 de febrero de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de funcionarios de carrera (Cuerpo de Profesores Titulares). Aunque cumple con la legalidad vigente (LOSU), el documento es opaco respecto al coste económico total que estos 13 nombramientos suponen para el erario público a largo plazo (salarios vitalicios, trienios y seguridad social). Existe un equilibrio de género aparente (6 mujeres y 7 hombres), lo cual es positivo, pero no se detalla si estas plazas son de nueva creación o consolidación de personal ya existente, una práctica común que a menudo oculta dinámicas de endogamia universitaria.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha formalizado el nombramiento de 13 nuevos profesores titulares en áreas que van desde la Psicología Social hasta la Ingeniería Eléctrica y las Filologías. Estos profesionales pasan a ser funcionarios con plaza permanente tras haber superado los concursos de acceso convocados en 2025.",
+    "resumen_tweet": "🎓 13 nuevos profesores blindan su plaza en la Universidad de Sevilla como funcionarios. El #BOE publica los nombres, pero no el impacto económico real para el contribuyente. ¿Transparencia o rutina burocrática? 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Imposibilidad de verificar endogamia en el documento",
+      "Falta de detalle sobre los criterios de puntuación de las comisiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 13 docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad de Sevilla (consolidación de estructura docente)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (menores oportunidades de acceso)",
+        "Contribuyentes (falta de claridad sobre el gasto estructural generado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Imposibilidad de verificar endogamia en el documento",
+      "Falta de detalle sobre los criterios de puntuación de las comisiones"
+    ]
+  },
+  "tweeted": true
+}

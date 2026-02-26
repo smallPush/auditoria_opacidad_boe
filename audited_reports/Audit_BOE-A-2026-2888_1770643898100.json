@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-2888",
+  "timestamp": "2026-02-09T13:31:38.100Z",
+  "title": "Ley del Principado de Asturias 5/2025, de 31 de diciembre, de Presupuestos Generales para 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El presupuesto de Asturias para 2026 utiliza una tecnica de expansion de beneficios fiscales de bajo impacto (celiaquia, cuidado de hijos) para camuflar la Disposicion Adicional 15, que prorroga la suspension de la normativa de calidad ambiental en obras publicas de vivienda e infraestructuras. Se detecta una delegacion excesiva en el Ejecutivo para minorar transferencias a entes publicos de forma indiferenciada, lo que diluye la fiscalizacion parlamentaria. La justificacion de 'volatilidad mundial' sirve de escudo para un incremento del 3,5% en el gasto computable sin una senda de estabilidad ratificada por las Cortes Generales.",
+    "resumen_ciudadano": "Se aprueban 6.363 millones de euros para 2026. Destacan nuevas ayudas para familias con hijos (hasta 600 euros) y para personas celiacas. No obstante, el Gobierno de Asturias se concede a si mismo otro año de 'vaca libre' para no cumplir ciertos requisitos de calidad ambiental en sus obras publicas de carreteras y viviendas, alegando dificultades tecnicas que no se detallan.",
+    "resumen_tweet": "📢 Asturias aprueba sus cuentas 2026: 6.363M€. ✅ Mas deducciones por hijos y celiaquia. 🚩 ¡ALERTA! Prorrogan un año mas el 'apagón' ambiental en sus propias obras publicas. ¿Privilegios para la administracion? 🧐 #BOE #Opacidad #Transparencia #Asturias",
+    "banderas_red_flags": [
+      "Suspension prolongada de normativa de calidad ambiental en obras publicas",
+      "Capacidad de minoracion de transferencias de forma indiferenciada",
+      "Presupuesto basado en una senda de deficit no ratificada por el Estado",
+      "Redefinicion discrecional de conceptos de despoblamiento para beneficios fiscales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal docente (Pacto Asturias Educa)",
+        "Familias con hijos hasta 25 años",
+        "Personas con celiaquia",
+        "Empresas constructoras de obra publica (exentas de controles ambientales)"
+      ],
+      "perdedores": [
+        "Proteccion del medio ambiente (desregulacion)",
+        "Contribuyentes generales (aumento de gasto publico)",
+        "Trazabilidad del gasto en entes publicos autonomicos"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Presupuestos Generales",
+    "banderas_rojas": [
+      "Suspension prolongada de normativa de calidad ambiental en obras publicas",
+      "Capacidad de minoracion de transferencias de forma indiferenciada",
+      "Presupuesto basado en una senda de deficit no ratificada por el Estado",
+      "Redefinicion discrecional de conceptos de despoblamiento para beneficios fiscales"
+    ]
+  }
+}

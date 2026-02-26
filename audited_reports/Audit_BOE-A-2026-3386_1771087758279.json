@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3386",
+  "timestamp": "2026-02-14T16:49:18.279Z",
+  "title": "Ley 6/2025, de 23 de diciembre, de protección de la salud de las personas menores y prevención de las conductas adictivas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley presenta una clara contradicción ideológica: mientras endurece las restricciones para proteger a los menores frente al alcohol y el tabaco, incluye una cláusula de escape que exime a las 'fiestas de interés turístico' de las limitaciones de publicidad y promoción. Este 'agujero legal' sugiere una priorización de los intereses económicos de la industria del ocio y el turismo sobre la salud pública declarada. Además, la mención a la 'ausencia de costes' para la nueva Comisión de prevención suele enmascarar una falta de dotación presupuestaria real, delegando la carga operativa en personal ya saturado.",
+    "resumen_ciudadano": "Nueva normativa en Galicia que prohíbe la venta de bebidas energéticas y vapeadores a menores, equiparándolos al tabaco. También busca controlar el juego y el uso de videojuegos. Sin embargo, permite que las fiestas turísticas sigan publicitando alcohol sin las nuevas restricciones, y centraliza las multas por botellón en la Consejería de Sanidad.",
+    "resumen_tweet": "🚨 Galicia regula bebidas energéticas y vapeo para menores, pero permite publicidad de alcohol en 'fiestas turísticas'. ¿Salud o negocio? 💸 La transparencia cojea en las excepciones. #BOE #Opacidad #Transparencia #SaludPública 🛡️",
+    "banderas_red_flags": [
+      "Exención publicitaria para fiestas de interés turístico",
+      "Declaración de 'ausencia de costes' para nuevos órganos administrativos",
+      "Indeterminación en los criterios de 'uso proporcionado' de videojuegos",
+      "Ambigüedad en la financiación de los programas de prevención comunitaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria turística y de eventos (mantienen privilegios publicitarios)",
+        "Administración Autonómica (mayor control centralizado de multas por botellón)",
+        "Sector sanitario (marco legal más robusto para intervención en urgencias)"
+      ],
+      "perdedores": [
+        "Menores en entornos festivos (expuestos a marketing de alcohol por excepciones legales)",
+        "Industria de bebidas energéticas y vapeo (nuevas restricciones de venta)",
+        "Clases bajas/jóvenes (foco punitivo en el consumo en vía pública o botellón)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Sanidad y Protección de Menores",
+    "banderas_rojas": [
+      "Exención publicitaria para fiestas de interés turístico",
+      "Declaración de 'ausencia de costes' para nuevos órganos administrativos",
+      "Indeterminación en los criterios de 'uso proporcionado' de videojuegos",
+      "Ambigüedad en la financiación de los programas de prevención comunitaria"
+    ]
+  },
+  "tweeted": true
+}

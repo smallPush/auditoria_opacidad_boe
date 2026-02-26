@@ -1,15 +1,14 @@
 /// <reference types="vite/client" />
 import { createClient } from '@supabase/supabase-js';
 import { AuditHistoryItem, BOEAuditResponse } from '../types';
+import { STORAGE_KEYS } from '../constants';
 
-const supabaseUrl = (process.env as any).SUPABASE_URL || '';
-const supabaseKey = (process.env as any).SUPABASE_ANON_KEY || '';
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || '';
+const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY || '';
 
 export const supabase = (supabaseUrl && supabaseKey)
   ? createClient(supabaseUrl, supabaseKey)
   : null;
-
-const LOCAL_STORAGE_KEY = 'boe_audit_history_v1';
 
 const loadLocalAudits = (): AuditHistoryItem[] => {
   const auditedFiles = import.meta.glob('../audited_reports/Audit_*.json', { eager: true });
@@ -24,10 +23,14 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
 
   const localAudits: AuditHistoryItem[] = [];
 
+  // Index indexData for faster lookup
+  const indexMap = new Map<string, any>();
+  indexData.forEach(idx => indexMap.set(idx.id, idx));
+
   Object.values(auditedFiles).forEach((mod: any) => {
     const data = mod.default;
     if (data && data.boe_id && data.report) {
-      const indexEntry = indexData.find(idx => idx.id === data.boe_id);
+      const indexEntry = indexMap.get(data.boe_id);
       localAudits.push({
         boeId: data.boe_id,
         title: indexEntry?.titulo || data.title || data.boe_id,
@@ -61,7 +64,7 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
   }
 
   // Obtener de LocalStorage
-  const localRaw = localStorage.getItem(LOCAL_STORAGE_KEY);
+  const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localStorageData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
 
   // Obtener de carpeta audited_reports (empaquetados con la app)
@@ -69,29 +72,37 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
 
   // Fusionar datos (priorizar remotos, luego locales de carpeta, finalmente localStorage)
   const merged = [...remoteData];
+  const mergedIds = new Set<string>();
+  merged.forEach(m => mergedIds.add(m.boeId));
+
+  const localIds = new Set<string>();
+  localStorageData.forEach(l => localIds.add(l.boeId));
 
   // Añadir datos de la carpeta si no están ya (por boeId)
   let localStorageUpdated = false;
   auditedFolderData.forEach(folderItem => {
-    if (!merged.find(m => m.boeId === folderItem.boeId)) {
+    if (!mergedIds.has(folderItem.boeId)) {
       merged.push(folderItem);
+      mergedIds.add(folderItem.boeId);
     }
     // Sincronizar con LocalStorage si no está (según petición del usuario)
-    if (!localStorageData.find(l => l.boeId === folderItem.boeId)) {
+    if (!localIds.has(folderItem.boeId)) {
       localStorageData.push(folderItem);
+      localIds.add(folderItem.boeId);
       localStorageUpdated = true;
     }
   });
 
   // Guardar en LocalStorage si hubo cambios
   if (localStorageUpdated) {
-    localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(localStorageData));
+    localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify(localStorageData));
   }
 
   // Añadir datos de localStorage si no están ya
   localStorageData.forEach(localItem => {
-    if (!merged.find(m => m.boeId === localItem.boeId)) {
+    if (!mergedIds.has(localItem.boeId)) {
       merged.push(localItem);
+      mergedIds.add(localItem.boeId);
     }
   });
 
@@ -107,10 +118,10 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
   };
 
   // Guardar en LocalStorage (siempre)
-  const localRaw = localStorage.getItem(LOCAL_STORAGE_KEY);
+  const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
   const filteredLocal = localData.filter(item => item.boeId !== boeId);
-  localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify([newItem, ...filteredLocal]));
+  localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify([newItem, ...filteredLocal]));
 
   // Guardar en Sistema de Archivos Local (Bridge) si estamos en desarrollo
   if (import.meta.env.DEV) {
@@ -143,5 +154,5 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
 };
 
 export const clearLocalHistory = () => {
-  localStorage.removeItem(LOCAL_STORAGE_KEY);
+  localStorage.removeItem(STORAGE_KEYS.AUDIT_HISTORY);
 };

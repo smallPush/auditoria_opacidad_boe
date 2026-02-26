@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4251",
+  "timestamp": "2026-02-24T10:06:27.893Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una convocatoria estándar para la provisión de 43 puestos de trabajo mediante concurso general en el Ministerio de Economía. Si bien el proceso sigue los cauces legales, se detectan barreras a la movilidad horizontal mediante la cláusula de 'necesidades del servicio' para personal de la AEAT y la obligatoriedad casi absoluta de tramitación electrónica, lo que supone una brecha digital administrativa. La inclusión del IV Plan de Igualdad es positiva, pero la valoración de méritos sigue beneficiando desproporcionadamente a la antigüedad sobre la capacitación técnica moderna.",
+    "resumen_ciudadano": "El Ministerio de Economía abre un proceso para que funcionarios de carrera ocupen 43 plazas vacantes. Se valorará la experiencia previa, el grado consolidado, la formación y la conciliación familiar (hijos, cónyuge o familiares a cargo). Es un movimiento interno de personal público que afecta a la eficiencia de la gestión económica del Estado.",
+    "resumen_tweet": "📢 El Ministerio de Economía convoca 43 plazas para funcionarios. Aunque se incluye el Plan de Igualdad, persisten trabas a la movilidad en la AEAT y barreras digitales para la inscripción. ¡Vigilando el empleo público! 🧐🏢 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Veto discrecional a la movilidad de personal de la AEAT bajo 'necesidades del servicio'",
+      "Exclusión de solicitudes en papel sin justificante técnico de error en el Portal Funciona",
+      "Limitación de movilidad para cuerpos con 'puestos en exclusiva'",
+      "Valoración de cursos limitada a un catálogo cerrado del propio departamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad (hasta 25 puntos)",
+        "Personal con hijos menores de 12 años",
+        "Funcionarios con grado personal superior al puesto solicitado"
+      ],
+      "perdedores": [
+        "Funcionarios de la Agencia Tributaria (sujetos a autorización previa)",
+        "Personal con dificultades de acceso a medios electrónicos",
+        "Funcionarios jóvenes con formación externa no reglada por el Ministerio"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estatal)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Veto discrecional a la movilidad de personal de la AEAT bajo 'necesidades del servicio'",
+      "Exclusión de solicitudes en papel sin justificante técnico de error en el Portal Funciona",
+      "Limitación de movilidad para cuerpos con 'puestos en exclusiva'",
+      "Valoración de cursos limitada a un catálogo cerrado del propio departamento"
+    ]
+  },
+  "tweeted": false
+}

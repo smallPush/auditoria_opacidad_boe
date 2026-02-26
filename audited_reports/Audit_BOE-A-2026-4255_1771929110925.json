@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4255",
+  "timestamp": "2026-02-24T10:31:50.925Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Universidad de Granada, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala de Gestión de Prevención y Salud Laboral.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una convocatoria de empleo público bajo el sistema de concurso-oposición para solo dos plazas de Enfermero/a del Trabajo. Aunque el texto cumple formalmente con la normativa, la estructura de 'concurso-oposición' suele actuar como barrera de entrada para nuevos candidatos frente a personal interino previo. Además, la tasa de examen de 37 euros por solo dos plazas vacantes plantea dudas sobre la proporcionalidad entre el coste para el ciudadano y la probabilidad real de obtención del puesto, pudiendo interpretarse como una medida con sesgo recaudatorio dada la alta demanda en el sector salud.",
+    "resumen_ciudadano": "La Universidad de Granada convoca dos plazas libres para enfermeros especialistas en salud laboral. El proceso incluye examen y valoración de méritos previos, con una tasa de inscripción de 37 euros.",
+    "resumen_tweet": "🏥 Solo 2 plazas de Enfermería del Trabajo en la @canalUGR. 37€ de tasa para un proceso de concurso-oposición que suele blindar a quienes ya están dentro. ¿Oportunidad real o barrera de cristal? 🤔 #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Número extremadamente reducido de plazas (2)",
+      "Sistema de concurso-oposición (posible ventaja para interinos)",
+      "Tasa de participación elevada para el subgrupo A2"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con experiencia previa en la UGR",
+        "Administración Universitaria (recaudación por tasas de examen)"
+      ],
+      "perdedores": [
+        "Graduados recientes sin experiencia acumulada",
+        "Opositores de fuera de la comunidad con menos puntos por méritos locales"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Número extremadamente reducido de plazas (2)",
+      "Sistema de concurso-oposición (posible ventaja para interinos)",
+      "Tasa de participación elevada para el subgrupo A2"
+    ]
+  },
+  "tweeted": false
+}

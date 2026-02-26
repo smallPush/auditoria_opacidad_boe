@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3309",
+  "timestamp": "2026-02-13T09:51:58.252Z",
+  "title": "Resolución de 2 de febrero de 2026, conjunta de la Universidad Autónoma de Barcelona y el Hospital de la Santa Creu y Sant Pau, por la que se nombra Profesor Titular de Universidad a don Narcís Cardoner Álvarez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento formaliza un nombramiento de plaza vinculada entre la universidad y un hospital de referencia. Aunque cumple con la legalidad administrativa, este tipo de estructuras hibridas suele dificultar el rastreo de la carga presupuestaria exacta distribuida entre el ambito docente y el asistencial. No se especifican los meritos que otorgaron la plaza ni si hubo competencia real, manteniendo el hermetismo habitual de la elite academica hospitalaria.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Narcis Cardoner Alvarez como Profesor Titular en la Universidad Autonoma de Barcelona, trabajando simultaneamente en el Hospital de la Santa Creu i Sant Pau. Es un procedimiento de personal estandar para consolidar plazas de profesorado medico.",
+    "resumen_tweet": "🏥🎓 Nuevo nombramiento en la UAB y el Hospital de Sant Pau: Narcis Cardoner Alvarez es el nuevo Profesor Titular de Psiquiatria. Tramite oficial para consolidar la elite medica en Barcelona. ¿Procesos abiertos o cerrados? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario entre universidad y hospital",
+      "Ausencia de informacion sobre otros candidatos en el concurso",
+      "Lenguaje tecnico que oculta los criterios de seleccion finales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Narcis Cardoner Alvarez",
+        "UAB",
+        "Hospital de la Santa Creu i Sant Pau"
+      ],
+      "perdedores": [
+        "Aspirantes externos a la estructura institucional",
+        "Transparencia en el coste real de plazas vinculadas"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario entre universidad y hospital",
+      "Ausencia de informacion sobre otros candidatos en el concurso",
+      "Lenguaje tecnico que oculta los criterios de seleccion finales"
+    ]
+  }
+}

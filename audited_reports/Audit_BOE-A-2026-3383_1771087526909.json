@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3383",
+  "timestamp": "2026-02-14T16:45:26.909Z",
+  "title": "Ley 3/2025, de 15 de diciembre, de modificación de la Ley 3/2012, de 2 de abril, del deporte de Galicia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley presenta una dicotomía entre la modernización estética y la preservación del poder. Por un lado, impone códigos de buen gobierno y transparencia obligatorios para recibir fondos públicos. Por otro, introduce una cláusula de escape en el artículo 55 bis 2.i que permite a los presidentes de federaciones perpetuarse hasta 20 años (4 mandatos más uno excepcional) bajo criterios vagos como el 'interés deportivo'. Además, la reducción de plazos para censos electorales a solo 5 días naturales dificulta de facto la organización de candidaturas alternativas, favoreciendo el inmovilismo de las cúpulas actuales.",
+    "resumen_ciudadano": "Galicia modifica su Ley del Deporte para obligar a las federaciones a ser más transparentes y a tener códigos éticos. Se permite que la Xunta intervenga legalmente en casos de violencia deportiva. Sin embargo, se establecen plazos electorales muy cortos que podrían beneficiar a quienes ya están en el poder y se permite una excepción para que los presidentes superen el límite de mandatos si no hay otros candidatos o por razones estratégicas poco definidas.",
+    "resumen_tweet": "📢 Galicia reforma su Ley del Deporte: ¿Renovación o blindaje? 🧐 Se exigen códigos éticos pero se permiten mandatos de hasta 20 años con excepciones vagas. Ojo a los plazos electorales 'exprés' que frenan la oposición. #BOE #Opacidad #Transparencia #Galicia 🏟️⚖️",
+    "banderas_red_flags": [
+      "Cláusula de excepcionalidad para el quinto mandato presidencial (Art. 55 bis 2.i)",
+      "Reducción de plazos de exposición de censo electoral a solo 5-10 días (Dificulta la fiscalización)",
+      "Vinculación de fondos públicos a códigos de conducta que la propia ley permite flexibilizar",
+      "Ambigüedad en el concepto de 'interés estratégico' para autorizar continuidades de cargos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Barones federativos (posibilidad de 20 años en el cargo)",
+        "Administración Autonómica (mayor control procesal y capacidad de veto)",
+        "Consultoras de género (revisión masiva de textos legales)"
+      ],
+      "perdedores": [
+        "Candidaturas alternativas (plazos electorales asfixiantes)",
+        "Transparencia real (las excepciones diluyen la norma general)",
+        "Socios de base (menor tiempo de reacción ante procesos internos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Modificación Legislativa / Deporte / Transparencia",
+    "banderas_rojas": [
+      "Cláusula de excepcionalidad para el quinto mandato presidencial (Art. 55 bis 2.i)",
+      "Reducción de plazos de exposición de censo electoral a solo 5-10 días (Dificulta la fiscalización)",
+      "Vinculación de fondos públicos a códigos de conducta que la propia ley permite flexibilizar",
+      "Ambigüedad en el concepto de 'interés estratégico' para autorizar continuidades de cargos"
+    ]
+  },
+  "tweeted": true
+}

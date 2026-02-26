@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-3749",
+  "timestamp": "2026-02-18T09:41:53.117Z",
+  "title": "Resolución de 10 de febrero de 2026, de la Secretaría de Estado de Telecomunicaciones e Infraestructuras digitales, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del sistema de libre designación para un puesto de Nivel 30 (el máximo para un funcionario de carrera) en un área estratégica como la Inspección de Telecomunicaciones sugiere una priorización de la confianza política sobre la concurrencia competitiva. La resolución se ampara en el Real Decreto-ley 6/2023 vinculado al Plan de Recuperación, lo que vincula este nombramiento 'a dedo' con la gestión de fondos europeos, un área donde la opacidad en la selección de personal directivo puede comprometer la imparcialidad técnica en la supervisión de infraestructuras críticas.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector General de Inspección de Telecomunicaciones mediante el sistema de libre designación. El adjudicatario, Manuel García Gil, ya ostentaba un Nivel 30 en el mismo departamento, lo que indica un movimiento interno dentro de la cúpula administrativa. Este sistema permite al Ministerio elegir directamente al candidato sin un concurso de méritos abierto tradicional, garantizando un control estrecho sobre la inspección digital y los fondos de recuperación asociados.",
+    "resumen_tweet": "🚩 ¿Meritocracia o confianza? Adjudicado por libre designación el puesto de Subdirector de Inspección de Telecomunicaciones (Nivel 30). Un cargo clave para gestionar fondos de recuperación decidido 'a dedo'. #BOE #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo rango salarial y de poder funcionario)",
+      "Vinculación directa a la ejecución del Plan de Recuperación y Resiliencia",
+      "Nombramiento renovable cada 5 años supeditado a evaluación no independiente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel García Gil (consolidación en la élite funcionarial)",
+        "Ministerio para la Transformación Digital (control directo sobre inspección técnica)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos sin perfil político",
+        "Ciudadanía (menor transparencia en la vigilancia de infraestructuras digitales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo rango salarial y de poder funcionario)",
+      "Vinculación directa a la ejecución del Plan de Recuperación y Resiliencia",
+      "Nombramiento renovable cada 5 años supeditado a evaluación no independiente"
+    ]
+  },
+  "tweeted": true
+}

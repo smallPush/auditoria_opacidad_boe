@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3822",
+  "timestamp": "2026-02-19T16:26:35.350Z",
+  "title": "Resolución de 12 de febrero de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Secretario/a, que es la figura encargada de velar por la legalidad de los actos del Ayuntamiento, representa una vulnerabilidad estructural. Aunque legal, permite la elección discrecional del 'vigilante' por parte del 'vigilado' (la alcaldía), lo que erosiona la independencia técnica y la separación de funciones en la administración local.",
+    "resumen_ciudadano": "Se ha adjudicado el puesto de Secretario del Ayuntamiento de Santiago de Compostela mediante elección directa (libre designación). Esto significa que la persona encargada de supervisar legalmente los contratos y decisiones del alcalde ha sido elegida por el propio equipo de gobierno, en lugar de por un concurso basado estrictamente en méritos competitivos.",
+    "resumen_tweet": "🚩 ¡Alerta de dedazo legal! 🚩 Se adjudica por libre designación la Secretaría del Ayto. de Santiago de Compostela. ¿Quién vigila al vigilante si lo elige el político? La independencia técnica en riesgo. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puesto de control legal",
+      "Ausencia de justificación técnica sobre la idoneidad frente a otros candidatos",
+      "Riesgo de captura política de la fe pública municipal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Piñeiro Souto (adjudicatario)",
+        "Alcaldía de Santiago de Compostela (control sobre el nombramiento)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no seleccionados",
+        "Ciudadanía (posible pérdida de imparcialidad en la supervisión de fondos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de Habilitado Nacional",
+    "banderas_rojas": [
+      "Sistema de libre designación en puesto de control legal",
+      "Ausencia de justificación técnica sobre la idoneidad frente a otros candidatos",
+      "Riesgo de captura política de la fe pública municipal"
+    ]
+  },
+  "tweeted": true
+}

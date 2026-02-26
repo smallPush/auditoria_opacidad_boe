@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4079",
+  "timestamp": "2026-02-23T19:19:38.015Z",
+  "title": "Resolución de 13 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Diplomados en Estadística del Estado.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Aunque el acto administrativo cumple con la transparencia formal al desglosar nombres, destinos y complementos, el análisis revela una profunda desigualdad retributiva interna. Un técnico de Nivel 20 en la AEAT percibe un complemento específico de 7.340,06€, mientras que sus homólogos en el Ministerio de Economía o Transición Ecológica, con el mismo nivel, apenas alcanzan los 4.894,54€. Existe una brecha del 50% por el mismo rango. Además, la centralización es extrema: la inmensa mayoría de las plazas se concentran en Madrid, penalizando la cohesión territorial y el reto demográfico.",
+    "resumen_ciudadano": "El Gobierno nombra formalmente a los nuevos funcionarios del Cuerpo de Diplomados en Estadística. Estos profesionales trabajarán principalmente en el INE, la Agencia Tributaria y diversos ministerios, encargándose de generar los datos oficiales que guían las políticas públicas. Se destaca la reserva de plaza por discapacidad para uno de los aspirantes.",
+    "resumen_tweet": "📊 Auditamos los nuevos nombramientos del #BOE para Estadística. ✅ Transparencia en datos, pero 🚩 alerta: ¡Un técnico en la AEAT cobra un 50% más de complemento que en otros ministerios por el mismo trabajo! Además, Madrid acapara las plazas. 📍",
+    "banderas_red_flags": [
+      "Brecha salarial interna injustificada entre departamentos",
+      "Centralismo geográfico (hiperconcentración en Madrid)",
+      "Lentitud administrativa (proceso iniciado en 2024, resuelto en 2026)",
+      "Opacidad en la justificación de las diferencias del Complemento Específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal destinado en la Agencia Tributaria (mayores sueldos)",
+        "Comunidad de Madrid (concentración de capital humano)",
+        "Aspirantes con discapacidad (cumplimiento de cuotas)"
+      ],
+      "perdedores": [
+        "España vaciada (escasas plazas en provincias como Teruel o Ceuta)",
+        "Funcionarios en ministerios 'pobres' con complementos bajos",
+        "Sector privado (fuga de estadísticos al sector público)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Brecha salarial interna injustificada entre departamentos",
+      "Centralismo geográfico (hiperconcentración en Madrid)",
+      "Lentitud administrativa (proceso iniciado en 2024, resuelto en 2026)",
+      "Opacidad en la justificación de las diferencias del Complemento Específico"
+    ]
+  },
+  "tweeted": false
+}

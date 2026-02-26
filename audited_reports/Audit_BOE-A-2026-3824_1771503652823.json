@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3824",
+  "timestamp": "2026-02-19T12:20:52.823Z",
+  "title": "Resolución de 9 de febrero de 2026, del Departamento de Justicia y Calidad Democrática, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno libre, que superó el proceso selectivo convocado por la Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución formaliza la estabilización de la plantilla judicial en Cataluña, pero revela la crudeza del sistema administrativo: el cese inmediato de interinos sin periodo de transición. Se detecta una rigidez laboral extrema al prohibir concursos de traslado durante dos años, lo que impacta en la conciliación. La transparencia es alta en forma, pero la opacidad reside en el coste social del desplazamiento del personal temporal que sostenía el servicio hasta ahora.",
+    "resumen_ciudadano": "Se asignan puestos definitivos a los nuevos funcionarios de Justicia en Cataluña. Los aprobados deben incorporarse en 20 días. Como contrapartida, todos los interinos que ocupaban esas plazas son despedidos automáticamente. Los nuevos trabajadores no podrán cambiar de ciudad en al menos dos años.",
+    "resumen_tweet": "🏛️ Nueva adjudicación de plazas en la Justicia de Cataluña. Ganadores: nuevos funcionarios con plaza fija. Perdedores: el personal interino, que cesa automáticamente tras años de servicio. ⚠️ Rigidez: 2 años sin traslados. #BOE #Justicia #Oposiciones",
+    "banderas_red_flags": [
+      "Cese automático y fulminante de interinos",
+      "Prohibición de movilidad geográfica durante 2 años",
+      "Asignación de destinos con carácter forzoso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios de carrera (estabilidad)",
+        "Administración Pública (reducción de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino (pérdida de empleo)",
+        "Funcionarios con necesidades de conciliación familiar"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Recursos Humanos",
+    "banderas_rojas": [
+      "Cese automático y fulminante de interinos",
+      "Prohibición de movilidad geográfica durante 2 años",
+      "Asignación de destinos con carácter forzoso"
+    ]
+  },
+  "tweeted": true
+}

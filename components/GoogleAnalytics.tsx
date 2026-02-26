@@ -7,7 +7,7 @@ declare global {
 }
 
 const GoogleAnalytics: React.FC = () => {
-    const gaId = (process.env as any).GOOGLE_ANALYTICS_ID;
+    const gaId = import.meta.env.VITE_GOOGLE_ANALYTICS_ID;
 
     useEffect(() => {
         if (window.GA_INITIALIZED) {

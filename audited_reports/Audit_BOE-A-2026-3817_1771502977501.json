@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-3817",
+  "timestamp": "2026-02-19T12:09:37.501Z",
+  "title": "Acuerdo de 25 de noviembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Ángel Luis Sanabria Parejo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado sobre la jubilación de un miembro de la judicatura. Aunque es un trámite ordinario, destaca la opacidad sobre el coste real de los 'derechos pasivos' (pensión) que asumirá el Estado. No hay 'gastos fantasma' inmediatos, pero sí una carga diferida en el sistema de Clases Pasivas del Estado, un régimen de protección social superior al del trabajador medio.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial declara oficialmente la jubilación por edad de un Magistrado en Cádiz, activando su pensión pública vitalicia tras cumplir la edad legal establecida.",
+    "resumen_tweet": "⚖️ El CGPJ formaliza la jubilación de un magistrado en Cádiz. Otro retiro en la élite judicial bajo el blindado sistema de Clases Pasivas. ¿Conocemos el impacto real en el presupuesto de pensiones? 📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de desglose sobre la cuantía de la pensión pública generada",
+      "Desfase temporal entre la adopción del acuerdo y su publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (acceso a pensión de clase pasiva)",
+        "Candidatos a la vacante judicial en Cádiz"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social (incremento de pasivos)",
+        "Ciudadanía (desconocimiento del coste total de retiros de élite)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Falta de desglose sobre la cuantía de la pensión pública generada",
+      "Desfase temporal entre la adopción del acuerdo y su publicación oficial"
+    ]
+  },
+  "tweeted": true
+}

@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-3381",
+  "timestamp": "2026-02-14T16:42:45.729Z",
+  "title": "Resolución de 22 de diciembre de 2025, de la Autoridad Portuaria de Gijón, por la que se modifica la de 15 de enero de 2013, por la que se crea y regula la sede electrónica de la Entidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución se presenta como un ejercicio de modernización técnica, destaca una lentitud administrativa alarmante: se actualiza en 2026 para cumplir leyes de 2015 (39/2015 y 40/2015), lo que supone una década de desfase operativo. El texto delega la gestión tecnológica a una división específica sin desglosar el presupuesto destinado a esta 'transformación digital'. Además, la obligatoriedad de la relación electrónica, aunque permitida por ley, genera una barrera de clase para aquellos ciudadanos y pequeños transportistas con baja competencia digital o falta de recursos tecnológicos.",
+    "resumen_ciudadano": "La Autoridad Portuaria de Gijón actualiza su página web oficial y sede electrónica para adaptarse a la ley vigente. Define quién manda en la web, cómo identificarse y cómo poner quejas. Es un trámite administrativo para legalizar el uso de certificados digitales y trámites por internet en el puerto.",
+    "resumen_tweet": "⚓️ El Puerto de Gijón actualiza su sede electrónica... ¡con 10 años de retraso! 🐢 Aunque promete transparencia, la obligatoriedad digital puede excluir a los más vulnerables. ¿Cuánto nos cuesta esta 'modernización' tardía? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Lentitud administrativa extrema (adaptación a leyes de hace 10 años)",
+      "Opacidad en los costes de implementación tecnológica",
+      "Posible brecha digital por obligatoriedad de trámites electrónicos",
+      "Uso de conceptos genéricos como 'eficacia y calidad' sin indicadores medibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de servicios tecnológicos y ciberseguridad",
+        "Grandes operadores portuarios con infraestructura digital propia",
+        "Administración Pública (al reducir atención presencial)"
+      ],
+      "perdedores": [
+        "Ciudadanos con brecha digital",
+        "Pequeños transportistas autónomos",
+        "Sectores socioeconómicos con menor acceso a medios electrónicos"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Digitalización Administrativa",
+    "banderas_rojas": [
+      "Lentitud administrativa extrema (adaptación a leyes de hace 10 años)",
+      "Opacidad en los costes de implementación tecnológica",
+      "Posible brecha digital por obligatoriedad de trámites electrónicos",
+      "Uso de conceptos genéricos como 'eficacia y calidad' sin indicadores medibles"
+    ]
+  },
+  "tweeted": true
+}

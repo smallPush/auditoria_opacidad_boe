@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-3380",
+  "timestamp": "2026-02-14T16:41:30.258Z",
+  "title": "Resolución de 13 de febrero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se presenta como un mero trámite administrativo, pero en realidad es la validación estatal de los márgenes de beneficio de un oligopolio tabaquero. No existe un desglose de qué porcentaje de estos precios corresponde a impuestos especiales frente a márgenes comerciales. Se observa una disparidad de precios que segmenta el mercado: desde puros 'premium' de casi 20 euros hasta picaduras de gran volumen, lo que evidencia una estrategia comercial aceptada por el Estado que facilita el acceso al tabaco según el nivel de renta.",
+    "resumen_ciudadano": "El Gobierno ha publicado los nuevos precios oficiales de venta al público para diversas marcas de tabaco en la Península y Baleares. Esto afecta a cigarrillos, puros, picadura de liar y dispositivos de tabaco calentado. El ajuste ha sido propuesto directamente por los fabricantes e importadores y validado por el Comisionado para el Mercado de Tabacos.",
+    "resumen_tweet": "📢 Hacienda actualiza los precios del tabaco en el #BOE. De cigarrillos a puros de lujo, el Estado publica las tarifas impuestas por las tabaqueras. ¿Recaudación o salud? El bolsillo del ciudadano vuelve a temblar. 💸🚭 #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Falta de desglose de la carga impositiva en el precio final",
+      "Aceptación directa de las propuestas de precios de fabricantes privados",
+      "Ausencia de mención a objetivos de salud pública en una regulación de sustancias adictivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales tabaqueras (Philip Morris, Altadis/Imperial Brands)",
+        "Agencia Tributaria (mayor base imponible)"
+      ],
+      "perdedores": [
+        "Consumidores (especialmente de rentas bajas que dependen de picaduras de liar)",
+        "Salud pública a largo plazo"
+      ]
+    },
+    "comunidad_autonoma": "Península e Illes Balears (Ámbito Estatal)",
+    "tipologia": "Regulación de Precios y Mercado de Tabacos",
+    "banderas_rojas": [
+      "Falta de desglose de la carga impositiva en el precio final",
+      "Aceptación directa de las propuestas de precios de fabricantes privados",
+      "Ausencia de mención a objetivos de salud pública en una regulación de sustancias adictivas"
+    ]
+  },
+  "tweeted": true
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3084",
+  "timestamp": "2026-02-11T12:35:55.443Z",
+  "title": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto-ley 4/2026 surge como respuesta directa al colapso ferroviario en la línea Madrid-Andalucía, intentando frenar el 'algoritmo del desastre' que dispara precios cuando la ciudadanía está atrapada. Aunque la intención es loable bajo el Art. 51 CE, la norma deja una puerta abierta peligrosa: permite subidas si se justifican por 'aumento de costes', un concepto elástico que las grandes operadoras pueden manipular mediante contabilidad creativa. Además, la eficacia en transportes queda supeditada al aval de la Comisión Europea, lo que podría dilatar la protección real en futuras crisis inmediatas.",
+    "resumen_ciudadano": "Esta ley prohíbe que las empresas de transporte y servicios básicos inflen los precios de forma abusiva aprovechando catástrofes naturales (como la DANA) o accidentes graves. A partir de ahora, el precio máximo será el de los 30 días anteriores a la crisis. Se busca evitar que viajar sea un lujo inaccesible cuando las rutas habituales fallan por causas ajenas al ciudadano.",
+    "resumen_tweet": "🛑 ¡Basta de lucro con la tragedia! El #BOE limita por ley los precios en emergencias para evitar abusos tras accidentes o catástrofes. 📉 El precio de los últimos 30 días será el tope. ¡Ojo a las trampas de costes! #Transparencia #Consumo #Emergencia",
+    "banderas_red_flags": [
+      "Cláusula de escape por 'aumento de costes' difícil de auditar para el consumidor",
+      "Dependencia de autorización de la Comisión Europea para el sector transporte",
+      "Ambigüedad en la definición de 'situación de demanda anómala' que queda a discreción del Consejo de Ministros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Usuarios de transporte público y privado en situaciones de crisis",
+        "Familias con rentas bajas afectadas por cierres de infraestructuras",
+        "Consumidores vulnerables"
+      ],
+      "perdedores": [
+        "Operadoras de transporte con modelos de precios dinámicos",
+        "Empresas de logística que especulan con la escasez",
+        "Plataformas de reventa de servicios básicos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Real Decreto-ley de Protección al Consumidor",
+    "banderas_rojas": [
+      "Cláusula de escape por 'aumento de costes' difícil de auditar para el consumidor",
+      "Dependencia de autorización de la Comisión Europea para el sector transporte",
+      "Ambigüedad en la definición de 'situación de demanda anómala' que queda a discreción del Consejo de Ministros"
+    ]
+  }
+}

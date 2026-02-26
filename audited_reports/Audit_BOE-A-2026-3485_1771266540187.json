@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-3485",
+  "timestamp": "2026-02-16T18:29:00.187Z",
+  "title": "Acuerdo de 11 de noviembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María Isabel Soler Navarro.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento es un acto administrativo reglado que formaliza la jubilación forzosa por edad de una magistrada. Aunque cumple con la legalidad, presenta la opacidad característica de la administración española al no desglosar la cuantía de los derechos pasivos (pensión) que el Estado asumirá. No hay incongruencia ideológica, pero sí un sesgo de clase en el sistema de clases pasivas para altos funcionarios frente al régimen general.",
+    "resumen_ciudadano": "Se declara la jubilación obligatoria por alcanzar la edad límite de la Magistrada María Isabel Soler Navarro, destinada en la Audiencia Provincial de Girona, con el reconocimiento de su pensión correspondiente.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la Audiencia de Girona. La magistrada Soler Navarro se retira por edad. Trámite legal estándar, pero con la habitual falta de transparencia en la cuantía de las pensiones de altos cargos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de cuantificación económica de la pensión vitalicia",
+      "Dilación entre la fecha del acuerdo (noviembre) y la publicación (febrero)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a pensión de Clases Pasivas del Estado)"
+      ],
+      "perdedores": [
+        "Contribuyente (quien sostiene el sistema de pensiones de altos cargos sin conocer el impacto presupuestario exacto)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Personal y Jubilaciones",
+    "banderas_rojas": [
+      "Falta de cuantificación económica de la pensión vitalicia",
+      "Dilación entre la fecha del acuerdo (noviembre) y la publicación (febrero)"
+    ]
+  },
+  "tweeted": false
+}

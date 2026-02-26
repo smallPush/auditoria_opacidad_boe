@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4239",
+  "timestamp": "2026-02-24T09:43:27.060Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en la Escala de Médicos Inspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "La resolución es un acto administrativo estándar de nombramiento, pero presenta una rigidez procedimental significativa en su artículo tercero. Aunque se publican con claridad los niveles (26) y complementos específicos (13.417€-13.775€), existe una zona de sombra en la denegación de las adaptaciones de destino para personas con discapacidad. La administración utiliza una fórmula genérica ('no queda debidamente acreditada') para denegar derechos de prelación, lo que genera una barrera burocrática sin especificar los criterios técnicos de dicha evaluación.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de 27 nuevos médicos inspectores de la Seguridad Social. El documento detalla quiénes son, dónde trabajarán y cuánto cobrarán de complemento. Sin embargo, el Estado ha rechazado las peticiones de algunos médicos con discapacidad que solicitaban destinos específicos por necesidad personal, alegando falta de pruebas suficientes.",
+    "resumen_tweet": "🩺 Nuevos médicos inspectores en el #BOE. Transparencia en sueldos (Nivel 26) pero 🚩 sombra en la gestión de discapacidad: se deniegan cambios de destino por 'falta de acreditación'. ¿Burocracia o derecho? #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Denegación discrecional de ajustes por discapacidad",
+      "Uso de fórmulas jurídicas indeterminadas",
+      "Falta de desglose de criterios de evaluación de dependencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios de carrera (acceso a estabilidad laboral)",
+        "Ministerio de Inclusión y Seguridad Social (refuerzo de inspección)",
+        "Nayara Herrera Púa (reincorporación tras aplazamiento)"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad (vencidos por la rigidez administrativa)",
+        "Sistemas de salud regionales en zonas con vacantes no cubiertas por falta de incentivos de movilidad"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Denegación discrecional de ajustes por discapacidad",
+      "Uso de fórmulas jurídicas indeterminadas",
+      "Falta de desglose de criterios de evaluación de dependencia"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4246",
+  "timestamp": "2026-02-24T09:54:33.439Z",
+  "title": "Orden PJC/119/2026, de 11 de febrero, por la que, en ejecución de sentencia, se modifica la Orden JUS/1166/2023, de 17 de octubre, por la que se publica la relación de personas aprobadas del proceso selectivo para ingreso, en el Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno promoción interna, convocado por Orden JUS/242/2022, de 24 de marzo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este documento revela una falla crítica en la gestión de recursos humanos del Ministerio de Justicia. La necesidad de una sentencia judicial (procedimiento abreviado 55/2025) para incluir a un aspirante que legítimamente superó un proceso de 2022 evidencia errores en los sistemas de evaluación o baremación inicial. Existe un 'gasto fantasma' indirecto derivado de los costes procesales y la carga administrativa de rectificar una resolución de hace tres años. La 'Incongruencia Ideológica' reside en que una administración que predica la eficiencia obliga al ciudadano a judicializar sus derechos laborales básicos.",
+    "resumen_ciudadano": "Tras una batalla judicial, el Ministerio de Justicia se ve obligado a reconocer a un trabajador en La Rioja que había sido excluido injustamente del proceso de promoción interna de 2022. La administración tiene ahora que ampliar el número de plazas para dar cumplimiento a la sentencia del Juzgado Central de lo Contencioso-Administrativo n.º 9 de Madrid.",
+    "resumen_tweet": "⚖️ ¡Justicia tardía! Tras 4 años y un juicio, el Ministerio debe admitir a un funcionario en La Rioja omitido erróneamente en 2022. La ineficiencia administrativa la pagamos todos con procesos judiciales evitables. #BOE #Opacidad #Transparencia 🏛️📉",
+    "banderas_red_flags": [
+      "Judicialización de procesos selectivos",
+      "Dilación temporal extrema (4 años desde la convocatoria)",
+      "Ampliación discrecional de plazas por error administrativo",
+      "Fallo en los sistemas de verificación inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Roberto Fernández Díaz (recupera su derecho por vía judicial)",
+        "Sindicatos (como prueba de fallos sistémicos)"
+      ],
+      "perdedores": [
+        "Ministerio de la Presidencia y Justicia (descrédito institucional)",
+        "Contribuyentes (costes derivados del proceso judicial y administrativo)",
+        "Administración de Justicia (retraso en la cobertura real de puestos)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Recursos Humanos y Ejecución de Sentencia",
+    "banderas_rojas": [
+      "Judicialización de procesos selectivos",
+      "Dilación temporal extrema (4 años desde la convocatoria)",
+      "Ampliación discrecional de plazas por error administrativo",
+      "Fallo en los sistemas de verificación inicial"
+    ]
+  },
+  "tweeted": false
+}

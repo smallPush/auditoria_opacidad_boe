@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4073",
+  "timestamp": "2026-02-23T10:36:42.530Z",
+  "title": "Orden EFD/116/2026, de 16 de febrero, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad Autónoma de Andalucía, en ejecución de sentencia, se nombran funcionarias de carrera, a aspirantes seleccionadas en los procedimientos selectivos convocados por Orden de 30 de noviembre de 2020.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un claro ejemplo de la judicialización de los procesos selectivos en España. Aunque formalmente transparente, revela una patología administrativa: dos aspirantes han necesitado seis años (desde la convocatoria de 2020) y sentencias del Tribunal Superior de Justicia de Andalucía para que se les reconozca su derecho como funcionarias de carrera. No se detectan gastos fantasma directos, pero la retroactividad de efectos al 1 de septiembre de 2022 implica un coste en atrasos salariales y cotizaciones que recae sobre el erario público debido a errores iniciales de la Administración.",
+    "resumen_ciudadano": "El Ministerio de Educación oficializa el nombramiento de dos profesoras de secundaria en Andalucía tras sendas sentencias judiciales que corrigieron su exclusión en las oposiciones de 2020. Se les reconoce la antigüedad y efectos económicos desde 2022.",
+    "resumen_tweet": "⚖️ ¡Justicia en las aulas! El #BOE publica el nombramiento de 2 profesoras en Andalucía tras ganar en los tribunales. Un proceso que empezó en 2020 termina en 2026 con efectos retroactivos. La justicia llega, pero lenta. #Transparencia #Educación 🏫",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error administrativo previo",
+      "Dilación excesiva de 6 años para la resolución definitiva del proceso",
+      "Gestión ineficiente de recursos humanos que obliga a acudir a los tribunales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pilar Ocaña Barbero (reconocimiento de derechos)",
+        "Cecilia Montagud Lloret (reconocimiento de derechos)",
+        "Poder Judicial (como garante frente a errores administrativos)"
+      ],
+      "perdedores": [
+        "Administración Andaluza (por el coste del proceso judicial)",
+        "Contribuyentes (pago de posibles intereses y atrasos por errores de gestión)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error administrativo previo",
+      "Dilación excesiva de 6 años para la resolución definitiva del proceso",
+      "Gestión ineficiente de recursos humanos que obliga a acudir a los tribunales"
+    ]
+  },
+  "tweeted": false
+}

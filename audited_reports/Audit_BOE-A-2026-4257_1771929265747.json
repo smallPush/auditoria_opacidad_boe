@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4257",
+  "timestamp": "2026-02-24T10:34:25.747Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Universidad de Granada, por la que se convocan procesos selectivos para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar de Conservación y Mantenimiento.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución presenta una estructura estándar para procesos selectivos, pero incurre en la 'barrera del concurso-oposición'. Aunque se anuncia como acceso libre, la fase de concurso (baremo de méritos) suele estar diseñada para consolidar personal interino, dificultando la entrada de nuevos perfiles sin experiencia previa en la administración. La fragmentación en tres procesos independientes (Granada, Ceuta, Melilla) con exámenes simultáneos obliga al aspirante a una apuesta estratégica ciega, limitando sus posibilidades de movilidad y éxito.",
+    "resumen_ciudadano": "La Universidad de Granada convoca 7 plazas de personal funcionario (Escala Auxiliar de Conservación y Mantenimiento) para sus campus de Granada, Ceuta y Melilla. El nivel exigido es Educación Secundaria (C2) y el sistema es concurso-oposición, lo que significa que los exámenes cuentan tanto como la experiencia previa. El examen no será antes de junio de 2026 y la tasa de examen es de 19 euros.",
+    "resumen_tweet": "⚠️ ¿Acceso libre o consolidación encubierta? La UGR convoca 7 plazas de mantenimiento. El sistema de concurso-oposición y exámenes simultáneos dificulta la entrada a nuevos aspirantes frente a interinos. 🏛️🛠️ #BOE #Opacidad #Transparencia #Granada",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición: La fase de méritos puede desvirtuar la igualdad del acceso libre.",
+      "Exámenes simultáneos: Obliga al candidato a elegir sede sin conocer el número de rivales en cada una.",
+      "Procesos independientes: La superación de pruebas no es convalidable entre campus.",
+      "Carga de tasas: 19€ por proceso sin claridad sobre la reinversión de estos fondos en el proceso."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con servicios prestados en la UGR",
+        "Residentes en Ceuta y Melilla por la descentralización de sedes",
+        "Administración (recaudación por tasas de examen)"
+      ],
+      "perdedores": [
+        "Jóvenes titulados sin experiencia previa en la administración pública",
+        "Aspirantes con bajos recursos que no logren acreditar la exención de tasas por criterios rígidos",
+        "Candidatos externos que deben competir contra el baremo de antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Oferta de Empleo Público / Universidades",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición: La fase de méritos puede desvirtuar la igualdad del acceso libre.",
+      "Exámenes simultáneos: Obliga al candidato a elegir sede sin conocer el número de rivales en cada una.",
+      "Procesos independientes: La superación de pruebas no es convalidable entre campus.",
+      "Carga de tasas: 19€ por proceso sin claridad sobre la reinversión de estos fondos en el proceso."
+    ]
+  },
+  "tweeted": false
+}

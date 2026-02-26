@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3497",
+  "timestamp": "2026-02-16T18:37:16.418Z",
+  "title": "Resolución de 6 de febrero de 2026, de la Dirección General de Justicia y Autogobierno, de la Consellería de Justicia y Administración Pública, por la que se resuelve el concurso específico de puestos de trabajo singularizados por lengua valenciana del Cuerpo de Tramitación Procesal y Administrativa en Fiscalías de la Comunitat Valenciana, convocado, en ejecución de la sentencia, por Resolución de 21 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Esta resolución no es un acto administrativo ordinario, sino la ejecución de una derrota judicial de la Administración (Sentencia 728/2021). Revela una opacidad histórica en la gestión de plazas con requisito lingüístico que obligó a los trabajadores a acudir a los tribunales. El hecho de que se resuelva en 2026 una sentencia de 2021 demuestra una lentitud burocrática que roza la obstrucción. Además, la declaración de plazas desiertas en las provincias de Valencia y Alicante señala un fracaso en la planificación de recursos humanos o una desconexión entre las exigencias lingüísticas y la realidad profesional del cuerpo de funcionarios.",
+    "resumen_ciudadano": "La Generalitat Valenciana se ve obligada por un juez a asignar correctamente plazas de funcionario en fiscalías que requieren valenciano. Solo se han cubierto cuatro puestos, mientras que las plazas más importantes en Valencia y Alicante han quedado vacías por falta de candidatos aptos o interesados, afectando la operatividad de la justicia.",
+    "resumen_tweet": "⚖️ ¡Justicia a cuentagotas! Tras una sentencia de 2021, el #BOE publica plazas en fiscalías de la CV. Lo grave: las plazas de Valencia y Alicante quedan DESIERTAS. ¿Falta de personal cualificado o gestión deficiente? 🏛️❌ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia (indica mala gestión previa)",
+      "Dilación temporal extrema (5 años desde la sentencia)",
+      "Plazas desiertas en zonas de alta demanda (Valencia/Alicante)",
+      "Singularización de puestos que podría encubrir barreras de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 4 funcionarios adjudicatarios (vía judicial)",
+        "El Tribunal Superior de Justicia (cumplimiento de legalidad)"
+      ],
+      "perdedores": [
+        "Ciudadanos (servicio de fiscalía incompleto por vacantes)",
+        "La Administración Valenciana (costes de litigiosidad)",
+        "Sistema de Justicia (ineficiencia en la cobertura de plazas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Resolución de Recursos Humanos / Ejecución de Sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia (indica mala gestión previa)",
+      "Dilación temporal extrema (5 años desde la sentencia)",
+      "Plazas desiertas en zonas de alta demanda (Valencia/Alicante)",
+      "Singularización de puestos que podría encubrir barreras de acceso"
+    ]
+  },
+  "tweeted": false
+}

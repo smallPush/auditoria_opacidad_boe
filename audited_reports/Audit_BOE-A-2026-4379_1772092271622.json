@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4379",
+  "timestamp": "2026-02-26T07:51:11.622Z",
+  "title": "Real Decreto 148/2026, de 25 de febrero, por el que se establecen las bases reguladoras para la concesión directa de ayudas a proyectos españoles por su participación en el esquema «Subasta como Servicio» en el marco del futuro Banco de Descarbonización Industrial, seleccionados por la Agencia Ejecutiva Europea de Clima, Infraestructuras y Medio Ambiente (CINEA), dentro del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' amparándose en el artículo 22.2.c de la Ley General de Subvenciones, justificándolo mediante la externalización de la selección a la agencia europea CINEA. Si bien esto reduce la burocracia y utiliza un ranking internacional, supone una dejación de soberanía en la gestión de fondos públicos nacionales, donde el Estado español actúa meramente como pagador de una lista confeccionada en Bruselas. La norma admite que el ecosistema de beneficiarios es 'muy reducido y especializado', lo que consolida un oligopolio tecnológico e industrial, dificultando el acceso a empresas que no tengan capacidad de competir en foros europeos de alta complejidad técnica.",
+    "resumen_ciudadano": "El Gobierno otorgará ayudas directas a grandes industrias españolas que participaron en subastas europeas de descarbonización y no obtuvieron fondos de la UE. En lugar de realizar un concurso público nacional, se usará el ranking de la Agencia Europea (CINEA) para repartir dinero del Plan de Recuperación. El objetivo es electrificar el calor industrial y usar energías renovables, pero el proceso favorece solo a empresas con gran capacidad técnica y financiera.",
+    "resumen_tweet": "🚨 ¿Ayudas directas sin concurso nacional? El #BOE publica el esquema 'Subasta como Servicio'. El Gobierno pagará proyectos que la UE no financió usando un ranking externo. Eficiencia vs. Control. ¿Y las PYMES? 🏭📉 #Opacidad #Transparencia #NextGenEU",
+    "banderas_red_flags": [
+      "Uso recurrente de la concesión directa (sin concurrencia competitiva nacional)",
+      "Presupuesto total no especificado en el texto ('dotación que pudiera haberse habilitado')",
+      "Barrera de entrada extrema: solo para quienes ya superaron el filtro de la CINEA en Bruselas",
+      "Ambigüedad en el impacto de género: se menciona como eje pero la contribución real es del 0% según el etiquetado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones industriales electro-intensivas",
+        "Empresas de tecnología solar térmica y geotermia a gran escala",
+        "Consultoras especializadas en gestión de fondos europeos"
+      ],
+      "perdedores": [
+        "PYMES industriales (sin infraestructura para subastas europeas)",
+        "Contribuyentes (por la falta de fiscalización directa del proceso de selección nacional)",
+        "Sectores con baja capacidad de electrificación inmediata"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Ayudas / Fondos NextGenerationEU",
+    "banderas_rojas": [
+      "Uso recurrente de la concesión directa (sin concurrencia competitiva nacional)",
+      "Presupuesto total no especificado en el texto ('dotación que pudiera haberse habilitado')",
+      "Barrera de entrada extrema: solo para quienes ya superaron el filtro de la CINEA en Bruselas",
+      "Ambigüedad en el impacto de género: se menciona como eje pero la contribución real es del 0% según el etiquetado"
+    ]
+  },
+  "tweeted": true
+}

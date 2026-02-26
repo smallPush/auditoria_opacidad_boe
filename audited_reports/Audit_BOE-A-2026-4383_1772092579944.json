@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4383",
+  "timestamp": "2026-02-26T07:56:19.944Z",
+  "title": "Resolución de 13 de febrero de 2026, de la Universidad de Barcelona, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolucion cumple con la legalidad administrativa al amparo de la LOSU (Ley Organica 2/2023), pero mantiene el vicio de la opacidad retributiva al no especificar la cuantía exacta del gasto publico generado, limitandose a una remision generica a las disposiciones vigentes. Existe una brecha temporal de ocho meses desde la convocatoria (junio 2025) hasta el nombramiento (febrero 2026), lo que evidencia la lentitud burocratica en la estabilizacion del personal docente e investigador.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado oficialmente a dos nuevos Profesores Titulares en las areas de Geodinamica y Filosofia tras un proceso de concurso iniciado en 2025.",
+    "resumen_tweet": "🎓 La Univ. de Barcelona nombra nuevos catedraticos tras 8 meses de espera. Olga Margalef y Sergi Oms logran plaza, pero el #BOE sigue ocultando el sueldo exacto tras frases genericas. ¿Transparencia real o burocracia? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial real por plaza",
+      "Retraso administrativo de 8 meses en la resolucion",
+      "Uso de lenguaje administrativo que oculta el impacto presupuestario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Margalef Marrase, Olga (estabilidad laboral)",
+        "Oms Sardans, Sergi (estabilidad laboral)",
+        "Universidad de Barcelona (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente investigador precario (sin acceso a plazas fijas)",
+        "Ciudadania (por falta de claridad en el destino de fondos publicos para sueldos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial real por plaza",
+      "Retraso administrativo de 8 meses en la resolucion",
+      "Uso de lenguaje administrativo que oculta el impacto presupuestario"
+    ]
+  },
+  "tweeted": true
+}

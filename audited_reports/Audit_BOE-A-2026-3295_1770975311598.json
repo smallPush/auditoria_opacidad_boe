@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-3295",
+  "timestamp": "2026-02-13T09:35:11.598Z",
+  "title": "Acuerdo de 11 de noviembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María Ángeles Duque Ortega.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un acto administrativo reglado de jubilación forzosa por edad. Aunque cumple con la legalidad vigente (LOPJ 6/1985), evidencia el mantenimiento del régimen de Clases Pasivas del Estado, un sistema de pensiones diferenciado para la élite funcionarial que genera una asimetría respecto al régimen general de la Seguridad Social. No se especifica el impacto económico ni la cuantía de los 'derechos pasivos' que se le reconocen, perpetuando una opacidad sobre el coste real de estas jubilaciones de alto rango.",
+    "resumen_ciudadano": "Se declara la jubilación por alcanzar la edad legal de la Magistrada del Juzgado de lo Penal 12 de Madrid, María Ángeles Duque Ortega. Este es un trámite obligatorio que garantiza su pase a la jubilación con la pensión máxima correspondiente a su categoría judicial.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial: la Magistrada Duque Ortega deja su juzgado en Madrid. Un recordatorio de las 'Clases Pasivas' y el blindaje de las pensiones de la judicatura frente al ciudadano común. 🏛️ #BOE #Opacidad #Transparencia #Pensiones",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la prestación de jubilación",
+      "Referencia a regímenes de Clases Pasivas (dualidad de sistema)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a pensión de alto nivel)",
+        "Sistema judicial (por renovación de plaza)"
+      ],
+      "perdedores": [
+        "Contribuyentes (mantenimiento de regímenes de pensiones privilegiados)",
+        "Igualdad de clase (brecha entre pensiones judiciales y medias)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la prestación de jubilación",
+      "Referencia a regímenes de Clases Pasivas (dualidad de sistema)"
+    ]
+  }
+}

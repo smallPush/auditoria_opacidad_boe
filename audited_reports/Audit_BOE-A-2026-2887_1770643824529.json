@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-2887",
+  "timestamp": "2026-02-09T13:30:24.529Z",
+  "title": "Corrección de errores de la Ley 8/2025, de 22 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa el uso de la 'corrección de errores' para introducir un hecho imponible que no figuraba en la publicación original: la Licencia de Caza Temporal de 28,29 euros. No se trata de una errata gramatical, sino de una omisión sustantiva de una tasa económica. Esta práctica reduce la seguridad jurídica y sugiere una elaboración presupuestaria apresurada o una ocultación táctica de cargas fiscales específicas hasta después del debate parlamentario.",
+    "resumen_ciudadano": "La Junta de Andalucía modifica sus presupuestos de 2026 poco después de aprobarlos para incluir una tasa que se les 'olvidó': la licencia de caza temporal, que costará 28,29 euros por periodo. Este cambio se presenta como una simple corrección de errores a pesar de implicar un cobro directo al ciudadano.",
+    "resumen_tweet": "🚨 ¡Ojo a los presupuestos de Andalucía! Una 'corrección de errores' añade por sorpresa la tasa de caza temporal (28,29€) que no aparecía en el texto original. ¿Despiste o falta de transparencia? 📉🐗 #BOE #Opacidad #Transparencia #Andalucía",
+    "banderas_red_flags": [
+      "Inclusión de tasas económicas vía corrección de errores",
+      "Omisión de datos fiscales en el texto legislativo inicial",
+      "Falta de rigor en la fiscalización previa del presupuesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hacienda autonómica (recaudación no prevista inicialmente)",
+        "Gestores cinegéticos (regularización de licencias)"
+      ],
+      "perdedores": [
+        "Cazadores ocasionales (nueva carga de 28,29€)",
+        "Ciudadanía (pérdida de seguridad jurídica y transparencia legislativa)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Presupuestaria / Fiscalidad",
+    "banderas_rojas": [
+      "Inclusión de tasas económicas vía corrección de errores",
+      "Omisión de datos fiscales en el texto legislativo inicial",
+      "Falta de rigor en la fiscalización previa del presupuesto"
+    ]
+  }
+}

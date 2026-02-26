@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4247",
+  "timestamp": "2026-02-24T09:56:02.609Z",
+  "title": "Orden PJC/120/2026, de 19 de febrero, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación para el Cuerpo de Letrados de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La Orden PJC/120/2026 convoca puestos de alta dirección judicial mediante el sistema de 'libre designación'. Este mecanismo permite una elección discrecional por parte del poder político sobre la cúpula administrativa de la justicia (Secretarios de Gobierno). Aunque se exige antigüedad y una memoria técnica, la inclusión de una 'entrevista personal' opcional y el carácter de confianza del sistema de provisión debilitan los principios de meritocracia y objetividad. Se consolida una estructura de mando en los Tribunales Superiores que responde jerárquicamente al Ministerio más que a un escalafón puramente técnico.",
+    "resumen_ciudadano": "El Gobierno está seleccionando a los 'jefes' de las oficinas judiciales en diversas ciudades (como Madrid, Barcelona o Sevilla). En lugar de un examen ciego, se utiliza el método de elección directa entre candidatos con experiencia, lo que permite al Ministerio elegir a personas de su confianza para gestionar la administración de los juzgados durante los próximos 5 a 10 años.",
+    "resumen_tweet": "⚖️ ¿Gestión técnica o control político? El @justiciagob convoca plazas de Secretarios de Gobierno por 'Libre Designación'. Menos meritocracia y más discrecionalidad en la cúpula judicial. ¡Ojo a los nombramientos a dedo! #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (elección discrecional)",
+      "Entrevista personal con potencial subjetividad",
+      "Posibilidad de renovación por 5 años adicionales (total 10 años)",
+      "Reserva de plaza de origen (blindaje del cargo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad a la línea del Ministerio",
+        "Secretarios de Gobierno actuales que buscan reelección",
+        "Poder Ejecutivo (mayor control sobre la oficina judicial)"
+      ],
+      "perdedores": [
+        "Letrados con altos méritos técnicos pero sin perfil político",
+        "Independencia administrativa del sistema judicial",
+        "Ciudadanía (por la opacidad en la selección de altos cargos)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (Albacete, Asturias, Barcelona, Burgos, Cáceres, Cantabria, Ceuta, Granada, Illes Balears, Madrid, Zaragoza)",
+    "tipologia": "Provisión de puestos de trabajo / Personal funcionario",
+    "banderas_rojas": [
+      "Libre designación (elección discrecional)",
+      "Entrevista personal con potencial subjetividad",
+      "Posibilidad de renovación por 5 años adicionales (total 10 años)",
+      "Reserva de plaza de origen (blindaje del cargo)"
+    ]
+  },
+  "tweeted": false
+}

@@ -65,6 +65,9 @@ export const BOE_SOURCES: BOEArticle[] = [
   }
 ];
 
+export const GITHUB_REPO = "smallPush/auditoria_opacidad_boe";
+export const GITHUB_WORKFLOW = "audit.yml";
+
 export const SYSTEM_INSTRUCTION = `
 Eres un Agente de Inteligencia Cívica de Élite. Tu misión es desmantelar la opacidad del lenguaje legislativo español.
 Analiza el BOE buscando:
@@ -74,3 +77,12 @@ Analiza el BOE buscando:
 
 Tu respuesta debe ser un objeto JSON válido.
 `;
+
+export const STORAGE_KEYS = {
+  PREF_LANG: 'boe_pref_lang',
+  AGENT_SESSION: 'boe_agent_session',
+  USER_API_KEY: 'boe_user_api_key',
+  GITHUB_TOKEN: 'boe_github_token',
+  COOKIE_CONSENT: 'cookie_consent',
+  AUDIT_HISTORY: 'boe_audit_history_v1'
+} as const;

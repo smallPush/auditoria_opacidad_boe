@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3310",
+  "timestamp": "2026-02-13T09:53:08.844Z",
+  "title": "Resolución de 2 de febrero de 2026, conjunta de la Universidad Autónoma de Barcelona y el Instituto Catalán de la Salud, por la que se nombra Profesor Titular de Universidad a don Sergio Bellmunt Montoya.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento detalla un nombramiento de plaza vinculada entre la Universidad Autónoma de Barcelona (UAB) y el Instituto Catalán de la Salud (ICS). Aunque formalmente correcto, este tipo de figuras crea una dualidad contractual que dificulta el rastreo del coste real para el erario público al dividir la carga financiera entre el presupuesto educativo y el sanitario. Existe una falta de transparencia en cuanto a las retribuciones específicas y los méritos comparativos frente a otros candidatos, manteniendo la opacidad tradicional en la provisión de plazas en la cúpula médico-académica.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de Sergio Bellmunt Montoya como Profesor Titular en el Departamento de Cirugía de la UAB, con puesto físico de trabajo en el Hospital Vall d’Hebron. Es un cargo híbrido que combina docencia universitaria y práctica clínica hospitalaria de alto nivel.",
+    "resumen_tweet": "🚨 Nueva plaza vinculada UAB-ICS: Sergio Bellmunt Montoya accede a la élite médica-académica en el Vall d'Hebron. ¿Coste total? Desconocido. La opacidad salarial persiste en el sistema universitario 🏥🎓 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Carga presupuestaria compartida de difícil auditoría",
+      "Falta de mención al presupuesto asignado a la plaza",
+      "Perpetuación de la brecha de género en las cátedras de cirugía"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sergio Bellmunt Montoya",
+        "Hospital Universitari Vall d’Hebron",
+        "Élite médica universitaria"
+      ],
+      "perdedores": [
+        "Investigadoras (brecha de género en cirugía)",
+        "Contribuyente (falta de detalle en el gasto)",
+        "Candidatos externos sin vinculación previa con el ICS"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Carga presupuestaria compartida de difícil auditoría",
+      "Falta de mención al presupuesto asignado a la plaza",
+      "Perpetuación de la brecha de género en las cátedras de cirugía"
+    ]
+  }
+}

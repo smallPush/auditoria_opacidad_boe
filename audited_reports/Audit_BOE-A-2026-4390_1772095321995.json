@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4390",
+  "timestamp": "2026-02-26T08:42:01.995Z",
+  "title": "Resolución de 19 de febrero de 2026, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se basa en el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional de altos cargos. Al tratarse de un Nivel 29 (Subdirector Adjunto) con un complemento específico de 24.549,84 euros, la falta de criterios de evaluación cuantitativos y la dependencia de una 'entrevista personal' generan un espacio de opacidad donde el mérito y la capacidad quedan supeditados a la confianza política o personal del órgano convocante.",
+    "resumen_ciudadano": "El Ministerio de Justicia busca un Subdirector Adjunto en Madrid con un sueldo extra de más de 24.000 euros anuales. El proceso de selección es 'a dedo' (libre designación), lo que significa que no hay un examen ciego, sino que se elige a la persona según su currículum y una entrevista subjetiva realizada por los propios superiores del departamento.",
+    "resumen_tweet": "Nivel 29 'a dedo' en Justicia ⚖️. Convocada plaza de Subdirector con +24.000€ de complemento mediante 'libre designación'. ¿Mérito técnico o confianza política? La discrecionalidad sigue blindada en la administración. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad total)",
+      "Criterio de selección basado en entrevista personal subjetiva",
+      "Alta cuantía de complemento específico sin objetivos detallados",
+      "Ausencia de baremo de puntuación para los méritos del CV"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Élite funcionarial del Grupo A1",
+        "Perfiles con afinidad política o personal con la Dirección General",
+        "Candidatos con red de contactos en la administración central"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Principio de independencia de la función pública",
+        "Contribuyentes que financian estructuras de confianza"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad total)",
+      "Criterio de selección basado en entrevista personal subjetiva",
+      "Alta cuantía de complemento específico sin objetivos detallados",
+      "Ausencia de baremo de puntuación para los méritos del CV"
+    ]
+  },
+  "tweeted": true
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-3293",
+  "timestamp": "2026-02-13T09:32:34.934Z",
+  "title": "Real Decreto 82/2026, de 4 de febrero, por el que se nombra Vocal Togado del Tribunal Militar Territorial Cuarto de A Coruña al Teniente Coronel Auditor don Jorge Arangüena Sande.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto 82/2026 oficializa un nombramiento bajo la modalidad de 'discrecional', una figura jurídica que permite al CGPJ seleccionar perfiles para la cúpula judicial sin necesidad de un escalafón estrictamente objetivo. Este mecanismo, aunque legal, es un foco de opacidad al no detallar en el BOE la comparativa de méritos con otros candidatos. La coexistencia de la jurisdicción militar con la civil bajo una estructura jerárquica castrense plantea dudas sobre la independencia judicial absoluta en casos que afecten a la propia jerarquía militar.",
+    "resumen_ciudadano": "El Gobierno y el Consejo General del Poder Judicial han asignado a dedo al Teniente Coronel Jorge Arangüena Sande como Vocal (juez) del Tribunal Militar de A Coruña. Se trata de un puesto clave en la justicia militar donde la elección no se basa en un examen público, sino en la decisión discrecional del Pleno, lo que dificulta saber si es el candidato más apto o simplemente el más cercano a los núcleos de poder.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento 'a dedo' en la justicia militar. El Teniente Coronel Arangüena ocupará plaza en el Tribunal de A Coruña. La discrecionalidad del CGPJ vuelve a imponerse sobre la transparencia de méritos. 🛡️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (sin concurso de méritos público)",
+      "Doble dependencia administrativa (Defensa y Justicia)",
+      "Falta de justificación detallada de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Arangüena Sande (ascenso/estabilidad en puesto clave)",
+        "Cuerpo Jurídico Militar",
+        "Ministerio de Defensa"
+      ],
+      "perdedores": [
+        "Candidatos con méritos técnicos sin respaldo político",
+        "Transparencia democrática",
+        "Independencia judicial pura"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de Personal de la Administración de Justicia",
+    "banderas_rojas": [
+      "Nombramiento discrecional (sin concurso de méritos público)",
+      "Doble dependencia administrativa (Defensa y Justicia)",
+      "Falta de justificación detallada de la idoneidad del candidato"
+    ]
+  }
+}

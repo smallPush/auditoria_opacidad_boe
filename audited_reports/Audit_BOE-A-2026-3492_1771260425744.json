@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-3492",
+  "timestamp": "2026-02-16T16:47:05.744Z",
+  "title": "Resolución de 5 de febrero de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, por la que se resuelve el concurso específico, convocado por Resolución de 28 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion del CSIC revela una preocupante 'movilidad circular' y endogamia administrativa, donde funcionarios ya integrados en la estructura simplemente rotan o consolidan puestos. Sin embargo, el hallazgo mas critico es la incapacidad para cubrir perfiles tecnicos: multiples plazas de programacion e I+D+I en zonas como Murcia, Canarias o Valencia han quedado DESIERTAS. Esto indica que los salarios o condiciones del sector publico no compiten con el mercado privado, lastrando la capacidad tecnologica del principal organismo cientifico de España.",
+    "resumen_ciudadano": "El CSIC ha adjudicado nuevos puestos a funcionarios, pero el proceso ha fallado en lo mas importante: no se han encontrado personas para cubrir puestos clave de programadores y especialistas en investigacion en varias provincias. Mientras las oficinas en Madrid y los puestos de gestion se llenan, la parte tecnica que realmente hace avanzar la ciencia se queda vacia.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El CSIC deja vacantes plazas clave de Programación e I+D+I en regiones periféricas. La burocracia interna se consolida en Madrid mientras la ciencia técnica sufre para atraer talento. ¡Plazas desiertas = menos innovación! 🧬🚫 #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de puestos desiertos en areas tecnicas",
+      "Consolidacion de puestos en la misma unidad de origen (Endogamia)",
+      "Fuga de talento en perfiles de programacion (IT)",
+      "Concentracion de adjudicaciones en sedes centrales frente a la periferia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpos administrativos A1/A2 en Madrid y Sevilla",
+        "Personal de gestion de la Organizacion Central"
+      ],
+      "perdedores": [
+        "Centros oceanograficos de Canarias y Murcia",
+        "Proyectos de digitalizacion e IT (plazas de programador sin cubrir)",
+        "Sociedad civil (menos capacidad de ejecucion cientifica)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de puestos desiertos en areas tecnicas",
+      "Consolidacion de puestos en la misma unidad de origen (Endogamia)",
+      "Fuga de talento en perfiles de programacion (IT)",
+      "Concentracion de adjudicaciones en sedes centrales frente a la periferia"
+    ]
+  },
+  "tweeted": false
+}
