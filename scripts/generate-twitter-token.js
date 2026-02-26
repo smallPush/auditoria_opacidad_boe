@@ -91,8 +91,8 @@ async function main() {
 
       updateVar('TWITTER_CLIENT_ID', CLIENT_ID);
       updateVar('TWITTER_CLIENT_SECRET', CLIENT_SECRET);
-      updateVar('TWITTER_ACCESS_TOKEN', accessToken, '(TEMPORAL: 2 HORAS)');
-      updateVar('TWITTER_REFRESH_TOKEN', refreshToken, '(PERMANENTE: 6 MESES)');
+      updateVar('TWITTER_ACCESS_TOKEN', accessToken, '(TEMPORARY: 2 HOURS)');
+      updateVar('TWITTER_REFRESH_TOKEN', refreshToken, '(PERMANENT: 6 MONTHS)');
 
       // Atomic write with restricted permissions (0600)
       const tmpPath = envPath + '.tmp';
