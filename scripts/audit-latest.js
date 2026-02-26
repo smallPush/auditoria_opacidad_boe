@@ -6,11 +6,11 @@ import { fileURLToPath } from 'url';
 import { GoogleGenAI, Type } from "@google/genai";
 import { sendTweet } from './twitter-client.js';
 
-// Standard __dirname for ESM
+// __dirname estándar para ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Manually load .env for Node < 20.6
+// Cargar manualmente .env para Node < 20.6
 const envPath = path.join(__dirname, '../.env');
 if (fs.existsSync(envPath)) {
   const envContent = fs.readFileSync(envPath, 'utf8');
@@ -22,10 +22,10 @@ if (fs.existsSync(envPath)) {
   });
 }
 
-// Constants
+// Constantes
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
 
-// Ensure the directory exists
+// Asegurar que el directorio existe
 if (!fs.existsSync(AUDITED_REPORTS_DIR)) {
   fs.mkdirSync(AUDITED_REPORTS_DIR, { recursive: true });
 }
@@ -59,9 +59,9 @@ async function shortenUrl(url) {
 }
 
 async function analyzeBOE(xmlContent) {
-  // Using the same pattern as geminiService.ts
+  // Usando el mismo patrón que geminiService.ts
   const response = await ai.models.generateContent({
-    model: 'gemini-3-flash-preview', // Using the same model as in the UI service
+    model: 'gemini-3-flash-preview', // Usando el mismo modelo que en el servicio de UI
     contents: `AUDITA ESTA LEY DEL BOE (XML):
 
     ${xmlContent.substring(0, 30000)}
@@ -185,10 +185,10 @@ async function fetchLatestBOE(targetDate) {
 
 async function run() {
   try {
-    // Parse arguments
+    // Analizar argumentos
     const args = process.argv.slice(2);
     let targetDate = null;
-    let limit = 20; // Default limit
+    let limit = 20; // Límite por defecto
 
     for (let i = 0; i < args.length; i++) {
       if (args[i] === '--date') {
@@ -219,7 +219,7 @@ async function run() {
         const filePath = path.join(AUDITED_REPORTS_DIR, file);
         try {
           const content = JSON.parse(await readFile(filePath, 'utf8'));
-          // Keep the latest file if there are duplicates
+          // Mantener el archivo más reciente si hay duplicados
           if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
             auditedMap.set(boeId, {
               filePath,
@@ -249,7 +249,7 @@ async function run() {
           const tweetText = `${existing.report.resumen_tweet}\n\n${shortUrl}`;
           try {
             await sendTweet(tweetText);
-            // Update the file to mark as tweeted
+            // Actualizar el archivo para marcar como tuiteado
             const content = JSON.parse(await readFile(existing.filePath, 'utf8'));
             content.tweeted = true;
             await writeFile(existing.filePath, JSON.stringify(content, null, 2));
@@ -261,7 +261,7 @@ async function run() {
         continue;
       }
 
-      // Rate Limiting: Wait 1 minute between items to avoid Gemini API limits
+      // Limitación de velocidad: Esperar 1 minuto entre elementos para evitar límites de la API de Gemini
       if (processedCount > 0) {
         console.log("⏳ Waiting 1 minute before next audit...");
         await new Promise(resolve => setTimeout(resolve, 60000));

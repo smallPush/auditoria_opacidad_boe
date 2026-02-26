@@ -100,18 +100,18 @@ const App: React.FC = () => {
         const parser = new DOMParser();
         const xml = parser.parseFromString(text, 'text/xml');
 
-        // Handle both possible structures (REST API vs legacy xml.php)
+        // Manejar ambas estructuras posibles (REST API vs xml.php heredado)
         const items = xml.querySelectorAll('item');
         if (items.length === 0) return [];
 
         return Array.from(items).map((item: any) => {
-          // Identificador can be in an attribute (xml.php) or in a child node (REST API)
+          // El identificador puede estar en un atributo (xml.php) o en un nodo hijo (REST API)
           const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
           const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
 
-          // Structure mapping:
-          // REST API: item -> departamento (parent) @nombre
-          // xml.xml: item -> departamento (ancestor) -> nombre
+          // Mapeo de estructura:
+          // REST API: item -> departamento (padre) @nombre
+          // xml.xml: item -> departamento (ancestro) -> nombre
           const deptNode = item.closest('departamento');
           const departamento = deptNode?.getAttribute('nombre') || deptNode?.querySelector('nombre')?.textContent || 'Varios';
 
@@ -126,17 +126,17 @@ const App: React.FC = () => {
       }
     };
 
-    // Start all requests in parallel
+    // Iniciar todas las solicitudes en paralelo
     const fetchPromises = urls.map(url => fetchAndParse(url));
 
     let foundArticles: ScrapedLaw[] = [];
 
-    // Process results in priority order
+    // Procesar resultados en orden de prioridad
     for (const promise of fetchPromises) {
       const articles = await promise;
       if (articles.length > 0) {
         foundArticles = articles;
-        break; // Stop at the first source that provides articles
+        break; // Detenerse en la primera fuente que proporcione artículos
       }
     }
 
@@ -171,7 +171,7 @@ const App: React.FC = () => {
 
   const handleLogin = async () => {
     if (requiredPasswordHash) {
-      // Hashing for secure comparison
+      // Hashing para comparación segura
       const encoder = new TextEncoder();
       const data = encoder.encode(password);
       const hashBuffer = await crypto.subtle.digest('SHA-256', data);
@@ -192,9 +192,6 @@ const App: React.FC = () => {
       setIsLoggedIn(true);
       localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
       setShowLogin(false);
-    } else {
-      setLoginError(true);
-      setTimeout(() => setLoginError(false), 3000);
     }
   };
 
@@ -265,17 +262,17 @@ const App: React.FC = () => {
   const handleImportData = async (data: any) => {
     try {
       if (Array.isArray(data)) {
-        // Bulk import of AuditHistoryItem[]
+        // Importación masiva de AuditHistoryItem[]
         for (const item of data) {
           if (item.boeId && item.title && item.audit) {
             await saveAuditToDB(item.boeId, item.title, item.audit);
           }
         }
       } else if (data.boe_id && data.report) {
-        // Single report import from Download format
+        // Importación de informe único desde formato de descarga
         await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
       } else if (data.boeId && data.audit) {
-        // Single AuditHistoryItem import
+        // Importación de un solo AuditHistoryItem
         await saveAuditToDB(data.boeId, data.title || data.boeId, data.audit);
       } else {
         throw new Error("Invalid Format");
@@ -548,7 +545,7 @@ const App: React.FC = () => {
                       value={radarSearchQuery}
                       onChange={(e) => {
                         setRadarSearchQuery(e.target.value);
-                        setRadarPage(1); // Reset to first page on search
+                        setRadarPage(1); // Reiniciar a la primera página en la búsqueda
                       }}
                     />
                   </div>

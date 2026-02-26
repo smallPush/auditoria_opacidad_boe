@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
-  // Detect valid GA ID, ignoring mock values
+  // Detectar ID válido de GA, ignorando valores simulados
   const getValidGaId = () => {
     const ids = [env.VITE_GOOGLE_ANALYTICS_ID, env.GOOGLE_ANALYTICS_ID];
     return ids.find(id => id && id !== 'G-XXXXXXXXXX' && id !== 'your_ga_id_here');
@@ -54,7 +54,7 @@ export default defineConfig(({ mode }) => {
                   const { sendTweet } = await import('./scripts/twitter-client.js');
                   const { text } = JSON.parse(body);
 
-                  // Post Tweet using the shared helper
+                  // Publicar Tweet usando el asistente compartido
                   await sendTweet(text);
 
                   res.statusCode = 200;
@@ -97,7 +97,7 @@ export default defineConfig(({ mode }) => {
 
                   fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
 
-                  // Update Index
+                  // Actualizar índice
                   const files = fs.readdirSync(reportsDir);
                   const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
                   let currentIndex = [];

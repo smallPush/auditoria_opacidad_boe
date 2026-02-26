@@ -23,7 +23,7 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
 
   const localAudits: AuditHistoryItem[] = [];
 
-  // Index indexData for faster lookup
+  // Indexar indexData para una búsqueda más rápida
   const indexMap = new Map<string, any>();
   indexData.forEach(idx => indexMap.set(idx.id, idx));
 

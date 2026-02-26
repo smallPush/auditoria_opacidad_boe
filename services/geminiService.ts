@@ -6,7 +6,7 @@ import { translations, Language } from "../translations";
 let isApiBlocked = false;
 
 const validateApiKey = (lang: Language, userApiKey?: string) => {
-  // Use user-provided API key or VITE_ prefixed environment variable
+  // Usar la clave API proporcionada por el usuario o la variable de entorno con prefijo VITE_
   const apiKey = userApiKey || import.meta.env.VITE_GEMINI_API_KEY;
   if (!apiKey || apiKey === 'undefined' || apiKey === 'null' || apiKey.length < 15) {
     throw new Error(translations[lang].apiKeyError);
@@ -14,7 +14,7 @@ const validateApiKey = (lang: Language, userApiKey?: string) => {
   return apiKey;
 };
 
-// Audits a BOE law XML content using Gemini 3 Flash.
+// Audita el contenido XML de una ley del BOE utilizando Gemini 3 Flash.
 export const analyzeBOE = async (xmlContent: string, lang: Language = 'es', userApiKey?: string): Promise<BOEAuditResponse> => {
   const apiKey = validateApiKey(lang, userApiKey);
   if (isApiBlocked && !userApiKey) throw new Error("API calls are blocked due to a previous error.");

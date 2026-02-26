@@ -1,7 +1,7 @@
 
 import { BOEArticle } from './types';
 
-// This simulates the JSON file with URLs to search for BOE articles
+// Esto simula el archivo JSON con URLs para buscar artículos del BOE
 export const BOE_SOURCES: BOEArticle[] = [
   {
     id: "BOE-A-2024-4161",
