@@ -46,7 +46,7 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
 export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
   let remoteData: AuditHistoryItem[] = [];
 
-  // Intentar obtener de Supabase
+  // Try to get from Supabase
   if (supabase) {
     const { data, error } = await supabase
       .from('boe_audits')
@@ -63,26 +63,26 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
     }
   }
 
-  // Obtener de LocalStorage
+  // Get from LocalStorage
   const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localStorageData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
 
-  // Obtener de carpeta audited_reports (empaquetados con la app)
+  // Get from audited_reports folder (bundled with the app)
   const auditedFolderData = loadLocalAudits();
 
-  // Fusionar datos (priorizar remotos > locales de carpeta > localStorage)
-  // Usar un Map para deduplicar eficientemente manteniendo prioridades
+  // Merge data (prioritize remote > folder local > localStorage)
+  // Use a Map to efficiently deduplicate while maintaining priorities
   const mergedMap = new Map<string, AuditHistoryItem>();
   const localIds = new Set<string>();
 
-  // 1. Cargar IDs actuales de LocalStorage y añadir a mapa (prioridad baja)
+  // 1. Load current IDs from LocalStorage and add to map (low priority)
   for (let i = 0; i < localStorageData.length; i++) {
     const item = localStorageData[i];
     localIds.add(item.boeId);
     mergedMap.set(item.boeId, item);
   }
 
-  // 2. Procesar datos de carpeta (prioridad media, sobrescribe local si coincide)
+  // 2. Process folder data (medium priority, overwrites local if matches)
   let localStorageUpdated = false;
   for (let i = 0; i < auditedFolderData.length; i++) {
     const item = auditedFolderData[i];
@@ -94,13 +94,13 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
     }
   }
 
-  // 3. Procesar datos remotos (prioridad alta, sobrescribe anteriores)
+  // 3. Process remote data (high priority, overwrites previous)
   for (let i = 0; i < remoteData.length; i++) {
     const item = remoteData[i];
     mergedMap.set(item.boeId, item);
   }
 
-  // Guardar en LocalStorage si hubo sincronización de carpeta
+  // Save to LocalStorage if folder synchronization occurred
   if (localStorageUpdated) {
     localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify(localStorageData));
   }
@@ -116,13 +116,13 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
     timestamp: Date.now()
   };
 
-  // Guardar en LocalStorage (siempre)
+  // Save to LocalStorage (always)
   const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
   const filteredLocal = localData.filter(item => item.boeId !== boeId);
   localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify([newItem, ...filteredLocal]));
 
-  // Guardar en Sistema de Archivos Local (Bridge) si estamos en desarrollo
+  // Save to Local File System (Bridge) if in development
   if (import.meta.env.DEV) {
     try {
       await fetch('/api/save-audit', {
@@ -135,7 +135,7 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
     }
   }
 
-  // Guardar en Supabase (si está disponible)
+  // Save to Supabase (if available)
   if (supabase) {
     const { error } = await supabase
       .from('boe_audits')

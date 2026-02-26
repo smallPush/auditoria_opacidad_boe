@@ -188,13 +188,10 @@ const App: React.FC = () => {
         setTimeout(() => setLoginError(false), 3000);
       }
     } else {
-      // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
+      // If no password is configured in the environment, allow free access by default
       setIsLoggedIn(true);
       localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
       setShowLogin(false);
-    } else {
-      setLoginError(true);
-      setTimeout(() => setLoginError(false), 3000);
     }
   };
 
