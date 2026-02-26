@@ -192,6 +192,9 @@ const App: React.FC = () => {
       setIsLoggedIn(true);
       localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
       setShowLogin(false);
+    } else {
+      setLoginError(true);
+      setTimeout(() => setLoginError(false), 3000);
     }
   };
 
