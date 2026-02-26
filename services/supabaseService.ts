@@ -70,43 +70,42 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
   // Obtener de carpeta audited_reports (empaquetados con la app)
   const auditedFolderData = loadLocalAudits();
 
-  // Fusionar datos (priorizar remotos, luego locales de carpeta, finalmente localStorage)
-  const merged = [...remoteData];
-  const mergedIds = new Set<string>();
-  merged.forEach(m => mergedIds.add(m.boeId));
-
+  // Fusionar datos (priorizar remotos > locales de carpeta > localStorage)
+  // Usar un Map para deduplicar eficientemente manteniendo prioridades
+  const mergedMap = new Map<string, AuditHistoryItem>();
   const localIds = new Set<string>();
-  localStorageData.forEach(l => localIds.add(l.boeId));
 
-  // Añadir datos de la carpeta si no están ya (por boeId)
+  // 1. Cargar IDs actuales de LocalStorage y añadir a mapa (prioridad baja)
+  for (let i = 0; i < localStorageData.length; i++) {
+    const item = localStorageData[i];
+    localIds.add(item.boeId);
+    mergedMap.set(item.boeId, item);
+  }
+
+  // 2. Procesar datos de carpeta (prioridad media, sobrescribe local si coincide)
   let localStorageUpdated = false;
-  auditedFolderData.forEach(folderItem => {
-    if (!mergedIds.has(folderItem.boeId)) {
-      merged.push(folderItem);
-      mergedIds.add(folderItem.boeId);
-    }
-    // Sincronizar con LocalStorage si no está (según petición del usuario)
-    if (!localIds.has(folderItem.boeId)) {
-      localStorageData.push(folderItem);
-      localIds.add(folderItem.boeId);
+  for (let i = 0; i < auditedFolderData.length; i++) {
+    const item = auditedFolderData[i];
+    mergedMap.set(item.boeId, item);
+    if (!localIds.has(item.boeId)) {
+      localStorageData.push(item);
+      localIds.add(item.boeId);
       localStorageUpdated = true;
     }
-  });
+  }
 
-  // Guardar en LocalStorage si hubo cambios
+  // 3. Procesar datos remotos (prioridad alta, sobrescribe anteriores)
+  for (let i = 0; i < remoteData.length; i++) {
+    const item = remoteData[i];
+    mergedMap.set(item.boeId, item);
+  }
+
+  // Guardar en LocalStorage si hubo sincronización de carpeta
   if (localStorageUpdated) {
     localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify(localStorageData));
   }
 
-  // Añadir datos de localStorage si no están ya
-  localStorageData.forEach(localItem => {
-    if (!mergedIds.has(localItem.boeId)) {
-      merged.push(localItem);
-      mergedIds.add(localItem.boeId);
-    }
-  });
-
-  return merged.sort((a, b) => b.timestamp - a.timestamp);
+  return Array.from(mergedMap.values()).sort((a, b) => b.timestamp - a.timestamp);
 };
 
 export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAuditResponse) => {
