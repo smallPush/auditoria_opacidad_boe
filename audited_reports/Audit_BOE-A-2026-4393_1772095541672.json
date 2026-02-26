@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4393",
+  "timestamp": "2026-02-26T08:45:41.672Z",
+  "title": "Resolución de 23 de febrero de 2026, de la Subsecretaría, por la que se aprueba la relación de personas admitidas y excluidas, se anuncia fecha, hora y lugar de celebración del primer ejercicio y se modifica la composición del Tribunal calificador del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Técnico de Auditoría y Contabilidad, convocado por Resolución de 23 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion utiliza la tecnica de 'transparencia fragmentada' al no publicar la lista completa de admitidos en el BOE, remitiendo a portales web externos. Se observa un sesgo de clase y territorial al centralizar el examen exclusivamente en Madrid, lo que encarece el acceso a la funcion publica para la periferia. Los criterios de exclusion B y C revelan una vigilancia estricta sobre la precariedad de los aspirantes que intentan acceder a exenciones de tasas.",
+    "resumen_ciudadano": "Hacienda publica la lista de excluidos para el Cuerpo Tecnico de Auditoria y fija el examen para el 21 de marzo de 2026 en Madrid. Se otorga un plazo de 10 dias para subsanar errores. Se ha modificado un miembro del tribunal calificador a ultima hora.",
+    "resumen_tweet": "🕵️‍♂️ Hacienda convoca examen de Auditoria. Centralismo: cita unica en Madrid 📍. La lista de admitidos se oculta fuera del BOE, dificultando el control social. Ademas, cambian un vocal del tribunal a ultima hora. ⚠️ #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Centralizacion absoluta del examen en Madrid",
+      "Opacidad por remision de listas a sedes electronicas externas",
+      "Cambio nominal en el tribunal calificador tras la convocatoria",
+      "Exclusiones por criterios de renta (SMI) en tasas de examen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores residentes en Madrid (ahorro en desplazamientos)",
+        "Pascual Ribot Reus (nuevo vocal del tribunal)"
+      ],
+      "perdedores": [
+        "Opositores de la periferia (barrera economica)",
+        "Aspirantes excluidos por superar minimamente el SMI en el calculo de tasas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Publico",
+    "banderas_rojas": [
+      "Centralizacion absoluta del examen en Madrid",
+      "Opacidad por remision de listas a sedes electronicas externas",
+      "Cambio nominal en el tribunal calificador tras la convocatoria",
+      "Exclusiones por criterios de renta (SMI) en tasas de examen"
+    ]
+  },
+  "tweeted": true
+}

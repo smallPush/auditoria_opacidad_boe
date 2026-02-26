@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-4387",
+  "timestamp": "2026-02-26T08:01:06.682Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad a doña Milagros del Amo Lozano.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario de carrera. El documento es transparente al citar la base legal (LOSU 2/2023) y el código de plaza (211586), lo que permite el rastreo presupuestario. No se detectan gastos fantasma directos, aunque la estructura de concursos de acceso en la universidad española suele ser criticada por riesgos de endogamia, algo que este documento individual no puede confirmar ni desmentir por sí solo.",
+    "resumen_ciudadano": "Nombramiento oficial de doña Milagros del Amo Lozano como Profesora Titular de Filología Latina en la Universidad de Murcia tras superar el proceso de concurso de acceso.",
+    "resumen_tweet": "🏛️ Trámite en la @UMU: Milagros del Amo Lozano nombrada Profesora Titular de Filología Latina. Proceso bajo la LOSU con código de plaza 211586. Un paso más en la estructura académica murciana. 🎓 #BOE #Transparencia #Murcia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial asociado a la plaza en el anuncio público",
+      "Opacidad inherente al sistema de comisiones de selección universitarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Milagros del Amo Lozano (estabilidad laboral y estatus de funcionaria)",
+        "Universidad de Murcia (cobertura reglada de plaza docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Contribuyentes (compromiso de gasto público a largo plazo sin evaluación de impacto inmediata)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Docente e Investigador (PDI)",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial asociado a la plaza en el anuncio público",
+      "Opacidad inherente al sistema de comisiones de selección universitarias"
+    ]
+  },
+  "tweeted": true
+}

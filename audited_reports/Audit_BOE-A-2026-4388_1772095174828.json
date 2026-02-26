@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4388",
+  "timestamp": "2026-02-26T08:39:34.828Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Universidad de Murcia, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de funcionarios de carrera en la escala más alta de la universidad. Aunque el proceso sigue la LOSU, existe una opacidad intrínseca en el BOE al no detallar los méritos específicos ni la puntuación de los seleccionados frente a otros candidatos, limitándose a la formalidad del nombramiento. No se especifica el impacto presupuestario directo (sueldos y complementos) que estas plazas vitalicias suponen para el erario público.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado a dos nuevos Catedráticos en las áreas de Economía Aplicada y Didáctica. Este es un trámite administrativo que oficializa el ascenso de docentes a la máxima categoría académica tras un concurso de acceso. Los nombrados tienen 20 días para tomar posesión de su plaza.",
+    "resumen_tweet": "🎓 La Univ. de Murcia nombra nuevos Catedráticos en Economía y Didáctica. Trámite legal que consolida plazas vitalicias de alta jerarquía, pero sin transparencia sobre costes salariales ni méritos en el extracto del #BOE. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial de las plazas",
+      "Falta de publicidad de la baremación de méritos en el texto",
+      "Consolidación de estructuras de poder académico sin métricas de impacto social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Daniel Buendía Azorín",
+        "Eva María González Barea",
+        "Élite académica universitaria"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (invisibilizados en el extracto)",
+        "Contribuyentes (por falta de transparencia presupuestaria detallada)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial de las plazas",
+      "Falta de publicidad de la baremación de méritos en el texto",
+      "Consolidación de estructuras de poder académico sin métricas de impacto social"
+    ]
+  },
+  "tweeted": true
+}

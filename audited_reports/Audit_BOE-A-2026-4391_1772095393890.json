@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4391",
+  "timestamp": "2026-02-26T08:43:13.890Z",
+  "title": "Resolución 400/38076/2026, de 17 de febrero, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas y se anuncia fecha, hora y lugar de celebración del primer ejercicio de la fase de oposición del proceso selectivo para el ingreso, por promoción interna, en la Escala de Científicos Superiores de la Defensa, convocado por Resolución 400/38550/2025, de 23 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un proceso de promoción interna para la élite científica del Ministerio de Defensa (INTA). Aunque cumple los requisitos legales, la transparencia es delegada ya que los nombres de los admitidos no aparecen en el BOE, remitiendo a webs externas. La ausencia total de excluidos en una escala técnica superior sugiere una convocatoria muy ajustada al personal existente o una falta de concurrencia competitiva real.",
+    "resumen_ciudadano": "Defensa publica el calendario de exámenes para científicos superiores mediante promoción interna. No hay ningún aspirante excluido en la lista provisional, lo que facilita el ascenso de los actuales funcionarios a puestos de mayor responsabilidad y sueldo en áreas como ciberseguridad aeroespacial y sistemas de armas.",
+    "resumen_tweet": "🚀 Defensa blinda su élite científica: promoción interna en el INTA con 0 excluidos. ¿Proceso abierto o endogamia técnica? La lista de nombres se oculta tras webs externas. El 24 de marzo se decide el futuro de nuestra I+D militar. 🛡️ #BOE #Opacidad #Defensa",
+    "banderas_red_flags": [
+      "Cero aspirantes excluidos en el proceso",
+      "Opacidad nominal: la lista de admitidos no es pública en el diario oficial",
+      "Restricción a promoción interna en sectores estratégicos de alta tecnología"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ministerio de Defensa e INTA",
+        "Especialistas en ciberseguridad y tecnología aeroespacial ya integrados en la administración"
+      ],
+      "perdedores": [
+        "Científicos del sector privado (excluidos por el sistema de promoción interna)",
+        "Transparencia ciudadana (por el uso de enlaces externos en lugar de publicación de datos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Concursos",
+    "banderas_rojas": [
+      "Cero aspirantes excluidos en el proceso",
+      "Opacidad nominal: la lista de admitidos no es pública en el diario oficial",
+      "Restricción a promoción interna en sectores estratégicos de alta tecnología"
+    ]
+  },
+  "tweeted": true
+}

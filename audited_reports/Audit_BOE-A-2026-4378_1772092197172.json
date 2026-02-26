@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4378",
+  "timestamp": "2026-02-26T07:49:57.172Z",
+  "title": "Real Decreto 147/2026, de 25 de febrero, por el que se modifica el Real Decreto 1219/2024, de 3 de diciembre, por el que se establecen las bases reguladoras de la concesión de ayudas a inversiones materiales o inmateriales en transformación, comercialización o desarrollo de productos agroalimentarios en el marco del Plan Estratégico de la Política Agrícola Común, para el fomento de la integración de entidades asociativas agroalimentarias de carácter supraautonómico.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La modificación del Anexo III del Real Decreto 1219/2024 introduce un sesgo hacia la 'bancarización' de la gestión de subvenciones agroalimentarias. Al sustituir los métodos previos por una metodología de calificación crediticia basada en la Comunicación 2008/C 14/02 de la Comisión Europea (rating BBB, A, etc.), se favorece a las entidades con estructuras financieras ya consolidadas y con capacidad de costear auditorías y consultoría financiera. Por otro lado, la incorporación del criterio 9.2 sobre 'Marcos de Actuación o Planes específicos' resulta opaca, ya que no detalla qué planes actuales o futuros se consideran válidos, permitiendo una priorización geográfica potencialmente discrecional por parte del Ministerio. Aunque se mantiene el discurso de género y juventud, el peso de la solvencia económica y la dimensión supraautonómica domina el sistema de puntos, consolidando un modelo de concentración empresarial frente a la agricultura familiar o local.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los criterios para repartir ayudas a las grandes cooperativas agrarias que operan en varias comunidades. Lo más destacado es que ahora será fundamental tener una 'buena nota' financiera (similar a la de los bancos) para conseguir más puntos. También se dará prioridad a inversiones en zonas que el Gobierno decida dentro de ciertos planes específicos, sin aclarar cuáles. Se busca que las cooperativas sean más grandes y potentes comercialmente, lo que beneficia a las mega-estructuras pero pone el listón muy alto para las agrupaciones de productores más pequeñas o con menos recursos financieros.",
+    "resumen_tweet": "🚜 El #BOE retoca las ayudas a cooperativas agrarias: ahora se exigirá 'rating' bancario para puntuar mejor. Ojo a la prioridad en zonas de 'planes específicos' sin detallar. ¿Ayuda al campo o solo a las mega-estructuras? 🚩 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso de criterios de calificación crediticia (rating) como barrera de entrada",
+      "Ambigüedad en la definición de 'Marcos de Actuación' para priorización territorial",
+      "Excesiva complejidad técnica en los criterios de valoración de capacidad económica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes Entidades Asociativas Prioritarias (EAP)",
+        "Cooperativas con alta solvencia financiera previa",
+        "Zonas rurales designadas bajo planes estratégicos estatales"
+      ],
+      "perdedores": [
+        "Pequeñas cooperativas locales de una sola comunidad",
+        "Entidades con menor capacidad de endeudamiento",
+        "Productores en zonas rurales sin planes específicos de actuación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Supraautonómico)",
+    "tipologia": "Modificación de Bases Reguladoras de Subvenciones",
+    "banderas_rojas": [
+      "Uso de criterios de calificación crediticia (rating) como barrera de entrada",
+      "Ambigüedad en la definición de 'Marcos de Actuación' para priorización territorial",
+      "Excesiva complejidad técnica en los criterios de valoración de capacidad económica"
+    ]
+  },
+  "tweeted": true
+}

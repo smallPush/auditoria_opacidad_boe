@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4394",
+  "timestamp": "2026-02-26T08:46:56.021Z",
+  "title": "Resolución de 19 de febrero de 2026, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas del proceso selectivo para acceso, por promoción interna, al Cuerpo Especial de Instituciones Penitenciarias, convocado por Resolución de 26 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución detalla la promoción interna en Instituciones Penitenciarias bajo un rigor formalista extremo. Destaca el sesgo centralista al fijar la sede única en Madrid, obligando a funcionarios de toda España a costearse el desplazamiento. El control disciplinario roza lo absurdo al prohibir etiquetas en botellas de agua o el uso de tapones para los oídos, reflejando una desconfianza sistémica hacia el propio personal funcionario. Aunque se citan anexos con listas, la transparencia se ve mermada al remitir la consulta completa a registros físicos o webs específicas, dificultando la fiscalización pública inmediata de posibles favoritismos.",
+    "resumen_ciudadano": "Se han aprobado las listas definitivas para que funcionarios de prisiones puedan ascender de categoría. El examen será el 1 de marzo en la Universidad Complutense de Madrid. Las normas son muy estrictas: no se permiten móviles, relojes inteligentes ni etiquetas en las botellas de agua. Los que sacaron buena nota el año pasado pero no plaza, se ahorran parte del examen, a menos que decidan repetirlo para mejorar nota.",
+    "resumen_tweet": "👮‍♂️ Interior publica listas para ascenso en Prisiones. Control extremo: ¡prohibidos tapones y hasta etiquetas en el agua! 💧 Sesgo centralista: examen único en Madrid, obligando a viajar a toda España. ¿Es esto eficiencia? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralismo geográfico (sede única en Madrid)",
+      "Restricciones de conducta excesivas (prohibición de tapones para oídos)",
+      "Opacidad en la difusión (listas completas no publicadas directamente en el cuerpo del documento)",
+      "Barrera económica (tasas y desplazamientos para promoción interna)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios residentes en Madrid (ahorro en viajes)",
+        "Aspirantes con notas altas en la convocatoria previa (exención de parte del examen)",
+        "Academias de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Funcionarios destinados en regiones periféricas o islas (coste de desplazamiento)",
+        "Aspirantes con familias numerosas con títulos caducados (excluidos)",
+        "Personal con discapacidad con certificados no actualizados"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede del examen en Madrid)",
+    "tipologia": "Resolución de Personal / Procesos Selectivos",
+    "banderas_rojas": [
+      "Centralismo geográfico (sede única en Madrid)",
+      "Restricciones de conducta excesivas (prohibición de tapones para oídos)",
+      "Opacidad en la difusión (listas completas no publicadas directamente en el cuerpo del documento)",
+      "Barrera económica (tasas y desplazamientos para promoción interna)"
+    ]
+  },
+  "tweeted": true
+}

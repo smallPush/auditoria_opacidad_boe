@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4386",
+  "timestamp": "2026-02-26T07:59:53.675Z",
+  "title": "Resolución de 16 de febrero de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad a don Juan Carlos Montoya Rubio.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento refleja un acto administrativo estándar de nombramiento de funcionario de carrera (Profesor Titular) bajo la LOSU 2/2023. Aunque formalmente transparente al citar códigos de plaza (211582) y fechas de convocatoria, el sistema de acceso a la titularidad en España es frecuentemente criticado por su tendencia a la endogamia, donde las plazas suelen estar diseñadas para personal interno preexistente. No hay gastos fantasma directos, pero sí una consolidación de gasto público estructural a largo plazo sin desglose de la masa salarial asociada en este extracto.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado oficialmente a Juan Carlos Montoya Rubio como Profesor Titular permanente en el área de Didáctica de la Expresión Musical. Este es un puesto de funcionario público con plaza fija tras superar un proceso selectivo iniciado en 2025.",
+    "resumen_tweet": "🎓 Nuevo funcionario de carrera en la Universidad de Murcia: Juan Carlos Montoya Rubio logra plaza fija como Profesor Titular de Música. Un puesto vitalicio más blindado por ley. ¿Meritocracia o inercia administrativa? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Riesgo de endogamia académica estructural",
+      "Consolidación de gasto público a largo plazo",
+      "Falta de información sobre los méritos específicos en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Carlos Montoya Rubio",
+        "Departamento de Expresión Plástica, Musical y Dinámica"
+      ],
+      "perdedores": [
+        "Aspirantes externos sin vinculación previa",
+        "Contribuyentes (por falta de detalle en la eficiencia del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Riesgo de endogamia académica estructural",
+      "Consolidación de gasto público a largo plazo",
+      "Falta de información sobre los méritos específicos en el anuncio"
+    ]
+  },
+  "tweeted": true
+}
