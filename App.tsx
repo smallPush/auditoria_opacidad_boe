@@ -155,21 +155,14 @@ const App: React.FC = () => {
   const toggleLang = () => setLang(l => l === 'es' ? 'en' : 'es');
 
   const handleLogin = () => {
-    if (requiredPassword) {
-      if (password === requiredPassword) {
-        setIsLoggedIn(true);
-        localStorage.setItem('boe_agent_session', 'active');
-        setLoginError(false);
-        setShowLogin(false);
-      } else {
-        setLoginError(true);
-        setTimeout(() => setLoginError(false), 3000);
-      }
-    } else {
-      // Si no hay contraseña configurada en el entorno, permitimos acceso libre por defecto
+    if (requiredPassword && password === requiredPassword) {
       setIsLoggedIn(true);
       localStorage.setItem('boe_agent_session', 'active');
+      setLoginError(false);
       setShowLogin(false);
+    } else {
+      setLoginError(true);
+      setTimeout(() => setLoginError(false), 3000);
     }
   };
 
