@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4520",
+  "timestamp": "2026-02-27T11:49:42.347Z",
+  "title": "Real Decreto 143/2026, de 25 de febrero, por el que se crea y regula la Unidad técnica de apoyo y coordinación de las autoridades de vigilancia en materia de requisitos de accesibilidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 143/2026 establece una estructura administrativa para coordinar la accesibilidad, pero destaca por dos aspectos críticos: la opacidad en la dotación económica real (omitiendo cifras concretas bajo el mantra de 'créditos presupuestarios existentes') y la inserción de una reforma de alto calado social en sus disposiciones finales. Se utiliza un reglamento de carácter técnico y administrativo para modificar el Reglamento de Espectáculos Taurinos, prohibiendo de facto los espectáculos cómico-taurinos que denigren a personas con discapacidad. Aunque es una medida demandada por colectivos de derechos humanos, su inclusión en una norma sobre requisitos técnicos de productos y servicios es una técnica de 'legislación de polizón' que dificulta el debate público directo sobre la materia taurina.",
+    "resumen_ciudadano": "Se crea una nueva oficina estatal (Unidad Técnica) para vigilar que los productos y servicios en España cumplan las normas de accesibilidad para personas con discapacidad. Esta oficina coordinará a las comunidades autónomas y servirá de enlace con Europa. Lo más relevante es que el decreto aprovecha para prohibir oficialmente los espectáculos cómico-taurinos que se burlen de personas con discapacidad, cerrando un vacío legal histórico en el sector de los espectáculos.",
+    "resumen_tweet": "🚨 AUDITORÍA #BOE: Se crea la Unidad Técnica de Accesibilidad ♿. ¡Ojo! Usan un decreto técnico para prohibir por fin el 'toreo cómico' que denigra a personas con discapacidad (Disp. Final 1ª) 🚫🐂. ¿Gasto? Dicen que 'cero' extra. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Legislación de polizón: prohibición de espectáculos taurinos dentro de una norma técnica",
+      "Gasto fantasma: creación de unidad administrativa sin desglose de costes operativos específicos",
+      "Estructura centralista: asume funciones de vigilancia en territorios donde no se haya designado autoridad propia",
+      "Ambigüedad presupuestaria: uso sistemático de la cláusula 'con cargo a créditos existentes' para ocultar el coste real de la nueva burocracia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas con discapacidad (mayor protección contra el trato denigrante)",
+        "Dirección General de Derechos de las Personas con Discapacidad (aumenta sus competencias y estructura)",
+        "Funcionarios de carrera (nuevos puestos de trabajo reservados)"
+      ],
+      "perdedores": [
+        "Empresarios de espectáculos cómico-taurinos (prohibición de su actividad tradicional)",
+        "Comunidades Autónomas (pierden autonomía ante la nueva oficina de coordinación estatal)",
+        "Transparencia presupuestaria (se crean estructuras sin presupuesto finalista claro)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Organización y Derechos Sociales",
+    "banderas_rojas": [
+      "Legislación de polizón: prohibición de espectáculos taurinos dentro de una norma técnica",
+      "Gasto fantasma: creación de unidad administrativa sin desglose de costes operativos específicos",
+      "Estructura centralista: asume funciones de vigilancia en territorios donde no se haya designado autoridad propia",
+      "Ambigüedad presupuestaria: uso sistemático de la cláusula 'con cargo a créditos existentes' para ocultar el coste real de la nueva burocracia"
+    ]
+  },
+  "tweeted": false
+}

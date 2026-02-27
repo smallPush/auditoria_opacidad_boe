@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4515",
+  "timestamp": "2026-02-27T11:42:51.515Z",
+  "title": "Resolución de 24 de febrero de 2026, de la Subsecretaría, por la que se establece el procedimiento para la liquidación y el pago por vía telemática de las tasas consulares.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución moderniza la recaudación de tasas consulares bajo el pretexto de la eficiencia administrativa. Sin embargo, al imponer requisitos técnicos estrictos como el NIF y certificados electrónicos cualificados, crea una barrera de entrada para ciudadanos en situaciones de vulnerabilidad o con baja competencia digital. Se prioriza la comodidad de la Administración frente a la accesibilidad universal, delegando además la gestión en entidades bancarias colaboradoras, lo que refuerza la dependencia del ciudadano hacia el sector privado para trámites públicos obligatorios.",
+    "resumen_ciudadano": "A partir de ahora, las tasas por trámites en consulados (como visados o documentos notariales) se podrán pagar por internet a través de la sede electrónica del Ministerio de Exteriores. Necesitarás DNI electrónico, certificado digital o tarjeta bancaria. El sistema te dará un código (NRC) que servirá como comprobante oficial del pago sin tener que acudir físicamente al banco.",
+    "resumen_tweet": "🌐 ¿Modernización o barrera? El @MAECgob activa el pago telemático de tasas consulares. Se gana en agilidad administrativa, pero se consolida la brecha digital para quienes no dominan certificados o NIF. ¿Eficiencia o exclusión? 💳📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Brecha digital obligatoria",
+      "Dependencia de entidades financieras colaboradoras",
+      "Requisito de NIF excluyente para ciertos trámites de extranjeros",
+      "Opacidad en los costes de mantenimiento del sistema informático"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Asuntos Exteriores (reducción de carga de trabajo presencial)",
+        "Agencia Tributaria (centralización del control recaudatorio)",
+        "Ciudadanos con alta competencia digital y medios técnicos"
+      ],
+      "perdedores": [
+        "Personas mayores o con brecha digital",
+        "Solicitantes en el extranjero sin acceso fácil a certificados electrónicos españoles",
+        "Personas en situación de exclusión financiera"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Procedimiento Administrativo / Fiscalidad",
+    "banderas_rojas": [
+      "Brecha digital obligatoria",
+      "Dependencia de entidades financieras colaboradoras",
+      "Requisito de NIF excluyente para ciertos trámites de extranjeros",
+      "Opacidad en los costes de mantenimiento del sistema informático"
+    ]
+  },
+  "tweeted": false
+}

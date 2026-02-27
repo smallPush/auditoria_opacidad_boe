@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-4529",
+  "timestamp": "2026-02-27T12:01:23.362Z",
+  "title": "Resolución de 25 de febrero de 2026, de la Secretaría de Estado de Función Pública, por la que se modifica la composición de la Comisión Permanente de Selección.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion se presenta como un tramite administrativo rutinario de sustitucion de miembros en la Comision Permanente de Seleccion, pero oculta las razones reales tras las 'renuncias o abstenciones' de tres vocales. Este organo es critico, pues decide el acceso al empleo publico. El uso de terminos genericos como 'necesidad de adecuar' enmascara posibles tensiones internas o cambios de criterio politico en la seleccion de personal. Aunque cita el principio de presencia equilibrada, la sustitucion de una mujer por un hombre en una de las vocalias altera sutilmente el balance sin una explicacion tecnica detallada.",
+    "resumen_ciudadano": "El Gobierno ha cambiado a tres de los responsables encargados de seleccionar a los futuros funcionarios del Estado. Se sustituye a una mujer y dos hombres por tres nuevos perfiles masculinos y femeninos bajo la figura de 'renuncia'. Este movimiento afecta directamente a la imparcialidad y gestion de las oposiciones en España, ya que estos vocales tienen el poder de decidir quien entra en la administracion.",
+    "resumen_tweet": "🔄 Cambios en la sombra en el tribunal que decide quien es funcionario. Dimisiones sin explicar y nuevos nombramientos a dedo en la Comision Permanente de Seleccion. ¿Meritocracia o control politico? 🧐🏛️ #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Motivacion inexistente para las renuncias",
+      "Discrecionalidad en la propuesta de nuevos vocales",
+      "Falta de informacion sobre las dietas o remuneraciones de estos cargos",
+      "Riesgo de endogamia en la seleccion de la Funcion Publica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Antonio Martin Barroso",
+        "Miguel Angel Lorenzo Toledo",
+        "Pedro Gines Saenz Martinez",
+        "Altos cargos del INAP por su capacidad de designacion directa"
+      ],
+      "perdedores": [
+        "Ciudadania (por falta de transparencia en los motivos de cese)",
+        "Principio de paridad (retroceso cuantitativo en este nombramiento especifico)",
+        "Opositores (incertidumbre sobre el cambio de criterio en los tribunales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Motivacion inexistente para las renuncias",
+      "Discrecionalidad en la propuesta de nuevos vocales",
+      "Falta de informacion sobre las dietas o remuneraciones de estos cargos",
+      "Riesgo de endogamia en la seleccion de la Funcion Publica"
+    ]
+  },
+  "tweeted": false
+}

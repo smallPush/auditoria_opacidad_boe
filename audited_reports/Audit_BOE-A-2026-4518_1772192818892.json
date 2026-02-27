@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4518",
+  "timestamp": "2026-02-27T11:46:58.892Z",
+  "title": "Real Decreto 141/2026, de 25 de febrero, por el que se aprueba el Estatuto orgánico de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 141/2026 formaliza la creación de una macro-autoridad que absorbe las competencias de tres comisiones previas (ferroviaria, marítima y aérea). Aunque se invoca la 'independencia', el cordón umbilical con el Ministerio de Transportes se mantiene mediante el proceso de nombramiento y un régimen presupuestario transitorio que permite la gestión de gastos previos sin una fiscalización externa exhaustiva en la fase de arranque. La unificación bajo un mando único puede diluir la especialización técnica en favor de una gestión política más centralizada.",
+    "resumen_ciudadano": "Se crea un nuevo organismo que investigará todos los accidentes de transporte en España. Este cambio unifica los recursos de tres antiguas comisiones. El personal actual mantendrá sus puestos, pero el control real de las investigaciones y el dinero dependerá de una nueva cúpula directiva nombrada por el Gobierno, operando con presupuestos heredados hasta que se defina su propia caja.",
+    "resumen_tweet": "🚨 Nueva 'Súper-Autoridad' para investigar accidentes de tren, barco y avión. ¿Independencia real o control centralizado? Se subrogan contratos y presupuestos sin auditoría previa clara. 🕵️‍♂️💸 #BOE #Opacidad #Transparencia #Seguridad",
+    "banderas_red_flags": [
+      "Uso de créditos presupuestarios heredados sin desglose de cuantías máximas",
+      "Nombramiento de la presidencia por propuesta política directa",
+      "Subrogación de contratos y convenios previos sin revisión de idoneidad",
+      "Ambigüedad en la fiscalización de los 'gastos subsistentes' previos a la puesta en marcha"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del nuevo Consejo y Presidencia",
+        "Estructuras burocráticas centralizadas",
+        "Personal funcionario que consolida antigüedad y retribuciones"
+      ],
+      "perdedores": [
+        "Especialización técnica sectorial (posible dilución por mando único)",
+        "Transparencia presupuestaria inmediata (periodo transitorio opaco)",
+        "Familias de víctimas (dependencia de una nueva 'Unidad de Asistencia' bajo control jerárquico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estatuto Orgánico / Seguridad y Transporte",
+    "banderas_rojas": [
+      "Uso de créditos presupuestarios heredados sin desglose de cuantías máximas",
+      "Nombramiento de la presidencia por propuesta política directa",
+      "Subrogación de contratos y convenios previos sin revisión de idoneidad",
+      "Ambigüedad en la fiscalización de los 'gastos subsistentes' previos a la puesta en marcha"
+    ]
+  },
+  "tweeted": false
+}

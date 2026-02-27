@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4517",
+  "timestamp": "2026-02-27T11:45:16.597Z",
+  "title": "Real Decreto 140/2026, de 25 de febrero, por el que se modifica el Real Decreto 1004/2010, de 5 de agosto, por el que se desarrolla la Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española, en relación con el ingreso del rendimiento de la tasa sobre reserva del dominio público radioeléctrico.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La norma realiza una maniobra contable técnica para blindar la liquidez de RTVE. Al redefinir el 'rendimiento de la tasa' como el importe de las liquidaciones giradas (lo facturado) en lugar de la recaudación líquida (lo realmente cobrado), el Estado asume el riesgo de impago de las operadoras de telecomunicaciones. Si una operadora recurre o no paga, RTVE recibe el dinero igualmente, y el agujero se cubre mediante el 'fondo de reserva' o, en última instancia, con 'compensaciones por servicio público' del presupuesto general. Esto supone un rescate financiero preventivo que traslada el riesgo de crédito de la corporación pública al ciudadano contribuyente.",
+    "resumen_ciudadano": "Se cambia la ley para que RTVE cobre sus 480 millones de euros pase lo que pase. Antes, sus ingresos dependían de que las empresas de telecomunicaciones pagaran sus tasas. Ahora, cobrará en función de lo que el Estado les facture, aunque las empresas no paguen. Si falta dinero por impagos, el Estado pondrá la diferencia con dinero público.",
+    "resumen_tweet": "📺 El Gobierno blinda la caja de #RTVE: cobrará 480M€ basándose en lo facturado y no en lo recaudado. Si las telecos no pagan, el agujero lo cubre el Estado con tus impuestos. ¡Adiós al riesgo financiero! 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desacoplamiento entre recaudación real e ingresos del ente",
+      "Aplicación retroactiva a las anualidades 2025 y 2026",
+      "Uso de cláusulas de cierre para cubrir déficit con presupuestos generales",
+      "Riesgo de crédito transferido al Tesoro Público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Corporación RTVE (estabilidad financiera total)",
+        "Altos directivos del ente (gestión sin riesgo de ingresos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el riesgo de morosidad de telecos)",
+        "Transparencia de las cuentas públicas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera / Control de Medios",
+    "banderas_rojas": [
+      "Desacoplamiento entre recaudación real e ingresos del ente",
+      "Aplicación retroactiva a las anualidades 2025 y 2026",
+      "Uso de cláusulas de cierre para cubrir déficit con presupuestos generales",
+      "Riesgo de crédito transferido al Tesoro Público"
+    ]
+  },
+  "tweeted": false
+}

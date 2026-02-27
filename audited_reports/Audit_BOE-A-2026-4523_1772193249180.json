@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4523",
+  "timestamp": "2026-02-27T11:54:09.180Z",
+  "title": "Real Decreto 150/2026, de 25 de febrero, por el que se modifica el Real Decreto 205/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Bajo la premisa de la 'autonomía estratégica', el Real Decreto 150/2026 expande la alta burocracia del Ministerio de Defensa creando dos nuevas Subdirecciones Generales especializadas en contratación masiva. La norma justifica la creación de la Subdirección de Gestión Económica para manejar 79 programas de modernización de armamento, lo que fragmenta el control y facilita la opacidad en contratos de alta cuantía. Resulta especialmente llamativo el blindaje de la infraestructura TIC de la Casa Real (Jefatura del Estado) bajo el mando de Defensa, un movimiento que diluye responsabilidades civiles y centraliza el control tecnológico-militar.",
+    "resumen_ciudadano": "El Gobierno crea dos nuevas oficinas de alto nivel dentro del Ministerio de Defensa para gestionar contratos de armas y tecnología. Se argumenta que la complejidad de los nuevos programas militares y los ciberataques requieren mandos específicos. Además, Defensa pasa a controlar oficialmente los sistemas informáticos de la Casa Real por razones de seguridad estratégica.",
+    "resumen_tweet": "🚩 Más burocracia en el #BOE: Defensa crea dos nuevas Subdirecciones Generales para gestionar 79 programas de armas y tecnología militar. Además, asume las comunicaciones de la Casa Real. ¿Más eficiencia o menos control? 🏛️🛡️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Creación de altos cargos sin memoria económica detallada en el texto",
+      "Uso de conceptos abstractos como 'amenazas híbridas' para expandir estructuras",
+      "Centralización de contratos TIC bajo jurisdicción militar",
+      "Falta de cuantificación del impacto presupuestario de las nuevas oficinas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria armamentística (interlocución más especializada)",
+        "Altos cargos de la Administración (nuevas plazas de libre designación)",
+        "Complejo militar-industrial"
+      ],
+      "perdedores": [
+        "Contribuyente (aumento de gasto estructural administrativo)",
+        "Transparencia pública (mayor compartimentación de los contratos de defensa)",
+        "Servicios civiles de digitalización (relegados por la estructura militar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reorganización Administrativa y Defensa",
+    "banderas_rojas": [
+      "Creación de altos cargos sin memoria económica detallada en el texto",
+      "Uso de conceptos abstractos como 'amenazas híbridas' para expandir estructuras",
+      "Centralización de contratos TIC bajo jurisdicción militar",
+      "Falta de cuantificación del impacto presupuestario de las nuevas oficinas"
+    ]
+  },
+  "tweeted": false
+}

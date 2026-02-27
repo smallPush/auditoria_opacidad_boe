@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4528",
+  "timestamp": "2026-02-27T12:00:07.485Z",
+  "title": "Resolución de 19 de febrero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 11 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del mecanismo de 'Libre Designación' para un puesto de Ayudante de Secretaría (Nivel 17) resulta administrativamente opaco. Aunque legal, este sistema permite la selección discrecional de personal basada en la 'confianza' y no estrictamente en la meritocracia competitiva habitual de los concursos públicos. Se observa un trasvase de personal desde el Ministerio de Sanidad en Madrid hacia la Delegación del Gobierno en Galicia, sin que se expliciten los criterios objetivos que motivaron esta elección sobre otros posibles candidatos.",
+    "resumen_ciudadano": "La Subsecretaría de Política Territorial ha nombrado a un nuevo ayudante de secretaría en Galicia utilizando el método de libre designación ('a dedo'). Este proceso permite que el cargo sea ocupado por una persona de confianza de la administración sin tener que demostrar ser el más cualificado en una oposición abierta frente a otros funcionarios.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Nueva adjudicación por 'Libre Designación' en el Min. de Política Territorial. Puesto de nivel 17 en Galicia cubierto por criterio de 'confianza'. ¿Meritocracia o discrecionalidad? 🧐🚫 #Opacidad #Transparencia #AdministraciónPública",
+    "banderas_red_flags": [
+      "Libre designación en niveles medios-bajos",
+      "Falta de baremación pública de méritos",
+      "Discrecionalidad en el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Pena González (adjudicatario)",
+        "Ministerio de Política Territorial (colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos con mayor antigüedad o méritos sin vínculos de confianza",
+        "Principio de igualdad y capacidad en la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Libre designación en niveles medios-bajos",
+      "Falta de baremación pública de méritos",
+      "Discrecionalidad en el nombramiento"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-4531",
+  "timestamp": "2026-02-27T12:03:44.661Z",
+  "title": "Decreto de 16 de febrero de 2026, de la Fiscal General del Estado, por el que se dispone el cese de doña Felicidad Andrés Puerto como Fiscal Delegada de Seguridad y Salud en el Trabajo de la Fiscalía de la Comunidad Autónoma de Cantabria.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento formaliza el cese de una fiscal especialista en Cantabria tras su propia renuncia. El punto crítico reside en la justificación: 'modificaciones en el reparto de trabajo'. Bajo esta fórmula administrativa se suele ocultar una falta de recursos o una reorganización interna que fuerza la salida de especialistas. Aunque el proceso es legalmente impecable, la opacidad sobre el nuevo diseño de la fiscalía impide evaluar si la protección de la Seguridad y Salud en el Trabajo se verá mermada por criterios de gestión interna.",
+    "resumen_ciudadano": "La Fiscal Delegada de Seguridad y Salud en el Trabajo de Cantabria abandona su cargo. La versión oficial indica que es una renuncia voluntaria provocada por cambios en la forma de organizar el trabajo dentro de la fiscalía regional.",
+    "resumen_tweet": "📉 Cambio en la Fiscalía de Cantabria: cesa la responsable de Seguridad y Salud en el Trabajo tras una 'reorganización' interna. ¿Se debilita la vigilancia de los accidentes laborales? #BOE #Opacidad #Transparencia #Cantabria ⚖️",
+    "banderas_red_flags": [
+      "Eufemismo de 'cambios en el reparto de trabajo'",
+      "Renuncia inducida por reestructuración técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fiscalía General del Estado (por la agilidad burocrática del proceso)"
+      ],
+      "perdedores": [
+        "Trabajadores de Cantabria (por la pérdida de continuidad en una fiscalía especializada)",
+        "Doña Felicidad Andrés Puerto (que renuncia por desacuerdo o incompatibilidad con el nuevo reparto)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Eufemismo de 'cambios en el reparto de trabajo'",
+      "Renuncia inducida por reestructuración técnica"
+    ]
+  },
+  "tweeted": false
+}

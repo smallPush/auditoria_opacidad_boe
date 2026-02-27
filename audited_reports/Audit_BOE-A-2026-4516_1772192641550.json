@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4516",
+  "timestamp": "2026-02-27T11:44:01.550Z",
+  "title": "Resolución de 24 de febrero de 2026, de la Subsecretaría, por la que se modifica la dirección electrónica de la sede electrónica.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se presenta como un ajuste técnico rutinario de la sede electrónica, pero esconde el uso de fondos europeos Next Generation EU para el 'Plan de Digitalización Consular'. El texto no desglosa cuánto de ese presupuesto se ha destinado específicamente a este cambio de dominio ni a la nueva infraestructura web. Existe una redundancia burocrática al mantener dos direcciones activas, lo que refleja una transición lenta. Además, el uso de terminología como 'incorporación paulatina' de procedimientos genera incertidumbre sobre la disponibilidad real de los servicios para el ciudadano.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores cambia su dirección de sede electrónica a sede.exteriores.gob.es. Este cambio busca unificar la imagen digital tras varias reestructuraciones ministeriales anteriores y forma parte de un plan de digitalización para españoles en el extranjero financiado por la UE. La dirección antigua seguirá funcionando temporalmente hasta que la nueva esté totalmente operativa.",
+    "resumen_tweet": "🌐 El Ministerio de Exteriores cambia su sede electrónica con fondos #NextGenerationEU. ¿Digitalización real o solo cambio de fachada web? Los trámites se irán sumando 'paulatinamente' sin plazos claros. 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el coste específico de la migración web",
+      "Falta de calendario para la disponibilidad de trámites",
+      "Justificación de gasto mediante fondos europeos para tareas administrativas ordinarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas tecnológicas adjudicatarias del Plan de Digitalización Consular",
+        "Españoles residentes en el extranjero (si la usabilidad mejora)"
+      ],
+      "perdedores": [
+        "Ciudadanos con brecha digital",
+        "Contribuyentes (por los costes de rebranding derivados de cambios políticos previos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización Administrativa",
+    "banderas_rojas": [
+      "Opacidad en el coste específico de la migración web",
+      "Falta de calendario para la disponibilidad de trámites",
+      "Justificación de gasto mediante fondos europeos para tareas administrativas ordinarias"
+    ]
+  },
+  "tweeted": false
+}

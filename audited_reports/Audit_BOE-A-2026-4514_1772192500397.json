@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4514",
+  "timestamp": "2026-02-27T11:41:40.397Z",
+  "title": "Real Decreto 139/2026, de 25 de febrero, por el que se modifica el Real Decreto 434/1988, de 6 de mayo, sobre reestructuración de la Casa de Su Majestad el Rey.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "Este Real Decreto opera como una transferencia de costes operativos de la Casa Real hacia el Ministerio de Defensa bajo el pretexto de la seguridad nacional. Al delegar la provisión de capacidades TIC (tecnologías de la información y comunicaciones) al estamento militar, se crea una zona de sombra presupuestaria. Los gastos en tecnología, ciberseguridad y mantenimiento, que antes deberían ser fiscalizables en la partida de la Casa del Rey, ahora se diluyen en los presupuestos de Defensa, históricamente más opacos y difíciles de auditar por la sociedad civil. Se utiliza la figura del Rey como 'mando supremo de las Fuerzas Armadas' para justificar una infraestructura técnica que es, en esencia, administrativa y de gestión cotidiana.",
+    "resumen_ciudadano": "A partir de ahora, el Ministerio de Defensa se hará cargo de pagar y gestionar toda la tecnología, informática y comunicaciones de la Casa Real. Aunque se justifica por seguridad y eficiencia, esto permite que el gasto real en tecnología del monarca quede oculto dentro de las cuentas militares, dificultando saber exactamente cuánto nos cuestan estos servicios.",
+    "resumen_tweet": "👑💻 ¿Quién paga el iPhone del Rey? El nuevo RD 139/2026 pasa la factura tecnológica de la Casa Real al Ministerio de Defensa. Menos transparencia y más gasto militar para servicios civiles. 🛡️💸 #BOE #Opacidad #Transparencia #CasaReal",
+    "banderas_red_flags": [
+      "Dilución de costes en presupuestos de Defensa (opacidad contable)",
+      "Justificación ambigua basada en 'intereses esenciales del Estado'",
+      "Ausencia de límite presupuestario o memoria económica detallada",
+      "Uso de capacidades militares para funciones de oficina y representación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Casa de Su Majestad el Rey (externaliza gastos y reduce exposición pública)",
+        "Ministerio de Defensa (aumenta su peso administrativo y control de infraestructuras críticas)"
+      ],
+      "perdedores": [
+        "Ciudadanía (pierde trazabilidad sobre el gasto real de la Monarquía)",
+        "Mecanismos de control de transparencia (fragmentación de partidas presupuestarias)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Estructura de la Jefatura del Estado",
+    "banderas_rojas": [
+      "Dilución de costes en presupuestos de Defensa (opacidad contable)",
+      "Justificación ambigua basada en 'intereses esenciales del Estado'",
+      "Ausencia de límite presupuestario o memoria económica detallada",
+      "Uso de capacidades militares para funciones de oficina y representación"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4519",
+  "timestamp": "2026-02-27T11:48:21.570Z",
+  "title": "Real Decreto 142/2026, de 25 de febrero, por el que se modifican y derogan determinadas disposiciones en materia alimentaria.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Bajo la apariencia de 'actualización técnica', este Real Decreto opera una desregulación encubierta y la validación de prácticas industriales que diluyen la calidad tradicional. Se elimina el límite de cenizas en galletas alegando 'innovación', lo que reduce el control sobre la pureza de las harinas. La legalización del 'jamón de pavo' como denominación legal tras 25 años de uso de facto es una rendición ante el marketing industrial sobre la precisión taxonómica. Además, el texto admite errores en normativas previas (como el Real Decreto 773/2023), revelando una legislación reactiva y a veces descuidada en unidades de medida críticas (pasando de ppm a µg/l en contaminantes).",
+    "resumen_ciudadano": "El Gobierno actualiza las normas de alimentación: el pan sin gluten ya puede llamarse legalmente 'pan'; la horchata podrá venderse sin azúcar pero sin usar edulcorantes químicos para no perder su esencia; se regula el uso de los términos 'natural' y 'artesano' en embutidos; y se permite que las galletas superen antiguos límites de residuos para facilitar el uso de fibras y frutos secos. También se prohíbe llamar 'mortadela bolonia' a la que no sea de Bolonia (Italia) para evitar confusiones.",
+    "resumen_tweet": "🥑 Nueva regulación alimentaria: el 'jamón de pavo' ya es legal, las galletas pierden controles de cenizas y el pan sin gluten ya es 'pan'. ¿Innovación o bajada de estándares? 🍪🥖 #BOE #Opacidad #Transparencia #Alimentación",
+    "banderas_red_flags": [
+      "Eliminación de límites de cenizas en galletas (menor control de impurezas)",
+      "Legalización de denominaciones comerciales confusas como 'jamón de pavo'",
+      "Corrección de errores técnicos graves en normativas de 2023 sobre contaminantes",
+      "Ampliación del margen de metanol en sidras de hielo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gran industria de procesados cárnicos (validación del jamón de pavo)",
+        "Sector de la panadería para celíacos",
+        "Fabricantes de galletas industriales (menos restricciones en composición)"
+      ],
+      "perdedores": [
+        "Consumidores que buscan alta pureza (eliminación de límites técnicos)",
+        "Productores tradicionales de embutidos (por la competencia con productos 'naturales' de gran escala)",
+        "Rigor legislativo (admisión de errores previos en unidades de medida)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Seguridad y Calidad Alimentaria",
+    "banderas_rojas": [
+      "Eliminación de límites de cenizas en galletas (menor control de impurezas)",
+      "Legalización de denominaciones comerciales confusas como 'jamón de pavo'",
+      "Corrección de errores técnicos graves en normativas de 2023 sobre contaminantes",
+      "Ampliación del margen de metanol en sidras de hielo"
+    ]
+  },
+  "tweeted": false
+}

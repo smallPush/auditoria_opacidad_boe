@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-4524",
+  "timestamp": "2026-02-27T11:55:20.514Z",
+  "title": "Ley Foral 1/2026, de 13 de febrero, de modificación de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La ley utiliza una narrativa de emergencia social para justificar una política de incentivos fiscales que delega la responsabilidad real en los ayuntamientos. Aunque se presenta como una medida para bajar precios, el mecanismo es puramente potestativo (los ayuntamientos 'podrán' o no aplicarlo), lo que puede generar desigualdades territoriales. El punto más crítico es la cláusula de retroactividad de un año para las bonificaciones de obra (ICIO), que podría estar diseñada para beneficiar a proyectos de grandes promotoras que ya están en marcha, bajo el pretexto de la 'urgencia'. No se establecen mecanismos de control para asegurar que el ahorro fiscal de la promotora se traslade íntegramente al inquilino.",
+    "resumen_ciudadano": "Navarra permite ahora que los ayuntamientos perdonen hasta el 90% de la Contribución (IBI) a los propietarios que alquilen sus casas a través de la bolsa pública o a precios limitados. También se rebajan los impuestos de obras para construir viviendas de protección oficial (VPO) de alquiler o instalar energías renovables. La medida busca movilizar pisos vacíos, pero depende totalmente de que tu ayuntamiento decida aprobar la ordenanza correspondiente.",
+    "resumen_tweet": "🏠 Navarra abre la puerta a rebajas del 90% en el IBI para alquiler asequible. Pero ojo: es voluntario para los ayuntamientos y permite perdonar impuestos a obras ya empezadas hace un año 🚩 ¿Incentivo o regalo fiscal? #BOE #Navarra #Vivienda",
+    "banderas_red_flags": [
+      "Carácter potestativo: La ayuda no es directa, depende de la voluntad política local",
+      "Retroactividad selectiva: Permite bonificar impuestos de obras iniciadas hace un año",
+      "Ausencia de memoria económica: No se detalla el impacto en la recaudación municipal",
+      "Falta de blindaje: No garantiza que la rebaja fiscal se traduzca en una bajada real del alquiler"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Promotoras inmobiliarias con proyectos de VPO en curso",
+        "Propietarios de múltiples viviendas (rentistas)",
+        "Cooperativas de vivienda en cesión de uso",
+        "Empresas de energías renovables"
+      ],
+      "perdedores": [
+        "Presupuestos municipales (menor recaudación para servicios)",
+        "Inquilinos en municipios que no adopten estas bonificaciones",
+        "Clases bajas que no acceden a VPO y sufren el mercado libre"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Modificación Legislativa Fiscal y de Vivienda",
+    "banderas_rojas": [
+      "Carácter potestativo: La ayuda no es directa, depende de la voluntad política local",
+      "Retroactividad selectiva: Permite bonificar impuestos de obras iniciadas hace un año",
+      "Ausencia de memoria económica: No se detalla el impacto en la recaudación municipal",
+      "Falta de blindaje: No garantiza que la rebaja fiscal se traduzca en una bajada real del alquiler"
+    ]
+  },
+  "tweeted": false
+}

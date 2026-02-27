@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-4522",
+  "timestamp": "2026-02-27T11:52:57.224Z",
+  "title": "Orden TED/133/2026, de 25 de febrero, por la que se establecen las obligaciones de ahorro energético, el cumplimiento mediante certificados de ahorro energético y la aportación mínima al Fondo Nacional de Eficiencia Energética para el año 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Orden TED/133/2026 perpetúa un modelo de fiscalidad energética compleja bajo el paraguas de la eficiencia. Aunque busca cumplir directivas europeas, establece una 'equivalencia financiera' de 2,31 M€/ktep, un valor administrativo que actúa como un impuesto indirecto sobre el consumo. El sistema de Certificados de Ahorro Energético (CAE) beneficia a grandes operadores con capacidad de inversión, mientras que el consumidor final asume el coste a través del término RFE en el PVPC (0,002437 €/kWh). Se detecta opacidad en el destino final del Fondo Nacional de Eficiencia Energética (FNEE), que funciona como una caja de redistribución sin proyectos específicos detallados en este texto.",
+    "resumen_ciudadano": "El Gobierno ha fijado cuánto dinero deben pagar las eléctricas y gasolineras por 'ahorro energético' en 2026. Si no ahorran energía real, deben pagar millones al Estado o comprar certificados. Este coste se traslada directamente a tu factura de la luz y el gas. Además, se han corregido errores donde se cobró por error a empresas ya cerradas, lo que demuestra falta de control previo en el censo de sujetos obligados.",
+    "resumen_tweet": "⚠️ ¿Sabes cuánto te cuesta la 'eficiencia'? El #BOE fija nuevas cuotas para energéticas en 2026. El coste se traslada a tu factura (PVPC) mediante el término RFE. Millones al fondo FNEE con destino difuso. 🕵️‍♂️💸 #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Cálculo discrecional de la equivalencia financiera (2,31 M€/ktep)",
+      "Impacto regresivo: el término RFE encarece el PVPC para consumidores vulnerables",
+      "Obligación mínima de pago en efectivo (8%) para garantizar liquidez al Estado",
+      "Inclusión errónea de empresas inactivas en ejercicios anteriores",
+      "Complejidad técnica (ktep/GWh) que dificulta la fiscalización ciudadana"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fondo Nacional de Eficiencia Energética (FNEE) por recaudación directa",
+        "Grandes comercializadoras con capacidad de generar Certificados (CAE)",
+        "Empresas de servicios energéticos (intermediarios)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos acogidos al PVPC",
+        "Pequeñas comercializadoras con escasa liquidez",
+        "Hogares con rentas bajas que soportan costes fijos energéticos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Sectorial Energética",
+    "banderas_rojas": [
+      "Cálculo discrecional de la equivalencia financiera (2,31 M€/ktep)",
+      "Impacto regresivo: el término RFE encarece el PVPC para consumidores vulnerables",
+      "Obligación mínima de pago en efectivo (8%) para garantizar liquidez al Estado",
+      "Inclusión errónea de empresas inactivas en ejercicios anteriores",
+      "Complejidad técnica (ktep/GWh) que dificulta la fiscalización ciudadana"
+    ]
+  },
+  "tweeted": false
+}

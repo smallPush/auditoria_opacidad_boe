@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4526",
+  "timestamp": "2026-02-27T11:57:42.587Z",
+  "title": "Orden PJC/134/2026, de 27 de enero, por la que, en ejecución de sentencia, se nombra funcionaria de carrera del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia a doña Sandra Porto Durán.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja una corrección judicial ante una disfunción administrativa. Se nombra a una funcionaria en 2026 tras una sentencia que anula una resolución de 2022 vinculada a una oposición de 2019. Esto evidencia una 'opacidad de gestión' en los procesos de selección originales, obligando al ciudadano a recurrir a la vía judicial para ver reconocidos sus méritos. El coste económico es significativo, ya que implica el pago de atrasos (efectos económicos) desde octubre de 2021, lo que constituye un gasto no previsto inicialmente en los presupuestos corrientes.",
+    "resumen_ciudadano": "Tras ganar un juicio contra el Ministerio de Justicia, doña Sandra Porto Durán ha sido nombrada funcionaria con efectos retroactivos desde 2021. El Estado fue condenado por no incluirla correctamente en la lista de aprobados en su momento. La Comunidad de Madrid deberá asumir ahora el pago de todos los salarios que la trabajadora dejó de percibir durante estos años de litigio.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 4 años de litigio! El Ministerio tiene que nombrar a una funcionaria tras perder en los tribunales por una exclusión indebida. El error nos cuesta a todos el pago de atrasos desde 2021. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia por error en proceso selectivo",
+      "Reconocimiento de efectos económicos retroactivos plurianuales",
+      "Incremento de plazas fuera de la convocatoria ordinaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sandra Porto Durán (recupera su plaza y atrasos)",
+        "Sistema Judicial (corrección de actos administrativos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de intereses y costes de litigio)",
+        "Ministerio de Justicia (gestión ineficiente de oposiciones)",
+        "Presupuesto de la Comunidad de Madrid (asunción de atrasos no presupuestados)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia por error en proceso selectivo",
+      "Reconocimiento de efectos económicos retroactivos plurianuales",
+      "Incremento de plazas fuera de la convocatoria ordinaria"
+    ]
+  },
+  "tweeted": false
+}
