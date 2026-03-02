@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4674",
+  "timestamp": "2026-03-01T22:00:22.740Z",
+  "title": "Real Decreto 146/2026, de 25 de febrero, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Turismo micológico y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto establece una nueva figura académica (Máster de FP) para el turismo micológico. Aunque se justifica bajo el paraguas de la Ley Orgánica 3/2022 para modernizar la FP, existe un riesgo de 'titulitis' o inflación académica al exigir 500 horas y una titulación superior previa para actividades tradicionalmente vinculadas al saber popular rural. La financiación proviene de fondos europeos (FSE+), lo que sugiere una ejecución de presupuesto condicionado a la creación de nuevos currículos, independientemente de la demanda real del mercado laboral. Se detecta una posible barrera de entrada para expertos locales sin titulación previa que quedan fuera del circuito oficial de 'guías certificados'.",
+    "resumen_ciudadano": "Se crea un nuevo curso de especialización oficial de 500 horas para profesionales que quieran dedicarse a guiar rutas de búsqueda de setas y cocinar productos micológicos. Para cursarlo, es obligatorio ser ya Técnico Superior en Turismo u Hostelería. El objetivo es profesionalizar el sector y potenciar el turismo rural sostenible.",
+    "resumen_tweet": "🍄 ¿Un Máster para buscar setas? El #BOE regula el nuevo curso de FP en Turismo Micológico. 500 horas de formación financiadas con fondos europeos. ¿Profesionalización necesaria o exceso de burocracia académica? #Transparencia #Turismo #FP",
+    "banderas_red_flags": [
+      "Uso de fondos FSE+ para especializaciones de nicho extremo",
+      "Exclusión de expertos tradicionales sin titulación superior previa",
+      "Posible sobre-regulación de una actividad recreativa/tradicional",
+      "Ambigüedad en el coste real de implementación por cada CCAA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros de formación profesional",
+        "Titulados superiores en hostelería buscando especialización",
+        "Empresas de turismo activo con sello oficial"
+      ],
+      "perdedores": [
+        "Recolectores locales tradicionales sin estudios reglados",
+        "Pequeños negocios rurales que no puedan costear guías 'titulados'",
+        "Contribuyentes (si la demanda de empleo no justifica la creación del título)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educativa / Formación Profesional",
+    "banderas_rojas": [
+      "Uso de fondos FSE+ para especializaciones de nicho extremo",
+      "Exclusión de expertos tradicionales sin titulación superior previa",
+      "Posible sobre-regulación de una actividad recreativa/tradicional",
+      "Ambigüedad en el coste real de implementación por cada CCAA"
+    ]
+  },
+  "tweeted": false
+}

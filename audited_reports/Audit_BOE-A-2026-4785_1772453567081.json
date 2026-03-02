@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4785",
+  "timestamp": "2026-03-02T12:12:47.081Z",
+  "title": "Resolución de 23 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El uso del sistema de libre designación para puestos en secretarías técnicas de la Secretaría de Estado de Digitalización e Inteligencia Artificial subraya una persistente falta de meritocracia objetiva en la Administración. Aunque el procedimiento es legal, la opacidad reside en la ausencia de justificación sobre por qué estos candidatos específicos son los más aptos. En áreas estratégicas como la IA, el nombramiento de personal de confianza ('a dedo') en lugar de mediante concurso de méritos abierto genera dudas sobre la verdadera capacitación técnica frente a la fidelidad política o administrativa.",
+    "resumen_ciudadano": "El Ministerio para la Transformación Digital ha finalizado el proceso de selección directa para tres puestos de confianza en las áreas de Inteligencia Artificial y Digitalización. Estos puestos han sido ocupados por funcionarios elegidos directamente por sus superiores (libre designación), sin que se detallen sus méritos específicos frente a otros candidatos, lo que limita la transparencia en la gestión de los recursos humanos del Estado en sectores tecnológicos clave.",
+    "resumen_tweet": "⚠️ ¿Digitalización o dedocracia? El Ministerio de IA adjudica puestos clave mediante 'libre designación'. Sin concurso de méritos, la transparencia brilla por su ausencia en áreas críticas del Estado. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Dedocracia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Falta de memoria justificativa de idoneidad",
+      "Nombramientos en áreas de alto impacto tecnológico sin concurso público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Pilar Martín López",
+        "David Puente Moure",
+        "Víctor Izquierdo Mora",
+        "Subsecretaría del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos superiores no evaluados",
+        "Criterios de transparencia administrativa",
+        "Principio de igualdad y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Falta de memoria justificativa de idoneidad",
+      "Nombramientos en áreas de alto impacto tecnológico sin concurso público"
+    ]
+  },
+  "tweeted": false
+}

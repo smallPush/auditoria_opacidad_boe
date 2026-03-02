@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4794",
+  "timestamp": "2026-03-02T12:23:56.289Z",
+  "title": "Orden PJC/152/2026, de 26 de febrero, por la que se modifica la Orden PJC/1443/2024, de 12 de diciembre, por la que se publica la relación de aspirantes que han aprobado en el proceso selectivo extraordinario para acceso, por el sistema general de acceso libre, al Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, por el sistema selectivo de concurso, convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una modificación técnica de un proceso selectivo extraordinario de estabilización (concurso de méritos). El uso del sistema de concurso sin examen tiende a favorecer al personal interino de larga duración, cerrando de facto la puerta a nuevo talento externo sin experiencia previa en la Administración. La modificación de una lista ya publicada sugiere errores administrativos previos o renuncias masivas, lo que añade una capa de inestabilidad al proceso burocrático.",
+    "resumen_ciudadano": "El Ministerio de Justicia actualiza la lista de personas que han conseguido plaza fija en el Cuerpo de Gestión Procesal a través de un proceso extraordinario basado solo en méritos. Los seleccionados tienen 10 días para solicitar sus destinos y presentar documentación. Si se detectan falsedades o falta de requisitos, perderán su derecho a la plaza.",
+    "resumen_tweet": "⚖️ Publicada nueva lista de aprobados en Gestión Procesal tras modificar la orden anterior. Proceso de estabilización que blinda a interinos. ¡Ojo! Solo 10 días para pedir destino. La base de la justicia sigue siendo femenina. 👩‍⚖️ #BOE #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Modificación de una lista de aprobados ya publicada",
+      "Sistema de 'concurso' puro que excluye a opositores sin puntos por experiencia",
+      "Plazos administrativos muy ajustados (5-10 días) para trámites complejos",
+      "Falta de desglose de la puntuación detallada por méritos en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con amplia antigüedad en la Administración de Justicia",
+        "Mujeres (clara mayoría estadística en el listado de Andalucía y Canarias)"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en el sector público",
+        "Aspirantes con dificultades de movilidad geográfica para destinos lejanos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con desglose por Andalucía, Aragón, Asturias, Canarias y otros)",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Modificación de una lista de aprobados ya publicada",
+      "Sistema de 'concurso' puro que excluye a opositores sin puntos por experiencia",
+      "Plazos administrativos muy ajustados (5-10 días) para trámites complejos",
+      "Falta de desglose de la puntuación detallada por méritos en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}

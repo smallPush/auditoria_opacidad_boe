@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4666",
+  "timestamp": "2026-03-01T21:50:23.316Z",
+  "title": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución convalida un Real Decreto-ley que utiliza la vía de urgencia para gestionar ayudas económicas. Aunque la finalidad es legítima (indemnizar víctimas), el uso del RDL permite eludir el debate parlamentario detallado sobre la cuantía de las partidas presupuestarias. Se detecta una 'corrección de errores' previa en el texto original, lo que sugiere una falta de rigor técnico en la redacción inicial de las cuantías o beneficiarios en un tema de alta sensibilidad social.",
+    "resumen_ciudadano": "El Congreso ha confirmado oficialmente las ayudas para los afectados por los accidentes de tren ocurridos en Adamuz (Córdoba) y Gélida (Barcelona). Es un trámite burocrático que asegura el flujo de fondos hacia las víctimas, aunque el documento publicado no especifica el importe total que se desembolsará de las arcas públicas ni bajo qué criterios exactos de reparto.",
+    "resumen_tweet": "⚠️ El Congreso convalida ayudas por accidentes ferroviarios en Adamuz y Gélida. Se usa la vía de urgencia RDL, dificultando el control de las partidas exactas. ¿Eficiencia o falta de transparencia en el gasto? 🚆💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de decreto-ley para evitar debate presupuestario",
+      "Existencia de corrección de errores previa en el texto base",
+      "Ausencia de desglose financiero en la resolución de convalidación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas y familiares (acceso a indemnizaciones)",
+        "Gobierno (proyecta rapidez ejecutiva)"
+      ],
+      "perdedores": [
+        "Transparencia pública (falta de detalle económico)",
+        "Escrutinio parlamentario (procedimiento de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Cataluña",
+    "tipologia": "Ayudas y Subvenciones por Siniestralidad",
+    "banderas_rojas": [
+      "Uso de decreto-ley para evitar debate presupuestario",
+      "Existencia de corrección de errores previa en el texto base",
+      "Ausencia de desglose financiero en la resolución de convalidación"
+    ]
+  },
+  "tweeted": false
+}

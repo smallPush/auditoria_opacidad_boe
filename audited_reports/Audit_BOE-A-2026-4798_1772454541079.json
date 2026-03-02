@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4798",
+  "timestamp": "2026-03-02T12:29:01.079Z",
+  "title": "Resolución de 20 de febrero de 2026, de la Subsecretaría, por la que se aprueba la relación de personas admitidas y excluidas, se corrigen errores en la designación de Tribunal calificador y se anuncia fecha, hora y lugar de celebración del primer ejercicio del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Técnico de Gestión Catastral, convocado por Resolución de 23 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución presenta una transparencia fragmentada. Mientras que los excluidos son expuestos públicamente con nombres y DNI (parcial), la lista de admitidos se deriva a portales externos, dificultando la fiscalización ciudadana inmediata. Es alarmante la corrección de errores en el tribunal: confundir a un miembro del Cuerpo de Sistemas con uno de Interventores y Auditores denota falta de rigor en la fase de diseño de la convocatoria. Además, se observa una fuerte barrera burocrática en las causas de exclusión D1 y E1, relacionadas con la acreditación de desempleo y rentas mínimas, lo que penaliza a los opositores con menos recursos o menor pericia administrativa.",
+    "resumen_ciudadano": "El Ministerio de Hacienda publica quiénes han sido admitidos y excluidos para las oposiciones de Gestión Catastral. Se convoca el examen para el 18 de abril de 2026 en Madrid. Se corrigen errores en la composición del tribunal y se da un plazo de 10 días para que los excluidos intenten arreglar sus papeles, especialmente aquellos que no pudieron demostrar su situación de desempleo o nivel de renta.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Oposiciones al Catastro bajo la lupa. Errores en el Tribunal y exclusiones por no acreditar renta o desempleo. La lista de admitidos, fuera del BOE. ¿Barreras para los más vulnerables? 🧐📉 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Desviación de información: La lista de admitidos no figura en el BOE, se remite a webs externas.",
+      "Error administrativo en tribunal: Cambio de perfil profesional de vocalía (de IT a Auditoría) tras la publicación oficial.",
+      "Barreras socioeconómicas: Gran volumen de exclusiones por criterios de renta (SMI) y situación de desempleo.",
+      "Autorización de actuación simultánea: El punto sexto autoriza a tribunales titulares y suplentes a cobrar/actuar a la vez, aumentando el coste del proceso."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros del Tribunal (autorizados para actuación simultánea)",
+        "Aspirantes con capacidad de gestión burocrática compleja"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos por motivos económicos (29 personas identificadas)",
+        "Candidatos que no cumplen requisitos de desempleo estricto",
+        "Confianza ciudadana debido a errores en la designación de evaluadores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Desviación de información: La lista de admitidos no figura en el BOE, se remite a webs externas.",
+      "Error administrativo en tribunal: Cambio de perfil profesional de vocalía (de IT a Auditoría) tras la publicación oficial.",
+      "Barreras socioeconómicas: Gran volumen de exclusiones por criterios de renta (SMI) y situación de desempleo.",
+      "Autorización de actuación simultánea: El punto sexto autoriza a tribunales titulares y suplentes a cobrar/actuar a la vez, aumentando el coste del proceso."
+    ]
+  },
+  "tweeted": false
+}

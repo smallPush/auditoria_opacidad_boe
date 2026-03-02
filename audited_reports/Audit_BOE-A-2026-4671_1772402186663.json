@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4671",
+  "timestamp": "2026-03-01T21:56:26.663Z",
+  "title": "Resolución de 27 de febrero de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Aunque la resolución es técnicamente precisa en sus cifras, es opaca en su justificación socioeconómica. El Estado actúa meramente como un fedatario de las decisiones comerciales de grandes tabacaleras e importadores, validando subidas de precios que impactan directamente en el IPC. Se observa una brecha de clase extrema: mientras se regulan cigarros de lujo a 60€ la unidad (Quai D’Orsay), se mantienen opciones de picadura de bajo coste, segmentando el impacto sanitario del tabaquismo por nivel de renta. Los nombres comerciales permitidos (ej. 'Forever Gold', 'Pinkman') sugieren estrategias de marketing aspiracional que el BOE normaliza sin filtros de salud pública.",
+    "resumen_ciudadano": "Hacienda publica la nueva lista de precios del tabaco para la península y Baleares. Los precios, propuestos por las empresas del sector, incluyen desde cigarrillos económicos hasta puros de gran lujo. El Estado se limita a oficializar estas tarifas, asegurando así la recaudación por impuestos indirectos sin entrar a valorar el impacto en la salud de los ciudadanos.",
+    "resumen_tweet": "📈 El #BOE actualiza los precios del tabaco. De puros de lujo a 60€ a picaduras de bajo coste. ¿Regulación de salud o simple gestión de caja? 🚬💸 Hacienda valida los precios de la industria una vez más. #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Segmentación extrema de precios por clase social",
+      "Nombres comerciales con posible impacto en público joven",
+      "Falta de desglose entre margen comercial e impuestos reales",
+      "Procedimiento administrativo que prioriza intereses de importadores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantenimiento de ingresos fiscales)",
+        "Grandes importadores de tabaco",
+        "Sector del lujo tabacalero"
+      ],
+      "perdedores": [
+        "Clases trabajadoras (consumidoras de productos de menor coste)",
+        "Salud pública nacional",
+        "Transparencia en la composición del precio final"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península y Baleares)",
+    "tipologia": "Regulación de Precios y Fiscalidad",
+    "banderas_rojas": [
+      "Segmentación extrema de precios por clase social",
+      "Nombres comerciales con posible impacto en público joven",
+      "Falta de desglose entre margen comercial e impuestos reales",
+      "Procedimiento administrativo que prioriza intereses de importadores"
+    ]
+  },
+  "tweeted": false
+}

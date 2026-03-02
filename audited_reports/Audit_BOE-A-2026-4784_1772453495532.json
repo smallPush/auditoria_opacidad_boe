@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4784",
+  "timestamp": "2026-03-02T12:11:35.532Z",
+  "title": "Resolución de 20 de febrero de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 10 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "La resolución muestra un reajuste de personal en el Ministerio de Vivienda y Agenda Urbana mediante concurso de méritos. Destaca la provisión de puestos en la 'Oficina Técnica PERTE Industrialización Vivienda', clave para la gestión de fondos estratégicos. Sin embargo, la declaración de puestos 'desiertos' en la Subdirección General de Asuntos Generales y Contratación sugiere una posible falta de perfiles especializados en gestión contractual, lo que podría derivar en cuellos de botella para la ejecución de proyectos habitacionales.",
+    "resumen_ciudadano": "El Gobierno ha asignado nuevas plazas de trabajo internas en el Ministerio de Vivienda. Funcionarios de otros ministerios (como Trabajo o Economía) se trasladan a Madrid para gestionar, entre otros, los fondos europeos para la vivienda. Llama la atención que algunos puestos clave en la gestión de contratos han quedado vacantes por falta de candidatos adecuados.",
+    "resumen_tweet": "🏠 El Ministerio de Vivienda mueve ficha: se refuerza la oficina del PERTE pero quedan vacantes puestos clave en CONTRATACIÓN. ¿Burocracia lenta para los fondos europeos? 🧐📉 #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Puestos de contratación declarados desiertos",
+      "Alta concentración de puestos adjudicados exclusivamente en Madrid",
+      "Movilidad interna que detrae recursos de la periferia (Alicante) hacia el centro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de los niveles 18 a 22 que consolidan plazas en Madrid",
+        "Oficina Técnica del PERTE de Vivienda (adquiere personal)",
+        "Estructura administrativa centralista"
+      ],
+      "perdedores": [
+        "Provincias (pérdida de efectivos en delegaciones como Alicante)",
+        "Transparencia en la ejecución (puestos de gestión de contratos sin cubrir)",
+        "Candidatos externos (procedimiento restringido a personal funcionario)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Puestos de contratación declarados desiertos",
+      "Alta concentración de puestos adjudicados exclusivamente en Madrid",
+      "Movilidad interna que detrae recursos de la periferia (Alicante) hacia el centro"
+    ]
+  },
+  "tweeted": false
+}

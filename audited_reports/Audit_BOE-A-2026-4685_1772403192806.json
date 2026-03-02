@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4685",
+  "timestamp": "2026-03-01T22:13:12.806Z",
+  "title": "Orden PJC/144/2026, de 24 de febrero, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Letrados de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para el Cuerpo de Letrados de la Administración de Justicia (LAJ) sigue un patrón burocrático estándar que oculta una profunda barrera de clase. Aunque el texto cita el IV Plan para la igualdad de género, ignora el sesgo socioeconómico del sistema de oposición basado en exámenes orales. Este formato beneficia desproporcionadamente a quienes pueden permitirse 'preparadores' privados (un mercado opaco y caro). Además, el sistema de acumulación de plazas de promoción interna a turno libre si quedan vacantes sugiere una falta de incentivos reales para la carrera profesional interna, manteniendo la estructura de élite.",
+    "resumen_ciudadano": "Se convocan 179 plazas para Letrados de Justicia (antiguos secretarios judiciales). El proceso incluye exámenes tipo test, orales y prácticos. Se reservan 12 plazas para personas con discapacidad en el turno libre. Las tasas de examen varían entre 15 y 31 euros, con exenciones para víctimas de terrorismo, familias numerosas y desempleados. El proceso se centraliza en Madrid a través del Centro de Estudios Jurídicos.",
+    "resumen_tweet": "⚖️ ¿Mérito o billetera? Convocadas 179 plazas para Letrados de Justicia en el #BOE. El sistema de examen oral favorece a quienes pagan 'preparadores' privados, creando una barrera de clase invisible. #Opacidad #Transparencia #Justicia #Oposiciones2026",
+    "banderas_red_flags": [
+      "Subjetividad inherente al examen oral ante tribunal",
+      "Dependencia de un mercado de preparadores externos no regulado",
+      "Declaración de agosto como mes inhábil que dilata los plazos",
+      "Acumulación de plazas vacantes de promoción interna al turno libre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Licenciados en Derecho con alta capacidad económica para estudios de larga duración",
+        "Academias y preparadores privados (negocio paralelo)",
+        "Funcionarios de Gestión Procesal con antigüedad (vía promoción interna)"
+      ],
+      "perdedores": [
+        "Graduados con talento pero sin recursos para costear años de preparación",
+        "Aspirantes con discapacidad (las adaptaciones no son automáticas, están sujetas a criterio del tribunal)",
+        "Conciliación familiar (el proceso centralizado y el curso selectivo exigen movilidad geográfica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Justicia",
+    "banderas_rojas": [
+      "Subjetividad inherente al examen oral ante tribunal",
+      "Dependencia de un mercado de preparadores externos no regulado",
+      "Declaración de agosto como mes inhábil que dilata los plazos",
+      "Acumulación de plazas vacantes de promoción interna al turno libre"
+    ]
+  },
+  "tweeted": false
+}

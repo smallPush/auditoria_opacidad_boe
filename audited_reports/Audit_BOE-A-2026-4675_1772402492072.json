@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4675",
+  "timestamp": "2026-03-01T22:01:32.072Z",
+  "title": "Corrección de errores del Real Decreto 940/2025, de 21 de octubre, por el que se regula la concesión directa de subvenciones en materia de vivienda para la financiación de iniciativas locales que contribuyan a la consecución de los objetivos de la línea 13.4 del Marco de actuaciones para el desarrollo territorial sostenible del área de influencia del Espacio Natural Doñana.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Estamos ante una corrección técnica que esconde un mecanismo de adjudicación opaco: la 'concesión directa'. Al modificar una referencia interna (del apartado 2.d al 2.e) en un Real Decreto de subvenciones para Doñana, se altera la base jurídica de los requisitos exigibles sin debate público. Este tipo de 'erratas' en el BOE a menudo sirven para ajustar las condiciones de acceso a fondos públicos de forma discrecional, beneficiando a entidades locales específicas bajo el pretexto del desarrollo sostenible.",
+    "resumen_ciudadano": "El Gobierno ha modificado un error en el reglamento que reparte subvenciones directas (sin concurso público) para vivienda en el entorno de Doñana. Aunque parece un cambio menor de letras, estas referencias legales determinan quién puede recibir el dinero y bajo qué condiciones, en un proceso que evita la libre concurrencia.",
+    "resumen_tweet": "🚨 ¡Ojo al 'dedazo' en Doñana! El #BOE corrige una 'errata' en la concesión DIRECTA de subvenciones para vivienda. Cambiar una 'd' por una 'e' parece poco, pero altera los requisitos para recibir fondos sin concurso público. #Opacidad #Transparencia 🚩",
+    "banderas_red_flags": [
+      "Concesión directa de subvenciones (sin concurrencia pública)",
+      "Uso de 'corrección de errores' para modificar condiciones de acceso",
+      "Falta de desglose de las cuantías exactas por beneficiario en este texto",
+      "Complejidad técnica que dificulta la fiscalización ciudadana"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos del área de influencia de Doñana seleccionados",
+        "Ministerio de Vivienda (gestión discrecional de fondos)"
+      ],
+      "perdedores": [
+        "Ciudadanos que exigen procesos de concurrencia competitiva",
+        "Transparencia en el uso de fondos destinados a sostenibilidad territorial"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Subvenciones y Ayudas",
+    "banderas_rojas": [
+      "Concesión directa de subvenciones (sin concurrencia pública)",
+      "Uso de 'corrección de errores' para modificar condiciones de acceso",
+      "Falta de desglose de las cuantías exactas por beneficiario en este texto",
+      "Complejidad técnica que dificulta la fiscalización ciudadana"
+    ]
+  },
+  "tweeted": false
+}

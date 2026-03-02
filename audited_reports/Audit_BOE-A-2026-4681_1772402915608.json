@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4681",
+  "timestamp": "2026-03-01T22:08:35.608Z",
+  "title": "Resolución de 13 de febrero de 2026, de la Universidad de La Laguna, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución de nombramientos de funcionarios de carrera en la Universidad de La Laguna. Aunque el acto es legal y sigue la LOSU, la opacidad reside en la falta de información presupuestaria sobre el coste a largo plazo de estas plazas fijas y la ausencia de los baremos de puntuación en el texto publicado. Existe una aparente paridad de género en los nombramientos (1 mujer, 2 hombres).",
+    "resumen_ciudadano": "La Universidad de La Laguna formaliza el nombramiento de tres nuevos profesores titulares permanentes en las áreas de Ingeniería, Álgebra y Educación. Estos puestos suponen una carga presupuestaria fija para el Estado.",
+    "resumen_tweet": "🏛️ Auditoría #BOE: La Universidad de La Laguna consolida 3 plazas de profesorado titular. Estabilidad laboral para unos pocos, mientras la financiación universitaria sigue bajo lupa. 🔍💸 #Opacidad #Transparencia #Canarias #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de enlace directo a las actas de méritos de los seleccionados",
+      "Consolidación de gasto estructural sin informe de impacto económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (estabilidad laboral de por vida)",
+        "Universidad de La Laguna (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente precario (interinos y asociados sin plazas)",
+        "Contribuyente (compromiso de gasto público a largo plazo sin detalle de eficiencia)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de enlace directo a las actas de méritos de los seleccionados",
+      "Consolidación de gasto estructural sin informe de impacto económico"
+    ]
+  },
+  "tweeted": false
+}

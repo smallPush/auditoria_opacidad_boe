@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4673",
+  "timestamp": "2026-03-01T21:59:09.679Z",
+  "title": "Real Decreto 145/2026, de 25 de febrero, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Recursos y servicios en la nube y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto establece un curso de especialización en 'Recursos y servicios en la nube' bajo el título de 'Máster de Formación Profesional'. Aunque se ampara en la Ley Orgánica de Educación y fondos europeos (FSE+), el texto presenta una arquitectura burocrática densa que centraliza el 50-60% del currículo, dejando un margen relativo a las CCAA. Se observa una 'incongruencia ideológica' al mencionar el fomento de la igualdad de género sin proponer una sola medida concreta para romper la brecha digital en un sector tradicionalmente masculinizado. Asimismo, el uso de la cláusula de 'excepcionalidad' para que el Estado regule mediante reglamento lo que debería ser ley es una táctica recurrente para agilizar procesos obviando el debate parlamentario profundo.",
+    "resumen_ciudadano": "Se crea un nuevo título oficial de 'Máster de FP' en computación en la nube para titulados superiores de informática y mecánica. Tendrá una duración de 700 horas y permitirá trabajar administrando sistemas en la nube. El curso busca actualizar la formación profesional a las demandas de las grandes tecnológicas, integrando prácticas en empresas y reconocimiento de créditos universitarios.",
+    "resumen_tweet": "☁️ Nuevo 'Máster de FP' en servicios en la nube. 700h de formación técnica bajo fondos europeos FSE+. Mucha mención a la 'igualdad de género' pero CERO medidas reales para atraer mujeres al sector tech. ¿Transparencia o marketing? #BOE #FP #Cloud",
+    "banderas_red_flags": [
+      "Ausencia de presupuesto detallado: se remite genéricamente al Programa EFESO 2021-2027 sin cifras por alumno",
+      "Invasión competencial suave: uso de reglamentos para fijar bases que limitan la autonomía curricular autonómica",
+      "Falta de concreción en igualdad: cláusulas genéricas sobre segregación formativa sin mecanismos de ejecución",
+      "Dualidad ambigua: la formación en empresa se menciona pero queda a discreción de la implementación regional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones tecnológicas (acceso a mano de obra especializada)",
+        "Técnicos Superiores (mejora de empleabilidad y título de 'Máster')",
+        "Consultoras de formación (nuevos contratos bajo fondos FSE+)"
+      ],
+      "perdedores": [
+        "Centros públicos con brecha digital (dificultad para cubrir equipamientos mínimos)",
+        "Mujeres en sectores STEM (falta de incentivos específicos de acceso)",
+        "Soberanía curricular de las Comunidades Autónomas"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (España)",
+    "tipologia": "Real Decreto de Formación Profesional",
+    "banderas_rojas": [
+      "Ausencia de presupuesto detallado: se remite genéricamente al Programa EFESO 2021-2027 sin cifras por alumno",
+      "Invasión competencial suave: uso de reglamentos para fijar bases que limitan la autonomía curricular autonómica",
+      "Falta de concreción en igualdad: cláusulas genéricas sobre segregación formativa sin mecanismos de ejecución",
+      "Dualidad ambigua: la formación en empresa se menciona pero queda a discreción de la implementación regional"
+    ]
+  },
+  "tweeted": false
+}

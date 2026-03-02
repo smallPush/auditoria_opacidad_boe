@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4789",
+  "timestamp": "2026-03-02T12:17:31.254Z",
+  "title": "Resolución de 18 de febrero de 2026, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don Álvaro de la Llana Calvo.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolucion es un acto administrativo estandar de nombramiento de funcionario de carrera tras un proceso selectivo. Se basa en la Ley Organica 2/2023 (LOSU). El lenguaje es tecnico y burocratico, cumpliendo con la legalidad pero sin ofrecer detalles sobre el proceso de seleccion o los meritos comparativos, remitiendo a actas de comisiones que no son de acceso directo inmediato para el ciudadano medio. Se observa la consolidacion de una plaza vitalicia en el area de Tecnologia Electronica.",
+    "resumen_ciudadano": "La Universidad de Alcala ha nombrado oficialmente a Don Alvaro de la Llana Calvo como Profesor Titular de Universidad en el area de Tecnologia Electronica. Este nombramiento es el paso final tras una oposicion convocada en 2025 y le otorga una plaza permanente en el sistema universitario publico.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Universidad de Alcala: Alvaro de la Llana ya es Profesor Titular de Tecnologia Electronica. Un proceso reglado que consolida plazas vitalicias en la funcion publica docente. #BOE #Transparencia #Universidad #UAH",
+    "banderas_red_flags": [
+      "Opacidad en los meritos evaluados en el extracto",
+      "Sesgo de genero persistente en areas STEM",
+      "Consolidacion de gasto publico estructural a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alvaro de la Llana Calvo (beneficiario de la plaza)",
+        "Universidad de Alcala (cubre vacante)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el proceso selectivo",
+        "Representacion femenina en el departamento de Electronica (area tradicionalmente masculinizada)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en los meritos evaluados en el extracto",
+      "Sesgo de genero persistente en areas STEM",
+      "Consolidacion de gasto publico estructural a largo plazo"
+    ]
+  },
+  "tweeted": false
+}

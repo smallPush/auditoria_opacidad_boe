@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4678",
+  "timestamp": "2026-03-01T22:05:06.236Z",
+  "title": "Resolución de 26 de febrero de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de enero de 2026, en los Servicios Periféricos de la Secretaría General de Instituciones Penitenciarias.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolucion emplea el sistema de 'libre designacion' para cubrir puestos en los Servicios Perifericos de Instituciones Penitenciarias, lo cual permite una eleccion discrecional por parte de la autoridad competente. Lo mas alarmante desde la optica de la transparencia es que el anexo con los nombres de los seleccionados no se publica en el BOE, sino que se remite a un registro interno de la Secretaria General. Esto dificulta la fiscalizacion publica inmediata y el escrutinio de posibles vinculos politicos o de amiguismo en la gestion carcelaria.",
+    "resumen_ciudadano": "El Ministerio del Interior ha otorgado plazas de trabajo 'a dedo' en centros penitenciarios de toda España. En lugar de mostrar los nombres de los elegidos de forma abierta en este documento oficial, el Gobierno oculta los beneficiarios en un registro administrativo secundario, impidiendo que la ciudadania sepa facilmente quienes ocuparan estos cargos de poder.",
+    "resumen_tweet": "🚨 ¡Mas dedazos en el #BOE! Interior resuelve puestos de 'libre designacion' en Instituciones Penitenciarias sin publicar los nombres de los beneficiados. ¿Transparencia? No, opacidad total. 🕵️‍♂️📉 #Opacidad #Transparencia #Dedazo",
+    "banderas_red_flags": [
+      "Uso sistematico de libre designacion",
+      "Ocultacion de adjudicatarios en el texto principal",
+      "Opacidad en la publicacion del anexo de nombres",
+      "Falta de justificacion de meritos publicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal de confianza seleccionado arbitrariamente",
+        "Altos cargos de la Secretaria General de Instituciones Penitenciarias"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores meritos no seleccionados",
+        "Ciudadania que pierde el rastro de la meritocracia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso sistematico de libre designacion",
+      "Ocultacion de adjudicatarios en el texto principal",
+      "Opacidad en la publicacion del anexo de nombres",
+      "Falta de justificacion de meritos publicos"
+    ]
+  },
+  "tweeted": false
+}

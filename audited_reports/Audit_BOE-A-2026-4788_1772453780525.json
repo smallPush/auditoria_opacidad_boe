@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-4788",
+  "timestamp": "2026-03-02T12:16:20.525Z",
+  "title": "Resolución de 10 de febrero de 2026, de la Universidad de Cantabria, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución cumple formalmente con la normativa de publicidad de nombramientos, pero incurre en la opacidad sistémica del sistema universitario español: se asignan plazas vitalicias de alto nivel salarial (Catedráticos) sin mencionar la dotación presupuestaria ni el impacto económico plurianual en las arcas públicas. Existe paridad de género en este nombramiento específico (1 hombre, 1 mujer), lo que se alinea con las directrices de la LOSU, aunque el acceso a la cima académica sigue siendo un proceso cerrado a la visión ciudadana sobre su coste real.",
+    "resumen_ciudadano": "La Universidad de Cantabria ha nombrado a dos nuevos catedráticos en las áreas de Administración de Empresas y Derecho Administrativo. Es un trámite administrativo para consolidar personal docente en puestos permanentes y de máximo rango académico.",
+    "resumen_tweet": "🎓 La Univ. de Cantabria nombra 2 nuevos catedráticos. Aunque hay paridad en los nombres, el coste real de estas plazas vitalicias para el contribuyente no se publica. ¿Transparencia administrativa o falta de datos económicos? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de información sobre el impacto presupuestario de las plazas",
+      "Uso de lenguaje administrativo que oculta la carga financiera a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesús Collado Agudo (estabilidad y ascenso)",
+        "Ana Sánchez Lamelas (estabilidad y ascenso)",
+        "Universidad de Cantabria (consolidación de cuadros directivos)"
+      ],
+      "perdedores": [
+        "Investigadores postdoctorales (menos recursos para nuevas plazas)",
+        "Ciudadanía (desconocimiento del gasto público en salarios de alto rango)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramientos de personal docente e investigador",
+    "banderas_rojas": [
+      "Ausencia de información sobre el impacto presupuestario de las plazas",
+      "Uso de lenguaje administrativo que oculta la carga financiera a largo plazo"
+    ]
+  },
+  "tweeted": false
+}

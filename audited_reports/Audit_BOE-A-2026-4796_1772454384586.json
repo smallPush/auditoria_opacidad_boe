@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4796",
+  "timestamp": "2026-03-02T12:26:24.586Z",
+  "title": "Resolución 400/38074/2026, de 17 de febrero, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas en el procedimiento de integración en la condición de personal estatutario del personal funcionario y laboral del Hospital Central de la Defensa en Madrid, del Hospital General de la Defensa en Zaragoza, del Centro de Transfusión de las Fuerzas Armadas, del Instituto de Medicina Preventiva de la Defensa y del Instituto de Toxicología de la Defensa, convocado por Resolución 400/38500/2025, de 20 de noviembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento detalla la integración de personal funcionario y laboral en el régimen estatutario de la Red Sanitaria Militar. Aunque el proceso parece reglado bajo el RD 931/2025, este tipo de movimientos suelen ocultar una reestructuración de costes de personal a largo plazo que no se cuantifica en el BOE. La transición de 'laboral' a 'estatutario' implica una homogeneización que facilita la gestión, pero también puede blindar ciertos complementos salariales específicos del ámbito militar/defensa frente al sistema nacional de salud general.",
+    "resumen_ciudadano": "Defensa publica las listas de empleados civiles (limpiadores, administrativos, enfermeros, etc.) que pasan a tener la condición de personal sanitario estatutario en hospitales militares de Madrid y Zaragoza. Se abre un plazo de 10 días para corregir errores en las listas.",
+    "resumen_tweet": "🩺 Defensa avanza en la integración de personal civil a estatutario en la Red Sanitaria Militar. Más de 40 categorías afectadas en Madrid y Zaragoza. ¿Cuál es el coste real para el contribuyente de este cambio de régimen? 🤔 #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el impacto presupuestario de la integración",
+      "Dualidad de regímenes entre sanidad militar y civil",
+      "Posibles complementos específicos no detallados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral y funcionario que adquiere el estatus estatutario (mayor estabilidad y marco jurídico sanitario)",
+        "Ministerio de Defensa (unificación de la gestión de personal)"
+      ],
+      "perdedores": [
+        "Sistema Nacional de Salud (mantenimiento de una red paralela)",
+        "Contribuyentes (costes de transición administrativa y salarial no declarados)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Opacidad en el impacto presupuestario de la integración",
+      "Dualidad de regímenes entre sanidad militar y civil",
+      "Posibles complementos específicos no detallados"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4668",
+  "timestamp": "2026-03-01T21:52:45.832Z",
+  "title": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolucion utiliza el mecanismo de convalidacion de Real Decreto-ley para blindar medidas de Seguridad Social bajo el pretexto de urgencia. El mayor riesgo reside en la mencion de 'otras medidas urgentes', una tecnica legislativa de 'cajon de sastre' que permite introducir cambios normativos de calado sin el desglose tecnico o presupuestario necesario para una fiscalizacion ciudadana efectiva. Se detecta una falta de transparencia en la cuantificacion de los gastos asociados a estas medidas adicionales que no son estrictamente la revalorizacion nominal.",
+    "resumen_ciudadano": "El Congreso ha ratificado la subida de las pensiones para 2026, pero el texto incluye un paquete de 'medidas urgentes' de la Seguridad Social que no se explican con detalle. Mientras el titular es la subida de las pensiones, la letra pequeña sobre la gestion de los fondos y los costes adicionales permanece oculta tras un lenguaje administrativo opaco.",
+    "resumen_tweet": "🚨 ¡Ojo con el #BOE! Se convalidan las pensiones pero se cuelan 'medidas urgentes' sin detalle. Menos transparencia y más decretazos. ¿Qué esconden bajo la urgencia? 🕵️‍♂️💸 #Opacidad #Pensiones #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Abuso del Real Decreto-ley para eludir debate",
+      "Terminologia vaga: 'otras medidas urgentes'",
+      "Ausencia de memoria economica detallada en el texto publicado",
+      "Posible inclusion de gastos fantasma bajo el epigrafe de urgencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pensionistas actuales (por la revalorizacion inmediata)",
+        "Gobierno (por la rapidez legislativa y control del relato)"
+      ],
+      "perdedores": [
+        "Contribuyentes jovenes (por falta de proyeccion de sostenibilidad)",
+        "Transparencia publica (por el uso de clausulas genericas)",
+        "Debate parlamentario (reducido a un tramite de convalidacion)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Legislación de Seguridad Social y Presupuestaria",
+    "banderas_rojas": [
+      "Abuso del Real Decreto-ley para eludir debate",
+      "Terminologia vaga: 'otras medidas urgentes'",
+      "Ausencia de memoria economica detallada en el texto publicado",
+      "Posible inclusion de gastos fantasma bajo el epigrafe de urgencia"
+    ]
+  },
+  "tweeted": false
+}

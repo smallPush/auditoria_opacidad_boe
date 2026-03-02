@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4793",
+  "timestamp": "2026-03-02T12:22:29.233Z",
+  "title": "Orden PJC/151/2026, de 18 de febrero, por la que se publica la relación de plazas correspondientes al ámbito del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, que se ofrecen a las personas aprobadas en el proceso selectivo para acceso en el Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, turno libre, convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque el procedimiento técnico para la elección de plazas es detallado, el documento oculta tras un lenguaje administrativo la rigidez de la 'adjudicación forzosa'. Se impone una digitalización absoluta sin alternativas para paliar la brecha digital, y se establece un 'bloqueo' de movilidad de dos años. La mención a la Ley de Eficiencia de la Justicia sugiere una reestructuración de órganos que podría diluir funciones tradicionales bajo nuevas denominaciones técnicas.",
+    "resumen_ciudadano": "El Ministerio de Justicia convoca a quienes aprobaron las oposiciones de Gestión Procesal para que elijan destino. El proceso es totalmente telemático y obligatorio; si el opositor no elige suficientes plazas, el Estado le asignará una de oficio en cualquier localidad disponible. Una vez obtenida la plaza, el funcionario no podrá intentar cambiar de ciudad en un plazo de dos años.",
+    "resumen_tweet": "🚨 ¡Atención opositores de Justicia! Publicadas las plazas de Gestión Procesal. Cuidado con la 'adjudicación forzosa': si no eliges bien, el sistema decide tu destino por ti. 2 años de bloqueo sin traslados. ⚖️💼 #BOE #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Adjudicación de destinos con carácter forzoso",
+      "Exclusión total de solicitudes en formato papel",
+      "Prohibición de concursar en los dos años siguientes",
+      "Denominaciones de órganos sujetas a cambios por leyes de eficiencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con mejores puntuaciones (mayor libertad de elección)",
+        "Administración (al asegurar la cobertura de plazas menos atractivas mediante el sistema forzoso)"
+      ],
+      "perdedores": [
+        "Aprobados con menor puntuación (riesgo de desplazamiento geográfico no deseado)",
+        "Personas con dificultades de acceso digital (eliminación total del papel)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (Extremadura, Illes Balears, Castilla y León)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Adjudicación de destinos con carácter forzoso",
+      "Exclusión total de solicitudes en formato papel",
+      "Prohibición de concursar en los dos años siguientes",
+      "Denominaciones de órganos sujetas a cambios por leyes de eficiencia"
+    ]
+  },
+  "tweeted": false
+}

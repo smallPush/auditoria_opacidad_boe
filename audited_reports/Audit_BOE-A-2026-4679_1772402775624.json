@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4679",
+  "timestamp": "2026-03-01T22:06:15.624Z",
+  "title": "Resolución de 26 de febrero de 2026, de la Presidencia de la Junta Electoral Central, de designación de los Vocales no judiciales de las Juntas Electorales Provinciales a los que se refiere el artículo 10.1.b) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en relación con las elecciones a las Cortes de Castilla y León de 15 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La designación de los vocales no judiciales de las Juntas Electorales Provinciales se basa en el artículo 10.1.b de la LOREG, que permite a los partidos políticos proponer a 'juristas de reconocido prestigio'. Sin embargo, el texto del BOE es una mera lista de nombres sin exposición de motivos ni currículum que justifique su idoneidad. Se detecta una opacidad estructural: no se detallan las dietas que percibirán (posibles 'gastos fantasma' por sesiones) ni la adscripción ideológica real de los elegidos, lo que puede comprometer la neutralidad en la resolución de conflictos electorales.",
+    "resumen_ciudadano": "Se han elegido a las personas encargadas de arbitrar las próximas elecciones en Castilla y León. Aunque se presentan como expertos independientes, estos vocales son propuestos por los partidos políticos. El BOE solo publica sus nombres, ocultando sus méritos y cuánto cobrarán por su labor de supervisión electoral.",
+    "resumen_tweet": "🗳️ ¿Quién vigila tus votos en Castilla y León? Publicados los vocales de las Juntas Electorales. Nombramientos de 'expertos' propuestos por partidos sin explicar méritos ni sueldos. La neutralidad electoral se decide en despachos. #BOE #Opacidad #CyL2026",
+    "banderas_red_flags": [
+      "Ausencia de baremos de mérito publicados",
+      "Falta de desglose presupuestario para remuneraciones",
+      "Selección basada en propuestas discrecionales de partidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partidos políticos (control de los órganos de arbitraje)",
+        "Perfiles académicos y profesionales con conexiones políticas"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Ciudadanía (desconocimiento de los criterios de imparcialidad)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos Electorales",
+    "banderas_rojas": [
+      "Ausencia de baremos de mérito publicados",
+      "Falta de desglose presupuestario para remuneraciones",
+      "Selección basada en propuestas discrecionales de partidos"
+    ]
+  },
+  "tweeted": false
+}

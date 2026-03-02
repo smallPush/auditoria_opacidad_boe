@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4791",
+  "timestamp": "2026-03-02T12:19:51.535Z",
+  "title": "Resolución de 20 de febrero de 2026, de la Universidad de Granada, por la que se nombra Profesor Titular de Universidad a don Segismundo Torrecillas López.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para la estabilizacion de personal docente funcionario. La opacidad no reside en el acto en si, sino en la fragmentacion de la informacion: el ciudadano no puede acceder desde este anuncio a los meritos valorados ni a las puntuaciones del resto de aspirantes. Ademas, el nombramiento de un varon en un area de alta relevancia economica como el Derecho Mercantil subraya la persistente brecha de genero en los niveles superiores del escalafon universitario. No se especifica el impacto presupuestario anual derivado de esta plaza vitalicia.",
+    "resumen_ciudadano": "La Universidad de Granada ha nombrado oficialmente a Segismundo Torrecillas Lopez como Profesor Titular de Universidad en el area de Derecho Mercantil tras superar un concurso de acceso. Esto le otorga la condicion de funcionario de carrera con caracter permanente.",
+    "resumen_tweet": "⚖️ Nuevo profesor titular en la Univ. de Granada. El #BOE oficializa plaza vitalicia en Derecho Mercantil. Consolidacion de empleo publico de alto nivel, pero sin detalle de meritos en el anuncio. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la baremacion de meritos publica",
+      "Ausencia de desglose de coste salarial a largo plazo",
+      "Sesgo de representacion de genero en puestos titulares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Segismundo Torrecillas Lopez",
+        "Universidad de Granada",
+        "Cuerpo de Funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados",
+        "Contribuyentes (gasto estructural no detallado)",
+        "Paridad de genero en la academia"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en la baremacion de meritos publica",
+      "Ausencia de desglose de coste salarial a largo plazo",
+      "Sesgo de representacion de genero en puestos titulares"
+    ]
+  },
+  "tweeted": false
+}

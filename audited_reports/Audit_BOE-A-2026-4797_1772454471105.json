@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4797",
+  "timestamp": "2026-03-02T12:27:51.105Z",
+  "title": "Resolución 430/38087/2026, de 19 de febrero, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas al proceso selectivo para acceso, por el sistema de promoción interna, a la condición de personal estatutario fijo en plazas de la categoría de Técnico/a Medio Sanitario en Cuidados Auxiliares de Enfermería y de Grupo Auxiliar de la Función Administrativa, en la Red Sanitaria Militar, convocada por Resolución 430/38524/2025, de 9 de diciembre.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion muestra una transparencia fragmentada. Mientras publica abiertamente la lista de excluidos con sus nombres y DNI parciales, oculta la lista de admitidos redirigiendo a portales internos o webs externas, dificultando el escrutinio publico del proceso completo. Existe un fuerte sesgo de centralismo administrativo al fijar una sede unica para el examen en Madrid (Hospital Gomez Ulla), lo que impone una barrera economica de desplazamiento a los trabajadores de la Red Sanitaria Militar destinados en otras provincias. Ademas, los motivos de exclusion (especialmente el punto 1 y 2) revelan una estructura estamentaria rigida que dificulta la promocion interna si no se pertenece ya al nucleo duro de personal fijo.",
+    "resumen_ciudadano": "Defensa publica quienes han sido rechazados para plazas fijas de enfermeria y administracion en hospitales militares. Los admitidos no figuran en el BOE y deben consultarse en la web de Defensa. El examen sera el 30 de mayo en Madrid. Los excluidos tienen 10 dias para presentar alegaciones si consideran que el rechazo es injusto.",
+    "resumen_tweet": "🕵️‍♂️ Defensa publica listas de empleo pero oculta a los admitidos tras portales externos. Centralismo puro: examen unico en Madrid, penalizando a personal de provincias. ¿Transparencia o barreras? 🏥 #BOE #Opacidad #Transparencia #SanidadMilitar",
+    "banderas_red_flags": [
+      "Opacidad en la lista de admitidos (no publicada en BOE)",
+      "Centralismo geografico (examen solo en Madrid)",
+      "Plazo de subsanacion critico de solo 10 dias",
+      "Exclusiones masivas por falta de antiguedad previa (blindaje de plazas)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal estatutario fijo con base en Madrid",
+        "Candidatos con acceso fluido al Portal Funciona",
+        "Administracion centralizada"
+      ],
+      "perdedores": [
+        "Candidatos de provincias (costes de viaje)",
+        "Personal temporal o con menos de 2 años de antiguedad",
+        "Aspirantes excluidos por tecnicismos de la Ley 55/2003"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Publico / Sanidad Militar",
+    "banderas_rojas": [
+      "Opacidad en la lista de admitidos (no publicada en BOE)",
+      "Centralismo geografico (examen solo en Madrid)",
+      "Plazo de subsanacion critico de solo 10 dias",
+      "Exclusiones masivas por falta de antiguedad previa (blindaje de plazas)"
+    ]
+  },
+  "tweeted": false
+}

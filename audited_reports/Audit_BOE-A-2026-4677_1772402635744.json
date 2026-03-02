@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4677",
+  "timestamp": "2026-03-01T22:03:55.744Z",
+  "title": "Acuerdo de 2 de diciembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Joaquín Ángel de Domingo Martínez.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es un acto administrativo estándar de jubilación forzosa por edad. Aunque cumple con la legalidad vigente (LOPJ), destaca la opacidad inherente a los 'derechos pasivos' mencionados: se garantiza una pensión de alto nivel sin especificar el impacto económico para las arcas públicas. Existe una brecha de transparencia sobre el coste real de las pensiones de la cúpula judicial en comparación con el régimen general de la Seguridad Social.",
+    "resumen_ciudadano": "Se oficializa la jubilación obligatoria por edad de un Magistrado del Tribunal Superior de Justicia de Murcia. Se le reconocen sus derechos de pensión bajo el régimen de Clases Pasivas del Estado, lo que pone fin a su trayectoria activa en la Sala de lo Civil y Penal.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la cúpula judicial de Murcia. Se activan los 'derechos pasivos' para un magistrado del TSJ, pero el BOE no aclara el coste de estas pensiones de élite. ¿Transparencia real o burocracia opaca? #BOE #Opacidad #Transparencia 📉",
+    "banderas_red_flags": [
+      "Falta de desglose de la cuantía de la pensión pública",
+      "Uso de terminología técnica para ocultar beneficios económicos (derechos pasivos)",
+      "Ausencia de información sobre el proceso de sustitución inmediato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Joaquín Ángel de Domingo Martínez (acceso a pensión máxima garantizada)",
+        "Siguientes en el escalafón judicial por vacante generada"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento del sistema de clases pasivas sin transparencia)",
+        "Sistema de justicia de Murcia (pérdida de efectivo en sala civil y penal)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Falta de desglose de la cuantía de la pensión pública",
+      "Uso de terminología técnica para ocultar beneficios económicos (derechos pasivos)",
+      "Ausencia de información sobre el proceso de sustitución inmediato"
+    ]
+  },
+  "tweeted": false
+}

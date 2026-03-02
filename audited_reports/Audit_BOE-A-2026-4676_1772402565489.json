@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-4676",
+  "timestamp": "2026-03-01T22:02:45.489Z",
+  "title": "Resolución de 26 de febrero de 2026, de la Dirección General del Tesoro y Política Financiera, por la que se revisan y se publican los precios de venta al público de monedas de colección.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion ampara una subida agresiva de precios de venta al publico de monedas de coleccion bajo la premisa de la revalorizacion de la plata. Sin embargo, se observa una desproporcion masiva entre el valor facial de las monedas (el valor legal de intercambio) y el nuevo precio de venta. Por ejemplo, monedas con valor facial de 5 euros pasan de costar 30 a 60,33 euros, un incremento superior al 100%. Aunque se cita la Orden EHA/3143/2011, no se desglosa que porcentaje de esta subida corresponde estrictamente al coste del metal precioso y que parte es margen de beneficio para la Fabrica Nacional de Moneda y Timbre (FNMT). Existe una opacidad total sobre el coste real de produccion frente al precio final impuesto al ciudadano.",
+    "resumen_ciudadano": "El Gobierno ha decidido duplicar el precio de las monedas de coleccion de plata. Si antes una moneda de 5 euros costaba 30 euros, ahora te costara mas de 60. Argumentan que la plata ha subido de valor, pero los precios finales parecen inflados muy por encima del valor del metal, convirtiendo un objeto cultural en un producto de lujo inaccesible para la clase media.",
+    "resumen_tweet": "🚨 ¡Subidon en el #BOE! El Estado duplica el precio de las monedas de coleccion de plata. Subidas de mas del 100% que convierten el coleccionismo en un lujo elitista. ¿Donde va ese margen de beneficio? 💸🪙 #Opacidad #Transparencia #Tasas",
+    "banderas_red_flags": [
+      "Incrementos de precio superiores al 100% en stock antiguo",
+      "Ausencia de desglose entre coste de material y margen comercial",
+      "Uso de formulas de revision que permiten alzas discrecionales por encima de la inflacion",
+      "Desconexion extrema entre el valor facial legal y el precio publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fabrica Nacional de Moneda y Timbre (FNMT) por aumento de margen",
+        "Tesoro Publico por mayores ingresos no tributarios",
+        "Grandes inversores de metales preciosos"
+      ],
+      "perdedores": [
+        "Pequeños coleccionistas numismaticos",
+        "Familias de clase media y baja (barrera de acceso al ahorro en metales)",
+        "Transparencia en la gestion de precios publicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Economica y Fiscal",
+    "banderas_rojas": [
+      "Incrementos de precio superiores al 100% en stock antiguo",
+      "Ausencia de desglose entre coste de material y margen comercial",
+      "Uso de formulas de revision que permiten alzas discrecionales por encima de la inflacion",
+      "Desconexion extrema entre el valor facial legal y el precio publico"
+    ]
+  },
+  "tweeted": false
+}

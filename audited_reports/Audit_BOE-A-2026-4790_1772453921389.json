@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4790",
+  "timestamp": "2026-03-02T12:18:41.389Z",
+  "title": "Resolución de 18 de febrero de 2026, de la Universidad de Castilla-La Mancha por la que se nombra Profesor Titular de Universidad a don Manuel Sánchez de la Torre.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento estandarizado bajo la Ley Organica 2/2023 (LOSU). Aunque el proceso sigue la legalidad vigente, la publicacion individualizada en el BOE genera un ruido administrativo que dificulta al ciudadano medio fiscalizar el crecimiento de la masa salarial publica. No se especifica la dotacion economica de la plaza ni la financiacion asociada, ocultando el coste real para el erario publico detras de una referencia generica al presupuesto universitario.",
+    "resumen_ciudadano": "La Universidad de Castilla-La Mancha formaliza el nombramiento de Manuel Sanchez de la Torre como funcionario de carrera (Profesor Titular) en el area de Fisioterapia. Este es el paso final tras superar un concurso de oposicion convocado a finales de 2025.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de Castilla-La Mancha. El #BOE publica el nombramiento de Manuel Sanchez de la Torre en Fisioterapia. Legalidad cumplida, pero ¿y el coste real para el ciudadano? 🧐 #Transparencia #UCLM #Opacidad #Fisioterapia",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial directo de la plaza",
+      "Uso de terminologia legalista que dificulta la comprension ciudadana",
+      "Ausencia de resumen de meritos en el extracto publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Sanchez de la Torre (obtiene plaza fija de funcionario)",
+        "UCLM (consolida su estructura docente en Fisioterapia)"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados (sistema de promocion interna)",
+        "Sociedad civil (falta de claridad sobre el impacto presupuestario de la expansion de plantillas)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial directo de la plaza",
+      "Uso de terminologia legalista que dificulta la comprension ciudadana",
+      "Ausencia de resumen de meritos en el extracto publico"
+    ]
+  },
+  "tweeted": false
+}

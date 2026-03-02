@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4672",
+  "timestamp": "2026-03-01T21:57:39.032Z",
+  "title": "Real Decreto 144/2026, de 25 de febrero, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Despliegue de productos software en contenedores y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto establece una especialización técnica necesaria (DevOps y contenedores), pero oculta la carga financiera bajo el paraguas de fondos europeos FSE+ sin desglosar costes de infraestructura. Existe una contradicción entre el discurso de 'igualdad de género' y la realidad de un sector tecnológico masculinizado, sin proponer medidas de acción positiva. Además, el artículo 6.5 permite a las CC.AA. exceptuar porcentajes de enseñanzas mínimas, lo que abre la puerta a una fragmentación de la calidad educativa según la región.",
+    "resumen_ciudadano": "Se crea un nuevo curso de especialización (Máster de FP) de 630 horas en despliegue de software y la nube (DevOps). Está destinado a titulados superiores en informática para cubrir la demanda de grandes empresas tecnológicas. Aunque se presenta como una oportunidad, la financiación es incierta y depende de fondos europeos, dejando en manos de las comunidades autónomas la flexibilidad de horas y contenidos reales.",
+    "resumen_tweet": "🚀 Nuevo 'Máster de FP' en Cloud y DevOps en el #BOE. Mucha técnica, pero ¿quién lo paga? Se fía todo a fondos europeos FSE+ y se permite a las CCAA recortar horas mínimas. ¿Igualdad o formación a la carta para Big Tech? 💻⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de la financiación a fondos FSE+ sin cuantía específica por centro",
+      "Flexibilidad excesiva en el artículo 6.5 que permite reducir la calidad mínima regional",
+      "Falta de medidas concretas para la 'eliminación de la segregación' mencionada",
+      "Requisitos de acceso que actúan como barrera de clase para quienes no tienen grado superior previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones tecnológicas (mano de obra especializada financiada públicamente)",
+        "Centros privados de FP que ofertarán este 'Máster' con alta demanda"
+      ],
+      "perdedores": [
+        "Estudiantes en CC.AA. con menor presupuesto (posible reducción de horas lectivas)",
+        "Mujeres en tecnología (falta de incentivos reales frente a la brecha de género)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Real Decreto de Especialización Educativa",
+    "banderas_rojas": [
+      "Externalización de la financiación a fondos FSE+ sin cuantía específica por centro",
+      "Flexibilidad excesiva en el artículo 6.5 que permite reducir la calidad mínima regional",
+      "Falta de medidas concretas para la 'eliminación de la segregación' mencionada",
+      "Requisitos de acceso que actúan como barrera de clase para quienes no tienen grado superior previo"
+    ]
+  },
+  "tweeted": false
+}

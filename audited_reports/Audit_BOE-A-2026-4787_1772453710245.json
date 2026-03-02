@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4787",
+  "timestamp": "2026-03-02T12:15:10.245Z",
+  "title": "Resolución de 18 de febrero de 2026, del Consejo de Transparencia y Buen Gobierno, A.A.I., por la que se resuelve el concurso específico, convocado por Resolución de 2 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Resulta paradójico que en el Consejo de Transparencia y Buen Gobierno (CTBG) se publiquen adjudicaciones de puestos donde el 'puesto de cese' y el 'puesto adjudicado' son idénticos. Esto indica procesos de consolidación de personal que ya ocupaba el cargo de forma provisional o en comisión de servicios, lo que técnicamente cumple la ley pero reduce la movilidad real y la competencia efectiva. Llama la atención que, mientras los niveles altos (26 y 28) se consolidan, el puesto de atención al ciudadano (Nivel 18) quede desierto, priorizando la estructura directiva sobre el servicio directo al administrado.",
+    "resumen_ciudadano": "El Consejo de Transparencia ha finalizado un concurso de traslados donde ha asignado plazas de jefatura y asesoría técnica a personas que ya estaban desempeñando esas mismas funciones. Sin embargo, no se ha encontrado a nadie para ocupar la plaza de atención al ciudadano, que ha quedado vacía. Esto supone una formalización de la plantilla actual más que una renovación o apertura de la institución.",
+    "resumen_tweet": "🚨 ¿Transparencia o burocracia? El Consejo de Transparencia adjudica puestos de nivel 26 y 28 a quienes ya los ocupaban (auto-consolidación). Mientras, la atención al ciudadano queda DESIERTA. 🧐 ¿Prioridades? #BOE #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Endogamia administrativa: Puesto de cese idéntico al adjudicado",
+      "Desatención al ciudadano: Plaza de nivel básico declarada desierta",
+      "Falta de competitividad real en concursos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (Nivel 26 y 28) que consolidan su posición",
+        "Estructura interna del CTBG (estabilidad burocrática)"
+      ],
+      "perdedores": [
+        "Ciudadanía (servicio de atención al ciudadano sin cubrir)",
+        "Candidatos externos o de otros organismos (barreras de acceso de facto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Endogamia administrativa: Puesto de cese idéntico al adjudicado",
+      "Desatención al ciudadano: Plaza de nivel básico declarada desierta",
+      "Falta de competitividad real en concursos específicos"
+    ]
+  },
+  "tweeted": false
+}

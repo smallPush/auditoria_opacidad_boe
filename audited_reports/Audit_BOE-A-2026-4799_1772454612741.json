@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-4799",
+  "timestamp": "2026-03-02T12:30:12.741Z",
+  "title": "Resolución de 19 de febrero de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para puestos de nivel 29 (el segundo más alto en la escala funcionarial) dentro de la Delegación Central de Grandes Contribuyentes. Este sistema permite una elección discrecional por parte de los superiores, lo que en puestos que supervisan a las empresas con mayor facturación del país, plantea dudas sobre la independencia técnica frente a la confianza política. El uso de un protocolo interno de 2024 para la valoración de méritos, en lugar de criterios de concurso público estándar, añade una capa de opacidad institucional.",
+    "resumen_ciudadano": "Hacienda busca cubrir 11 puestos de jefatura para vigilar a las grandes empresas en Madrid, Barcelona y Valencia. Estos puestos tienen un plus salarial de 58.659 euros anuales y serán elegidos a dedo (libre designación) por la dirección de la Agencia Tributaria en lugar de por un concurso de méritos tradicional. Esto afecta a la cúpula que decide cómo se inspeccionan las mayores fortunas y empresas de España.",
+    "resumen_tweet": "🚨 Hacienda elige 'a dedo' a los jefes que vigilarán a las Grandes Empresas. 11 puestos de nivel 29 con pluses de 58.000€ asignados por libre designación. ¿Meritocracia o control político en la @AgenciaTributaria? 🧐💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos técnicos críticos",
+      "Alta discrecionalidad en la vigilancia de grandes contribuyentes",
+      "Remisiones a protocolos internos de valoración no publicados en este texto",
+      "Concentración de poder en la estructura de inspección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Inspectores con perfil de confianza política",
+        "Dirección de la AEAT por aumentar su control jerárquico"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Independencia del sistema de inspección tributaria ante grandes corporaciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos técnicos críticos",
+      "Alta discrecionalidad en la vigilancia de grandes contribuyentes",
+      "Remisiones a protocolos internos de valoración no publicados en este texto",
+      "Concentración de poder en la estructura de inspección"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-4684",
+  "timestamp": "2026-03-01T22:12:02.040Z",
+  "title": "Acuerdo de 25 de febrero de 2026, de la Comisión de Selección prevista en el artículo 305 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, por el que se modifica el de 19 de febrero de 2026, por el que se publica la relación de aspirantes que han superado el primer ejercicio del proceso selectivo convocado por Acuerdo de 29 de octubre de 2025, y se dispone lo necesario para que dé comienzo el segundo ejercicio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja una sustitución de miembros en un tribunal calificador para el acceso a la carrera judicial. Aunque es un trámite administrativo estándar, el uso de fórmulas genéricas como 'imposibilidad legal' e 'imposibilidad sobrevenida' oculta las razones reales tras las dimisiones o ceses. En procesos de alta sensibilidad como el acceso a la judicatura, la falta de detalle en las causas de remoción de evaluadores puede alimentar sospechas de endogamia o conflictos de interés no declarados.",
+    "resumen_ciudadano": "Se han modificado dos puestos clave en el tribunal encargado de evaluar a los futuros jueces y fiscales de España. Juan Carlos García Quiñones y Rosa María de Paz Gómez dejan su puesto por causas legales no especificadas, siendo sustituidos por una catedrática y una letrada de la administración de justicia.",
+    "resumen_tweet": "🔄 Cambio de última hora en el tribunal que elige a nuestros futuros jueces y fiscales. Salen dos miembros por 'imposibilidad legal' sin más detalle. 🧐 La justicia debe ser transparente desde la selección. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Motivación vaga en el cese de vocales",
+      "Cambio de evaluadores con el proceso selectivo ya iniciado",
+      "Uso de terminología jurídica opaca para justificar cambios internos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mónica Herranz Ballesteros (Catedrática)",
+        "Aurelia Lorente Lamarca (Letrada AJ)",
+        "Administración del Estado (mantenimiento del calendario selectivo)"
+      ],
+      "perdedores": [
+        "Aspirantes (incertidumbre por el cambio de criterio evaluador)",
+        "Ciudadanía (falta de transparencia sobre las causas de las bajas en tribunales públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público Judicial",
+    "banderas_rojas": [
+      "Motivación vaga en el cese de vocales",
+      "Cambio de evaluadores con el proceso selectivo ya iniciado",
+      "Uso de terminología jurídica opaca para justificar cambios internos"
+    ]
+  },
+  "tweeted": false
+}

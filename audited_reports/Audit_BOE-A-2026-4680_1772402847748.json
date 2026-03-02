@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4680",
+  "timestamp": "2026-03-01T22:07:27.748Z",
+  "title": "Resolución de 10 de febrero de 2026, de la Universidad de A Coruña, por la que se nombra Catedrático de Universidad a don Jesús Mirás Araújo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento individual de personal docente e investigador (Catedrático de Universidad) que cumple con los requisitos formales de la Ley Orgánica 2/2023. Sin embargo, este tipo de publicaciones en el BOE perpetúa la opacidad sobre el coste real de la carrera funcionarial, ya que no se especifica el impacto presupuestario de la subida salarial ni las dietas asociadas a la comisión de evaluación. El sistema de 'concurso de acceso' a menudo enmascara procesos internos de promoción con escasa competencia externa efectiva.",
+    "resumen_ciudadano": "La Universidad de A Coruña oficializa el nombramiento de Jesús Mirás Araújo como Catedrático de Universidad en el área de Historia e Instituciones Económicas.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de A Coruña. El #BOE publica el ascenso de Jesús Mirás Araújo. Trámite administrativo superado, pero ¿cuánto nos cuesta realmente cada consolidación de plaza fija? 🏛️📉 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial o impacto presupuestario",
+      "Referencia a una plaza preasignada (25/030) típica de procesos de consolidación interna",
+      "Opacidad en los criterios de puntuación de la comisión evaluadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesús Mirás Araújo (estabilidad laboral y ascenso)",
+        "Universidad de A Coruña (cumplimiento de cuotas)"
+      ],
+      "perdedores": [
+        "Investigadores externos con menos red de contactos institucional",
+        "Presupuesto público (por falta de auditoría sobre eficiencia del gasto en profesorado senior)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Situaciones de Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial o impacto presupuestario",
+      "Referencia a una plaza preasignada (25/030) típica de procesos de consolidación interna",
+      "Opacidad en los criterios de puntuación de la comisión evaluadora"
+    ]
+  },
+  "tweeted": false
+}

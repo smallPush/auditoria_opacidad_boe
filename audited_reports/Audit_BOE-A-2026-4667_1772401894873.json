@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4667",
+  "timestamp": "2026-03-01T21:51:34.873Z",
+  "title": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "La resolucion es extremadamente opaca al no incluir una exposicion de motivos que explique el rechazo parlamentario a un Real Decreto-ley de medidas urgentes. Se produce un choque frontal entre el Ejecutivo y el Legislativo que deja en un limbo juridico las ayudas sociales iniciadas desde el 4 de febrero de 2026. La derogacion de medidas contra la 'vulnerabilidad social' sin alternativa inmediata sugiere una utilizacion de los colectivos desfavorecidos como moneda de cambio en la pugna politica.",
+    "resumen_ciudadano": "El Congreso ha anulado de golpe una ley que prometia ayudas urgentes para personas necesitadas y cambios en la financiacion de las comunidades. Esto genera una gran inseguridad, ya que las medidas que estaban funcionando desde hace tres semanas desaparecen sin que se explique que pasara ahora con los beneficiarios de esas ayudas.",
+    "resumen_tweet": "🚨 ¡URGENTE! El Congreso tumba el RDL de ayudas contra la vulnerabilidad social. 📉 Un hachazo legislativo que deja en el aire medidas criticas y la financiacion territorial. ¿Quien responde ante los mas necesitados? 🤷‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Vacio legal sobre ayudas en curso",
+      "Inseguridad juridica para personas vulnerables",
+      "Falta de justificacion del rechazo en el texto",
+      "Riesgo de colapso en la financiacion autonómica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Bloques de oposicion parlamentaria",
+        "Grandes patrimonios (por la paralizacion de medidas tributarias)"
+      ],
+      "perdedores": [
+        "Personas en situacion de pobreza",
+        "Administraciones regionales",
+        "Clase trabajadora dependiente de ayudas sociales"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Resolucion de Derogacion Legislativa",
+    "banderas_rojas": [
+      "Vacio legal sobre ayudas en curso",
+      "Inseguridad juridica para personas vulnerables",
+      "Falta de justificacion del rechazo en el texto",
+      "Riesgo de colapso en la financiacion autonómica"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-4781",
+  "timestamp": "2026-03-02T12:08:02.512Z",
+  "title": "Orden APA/150/2026, de 24 de febrero, por la que se regula el Comité de Caza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden APA/150/2026 formaliza un espacio de interlocución privilegiada para el sector cinegético bajo la apariencia de 'coordinación técnica'. Aunque la disposición adicional única afirma que no hay incremento de gasto, esto es técnicamente una falacia de gestión: el uso de personal funcionario (nivel 24+), infraestructuras ministeriales y soporte logístico supone un coste de oportunidad y una carga burocrática financiada con dinero público. La estructura del Comité permite la entrada de 'asesores de entidades sectoriales' (Art. 2.7), lo que en la práctica institucionaliza el lobby de la caza sin una representación equivalente para colectivos de defensa ambiental o animalista, rompiendo la neutralidad administrativa.",
+    "resumen_ciudadano": "Se crea el Comité de Caza para centralizar decisiones sobre una actividad que ocupa el 84% del territorio español. El Ministerio afirma que este órgano no costará dinero extra, pero movilizará recursos públicos y funcionarios para dar voz a expertos y empresas del sector cinegético. El texto prioriza la 'dinamización económica' del mundo rural sobre la protección de la biodiversidad, dejando a las organizaciones ciudadanas fuera de la mesa de decisiones fija.",
+    "resumen_tweet": "🚨 El @mapagob crea el Comité de Caza para gestionar el 84% del territorio. 🐗 ¿Coordinación técnica o alfombra roja para el lobby cinegético? Dicen que el coste es 0€, pero usan recursos públicos sin representación social. 🛑 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falsa gratuidad: Se declaran cero euros pero se moviliza una estructura de subdirección general",
+      "Sesgo de representatividad: Apertura explícita a entidades sectoriales (lobby) pero no a sociedad civil",
+      "Ambigüedad en 'expertos científicos': No se definen criterios de independencia para los asesores",
+      "Riesgo de puertas giratorias en la 'Comisión técnica asesora'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Federaciones de caza",
+        "Grandes propietarios de terrenos cinegéticos",
+        "Industria de armamento y suministros rurales",
+        "Cargos del Ministerio de Agricultura"
+      ],
+      "perdedores": [
+        "Organizaciones ecologistas (sin presencia garantizada)",
+        "Colectivos de bienestar animal",
+        "Ciudadanía usuaria del monte para fines no extractivos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Creación de Órganos Administrativos y Gestión de Fauna Silvestre",
+    "banderas_rojas": [
+      "Falsa gratuidad: Se declaran cero euros pero se moviliza una estructura de subdirección general",
+      "Sesgo de representatividad: Apertura explícita a entidades sectoriales (lobby) pero no a sociedad civil",
+      "Ambigüedad en 'expertos científicos': No se definen criterios de independencia para los asesores",
+      "Riesgo de puertas giratorias en la 'Comisión técnica asesora'"
+    ]
+  },
+  "tweeted": false
+}

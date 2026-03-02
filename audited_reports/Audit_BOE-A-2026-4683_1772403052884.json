@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-4683",
+  "timestamp": "2026-03-01T22:10:52.884Z",
+  "title": "Resolución de 17 de febrero de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento de funcionarios de carrera (Profesores Titulares). Aunque cumple con la legalidad vigente (LOSU), la resolución no detalla los méritos específicos ni la puntuación obtenida en comparación con otros posibles candidatos, limitándose a la formalidad del nombramiento. Existe una notable concentración de plazas en el área de Comunicación Audiovisual (4 de 10), lo que podría sugerir una expansión departamental específica o una tasa de reposición focalizada.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado a 10 nuevos Profesores Titulares de Universidad en diversas áreas como Química, Ingeniería y Comunicación. Estas personas adquieren la condición de funcionarios de carrera, lo que implica una estabilidad laboral vitalicia financiada con fondos públicos andaluces y estatales.",
+    "resumen_tweet": "🎓 10 nuevos profesores titulares en la @unisevilla pasan a ser funcionarios de carrera. Estabilidad vitalicia con fondos públicos. ¿Mérito transparente o inercia administrativa? #BOE #Universidad #Sevilla #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Compromiso de gasto estructural a largo plazo (sueldos vitalicios)",
+      "Concentración de plazas (40%) en una única área de conocimiento (Comunicación)",
+      "Falta de enlace a las actas de baremación de los concursos de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 10 docentes nombrados (obtienen plaza fija y estatus de funcionario)",
+        "Universidad de Sevilla (estabiliza su plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de acceso frente a la promoción interna)",
+        "Presupuesto público (incremento de costes fijos en personal funcionario)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Compromiso de gasto estructural a largo plazo (sueldos vitalicios)",
+      "Concentración de plazas (40%) en una única área de conocimiento (Comunicación)",
+      "Falta de enlace a las actas de baremación de los concursos de acceso"
+    ]
+  },
+  "tweeted": false
+}
