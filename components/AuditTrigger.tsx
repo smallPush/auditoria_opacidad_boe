@@ -2,14 +2,14 @@ import React, { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { AlertCircle, ArrowLeft, Loader2 } from 'lucide-react';
 import { AnalysisState, BOEAuditResponse, AuditHistoryItem } from '../types';
-import { Language } from '../translations';
+import { Language, Translations } from '../translations';
 import AuditDashboard from './AuditDashboard';
 import SEO from './SEO';
 
 interface AuditTriggerProps {
   performAudit: (boeId: string) => void;
   state: AnalysisState;
-  t: any;
+  t: Translations;
   isLoggedIn: boolean;
   searchId: string;
   lang: Language;

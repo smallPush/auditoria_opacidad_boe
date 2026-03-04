@@ -1,9 +1,10 @@
 import React from 'react';
 import { Shield, Lock, Eye, Database, ArrowLeft } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { Translations } from '../translations';
 
 interface PrivacyPolicyProps {
-  t: any;
+  t: Translations;
 }
 
 const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ t }) => {
@@ -45,7 +46,7 @@ const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ t }) => {
           <div className="space-y-4 p-6 rounded-2xl bg-slate-950/50 border border-slate-800">
             <div className="flex items-center gap-3 text-emerald-400 mb-2">
               <Database size={24} />
-              <h2 className="text-xl font-bold">Datos Personales</h2>
+              <h2 className="text-xl font-bold">{t.privacyPersonalDataTitle}</h2>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
               {t.privacyData}
@@ -55,7 +56,7 @@ const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ t }) => {
           <div className="space-y-4 p-6 rounded-2xl bg-slate-950/50 border border-slate-800 md:col-span-2">
             <div className="flex items-center gap-3 text-purple-400 mb-2">
               <Lock size={24} />
-              <h2 className="text-xl font-bold">Derechos</h2>
+              <h2 className="text-xl font-bold">{t.privacyRightsTitle}</h2>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
               {t.privacyRights}
@@ -64,7 +65,7 @@ const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ t }) => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-slate-800 text-slate-500 text-xs text-center">
-          Última actualización: Febrero 2026 • Auditoría Ciudadana del BOE
+          {t.privacyLastUpdated}
         </div>
       </div>
     </div>
