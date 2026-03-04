@@ -90,6 +90,8 @@ const LinkMesh = ({ start, end, strength, isDimmed }: { start: THREE.Vector3; en
 };
 
 const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; links: Link[]; onNodeClick: (tag: string) => void; searchQuery: string }) => {
+  const nodesMap = useMemo(() => new Map(nodes.map(n => [n.id, n])), [nodes]);
+
   useFrame(() => {
     // Repulsion
     for (let i = 0; i < nodes.length; i++) {
@@ -107,8 +109,8 @@ const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; link
 
     // Attraction
     links.forEach(link => {
-      const nodeA = nodes.find(n => n.id === link.source);
-      const nodeB = nodes.find(n => n.id === link.target);
+      const nodeA = nodesMap.get(link.source);
+      const nodeB = nodesMap.get(link.target);
       if (nodeA && nodeB) {
         const diff = new THREE.Vector3().subVectors(nodeB.position, nodeA.position);
         const dist = diff.length();
@@ -131,10 +133,10 @@ const Graph = ({ nodes, links, onNodeClick, searchQuery }: { nodes: Node[]; link
   return (
     <group>
       {links.map((link, i) => {
-        const start = nodes.find(n => n.id === link.source)?.position;
-        const end = nodes.find(n => n.id === link.target)?.position;
-        const sourceNode = nodes.find(n => n.id === link.source);
-        const targetNode = nodes.find(n => n.id === link.target);
+        const sourceNode = nodesMap.get(link.source);
+        const targetNode = nodesMap.get(link.target);
+        const start = sourceNode?.position;
+        const end = targetNode?.position;
 
         if (start && end && sourceNode && targetNode) {
           const isDimmed = searchQuery !== '' &&
@@ -214,12 +216,13 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
         velocity: new THREE.Vector3()
       }));
 
+    const nodeIds = new Set(nodes.map(n => n.id));
     const links: Link[] = Object.entries(coOccurrences)
       .map(([key, strength]) => {
         const [source, target] = key.split('|');
         return { source, target, strength };
       })
-      .filter(l => nodes.find(n => n.id === l.source) && nodes.find(n => n.id === l.target));
+      .filter(l => nodeIds.has(l.source) && nodeIds.has(l.target));
 
     return { nodes, links, maxCount: maxCountFound };
   }, [history, minFrequency]);
