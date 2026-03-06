@@ -104,7 +104,7 @@ const App: React.FC = () => {
         const items = xml.querySelectorAll('item');
         if (items.length === 0) return [];
 
-        return Array.from(items).map((item: any) => {
+        return Array.from(items).map((item: Element) => {
           // Identificador can be in an attribute (xml.php) or in a child node (REST API)
           const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
           const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
