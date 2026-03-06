@@ -1,6 +1,6 @@
 /// <reference types="vite/client" />
 import { createClient } from '@supabase/supabase-js';
-import { AuditHistoryItem, BOEAuditResponse } from '../types';
+import { AuditHistoryItem, BOEAuditResponse, BOEAuditIndexItem } from '../types';
 import { STORAGE_KEYS } from '../constants';
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL || '';
@@ -14,17 +14,17 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
   const auditedFiles = import.meta.glob('../audited_reports/Audit_*.json', { eager: true });
   const indexFiles = import.meta.glob('../audited_reports/BOE_Audit_Index_*.json', { eager: true });
 
-  const indexData: any[] = [];
-  Object.values(indexFiles).forEach((mod: any) => {
-    if (Array.isArray(mod.default)) {
-      indexData.push(...mod.default);
+  const indexData: BOEAuditIndexItem[] = [];
+  Object.values(indexFiles).forEach((mod: { default: BOEAuditIndexItem[] } | unknown) => {
+    if (mod && typeof mod === 'object' && 'default' in mod && Array.isArray((mod as any).default)) {
+      indexData.push(...(mod as any).default);
     }
   });
 
   const localAudits: AuditHistoryItem[] = [];
 
   // Index indexData for faster lookup
-  const indexMap = new Map<string, any>();
+  const indexMap = new Map<string, BOEAuditIndexItem>();
   indexData.forEach(idx => indexMap.set(idx.id, idx));
 
   Object.values(auditedFiles).forEach((mod: any) => {
