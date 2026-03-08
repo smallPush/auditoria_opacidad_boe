@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Zap, History, Globe, LogOut, ShieldCheck, Menu, X, User, Box, Share2 } from 'lucide-react';
-import { Language } from '../translations';
+import { Language, Translations } from '../translations';
 
 interface NavbarProps {
     resetState: () => void;
@@ -11,7 +11,7 @@ interface NavbarProps {
     userApiKey?: string;
     handleLogout: () => void;
     setShowLogin: (show: boolean) => void;
-    t: any;
+    t: Translations;
     currentView: 'home' | 'history' | 'audit' | 'tags' | 'related-tags';
 }
 

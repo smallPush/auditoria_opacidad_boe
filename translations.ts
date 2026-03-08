@@ -277,3 +277,5 @@ export const translations = {
     privacyRights: "Your Rights: You have the right to access, rectify, or delete your local data by clearing your browser history or using the 'Clear Local' option."
   }
 };
+
+export type Translations = typeof translations.es;
