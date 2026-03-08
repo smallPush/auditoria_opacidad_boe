@@ -1,4 +1,12 @@
 
+export interface BOEAuditIndexItem {
+  id: string;
+  titulo: string;
+  url_boe: string;
+  transparencia: number;
+  fecha_auditoria: string;
+}
+
 export interface BOEArticle {
   id: string;
   title: string;
