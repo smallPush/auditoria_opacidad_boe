@@ -1,5 +1,6 @@
 
 export type Language = 'es' | 'en';
+export type Translations = typeof translations.es;
 
 export const translations = {
   es: {
@@ -137,7 +138,10 @@ export const translations = {
     privacyIntro: "En cumplimiento del Reglamento General de Protección de Datos (RGPD), te informamos sobre cómo tratamos tus datos.",
     privacyCookies: "Cookies: Utilizamos cookies técnicas para recordar tu sesión y preferencias de idioma, y Google Analytics para análisis de tráfico (siempre que aceptes).",
     privacyData: "Datos Personales: No almacenamos datos personales identificativos de los usuarios, salvo las claves de API que introduzcas voluntariamente, las cuales solo se mantienen en memoria durante la sesión activa.",
-    privacyRights: "Tus Derechos: Tienes derecho a acceder, rectificar o suprimir tus datos locales borrando el historial del navegador o usando la opción 'Limpiar Local'."
+    privacyRights: "Tus Derechos: Tienes derecho a acceder, rectificar o suprimir tus datos locales borrando el historial del navegador o usando la opción 'Limpiar Local'.",
+    privacyPersonalDataTitle: "Datos Personales",
+    privacyRightsTitle: "Derechos",
+    privacyLastUpdated: "Última actualización: Febrero 2026 • Auditoría Ciudadana del BOE"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -274,7 +278,10 @@ export const translations = {
     privacyIntro: "In compliance with the General Data Protection Regulation (GDPR), we inform you about how we process your data.",
     privacyCookies: "Cookies: We use technical cookies to remember your session and language preferences, and Google Analytics for traffic analysis (provided you accept).",
     privacyData: "Personal Data: We do not store personally identifiable user data, except for API keys you voluntarily enter, which are only kept in memory during the active session.",
-    privacyRights: "Your Rights: You have the right to access, rectify, or delete your local data by clearing your browser history or using the 'Clear Local' option."
+    privacyRights: "Your Rights: You have the right to access, rectify, or delete your local data by clearing your browser history or using the 'Clear Local' option.",
+    privacyPersonalDataTitle: "Personal Data",
+    privacyRightsTitle: "Rights",
+    privacyLastUpdated: "Last updated: February 2026 • BOE Citizen Audit"
   }
 };
 

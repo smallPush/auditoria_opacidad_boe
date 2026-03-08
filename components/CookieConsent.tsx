@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { STORAGE_KEYS } from '../constants';
+import { Translations } from '../translations';
 
 interface CookieConsentProps {
-  t: any;
+  t: Translations;
 }
 
 const CookieConsent: React.FC<CookieConsentProps> = ({ t }) => {
