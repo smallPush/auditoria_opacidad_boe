@@ -1,14 +1,14 @@
-name: Scheduled BOE Audit
+name: Scheduled BOE Audit 17
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # Every 12 hours
+    - cron: '17 0,12 * * *' # Every 12 hours staggered at minute 17
   workflow_dispatch:
     inputs:
       limit:
         description: 'Number of items to audit'
         required: false
-        default: '20'
+        default: '1'
       date:
         description: 'Specific date to audit (YYYYMMDD)'
         required: false
@@ -37,8 +37,8 @@ jobs:
 
       - name: Run Audit 🤖
         run: |
-          ARGS=""
-          if [ "${{ github.event.inputs.limit }}" != "" ]; then ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"; fi
+          ARGS="--offset 17 --limit 1"
+          if [ "${{ github.event.inputs.limit }}" != "" ]; then ARGS="--offset 17 --limit ${{ github.event.inputs.limit }}"; fi
           if [ "${{ github.event.inputs.date }}" != "" ]; then ARGS="$ARGS --date ${{ github.event.inputs.date }}"; fi
           npm run audit -- $ARGS
         env:
@@ -56,6 +56,14 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update audited reports [skip ci]"
-            git push
+            git commit -m "chore: update audited reports (offset 17) [skip ci]"
+            # Pull with rebase to handle concurrent commits, retry up to 3 times
+            n=0
+            until [ "$n" -ge 3 ]
+            do
+               git pull --rebase origin main && git push && break
+               n=$((n+1))
+               echo "Git push failed, retrying in 5 seconds..."
+               sleep 5
+            done
           fi
