@@ -189,6 +189,7 @@ async function run() {
     const args = process.argv.slice(2);
     let targetDate = null;
     let limit = 20; // Default limit
+    let offset = 0; // Default offset
 
     for (let i = 0; i < args.length; i++) {
       if (args[i] === '--date') {
@@ -197,6 +198,9 @@ async function run() {
       } else if (args[i] === '--limit') {
         limit = parseInt(args[i + 1], 10);
         i++;
+      } else if (args[i] === '--offset') {
+        offset = parseInt(args[i + 1], 10);
+        i++;
       }
     }
 
@@ -204,10 +208,11 @@ async function run() {
       console.log(`📅 Targeting specific date: ${targetDate}`);
     }
     console.log(`🔢 Limit set to: ${limit}`);
+    console.log(`🔢 Offset set to: ${offset}`);
 
     const latestItems = await fetchLatestBOE(targetDate);
     const filteredItems = latestItems.filter(item => item.id.startsWith('BOE-A-'));
-    const itemsToProcess = filteredItems.slice(0, limit);
+    const itemsToProcess = filteredItems.slice(offset, offset + limit);
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
     const files = await readdir(AUDITED_REPORTS_DIR);
