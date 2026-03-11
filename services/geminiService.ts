@@ -72,10 +72,12 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es', user
       ...rawData,
       banderas_rojas: rawData.banderas_red_flags || rawData.banderas_rojas || []
     };
-  } catch (error: any) {
-    if (error.message?.toLowerCase().includes("api key") || error.message?.includes("401") || error.message?.includes("403")) {
-      isApiBlocked = true;
-      throw new Error(`${translations[lang].apiKeyError} Details: ${error.message}`);
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      if (error.message.toLowerCase().includes("api key") || error.message.includes("401") || error.message.includes("403")) {
+        isApiBlocked = true;
+        throw new Error(`${translations[lang].apiKeyError} Details: ${error.message}`);
+      }
     }
     throw error;
   }

@@ -8,7 +8,7 @@ import Pagination from './Pagination';
 
 interface Props {
   history: AuditHistoryItem[];
-  onImport: (data: any) => void;
+  onImport: (data: unknown) => void;
   lang: Language;
   isLoggedIn?: boolean;
   githubToken?: string;
@@ -179,8 +179,9 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
         const err = await response.json();
         alert(`Error: ${err.message || 'Failed to trigger audit'}`);
       }
-    } catch (e: any) {
-      alert(`Error: ${e.message}`);
+    } catch (e: unknown) {
+      const errorMessage = e instanceof Error ? e.message : String(e);
+      alert(`Error: ${errorMessage}`);
     }
   };
 

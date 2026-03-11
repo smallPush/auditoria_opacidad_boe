@@ -76,9 +76,10 @@ const AuditDashboard: React.FC<Props> = ({
       const updatedData = { ...data, tweet_sent: true };
       await saveAuditToDB(boeId, title, updatedData);
       setTweetSent(true);
-    } catch (err: any) {
+    } catch (err: unknown) {
       console.error(err);
-      alert("Error posting tweet: " + err.message);
+      const errorMessage = err instanceof Error ? err.message : String(err);
+      alert("Error posting tweet: " + errorMessage);
     } finally {
       setIsPostingTweet(false);
     }
