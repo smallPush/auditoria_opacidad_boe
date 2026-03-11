@@ -6,8 +6,9 @@ import { translations, Language } from "../translations";
 let isApiBlocked = false;
 
 const validateApiKey = (lang: Language, userApiKey?: string) => {
-  // Use user-provided API key or VITE_ prefixed environment variable
-  const apiKey = userApiKey || import.meta.env.VITE_GEMINI_API_KEY;
+  // Use user-provided API key ONLY.
+  // We no longer fallback to VITE_GEMINI_API_KEY to prevent accidental exposure of server-side keys in the client bundle.
+  const apiKey = userApiKey;
   if (!apiKey || apiKey === 'undefined' || apiKey === 'null' || apiKey.length < 15) {
     throw new Error(translations[lang].apiKeyError);
   }
