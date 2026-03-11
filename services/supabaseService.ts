@@ -15,9 +15,9 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
   const indexFiles = import.meta.glob('../audited_reports/BOE_Audit_Index_*.json', { eager: true });
 
   const indexData: BOEAuditIndexItem[] = [];
-  Object.values(indexFiles).forEach((mod: { default: BOEAuditIndexItem[] } | unknown) => {
-    if (mod && typeof mod === 'object' && 'default' in mod && Array.isArray((mod as any).default)) {
-      indexData.push(...(mod as any).default);
+  Object.values(indexFiles).forEach((mod: unknown) => {
+    if (mod && typeof mod === 'object' && 'default' in mod && Array.isArray(mod.default)) {
+      indexData.push(...mod.default);
     }
   });
 
@@ -27,16 +27,18 @@ const loadLocalAudits = (): AuditHistoryItem[] => {
   const indexMap = new Map<string, BOEAuditIndexItem>();
   indexData.forEach(idx => indexMap.set(idx.id, idx));
 
-  Object.values(auditedFiles).forEach((mod: any) => {
-    const data = mod.default;
-    if (data && data.boe_id && data.report) {
-      const indexEntry = indexMap.get(data.boe_id);
-      localAudits.push({
-        boeId: data.boe_id,
-        title: indexEntry?.titulo || data.title || data.boe_id,
-        audit: data.report as BOEAuditResponse,
-        timestamp: data.timestamp ? new Date(data.timestamp).getTime() : Date.now()
-      });
+  Object.values(auditedFiles).forEach((mod: unknown) => {
+    if (mod && typeof mod === 'object' && 'default' in mod) {
+      const data = mod.default as { boe_id?: string; report?: BOEAuditResponse; title?: string; timestamp?: string };
+      if (data && data.boe_id && data.report) {
+        const indexEntry = indexMap.get(data.boe_id);
+        localAudits.push({
+          boeId: data.boe_id,
+          title: indexEntry?.titulo || data.title || data.boe_id,
+          audit: data.report,
+          timestamp: data.timestamp ? new Date(data.timestamp).getTime() : Date.now()
+        });
+      }
     }
   });
 

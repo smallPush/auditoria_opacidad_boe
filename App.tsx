@@ -254,26 +254,29 @@ const App: React.FC = () => {
 
       setState(prev => ({ ...prev, loading: false, error: null, result: audit }));
 
-    } catch (error: any) {
-      setState(prev => ({ ...prev, loading: false, error: error.message || "Error during analysis" }));
+    } catch (error: unknown) {
+      const errorMessage = error instanceof Error ? error.message : "Error during analysis";
+      setState(prev => ({ ...prev, loading: false, error: errorMessage }));
     }
   };
 
-  const handleImportData = async (data: any) => {
+  const handleImportData = async (data: unknown) => {
     try {
       if (Array.isArray(data)) {
         // Bulk import of AuditHistoryItem[]
         for (const item of data) {
-          if (item.boeId && item.title && item.audit) {
-            await saveAuditToDB(item.boeId, item.title, item.audit);
+          if (item && typeof item === 'object' && 'boeId' in item && 'title' in item && 'audit' in item) {
+            await saveAuditToDB(item.boeId as string, item.title as string, item.audit as BOEAuditResponse);
           }
         }
-      } else if (data.boe_id && data.report) {
+      } else if (data && typeof data === 'object' && 'boe_id' in data && 'report' in data) {
         // Single report import from Download format
-        await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
-      } else if (data.boeId && data.audit) {
+        const d = data as { boe_id: string; title?: string; report: BOEAuditResponse };
+        await saveAuditToDB(d.boe_id, d.title || d.boe_id, d.report);
+      } else if (data && typeof data === 'object' && 'boeId' in data && 'audit' in data) {
         // Single AuditHistoryItem import
-        await saveAuditToDB(data.boeId, data.title || data.boeId, data.audit);
+        const d = data as { boeId: string; title?: string; audit: BOEAuditResponse };
+        await saveAuditToDB(d.boeId, d.title || d.boeId, d.audit);
       } else {
         throw new Error("Invalid Format");
       }
