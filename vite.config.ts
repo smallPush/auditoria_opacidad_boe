@@ -81,7 +81,7 @@ export default defineConfig(({ mode }) => {
               req.on('end', async () => {
                 try {
                   const { boeId, title, audit } = JSON.parse(body);
-                  const fs = await import('fs');
+                  const fs = await import('fs/promises');
                   const path = await import('path');
                   const reportsDir = path.resolve(__dirname, 'audited_reports');
 
@@ -95,18 +95,23 @@ export default defineConfig(({ mode }) => {
                     report: audit
                   };
 
-                  fs.writeFileSync(filePath, JSON.stringify(auditRecord, null, 2));
+                  await fs.writeFile(filePath, JSON.stringify(auditRecord, null, 2));
 
                   // Update Index
-                  const files = fs.readdirSync(reportsDir);
+                  const files = await fs.readdir(reportsDir);
                   const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
-                  let currentIndex = [];
-                  indexFiles.forEach(f => {
+
+                  const indexContents = await Promise.all(indexFiles.map(async f => {
                     try {
-                      const data = JSON.parse(fs.readFileSync(path.join(reportsDir, f), 'utf8'));
-                      currentIndex = [...currentIndex, ...(Array.isArray(data) ? data : [])];
-                    } catch (e) { }
-                  });
+                      const data = await fs.readFile(path.join(reportsDir, f), 'utf8');
+                      const parsed = JSON.parse(data);
+                      return Array.isArray(parsed) ? parsed : [];
+                    } catch (e) {
+                      return [];
+                    }
+                  }));
+
+                  const currentIndex = indexContents.flat();
 
                   const entry = {
                     id: boeId,
@@ -124,8 +129,8 @@ export default defineConfig(({ mode }) => {
                   }).sort((a, b) => new Date(b.fecha_auditoria).getTime() - new Date(a.fecha_auditoria).getTime());
 
                   const newIndexName = `BOE_Audit_Index_${Date.now()}.json`;
-                  fs.writeFileSync(path.join(reportsDir, newIndexName), JSON.stringify(updatedIndex, null, 2));
-                  indexFiles.forEach(f => fs.unlinkSync(path.join(reportsDir, f)));
+                  await fs.writeFile(path.join(reportsDir, newIndexName), JSON.stringify(updatedIndex, null, 2));
+                  await Promise.all(indexFiles.map(f => fs.unlink(path.join(reportsDir, f))));
 
                   res.statusCode = 200;
                   res.end(JSON.stringify({ success: true }));
