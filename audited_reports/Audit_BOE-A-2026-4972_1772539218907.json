@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4972",
+  "timestamp": "2026-03-03T12:00:18.907Z",
+  "title": "Orden ECM/154/2026, de 26 de febrero, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «8 de marzo-Día Internacional de la Mujer-Homenaje a Almudena Grandes».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se detecta una mercantilización de la lucha feminista y de la figura de Almudena Grandes. Bajo el pretexto de un 'homenaje', el Estado emite un producto financiero de lujo cuyo precio de venta (115,70€) es un 1057% superior a su valor facial (10€). Existe una incongruencia entre los valores democráticos y de igualdad que se dicen defender y la creación de un objeto exclusivo accesible solo para élites económicas y coleccionistas. El impacto de clase es evidente: el 8-M se convierte en una vía de ingresos extraordinarios para la FNMT mediante la emisión de solo 4.000 unidades, fomentando la especulación.",
+    "resumen_ciudadano": "El Gobierno ha ordenado fabricar 4.000 monedas de plata en honor a Almudena Grandes por el Día de la Mujer. Aunque la moneda dice valer 10 euros, el Estado la venderá a los ciudadanos por 115,70 euros (más IVA). Es una pieza de colección que no sirve para comprar en tiendas y busca recaudar fondos aprovechando una efeméride social.",
+    "resumen_tweet": "¿Homenaje o negocio? 💸 El #BOE lanza moneda de Almudena Grandes por el #8M. Valor facial: 10€. Precio de venta: ¡115,70€! Un tributo de lujo que excluye a la clase trabajadora. ¿Mercantilización del feminismo? 🤔📉 #Opacidad #Transparencia #8M",
+    "banderas_red_flags": [
+      "Margen de beneficio estatal desproporcionado (1000%+)",
+      "Escasez artificial de 4.000 unidades para incentivar especulación",
+      "Cláusula de revisión de precios por fluctuación de metales que protege el beneficio público pero no al comprador",
+      "Uso de símbolos de igualdad para fines puramente numismáticos y recaudatorios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fábrica Nacional de Moneda y Timbre (FNMT) por ingresos de comercialización",
+        "Tesoro Público",
+        "Especuladores y coleccionistas de alta capacidad adquisitiva"
+      ],
+      "perdedores": [
+        "Clases populares excluidas del homenaje por el alto coste",
+        "Movimiento feminista base cuyo símbolo es convertido en mercancía de lujo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Económica y Social",
+    "banderas_rojas": [
+      "Margen de beneficio estatal desproporcionado (1000%+)",
+      "Escasez artificial de 4.000 unidades para incentivar especulación",
+      "Cláusula de revisión de precios por fluctuación de metales que protege el beneficio público pero no al comprador",
+      "Uso de símbolos de igualdad para fines puramente numismáticos y recaudatorios"
+    ]
+  },
+  "tweeted": false
+}

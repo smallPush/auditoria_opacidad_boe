@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-4988",
+  "timestamp": "2026-03-03T12:29:20.651Z",
+  "title": "Resolución 430/38095/2026, de 23 de febrero, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas al proceso selectivo, por el sistema general de acceso libre, para acceso a la condición de personal estatutario fijo en plazas de la categoría de Albañil, Calefactor/a, Carpintero/a, Costurero/a, Electricista, Fontanero/a, Grupo Auxiliar de la Función Administrativa, Operador/a de Máquinas de Impresión y Reproducción, Peluquero/a, Personal de Oficios Varios (Mantenimiento), Pintor/a, Tapicero/a, Técnico/a Auxiliar de Sistemas y Tecnologías de la Información, y Técnico/a de Alojamiento, en la Red Sanitaria Militar, convocado por Resolución 430/38530/2025, de 9 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta un listado de personal para la Red Sanitaria Militar que, bajo una apariencia de normalidad administrativa, impone barreras de clase significativas. Se observa una rigidez burocratica en los criterios de exclusion (Causas 1 y 2), donde la acreditacion de rentas inferiores al SMI y la antiguedad como demandante de empleo funcionan como filtros que penalizan la precariedad laboral previa. Ademas, la publicacion parcial de listas remitiendo a portales externos dificulta la auditoria ciudadana inmediata sobre la equidad del proceso.",
+    "resumen_ciudadano": "Defensa publica la lista provisional de admitidos y excluidos para plazas de personal fijo en hospitales militares (albañiles, administrativos, electricistas, etc.). Los aspirantes rechazados tienen 10 dias habiles para presentar alegaciones. Muchos rechazos se deben a no poder demostrar ingresos bajos o tiempo suficiente en el paro.",
+    "resumen_tweet": "⚠️ Defensa filtra a trabajadores de la Red Sanitaria Militar. Muchos excluidos por no acreditar rentas bajas o tiempo en paro. ¡Solo 10 dias para reclamar! 🏛️🛠️ La burocracia contra la precariedad. #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Opacidad en listas completas (remision a webs externas)",
+      "Barreras de acceso por nivel de renta (SMI)",
+      "Complejidad documental para colectivos de oficios manuales",
+      "Plazo de subsanacion critico (10 dias) para colectivos vulnerables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administracion Militar (consolidacion de personal)",
+        "Aspirantes con alta capacidad de gestion burocratica y digital"
+      ],
+      "perdedores": [
+        "Trabajadores precarios con ingresos puntuales sobre el SMI",
+        "Desempleados de larga duracion con errores en su registro administrativo",
+        "Perfiles de oficios manuales con brecha digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Gestion de Personal y Procesos Selectivos",
+    "banderas_rojas": [
+      "Opacidad en listas completas (remision a webs externas)",
+      "Barreras de acceso por nivel de renta (SMI)",
+      "Complejidad documental para colectivos de oficios manuales",
+      "Plazo de subsanacion critico (10 dias) para colectivos vulnerables"
+    ]
+  },
+  "tweeted": false
+}
