@@ -31,7 +31,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          npm install
+          npm ci
           npm run sitemap
           npm run build
         env:
