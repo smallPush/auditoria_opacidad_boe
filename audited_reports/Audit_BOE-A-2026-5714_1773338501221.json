@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-5714",
+  "timestamp": "2026-03-12T18:01:41.221Z",
+  "title": "Real Decreto 180/2026, de 11 de marzo, por el que se regula el reconocimiento del derecho a la protección de la salud y a la atención sanitaria con cargo a fondos públicos de las personas extranjeras que encontrándose en España no tengan su residencia legal en el territorio español.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 180/2026 busca blindar la universalidad del sistema sanitario frente a la fragmentacion territorial observada desde 2018. Sin embargo, al basar el acceso en la 'declaracion responsable' y en documentos alternativos al empadronamiento, traslada la responsabilidad de la verificacion a unos servicios sociales y administrativos ya saturados. Existe una 'Incongruencia Ideologica' parcial: se vende como una simplificacion administrativa, pero añade capas de burocracia para extranjeros procedentes de paises con convenios de seguridad social. En cuanto a 'Gastos Fantasma', la norma no detalla el impacto presupuestario de la equiparacion de la prestacion ortoprotesica con la farmaceutica, lo que podria generar desequilibrios en las arcas de las Comunidades Autonomas.",
+    "resumen_ciudadano": "Esta ley establece que cualquier persona extranjera en España, aunque no tenga papeles, tiene derecho a ir al medico sin que se le pida un tiempo minimo de estancia. Tambien permite que los españoles que viven fuera y no trabajan puedan ser atendidos cuando vengan de visita. Se eliminan barreras para personas con discapacidad y se facilita que ciertos colectivos no paguen por sus protesis.",
+    "resumen_tweet": "🏥 ¡Nueva Sanidad Universal! El RD 180/2026 garantiza atencion a extranjeros sin papeles y expatriados. Se eliminan barreras de antiguedad y se usa la declaracion responsable. ¿El reto? La falta de memoria economica clara. 💸 #BOE #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Uso de 'declaracion responsable' como unico filtro ante posibles fraudes de ley",
+      "Falta de detalle sobre el coste de la ampliacion de cobertura ortoprotesica",
+      "Sobrecarga potencial de los servicios sociales para acreditar la residencia habitual",
+      "Ambiguedad en la aceptacion de facturas de suministros como prueba de residencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas extranjeras en situacion administrativa irregular",
+        "Españoles residentes en el exterior sin actividad laboral",
+        "Personas con discapacidad (mejor acceso burocratico)",
+        "Sector de ortoprotesis (mayor volumen de usuarios financiados)"
+      ],
+      "perdedores": [
+        "Administraciones autonomicas (asumen el gasto sin financiacion finalista explicita)",
+        "Personal de gestion administrativa (aumento de carga burocratica de verificacion)",
+        "Servicios Sociales (convertidos en validadores de residencia sanitaria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad y Derechos Sociales",
+    "banderas_rojas": [
+      "Uso de 'declaracion responsable' como unico filtro ante posibles fraudes de ley",
+      "Falta de detalle sobre el coste de la ampliacion de cobertura ortoprotesica",
+      "Sobrecarga potencial de los servicios sociales para acreditar la residencia habitual",
+      "Ambiguedad en la aceptacion de facturas de suministros como prueba de residencia"
+    ]
+  },
+  "tweeted": false
+}
