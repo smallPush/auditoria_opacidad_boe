@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-5871",
+  "timestamp": "2026-03-13T13:18:05.825Z",
+  "title": "Real Decreto 185/2026, de 11 de marzo, por el que se establece el Curso de especialización de Formación Profesional de Grado Medio en Insecticultura y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 185/2026 formaliza la entrada de la insecticultura en el sistema educativo oficial. Aunque se presenta como una modernización técnica, el texto omite el desglose presupuestario específico, amparándose en el programa genérico FSE+ 2021-2027. Se observa una 'Incongruencia Ideológica' potencial al promocionar la cría de insectos como solución de sostenibilidad mientras la ganadería tradicional enfrenta crecientes trabas regulatorias. La norma utiliza una técnica legislativa de 'bases por reglamento', lo que permite al Estado central fijar contenidos eludiendo un debate parlamentario más profundo sobre el modelo alimentario nacional.",
+    "resumen_ciudadano": "Se crea un nuevo título oficial de Formación Profesional para aprender a criar insectos destinados a la alimentación humana y animal. El curso dura 600 horas y cubrirá desde la reproducción hasta la gestión de granjas ecológicas de bichos.",
+    "resumen_tweet": "🪳 El #BOE oficializa la FP en Insecticultura: 600h para aprender a criar insectos para comer. 💸 Financiado con fondos europeos pero sin coste detallado por plaza. ¿Transparencia o agenda impuesta? #Opacidad #FP #Alimentación 🦗",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada en el texto",
+      "Uso de decretos para fijar bases curriculares evitando rango de ley",
+      "Dependencia total de fondos europeos FSE+ sin previsión de costes de mantenimiento autonómico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de 'novel food'",
+        "Grandes corporaciones de piensos biotecnológicos",
+        "Centros de formación privados homologados"
+      ],
+      "perdedores": [
+        "Ganadería tradicional de pequeño tamaño",
+        "Consumidores con reticencia a la transición proteica",
+        "Presupuestos autonómicos que deberán habilitar las instalaciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Afecta a todo el territorio)",
+    "tipologia": "Educación / Ganadería Alternativa",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada en el texto",
+      "Uso de decretos para fijar bases curriculares evitando rango de ley",
+      "Dependencia total de fondos europeos FSE+ sin previsión de costes de mantenimiento autonómico"
+    ]
+  },
+  "tweeted": false
+}
