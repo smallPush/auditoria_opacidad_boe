@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-5869",
+  "timestamp": "2026-03-13T13:01:44.651Z",
+  "title": "Real Decreto 183/2026, de 11 de marzo, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Aprendizaje automático: gestión de datos y entrenamiento y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto establece un marco curricular detallado para la especialización en IA y Machine Learning, lo cual es técnicamente sólido pero financieramente opaco. Se ampara en el Programa FSE+ (Fondo Social Europeo), lo que externaliza la sostenibilidad del sistema a fondos europeos sin detallar la inversión estructural propia del Estado. Existe una tensión latente entre el discurso de 'soberanía tecnológica' y la realidad de formar técnicos para herramientas que, en su mayoría, pertenecen a grandes corporaciones extranjeras (Big Tech). Además, el lenguaje sobre la 'eliminación de la segregación' es puramente retórico, sin mecanismos de incentivo real para colectivos vulnerables.",
+    "resumen_ciudadano": "Se crea oficialmente un nuevo curso de especialización (denominado 'Máster de FP') en Inteligencia Artificial y Aprendizaje Automático. Tendrá una duración de 800 horas y está dirigido a titulados superiores de FP. El objetivo es formar a especialistas en limpiar datos y entrenar algoritmos de IA para el sector privado.",
+    "resumen_tweet": "🤖 Nuevo 'Máster' de FP en IA: 800h para formar técnicos en Machine Learning. Mucho currículo pero poca claridad en el reparto de fondos europeos 🇪🇺. ¿Soberanía tecnológica o formación de operarios para las Big Tech? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dependencia absoluta de fondos europeos (FSE+) para la financiación.",
+      "Ambigüedad en el coste real de implementación por centro educativo.",
+      "Posible sesgo hacia la formación en herramientas privativas de grandes tecnológicas.",
+      "La 'flexibilidad' otorgada a las CCAA puede generar desigualdades territoriales en la calidad del equipo técnico."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas tecnológicas (acceso a técnicos especializados de coste medio)",
+        "Titulados de FP Superior (nueva vía de especialización oficial)",
+        "Consultoras de formación"
+      ],
+      "perdedores": [
+        "Centros educativos públicos con infraestructuras tecnológicas obsoletas",
+        "Personas sin titulación previa de FP (barrera de acceso rígida)",
+        "Pequeñas empresas sin capacidad para competir por este talento especializado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educativa / Tecnológica",
+    "banderas_rojas": [
+      "Dependencia absoluta de fondos europeos (FSE+) para la financiación.",
+      "Ambigüedad en el coste real de implementación por centro educativo.",
+      "Posible sesgo hacia la formación en herramientas privativas de grandes tecnológicas.",
+      "La 'flexibilidad' otorgada a las CCAA puede generar desigualdades territoriales en la calidad del equipo técnico."
+    ]
+  },
+  "tweeted": false
+}
