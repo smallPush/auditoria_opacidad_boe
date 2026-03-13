@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-5719",
+  "timestamp": "2026-03-13T02:48:23.828Z",
+  "title": "Corrección de errores de la Ley 1/2026, de 5 de enero, de Participación Ciudadana en la Administración de la Comunidad Autónoma de Cantabria.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Resulta paradójico que una ley destinada a la 'Participación Ciudadana' presente tal nivel de descuido administrativo en su redacción original. La corrección no solo afecta a la numeración (pasando de 2025 a 2026), sino que revela una falta de rigor en la estructura legislativa: se anunciaron múltiples disposiciones adicionales y transitorias que finalmente se reducen a una sola. El cambio terminológico de 'Sujetos' a 'Titulares' es un ajuste jurídico necesario para otorgar carácter de derecho subjetivo, pero evidencia que el borrador inicial carecía de la finura técnica esperada para una norma de este rango.",
+    "resumen_ciudadano": "La Administración de Cantabria ha tenido que corregir múltiples errores en su nueva Ley de Participación Ciudadana. Los fallos iban desde el año y número de la ley hasta la denominación de los derechos y la cantidad de apartados finales. Es un ajuste técnico que deja en evidencia las prisas o la falta de revisión en el proceso legislativo inicial.",
+    "resumen_tweet": "⚠️ ¡Vaya estreno! Cantabria corrige su Ley de Participación Ciudadana por errores de bulto: de 'sujetos' a 'titulares' y recortando disposiciones que ni existían. ¿Falta de rigor en una ley clave? 📉 La transparencia empieza por escribir bien. #BOE #Opacidad #Cantabria",
+    "banderas_red_flags": [
+      "Inconsistencia en la numeración oficial del año",
+      "Reducción de plural a singular en disposiciones adicionales y transitorias (promesas de contenido no ejecutadas)",
+      "Corrección terminológica de calado en la definición de derechos ('Titulares' vs 'Sujetos')"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Letrados y técnicos jurídicos (por la precisión terminológica de 'Titulares')",
+        "Servicios de corrección del Parlamento"
+      ],
+      "perdedores": [
+        "Ciudadanía de Cantabria (por la imagen de improvisación en una ley de derechos)",
+        "Responsables políticos de la redacción original"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Corrección de errores / Participación Ciudadana",
+    "banderas_rojas": [
+      "Inconsistencia en la numeración oficial del año",
+      "Reducción de plural a singular en disposiciones adicionales y transitorias (promesas de contenido no ejecutadas)",
+      "Corrección terminológica de calado en la definición de derechos ('Titulares' vs 'Sujetos')"
+    ]
+  },
+  "tweeted": false
+}
