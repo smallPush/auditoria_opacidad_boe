@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-5725",
+  "timestamp": "2026-03-13T02:51:29.744Z",
+  "title": "Resolución de 27 de febrero de 2026, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don Pablo Baquero Valls.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Profesor Titular) bajo el paraguas de la LOSU (Ley Orgánica 2/2023). Aunque el proceso sigue la legalidad vigente, la publicación en el BOE es meramente formal y no ofrece detalles sobre la evaluación de méritos ni el impacto presupuestario plurianual que supone una plaza vitalicia para las arcas públicas. Existe una opacidad inherente en la selección académica, donde las comisiones internas deciden destinos de fondos públicos sin una fiscalización ciudadana directa del perfil seleccionado.",
+    "resumen_ciudadano": "La Universidad de Alcalá ha nombrado a un nuevo Profesor Titular en Bioquímica y Biología Molecular. Esto significa que una nueva plaza de funcionario ha sido ocupada de forma permanente, lo cual conlleva un compromiso de gasto público a largo plazo en salarios y seguridad social.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la Universidad de Alcalá: Pablo Baquero Valls ya es Profesor Titular. El #BOE publica el nombramiento pero oculta el coste real a largo plazo para el contribuyente. ¿Meritocracia o burocracia? 🏛️💸 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Compromiso de gasto público vitalicio sin desglose presupuestario",
+      "Ausencia de información sobre el proceso selectivo en el texto final",
+      "Uso de referencias legales (LOSU) que complican la comprensión al ciudadano medio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pablo Baquero Valls (seguridad laboral de por vida)",
+        "Universidad de Alcalá (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores postdoctorales sin plazas estables",
+        "Contribuyentes (falta de claridad en el impacto fiscal de la masa salarial funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Compromiso de gasto público vitalicio sin desglose presupuestario",
+      "Ausencia de información sobre el proceso selectivo en el texto final",
+      "Uso de referencias legales (LOSU) que complican la comprensión al ciudadano medio"
+    ]
+  },
+  "tweeted": false
+}
