@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
 import { Search, Loader2, Lock, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, ExternalLink } from 'lucide-react';
 import { BOE_SOURCES, STORAGE_KEYS } from './constants';
-import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse } from './types';
+import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDataPayload } from './types';
 import { analyzeBOE } from './services/geminiService';
 import { translations, Language } from './translations';
 import { getAuditHistory, saveAuditToDB, clearLocalHistory } from './services/supabaseService';
@@ -260,7 +260,7 @@ const App: React.FC = () => {
     }
   };
 
-  const handleImportData = async (data: unknown) => {
+  const handleImportData = async (data: ImportDataPayload) => {
     try {
       if (Array.isArray(data)) {
         // Bulk import of AuditHistoryItem[]
@@ -271,12 +271,10 @@ const App: React.FC = () => {
         }
       } else if (data && typeof data === 'object' && 'boe_id' in data && 'report' in data) {
         // Single report import from Download format
-        const d = data as { boe_id: string; title?: string; report: BOEAuditResponse };
-        await saveAuditToDB(d.boe_id, d.title || d.boe_id, d.report);
+        await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
       } else if (data && typeof data === 'object' && 'boeId' in data && 'audit' in data) {
         // Single AuditHistoryItem import
-        const d = data as { boeId: string; title?: string; audit: BOEAuditResponse };
-        await saveAuditToDB(d.boeId, d.title || d.boeId, d.audit);
+        await saveAuditToDB(data.boeId, data.title || data.boeId, data.audit);
       } else {
         throw new Error("Invalid Format");
       }

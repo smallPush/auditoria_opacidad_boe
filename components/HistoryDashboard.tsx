@@ -1,5 +1,5 @@
 import React from 'react';
-import { AuditHistoryItem } from '../types';
+import { AuditHistoryItem, ImportDataPayload } from '../types';
 import { ChevronRight, BarChart3, ExternalLink, Download, Upload, FileJson, Search, Filter, Tag, MapPin, Zap } from 'lucide-react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { GITHUB_REPO, GITHUB_WORKFLOW } from '../constants';
@@ -8,7 +8,7 @@ import Pagination from './Pagination';
 
 interface Props {
   history: AuditHistoryItem[];
-  onImport: (data: unknown) => void;
+  onImport: (data: ImportDataPayload) => void;
   lang: Language;
   isLoggedIn?: boolean;
   githubToken?: string;
@@ -127,7 +127,7 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
     const reader = new FileReader();
     reader.onload = (event) => {
       try {
-        const json = JSON.parse(event.target?.result as string);
+        const json = JSON.parse(event.target?.result as string) as ImportDataPayload;
         onImport(json);
       } catch (err) {
         alert(t.importError);
