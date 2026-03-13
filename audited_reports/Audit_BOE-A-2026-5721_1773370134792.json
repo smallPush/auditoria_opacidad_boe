@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-5721",
+  "timestamp": "2026-03-13T02:48:54.792Z",
+  "title": "Resolución de 4 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución detalla la adjudicación de puestos de alta responsabilidad (niveles 28 y 30) en el Gabinete del Ministro mediante el sistema de 'libre designación'. Este mecanismo es legal pero inherentemente opaco, ya que permite la elección discrecional de perfiles bajo criterios de 'confianza' en lugar de méritos objetivos evaluados en concurso público. Es relevante observar la procedencia de los elegidos: una militar y un inspector de policía, lo que consolida un núcleo duro de asesores provenientes de las fuerzas de seguridad y el ejército dentro de la estructura política del Ministerio. Los complementos específicos (hasta 24.549,84 euros anuales) representan un gasto fijo considerable que se suma al salario base del Grupo A1.",
+    "resumen_ciudadano": "El Ministerio del Interior ha cubierto dos puestos de asesoría de alto nivel para el Ministro. Estos puestos han sido asignados directamente a una militar y a un inspector de policía sin un proceso de oposición abierto. Estos cargos conllevan sueldos elevados con complementos de hasta 24.500 euros anuales por encima del sueldo base.",
+    "resumen_tweet": "🕵️‍♂️ Más puestos 'a dedo' en el #BOE. Interior adjudica asesorías de nivel 30 con pluses de hasta 24.500€ a militares y policías. La libre designación sigue limitando la transparencia en el Gabinete del Ministro. 💸🚔 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Elevados complementos específicos sin desglose de funciones",
+      "Militarización/Policialización de asesorías de confianza política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Nacional de Policía (Escala de Inspección)",
+        "Personal Militar del Grupo A1",
+        "Adjudicatarios de plazas de alta confianza ministerial"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos sin red de confianza",
+        "Transparencia en la provisión de puestos públicos",
+        "Ciudadanos (por la opacidad en el proceso de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en Madrid)",
+    "tipologia": "Personal Directivo / Nombramientos de Confianza",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Elevados complementos específicos sin desglose de funciones",
+      "Militarización/Policialización de asesorías de confianza política"
+    ]
+  },
+  "tweeted": false
+}
