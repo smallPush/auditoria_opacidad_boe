@@ -264,11 +264,13 @@ const App: React.FC = () => {
     try {
       if (Array.isArray(data)) {
         // Bulk import of AuditHistoryItem[]
+        const promises = [];
         for (const item of data) {
           if (item && typeof item === 'object' && 'boeId' in item && 'title' in item && 'audit' in item) {
-            await saveAuditToDB(item.boeId as string, item.title as string, item.audit as BOEAuditResponse);
+            promises.push(saveAuditToDB(item.boeId as string, item.title as string, item.audit as BOEAuditResponse));
           }
         }
+        await Promise.all(promises);
       } else if (data && typeof data === 'object' && 'boe_id' in data && 'report' in data) {
         // Single report import from Download format
         const d = data as { boe_id: string; title?: string; report: BOEAuditResponse };
