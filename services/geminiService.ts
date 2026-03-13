@@ -79,6 +79,8 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es', user
         throw new Error(`${translations[lang].apiKeyError} Details: ${error.message}`);
       }
     }
-    throw error;
+    console.error("Gemini API Error:", error);
+    const errorMessage = error instanceof Error ? error.message : "Fallo desconocido";
+    throw new Error(`Error al analizar el BOE: ${errorMessage}`);
   }
 };

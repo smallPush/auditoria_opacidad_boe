@@ -39,8 +39,12 @@ describe("geminiService", () => {
     try {
       await analyzeBOE("<xml></xml>", "es");
       expect(true).toBe(false); // Should not reach here
-    } catch (error: any) {
-      expect(error.message).toContain(expectedError);
+    } catch (error: unknown) {
+      if (error instanceof Error) {
+        expect(error.message).toContain(expectedError);
+      } else {
+        expect(true).toBe(false); // Fail if not an Error object
+      }
     }
   });
 
