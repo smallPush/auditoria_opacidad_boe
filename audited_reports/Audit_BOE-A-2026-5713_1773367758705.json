@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-5713",
+  "timestamp": "2026-03-13T02:09:18.705Z",
+  "title": "Real Decreto 179/2026, de 11 de marzo, por el que se establecen los umbrales de renta y patrimonio familiar y las cuantías de las becas y ayudas al estudio para el curso 2026-2027, y se modifica el Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas.",
+  "report": {
+    "nivel_transparencia": 7.2,
+    "analisis_critico": "El Real Decreto 179/2026 presenta una estructura técnica sólida pero mantiene una tensión ideológica: mientras invoca el artículo 27 de la Constitución para garantizar la igualdad, admite explícitamente que fuera de la educación básica las prestaciones pierden su carácter de gratuidad. Se observa una 'meritocracia de baja intensidad' al otorgar cuantías por excelencia de apenas 50 euros, lo cual resulta simbólico frente al coste real de la vida. Existe un riesgo de opacidad en las 'becas de colaboración' y compensaciones a universidades, donde la gestión transferida a las CCAA puede diluir la trazabilidad del fondo estatal. La actualización de umbrales de patrimonio es necesaria, pero la redacción no aclara si compensará la inflación acumulada desde 2024.",
+    "resumen_ciudadano": "Se establecen las ayudas para el curso 2026-2027. Las becas fijas serán de 1.700 euros por renta y 2.700 por residencia. Se incluyen mejoras para alumnos con discapacidad (desde el 25%) y para quienes cursan matrículas parciales en universidad (48-59 créditos). Se mantienen las ayudas de 300-350 euros para becas básicas y premios por notas altas.",
+    "resumen_tweet": "🚨 Auditoría #BOE: El RD 179/2026 regula las becas 26/27. Se amplía el apoyo a discapacidad (25-64%) y residencia (2700€), pero se admite que la educación superior NO es gratuita. ¿Igualdad real o parches económicos? 🎓💰 #Opacidad #Transparencia #Becas",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía total de compensación de tasas a universidades",
+      "Posible duplicidad o falta de control en becas de colaboración gestionadas por CCAA",
+      "Desajuste entre el premio a la excelencia (50€) y el coste real de los estudios",
+      "Falta de detalle en las 'ayudas de escolarización' para educación infantil"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estudiantes con discapacidad entre 25% y 64%",
+        "Alumnos universitarios con matrícula parcial",
+        "Familias situadas estrictamente en el Umbral 1"
+      ],
+      "perdedores": [
+        "Clase media en el límite de los umbrales de patrimonio",
+        "Estudiantes de niveles post-obligatorios sin beca completa",
+        "Administraciones autonómicas con gestión de becas infrafinanciada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Becas y Ayudas al Estudio",
+    "banderas_rojas": [
+      "Opacidad en la cuantía total de compensación de tasas a universidades",
+      "Posible duplicidad o falta de control en becas de colaboración gestionadas por CCAA",
+      "Desajuste entre el premio a la excelencia (50€) y el coste real de los estudios",
+      "Falta de detalle en las 'ayudas de escolarización' para educación infantil"
+    ]
+  },
+  "tweeted": false
+}
