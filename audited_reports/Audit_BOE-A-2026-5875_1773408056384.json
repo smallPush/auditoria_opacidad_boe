@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-5875",
+  "timestamp": "2026-03-13T13:20:56.384Z",
+  "title": "Real Decreto 189/2026, de 11 de marzo, por el que se regula la inscripción, modificación y cancelación de las indicaciones geográficas para vinos, bebidas espirituosas y productos agrícolas y de las especialidades tradicionales garantizadas, y se disponen normas relativas a su comercialización.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 189/2026 consolida un marco regulatorio complejo para las indicaciones geográficas (DOP e IGP), adaptándolo a la normativa europea de 2024. Aunque clarifica los procedimientos de inscripción y cancelación, el texto revela una carga burocrática excesiva mediante la duplicidad de fases (nacional y comunitaria). Se detecta una centralización del poder en el Ministerio de Agricultura para productos que superen el límite de una comunidad autónoma, lo que podría generar tensiones competenciales. La figura de la 'Protección Nacional Transitoria' crea un limbo legal donde el producto goza de protección en España antes de la validación europea, lo cual es un foco de incertidumbre jurídica para el mercado exterior. No se especifican las partidas presupuestarias exactas para la Mesa de Coordinación, lo que sugiere una estructura administrativa financiada de forma opaca bajo gastos generales del ministerio.",
+    "resumen_ciudadano": "Este decreto establece las reglas para que los productos agrícolas, vinos y licores obtengan y mantengan sellos de calidad (Denominación de Origen). Afecta especialmente a productos que se producen en varias comunidades autónomas a la vez. Establece procesos más estrictos para modificar las reglas de producción (pliegos de condiciones) y refuerza el control oficial, obligando a los productores a pasar por procesos de certificación que pueden ser costosos.",
+    "resumen_tweet": "🍷🧀 ¿Quién decide qué es un producto de calidad? El #BOE publica el RD 189/2026: más burocracia para Denominaciones de Origen y un limbo legal llamado 'Protección Transitoria'. ¿Protección real o barreras para el pequeño productor? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Burocracia multinivel (fase nacional + fase europea)",
+      "Costes de certificación no cuantificados para el productor",
+      "Estructura opaca de la Mesa de Coordinación de Calidad Diferenciada",
+      "Limbo jurídico en la Protección Nacional Transitoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes asociaciones de productores con capacidad jurídica",
+        "Estructura administrativa del Ministerio de Agricultura",
+        "Grandes marcas de exportación con sellos consolidados"
+      ],
+      "perdedores": [
+        "Pequeños productores artesanales (por costes de cumplimiento)",
+        "Autonomías (pérdida de control en productos supraautonómicos)",
+        "Consumidores (posible traslado de costes de certificación al precio final)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Supraautonómica",
+    "tipologia": "Regulación Agroalimentaria y Calidad Diferenciada",
+    "banderas_rojas": [
+      "Burocracia multinivel (fase nacional + fase europea)",
+      "Costes de certificación no cuantificados para el productor",
+      "Estructura opaca de la Mesa de Coordinación de Calidad Diferenciada",
+      "Limbo jurídico en la Protección Nacional Transitoria"
+    ]
+  },
+  "tweeted": false
+}
