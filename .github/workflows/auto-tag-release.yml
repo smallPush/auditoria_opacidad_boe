@@ -1,0 +1,81 @@
+name: Auto Tag and Release
+
+on:
+  workflow_run:
+    workflows: ["Scheduled BOE Audit 19"]
+    types:
+      - completed
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  auto-tag-release:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check Branch 🛑
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_run" ]; then
+            if [ "${{ github.event.workflow_run.head_branch }}" != "main" ] && [ "${{ github.event.workflow_run.head_branch }}" != "master" ]; then
+              echo "Workflow triggered from branch ${{ github.event.workflow_run.head_branch }}, which is not main/master. Skipping."
+              exit 0
+            fi
+          elif [ "${{ github.ref }}" != "refs/heads/main" ] && [ "${{ github.ref }}" != "refs/heads/master" ]; then
+            echo "Not on main branch. Skipping."
+            exit 0
+          fi
+
+      - name: Calculate next tag 🏷️
+        id: calc_tag
+        run: |
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+          echo "Latest tag: $LATEST_TAG"
+
+          if [[ $LATEST_TAG =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+            MAJOR="${BASH_REMATCH[1]}"
+            MINOR="${BASH_REMATCH[2]}"
+            PATCH="${BASH_REMATCH[3]}"
+            NEXT_PATCH=$((PATCH + 1))
+            NEXT_TAG="v$MAJOR.$MINOR.$NEXT_PATCH"
+          else
+            echo "Failed to parse tag $LATEST_TAG, falling back to v0.0.1"
+            NEXT_TAG="v0.0.1"
+          fi
+
+          echo "Next tag: $NEXT_TAG"
+          echo "next_tag=$NEXT_TAG" >> "$GITHUB_OUTPUT"
+
+      - name: Create Tag and Release 🚀
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NEXT_TAG=${{ steps.calc_tag.outputs.next_tag }}
+
+          if git ls-remote --tags origin | grep -q "refs/tags/$NEXT_TAG"; then
+            echo "Tag $NEXT_TAG already exists. Skipping release."
+          else
+            echo "Creating tag and release for $NEXT_TAG"
+
+            # Configure git
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+            # Tag the current commit
+            git tag "$NEXT_TAG"
+            git push origin "$NEXT_TAG"
+
+            # Create GitHub Release with auto-generated notes
+            gh release create "$NEXT_TAG" \
+              --title "Release $NEXT_TAG" \
+              --generate-notes
+          fi

@@ -65,3 +65,20 @@ node scripts/audit-latest.js --date 20240130 --limit 100
 3. **Audits only the new items** using Gemini 3 Flash.
 4. **Rate Limiting:** To respect API quotas, the script waits 60 seconds between audits.
 5. **Saves results** to `audited_reports/` and updates the index file.
+
+## Automatic Versioning and Releases
+
+This project includes a fully automated post-audit release mechanism configured via GitHub Actions (`.github/workflows/auto-tag-release.yml`).
+Once all scheduled BOE auditing workflows complete successfully on the `main` branch, the system automatically:
+1. Determines the next semantic patch version (e.g., from `v1.2.3` to `v1.2.4`).
+2. Creates and pushes a new Git tag.
+3. Publishes a new GitHub Release with automatically generated release notes containing the changelog.
+
+**Example of Generated Release Notes:**
+```markdown
+## What's Changed
+* chore: update audited reports (offset 0) [skip ci] by @github-actions in #123
+* feat: add new transparency metrics by @johndoe in #124
+
+**Full Changelog**: https://github.com/user/repo/compare/v1.2.3...v1.2.4
+```
