@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-5873",
+  "timestamp": "2026-03-13T13:22:08.416Z",
+  "title": "Real Decreto 187/2026, de 11 de marzo, por el que se modifica el Real Decreto 66/2015, de 6 de febrero, por el que se regula el régimen de controles a aplicar por la Agencia de Información y Control Alimentarios, previstos en la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo el pretexto de mejorar la 'seguridad jurídica', este Real Decreto introduce un plazo de caducidad de 12 meses para que la AICA inicie procedimientos sancionadores tras una inspección. Esta medida actúa como una espada de Damocles invertida: si la administración, habitualmente falta de recursos, no es capaz de procesar el informe de inspección en un año, la infracción queda impune. Es una concesión técnica que favorece desproporcionadamente a los grandes operadores de la cadena alimentaria frente a la parte débil (productores), ya que facilita que las faltas prescriban por inactividad administrativa.",
+    "resumen_ciudadano": "El Gobierno ha modificado las normas de control de la cadena alimentaria para establecer que las infracciones detectadas caducarán si no se abre un expediente en el plazo de un año tras la inspección. Aunque se vende como eficiencia, en la práctica supone que si la Agencia de Control (AICA) se retrasa por exceso de trabajo, las empresas infractoras (generalmente grandes distribuidoras) se librarán de las multas, dejando desprotegidos a los pequeños agricultores y ganaderos.",
+    "resumen_tweet": "🚨 ¿Impunidad en el súper? El nuevo RD 187/2026 pone 'fecha de caducidad' de 12 meses a las multas de la AICA. Si el Estado tarda, la infracción prescribe. Menos presión para los grandes, más riesgo para el campo. 🌾📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Establecimiento de plazos de caducidad que favorecen la impunidad administrativa",
+      "Fusión de artículos que reduce la especificidad del control",
+      "Justificación de 'seguridad jurídica' que beneficia al actor con más recursos legales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes cadenas de distribución",
+        "Industria agroalimentaria con potentes servicios jurídicos",
+        "Empresas con expedientes de inspección acumulados"
+      ],
+      "perdedores": [
+        "Pequeños agricultores y ganaderos (parte débil de la cadena)",
+        "Capacidad sancionadora del Estado",
+        "Transparencia en el mercado alimentario"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Régimen Sancionador y Control",
+    "banderas_rojas": [
+      "Establecimiento de plazos de caducidad que favorecen la impunidad administrativa",
+      "Fusión de artículos que reduce la especificidad del control",
+      "Justificación de 'seguridad jurídica' que beneficia al actor con más recursos legales"
+    ]
+  },
+  "tweeted": false
+}
