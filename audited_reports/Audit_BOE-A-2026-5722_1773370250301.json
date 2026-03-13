@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-5722",
+  "timestamp": "2026-03-13T02:50:50.301Z",
+  "title": "Decreto de 25 de febrero de 2026, de la Fiscal General del Estado, por el que se dispone el cese de doña Natividad Plasencia Domínguez como Fiscal Delegada de Trata de Personas y Extranjería de la Fiscalía Provincial de Sevilla.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un decreto de cese administrativo estándar que responde a la renuncia voluntaria de la Fiscal Delegada de Trata de Personas y Extranjería en Sevilla. Si bien el procedimiento cumple formalmente con el Reglamento del Ministerio Fiscal, se observa una latencia burocrática significativa: la renuncia se presentó el 11 de diciembre de 2025 y no se ha oficializado hasta marzo de 2026. No se detectan partidas presupuestarias ocultas, pero el documento carece de información sobre la cobertura inmediata de la vacante en un área de extrema vulnerabilidad social.",
+    "resumen_ciudadano": "La Fiscal General del Estado ha aceptado la dimisión de la fiscal encargada de los casos de trata de personas y extranjería en Sevilla. Este movimiento de personal es voluntario y sigue los trámites legales, aunque el proceso administrativo ha tardado tres meses en completarse desde la solicitud inicial.",
+    "resumen_tweet": "⚖️ Cese en la Fiscalía de Sevilla: Natividad Plasencia deja el área de Trata de Personas tras su renuncia voluntaria. 3 meses de espera para oficializar un relevo en una unidad crítica para los derechos humanos. 📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Demora de 90 días entre la renuncia efectiva y la publicación en el BOE",
+      "Falta de mención al relevo inmediato en una fiscalía de alta sensibilidad social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Natividad Plasencia Domínguez (por la aceptación de su renuncia profesional)",
+        "Ministerio Fiscal (por el cumplimiento formal del protocolo administrativo)"
+      ],
+      "perdedores": [
+        "Víctimas de trata en Sevilla (incertidumbre por la interinidad o vacante en la fiscalía especializada)",
+        "Eficiencia administrativa (lentitud en la resolución de ceses de personal técnico)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Demora de 90 días entre la renuncia efectiva y la publicación en el BOE",
+      "Falta de mención al relevo inmediato en una fiscalía de alta sensibilidad social"
+    ]
+  },
+  "tweeted": false
+}
