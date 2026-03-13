@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-5874",
+  "timestamp": "2026-03-13T13:21:30.061Z",
+  "title": "Real Decreto 188/2026, de 11 de marzo, por el que se modifica el Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias, aprobado por Real Decreto 705/1997, de 16 de mayo.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto 188/2026 utiliza un lenguaje de 'simplificación administrativa' para ocultar dos dinámicas preocupantes: la extensión de plazos para que la Administración resuelva (pasando a 4 meses para reconocimiento y 6 meses para sanciones), lo que aumenta la incertidumbre jurídica del administrado, y la facilitación de la 'extensión de normas'. Esta última permite que acuerdos privados de una organización interprofesional, incluyendo cuotas económicas obligatorias, se impongan a todos los productores del sector. La reducción del control en la fase de información pública mediante la publicación exclusiva en el portal web del Ministerio, en lugar de mecanismos más garantistas, diluye la capacidad de oposición de los pequeños operadores.",
+    "resumen_ciudadano": "Esta norma facilita que las grandes asociaciones del sector agroalimentario impongan sus reglas y cuotas obligatorias a todos los agricultores y ganaderos, incluso a los que no pertenecen a ellas. También otorga más tiempo al Gobierno para tramitar multas y expedientes, y reduce la visibilidad de los procesos de alegaciones al limitarlos a una publicación en internet.",
+    "resumen_tweet": "📢 Alerta #BOE: El Gobierno facilita que las Interprofesionales impongan cuotas obligatorias a todo el sector agro 🌾 bajo el pretexto de 'simplificar'. Además, se dan más tiempo para multar. ¿Transparencia o burocracia? 🤔 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ampliación de plazos de caducidad en expedientes sancionadores",
+      "Simplificación del control público en la extensión de normas (tasas obligatorias)",
+      "Concentración de información en portales digitales de baja visibilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes Organizaciones Interprofesionales Agroalimentarias",
+        "Ministerio de Agricultura (más margen temporal administrativo)"
+      ],
+      "perdedores": [
+        "Pequeños productores independientes",
+        "Operadores agroalimentarios sujetos a cuotas obligatorias sin representación directa",
+        "Ciudadanos afectados por la dilatación de los procesos de sanción"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Modificación Reglamentaria",
+    "banderas_rojas": [
+      "Ampliación de plazos de caducidad en expedientes sancionadores",
+      "Simplificación del control público en la extensión de normas (tasas obligatorias)",
+      "Concentración de información en portales digitales de baja visibilidad"
+    ]
+  },
+  "tweeted": false
+}
