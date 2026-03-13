@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-5731",
+  "timestamp": "2026-03-13T03:10:40.480Z",
+  "title": "Orden PJC/205/2026, de 11 de marzo, por la que se convoca el procedimiento de selección para la designación por el Reino de España de una terna de candidaturas a juez titular del Tribunal Europeo de Derechos Humanos.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque las bases son públicas, la composición del Comité de Selección revela un fuerte sesgo gubernamental, al incluir tres altos cargos políticos (Secretarios de Estado y Subsecretario) frente a solo dos expertos externos. El plazo de 10 días hábiles para un puesto de esta magnitud internacional es excesivamente corto, lo que suele favorecer a candidatos que ya conocen la vacante de antemano. No hay criterios de baremación numérica, dejando una discrecionalidad absoluta al comité bajo conceptos subjetivos como 'alta consideración moral'.",
+    "resumen_ciudadano": "El Gobierno inicia la búsqueda de candidatos para ser juez en el Tribunal Europeo de Derechos Humanos (TEDH). Un comité formado mayoritariamente por políticos evaluará a los aspirantes, quienes deben ser expertos en derecho, menores de 65 años y dominar el inglés o francés. El elegido representará a España en Estrasburgo hasta 2027.",
+    "resumen_tweet": "⚖️ ¿Quién será el próximo juez español en Estrasburgo? El #BOE convoca la selección para el TEDH. Comité con mayoría de cargos políticos y un plazo de solo 10 DÍAS para solicitudes. ¿Garantiza esto la independencia? 🇪🇺 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Plazo de presentación muy reducido (10 días hábiles)",
+      "Mayoría de miembros políticos en el comité de selección",
+      "Criterios de valoración altamente subjetivos",
+      "Falta de publicidad previa a la convocatoria oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del Ministerio de Justicia y Exteriores (controlan la terna)",
+        "Élites jurídicas con redes de contacto en Madrid",
+        "Perfiles con bilingüismo de cuna o formación de élite"
+      ],
+      "perdedores": [
+        "Juristas de carrera sin conexiones políticas",
+        "Candidatos fuera de la administración central",
+        "Principio de igualdad de oportunidades (por la brevedad del plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Selección de Personal",
+    "banderas_rojas": [
+      "Plazo de presentación muy reducido (10 días hábiles)",
+      "Mayoría de miembros políticos en el comité de selección",
+      "Criterios de valoración altamente subjetivos",
+      "Falta de publicidad previa a la convocatoria oficial"
+    ]
+  },
+  "tweeted": false
+}
