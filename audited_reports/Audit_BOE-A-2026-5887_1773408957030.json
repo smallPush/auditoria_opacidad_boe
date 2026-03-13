@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-5887",
+  "timestamp": "2026-03-13T13:35:57.030Z",
+  "title": "Resolución de 4 de marzo de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación del puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el sistema de 'libre designacion' para un puesto tecnico-legal clave en el Ayuntamiento de Valencia. Este mecanismo, aunque legal, permite una seleccion discrecional por parte de la autoridad politica (Alcaldia) sobre funcionarios con habilitacion nacional. La opacidad reside en la falta de justificacion publica sobre por que el candidato elegido es superior a otros, priorizando la 'confianza' sobre el merito puro en un organo que deberia velar por la legalidad objetiva de la Junta de Gobierno.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo responsable para el organo de apoyo legal del Ayuntamiento de Valencia. Aunque es un funcionario cualificado, ha sido elegido directamente por el gobierno municipal mediante el sistema de 'libre designacion', lo que reduce la independencia teorica del puesto frente al poder politico local.",
+    "resumen_tweet": "🚩 Alerta #BOE: El Ayto. de Valencia adjudica 'a dedo' (libre designacion) un puesto tecnico clave de apoyo a la Junta de Gobierno. Mas discrecionalidad politica y menos meritocracia pura en la administracion. ⚖️🏛️ #Opacidad #Transparencia #Valencia",
+    "banderas_red_flags": [
+      "Uso de libre designacion en puestos de control legal",
+      "Potencial politizacion de la funcion publica local",
+      "Ausencia de baremacion de meritos comparativa en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Antonio Martinez Beltran (adjudicatario del puesto)",
+        "Equipo de Gobierno Municipal (obtiene un perfil de su confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios que optan por concurso de meritos",
+        "Ciudadania (por posible reduccion de la fiscalizacion independiente)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal / Libre Designacion",
+    "banderas_rojas": [
+      "Uso de libre designacion en puestos de control legal",
+      "Potencial politizacion de la funcion publica local",
+      "Ausencia de baremacion de meritos comparativa en el extracto"
+    ]
+  },
+  "tweeted": false
+}
