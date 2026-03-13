@@ -283,8 +283,8 @@ const App: React.FC = () => {
 
       await loadHistory();
       alert(t.importSuccess);
-    } catch (err) {
-      console.error("Import failed", err);
+    } catch (err: unknown) {
+      console.error("Import failed", err instanceof Error ? err.message : String(err));
       alert(t.importError);
     }
   };
