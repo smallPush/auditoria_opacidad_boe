@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-5870",
+  "timestamp": "2026-03-13T13:19:07.581Z",
+  "title": "Real Decreto 184/2026, de 11 de marzo, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Aprendizaje automático: instalación, despliegue y explotación de sistemas y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El Real Decreto establece un curso de especialización en Inteligencia Artificial (IA) y Machine Learning, elevando la FP al rango de 'Máster de Formación Profesional'. Aunque el currículo técnico está detallado, el texto se apoya en una estructura de financiación europea (FSE+) cuya ejecución presupuestaria específica por plaza no se detalla. Existe una dependencia implícita de proveedores externos de 'infraestructura como servicio' (IaaS), lo que sugiere que la formación pública terminará financiando indirectamente el uso de plataformas privadas (Amazon, Google, Microsoft). Se menciona la igualdad de género de forma genérica cumpliendo el expediente legal, pero sin medidas concretas para corregir la brecha en un sector históricamente masculinizado.",
+    "resumen_ciudadano": "Se crea un nuevo título oficial de especialización en Aprendizaje Automático (IA) para titulados de FP de Grado Superior. El curso dura 540 horas (32 créditos ECTS) e incluye formación en empresas. Los alumnos aprenderán a instalar, desplegar y explotar sistemas de IA, visión artificial y asistentes virtuales, obteniendo el título de Máster de Formación Profesional.",
+    "resumen_tweet": "🚀 Nuevo 'Máster de FP' en Inteligencia Artificial y Machine Learning. 540h para especializar a técnicos en el despliegue de sistemas de IA. ¿Formación pública o dependencia de la nube privada? 🧐 #BOE #IA #FormaciónProfesional #Transparencia",
+    "banderas_red_flags": [
+      "Dependencia tecnológica de proveedores de servicios en la nube (IaaS) no especificados",
+      "Ausencia de desglose presupuestario por comunidad autónoma en el texto",
+      "Ambigüedad en la implementación de las cuotas de género mencionadas frente a la realidad del sector"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Titulados de FP de Grado Superior (mayor empleabilidad)",
+        "Empresas del sector tecnológico (mano de obra especializada)",
+        "Proveedores de servicios en la nube (IaaS)"
+      ],
+      "perdedores": [
+        "Trabajadores de sectores tradicionales sin acceso a formación digital",
+        "Centros educativos sin infraestructura computacional propia"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Real Decreto de Educación y Especialización Técnica",
+    "banderas_rojas": [
+      "Dependencia tecnológica de proveedores de servicios en la nube (IaaS) no especificados",
+      "Ausencia de desglose presupuestario por comunidad autónoma en el texto",
+      "Ambigüedad en la implementación de las cuotas de género mencionadas frente a la realidad del sector"
+    ]
+  },
+  "tweeted": false
+}
