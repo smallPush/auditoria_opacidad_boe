@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-5715",
+  "timestamp": "2026-03-13T02:45:18.053Z",
+  "title": "Real Decreto 181/2026, de 11 de marzo, por el que se aprueban los Estatutos de la Universidad Nacional de Educación a Distancia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 181/2026 adapta los estatutos de la UNED a la LOSU. Aunque se presenta como un ejercicio de modernización, persiste la ambigüedad en la financiación de los 'centros asociados' mediante convenios con entidades privadas, lo que puede derivar en una privatización encubierta de servicios. El artículo relativo al endeudamiento permite créditos de hasta el 5% del presupuesto para 'desfases de tesorería' sin especificar mecanismos de auditoría ciudadana inmediata, lo que constituye un riesgo de gasto no fiscalizado en el corto plazo.",
+    "resumen_ciudadano": "Se aprueban las nuevas reglas de funcionamiento de la UNED. Esto cambia cómo se elige a sus jefes, cómo se gestiona su dinero (que vendrá de los Presupuestos Generales del Estado) y cómo funcionan sus centros en España y el extranjero. Se da permiso a la universidad para pedir préstamos rápidos si se queda sin efectivo temporalmente.",
+    "resumen_tweet": "Auditamos el RD 181/2026: Nuevos estatutos de la @UNED 🎓. Ojo al permiso de deuda del 5% para 'desfases' y la ambigüedad en convenios con entidades privadas. ¿Transparencia real o burocracia blindada? 🔍📜 #BOE #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Endeudamiento del 5% sin desglose de control preventivo",
+      "Opacidad en los convenios de financiación con entidades privadas para centros asociados",
+      "Indeterminación del estatus laboral definitivo del profesorado tutor tras décadas de precariedad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Universidades (mayor control central)",
+        "Entidades privadas colaboradoras (vía convenios)",
+        "Órganos de gobierno unipersonales (consolidación de poder)"
+      ],
+      "perdedores": [
+        "Profesorado tutor (se mantiene la incertidumbre sobre su régimen específico)",
+        "Alumnado de clases trabajadoras (posible impacto de la gestión de deuda en tasas futuras)",
+        "Transparencia pública (complejidad en la fiscalización de la red de centros asociados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación Universitaria / Estatutos",
+    "banderas_rojas": [
+      "Endeudamiento del 5% sin desglose de control preventivo",
+      "Opacidad en los convenios de financiación con entidades privadas para centros asociados",
+      "Indeterminación del estatus laboral definitivo del profesorado tutor tras décadas de precariedad"
+    ]
+  },
+  "tweeted": false
+}
