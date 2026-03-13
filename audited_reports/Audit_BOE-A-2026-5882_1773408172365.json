@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-5882",
+  "timestamp": "2026-03-13T13:22:52.365Z",
+  "title": "Real Decreto 118/2026, de 11 de febrero, por el que se nombra Presidenta de la Sala de lo Social del Tribunal Superior de Justicia de Cantabria a doña Elena Pérez Pérez.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla un nombramiento de carácter discrecional en la cúpula judicial. Aunque se ampara en la legalidad vigente (LOPJ), la falta de motivación pública sobre los méritos específicos de la candidata frente a otros aspirantes refuerza la percepción de una justicia gestionada por acuerdos internos del CGPJ. No hay desglose de costes asociados al cargo ni justificación de idoneidad técnica en el texto publicado.",
+    "resumen_ciudadano": "Se ha designado a doña Elena Pérez Pérez como Presidenta de la Sala de lo Social del Tribunal Superior de Justicia de Cantabria. Este cargo es vital para resolver conflictos laborales y de seguridad social en la región. El nombramiento es 'discrecional', lo que significa que el Consejo General del Poder Judicial la ha elegido bajo sus propios criterios internos de selección.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento 'a dedo' en la cúpula judicial de Cantabria. Elena Pérez Pérez presidirá la Sala de lo Social tras una decisión discrecional del CGPJ. Más opacidad en la justicia que afecta a los trabajadores. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional sin exposición de méritos",
+      "Ausencia de memoria económica del puesto",
+      "Falta de transparencia en el proceso selectivo previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Pérez Pérez",
+        "Estructura del CGPJ (mantenimiento de cuotas de poder)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (meritocracia no visibilizada)",
+        "Ciudadanía (desconocimiento de los motivos de la elección)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional sin exposición de méritos",
+      "Ausencia de memoria económica del puesto",
+      "Falta de transparencia en el proceso selectivo previo"
+    ]
+  },
+  "tweeted": false
+}
