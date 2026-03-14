@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6005",
+  "timestamp": "2026-03-14T12:54:45.976Z",
+  "title": "Corrección de errores del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una corrección de errores que revela una preocupante falta de rigor en la redacción de normativas de urgencia. Aunque se corrigen erratas ortográficas banales, destaca la supresión íntegra de un párrafo sobre el régimen excepcional por analogía en la página 25519, lo cual altera el alcance jurídico del decreto original sin dar explicaciones. Asimismo, el cambio de 'datos' por 'daños' en el artículo 23 es crítico: un error de una letra podría haber dejado jurídicamente desprotegidas las reparaciones físicas, limitándolas a activos digitales. La rectificación de referencias cruzadas (del Art. 29 al 23) evidencia una estructura legislativa confusa y apresurada.",
+    "resumen_ciudadano": "El Gobierno corrige su propio decreto de ayudas por catástrofes en Andalucía y Extremadura. Lo que parece una simple limpieza de texto oculta la eliminación de un párrafo que permitía aplicar la ley a casos similares por analogía. Además, se corrige un error garrafal donde el texto original hablaba de reparar 'datos' en lugar de 'daños' físicos, lo que habría generado un caos legal para los afectados que buscan cobrar sus ayudas.",
+    "resumen_tweet": "⚠️ El BOE 'parchea' el decreto de ayudas para Andalucía y Extremadura. Entre erratas, eliminan un párrafo clave sobre el régimen excepcional y corrigen el error de hablar de 'datos' en vez de 'daños'. ¿Rigor o improvisación? ⛈️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Supresión de párrafos sustantivos en una corrección de errores",
+      "Incoherencia en referencias cruzadas internas (Art. 30 vs Art. 23)",
+      "Errores materiales graves en términos jurídicos core (datos vs daños)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Burocracia estatal (que ajusta el texto para evitar reclamaciones por analogía)",
+        "Revisores ortográficos (que salvan la imagen institucional)"
+      ],
+      "perdedores": [
+        "Ciudadanos afectados (que pierden la posibilidad de aplicar el régimen por analogía)",
+        "Contribuyentes (por la baja calidad técnica de las leyes de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Extremadura",
+    "tipologia": "Corrección de errores / Ayudas por catástrofes",
+    "banderas_rojas": [
+      "Supresión de párrafos sustantivos en una corrección de errores",
+      "Incoherencia en referencias cruzadas internas (Art. 30 vs Art. 23)",
+      "Errores materiales graves en términos jurídicos core (datos vs daños)"
+    ]
+  },
+  "tweeted": false
+}
