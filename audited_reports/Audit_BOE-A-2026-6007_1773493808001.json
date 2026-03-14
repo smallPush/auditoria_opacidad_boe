@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6007",
+  "timestamp": "2026-03-14T13:10:08.001Z",
+  "title": "Orden SND/208/2026, de 9 de marzo, por la que se modifica el anexo II del Real Decreto 81/2014, de 7 de febrero, por el que se establecen normas para garantizar la asistencia sanitaria transfronteriza, y por el que se modifica el Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden SND/208/2026 amplía significativamente la lista de tratamientos que requieren autorización previa para ser realizados en el extranjero, bajo la premisa de 'actualización científica'. Sin embargo, esta medida actúa como un mecanismo de protección del gasto interno, vinculando la limitación de derechos de movilidad del paciente a la necesidad de rentabilizar las inversiones en equipos de alta tecnología financiados por los fondos Next Generation EU. Existe una incongruencia entre el discurso de 'libertad de elección' y la realidad de un control administrativo más férreo sobre las terapias más innovadoras (robótica, genética, terapias avanzadas).",
+    "resumen_ciudadano": "Si necesitas tratamientos médicos avanzados como cirugía robótica, terapias génicas o radioterapia especializada y piensas acudir a otro país de la Unión Europea, ahora es más difícil. El Gobierno ha ampliado la lista de servicios que exigen permiso previo obligatorio. Argumentan que es para organizar mejor los recursos y aprovechar las máquinas nuevas compradas con fondos europeos, pero en la práctica supone más papeleo y posibles esperas para el paciente que busca alternativas fuera de España.",
+    "resumen_tweet": "🚨 ¡Más control en Sanidad! El #BOE endurece el permiso para recibir tratamientos avanzados en la UE. 🏥 Robots, genética y alta tecnología ahora bajo lupa administrativa. ¿Libre circulación o muro burocrático para retener el gasto? 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Aumento de barreras administrativas en tratamientos de última generación",
+      "Justificación de límites a la movilidad por protección de inversiones estatales (Fondos NextGen)",
+      "Ambigüedad en los criterios de denegación de las autorizaciones previas",
+      "Posible vulneración del espíritu de la Directiva 2011/24/UE sobre derechos del paciente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (control de fuga de capital sanitario)",
+        "Gestores de centros de referencia (garantía de volumen de casos)"
+      ],
+      "perdedores": [
+        "Pacientes con enfermedades raras que buscan especialistas europeos",
+        "Clases medias-bajas (mayor dificultad para litigar contra denegaciones administrativas)",
+        "Principio de libre circulación de pacientes en la Unión Europea"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial",
+    "banderas_rojas": [
+      "Aumento de barreras administrativas en tratamientos de última generación",
+      "Justificación de límites a la movilidad por protección de inversiones estatales (Fondos NextGen)",
+      "Ambigüedad en los criterios de denegación de las autorizaciones previas",
+      "Posible vulneración del espíritu de la Directiva 2011/24/UE sobre derechos del paciente"
+    ]
+  },
+  "tweeted": false
+}
