@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-5885",
+  "timestamp": "2026-03-14T02:50:33.028Z",
+  "title": "Resolución de 3 de marzo de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, en la Escala de Ayudantes de Investigación de los Organismos Públicos de Investigación.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución es un acto administrativo estándar de nombramiento por promoción interna. Aunque los datos salariales (Nivel 16 y Complemento Específico de 4.894,54€) son públicos y claros, el proceso de 'promoción interna' perpetúa una estructura cerrada que dificulta la entrada de talento joven externo a los Organismos Públicos de Investigación (OPIs). Se observa una fuerte concentración territorial en Madrid (9 de 11 plazas), lo que subraya la centralización de la ciencia estatal en España.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de 11 nuevos funcionarios de carrera como Ayudantes de Investigación. Estos puestos se han cubierto mediante promoción de personal que ya estaba dentro de la administración. Los destinos principales son el CSIC, el CIEMAT y el INTA, con puestos localizados mayoritariamente en Madrid y un caso en el entorno de Doñana.",
+    "resumen_tweet": "🧬 11 nuevos funcionarios en la escala de investigación vía promoción interna. Destinos: #CSIC #CIEMAT #INTA. Salarios nivel 16 con transparencia, pero persiste la centralización en Madrid. ¿Y el talento externo? 🧪 #BOE #Investigacion #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia administrativa: Acceso restringido solo a quienes ya son funcionarios",
+      "Concentración geográfica: 81% de las plazas adjudicadas en la Comunidad de Madrid",
+      "Opacidad en el coste total: No se especifica el impacto presupuestario anual consolidado de estos nuevos niveles salariales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal administrativo/técnico previo (promoción de carrera)",
+        "Ministerio de Ciencia, Innovación y Universidades",
+        "CSIC (refuerza plantilla estable)"
+      ],
+      "perdedores": [
+        "Investigadores externos (sin acceso a estas plazas)",
+        "Ciencia regional (fuerte centralismo en Madrid)",
+        "Relevo generacional (la promoción interna no introduce necesariamente sangre nueva)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiregional",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Endogamia administrativa: Acceso restringido solo a quienes ya son funcionarios",
+      "Concentración geográfica: 81% de las plazas adjudicadas en la Comunidad de Madrid",
+      "Opacidad en el coste total: No se especifica el impacto presupuestario anual consolidado de estos nuevos niveles salariales"
+    ]
+  },
+  "tweeted": false
+}
