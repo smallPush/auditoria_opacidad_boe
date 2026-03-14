@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6013",
+  "timestamp": "2026-03-14T13:12:54.274Z",
+  "title": "Resolución de 5 de marzo de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don José Francisco Vicent Francés.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento formal de catedrático que, aunque legalmente impecable bajo la LOSU, carece de transparencia sobre el proceso selectivo real. No se publica el baremo de la comisión ni el coste salarial derivado de esta plaza de élite funcionarial. La consolidación de plazas en áreas estratégicas como la IA es positiva, pero el documento es un trámite seco que oculta la competencia real por los recursos públicos.",
+    "resumen_ciudadano": "La Universidad de Alicante nombra oficialmente a un nuevo catedrático en el área de Inteligencia Artificial. Este paso administrativo formaliza su estatus permanente y su salario a cargo del presupuesto público, tras un proceso de selección interno cuya documentación detallada no es accesible al ciudadano común.",
+    "resumen_tweet": "🎓 Nuevo catedrático de IA en la Univ. de Alicante. Un nombramiento que consolida la élite académica en un sector clave, pero bajo la habitual opacidad sobre costes y méritos específicos. 🧐 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la retribución total del cargo",
+      "Ausencia de publicación de las actas de la comisión evaluadora",
+      "Falta de referencia al impacto presupuestario plurianual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Francisco Vicent Francés (beneficiario directo)",
+        "Departamento de Ciencia de la Computación e Inteligencia Artificial",
+        "Cuerpo de Catedráticos de Universidad"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema (barreras de entrada)",
+        "Contribuyente (falta de detalle en el gasto público)",
+        "Transparencia meritocrática (proceso cerrado)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Personal y Nombramientos Académicos",
+    "banderas_rojas": [
+      "Opacidad en la retribución total del cargo",
+      "Ausencia de publicación de las actas de la comisión evaluadora",
+      "Falta de referencia al impacto presupuestario plurianual"
+    ]
+  },
+  "tweeted": false
+}
