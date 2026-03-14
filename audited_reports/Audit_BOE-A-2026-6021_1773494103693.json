@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6021",
+  "timestamp": "2026-03-14T13:15:03.693Z",
+  "title": "Resolución de 3 de marzo de 2026, del Ayuntamiento de Simancas (Valladolid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria para una plaza única de Arquitecto Municipal mediante el sistema de 'concurso-oposición' en un ayuntamiento de tamaño medio-bajo como Simancas levanta sospechas de 'consolidación de plaza'. Al incluir una fase de concurso (méritos) en lugar de una oposición libre pura, se introduce un componente de subjetividad que suele favorecer a interinos que ya ocupan el puesto de forma temporal. La opacidad reside en la remisión a bases publicadas en el Boletín Provincial, fragmentando la información y dificultando el acceso al ciudadano común al detalle de la baremación.",
+    "resumen_ciudadano": "El Ayuntamiento de Simancas convoca una plaza de Arquitecto Municipal. El método elegido permite sumar puntos por experiencia previa, lo cual suele beneficiar a quienes ya están trabajando en la institución, reduciendo las oportunidades reales para arquitectos externos sin vínculos previos con la administración local.",
+    "resumen_tweet": "🔍 Auditamos Simancas (Valladolid): 1 plaza de Arquitecto Municipal por 'concurso-oposición'. ¿Mérito real o traje a medida para internos? 🏗️ La fragmentación de bases entre boletines oculta los criterios de selección. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para plaza única",
+      "Posible consolidación de interinidad encubierta",
+      "Fragmentación informativa (remisión a boletín provincial)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del ayuntamiento",
+        "Candidatos con antigüedad en administración pública local"
+      ],
+      "perdedores": [
+        "Arquitectos del sector privado",
+        "Jóvenes licenciados sin puntos por experiencia",
+        "Principio de igualdad de oportunidades"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para plaza única",
+      "Posible consolidación de interinidad encubierta",
+      "Fragmentación informativa (remisión a boletín provincial)"
+    ]
+  },
+  "tweeted": false
+}
