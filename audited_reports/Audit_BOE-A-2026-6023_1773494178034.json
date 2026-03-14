@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6023",
+  "timestamp": "2026-03-14T13:16:18.034Z",
+  "title": "Resolución de 3 de marzo de 2026, del Ayuntamiento de Barcelona, Instituto Municipal de Parques y jardines (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion presenta una transparencia tecnica pero una opacidad funcional. Al remitir las bases completas al DOGC y establecer un plazo de apenas 10 dias habiles para la presentacion de solicitudes, se crea una barrera de entrada para ciudadanos que no esten activamente monitoreando multiples diarios oficiales. El sistema de concurso-oposicion para personal laboral fijo suele estar diseñado para la consolidacion de interinos, lo que bajo la apariencia de turno libre, oculta una ventaja competitiva para quienes ya forman parte de la estructura administrativa del Instituto Municipal de Parques y Jardines.",
+    "resumen_ciudadano": "El Ayuntamiento de Barcelona convoca 6 plazas fijas de Auxiliar Administrativo para Parques y Jardines. El proceso utiliza el sistema de concurso-oposicion, donde los puntos por experiencia previa cuentan significativamente. El plazo para apuntarse es extremadamente corto, solo 10 dias, lo que limita la concurrencia real de candidatos externos.",
+    "resumen_tweet": "⚠️ ¡Ojo! Solo 10 dias para 6 plazas en Barcelona. El sistema de concurso-oposicion y el plazo expres dificultan el acceso real a ciudadanos sin experiencia previa en la administracion. ¿Transparencia o burocracia cerrada? 📉 #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Plazo de solicitudes sospechosamente corto (10 dias)",
+      "Uso del sistema de concurso-oposicion para plazas fijas",
+      "Fragmentacion de la informacion entre BOE y DOGC",
+      "Nomenclatura de plazas de primer y segundo año inusual para personal fijo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos por antiguedad acumulada",
+        "Candidatos con acceso privilegiado a informacion municipal",
+        "Sindicatos de la administracion local"
+      ],
+      "perdedores": [
+        "Opositores externos sin experiencia previa",
+        "Jovenes titulados que buscan su primer empleo publico",
+        "Principio de igualdad y libre concurrencia"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Publico / Administracion Local",
+    "banderas_rojas": [
+      "Plazo de solicitudes sospechosamente corto (10 dias)",
+      "Uso del sistema de concurso-oposicion para plazas fijas",
+      "Fragmentacion de la informacion entre BOE y DOGC",
+      "Nomenclatura de plazas de primer y segundo año inusual para personal fijo"
+    ]
+  },
+  "tweeted": false
+}
