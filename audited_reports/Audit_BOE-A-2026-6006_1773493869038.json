@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6006",
+  "timestamp": "2026-03-14T13:11:09.038Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la apariencia de una simple lista de precios, esta resolución consolida el poder recaudatorio del Estado mediante el monopolio del tabaco. Se observa una polarización de mercado extrema: productos de lujo inaccesibles (humidores de 411€) frente a cigarritos 'low-cost' de 0,26€, diseñados para mantener la dependencia fiscal de las rentas más bajas. No existe desglose del porcentaje de impuestos frente al coste de fabricación, ocultando el margen real que el Ministerio de Hacienda extrae de cada unidad vendida.",
+    "resumen_ciudadano": "Hacienda publica la nueva lista de precios del tabaco en estancos. Los precios varían desde céntimos para cigarritos populares hasta cientos de euros en puros de lujo, afectando directamente al bolsillo del consumidor habitual y asegurando los ingresos del Estado.",
+    "resumen_tweet": "🚬 El #BOE actualiza los precios del tabaco: desde puros de 411€ hasta cigarritos a 0,26€. El Estado mantiene su caja registradora a costa de la salud y el bolsillo de los ciudadanos. ¿Recaudación o salud? 📉💰 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el desglose de la carga impositiva",
+      "Fomento de labores de bajo coste para sectores precarizados",
+      "Persistencia de estructuras de monopolio estatal en 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (Recaudación garantizada)",
+        "Marcas de lujo (Gurkha, La Aurora)",
+        "Expendedurías de Tabaco y Timbre"
+      ],
+      "perdedores": [
+        "Clases trabajadoras (consumo de picaduras y marcas baratas)",
+        "Salud Pública (incentivo de consumo por precio)",
+        "Soberanía del consumidor"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Península e Illes Balears)",
+    "tipologia": "Resolución de Precios / Fiscalidad Indirecta",
+    "banderas_rojas": [
+      "Opacidad en el desglose de la carga impositiva",
+      "Fomento de labores de bajo coste para sectores precarizados",
+      "Persistencia de estructuras de monopolio estatal en 2026"
+    ]
+  },
+  "tweeted": false
+}
