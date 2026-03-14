@@ -51,3 +51,8 @@ export interface AnalysisState {
   scrapingResults?: ScrapedLaw[];
   isScraping?: boolean;
 }
+
+export type ImportDataPayload =
+  | AuditHistoryItem[]
+  | { boe_id: string; title?: string; report: BOEAuditResponse }
+  | { boeId: string; title?: string; audit: BOEAuditResponse };
