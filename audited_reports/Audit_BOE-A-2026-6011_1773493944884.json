@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6011",
+  "timestamp": "2026-03-14T13:12:24.884Z",
+  "title": "Resolución de 9 de marzo de 2026, de la Viceconsejería de Justicia, por la que se corrigen errores en la de 16 de febrero de 2026, por la que se resuelve el concurso específico, convocado por Resolución de 12 de diciembre de 2025, en las Oficinas Judiciales en el partido judicial de Oviedo.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una corrección de errores materiales en la adjudicación de una jefatura en el sistema judicial de Oviedo. Aunque es un trámite rutinario bajo la Ley 39/2015, refleja una falta de rigor inicial en la definición de puestos técnicos (SCT-TI). No se detectan gastos fantasma directos, pero la burocracia de rectificación supone un coste de gestión evitable. La terminología 'SCT-TI' permanece opaca para el ciudadano común.",
+    "resumen_ciudadano": "La Viceconsejería de Justicia de Asturias corrige un error en el nombre de un puesto de Jefatura de Equipo en Oviedo. Se elimina la referencia al área 'Civil' en la plaza adjudicada a una funcionaria, dejando solo 'Social/C-A'. Es un ajuste técnico sin impacto presupuestario directo.",
+    "resumen_tweet": "🔍 Nueva corrección en el #BOE: Asturias rectifica el nombre de una Jefatura de Equipo judicial en Oviedo. Un error administrativo que demuestra la complejidad (y a veces descuido) de la burocracia judicial. 🏛️⚖️ #Opacidad #Transparencia #Asturias",
+    "banderas_red_flags": [
+      "Uso de siglas técnicas sin desglose (SCT-TI)",
+      "Necesidad de rectificación tras dos meses del concurso original",
+      "Opacidad en la descripción funcional del puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (por el mecanismo de autocorrección)",
+        "Ana Isabel Movilla Borrajo (seguridad jurídica en su nombramiento)"
+      ],
+      "perdedores": [
+        "Contribuyente (coste de oportunidad por la gestión de errores administrativos)",
+        "Claridad terminológica para el ciudadano"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Resolución Administrativa (Corrección de Errores)",
+    "banderas_rojas": [
+      "Uso de siglas técnicas sin desglose (SCT-TI)",
+      "Necesidad de rectificación tras dos meses del concurso original",
+      "Opacidad en la descripción funcional del puesto"
+    ]
+  },
+  "tweeted": false
+}
