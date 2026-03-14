@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6018",
+  "timestamp": "2026-03-14T13:14:08.668Z",
+  "title": "Resolución de 11 de febrero de 2026, del Ayuntamiento de Cómpeta (Málaga), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se limita a una plaza de técnico/a de gestión administrativa mediante el sistema de 'concurso-oposición' en turno de 'promoción interna'. Este mecanismo, aunque legal, suele ser un foco de opacidad al restringir el acceso exclusivamente a personal que ya forma parte de la plantilla municipal. El uso del concurso-oposición permite que la valoración de 'méritos' (subjetivos o dirigidos) tenga un peso determinante sobre la capacidad técnica evaluada en el examen, consolidando estructuras de poder internas y limitando la renovación del funcionariado con talento externo.",
+    "resumen_ciudadano": "El Ayuntamiento de Cómpeta (Málaga) reserva una plaza de gestión administrativa únicamente para empleados actuales de la institución. No hay posibilidad de acceso para ciudadanos externos o nuevos graduados, perpetuando el hermetismo en la administración local.",
+    "resumen_tweet": "🚨 El Ayto. de Cómpeta (Málaga) blinda una plaza de Técnico de Gestión mediante promoción interna. 🔒 Puertas cerradas al talento externo y a los jóvenes. ¿Mérito real o consolidación a medida? 🧐 #BOE #Opacidad #Transparencia #Málaga",
+    "banderas_red_flags": [
+      "Promoción interna exclusiva",
+      "Sistema de concurso-oposición (subjetividad en méritos)",
+      "Fragmentación de la información (remisión a boletines provinciales)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno del Ayuntamiento de Cómpeta",
+        "Estructura política local"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Jóvenes graduados en gestión pública",
+        "Ciudadanía (por falta de competencia abierta)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público / Promoción Interna",
+    "banderas_rojas": [
+      "Promoción interna exclusiva",
+      "Sistema de concurso-oposición (subjetividad en méritos)",
+      "Fragmentación de la información (remisión a boletines provinciales)"
+    ]
+  },
+  "tweeted": false
+}
