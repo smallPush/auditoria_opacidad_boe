@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6024",
+  "timestamp": "2026-03-15T03:31:26.497Z",
+  "title": "Resolución de 4 de marzo de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La convocatoria del Cabildo de Tenerife para 24 plazas de alta cualificación técnica utiliza el modelo de 'concurso-oposición'. Este sistema, aunque legal, suele ser una vía de consolidación encubierta para personal interino ya presente en la administración, dificultando el acceso real a ciudadanos externos en el 'turno libre'. La concentración en perfiles de sistemas y economía sugiere una tecnocratización de la gestión local, pero la falta de desglose sobre el impacto presupuestario anual de estas nuevas plazas fijas oculta el coste real a largo plazo para el contribuyente tinerfeño.",
+    "resumen_ciudadano": "Se han convocado 24 puestos de trabajo fijos en el Cabildo de Tenerife para informáticos, economistas y médicos. El proceso de selección valorará tanto exámenes como experiencia previa, lo que da ventaja a quienes ya trabajan allí. Tienes 20 días para apuntarte desde la publicación.",
+    "resumen_tweet": "🚨 El Cabildo de Tenerife convoca 24 plazas de alta cualificación. El uso del 'concurso-oposición' en 2026 sigue favoreciendo la endogamia administrativa sobre el talento nuevo. ¿Consolidación o verdadera apertura? 🧐 #BOE #Tenerife #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición que pondera méritos sobre examen puro",
+      "Ausencia de información sobre las retribuciones específicas de los puestos",
+      "Posible consolidación de puestos interinos bajo apariencia de convocatoria libre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Cabildo",
+        "Técnicos de Grado Superior",
+        "Estructuras de gestión administrativa local"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin experiencia previa",
+        "Clase trabajadora sin titulaciones superiores",
+        "Transparencia en el gasto de personal a largo plazo"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición que pondera méritos sobre examen puro",
+      "Ausencia de información sobre las retribuciones específicas de los puestos",
+      "Posible consolidación de puestos interinos bajo apariencia de convocatoria libre"
+    ]
+  },
+  "tweeted": false
+}
