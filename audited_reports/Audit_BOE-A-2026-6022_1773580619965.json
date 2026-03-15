@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6022",
+  "timestamp": "2026-03-15T13:16:59.965Z",
+  "title": "Resolución de 3 de marzo de 2026, del Ayuntamiento de Alcorcón (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria de una plaza única mediante promoción interna y sistema de concurso-oposición es una práctica habitual que, aunque legal, fomenta la endogamia administrativa. Al no ser oposiciones libres, se cierra el acceso al talento externo. El uso de la fase de 'concurso' permite que la antigüedad y méritos previos subjetivos pesen sobre la capacidad técnica pura, facilitando la consolidación de puestos ya ocupados de facto.",
+    "resumen_ciudadano": "El Ayuntamiento de Alcorcón convoca una plaza de Técnico Superior exclusiva para personas que ya trabajan en la administración local. No se permite la participación de ciudadanos externos, limitando la competitividad y la renovación del funcionariado.",
+    "resumen_tweet": "🚨 ¿Promoción o exclusión? Alcorcón lanza una plaza de Técnico Superior solo para 'los de dentro'. El sistema de concurso-oposición dificulta la entrada de nuevo talento. 🏛️💼 #BOE #Opacidad #Transparencia #Alcorcón",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única",
+      "Acceso restringido a promoción interna",
+      "Sistema de concurso-oposición que pondera méritos sobre examen",
+      "Remisión a bases en boletín autonómico para detalles críticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno del Ayuntamiento de Alcorcón",
+        "Sindicatos con acuerdos de promoción interna"
+      ],
+      "perdedores": [
+        "Opositores externos cualificados",
+        "Ciudadanos en busca de primer empleo público",
+        "Principio de igualdad y concurrencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Convocatoria de plaza única",
+      "Acceso restringido a promoción interna",
+      "Sistema de concurso-oposición que pondera méritos sobre examen",
+      "Remisión a bases en boletín autonómico para detalles críticos"
+    ]
+  },
+  "tweeted": false
+}
