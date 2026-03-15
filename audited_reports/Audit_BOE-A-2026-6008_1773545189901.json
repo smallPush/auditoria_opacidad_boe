@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6008",
+  "timestamp": "2026-03-15T03:26:29.901Z",
+  "title": "Acuerdo de 2 de diciembre de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María Begoña Rodríguez Álvarez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa por edad de una alta magistrada. Aunque el procedimiento es transparente y legal, el texto oculta el impacto económico real de los 'derechos pasivos' (pensiones de alta cuantía) que se activan. No se menciona la plaza vacante ni el proceso de sucesión, lo que perpetúa la opacidad en la renovación de las cúpulas judiciales.",
+    "resumen_ciudadano": "La Magistrada Presidenta de la Sala de lo Social del Tribunal Superior de Justicia de Andalucía se jubila por cumplir la edad legal, pasando a cobrar su pensión del régimen de Clases Pasivas del Estado.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial: la Magistrada Presidenta del TSJ de Andalucía deja su cargo por edad. Un retiro blindado por el régimen de clases pasivas mientras la renovación judicial sigue su curso lento. #BOE #Opacidad #Transparencia #Justicia 🏛️💰",
+    "banderas_red_flags": [
+      "Cálculo de derechos pasivos no especificado",
+      "Falta de información sobre la convocatoria de la vacante",
+      "Automatismo administrativo en puestos de alta influencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La Magistrada jubilada (acceso a pensión máxima del Estado)",
+        "Posibles candidatos a la presidencia de la Sala de lo Social"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento de pensiones de alta escala)",
+        "Sistema judicial (pérdida de experiencia sin relevo generacional inmediato especificado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Personal Judicial / Jubilaciones",
+    "banderas_rojas": [
+      "Cálculo de derechos pasivos no especificado",
+      "Falta de información sobre la convocatoria de la vacante",
+      "Automatismo administrativo en puestos de alta influencia"
+    ]
+  },
+  "tweeted": false
+}
