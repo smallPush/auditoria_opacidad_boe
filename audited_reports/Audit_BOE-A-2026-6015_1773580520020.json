@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6015",
+  "timestamp": "2026-03-15T13:15:20.020Z",
+  "title": "Resolución de 5 de marzo de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de funcionarios de carrera (PDI). Aunque se cita la base legal (LOSU 2/2023), existe una opacidad intrínseca en cuanto al impacto presupuestario a largo plazo que suponen estos puestos vitalicios. No se detalla la cuantía salarial ni los complementos específicos que percibirán los nombrados, manteniendo la tradición de considerar el gasto público en personal como un dato 'implícito' pero no desglosado para el ciudadano.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha oficializado el nombramiento de cinco nuevos Profesores Titulares en las áreas de Genética, Historia, Química Física y Composición Arquitectónica. Estas personas pasan a ser personal funcionario de carrera tras superar los concursos correspondientes.",
+    "resumen_tweet": "📢 La Univ. de Sevilla suma 5 nuevos Profesores Titulares 🎓. Aunque cumple la legalidad, el #BOE oculta el coste salarial real y el impacto presupuestario de estos cargos vitalicios. ¿Transparencia o trámite? 🤔🏛️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de transparencia en los méritos finales comparados en el anuncio",
+      "Consolidación de gasto público estructural sin auditoría de desempeño visible"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maikel Castellano Pozo",
+        "Diego Belmonte Fernández",
+        "Julia Álvarez Malmagro",
+        "Plácido González Martínez",
+        "María López de Asiain Alberich",
+        "Universidad de Sevilla (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores postdoctorales en precario (limitación de plazas)",
+        "Contribuyentes (falta de claridad en el destino exacto de fondos de personal)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Funcionarios / Educación Superior",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de transparencia en los méritos finales comparados en el anuncio",
+      "Consolidación de gasto público estructural sin auditoría de desempeño visible"
+    ]
+  },
+  "tweeted": false
+}
