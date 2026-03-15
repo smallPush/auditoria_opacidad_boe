@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-6010",
+  "timestamp": "2026-03-15T03:27:56.564Z",
+  "title": "Orden EFD/209/2026, de 17 de febrero, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad Autónoma de Andalucía, en ejecución de sentencia, se nombra personal funcionario de carrera, a personas seleccionadas en los procedimientos selectivos convocados por Orden de 30 de noviembre de 2020.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela una patología común en la Administración Pública: la judicialización de los procesos selectivos. Tres ciudadanos (Demetrio, Hernán y María del Mar) han tenido que recurrir al Tribunal Superior de Justicia de Andalucía para que se reconozcan sus derechos derivados de una convocatoria de 2020. Aunque el BOE es explícito en los nombres y sentencias, omite el coste económico que estas dilaciones suponen para el erario público en concepto de costas judiciales y posibles intereses de demora, ya que los efectos se retrotraen a septiembre de 2022.",
+    "resumen_ciudadano": "Nombramiento de tres profesores de Educación Secundaria en Andalucía como funcionarios de carrera, tras ganar sentencias judiciales contra la Consejería de Desarrollo Educativo. Los afectados obtienen su plaza con efectos retroactivos a 2022, tras un proceso que comenzó originalmente en 2020.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 6 años! El #BOE nombra a 3 profesores en Andalucía tras ganar en los tribunales. ¿Por qué obliga la Administración a ir a juicio para obtener una plaza ganada en 2020? Más eficiencia, menos #Opacidad. #Transparencia 🏫",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial",
+      "Dilación administrativa de 6 años",
+      "Retroactividad de efectos económicos y administrativos",
+      "Fallo en los criterios iniciales de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Demetrio Jiménez Corrochano",
+        "Hernán Cortés Rodríguez",
+        "María del Mar García Guevara",
+        "Despachos de abogados especialistas en derecho administrativo"
+      ],
+      "perdedores": [
+        "Contribuyentes (costes procesales)",
+        "Eficiencia de la Junta de Andalucía",
+        "Seguridad jurídica de los procesos selectivos"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento por Sentencia Judicial",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial",
+      "Dilación administrativa de 6 años",
+      "Retroactividad de efectos económicos y administrativos",
+      "Fallo en los criterios iniciales de selección"
+    ]
+  },
+  "tweeted": false
+}
