@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6017",
+  "timestamp": "2026-03-15T13:16:07.539Z",
+  "title": "Resolución de 5 de marzo de 2026, del Ayuntamiento de Villaescusa (Cantabria), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La convocatoria de una plaza de 'Auxiliar de Alcaldía' mediante el sistema de concurso, prescindiendo de la oposición (examen), es una técnica recurrente para la consolidación de personal interino o la adjudicación de plazas a perfiles ya conocidos por la administración local. Al tratarse de un puesto adscrito directamente al entorno del Alcalde bajo la escala de Administración General, el uso exclusivo de méritos en lugar de pruebas objetivas de capacidad reduce la competitividad y la igualdad de oportunidades. La opacidad se ve agravada por la remisión a un boletín autonómico, dificultando el escrutinio público nacional sobre los criterios de valoración exactos.",
+    "resumen_ciudadano": "El Ayuntamiento de Villaescusa ha convocado una plaza de auxiliar para trabajar directamente con la alcaldía. Lo hará mediante concurso, lo que significa que se valorará la experiencia previa y méritos en lugar de un examen ciego. Esto suele favorecer a personas que ya están trabajando en ese ayuntamiento o que tienen vínculos previos, cerrando la puerta a nuevos candidatos externos.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Villaescusa convoca plaza de 'Auxiliar de Alcaldía' solo por méritos (concurso), sin examen. ¿Oportunidad real o plaza con nombre y apellidos? La transparencia se diluye en bases locales. 🧐📉 #Opacidad #Cantabria #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de fase de oposición o examen",
+      "Puesto de confianza política bajo estructura administrativa general",
+      "Acceso limitado por valoración subjetiva de méritos previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el municipio",
+        "Candidatos con afinidad al equipo de gobierno actual"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa",
+        "Jóvenes graduados",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Ausencia de fase de oposición o examen",
+      "Puesto de confianza política bajo estructura administrativa general",
+      "Acceso limitado por valoración subjetiva de méritos previos"
+    ]
+  },
+  "tweeted": false
+}
