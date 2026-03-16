@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6104",
+  "timestamp": "2026-03-16T13:53:05.784Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 23 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para un puesto de nivel 16 (Secretaría de Subdelegado) evidencia la persistencia de mecanismos de confianza personal sobre la meritocracia técnica pura. Aunque legal, este método permite la discrecionalidad total en la elección, ocultando los motivos específicos por los que se elige a una persona frente a otros candidatos internos, lo cual choca con la narrativa de modernización y transparencia administrativa.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de confianza en la Subdelegación del Gobierno en Granada a una funcionaria del grupo C1. La elección no se basa en un examen o concurso de méritos abierto, sino en la decisión directa del cargo superior, lo cual es habitual para puestos de secretaría pero reduce la igualdad de oportunidades.",
+    "resumen_tweet": "⚠️ Nueva adjudicación a dedo en el #BOE. Se resuelve un puesto de 'Libre Designación' en la Subdelegación de Granada. ¿Confianza o mérito? La administración sigue usando procesos discretos para puestos clave. 🕵️‍♂️ #Opacidad #Transparencia #Andalucia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Falta de publicación de baremos de puntuación",
+      "Resolución parcial que fragmenta la información de la convocatoria original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sánchez Fernández, Ana María",
+        "Subdelegación del Gobierno en Granada (cubre su estructura de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran a promoción por concurso de méritos objetivo",
+        "Ciudadanía (por la opacidad en los criterios de idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de personal / Discrecionalidad Administrativa",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Falta de publicación de baremos de puntuación",
+      "Resolución parcial que fragmenta la información de la convocatoria original"
+    ]
+  },
+  "tweeted": false
+}
