@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6092",
+  "timestamp": "2026-03-16T13:16:12.201Z",
+  "title": "Corrección de errores del Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Estamos ante una corrección de errores de un Real Decreto-ley (RDL), instrumento que por definición exige 'extraordinaria y urgente necesidad'. El hecho de que se publiquen erratas en fechas fundamentales de leyes y sentencias del Tribunal Constitucional (confundiendo octubre con diciembre) revela una técnica legislativa apresurada y descuidada. Aunque el texto corrige aspectos formales, la sombra de la opacidad reside en la gestión de las partidas fiscales (IRPF, Sociedades, Patrimonio) asociadas a la Memoria Democrática, que se tramitan mediante parches legales en lugar de debates parlamentarios sosegados.",
+    "resumen_ciudadano": "El Gobierno corrige errores de redacción y fechas en el decreto que regula las indemnizaciones y ayudas para las víctimas de la Guerra Civil y la dictadura. Se habían equivocado al citar la fecha de la propia Ley de Memoria Democrática y de una sentencia del Tribunal Constitucional, lo cual podía generar confusión jurídica al reclamar ayudas.",
+    "resumen_tweet": "🧐 Nueva corrección de errores en el #BOE sobre Memoria Democrática. Erratas en fechas de leyes y sentencias del TC. ¿Legislar con prisas afecta a la seguridad jurídica? Parches para un tema de gran impacto social y fiscal. 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Pobre técnica legislativa en instrumentos de urgencia",
+      "Inseguridad jurídica por citación errónea de sentencias del TC",
+      "Opacidad en el impacto fiscal real de las indemnizaciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beneficiarios de indemnizaciones (al aclararse el marco legal)",
+        "Administración Pública (al evitar recursos por errores de forma)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el coste de la ineficiencia legislativa)",
+        "Rigor institucional (al evidenciarse falta de revisión en textos de rango de Ley)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Memoria Democrática y Fiscalidad",
+    "banderas_rojas": [
+      "Pobre técnica legislativa en instrumentos de urgencia",
+      "Inseguridad jurídica por citación errónea de sentencias del TC",
+      "Opacidad en el impacto fiscal real de las indemnizaciones"
+    ]
+  },
+  "tweeted": false
+}
