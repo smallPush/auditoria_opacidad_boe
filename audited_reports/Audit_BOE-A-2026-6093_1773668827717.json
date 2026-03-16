@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6093",
+  "timestamp": "2026-03-16T13:47:07.717Z",
+  "title": "Resolución de 5 de marzo de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una estructura técnica que oculta tras fórmulas matemáticas la vulnerabilidad del consumidor final ante la volatilidad internacional. Aunque desglosa cotizaciones de propano, butano y fletes, el sistema de 'actualización automática' actúa como una correa de transmisión que traslada el riesgo del mercado y del tipo de cambio euro/dólar directamente al ciudadano, sin mecanismos de compensación social visibles en esta resolución.",
+    "resumen_ciudadano": "El Gobierno actualiza el precio del gas por tubería (GLP). A partir del 17 de marzo de 2026, el coste fijo será de 1,58 euros al mes y el variable de unos 82,7 céntimos por kilo, a lo que habrá que sumar el IVA u otros impuestos regionales. Estos precios se calculan según lo que cuestan el gas y el transporte en el mercado internacional.",
+    "resumen_tweet": "⛽️ Nueva subida/ajuste del gas por canalización en el #BOE. Los precios siguen atados al dólar y al mercado internacional. El consumidor paga la volatilidad mientras las fórmulas de 2008 siguen vigentes. 📉 #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Indexación directa a mercados internacionales sin amortiguadores",
+      "Dependencia de tipos de cambio de moneda extranjera (USD/EUR)",
+      "Aplicación de fórmulas de costes de comercialización del año 2008",
+      "Falta de mención a medidas para consumidores vulnerables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de fletes internacionales",
+        "Grandes distribuidoras de GLP (aseguran el cobro de costes de comercialización)"
+      ],
+      "perdedores": [
+        "Consumidores cautivos de zonas rurales o edificios antiguos",
+        "Hogares con calefacción de GLP frente a la inflación energética"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios Energéticos",
+    "banderas_rojas": [
+      "Indexación directa a mercados internacionales sin amortiguadores",
+      "Dependencia de tipos de cambio de moneda extranjera (USD/EUR)",
+      "Aplicación de fórmulas de costes de comercialización del año 2008",
+      "Falta de mención a medidas para consumidores vulnerables"
+    ]
+  },
+  "tweeted": false
+}
