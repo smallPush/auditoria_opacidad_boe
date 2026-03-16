@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6094",
+  "timestamp": "2026-03-16T13:45:54.862Z",
+  "title": "Resolución de 5 de marzo de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolución presenta una estructura técnica que oculta una realidad económica preocupante: el 'coste de comercialización' (61,44 cts.€/kg) es significativamente superior al coste de la propia materia prima (44,35 cts.€/kg). Esto indica que el consumidor paga más por la logística y el margen de las empresas que por el gas en sí. Además, el sistema de 'desajustes' actúa como un mecanismo de amortiguación que protege los ingresos de las operadoras, permitiéndoles recuperar diferencias de precios en periodos futuros, lo que garantiza su rentabilidad a costa de la previsibilidad del ciudadano. La inclusión del coste del Fondo Nacional de Eficiencia Energética (FNEE) directamente en la fórmula traslada una obligación corporativa/estatal al bolsillo del usuario final de forma opaca.",
+    "resumen_ciudadano": "El Gobierno ha actualizado el precio de la bombona de butano. A partir del 17 de marzo de 2026, el precio se fija en base a una fórmula que suma el coste internacional del gas, el transporte y, sobre todo, los costes de gestión de las empresas gasistas. Se incluye además un pequeño cargo extra para financiar fondos de eficiencia energética. El precio final que pagas está diseñado para que las empresas no pierdan dinero si los precios internacionales suben de golpe, permitiéndoles cobrarte la diferencia más adelante.",
+    "resumen_tweet": "🔥 Sube el precio del #Butano. El 'coste de comercialización' (61 cts) ya supera al de la materia prima (44 cts). Los ciudadanos pagan de su bolsillo el Fondo de Eficiencia Energética en cada bombona. ¿Transparencia o blindaje corporativo? 🧐📉 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Coste de comercialización superior al coste de materia prima",
+      "Mecanismo de recuperación de desajustes que favorece la estabilidad de ingresos de la industria",
+      "Externalización del coste del FNEE al consumidor final",
+      "Complejidad algorítmica que impide el cálculo directo por un ciudadano medio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes operadores de GLP (garantía de cobertura de costes de comercialización)",
+        "Estado (recaudación para el Fondo Nacional de Eficiencia Energética)"
+      ],
+      "perdedores": [
+        "Hogares vulnerables (usuarios intensivos de butano)",
+        "Población rural sin acceso a gas canalizado",
+        "Clase trabajadora afectada por la inflación energética"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de precios de energía",
+    "banderas_rojas": [
+      "Coste de comercialización superior al coste de materia prima",
+      "Mecanismo de recuperación de desajustes que favorece la estabilidad de ingresos de la industria",
+      "Externalización del coste del FNEE al consumidor final",
+      "Complejidad algorítmica que impide el cálculo directo por un ciudadano medio"
+    ]
+  },
+  "tweeted": false
+}
