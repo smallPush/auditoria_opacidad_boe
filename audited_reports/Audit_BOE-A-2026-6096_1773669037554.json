@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6096",
+  "timestamp": "2026-03-16T13:50:37.554Z",
+  "title": "Real Decreto 210/2026, de 11 de marzo, por el que se nombra Presidente del Tribunal de Instancia de Granada al Magistrado don Alberto Manuel del Águila Alarcón.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto formaliza el nombramiento de un alto cargo judicial en Granada basándose en una elección interna de la Junta de Jueces. Este mecanismo, aunque legal, refuerza el sistema de cooptación donde la judicatura se autorregula sin criterios de mérito o capacidad expuestos públicamente en el texto. La transición hacia el 'Tribunal de Instancia' indica un cambio estructural en la organización judicial que busca centralizar el gobierno de los juzgados, otorgando poder administrativo a figuras elegidas por sus pares, lo que puede limitar la fiscalización externa.",
+    "resumen_ciudadano": "Don Alberto Manuel del Águila Alarcón ha sido nombrado Presidente del nuevo Tribunal de Instancia de Granada. Esta decisión se tomó tras una votación interna de los jueces de la ciudad celebrada en diciembre de 2025 y ha sido ratificada ahora por el Gobierno y el Rey. Básicamente, se ha elegido al 'jefe de jueces' de la zona mediante un proceso de democracia interna del propio sector judicial.",
+    "resumen_tweet": "⚖️ Nuevo mando en la justicia de Granada: Alberto Manuel del Águila presidirá el Tribunal de Instancia. El #BOE oficializa una elección realizada por los propios jueces en 2025. Corporativismo vs. Transparencia. #Opacidad #Justicia #Granada",
+    "banderas_red_flags": [
+      "Sistema de elección por cooptación interna",
+      "Ausencia de comparativa de méritos en el texto público",
+      "Demora de tres meses entre la elección y el nombramiento oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alberto Manuel del Águila Alarcón (ascenso jerárquico)",
+        "Cúpula del CGPJ (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Transparencia en procesos selectivos (no hay exposición de motivos)",
+        "Sociedad civil (excluida de la vigilancia en la organización de la justicia)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Sistema de elección por cooptación interna",
+      "Ausencia de comparativa de méritos en el texto público",
+      "Demora de tres meses entre la elección y el nombramiento oficial"
+    ]
+  },
+  "tweeted": false
+}
