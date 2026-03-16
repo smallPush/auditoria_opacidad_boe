@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6098",
+  "timestamp": "2026-03-16T13:48:47.624Z",
+  "title": "Real Decreto 209/2026, de 11 de marzo, por el que se adjudica en propiedad la plaza de Magistrado de la Sala de lo Social del Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla, con sede en Sevilla, a don Rafael Fernández López.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento discrecional de la Comisión Permanente del CGPJ bajo el amparo de la Ley Orgánica del Poder Judicial. El texto carece de una motivación técnica detallada sobre la idoneidad del candidato frente a otros aspirantes. Se observa la sustitución de una magistrada por un magistrado, lo cual impacta negativamente en la paridad de los altos tribunales regionales. La falta de acceso directo a los baremos de puntuación en el extracto del BOE perpetúa la percepción de una 'caja negra' en la selección de la cúpula judicial.",
+    "resumen_ciudadano": "El Gobierno oficializa el nombramiento de Rafael Fernández López como magistrado titular en el Tribunal Superior de Justicia de Andalucía (Sevilla). Este cargo es vitalicio ('en propiedad') y se produce tras la salida de la anterior magistrada, María Elena Díaz Alonso.",
+    "resumen_tweet": "⚖️ Nuevo magistrado en el TSJ de Andalucía. Rafael Fernández López ocupa la plaza de una mujer en la Sala de lo Social. El acuerdo del CGPJ no detalla méritos ni puntuaciones. ¿Transparencia o burocracia opaca? 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la baremación de méritos",
+      "Sustitución de una mujer por un hombre en puesto de alta dirección judicial",
+      "Uso de acuerdos de Comisión Permanente sin desglose de votación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Fernández López",
+        "Consejo General del Poder Judicial (ejercicio de poder discrecional)"
+      ],
+      "perdedores": [
+        "Representación femenina en la justicia",
+        "Ciudadanía (por falta de información sobre méritos competitivos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Opacidad en la baremación de méritos",
+      "Sustitución de una mujer por un hombre en puesto de alta dirección judicial",
+      "Uso de acuerdos de Comisión Permanente sin desglose de votación"
+    ]
+  },
+  "tweeted": false
+}
