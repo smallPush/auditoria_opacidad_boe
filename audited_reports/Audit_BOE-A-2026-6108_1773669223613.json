@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-6108",
+  "timestamp": "2026-03-16T13:53:43.613Z",
+  "title": "Resolución de 9 de marzo de 2026, de la Universidad Nacional de Educación a Distancia, por la que se corrigen errores en la de 13 de febrero de 2026, por la que se resuelve el concurso convocado por Resolución de 22 de mayo de 2025.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Se observa una corrección técnica de un error material en la adjudicación de una plaza de Jefatura de Negociado de Contratación. Aunque el acto es meramente administrativo, subraya la lentitud del proceso: la convocatoria se remonta a mayo de 2025 y se resuelve en 2026, evidenciando una maquinaria burocrática pesada donde errores básicos en apellidos requieren publicaciones oficiales adicionales. No hay gastos fantasma directos, pero sí un coste de oportunidad y recursos en la gestión de errores menores.",
+    "resumen_ciudadano": "La UNED corrige oficialmente el apellido de una empleada (de Jiménez a Giménez) en la resolución de un concurso de plazas iniciado hace casi un año. Es un trámite burocrático para validar legalmente un nombramiento en el área de contratación.",
+    "resumen_tweet": "🧐 Nueva corrección en el #BOE. Casi un año después de convocar la plaza, la #UNED rectifica un apellido. Burocracia lenta para un puesto clave en gestión de contratación. ¿Eficiencia o parcheo? 🏛️⚖️ #Transparencia #Opacidad #GestiónPública",
+    "banderas_red_flags": [
+      "Dilación administrativa excesiva (proceso de mayo 2025 a marzo 2026)",
+      "Consumo de recursos oficiales para subsanación de errores materiales básicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Giménez Gómez, María Montserrat (obtiene seguridad jurídica en su plaza)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (retrasos acumulados)",
+        "Ciudadanía (coste indirecto de la burocracia correctiva)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Dilación administrativa excesiva (proceso de mayo 2025 a marzo 2026)",
+      "Consumo de recursos oficiales para subsanación de errores materiales básicos"
+    ]
+  },
+  "tweeted": false
+}
