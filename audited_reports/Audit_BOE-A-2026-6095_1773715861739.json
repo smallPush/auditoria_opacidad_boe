@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6095",
+  "timestamp": "2026-03-17T02:51:01.739Z",
+  "title": "Resolución ISP/300/2026, de 6 de febrero, por la que se establecen restricciones a la circulación durante el año 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura técnica sólida pero adolece de una dependencia excesiva de anexos externos y herramientas digitales ('calculador ximp.gencat.cat') que dificultan la consulta inmediata del ciudadano sin acceso a internet o competencias digitales. Aunque se justifica en la seguridad vial, existe una clara priorización de la movilidad turística sobre la logística industrial, obligando al transporte de mercancías de paso a utilizar vías de pago (AP-7) y desplazando el tráfico pesado a horarios nocturnos o vísperas, lo que impacta en la conciliación y fatiga de los conductores.",
+    "resumen_ciudadano": "Se establecen las normas de circulación para 2026 en Cataluña, prohibiendo el paso de camiones de más de 7,5 toneladas en fechas clave (festivos, domingos y puentes) y rutas específicas hacia Francia o el Valle de Arán. También se regula quién puede usar los carriles Bus-VAO, dando preferencia a coches eléctricos o con varios ocupantes, y se faculta a los Mossos para inmovilizar vehículos que incumplan estas restricciones por seguridad.",
+    "resumen_tweet": "🚨 ¡Ojo transportistas! El #BOE publica restricciones 2026 en Cataluña 🚛. Camiones obligados a ir por autopistas y vetados en rutas turísticas como el Valle de Arán en festivos. Prioridad a etiquetas ECO en VAO. #Opacidad #Transparencia #Tráfico",
+    "banderas_red_flags": [
+      "Opacidad en las 'exenciones individuales' (autorizaciones especiales) concedidas de forma discrecional.",
+      "Obligación indirecta de uso de autopistas de peaje para vehículos en tránsito.",
+      "Ambigüedad en la definición de 'programación administrativa de origen municipal' para excepciones.",
+      "Dependencia de una herramienta web externa para determinar las rutas obligatorias de mercancías peligrosas."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Turistas de fin de semana y esquí (Valle de Arán)",
+        "Propietarios de vehículos con etiqueta ECO o 0",
+        "Concesionarias de autopistas (por desvío obligatorio de camiones)"
+      ],
+      "perdedores": [
+        "Sector del transporte de mercancías (mayor coste logístico y restricciones horarias)",
+        "Conductores de vehículos antiguos (excluidos de carriles rápidos)",
+        "Poblaciones en rutas alternativas que pueden absorber tráfico desviado"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Regulación de Tráfico y Movilidad",
+    "banderas_rojas": [
+      "Opacidad en las 'exenciones individuales' (autorizaciones especiales) concedidas de forma discrecional.",
+      "Obligación indirecta de uso de autopistas de peaje para vehículos en tránsito.",
+      "Ambigüedad en la definición de 'programación administrativa de origen municipal' para excepciones.",
+      "Dependencia de una herramienta web externa para determinar las rutas obligatorias de mercancías peligrosas."
+    ]
+  },
+  "tweeted": false
+}
