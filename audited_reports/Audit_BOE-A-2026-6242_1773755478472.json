@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6242",
+  "timestamp": "2026-03-17T13:51:18.472Z",
+  "title": "Resolución de 11 de marzo de 2026, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional de cargos bajo el paraguas de la 'confianza'. Al ser un puesto de nivel 28 con un complemento específico de casi 20.000 euros, la falta de criterios de evaluación objetivos y ponderados convierte el proceso en un espacio de opacidad. La mención a la 'entrevista personal' como herramienta de valoración refuerza la subjetividad frente al mérito y capacidad técnicos.",
+    "resumen_ciudadano": "El Ministerio de Justicia busca un Gerente para su oficina en Santa Cruz de Tenerife. El elegido cobrará un plus de 19.667,48 euros al año además de su sueldo base. El problema es que el sistema de elección no es un examen objetivo, sino que el Ministerio decide a quién poner según su propio criterio tras una entrevista.",
+    "resumen_tweet": "🚩 ¡Alerta de dedazo legal! El Ministerio de Justicia busca Gerente en Tenerife (Nivel 28). Sistema: Libre Designación (a dedo ☝️). Plus de 19.667€. ¿Mérito o confianza? La opacidad sigue reinando. #BOE #Opacidad #Transparencia #Justicia ⚖️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Valoración basada en entrevista personal subjetiva",
+      "Alta remuneración por complementos sin baremo público",
+      "Falta de desglose de funciones críticas para el puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con conexiones políticas o de confianza",
+        "Estructuras de mando del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Ciudadanía (que sufraga puestos de alta dirección sin competencia abierta)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Valoración basada en entrevista personal subjetiva",
+      "Alta remuneración por complementos sin baremo público",
+      "Falta de desglose de funciones críticas para el puesto"
+    ]
+  },
+  "tweeted": false
+}
