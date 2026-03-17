@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6235",
+  "timestamp": "2026-03-17T13:49:20.082Z",
+  "title": "Resolución de 9 de marzo de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 29 de octubre de 2025, en el Instituto Nacional de Seguridad y Salud en el Trabajo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa un fenómeno de 'movilidad estática'. De las 13 adjudicaciones detalladas en el anexo, 10 puestos (77%) han sido otorgados a los mismos funcionarios que ya los ocupaban en comisión de servicios o de forma provisional (mismo puesto de cese y de adjudicación). Este tipo de 'concursos específicos' suelen ser meros trámites administrativos para regularizar situaciones preexistentes, limitando la competencia real y el acceso de nuevo talento a puestos de alta responsabilidad (Niveles 22-28).",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha formalizado la adjudicación de puestos técnicos en el Instituto Nacional de Seguridad y Salud en el Trabajo. Aunque parece una renovación de personal, la realidad es que la mayoría de los trabajadores se quedan exactamente donde estaban. Solo hay un caso de cambio de ministerio y una promoción interna clara. Una plaza técnica en Barcelona ha quedado vacante por falta de candidatos idóneos.",
+    "resumen_tweet": "🕵️‍♂️ ¿Concurso real o trámite? El 77% de las plazas del #INSST se adjudican a quienes ya las ocupaban. La administración se mueve para quedarse igual. 📉 Transparencia justa en el empleo público. #BOE #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Endogamia administrativa: Adjudicaciones masivas a ocupantes actuales",
+      "Plaza técnica desierta en Barcelona (I/6)",
+      "Baja movilidad interministerial: Solo 1 de 13 adjudicados proviene de otro ministerio",
+      "Uso del concurso específico para consolidar estructuras previas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de niveles A1 y A2 ya asentados en el INSST",
+        "Estructura burocrática del Ministerio de Trabajo (estabilidad interna)"
+      ],
+      "perdedores": [
+        "Candidatos externos con esperanza de movilidad real",
+        "Eficiencia administrativa (poca renovación de perfiles)",
+        "Ciudadanía (opacidad sobre los méritos reales evaluados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Endogamia administrativa: Adjudicaciones masivas a ocupantes actuales",
+      "Plaza técnica desierta en Barcelona (I/6)",
+      "Baja movilidad interministerial: Solo 1 de 13 adjudicados proviene de otro ministerio",
+      "Uso del concurso específico para consolidar estructuras previas"
+    ]
+  },
+  "tweeted": false
+}
