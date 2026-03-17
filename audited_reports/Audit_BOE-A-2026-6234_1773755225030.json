@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6234",
+  "timestamp": "2026-03-17T13:47:05.030Z",
+  "title": "Orden EFD/220/2026, de 10 de marzo, por la que, a propuesta de la Consejería de Educación y Formación Profesional de la Comunidad Autónoma de la Región de Murcia, en ejecución de sentencia, se modifica la puntuación obtenida por don Bienvenido Carrillo Amat, en la Orden EFP/204/2021, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo de ejecución de sentencia judicial tras un proceso de litigio contencioso-administrativo que se remonta a 2019. Aunque el texto es técnicamente transparente, revela una disfunción sistémica: un ciudadano ha necesitado 7 años y llegar al Tribunal Superior de Justicia de Murcia para que se le reconozcan 0,4 puntos adicionales en su oposición. No se detectan gastos fantasma, pero sí una ineficacia burocrática que obliga a la vía judicial para correcciones menores de baremación.",
+    "resumen_ciudadano": "El Ministerio de Educación corrige la nota de oposición de Don Bienvenido Carrillo Amat (especialidad Pedagogía Terapéutica) tras una sentencia judicial. Su puntuación pasa de 7,0195 a 7,4195 puntos, reubicándolo en el escalafón de funcionarios de la Región de Murcia del proceso selectivo convocado originalmente en 2019.",
+    "resumen_tweet": "⚖️ ¡7 años para corregir 0,4 puntos! El #BOE publica la ejecución de sentencia que devuelve a un maestro de Murcia su nota real de las oposiciones de 2019. La justicia llega, pero la lentitud administrativa es alarmante. 🐢 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación excesiva: proceso de 2019 resuelto en 2026",
+      "Judicialización de la baremación educativa",
+      "Coste de oportunidad para el afectado durante 7 años"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Bienvenido Carrillo Amat (recupera su posición legítima)",
+        "Seguridad jurídica (por cumplimiento de sentencia)"
+      ],
+      "perdedores": [
+        "Administración Pública (por error original y demora)",
+        "Otros aspirantes (desplazados levemente en el escalafón relativo)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Ejecución de Sentencia / Función Pública",
+    "banderas_rojas": [
+      "Dilación excesiva: proceso de 2019 resuelto en 2026",
+      "Judicialización de la baremación educativa",
+      "Coste de oportunidad para el afectado durante 7 años"
+    ]
+  },
+  "tweeted": false
+}
