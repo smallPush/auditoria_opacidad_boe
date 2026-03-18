@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6307",
+  "timestamp": "2026-03-18T13:16:14.811Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 2 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 25,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de Nivel 30 (el máximo en la administración general) y Nivel 28 en el Gabinete de la Secretaría de Estado para la UE representa una zona gris de discrecionalidad política bajo apariencia técnica. Resulta llamativo que ambos adjudicatarios procedan del Cuerpo Superior de Inspectores de Trabajo y ya estuvieran prestando servicios en el mismo centro directivo y con el mismo nivel, lo que sugiere una formalización de puestos ya ocupados ('adjudicaciones a medida') en lugar de una búsqueda competitiva de talento.",
+    "resumen_ciudadano": "Se han asignado 'a dedo' (libre designación) dos puestos de alta dirección en el Ministerio de Asuntos Exteriores. Estos puestos, que manejan presupuestos y asesoría técnica de alto nivel, han recaído en personas que ya trabajaban en ese mismo departamento, consolidando a la élite administrativa en los niveles salariales más altos (Nivel 30 y 28).",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en Exteriores. Se adjudican puestos de Nivel 30 y 28 por libre designación. Los elegidos ya estaban en el mismo departamento. ¿Transparencia o consolidación de élites? 🏛️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad total)",
+      "Nivel máximo de la escala funcionarial (30)",
+      "Endogamia administrativa: los adjudicatarios ya ocupaban el mismo centro de destino",
+      "Falta de criterios de mérito detallados en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Inspectores de Trabajo",
+        "M. Jose de la Llave Calero (Vocal Asesora Nivel 30)",
+        "Antonio Juan Galán Martín (Consejero Técnico Nivel 28)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios que no pertenecen al círculo de confianza",
+        "Ciudadanía (por la opacidad en la selección de gestores de fondos públicos)",
+        "Sistema de mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad total)",
+      "Nivel máximo de la escala funcionarial (30)",
+      "Endogamia administrativa: los adjudicatarios ya ocupaban el mismo centro de destino",
+      "Falta de criterios de mérito detallados en la resolución"
+    ]
+  },
+  "tweeted": false
+}
