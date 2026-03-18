@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6323",
+  "timestamp": "2026-03-18T13:53:31.510Z",
+  "title": "Real Decreto 232/2026, de 17 de marzo, por el que se nombra Fiscal Superior de la Fiscalía de la Comunidad Autónoma de Castilla y León a don Santiago Mena Cerdá.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 232/2026 formaliza el nombramiento de Santiago Mena Cerdá como Fiscal Superior de Castilla y León. Aunque cumple con la legalidad formal, el proceso subraya la jerarquía piramidal de la Fiscalía española: una propuesta del Ministro, visada por la Fiscal General (nombrada por el Ejecutivo) y deliberada en Consejo de Ministros. Esta estructura alimenta la percepción de control político sobre la cúpula fiscal, ya que el BOE no expone los méritos comparativos ni las razones técnicas de la elección frente a otros candidatos.",
+    "resumen_ciudadano": "Se ha designado al nuevo jefe de los fiscales de Castilla y León. Es una posición de poder judicial clave, pero su nombramiento depende directamente de la confianza del Gobierno y de la Fiscal General del Estado, lo que plantea dudas sobre la separación real de funciones.",
+    "resumen_tweet": "⚖️ Santiago Mena Cerdá, nuevo Fiscal Superior de Castilla y León. Un cargo vital designado bajo el control directo del Gobierno. ¿Independencia o jerarquía? La sombra del 'dedazo' persiste en la justicia. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Dependencia directa del Ejecutivo",
+      "Opacidad en los criterios de mérito y capacidad",
+      "Concentración de poder en la Fiscalía General",
+      "Procedimiento de libre designación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago Mena Cerdá (promoción)",
+        "Ministerio de Justicia (control de nombramientos)",
+        "Fiscalía General del Estado"
+      ],
+      "perdedores": [
+        "Independencia judicial percibida",
+        "Candidatos externos sin respaldo político",
+        "Sociedad civil (por falta de transparencia meritocrática)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Dependencia directa del Ejecutivo",
+      "Opacidad en los criterios de mérito y capacidad",
+      "Concentración de poder en la Fiscalía General",
+      "Procedimiento de libre designación"
+    ]
+  },
+  "tweeted": false
+}
