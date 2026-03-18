@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6311",
+  "timestamp": "2026-03-18T13:49:47.389Z",
+  "title": "Real Decreto 218/2026, de 17 de marzo, por el que se nombra Fiscal de Sala Jefa de la Fiscalía del Tribunal Supremo (Sección Penal) a doña Ana Isabel García León.",
+  "report": {
+    "nivel_transparencia": 0.65,
+    "analisis_critico": "El Real Decreto 218/2026 formaliza el nombramiento de una figura clave en la cúspide penal del Tribunal Supremo. Aunque cumple con la legalidad vigente (Estatuto Orgánico del Ministerio Fiscal), el proceso de designación bajo propuesta directa de la Fiscal General del Estado y deliberación del Consejo de Ministros resalta la interdependencia entre el Poder Ejecutivo y la cúpula judicial, un punto crítico para la percepción de independencia. No se detallan los méritos específicos ni la comparativa con otros candidatos en el texto publicado, manteniendo la opacidad sobre los criterios de idoneidad técnica frente a la confianza política.",
+    "resumen_ciudadano": "Se ha nombrado a doña Ana Isabel García León como nueva Fiscal de Sala Jefa de la Sección Penal del Tribunal Supremo. Este cargo es uno de los más influyentes en la justicia española, ya que supervisa los procesos penales de mayor relevancia nacional. La decisión ha sido tomada por el Gobierno a propuesta de la Fiscalía General.",
+    "resumen_tweet": "⚖️ Nuevo movimiento en la cúpula judicial: Nombrada la Fiscal de Sala Jefa de lo Penal del Tribunal Supremo. El Ejecutivo mantiene su peso en las designaciones clave de la justicia. ¿Garantiza esto la independencia? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Designación por confianza política",
+      "Ausencia de exposición de méritos en el decreto",
+      "Posible endogamia en la élite judicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel García León",
+        "Ministerio de Justicia",
+        "Estructura jerárquica de la Fiscalía General"
+      ],
+      "perdedores": [
+        "Percepción ciudadana de independencia judicial",
+        "Transparencia en procesos de selección meritocrática"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Designación por confianza política",
+      "Ausencia de exposición de méritos en el decreto",
+      "Posible endogamia en la élite judicial"
+    ]
+  },
+  "tweeted": false
+}
