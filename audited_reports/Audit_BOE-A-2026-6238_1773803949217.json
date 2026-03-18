@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6238",
+  "timestamp": "2026-03-18T03:19:09.217Z",
+  "title": "Resolución de 11 de marzo de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y por promoción interna, en el Cuerpo General Administrativo de la Administración del Estado, especialidad Estadística.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolución estándar de nombramiento de funcionarios de carrera. Se detecta un nivel aceptable de transparencia al detallar nombres, destinos y retribuciones (Nivel 16). Sin embargo, la 'opacidad administrativa' surge en el Punto Cuarto, donde se deniega una solicitud de preferencia de destino a una persona con discapacidad por no quedar 'debidamente acreditada' la necesidad, sin especificar los criterios de dicha acreditación. Esto refleja la rigidez burocrática frente a la flexibilidad por motivos de dependencia.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de nuevos funcionarios en la especialidad de Estadística del Estado. El documento detalla quiénes son los nuevos trabajadores públicos, dónde trabajarán (principalmente en el INE) y cuánto cobrarán de complementos. Se incluye una exclusión por incumplimiento de requisitos y un caso de denegación de traslado por discapacidad.",
+    "resumen_tweet": "📊 Nuevos funcionarios en el INE. El #BOE publica nombres y sueldos (Nivel 16). Ojo: se deniega destino preferente a una persona con discapacidad por falta de 'acreditación' burocrática. ¿Inclusión real o papel mojado? 📑🤔 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Denegación de adaptación de destino por criterios subjetivos de acreditación",
+      "Exclusión de aspirante (Nº 77) por requisitos técnicos no detallados en este extracto",
+      "Diferencia en complementos específicos entre puestos de similar nivel (4.489€ vs 4.894€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes nombrados (estabilidad laboral)",
+        "Ministerio de Economía, Comercio y Empresa (refuerzo de personal en el INE)",
+        "Nieves Lerín Zambudio (concesión de destino por dependencia)"
+      ],
+      "perdedores": [
+        "Yoselyn Esquinas Samper (excluida del proceso)",
+        "Aspirante con discapacidad cuya solicitud de prelación fue denegada",
+        "Ciudadanía (por la rigidez administrativa en la gestión de la diversidad)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones e Incidencias de Personal",
+    "banderas_rojas": [
+      "Denegación de adaptación de destino por criterios subjetivos de acreditación",
+      "Exclusión de aspirante (Nº 77) por requisitos técnicos no detallados en este extracto",
+      "Diferencia en complementos específicos entre puestos de similar nivel (4.489€ vs 4.894€)"
+    ]
+  },
+  "tweeted": false
+}
