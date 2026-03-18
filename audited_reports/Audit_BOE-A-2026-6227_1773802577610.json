@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6227",
+  "timestamp": "2026-03-18T02:56:17.610Z",
+  "title": "Resolución de 2 de marzo de 2026, de la Abogacía General del Estado, por la que se publica la relación circunstanciada de funcionarios del Cuerpo de Abogados del Estado, referida a 1 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La publicacion del escalafon de Abogados del Estado es un ejercicio de transparencia formal que revela la estructura de la elite administrativa en Espana. Aunque cumple con la legalidad, el documento es una radiografia de las 'puertas giratorias': nombres que transitan entre la alta direccion de empresas del IBEX 35, ministerios y la Casa Real. Se observa una hegemonia masculina en los puestos de mayor antiguedad y una falta de informacion sobre el destino actual y las retribuciones de estos funcionarios, lo que impide una fiscalizacion ciudadana efectiva sobre posibles conflictos de intereses.",
+    "resumen_ciudadano": "Se publica la lista oficial y actualizada de todos los miembros del Cuerpo de Abogados del Estado. Este documento permite conocer la antiguedad y el orden jerarquico de estos funcionarios, quienes representan el maximo nivel juridico del pais y suelen ocupar puestos clave en el Gobierno y en grandes empresas privadas.",
+    "resumen_tweet": "📜 Publicada la lista de Abogados del Estado en el #BOE. Tras los nombres, se esconden las #PuertasGiratorias y el poder real en España. Poca info sobre sueldos y destinos actuales. ¡La elite administrativa bajo lupa! 🔍⚖️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Potencial de conflictos de intereses por puertas giratorias",
+      "Falta de detalle sobre el puesto de trabajo actual de cada funcionario",
+      "Sesgo de genero historico en los puestos de mayor jerarquia",
+      "Opacidad en la retribucion total percibida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo de Abogados del Estado",
+        "Elites politicas y empresariales con conexiones en la abogacia publica"
+      ],
+      "perdedores": [
+        "Ciudadania que busca transparencia sobre el uso de recursos publicos",
+        "Aspirantes al cuerpo fuera de circulos de influencia tradicionales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Recursos Humanos",
+    "banderas_rojas": [
+      "Potencial de conflictos de intereses por puertas giratorias",
+      "Falta de detalle sobre el puesto de trabajo actual de cada funcionario",
+      "Sesgo de genero historico en los puestos de mayor jerarquia",
+      "Opacidad en la retribucion total percibida"
+    ]
+  },
+  "tweeted": false
+}
