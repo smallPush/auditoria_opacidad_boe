@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6324",
+  "timestamp": "2026-03-18T13:55:26.531Z",
+  "title": "Real Decreto 233/2026, de 17 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Palencia a don Arturo Carrillo Álvarez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El nombramiento de Arturo Carrillo Álvarez como Fiscal Jefe de Palencia ejemplifica la opacidad procedimental en la cúpula judicial. Aunque se citan los artículos del Estatuto Orgánico del Ministerio Fiscal, el documento es un 'acto administrativo de designación' que omite cualquier baremo de méritos, puntuaciones de otros candidatos o la motivación específica detrás de la propuesta de la Fiscal General. La estructura jerárquica permite que el Poder Ejecutivo (Consejo de Ministros) ratifique una decisión que carece de escrutinio público sobre la idoneidad técnica frente a posibles alternativas.",
+    "resumen_ciudadano": "Se ha designado formalmente al nuevo responsable de la Fiscalía Provincial de Palencia. Este cargo es fundamental para decidir qué delitos se persiguen en la provincia, pero el proceso de selección no permite que el ciudadano sepa por qué se ha elegido a esta persona en lugar de a otra, limitándose a cumplir el trámite legal de firma entre el Ministerio y la Fiscalía General.",
+    "resumen_tweet": "⚖️ Nuevo Fiscal Jefe en Palencia: Arturo Carrillo Álvarez. Un cargo clave para la justicia local nombrado sin transparencia sobre sus méritos frente a otros candidatos. ¿Libre designación o meritocracia? 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de memoria de méritos",
+      "Discrecionalidad técnica en la propuesta",
+      "Falta de transparencia en la deliberación del Consejo Fiscal",
+      "Nombramiento verticalizado sin desglose competitivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Arturo Carrillo Álvarez (ascenso jerárquico)",
+        "Ministerio de la Presidencia (control de la estructura fiscal)"
+      ],
+      "perdedores": [
+        "Transparencia pública",
+        "Candidatos alternativos no publicados",
+        "Ciudadanía (desconocimiento de los criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Ausencia de memoria de méritos",
+      "Discrecionalidad técnica en la propuesta",
+      "Falta de transparencia en la deliberación del Consejo Fiscal",
+      "Nombramiento verticalizado sin desglose competitivo"
+    ]
+  },
+  "tweeted": false
+}
