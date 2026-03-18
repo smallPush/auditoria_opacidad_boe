@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6226",
+  "timestamp": "2026-03-18T02:23:50.457Z",
+  "title": "Compromiso relativo al reconocimiento mutuo de la formación y titulación de la gente de mar entre la Dirección General de la Marina Mercante del Ministerio de Fomento de España y la entidad jurídica de Derecho público Agencia de Transporte Marítimo del Ministerio de Economía y Desarrollo Sostenible de Georgia, sobre reconocimiento mutuo de títulos de conformidad con la Regla I/10 del Convenio internacional sobre normas de formación, titulación y guardia para la gente de mar, de 1978, con sus modificaciones, hecho en Tiflis y Madrid el 23 de septiembre y 18 de noviembre de 2014.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una opacidad temporal flagrante: un acuerdo firmado en 2014 se publica en el BOE en 2026, lo que supone un retraso de 12 años en la comunicación oficial a la ciudadanía. Aunque el contenido es técnico (Convenio STCW), el Artículo 7 establece la posibilidad de visitas y revisiones de instalaciones en Georgia por parte de funcionarios españoles, lo que genera 'gastos fantasma' operativos no presupuestados en el texto. Existe una incongruencia en la narrativa de transparencia gubernamental al formalizar administrativamente un compromiso con más de una década de antigüedad sin explicar el limbo legal de este periodo.",
+    "resumen_ciudadano": "España y Georgia han oficializado el reconocimiento mutuo de títulos para marineros. Esto permite que trabajadores de ambos países operen en buques con bandera del otro país, siempre que cumplan los estándares internacionales de formación y salud. El acuerdo también permite que funcionarios españoles viajen a Georgia para inspeccionar sus escuelas de formación marítima.",
+    "resumen_tweet": "🚢 ¡12 años de espera! El #BOE publica hoy un acuerdo de 2014 con Georgia sobre títulos marinos. Facilita mano de obra extranjera en buques españoles mientras los gastos de inspección quedan en la sombra. ¿Transparencia? 🕵️‍♂️📉 #Opacidad #MarinaMercante",
+    "banderas_red_flags": [
+      "Retraso extremo en la publicación oficial (12 años)",
+      "Falta de memoria económica para las visitas de inspección internacionales",
+      "Uso de correos electrónicos institucionales de 2014 que podrían estar obsoletos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas navieras (acceso a mano de obra de terceros países)",
+        "Gente de mar georgiana (validación de sus títulos en la UE)",
+        "Altos cargos de la Marina Mercante (dietas por visitas de revisión)"
+      ],
+      "perdedores": [
+        "Gente de mar española (mayor competencia laboral)",
+        "Contribuyente español (financiación de la supervisión en el extranjero)",
+        "Principio de seguridad jurídica (por la demora en la publicación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Retraso extremo en la publicación oficial (12 años)",
+      "Falta de memoria económica para las visitas de inspección internacionales",
+      "Uso de correos electrónicos institucionales de 2014 que podrían estar obsoletos"
+    ]
+  },
+  "tweeted": false
+}
