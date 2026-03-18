@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6322",
+  "timestamp": "2026-03-18T13:51:25.613Z",
+  "title": "Real Decreto 231/2026, de 17 de marzo, por el que se nombra Fiscal de la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada a doña Virna María Alonso Fernández.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El nombramiento de doña Virna María Alonso Fernández para la Fiscalía Especial contra la Corrupción y la Criminalidad Organizada refleja la estructura jerárquica y discrecional de la justicia española. Aunque se cita el cumplimiento del Estatuto Orgánico del Ministerio Fiscal, el texto es un ejemplo de opacidad procedimental: no se detallan los méritos específicos, la trayectoria profesional ni los criterios de selección que justifican que esta persona sea la más idónea para un cargo de tan alta sensibilidad social. La falta de un concurso público con baremos visibles permite la perpetuación de la influencia del Ejecutivo sobre órganos que deberían ser independientes.",
+    "resumen_ciudadano": "Se ha nombrado a una nueva fiscal encargada de investigar la corrupción y el crimen organizado en España. El nombramiento se ha realizado por Real Decreto a propuesta del Gobierno y la Fiscal General del Estado, siguiendo los trámites legales habituales pero sin explicar a la ciudadanía por qué se ha elegido a esta candidata sobre otras posibles opciones.",
+    "resumen_tweet": "⚖️ Nueva fiscal en la lucha contra la corrupción: Virna María Alonso Fernández. El #BOE publica su nombramiento sin detallar méritos ni criterios de selección. ¿Independencia o designación política? 🕵️‍♂️ #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Designación discrecional 'a propuesta'",
+      "Ausencia de historial de méritos en el decreto",
+      "Falta de competitividad pública en el proceso de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Virna María Alonso Fernández (ascenso profesional)",
+        "Ministerio de la Presidencia (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Transparencia institucional",
+        "Candidatos alternativos bajo sistema de méritos",
+        "Ciudadanía (desconocimiento del perfil de control anticorrupción)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Designación discrecional 'a propuesta'",
+      "Ausencia de historial de méritos en el decreto",
+      "Falta de competitividad pública en el proceso de selección"
+    ]
+  },
+  "tweeted": false
+}
