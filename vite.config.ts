@@ -6,10 +6,11 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
-  // Detect valid GA ID, ignoring mock values
+  // Detect valid GA ID, ignoring mock values and ensuring safe format
   const getValidGaId = () => {
     const ids = [env.VITE_GOOGLE_ANALYTICS_ID, env.GOOGLE_ANALYTICS_ID];
-    return ids.find(id => id && id !== 'G-XXXXXXXXXX' && id !== 'your_ga_id_here');
+    const gaRegex = /^[a-zA-Z0-9-]+$/;
+    return ids.find(id => id && id !== 'G-XXXXXXXXXX' && id !== 'your_ga_id_here' && gaRegex.test(id));
   };
 
   const gaId = getValidGaId();
@@ -80,7 +81,11 @@ export default defineConfig(({ mode }) => {
               req.on('data', chunk => { body += chunk; });
               req.on('end', async () => {
                 try {
-                  const { boeId, title, audit } = JSON.parse(body);
+                  const data = JSON.parse(body);
+                  const boeId = String(data.boeId).replace(/[^a-zA-Z0-9_-]/g, '');
+                  const title = data.title;
+                  const audit = data.audit;
+
                   const fs = await import('fs/promises');
                   const path = await import('path');
                   const reportsDir = path.resolve(__dirname, 'audited_reports');
