@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6325",
+  "timestamp": "2026-03-18T13:56:17.781Z",
+  "title": "Real Decreto 234/2026, de 17 de marzo, por el que se nombra Fiscal Jefe de la Fiscalía Provincial de Córdoba a don Fernando Sobrón Ostos.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento representa un ejemplo de nombramiento discrecional bajo la apariencia de procedimiento administrativo reglado. Aunque cita la base legal (Estatuto Orgánico del Ministerio Fiscal), el BOE actúa como un simple tablón de anuncios que omite los criterios de idoneidad, los méritos comparativos frente a otros candidatos y la deliberación real del Consejo Fiscal. La estructura 'A propuesta del Ministro... vista la formulada por la Fiscal General' subraya una cadena de mando donde la independencia jerárquica queda supeditada a la decisión política del Ejecutivo, alimentando la percepción de politización en la justicia.",
+    "resumen_ciudadano": "Se ha oficializado el nombramiento de Fernando Sobrón Ostos como Fiscal Jefe de Córdoba. El proceso es legalmente correcto pero opaco para el ciudadano, ya que no se explican las razones técnicas o profesionales por las que ha sido elegido sobre otros posibles perfiles, ni se detallan los objetivos de su gestión en la provincia.",
+    "resumen_tweet": "👁️ ¿Quién decide quién nos juzga? Nombrado el nuevo Fiscal Jefe de Córdoba mediante un proceso de alta discrecionalidad política. La justicia requiere méritos públicos, no solo firmas en el #BOE. #Opacidad #Transparencia #Justicia ⚖️🚫",
+    "banderas_red_flags": [
+      "Déficit de motivación en la elección del candidato",
+      "Endogamia en la cadena de mando judicial-política",
+      "Ausencia de transparencia en los baremos de puntuación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Sobrón Ostos",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+        "Continuismo institucional"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Candidatos descartados sin exposición de motivos",
+        "Ciudadanía (por falta de información sobre perfiles públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal de Alta Dirección",
+    "banderas_rojas": [
+      "Déficit de motivación en la elección del candidato",
+      "Endogamia en la cadena de mando judicial-política",
+      "Ausencia de transparencia en los baremos de puntuación"
+    ]
+  },
+  "tweeted": false
+}
