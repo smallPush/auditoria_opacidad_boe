@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-6240",
+  "timestamp": "2026-03-18T03:21:40.979Z",
+  "title": "Resolución de 27 de febrero de 2026, de la Universidad de A Coruña, por la que se nombra Catedrática de Universidad a doña Laura Castro Santos.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de profesorado funcionario. Cumple con la normativa LOSU (Ley Orgánica 2/2023). Aunque el proceso es legalmente transparente, no se detallan en el BOE los méritos específicos ni la composición de la comisión que juzgó el concurso, lo que imposibilita una fiscalización ciudadana real sobre posibles sesgos de endogamia académica, una crítica recurrente en el sistema universitario español.",
+    "resumen_ciudadano": "Nombramiento oficial de Laura Castro Santos como Catedrática de Universidad en el área de Construcciones Navales en la Universidad de A Coruña, tras superar el concurso de acceso convocado en 2025.",
+    "resumen_tweet": "⚓️ Nueva Catedrática en la Universidad de A Coruña. Laura Castro Santos liderará Construcciones Navales. Un avance para la mujer en ingeniería STEM, aunque el sistema de 'concursos' requiere siempre vigilancia ciudadana. 🎓🚢 #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario de la plaza de cátedra",
+      "Opacidad en los méritos comparativos del proceso de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Castro Santos (consolidación de carrera)",
+        "Universidad de A Coruña (estabilización de plantilla)",
+        "Representación femenina en Ingeniería Naval (STEM)"
+      ],
+      "perdedores": [
+        "Candidatos externos (debido a la estructura de promoción interna)",
+        "Transparencia absoluta en la ejecución de fondos para profesorado"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario de la plaza de cátedra",
+      "Opacidad en los méritos comparativos del proceso de selección"
+    ]
+  },
+  "tweeted": false
+}
