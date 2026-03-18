@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6326",
+  "timestamp": "2026-03-18T13:54:53.029Z",
+  "title": "Real Decreto 235/2026, de 17 de marzo, por el que se nombra Fiscal Jefa de la Fiscalía Provincial de Gipuzkoa a doña Mercedes Bautista Vázquez.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento presenta un nombramiento discrecional de alto nivel bajo la apariencia de un trámite administrativo ordinario. Aunque cita el marco legal (Ley 50/1981), carece de una memoria de méritos o justificación pública de por qué la candidata es idónea frente a otros aspirantes. Se observa la persistencia de una estructura de poder vertical donde el Ministerio de Justicia y la Fiscalía General del Estado centralizan decisiones sobre cargos territoriales clave en Gipuzkoa.",
+    "resumen_ciudadano": "El Gobierno ha nombrado oficialmente a Mercedes Bautista Vázquez como nueva Fiscal Jefa de la Fiscalía Provincial de Gipuzkoa. Este cargo es fundamental para la dirección de la justicia penal en la provincia y su elección ha sido coordinada entre el Ministro Félix Bolaños y la Fiscalía General del Estado.",
+    "resumen_tweet": "⚖️ ¿Méritos o jerarquía? Mercedes Bautista Vázquez, nueva Fiscal Jefa de Gipuzkoa. Un nombramiento clave en el sistema judicial que sigue la lógica de designación directa desde Madrid. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de exposición de motivos sobre méritos específicos",
+      "Opacidad en el proceso de selección frente a otros candidatos",
+      "Fuerte dependencia del poder ejecutivo central"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mercedes Bautista Vázquez (promoción profesional)",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes (ejercicio de control)",
+        "Fiscalía General del Estado"
+      ],
+      "perdedores": [
+        "Transparencia en los procesos de selección judicial",
+        "Carrera fiscal de base sin acceso a criterios de elección pública"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de exposición de motivos sobre méritos específicos",
+      "Opacidad en el proceso de selección frente a otros candidatos",
+      "Fuerte dependencia del poder ejecutivo central"
+    ]
+  },
+  "tweeted": false
+}
