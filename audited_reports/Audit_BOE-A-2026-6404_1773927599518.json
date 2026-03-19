@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6404",
+  "timestamp": "2026-03-19T13:39:59.518Z",
+  "title": "Corrección de erratas de la Orden SND/208/2026, de 9 de marzo, por la que se modifica el anexo II del Real Decreto 81/2014, de 7 de febrero, por el que se establecen normas para garantizar la asistencia sanitaria transfronteriza, y por el que se modifica el Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación.",
+  "report": {
+    "nivel_transparencia": 0.65,
+    "analisis_critico": "Aunque se presenta como una simple corrección de erratas, el texto redefine las condiciones bajo las cuales el Estado puede denegar o autorizar asistencia sanitaria en el extranjero. Se observa un enfoque preventivo en el gasto, utilizando términos como 'control de costes' y 'evitar despilfarro' para justificar barreras administrativas. La redacción supedita el derecho a la movilidad del paciente a la 'planificación' económica y técnica del sistema nacional, lo que puede interpretarse como un blindaje presupuestario frente a la libre elección de centro médico en la Unión Europea.",
+    "resumen_ciudadano": "Sanidad aclara las reglas para poder recibir tratamiento médico fuera de España. Se exigirá autorización previa obligatoria si el tratamiento implica pasar la noche en el hospital o usa equipos muy caros, justificándolo en la necesidad de ahorrar dinero y organizar mejor los recursos públicos. Esto dificulta que el paciente decida libremente dónde ser atendido si el coste es elevado.",
+    "resumen_tweet": "🏥 ¿Quieres operarte en la UE? El #BOE aclara las barreras. Sanidad prioriza el 'control de costes' y la 'planificación' para autorizar tratamientos fuera. 🚩 Cuidado con la burocracia en casos de alta tecnología. #Transparencia #Sanidad #Opacidad 🇪🇺",
+    "banderas_red_flags": [
+      "Justificación de restricciones basada en control de costes",
+      "Uso de conceptos subjetivos como 'gama equilibrada de tratamientos'",
+      "Condicionamiento de salud a planificación financiera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Sanidad (mayor control sobre el flujo de fondos al extranjero)",
+        "Gestores presupuestarios del Sistema Nacional de Salud"
+      ],
+      "perdedores": [
+        "Pacientes con enfermedades raras o complejas",
+        "Ciudadanos que buscan alternativas médicas rápidas en otros estados miembros de la UE"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad / Corrección Legislativa",
+    "banderas_rojas": [
+      "Justificación de restricciones basada en control de costes",
+      "Uso de conceptos subjetivos como 'gama equilibrada de tratamientos'",
+      "Condicionamiento de salud a planificación financiera"
+    ]
+  },
+  "tweeted": false
+}
