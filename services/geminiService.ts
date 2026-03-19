@@ -70,6 +70,7 @@ export const analyzeBOE = async (xmlContent: string, lang: Language = 'es', user
     const rawData = JSON.parse(text.trim());
     return {
       ...rawData,
+      resumen_tweet: rawData.resumen_tweet || "",
       banderas_rojas: rawData.banderas_red_flags || rawData.banderas_rojas || []
     };
   } catch (error: unknown) {
