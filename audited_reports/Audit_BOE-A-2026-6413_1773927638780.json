@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6413",
+  "timestamp": "2026-03-19T13:40:38.780Z",
+  "title": "Resolución de 6 de marzo de 2026, de la Universidad de Granada, por la que se nombra Profesor Titular de Universidad a don Javier Antonio Olmedo Nieto.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Profesor Titular) en la Universidad de Granada bajo el marco de la LOSU. Aunque el proceso cumple la legalidad, el documento es una formalidad que oculta la complejidad y las posibles barreras de acceso en la carrera académica. Se observa la adjudicación de una plaza en Física Teórica, un campo tradicionalmente masculinizado, lo que refuerza la inercia de género en áreas STEM.",
+    "resumen_ciudadano": "La Universidad de Granada ha nombrado a un nuevo Profesor Titular en el área de Física Teórica tras un concurso público. Este es un trámite habitual para estabilizar al personal docente investigador en el sistema universitario español.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la @canalUGR. Javier Antonio Olmedo Nieto logra plaza en Física Teórica. Un trámite estándar que nos recuerda la necesidad de seguir vigilando la diversidad en áreas STEM. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Sesgo de género persistente en departamentos de Física",
+      "Falta de detalle sobre los criterios de baremación de la comisión en el extracto",
+      "Endogamia potencial común en procesos de estabilización universitaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Antonio Olmedo Nieto",
+        "Universidad de Granada (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de movilidad)",
+        "Representación femenina en niveles superiores de Física Teórica"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sesgo de género persistente en departamentos de Física",
+      "Falta de detalle sobre los criterios de baremación de la comisión en el extracto",
+      "Endogamia potencial común en procesos de estabilización universitaria"
+    ]
+  },
+  "tweeted": false
+}
