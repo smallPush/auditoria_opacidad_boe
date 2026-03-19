@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6402",
+  "timestamp": "2026-03-19T13:25:02.112Z",
+  "title": "Real Decreto 215/2026, de 18 de marzo, por el que se modifica el Real Decreto 390/2025, de 13 de mayo, por el que se regula la concesión directa de subvenciones a salas de exhibición cinematográfica para fomentar el acceso al cine de las personas de 65 o más años durante el periodo 2025-2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto revela una falta de previsión presupuestaria flagrante en la edición original. Se admite que el fondo de corrección inicial fue insuficiente, obligando a un prorrateo que dejó a los cines con un 33% de aumento en lugar del 50% prometido. La 'solución' es un parche de 3 millones de euros adicionales condicionados a una 'mayor disponibilidad presupuestaria', lo cual es una cláusula de escape que genera incertidumbre jurídica. Además, se destinan 350.000 euros a una 'entidad colaboradora', un gasto de gestión que suele ser un punto ciego en la fiscalización de subvenciones directas.",
+    "resumen_ciudadano": "El Gobierno amplía los fondos para el programa de cine a 2 euros para mayores de 65 años debido a que el dinero se agotó mucho antes de lo previsto. Se introducen 3 millones de euros extra, pero su entrega dependerá de si hay presupuesto disponible, y se eliminan ciertos pagos de corrección que ya no se pueden pagar por falta de fondos.",
+    "resumen_tweet": "🎬 ¿Éxito o mala planificación? El Gobierno inyecta 3M€ extra al #CineSenior tras agotarse los fondos antes de tiempo. Pero ojo: 350k€ van para 'entidades colaboradoras' 🧐. ¿Llegará el dinero a todos o solo a los grandes? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de disponibilidad presupuestaria (incertidumbre)",
+      "Gastos de gestión de 350.000€ para intermediarios",
+      "Prorrateo por insuficiencia de crédito previa",
+      "Tramitación urgente para evitar el colapso de la medida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes cadenas de cine (mayor capacidad de ejecución y gasto)",
+        "Entidades colaboradoras (comisión de gestión de 350k€)",
+        "Personas de 65+ años (mantenimiento del precio de 2€)"
+      ],
+      "perdedores": [
+        "Pequeñas salas de exhibición (menor capacidad para agotar el 50% rápido)",
+        "Contribuyentes (por el coste de la falta de previsión inicial)",
+        "Seguridad jurídica (por la eliminación de pagos correctores previstos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones Culturales",
+    "banderas_rojas": [
+      "Cláusula de disponibilidad presupuestaria (incertidumbre)",
+      "Gastos de gestión de 350.000€ para intermediarios",
+      "Prorrateo por insuficiencia de crédito previa",
+      "Tramitación urgente para evitar el colapso de la medida"
+    ]
+  },
+  "tweeted": false
+}
