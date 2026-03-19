@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6401",
+  "timestamp": "2026-03-19T13:26:19.275Z",
+  "title": "Real Decreto 214/2026, de 18 de marzo, por el que se regula la presentación de solicitudes, declaraciones y comunicaciones a través de medios electrónicos en las reservas marinas de interés pesquero y para la pesca de recreo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 214/2026 impone una digitalización forzosa bajo la premisa de una 'capacidad económica y técnica' presunta en todos los actores del sector pesquero, incluyendo el recreativo. El texto utiliza un lenguaje técnico-administrativo para justificar la eliminación de canales físicos, centralizando el control en una aplicación móvil propietaria del Ministerio. La 'opacidad' no reside en lo que se dice, sino en la omisión del coste real de los dispositivos de localización obligatorios y en la falta de alternativas para aquellos ciudadanos afectados por la brecha digital.",
+    "resumen_ciudadano": "Si te dedicas a la pesca o al buceo en reservas marinas, el papel ha muerto. A partir de ahora es obligatorio tramitar todo por internet y llevar un GPS de localización. El Gobierno da por hecho que todo el mundo tiene un smartphone moderno y sabe usarlo, prohibiendo el uso de ventanillas físicas para estos trámites. Esto afecta tanto a profesionales como a aficionados a la pesca de recreo.",
+    "resumen_tweet": "📱 Adiós al papel en el mar. El #BOE impone el uso obligatorio de apps y GPS para pescar en reservas marinas. ¿Y la brecha digital? El Estado asume que todos tienen móvil y dinero para tecnología. Control total 🎣⚠️ #Opacidad #Transparencia #Pesca",
+    "banderas_red_flags": [
+      "Presunción de capacidad económica del ciudadano sin estudio previo",
+      "Obligatoriedad de dispositivos electrónicos de localización (geofencing)",
+      "Eliminación total de la atención presencial para estos procedimientos",
+      "Uso de una 'app única' como mecanismo exclusivo de relación con el Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (menor coste de gestión y control total)",
+        "Empresas de software y tecnología",
+        "Grandes flotas pesqueras (ya digitalizadas)"
+      ],
+      "perdedores": [
+        "Pescadores tradicionales y de avanzada edad (brecha digital)",
+        "Pescadores de recreo con bajos recursos",
+        "Pequeñas embarcaciones turísticas con costes adicionales de equipos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización y Control Pesquero",
+    "banderas_rojas": [
+      "Presunción de capacidad económica del ciudadano sin estudio previo",
+      "Obligatoriedad de dispositivos electrónicos de localización (geofencing)",
+      "Eliminación total de la atención presencial para estos procedimientos",
+      "Uso de una 'app única' como mecanismo exclusivo de relación con el Estado"
+    ]
+  },
+  "tweeted": false
+}
