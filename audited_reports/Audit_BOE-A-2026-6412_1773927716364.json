@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6412",
+  "timestamp": "2026-03-19T13:41:56.364Z",
+  "title": "Resolución de 6 de marzo de 2026, conjunta de la Universidad de Lleida y el Instituto Catalán de la Salud-Hospital Universitario Arnau de Vilanova, por la que se nombra Catedrático de Universidad a don José Manuel Porcel Pérez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de cátedra 'vinculada', una figura híbrida que permite a un profesional ejercer en la universidad y en el sistema sanitario simultáneamente. La opacidad no reside en el nombre del beneficiario, sino en la amalgama normativa que rige estos puestos (desde reales decretos de 1986 hasta leyes de 2023), lo que dificulta al ciudadano rastrear el coste total de la plaza y la transparencia del proceso de selección previo, el cual se liquida con una simple referencia a una resolución anterior.",
+    "resumen_ciudadano": "La Universidad de Lleida y el Instituto Catalán de la Salud han nombrado a José Manuel Porcel Pérez como Catedrático de Medicina. Este puesto conlleva responsabilidades tanto docentes como médicas en el Hospital Universitario Arnau de Vilanova. Es un ascenso a la categoría más alta del cuerpo docente universitario.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Lleida. José Manuel Porcel Pérez asume plaza vinculada al ICS. Alta burocracia académica para blindar la élite médica. ¿Transparencia en los costes? Poca. #BOE #Opacidad #Transparencia #Lleida 🏥",
+    "banderas_red_flags": [
+      "Opacidad en el desglose retributivo (sueldo de universidad vs sueldo de hospital)",
+      "Complejidad normativa que favorece la burocratización de la élite académica",
+      "Falta de datos sobre el tribunal de selección en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Manuel Porcel Pérez (promoción personal y profesional)",
+        "Universidad de Lleida (consolidación de su cúpula docente)",
+        "Instituto Catalán de la Salud (asegura personal de alto nivel)"
+      ],
+      "perdedores": [
+        "Personal investigador joven (sin acceso a estas plazas blindadas)",
+        "Ciudadanos (dificultad para auditar el uso de fondos públicos en plazas duales)",
+        "Transparencia presupuestaria (coste real de la plaza no especificado)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en el desglose retributivo (sueldo de universidad vs sueldo de hospital)",
+      "Complejidad normativa que favorece la burocratización de la élite académica",
+      "Falta de datos sobre el tribunal de selección en este extracto"
+    ]
+  },
+  "tweeted": false
+}
