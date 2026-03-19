@@ -2,26 +2,20 @@ import { TwitterApi } from 'twitter-api-v2';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const envPath = path.resolve(__dirname, '../.env');
 
 export async function sendTweet(text) {
-  // Load latest .env values manually to ensure we have fresh tokens
-  let localEnv = {};
-  if (fs.existsSync(envPath)) {
-    const envContent = fs.readFileSync(envPath, 'utf8');
-    envContent.split(/\r?\n/).forEach(line => {
-      const [key, ...val] = line.split('=');
-      if (key) localEnv[key.trim()] = val.join('=').trim();
-    });
-  }
+  // Securely load .env values to ensure we have fresh tokens without manual parsing
+  dotenv.config({ path: envPath, override: true });
 
-  const clientId = localEnv.TWITTER_CLIENT_ID || process.env.TWITTER_CLIENT_ID;
-  const clientSecret = localEnv.TWITTER_CLIENT_SECRET || process.env.TWITTER_CLIENT_SECRET;
-  const refreshToken = localEnv.TWITTER_REFRESH_TOKEN || process.env.TWITTER_REFRESH_TOKEN;
-  const accessToken = localEnv.TWITTER_ACCESS_TOKEN || process.env.TWITTER_ACCESS_TOKEN;
+  const clientId = process.env.TWITTER_CLIENT_ID;
+  const clientSecret = process.env.TWITTER_CLIENT_SECRET;
+  const refreshToken = process.env.TWITTER_REFRESH_TOKEN;
+  const accessToken = process.env.TWITTER_ACCESS_TOKEN;
 
   if (!clientId || !clientSecret || (!refreshToken && !accessToken)) {
     throw new Error("Twitter OAuth 2.0 keys are missing in .env (Need Client ID/Secret and either Access Token or Refresh Token)");
