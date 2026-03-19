@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6419",
+  "timestamp": "2026-03-19T13:43:08.342Z",
+  "title": "Resolución de 6 de marzo de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrática de Universidad a doña Ana María Martín Cuadrado.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de alto rango académico (Catedrática) en la UNED. Aunque el acto cumple escrupulosamente con la legalidad vigente (LOSU 2/2023), el texto es meramente administrativo y carece de información sobre los méritos específicos evaluados o el impacto presupuestario de la promoción. Se observa una inercia en la consolidación de la jerarquía universitaria sin aportar datos sobre el coste de la plaza.",
+    "resumen_ciudadano": "La Universidad Nacional de Educación a Distancia (UNED) ha nombrado a Ana María Martín Cuadrado como Catedrática de Universidad en el área de Didáctica y Organización Escolar. Este es el grado más alto en la carrera docente pública en España.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la @UNED. El #BOE publica el ascenso de Ana María Martín Cuadrado. Bajo la LOSU se consolida la élite académica, pero seguimos sin ver el coste real para el ciudadano ni los baremos detallados. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose del impacto presupuestario",
+      "Falta de enlace a la puntuación del concurso-oposición",
+      "Consolidación de estructuras jerárquicas con lenguaje técnico-administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Martín Cuadrado (promoción profesional)",
+        "UNED (estabilidad de cuadro docente)",
+        "Cuerpo de Catedráticos"
+      ],
+      "perdedores": [
+        "Personal investigador precario (limitación de recursos para nuevas plazas)",
+        "Candidatos externos no seleccionados",
+        "Contribuyente (falta de transparencia en el coste total de la escala salarial)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (UNED)",
+    "tipologia": "Nombramientos de Personal y Recursos Humanos",
+    "banderas_rojas": [
+      "Ausencia de desglose del impacto presupuestario",
+      "Falta de enlace a la puntuación del concurso-oposición",
+      "Consolidación de estructuras jerárquicas con lenguaje técnico-administrativo"
+    ]
+  },
+  "tweeted": false
+}
