@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6418",
+  "timestamp": "2026-03-19T13:43:50.527Z",
+  "title": "Resolución de 6 de marzo de 2026, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Eduardo Durán Venegas.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera en el ámbito universitario. La resolución es transparente en cuanto a la base legal (LOSU 2/2023) y el proceso de origen (concurso de 2025). No obstante, existe la opacidad sistémica habitual en el BOE sobre el gasto público real: se menciona que recibirá 'emolumentos según las disposiciones vigentes' sin desglosar la cuantía presupuestaria anual que supone para la Universidad de Málaga. En términos de impacto social, el nombramiento refuerza la estructura fija docente en un área STEM (Ingeniería), aunque refleja la persistente brecha de género en la titularidad de estas áreas técnicas.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado oficialmente a Eduardo Durán Venegas como Profesor Titular de Universidad en el área de Mecánica de Fluidos. El nombramiento es el resultado de un concurso público iniciado en septiembre de 2025 y le otorga una plaza permanente como funcionario del Estado.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la @InfoUMA: Eduardo Durán Venegas accede a la plaza de Profesor Titular de Mecánica de Fluidos. Proceso estándar según la LOSU, pero con la habitual falta de transparencia salarial directa en el #BOE. #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de cuantificación económica directa de la plaza",
+      "Brecha de género en el área de Ingeniería Mecánica",
+      "Dilación administrativa de 6 meses desde la convocatoria hasta el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eduardo Durán Venegas (obtiene plaza fija/funcionario)",
+        "Universidad de Málaga (estabiliza plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados en el concurso",
+        "Diversidad de género en áreas de conocimiento STEM"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Falta de cuantificación económica directa de la plaza",
+      "Brecha de género en el área de Ingeniería Mecánica",
+      "Dilación administrativa de 6 meses desde la convocatoria hasta el nombramiento"
+    ]
+  },
+  "tweeted": false
+}
