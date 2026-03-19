@@ -17,20 +17,18 @@ describe("GoogleAnalytics component", () => {
 
     afterEach(() => {
         // Restore environment
-        // @ts-ignore
-        import.meta.env.DEV = originalDev;
-        // @ts-ignore
-        import.meta.env.VITE_GOOGLE_ANALYTICS_ID = originalGaId;
+        const env = import.meta.env as any;
+        env.DEV = originalDev;
+        env.VITE_GOOGLE_ANALYTICS_ID = originalGaId;
         window.GA_INITIALIZED = originalGaInitialized;
 
         cleanup();
     });
 
     test("logs initialization when DEV is true and GA_INITIALIZED is true", () => {
-        // @ts-ignore
-        import.meta.env.DEV = true;
-        // @ts-ignore
-        import.meta.env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
+        const env = import.meta.env as any;
+        env.DEV = true;
+        env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
         window.GA_INITIALIZED = true;
 
         const logSpy = spyOn(console, "log");
@@ -44,10 +42,9 @@ describe("GoogleAnalytics component", () => {
     });
 
     test("logs ID found but not initialized when DEV is true, GA_INITIALIZED is false, and ID is present", () => {
-        // @ts-ignore
-        import.meta.env.DEV = true;
-        // @ts-ignore
-        import.meta.env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
+        const env = import.meta.env as any;
+        env.DEV = true;
+        env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
         window.GA_INITIALIZED = false;
 
         const logSpy = spyOn(console, "log");
@@ -60,10 +57,9 @@ describe("GoogleAnalytics component", () => {
     });
 
     test("logs no valid ID found when DEV is true, GA_INITIALIZED is false, and ID is absent", () => {
-        // @ts-ignore
-        import.meta.env.DEV = true;
-        // @ts-ignore
-        import.meta.env.VITE_GOOGLE_ANALYTICS_ID = undefined;
+        const env = import.meta.env as any;
+        env.DEV = true;
+        env.VITE_GOOGLE_ANALYTICS_ID = undefined;
         window.GA_INITIALIZED = false;
 
         const logSpy = spyOn(console, "log");
@@ -76,10 +72,9 @@ describe("GoogleAnalytics component", () => {
     });
 
     test("does not log when DEV is false", () => {
-        // @ts-ignore
-        import.meta.env.DEV = false;
-        // @ts-ignore
-        import.meta.env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
+        const env = import.meta.env as any;
+        env.DEV = false;
+        env.VITE_GOOGLE_ANALYTICS_ID = "G-12345";
         window.GA_INITIALIZED = true;
 
         const logSpy = spyOn(console, "log");
