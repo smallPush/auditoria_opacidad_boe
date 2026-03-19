@@ -318,16 +318,24 @@ async function run() {
     if (newAudits.length > 0) {
       console.log("🔄 Updating index...");
       const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
-      let currentIndex = [];
-      for (const f of indexFiles) {
+
+      const readPromises = indexFiles.map(async (f) => {
         try {
           const contents = await readFile(path.join(AUDITED_REPORTS_DIR, f), 'utf8');
           if (contents.trim()) {
             const data = JSON.parse(contents);
-            currentIndex = [...currentIndex, ...(Array.isArray(data) ? data : [])];
+            return Array.isArray(data) ? data : [];
           }
         } catch (e) { }
+        return [];
+      });
+
+      const results = await Promise.all(readPromises);
+      let currentIndex = [];
+      for (const data of results) {
+        currentIndex = currentIndex.concat(data);
       }
+
       const seen = new Set();
       const mergedIndex = [...newAudits, ...currentIndex].filter(item => {
         if (!item.id || seen.has(item.id)) return false;
