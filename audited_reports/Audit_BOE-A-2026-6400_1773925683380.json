@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6400",
+  "timestamp": "2026-03-19T13:08:03.380Z",
+  "title": "Real Decreto 213/2026, de 18 de marzo, por el que se modifica el anexo III del Real Decreto 1173/2015, de 29 de diciembre, de desarrollo del Fondo Europeo Marítimo y de Pesca en lo relativo a las ayudas a la paralización definitiva y temporal de la actividad pesquera.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La norma es una corrección reactiva motivada por una auditoría deficiente de la IGAE, que calificó el sistema previo con 'Categoría 3' (funcionamiento parcial con mejoras importantes). El Ministerio de Agricultura se vio obligado a unificar los datos tras detectarse discrepancias en el cálculo de las primas de 'lucro cesante' y 'coste fijo'. Se observa una opacidad técnica: aunque se cita la necesidad de un método 'justo y equitativo', el ajuste de los baremos revela que los métodos anteriores podrían haber sobrecompensado o infravalorado el impacto económico de las paradas biológicas, utilizando fondos europeos FEMPA con criterios que no pasaron el filtro de auditoría inicial.",
+    "resumen_ciudadano": "El Gobierno modifica los pagos que reciben los dueños de barcos pesqueros (armadores) cuando deben dejar de pescar temporalmente. Este cambio ocurre porque los controles financieros detectaron errores graves en cómo se calculaba el dinero anteriormente. Se establecen nuevas tarifas diarias basadas en el tamaño del barco y el tipo de pesca, garantizando un mínimo de 125,43€ y un máximo de 2.000€ por día de inactividad.",
+    "resumen_tweet": "🚨 El #BOE admite fallos en el cálculo de ayudas a la pesca tras una auditoría negativa. Se reajustan las primas por dejar de pescar: ¡hasta 2.000€ diarios para armadores! ¿Control real o parche para no perder fondos europeos? 🐟 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Auditoría previa con calificación de 'funciona parcialmente'",
+      "Discrepancias técnicas detectadas por la Autoridad de Auditoría",
+      "Uso de datos estadísticos agregados no desglosados en el decreto",
+      "Ajuste de baremos por tiempo transcurrido y errores de homogeneidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Armadores de grandes cerqueros (máximas cuantías de lucro cesante)",
+        "Administración central (evita la pérdida de fondos FEMPA por incumplimiento de requisitos UE)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la gestión ineficiente de fondos detectada previamente)",
+        "Pesca artesanal (mantienen primas de lucro cesante significativamente inferiores a la flota industrial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto (Modificación)",
+    "banderas_rojas": [
+      "Auditoría previa con calificación de 'funciona parcialmente'",
+      "Discrepancias técnicas detectadas por la Autoridad de Auditoría",
+      "Uso de datos estadísticos agregados no desglosados en el decreto",
+      "Ajuste de baremos por tiempo transcurrido y errores de homogeneidad"
+    ]
+  },
+  "tweeted": false
+}
