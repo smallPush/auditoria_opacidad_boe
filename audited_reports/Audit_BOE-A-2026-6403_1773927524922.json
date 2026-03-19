@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6403",
+  "timestamp": "2026-03-19T13:38:44.922Z",
+  "title": "Orden SND/222/2026, de 12 de marzo, por la que se deroga la Orden SND/354/2020, de 19 de abril, por la que se establecen medidas excepcionales para garantizar el acceso de la población a los productos de uso recomendados como medidas higiénicas para la prevención de contagios por el COVID-19; y por la que se dejan sin efecto las resoluciones de fijación de importes máximos de precios de venta al público de productos relacionados.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Esta orden formaliza el fin de la intervención estatal en los precios de productos básicos de prevención sanitaria (mascarillas, geles y test). Aunque se presenta bajo los principios de 'seguridad jurídica' y 'eficiencia', destaca una inercia administrativa significativa: se derogan medidas de emergencia de 2020 tres años después de que la crisis sanitaria se declarara oficialmente finalizada en 2023. La transición al 'precio libre' ocurre sin establecer mecanismos de vigilancia para evitar especulaciones en periodos de alta demanda estacional, delegando la protección del bolsillo ciudadano totalmente al mercado.",
+    "resumen_ciudadano": "El Gobierno deja de fijar el precio máximo de mascarillas, test de antígenos y geles hidroalcohólicos. A partir de la entrada en vigor de esta orden, las farmacias y comercios podrán vender estos productos al precio que consideren oportuno, eliminando el control estatal que existía desde la pandemia.",
+    "resumen_tweet": "🚨 ¡Adiós al precio máximo! Sanidad libera el coste de mascarillas y test de antígenos. Tras años de intervención, el mercado decidirá cuánto pagas por proteger tu salud. ¿Habrá subidas en la próxima ola? 😷📈 #BOE #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Inercia administrativa: retraso de 3 años desde el fin de la crisis sanitaria",
+      "Riesgo de volatilidad de precios en productos de primera necesidad",
+      "Ausencia de planes de contingencia para grupos vulnerables ante futuras subidas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes distribuidores farmacéuticos",
+        "Cadenas de supermercados",
+        "Fabricantes de material sanitario (mayores márgenes de beneficio)"
+      ],
+      "perdedores": [
+        "Familias de renta baja",
+        "Personas inmunodeprimidas con necesidad de uso crónico",
+        "Consumidores ante posibles picos de inflación sanitaria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Desregulación de Precios Sanitarios",
+    "banderas_rojas": [
+      "Inercia administrativa: retraso de 3 años desde el fin de la crisis sanitaria",
+      "Riesgo de volatilidad de precios en productos de primera necesidad",
+      "Ausencia de planes de contingencia para grupos vulnerables ante futuras subidas"
+    ]
+  },
+  "tweeted": false
+}
