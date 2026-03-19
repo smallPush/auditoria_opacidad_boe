@@ -87,7 +87,6 @@ const App: React.FC = () => {
 
     const fetchAndParse = async (url: string): Promise<ScrapedLaw[]> => {
       try {
-        console.log(`🔍 Try fetching BOE from: ${url}`);
         const response = await fetch(url, {
           headers: {
             'Accept': 'application/xml',
