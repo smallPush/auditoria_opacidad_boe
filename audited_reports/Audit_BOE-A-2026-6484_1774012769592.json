@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6484",
+  "timestamp": "2026-03-20T13:19:29.592Z",
+  "title": "Resolución de 12 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion' para cubrir un puesto de secretario/a en la D.G. del Servicio Exterior. Aunque es un procedimiento legal bajo la Ley 30/1984, representa una forma de adjudicacion discrecional que elude el concurso de meritos abierto. Este sistema permite a la administracion elegir 'a dedo' a funcionarios basandose en criterios de confianza personal o politica en lugar de una baremacion puramente competitiva y objetiva, lo que erosiona la percepcion de meritocracia en el cuerpo administrativo C1.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha adjudicado un puesto de trabajo de nivel 17 (Secretario/a) en Madrid mediante el sistema de libre designacion. Esto significa que la eleccion del candidato, Juan Pedro Pascal Labajos, no se ha realizado por un examen o concurso de meritos publico, sino por decision directa de sus superiores tras una convocatoria cerrada.",
+    "resumen_tweet": "🚩 ¿Dedo o mérito? El Ministerio de Exteriores resuelve otro puesto por 'libre designación'. Un sistema legal pero opaco que esquiva la competencia abierta. Menos meritocracia, más discrecionalidad en la administración. 🏛️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación",
+      "Adjudicación por confianza",
+      "Falta de detalle en los criterios de selección específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Pedro Pascal Labajos",
+        "Altos cargos con capacidad de elección discrecional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza",
+        "Candidatos con mayores méritos académicos o técnicos no seleccionados",
+        "Principio de igualdad y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación",
+      "Adjudicación por confianza",
+      "Falta de detalle en los criterios de selección específicos"
+    ]
+  },
+  "tweeted": false
+}
