@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6490",
+  "timestamp": "2026-03-20T13:22:21.454Z",
+  "title": "Resolución 430/38141/2026, de 10 de marzo, de la Subsecretaría, por la que se nombra personal estatutario fijo en la categoría de Técnico/a Medio Sanitario: Cuidados Auxiliares de Enfermería en la Red Hospitalaria de la Defensa, y por la que se modifica la Resolución 430/38556/2025, de 23 de diciembre, por la que se publica la relación de personas aprobadas en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Técnico/a Medio Sanitario: Cuidados Auxiliares de Enfermería en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38535/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución revela una ineficiencia estructural en la planificación de las plazas reservadas. Resulta alarmante que de 22 plazas reservadas para militares, 21 hayan quedado desiertas y deban trasvasarse al cupo general. Este fenómeno sugiere una desconexión entre la oferta de profesionalización civil para militares y la realidad de sus cualificaciones o interés. Además, la constante modificación de resoluciones previas (2025 y 2024) genera un rastro burocrático difícil de seguir para el ciudadano de a pie, ocultando posibles errores en la gestión inicial de los expedientes de los aspirantes.",
+    "resumen_ciudadano": "El Ministerio de Defensa nombra oficialmente a los nuevos auxiliares de enfermería para sus hospitales. El proceso ha tenido que ser corregido porque 9 personas seleccionadas inicialmente renunciaron o no cumplían los requisitos, y porque casi todas las plazas que se guardaron para militares no pudieron ser cubiertas por estos, pasando finalmente a ciudadanos civiles por orden de nota.",
+    "resumen_tweet": "🩺 Defensa adjudica plazas de enfermería (TCAE) tras un proceso caótico: ¡21 de 22 plazas para militares quedan desiertas! 📉 La falta de planificación obliga a parches de última hora. ¿Falta de interés o mala gestión? #BOE #Opacidad #Sanidad #Transparencia",
+    "banderas_red_flags": [
+      "Fracaso del cupo de reserva militar (95% de vacantes)",
+      "Modificación de resoluciones previas por errores o renuncias masivas",
+      "Concentración extrema de destinos en Madrid, limitando la movilidad nacional",
+      "Pérdida de derechos de participación para 9 aspirantes seleccionados originalmente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes del cupo general (obtienen 21 plazas extra)",
+        "Sistema sanitario de Madrid (absorbe la mayoría del personal)",
+        "Tribunales de justicia (potencial aumento de recursos contenciosos)"
+      ],
+      "perdedores": [
+        "Candidatos militares (incapaces de acceder a la reserva)",
+        "Personal sanitario de regiones fuera de Madrid y Zaragoza",
+        "Ciudadanos que esperan una gestión administrativa ágil y sin rectificaciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Procesos Selectivos",
+    "banderas_rojas": [
+      "Fracaso del cupo de reserva militar (95% de vacantes)",
+      "Modificación de resoluciones previas por errores o renuncias masivas",
+      "Concentración extrema de destinos en Madrid, limitando la movilidad nacional",
+      "Pérdida de derechos de participación para 9 aspirantes seleccionados originalmente"
+    ]
+  },
+  "tweeted": false
+}
