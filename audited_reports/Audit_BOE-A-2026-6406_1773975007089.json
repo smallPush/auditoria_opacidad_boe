@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6406",
+  "timestamp": "2026-03-20T02:50:07.089Z",
+  "title": "Acuerdo 23/2026, de 5 de marzo, de la Junta de Castilla y León, por el que se aprueban los Estatutos de la Universidad de Valladolid.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El texto presenta una estructura administrativa robusta pero delega la gestión financiera real y los criterios de asignación de recursos a reglamentos internos no detallados en el BOE. Se observa un blindaje de la figura del 'Gerente' y el 'Consejo Social', desplazando el control democrático del Claustro hacia órganos con mayor influencia política externa. La mención a la creación de fundaciones (Art. 121) y centros adscritos (Art. 36) abre la puerta a la externalización de servicios y a una gestión patrimonial que escapa al escrutinio público directo.",
+    "resumen_ciudadano": "La Universidad de Valladolid actualiza sus reglas de juego para adaptarse a la nueva ley estatal (LOSU). Aunque se habla de autonomía y valores, el poder real se concentra en los órganos directivos y se permite la creación de entes externos (fundaciones) que pueden gestionar dinero público con menos transparencia. Los estudiantes y el personal más precario mantienen una representación formal, pero las decisiones de 'caja' quedan en manos de perfiles técnicos y políticos.",
+    "resumen_tweet": "🎓 ¿Autonomía o cheque en blanco? Los nuevos estatutos de la @UVa_es en el #BOE delegan el control financiero a reglamentos internos opacos. Mucho poder para el Gerente y riesgo de precariedad en el PDI laboral. 🧐 #Opacidad #Transparencia #CYL",
+    "banderas_red_flags": [
+      "Uso recurrente de 'reglamentos internos' para definir el control de gastos.",
+      "Capacidad discrecional para la creación de fundaciones y personas jurídicas externas.",
+      "El Gerente asume competencias de gestión económica con limitada rendición de cuentas ante el Claustro.",
+      "Ambigüedad en los criterios de 'urgencia' para la provisión de plazas (Art. 157)."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Equipo de Gobierno (Rector y Vicerrectores)",
+        "Gerencia (centralización del poder ejecutivo)",
+        "Entidades privadas y fundaciones (vía convenios de adscripción)"
+      ],
+      "perdedores": [
+        "Personal Docente e Investigador (PDI) laboral (riesgo de precariedad frente a funcionarios)",
+        "Alumnado (representación diluida en decisiones financieras)",
+        "Control democrático universitario (el Claustro pierde peso frente al Consejo Social)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Normativa Universitaria / Estatutos",
+    "banderas_rojas": [
+      "Uso recurrente de 'reglamentos internos' para definir el control de gastos.",
+      "Capacidad discrecional para la creación de fundaciones y personas jurídicas externas.",
+      "El Gerente asume competencias de gestión económica con limitada rendición de cuentas ante el Claustro.",
+      "Ambigüedad en los criterios de 'urgencia' para la provisión de plazas (Art. 157)."
+    ]
+  },
+  "tweeted": false
+}
