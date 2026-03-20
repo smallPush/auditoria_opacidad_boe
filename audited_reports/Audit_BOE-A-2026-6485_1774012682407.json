@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6485",
+  "timestamp": "2026-03-20T13:18:02.407Z",
+  "title": "Resolución de 12 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolucion detalla una adjudicacion por 'libre designacion', un mecanismo que permite la seleccion discrecional de altos cargos. Resulta paradojico que el puesto adjudicado sea para la 'Division de Control y Mejora de la Gestion', cuando el proceso de seleccion carece de la transparencia y rigor de un concurso de meritos abierto. Se observa un trasvase de personal del Ministerio de Hacienda al de Exteriores en niveles maximos (Nivel 29), lo que sugiere la consolidacion de una elite burocratica que se mueve por confianza politica mas que por evaluacion tecnica publica. No hay rastro de la justificacion de por que esta persona es la mas apta entre los aspirantes.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado a una nueva Directora de Control y Mejora de la Gestion mediante el sistema de 'libre designacion' (a dedo). El puesto tiene un nivel 29, uno de los mas altos de la administracion, y ha sido otorgado a una funcionaria proveniente del Ministerio de Hacienda. Este tipo de nombramientos dificulta saber si se ha elegido al mejor profesional o al mas cercano al poder politico.",
+    "resumen_tweet": "🚩 Nueva adjudicacion a dedo en el #BOE. Puesto de Nivel 29 en Exteriores para 'Control y Mejora de la Gestion' otorgado por libre designacion. ¿Quien controla al controlador? 🧐 #Opacidad #Transparencia #FuncionesPublicas",
+    "banderas_red_flags": [
+      "Libre designacion (nombramiento discrecional)",
+      "Puesto de alta direccion (Nivel 29) sin desglose de meritos",
+      "Falta de memoria justificativa de la eleccion",
+      "Opacidad en el proceso de seleccion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Belen Romeo Villen",
+        "Elites de los cuerpos de la Hacienda Publica",
+        "Mecanismos de designacion discrecional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vinculacion politica",
+        "Principio de merito y capacidad",
+        "Ciudadania (por falta de transparencia en gastos de gestion)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Libre designacion (nombramiento discrecional)",
+      "Puesto de alta direccion (Nivel 29) sin desglose de meritos",
+      "Falta de memoria justificativa de la eleccion",
+      "Opacidad en el proceso de seleccion"
+    ]
+  },
+  "tweeted": false
+}
