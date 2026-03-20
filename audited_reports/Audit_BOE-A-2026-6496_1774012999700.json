@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6496",
+  "timestamp": "2026-03-20T13:23:19.700Z",
+  "title": "Resolución de 16 de marzo de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del sistema de 'libre designación' para el puesto de Directora del Departamento de Control Interno en la CNMC supone una vulnerabilidad ética estructural. Aunque la candidata posee un currículum técnico impecable como funcionaria de carrera A1, el hecho de que el órgano fiscalizador interno sea nombrado directamente por la cúpula del organismo que debe supervisar compromete la independencia necesaria para la auditoría y rendición de cuentas. Se prioriza la 'confianza' sobre la objetividad competitiva en un puesto clave para prevenir la corrupción interna.",
+    "resumen_ciudadano": "La CNMC ha cubierto el puesto de jefa de su departamento de control interno (quien vigila que todo se haga legalmente) mediante el dedo de la presidencia en lugar de un concurso de méritos abierto. Aunque la persona elegida está muy preparada, el sistema de elección permite que los altos cargos elijan a sus propios supervisores, lo que reduce la garantía de independencia en la vigilancia de los mercados y la competencia.",
+    "resumen_tweet": "🚩 ¿Quién vigila al vigilante? La CNMC adjudica a 'dedo' la Dirección de Control Interno. El sistema de libre designación en puestos de auditoría debilita la independencia frente al poder político. #BOE #Opacidad #Transparencia #CNMC ⚖️🧐",
+    "banderas_red_flags": [
+      "Sistema de libre designación en funciones de fiscalización",
+      "Riesgo de conflicto de interés institucional",
+      "Endogamia en el acceso a puestos de Nivel 30",
+      "Incoherencia entre independencia del regulador y nombramientos de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Irene Pinilla Melgarejo (acceso a puesto de máxima categoría administrativa N30)",
+        "Cúpula de la CNMC (mantiene control sobre quién audita sus procesos internos)"
+      ],
+      "perdedores": [
+        "Independencia del sistema de control interno",
+        "Candidatos técnicos externos sin red de confianza institucional",
+        "Transparencia en la gestión de mercados públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación en funciones de fiscalización",
+      "Riesgo de conflicto de interés institucional",
+      "Endogamia en el acceso a puestos de Nivel 30",
+      "Incoherencia entre independencia del regulador y nombramientos de confianza"
+    ]
+  },
+  "tweeted": false
+}
