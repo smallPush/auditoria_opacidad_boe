@@ -3,21 +3,15 @@ import readline from 'readline';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
 
 // Standard __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Manually load .env
+// Securely load .env without manual parsing
 const envPath = path.join(__dirname, '../.env');
-if (fs.existsSync(envPath)) {
-  const envContent = fs.readFileSync(envPath, 'utf8');
-      envContent.split(/\r?\n/).forEach(line => {    const [key, ...valueParts] = line.split('=');
-    if (key && valueParts.length > 0) {
-      process.env[key.trim()] = valueParts.join('=').trim();
-    }
-  });
-}
+dotenv.config({ path: envPath, override: true });
 
 // Instructions:
 // 1. Fill in your CLIENT_ID and CLIENT_SECRET below (or set them as env vars).

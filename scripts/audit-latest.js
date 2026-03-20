@@ -5,22 +5,15 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { GoogleGenAI, Type } from "@google/genai";
 import { sendTweet } from './twitter-client.js';
+import dotenv from 'dotenv';
 
 // Standard __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Manually load .env for Node < 20.6
+// Securely load .env without manual parsing
 const envPath = path.join(__dirname, '../.env');
-if (fs.existsSync(envPath)) {
-  const envContent = fs.readFileSync(envPath, 'utf8');
-  envContent.split(/\r?\n/).forEach(line => {
-    const [key, ...valueParts] = line.split('=');
-    if (key && valueParts.length > 0) {
-      process.env[key.trim()] = valueParts.join('=').trim();
-    }
-  });
-}
+dotenv.config({ path: envPath, override: true });
 
 // Constants
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
