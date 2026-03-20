@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6415",
+  "timestamp": "2026-03-20T02:52:52.496Z",
+  "title": "Resolución de 6 de marzo de 2026, de la Universidad de las Illes Balears, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de funcionarias de carrera en el ámbito universitario. Aunque el documento identifica claramente a las beneficiarias y sus áreas (Bioquímica y Trabajo Social), persiste la opacidad estructural del BOE: no se detallan las retribuciones anuales brutas ni el coste total para el erario público de estas plazas vitalicias. La referencia a códigos de plaza (151144, 090779) actúa como una barrera de datos que impide al ciudadano conocer el impacto presupuestario real de la Ley Orgánica 2/2023 en esta institución.",
+    "resumen_ciudadano": "La Universidad de las Illes Balears oficializa el nombramiento de dos nuevas profesoras titulares tras superar los procesos de concurso. Emilia Amengual Cladera se incorpora al área de Bioquímica y María Elena Cuartero Castañer a la de Trabajo Social.",
+    "resumen_tweet": "🏛️ Nombramientos en la @UIBuniversitat: dos nuevas profesoras titulares tras la reforma LOSU. Aunque hay nombres y apellidos, los salarios y el coste real para el contribuyente siguen bajo códigos opacos. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de visibilidad sobre los criterios de baremación final en este extracto",
+      "Dependencia de resoluciones previas no enlazadas directamente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Emilia Amengual Cladera (Estabilidad laboral/Funcionaria)",
+        "María Elena Cuartero Castañer (Estabilidad laboral/Funcionaria)",
+        "Universidad de las Illes Balears (Consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (sin acceso a la motivación en este anuncio)",
+        "Contribuyentes (desconocimiento del coste salarial total asignado)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos de Funcionarios",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de visibilidad sobre los criterios de baremación final en este extracto",
+      "Dependencia de resoluciones previas no enlazadas directamente"
+    ]
+  },
+  "tweeted": false
+}
