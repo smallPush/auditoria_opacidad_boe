@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6502",
+  "timestamp": "2026-03-20T13:34:56.317Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Universidad Pablo de Olavide, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución oficializa el nombramiento de cuatro funcionarios de carrera en la Universidad Pablo de Olavide. Bajo la apariencia de un trámite administrativo rutinario, se observa una brecha de género significativa en la cúspide académica: las dos cátedras (máximo nivel) son ocupadas por hombres, mientras que la única mujer nombrada accede a una plaza de Profesora Titular. Aunque se citan los códigos de plaza, el documento no ofrece datos sobre la concurrencia de otros candidatos ni las puntuaciones obtenidas, manteniendo la opacidad tradicional del sistema de acceso universitario español, frecuentemente criticado por endogamia.",
+    "resumen_ciudadano": "La Universidad Pablo de Olavide nombra a dos nuevos Catedráticos y dos Profesores Titulares. Estos puestos son vitalicios y pagados con dinero público. El proceso muestra una falta de paridad en los puestos de mayor rango (Cátedras) y no detalla los méritos que llevaron a estos nombramientos frente a otros posibles aspirantes.",
+    "resumen_tweet": "⚖️ Nuevos nombramientos en la @pablodeolavide: 4 funcionarios docentes más. 📉 De las 2 Cátedras, 0 son para mujeres. Se consolida gasto público sin transparencia en los méritos comparativos. #BOE #Opacidad #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Brecha de género en niveles superiores (Cátedras)",
+      "Ausencia de datos sobre la concurrencia competitiva",
+      "Falta de memoria de impacto presupuestario para nuevas plazas fijas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago Martín Bravo",
+        "Antonio José Vela Sánchez",
+        "Adalberto Ottati",
+        "Inmaculada Zambrano Álvarez",
+        "Cuerpos docentes universitarios (consolidación de estatus)"
+      ],
+      "perdedores": [
+        "Equidad de género en puestos de máxima responsabilidad académica",
+        "Candidatos externos (opacidad en el proceso)",
+        "Contribuyente (compromiso de gasto a largo plazo sin métricas de rendimiento expuestas)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de personal funcionario docente",
+    "banderas_rojas": [
+      "Brecha de género en niveles superiores (Cátedras)",
+      "Ausencia de datos sobre la concurrencia competitiva",
+      "Falta de memoria de impacto presupuestario para nuevas plazas fijas"
+    ]
+  },
+  "tweeted": false
+}
