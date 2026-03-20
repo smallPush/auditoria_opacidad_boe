@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6495",
+  "timestamp": "2026-03-20T13:33:54.333Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja un nombramiento por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de altos cargos. Aunque la adjudicataria es funcionaria de carrera (A1), el paso de un nivel 27 a un nivel 29 en la escala administrativa mediante este método elude los principios de mérito y capacidad competitiva pública, consolidando la estructura de confianza política sobre la técnica.",
+    "resumen_ciudadano": "Se ha nombrado a una nueva Coordinadora en la Secretaría de Estado de Migraciones. El puesto es de Nivel 29 (uno de los más altos en la administración) y ha sido asignado por libre elección directa de los superiores, no por oposición directa para ese cargo específico.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el #BOE. El Ministerio de Inclusión adjudica por libre designación un puesto de Nivel 29. Aunque el sistema es legal, la discrecionalidad dificulta auditar el mérito real. 🏛️📉 #Opacidad #Transparencia #Administración",
+    "banderas_red_flags": [
+      "Libre designación (Discrecionalidad)",
+      "Salto de nivel administrativo (27 a 29)",
+      "Ausencia de justificación de méritos específicos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Serna Marín (Promoción a Nivel 29)",
+        "Ministerio de Inclusión (Colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos externos con posibles mejores méritos técnicos",
+        "Transparencia en la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (Discrecionalidad)",
+      "Salto de nivel administrativo (27 a 29)",
+      "Ausencia de justificación de méritos específicos en el texto"
+    ]
+  },
+  "tweeted": false
+}
