@@ -7,7 +7,7 @@ on:
     branches:
       - main
   workflow_run:
-    workflows: ["Scheduled BOE Audit"]
+    workflows: ["Scheduled BOE Audit 19"]
     types:
       - completed
   workflow_dispatch:
