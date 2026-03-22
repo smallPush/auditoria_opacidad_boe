@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6544",
+  "timestamp": "2026-03-22T20:04:42.881Z",
+  "title": "Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El decreto utiliza la crisis en Oriente Medio como catalizador para una movilización masiva de 5.000 millones de euros, pero gran parte se diluye en conceptos estructurales vagos. Destaca la 'privatización' de facto de la gestión del sistema de Certificados de Ahorro Energético (CAE) al encomendárselo a OMIE (empresa privada). Existe una incongruencia ideológica: se vende como 'escudo social', pero se introduce una senda decreciente para las ayudas a vulnerables, asegurando que el apoyo estatal tiene fecha de caducidad mientras las inversiones en infraestructura eléctrica benefician a grandes promotores industriales.",
+    "resumen_ciudadano": "El Gobierno aprueba un plan de 5.000 millones de euros ante la guerra entre EE.UU./Israel e Irán. Las medidas incluyen rebajas de impuestos a la energía y ayudas al transporte. Sin embargo, para los ciudadanos vulnerables, el bono social empezará a reducirse gradualmente. Además, se crea una nueva tasa por 'reservar' espacio en la red eléctrica para evitar la especulación, y se dan ayudas para instalar bombas de calor, que suelen requerir una gran inversión inicial inalcanzable para las rentas bajas.",
+    "resumen_tweet": "🚨 ¡5.000M€ movilizados por la crisis en Irán! Detrás del 'escudo social' el #BOE esconde recortes progresivos en el bono social y la entrega de la gestión energética a manos privadas (OMIE). ¿Ayuda real o negocio para eléctricas? 🕵️‍♂️💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Adjudicación directa de la gestión de la plataforma CAE a OMIE (empresa privada).",
+      "Senda decreciente del bono social: el apoyo a los más vulnerables disminuirá en 2026.",
+      "Falta de desglose específico de la partida de 5.000 millones de euros.",
+      "Creación de una 'prestación por reserva de capacidad' que actúa como un nuevo gravamen administrativo."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones energéticas (OMIE y promotores renovables)",
+        "Sector del transporte y agropecuario (ayudas directas)",
+        "Industria electrointensiva (reducción de peajes)"
+      ],
+      "perdedores": [
+        "Familias vulnerables (el bono social se encamina al recorte)",
+        "Pequeños inversores eléctricos (nuevas tasas por reserva de red)",
+        "Clase trabajadora (dificultad para acceder a incentivos como bombas de calor por coste inicial)"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Real Decreto-ley de Emergencia Económica",
+    "banderas_rojas": [
+      "Adjudicación directa de la gestión de la plataforma CAE a OMIE (empresa privada).",
+      "Senda decreciente del bono social: el apoyo a los más vulnerables disminuirá en 2026.",
+      "Falta de desglose específico de la partida de 5.000 millones de euros.",
+      "Creación de una 'prestación por reserva de capacidad' que actúa como un nuevo gravamen administrativo."
+    ]
+  },
+  "tweeted": false
+}
