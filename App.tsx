@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { Routes, Route, useNavigate, useParams, useLocation, Link } from 'react-router-dom';
 import { Search, Loader2, Lock, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, ExternalLink } from 'lucide-react';
 import { BOE_SOURCES, STORAGE_KEYS } from './constants';
@@ -304,7 +304,8 @@ const App: React.FC = () => {
     return 'home';
   };
 
-  const isAlreadyAudited = (id: string) => history.some(h => h.boeId === id);
+  const auditedIdsSet = useMemo(() => new Set(history.map(h => h.boeId)), [history]);
+  const isAlreadyAudited = (id: string) => auditedIdsSet.has(id);
 
   const LoginOverlay = () => (
     <div className="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-300">
