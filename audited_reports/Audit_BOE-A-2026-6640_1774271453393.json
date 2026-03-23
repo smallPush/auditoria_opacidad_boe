@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6640",
+  "timestamp": "2026-03-23T13:10:53.393Z",
+  "title": "Orden DEF/231/2026, de 16 de marzo, por la que se modifica la Orden DEF/368/2017, de 4 de abril, por la que se aprueba el Régimen del Alumnado de la enseñanza de formación y se modifica la Orden DEF/1626/2015, de 29 de julio, por la que se aprueban las directrices generales para la elaboración de los currículos de la enseñanza de formación para el acceso a las diferentes escalas de suboficiales de los cuerpos de las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden DEF/231/2026 introduce una cláusula de control preventivo bajo el paraguas de la 'formación'. Al exigir la Habilitación Personal de Seguridad (HPS) durante la etapa de alumnado, el Ministerio de Defensa traslada la responsabilidad de la idoneidad política y de seguridad al estudiante. El punto más crítico es que el 'incumplimiento de deberes' o la imposibilidad de obtener dicha habilitación se convierte en causa directa de expulsión (baja), lo que otorga a la administración una herramienta discrecional para filtrar perfiles antes de que lleguen a su primer destino. Se detecta una tensión entre el derecho a la educación militar y los criterios de seguridad nacional, que suelen ser opacos.",
+    "resumen_ciudadano": "Defensa modifica el régimen de los alumnos de las academias militares. Ahora, los estudiantes están obligados a obtener habilitaciones de seguridad para poder cursar asignaturas que manejen material clasificado. Si un alumno no colabora en este proceso o no obtiene el nivel de seguridad requerido, podrá ser expulsado de las Fuerzas Armadas. Además, se refuerza el deber de usar responsablemente las redes sociales para evitar faltas disciplinarias y se prohíben explícitamente las novatadas.",
+    "resumen_tweet": "🛡️ Nueva purga de seguridad en Defensa: los alumnos militares que no obtengan habilitación de seguridad serán EXPULSADOS. Más control sobre redes sociales y vigilancia temprana. ¿Garantía de profesionalidad o filtro ideológico? #BOE #Opacidad #Defensa",
+    "banderas_red_flags": [
+      "Expulsión vinculada a criterios de seguridad opacos (HPS)",
+      "Ambigüedad en el concepto de 'falta de cooperación' del alumno",
+      "Uso de la HPS como filtro previo al ejercicio profesional",
+      "Control disciplinario preventivo sobre el uso de tecnologías y difusión de información"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Defensa (mayor control sobre los perfiles de los futuros mandos)",
+        "Servicios de Inteligencia (acceso temprano a datos de aspirantes)"
+      ],
+      "perdedores": [
+        "Alumnos con entornos o perfiles 'no aptos' según criterios de seguridad discrecionales",
+        "Seguridad jurídica de los estudiantes frente a causas de baja ambiguas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Legislación de Defensa y Formación Militar",
+    "banderas_rojas": [
+      "Expulsión vinculada a criterios de seguridad opacos (HPS)",
+      "Ambigüedad en el concepto de 'falta de cooperación' del alumno",
+      "Uso de la HPS como filtro previo al ejercicio profesional",
+      "Control disciplinario preventivo sobre el uso de tecnologías y difusión de información"
+    ]
+  },
+  "tweeted": false
+}
