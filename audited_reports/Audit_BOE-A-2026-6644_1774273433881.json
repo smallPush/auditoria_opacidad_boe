@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6644",
+  "timestamp": "2026-03-23T13:43:53.881Z",
+  "title": "Corrección de errores de la Ley 5/2025, de 16 de diciembre, de Vivienda de Andalucía.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Bajo la apariencia de una simple corrección de erratas ortográficas, el legislador está realizando una modificación sustancial del alcance de la derogación normativa. Al cambiar 'los artículos 2, 3, 4, 5 de la disposición adicional segunda' por 'los artículos 2, 3, 4, 5, la disposición adicional segunda', se pasa de eliminar elementos internos a eliminar una disposición completa del Reglamento de Viviendas Protegidas de 2006. Esta técnica de 'fe de erratas' para ampliar el desmantelamiento normativo sin nuevo debate parlamentario es una práctica de opacidad legislativa recurrente.",
+    "resumen_ciudadano": "La Junta de Andalucía ha corregido la Ley de Vivienda para aclarar que se elimina por completo la Disposición Adicional Segunda del reglamento de VPO de 2006. Lo que parece un cambio de una coma por una palabra en realidad expande qué partes de la normativa anterior dejan de estar vigentes, afectando a la regulación de la vivienda protegida.",
+    "resumen_tweet": "🚨 ¿Error tipográfico o limpieza legal? El #BOE publica una \"corrección\" en la Ley de Vivienda de Andalucía que, mediante una simple coma, amplía la derogación de normas sobre Vivienda Protegida. Menos reglas, menos transparencia. 🧐🏠 #Opacidad",
+    "banderas_red_flags": [
+      "Modificación de calado jurídico mediante fe de erratas",
+      "Ampliación del alcance derogatorio sin exposición de motivos",
+      "Opacidad en la simplificación administrativa de VPO"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración autonómica (por simplificación de normativa previa)",
+        "Seguridad jurídica formal para la administración"
+      ],
+      "perdedores": [
+        "Ciudadanía (por la dificultad de seguimiento de la normativa vigente)",
+        "Transparencia democrática (por modificar el fondo mediante la forma)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Vivienda y Urbanismo",
+    "banderas_rojas": [
+      "Modificación de calado jurídico mediante fe de erratas",
+      "Ampliación del alcance derogatorio sin exposición de motivos",
+      "Opacidad en la simplificación administrativa de VPO"
+    ]
+  },
+  "tweeted": false
+}
