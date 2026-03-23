@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6655",
+  "timestamp": "2026-03-23T13:46:11.680Z",
+  "title": "Resolución de 16 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 9 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un mecanismo legal pero criticado por permitir la adjudicación de puestos de alta responsabilidad (Nivel 29) bajo criterios de confianza política en lugar de méritos puramente objetivos. El puesto de Coordinador de Área en la División de TIC del Ministerio de Igualdad implica acceso a datos sensibles y gestión de infraestructuras digitales, lo que hace que la discrecionalidad en su elección sea un punto de fricción con los principios de transparencia absoluta.",
+    "resumen_ciudadano": "El Ministerio de Igualdad ha nombrado a un nuevo Coordinador de Área para su división tecnológica. El cargo es de Nivel 29 (uno de los más altos en la administración) y se ha otorgado mediante elección directa ('a dedo') por parte de los superiores, una práctica común para puestos de confianza pero que genera dudas sobre la igualdad de oportunidades entre funcionarios.",
+    "resumen_tweet": "🚨 Nuevo nombramiento 'a dedo' en el @IgualdadGob. Se adjudica un puesto de Nivel 29 (máximo nivel técnico) mediante libre designación. ¿Meritocracia o discrecionalidad en la cima digital del Ministerio? #BOE #Opacidad #Transparencia ⚖️💻",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Consolidación de cargos de confianza en áreas técnicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ricardo Martínez Romero (adjudicatario del puesto)",
+        "Cúpula del Ministerio de Igualdad (asegura personal de confianza en TIC)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de promoción por mérito puro)",
+        "Ciudadanía (opacidad sobre los motivos reales de la elección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Consolidación de cargos de confianza en áreas técnicas"
+    ]
+  },
+  "tweeted": false
+}
