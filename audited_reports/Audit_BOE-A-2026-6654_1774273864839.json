@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6654",
+  "timestamp": "2026-03-23T13:51:04.839Z",
+  "title": "Orden EFD/235/2026, de 13 de marzo, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, se retrotraen los efectos del nombramiento como funcionaria de carrera, del Cuerpo de Profesores de Enseñanza Secundaria, de doña Ascensión Gracia Ros.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una orden de ejecución de sentencia (Sentencia 506/2022) que obliga a la administración a corregir un error en el proceso selectivo de 2019. Aunque el texto es claro en su origen legal, oculta el impacto económico real: el erario público deberá sufragar los salarios y cotizaciones de cinco años (2020-2025) de una sola vez debido a una negligencia administrativa previa. Es un caso típico de 'gasto fantasma' reactivo donde el ciudadano paga por la ineficacia de los tribunales de oposición.",
+    "resumen_ciudadano": "Una profesora de secundaria en la Comunidad Valenciana ha logrado, tras años de litigio judicial, que se le reconozca su plaza de funcionaria con efectos retroactivos desde 2020. Esto implica que el Estado deberá pagarle todos los atrasos correspondientes a estos años, corrigiendo una exclusión indebida en las oposiciones de 2019.",
+    "resumen_tweet": "⚖️ ¡Justicia tardía! Una docente gana al sistema tras años de pleitos. El Estado debe pagarle 5 años de atrasos por errores en las oposiciones de 2019 en la C. Valenciana. ¿Cuánto nos cuestan estas negligencias? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Retrotraer efectos económicos (gasto no presupuestado)",
+      "Dilatación temporal extrema (7 años desde la convocatoria original)",
+      "Opacidad sobre el coste total de los atrasos devengados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ascensión Gracia Ros (recupera su derecho y antigüedad)",
+        "Sistema judicial (como último garante)"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de intereses y atrasos por errores de gestión)",
+        "Administración Educativa (evidencia de falta de rigor en procesos selectivos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Retrotraer efectos económicos (gasto no presupuestado)",
+      "Dilatación temporal extrema (7 años desde la convocatoria original)",
+      "Opacidad sobre el coste total de los atrasos devengados"
+    ]
+  },
+  "tweeted": false
+}
