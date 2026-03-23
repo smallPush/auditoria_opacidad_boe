@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6642",
+  "timestamp": "2026-03-23T13:27:05.351Z",
+  "title": "Ley 2/2026, de 6 de marzo, de modificación del impuesto sobre las estancias en establecimientos turísticos y de creación de la tasa por el servicio de gestión y recaudación del recargo municipal del impuesto.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 2/2026 utiliza una narrativa de 'emergencia habitacional' para legitimar un aumento impositivo, pero mantiene una contradicción estructural: el 75% de la recaudación sigue blindado para el fomento del turismo, el mismo motor que el preámbulo identifica como causante de la crisis de vivienda. Se detecta un 'gasto circular' donde se grava la actividad para financiar su propia promoción. Además, la creación de recargos municipales de hasta 8 euros en Barcelona y 4 euros en el resto de Cataluña genera una fragmentación fiscal que carece de mecanismos de control específicos sobre el destino final de esos fondos adicionales, bajo conceptos ambiguos como 'mejora de la competitividad'.",
+    "resumen_ciudadano": "Cataluña incrementa las tasas por pernoctación turística a partir de abril de 2026. La novedad es que un 25% del dinero se destinará a políticas de vivienda, mientras que el resto seguirá financiando al sector turístico. Además, se autoriza a todos los ayuntamientos a cobrar un recargo extra propio, lo que encarecerá las estancias en hoteles, apartamentos y cruceros.",
+    "resumen_tweet": "🏨 Cataluña sube la Tasa Turística: ¿Solución o parche? El 25% irá a vivienda, pero el 75% sigue destinado a 'promocionar' el turismo que causa la crisis habitacional. 💸 ¡Ojo a los nuevos recargos municipales! #BOE #Opacidad #Transparencia 📉",
+    "banderas_red_flags": [
+      "Uso de términos vagos como 'mejora de la competitividad' para el destino de fondos",
+      "Incongruencia ideológica: financiar la promoción del turismo con fondos recaudados para paliar sus efectos negativos",
+      "Ausencia de desglose sobre el control de los convenios con la Agencia Tributaria de Cataluña",
+      "Posible duplicidad en la gestión y recaudación mediante la creación de nuevas tasas de servicio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamiento de Barcelona (mayor capacidad recaudatoria)",
+        "Generalitat de Cataluña (nuevos recursos para vivienda pública)",
+        "Entes de promoción turística"
+      ],
+      "perdedores": [
+        "Turistas de rentas bajas y usuarios de albergues de juventud",
+        "Pequeños establecimientos turísticos (carga administrativa del recargo)",
+        "Residentes locales (continuidad del modelo de promoción turística masiva)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Ley de Medidas Fiscales / Tributaria",
+    "banderas_rojas": [
+      "Uso de términos vagos como 'mejora de la competitividad' para el destino de fondos",
+      "Incongruencia ideológica: financiar la promoción del turismo con fondos recaudados para paliar sus efectos negativos",
+      "Ausencia de desglose sobre el control de los convenios con la Agencia Tributaria de Cataluña",
+      "Posible duplicidad en la gestión y recaudación mediante la creación de nuevas tasas de servicio"
+    ]
+  },
+  "tweeted": false
+}
