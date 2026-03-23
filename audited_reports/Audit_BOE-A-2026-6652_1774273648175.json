@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6652",
+  "timestamp": "2026-03-23T13:47:28.175Z",
+  "title": "Orden EFD/233/2026, de 13 de marzo, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, se nombra personal funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria al personal funcionario de carrera del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, que han sido integrados en virtud del procedimiento, en plazo extraordinario, convocado por Orden 7/2023, de 15 de marzo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un proceso de regularización de personal docente (paso del subgrupo A2 al A1) que se presenta bajo un 'plazo extraordinario'. La principal anomalía detectada es la extrema lentitud administrativa: se publican nombramientos en 2026 con efectos retroactivos que en algunos casos se remontan a abril de 2023. Esta demora de tres años en la gestión de recursos humanos sugiere una ineficiencia burocrática estructural en la coordinación entre la administración autonómica valenciana y el Ministerio. Además, el texto utiliza el término 'cuerpo a extinguir' para suavizar una reestructuración laboral profunda que deja en un limbo profesional a quienes no poseen la titulación requerida para la integración.",
+    "resumen_ciudadano": "El Ministerio formaliza el ascenso de 14 profesores de FP de la Comunidad Valenciana al cuerpo de Secundaria. Este cambio implica una subida salarial y de categoría profesional. Lo llamativo es que el proceso se ha demorado tanto que la administración debe reconocerles la antigüedad y el sueldo de forma retroactiva desde hace casi tres años, evidenciando un atasco administrativo considerable en la gestión de plazas públicas.",
+    "resumen_tweet": "🚨 ¡3 años de espera! El #BOE publica el ascenso 'extraordinario' de docentes de FP en la C. Valenciana con efectos desde 2023. Burocracia lenta que retrasa la carrera de nuestros profesores. 🏫💸 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Plazo extraordinario sin justificación de la demora",
+      "Efectos retroactivos de hasta 36 meses",
+      "Opacidad en el coste total de los atrasos salariales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes seleccionados (mejoran a grupo A1 y reciben atrasos)",
+        "Sindicatos que presionaron por la integración"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de intereses y atrasos por mala gestión temporal)",
+        "Docentes sin titulación universitaria que permanecen en el cuerpo a extinguir con menor sueldo"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramientos y Reestructuración de Personal",
+    "banderas_rojas": [
+      "Plazo extraordinario sin justificación de la demora",
+      "Efectos retroactivos de hasta 36 meses",
+      "Opacidad en el coste total de los atrasos salariales"
+    ]
+  },
+  "tweeted": false
+}
