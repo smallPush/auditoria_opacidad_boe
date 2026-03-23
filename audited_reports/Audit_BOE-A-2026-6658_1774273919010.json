@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6658",
+  "timestamp": "2026-03-23T13:51:59.010Z",
+  "title": "Resolución de 16 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el sistema de 'Libre Designacion', un mecanismo legal pero intrinsecamente discrecional que permite la eleccion de perfiles especificos sin la rigurosidad competitiva de un concurso de meritos. Se observa la adjudicacion de puestos de Nivel 29, el escalafon mas alto de la administracion, lo que refuerza estructuras de confianza politica en areas tecnicas como la Transformacion Digital. La existencia de plazas desiertas sugiere o bien una falta de perfiles cualificados internos o una seleccion estricta basada en criterios no publicados.",
+    "resumen_ciudadano": "El Ministerio de Transformacion Digital ha completado la seleccion de varios altos cargos (Coordinadores de Area) y personal de apoyo. Aunque los nombres son publicos, el metodo de seleccion permite elegir 'a dedo' entre funcionarios, lo que reduce la transparencia sobre por que estas personas son las mas aptas. Se han asignado niveles salariales maximos (Nivel 29) a los elegidos.",
+    "resumen_tweet": "🚩 Mas puestos 'a dedo' en el #BOE. El Ministerio de Transformacion Digital adjudica plazas de Nivel 29 mediante libre designacion. La meritocracia queda en segundo plano frente a la discrecionalidad. 🤔 #Opacidad #Transparencia #FuncionPublica",
+    "banderas_red_flags": [
+      "Uso de libre designacion para puestos de alta direccion",
+      "Adjudicacion de nivel maximo de administracion (29)",
+      "Plazas desiertas sin justificacion tecnica detallada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Administradores Civiles",
+        "Estructuras de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vinculos de confianza",
+        "Sistema de concurso publico basado estrictamente en puntos de merito",
+        "Ciudadania que busca transparencia total en el gasto de personal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designacion para puestos de alta direccion",
+      "Adjudicacion de nivel maximo de administracion (29)",
+      "Plazas desiertas sin justificacion tecnica detallada"
+    ]
+  },
+  "tweeted": false
+}
