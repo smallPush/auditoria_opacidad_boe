@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6649",
+  "timestamp": "2026-03-23T13:45:06.768Z",
+  "title": "Resolución 430/38150/2026, de 12 de marzo, de la Subsecretaría, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a, y por la que se modifica la Resolución 400/38358/2025, de 22 de julio, de la Subsecretaría, por la que se publica la relación de personas aprobadas en el proceso selectivo para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Enfermero/a y de Fisioterapeuta, en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38514/2024, de 25 de noviembre.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion refleja el proceso de estabilizacion de empleo temporal en la Red Hospitalaria de la Defensa. Se observa una cadena de modificaciones burocraticas (citando resoluciones de 2024, 2025 y 2026) que evidencia la lentitud administrativa para consolidar plazas sanitarias. Aunque el proceso es publico, la dispersion de plazas restantes unicamente en Madrid revela un sesgo de centralizacion que dificulta la conciliacion o el acceso a personal de otras regiones.",
+    "resumen_ciudadano": "Defensa nombra oficialmente a nuevos enfermeros fijos para sus hospitales tras un proceso de seleccion iniciado en 2024. Se publica quien entra, quien sale por no presentar papeles y quien es el sustituto. Los nuevos destinos estan concentrados en Madrid.",
+    "resumen_tweet": "🏥 Defensa estabiliza plazas de enfermería tras 2 años de espera. El #BOE muestra la maraña burocrática: resoluciones que modifican resoluciones. Ganamos en fijeza sanitaria, pero las plazas se quedan en Madrid. 💉 #Transparencia #SanidadMilitar #Opacidad",
+    "banderas_red_flags": [
+      "Burocracia recursiva: multiples modificaciones de resoluciones anteriores",
+      "Centralismo geografico: plazas sobrantes exclusivamente en Madrid",
+      "Dilacion temporal: proceso iniciado en 2024 y resuelto en 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Enfermeros que logran plaza fija (estabilidad laboral)",
+        "Julia Navarro Ramos (sustituta por orden de puntuacion)",
+        "Red Hospitalaria de la Defensa (reduccion de interinidad)"
+      ],
+      "perdedores": [
+        "Isabel Muñoz Bielsa (pierde todos sus derechos por falta de documentacion)",
+        "Personal sanitario fuera de Madrid (falta de oferta territorial)",
+        "Candidatos en lista de espera de 2024 por la lentitud del proceso"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Burocracia recursiva: multiples modificaciones de resoluciones anteriores",
+      "Centralismo geografico: plazas sobrantes exclusivamente en Madrid",
+      "Dilacion temporal: proceso iniciado en 2024 y resuelto en 2026"
+    ]
+  },
+  "tweeted": false
+}
