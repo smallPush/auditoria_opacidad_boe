@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6792",
+  "timestamp": "2026-03-24T13:43:35.934Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Secretaría de Estado de Transportes y Movilidad Sostenible, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "Se observa el uso recurrente del mecanismo de 'libre designación' para puestos de alta responsabilidad (Nivel 30), lo que en la práctica permite el nombramiento discrecional de perfiles técnicos con afinidad política. Aunque el texto menciona 'entrevistas' y 'criterios de idoneidad', no se publican los baremos ni las puntuaciones obtenidas por otros candidatos, si los hubo. La vinculación de este puesto con el Plan de Recuperación, Transformación y Resiliencia subraya que la gestión de fondos europeos queda en manos de personal elegido por confianza y no por concurso de méritos abierto.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha nombrado a Manuel Roger Revilla como Subdirector General de Gestión del Transporte por Carretera y Ferrocarril. Este puesto es de los más altos en la administración y se ha otorgado mediante elección directa del Ministerio ('libre designación'). El nombrado gestionará áreas clave del transporte y fondos europeos durante un periodo de 5 años renovables.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el Ministerio de Transportes. Se adjudica un puesto de Nivel 30 por libre designación. Aunque mencionan entrevistas, el sistema permite elegir a dedo a quien gestionará infraestructuras y fondos europeos. 🏗️🛤️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles máximos de la administración",
+      "Falta de transparencia en los resultados de las entrevistas",
+      "Mandato de 5 años renovable vinculado a evaluación subjetiva",
+      "Gestión de recursos estratégicos del Plan de Recuperación por personal de confianza política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Roger Revilla (adjudicatario del puesto Nivel 30)",
+        "Cúpula política del Ministerio de Transportes (asegura control directo sobre la Subdirección General)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios de carrera (limitación de promoción por mérito puro)",
+        "Ciudadanía (menor control sobre la independencia técnica en la gestión ferroviaria y vial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles máximos de la administración",
+      "Falta de transparencia en los resultados de las entrevistas",
+      "Mandato de 5 años renovable vinculado a evaluación subjetiva",
+      "Gestión de recursos estratégicos del Plan de Recuperación por personal de confianza política"
+    ]
+  },
+  "tweeted": false
+}
