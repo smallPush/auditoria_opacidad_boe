@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6791",
+  "timestamp": "2026-03-24T13:15:16.449Z",
+  "title": "Orden HAC/259/2026, de 18 de marzo, por la que se dispone el cese y nombramiento de vocales del Consejo para la Defensa del Contribuyente.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una clara endogamia institucional en el Consejo para la Defensa del Contribuyente. Aunque el órgano nace para proteger al ciudadano, su composición es decidida íntegramente por el Ministerio de Hacienda, el mismo ente del que debe proteger. Los ceses y nombramientos no incluyen justificación técnica ni méritos específicos, basándose únicamente en la potestad discrecional de la Ministra. Esto plantea un conflicto de intereses estructural: el recaudador elige a sus propios 'vigilantes'.",
+    "resumen_ciudadano": "Hacienda ha renovado a varios vocales del Consejo para la Defensa del Contribuyente, sustituyendo representantes de la Dirección General de Tributos, del Catastro y del sector profesional. Es un cambio de nombres en un órgano que, sobre el papel, defiende a los ciudadanos frente a posibles abusos fiscales, pero cuyos miembros son seleccionados directamente por el Gobierno.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién defiende al contribuyente? Hacienda renueva a dedo a los vocales de su 'Consejo de Defensa'. El recaudador elige a sus propios vigilantes. ¿Independencia real o fachada institucional? 🏛️💸 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Falta de independencia orgánica",
+      "Nombramientos discrecionales sin concurso público",
+      "Conflicto de intereses (el regulado nombra al regulador)",
+      "Ausencia de memorias de idoneidad de los candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sonia Díaz Español",
+        "Jorge Alberto Ferreras Gutiérrez",
+        "Jesús Puebla Blasco",
+        "Ministerio de Hacienda (mantiene control total)"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de una defensa independiente y externa)",
+        "Transparencia democrática (nombramientos opacos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Falta de independencia orgánica",
+      "Nombramientos discrecionales sin concurso público",
+      "Conflicto de intereses (el regulado nombra al regulador)",
+      "Ausencia de memorias de idoneidad de los candidatos"
+    ]
+  },
+  "tweeted": false
+}
