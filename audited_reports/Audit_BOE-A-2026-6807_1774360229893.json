@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6807",
+  "timestamp": "2026-03-24T13:50:29.893Z",
+  "title": "Resolución de 12 de marzo de 2026, del Ayuntamiento de Ordes (A Coruña), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución se ampara en el sistema de 'movilidad', lo que técnicamente bloquea el acceso a cualquier ciudadano que no sea ya funcionario de carrera en otro cuerpo de policía. Esta práctica, aunque legal, fomenta el corporativismo y evita el relevo generacional o la entrada de nuevos perfiles socioeconómicos. Además, existe una 'opacidad delegada' al no detallar los méritos en el BOE, obligando al interesado a una búsqueda secundaria en el boletín provincial para detectar posibles baremos 'a medida'.",
+    "resumen_ciudadano": "El Ayuntamiento de Ordes convoca 2 plazas de policía, pero no son para el público general. Solo pueden optar agentes que ya tengan plaza en otros ayuntamientos y quieran trasladarse. Es un proceso de intercambio interno que no genera nuevo empleo neto para la sociedad civil.",
+    "resumen_tweet": "🚨 ¡Acceso restringido en Ordes! 🚔 Convocan 2 plazas de Policía Local solo para agentes ya en activo (movilidad). El ciudadano común queda excluido de la oferta pública. ¿Favorece esto la regeneración? #BOE #Opacidad #Transparencia #Ordes",
+    "banderas_red_flags": [
+      "Restricción de acceso por sistema de movilidad",
+      "Falta de detalle de méritos en el extracto nacional",
+      "Ausencia de medidas de fomento de paridad de género"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios policiales en activo buscando traslado",
+        "Estructura administrativa municipal (proceso simplificado)"
+      ],
+      "perdedores": [
+        "Opositores noveles",
+        "Jóvenes de la comarca de Ordes",
+        "Criterios de diversidad en la seguridad pública"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Restricción de acceso por sistema de movilidad",
+      "Falta de detalle de méritos en el extracto nacional",
+      "Ausencia de medidas de fomento de paridad de género"
+    ]
+  },
+  "tweeted": false
+}
