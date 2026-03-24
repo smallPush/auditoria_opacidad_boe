@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6800",
+  "timestamp": "2026-03-24T13:48:04.878Z",
+  "title": "Resolución de 18 de marzo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "Se publica una convocatoria de provisión por 'Libre Designación' para un puesto de secretaría dentro del Gabinete de la Ministra. Aunque formalmente legal, este procedimiento permite la selección discrecional ('a dedo') del personal, lo que reduce la meritocracia técnica en favor de la confianza política. La ausencia de criterios de puntuación específicos en el anexo I subraya la opacidad del proceso de selección final.",
+    "resumen_ciudadano": "El Ministerio de Educación convoca un puesto de trabajo para el equipo directo de la Ministra que se cubrirá por elección directa del mando, no por concurso público de méritos competitivos. Es una práctica común pero criticada por favorecer el clientelismo dentro de la administración pública.",
+    "resumen_tweet": "🚩 Nueva plaza 'a dedo' en el Ministerio de Educación. Se convoca puesto de secretario/a para el Gabinete mediante libre designación. Menos mérito, más confianza política. ¿Dónde queda la meritocracia? 🧐📉 #BOE #Opacidad #Transparencia #Enchufe",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos de nivel intermedio",
+      "Ausencia de baremos objetivos de mérito",
+      "Adscripción a Gabinete Político",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Contactos de confianza del equipo ministerial",
+        "Personal con redes de influencia política"
+      ],
+      "perdedores": [
+        "Funcionarios con alto perfil técnico sin vínculos políticos",
+        "Sistema de mérito y capacidad",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos de nivel intermedio",
+      "Ausencia de baremos objetivos de mérito",
+      "Adscripción a Gabinete Político",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
