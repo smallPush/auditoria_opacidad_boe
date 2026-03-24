@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6793",
+  "timestamp": "2026-03-24T13:42:40.294Z",
+  "title": "Orden EFD/260/2026, de 18 de marzo, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, se nombra funcionario de carrera del Cuerpo de Maestros a don Fernando Rey Curiel.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento encubre bajo una apariencia de trámite ordinario un conflicto legal significativo. Se trata de un nombramiento forzado por la justicia (Sentencia 1140/2025 del TSJ de Castilla y León). El aspirante fue declarado 'no apto' en su fase de prácticas en dos ocasiones consecutivas (2023 y 2024) por la Administración, lo que sugiere una posible arbitrariedad en los procesos de evaluación de la Consejería de Educación que solo el amparo judicial ha podido corregir. La opacidad reside en omitir los motivos de la 'no aptitud' inicial y la posterior rectificación judicial.",
+    "resumen_ciudadano": "Tras ser rechazado dos veces por la Junta de Castilla y León, un docente ha tenido que acudir a los tribunales para conseguir su plaza. El Tribunal Superior de Justicia ha obligado al Ministerio a nombrarle funcionario de carrera con efectos retroactivos desde septiembre de 2024, evidenciando un error o mala praxis en la evaluación inicial del aspirante.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Un maestro logra su plaza tras ser declarado 'no apto' dos veces por la Administración. El TSJ corrige el criterio de Castilla y León y le da la razón. ¿Falla la evaluación docente? 🍎💼 #Transparencia #Opacidad #Oposiciones",
+    "banderas_red_flags": [
+      "Litigiosidad administrativa previa",
+      "Nombramiento por sentencia judicial firme",
+      "Efectos retroactivos económicos y administrativos",
+      "Doble evaluación negativa previa por la comisión calificadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Rey Curiel (obtiene su plaza y atrasos)",
+        "Poder Judicial (actuando como contrapeso a la Administración)"
+      ],
+      "perdedores": [
+        "Consejería de Educación de Castilla y León (criterio técnico invalidado)",
+        "Contribuyentes (costes procesales y posibles intereses de demora)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Litigiosidad administrativa previa",
+      "Nombramiento por sentencia judicial firme",
+      "Efectos retroactivos económicos y administrativos",
+      "Doble evaluación negativa previa por la comisión calificadora"
+    ]
+  },
+  "tweeted": false
+}
