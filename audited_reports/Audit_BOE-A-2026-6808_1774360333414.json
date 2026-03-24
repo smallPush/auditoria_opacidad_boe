@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6808",
+  "timestamp": "2026-03-24T13:52:13.414Z",
+  "title": "Resolución de 12 de marzo de 2026, del Ayuntamiento de Salamanca, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una fragmentación informativa típica de la administración local: el BOE actúa como mero tablón de anuncios técnico, obligando al ciudadano a acudir al Boletín Provincial (BOP) para conocer los requisitos reales. Es destacable la reserva del 66% de las plazas de Trabajo Social para el turno de discapacidad (2 de 3), una medida de fuerte impacto social pero que reduce drásticamente las posibilidades del turno libre general en una convocatoria tan pequeña.",
+    "resumen_ciudadano": "El Ayuntamiento de Salamanca abre convocatoria para 4 puestos fijos: 1 Ingeniero Técnico Agrícola y 3 Trabajadores Sociales. De estas últimas, 2 están reservadas exclusivamente para personas con discapacidad. El plazo de inscripción es de 20 días naturales tras la publicación.",
+    "resumen_tweet": "📢 ¡Salamanca convoca empleo! 4 plazas: 1 de Ingeniería y 3 de Trabajo Social (¡2 reservadas para discapacidad! ♿). Información fragmentada: hay que ir al BOP para ver las bases. ¡Solo 20 días para apuntarse! ⏳ #BOE #Salamanca #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Opacidad por remisión: las reglas del juego no están en el BOE, sino en el boletín provincial",
+      "Baja oferta de plazas para el despliegue administrativo realizado",
+      "Brevedad extrema que dificulta la fiscalización inmediata de los requisitos de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Colectivos de personas con discapacidad (alta reserva proporcional)",
+        "Técnicos agrícolas en busca de estabilidad local"
+      ],
+      "perdedores": [
+        "Opositores de turno libre general (solo 1 plaza disponible para Trabajo Social)",
+        "Ciudadanos sin acceso a múltiples boletines oficiales"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público y Oposiciones",
+    "banderas_rojas": [
+      "Opacidad por remisión: las reglas del juego no están en el BOE, sino en el boletín provincial",
+      "Baja oferta de plazas para el despliegue administrativo realizado",
+      "Brevedad extrema que dificulta la fiscalización inmediata de los requisitos de acceso"
+    ]
+  },
+  "tweeted": false
+}
