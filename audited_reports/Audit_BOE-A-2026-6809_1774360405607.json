@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6809",
+  "timestamp": "2026-03-24T13:53:25.607Z",
+  "title": "Resolución de 13 de marzo de 2026, del Consejo Comarcal del Vallés Oriental (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para plazas de personal laboral fijo mediante concurso-oposición en el Vallés Oriental presenta una opacidad estructural común en la administración local. Al publicarse las bases en el boletín provincial (BOPB) con cinco meses de antelación respecto al BOE (octubre 2025 frente a marzo 2026), se crea una asimetría informativa que favorece a quienes ya están vinculados a la institución o realizan un seguimiento exhaustivo. El sistema de concurso-oposición, aunque legal, tiende a blindar plazas para personal interino mediante la valoración de méritos previos, dificultando el acceso efectivo en condiciones de igualdad para candidatos externos o recién graduados.",
+    "resumen_ciudadano": "Se convocan tres plazas fijas de técnico/a de gestión en el Consejo Comarcal del Vallés Oriental (Barcelona) para las áreas de Juventud, Ocupación y Dependencia. El proceso selectivo combina examen y valoración de méritos. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "🔎 Auditoría de Empleo: El Vallés Oriental convoca 3 plazas técnicas. El sistema de concurso-oposición y el retraso de 5 meses desde las bases sugiere ventaja para quienes ya están dentro. ¿Igualdad real? 🧐📉 #BOE #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Desfase temporal de 5 meses entre publicación de bases y anuncio en el BOE",
+      "Uso de concurso-oposición para plazas de personal laboral fijo",
+      "Fragmentación de la información entre boletines provinciales y estatales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en la administración local",
+        "Candidatos con acceso a información privilegiada o local",
+        "Gestores de recursos humanos del Consejo Comarcal"
+      ],
+      "perdedores": [
+        "Jóvenes profesionales sin experiencia previa en la administración",
+        "Candidatos de otras regiones con menor acceso al BOP de Barcelona",
+        "Principio de competitividad por mérito puro"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Desfase temporal de 5 meses entre publicación de bases y anuncio en el BOE",
+      "Uso de concurso-oposición para plazas de personal laboral fijo",
+      "Fragmentación de la información entre boletines provinciales y estatales"
+    ]
+  },
+  "tweeted": false
+}
