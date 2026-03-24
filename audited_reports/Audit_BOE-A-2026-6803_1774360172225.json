@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6803",
+  "timestamp": "2026-03-24T13:49:32.225Z",
+  "title": "Resolución de 17 de febrero de 2026, del Ayuntamiento de Horche (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Aunque se presenta como 'turno libre', la modalidad de 'concurso-oposición' en administraciones locales pequeñas suele actuar como un mecanismo de consolidación encubierta para personal interino ya presente. La opacidad reside en la remisión a las bases del Boletín Provincial, lo que obliga al ciudadano a un rastreo documental adicional para conocer los criterios de baremación, que a menudo puntúan desproporcionadamente la antigüedad en la propia administración convocante.",
+    "resumen_ciudadano": "El Ayuntamiento de Horche convoca dos plazas fijas para servicios sociales (Educador y Trabajador Social). El proceso incluye una fase de méritos que podría favorecer a quienes ya trabajan allí, limitando las oportunidades reales para nuevos aspirantes sin experiencia previa en dicho ayuntamiento.",
+    "resumen_tweet": "📢 ¿Plazas abiertas o con nombre? El Ayto de Horche convoca 2 puestos de servicios sociales vía concurso-oposición. Este sistema suele premiar la veteranía interna sobre el talento nuevo. ¡Exigimos baremos justos! ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición (fase de méritos subjetiva)",
+      "Remisión a bases externas para dificultar el acceso rápido a la información",
+      "Posible consolidación de personal interino bajo apariencia de libre concurrencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento",
+        "Perfiles con antigüedad en la administración local específica"
+      ],
+      "perdedores": [
+        "Jóvenes recién graduados",
+        "Profesionales del sector privado sin puntos por antigüedad pública",
+        "Movilidad laboral geográfica"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición (fase de méritos subjetiva)",
+      "Remisión a bases externas para dificultar el acceso rápido a la información",
+      "Posible consolidación de personal interino bajo apariencia de libre concurrencia"
+    ]
+  },
+  "tweeted": false
+}
