@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6804",
+  "timestamp": "2026-03-24T13:48:43.642Z",
+  "title": "Resolución de 6 de marzo de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria de 21 plazas de Policía Municipal en Móstoles bajo el sistema de concurso-oposición genera dudas sobre la meritocracia pura. Al no ser oposición libre (solo examen), la valoración de méritos permite una discrecionalidad técnica que puede favorecer a personal interino o con experiencia previa en la administración, dificultando el acceso a jóvenes opositores externos. Además, el anuncio en el BOE remite a bases publicadas meses antes en el BOCM, lo que añade una capa de burocracia para el ciudadano medio.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles abre el proceso para contratar a 21 nuevos policías municipales. Los interesados tienen 20 días hábiles para inscribirse. El sistema elegido mezcla examen con valoración de méritos acumulados, lo cual es menos transparente que una oposición directa donde solo cuenta la nota del examen.",
+    "resumen_tweet": "🚨 Móstoles convoca 21 plazas de Policía Municipal por concurso-oposición. ¿Mérito o antigüedad? El sistema de puntos por méritos puede dificultar el acceso a nuevos aspirantes frente a interinos. 🚔 #BOE #Opacidad #Transparencia #Móstoles",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Remisión a bases externas publicadas con anterioridad (BOCM)",
+      "Opacidad en el coste total de formación y equipamiento por plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos del Ayuntamiento de Móstoles",
+        "Opositores con experiencia previa en cuerpos de seguridad",
+        "Sector de seguridad ciudadana"
+      ],
+      "perdedores": [
+        "Aspirantes noveles sin méritos acumulados",
+        "Transparencia en el gasto público de procesos selectivos",
+        "Partidas de gasto social (prioridad presupuestaria en seguridad)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Convocatoria de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Remisión a bases externas publicadas con anterioridad (BOCM)",
+      "Opacidad en el coste total de formación y equipamiento por plaza"
+    ]
+  },
+  "tweeted": false
+}
