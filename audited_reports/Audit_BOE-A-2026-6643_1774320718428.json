@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6643",
+  "timestamp": "2026-03-24T02:51:58.428Z",
+  "title": "Ley 1/2026, de 20 de febrero, Universitaria para Andalucía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 1/2026 de Andalucía consolida un modelo de gestión universitaria que prioriza la eficiencia mercantil sobre la autonomía académica. La creación de la 'Inspección Universitaria' y el 'Consejo de Integridad' bajo control directo de la Junta sugiere una vigilancia política camuflada de ética. Se detecta un 'Gasto Fantasma' potencial en el Artículo 105 sobre 'remanentes no afectados', cuya gestión discrecional reduce la fiscalización parlamentaria. La apuesta por las 'microcredenciales' y 'empresas basadas en el conocimiento' fragmenta el saber en favor del mercado laboral inmediato, desdibujando la función social de la educación superior.",
+    "resumen_ciudadano": "Esta ley redefine el sistema universitario andaluz facilitando la creación de centros privados y promoviendo la colaboración con empresas. Introduce nuevos mecanismos de control y sanciones por parte del Gobierno autonómico, regula cómo las universidades pueden usar sus ahorros excedentes y fomenta títulos cortos (microcredenciales) orientados al mercado laboral.",
+    "resumen_tweet": "🎓 Nueva Ley Universitaria en Andalucía: Más control político mediante inspecciones y vía libre a la mercantilización con 'microcredenciales'. ¿Autonomía o vigilancia? 🧐 Los ahorros universitarios quedan bajo lupa discrecional. 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso discrecional de remanentes presupuestarios no afectados (Art. 105)",
+      "Potestad sancionadora centralizada en la Administración autonómica (Art. 132-143)",
+      "Externalización de funciones docentes mediante convenios de adscripción privados",
+      "Falta de concreción en la financiación de las estructuras de ciberseguridad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (procedimientos de reconocimiento claros)",
+        "Empresas tecnológicas (acceso a compra pública de innovación)",
+        "Cargos de designación política en Consejos Sociales"
+      ],
+      "perdedores": [
+        "Personal docente investigador laboral (precariedad en figuras de sustitución)",
+        "Autonomía universitaria (frente a la Inspección de la Junta)",
+        "Estudiantado público (ante la fragmentación de títulos en microformatos de pago)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Ley de Educación Superior / Universitaria",
+    "banderas_rojas": [
+      "Uso discrecional de remanentes presupuestarios no afectados (Art. 105)",
+      "Potestad sancionadora centralizada en la Administración autonómica (Art. 132-143)",
+      "Externalización de funciones docentes mediante convenios de adscripción privados",
+      "Falta de concreción en la financiación de las estructuras de ciberseguridad"
+    ]
+  },
+  "tweeted": false
+}
