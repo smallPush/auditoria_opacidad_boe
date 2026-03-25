@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6802",
+  "timestamp": "2026-03-25T03:16:08.085Z",
+  "title": "Resolución de 8 de marzo de 2026, de la Diputación Provincial de Zaragoza, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria de 9 plazas de Jefe/a de Intervención mediante el sistema de 'concurso' sugiere una promoción interna que, aunque legal, suele utilizarse para blindar a personal ya posicionado dentro de la estructura, limitando la libre concurrencia. La fragmentación de la información —publicando las bases solo en el Boletín Provincial y no íntegramente en el BOE— dificulta la fiscalización ciudadana inmediata sobre los criterios de puntuación, pudiendo esconder 'trajes a medida'.",
+    "resumen_ciudadano": "La Diputación de Zaragoza busca cubrir 9 puestos de mando en el servicio de bomberos. El método elegido valora méritos previos en lugar de un examen abierto, lo que beneficia a quienes ya trabajan allí. Tienes solo 15 días si deseas participar o revisar el proceso.",
+    "resumen_tweet": "🚨 ¡Alerta en la Diputación de Zaragoza! 9 jefaturas de bomberos se darán por 'concurso' de méritos. ¿Transparencia o promoción interna dirigida? 🧐 Las bases se esconden en el boletín provincial. #BOE #Opacidad #Transparencia #Zaragoza 🚒",
+    "banderas_red_flags": [
+      "Uso de concurso frente a oposición abierta",
+      "Fragmentación informativa (bases en BOP, no en BOE)",
+      "Alta concentración de puestos de mando en una sola convocatoria",
+      "Plazo de solicitud de solo 15 días hábiles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual",
+        "Sindicatos con acuerdos de promoción interna",
+        "Mandos con antigüedad acumulada"
+      ],
+      "perdedores": [
+        "Opositores externos de alta cualificación",
+        "Nuevas promociones de bomberos",
+        "Ciudadanía (por posible falta de renovación competitiva)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Uso de concurso frente a oposición abierta",
+      "Fragmentación informativa (bases en BOP, no en BOE)",
+      "Alta concentración de puestos de mando en una sola convocatoria",
+      "Plazo de solicitud de solo 15 días hábiles"
+    ]
+  },
+  "tweeted": false
+}
