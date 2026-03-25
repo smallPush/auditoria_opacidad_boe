@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6881",
+  "timestamp": "2026-03-25T13:47:48.336Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Universidad Complutense de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario de alto rango en la Universidad Complutense. Aunque el proceso cumple con la legalidad formal, se observa una falta de transparencia en cuanto al coste económico total (salarios y seguridad social) que estas plazas vitalicias supondrán para el erario público. La designación de tres catedráticos y una profesora titular refuerza la estructura jerárquica académica, pero el BOE no refleja la competitividad real del proceso ni los baremos de puntuación que descartaron a otros candidatos, un punto crítico en el debate sobre la endogamia universitaria.",
+    "resumen_ciudadano": "La Universidad Complutense de Madrid ha nombrado oficialmente a cuatro nuevos profesores permanentes (tres catedráticos y una titular) en las áreas de Paleontología, Estadística, Filología Inglesa y Literatura Española. Estos puestos son vitalicios y financiados con dinero público.",
+    "resumen_tweet": "🎓 Cuatro nuevas plazas fijas en la Universidad Complutense de Madrid vía #BOE. Catedráticos y titulares blindan su futuro con dinero público. ¿Excelencia o inercia institucional? 🧐 La transparencia salarial sigue brillando por su ausencia. #Opacidad #UCM",
+    "banderas_red_flags": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Posible endogamia en la promoción interna de los Cuerpos Docentes",
+      "Falta de visibilidad sobre los méritos comparativos de los elegidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Soledad Domingo Martínez",
+        "Begoña Vitoriano Villanueva",
+        "Eduardo Valls Oyarzun",
+        "Jesús María Ponce Cárdenas",
+        "Universidad Complutense de Madrid (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos en el departamento",
+        "Contribuyentes (compromiso de gasto a largo plazo sin métricas de rendimiento expuestas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Posible endogamia en la promoción interna de los Cuerpos Docentes",
+      "Falta de visibilidad sobre los méritos comparativos de los elegidos"
+    ]
+  },
+  "tweeted": false
+}
