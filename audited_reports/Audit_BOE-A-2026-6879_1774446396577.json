@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6879",
+  "timestamp": "2026-03-25T13:46:36.577Z",
+  "title": "Resolución de 18 de marzo de 2026, de la Dirección General de Justicia, de la Conselleria de Presidencia, Justicia y Deportes, por la que se resuelve el concurso específico, convocado por Resolución de 21 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una resolución de concurso específico para un puesto de jefatura en la Administración de Justicia de Galicia. Aunque se identifica a la adjudicataria, el sistema de 'concurso específico' suele ser menos transparente que el concurso ordinario, ya que permite valorar méritos subjetivos o específicos que pueden estar pre-orientados. No se publican las puntuaciones del resto de aspirantes, lo que impide una auditoría ciudadana real sobre la meritocracia del proceso.",
+    "resumen_ciudadano": "La Xunta de Galicia ha asignado un puesto de Jefatura de equipo en los juzgados de Ferrol a una funcionaria específica. Es un movimiento de personal interno basado en una valoración de méritos realizada por una comisión a puerta cerrada.",
+    "resumen_tweet": "⚖️ Adjudicada plaza de Jefatura en la Justicia de Ferrol. El #BOE publica el nombre, pero no el desglose de méritos frente a otros candidatos. ¿Meritocracia o burocracia opaca en Galicia? 🏛️🔎 #Transparencia #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Falta de desglose de puntuaciones de los candidatos no seleccionados",
+      "Uso de la modalidad de concurso específico frente a concurso general",
+      "Invisibilidad de los criterios de ponderación exactos de la comisión de valoración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Saavedra Ventureira, Ana (adjudicataria del puesto)",
+        "Consellería de Presidencia (cierre administrativo de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin capacidad de comparar su baremación públicamente)",
+        "Sociedad civil (imposibilidad de verificar si es el perfil más apto para el servicio público)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Falta de desglose de puntuaciones de los candidatos no seleccionados",
+      "Uso de la modalidad de concurso específico frente a concurso general",
+      "Invisibilidad de los criterios de ponderación exactos de la comisión de valoración"
+    ]
+  },
+  "tweeted": false
+}
