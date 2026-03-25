@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6880",
+  "timestamp": "2026-03-25T13:48:37.218Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Universidad Complutense de Madrid, por la que se nombra Catedrática de Universidad a doña Isabel María García Fernández.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionaria de carrera mediante el sistema de concurso-oposición. Aunque el acto cumple formalmente con la legalidad vigente, la opacidad radica en la inaccesibilidad de los criterios de baremación reales para el ciudadano común. El uso de códigos internos de plaza (01-0455) y números de concurso (25077-P) dificulta la trazabilidad del gasto público que supone una cátedra vitalicia. Además, la resolución se firma por delegación (P.D.), una práctica común que diluye la responsabilidad directa del Rector en el proceso de selección.",
+    "resumen_ciudadano": "La Universidad Complutense de Madrid ha nombrado oficialmente a Isabel María García Fernández como Catedrática en el área de Pintura. Este es un puesto de alto rango académico y administrativo con carácter permanente dentro de la Facultad de Bellas Artes, financiado con fondos públicos.",
+    "resumen_tweet": "🎨 Nueva Catedrática de Pintura en la @UCM. Detrás de códigos como '01-0455' se oculta una plaza vitalicia pagada con tus impuestos. ¿Transparencia real o burocracia blindada? 🏛️⚖️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Uso de códigos de plaza opacos para el público general",
+      "Delegación de firma (P.D.) que reduce la fiscalización directa",
+      "Ausencia de enlace directo a los méritos evaluados por la comisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Isabel María García Fernández",
+        "Departamento de Pintura y Conservación-Restauración UCM"
+      ],
+      "perdedores": [
+        "Aspirantes externos (posible endogamia académica)",
+        "Contribuyentes (falta de desglose del coste salarial total)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de códigos de plaza opacos para el público general",
+      "Delegación de firma (P.D.) que reduce la fiscalización directa",
+      "Ausencia de enlace directo a los méritos evaluados por la comisión"
+    ]
+  },
+  "tweeted": false
+}
