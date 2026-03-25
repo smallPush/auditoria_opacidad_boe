@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6868",
+  "timestamp": "2026-03-25T13:13:59.341Z",
+  "title": "Corrección de errores del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre un Real Decreto-ley de alto impacto geopolítico y presupuestario. El error material (citar la Ley General Presupuestaria como de 2023 en lugar de 2003) evidencia una redacción apresurada en normativas de emergencia. Lo relevante no es el error cronológico, sino que bajo el 'Plan Integral de Respuesta a la Crisis en Oriente Medio', se están modificando materias de Clases Pasivas y Cotizaciones a la Seguridad Social, utilizando la urgencia internacional para realizar ajustes técnicos en el sistema de previsión social nacional sin el debate parlamentario ordinario de una ley orgánica o presupuestaria tradicional.",
+    "resumen_ciudadano": "El Gobierno corrige un error de fechas en el decreto sobre la crisis de Oriente Medio. El texto original mencionaba una Ley Presupuestaria inexistente de 2023 en lugar de la vigente de 2003. Aunque parece un simple trámite, este decreto es el que gestiona créditos extraordinarios y cambios en las pensiones y cotizaciones bajo la justificación de la inestabilidad internacional.",
+    "resumen_tweet": "🚨 El BOE corrige un error en el Plan para Oriente Medio: confundieron la Ley Presupuestaria de 2003 con una de 2023. Legislación exprés que afecta a pensiones y presupuestos bajo el paraguas de 'crisis externa'. #BOE #Opacidad #Transparencia 🔍",
+    "banderas_red_flags": [
+      "Uso de Reales Decretos-ley para modificaciones presupuestarias",
+      "Vínculo indirecto entre crisis exterior y gestión de Clases Pasivas",
+      "Errores de redacción en leyes de urgencia económica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poder Ejecutivo (agilidad en el movimiento de créditos)",
+        "Gestores de fondos de contingencia"
+      ],
+      "perdedores": [
+        "Ciudadanía (opacidad en el destino real de los créditos extraordinarios)",
+        "Control parlamentario (debilitado por el uso de decretos de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Presupuestaria y Seguridad Social",
+    "banderas_rojas": [
+      "Uso de Reales Decretos-ley para modificaciones presupuestarias",
+      "Vínculo indirecto entre crisis exterior y gestión de Clases Pasivas",
+      "Errores de redacción en leyes de urgencia económica"
+    ]
+  },
+  "tweeted": false
+}
