@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6799",
+  "timestamp": "2026-03-25T03:14:41.647Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad a doña María Estela Calatayud Sanz.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de funcionariado de carrera (Profesora Titular). Si bien cumple con la legalidad vigente (LOSU 2/2023), el texto oculta el impacto presupuestario real y el salario bruto asociado a la plaza, algo común en la administración española pero que genera una barrera informativa para el ciudadano. El proceso se basa en una comisión evaluadora previa, cuyos criterios de selección no se detallan en este extracto, manteniendo la opacidad sobre los méritos específicos que permitieron el acceso a la plaza frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado oficialmente a María Estela Calatayud Sanz como Profesora Titular en el área de Fisioterapia. Este es un puesto permanente tras haber superado un concurso público.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Univ. de Zaragoza. Se nombra Profesora Titular en Fisioterapia. ✅ Procedimiento estándar, pero sin mención al coste para las arcas públicas ni detalles del concurso. #BOE #Transparencia #Universidad #Zaragoza",
+    "banderas_red_flags": [
+      "Opacidad en la retribución económica asociada al cargo",
+      "Ausencia de detalles sobre la composición y actas de la comisión evaluadora",
+      "Falta de referencia al impacto presupuestario de la plaza a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Estela Calatayud Sanz (estabilidad laboral vitalicia)",
+        "Universidad de Zaragoza (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Otros candidatos no seleccionados",
+        "Contribuyentes (por falta de transparencia en la cuantificación del gasto público consolidado)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Opacidad en la retribución económica asociada al cargo",
+      "Ausencia de detalles sobre la composición y actas de la comisión evaluadora",
+      "Falta de referencia al impacto presupuestario de la plaza a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
