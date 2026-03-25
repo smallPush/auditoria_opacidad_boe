@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6795",
+  "timestamp": "2026-03-25T03:15:28.552Z",
+  "title": "Orden EFD/262/2026, de 18 de marzo, por la que, a propuesta de la Consejería de Educación, Cultura y Deportes de la Comunidad Autónoma de Castilla-La Mancha, en estimación de recurso, se nombra funcionaria de carrera del Cuerpo de Maestros a doña Verónica Díaz Ródenas.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja un proceso de nombramiento de funcionaria de carrera que se vio entorpecido por un error administrativo. La candidata fue calificada inicialmente como 'No calificada' por un supuesto incumplimiento del periodo de prácticas. El hecho de que sea necesaria una Orden Ministerial para subsanar un error de conteo de días en una comisión calificadora local (Guadalajara) evidencia una burocracia rígida y una falta de mecanismos de resolución ágiles antes de llegar al recurso de alzada. No se detectan gastos fantasma directos, pero sí un coste de oportunidad y administrativo por la gestión de recursos de alzada derivados de fallos en la supervisión regional.",
+    "resumen_ciudadano": "Doña Verónica Díaz Ródenas ha sido nombrada oficialmente funcionaria de carrera tras ganar un recurso contra la administración de Castilla-La Mancha. Inicialmente, no se le reconoció el tiempo de prácticas necesario, pero tras demostrar que cumplió con su jornada completa, se ha corregido el error con efectos retroactivos al 1 de septiembre de 2025.",
+    "resumen_tweet": "🏛️ Nueva rectificación en el #BOE: Una docente en Castilla-La Mancha tuvo que pelear un recurso para que la administración admitiera que SÍ cumplió sus prácticas. La burocracia casi frena una carrera merecida. 👩‍🏫⚖️ #Transparencia #Educación #Opacidad",
+    "banderas_red_flags": [
+      "Fallo de la Comisión Calificadora de Guadalajara en el cómputo de tiempos",
+      "Necesidad de interponer recurso de alzada para corregir un dato objetivo",
+      "Retraso de seis meses en la formalización oficial del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Verónica Díaz Ródenas (recupera su estatus de funcionaria)",
+        "Cuerpo de Maestros (especialidad Educación Primaria)"
+      ],
+      "perdedores": [
+        "Administración Educativa de Castilla-La Mancha (por falta de precisión técnica)",
+        "Eficiencia administrativa (uso de recursos ministeriales para subsanar errores locales)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Recursos Administrativos y Nombramientos",
+    "banderas_rojas": [
+      "Fallo de la Comisión Calificadora de Guadalajara en el cómputo de tiempos",
+      "Necesidad de interponer recurso de alzada para corregir un dato objetivo",
+      "Retraso de seis meses en la formalización oficial del nombramiento"
+    ]
+  },
+  "tweeted": false
+}
