@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6886",
+  "timestamp": "2026-03-25T13:52:16.477Z",
+  "title": "Resolución de 18 de marzo de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso', lo cual es una señal de alerta recurrente en la administración local. A diferencia del 'concurso-oposición', este método suele priorizar méritos acumulados (antigüedad) sobre la capacidad técnica demostrada en examen. Esto dificulta el acceso a ingenieros jóvenes o externos, perpetuando una estructura endogámica. La remisión de las bases completas al Boletín Provincial (BOP) en lugar de detallarlas en el BOE genera una barrera informativa para el ciudadano común.",
+    "resumen_ciudadano": "El Cabildo de Tenerife busca cubrir 4 plazas de Ingeniero Técnico Industrial. Sin embargo, el proceso se hará por méritos y no por examen abierto, lo que en la práctica suele servir para consolidar a personal que ya está trabajando de forma temporal en la institución, limitando la competencia real.",
+    "resumen_tweet": "⚠️ ¿Oportunidad o blindaje? Tenerife convoca 4 plazas de ingeniería por CONCURSO (méritos), evitando el examen de oposición. Un sistema que suele favorecer a interinos frente a nuevos candidatos. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Tenerife",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso puro sin fase de oposición",
+      "Opacidad en la descripción de funciones específicas",
+      "Segmentación informativa al remitir bases al Boletín Provincial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Cabildo",
+        "Sindicatos con acuerdos de estabilidad de plantilla"
+      ],
+      "perdedores": [
+        "Ingenieros recién graduados",
+        "Candidatos del sector privado sin experiencia previa en administración pública",
+        "Principio de meritocracia abierta"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de selección por concurso puro sin fase de oposición",
+      "Opacidad en la descripción de funciones específicas",
+      "Segmentación informativa al remitir bases al Boletín Provincial"
+    ]
+  },
+  "tweeted": false
+}
