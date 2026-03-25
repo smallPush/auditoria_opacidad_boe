@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6887",
+  "timestamp": "2026-03-25T13:50:54.224Z",
+  "title": "Resolución de 25 de febrero de 2026, del Ayuntamiento de Hornachos (Badajoz), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria emplea el sistema de concurso-oposición para una plaza de personal laboral fijo, lo cual suele ser un indicativo de procesos de estabilización que favorecen a personal que ya desempeña funciones de interinidad. Es especialmente reseñable la 'rectificación de bases' publicada apenas nueve días después de las originales en el BOP de Badajoz, una práctica recurrente para ajustar requisitos técnicos que podrían haber sido diseñados de forma demasiado específica o contener errores procedimentales que comprometan la validez del proceso.",
+    "resumen_ciudadano": "El Ayuntamiento de Hornachos (Badajoz) abre el plazo para contratar a un Oficial de Obras y Servicios de forma fija. El proceso de selección evaluará tanto un examen como los méritos previos. El plazo de inscripción es de 20 días hábiles tras esta publicación en el BOE.",
+    "resumen_tweet": "🚨 ¿Plaza con nombre propio? Hornachos convoca Oficial de Obras vía concurso-oposición. Hubo rectificación de bases exprés en el boletín provincial. El sistema de méritos suele blindar a los que ya están dentro. 🧐🏗️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Rectificación de bases a los 9 días de su publicación original",
+      "Uso de concurso-oposición para consolidación de empleo",
+      "Remisión a boletines provinciales para detalles críticos de puntuación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Estructura administrativa municipal actual"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en la administración pública",
+        "Pequeños constructores locales sin red de contactos institucional"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Resolución de Empleo Público Local",
+    "banderas_rojas": [
+      "Rectificación de bases a los 9 días de su publicación original",
+      "Uso de concurso-oposición para consolidación de empleo",
+      "Remisión a boletines provinciales para detalles críticos de puntuación"
+    ]
+  },
+  "tweeted": false
+}
