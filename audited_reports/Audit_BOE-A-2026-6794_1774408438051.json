@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6794",
+  "timestamp": "2026-03-25T03:13:58.051Z",
+  "title": "Orden EFD/261/2026, de 18 de marzo, por la que, a propuesta de la Consejería de Educación y Formación Profesional de la Comunidad Autónoma de la Región de Murcia, se nombra personal funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria al personal funcionario de carrera del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, integrados en virtud del procedimiento convocado por Orden de 23 de marzo de 2023.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento formaliza la integración del profesorado técnico de FP en el cuerpo de Secundaria en Murcia. Aunque cumple con la ley LOMLOE, el texto oculta el impacto presupuestario real que supone este ascenso de categoría salarial para las arcas públicas. Se utiliza una 'extinción' técnica de cuerpos para realizar una reestructuración de personal sin transparencia sobre el coste por plaza. Además, existe un desfase temporal notable: la convocatoria es de 2023 y los efectos económicos se retrotraen a 2025, evidenciando una burocracia lenta.",
+    "resumen_ciudadano": "Nombramiento de tres funcionarios en la Región de Murcia que pasan de ser 'Profesores Técnicos de FP' a 'Profesores de Secundaria'. Este es un proceso administrativo para unificar categorías docentes tras los cambios en la ley de educación nacional.",
+    "resumen_tweet": "🧐 El #BOE publica el trasvase de profesores de FP a Secundaria en Murcia. Una integración que mejora el estatus del funcionario pero oculta el coste real para el erario público tras años de espera. ¿Más calidad o solo más gasto? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el impacto presupuestario del incremento de nivel (A2 a A1)",
+      "Extrema lentitud administrativa: proceso iniciado en 2023 para efectos en 2025/2026",
+      "Falta de claridad sobre si existen partidas específicas para estos gastos de personal derivados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario nombrado (mejora de nivel, sueldo y estatus)",
+        "Consejería de Educación de Murcia (ajuste legal realizado)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el incremento de masa salarial sin informe de coste)",
+        "Aspirantes externos (plazas ocupadas por integración interna sin libre competencia)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en el impacto presupuestario del incremento de nivel (A2 a A1)",
+      "Extrema lentitud administrativa: proceso iniciado en 2023 para efectos en 2025/2026",
+      "Falta de claridad sobre si existen partidas específicas para estos gastos de personal derivados"
+    ]
+  },
+  "tweeted": false
+}
