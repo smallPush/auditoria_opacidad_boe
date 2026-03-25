@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-6871",
+  "timestamp": "2026-03-25T13:44:26.761Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de don José Antonio Sainz Ruiz, Fiscal del Tribunal Supremo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución administrativa reglada para la jubilación forzosa de un alto cargo del Ministerio Fiscal. Aunque el procedimiento es transparente y cumple con la legalidad (Ley 50/1981), el impacto económico en las 'Clases Pasivas' queda oculto tras el término genérico 'derechos pasivos'. No existe desglose del coste que esta jubilación supone para el erario público ni se especifica la cuantía de la pensión, que en estos rangos suele alcanzar el máximo legal.",
+    "resumen_ciudadano": "El Estado declara la jubilación obligatoria de José Antonio Sainz Ruiz, Fiscal del Tribunal Supremo, efectiva a partir del 28 de abril de 2026. Este trámite administrativo pone fin a su carrera activa y le otorga el derecho a cobrar su pensión pública correspondiente a la máxima categoría funcionarial.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial: el Fiscal del Tribunal Supremo, Sainz Ruiz, se retira. El #BOE activa sus 'derechos pasivos', una pensión de alto rango que pagamos todos pero cuyo importe exacto es opaco para el ciudadano. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de terminología técnica para evitar mencionar el coste económico real",
+      "Opacidad en la cuantificación de las pensiones de la alta magistratura"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Antonio Sainz Ruiz (acceso a jubilación con derechos pasivos consolidados)",
+        "Siguiente fiscal en el escalafón (posibilidad de ascenso por vacante)"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento del sistema de Clases Pasivas sin transparencia sobre las cuantías de élite)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Estatal",
+    "tipologia": "Recursos Humanos / Administración de Justicia",
+    "banderas_rojas": [
+      "Uso de terminología técnica para evitar mencionar el coste económico real",
+      "Opacidad en la cuantificación de las pensiones de la alta magistratura"
+    ]
+  },
+  "tweeted": false
+}
