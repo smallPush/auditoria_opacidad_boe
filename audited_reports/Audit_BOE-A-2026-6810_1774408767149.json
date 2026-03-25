@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6810",
+  "timestamp": "2026-03-25T03:19:27.149Z",
+  "title": "Resolución de 13 de marzo de 2026, del Ayuntamiento de Sueca, Consejo Agrario Municipal (Valencia), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "Se observa una resolucion estandar para la provision de empleo publico local en el Ayuntamiento de Sueca. El punto critico de opacidad no reside en el contenido, sino en los tiempos: las bases se publicaron en agosto de 2025 y el anuncio en el BOE llega en marzo de 2026. Este desfase de 7 meses genera una asimetria informativa que beneficia a quienes estan integrados en los circulos locales, perjudicando la concurrencia competitiva nacional que el BOE deberia garantizar. La figura del Guarda Rural es clave en una zona citrícola, pero la oferta de una sola plaza resulta insuficiente para las necesidades reales de vigilancia del territorio rural.",
+    "resumen_ciudadano": "El Ayuntamiento de Sueca (Valencia) abre el plazo para opositar a dos plazas fijas: un Administrativo y un Guarda Rural. Ambos puestos son por oposicion libre, lo que significa que cualquier ciudadano que cumpla los requisitos puede presentarse. Los interesados tienen 20 dias habiles para inscribirse tras esta publicacion oficial.",
+    "resumen_tweet": "🔍 Auditoria #BOE: El Ayto de Sueca convoca plazas de administrativo y guarda rural. ¡Ojo! Bases publicadas hace 7 meses, pero el plazo abre AHORA. El retraso administrativo limita la igualdad de oportunidades. 🧐⚖️ #Opacidad #Transparencia #Empleo",
+    "banderas_red_flags": [
+      "Desfase temporal de 7 meses entre bases provinciales y anuncio estatal",
+      "Baja oferta de plazas para un Consejo Agrario Municipal",
+      "Asimetria informativa potencial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores locales con informacion privilegiada previa",
+        "Estructura administrativa municipal"
+      ],
+      "perdedores": [
+        "Candidatos externos sin acceso a boletines provinciales",
+        "Agricultores de Sueca por la escasa dotacion de Guardas Rurales"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico / Administracion Local",
+    "banderas_rojas": [
+      "Desfase temporal de 7 meses entre bases provinciales y anuncio estatal",
+      "Baja oferta de plazas para un Consejo Agrario Municipal",
+      "Asimetria informativa potencial"
+    ]
+  },
+  "tweeted": false
+}
