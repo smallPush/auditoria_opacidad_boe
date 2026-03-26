@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6994",
+  "timestamp": "2026-03-26T13:59:35.938Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Tomás Domingo Moratalla.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja un proceso estándar de promoción interna en el sistema universitario (LOSU). Aunque se citan las bases legales, el proceso de 'concurso' suele ser opaco para el ciudadano común, ya que no se detallan los méritos específicos ni la puntuación del tribunal. Se trata de una consolidación de gasto público estructural (sueldo vitalicio de catedrático) sin desglose presupuestario en el texto.",
+    "resumen_ciudadano": "La UNED ha nombrado a Tomás Domingo Moratalla como nuevo Catedrático de Filosofía. Este es un ascenso de alto nivel dentro del funcionariado docente que implica una mayor remuneración y estatus tras superar un proceso de evaluación interna por una comisión.",
+    "resumen_tweet": "👨‍🏫 Nueva cátedra de Filosofía en la @UNED. Nombramiento de Tomás Domingo Moratalla tras concurso. ¿Transparencia en la selección académica o consolidación de élites? El BOE certifica otro cargo vitalicio. 🏛️📜 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de transparencia en la ponderación de méritos del tribunal",
+      "Ausencia de información sobre el impacto presupuestario de la plaza",
+      "Endogamia potencial en los concursos de acceso a cátedra"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tomás Domingo Moratalla",
+        "Cuerpo de Catedráticos de Universidad",
+        "Departamento de Filosofía y Filosofía Moral y Política de la UNED"
+      ],
+      "perdedores": [
+        "Aspirantes externos sin plaza",
+        "Contribuyentes (gasto estructural a largo plazo)",
+        "Paridad de género (en este nombramiento específico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (UNED)",
+    "tipologia": "Nombramiento de Personal y Función Pública",
+    "banderas_rojas": [
+      "Falta de transparencia en la ponderación de méritos del tribunal",
+      "Ausencia de información sobre el impacto presupuestario de la plaza",
+      "Endogamia potencial en los concursos de acceso a cátedra"
+    ]
+  },
+  "tweeted": false
+}
