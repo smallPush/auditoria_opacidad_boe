@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6975",
+  "timestamp": "2026-03-26T13:19:27.831Z",
+  "title": "Real Decreto 239/2026, de 25 de marzo, por el que se modifica el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 239/2026 justifica una intervenci3n regulatoria profunda basada en un impacto econ3mico de 12.421 millones de euros anuales por eventos adversos evitables. Se observa un giro hacia la centralizaci3n de la vigilancia profesional mediante la obligatoriedad del Registro Estatal de Profesionales Sanitarios. La norma utiliza un lenguaje de 'seguridad del paciente' para blindar competencias exclusivas de especialistas, lo que podr&iacute;a limitar la flexibilidad organizativa en centros privados y aumentar los costes de cumplimiento administrativo. No se especifican partidas presupuestarias nuevas para que las Comunidades Aut3nomas gestionen esta mayor carga de verificaci3n.",
+    "resumen_ciudadano": "El Gobierno actualiza las reglas para autorizar centros sanitarios: a partir de ahora, ser&aacute; obligatorio que cada unidad (como Nutrici3n o Urgencias) est&eacute; bajo la responsabilidad de un profesional con la especialidad oficial exacta. Se busca evitar que personas sin la formaci3n adecuada realicen pr&aacute;cticas m&eacute;dicas, obligando a las cl&iacute;nicas a tener un expediente actualizado de cada trabajador bajo pena de perder la autorizaci3n.",
+    "resumen_tweet": "&#127973; Nueva norma en el #BOE: Sanidad endurece el control sobre las cl&iacute;nicas. Solo especialistas oficiales podr&aacute;n liderar unidades m&eacute;dicas para evitar errores que cuestan 12.000M€ al a&#241;o. &#128737;&#65039; Tolerancia cero al intrusismo. #Opacidad #Sanidad #Transparencia",
+    "banderas_red_flags": [
+      "Inexistencia de memoria econ3mica para el coste de verificaci3n auton3mica",
+      "Potencial barrera de entrada para nuevos modelos de gesti3n sanitaria h&iacute;brida",
+      "Obligatoriedad de transmisi3n de datos de personal bajo cualquier v&iacute;nculo jur&iacute;dico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M&eacute;dicos Especialistas (protecci3n de mercado laboral)",
+        "Pacientes (mayor garant&iacute;a de cualificaci3n)",
+        "Ministerio de Sanidad (mayor control centralizado de datos)"
+      ],
+      "perdedores": [
+        "Cl&iacute;nicas privadas peque&#241;as (alta carga burocr&aacute;tica)",
+        "Profesionales sanitarios sin especialidad homologada",
+        "Comunidades Aut3nomas (asumen gesti3n de nuevas autorizaciones sin fondos extra)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Real Decreto de modificaci3n de bases generales sanitarias",
+    "banderas_rojas": [
+      "Inexistencia de memoria econ3mica para el coste de verificaci3n auton3mica",
+      "Potencial barrera de entrada para nuevos modelos de gesti3n sanitaria h&iacute;brida",
+      "Obligatoriedad de transmisi3n de datos de personal bajo cualquier v&iacute;nculo jur&iacute;dico"
+    ]
+  },
+  "tweeted": false
+}
