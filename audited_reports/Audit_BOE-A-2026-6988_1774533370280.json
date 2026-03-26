@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6988",
+  "timestamp": "2026-03-26T13:56:10.280Z",
+  "title": "Resolución de 19 de marzo de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por promoción interna, a personal funcionario y personal laboral fijo, del Cuerpo de Gestión de Sistemas e Informática de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento formaliza el ascenso de personal a cuerpos técnicos de informática. Aunque los datos de destino y salarios complementarios son públicos, existe una opacidad intrínseca en la variabilidad de los 'complementos específicos' para un mismo nivel administrativo (Nivel 20). Se observa una fuerte centralización del talento digital en Madrid, lo que perpetúa la brecha de servicios tecnológicos entre el centro y la periferia. El proceso, iniciado en 2024 y resuelto en 2026, muestra una lentitud burocrática que choca con la agilidad necesaria en el sector de la transformación digital.",
+    "resumen_ciudadano": "Publicación oficial de los nuevos funcionarios de carrera del Cuerpo de Gestión de Sistemas e Informática. Se detallan sus nombres, los ministerios donde trabajarán (destacando Seguridad Social y Justicia) y sus niveles salariales. Es un movimiento interno para estabilizar y promocionar al personal que ya trabaja para el Estado en áreas tecnológicas.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! Se nombran nuevos gestores TIC para el Estado. Transparencia en salarios, pero... ¿por qué hay brechas de hasta 4.000€ en complementos para el mismo nivel? 💸 Madrid sigue acaparando el talento digital. 🖥️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Disparidad salarial en complementos específicos para puestos del mismo nivel (Nivel 20)",
+      "Excesiva demora administrativa: proceso de 2024 resuelto en 2026",
+      "Concentración de puestos técnicos de alto nivel en servicios centrales de Madrid",
+      "Falta de desglose sobre las funciones específicas de los 'Gastos Fantasma' asociados a complementos variables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Inclusión y Seguridad Social (capta mayor número de efectivos)",
+        "Personal laboral fijo que consolida su estatus como funcionario de carrera",
+        "Estructuras administrativas de Madrid y grandes núcleos urbanos"
+      ],
+      "perdedores": [
+        "Talento joven externo (el proceso es de promoción interna)",
+        "Provincias de la 'España Vaciada' con escasa dotación de personal técnico especializado",
+        "Agilidad administrativa (proceso de resolución extremadamente lento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Disparidad salarial en complementos específicos para puestos del mismo nivel (Nivel 20)",
+      "Excesiva demora administrativa: proceso de 2024 resuelto en 2026",
+      "Concentración de puestos técnicos de alto nivel en servicios centrales de Madrid",
+      "Falta de desglose sobre las funciones específicas de los 'Gastos Fantasma' asociados a complementos variables"
+    ]
+  },
+  "tweeted": false
+}
