@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-6870",
+  "timestamp": "2026-03-26T03:18:12.958Z",
+  "title": "Resolución de 20 de marzo de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 18 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion del concurso especifico en el Ministerio de Asuntos Exteriores (MAUC) revela una preocupante disfuncion estructural: mas del 50% de las plazas ofertadas en este fragmento (11 de 20) han quedado desiertas. Especialmente sangrante es la falta de cobertura en la Direccion General de Diplomacia Economica y la Oficina de Asuntos de Gibraltar. Resulta anacronico el mantenimiento de puestos como 'Jefe de Seccion de Teletipos' en el año 2026, lo que sugiere una administracion que arrastra nomenclaturas del siglo XX. La mayoria de las plazas adjudicadas corresponden a funcionarios que ya ocupaban el mismo puesto, lo que indica un movimiento meramente burocratico de consolidacion sin renovacion real.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ha resuelto un concurso de traslados donde la noticia principal no son los elegidos, sino los huecos: la mitad de las plazas para secretarios y tecnicos han quedado vacias. Esto afecta a areas estrategicas como la diplomacia economica o Gibraltar. Ademas, el sistema sigue usando nombres de puestos obsoletos como 'teletipos', reflejando una falta de modernizacion.",
+    "resumen_tweet": "⚠️ ¡Alerta de vacantes en el #MAUC! 50% de los puestos en areas clave como Gibraltar o Diplomacia Economica se quedan DESIERTOS. ¿Falta de incentivos o burocracia obsoleta? ¡Seguimos con 'Teletipos' en 2026! 📠📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas (55% en la muestra)",
+      "Mantenimiento de puestos tecnologicamente obsoletos (Teletipos)",
+      "Endogamia administrativa (adjudicatarios que ya ocupaban el puesto)",
+      "Desercion en puestos de apoyo a la alta gestion (Secretaria de Subdirector)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de niveles altos (A1/A2) que consolidan sus servicios",
+        "Estructuras burocraticas inamovibles"
+      ],
+      "perdedores": [
+        "Ciudadania (por la ineficiencia de puestos vacantes)",
+        "Modernizacion del Estado",
+        "Candidatos externos al ministerio"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas (55% en la muestra)",
+      "Mantenimiento de puestos tecnologicamente obsoletos (Teletipos)",
+      "Endogamia administrativa (adjudicatarios que ya ocupaban el puesto)",
+      "Desercion en puestos de apoyo a la alta gestion (Secretaria de Subdirector)"
+    ]
+  },
+  "tweeted": false
+}
