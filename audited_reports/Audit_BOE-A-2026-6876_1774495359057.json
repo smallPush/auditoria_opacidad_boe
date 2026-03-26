@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6876",
+  "timestamp": "2026-03-26T03:22:39.057Z",
+  "title": "Resolución de 12 de marzo de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 23 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza la figura de la 'libre designación' para un puesto de nivel 17 (Ayudante de Secretaría), un rango administrativo donde la discrecionalidad política suele ser menos justificable que en altos cargos. Aunque el procedimiento es legal bajo el Real Decreto 364/1995, este mecanismo permite el nombramiento 'a dedo' basado en la confianza en lugar de un concurso de méritos puro, lo que erosiona la percepción de imparcialidad en la Administración Pública. Resulta llamativo el trasvase de personal desde la Agencia Tributaria hacia una Delegación del Gobierno mediante este sistema.",
+    "resumen_ciudadano": "Se ha adjudicado una plaza de ayudante de secretaría en la Delegación del Gobierno en Cataluña a una funcionaria proveniente de la Agencia Tributaria. El puesto ha sido asignado por libre designación, lo que significa que la administración elige directamente a la persona sin necesidad de un concurso abierto basado exclusivamente en puntuaciones de mérito y antigüedad.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el #BOE. Adjudicado un puesto de nivel 17 en Cataluña por libre designación. ¿Es necesaria la confianza política para tareas de secretaría? Menos concurso, más opacidad. #Transparencia #Administración #Cataluña 🏛️⚖️",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Ausencia de desglose de criterios de idoneidad específicos",
+      "Nombramiento discrecional en un órgano de alta sensibilidad política (Delegación en Cataluña)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beatriz Elvira Vasco Fernández (nueva adjudicataria)",
+        "Ministerio de Política Territorial (discrecionalidad en la elección de equipo)"
+      ],
+      "perdedores": [
+        "Funcionarios con más méritos que no han podido competir en igualdad",
+        "Ciudadanía (por el fomento del clientelismo administrativo en niveles bajos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Ausencia de desglose de criterios de idoneidad específicos",
+      "Nombramiento discrecional en un órgano de alta sensibilidad política (Delegación en Cataluña)"
+    ]
+  },
+  "tweeted": false
+}
