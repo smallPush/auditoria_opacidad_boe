@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6985",
+  "timestamp": "2026-03-26T13:54:35.012Z",
+  "title": "Real Decreto 243/2026, de 24 de marzo, por el que se dispone el cese de doña Ruth del Campo Becares como Directora General del Dato.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El cese de la Directora General del Dato se ejecuta mediante una formula protocolaria que oculta las razones reales de la salida de una figura clave en la soberanía digital del Estado. La falta de una memoria de gestión adjunta impide saber si el cese responde a una reestructuración estratégica, un incumplimiento de objetivos o una purga política interna en el Ministerio de Transformación Digital.",
+    "resumen_ciudadano": "Se ha cesado a la responsable de la Oficina del Dato, Ruth del Campo Becares. Aunque es un trámite habitual, la ciudadanía pierde al perfil técnico que coordinaba el uso de datos públicos sin recibir ninguna explicación sobre los motivos de su salida o el coste de su posible indemnización.",
+    "resumen_tweet": "🛑 Cese en la cúpula digital: Ruth del Campo deja la Dirección Gral. del Dato. ¿Cambio de rumbo o crisis interna? La opacidad en los ceses de altos cargos oculta el rendimiento real de nuestra administración. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de motivación técnica del cese",
+      "Fórmula de 'agradecimiento' como máscara de opacidad",
+      "Riesgo de interrupción en proyectos de Inteligencia Artificial del Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos perfiles políticos que ocuparán la vacante",
+        "Estructuras ministeriales que buscan un cambio de mando"
+      ],
+      "perdedores": [
+        "Ruth del Campo Becares",
+        "Continuidad técnica en la gobernanza de datos",
+        "Contribuyentes (por falta de rendición de cuentas sobre el cese)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Ausencia de motivación técnica del cese",
+      "Fórmula de 'agradecimiento' como máscara de opacidad",
+      "Riesgo de interrupción en proyectos de Inteligencia Artificial del Estado"
+    ]
+  },
+  "tweeted": false
+}
