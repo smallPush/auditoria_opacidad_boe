@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-6989",
+  "timestamp": "2026-03-26T14:00:11.275Z",
+  "title": "Resolución de 19 de marzo de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La adjudicación de un puesto de Tesorería mediante el sistema de 'libre designación' representa una vulnerabilidad estructural en la administración local. Aunque legal, este método permite la discrecionalidad política en la elección de un perfil técnico encargado de la custodia de fondos públicos. La resolución no aporta justificación de méritos específicos ni comparativa con otros aspirantes, amparándose en la normativa vigente para sortear el concurso de méritos tradicional. Existe una incongruencia ideológica flagrante si se compara con los discursos oficiales de meritocracia y despolitización de la función pública.",
+    "resumen_ciudadano": "El Ayuntamiento de Salamanca ha cubierto el puesto de Tesorero/a, un cargo crítico para el control del dinero municipal, utilizando la 'libre designación' (elección directa por confianza) en lugar de un proceso de oposición o concurso puramente meritocrático. La persona elegida es María Teresa Pérez Peralta.",
+    "resumen_tweet": "🚩 ¡Alerta de dedocracia! 🚩 El Ayuntamiento de Salamanca adjudica la Tesorería (control de fondos) por libre designación. Un cargo clave elegido a dedo bajo el manto de la ley, pero lejos de la transparencia meritocrática. 🧐💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación para control financiero",
+      "Falta de memoria justificativa de la idoneidad",
+      "Potencial politización de un cargo de habilitación nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Pérez Peralta (adjudicataria)",
+        "Alcaldía de Salamanca (capacidad de elección discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera por mérito competitivo",
+        "Ciudadanía (menor garantía de independencia en la fiscalización de gastos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación para control financiero",
+      "Falta de memoria justificativa de la idoneidad",
+      "Potencial politización de un cargo de habilitación nacional"
+    ]
+  },
+  "tweeted": false
+}
