@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6976",
+  "timestamp": "2026-03-26T13:49:23.547Z",
+  "title": "Real Decreto 240/2026, de 25 de marzo, por el que se modifica el Real Decreto 789/2022, de 27 de septiembre, por el que se regula la compatibilidad del Ingreso Mínimo Vital con los ingresos procedentes de rentas del trabajo o de la actividad económica por cuenta propia con el fin de mejorar las oportunidades reales de inclusión social y laboral de las personas beneficiarias de la prestación.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 240/2026 intenta simplificar un mecanismo de incentivo al empleo que, tras tres años, se reconoce fallido por su excesiva complejidad técnica. Aunque el discurso oficial apela a la 'inclusión real' y cita grupos vulnerables (mujeres con discapacidad, víctimas de violencia), la operatividad sigue anclada en una red de casillas tributarias (Modelos 100, 190 y 184) inaccesibles para el ciudadano medio. Se detecta una 'opacidad técnica' donde la transparencia se sacrifica por una automatización basada en datos de la AEAT que el beneficiario difícilmente puede auditar o prever en su economía doméstica diaria.",
+    "resumen_ciudadano": "Esta norma cambia las reglas para que las personas que cobran el Ingreso Mínimo Vital (IMV) puedan trabajar sin perder la ayuda inmediatamente. Se eliminan del cómputo de ingresos el subsidio por desempleo ya extinguido y el pago único del paro para fomentar el emprendimiento. Sin embargo, el cálculo de cuánto dinero te 'perdonan' por trabajar sigue siendo complejo y depende de datos de Hacienda del año anterior, lo que puede generar retrasos en el alivio económico real.",
+    "resumen_tweet": "📉 El #BOE intenta arreglar la 'trampa de la pobreza' del IMV. Se permite trabajar sin perder la ayuda de golpe, pero la fórmula sigue oculta tras un laberinto de casillas de Hacienda 🏛️. ¿Inclusión real o burocracia técnica? #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Cálculo de renta exenta basado en el ejercicio fiscal previo (desfase temporal en el alivio económico)",
+      "Complejidad técnica extrema en los anexos (dependencia de casillas específicas de IRPF)",
+      "Falta de memoria económica detallada para las 'políticas activas de empleo' mencionadas",
+      "Discrecionalidad en la 'evaluación anual' por parte de la AIReF sin mecanismos de corrección ciudadana"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (automatización del cruce de datos)",
+        "Personas en exclusión que optan al autoempleo (exención del pago único)",
+        "Unidades de convivencia monoparentales (mención prioritaria)"
+      ],
+      "perdedores": [
+        "Ciudadanos con baja alfabetización fiscal (imposibilidad de autogestionar su previsión de ingresos)",
+        "Beneficiarios nuevos (el incentivo solo se aplica a partir del segundo año)",
+        "Transparencia pública (se traslada la lógica de derechos a algoritmos de Hacienda)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Modificación (Inclusión Social)",
+    "banderas_rojas": [
+      "Cálculo de renta exenta basado en el ejercicio fiscal previo (desfase temporal en el alivio económico)",
+      "Complejidad técnica extrema en los anexos (dependencia de casillas específicas de IRPF)",
+      "Falta de memoria económica detallada para las 'políticas activas de empleo' mencionadas",
+      "Discrecionalidad en la 'evaluación anual' por parte de la AIReF sin mecanismos de corrección ciudadana"
+    ]
+  },
+  "tweeted": false
+}
