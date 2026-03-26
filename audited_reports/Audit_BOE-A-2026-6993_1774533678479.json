@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6993",
+  "timestamp": "2026-03-26T14:01:18.479Z",
+  "title": "Resolución de 13 de marzo de 2026, de la Universidad de La Laguna, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento cumple con el protocolo administrativo estándar de nombramiento de funcionarios de carrera. La opacidad no reside en los nombres, sino en la ausencia de información sobre la dotación presupuestaria específica que estas plazas vitalicias suponen para el erario público. Se observa una paridad de género en estos dos nombramientos específicos (50/50), aunque las áreas de conocimiento (Derecho y Didáctica) reflejan la estructura tradicional de departamentos universitarios sin mayor cuestionamiento sobre la necesidad estratégica actual de dichas plazas.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha formalizado el nombramiento de dos nuevos Profesores Titulares de Universidad en las áreas de Derecho Mercantil y Didáctica de la Expresión Corporal. Estos docentes han superado el concurso correspondiente y ahora ocupan plazas permanentes financiadas con dinero público.",
+    "resumen_tweet": "📢 La Laguna nombra nuevos profesores titulares en Derecho y Educación. 🎓 Transparencia en los nombres, pero silencio total sobre el coste real de estas plazas vitalicias para el contribuyente. #BOE #Opacidad #Transparencia #Canarias 🏛️🧐",
+    "banderas_red_flags": [
+      "Ausencia de impacto presupuestario detallado",
+      "Procedimiento de concurso no detallado en este extracto",
+      "Falta de justificación de la necesidad estratégica de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Lourdes Verónica Melero Bosch (Seguridad laboral vitalicia)",
+        "Jorge Miguel Fernández Cabrera (Seguridad laboral vitalicia)",
+        "Universidad de La Laguna (Consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de detalle en la gestión del gasto de personal)",
+        "Candidatos externos (si existieron barreras de acceso en el concurso previo)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de impacto presupuestario detallado",
+      "Procedimiento de concurso no detallado en este extracto",
+      "Falta de justificación de la necesidad estratégica de la plaza"
+    ]
+  },
+  "tweeted": false
+}
