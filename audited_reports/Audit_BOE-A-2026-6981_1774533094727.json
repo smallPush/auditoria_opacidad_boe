@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6981",
+  "timestamp": "2026-03-26T13:51:34.727Z",
+  "title": "Orden de 12 de marzo de 2026, por la que se destina a los Jueces y Juezas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento detalla el movimiento de personal judicial bajo la nueva estructura de los 'Tribunales de Instancia'. Aunque el listado es nominal y público, la opacidad reside en la falta de visibilidad sobre las puntuaciones del concurso que motivaron estos cambios. Se observa un despliegue significativo hacia plazas con competencias en 'violencia sobre la mujer', lo cual responde a una agenda de especialización, pero la exclusión de candidatas como Mónica Viciana o Carmen Serrano por tecnicismos del artículo 329.9 de la LOPJ revela la rigidez de una burocracia interna que prioriza la estructura sobre la voluntad de movilidad de los profesionales.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha hecho público el destino de 11 jueces tras un concurso nacional. Estos movimientos afectan a tribunales en diversas provincias como Asturias, León, Huelva y Sevilla. El documento también sirve para denegar peticiones a ciertos magistrados basándose en normativas internas que impiden cambiar de sección dentro de un mismo tribunal.",
+    "resumen_tweet": "⚖️ El CGPJ reorganiza la judicatura: 11 traslados clave hacia los nuevos Tribunales de Instancia. Destacan plazas de violencia de género, pero la rigidez normativa deja fuera a magistradas por tecnicismos. ¿Eficiencia o burocracia? 🤔 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Criterios de puntuación del concurso no desglosados",
+      "Exclusiones de plazas basadas en interpretación rígida de la LOPJ",
+      "Transición a Tribunales de Instancia sin memoria de impacto económico detallada en este texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 11 jueces/juezas con nuevos destinos",
+        "Consejo General del Poder Judicial (mantiene control sobre la carrera judicial)",
+        "Secciones de violencia sobre la mujer (refuerzo de personal)"
+      ],
+      "perdedores": [
+        "Mónica Viciana Martínez (solicitud excluida)",
+        "Carmen Serrano Ortega (solicitud excluida)",
+        "Ciudadanos de las sedes de origen que pierden jueces con experiencia local"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y ceses judiciales",
+    "banderas_rojas": [
+      "Criterios de puntuación del concurso no desglosados",
+      "Exclusiones de plazas basadas en interpretación rígida de la LOPJ",
+      "Transición a Tribunales de Instancia sin memoria de impacto económico detallada en este texto"
+    ]
+  },
+  "tweeted": false
+}
