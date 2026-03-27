@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6979",
+  "timestamp": "2026-03-27T03:27:02.872Z",
+  "title": "Ley 5/2025, de 19 de diciembre, de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha para 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley presenta una narrativa de 'blindaje social' apoyada en una cifra récord de 9.000,9 millones de euros, pero utiliza la 'incertidumbre geopolítica' y la falta de presupuestos estatales como una cláusula de escape para justificar posibles desviaciones. Se observa una dependencia crítica de los fondos Next Generation EU (MRR), que expiran precisamente en 2026, lo que plantea un riesgo de 'abismo fiscal' para 2027. Además, la retórica sobre la eliminación de 'gastos de funcionamiento no esenciales' carece de una definición técnica, permitiendo una discrecionalidad política elevada en el recorte o mantenimiento de partidas operativas.",
+    "resumen_ciudadano": "Castilla-La Mancha aprueba sus cuentas para 2026 centradas en sanidad, educación (especialmente de 0 a 3 años) y lucha contra la despoblación. El presupuesto se apoya fuertemente en la digitalización y el uso de Inteligencia Artificial. Sin embargo, el texto admite que no hay una senda de estabilidad clara aprobada a nivel nacional, lo que genera dudas sobre la sostenibilidad a largo plazo una vez que los fondos europeos dejen de llegar a finales de este ejercicio.",
+    "resumen_tweet": "📢 CLM aprueba presupuestos 2026: 9.000M€ marcados por la 'incertidumbre' 🕵️‍♂️. Mucha IA y digitalización, pero los fondos UE se acaban este año. Ojo a la opacidad en los 'gastos no esenciales'. ¿Quién decide qué es esencial? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Vigencia límite de los fondos MRR (Mecanismo de Recuperación y Resiliencia) en 2026 sin plan de contingencia claro.",
+      "Concepto ambiguo de 'gastos no esenciales' que permite opacidad en los recortes.",
+      "Justificación de la falta de objetivos de estabilidad nacionales para operar con referencias provisionales.",
+      "Reducción de informes de control presupuestario bajo el pretexto de 'eficiencia administrativa'."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de consultoría tecnológica y servicios de IA",
+        "Familias con niños en etapa 0-3 años",
+        "Sector turístico y agroalimentario rural"
+      ],
+      "perdedores": [
+        "Contribuyentes (no se contemplan ajustes fiscales frente a la inflación)",
+        "Entidades de control financiero (menos informes previstos)",
+        "Administraciones dependientes de la asunción de deuda estatal pendiente"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Ley de Presupuestos Generales",
+    "banderas_rojas": [
+      "Vigencia límite de los fondos MRR (Mecanismo de Recuperación y Resiliencia) en 2026 sin plan de contingencia claro.",
+      "Concepto ambiguo de 'gastos no esenciales' que permite opacidad en los recortes.",
+      "Justificación de la falta de objetivos de estabilidad nacionales para operar con referencias provisionales.",
+      "Reducción de informes de control presupuestario bajo el pretexto de 'eficiencia administrativa'."
+    ]
+  },
+  "tweeted": false
+}
