@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-6977",
+  "timestamp": "2026-03-27T03:21:16.352Z",
+  "title": "Real Decreto 241/2026, de 25 de marzo, sobre limitación de la cuantía inicial de las pensiones públicas y revalorización de las pensiones del sistema de la Seguridad Social, de las pensiones de Clases Pasivas del Estado y de otras prestaciones sociales públicas para el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 241/2026 se presenta como un salvavidas tras el fracaso político del RD-ley 16/2025, no convalidado por el Congreso. Esta 'regulación de rebote' genera una complejidad administrativa extrema para el ciudadano medio al encadenar múltiples normas derogadas y prórrogas presupuestarias. Aunque establece una subida del 2,7 por ciento, la opacidad real reside en el Artículo 3.6, que permite señalamientos provisionales de pensiones. Esto traslada la ineficiencia de la administración al pensionista, quien podría verse obligado a devolver cantidades percibidas 'indebidamente' meses después si los organismos no cruzaron bien sus datos de concurrencia de prestaciones.",
+    "resumen_ciudadano": "Se confirma la subida de pensiones del 2,7% para 2026. El tope máximo mensual se fija en 3.359,60 euros. El decreto unifica criterios para Seguridad Social y Clases Pasivas, pero advierte que si tienes varias pensiones y la administración se equivoca al calcularlas inicialmente por falta de datos, te reclamarán el dinero a posteriori. Se mantiene el complemento para la reducción de la brecha de género y la protección de pensiones por actos terroristas fuera del límite máximo.",
+    "resumen_tweet": "📢 ¡Atención pensionistas! El #BOE fija la subida en un 2,7% para 2026. Límite máx: 3.359€/mes. ⚠️ Ojo al Art. 3.6: si la administración calcula mal por falta de datos, ¡te tocará devolver dinero! ¿Seguridad o trampa? #Opacidad #Transparencia #Pensiones 📉",
+    "banderas_red_flags": [
+      "Inestabilidad normativa: Surge de un decreto previo no convalidado por el Congreso",
+      "Riesgo de reintegro: El Art. 3.6 permite pagos provisionales que terminan en deudas para el jubilado",
+      "Complejidad de concurrencia: El laberinto de mutualidades y fondos especiales dificulta el autocálculo del ciudadano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beneficiarios del complemento de brecha de género",
+        "Pensiones derivadas de actos terroristas (exentas de límites)",
+        "Grandes pensiones (ajuste del tope a 47.034,40€ anuales)"
+      ],
+      "perdedores": [
+        "Pensionistas con múltiples prestaciones pequeñas (sujetos a burocracia de concurrencia)",
+        "Personas en situación de vulnerabilidad dependientes de la agilidad administrativa (por el riesgo de cálculos provisionales)",
+        "Ciudadanos medios ante la inseguridad jurídica de decretos encadenados"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Revalorización de Pensiones",
+    "banderas_rojas": [
+      "Inestabilidad normativa: Surge de un decreto previo no convalidado por el Congreso",
+      "Riesgo de reintegro: El Art. 3.6 permite pagos provisionales que terminan en deudas para el jubilado",
+      "Complejidad de concurrencia: El laberinto de mutualidades y fondos especiales dificulta el autocálculo del ciudadano"
+    ]
+  },
+  "tweeted": false
+}
