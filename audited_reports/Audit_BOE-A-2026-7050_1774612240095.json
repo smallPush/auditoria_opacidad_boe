@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7050",
+  "timestamp": "2026-03-27T11:50:40.095Z",
+  "title": "Resolución de 14 de marzo de 2026, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad a doña María Ruth García Pernía.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Se trata de un nombramiento de funcionaria de carrera en el ámbito universitario. Aunque el procedimiento sigue la legalidad vigente (LOSU 2023), este tipo de actos administrativos suelen ser la culminación de procesos internos que la ciudadanía percibe como opacos o endogámicos. No se especifica el coste salarial anual asociado a la plaza ni el desglose de fondos públicos destinados a este puesto específico.",
+    "resumen_ciudadano": "La Universidad de Alcalá ha nombrado oficialmente a una nueva Profesora Titular en el área de Comunicación Audiovisual y Publicidad, tras superar el proceso selectivo correspondiente iniciado en 2025.",
+    "resumen_tweet": "⚖️ Nueva plaza fija en la Universidad de Alcalá. Se formaliza el nombramiento de una Profesora Titular en Comunicación Audiovisual. El sistema universitario sigue su curso administrativo, pero ¿es suficiente la información pública sobre estas plazas? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de información sobre la dotación presupuestaria exacta del puesto",
+      "Ausencia de detalles sobre la composición de la comisión evaluadora en este extracto",
+      "Opacidad histórica en los procesos de selección universitaria (endogamia)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Ruth García Pernía (obtiene plaza vitalicia)",
+        "Universidad de Alcalá (consolida su plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información interna",
+        "Contribuyentes (por la falta de transparencia en el coste total de la masa salarial funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de información sobre la dotación presupuestaria exacta del puesto",
+      "Ausencia de detalles sobre la composición de la comisión evaluadora en este extracto",
+      "Opacidad histórica en los procesos de selección universitaria (endogamia)"
+    ]
+  },
+  "tweeted": false
+}

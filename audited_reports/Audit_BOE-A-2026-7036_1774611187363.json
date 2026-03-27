@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7036",
+  "timestamp": "2026-03-27T11:33:07.363Z",
+  "title": "Real Decreto 255/2026, de 26 de marzo, por el que se modifica el Real Decreto 830/2023, de 20 de noviembre, sobre las Vicepresidencias del Gobierno.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Este Real Decreto es un ejemplo de manual de 'normativa líquida'. Al modificar las funciones de la Vicepresidencia Primera para que sean simplemente las que 'le encomiende el Presidente', se elimina cualquier descripción objetiva de responsabilidades en el BOE. Esto genera una opacidad institucional significativa, ya que el cargo deja de estar sujeto a un marco de competencias preestablecido y público para depender exclusivamente de la voluntad discrecional del Jefe del Ejecutivo. La referencia a la presidencia de una Comisión Delegada que se determine en 'el correspondiente real decreto' es una técnica de remisión que posterga la claridad sobre el poder real de esta figura política.",
+    "resumen_ciudadano": "El Gobierno ha cambiado las normas que definen qué hace el Vicepresidente Primero. A partir de ahora, sus tareas no están fijadas por ley de forma clara, sino que hará lo que el Presidente le pida en cada momento. Además, dirigirá una comisión de ministros que aún no se ha especificado. En la práctica, esto supone que la segunda autoridad del Gobierno no tiene funciones públicas transparentes, sino que actúa como un delegado personal con plenos poderes discrecionales.",
+    "resumen_tweet": "⚠️ ¡Alerta de opacidad en el #BOE! El RD 255/2026 convierte la Vicepresidencia Primera en un 'cheque en blanco': sin funciones fijas, solo lo que el Presidente ordene. ¿Cómo fiscalizamos un cargo sin competencias definidas? 🕵️‍♂️ #Transparencia #España",
+    "banderas_red_flags": [
+      "Indeterminación de funciones",
+      "Discrecionalidad absoluta del nombramiento",
+      "Remisión a normas futuras no publicadas",
+      "Falta de memoria económica sobre nuevas atribuciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Presidencia del Gobierno (gana control total y flexibilidad política)",
+        "Titular de la Vicepresidencia Primera (obtiene un marco de actuación sin límites definidos)"
+      ],
+      "perdedores": [
+        "Ciudadanía (pierde capacidad de fiscalizar el cumplimiento de funciones)",
+        "Instituciones de control (dificultad para evaluar el desempeño de un cargo sin objetivos fijados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reestructuración de la Administración Central",
+    "banderas_rojas": [
+      "Indeterminación de funciones",
+      "Discrecionalidad absoluta del nombramiento",
+      "Remisión a normas futuras no publicadas",
+      "Falta de memoria económica sobre nuevas atribuciones"
+    ]
+  },
+  "tweeted": false
+}

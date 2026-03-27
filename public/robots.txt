@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemaps
-# Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: http://radarboe.es/sitemap.xml

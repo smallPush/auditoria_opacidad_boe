@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7043",
+  "timestamp": "2026-03-27T11:41:30.310Z",
+  "title": "Circular 1/2026, de 18 de marzo, de la Comisión Nacional de los Mercados y la Competencia, por la que se regula el Registro de Alias.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Circular 1/2026 establece un sistema de control centralizado sobre la identidad digital en mensajería móvil. Aunque el objetivo declarado es la lucha contra el fraude (smishing), la normativa crea una barrera de entrada administrativa significativa. La arquitectura del registro otorga a la CNMC y a los grandes operadores un poder de veto de facto sobre quién puede comunicarse bajo un nombre comercial. Se detecta una opacidad técnica en el tratamiento de los mensajes en itinerancia (roaming), que quedan fuera de la obligación de bloqueo, dejando una puerta trasera abierta para estafadores internacionales especializados que exploten infraestructuras extranjeras.",
+    "resumen_ciudadano": "Se crea un registro obligatorio gestionado por la CNMC donde las empresas y organismos publicos deben inscribir el nombre (alias) que usan para enviarte SMS. A partir de junio de 2026, si recibes un mensaje de un remitente no registrado o enviado a traves de un proveedor no autorizado, tu operador debera bloquearlo automaticamente. El objetivo es que nadie pueda hacerse pasar por tu banco o por Hacienda para robarte datos.",
+    "resumen_tweet": "🛡️ ¡Guerra al smishing! La @CNMC_ES lanza el Registro de Alias para evitar que suplanten a tu banco por SMS. Si no esta registrado, sera bloqueado. 🚫 Ojo a la letra pequena: el roaming queda fuera. #BOE #Opacidad #Transparencia #Ciberseguridad",
+    "banderas_red_flags": [
+      "Excepcion de bloqueo en itinerancia internacional (posible brecha de seguridad)",
+      "Ausencia de memoria de costes publicos para la gestion del nuevo registro",
+      "Delegacion de la capacidad de bloqueo en criterios tecnicos de los operadores sin supervision judicial previa",
+      "Potencial retraso en la comunicacion de emergencias si los sistemas de filtrado fallan"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Usuarios finales (reduccion de estafas por SMS)",
+        "Grandes entidades bancarias (proteccion de marca)",
+        "Operadores Moviles de Red (OMR) (mayor control del trafico)"
+      ],
+      "perdedores": [
+        "Ciberdelincuentes (dificultad para el phishing masivo)",
+        "Pymes (nueva carga administrativa para registrar alias)",
+        "Agregadores de mensajería internacionales de bajo coste (obligacion de certificacion)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Circular de la CNMC / Telecomunicaciones",
+    "banderas_rojas": [
+      "Excepcion de bloqueo en itinerancia internacional (posible brecha de seguridad)",
+      "Ausencia de memoria de costes publicos para la gestion del nuevo registro",
+      "Delegacion de la capacidad de bloqueo en criterios tecnicos de los operadores sin supervision judicial previa",
+      "Potencial retraso en la comunicacion de emergencias si los sistemas de filtrado fallan"
+    ]
+  },
+  "tweeted": false
+}

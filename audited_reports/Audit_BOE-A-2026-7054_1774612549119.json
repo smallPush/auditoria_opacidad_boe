@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7054",
+  "timestamp": "2026-03-27T11:55:49.119Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Universidad de Málaga, por la que se nombra Catedrático de Universidad a don José María Garrido Balsells.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en la categoría de Catedrático. Aunque el proceso se ajusta a la Ley Orgánica 2/2023 (LOSU), la resolución padece de la opacidad fiscal típica del BOE: se mencionan los 'emolumentos que le corresponden' sin desglosar el coste bruto anual para el erario público. El área de 'Teoría de la Señal y Comunicaciones' es un sector estratégico, pero el texto no justifica la necesidad social de la plaza más allá del cumplimiento administrativo.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado oficialmente a un nuevo Catedrático en Ingeniería de Comunicaciones. Es un ascenso dentro de la jerarquía universitaria tras superar un concurso convocado en 2025.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Málaga. El #BOE publica el nombramiento pero oculta el coste salarial real para el contribuyente. ¿Cuándo veremos transparencia financiera total en la universidad pública? 💸 #Opacidad #Transparencia #Málaga",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía salarial exacta",
+      "Falta de memoria de impacto presupuestario",
+      "Persistencia de la brecha de género en altas categorías STEM"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Garrido Balsells (beneficiario directo)",
+        "Departamento de Ingeniería de Comunicaciones (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento del gasto público derivado)",
+        "Candidatos externos (barreras estructurales de la endogamia universitaria)",
+        "Equidad de género (puesto de alto rango ocupado por perfil masculino en área técnica)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en la cuantía salarial exacta",
+      "Falta de memoria de impacto presupuestario",
+      "Persistencia de la brecha de género en altas categorías STEM"
+    ]
+  },
+  "tweeted": false
+}

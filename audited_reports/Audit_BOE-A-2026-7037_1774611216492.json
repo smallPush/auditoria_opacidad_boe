@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7037",
+  "timestamp": "2026-03-27T11:33:36.492Z",
+  "title": "Acuerdo administrativo entre el Reino de España y el Comité Económico y Social Europeo, hecho en Bruselas el 7 de marzo de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo establece un mecanismo de uso de lenguas cooficiales en el CESE que, bajo una apariencia de pluralismo, esconde un sistema burocrático ineficiente y costoso. España asume la totalidad de los gastos directos e indirectos sin que se especifique un techo presupuestario o una partida concreta, lo que constituye un 'cheque en blanco' administrativo. El proceso de traducción 'puente' (Ciudadano-Organismo Español-CESE y viceversa) garantiza retrasos en los plazos de respuesta y una dilución de responsabilidades legales, ya que el CESE se exime de cualquier error en la traducción que el propio Gobierno español debe certificar y pagar.",
+    "resumen_ciudadano": "Los ciudadanos podrán escribir al Comité Económico y Social Europeo en lenguas como el catalán, gallego o euskera. Sin embargo, no será una comunicación directa: el Gobierno español actuará de intermediario traduciendo todo, asumiendo todos los costes económicos y eximiendo a la UE de cualquier error. Es un avance simbólico pero con un alto coste operativo y burocrático para el contribuyente.",
+    "resumen_tweet": "¿Pluralismo o burocracia cara? 🌍 El acuerdo con el CESE permite lenguas cooficiales, pero España paga TODO el gasto sin límite claro 💸. Un laberinto de traducciones que retrasa trámites y paga el ciudadano. #BOE #Opacidad #Transparencia 🇪🇸🇪🇺",
+    "banderas_red_flags": [
+      "Gasto público indeterminado y sin techo previsto",
+      "Externalización de la responsabilidad jurídica de las traducciones",
+      "Aumento de la opacidad en los costes de interpretación pasiva",
+      "Procedimiento administrativo redundante que alarga los plazos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Élites políticas regionales (rédito simbólico)",
+        "Organismos de traducción designados a dedo",
+        "Estructuras burocráticas del Ministerio de Asuntos Exteriores"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el 100% de los costes europeos)",
+        "Ciudadanos (enfrentan plazos más largos para recibir respuestas)",
+        "Transparencia presupuestaria (gastos facturados semestralmente sin control previo)"
+      ]
+    },
+    "comunidad_autonoma": "España (con impacto en CCAA con lengua cooficial)",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Gasto público indeterminado y sin techo previsto",
+      "Externalización de la responsabilidad jurídica de las traducciones",
+      "Aumento de la opacidad en los costes de interpretación pasiva",
+      "Procedimiento administrativo redundante que alarga los plazos"
+    ]
+  },
+  "tweeted": false
+}

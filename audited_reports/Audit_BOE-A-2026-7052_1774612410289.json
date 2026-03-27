@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7052",
+  "timestamp": "2026-03-27T11:53:30.289Z",
+  "title": "Resolución de 16 de marzo de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Juan María Garrido Almiñana.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento discrecional-administrativo tras un proceso de concurso para una cátedra. Aunque cumple la legalidad formal bajo la LOSU (Ley Orgánica 2/2023), el texto es puramente procedimental y oculta los criterios cualitativos de la comisión evaluadora. La opacidad reside en la falta de acceso público a la valoración de méritos frente a otros posibles candidatos, perpetuando una estructura de élite académica difícil de auditar externamente.",
+    "resumen_ciudadano": "La Universidad Nacional de Educación a Distancia (UNED) ha nombrado formalmente a Juan María Garrido Almiñana como Catedrático de Universidad en el área de Lengua Española. Este es un cargo vitalicio en la cúspide de la jerarquía docente universitaria, derivado de un proceso iniciado en noviembre de 2025.",
+    "resumen_tweet": "🏛️ Nueva cátedra en la UNED: Juan María Garrido Almiñana alcanza la élite académica en Lengua Española. Proceso legal pero bajo el hermetismo habitual de los tribunales universitarios. ¿Meritocracia real o inercia? 🎓 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la deliberación de la comisión examinadora",
+      "Falta de publicación de la puntuación comparativa de candidatos",
+      "Consolidación de plazas de alta remuneración sin desglose de impacto presupuestario directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan María Garrido Almiñana (estabilidad laboral y estatus de élite)",
+        "Departamento de Lengua Española y Lingüística General (consolidación de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada en procesos de promoción interna)",
+        "Representación de género (puesto de alta jerarquía ocupado por un varón)",
+        "Contribuyente (falta de detalle sobre el coste total de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (UNED)",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en la deliberación de la comisión examinadora",
+      "Falta de publicación de la puntuación comparativa de candidatos",
+      "Consolidación de plazas de alta remuneración sin desglose de impacto presupuestario directo"
+    ]
+  },
+  "tweeted": false
+}

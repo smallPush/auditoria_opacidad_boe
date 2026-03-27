@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7042",
+  "timestamp": "2026-03-27T11:40:18.097Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Subsecretaría, por la que se establece el procedimiento para la presentación de la autoliquidación y el pago por vía electrónica de las tasas de telecomunicaciones establecidas en el Anexo I, apartado 4, de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución se presenta como una modernización técnica necesaria para integrar las tasas de telecomunicaciones con la nueva pasarela de pagos de la AEAT (tarjetas y transferencias instantáneas). Sin embargo, bajo la apariencia de 'eficiencia digital', se mantiene la opacidad sobre el destino real de los fondos recaudados por el Modelo 790. Se deroga una norma de 2006, lo que evidencia un retraso de dos décadas en la actualización de procedimientos básicos. No hay una simplificación de la carga administrativa, solo una automatización del cobro.",
+    "resumen_ciudadano": "Esta norma establece cómo deben pagar las tasas de telecomunicaciones las empresas y particulares a través de internet. Afecta a quienes necesiten licencias de radioaficionado, registros de instaladores, o certificaciones técnicas. El cambio principal es que ahora el sistema de pago de Hacienda permite usar tarjetas de crédito de forma más segura y transferencias bancarias inmediatas.",
+    "resumen_tweet": "📱 El Gobierno actualiza el cobro de tasas de telecomunicaciones. Más facilidades para pagar (tarjeta y transferencias), pero la misma burocracia del Modelo 790. ¿Eficiencia digital o solo mejor recaudación? 💸 #BOE #Opacidad #Transparencia #Telecom",
+    "banderas_red_flags": [
+      "Latencia normativa: Se tarda 20 años en actualizar un procedimiento de 2006",
+      "Ausencia de información sobre el importe de las tasas en el texto (remisión a anexos externos)",
+      "Falta de alternativas para ciudadanos con brecha digital en un entorno de obligatoriedad electrónica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Tributaria (recaudación más rápida y automatizada)",
+        "Grandes operadoras (integración de procesos de pago)",
+        "Bancos (intermediación en pagos instantáneos)"
+      ],
+      "perdedores": [
+        "Radioaficionados (barrera técnica de tramitación)",
+        "Pequeñas empresas instaladoras (mantenimiento de burocracia de autoliquidación)",
+        "Ciudadanos con baja competencia digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Procedimiento Tributario / Telecomunicaciones",
+    "banderas_rojas": [
+      "Latencia normativa: Se tarda 20 años en actualizar un procedimiento de 2006",
+      "Ausencia de información sobre el importe de las tasas en el texto (remisión a anexos externos)",
+      "Falta de alternativas para ciudadanos con brecha digital en un entorno de obligatoriedad electrónica"
+    ]
+  },
+  "tweeted": false
+}

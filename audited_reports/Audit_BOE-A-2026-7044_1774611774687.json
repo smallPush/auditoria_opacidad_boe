@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7044",
+  "timestamp": "2026-03-27T11:42:54.687Z",
+  "title": "Ley 2/2026, de 27 de febrero, de medida excepcional de carácter fiscal.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La ley funciona como un parche legislativo para subsanar un error de calendario administrativo. La Xunta de Galicia impuso originalmente requisitos de trazabilidad (prohibición del efectivo) para deducciones de material escolar mediante una ley publicada a finales de 2025, afectando retroactivamente a compras realizadas desde julio. Esta nueva norma admite implícitamente que no se puede exigir el cumplimiento de una norma antes de que el ciudadano la conozca, devolviendo el derecho a la deducción a quienes pagaron en metálico. Aunque protege al ciudadano, evidencia una falta de coordinación en la planificación fiscal inicial.",
+    "resumen_ciudadano": "Si compraste libros o material escolar en Galicia entre julio y diciembre de 2025, ahora podrás aplicar la deducción fiscal aunque hayas pagado en efectivo. El gobierno regional ha tenido que cambiar la norma porque la obligación de pagar con tarjeta o transferencia se anunció después de que muchas familias ya hubieran hecho las compras para el curso escolar.",
+    "resumen_tweet": "📢 ¡Giro en el #BOE! Galicia permite finalmente desgravar el material escolar de 2025 pagado en EFECTIVO 💸. La Xunta rectifica tras admitir que avisó tarde sobre la obligatoriedad de pagos trazables. Un alivio para las familias. #Transparencia #IRPF",
+    "banderas_red_flags": [
+      "Legislación reactiva por mala praxis temporal",
+      "Corrección de retroactividad impropia",
+      "Inseguridad jurídica previa por aviso tardío"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias con menor digitalización financiera",
+        "Rentas que operan mayoritariamente con dinero de curso legal",
+        "Contribuyentes con hijos en edad escolar en Galicia"
+      ],
+      "perdedores": [
+        "Control de trazabilidad absoluta del gasto (objetivo inicial)",
+        "Coherencia en los tiempos de la política antifraude"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Modificación Fiscal Autonómica",
+    "banderas_rojas": [
+      "Legislación reactiva por mala praxis temporal",
+      "Corrección de retroactividad impropia",
+      "Inseguridad jurídica previa por aviso tardío"
+    ]
+  },
+  "tweeted": false
+}

@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7051",
+  "timestamp": "2026-03-27T11:52:22.316Z",
+  "title": "Resolución de 16 de marzo de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Jorge Calvo Zaragoza.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Catedrático) en un área técnica estratégica como es la Informática. Aunque el acto cumple formalmente con la legalidad vigente (LOSU 2/2023), el proceso de selección por comisiones internas en la universidad española sigue siendo un foco de crítica por la potencial endogamia. No se detallan los méritos específicos ni la composición de la comisión evaluadora en este extracto, limitándose a la formalización del cargo.",
+    "resumen_ciudadano": "La Universidad de Alicante ha nombrado formalmente a un nuevo Catedrático de Universidad en el área de Lenguajes y Sistemas Informáticos. Este es el rango más alto para un profesor universitario en España, implicando una plaza vitalicia y un aumento en la escala salarial pública.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Alicante: Jorge Calvo Zaragoza asciende en Sistemas Informáticos. Trámite administrativo superado, pero ¿cómo fue la selección? La élite académica se consolida. #BOE #Opacidad #Transparencia 🏛️💻",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de evaluación de la comisión",
+      "Riesgo de endogamia académica institucional",
+      "Ausencia de datos sobre la competencia real por la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Calvo Zaragoza",
+        "Universidad de Alicante (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos al departamento",
+        "Representación de género en puestos de alta jerarquía académica STEM"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Opacidad en los criterios de evaluación de la comisión",
+      "Riesgo de endogamia académica institucional",
+      "Ausencia de datos sobre la competencia real por la plaza"
+    ]
+  },
+  "tweeted": false
+}

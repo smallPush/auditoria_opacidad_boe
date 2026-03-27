@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-7041",
+  "timestamp": "2026-03-27T11:38:54.858Z",
+  "title": "Orden HAC/277/2026, de 25 de marzo, por la que se aprueban los modelos de declaración del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Patrimonio, ejercicio 2025, se determinan el lugar, forma y plazos de presentación de los mismos, se establecen los procedimientos de obtención, modificación, confirmación y presentación del borrador de declaración del Impuesto sobre la Renta de las Personas Físicas y se determinan las condiciones generales y el procedimiento para la presentación de ambos por medios electrónicos.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "La Orden HAC/277/2026 perpetúa la complejidad técnica como barrera de acceso. Aunque se publicita una 'simplificación', la norma es un laberinto de remisiones a leyes de 1991, 2006 y sucesivos Reales Decretos-leyes de 2025 y 2026. Se detecta una 'Incongruencia Ideológica' en la gestión del Ingreso Mínimo Vital (IMV): se obliga a los sectores más vulnerables a una carga burocrática anual (declarar IRPF) que no genera recaudación real, actuando más como mecanismo de control que de asistencia. Además, el uso de 'acontecimientos de excepcional interés público' en los anexos suele ocultar beneficios fiscales a grandes corporaciones bajo el manto del mecenazgo, sin un desglose de impacto social claro.",
+    "resumen_ciudadano": "Hacienda establece las reglas para la declaración de la Renta y Patrimonio de 2025. Las novedades incluyen: exención de pago para quienes cobran el Salario Mínimo Interprofesional (hasta 16.576€), nuevas deducciones para artistas y la prórroga de ayudas por coches eléctricos y eficiencia energética. Se mantiene la obligación de declarar para todos los beneficiarios del Ingreso Mínimo Vital.",
+    "resumen_tweet": "📑 ¡Renta 2025 en el #BOE! Hacienda alivia el SMI y a artistas, pero mantiene la presión burocrática sobre los perceptores del IMV. 💸 Más casillas, más excepciones y la misma opacidad en los beneficios por 'interés público'. #Transparencia #IRPF #Opacidad",
+    "banderas_red_flags": [
+      "Obligación de declarar para perceptores de IMV sin umbral mínimo de ingresos.",
+      "Complejidad extrema en el traslado de libros registro de autónomos.",
+      "Opacidad en las deducciones por 'acontecimientos de excepcional interés público'.",
+      "Fomento de la brecha digital al priorizar medios electrónicos sin alternativas claras para colectivos vulnerables."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Perceptores del SMI (exención de gravamen)",
+        "Sector artístico (deducciones por rendimientos excepcionales)",
+        "Compradores de vehículos eléctricos (prórroga MOVES III)",
+        "Residentes en La Palma (deducción especial)"
+      ],
+      "perdedores": [
+        "Perceptores del IMV (carga burocrática obligatoria)",
+        "Ciudadanos sin competencias digitales (brecha administrativa)",
+        "Contribuyentes de rentas medias no amparados por las nuevas deducciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal con impacto en todas las CCAA de régimen común",
+    "tipologia": "Orden Ministerial / Normativa Tributaria",
+    "banderas_rojas": [
+      "Obligación de declarar para perceptores de IMV sin umbral mínimo de ingresos.",
+      "Complejidad extrema en el traslado de libros registro de autónomos.",
+      "Opacidad en las deducciones por 'acontecimientos de excepcional interés público'.",
+      "Fomento de la brecha digital al priorizar medios electrónicos sin alternativas claras para colectivos vulnerables."
+    ]
+  },
+  "tweeted": false
+}

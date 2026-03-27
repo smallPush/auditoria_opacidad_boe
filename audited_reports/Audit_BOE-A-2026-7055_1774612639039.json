@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-7055",
+  "timestamp": "2026-03-27T11:57:19.039Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Universidad de Málaga, por la que se nombra Profesora Titular de Universidad a doña María Clara von Essen.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionaria de carrera (Profesora Titular) bajo la Ley Organica 2/2023 (LOSU). La resolucion cumple con la formalidad burocratica, pero mantiene la opacidad habitual en la administracion publica al no desglosar el coste presupuestario anual de la plaza, limitandose a referenciar 'emolumentos segun disposiciones vigentes'. Esto dificulta el seguimiento ciudadano del gasto publico real en personal docente e investigador.",
+    "resumen_ciudadano": "La Universidad de Malaga ha nombrado formalmente a Maria Clara von Essen como Profesora Titular en el area de Lengua Española. Es un tramite administrativo final tras un concurso publico que le otorga una plaza fija en el sistema universitario.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Univ. de Málaga: María Clara von Essen, Catedrática de Lengua Española. El #BOE sigue remitiendo a 'normas vigentes' sin aclarar el sueldo público real de estos nombramientos. #Transparencia #Universidad #Opacidad 🏛️",
+    "banderas_red_flags": [
+      "Falta de especificacion de la cuantía salarial (emolumentos)",
+      "Remision a normativas externas para el calculo del gasto publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Clara von Essen",
+        "Universidad de Malaga (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el concurso 176TUN25",
+        "Ciudadania (por opacidad presupuestaria directa)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Falta de especificacion de la cuantía salarial (emolumentos)",
+      "Remision a normativas externas para el calculo del gasto publico"
+    ]
+  },
+  "tweeted": false
+}
