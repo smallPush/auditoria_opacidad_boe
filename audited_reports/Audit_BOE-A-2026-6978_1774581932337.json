@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-6978",
+  "timestamp": "2026-03-27T03:25:32.337Z",
+  "title": "Resolución de 10 de marzo de 2026, de la Subsecretaría, por la que se establece el procedimiento para el pago por vía electrónica de la tasa por reserva del dominio público radioeléctrico establecida en el Anexo I, apartado 3, de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se presenta como una modernización técnica para facilitar el pago de tasas mediante tarjeta y transferencia instantánea, adaptándose a la nueva pasarela de la AEAT. Sin embargo, bajo la apariencia de simplificación administrativa, se consolida la gestión de un recurso público invisible pero altamente lucrativo: el espacio radioeléctrico. No se menciona el destino de estos fondos ni se evalúa si la digitalización forzosa supone una barrera para pequeños actores o radios comunitarias frente a los gigantes de las telecomunicaciones.",
+    "resumen_ciudadano": "El Gobierno ha actualizado el método para que las empresas de telecomunicaciones y otros usuarios paguen por el uso del espacio radioeléctrico (el 'aire' por donde viajan las ondas de radio, TV e internet). Ahora se permite el pago con tarjeta y transferencia bancaria instantánea para agilizar la recaudación de la tasa modelo 990. Es un trámite burocrático para asegurar que el Estado cobre de manera más eficiente por un bien público.",
+    "resumen_tweet": "📡 ¿Quién paga por usar nuestro 'aire'? El Gobierno actualiza el cobro de tasas por el espacio radioeléctrico. Ahora con tarjeta y pagos instantáneos. 💸 Agilizando la caja mientras el ciudadano ni nota quién explota las ondas. #BOE #Opacidad #Telecoms",
+    "banderas_red_flags": [
+      "Digitalización obligatoria sin alternativa analógica explícita",
+      "Ausencia de desglose sobre el destino de la recaudación",
+      "Dependencia absoluta de entidades bancarias colaboradoras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes operadoras de telecomunicaciones (agilidad en trámites)",
+        "Agencia Tributaria (eficiencia recaudatoria)",
+        "Sector bancario (intermediación de pagos electrónicos)"
+      ],
+      "perdedores": [
+        "Pequeñas emisoras locales o comunitarias (barrera de gestión técnica)",
+        "Ciudadanía general (falta de claridad sobre el retorno social de esta tasa)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa / Fiscal",
+    "banderas_rojas": [
+      "Digitalización obligatoria sin alternativa analógica explícita",
+      "Ausencia de desglose sobre el destino de la recaudación",
+      "Dependencia absoluta de entidades bancarias colaboradoras"
+    ]
+  },
+  "tweeted": false
+}
