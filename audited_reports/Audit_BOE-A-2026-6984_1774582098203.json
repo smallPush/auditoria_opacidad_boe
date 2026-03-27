@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-6984",
+  "timestamp": "2026-03-27T03:28:18.203Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Agencia Nacional de Evaluación de la Calidad y Acreditación, por la que se dispone el cese y nombramiento de miembros del Comité Asesor de la Comisión Nacional Evaluadora de la Actividad Investigadora.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución presenta la estructura clásica de cooptación administrativa en la ciencia española. Aunque se publica el cese y nombramiento, la base del cambio se sustenta en la 'confianza otorgada' por el Pleno de la CNEAI y el Consejo de Universidades, términos que enmascaran la falta de un proceso de concurrencia competitiva o méritos públicos para ocupar puestos que deciden sobre las carreras de miles de investigadores. Se detecta una rotación de perfiles de alto rango (catedráticos) entre universidades de similares características, manteniendo un statu quo de poder académico cerrado.",
+    "resumen_ciudadano": "La ANECA ha cambiado a uno de los responsables de evaluar la calidad de la investigación en Ingeniería Eléctrica y Electrónica. Sale un catedrático de Valencia y entra uno de Zaragoza. Este comité es vital porque decide quién recibe complementos salariales y promociones en la universidad pública, pero los ciudadanos no pueden saber por qué se elige a dedo a estas personas concretas más allá de la 'confianza' interna.",
+    "resumen_tweet": "🕵️‍♂️ Nueva \"sustitución\" en la sombra de la ANECA. Se cambia un miembro del comité que decide el futuro de ingenieros e informáticos. Basado en \"confianza\", no en concurso abierto. ¿Quién vigila a los evaluadores? #BOE #Opacidad #Transparencia #Ciencia 🇪🇸",
+    "banderas_red_flags": [
+      "Criterio de selección basado en 'confianza' y no en baremos públicos",
+      "Ausencia de explicación sobre las causas de la renuncia del predecesor",
+      "Rotación interna entre élites académicas (catedráticos)",
+      "Opacidad en el proceso de propuesta del Consejo de Universidades"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Antonio Domínguez Navarro (nuevo poder de evaluación)",
+        "Universidad de Zaragoza (presencia en órganos de decisión estatales)",
+        "Cuerpo de Catedráticos (mantenimiento del control jerárquico)"
+      ],
+      "perdedores": [
+        "Transparencia en procesos selectivos",
+        "Candidatos externos no vinculados a los círculos de confianza de la CNEAI",
+        "Democratización de las instituciones evaluadoras"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Criterio de selección basado en 'confianza' y no en baremos públicos",
+      "Ausencia de explicación sobre las causas de la renuncia del predecesor",
+      "Rotación interna entre élites académicas (catedráticos)",
+      "Opacidad en el proceso de propuesta del Consejo de Universidades"
+    ]
+  },
+  "tweeted": false
+}
