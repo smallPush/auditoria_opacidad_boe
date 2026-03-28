@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7141",
+  "timestamp": "2026-03-28T13:19:55.873Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Diputación Provincial de Zaragoza, de corrección de errores de la de 8 de marzo de 2026, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Estamos ante una corrección de errores que oculta una modificación sustancial de la naturaleza del empleo público convocado. Pasar de una jefatura (Jefe de Intervención/Zona) a un puesto operativo (Bombero) no es una errata tipográfica menor, sino un cambio radical en la escala salarial, requisitos y funciones. Esta 'opacidad técnica' genera inseguridad jurídica y puede ser utilizada para redirigir plazas bajo el radar de la fiscalización ciudadana.",
+    "resumen_ciudadano": "La Diputación de Zaragoza admite un error crítico en su convocatoria de empleo: donde decía que buscaban jefes, ahora dicen que buscan bomberos rasos. Debido a esta confusión de categorías, se ven obligados a reabrir el plazo de inscripción por 15 días adicionales para que nuevos candidatos puedan optar a estas plazas.",
+    "resumen_tweet": "🚨 ¡Chapuza en el #BOE! La Diputación de Zaragoza confunde plazas de 'Jefe' con 'Bombero'. 🚒 Un 'error' que cambia funciones y sueldos por completo. Se reabre plazo de 15 días. ¿Error humano o gestión opaca? 🤔 #Transparencia #Zaragoza #Oposiciones",
+    "banderas_red_flags": [
+      "Cambio extremo de categoría profesional (de mando a operativo)",
+      "Uso del mecanismo de 'corrección de errores' para cambios de fondo",
+      "Potencial vulneración de los principios de mérito y capacidad por mala planificación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes a bomberos que no tenían titulación de jefatura",
+        "La propia administración local al ganar tiempo para cubrir la vacante"
+      ],
+      "perdedores": [
+        "Aspirantes a jefatura que ven su plaza cancelada",
+        "Contribuyentes (costes administrativos de republicación y retraso)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Cambio extremo de categoría profesional (de mando a operativo)",
+      "Uso del mecanismo de 'corrección de errores' para cambios de fondo",
+      "Potencial vulneración de los principios de mérito y capacidad por mala planificación"
+    ]
+  },
+  "tweeted": false
+}
