@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7125",
+  "timestamp": "2026-03-28T13:14:42.298Z",
+  "title": "Resolución de 26 de marzo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La validación por la vía de urgencia de un 'Plan Integral' mediante Real Decreto-ley 7/2026 evidencia una elusión sistemática del debate parlamentario ordinario. El uso de la figura del Decreto-ley para crisis internacionales permite al Ejecutivo movilizar partidas presupuestarias bajo el paraguas de la 'emergencia', dificultando el rastreo de flujos monetarios. La existencia de una 'corrección de errores' apenas cuatro días después de la publicación original del RDL sugiere una improvisación legislativa incompatible con la magnitud de un plan de respuesta internacional.",
+    "resumen_ciudadano": "El Congreso ha ratificado una norma que aprueba gastos y medidas urgentes para la crisis en Oriente Medio sin un desglose detallado de los beneficiarios. Este procedimiento de convalidación impide que la oposición o la ciudadanía puedan proponer enmiendas o conocer con exactitud el destino de los fondos destinados a este 'Plan Integral'.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad! El Congreso convalida el RDL 7/2026 sobre la crisis en Oriente Medio. ¿A dónde va realmente el dinero? 💸 Sin desglose claro y con correcciones de errores exprés. Menos control, más gasto discrecional. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para evitar el debate presupuestario ordinario",
+      "Corrección de errores inmediata (indicio de legislación apresurada)",
+      "Ambigüedad terminológica en 'Plan Integral'",
+      "Falta de memoria económica detallada en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Asuntos Exteriores (mayor discrecionalidad presupuestaria)",
+        "Empresas de logística y defensa (potenciales adjudicatarios sin concurso)",
+        "Poder Ejecutivo (evita el escrutinio de enmiendas)"
+      ],
+      "perdedores": [
+        "Soberanía parlamentaria (limitada al voto sí/no)",
+        "Contribuyentes (falta de desglose del coste del Plan)",
+        "Mecanismos de transparencia en ayuda internacional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Política Exterior / Presupuestaria",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para evitar el debate presupuestario ordinario",
+      "Corrección de errores inmediata (indicio de legislación apresurada)",
+      "Ambigüedad terminológica en 'Plan Integral'",
+      "Falta de memoria económica detallada en la resolución"
+    ]
+  },
+  "tweeted": false
+}
