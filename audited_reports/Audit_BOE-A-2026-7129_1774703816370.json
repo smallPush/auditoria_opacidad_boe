@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7129",
+  "timestamp": "2026-03-28T13:16:56.370Z",
+  "title": "Resolución de 19 de marzo de 2026, del Consejo Rector de la Agencia Estatal de Seguridad Aérea, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento utiliza el mecanismo de 'libre designación' para cubrir un puesto de Nivel 30 (el máximo en la administración general). Aunque se ampara en el Real Decreto-ley 6/2023 y menciona la valoración de 'asesores expertos', no se publican los criterios de puntuación ni la comparativa de méritos, lo que perpetúa la discrecionalidad en la alta dirección pública. Se observa una promoción interna directa (de nivel 29 a 30) dentro de la misma Agencia, lo que sugiere un movimiento preconfigurado bajo apariencia de convocatoria pública.",
+    "resumen_ciudadano": "La Agencia Estatal de Seguridad Aérea ha nombrado a una nueva Directora de Seguridad de Aeronaves. El proceso se ha realizado mediante libre designación, un método que permite a los altos cargos elegir a personas de su confianza sin un concurso de méritos abierto y estrictamente competitivo.",
+    "resumen_tweet": "✈️ Nueva adjudicación 'a dedo' (libre designación) en la Agencia de Seguridad Aérea (AESA). Un Nivel 30 más para la élite funcionarial sin transparencia en la evaluación de los 'expertos'. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en niveles máximos",
+      "Opacidad en los informes de expertos",
+      "Consolidación de élites funcionariales",
+      "Falta de publicidad de candidaturas alternativas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena María Carrera Toucedo",
+        "Cuerpo de Ingenieros Aeronáuticos",
+        "Ministerio de Transportes"
+      ],
+      "perdedores": [
+        "Concurrencia competitiva",
+        "Candidatos externos sin redes internas",
+        "Ciudadanía (por falta de detalle en la idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Libre designación en niveles máximos",
+      "Opacidad en los informes de expertos",
+      "Consolidación de élites funcionariales",
+      "Falta de publicidad de candidaturas alternativas"
+    ]
+  },
+  "tweeted": false
+}
