@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7142",
+  "timestamp": "2026-03-28T13:28:51.508Z",
+  "title": "Resolución de 11 de marzo de 2026, del Ayuntamiento de Belmonte (Cuenca), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para puestos de baja cualificación técnica (peones). En la administración local española, este método suele utilizarse para procesos de estabilización encubiertos, donde la valoración de 'méritos' (experiencia previa en el mismo ayuntamiento) suele decantar la balanza hacia el personal interino que ya ocupa el puesto, dificultando el acceso real a ciudadanos externos bajo el principio de igualdad. Además, la remisión a un Boletín Provincial para las bases completas añade una capa de fricción burocrática al escrutinio público.",
+    "resumen_ciudadano": "El Ayuntamiento de Belmonte (Cuenca) lanza una oferta para contratar de forma fija a un encargado, un jardinero y un peón. El proceso no es solo un examen, sino que contará la experiencia previa, lo que da ventaja a quienes ya estén trabajando allí. El plazo para intentar optar a estas plazas es de 20 días naturales desde hoy.",
+    "resumen_tweet": "📢 ¿Oportunidad o blindaje de interinos? Belmonte convoca 3 plazas fijas de peonaje mediante concurso-oposición. Los 'méritos' suelen favorecer a los de dentro. ¡Solo 20 días para solicitar! 🧐🏛️ #BOE #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para plazas de peonaje",
+      "Opacidad en los baremos de méritos en el extracto del BOE",
+      "Posible proceso de estabilización ad hoc"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento de Belmonte",
+        "Administración local (reducción de temporalidad legal)"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en este ayuntamiento",
+        "Jóvenes titulados que buscan primer empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para plazas de peonaje",
+      "Opacidad en los baremos de méritos en el extracto del BOE",
+      "Posible proceso de estabilización ad hoc"
+    ]
+  },
+  "tweeted": false
+}
