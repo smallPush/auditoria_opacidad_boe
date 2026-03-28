@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7126",
+  "timestamp": "2026-03-28T13:13:07.177Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque la resolución cumple con la transparencia formal al listar precios, subyace una opacidad estructural: el documento no desglosa qué porcentaje del PVP corresponde a impuestos especiales, IVA y margen de la expendeduría. Se observa una clara segmentación socioeconómica; mientras se mantienen productos de 'bajo coste' como los caliqueños a 1 euro (accesibles para clases populares), se autorizan labores de lujo de hasta 50 euros por unidad. Esto sugiere que la política fiscal busca más la estabilidad recaudatoria que la disuasión del consumo por motivos de salud pública, permitiendo que la industria (fabricantes e importadores) sea quien proponga los precios.",
+    "resumen_ciudadano": "Hacienda ha actualizado los precios oficiales de venta al público para diversas marcas de cigarrillos, puros y picadura de pipa en estancos de la Península y Baleares. Estos precios incluyen ya todos los impuestos y son los únicos legales para la venta al consumidor.",
+    "resumen_tweet": "🚬 Hacienda actualiza los precios del tabaco. Desde puros de lujo a 50€ hasta opciones de 1€. El Estado asegura su caja mientras las tabaqueras marcan el ritmo. ¿Salud pública o simple recaudación? 💨 #BOE #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Precios propuestos por fabricantes e importadores, no por el regulador",
+      "Falta de desglose de la carga impositiva real por producto",
+      "Mantenimiento de labores baratas que facilitan el acceso al tabaco en rentas bajas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantenimiento de flujo fiscal)",
+        "Grandes multinacionales tabaqueras (capacidad de fijación de precios)",
+        "Sector del lujo tabacalero"
+      ],
+      "perdedores": [
+        "Salud Pública (el ajuste de precios no parece tener fines disuasorios)",
+        "Consumidores de rentas bajas (fomento implícito de labores económicas)"
+      ]
+    },
+    "comunidad_autonoma": "Península y Baleares",
+    "tipologia": "Resolución Administrativa de Precios",
+    "banderas_rojas": [
+      "Precios propuestos por fabricantes e importadores, no por el regulador",
+      "Falta de desglose de la carga impositiva real por producto",
+      "Mantenimiento de labores baratas que facilitan el acceso al tabaco en rentas bajas"
+    ]
+  },
+  "tweeted": false
+}
