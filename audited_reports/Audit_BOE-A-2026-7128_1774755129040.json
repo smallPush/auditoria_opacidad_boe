@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7128",
+  "timestamp": "2026-03-29T03:32:09.040Z",
+  "title": "Orden TRM/282/2026, de 25 de marzo, por la que se modifican la Orden FOM/1190/2005, de 25 de abril, por la que se regula la implantación del tacógrafo digital, y la Orden FOM/2861/2012, de 13 de diciembre, por la que se regula el documento de control administrativo exigible para la realización de transporte público de mercancías por carretera.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La orden ministerial facilita la transición hacia vehículos de combustibles alternativos permitiendo que titulares del permiso B conduzcan hasta 4.250 kg (frente a los 3.500 kg habituales). Bajo el pretexto de 'sostenibilidad', se produce una flexibilización del mercado laboral del transporte al permitir que conductores con licencias básicas asuman tareas antes reservadas a profesionales con permisos C o C1. No se mencionan partidas presupuestarias específicas, pero la simplificación administrativa en la acreditación de residencia para extranjeros podría generar vacíos en el control de la actividad de cabotaje internacional.",
+    "resumen_ciudadano": "Los conductores con carnet de coche (clase B) ahora podrán conducir vehículos comerciales 'ecológicos' de mayor peso (hasta 4.250 kg) y obtener la tarjeta de tacógrafo. Además, se simplifica el papeleo para demostrar quién eres y dónde vives al pedir dicha tarjeta, eliminando trámites lentos para agilizar el sector del transporte internacional.",
+    "resumen_tweet": "🚚 ¿Carnet de coche para llevar 4.250kg? El #BOE facilita que conductores con permiso B lleven vehículos 'eco' más pesados. Menos burocracia, pero ¿afectará a la seguridad vial o a los sueldos del sector? 🛑 #Transparencia #Transporte #Opacidad",
+    "banderas_red_flags": [
+      "Devaluación de la titulación profesional de transportista",
+      "Riesgo de seguridad vial por aumento de masa autorizada con carnet B",
+      "Posible opacidad en la verificación de residencia de ciudadanos de terceros países"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de logística y reparto",
+        "Fabricantes de furgonetas eléctricas/híbridas",
+        "Conductores con permiso B buscando empleo"
+      ],
+      "perdedores": [
+        "Conductores profesionales con permisos C/C1 (pérdida de exclusividad)",
+        "Seguridad vial en carreteras secundarias"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Transportes y Movilidad",
+    "banderas_rojas": [
+      "Devaluación de la titulación profesional de transportista",
+      "Riesgo de seguridad vial por aumento de masa autorizada con carnet B",
+      "Posible opacidad en la verificación de residencia de ciudadanos de terceros países"
+    ]
+  },
+  "tweeted": false
+}
