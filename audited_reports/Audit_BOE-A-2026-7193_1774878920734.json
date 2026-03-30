@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7193",
+  "timestamp": "2026-03-30T13:55:20.734Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Dirección General de Política Energética y Minas, por la que se publica la tarifa de último recurso de gas natural.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se presenta como una medida de alivio ante la crisis en Oriente Medio, pero utiliza un lenguaje técnico hiper-especializado y fórmulas matemáticas (Cn, BR6n) que actúan como una barrera de entrada para el ciudadano medio. Se detecta una incongruencia en la tipología de la Tarifa de Último Recurso (TUR), que originalmente nació para proteger al pequeño consumidor y ahora se extiende a consumos industriales masivos (TUR.11, más de 500 millones de kWh/año), desvirtuando su carácter social. Además, el 'canon de 0€' aplicado al almacenamiento excedente es una medida técnica que difícilmente compensará la volatilidad de la materia prima en el recibo final.",
+    "resumen_ciudadano": "A partir de abril de 2026, el precio del gas cambiará. Esta norma regula lo que pagarán hogares, comunidades de vecinos y ONGs. Aunque el gobierno dice estar eliminando ciertos costes de almacenamiento para bajar el precio debido a la crisis internacional, la factura sigue teniendo un 'término fijo' (un mínimo que pagas aunque no consumas nada) que oscila entre los 4 y los 182.000 euros al mes dependiendo de quién seas. La fórmula para calcular el precio real sigue siendo secreta para el público no experto.",
+    "resumen_tweet": "📉 El nuevo #BOE maquilla la tarifa del gas. Mucha fórmula técnica pero poca claridad real para el ciudadano. ¿A quién beneficia el canon de 0€ si el término fijo no baja? La opacidad energética persiste en 2026. #Transparencia #Gas #Consumo",
+    "banderas_red_flags": [
+      "Fórmulas de cálculo de materia prima indescifrables para el público",
+      "Uso de decretos de urgencia por crisis externa para modificar estructuras de precios",
+      "Extensión de la tarifa social a grandes corporaciones industriales",
+      "Mantenimiento de términos fijos elevados que penalizan el ahorro energético"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de Servicios Energéticos (ESEs)",
+        "Grandes consumidores industriales (niveles TUR.10 y TUR.11)",
+        "Comercializadoras de gas con contratos de almacenamiento pre-existentes"
+      ],
+      "perdedores": [
+        "Pequeños consumidores domésticos (TUR.1)",
+        "Hogares que intentan ahorrar (penalizados por el término fijo)",
+        "Usuarios en territorios insulares sujetos a costes de manufacturación opacos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Energética / Precios",
+    "banderas_rojas": [
+      "Fórmulas de cálculo de materia prima indescifrables para el público",
+      "Uso de decretos de urgencia por crisis externa para modificar estructuras de precios",
+      "Extensión de la tarifa social a grandes corporaciones industriales",
+      "Mantenimiento de términos fijos elevados que penalizan el ahorro energético"
+    ]
+  },
+  "tweeted": false
+}
