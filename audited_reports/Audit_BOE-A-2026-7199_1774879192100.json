@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7199",
+  "timestamp": "2026-03-30T13:59:52.100Z",
+  "title": "Resolución de 20 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución emplea el mecanismo de 'libre designación', un eufemismo legal para el nombramiento discrecional o 'a dedo'. Aunque se cita un 'informe motivado', este no es público, impidiendo auditar si los criterios de 'interés general' son técnicos o políticos. El hecho de que el adjudicatario ya ostentara un Nivel 29 en la misma unidad sugiere una maniobra de consolidación interna o rotación de élites burocráticas dentro del Ministerio de Transportes.",
+    "resumen_ciudadano": "Se ha asignado a David Pérez Martín un puesto de alta dirección (Nivel 29) como Coordinador en el Sector Ferroviario. El proceso no ha sido por oposición abierta, sino por elección directa del Ministerio. El beneficiario ya trabajaba en el mismo departamento con el mismo nivel salarial, lo que indica un movimiento de fichas en la cúpula del ministerio.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el @transportesgob. Adjudicado puesto de Nivel 29 mediante libre designación en el sector ferroviario. ¿Mérito técnico o confianza política? La endogamia en la alta administración sigue vigente. 🏛️🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Alta jerarquía administrativa (Nivel 29)",
+      "Endogamia institucional (el candidato ya estaba en la misma unidad)",
+      "Opacidad en los criterios del 'informe motivado'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Pérez Martín",
+        "Cuerpo de Ingenieros de Caminos, Canales y Puertos del Estado",
+        "Élite funcionarial de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos políticos",
+        "Principio de mérito y capacidad",
+        "Ciudadanía (por falta de transparencia en la gestión ferroviaria)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Alta jerarquía administrativa (Nivel 29)",
+      "Endogamia institucional (el candidato ya estaba en la misma unidad)",
+      "Opacidad en los criterios del 'informe motivado'"
+    ]
+  },
+  "tweeted": false
+}
