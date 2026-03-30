@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7192",
+  "timestamp": "2026-03-30T13:23:51.158Z",
+  "title": "Instrumento de adhesión al Acuerdo sobre Privilegios e Inmunidades de la Agencia Internacional de Energías Renovables, hecho en Abu Dhabi el 13 de enero de 2014.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El acuerdo concede un estatus de excepcionalidad legal a la Agencia Internacional de Energías Renovables (IRENA). Se establecen inmunidades de jurisdicción, inviolabilidad de archivos y exenciones fiscales que crean un ecosistema de opacidad para el ciudadano común. Aunque España introduce una reserva inteligente para que los residentes fiscales españoles sigan pagando IRPF sobre sus sueldos en IRENA, el texto blinda la actividad del organismo frente a registros, incautaciones y control judicial ordinario. Es especialmente llamativo que un acuerdo de 2014 se publique de forma definitiva en 2026, lo que supone una latencia burocrática inaceptable para una transparencia real.",
+    "resumen_ciudadano": "España se adhiere formalmente a un club internacional de energías renovables, otorgando a sus funcionarios privilegios similares a los de los diplomáticos: sus oficinas no pueden ser registradas, sus documentos son secretos y tienen inmunidad ante los tribunales españoles por sus actos oficiales. No obstante, el gobierno ha puesto una condición para que los españoles que trabajen allí sí paguen sus impuestos correspondientes en España.",
+    "resumen_tweet": "🚨 El BOE publica la adhesión a IRENA con 12 años de retraso. Inmunidad judicial, valijas selladas y oficinas intocables para tecnócratas. España salva el IRPF de los suyos, pero blinda la opacidad del organismo. 🌍⚡ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Anacronismo legislativo (12 años desde la firma hasta publicación completa)",
+      "Inmunidad de jurisdicción absoluta sobre haberes y bienes",
+      "Inviolabilidad de archivos sin supervisión ciudadana",
+      "Uso de valijas selladas inmunes a inspección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de IRENA (inmunidad y privilegios)",
+        "Funcionarios internacionales (exenciones de aduanas y registro)",
+        "Cúpula diplomática energética"
+      ],
+      "perdedores": [
+        "Sistema judicial ordinario (pierde competencia sobre el organismo)",
+        "Transparencia administrativa (archivos inaccesibles)",
+        "Contribuyentes (exenciones en impuestos indirectos de la Agencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Privilegios Diplomáticos",
+    "banderas_rojas": [
+      "Anacronismo legislativo (12 años desde la firma hasta publicación completa)",
+      "Inmunidad de jurisdicción absoluta sobre haberes y bienes",
+      "Inviolabilidad de archivos sin supervisión ciudadana",
+      "Uso de valijas selladas inmunes a inspección"
+    ]
+  },
+  "tweeted": false
+}
