@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7209",
+  "timestamp": "2026-03-30T14:04:21.132Z",
+  "title": "Resolución de 19 de marzo de 2026, de la Universidad Rovira i Virgili, por la que se nombra Catedrático de Universidad a don Jaume Folch López.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El nombramiento se basa en mecanismos de promoción interna del profesorado titular, una práctica legal bajo la LOSU pero que históricamente ha sido criticada por fomentar la endogamia universitaria al limitar la competencia externa. El texto carece de desglose sobre la dotación económica específica de la cátedra o su impacto presupuestario plurianual.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili nombra oficialmente al Dr. Jaume Folch López como Catedrático de Universidad en el área de Bioquímica y Biología Molecular, tras superar un concurso de promoción interna.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la @universitatURV. La promoción interna asegura plazas pero limita la competencia externa. ¿Transparencia presupuestaria? Ausente en el texto. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Promoción interna exclusiva",
+      "Ausencia de información presupuestaria vinculada",
+      "Posible riesgo de endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dr. Jaume Folch López",
+        "Universidad Rovira i Virgili (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema universitario regional",
+        "Contribuyente (por falta de visibilidad del coste de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Promoción interna exclusiva",
+      "Ausencia de información presupuestaria vinculada",
+      "Posible riesgo de endogamia académica"
+    ]
+  },
+  "tweeted": false
+}
