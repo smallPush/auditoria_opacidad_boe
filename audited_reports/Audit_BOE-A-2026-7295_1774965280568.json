@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7295",
+  "timestamp": "2026-03-31T13:54:40.568Z",
+  "title": "Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el Real Decreto se presenta bajo la bandera de la lucha contra la morosidad y el impulso a la digitalización, oculta un sistema de vigilancia fiscal masiva en tiempo real. La obligatoriedad de remitir una 'copia fiel' de cada factura B2B a la Agencia Tributaria (AEAT) transforma un instrumento mercantil en una herramienta de control estatal absoluto. Se detecta un riesgo de opacidad en la facultad discrecional otorgada al Ministerio de Economía para excluir sectores mediante Orden Ministerial, lo que abre la puerta a tratos de favor o presiones de grupos de interés. La carga administrativa de informar no solo de la factura, sino del estado de pago, supone una fiscalización del flujo de caja privado sin precedentes en la democracia española.",
+    "resumen_ciudadano": "El Gobierno impone la factura electrónica obligatoria para todas las empresas y autónomos. El objetivo declarado es controlar que se pague a tiempo a los proveedores, pero en la práctica obliga a que Hacienda reciba una copia de cada transacción comercial privada. Esto supone un coste extra de gestión para los pequeños negocios y un control total de sus movimientos de dinero por parte del Estado.",
+    "resumen_tweet": "📢 ¡Alerta #BOE! La factura electrónica obligatoria llega para 'frenar la morosidad', pero es un caballo de Troya para el control total de la AEAT sobre Pymes y autónomos. 🕵️‍♂️ Más burocracia y vigilancia fiscal. #Opacidad #Transparencia #Autónomos 📉",
+    "banderas_red_flags": [
+      "Vigilancia masiva en tiempo real de transacciones privadas por la AEAT",
+      "Poder discrecional ministerial para excluir sectores de la norma",
+      "Aumento de costes operativos para micro-pymes y autónomos",
+      "Obligación de reportar fechas de pago exactas bajo supervisión estatal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Estatal de Administración Tributaria (AEAT)",
+        "Empresas de desarrollo de software y plataformas de facturación",
+        "Grandes empresas con infraestructuras digitales ya consolidadas"
+      ],
+      "perdedores": [
+        "Autónomos y micro-pymes (mayor carga administrativa)",
+        "Privacidad comercial de las relaciones entre particulares",
+        "Negocios en zonas rurales con brecha digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Desarrollo Normativo Económico",
+    "banderas_rojas": [
+      "Vigilancia masiva en tiempo real de transacciones privadas por la AEAT",
+      "Poder discrecional ministerial para excluir sectores de la norma",
+      "Aumento de costes operativos para micro-pymes y autónomos",
+      "Obligación de reportar fechas de pago exactas bajo supervisión estatal"
+    ]
+  },
+  "tweeted": false
+}
