@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7207",
+  "timestamp": "2026-03-31T03:27:57.301Z",
+  "title": "Resolución de 19 de marzo de 2026, de la Universidad de León, por la que se nombra Catedrático de Universidad a don Carlos Gaspar Polanco de la Puente.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario de carrera (Catedrático) bajo la Ley Orgánica 2/2023 (LOSU). El proceso es formalmente correcto y transparente en cuanto a la identidad y base legal, pero oculta la justificación del mérito frente a otros candidatos en el extracto publicado. Representa la consolidación de un gasto público estructural a largo plazo (salario vitalicio) sin que se especifique el impacto presupuestario anual exacto en la resolución.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado oficialmente a Carlos Gaspar Polanco de la Puente como Catedrático en el área de Genética tras superar el concurso correspondiente. Es un trámite administrativo que asegura una plaza permanente en la escala más alta de la docencia universitaria pública.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Nombramiento de Catedrático en @unileon. 🎓 Se consolida gasto público estructural en el área de Genética. Aunque cumple la ley, el sistema de selección sigue siendo una caja negra para el ciudadano. #Opacidad #Transparencia #León",
+    "banderas_red_flags": [
+      "Consolidación de gasto público fijo",
+      "Opacidad en la evaluación de méritos específicos en el anuncio",
+      "Riesgo sistémico de endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Gaspar Polanco de la Puente",
+        "Universidad de León (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (compromiso de gasto a largo plazo)",
+        "Candidatos externos no seleccionados"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Consolidación de gasto público fijo",
+      "Opacidad en la evaluación de méritos específicos en el anuncio",
+      "Riesgo sistémico de endogamia académica"
+    ]
+  },
+  "tweeted": false
+}
