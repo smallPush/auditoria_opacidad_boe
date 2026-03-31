@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7203",
+  "timestamp": "2026-03-31T03:27:05.624Z",
+  "title": "Resolución de 17 de marzo de 2026, de la Universidad de Salamanca, por la que se nombra Profesora Titular de Universidad a doña Luisa María González Rodríguez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario docente de carrera bajo la Ley Orgánica 2/2023 (LOSU). El texto cumple con la legalidad formal, pero incurre en la opacidad habitual de no detallar la dotación presupuestaria exacta asociada a la plaza G029/D12933 ni la composición de la comisión que evaluó el concurso, remitiendo a actos administrativos previos no desglosados en este extracto.",
+    "resumen_ciudadano": "La Universidad de Salamanca formaliza el nombramiento de doña Luisa María González Rodríguez como Profesora Titular en Filología Inglesa tras un proceso de concurso público iniciado en 2025.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad de Salamanca: Nombramiento de Profesora Titular en Filología Inglesa. Trámite estándar que consolida empleo público, aunque sin desglose presupuestario directo en el extracto. #BOE #Transparencia #Salamanca 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial plurianual",
+      "Referencia genérica a la Comisión sin identificar evaluadores en el texto",
+      "Dilación de 6 meses entre convocatoria y resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luisa María González Rodríguez (estabilidad laboral vitalicia)",
+        "Universidad de Salamanca (cobertura de cuadro docente)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (proceso de alta competitividad)",
+        "Contribuyentes (falta de transparencia en el coste total de la plaza de funcionario)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial plurianual",
+      "Referencia genérica a la Comisión sin identificar evaluadores en el texto",
+      "Dilación de 6 meses entre convocatoria y resolución"
+    ]
+  },
+  "tweeted": false
+}
