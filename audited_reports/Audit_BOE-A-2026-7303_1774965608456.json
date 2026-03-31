@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7303",
+  "timestamp": "2026-03-31T14:00:08.456Z",
+  "title": "Resolución de 23 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 3 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento formaliza un nombramiento por el sistema de 'Libre Designación', que en la administración pública española es el eufemismo legal para el nombramiento discrecional o 'a dedo'. Se trata de un puesto de Nivel 30, el grado máximo en la carrera funcionarial, ubicado en la Dirección General de Cartera Común de Servicios del SNS y Farmacia. La 'valoración de idoneidad' mencionada carece de métricas públicas, basándose únicamente en el criterio subjetivo del centro directivo. Este mecanismo, aunque legal, perpetúa estructuras de poder cerradas y limita la meritocracia pura en favor de la confianza política o personal.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha adjudicado un puesto de Vocal Asesor (el máximo nivel posible para un funcionario) a una candidata específica mediante elección directa del directivo a cargo. Aunque se cumplen los requisitos legales, este método evita que otros funcionarios compitan en igualdad de condiciones de mérito y capacidad, priorizando la confianza del superior sobre un concurso público abierto.",
+    "resumen_tweet": "🚩 Nueva 'libre designación' en Sanidad. Un puesto Nivel 30 (el máximo) adjudicado por confianza directa, no por concurso abierto. ¿Mérito o cercanía? La opacidad de los cargos 'a dedo' continúa en la alta burocracia. 🏛️💉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Criterios de idoneidad no desglosados",
+      "Falta de comparativa con otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cristina Ruiz Martínez (adjudicataria del puesto de alto nivel)",
+        "Estructuras de confianza del Ministerio de Sanidad"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores sin vínculos de confianza",
+        "Transparencia institucional por falta de baremación objetiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Criterios de idoneidad no desglosados",
+      "Falta de comparativa con otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
