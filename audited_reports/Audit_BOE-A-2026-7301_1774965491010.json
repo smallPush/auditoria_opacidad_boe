@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7301",
+  "timestamp": "2026-03-31T13:58:11.010Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica puestos mediante el sistema de 'Libre Designación', un mecanismo legal pero intrínsecamente discrecional que permite la elección directa de cargos sin un concurso de méritos abierto y puramente objetivo. Destaca la adjudicación de una Dirección de Área en Badajoz con Nivel 30 (el máximo en la administración) y una Jefatura de Protección Civil en Valencia. Aunque se publican los nombres y niveles, el proceso carece de una justificación pública sobre por qué esos candidatos son mejores que otros, fomentando la estructura de 'confianza política' sobre la meritocracia técnica pura.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial ha finalizado la selección de varios puestos de responsabilidad en Andalucía, Castilla y León, Extremadura y la Comunidad Valenciana. Estos puestos se han otorgado por 'libre designación', es decir, son cargos de confianza elegidos por superiores entre funcionarios que cumplen ciertos requisitos, en lugar de por una oposición o concurso tradicional por puntos.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El #BOE publica nuevos cargos por 'Libre Designación' en varias regiones. Destaca un Nivel 30 en Badajoz y Protección Civil en Valencia. La discrecionalidad sigue ganando terreno a la meritocracia. 🏛️🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de Libre Designación para puestos de alta dirección",
+      "Adjudicación de Nivel 30 (máxima categoría salarial y de responsabilidad)",
+      "Opacidad en la motivación específica de la idoneidad de los elegidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Romero Vasco (alcanza Nivel 30)",
+        "Salvador Romón Blas (procedente de Defensa/UME)",
+        "Cargos con perfiles de confianza institucional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones de confianza",
+        "Ciudadanía (por la falta de procesos basados exclusivamente en méritos objetivos)",
+        "Candidatos descartados sin acceso a la motivación del rechazo"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía, Castilla y León, Extremadura, Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del sistema de Libre Designación para puestos de alta dirección",
+      "Adjudicación de Nivel 30 (máxima categoría salarial y de responsabilidad)",
+      "Opacidad en la motivación específica de la idoneidad de los elegidos"
+    ]
+  },
+  "tweeted": false
+}
