@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7200",
+  "timestamp": "2026-03-31T03:24:48.493Z",
+  "title": "Resolución de 20 de marzo de 2026, de la Delegación del Gobierno en la Comunitat Valenciana, por la que se dispone el cese de don Juan Antonio Nieves Martínez como Subdelegado del Gobierno en Alicante.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución presenta una anomalía administrativa grave consistente en una contradicción cronológica interna. En un mismo párrafo se citan dos fechas de efectos distintas: 30 de octubre de 2024 y 22 de marzo de 2026. Esta falta de rigor en el Boletín Oficial del Estado sugiere una regularización 'ad hoc' o un error de copia que empaña la seguridad jurídica. El uso de la fórmula 'agradeciéndole los servicios prestados' es un eufemismo estándar que oculta cualquier tipo de evaluación de desempeño o razón política real del cese.",
+    "resumen_ciudadano": "Se formaliza el cese de Juan Antonio Nieves Martínez como Subdelegado del Gobierno en Alicante. Sin embargo, el documento es confuso al indicar fechas contradictorias para su salida, lo que dificulta saber hasta qué momento exacto tuvo responsabilidades legales o percibió remuneración por el cargo.",
+    "resumen_tweet": "🚩 ¡Alerta de incoherencia! El cese del Subdelegado de Alicante en el #BOE cita efectos desde 2024 y a la vez 2026. ¿Errores de bulto o ajustes retroactivos opacos? La claridad brilla por su ausencia. 🕵️‍♂️ #Opacidad #Transparencia #Alicante",
+    "banderas_red_flags": [
+      "Incoherencia cronológica extrema (2024 vs 2026)",
+      "Falta de motivación para el cese",
+      "Posible regularización retroactiva de situaciones de interinidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La Delegada del Gobierno (al renovar su equipo)",
+        "La burocracia estatal (que cierra un expediente con ambigüedad)"
+      ],
+      "perdedores": [
+        "Ciudadanos (que reciben información contradictoria)",
+        "El principio de seguridad jurídica administrativa",
+        "Transparencia pública"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Cese de Personal Directivo",
+    "banderas_rojas": [
+      "Incoherencia cronológica extrema (2024 vs 2026)",
+      "Falta de motivación para el cese",
+      "Posible regularización retroactiva de situaciones de interinidad"
+    ]
+  },
+  "tweeted": false
+}
