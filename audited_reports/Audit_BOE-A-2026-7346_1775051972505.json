@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7346",
+  "timestamp": "2026-04-01T13:59:32.505Z",
+  "title": "Acuerdo de 24 de marzo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de excedencia voluntaria en la Carrera Judicial a la Magistrada doña Miriam de Rosa Palacio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento cumple con el protocolo administrativo de la Ley Orgánica del Poder Judicial, pero evidencia la opacidad estructural del sistema. Bajo la fórmula de 'interés particular' (art. 356.c), se facilita la salida de altos cargos judiciales sin explicar los motivos. Este tipo de movimientos suele preceder al fenómeno de 'puertas giratorias' hacia grandes bufetes o consultoras, permitiendo que magistrados formados con fondos públicos lleven su conocimiento al sector privado manteniendo su red de contactos en la judicatura.",
+    "resumen_ciudadano": "Una magistrada de alto rango deja su puesto de forma voluntaria por un periodo mínimo de dos años. Aunque es legal, el Estado pierde temporalmente una pieza clave de su sistema judicial sin que se den explicaciones sobre su destino o posibles conflictos de intereses futuros.",
+    "resumen_tweet": "⚖️ Nueva excedencia voluntaria en la Carrera Judicial. La magistrada Miriam de Rosa Palacio deja su puesto. ¿A dónde va este talento formado con dinero público? La opacidad sobre los motivos alimenta las sospechas de #PuertasGiratorias. #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la motivación de la excedencia",
+      "Riesgo de fuga de cerebros al sector privado",
+      "Ausencia de mecanismos de control post-cargo inmediatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La magistrada (obtiene flexibilidad y reserva de plaza)",
+        "Sector privado (potencial captación de altos cargos judiciales)"
+      ],
+      "perdedores": [
+        "Administración de Justicia (pérdida de recursos experimentados)",
+        "Contribuyentes (financiación de formación para beneficio privado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Situaciones Administrativas",
+    "banderas_rojas": [
+      "Opacidad en la motivación de la excedencia",
+      "Riesgo de fuga de cerebros al sector privado",
+      "Ausencia de mecanismos de control post-cargo inmediatos"
+    ]
+  },
+  "tweeted": false
+}
