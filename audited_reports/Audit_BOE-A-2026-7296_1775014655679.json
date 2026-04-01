@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7296",
+  "timestamp": "2026-04-01T03:37:35.679Z",
+  "title": "Orden PJC/297/2026, de 30 de marzo, por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía Salarial y formación profesional para el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Orden PJC/297/2026 es un ejemplo de 'legislación de retales' provocada por la prórroga presupuestaria. Se observa una dependencia excesiva de Reales Decretos-leyes de urgencia para subsanar la falta de Presupuestos Generales del Estado de 2026. Destaca la opacidad en el 'Mecanismo de Equidad Intergeneracional' y la 'Cotización Adicional de Solidaridad', que operan de facto como incrementos impositivos sobre el trabajo sin que se traduzcan necesariamente en una mayor base reguladora para la futura pensión del contribuyente. La norma se remite a textos derogados y vueltos a aprobar (RDL 16/2025 frente a RDL 3/2026), lo que dificulta el seguimiento ciudadano de la seguridad jurídica.",
+    "resumen_ciudadano": "El Gobierno actualiza las cuotas de la Seguridad Social para 2026 mediante un decreto ante la falta de nuevos presupuestos. La base máxima sube a 5.101,20 euros y la mínima a 1.424,40 euros. Se consolida el pago de un 0,90% extra por el mecanismo de equidad y se aplica un nuevo impuesto de 'solidaridad' para los sueldos que superen la base máxima, dinero que va a las arcas públicas pero no mejora tu pensión individual.",
+    "resumen_tweet": "🚨 ¡Hachazo al bolsillo en el #BOE! Sin presupuestos, el Gobierno sube bases de cotización por decreto para 2026. 📈 Máxima a 5.101€. Más impuestos de 'solidaridad' que no dan más pensión. ¿Equidad o recaudación ciega? 💸 #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Uso sistemático de la técnica de 'legislación por remisión' que obliga a consultar 5 leyes previas",
+      "Cotización de solidaridad: recaudación sin generación de derechos prestacionales",
+      "Inestabilidad normativa por derogación y sustitución exprés de Reales Decretos en menos de un mes",
+      "Carga administrativa opaca en la determinación de rendimientos netos para autónomos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (incremento neto de recaudación mediante el MEI y cuota de solidaridad)",
+        "Cajas de la Seguridad Social (sostenimiento financiero a corto plazo)"
+      ],
+      "perdedores": [
+        "Trabajadores con salarios altos (pagan más sin recibir mayor cobertura)",
+        "Autónomos (mayor complejidad en el cálculo de cuotas por tramos)",
+        "PYMES (incremento de costes sociales en un entorno de prórroga económica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa de Cotización y Seguridad Social",
+    "banderas_rojas": [
+      "Uso sistemático de la técnica de 'legislación por remisión' que obliga a consultar 5 leyes previas",
+      "Cotización de solidaridad: recaudación sin generación de derechos prestacionales",
+      "Inestabilidad normativa por derogación y sustitución exprés de Reales Decretos en menos de un mes",
+      "Carga administrativa opaca en la determinación de rendimientos netos para autónomos"
+    ]
+  },
+  "tweeted": false
+}
