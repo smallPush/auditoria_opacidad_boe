@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-7293",
+  "timestamp": "2026-04-01T02:42:41.795Z",
+  "title": "Aplicación provisional del Acuerdo entre el Reino de España y el Gobierno de Ucrania sobre cooperación técnica y financiera, hecho en Madrid el 18 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo establece un marco de 'asistencia técnica y financiera' con una preocupante falta de concreción presupuestaria. Se crean estructuras de privilegio para los denominados 'expertos españoles', quienes gozarán de exenciones fiscales totales (IRPF, aduanas e IVA) en Ucrania, generando una clase de trabajadores blindada frente a las obligaciones tributarias ordinarias. La aplicación 'provisional' antes de la ratificación parlamentaria completa reduce el control democrático sobre el flujo de fondos públicos.",
+    "resumen_ciudadano": "España firma un pacto con Ucrania para enviar dinero y técnicos para la reconstrucción. El acuerdo permite que las empresas y expertos españoles no paguen impuestos ni aranceles por sus equipos o sueldos en Ucrania, y facilita que muevan dinero en divisas libremente. Aunque se menciona la lucha contra la corrupción, no se detallan las cantidades exactas de dinero público que se enviarán ni en qué proyectos específicos se gastarán.",
+    "resumen_tweet": "⚠️ Alerta #BOE: Acuerdo España-Ucrania. Se crea un 'limbo fiscal' para expertos con exenciones de impuestos y aduanas 💸 ¿Cuánto nos costará? La opacidad presupuestaria y los privilegios de clase marcan este pacto. #Transparencia #Opacidad #Ucrania",
+    "banderas_red_flags": [
+      "Partidas presupuestarias indeterminadas",
+      "Exención total de impuestos para personal desplazado",
+      "Aplicación provisional por vía de urgencia",
+      "Trato preferencial en aduanas y divisas",
+      "Ausencia de mecanismos de auditoría independientes detallados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consultoras de ingeniería y construcción",
+        "Expertos y técnicos desplazados (exenciones fiscales)",
+        "Grandes ONGs internacionales",
+        "Gobierno de Ucrania"
+      ],
+      "perdedores": [
+        "Contribuyente español (financiación sin desglose)",
+        "Competencia local ucraniana (desventaja fiscal frente a empresas españolas)",
+        "Transparencia democrática (por aplicación provisional)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional de Cooperación",
+    "banderas_rojas": [
+      "Partidas presupuestarias indeterminadas",
+      "Exención total de impuestos para personal desplazado",
+      "Aplicación provisional por vía de urgencia",
+      "Trato preferencial en aduanas y divisas",
+      "Ausencia de mecanismos de auditoría independientes detallados"
+    ]
+  },
+  "tweeted": false
+}
