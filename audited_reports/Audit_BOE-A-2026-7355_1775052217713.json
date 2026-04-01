@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7355",
+  "timestamp": "2026-04-01T14:03:37.713Z",
+  "title": "Real Decreto 277/2026, de 31 de marzo, por el que se declara el cese de don César Veloso Palma como Director del Gabinete Adjunto de la Vicepresidenta Primera del Gobierno.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 277/2026 formaliza el cese de César Veloso Palma en la Vicepresidencia Primera utilizando la fórmula protocolaria de 'agradecimiento por servicios prestados'. Este lenguaje estándar en el BOE oculta los motivos reales del cese (políticos, personales o de gestión) y elude cualquier mención a la indemnización por cese que, legalmente, podría percibir un alto cargo de este nivel, lo que supone un punto ciego para el control ciudadano sobre el gasto en personal eventual y de confianza.",
+    "resumen_ciudadano": "Se ha oficializado la salida de César Veloso Palma de su cargo como Director del Gabinete Adjunto de la Vicepresidenta Primera. Es un trámite burocrático que marca el fin de su etapa en la cúpula del Gobierno, sin que se expliquen las razones detrás de este movimiento de poder.",
+    "resumen_tweet": "📉 Cese de alto cargo en la Vicepresidencia Primera. César Veloso Palma deja su puesto de Director de Gabinete Adjunto. El #BOE publica el cambio sin explicar motivos ni costes de liquidación. ¿Indemnizaciones fantasma? 🕵️‍♂️ #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Falta de motivación o justificación del cese",
+      "Opacidad en la liquidación económica asociada",
+      "Uso de fórmulas de cortesía para ocultar tensiones políticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "César Veloso Palma (por la finalización del servicio con honores oficiales)",
+        "El nuevo perfil que ocupe la vacante estratégica"
+      ],
+      "perdedores": [
+        "Contribuyentes (que financian indemnizaciones sin conocer la eficiencia del cargo)",
+        "Derecho a la información ciudadana sobre relevos en la administración"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Cese de Alto Cargo",
+    "banderas_rojas": [
+      "Falta de motivación o justificación del cese",
+      "Opacidad en la liquidación económica asociada",
+      "Uso de fórmulas de cortesía para ocultar tensiones políticas"
+    ]
+  },
+  "tweeted": false
+}
