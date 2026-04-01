@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7345",
+  "timestamp": "2026-04-01T13:56:31.901Z",
+  "title": "Acuerdo de 17 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Manuel Chacón Alonso.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque se trata de un acto administrativo reglado por el cumplimiento de la edad legal, el documento utiliza la fórmula genérica de 'derechos pasivos que le correspondan', manteniendo la opacidad sobre el coste real para el erario público de las pensiones de la alta judicatura. La salida de un magistrado en una sección de Violencia sobre la Mujer en Alcalá de Henares genera una vacante en un área de extrema sensibilidad social, sin que el BOE detalle el plan de sustitución para evitar el colapso de causas pendientes.",
+    "resumen_ciudadano": "Se jubila de forma obligatoria por cumplir la edad máxima permitida el magistrado Manuel Chacón Alonso, quien ejercía en el Tribunal de Instancia de Alcalá de Henares en la sección de Violencia sobre la Mujer.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la judicatura: Manuel Chacón deja la sección de Violencia sobre la Mujer en Alcalá. ¿Habrá relevo inmediato o se acumularán los retrasos? Las pensiones de élite siguen sin desglosarse. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Riesgo de interrupción en servicio de protección a víctimas",
+      "Procedimiento administrativo inercial sin auditoría de impacto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El magistrado jubilado (acceso a pensión máxima del régimen de Clases Pasivas)",
+        "Candidatos a la plaza de magistrado en Alcalá de Henares"
+      ],
+      "perdedores": [
+        "Víctimas de violencia de género (posible retraso en procesos por vacante)",
+        "Contribuyentes (falta de transparencia en el gasto de pensiones judiciales)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal y Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Riesgo de interrupción en servicio de protección a víctimas",
+      "Procedimiento administrativo inercial sin auditoría de impacto"
+    ]
+  },
+  "tweeted": false
+}
