@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7302",
+  "timestamp": "2026-04-01T03:39:00.438Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 11 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución oficializa un nombramiento de Nivel 29 mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la selección discrecional por parte del cargo político superior. Se trata de una posición de alta dirección (Director de Área de Sanidad y Política Social) que, pese a requerir competencias técnicas A1, se adjudica por confianza, lo que debilita el principio de meritocracia en la función pública española.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial ha designado a un nuevo Director para el Área de Sanidad en Las Palmas de Gran Canaria. El puesto es de rango máximo (Nivel 29) y el proceso de selección no ha sido una oposición abierta por puntos, sino una elección directa ('a dedo') entre funcionarios que cumplían los requisitos mínimos.",
+    "resumen_tweet": "🚩 ¡Nuevo dedazo de alto nivel en el #BOE! Adjudicado puesto Nivel 29 en Canarias por 'libre designación'. ¿Es gestión técnica o confianza política? Seguimos vigilando la administración. #Transparencia #Opacidad #GestiónPública 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel de complemento de destino 29 (máxima escala)",
+      "Resolución parcial de convocatoria previa",
+      "Falta de desglose de méritos específicos del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adrián López Clemente (Adjudicatario)",
+        "Ministerio de Política Territorial (Control de puestos clave)"
+      ],
+      "perdedores": [
+        "Candidatos por mérito técnico sin afinidad política",
+        "Ciudadanía (opacidad en la selección de gestores públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel de complemento de destino 29 (máxima escala)",
+      "Resolución parcial de convocatoria previa",
+      "Falta de desglose de méritos específicos del candidato"
+    ]
+  },
+  "tweeted": false
+}
