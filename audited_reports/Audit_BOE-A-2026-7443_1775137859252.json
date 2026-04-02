@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7443",
+  "timestamp": "2026-04-02T13:50:59.252Z",
+  "title": "Real Decreto 265/2026, de 1 de abril, por el que se modifica el Real Decreto 472/2024, de 7 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio de Ciencia, Innovación y Universidades.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 265/2026 utiliza un lenguaje de 'eficiencia' para justificar una expansión burocrática significativa. Llama la atención la creación de tres nuevas subdirecciones generales (Relaciones Institucionales, Calidad Académica y la Oficina NARIC) bajo la premisa de que 'no suponen incremento de gasto', una afirmación habitual en la ingeniería administrativa que suele encubrir la redistribución de complementos retributivos de alto nivel. La transferencia de la gestión de las becas FPU a la Agencia Estatal de Investigación (AEI) se presenta como una agilización, pero podría diluir la responsabilidad política directa del Ministerio ante los retrasos crónicos en estas ayudas. Además, el ajuste terminológico de 'representación' a 'promoción' para las ICTS revela un error jurídico previo que restaba autonomía a estos centros.",
+    "resumen_ciudadano": "El Gobierno reestructura el Ministerio de Ciencia creando tres nuevas oficinas de alto rango para gestionar la calidad universitaria, las relaciones con estudiantes y la convalidación de títulos extranjeros. Además, a partir de 2026, la gestión de las becas de profesorado (FPU) pasará a la Agencia Estatal de Investigación para, supuestamente, reducir la burocracia.",
+    "resumen_tweet": "🚨 Nueva reforma en el Ministerio de Ciencia: se crean 3 subdirecciones 'a coste cero' (¿seguro? 🤔). Se externaliza la gestión de becas FPU a la Agencia de Investigación. ¿Más agilidad o más capas de burocracia? 🧐 #BOE #Opacidad #Transparencia #Ciencia",
+    "banderas_red_flags": [
+      "Creación de 3 subdirecciones generales con la cláusula de 'no incremento de gasto', difícil de auditar sin desgloses.",
+      "Transferencia de competencias de ayudas (FPU) a una agencia externa para 'limpiar' la gestión ministerial.",
+      "Corrección técnica por errores previos en la representación legal de instalaciones científicas (ICTS).",
+      "Automatización de procesos de homologación de títulos extranjeros sin especificar criterios de control humano final."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos burocráticos (nuevos puestos de Subdirector General)",
+        "Profesionales extranjeros (promesa de mayor agilidad en homologaciones NARIC)",
+        "Agencia Estatal de Investigación (gana control presupuestario sobre becas FPU)"
+      ],
+      "perdedores": [
+        "Investigadores predoctorales (riesgo de caos administrativo durante la transición de 2026)",
+        "Contribuyentes (la estructura estatal crece bajo conceptos de difícil fiscalización)",
+        "Transparencia presupuestaria (el 'coste cero' suele ser una ficción contable)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reorganización Administrativa / Educación y Ciencia",
+    "banderas_rojas": [
+      "Creación de 3 subdirecciones generales con la cláusula de 'no incremento de gasto', difícil de auditar sin desgloses.",
+      "Transferencia de competencias de ayudas (FPU) a una agencia externa para 'limpiar' la gestión ministerial.",
+      "Corrección técnica por errores previos en la representación legal de instalaciones científicas (ICTS).",
+      "Automatización de procesos de homologación de títulos extranjeros sin especificar criterios de control humano final."
+    ]
+  },
+  "tweeted": false
+}
