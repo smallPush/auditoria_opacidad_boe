@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7348",
+  "timestamp": "2026-04-02T03:21:59.437Z",
+  "title": "Resolución de 19 de febrero de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 24 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento detalla una resolución de 'libre designación', un eufemismo legal para nombramientos a dedo dentro de la administración pública. Aunque se cita la normativa (Ley 30/1984), el sistema carece de transparencia sobre los méritos específicos del candidato frente a otros aspirantes. Se traslada a un funcionario de la Agencia Tributaria (nivel 16) a un puesto de visados en Nueva Delhi (nivel 18). Este tipo de movimientos en el cuerpo diplomático y consular suelen conllevar pluses por destino y residencia que no se desglosan en el BOE, ocultando el coste real total para el contribuyente.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ha nombrado a un nuevo Jefe de Negociado de Visados en Nueva Delhi usando el sistema de elección directa ('libre designación'). Este método permite a los altos cargos elegir a quién quieran sin necesidad de una comparativa pública de méritos, lo que genera dudas sobre la meritocracia en puestos sensibles como la gestión de visados en el extranjero.",
+    "resumen_tweet": "⚠️ Nueva adjudicación 'a dedo' en el exterior. El Ministerio de Exteriores coloca a un Jefe de Visados en Nueva Delhi vía libre designación. ¿Meritocracia o red de contactos? La opacidad en los pluses de destino sigue siendo total. 🇮🇳🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Ausencia de justificación de méritos del adjudicatario",
+      "Opacidad en las indemnizaciones por destino en el extranjero",
+      "Salto de nivel administrativo (de 16 a 18) en un puesto de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Franco Aixela (adjudicatario del puesto)",
+        "Altos cargos con potestad para elegir personal afín"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no seleccionados",
+        "Ciudadanos que financian puestos en el exterior sin transparencia de costes extras"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Ausencia de justificación de méritos del adjudicatario",
+      "Opacidad en las indemnizaciones por destino en el extranjero",
+      "Salto de nivel administrativo (de 16 a 18) en un puesto de confianza"
+    ]
+  },
+  "tweeted": false
+}
