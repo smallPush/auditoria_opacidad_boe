@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7441",
+  "timestamp": "2026-04-02T13:49:42.501Z",
+  "title": "Orden ECM/307/2026, de 1 de abril, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «V Centenario del Consejo de Estado».",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden ministerial utiliza la conmemoración del V Centenario del Consejo de Estado como pretexto para una operación comercial de numismática de lujo. Aunque se detalla la composición técnica de la moneda, existe una desconexión entre el valor nominal (10€) y el precio de venta al público (115,70€ + IVA), lo que supone un margen de beneficio superior al 1000% sobre el valor facial. Este tipo de emisiones, amparadas en el prestigio institucional, funcionan como una vía de ingresos extrapresupuestarios para la FNMT y el Tesoro, alejadas de cualquier beneficio social directo para el ciudadano medio.",
+    "resumen_ciudadano": "El Gobierno ha ordenado la creación de 4.000 monedas de plata para celebrar los 500 años del Consejo de Estado. Cada moneda tiene un valor oficial de 10 euros, pero se venderá a los ciudadanos por más de 115 euros (más impuestos). Es una medida destinada a coleccionistas y no tiene impacto en la economía real de la mayoría de la población.",
+    "resumen_tweet": "💰 ¿Homenaje o negocio? El Gobierno lanza 4.000 monedas de plata por el V Centenario del Consejo de Estado. Valor facial: 10€. Precio: ¡115,70€ + IVA! 💸 Un lujo para pocos mientras se usa lo público para coleccionismo. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sobreprecio excesivo respecto al valor facial (1000%)",
+      "Uso de efemérides institucionales para fines comerciales",
+      "Ausencia de desglose sobre el destino del beneficio neto",
+      "Discrecionalidad en la revisión de precios por el Tesoro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fábrica Nacional de Moneda y Timbre (FNMT)",
+        "Coleccionistas de numismática de alto nivel",
+        "Consejo de Estado (marketing institucional)"
+      ],
+      "perdedores": [
+        "Ciudadano medio (excluido por precio)",
+        "Transparencia en el uso de recursos estatales para fines no sociales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera/Conmemorativa",
+    "banderas_rojas": [
+      "Sobreprecio excesivo respecto al valor facial (1000%)",
+      "Uso de efemérides institucionales para fines comerciales",
+      "Ausencia de desglose sobre el destino del beneficio neto",
+      "Discrecionalidad en la revisión de precios por el Tesoro"
+    ]
+  },
+  "tweeted": false
+}
