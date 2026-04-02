@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7440",
+  "timestamp": "2026-04-02T13:47:15.572Z",
+  "title": "Orden TED/306/2026, de 31 de marzo, por la que se modifica la Orden TED/72/2023, de 26 de enero, por la que se desarrollan los procedimientos necesarios para el cumplimiento de la obligación de mantenimiento de existencias mínimas de seguridad de gas natural.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden modifica los procedimientos de reservas de gas natural bajo el pretexto de adaptar la normativa europea (Reglamento 2025/1733). El punto crítico es la transición de hitos de llenado 'vinculantes' a 'orientativos', lo que reduce la capacidad de control público y sanción inmediata. Se introduce una ventana de cumplimiento de dos meses (octubre-diciembre) que otorga a las comercializadoras una flexibilidad financiera considerable, permitiendo especular con el momento de inyección de gas. Además, se empodera al Gestor Técnico del Sistema (GTS) para intervenir en el mercado y comprar gas en nombre de empresas incumplidoras, una medida que, aunque protege el suministro, moviliza grandes cantidades de capital en operaciones de mercado organizado que carecen de una transparencia total para el consumidor final.",
+    "resumen_ciudadano": "El Gobierno cambia las normas sobre cuánto gas deben almacenar las empresas para garantizar el suministro en invierno. Se les permite más flexibilidad: pueden elegir cualquier día entre el 1 de octubre y el 1 de diciembre para cumplir el objetivo del 90% de llenado. También se permite que el gas guardado en barcos (GNL) cuente como reserva. Si una empresa no llega al mínimo, el gestor del sistema comprará el gas por ella y le cobrará el coste más penalizaciones. Esto busca evitar desabastecimientos, pero relaja la vigilancia sobre las empresas mes a mes.",
+    "resumen_tweet": "🚨 El Gobierno flexibiliza el llenado de depósitos de gas. Las empresas ganan margen para cumplir el 90% obligatorio, pero el control se vuelve más difuso con hitos 'orientativos'. ¿Seguridad energética o beneficio para gasistas? ⛽📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Conversión de objetivos vinculantes en orientativos",
+      "Alta discrecionalidad de la Secretaría de Estado para modificar objetivos mediante resolución",
+      "Potestad del GTS para realizar compras forzosas en el mercado organizado con cargo al sistema",
+      "Opacidad en el impacto final de los 'cargos asociados' en la factura del consumidor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes comercializadoras de gas (por flexibilidad operativa)",
+        "Gestor Técnico del Sistema (por mayores facultades de intervención)",
+        "Operadores de plantas de regasificación"
+      ],
+      "perdedores": [
+        "Consumidores finales (riesgo de socialización de costes de desajustes)",
+        "Pequeñas comercializadoras (menor pulmón financiero para afrontar compras forzosas del GTS)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Energética y Seguridad de Suministro",
+    "banderas_rojas": [
+      "Conversión de objetivos vinculantes en orientativos",
+      "Alta discrecionalidad de la Secretaría de Estado para modificar objetivos mediante resolución",
+      "Potestad del GTS para realizar compras forzosas en el mercado organizado con cargo al sistema",
+      "Opacidad en el impacto final de los 'cargos asociados' en la factura del consumidor"
+    ]
+  },
+  "tweeted": false
+}
