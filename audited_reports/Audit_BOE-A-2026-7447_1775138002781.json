@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7447",
+  "timestamp": "2026-04-02T13:53:22.781Z",
+  "title": "Real Decreto 269/2026, de 1 de abril, por el que se regula la concesión directa de ayudas a proyectos de investigación seleccionados en las convocatorias competitivas internacionales de la Empresa Común de Chips de la Unión Europea (Chips JU), programa «UNICO Chips JU -I+D», en el marco del Plan de Recuperación, Transformación y Resiliencia -Financiado por la Unión Europea- Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto utiliza la figura de la concesión directa para otorgar subvenciones a una lista cerrada de empresas tecnológicas, eludiendo una convocatoria de concurrencia competitiva propia a nivel nacional bajo el pretexto de que la selección ya fue realizada por la Chips JU en Bruselas. Se observa una transferencia masiva de fondos públicos hacia el sector privado de alta tecnología sin un desglose pormenorizado de los costes marginales en el texto. Existe una clara dependencia de la soberanía de decisión nacional respecto a organismos público-privados europeos. Aunque se menciona el impacto de género, el sector de semiconductores está históricamente masculinizado, lo que perpetúa brechas de clase tecnológica.",
+    "resumen_ciudadano": "El Gobierno otorga dinero directamente a un grupo de empresas de microchips (como IDNEO o TTTECHAUTO) para investigar y fabricar semiconductores. No ha habido un concurso público en España para estas ayudas porque las empresas ya fueron elegidas por un ente europeo. El objetivo es que Europa sea menos dependiente de los chips de Asia.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el RD 269/2026: Concesiones directas a dedo bajo el #PERTEChip. ¿Soberanía tecnológica o reparto opaco decidido en Bruselas? Millones para el sector tecnológico con poca fiscalización ciudadana. #BOE #Opacidad #Transparencia #NextGenEU",
+    "banderas_red_flags": [
+      "Concesión directa eliminando concurrencia competitiva nacional",
+      "Subvenciones a entidades con ánimo de lucro sin desglose de partidas",
+      "Delegan la selección de beneficiarios en una asociación público-privada externa",
+      "Justificación de excepcionalidad genérica para evitar licitación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de microelectrónica y semiconductores seleccionadas",
+        "Chips Joint Undertaking (Chips JU)",
+        "Ministerio para la Transformación Digital"
+      ],
+      "perdedores": [
+        "PYMES tecnológicas fuera del circuito europeo",
+        "Sectores industriales tradicionales sin acceso a fondos NextGen",
+        "Transparencia de procesos administrativos nacionales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Ayudas",
+    "banderas_rojas": [
+      "Concesión directa eliminando concurrencia competitiva nacional",
+      "Subvenciones a entidades con ánimo de lucro sin desglose de partidas",
+      "Delegan la selección de beneficiarios en una asociación público-privada externa",
+      "Justificación de excepcionalidad genérica para evitar licitación"
+    ]
+  },
+  "tweeted": false
+}
