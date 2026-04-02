@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7457",
+  "timestamp": "2026-04-02T13:58:03.135Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 2 de febrero de 2026, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo General Administrativo de la Administración del Estado, especialidad de Agentes de la Hacienda Pública.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución técnica de corrección de errores. Lo más llamativo es la rectificación de la adscripción orgánica: de la 'Subsecretaría del Ministerio de Hacienda' a la 'Presidencia de la Agencia Estatal de Administración Tributaria'. Este tipo de 'errores' en el BOE refleja una preocupante falta de rigor inicial en la identificación jerárquica de los puestos. Asimismo, se observan diferencias significativas en el 'Complemento Específico' para puestos del mismo nivel 16, variando desde los 4.894,54€ hasta los 6.125,00€ en Getafe, lo que evidencia desigualdades retributivas territoriales o funcionales no explicadas en el texto.",
+    "resumen_ciudadano": "El Gobierno corrige errores en el nombramiento de 27 Agentes de la Hacienda Pública. Se modifican sus centros de destino y se aclara que dependen directamente de la Agencia Tributaria (AEAT) y no de la Subsecretaría del Ministerio. Se detallan sus nombres, DNI parciales y sueldos complementarios en ciudades como Madrid, Valencia o Barcelona.",
+    "resumen_tweet": "🚨 El #BOE admite errores en el nombramiento de nuevos Agentes de Hacienda. Rectifican destinos y aclaran que dependen de la AEAT. ¿Falta de rigor en la administración? 🧐 Los sueldos varían según la ciudad para el mismo nivel. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Inexactitud en la dependencia orgánica del personal (Ministerio vs. AEAT)",
+      "Disparidad de complementos específicos para el mismo nivel 16",
+      "Corrección de errores sobre una resolución de hace dos meses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "27 funcionarios que consolidan su plaza con datos corregidos",
+        "Agencia Estatal de Administración Tributaria (refuerza personal de inspección y gestión)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (necesidad de corregir documentos oficiales previos)",
+        "Equidad salarial (brechas detectadas en el complemento específico por destino)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Inexactitud en la dependencia orgánica del personal (Ministerio vs. AEAT)",
+      "Disparidad de complementos específicos para el mismo nivel 16",
+      "Corrección de errores sobre una resolución de hace dos meses"
+    ]
+  },
+  "tweeted": false
+}
