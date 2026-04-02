@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-7448",
+  "timestamp": "2026-04-02T13:52:22.964Z",
+  "title": "Real Decreto 270/2026, de 1 de abril, por el que se regula la concesión directa de ayudas a proyectos de investigación seleccionados en las convocatorias competitivas internacionales de la Empresa Común de Chips de la Unión Europea (Chips JU), programa «UNICO Chips JU-Líneas Piloto Cuánticas», en el marco del Plan de Recuperación, Transformación y Resiliencia -Financiado por la Unión Europea- Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto utiliza la figura de 'concesión directa' bajo el pretexto de una selección previa internacional de la Chips JU, lo que elude la concurrencia competitiva nacional. Aunque se justifica por la cofinanciación europea, la norma centraliza fondos del Plan de Recuperación en nodos tecnológicos muy específicos (Barcelona, Madrid, Murcia). El lenguaje es altamente técnico y críptico para el ciudadano medio, ocultando el desglose exacto de las cuantías individuales en el cuerpo principal del texto. La mención al impacto de género es puramente procedimental y carece de objetivos cuantificables en un sector históricamente masculinizado como la microelectrónica.",
+    "resumen_ciudadano": "Se otorgan ayudas directas a centros de investigación y tres empresas privadas para el desarrollo de chips cuánticos. La selección fue realizada por la Unión Europea y el Gobierno de España aporta la financiación restante (hasta el 50%) usando fondos de recuperación Next Generation EU. El objetivo es reducir la dependencia tecnológica de Asia.",
+    "resumen_tweet": "🕵️‍♂️ ¡Ayudas a dedo para Chips Cuánticos! 💸 El Gobierno usa la 'concesión directa' para financiar a beneficiarios ya elegidos en Europa. Mucho tecnicismo, pero poca transparencia en el reparto real. ¿Y la PYME común? Ni rastro. #BOE #Opacidad #ChipsJU",
+    "banderas_red_flags": [
+      "Concesión directa por excepción",
+      "Ausencia de desglose presupuestario por entidad en el texto",
+      "Falta de mecanismos locales de control de la selección",
+      "Cumplimiento genérico de impacto de género sin KPIs"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CSIC",
+        "ICFO",
+        "IFAE",
+        "Qilimanjaro Quantum Tech SL",
+        "Arquimea Research Center",
+        "Hubs tecnológicos de Madrid y Cataluña"
+      ],
+      "perdedores": [
+        "Tejido industrial tradicional",
+        "PYMES sin capacidad de acceso a consorcios europeos",
+        "Provincias fuera del eje de alta tecnología",
+        "Transparencia competitiva nacional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Ayudas I+D+i",
+    "banderas_rojas": [
+      "Concesión directa por excepción",
+      "Ausencia de desglose presupuestario por entidad en el texto",
+      "Falta de mecanismos locales de control de la selección",
+      "Cumplimiento genérico de impacto de género sin KPIs"
+    ]
+  },
+  "tweeted": false
+}
