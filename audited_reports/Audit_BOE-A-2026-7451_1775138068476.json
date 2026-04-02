@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7451",
+  "timestamp": "2026-04-02T13:54:28.476Z",
+  "title": "Real Decreto 252/2026, de 25 de marzo, por el que se adjudica en propiedad la plaza número 13 de la Sección de lo Social del Tribunal de Instancia de Málaga a doña María Teresa Vidaurreta Porrero.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta un nombramiento judicial bajo el amparo de la Ley Orgánica del Poder Judicial. Aunque formalmente correcto, la opacidad radica en la ausencia total de la justificación de méritos o de la baremación frente a otros candidatos en el texto publicado. El uso del término 'Vengo en adjudicar' refleja una estructura jerárquica y vertical que aleja al ciudadano de la comprensión del proceso de selección de sus juzgadores.",
+    "resumen_ciudadano": "Se ha asignado de manera permanente una plaza específica (la número 13 de lo Social en Málaga) a la jueza María Teresa Vidaurreta Porrero, consolidando su puesto en el Tribunal de Instancia de dicha ciudad.",
+    "resumen_tweet": "⚖️ Adjudicación de plaza judicial en Málaga. Se otorga puesto fijo a María Teresa Vidaurreta según el #BOE. Como es habitual, cero información sobre méritos o competencia frente a otros candidatos. ¿Transparencia o inercia burocrática? #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de justificación de méritos en el texto",
+      "Lenguaje administrativo de carácter autoritario",
+      "Falta de transparencia en el proceso de selección previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Vidaurreta Porrero (Estabilidad laboral y plaza en propiedad)",
+        "Consejo General del Poder Judicial (Mantenimiento del status quo)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (sin visibilidad del proceso)",
+        "Ciudadanía (privada de conocer la idoneidad técnica del perfil seleccionado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Ausencia de justificación de méritos en el texto",
+      "Lenguaje administrativo de carácter autoritario",
+      "Falta de transparencia en el proceso de selección previo"
+    ]
+  },
+  "tweeted": false
+}
