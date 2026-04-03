@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7558",
+  "timestamp": "2026-04-03T13:24:12.514Z",
+  "title": "Ley 2/2026, de 12 de marzo, para la Gestión Ambiental de Andalucía.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Bajo la bandera de la 'simplificación administrativa', esta ley introduce un cambio de paradigma hacia la autorregulación mediante la 'Declaración responsable de los efectos ambientales' (Art. 98). Esto reduce la capacidad de fiscalización preventiva de la administración. Es preocupante el blindaje de la información bajo el 'secreto industrial' (Art. 5), que puede ser usado para ocultar datos de emisiones perjudiciales. La ley delega funciones de vigilancia en 'Entidades colaboradoras' privadas (Art. 8), lo que introduce un riesgo de conflicto de intereses donde quien vigila es pagado por el vigilado.",
+    "resumen_ciudadano": "La nueva Ley Ambiental de Andalucía agiliza los trámites para empresas sustituyendo licencias previas por declaraciones de 'buena fe' del promotor. Además, permite que empresas privadas realicen labores de inspección que antes eran exclusivamente públicas y declara de 'interés autonómico' infraestructuras de residuos para acelerar su construcción, incluso si hay oposición local.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Andalucía aprueba su nueva Ley Ambiental: más rapidez para empresas pero menos control público. 📉 Se fía la protección del entorno a 'declaraciones responsables' y entidades privadas. ¿Sostenibilidad o desregulación? 🌍 #Opacidad",
+    "banderas_red_flags": [
+      "Externalización de la inspección ambiental a entidades privadas",
+      "Uso de 'secretos comerciales' para limitar el acceso a datos de contaminación",
+      "Sustitución de autorizaciones previas por declaraciones responsables en proyectos de impacto ambiental",
+      "Vía rápida para instalaciones de residuos saltándose la autonomía municipal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes promotores industriales",
+        "Empresas de consultoría y certificación ambiental (entidades colaboradoras)",
+        "Sector de gestión de residuos"
+      ],
+      "perdedores": [
+        "Plataformas ciudadanas de vigilancia ambiental",
+        "Municipios pequeños (pérdida de competencias sobre su territorio)",
+        "Transparencia pública en datos de emisiones"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Ley de Gestión y Prevención Ambiental",
+    "banderas_rojas": [
+      "Externalización de la inspección ambiental a entidades privadas",
+      "Uso de 'secretos comerciales' para limitar el acceso a datos de contaminación",
+      "Sustitución de autorizaciones previas por declaraciones responsables en proyectos de impacto ambiental",
+      "Vía rápida para instalaciones de residuos saltándose la autonomía municipal"
+    ]
+  },
+  "tweeted": false
+}
