@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-7567",
+  "timestamp": "2026-04-03T13:38:33.643Z",
+  "title": "Resolución de 25 de marzo de 2026, de la Subsecretaría, la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional (comúnmente denominada 'a dedo') bajo una apariencia de proceso público. El punto más alarmante es la exigencia de una antigüedad mínima de 20 años en el subgrupo A1. Esta cláusula actúa como una barrera de entrada extrema que excluye sistemáticamente al talento joven y a funcionarios con carreras brillantes pero más cortas, blindando el puesto para una 'vieja guardia' administrativa o candidatos muy específicos preseleccionados. La evaluación final depende de una entrevista subjetiva realizada por expertos nombrados por la propia Subsecretaría, lo que diluye el control meritocrático.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales busca un Subdirector General para gestionar recursos legales y relaciones con tribunales. Aunque se publica en el BOE, el sistema de elección permite elegir a quien quieran entre quienes cumplan los requisitos. Se exige haber sido funcionario de alto nivel durante al menos 20 años, un sueldo base de nivel 30 y un complemento específico de más de 30.000 euros anuales. Es un puesto de confianza política disfrazado de proceso administrativo.",
+    "resumen_tweet": "¿Mérito o dedazo? 🧐 El Ministerio de Derechos Sociales convoca una Subdirección por 'libre designación'. Exigen 20 AÑOS de antigüedad en el A1, bloqueando el talento joven y asegurando el control de la vieja guardia. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Requisito de 20 años de antigüedad (barrera generacional)",
+      "Entrevista con peso decisivo no cuantificado",
+      "Ausencia de baremos de puntuación específicos para los méritos",
+      "Nombramiento renovable cada 5 años supeditado a evaluación interna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con más de dos décadas en la administración",
+        "Perfiles con sintonía política con la actual Subsecretaría",
+        "Burocracia establecida (clase administrativa consolidada)"
+      ],
+      "perdedores": [
+        "Funcionarios del subgrupo A1 con menos de 20 años de servicio",
+        "Jóvenes profesionales del sector público",
+        "Ciudadanía que financia puestos directivos sin competencia real basada exclusivamente en mérito objetivo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Requisito de 20 años de antigüedad (barrera generacional)",
+      "Entrevista con peso decisivo no cuantificado",
+      "Ausencia de baremos de puntuación específicos para los méritos",
+      "Nombramiento renovable cada 5 años supeditado a evaluación interna"
+    ]
+  },
+  "tweeted": false
+}
