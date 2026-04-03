@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7455",
+  "timestamp": "2026-04-03T03:28:58.938Z",
+  "title": "Real Decreto 288/2026, de 31 de marzo, por el que se nombra Presidenta del Consejo de Transparencia y Buen Gobierno a doña María de la Concepción Campos Acuña.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento de la Presidenta del Consejo de Transparencia y Buen Gobierno (CTBG) mediante Real Decreto pone de manifiesto la paradoja estructural del sistema español: el órgano encargado de fiscalizar la opacidad del Ejecutivo es liderado por una figura designada por el propio Consejo de Ministros. Aunque se cita el cumplimiento de la Ley 19/2013 y la Ley 3/2015, el proceso carece de una exposición pública de méritos comparativos en el texto del BOE, limitándose a una ratificación administrativa de una decisión política previa.",
+    "resumen_ciudadano": "El Gobierno ha designado a María de la Concepción Campos Acuña como nueva jefa del organismo que debe garantizar que los ciudadanos reciban la información pública que solicitan. El nombramiento es legal, pero la elección directa por parte de los supervisados (el Gobierno) plantea dudas sobre la autonomía real del organismo para actuar contra sus propios electores.",
+    "resumen_tweet": "🔍 ¿Quién vigila al vigilante? Nombrada la nueva Presidenta del Consejo de Transparencia a propuesta del Gobierno. Un organismo clave para la democracia cuya independencia se ve tensionada por su origen político. 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Designación vertical por el supervisado",
+      "Falta de detalle sobre méritos en el decreto",
+      "Riesgo de captura institucional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio para la Transformación Digital y de la Función Pública",
+        "María de la Concepción Campos Acuña"
+      ],
+      "perdedores": [
+        "Independencia orgánica del CTBG",
+        "Ciudadanía (por potencial sesgo en la fiscalización)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Designación vertical por el supervisado",
+      "Falta de detalle sobre méritos en el decreto",
+      "Riesgo de captura institucional"
+    ]
+  },
+  "tweeted": false
+}
