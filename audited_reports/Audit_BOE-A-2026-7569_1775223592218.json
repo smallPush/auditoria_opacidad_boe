@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7569",
+  "timestamp": "2026-04-03T13:39:52.218Z",
+  "title": "Resolución de 23 de marzo de 2026, del Cabildo Insular de Gran Canaria, Instituto Insular de Deportes de Gran Canaria (Las Palmas), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion utiliza una tecnica de opacidad por remision donde el BOE actua como un simple tablon de anuncios vacio, delegando la informacion crucial (las bases del concurso) al Boletin Oficial de la Provincia. Esta fragmentacion informativa dificulta el control ciudadano sobre procesos de seleccion de Jefaturas. Se observa una burocratizacion de puestos de 'clase media' en areas de fiscalizacion y promocion, lo que podria consolidar estructuras de poder interno sin una rendicion de cuentas clara sobre las competencias exigidas.",
+    "resumen_ciudadano": "El Cabildo de Gran Canaria busca cubrir dos puestos de jefe para el Instituto Insular de Deportes (Promocion y Fiscalizacion). Aunque se anuncia nacionalmente, los requisitos reales para conseguir el puesto estan ocultos en el boletin provincial, complicando que personas de fuera de la administracion local puedan competir en igualdad de condiciones.",
+    "resumen_tweet": "🧐 ¿Transparencia o laberinto? El Cabildo de Gran Canaria convoca jefaturas de deportes y fiscalización, pero remite las bases al boletín provincial. Menos claridad, más burocracia. ¡Ojo a los concursos a medida! 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad por remision a boletin provincial",
+      "Falta de detalle de meritos en el anuncio nacional",
+      "Plazo de solicitud de solo 15 dias habiles",
+      "Posible sesgo hacia candidatos internos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Perfiles tecnicos internos del Cabildo",
+        "Burocracia de Administracion Especial"
+      ],
+      "perdedores": [
+        "Candidatos externos",
+        "Transparencia institucional",
+        "Ciudadanos que buscan procesos de seleccion abiertos y claros"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Publico / Convocatoria de Puestos",
+    "banderas_rojas": [
+      "Opacidad por remision a boletin provincial",
+      "Falta de detalle de meritos en el anuncio nacional",
+      "Plazo de solicitud de solo 15 dias habiles",
+      "Posible sesgo hacia candidatos internos"
+    ]
+  },
+  "tweeted": false
+}
