@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7442",
+  "timestamp": "2026-04-03T03:24:02.636Z",
+  "title": "Real Decreto 264/2026, de 1 de abril, por el que se aprueban los Estatutos de la Real Academia Nacional de Medicina de España.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 264/2026 moderniza la fachada de la Real Academia Nacional de Medicina de España (RANME), pero mantiene una estructura profundamente elitista y hermética. Bajo una apariencia de corporación científica, se blindan privilegios como el 'Tratamiento de Excelencia' y el uso de uniformes y medallas de oro. Se detecta un potencial de 'Gastos Fantasma' en el Artículo 19.f, que permite percibir 'dietas con cargo a los fondos de la Corporación' sin establecer límites, criterios de transparencia pública o fiscalización externa detallada de dichos fondos, que a menudo provienen de subvenciones estatales. La rigidez de los 50 asientos vitalicios actúa como un cuello de botella para la innovación científica real, premiando la antigüedad (mínimo 15 años) sobre el impacto actual.",
+    "resumen_ciudadano": "Se aprueban los nuevos estatutos de la Real Academia Nacional de Medicina. En resumen: un grupo selecto de 50 doctores ('Académicos de Número') mantiene su estatus de asesores del Rey y el Gobierno. Tendrán derecho a cobrar dietas de los fondos públicos, usar medallas especiales, uniformes históricos y ser llamados 'Excelencia'. Para entrar, no basta con ser un buen médico; necesitas que otros tres miembros te nominen y cumplir con requisitos de antigüedad muy estrictos.",
+    "resumen_tweet": "🩺 El nuevo estatuto de la Real Academia de Medicina blinda el elitismo: 50 plazas vitalicias, tratamiento de 'Excelencia' y dietas sin techo claro con fondos públicos. ¿Ciencia o club privado? 🏛️💸 #BOE #Opacidad #Transparencia #Privilegios",
+    "banderas_red_flags": [
+      "Uso de fondos públicos para 'dietas' sin desglose de cuantías ni límites.",
+      "Limitación arbitraria a 50 miembros, restringiendo la representatividad científica.",
+      "Proceso de cooptación (elección interna) que impide la meritocracia abierta.",
+      "Mantenimiento de prerrogativas honoríficas obsoletas como el tratamiento de 'Excelencia'."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Élite médica senior (con más de 15 años de carrera)",
+        "Instituciones monárquicas (refuerzo del alto patronazgo)",
+        "Altos cargos de la administración con acceso a asesorías exclusivas"
+      ],
+      "perdedores": [
+        "Investigadores jóvenes (excluidos por criterios de antigüedad)",
+        "Otros profesionales de la salud (enfermería, fisioterapia) con escasa representación",
+        "Contribuyentes (que sufragan la estructura y dietas de la corporación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estatutos de Real Academia / Organización Administrativa",
+    "banderas_rojas": [
+      "Uso de fondos públicos para 'dietas' sin desglose de cuantías ni límites.",
+      "Limitación arbitraria a 50 miembros, restringiendo la representatividad científica.",
+      "Proceso de cooptación (elección interna) que impide la meritocracia abierta.",
+      "Mantenimiento de prerrogativas honoríficas obsoletas como el tratamiento de 'Excelencia'."
+    ]
+  },
+  "tweeted": false
+}
