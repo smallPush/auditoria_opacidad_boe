@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7568",
+  "timestamp": "2026-04-03T13:37:21.031Z",
+  "title": "Resolución de 19 de marzo de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'Libre Designación' para tres puestos de Nivel 29 (el escalafón más alto de la administración pública, solo por debajo del nivel 30). Aunque el texto cita normativas de igualdad de género para legitimarse, el sistema de libre designación permite la discrecionalidad total ('dedocracia'), lo que debilita la meritocracia técnica en favor de la confianza política. No se especifican titulaciones académicas concretas para gestionar millones de euros en fondos Erasmus+, dejando la puerta abierta a perfiles genéricos pero alineados políticamente.",
+    "resumen_ciudadano": "El Ministerio de Ciencia ha convocado tres plazas de alta dirección en el SEPIE (quienes gestionan las becas Erasmus+). Estos puestos, con salarios base elevados y complementos de más de 24.500 euros, no se otorgarán por examen o concurso de méritos puro, sino por elección directa de los responsables del Ministerio, lo que se conoce popularmente como puestos 'a dedo' dentro del funcionariado.",
+    "resumen_tweet": "🚨 ¡Nueva alerta de #Dedocracia! El Ministerio de Ciencia convoca 3 puestos de Nivel 29 para gestionar fondos Erasmus+ mediante 'Libre Designación'. Sueldos altos elegidos a discreción. ¿Dónde queda la meritocracia real? 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación en puestos técnicos de alta responsabilidad",
+      "Ausencia de titulación específica requerida en el anexo",
+      "Alta discrecionalidad en la valoración de méritos subjetivos",
+      "Nivel de complemento específico elevado (24.549,84€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (Grupo A1) con redes de confianza política",
+        "Élites administrativas con perfiles de gestión generalista"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos con currículum brillante pero sin conexiones",
+        "Ciudadanía (por la posible politización de la gestión de fondos educativos)",
+        "Principio de transparencia en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de Libre Designación en puestos técnicos de alta responsabilidad",
+      "Ausencia de titulación específica requerida en el anexo",
+      "Alta discrecionalidad en la valoración de méritos subjetivos",
+      "Nivel de complemento específico elevado (24.549,84€)"
+    ]
+  },
+  "tweeted": false
+}
