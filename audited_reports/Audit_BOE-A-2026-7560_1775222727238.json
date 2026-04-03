@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-7560",
+  "timestamp": "2026-04-03T13:25:27.238Z",
+  "title": "Ley 9/2025, de 23 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El presupuesto de Canarias para 2026 se presenta bajo una narrativa de 'incertidumbre externa' para justificar una gestión cautelosa, ocultando tras la retórica de la 'falta de concreción estatal' la dependencia crítica de los fondos europeos (MRR). Destaca un incremento masivo del 44.78% en Transición Ecológica sin un desglose pormenorizado de proyectos, lo que encaja en la categoría de 'Gastos Fantasma' hasta su ejecución. La deflactación del IRPF y la mejora en deducciones de vivienda son medidas de alivio para la clase media-alta, pero el impacto real en las rentas más bajas es limitado por la persistente inflación y el aumento de la tributación indirecta en productos de consumo masivo (bebidas azucaradas y energía).",
+    "resumen_ciudadano": "Canarias manejará 12.491 millones de euros en 2026. El 65% se destina a sanidad, educación y servicios sociales. Se bajan impuestos para comprar vivienda (ampliando la edad hasta los 40 años) y se deflacta el IRPF para compensar la inflación. Sin embargo, suben los impuestos a las bebidas energéticas y azucaradas, y se mantiene una gran incertidumbre por la falta de presupuestos estatales que garanticen toda la financiación.",
+    "resumen_tweet": "📉 Canarias aprueba su presupuesto 2026: 12.491M€. Sube el gasto social, pero ojo a la dependencia de fondos europeos 🇪🇺 y la opacidad estatal. ¡Bajada de impuestos en vivienda para menores de 40! 🏠💸 #BOE #Opacidad #Transparencia #Canarias #Presupuestos",
+    "banderas_red_flags": [
+      "Dependencia excesiva de fondos MRR en su fase final",
+      "Falta de objetivos de estabilidad presupuestaria definitivos",
+      "Uso recurrente de la 'incertidumbre estatal' como exención de responsabilidad",
+      "Incremento del 44% en Energía sin detalle de partidas finalistas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Compradores de vivienda habitual menores de 40 años",
+        "Sector turístico",
+        "Empresas de energías renovables",
+        "Inversores en startups canarias"
+      ],
+      "perdedores": [
+        "Consumidores de bebidas azucaradas y energéticas",
+        "Familias de rentas muy bajas (poco beneficio por deflactación)",
+        "Administración Central (señalada como responsable de la incertidumbre)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Ley de Presupuestos",
+    "banderas_rojas": [
+      "Dependencia excesiva de fondos MRR en su fase final",
+      "Falta de objetivos de estabilidad presupuestaria definitivos",
+      "Uso recurrente de la 'incertidumbre estatal' como exención de responsabilidad",
+      "Incremento del 44% en Energía sin detalle de partidas finalistas"
+    ]
+  },
+  "tweeted": false
+}
