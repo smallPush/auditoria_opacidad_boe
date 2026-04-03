@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-7439",
+  "timestamp": "2026-04-03T03:20:19.830Z",
+  "title": "Orden INT/305/2026, de 27 de marzo, por la que se establecen especialidades en el procedimiento de concesión y en la ordenación presupuestaria de las ayudas a Corporaciones Locales en el marco de lo dispuesto por el Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes de respuesta ante los daños causados por diversos fenómenos meteorológicos adversos de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden INT/305/2026 introduce una flexibilidad administrativa extrema bajo el pretexto de la urgencia climática. El punto más crítico es la creación de 'subvenciones prepagables' y 'pagos fraccionados' que eluden la fiscalización previa ordinaria. Especialmente alarmante es el Artículo 4.3.e, que blinda las resoluciones parciales de concesión al impedir cualquier recurso contra ellas, postergando la tutela judicial hasta el final del proceso. Si bien se exige el código CATNAT01 para rastreo, la descentralización de la justificación en 'memorias descriptivas' municipales autogestionadas abre una ventana a la discrecionalidad en la elección de proveedores locales sin concursos públicos abiertos por la naturaleza de la emergencia.",
+    "resumen_ciudadano": "El Gobierno ha habilitado un sistema de 'pago rápido' para que los ayuntamientos de Andalucía y Extremadura afectados por tormentas reciban dinero antes incluso de justificar todos los gastos. Aunque se busca agilizar la reconstrucción, se relajan los controles habituales y se limita la capacidad de recurrir decisiones intermedias. El Ministerio del Interior publicará después cuánto se gastó, pero el control real recae en la buena fe de los certificados municipales y la revisión a posteriori.",
+    "resumen_tweet": "⚠️ ¿Agilidad o falta de control? El #BOE publica ayudas para Andalucía y Extremadura que permiten cobrar antes de justificar. Se prohíben recursos contra pagos parciales. ¡Ojo a la opacidad en contratos de emergencia! ⛈️💸 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Subvención prepagable sin justificación previa completa",
+      "Inexistencia de recurso administrativo contra resoluciones parciales de pago",
+      "Presunción de modalidad de pago en firme si no hay solicitud expresa en solo 10 días",
+      "Validación de gastos mediante certificados emitidos por los propios beneficiarios",
+      "Uso de 'razones de interés público' para compensar débitos de forma opaca"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Corporaciones locales (Andalucía y Extremadura) por la inyección inmediata de liquidez",
+        "Contratistas locales de obras de emergencia por adjudicaciones directas rápidas",
+        "Estructuras administrativas del Ministerio del Interior que agilizan ejecución presupuestaria"
+      ],
+      "perdedores": [
+        "Contribuyentes por el incremento del riesgo de 'gastos fantasma' en la fase de respuesta inmediata",
+        "Otras CCAA afectadas por fenómenos similares con menor grado de excepcionalidad administrativa",
+        "Garantía jurídica por la limitación de recursos contra resoluciones parciales"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Extremadura",
+    "tipologia": "Gestión de Ayudas por Catástrofes Naturales",
+    "banderas_rojas": [
+      "Subvención prepagable sin justificación previa completa",
+      "Inexistencia de recurso administrativo contra resoluciones parciales de pago",
+      "Presunción de modalidad de pago en firme si no hay solicitud expresa en solo 10 días",
+      "Validación de gastos mediante certificados emitidos por los propios beneficiarios",
+      "Uso de 'razones de interés público' para compensar débitos de forma opaca"
+    ]
+  },
+  "tweeted": false
+}
