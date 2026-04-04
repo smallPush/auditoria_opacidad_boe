@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7636",
+  "timestamp": "2026-04-04T13:14:16.240Z",
+  "title": "Ley 3/2026, de 12 de marzo, de modificación del texto refundido de la Ley municipal y de régimen local de Cataluña, en relación con el régimen jurídico aplicable a Arán.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "La Ley 3/2026 utiliza un lenguaje de 'blindaje institucional' para Arán. Bajo la apariencia de seguridad jurídica, crea un espacio de excepcionalismo normativo donde las leyes generales de régimen local (estatales y autonómicas) quedan supeditadas a una 'posición singular' no definida cuantitativamente. La técnica legislativa es opaca en su vertiente financiera: la Disposición Final Primera admite la existencia de gastos pero los difiere al siguiente ejercicio presupuestario sin detallar partidas ni cuantías, una táctica clásica de 'patada hacia adelante'.",
+    "resumen_ciudadano": "Esta ley otorga a la comarca de Arán (Val d'Aran) una mayor autonomía frente a las leyes generales. A partir de ahora, las normas comunes de los ayuntamientos solo se aplicarán allí si no existe una norma específica para ellos, respetando siempre su 'identidad única'. Aunque suena a reconocimiento cultural, en la práctica dificulta el control administrativo uniforme y deja en el aire el coste real que esta estructura diferenciada supondrá para el contribuyente catalán.",
+    "resumen_tweet": "🛡️ Cataluña blinda la 'singularidad' de Arán con la Ley 3/2026. Más autonomía, pero con gastos que solo veremos en el próximo presupuesto. ¿Privilegio o descentralización? La opacidad presupuestaria vuelve a ganar. 🧐 #BOE #Opacidad #Arán #Transparencia",
+    "banderas_red_flags": [
+      "Gastos diferidos al próximo ejercicio sin desglose",
+      "Concepto jurídico indeterminado: 'posición singular'",
+      "Jerarquía normativa ambigua respecto a la ley estatal 7/1985",
+      "Ausencia de memoria económica detallada en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Conselh Generau d'Arán (mayor control político y normativo)",
+        "Élites institucionales de la Generalitat (pacto político)",
+        "Gestores de la administración local aranesa"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de claridad en el coste de la duplicidad normativa)",
+        "Uniformidad administrativa estatal",
+        "Ciudadanos que busquen estándares de transparencia homogéneos en todo el territorio"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Modificación Legislativa / Régimen Local",
+    "banderas_rojas": [
+      "Gastos diferidos al próximo ejercicio sin desglose",
+      "Concepto jurídico indeterminado: 'posición singular'",
+      "Jerarquía normativa ambigua respecto a la ley estatal 7/1985",
+      "Ausencia de memoria económica detallada en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
