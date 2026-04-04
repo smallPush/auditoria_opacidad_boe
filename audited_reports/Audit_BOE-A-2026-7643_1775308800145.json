@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-7643",
+  "timestamp": "2026-04-04T13:20:00.145Z",
+  "title": "Resolución de 25 de marzo de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se declara la jubilación del notario de Peralta/Azkoien don Rafael María Salinas Frauca.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla la jubilación forzosa de un notario tras haber agotado la prórroga de permanencia en el servicio activo hasta los 72 años. Este tipo de resoluciones, aunque procedimentales, visibilizan la existencia de regímenes laborales excepcionales para los cuerpos de élite del Estado (como los notarios), quienes pueden extender su vida profesional y acumulacion de ingresos muy por encima del trabajador promedio, evidenciando una brecha de clase en la función pública.",
+    "resumen_ciudadano": "Se formaliza el retiro del notario Rafael María Salinas Frauca en Peralta (Navarra) al cumplir la edad límite legal de 72 años, tras habérsele concedido previamente una prórroga para seguir trabajando más allá de la edad ordinaria.",
+    "resumen_tweet": "📝 El #BOE publica la jubilación de un notario en Navarra a los 72 años tras agotar su prórroga. ¿Igualdad de condiciones? Refleja los privilegios de permanencia de las élites frente al mercado laboral común. #Transparencia #Opacidad #Navarra",
+    "banderas_red_flags": [
+      "Prolongación de actividad hasta los 72 años",
+      "Tratamiento diferenciado de cuerpos de élite"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Notario (por extensión de ingresos y carrera)",
+        "Nuevos opositores (se libera una plaza en Peralta)"
+      ],
+      "perdedores": [
+        "Equidad intergeneracional (tapón en el acceso a plazas públicas)",
+        "Lógica de jubilación general (excepción frente a otros sectores)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Prolongación de actividad hasta los 72 años",
+      "Tratamiento diferenciado de cuerpos de élite"
+    ]
+  },
+  "tweeted": false
+}
