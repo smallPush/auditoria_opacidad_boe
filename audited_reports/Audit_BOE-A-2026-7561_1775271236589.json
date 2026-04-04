@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7561",
+  "timestamp": "2026-04-04T02:53:56.589Z",
+  "title": "Resolución de 23 de marzo de 2026, conjunta de la Universidad de Salamanca y la Consejería de Sanidad de la Junta de Castilla y León, por la que se nombra Profesora Titular de Universidad, con plaza vinculada, a doña María Fernanda Lorenzo Gómez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de plaza vinculada (universidad-sanidad), una figura compleja que mezcla presupuestos de educación y salud. Aunque cumple con la legalidad administrativa (LOSU 2/2023), el documento no desglosa el coste total consolidado para el erario público ni los criterios específicos de puntuación del tribunal evaluador, manteniendo la tónica de opacidad en los procesos de selección interna en la academia española.",
+    "resumen_ciudadano": "La Universidad de Salamanca y la Junta de Castilla y León han nombrado formalmente a doña María Fernanda Lorenzo Gómez como Profesora Titular en el área de Urología. Esta plaza es 'vinculada', lo que significa que la profesional ejercerá simultáneamente como docente y como especialista en el Complejo Asistencial Universitario de Salamanca.",
+    "resumen_tweet": "🩺 Nueva plaza vinculada en Urología: La Universidad de Salamanca y Sanidad CyL nombran Profesora Titular. El proceso es legal pero los baremos del tribunal siguen lejos del ojo público. 📑 #BOE #Transparencia #Sanidad #CastillayLeon #Urologia",
+    "banderas_red_flags": [
+      "Uso de delegación de firma (P.D.) por el Rector",
+      "Falta de publicación de las actas de baremación en el anuncio",
+      "Dificultad para auditar el coste total de las plazas vinculadas entre dos administraciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Fernanda Lorenzo Gómez",
+        "Universidad de Salamanca (USAL)",
+        "Sacyl (Sanidad de Castilla y León)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a plazas vinculadas",
+        "Ciudadanía (por falta de transparencia en los detalles de la evaluación meritocrática)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de delegación de firma (P.D.) por el Rector",
+      "Falta de publicación de las actas de baremación en el anuncio",
+      "Dificultad para auditar el coste total de las plazas vinculadas entre dos administraciones"
+    ]
+  },
+  "tweeted": false
+}
