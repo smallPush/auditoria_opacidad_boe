@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7635",
+  "timestamp": "2026-04-04T13:15:25.145Z",
+  "title": "Orden PJC/311/2026, de 31 de marzo, por la que se aprueba y publica el programa formativo de la especialidad de Medicina de Urgencias y Emergencias, los criterios de evaluación de los especialistas en formación y los requisitos de acreditación de las unidades docentes de Medicina de Urgencias y Emergencias.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden PJC/311/2026 formaliza finalmente la especialidad de Medicina de Urgencias y Emergencias (MUYE), una demanda histórica del sector. No obstante, el análisis detecta una 'opacidad operativa' significativa: aunque detalla minuciosamente las competencias técnicas (Mini-CEX, DOPS), omite por completo la memoria económica necesaria para la reconversión de las Unidades Docentes. Existe una incongruencia de diseño al imponer un periodo común de 2 años con Medicina de Familia, lo que podría esconder un intento de las administraciones por mantener una mano de obra intercambiable y precaria, retrasando la plena autonomía de la nueva especialidad.",
+    "resumen_ciudadano": "Se establece oficialmente cómo se formarán los médicos de Urgencias en España. A partir de 2025, los nuevos residentes estudiarán 4 años, compartiendo los 2 primeros con los médicos de familia. Esto busca mejorar la atención en catástrofes y urgencias hospitalarias, aunque no se aclara de dónde saldrá el dinero para adaptar los hospitales a este nuevo sistema de enseñanza.",
+    "resumen_tweet": "🚑 ¡Habemus especialidad de Urgencias! El #BOE publica su programa formativo tras años de espera. Victoria para los médicos, pero con sombras: sin presupuesto claro y un modelo híbrido que podría 'canibalizar' la Atención Primaria. 🏥💉 #Opacidad #Sanidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario para la creación de nuevas plazas",
+      "Riesgo de fuga de profesionales desde Medicina de Familia por el periodo común",
+      "Criterios de acreditación que favorecen a grandes hospitales urbanos sobre los rurales",
+      "Falta de especificidad en la compensación a tutores por la carga docente extra"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Médicos de Urgencias (reconocimiento profesional)",
+        "Hospitales de grandes núcleos urbanos",
+        "Seguros de salud privados (estandarización de perfiles)"
+      ],
+      "perdedores": [
+        "Atención Primaria (potencial pérdida de residentes hacia urgencias)",
+        "Zonas rurales (dificultad para acreditar unidades docentes)",
+        "Contribuyente (incertidumbre sobre el coste final de implementación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Ordenación de Profesiones Sanitarias",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario para la creación de nuevas plazas",
+      "Riesgo de fuga de profesionales desde Medicina de Familia por el periodo común",
+      "Criterios de acreditación que favorecen a grandes hospitales urbanos sobre los rurales",
+      "Falta de especificidad en la compensación a tutores por la carga docente extra"
+    ]
+  },
+  "tweeted": false
+}
