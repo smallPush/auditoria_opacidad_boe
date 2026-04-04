@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7634",
+  "timestamp": "2026-04-04T12:58:47.573Z",
+  "title": "Recurso de inconstitucionalidad n.º 1586-2026, contra la disposición final tercera del Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modifica el Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento refleja la admisión a trámite de un recurso de inconstitucionalidad contra el Real Decreto-ley 15/2025. Se detecta una 'Incongruencia Ideológica' y procedimental al utilizar la figura del Decreto-ley (urgencia) para modificar reglamentos técnicos de facturación y sistemas informáticos. Esta técnica de 'legislación de contrabando' permite al Ejecutivo imponer estándares tecnológicos y de control fiscal a profesionales y empresas eludiendo el debate parlamentario profundo, bajo el pretexto de medidas de inversión local.",
+    "resumen_ciudadano": "El Tribunal Constitucional investigará si el Gobierno abusó de su poder al aprobar por vía de urgencia normas que obligan a empresarios y autónomos a cambiar sus programas de facturación. La oposición considera que estas medidas no eran urgentes y podrían vulnerar la Constitución al saltarse el proceso legislativo normal.",
+    "resumen_tweet": "⚠️ ¿Control fiscal camuflado de inversión urgente? El TC admite el recurso contra el RDL 15/2025. Se cuestiona el uso de decretazos para imponer software de facturación a empresas y autónomos. #BOE #Opacidad #Transparencia ⚖️🚫",
+    "banderas_red_flags": [
+      "Abuso del Real Decreto-ley para materias técnicas no urgentes",
+      "Legislación ómnibus: mezcla de inversión local con requisitos de software de facturación",
+      "Posible vulneración de competencias autonómicas en materia de inversión",
+      "Falta de transparencia en la justificación de la extraordinaria y urgente necesidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Tributaria (mayor control digital de las transacciones)",
+        "Empresas de software homologadas (mercado cautivo)"
+      ],
+      "perdedores": [
+        "Autónomos y PYMES (costes de adaptación de sistemas informáticos)",
+        "Calidad democrática (uso sistemático del decreto-ley para evitar el debate)",
+        "Entidades locales (su actividad inversora se usa como percha para otros fines)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Judicial / Constitucional",
+    "banderas_rojas": [
+      "Abuso del Real Decreto-ley para materias técnicas no urgentes",
+      "Legislación ómnibus: mezcla de inversión local con requisitos de software de facturación",
+      "Posible vulneración de competencias autonómicas en materia de inversión",
+      "Falta de transparencia en la justificación de la extraordinaria y urgente necesidad"
+    ]
+  },
+  "tweeted": false
+}
