@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7645",
+  "timestamp": "2026-04-05T13:19:53.145Z",
+  "title": "Resolución de 20 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja una adjudicación por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de altos cargos. En este caso, se observa un salto significativo de nivel administrativo, pasando de un nivel 26 en el extranjero (Eslovaquia) al nivel 30 (el máximo en la administración pública) en la Secretaría General Técnica. No se detallan los méritos específicos que justifican que este candidato sea el más idóneo frente a otros posibles aspirantes, lo que refuerza la percepción de 'dedazo' institucional bajo el amparo de la confianza política.",
+    "resumen_ciudadano": "El Ministerio de Inclusión ha nombrado a un nuevo Subdirector General de Relaciones Internacionales mediante el método de libre elección. Este puesto es de máxima categoría salarial (Nivel 30). Aunque el proceso es legal, el sistema de libre designación suele ser criticado por priorizar la afinidad política o personal sobre un concurso público de méritos abierto y transparente.",
+    "resumen_tweet": "🚨 ¡Nuevo 'dedazo' en el #BOE! El Ministerio de Inclusión adjudica a dedo un puesto de Nivel 30 (máximo sueldo) mediante libre designación. Del nivel 26 al 30 sin concurso de méritos claro. ¿Confianza o competencia? 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Libre designación (Adjudicación discrecional)",
+      "Salto de nivel administrativo (de 26 a 30)",
+      "Falta de justificación de méritos en el texto",
+      "Alta jerarquía presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Joaquín Tamara Espot (ascenso a nivel 30)",
+        "Ministerio de Inclusión (colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no seleccionados",
+        "Ciudadanía (por la falta de meritocracia pública)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (Adjudicación discrecional)",
+      "Salto de nivel administrativo (de 26 a 30)",
+      "Falta de justificación de méritos en el texto",
+      "Alta jerarquía presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
