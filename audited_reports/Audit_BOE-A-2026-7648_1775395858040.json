@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-7648",
+  "timestamp": "2026-04-05T13:30:58.040Z",
+  "title": "Resolución de 24 de marzo de 2026, conjunta de la Universidad de La Laguna y el Servicio Canario de la Salud, por la que se nombra Profesor Titular de Universidad, con plaza vinculada, a don Alberto Domínguez Rodríguez.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en el ámbito universitario-sanitario. Aunque el proceso sigue la legalidad vigente (LOSU), se mantiene la opacidad habitual sobre la cuantía económica real de la plaza, escudándose en la referencia genérica a 'emolumentos vigentes'. Este tipo de 'plazas vinculadas' (Universidad-Servicio de Salud) suelen ser nodos de poder local con baja rotación y escasa visibilidad sobre la carga lectiva real frente a la asistencial.",
+    "resumen_ciudadano": "La Universidad de La Laguna y el Servicio Canario de la Salud formalizan el nombramiento de Alberto Domínguez Rodríguez como Profesor Titular de Medicina y Cardiólogo. Es un puesto doble: docente en la universidad y médico especialista en el Hospital Universitario de Canarias.",
+    "resumen_tweet": "🏥🎓 Nuevo nombramiento en el #BOE: Alberto Domínguez, titular de Medicina en la @ULL y cardiólogo en el SCS. Plaza vinculada que suma responsabilidades sin detallar sueldos exactos tras el velo normativo. ¿Transparencia? #Opacidad #Canarias 🇮🇨",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial en el anuncio (Gasto Fantasma)",
+      "Falta de mención a otros candidatos en el proceso selectivo",
+      "Opacidad en la distribución de horas entre docencia y clínica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alberto Domínguez Rodríguez (estabilidad laboral y estatus dual)",
+        "Universidad de La Laguna (consolidación de plantilla)",
+        "Hospital Universitario de Canarias"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos local",
+        "Transparencia pública (por ocultación de costes directos)",
+        "Equidad de género (un nuevo varón en la élite médica-académica)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial en el anuncio (Gasto Fantasma)",
+      "Falta de mención a otros candidatos en el proceso selectivo",
+      "Opacidad en la distribución de horas entre docencia y clínica"
+    ]
+  },
+  "tweeted": false
+}
