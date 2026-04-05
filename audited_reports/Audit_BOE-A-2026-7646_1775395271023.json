@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-7646",
+  "timestamp": "2026-04-05T13:21:11.023Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de personal funcionario de carrera. La opacidad no reside en el nombramiento en sí, sino en la ausencia total de información sobre la carga presupuestaria plurianual que suponen estas plazas fijas. Se observa una disparidad de género en las áreas técnicas (Tecnología Electrónica), donde los tres nombramientos son masculinos, contrastando con las áreas de humanidades donde hay paridad. Este patrón refuerza la brecha de género en las STEM dentro de la academia pública.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado a cinco nuevos Profesores Titulares en las áreas de Arqueología, Prehistoria y Tecnología Electrónica. Estos nombramientos otorgan la condición de funcionario de carrera a los seleccionados tras superar los procesos de acceso correspondientes.",
+    "resumen_tweet": "🎓 La Universidad de Sevilla suma 5 nuevos profesores titulares. Sin rastro del impacto presupuestario en el #BOE. Brecha de género evidente en Tecnología Electrónica: 3 de 3 son hombres. 🏛️ #Transparencia #Opacidad #Universidad #Sevilla",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial total",
+      "Sesgo de género en áreas tecnológicas (STEM)",
+      "Falta de mención a la tasa de reposición aplicada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Diego Romero Vera",
+        "Violeta Moreno Megías",
+        "David Guerrero Martos",
+        "Francisco Eugenio Potestad Ordóñez",
+        "Paulino Ruiz de Clavijo Vázquez",
+        "Universidad de Sevilla (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (invisibilizados en el extracto)",
+        "Contribuyentes (por falta de transparencia en el coste de las plazas fijas)",
+        "Representación femenina en departamentos técnicos"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial total",
+      "Sesgo de género en áreas tecnológicas (STEM)",
+      "Falta de mención a la tasa de reposición aplicada"
+    ]
+  },
+  "tweeted": false
+}
