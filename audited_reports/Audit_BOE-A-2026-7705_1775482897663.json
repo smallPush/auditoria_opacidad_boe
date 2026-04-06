@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7705",
+  "timestamp": "2026-04-06T13:41:37.663Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla la adjudicación de puestos de alta responsabilidad en la Agencia Tributaria (AEAT) bajo el régimen de 'Libre Designación'. Se observa un patrón recurrente de endogamia administrativa: en la gran mayoría de los casos, el puesto de procedencia es idéntico al adjudicado. Esto sugiere que el proceso no es una competencia real, sino una formalización burocrática para consolidar a personal que ya ejerce el cargo de forma provisional. Las retribuciones por 'Complemento Específico' son elevadas, superando en varios casos los 37.000 y 41.000 euros anuales solo por este concepto, lo que refleja una estructura de mando costosa y basada en la confianza política/técnica más que en la concurrencia competitiva pura.",
+    "resumen_ciudadano": "Hacienda confirma a dedo a sus altos cargos en áreas críticas como Recaudación, Informática y Aduanas. Bajo la fórmula de 'libre designación', se han repartido puestos con sueldos de élite en Madrid y Andalucía. Lo llamativo es que casi todos los elegidos ya ocupaban el mismo puesto que acaban de 'ganar', lo que blinda la estructura actual de la Agencia Tributaria frente a posibles cambios o criterios de mérito externo.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedazo? El #BOE publica nombramientos en la AEAT. Puestos de confianza con complementos de hasta 41.000€. La mayoría ya ocupaba el cargo: se formaliza la 'red de confianza' con dinero público. 💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso sistemático de la Libre Designación para puestos técnicos",
+      "Coincidencia total entre puesto de origen y destino (puestos espejo)",
+      "Elevada cuantía de complementos específicos discrecionales",
+      "Ausencia de desglose de méritos específicos en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cúpula técnica de Informática Tributaria",
+        "Adjudicatarios de Madrid y Andalucía con sueldos consolidados",
+        "Continuismo administrativo en la AEAT"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin perfil de confianza",
+        "Sistema de mérito y capacidad",
+        "Transparencia en el gasto de personal directivo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Uso sistemático de la Libre Designación para puestos técnicos",
+      "Coincidencia total entre puesto de origen y destino (puestos espejo)",
+      "Elevada cuantía de complementos específicos discrecionales",
+      "Ausencia de desglose de méritos específicos en la resolución"
+    ]
+  },
+  "tweeted": false
+}
