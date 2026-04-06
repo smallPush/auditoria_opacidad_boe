@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7701",
+  "timestamp": "2026-04-06T13:40:00.946Z",
+  "title": "Acuerdo de 25 de marzo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Jueza sustituta para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Castilla-La Mancha.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El nombramiento de jueces sustitutos bajo el Reglamento 2/2011 es una práctica legal pero sintomática de la precariedad estructural del sistema judicial. Al utilizar la figura del 'sustituto' para cubrir Guadalajara, Molina de Aragón y Sigüenza, se evidencia una falta de plazas fijas y una dependencia de la interinidad en la justicia. La opacidad reside en la falta de información sobre el proceso selectivo previo o la puntuación de méritos en este extracto, perpetuando un sistema de parches temporales en lugar de estabilidad orgánica.",
+    "resumen_ciudadano": "Se ha nombrado a una jueza sustituta para el año judicial 2025/2026 en varias localidades de Castilla-La Mancha. Esto significa que los casos en Guadalajara y alrededores serán atendidos por personal temporal debido a la ausencia de magistrados de carrera en esas plazas específicas.",
+    "resumen_tweet": "⚖️ ¿Justicia real o parches temporales? El CGPJ nombra jueza sustituta en Guadalajara y Sigüenza. La temporalidad llega a los tribunales, ocultando la falta de plazas fijas y estables. ¿Eficiencia o precariedad? #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Institucionalización de la figura del juez interino",
+      "Falta de transparencia en la baremación de méritos en la publicación",
+      "Potencial impacto en la continuidad de las causas judiciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidata seleccionada (acceso a la carrera judicial interina)",
+        "CGPJ (gestión de vacantes a bajo coste estructural)"
+      ],
+      "perdedores": [
+        "Justiciables (menor continuidad en sus procedimientos)",
+        "Sistema Judicial (falta de independencia por temporalidad)",
+        "Castilla-La Mancha (recursos humanos judiciales no permanentes)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Institucionalización de la figura del juez interino",
+      "Falta de transparencia en la baremación de méritos en la publicación",
+      "Potencial impacto en la continuidad de las causas judiciales"
+    ]
+  },
+  "tweeted": false
+}
