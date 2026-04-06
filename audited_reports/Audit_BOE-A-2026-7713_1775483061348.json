@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7713",
+  "timestamp": "2026-04-06T13:44:21.348Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica un puesto de Gerente de Instituto mediante el procedimiento de 'libre designación', un mecanismo que, aunque legal bajo la Ley 30/1984, permite la discrecionalidad absoluta en la elección del candidato. Este sistema, conocido popularmente como 'dedocracia', debilita los principios de mérito y capacidad en favor de la confianza personal o política. Se observa que el adjudicatario se encontraba en 'excedencia voluntaria por prestar servicios en el sector público', lo que sugiere un movimiento estratégico dentro de la administración para reubicar perfiles específicos en puestos de gestión con complementos salariales garantizados.",
+    "resumen_ciudadano": "El CSIC ha nombrado a dedo a un nuevo Gerente para el Instituto de Biomedicina y Biotecnología de Cantabria. El elegido, Luis Javier García López, recupera su estatus activo en la administración directamente en un puesto de Nivel 24 con un complemento específico de 7.591,50 euros anuales adicionales a su sueldo base.",
+    "resumen_tweet": "🚨 Nueva 'libre designación' en el CSIC. Gerente para el Instituto de Biomedicina en Cantabria elegido a dedo bajo amparo legal. ¿Mérito o confianza política? El sistema de gestión científica sigue premiando la discrecionalidad. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Reingreso desde excedencia directamente a puesto de confianza",
+      "Falta de desglose de méritos específicos del candidato frente a otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Javier García López (adjudicatario)",
+        "Estructuras de mando del CSIC"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos técnicos no valorados",
+        "Transparencia en la gestión de organismos científicos",
+        "Ciudadanía (por opacidad en criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Reingreso desde excedencia directamente a puesto de confianza",
+      "Falta de desglose de méritos específicos del candidato frente a otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
