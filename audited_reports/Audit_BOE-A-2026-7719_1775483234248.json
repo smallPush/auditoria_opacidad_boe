@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-7719",
+  "timestamp": "2026-04-06T13:47:14.248Z",
+  "title": "Resolución de 25 de marzo de 2026, de la Universidad de La Rioja, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de catedráticos por promoción interna. Aunque cumple con la legalidad vigente (LOU), el uso del sistema de 'promoción interna' puede ser visto como un mecanismo que, si bien premia la carrera docente, limita la entrada de talento externo a la Universidad de La Rioja. Se observa un equilibrio de género favorable (3 mujeres, 2 hombres). No existe mención alguna al impacto económico en las arcas públicas derivado de los incrementos salariales de estas plazas.",
+    "resumen_ciudadano": "La Universidad de La Rioja ha nombrado a cinco nuevos catedráticos en diversas áreas (Bioquímica, Ingeniería, Educación). Este proceso es un ascenso interno para personal que ya formaba parte de la institución, consolidando sus plazas y aumentando su rango administrativo y docente.",
+    "resumen_tweet": "🎓 5 nuevos catedráticos en la Univ. de La Rioja. Mayoría femenina (3 de 5) en áreas clave como Bioquímica e Ingeniería. ✅ Proceso legal, pero la promoción interna cierra puertas al talento externo. ¿Impacto presupuestario? No detallado. #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de promoción interna que dificulta la movilidad académica externa",
+      "Ausencia de memoria económica sobre el incremento de la masa salarial",
+      "Opacidad en la composición y actas de la Comisión evaluadora en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miriam Zarazaga Chamorro",
+        "M.ª de las Mercedes Pérez de la Parte",
+        "Eduardo Martínez Cámara",
+        "Daniel Lapresa Ajamil",
+        "Alicia Pérez de Albéniz Iturriaga",
+        "Universidad de La Rioja (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores externos (sin acceso a estas plazas)",
+        "Candidatos fuera del circuito de promoción interna",
+        "Contribuyentes (falta de desglose de costes estructurales)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de promoción interna que dificulta la movilidad académica externa",
+      "Ausencia de memoria económica sobre el incremento de la masa salarial",
+      "Opacidad en la composición y actas de la Comisión evaluadora en este extracto"
+    ]
+  },
+  "tweeted": false
+}
