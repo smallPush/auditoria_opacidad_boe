@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7706",
+  "timestamp": "2026-04-06T13:40:52.517Z",
+  "title": "Resolución de 30 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion' para un puesto de Nivel 30, el maximo en la escala administrativa. Aunque se ampara en el Real Decreto-ley 6/2023, que teoricamente busca la 'profesionalizacion' del personal directivo, este sistema sigue permitiendo la seleccion discrecional (a dedo) de altos cargos. No se especifican los meritos concretos que hicieron al adjudicatario superior a otros posibles candidatos, manteniendo la opacidad estructural en la cupula del Ministerio de Hacienda.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha nombrado a un nuevo Subdirector General para la Direccion General del Catastro. Este puesto, con el nivel salarial mas alto de la administracion, ha sido otorgado mediante libre designacion, un metodo que permite a los politicos elegir a sus colaboradores sin un concurso publico basado estrictamente en puntos o examenes.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el Catastro. Hacienda adjudica un puesto de Nivel 30 por libre designacion. ¿Profesionalizacion o red de favores en la elite burocratica? La opacidad continua en las altas esferas. 🏛️💸 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso de libre designacion en el nivel maximo de la administracion (Nivel 30)",
+      "Ausencia de justificacion de la idoneidad frente a otros candidatos",
+      "Consolidacion de la elite burocratica mediante nombramientos discrecionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Ignacio Gonzalez Tome",
+        "Estructura directiva del Ministerio de Hacienda"
+      ],
+      "perdedores": [
+        "Meritocracia administrativa",
+        "Candidatos externos sin conexiones directas",
+        "Ciudadania (por falta de competencia abierta)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designacion en el nivel maximo de la administracion (Nivel 30)",
+      "Ausencia de justificacion de la idoneidad frente a otros candidatos",
+      "Consolidacion de la elite burocratica mediante nombramientos discrecionales"
+    ]
+  },
+  "tweeted": false
+}
