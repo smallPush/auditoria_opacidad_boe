@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7839",
+  "timestamp": "2026-04-07T14:01:06.200Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don José Ramón Calvo Ferrer.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado que formaliza la consolidacion de una plaza de alta escala docente. Aunque cita la Ley Organica 2/2023 (LOSU), el documento es el eslabon final de una cadena de decisiones tomadas por comisiones tecnicas cuya transparencia real es limitada para el ciudadano comun. No se especifica la carga economica plurianual que este nombramiento supone para el erario publico ni los meritos especificos que motivaron la seleccion frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Alicante ha nombrado oficialmente a un nuevo Catedratico en el area de Filologia Inglesa. Este es un tramite habitual para consolidar la carrera de profesores tras superar un proceso de oposicion interna.",
+    "resumen_tweet": "🎓 Nuevo catedratico en la Univ. de Alicante. Otro nombramiento que sigue la inercia de la LOSU. ¿Hay transparencia real en los meritos o es solo burocracia tecnica? La universidad publica necesita luz sobre sus procesos. 🧐🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de seleccion finales",
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Ausencia de informacion sobre la composicion de la comision evaluadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Ramon Calvo Ferrer",
+        "Universidad de Alicante (estabilizacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos no seleccionados",
+        "Contribuyente (por falta de visibilidad en el coste total del puesto a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en los criterios de seleccion finales",
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Ausencia de informacion sobre la composicion de la comision evaluadora"
+    ]
+  },
+  "tweeted": false
+}
