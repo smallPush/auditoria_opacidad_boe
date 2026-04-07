@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7828",
+  "timestamp": "2026-04-07T13:56:36.696Z",
+  "title": "Ley 12/2025, de 29 de diciembre, de modificación de la Ley 18/2017, de comercio, servicios y ferias, y del Decreto-ley 1/2009, de ordenación de los equipamientos comerciales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley presenta un barniz de modernidad al abordar el e-commerce y la sostenibilidad, pero incurre en una opacidad estratégica al excluir deliberadamente a las 'dark stores' de su regulación, permitiendo un limbo operativo. Destaca la corrección obligada de plazos de prescripción tras la Sentencia del TC 117/2022, lo que evidencia un historial de extralimitación competencial. Aunque menciona la precariedad de los 'riders', delega la protección real a la negociación colectiva sin establecer mandatos legales firmes, lo que supone una 'lavada de manos' legislativa ante la precariedad de clase. Las medidas para el mundo rural son propositivas pero dependen de presupuestos futuros no detallados.",
+    "resumen_ciudadano": "Reforma comercial en Cataluña: se flexibilizan horarios en zonas turísticas y mercados, se facilita la apertura de tiendas en pueblos pequeños y se regula el e-commerce para fomentar puntos de recogida físicos. Además, se blindan las tiendas históricas y se endurece el control sobre las rebajas: el precio anterior debe ser el más bajo de los últimos 30 días para evitar descuentos ficticios.",
+    "resumen_tweet": "🛒 Nueva Ley de Comercio en Cataluña: más control en rebajas falsas 📉, blindaje a tiendas históricas 🏛️ y facilidades para el comercio rural. Sin embargo, deja a las #DarkStores en un limbo legal y abre la puerta a más festivos laborables. #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Exclusión explícita de las 'dark stores' del marco regulatorio",
+      "Delegación de derechos laborales a la negociación colectiva sin garantías mínimas",
+      "Ajuste forzoso de sanciones por inconstitucionalidad previa",
+      "Ampliación de horarios comerciales en zonas turísticas sin impacto vecinal evaluado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Plataformas de venta a distancia (puntos de recogida y elusión de 'dark stores')",
+        "Grandes operadores en zonas turísticas",
+        "Pequeños comercios en municipios de menos de 5.000 habitantes"
+      ],
+      "perdedores": [
+        "Personal de logística y reparto (precariedad persistente)",
+        "Residentes en zonas de gran afluencia turística",
+        "Consumidores expuestos a mayor rotación de stocks (outlets más agresivos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Modificación Legislativa (Comercio y Equipamientos)",
+    "banderas_rojas": [
+      "Exclusión explícita de las 'dark stores' del marco regulatorio",
+      "Delegación de derechos laborales a la negociación colectiva sin garantías mínimas",
+      "Ajuste forzoso de sanciones por inconstitucionalidad previa",
+      "Ampliación de horarios comerciales en zonas turísticas sin impacto vecinal evaluado"
+    ]
+  },
+  "tweeted": false
+}
