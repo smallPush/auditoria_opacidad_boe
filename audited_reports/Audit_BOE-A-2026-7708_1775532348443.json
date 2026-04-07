@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-7708",
+  "timestamp": "2026-04-07T03:25:48.443Z",
+  "title": "Resolución de 30 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución bajo el sistema de 'Libre Designación' representa la máxima discrecionalidad técnica permitida por la ley. Al analizar los datos, se observa un fenómeno de 'burocracia circular': en los 6 casos analizados, el puesto adjudicado es idéntico al puesto de procedencia (mismo código de puesto, mismo nivel y misma subdirección). Esto sugiere que la convocatoria no buscaba captar nuevo talento ni fomentar la movilidad, sino blindar o regularizar situaciones preexistentes bajo un barniz de procedimiento administrativo abierto. Es el 'dedazo' legalizado donde la administración se confirma a sí misma.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha finalizado un proceso para cubrir 6 puestos de alta dirección (niveles 29 y 30, los más altos del funcionariado). Aunque se anuncia como una convocatoria de libre elección, en la práctica se ha confirmado en el cargo a las mismas personas que ya los ocupaban. Todos los beneficiarios pertenecen al Grupo A1, la élite de la administración, manteniendo sus despachos en Madrid sin cambios reales en la estructura de mando.",
+    "resumen_tweet": "🚨 ¿Transparencia o teatro burocrático? El Ministerio de Agricultura adjudica 6 altos cargos de 'libre designación'. Curiosamente, todos los nombrados ya ocupaban ese mismo puesto. 🔄 El BOE como herramienta de continuidad. #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Endogamia administrativa",
+      "Adjudicaciones idénticas a la procedencia",
+      "Uso de libre designación en puestos técnicos",
+      "Falta de rotación en la cúpula directiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos confirmados (Niveles 29/30)",
+        "Continuismo en la Dirección General de Sanidad de la Producción Agraria"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso a redes de confianza",
+        "Criterios de mérito y capacidad (supeditados a la discrecionalidad)",
+        "Transparencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Endogamia administrativa",
+      "Adjudicaciones idénticas a la procedencia",
+      "Uso de libre designación en puestos técnicos",
+      "Falta de rotación en la cúpula directiva"
+    ]
+  },
+  "tweeted": false
+}
