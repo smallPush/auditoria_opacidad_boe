@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7834",
+  "timestamp": "2026-04-07T13:58:01.691Z",
+  "title": "Orden EFD/320/2026, de 30 de marzo, por la que, a propuesta de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias, se anula el nombramiento como funcionaria de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria de doña Rosa María Bello García.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento expone una vulnerabilidad sistémica en los procesos de baremación de méritos. Se observa una 'judicialización' del acceso a la función pública donde la propia Administración rectifica su criterio inicial tras un recurso de reposición, para ser posteriormente corregida por una sentencia judicial. Esto genera una inseguridad jurídica extrema para los funcionarios implicados y denota una falta de rigor técnico en la evaluación inicial de méritos, convirtiendo las plazas públicas en un juego de sillas musicales legales.",
+    "resumen_ciudadano": "Tras un conflicto legal entre dos profesoras en Canarias, una de ellas pierde su plaza de Catedrática porque la justicia ha anulado el proceso que la puso por delante de su compañera. Inicialmente, la Administración le subió los puntos tras una reclamación, pero el Tribunal Superior determinó que ese cambio no fue correcto, obligando al Ministerio a retirar el nombramiento ya publicado en 2025.",
+    "resumen_tweet": "🚨 ¡Giro de guion en el #BOE! Una catedrática pierde su plaza tras años de litigio. La justicia corrige un error administrativo en Canarias que desplazó a la ganadora original. Inseguridad jurídica en la docencia. 👩‍🏫⚖️ #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Error administrativo en baremación de méritos",
+      "Judicialización de procesos selectivos",
+      "Efecto retroactivo de nulidad de nombramiento",
+      "Inestabilidad en la carrera administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Delia Hernández Hernández (recupera su plaza y estatus legal)"
+      ],
+      "perdedores": [
+        "Rosa María Bello García (pierde su nombramiento de funcionaria de carrera)",
+        "Administración Pública (costes judiciales y descrédito institucional)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Error administrativo en baremación de méritos",
+      "Judicialización de procesos selectivos",
+      "Efecto retroactivo de nulidad de nombramiento",
+      "Inestabilidad en la carrera administrativa"
+    ]
+  },
+  "tweeted": false
+}
