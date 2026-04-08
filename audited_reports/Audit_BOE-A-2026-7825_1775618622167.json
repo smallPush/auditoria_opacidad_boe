@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7825",
+  "timestamp": "2026-04-08T03:23:42.167Z",
+  "title": "Real Decreto 263/2026, de 1 de abril, por el que se aprueba el Estatuto del Centro para el Desarrollo Tecnológico y la Innovación (CDTI), E.P.E.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nuevo estatuto del CDTI consolida un modelo de gestión con amplia discrecionalidad técnica bajo control ministerial directo. Aunque se cita la Ley de Ciencia, preocupa la Disposición Adicional 24 de la Ley 40/2015 que exceptúa al CDTI de la obligatoriedad de financiación mayoritaria con ingresos de mercado, permitiendo una dependencia del presupuesto público sin las restricciones habituales de las entidades públicas empresariales. Además, la estructura de gobernanza otorga un poder casi absoluto al Ministerio de Ciencia para el nombramiento de vocales, limitando la independencia técnica del organismo frente a ciclos políticos.",
+    "resumen_ciudadano": "Se actualizan las reglas del CDTI, el organismo que reparte dinero público para innovación tecnológica. Se define quién manda (el Ministerio), cómo se darán las ayudas y préstamos, y se permite que la entidad invierta en empresas privadas y fondos de capital riesgo.",
+    "resumen_tweet": "🚨 Nuevo Estatuto del #CDTI: Se refuerza el control ministerial sobre los fondos de innovación. Ojo a las excepciones en el control de ingresos de mercado y el amplio poder del Consejo Rector. ¿Ciencia o burocracia política? 🧐💼 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Excepción de financiación de mercado (DA 24 Ley 40/2015)",
+      "Nombramientos discrecionales por la persona titular del Ministerio",
+      "Capacidad de crear sociedades mercantiles sin desglose de control previo",
+      "Ambigüedad en la valoración de riesgos de capital-riesgo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas con alta intensidad en I+D",
+        "Fondos de Capital Riesgo",
+        "Altos cargos de la Secretaría General de Innovación"
+      ],
+      "perdedores": [
+        "PYMES sin capacidad de gestión burocrática",
+        "Contribuyentes (por asunción de riesgo en inversiones fallidas)",
+        "Sectores económicos tradicionales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Estatuto Orgánico",
+    "banderas_rojas": [
+      "Excepción de financiación de mercado (DA 24 Ley 40/2015)",
+      "Nombramientos discrecionales por la persona titular del Ministerio",
+      "Capacidad de crear sociedades mercantiles sin desglose de control previo",
+      "Ambigüedad en la valoración de riesgos de capital-riesgo"
+    ]
+  },
+  "tweeted": false
+}
