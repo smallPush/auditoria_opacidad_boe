@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7824",
+  "timestamp": "2026-04-08T03:26:22.314Z",
+  "title": "Real Decreto 262/2026, de 1 de abril, por el que se establecen los Diplomas de Lengua de Signos Española (DLSE) y se modifican varias normas reglamentarias.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 262/2026 formaliza la estructura de los Diplomas de Lengua de Signos Española (DLSE), alineándolos con el Marco Común Europeo. Si bien la intención de estandarización es positiva, el texto introduce una estructura jerárquica de control estatal a través del Centro de Normalización Lingüística y el Real Patronato sobre Discapacidad. Se detecta un enfoque en la 'meritocracia administrativa' para el empleo público, lo que podría transformar un derecho lingüístico en una barrera de pago si las tasas de examen no son proporcionales. No se especifica la dotación presupuestaria inicial para la puesta en marcha de la infraestructura de evaluación, delegando la carga económica en 'precios' por realizar las pruebas.",
+    "resumen_ciudadano": "Se crean oficialmente los títulos que certifican el conocimiento de la Lengua de Signos Española (niveles A1 a C2). Estos títulos servirán para puntuar en oposiciones y acreditar méritos académicos. El Estado centralizará los exámenes y la expedición de los diplomas electrónicos, estableciendo equivalencias con títulos de Formación Profesional y Certificados de Profesionalidad ya existentes.",
+    "resumen_tweet": "🤟 España crea los Diplomas de Lengua de Signos (DLSE). De A1 a C2 para oposiciones y empleo público. ¿Avance en derechos o nueva barrera burocrática por tasas de examen? El Real Patronato controlará el proceso. 📜🚫 #BOE #Opacidad #Transparencia #LSE",
+    "banderas_red_flags": [
+      "Indeterminación de precios públicos por derecho de examen",
+      "Falta de memoria económica detallada en el texto",
+      "Centralización de la potestad evaluadora en un único órgano estatal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes a empleo público con dominio de LSE",
+        "Real Patronato sobre Discapacidad (mayor control administrativo)",
+        "Centro de Normalización Lingüística (CNLSE)"
+      ],
+      "perdedores": [
+        "Personas en situación de exclusión económica (posibles tasas)",
+        "Entidades regionales de certificación que pierden relevancia frente al título estatal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Títulos Académicos y Discapacidad",
+    "banderas_rojas": [
+      "Indeterminación de precios públicos por derecho de examen",
+      "Falta de memoria económica detallada en el texto",
+      "Centralización de la potestad evaluadora en un único órgano estatal"
+    ]
+  },
+  "tweeted": false
+}
