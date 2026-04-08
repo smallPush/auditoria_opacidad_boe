@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7919",
+  "timestamp": "2026-04-08T13:59:34.267Z",
+  "title": "Resolución de 30 de marzo de 2026, del Ayuntamiento de Santa Cruz de Tenerife, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso-oposición' para plazas de turno libre, una práctica común en la administración local que, aunque legal, suele penalizar el talento externo frente a la antigüedad de interinos. Se observa una fragmentación informativa, ya que los criterios de baremación (puntos por méritos) no figuran en el BOE, sino en el Boletín Provincial, dificultando el escrutinio ciudadano inmediato sobre si el proceso está diseñado 'a medida'.",
+    "resumen_ciudadano": "El Ayuntamiento de Santa Cruz de Tenerife busca contratar 3 economistas de clase superior. El proceso no será un examen puro, sino que se valorarán méritos previos (experiencia, cursos), lo que da ventaja a quienes ya trabajan en la institución. El plazo para apuntarse es de 20 días hábiles.",
+    "resumen_tweet": "📢 Santa Cruz de Tenerife convoca 3 plazas de Economista. Ojo: sistema de concurso-oposición, lo que suele premiar la experiencia previa sobre el mérito académico puro. ¿Transparencia real o consolidación encubierta? 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en acceso libre",
+      "Opacidad en la baremación de méritos en el extracto del BOE",
+      "Posible sesgo hacia la consolidación de personal interino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos actuales del Ayuntamiento",
+        "Candidatos con años de antigüedad en administración local"
+      ],
+      "perdedores": [
+        "Economistas recién graduados",
+        "Profesionales del sector privado sin puntos por experiencia pública",
+        "Contribuyentes que financian plazas de alta escala sin garantía de máxima excelencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en acceso libre",
+      "Opacidad en la baremación de méritos en el extracto del BOE",
+      "Posible sesgo hacia la consolidación de personal interino"
+    ]
+  },
+  "tweeted": false
+}
