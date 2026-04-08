@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7931",
+  "timestamp": "2026-04-08T14:03:01.072Z",
+  "title": "Resolución de 31 de marzo de 2026, del Ayuntamiento de Pedrola (Zaragoza), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria para una plaza de personal laboral fijo mediante el sistema de concurso-oposición. La opacidad reside en la derivación de las reglas del juego a un boletín provincial (BOPZ), dificultando el acceso directo desde el BOE. Un punto crítico es la rectificación de las bases apenas tres días después de su publicación inicial (del 10 al 13 de marzo), lo cual suele indicar errores de bulto o ajustes 'ad hoc' para perfiles específicos tras detectar fallos en el diseño original de la plaza.",
+    "resumen_ciudadano": "El Ayuntamiento de Pedrola (Zaragoza) busca un Director o Directora para su Escuela Infantil. El proceso no es solo un examen, sino que incluye valoración de méritos previos. El plazo para apuntarse es de 20 días hábiles.",
+    "resumen_tweet": "🚨 ¡Alerta en Pedrola! Convocada plaza de Dirección de Escuela Infantil. Las bases fueron rectificadas a los 3 días de publicarse: ¿error técnico o traje a medida? El concurso-oposición vuelve a escena. 🔍 #BOE #Opacidad #Transparencia #Zaragoza",
+    "banderas_red_flags": [
+      "Rectificación exprés de las bases reguladoras",
+      "Uso del sistema de concurso-oposición para cargos directivos",
+      "Fraccionamiento de la información entre BOE y BOPZ"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con experiencia previa en la administración local (interinos)",
+        "Perfiles con puntos acumulados por antigüedad"
+      ],
+      "perdedores": [
+        "Nuevos titulados con excelente formación pero sin méritos previos",
+        "Ciudadanos ajenos a la comarca con dificultades para rastrear bases en boletines provinciales"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Rectificación exprés de las bases reguladoras",
+      "Uso del sistema de concurso-oposición para cargos directivos",
+      "Fraccionamiento de la información entre BOE y BOPZ"
+    ]
+  },
+  "tweeted": false
+}
