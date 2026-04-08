@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7918",
+  "timestamp": "2026-04-08T13:57:52.425Z",
+  "title": "Resolución de 27 de marzo de 2026, del Ayuntamiento de Es Castell (Illes Balears), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria del Ayuntamiento de Es Castell utiliza el sistema de concurso-oposición para plazas de personal laboral fijo, una modalidad que frecuentemente beneficia a interinos actuales mediante la fase de concurso. Destaca un plazo de solicitud extremadamente reducido de solo 10 días hábiles, lo cual dificulta la concurrencia competitiva real y limita el acceso a ciudadanos que no sigan diariamente el BOE o el BOIB, contraviniendo el espíritu de máxima difusión de la administración pública.",
+    "resumen_ciudadano": "Se convocan dos plazas de funcionario (Conserje y Auxiliar Administrativo) en Es Castell, Menorca. El proceso evaluará tanto un examen como méritos previos. El tiempo para apuntarse es muy corto: solo 10 días desde mañana.",
+    "resumen_tweet": "⚠️ ¡Ojo al dato! El Ayto. de Es Castell convoca plazas con solo 10 DÍAS para inscribirse. ¿Transparencia o prisas selectivas? 🧐 El sistema de concurso-oposición suele favorecer a 'los de dentro'. #BOE #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Plazo de inscripción inusualmente corto (10 días)",
+      "Sistema de concurso-oposición que pondera méritos sobre examen",
+      "Remisión a bases en boletín autonómico para detalles críticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el ayuntamiento",
+        "Candidatos locales con aviso previo"
+      ],
+      "perdedores": [
+        "Opositores de turno libre sin experiencia previa en la administración",
+        "Ciudadanos de otras regiones con dificultades para tramitar en 10 días"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Plazo de inscripción inusualmente corto (10 días)",
+      "Sistema de concurso-oposición que pondera méritos sobre examen",
+      "Remisión a bases en boletín autonómico para detalles críticos"
+    ]
+  },
+  "tweeted": false
+}
