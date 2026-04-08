@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7826",
+  "timestamp": "2026-04-08T03:27:28.061Z",
+  "title": "Orden ECM/317/2026, de 1 de abril, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «El Real de a Ocho: Raíces de la Moneda Canadiense».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden ECM/317/2026 utiliza un lenguaje histórico-patrimonial para camuflar una operación puramente comercial de la FNMT. Se observa una 'mercantilización de la historia imperial': el Estado actúa como un minorista de lujo. El margen de beneficio es asombroso: monedas con valor facial de 10 euros se venden a 239,67 euros (más IVA). Aunque se justifica como 'vínculo histórico' con Canadá, la opacidad reside en cómo se reparte el beneficio con la Royal Canadian Mint y por qué se permite una fluctuación de precios del 4% basada en el mercado de metales sin un control parlamentario directo sobre el beneficio final obtenido por la Entidad Pública Empresarial.",
+    "resumen_ciudadano": "El Gobierno ha autorizado la creación de 6.500 monedas de plata de colección dedicadas al 'Real de a Ocho'. Aunque legalmente solo valen 10 euros, se venderán al público por unos 290 euros (con IVA). Es un negocio de coleccionismo gestionado por la Fábrica Nacional de Moneda y Timbre en colaboración con Canadá. El precio puede subir si el valor de la plata aumenta, pero difícilmente bajará para el ciudadano común.",
+    "resumen_tweet": "💸 ¿Cultura o negocio de lujo? El #BOE publica la emisión de monedas de plata de 10€ que se venderán por +239€. Un producto para coleccionistas que exprime la nostalgia imperial y beneficia a la FNMT. ¡Ojo al margen! 🪙🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Margen de beneficio superior al 2000% sobre el valor facial",
+      "Cláusula de revisión de precios discrecional por la Dirección General del Tesoro",
+      "Falta de transparencia en el acuerdo de reparto de beneficios con la ceca canadiense",
+      "Uso de una entidad pública empresarial como 'medio propio' para fines comerciales de élite"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fábrica Nacional de Moneda y Timbre (FNMT)",
+        "Royal Canadian Mint",
+        "Coleccionistas de alto poder adquisitivo",
+        "Tesoro Público (por el cobro del valor facial)"
+      ],
+      "perdedores": [
+        "Ciudadanos de renta media-baja (excluidos del acceso al patrimonio numismático por precio)",
+        "Pequeños ahorradores (el valor real del metal es muy inferior al precio de venta)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Orden Ministerial / Emisión Monetaria",
+    "banderas_rojas": [
+      "Margen de beneficio superior al 2000% sobre el valor facial",
+      "Cláusula de revisión de precios discrecional por la Dirección General del Tesoro",
+      "Falta de transparencia en el acuerdo de reparto de beneficios con la ceca canadiense",
+      "Uso de una entidad pública empresarial como 'medio propio' para fines comerciales de élite"
+    ]
+  },
+  "tweeted": false
+}
