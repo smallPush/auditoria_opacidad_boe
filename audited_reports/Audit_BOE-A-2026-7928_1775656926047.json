@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7928",
+  "timestamp": "2026-04-08T14:02:06.047Z",
+  "title": "Resolución de 31 de marzo de 2026, del Ayuntamiento de Masquefa (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza la tecnica de la remision normativa, obligando al ciudadano a consultar tres diarios oficiales distintos (BOE, BOPB y DOGC) para entender las condiciones reales de la plaza. El uso del 'turno de movilidad' es una practica que, si bien legal, prioriza el trasvase de funcionarios entre administraciones en lugar de la creacion de empleo publico abierto, limitando el acceso a quienes ya estan dentro del sistema.",
+    "resumen_ciudadano": "El Ayuntamiento de Masquefa ha convocado una plaza de Policia Local, pero solo para personas que ya son policias en otros municipios (movilidad). El proceso se basa en un concurso-oposicion y los detalles especificos no figuran en este anuncio, sino en boletines provinciales previos, lo que dificulta el escrutinio publico inmediato.",
+    "resumen_tweet": "🔍 Nueva plaza de Policia en Masquefa, pero con truco: es 'turno de movilidad'. Solo para los que ya tienen placa. 👮‍♂️ La administracion se mueve entre si, pero cierra la puerta a nuevos aspirantes. #BOE #Opacidad #Transparencia #Masquefa 🚫💼",
+    "banderas_red_flags": [
+      "Opacidad por fragmentacion informativa",
+      "Restriccion de acceso al empleo publico (movilidad)",
+      "Ausencia de impacto presupuestario detallado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agentes de policia en activo que buscan traslado",
+        "Ayuntamiento (ahorro en costes de academia para nuevos agentes)"
+      ],
+      "perdedores": [
+        "Opositores noveles sin plaza previa",
+        "Ciudadania joven en busca de primer empleo publico",
+        "Transparencia administrativa directa"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Publico / Seguridad",
+    "banderas_rojas": [
+      "Opacidad por fragmentacion informativa",
+      "Restriccion de acceso al empleo publico (movilidad)",
+      "Ausencia de impacto presupuestario detallado"
+    ]
+  },
+  "tweeted": false
+}
