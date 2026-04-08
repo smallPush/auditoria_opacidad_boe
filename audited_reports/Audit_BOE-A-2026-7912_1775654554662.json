@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7912",
+  "timestamp": "2026-04-08T13:22:34.662Z",
+  "title": "Resolución de 6 de abril de 2026, de la Dirección General de Vivienda y Suelo, por la que se publica el Acuerdo de 31 de marzo de 2026, por el que se revisan y modifican los tipos de interés efectivos anuales vigentes para los préstamos cualificados o convenidos concedidos en el marco del Plan de Vivienda 1998-2001, Plan de Vivienda 2002-2005 y Plan de Vivienda 2005-2008.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución actualiza los tipos de interés de planes de vivienda antiguos (1998-2008). Aunque la bajada de tipos es favorable para el ciudadano, el documento emplea una opacidad técnica basada en fórmulas matemáticas complejas y referencias cruzadas a Reales Decretos de hace más de 20 años. La transparencia es aparente: se publican los cálculos, pero su verificación por un ciudadano medio es prácticamente imposible sin asesoría financiera. Se observa una inercia burocrática que mantiene estructuras de préstamos cualificados que, aunque protegidos, siguen vinculados a índices que no siempre reflejan la realidad social actual.",
+    "resumen_ciudadano": "Si tienes una hipoteca vinculada a los Planes de Vivienda de entre 1998 y 2008 (VPO), el Gobierno ha ordenado una revisión a la baja de tus intereses. Los nuevos tipos serán: 3,61% para el plan 98-01, 2,55% para el plan 02-05 y 2,56% para el plan 05-08. Las entidades bancarias están obligadas a aplicar esta reducción de forma automática y sin cobrarte ninguna comisión o gasto adicional por el trámite.",
+    "resumen_tweet": "📉 ¡Atención! El #BOE publica la bajada de intereses para hipotecas VPO de los planes 1998-2008. Los tipos caen hasta el 2,55% según tu plan. El banco debe aplicarlo GRATIS y sin gestiones. ¡Revisa tu recibo! 🏠💸 #Vivienda #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Complejidad aritmética inaccesible",
+      "Remisión a normativas de hace décadas",
+      "Falta de mecanismos de reclamación directa en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias con préstamos de protección oficial antiguos",
+        "Clase trabajadora con hipotecas VPO vigentes"
+      ],
+      "perdedores": [
+        "Entidades bancarias (reducción de margen de beneficios)",
+        "Ministerio de Vivienda (por el mantenimiento de una gestión administrativa de planes obsoletos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera/Vivienda",
+    "banderas_rojas": [
+      "Complejidad aritmética inaccesible",
+      "Remisión a normativas de hace décadas",
+      "Falta de mecanismos de reclamación directa en el texto"
+    ]
+  },
+  "tweeted": false
+}
