@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-7913",
+  "timestamp": "2026-04-08T13:54:42.269Z",
+  "title": "Acuerdo de 7 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se designan Vocales de procedencia judicial de la Junta Electoral Provincial de Granada.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento formaliza la designación de magistrados para la Junta Electoral Provincial de Granada mediante un proceso de 'insaculación' (sorteo). Aunque se cumple con la legalidad de la LOREG, el ciudadano no tiene acceso a los detalles de dicho sorteo, lo que mantiene una capa de opacidad sobre cómo se eligen realmente a los supervisores de la limpieza electoral. La estructura refleja una gestión de élite judicial sobre procesos democráticos ciudadanos.",
+    "resumen_ciudadano": "Se han nombrado los jueces encargados de supervisar las elecciones al Parlamento de Andalucía en la provincia de Granada. Ricardo Vicente Puyol Sánchez será el titular, apoyado por dos suplentes. Este es un trámite necesario para organizar la logística y legalidad de las votaciones.",
+    "resumen_tweet": "⚖️ El CGPJ designa a los jueces que controlarán las elecciones en Granada. ¿Garantía de neutralidad o control judicial? Nombres claros, pero el sorteo interno sigue siendo una caja negra. #BOE #Opacidad #Transparencia #Granada #EleccionesAndalucia",
+    "banderas_red_flags": [
+      "Falta de trazabilidad pública del proceso de insaculación",
+      "Inexistencia de información sobre remuneraciones o dietas adicionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ricardo Vicente Puyol Sánchez (Titular)",
+        "Cuerpo de Magistrados (control del proceso electoral)",
+        "CGPJ (ejercicio de potestad designativa)"
+      ],
+      "perdedores": [
+        "Ciudadanía (excluida de la supervisión del proceso de selección)",
+        "Transparencia radical (por la naturaleza cerrada del sorteo judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Procesos Electorales",
+    "banderas_rojas": [
+      "Falta de trazabilidad pública del proceso de insaculación",
+      "Inexistencia de información sobre remuneraciones o dietas adicionales"
+    ]
+  },
+  "tweeted": false
+}
