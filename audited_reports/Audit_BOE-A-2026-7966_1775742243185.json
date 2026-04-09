@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7966",
+  "timestamp": "2026-04-09T13:44:03.185Z",
+  "title": "Ley Orgánica 1/2026, de 8 de abril, en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal y la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley Orgánica 1/2026 representa un giro hacia el populismo punitivo bajo el pretexto de la 'eficacia'. Al permitir que las entidades locales ejerzan la acción penal, se traslada una competencia de orden público a la esfera política municipal, lo que puede derivar en persecuciones mediáticas o partidistas. La inclusión del robo de móviles como supuesto agravado responde a una presión social legítima, pero la simplificación de los criterios para hurtos en el sector agrario (basado solo en la cuantía >400€) elimina la valoración judicial del perjuicio real. Existe una opacidad latente en el coste que supondrá para los ayuntamientos asumir este papel de 'acusadores', un gasto que no está desglosado.",
+    "resumen_ciudadano": "Esta ley endurece las penas para quienes roban de forma repetida (multirreincidencia), incluso si son hurtos de poco valor. Ahora, robar un móvil o dispositivos con datos personales se castigará con más fuerza. Además, los Ayuntamientos podrán personarse como acusación en los juicios por hurtos, y se facilitan las órdenes de alejamiento de barrios o ciudades enteras para evitar que los delincuentes reincidan.",
+    "resumen_tweet": "🚨 Más cárcel por robar móviles y multirreincidencia en el #BOE. Los Ayuntamientos ahora podrán ser acusación en juicios por hurto. ¿Seguridad ciudadana o populismo punitivo? 🚔 Cuidado con la letra pequeña sobre el coste local. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Invasión competencial: Los Ayuntamientos asumen funciones de fiscalía/acusación estatal.",
+      "Indeterminación de gastos: No se especifica el presupuesto para que los municipios ejerzan la acción penal.",
+      "Ambigüedad en el 'Petaqueo': El texto del artículo 255.3 queda cortado en la publicación, generando inseguridad jurídica inmediata.",
+      "Criterio económico rígido: El umbral de 400€ en agricultura ignora el impacto cualitativo del delito."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alcaldes (mayor protagonismo político en seguridad)",
+        "Sector Agrario (mayor protección penal automática)",
+        "Grandes comercios y propietarios de dispositivos electrónicos"
+      ],
+      "perdedores": [
+        "Colectivos en exclusión (impacto de género y clase en delitos de bagatela)",
+        "Sistema judicial (posible colapso por la entrada masiva de municipios en los procesos)",
+        "Contribuyentes locales (pago de costas legales municipales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Penal y Procesal",
+    "banderas_rojas": [
+      "Invasión competencial: Los Ayuntamientos asumen funciones de fiscalía/acusación estatal.",
+      "Indeterminación de gastos: No se especifica el presupuesto para que los municipios ejerzan la acción penal.",
+      "Ambigüedad en el 'Petaqueo': El texto del artículo 255.3 queda cortado en la publicación, generando inseguridad jurídica inmediata.",
+      "Criterio económico rígido: El umbral de 400€ en agricultura ignora el impacto cualitativo del delito."
+    ]
+  },
+  "tweeted": false
+}
