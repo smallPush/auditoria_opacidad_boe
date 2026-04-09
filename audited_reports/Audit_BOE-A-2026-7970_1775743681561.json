@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7970",
+  "timestamp": "2026-04-09T14:08:01.561Z",
+  "title": "Resolución de 1 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 23 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución de libre designación en el Ministerio de Política Territorial y Memoria Democrática para un puesto de Nivel 18. Aunque el rango salarial es intermedio, el uso del sistema de 'libre designación' (elección a dedo) en lugar de concurso de méritos reduce la competitividad y la transparencia. Este mecanismo permite al poder político rodearse de perfiles afines bajo el paraguas de la 'confianza', evitando el escrutinio de los baremos objetivos de mérito y capacidad que rigen la función pública.",
+    "resumen_ciudadano": "El Gobierno ha asignado un puesto de jefatura adjunta en una secretaría de estado mediante elección directa. A diferencia de otras plazas donde se compite por puntos y experiencia demostrable, aquí la administración elige soberanamente al candidato. Este tipo de nombramientos suelen premiar la cercanía al cargo superior más que la excelencia técnica evaluada de forma independiente.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el #BOE. El Ministerio de Política Territorial adjudica un puesto de libre designación (nivel 18). Menos meritocracia y más confianza política en la administración. ¿Transparencia? 🧐🏛️ #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Libre designación (provisión discrecional)",
+      "Falta de publicación de criterios de selección específicos",
+      "Resolución parcial de convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Mar Herrero Manrique (adjudicataria)",
+        "Estructura política del Ministerio (afianza personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Meritocracia administrativa",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación (provisión discrecional)",
+      "Falta de publicación de criterios de selección específicos",
+      "Resolución parcial de convocatoria"
+    ]
+  },
+  "tweeted": false
+}
