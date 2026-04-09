@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7984",
+  "timestamp": "2026-04-09T14:17:31.910Z",
+  "title": "Resolución de 30 de marzo de 2026, de la Secretaría General del Tribunal Constitucional, por la que se convoca beca de formación en biblioteconomía y documentación relacionada con los fondos bibliográficos del Tribunal Constitucional.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolucion bajo la apariencia de una beca de formacion de 1.260 euros brutos mensuales para realizar tareas de catalogacion y tratamiento de monografias en el Tribunal Constitucional oculta una externalizacion precaria de funciones estructurales. Existe una incongruencia tecnica en el baremo de idiomas donde el aleman otorga 8 puntos frente a los 5 del ingles o frances sin una justificacion clara sobre el origen de los fondos bibliograficos. Ademas la exigencia de 30 horas semanales en una ciudad con el coste de vida de Madrid supone una barrera de clase que excluye a graduados sin apoyo economico familiar previo.",
+    "resumen_ciudadano": "El Tribunal Constitucional convoca una plaza de becario para su biblioteca por 1.260 euros al mes. Se requiere titulo universitario reciente y el trabajo consiste en organizar libros y revistas durante un año. El proceso de seleccion favorece especificamente a quienes hablen aleman y superen una entrevista personal tras una criba de meritos.",
+    "resumen_tweet": "⚖️ ¿Beca o trabajo precario? El Tribunal Constitucional busca 1 bibliotecario por 1.260€/mes en Madrid. ¡El alemán puntúa más que el inglés! 📚 Barreras de clase en la alta judicatura bajo el disfraz de 'formación'. #BOE #Opacidad #Transparencia #Precariedad",
+    "banderas_red_flags": [
+      "Uso de becas para cubrir puestos de trabajo estructurales",
+      "Sesgo de seleccion lingüistico injustificado (aleman sobre ingles)",
+      "Remuneracion insuficiente para el coste de vida en Madrid",
+      "Alta discrecionalidad en la fase de entrevista"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tribunal Constitucional (mano de obra cualificada de bajo coste)",
+        "Candidatos con alto nivel de aleman",
+        "Personas con residencia propia en Madrid"
+      ],
+      "perdedores": [
+        "Graduados recientes de otras provincias",
+        "Sectores profesionales de Biblioteconomia que exigen salarios dignos",
+        "Igualdad de oportunidades socioeconomicas"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Becas y Ayudas",
+    "banderas_rojas": [
+      "Uso de becas para cubrir puestos de trabajo estructurales",
+      "Sesgo de seleccion lingüistico injustificado (aleman sobre ingles)",
+      "Remuneracion insuficiente para el coste de vida en Madrid",
+      "Alta discrecionalidad en la fase de entrevista"
+    ]
+  },
+  "tweeted": false
+}
