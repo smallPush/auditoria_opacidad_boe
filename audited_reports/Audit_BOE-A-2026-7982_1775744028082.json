@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7982",
+  "timestamp": "2026-04-09T14:13:48.082Z",
+  "title": "Resolución de 1 de abril de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Técnica Básica de Arquitectura.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La convocatoria se presenta bajo la apariencia de libre acceso, pero la existencia de una sola plaza para una escala técnica básica sugiere una alta probabilidad de consolidación de personal interino preexistente. El diseño del sistema de puntuación otorga un peso desproporcionado (70%) al segundo ejercicio (supuesto práctico), cuya valoración queda al arbitrio del tribunal, reduciendo la objetividad del proceso frente al test inicial. Además, la exigencia del nivel C1 de valenciano para un puesto de categoría C1 actúa como una barrera de entrada que limita la movilidad de profesionales de otras regiones, favoreciendo el endogamia administrativa.",
+    "resumen_ciudadano": "La Universidad Jaume I convoca una plaza de técnico auxiliar de arquitectura (nivel Bachillerato). El proceso se basa en un examen tipo test y un caso práctico. Se requiere obligatoriamente el título de valenciano C1 y pagar una tasa de 15 euros.",
+    "resumen_tweet": "🏛️ ¿Oposición o plaza con nombre? La Universidad Jaume I convoca solo 1 plaza de técnico de arquitectura. Exigen valenciano C1 y el 70% de la nota depende de un examen práctico subjetivo. 🧐 ¿Transparencia o barrera? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Oferta de plaza única (frecuente en procesos de consolidación encubierta)",
+      "Ponderación excesiva del examen práctico (70%) frente al teórico",
+      "Barrera lingüística de nivel C1 para una escala técnica básica C1"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino de la propia universidad",
+        "Residentes locales con certificación lingüística C1"
+      ],
+      "perdedores": [
+        "Arquitectos técnicos de fuera de la Comunidad Valenciana",
+        "Aspirantes con alta capacidad técnica pero sin títulos de idiomas específicos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Oferta de plaza única (frecuente en procesos de consolidación encubierta)",
+      "Ponderación excesiva del examen práctico (70%) frente al teórico",
+      "Barrera lingüística de nivel C1 para una escala técnica básica C1"
+    ]
+  },
+  "tweeted": false
+}
