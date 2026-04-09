@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7920",
+  "timestamp": "2026-04-09T03:23:07.123Z",
+  "title": "Resolución de 30 de marzo de 2026, del Ayuntamiento de Tarifa (Cádiz), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un proceso administrativo fragmentado típico de la administración local española. La 'rectificación de bases' publicada el 10 de marzo, tras la publicación inicial en enero, es un punto crítico que suele ocultar o bien errores técnicos de bulto o ajustes sutiles en los baremos de puntuación que pueden favorecer perfiles específicos. La división entre turno libre (5) y movilidad (1) es legal, pero el sistema de concurso para movilidad reduce la competencia real frente a la oposición pura.",
+    "resumen_ciudadano": "El Ayuntamiento de Tarifa convoca 6 plazas de Policía Local. De estas, 5 se otorgarán por examen (oposición libre) y 1 está reservada para policías que ya tengan plaza en otros municipios (movilidad). Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación en el BOE. Es fundamental revisar la rectificación de las bases publicada en el Boletín de la Provincia de Cádiz el 10 de marzo.",
+    "resumen_tweet": "👮‍♂️ Tarifa busca 6 nuevos Policías Locales. ¡Ojo! Hubo 'rectificación de bases' previa al #BOE, revisa bien los cambios técnicos para evitar sorpresas. 5 plazas libres y 1 de movilidad. ⏳ 20 días para inscribirse. #Opacidad #Transparencia #Cádiz",
+    "banderas_red_flags": [
+      "Rectificación de bases a posteriori",
+      "Opacidad en los motivos de la modificación del 10 de marzo",
+      "Dispersión normativa entre BOP, BOJA y BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con acceso a academias que monitorizan cambios en el BOP",
+        "Agentes en activo que buscan plaza por movilidad (concurso)"
+      ],
+      "perdedores": [
+        "Opositores libres con menos recursos para seguir la burocracia",
+        "Candidatos externos al municipio que no detectaron la rectificación de marzo"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Convocatoria de Empleo Público",
+    "banderas_rojas": [
+      "Rectificación de bases a posteriori",
+      "Opacidad en los motivos de la modificación del 10 de marzo",
+      "Dispersión normativa entre BOP, BOJA y BOE"
+    ]
+  },
+  "tweeted": false
+}
