@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7914",
+  "timestamp": "2026-04-09T03:18:13.495Z",
+  "title": "Resolución de 24 de marzo de 2026, de la Universidad de Zaragoza, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se limita a formalizar nombramientos de profesorado titular en la Universidad de Zaragoza bajo el amparo de la LOSU (Ley Orgánica 2/2023). Aunque el proceso administrativo parece seguir los cauces legales, se observa la habitual opacidad sobre el coste salarial individualizado y la falta de información sobre si estas plazas son de nueva creación o reposición. Se utiliza la firma por delegación (P. D.), una práctica que diluye la responsabilidad directa de la Rectoría en el acto administrativo.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado a 10 nuevos Profesores Titulares de Universidad en diversas áreas que van desde la Psicología hasta la Ingeniería. Estas personas pasan a ser funcionarios de carrera con plazas permanentes tras haber superado los concursos correspondientes. El documento detalla sus nombres, áreas de conocimiento y departamentos asignados.",
+    "resumen_tweet": "🎓 10 nuevos profesores titulares en la Univ. de Zaragoza según el #BOE. Se blindan plazas permanentes en áreas como Psicología y Medicina. Transparencia en nombres, pero silencio total sobre el coste público real 💸. #Opacidad #Transparencia #Aragón",
+    "banderas_red_flags": [
+      "Firma por delegación (P.D.) del Vicerrector en lugar de la Rectora",
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de mención a la tasa de reposición aplicada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 10 docentes nombrados (estabilidad laboral vitalicia y estatus de funcionario)",
+        "Universidad de Zaragoza (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (limitación de nuevas oportunidades por consolidación de plazas)",
+        "Contribuyentes (falta de transparencia en el impacto económico a largo plazo de la masa salarial funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Firma por delegación (P.D.) del Vicerrector en lugar de la Rectora",
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de mención a la tasa de reposición aplicada"
+    ]
+  },
+  "tweeted": false
+}
