@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7978",
+  "timestamp": "2026-04-09T14:11:38.618Z",
+  "title": "Resolución de 12 de marzo de 2026, de la Presidencia del Consejo de Estado, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para un puesto de Jefe de Servicio (Nivel 26) con un complemento específico superior a los 28.000 euros. Aunque se enumeran requisitos técnicos, este mecanismo permite la elección discrecional del candidato, lo que comúnmente se denomina 'dedazo'. Resulta paradójico que el Consejo de Estado, órgano consultivo supremo del Gobierno en materia de legalidad, recurra a este sistema de provisión de puestos en lugar de concursos basados puramente en méritos objetivos y competitivos, perpetuando una estructura de confianza política sobre la eficiencia técnica.",
+    "resumen_ciudadano": "El Consejo de Estado ha convocado una plaza de alto nivel para tramitaciones y consultas ciudadanas. A pesar de ser un puesto técnico, se elegirá a dedo (libre designación) y no por examen público. El elegido cobrará un extra de más de 28.000 euros anuales solo por ese concepto, aparte de su sueldo base como funcionario A1 o A2.",
+    "resumen_tweet": "🚨 Nuevo #dedazo en el Consejo de Estado. Convocan plaza de Jefe de Servicio con +28k€ de complemento mediante 'libre designación'. ¿Mérito o confianza? La transparencia brilla por su ausencia en la alta administración. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Alta cuantía del complemento específico",
+      "Ausencia de baremos de puntuación objetivos",
+      "Plazo de solicitud muy breve (15 días)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con perfiles políticos",
+        "Círculos de confianza de la Presidencia del Consejo de Estado",
+        "Élite administrativa A1/A2"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin conexiones",
+        "Ciudadanía que financia puestos adjudicados por confianza",
+        "Principio de igualdad y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Alta cuantía del complemento específico",
+      "Ausencia de baremos de puntuación objetivos",
+      "Plazo de solicitud muy breve (15 días)"
+    ]
+  },
+  "tweeted": false
+}
