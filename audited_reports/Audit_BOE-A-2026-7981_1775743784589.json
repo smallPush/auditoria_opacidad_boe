@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7981",
+  "timestamp": "2026-04-09T14:09:44.589Z",
+  "title": "Resolución de 1 de abril de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Media de Estudios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La convocatoria de una única plaza (Subgrupo A2) mediante un proceso selectivo de oposiciones libre genera sospechas sobre la eficiencia administrativa y la posible predeterminación del candidato. Aunque formalmente cumple con la legalidad, el despliegue de un tribunal, dos ejercicios eliminatorios y una logística compleja para un solo puesto es un síntoma de burocracia ineficiente. El requisito de Valenciano C1, si bien legal en la Comunidad Valenciana, actúa como una barrera de clase y procedencia geográfica efectiva, limitando la competencia real a un nicho muy específico.",
+    "resumen_ciudadano": "La Universidad Jaume I convoca una sola plaza de funcionario para su Escala Media de Estudios. Los aspirantes deben tener Grado universitario y nivel C1 de valenciano. El proceso consiste en un examen tipo test y la resolución de dos casos prácticos.",
+    "resumen_tweet": "🧐 ¿Toda una oposición para una sola plaza? La @ujicas convoca 1 puesto A2. Exigencia de C1 valenciano y examen eliminatorio. ¿Eficiencia administrativa o barreras de entrada? 🏛️ Poca probabilidad para el ciudadano común. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única (riesgo de plaza 'con nombre y apellidos')",
+      "Barrera lingüística C1 como filtro excluyente",
+      "Elevada complejidad administrativa para un impacto laboral mínimo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos locales con dominio del valenciano",
+        "Personal interno que ya conoce la operativa de la UJI"
+      ],
+      "perdedores": [
+        "Candidatos de otras regiones de España",
+        "Clase trabajadora sin tiempo para opositar por una sola vacante",
+        "Contribuyentes (coste de tribunal para una sola plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Universidad",
+    "banderas_rojas": [
+      "Convocatoria de plaza única (riesgo de plaza 'con nombre y apellidos')",
+      "Barrera lingüística C1 como filtro excluyente",
+      "Elevada complejidad administrativa para un impacto laboral mínimo"
+    ]
+  },
+  "tweeted": false
+}
