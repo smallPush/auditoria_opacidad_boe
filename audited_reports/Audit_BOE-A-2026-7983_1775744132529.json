@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7983",
+  "timestamp": "2026-04-09T14:15:32.529Z",
+  "title": "Resolución de 1 de abril de 2026, de la Universidad Jaume I, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Técnica Básica de Gestión de Instalaciones.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento presenta un proceso selectivo estándar para una única plaza de nivel C1. Se observa una burocracia desproporcionada para la provisión de un solo puesto de trabajo, lo que supone un coste operativo elevado para la Universidad Jaume I. La exigencia del nivel C1 de valenciano, aunque legal en su ámbito, actúa como un filtro de exclusión de clase y procedencia geográfica, limitando el acceso a ciudadanos de otras regiones de España. El uso del sistema de oposición pura en lugar de concurso-oposición favorece la igualdad teórica pero ignora la experiencia previa, beneficiando a perfiles con capacidad de estudio a tiempo completo frente a trabajadores activos.",
+    "resumen_ciudadano": "La Universidad Jaume I convoca una plaza de gestión de instalaciones. Los requisitos incluyen ser bachiller o técnico superior y tener el título C1 de valenciano. El examen consta de un test y un caso práctico. La tasa de examen es de 15 euros, con exenciones para víctimas de violencia de género, discapacidad o exclusión social.",
+    "resumen_tweet": "📢 ¡Nueva plaza en la UJI! Pero atención: se moviliza toda la maquinaria del #BOE para solo 1 puesto de gestión. El requisito de Valenciano C1 marca la frontera. ¿Eficiencia o barrera? 🧐 #Transparencia #Castellón #Oposiciones2026",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única (baja eficiencia administrativa)",
+      "Barrera lingüística (C1 Valenciano) como filtro territorial",
+      "Opacidad en la plataforma secundaria (TAO-UJI) para notificaciones clave"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes locales con dominio del valenciano",
+        "Opositores jóvenes sin cargas laborales (estudio a tiempo completo)"
+      ],
+      "perdedores": [
+        "Trabajadores de otras CCAA sin conocimientos lingüísticos específicos",
+        "Candidatos externos al ecosistema universitario de Castellón"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Convocatoria de plaza única (baja eficiencia administrativa)",
+      "Barrera lingüística (C1 Valenciano) como filtro territorial",
+      "Opacidad en la plataforma secundaria (TAO-UJI) para notificaciones clave"
+    ]
+  },
+  "tweeted": false
+}
