@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-7921",
+  "timestamp": "2026-04-09T03:25:18.173Z",
+  "title": "Resolución de 30 de marzo de 2026, del Ayuntamiento de Marratxí (Illes Balears), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se ampara en el sistema de 'concurso-oposición' en turno de promoción interna, una práctica que, aunque legal, fomenta el blindaje de la estructura administrativa existente. Al ser plazas restringidas a quienes ya forman parte del cuerpo administrativo de Marratxí, se anula la posibilidad de renovación externa y se perpetúan redes de influencia interna. La remisión a bases publicadas en otro boletín (BOIB) dificulta el escrutinio ciudadano directo desde el BOE, creando una fragmentación informativa que favorece la opacidad.",
+    "resumen_ciudadano": "El Ayuntamiento de Marratxí convoca 10 plazas de administrativo, pero con un matiz crucial: son exclusivamente para personas que ya trabajan allí (promoción interna). Esto significa que ningún ciudadano externo o desempleado puede optar a estos puestos, reforzando la endogamia en la administración local.",
+    "resumen_tweet": "🧐 ¿Transparencia o blindaje? Marratxí convoca 10 plazas de administrativo, PERO solo para quienes ya están dentro (promoción interna). El talento externo queda excluido una vez más. 🛑 #BOE #Opacidad #Transparencia #Marratxi",
+    "banderas_red_flags": [
+      "Endogamia institucional por promoción interna exclusiva",
+      "Opacidad por fragmentación (remisión a otros diarios oficiales)",
+      "Limitación de la movilidad social ascendente externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ayuntamiento de Marratxí",
+        "Estructura administrativa preexistente"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Jóvenes graduados",
+        "Desempleados del municipio"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Resolución de Empleo Público / Promoción Interna",
+    "banderas_rojas": [
+      "Endogamia institucional por promoción interna exclusiva",
+      "Opacidad por fragmentación (remisión a otros diarios oficiales)",
+      "Limitación de la movilidad social ascendente externa"
+    ]
+  },
+  "tweeted": false
+}
