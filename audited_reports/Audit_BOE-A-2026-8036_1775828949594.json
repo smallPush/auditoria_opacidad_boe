@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8036",
+  "timestamp": "2026-04-10T13:49:09.594Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Universidad de Zaragoza, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de plazas de funcionarios docentes en la Universidad de Zaragoza. Aunque el proceso sigue la legalidad vigente (LOSU 2023), este tipo de resoluciones son la culminación de procesos internos que a menudo son criticados por falta de movilidad externa. No se detalla el coste presupuestario anual que estas 10 titularidades suponen para las arcas públicas de Aragón.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado oficialmente a 10 nuevos Profesores y Profesoras Titulares en áreas que van desde la Historia del Arte hasta la Medicina Animal. Este es el paso final para que estos docentes adquieran su condición de funcionarios de carrera, tras haber superado los concursos correspondientes convocados a finales de 2025.",
+    "resumen_tweet": "🎓 La Univ. de Zaragoza consolida 10 nuevas plazas de Profesor Titular. Se formaliza el estatus de funcionario en áreas desde Medicina a Educación. ¿Renovación o inercia académica? La transparencia administrativa cumple, el debate sigue. 🏛️📜 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial total de los nombramientos",
+      "Posible endogamia universitaria inherente al sistema de concursos de acceso",
+      "Falta de métricas de impacto educativo vinculadas al nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 10 docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad de Zaragoza (consolidación de estructura administrativa)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor vinculación previa a la institución",
+        "Contribuyentes (falta de desglose sobre el aumento de gasto estructural en personal público)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial total de los nombramientos",
+      "Posible endogamia universitaria inherente al sistema de concursos de acceso",
+      "Falta de métricas de impacto educativo vinculadas al nombramiento"
+    ]
+  },
+  "tweeted": false
+}
