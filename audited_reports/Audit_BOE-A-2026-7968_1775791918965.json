@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-7968",
+  "timestamp": "2026-04-10T03:31:58.965Z",
+  "title": "Real Decreto 299/2026, de 8 de abril, por el que se aprueba el Estatuto de la Agencia Estatal de Meteorología.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto utiliza la 'emergencia climática' y la 'digitalización' como catalizadores para justificar una expansión de la estructura burocrática de la AEMET. Al fragmentar direcciones existentes en múltiples departamentos nuevos, se diluye la responsabilidad y se aumenta el número de puestos directivos. Resulta alarmante que se haya omitido el trámite de audiencia e información pública bajo la etiqueta de 'norma organizativa', limitando la participación ciudadana en una entidad cuyos datos son críticos para la seguridad pública. Además, la vinculación de retribuciones a una 'evaluación del desempeño' sin detallar indicadores métricos transparentes abre la puerta a la discrecionalidad en el reparto de fondos públicos.",
+    "resumen_ciudadano": "Se reforma el estatuto de la AEMET para crear más cargos directivos y departamentos. El Secretario de Estado de Medio Ambiente asume la presidencia política, mientras que la gestión técnica queda en manos de un director. Se introducen pluses salariales basados en objetivos no especificados y se moderniza la infraestructura tecnológica con un enfoque en Inteligencia Artificial, aunque se evita la consulta pública sobre estos cambios.",
+    "resumen_tweet": "⛈️ Nueva reforma de la @AEMET_Esp: se fragmentan direcciones para crear más cargos de confianza bajo el pretexto del #CambioClimático y la IA. Más burocracia, control político directo y pluses salariales sin criterios claros. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentación de órganos para aumentar puestos directivos",
+      "Omisión de audiencia pública alegando carácter organizativo",
+      "Incentivos retributivos vinculados a criterios no publicados",
+      "Concentración de poder político en la Presidencia (Secretaría de Estado)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal directivo (nuevas plazas y pluses por desempeño)",
+        "Ministerio para la Transición Ecológica (mayor control directo)",
+        "Empresas de consultoría y transformación digital"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento de una estructura administrativa más pesada)",
+        "Sociedad civil (excluida del proceso de consulta pública)",
+        "Cuerpo técnico de la Agencia (supeditado a una presidencia más politizada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reestructuración Orgánica y Estatutos",
+    "banderas_rojas": [
+      "Fragmentación de órganos para aumentar puestos directivos",
+      "Omisión de audiencia pública alegando carácter organizativo",
+      "Incentivos retributivos vinculados a criterios no publicados",
+      "Concentración de poder político en la Presidencia (Secretaría de Estado)"
+    ]
+  },
+  "tweeted": false
+}
