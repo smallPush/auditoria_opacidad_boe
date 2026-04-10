@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8038",
+  "timestamp": "2026-04-10T13:53:05.579Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Universidad de Burgos, por la que se nombra Catedrática de Universidad a doña María Amor Barros del Río.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolución estándar de nombramiento tras un concurso de acceso a la escala de funcionarios docentes universitarios. Aunque el proceso se basa en normativas vigentes (LOU/LOSU), el BOE solo muestra el resultado final, no los criterios de baremación ni el número de candidatos que compitieron por la plaza, lo que impide evaluar la meritocracia real frente a posibles procesos de promoción interna ('endogamia'). El gasto público es recurrente y vitalicio, propio de un puesto de funcionariado de carrera (Catedrático de Universidad).",
+    "resumen_ciudadano": "La Universidad de Burgos nombra oficialmente a una nueva Catedrática en el área de Filología Inglesa. Este es un trámite administrativo que consolida la plaza de una docente tras superar un concurso de acceso iniciado en diciembre de 2025. La nombrada pasa a ser funcionaria de carrera con los derechos y salarios asociados al nivel más alto del escalafón docente.",
+    "resumen_tweet": "🎓 Nombramiento de nueva Catedrática en la Universidad de Burgos. Un paso más en la burocracia académica de Filología Inglesa. ¿Promoción interna o libre concurrencia real? La transparencia se queda en el código de la plaza. 🧐 #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Falta de visibilidad de los méritos comparativos",
+      "Ausencia de datos sobre otros candidatos participantes",
+      "Consolidación de gasto público estructural sin desglose salarial adjunto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Amor Barros del Río (obtiene plaza vitalicia)",
+        "Universidad de Burgos (cubre estructuralmente la cátedra)"
+      ],
+      "perdedores": [
+        "Presupuesto público (gasto fijo a largo plazo)",
+        "Candidatos externos (barrera de entrada común en plazas de promoción interna)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Falta de visibilidad de los méritos comparativos",
+      "Ausencia de datos sobre otros candidatos participantes",
+      "Consolidación de gasto público estructural sin desglose salarial adjunto"
+    ]
+  },
+  "tweeted": false
+}
