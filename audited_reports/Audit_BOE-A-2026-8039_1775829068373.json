@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8039",
+  "timestamp": "2026-04-10T13:51:08.373Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Universidad de Burgos, por la que se nombra Profesora Titular de Universidad a doña Mirian Santamaría Peláez.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución administrativa que formaliza la consolidación de un puesto de funcionaria de carrera en el ámbito universitario. Aunque el procedimiento cumple con la legalidad vigente, la opacidad real se encuentra en la fase previa: los criterios de selección y las actas de la comisión no son públicos en este extracto, lo que dificulta la auditoría ciudadana contra la endogamia universitaria. No se menciona el impacto presupuestario ni el salario bruto anual asociado a la plaza.",
+    "resumen_ciudadano": "La Universidad de Burgos ha nombrado oficialmente a Mirian Santamaría Peláez como Profesora Titular de Universidad en el área de Psicología Evolutiva y de la Educación. Este es el paso final tras superar un concurso de acceso convocado en 2025.",
+    "resumen_tweet": "🎓 Nueva plaza de Funcionaria de Carrera en la Univ. de Burgos. Tras el código TU-2023-18 se consolida una plaza de Profesora Titular. ¿Procesos abiertos o endogamia administrativa? La burocracia sigue su curso. 🏛️ #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en los méritos específicos evaluados",
+      "Referencia a códigos de plaza (CIS-PSE-TU-1) sin desglose de costes",
+      "Ausencia de información sobre otros candidatos participantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mirian Santamaría Peláez (obtiene estabilidad laboral de por vida)",
+        "Universidad de Burgos (cierra un proceso administrativo de personal)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información del concurso",
+        "Ciudadanía (por la falta de transparencia en el coste total de la plaza pública)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en los méritos específicos evaluados",
+      "Referencia a códigos de plaza (CIS-PSE-TU-1) sin desglose de costes",
+      "Ausencia de información sobre otros candidatos participantes"
+    ]
+  },
+  "tweeted": false
+}
