@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-7980",
+  "timestamp": "2026-04-10T03:42:39.496Z",
+  "title": "Resolución de 7 de abril de 2026, de la Dirección General de Personal y Formación del Profesorado, de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, por la que se publica la convocatoria de procedimiento selectivo para el ingreso en el Cuerpo de Maestros.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución presenta una técnica de 'transparencia fragmentada'. Aunque se publica en el BOE, el texto es un mero extracto que redirige al Boletín Oficial de Canarias (BOC) para conocer las bases reales. Esta triangulación administrativa dificulta el acceso directo a la información. No existe un desglose de las especialidades docentes ni del coste presupuestario que implica la gestión de estas 686 plazas, ocultando los 'gastos de gestión' de los tribunales examinadores bajo un lenguaje burocrático estándar.",
+    "resumen_ciudadano": "Se convocan 686 plazas para el Cuerpo de Maestros en Canarias. El plazo para presentar solicitudes termina el 24 de abril de 2026. Los detalles completos sobre requisitos y pruebas no están en este documento, sino en el Boletín autonómico y en la web de la Consejería.",
+    "resumen_tweet": "🚨 ¡Atención maestros! Canarias lanza 686 plazas, pero la letra pequeña está fuera del BOE. Fragmentación informativa que dificulta el acceso ciudadano. 🧐 10% para discapacidad, el mínimo legal. #BOE #Opacidad #Transparencia #Canarias 👩‍🏫👨‍🏫",
+    "banderas_red_flags": [
+      "Opacidad por remisión externa",
+      "Ausencia de desglose de plazas por especialidad en el extracto",
+      "Falta de memoria económica sobre las tasas de examen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con alta competencia digital para navegar plataformas autonómicas",
+        "Personas con discapacidad física o sensorial (cupo de reserva del 10%)"
+      ],
+      "perdedores": [
+        "Interinos con dificultades de movilidad digital",
+        "Ciudadanos que esperan transparencia total en un solo documento oficial"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Resolución de Convocatoria de Empleo Público",
+    "banderas_rojas": [
+      "Opacidad por remisión externa",
+      "Ausencia de desglose de plazas por especialidad en el extracto",
+      "Falta de memoria económica sobre las tasas de examen"
+    ]
+  },
+  "tweeted": false
+}
