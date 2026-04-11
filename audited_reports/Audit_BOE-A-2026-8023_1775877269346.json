@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8023",
+  "timestamp": "2026-04-11T03:14:29.346Z",
+  "title": "Real Decreto 302/2026, de 8 de abril, por el que se modifican diversas normas reglamentarias en materia de seguridad industrial en lo que respecta a los procedimientos de emergencia en caso de una emergencia del mercado interior, y por el que se modifica el Real Decreto 212/2002, de 22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre, en lo que respecta a las obligaciones de información y a los métodos para medir el ruido aéreo emitido por las máquinas de uso al aire libre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 302/2026 introduce una estructura de gobernanza de excepción dentro del mercado industrial español bajo la directriz de la resiliencia europea. El punto más crítico es la habilitación de una vía paralela para comercializar bienes sin el marcado CE durante periodos de crisis, lo que fragmenta la confianza del consumidor en los estándares de seguridad habituales. Además, se otorga a los organismos de evaluación de conformidad (entidades privadas o semipúblicas) la potestad de cobrar sobrecostes por priorizar solicitudes, lo que genera un riesgo de encarecimiento arbitrario y discriminación para pequeños fabricantes que no puedan costear la vía rápida. La eliminación de obligaciones de información sobre ruido aéreo, amparada en la reducción de redundancias, supone un retroceso en la vigilancia ciudadana sobre la contaminación acústica.",
+    "resumen_ciudadano": "Esta ley permite que, en casos de crisis, ciertos productos industriales se vendan sin pasar por los controles de seguridad estándar ni llevar la etiqueta 'CE'. Establece que las fábricas y laboratorios de control deben dar prioridad a estos 'productos de crisis', permitiéndoles cobrar tarifas más altas por tramitarlos rápido. Asimismo, reduce la información que el Estado debe dar sobre el ruido que hacen las máquinas de construcción y jardinería.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El RD 302/2026 permite vender productos industriales SIN marcado CE durante 'emergencias'. 🏭 Se prioriza a grandes empresas y se eliminan controles de ruido. ¿Seguridad o vía libre a la opacidad industrial? 🕵️‍♂️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión del marcado CE para bienes de crisis",
+      "Autorización de sobrecostes por priorización de expedientes",
+      "Eliminación de obligaciones de información sobre emisiones sonoras",
+      "Alta discrecionalidad en la definición de bienes esenciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fabricantes de suministros críticos",
+        "Organismos Notificados (entidades de certificación)",
+        "Comisión Europea (centralización de decisiones)"
+      ],
+      "perdedores": [
+        "Consumidores (incertidumbre sobre seguridad del producto)",
+        "PYMES (desplazadas en los procesos de certificación)",
+        "Ciudadanos (reducción de transparencia acústica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (España)",
+    "tipologia": "Real Decreto de Modificación Normativa (Seguridad Industrial y Mercado Interior)",
+    "banderas_rojas": [
+      "Suspensión del marcado CE para bienes de crisis",
+      "Autorización de sobrecostes por priorización de expedientes",
+      "Eliminación de obligaciones de información sobre emisiones sonoras",
+      "Alta discrecionalidad en la definición de bienes esenciales"
+    ]
+  },
+  "tweeted": false
+}
