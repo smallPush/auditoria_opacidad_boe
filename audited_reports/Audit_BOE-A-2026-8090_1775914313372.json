@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8090",
+  "timestamp": "2026-04-11T13:31:53.372Z",
+  "title": "Resolución de 31 de marzo de 2026, del Ayuntamiento de La Vila Joiosa/Villajoyosa (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "La convocatoria se centra en una plaza estratégica de 'Técnico de Contratación', responsable de fiscalizar el gasto público. Sin embargo, el sistema de 'promoción interna' y un plazo de solicitud de solo 10 días hábiles actúan como una barrera de entrada para la fiscalización externa. La endogamia administrativa en departamentos de contratación suele ser un caldo de cultivo para la complacencia institucional.",
+    "resumen_ciudadano": "El Ayuntamiento de Villajoyosa ha lanzado una oferta de empleo para gestionar contratos públicos, pero con letra pequeña: solo pueden optar quienes ya trabajan allí y deben presentar todo en apenas dos semanas. Esto cierra la puerta a nuevos profesionales y expertos externos en un área sensible para el dinero de todos.",
+    "resumen_tweet": "🚩 ¿Transparencia o blindaje? Villajoyosa convoca plaza de Técnico de Contratación en solo 10 días y solo para personal interno. Un puesto clave para el control del gasto público cerrado al talento externo. 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plazo de presentación extremadamente reducido (10 días)",
+      "Restricción exclusiva a promoción interna en puesto de fiscalización",
+      "Falta de detalle sobre méritos específicos en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con antigüedad",
+        "Estructura administrativa actual del Ayuntamiento"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Expertos en contratación pública sin plaza previa",
+        "Ciudadanía (por reducción de libre concurrencia)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público - Acceso Restringido",
+    "banderas_rojas": [
+      "Plazo de presentación extremadamente reducido (10 días)",
+      "Restricción exclusiva a promoción interna en puesto de fiscalización",
+      "Falta de detalle sobre méritos específicos en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
