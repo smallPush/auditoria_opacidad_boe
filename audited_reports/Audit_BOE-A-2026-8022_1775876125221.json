@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8022",
+  "timestamp": "2026-04-11T02:55:25.221Z",
+  "title": "Real Decreto 300/2026, de 8 de abril, por el que se establece el título de Formación Profesional de Grado Superior de Técnico Superior en Diseño y construcción artesanal de instrumentos musicales de cuerda, se fijan los aspectos básicos del currículo y las ofertas de grados C, B y A incluidos en este título.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 300/2026 formaliza y estandariza la figura del luthier bajo el sistema de Formación Profesional. Aunque el currículo es exhaustivo en competencias técnicas, la norma se apoya en la retórica de la Ley Orgánica 3/2022 para justificar su necesidad. Se observa una 'Incongruencia Ideológica' al citar el fomento de la igualdad de género en un sector tradicionalmente masculinizado sin proponer medidas de acción positiva concretas, limitándose a una declaración de intenciones. El uso de fondos europeos (FSE+) queda mencionado de forma genérica, ocultando el coste real de la implementación de talleres especializados que requieren maquinaria de alta precisión y maderas nobles.",
+    "resumen_ciudadano": "Se crea oficialmente el título de 'Técnico Superior en Diseño y construcción artesanal de instrumentos musicales de cuerda'. Esta formación de 2.000 horas permitirá a los estudiantes obtener un título oficial para fabricar, reparar y mantener instrumentos como guitarras, violines y arcos. El título es válido en toda España y busca profesionalizar el sector de la luthería mediante estándares de competencia nacionales.",
+    "resumen_tweet": "🎻 Nuevo título de FP en el #BOE: Técnico Superior en Luthería. Mucha técnica y 2000h de formación, pero ¿dónde está el presupuesto real para los talleres? 🛠️ ¿Y las medidas reales para romper la brecha de género? #Opacidad #Transparencia #FP",
+    "banderas_red_flags": [
+      "Financiación dependiente del Programa FSE+ sin desglose de costes por comunidad autónoma",
+      "Ambigüedad en el coste de los materiales (maderas nobles) para el alumnado",
+      "Cláusulas de igualdad de género genéricas sin mecanismos de implementación",
+      "Riesgo de devaluación de la artesanía tradicional no reglada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Instituciones educativas de FP",
+        "Talleres de luthería que requieran mano de obra certificada",
+        "Estudiantes con recursos para costear herramientas personales"
+      ],
+      "perdedores": [
+        "Artesanos tradicionales sin titulación oficial que vean desplazada su experiencia",
+        "Estudiantes de entornos socioeconómicos bajos por la inversión necesaria en materiales",
+        "Centros públicos de zonas rurales sin presupuesto para maquinaria especializada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Educación y Formación Profesional",
+    "banderas_rojas": [
+      "Financiación dependiente del Programa FSE+ sin desglose de costes por comunidad autónoma",
+      "Ambigüedad en el coste de los materiales (maderas nobles) para el alumnado",
+      "Cláusulas de igualdad de género genéricas sin mecanismos de implementación",
+      "Riesgo de devaluación de la artesanía tradicional no reglada"
+    ]
+  },
+  "tweeted": false
+}
