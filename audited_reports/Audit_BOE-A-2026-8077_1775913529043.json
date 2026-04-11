@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8077",
+  "timestamp": "2026-04-11T13:18:49.043Z",
+  "title": "Resolución de 31 de marzo de 2026, de la Universidad Miguel Hernández de Elche, por la que se nombra Profesor Titular de Universidad a don Baldomero Coll Perales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el nombramiento cumple con la Ley Orgánica 2/2023 (LOSU), la resolución es un ejemplo de formalismo administrativo que oculta la competitividad del proceso. Se asigna una plaza vitalicia de funcionario a un individuo en un área técnica sin publicar las puntuaciones, el número de candidatos que compitieron o los méritos específicos que justifican la elección frente a otros perfiles. Este tipo de actos consolidan el gasto público estructural bajo una opacidad técnica legitimada por la autonomía universitaria.",
+    "resumen_ciudadano": "La Universidad Miguel Hernández de Elche ha nombrado oficialmente a un nuevo Profesor Titular en el área de Teoría de la Señal y Comunicaciones. Este es un puesto de funcionario de carrera, lo que implica un sueldo público garantizado a largo plazo.",
+    "resumen_tweet": "📢 Nuevo funcionario de carrera en la @UMH: Baldomero Coll Perales es nombrado Profesor Titular. El #BOE publica el nombramiento, pero no los méritos ni la competencia del proceso. ¿Transparencia o burocracia? 🏛️💼 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la baremación del concurso público",
+      "Ausencia de datos sobre otros licitadores o aspirantes",
+      "Compromiso de gasto salarial de por vida sin desglose presupuestario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Baldomero Coll Perales (estabilidad laboral vitalicia)",
+        "Universidad Miguel Hernández (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (posible barrera por endogamia universitaria)",
+        "Sistema de transparencia pública (por falta de datos comparativos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en la baremación del concurso público",
+      "Ausencia de datos sobre otros licitadores o aspirantes",
+      "Compromiso de gasto salarial de por vida sin desglose presupuestario"
+    ]
+  },
+  "tweeted": false
+}
