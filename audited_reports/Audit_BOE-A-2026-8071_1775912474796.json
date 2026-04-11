@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8071",
+  "timestamp": "2026-04-11T13:01:14.796Z",
+  "title": "Resolución de 10 de abril de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución se presenta como un ajuste técnico rutinario pero oculta una dinámica de oligopolio donde los fabricantes e importadores proponen los precios y el Estado simplemente los valida. El uso del término 'Área del Monopolio' en 2026 evidencia una estructura de mercado anacrónica. No existe un desglose de cuánto de este PVP corresponde a impuestos especiales frente a márgenes de beneficio de las multinacionales, lo que impide al ciudadano entender la carga fiscal real. Es un mecanismo de recaudación indirecta blindado bajo apariencia de transparencia comercial.",
+    "resumen_ciudadano": "El Gobierno ha publicado los nuevos precios oficiales del tabaco (cigarrillos, puros y picadura) para la Península, Baleares, Ceuta y Melilla. Estos precios no los fija el Estado por motivos de salud, sino que son propuestos por las propias empresas tabaqueras para su red de estancos oficiales.",
+    "resumen_tweet": "🚬 Nueva actualización de precios del tabaco en el #BOE. El Estado valida las tarifas 'propuestas' por las tabaqueras en su área de monopolio. Más recaudación y beneficios blindados, menos transparencia para el bolsillo. 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fijación de precios a propuesta de parte interesada (fabricantes)",
+      "Mantenimiento de terminología de monopolio comercial",
+      "Ausencia de justificación sanitaria en la variación de precios",
+      "Falta de desglose tributario por unidad de producto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Multinacionales tabaqueras (fijan sus márgenes)",
+        "Ministerio de Hacienda (asegura recaudación por impuestos indirectos)",
+        "Red de expendedurías oficiales (protección frente a competencia)"
+      ],
+      "perdedores": [
+        "Clases trabajadoras (consumidores con gasto regresivo)",
+        "Transparencia pública (negociaciones privadas fabricante-Estado)",
+        "Salud pública (el ajuste es puramente comercial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Mercado de Tabacos",
+    "banderas_rojas": [
+      "Fijación de precios a propuesta de parte interesada (fabricantes)",
+      "Mantenimiento de terminología de monopolio comercial",
+      "Ausencia de justificación sanitaria en la variación de precios",
+      "Falta de desglose tributario por unidad de producto"
+    ]
+  },
+  "tweeted": false
+}
