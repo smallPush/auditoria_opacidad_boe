@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8030",
+  "timestamp": "2026-04-11T03:16:25.768Z",
+  "title": "Resolución de 31 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución adjudica un puesto de Nivel 29 (el segundo más alto en la escala administrativa) mediante el sistema de 'libre designación'. Este mecanismo, aunque legal, permite la selección discrecional por parte del cargo político de turno, lo que en la práctica supone un 'nombramiento a dedo' que esquiva el concurso de méritos tradicional. Al tratarse de una Jefatura de Estudios en el Instituto de Estudios Fiscales, la falta de una comparativa pública de méritos entre candidatos oscurece la idoneidad técnica frente a la afinidad política o personal.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha nombrado a una nueva Jefa de Estudios e Investigación en el Instituto de Estudios Fiscales. El proceso utilizado permite elegir a la persona directamente sin un examen de méritos abierto a otros funcionarios. El puesto es de nivel 29, lo que conlleva una de las remuneraciones más altas de la administración pública.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el Ministerio de Hacienda. Adjudicado un puesto de Nivel 29 (máxima escala) por libre designación en el Instituto de Estudios Fiscales. ¿Meritocracia o confianza política? 🧐🏛️ #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso de libre designación para puesto técnico de alto nivel",
+      "Adjudicación de Nivel 29 (rango máximo casi ministerial)",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aranzazu Narbon Barba (ascenso de Nivel 28 a Nivel 29)",
+        "Cuerpo de Arquitectos de la Hacienda Pública (consolidación en puestos directivos)"
+      ],
+      "perdedores": [
+        "Meritocracia administrativa",
+        "Funcionarios con mayor antigüedad sin redes de confianza",
+        "Ciudadanía (por falta de transparencia en la elección de gestores de investigación fiscal)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en Madrid)",
+    "tipologia": "Nombramiento por Libre Designación",
+    "banderas_rojas": [
+      "Uso de libre designación para puesto técnico de alto nivel",
+      "Adjudicación de Nivel 29 (rango máximo casi ministerial)",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
