@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-8072",
+  "timestamp": "2026-04-11T13:18:09.890Z",
+  "title": "Real Decreto 301/2026, de 8 de abril, por el que se modifica el Real Decreto 221/2008, de 15 de febrero, por el que se crea y regula el Consejo Estatal de Responsabilidad Social de las Empresas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Bajo una apariencia de modernización técnica y alineación con directivas europeas, el Real Decreto 301/2026 ejecuta un movimiento de recentralización del poder consultivo. Lo más alarmante es el retroceso jurídico que justifica expulsar a organizaciones sindicales y empresariales minoritarias, amparándose en una interpretación selectiva de la sentencia STC 63/2024 para blindar el 'oligopolio' de los agentes sociales más representativos. Se detecta una 'Incongruencia Ideológica' al hablar de 'democracia en el trabajo' mientras se limita la pluralidad de voces en el Consejo. Además, la declaración de 'ausencia de incremento de gasto público' es un 'Gasto Fantasma' potencial: la creación de una nueva Comisión Internacional de expertos y un sello de RSE requiere recursos humanos y técnicos que, al no estar presupuestados, se detraen de otras funciones de la Secretaría de Estado sin transparencia sobre su coste real.",
+    "resumen_ciudadano": "El Gobierno reactiva el Consejo Estatal de RSE tras una década de parálisis. Sin embargo, aprovecha el cambio para excluir a sindicatos y asociaciones empresariales pequeñas, dejando las decisiones solo en manos de los grandes actores (CCOO, UGT, CEOE). También crea un nuevo sello oficial para empresas responsables y una comisión de expertos internacionales, asegurando que no costará dinero extra, aunque esto suele significar falta de medios reales o desvío de personal público.",
+    "resumen_tweet": "¡Vuelve el Consejo de RSE tras 10 años pero con letra pequeña! 🧐 El Gobierno blinda el control para los grandes sindicatos y patronales, excluyendo a los minoritarios. ¿Coste cero? Dudoso. 💸 #BOE #Opacidad #Transparencia #RSE",
+    "banderas_red_flags": [
+      "Exclusión de la pluralidad sindical y empresarial mediante el criterio de 'mayor representatividad'",
+      "Declaración de impacto presupuestario nulo pese a crear nuevas estructuras y sellos",
+      "Uso de terminología técnica de sostenibilidad (CSRD) para camuflar cambios en la estructura de poder",
+      "Referencia a una 'Comisión Internacional de personas expertas' creada previamente sin detalle de costes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sindicatos mayoritarios (CCOO/UGT)",
+        "Patronales dominantes (CEOE/CEPYME)",
+        "Ministerio de Trabajo (mayor control institucional)",
+        "Consultoras de sostenibilidad (por el nuevo sello de RSE)"
+      ],
+      "perdedores": [
+        "Sindicatos minoritarios o sectoriales",
+        "Asociaciones empresariales de pequeño alcance",
+        "Pymes (enfrentan nuevas exigencias de reporte sin representación real)",
+        "Contribuyentes (por la opacidad en el uso de recursos existentes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Modificación Estructural",
+    "banderas_rojas": [
+      "Exclusión de la pluralidad sindical y empresarial mediante el criterio de 'mayor representatividad'",
+      "Declaración de impacto presupuestario nulo pese a crear nuevas estructuras y sellos",
+      "Uso de terminología técnica de sostenibilidad (CSRD) para camuflar cambios en la estructura de poder",
+      "Referencia a una 'Comisión Internacional de personas expertas' creada previamente sin detalle de costes"
+    ]
+  },
+  "tweeted": false
+}
