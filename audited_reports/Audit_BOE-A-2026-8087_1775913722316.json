@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8087",
+  "timestamp": "2026-04-11T13:22:02.316Z",
+  "title": "Resolución de 23 de marzo de 2026, del Ayuntamiento de Tarazona de la Mancha (Albacete), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria se limita a una única plaza de Policía Local mediante el sistema de oposición libre. Aunque cumple con la legalidad vigente, la fragmentación de la información (remitiendo al Boletín Oficial de la Provincia de Albacete para las bases detalladas) supone una barrera de acceso para el ciudadano común. La falta de mención a criterios de impacto de género o medidas para favorecer la diversidad socioeconómica en el acceso a la función pública local sugiere un mantenimiento del statu quo administrativo. Además, el coste real del proceso selectivo para las arcas municipales queda oculto tras la resolución.",
+    "resumen_ciudadano": "El Ayuntamiento de Tarazona de la Mancha (Albacete) ha abierto el plazo para contratar a un nuevo Policía Local. Se trata de una plaza por oposición libre. Los interesados disponen de 20 días hábiles para presentar su solicitud tras la publicación en el BOE. Los detalles específicos sobre los requisitos y exámenes no aparecen aquí, sino en el boletín provincial previo.",
+    "resumen_tweet": "🚔 ¿Solo UNA plaza de Policía Local en Tarazona de la Mancha? El #BOE publica el anuncio, pero los detalles reales se ocultan en el boletín provincial. Poca transparencia sobre el coste del proceso. #Opacidad #Transparencia #Albacete 🧐",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única (riesgo de perfilado)",
+      "Opacidad en los costes del proceso selectivo",
+      "Burocracia dispersa entre distintos boletines oficiales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con recursos económicos para academias",
+        "Candidatos con residencia o vínculos locales previos"
+      ],
+      "perdedores": [
+        "Clase trabajadora sin tiempo para procesos de oposición única",
+        "Transparencia administrativa por dispersión de fuentes"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público / Seguridad",
+    "banderas_rojas": [
+      "Convocatoria de plaza única (riesgo de perfilado)",
+      "Opacidad en los costes del proceso selectivo",
+      "Burocracia dispersa entre distintos boletines oficiales"
+    ]
+  },
+  "tweeted": false
+}
