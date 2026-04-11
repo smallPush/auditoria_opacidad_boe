@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8084",
+  "timestamp": "2026-04-11T13:20:54.309Z",
+  "title": "Resolución de 2 de abril de 2026, del Ayuntamiento de L'Eliana (Valencia/València), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de 'concurso', lo que prioriza méritos sobre exámenes, un sistema frecuentemente utilizado para consolidar plazas de personal interino preexistente. El plazo de presentación de tan solo diez días hábiles es inusualmente corto para una plaza de escala técnica, lo que reduce drásticamente la concurrencia competitiva y dificulta que candidatos externos puedan preparar la documentación. Además, la rectificación de las bases en el boletín provincial previa a la publicación en el BOE sugiere ajustes de última hora que podrían estar orientados a candidatos específicos.",
+    "resumen_ciudadano": "El Ayuntamiento de L'Eliana ha convocado una plaza de Técnico/a de actividades mediante méritos, con un plazo de inscripción de solo 10 días. La información detallada no figura en este anuncio, obligando a los interesados a buscar en boletines provinciales previos, lo que complica la transparencia y el acceso igualitario al empleo público.",
+    "resumen_tweet": "⚠️ ¿Oposiciones o 'traje a medida'? El Ayto. de L'Eliana convoca plaza técnica por concurso con solo 10 DÍAS para solicitudes. Plazos cortos y bases fragmentadas dificultan la competencia real. 🧐 #BOE #Opacidad #Transparencia #LEliana",
+    "banderas_red_flags": [
+      "Plazo de solicitud de solo 10 días hábiles",
+      "Sistema de selección por concurso (sin examen)",
+      "Rectificación de bases justo antes de la publicación definitiva",
+      "Opacidad por remisión a boletines provinciales externos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento",
+        "Candidatos con información privilegiada previa"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Técnicos cualificados sin red de contactos local",
+        "Principio de igualdad, mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Plazo de solicitud de solo 10 días hábiles",
+      "Sistema de selección por concurso (sin examen)",
+      "Rectificación de bases justo antes de la publicación definitiva",
+      "Opacidad por remisión a boletines provinciales externos"
+    ]
+  },
+  "tweeted": false
+}
