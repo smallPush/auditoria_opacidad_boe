@@ -6,7 +6,7 @@ import { BOE_SOURCES, STORAGE_KEYS } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDataPayload } from './types';
 import { analyzeBOE } from './services/geminiService';
 import { translations, Language } from './translations';
-import { getAuditHistory, saveAuditToDB, clearLocalHistory } from './services/supabaseService';
+import { getAuditHistory, saveAuditToDB } from './services/supabaseService';
 import AuditDashboard from './components/AuditDashboard';
 import HistoryDashboard from './components/HistoryDashboard';
 import Navbar from './components/Navbar';
@@ -157,13 +157,6 @@ const App: React.FC = () => {
     const data = await getAuditHistory();
     setHistory(data);
     setIsHistoryLoaded(true);
-  };
-
-  const handleClearHistory = () => {
-    if (window.confirm(t.confirmClear)) {
-      clearLocalHistory();
-      setHistory([]);
-    }
   };
 
   const toggleLang = () => setLang(l => l === 'es' ? 'en' : 'es');
