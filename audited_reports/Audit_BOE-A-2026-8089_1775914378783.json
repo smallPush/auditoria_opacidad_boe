@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8089",
+  "timestamp": "2026-04-11T13:32:58.783Z",
+  "title": "Resolución de 30 de marzo de 2026, del Ayuntamiento de Dénia (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una convocatoria de empleo público bajo el sistema de concurso-oposición, un modelo que frecuentemente se utiliza para consolidar plazas de personal interino que ya está dentro de la administración. Aunque se publica en el BOE, los detalles críticos de los baremos de puntuación se relegan al Boletín Provincial, lo que añade una capa de fricción burocrática para el ciudadano medio que desee fiscalizar la equidad del proceso.",
+    "resumen_ciudadano": "El Ayuntamiento de Dénia busca cubrir tres plazas fijas de Técnico/a Integrador/a Social. El proceso no es un examen puro, sino que se valorarán méritos previos (experiencia), lo que suele favorecer a quienes ya trabajan allí. El plazo para inscribirse es de 20 días hábiles.",
+    "resumen_tweet": "📢 Dénia convoca 3 plazas de Integrador Social. 🧐 El sistema concurso-oposición suele premiar a interinos actuales. ¿Transparencia real o blindaje de plazas ya ocupadas? Tienes 20 días para reclamar tu sitio. #BOE #Dénia #Oposiciones #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición (posible sesgo pro-interinos)",
+      "Falta de desglose presupuestario en la resolución",
+      "Remisión a bases en boletín de menor rango (BOP)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento de Dénia",
+        "Sindicatos que negocian la consolidación de plantillas"
+      ],
+      "perdedores": [
+        "Nuevos graduados sin experiencia previa en la administración",
+        "Candidatos externos con mejores expedientes académicos pero sin puntos por méritos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Servicios Sociales",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición (posible sesgo pro-interinos)",
+      "Falta de desglose presupuestario en la resolución",
+      "Remisión a bases en boletín de menor rango (BOP)"
+    ]
+  },
+  "tweeted": false
+}
