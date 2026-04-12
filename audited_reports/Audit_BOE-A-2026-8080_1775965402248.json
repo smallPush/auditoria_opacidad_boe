@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8080",
+  "timestamp": "2026-04-12T03:43:22.248Z",
+  "title": "Resolución de 1 de abril de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Borja Herrero de la Parte.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera. La transparencia es alta en lo formal, pero nula en lo meritocrático: el BOE publica el resultado, pero no las actas de baremación del tribunal. Destaca el perfil 'No bilingüe' en un contexto de cooficialidad lingüística, lo que indica una plaza técnica donde la lengua no fue barrera de entrada, aunque el sistema universitario español sigue arrastrando críticas por su endogamia estructural.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Borja Herrero de la Parte como Profesor Titular de Universidad en el área de Cirugía. Este es un puesto de funcionario con dedicación a tiempo completo.",
+    "resumen_tweet": "🩺 Nuevo nombramiento en la UPV/EHU: Borja Herrero ya es Profesor Titular de Cirugía. Trámite legal cumplido, pero el sistema de concursos universitarios sigue siendo una caja negra de méritos. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la puntuación final de los candidatos",
+      "Falta de visibilidad sobre la composición del tribunal",
+      "Inercia administrativa en la publicación de nombramientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Borja Herrero de la Parte (obtiene plaza fija/funcionario)",
+        "Universidad del País Vasco (cubre vacante estructural)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (barreras de entrada al sistema funcionarial)",
+        "Contribuyente (poca visibilidad sobre la excelencia del proceso de selección)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en la puntuación final de los candidatos",
+      "Falta de visibilidad sobre la composición del tribunal",
+      "Inercia administrativa en la publicación de nombramientos"
+    ]
+  },
+  "tweeted": false
+}
