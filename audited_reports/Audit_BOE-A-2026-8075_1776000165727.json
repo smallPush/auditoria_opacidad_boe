@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8075",
+  "timestamp": "2026-04-12T13:22:45.727Z",
+  "title": "Corrección de errores de la Resolución de 6 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 8 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de una corrección técnica de un error material en la identificación de un puesto adjudicado mediante 'libre designación', el sistema que permite la elección discrecional de personal por parte del Ministerio de la Presidencia. El hecho de que se deba corregir un código numérico (pasando de 6 a 7 dígitos) refleja una falta de rigor en la fase de adjudicación de puestos de confianza. La opacidad real no reside en el error tipográfico, sino en la naturaleza del procedimiento de libre designación, que elude los procesos de oposición pública competitiva basándose en la 'confianza política' sobre el mérito técnico demostrable.",
+    "resumen_ciudadano": "El Ministerio de la Presidencia ha corregido un error en el número de código de un puesto de trabajo que ya había sido asignado 'a dedo'. Se trata de un simple trámite administrativo para añadir un dígito que faltaba en el código identificativo de la plaza adjudicada el pasado 6 de abril.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! El Ministerio de la Presidencia corrige un error en un código de plaza asignada por libre designación. Un dígito faltante que evidencia descuidos en el reparto de puestos de confianza. 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación (discrecionalidad)",
+      "Error administrativo en la resolución de nombramientos",
+      "Falta de detalle sobre el perfil del adjudicatario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El cargo adjudicado (cuya plaza queda debidamente codificada)",
+        "La estructura política del Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios por oposición libre",
+        "Transparencia administrativa real",
+        "Contribuyente que financia estructuras de confianza"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación (discrecionalidad)",
+      "Error administrativo en la resolución de nombramientos",
+      "Falta de detalle sobre el perfil del adjudicatario"
+    ]
+  },
+  "tweeted": false
+}
