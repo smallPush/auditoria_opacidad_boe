@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8083",
+  "timestamp": "2026-04-12T13:33:48.420Z",
+  "title": "Resolución de 31 de marzo de 2026, del Ayuntamiento de Santa Cruz de Tenerife, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolución del Ayuntamiento de Santa Cruz de Tenerife para cubrir una Jefatura de Unidad Técnica mediante el sistema de 'concurso' plantea dudas sobre la libre concurrencia. Al ser un proceso de méritos y no de oposición abierta, suele favorecer la estabilización de personal interino que ya ocupa el puesto 'de facto', limitando la entrada de talento externo sin antigüedad en la institución. Se observa una externalización de la transparencia al remitir las bases específicas a un boletín provincial, alejando el escrutinio del ciudadano medio que consulta el BOE.",
+    "resumen_ciudadano": "Se convoca una plaza de jefe técnico en Tenerife evaluando solo méritos (experiencia y títulos) en lugar de un examen. Esto facilita que alguien que ya trabaje allí consiga la plaza fija, cerrando la puerta a nuevos profesionales.",
+    "resumen_tweet": "🧐 ¿Mérito o 'traje a medida'? El Ayto. de Santa Cruz de Tenerife convoca Jefatura Técnica por concurso. El sistema de puntos suele favorecer a quienes ya están dentro, limitando el talento externo. #BOE #Opacidad #Transparencia #Tenerife 🔍",
+    "banderas_red_flags": [
+      "Sistema de concurso en puesto de jefatura",
+      "Falta de requisitos técnicos detallados en el BOE",
+      "Plazo de 15 días hábiles que penaliza a candidatos externos sin preparación previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Sindicatos que priorizan la estabilización interna"
+      ],
+      "perdedores": [
+        "Jóvenes profesionales cualificados",
+        "Candidatos de otras administraciones",
+        "Ciudadanos que esperan procesos de selección competitivos"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso en puesto de jefatura",
+      "Falta de requisitos técnicos detallados en el BOE",
+      "Plazo de 15 días hábiles que penaliza a candidatos externos sin preparación previa"
+    ]
+  },
+  "tweeted": false
+}
