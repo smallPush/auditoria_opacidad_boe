@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8085",
+  "timestamp": "2026-04-12T03:47:41.397Z",
+  "title": "Resolución de 24 de febrero de 2026, del Ayuntamiento de Millares (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Aunque la convocatoria cumple con los requisitos legales de publicidad, existe una opacidad operativa al remitir las bases reguladoras al Boletín Oficial de la Provincia (BOP), dificultando el acceso directo del ciudadano a los criterios de evaluación. El sistema de oposición libre, si bien parece meritocrático, genera una barrera de clase para quienes no disponen de capital para costear preparadores o tiempo de estudio exclusivo. No se adjunta memoria económica sobre el impacto de estas nuevas plazas en el presupuesto municipal de Millares.",
+    "resumen_ciudadano": "El Ayuntamiento de Millares (Valencia) abre una convocatoria para contratar a dos auxiliares administrativos mediante examen (oposición libre). Los interesados tienen 20 días hábiles para presentar su solicitud tras la publicación en el BOE. Las reglas específicas de la selección están en el boletín provincial del 24 de febrero.",
+    "resumen_tweet": "⚠️ ¿Oportunidad o laberinto burocrático? El Ayto de Millares lanza 2 plazas de administrativo, pero oculta las bases tras boletines provinciales. El sistema de oposición pura penaliza a la clase trabajadora sin tiempo para estudiar. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentación informativa por remisión al BOP",
+      "Falta de transparencia presupuestaria sobre el coste de las plazas",
+      "Sesgo socioeconómico en el sistema de selección por oposición libre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con recursos para preparación intensiva",
+        "Administración local (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Candidatos de clase trabajadora sin ahorro previo",
+        "Ciudadanos que exigen desglose de gastos de personal inmediato"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación informativa por remisión al BOP",
+      "Falta de transparencia presupuestaria sobre el coste de las plazas",
+      "Sesgo socioeconómico en el sistema de selección por oposición libre"
+    ]
+  },
+  "tweeted": false
+}
