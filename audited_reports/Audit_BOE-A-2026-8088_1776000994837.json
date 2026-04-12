@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8088",
+  "timestamp": "2026-04-12T13:36:34.837Z",
+  "title": "Resolución de 23 de marzo de 2026, del Ayuntamiento de Aldaia (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria emplea el sistema de 'concurso-oposición' para plazas de escala auxiliar, un mecanismo que frecuentemente encubre procesos de consolidación de personal interino, dificultando el acceso real en igualdad de condiciones para aspirantes externos. La fragmentación informativa es evidente: para conocer los criterios de baremación, el ciudadano debe rastrear el Boletín Provincial de diciembre de 2025, creando una barrera de 'opacidad por burocracia'. Además, el retraso de casi cuatro meses entre la publicación de bases y el anuncio en el BOE genera una asimetría informativa que favorece a quienes ya están integrados en el ecosistema municipal.",
+    "resumen_ciudadano": "El Ayuntamiento de Aldaia ofrece 3 plazas de Auxiliar Administrativo. El proceso seleccionará a los candidatos basándose tanto en exámenes como en méritos previos (experiencia). Los interesados tienen 20 días hábiles para presentar su solicitud tras la publicación en el BOE.",
+    "resumen_tweet": "🔎 Auditoría #BOE: Aldaia convoca 3 plazas de auxiliar mediante concurso-oposición. Ojo: este sistema suele blindar a interinos y frena el acceso a nuevos opositores. 🏛️ ¿Transparencia o 'traje a medida'? #Opacidad #Transparencia #Aldaia #Empleo",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición en turno libre (posible ventaja para interinos)",
+      "Fragmentación documental (BOP, DOGV y BOE)",
+      "Latencia temporal excesiva entre bases y convocatoria oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Aldaia",
+        "Candidatos con puntos por servicios previos en la administración local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Jóvenes graduados",
+        "Candidatos del sector privado"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición en turno libre (posible ventaja para interinos)",
+      "Fragmentación documental (BOP, DOGV y BOE)",
+      "Latencia temporal excesiva entre bases y convocatoria oficial"
+    ]
+  },
+  "tweeted": false
+}
