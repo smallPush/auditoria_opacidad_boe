@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8086",
+  "timestamp": "2026-04-12T13:33:04.271Z",
+  "title": "Resolución de 26 de febrero de 2026, del Ayuntamiento de Béjar (Salamanca), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza la modalidad de concurso-oposición para una plaza de personal laboral fijo, una práctica que a menudo funciona como un mecanismo de consolidación de personal interino bajo el velo de un turno libre. Al remitir las bases completas al Boletín Oficial de Castilla y León sin resumirlas en el BOE, se impone una barrera de acceso a la información que dificulta la fiscalización ciudadana inmediata sobre los criterios de baremación de méritos.",
+    "resumen_ciudadano": "El Ayuntamiento de Béjar (Salamanca) convoca una plaza de Técnico de Turismo. Aunque es abierta a todos, el sistema de concurso-oposición otorga puntos extra por experiencia previa, lo que habitualmente beneficia a quienes ya ocupan el puesto de forma temporal. Los interesados disponen de 20 días naturales para presentar su solicitud.",
+    "resumen_tweet": "🚨 ¿Plaza a medida en Béjar? El Ayto convoca Técnico de Turismo mediante concurso-oposición. Este sistema suele blindar a interinos frente a nuevos aspirantes, limitando la igualdad real. 🧐🏛️ #BOE #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para personal laboral fijo",
+      "Remisión externa de bases críticas para el análisis de méritos",
+      "Opacidad en la descripción de las funciones específicas del puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Perfiles con contactos previos en la administración local"
+      ],
+      "perdedores": [
+        "Jóvenes titulados con excelente formación pero sin puntos de experiencia",
+        "Candidatos externos sin redes de contacto locales"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público y Administración Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para personal laboral fijo",
+      "Remisión externa de bases críticas para el análisis de méritos",
+      "Opacidad en la descripción de las funciones específicas del puesto"
+    ]
+  },
+  "tweeted": false
+}
