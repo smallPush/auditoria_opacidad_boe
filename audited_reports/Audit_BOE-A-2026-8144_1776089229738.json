@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8144",
+  "timestamp": "2026-04-13T14:07:09.738Z",
+  "title": "Resolución de 31 de marzo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución convoca una plaza de Vocal Asesor (Nivel 30) en el Ministerio del Interior mediante el sistema de 'Libre Designación'. Este mecanismo, aunque legal, permite la elección discrecional del candidato, lo que comúnmente se conoce como 'dedazo' administrativo. Al tratarse del nivel más alto de la escala funcionarial y estar ubicado en una unidad de apoyo técnica como Protección Civil, la falta de criterios de mérito específicos y objetivos en el anuncio blinda la opacidad en la selección de asesores que podrían tener un perfil más político que técnico.",
+    "resumen_ciudadano": "El Ministerio del Interior busca cubrir un puesto de asesor de alto nivel (el sueldo más alto de la escala) para la Dirección General de Protección Civil. La elección no será por examen o concurso de méritos abierto, sino por decisión directa de los superiores entre quienes lo soliciten, lo que reduce la igualdad de oportunidades para los funcionarios sin conexiones políticas.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el Ministerio del Interior. Convocan puesto de Vocal Asesor (Nivel 30) por libre designación. Máximo nivel salarial y discrecionalidad total en la elección. ¿Mérito o confianza política? 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Puesto de Vocal Asesor con funciones no especificadas",
+      "Alta retribución complementaria (24.549,84€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad política o personal con la cúpula del Ministerio",
+        "Redes de confianza dentro de la administración estatal"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Contribuyentes (falta de garantía de eficiencia en el gasto de asesoría)",
+        "Principio de meritocracia en el sector público"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Puesto de Vocal Asesor con funciones no especificadas",
+      "Alta retribución complementaria (24.549,84€)"
+    ]
+  },
+  "tweeted": false
+}
