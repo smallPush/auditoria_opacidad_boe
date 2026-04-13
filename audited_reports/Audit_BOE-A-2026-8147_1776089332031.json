@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8147",
+  "timestamp": "2026-04-13T14:08:52.031Z",
+  "title": "Orden TDF/336/2026, de 1 de abril, por la que se convocan pruebas selectivas para el acceso, por promoción interna, a la Subescala de Intervención-Tesorería, categoría Superior, de la Escala de funcionarios de administración local con habilitación de carácter nacional.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La orden destaca por una técnica legislativa de 'acumulación' que evidencia una gestión dilatada de la Oferta de Empleo Público. Se están convocando en 2026 plazas correspondientes a los ejercicios 2023, 2024 y 2025. El hecho de que 76 plazas de 2023 no se cubrieran en su momento y se arrastren tres años después sugiere una falta de atractivo o una excesiva rigurosidad en los procesos previos que ha dejado vacantes puestos críticos de control financiero (Intervención-Tesorería) en la administración local. El lenguaje es técnico-administrativo, diseñado para un público que ya pertenece al sistema, lo que refuerza el carácter endogámico de la promoción interna.",
+    "resumen_ciudadano": "Se abre el proceso para que 246 funcionarios locales de categoría básica asciendan a la categoría superior en las áreas de Intervención y Tesorería. El proceso mezcla exámenes de aptitud con valoración de méritos. Lo más llamativo es que el Estado está intentando cubrir ahora puestos que llevan vacantes desde 2023, acumulando ofertas de tres años distintos en una sola convocatoria para agilizar la falta de personal cualificado en los ayuntamientos.",
+    "resumen_tweet": "🔍 Auditando el #BOE: Convocadas 246 plazas para la élite de gestión municipal. ¡Ojo! 76 puestos vienen arrastrados desde 2023 por ineficiencia previa. Un proceso cerrado que recicla la burocracia interna. 🏛️📉 #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Acumulación de plazas vacantes desde 2023 por ejecución fallida de convocatorias anteriores.",
+      "Complejidad normativa: se citan leyes desde 1984 hasta 2025 para un solo proceso.",
+      "Sistema de acceso híbrido que puede favorecer la arbitrariedad en la valoración de méritos frente al examen puro."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera de la subescala de entrada con más de 2 años de antigüedad.",
+        "Ministerio para la Transformación Digital al intentar limpiar el atasco de plazas no cubiertas."
+      ],
+      "perdedores": [
+        "Personal externo cualificado (proceso limitado exclusivamente a promoción interna).",
+        "Ciudadanos que sufren la demora de 3 años en la cobertura de puestos clave de control presupuestario local."
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Selección de Personal",
+    "banderas_rojas": [
+      "Acumulación de plazas vacantes desde 2023 por ejecución fallida de convocatorias anteriores.",
+      "Complejidad normativa: se citan leyes desde 1984 hasta 2025 para un solo proceso.",
+      "Sistema de acceso híbrido que puede favorecer la arbitrariedad en la valoración de méritos frente al examen puro."
+    ]
+  },
+  "tweeted": false
+}
