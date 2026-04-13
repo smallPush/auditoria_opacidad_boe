@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8128",
+  "timestamp": "2026-04-13T13:29:20.057Z",
+  "title": "Acuerdo de 17 de marzo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 21 de octubre de 2025, en el Centro de Documentación Judicial.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento detalla la resolución de un concurso de méritos para el Centro de Documentación Judicial (CENDOJ). Aunque se publican los nombres y parte de los DNI de los adjudicatarios, existe una opacidad intrínseca sobre la valoración cuantitativa de los méritos que llevó a esta decisión. Se observa una demora administrativa considerable (6 meses desde la convocatoria en octubre hasta la resolución en marzo) para cubrir únicamente dos puestos de carácter administrativo. No hay desglose salarial ni detalle del coste de oportunidad de este proceso burocrático.",
+    "resumen_ciudadano": "El CGPJ ha asignado dos plazas de administrativo en su centro de documentación a dos funcionarios específicos tras un proceso de selección de seis meses. Es un movimiento interno de personal dentro de la administración judicial.",
+    "resumen_tweet": "⚖️ El CGPJ adjudica 2 plazas de administrativo en el Centro de Documentación Judicial tras 6 meses de espera. Sin rastro de las puntuaciones finales ni desglose de méritos. ¿Eficiencia o burocracia lenta? #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de desglose de puntuaciones de la Comisión de Valoración",
+      "Dilación temporal excesiva para dos plazas administrativas",
+      "Nula representación femenina en las adjudicaciones de esta resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos López Rodríguez",
+        "Iñaki Torrecilla Vilela",
+        "CENDOJ (por cobertura de vacantes)"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (excluidas en esta adjudicación)",
+        "Eficiencia administrativa (proceso lento)",
+        "Transparencia en los criterios de mérito"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose de puntuaciones de la Comisión de Valoración",
+      "Dilación temporal excesiva para dos plazas administrativas",
+      "Nula representación femenina en las adjudicaciones de esta resolución"
+    ]
+  },
+  "tweeted": false
+}
