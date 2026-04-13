@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8140",
+  "timestamp": "2026-04-13T14:06:12.301Z",
+  "title": "Decreto de 19 de marzo de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de la Sección de Cooperación Internacional de la Fiscalía Provincial de Huesca a doña María Ángel Hernández García.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una irregularidad técnica reseñable: en el Fundamento Segundo se cita textualmente a la Fiscalía Provincial de Álava, a pesar de que todo el expediente y el nombramiento se refieren a Huesca. Esto evidencia un uso descuidado de plantillas administrativas de 'copia y pega'. Además, la existencia de una única solicitante para el puesto de Fiscal Delegada de Cooperación Internacional sugiere una falta de incentivos o competencia efectiva en la promoción interna de esta especialidad técnica.",
+    "resumen_ciudadano": "Se ha nombrado a María Ángel Hernández García como nueva Fiscal Delegada de Cooperación Internacional en Huesca. Fue la única persona que solicitó el puesto. Aunque el proceso cumple con la legalidad, el texto del BOE contiene errores de bulto al confundir la provincia de destino con Álava en una de sus partes, lo que indica una revisión superficial del documento antes de su publicación.",
+    "resumen_tweet": "🏛️ ¿Descuido en el #BOE? Nombran Fiscal en Huesca pero el texto menciona a Álava. Una sola candidata para Cooperación Internacional. La burocracia de 'copia y pega' afecta a la calidad legislativa. 🧐 #Opacidad #Transparencia #Huesca #Justicia",
+    "banderas_red_flags": [
+      "Error de concordancia territorial (menciona Álava en expediente de Huesca)",
+      "Ausencia de concurrencia (única solicitante)",
+      "Uso evidente de plantillas administrativas sin revisión final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Ángel Hernández García (obtiene el nombramiento)",
+        "Ministerio Fiscal (cubre la vacante operativa)"
+      ],
+      "perdedores": [
+        "Rigor administrativo (por errores de redacción en el decreto)",
+        "Sociedad civil (por la baja competitividad en puestos clave de cooperación penal)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Error de concordancia territorial (menciona Álava en expediente de Huesca)",
+      "Ausencia de concurrencia (única solicitante)",
+      "Uso evidente de plantillas administrativas sin revisión final"
+    ]
+  },
+  "tweeted": false
+}
