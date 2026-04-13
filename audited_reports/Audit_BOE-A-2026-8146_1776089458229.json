@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8146",
+  "timestamp": "2026-04-13T14:10:58.229Z",
+  "title": "Orden TDF/335/2026, de 1 de abril, por la que se convocan pruebas selectivas para el acceso, por promoción interna, a la Subescala de Secretaría, categoría Superior, de la Escala de funcionarios de administración local con habilitación de carácter nacional.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La orden regula la promocion interna para la 'elite' de la administracion local. Destaca la acumulacion de plazas sobrantes de ofertas de 2023 y 2024, lo que indica una gestion lenta o falta de atractivo en convocatorias previas. Aunque se menciona la igualdad de genero, el sistema de promocion interna por definicion perpetua las demografias ya existentes en los altos cargos. Se observa un sistema dual (examen vs. concurso) que puede generar agravios comparativos en la valoracion de la capacidad real frente a la antiguedad.",
+    "resumen_ciudadano": "Se convocan 81 plazas para que funcionarios de ayuntamientos asciendan a la categoria superior de Secretaria. Es un proceso cerrado a quienes ya son funcionarios. Se incluyen plazas que no se llenaron en 2023 y 2024. El coste de examen es de 15,55 euros y todo el proceso es obligatoriamente electronico.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos la Orden TDF/335/2026: 81 plazas de ascenso para la 'elite' municipal. Se reciclan plazas desiertas desde 2023. ¿Gestion eficiente o falta de candidatos? Un sistema cerrado que refuerza a los de dentro. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Acumulacion de plazas no cubiertas de ejercicios 2023 y 2024",
+      "Dualidad de sistemas: 49 plazas por examen y 32 por concurso de meritos",
+      "Dependencia absoluta de medios electronicos sin alternativa presencial clara para incidencias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera de categoria entrada (posibilidad de ascenso)",
+        "Sectores de formacion especializada para habilitados nacionales"
+      ],
+      "perdedores": [
+        "Ciudadanos externos (acceso vetado por ser promocion interna)",
+        "Municipios pequeños con plazas vacantes desde hace 3 años que siguen sin cubrirse de forma efectiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oferta de Empleo Publico",
+    "banderas_rojas": [
+      "Acumulacion de plazas no cubiertas de ejercicios 2023 y 2024",
+      "Dualidad de sistemas: 49 plazas por examen y 32 por concurso de meritos",
+      "Dependencia absoluta de medios electronicos sin alternativa presencial clara para incidencias"
+    ]
+  },
+  "tweeted": false
+}
