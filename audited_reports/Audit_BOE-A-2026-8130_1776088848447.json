@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8130",
+  "timestamp": "2026-04-13T14:00:48.447Z",
+  "title": "Resolución de 6 de abril de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla un nombramiento por 'Libre Designación' para un puesto de Nivel 30, el escalafón más alto de la administración. Aunque legal, este mecanismo permite la adjudicación discrecional ('a dedo') eludiendo el concurso de méritos tradicional. Resulta llamativo el trasvase de una experta en Tecnologías de la Información del CSIC a una Subdirección de Becas y Movilidad Internacional en la AECID, sugiriendo que la confianza política prima sobre la especialización técnica en la materia de cooperación.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de alta dirección en la Agencia Española de Cooperación Internacional (AECID) mediante libre designación. La persona elegida, proveniente del área informática del CSIC, gestionará ahora las becas y la movilidad internacional, un puesto de máxima remuneración (Nivel 30) decidido de forma discrecional por la dirección.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el #BOE. Adjudicado un puesto Nivel 30 (máximo sueldo) en la AECID por libre designación. De la informática en el CSIC a gestionar becas internacionales. ¿Mérito o confianza? 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máxima categoría salarial)",
+      "Incongruencia de perfil técnico previo con el nuevo cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Mar Fernández Fernández (obtención de puesto de alta dirección)",
+        "Dirección de la AECID (capacidad de colocar personal afín)"
+      ],
+      "perdedores": [
+        "Cuerpo diplomático y expertos en cooperación (excluidos de un proceso de mérito abierto)",
+        "Ciudadanía (opacidad en la gestión de recursos humanos de alto nivel)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máxima categoría salarial)",
+      "Incongruencia de perfil técnico previo con el nuevo cargo"
+    ]
+  },
+  "tweeted": false
+}
