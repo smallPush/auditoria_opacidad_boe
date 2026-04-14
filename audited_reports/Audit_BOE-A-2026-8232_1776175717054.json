@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8232",
+  "timestamp": "2026-04-14T14:08:37.054Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Diputación Provincial de Cáceres, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria se centra en puestos de mando intermedio (Jefaturas) y control financiero mediante el sistema de concurso de méritos. La opacidad reside en la derivación de las bases reguladoras al Boletín Oficial de la Provincia (BOP), dificultando el escrutinio público inmediato desde el BOE. Destaca el puesto de 'Control de Subvenciones y Convenios', un área de alto riesgo de clientelismo político si los criterios de mérito no son estrictamente técnicos y transparentes.",
+    "resumen_ciudadano": "La Diputación de Cáceres ha lanzado una convocatoria para cubrir 5 puestos de alta responsabilidad, incluyendo jefaturas en áreas de Deportes, Infraestructuras y Control de Subvenciones. El proceso se realiza por concurso de méritos y cuenta con un plazo de tan solo 10 días para presentar solicitudes, lo que suele favorecer a perfiles que ya están dentro de la administración.",
+    "resumen_tweet": "🚨 ¡Ojo en Cáceres! La Diputación convoca 5 jefaturas clave (¡incluyendo Control de Subvenciones!) con solo 10 días de plazo. 🧐 ¿Mérito real o consolidación interna? La opacidad acecha en los boletines provinciales. #BOE #Opacidad #Transparencia 🏛️📉",
+    "banderas_red_flags": [
+      "Plazo de solicitud extremadamente reducido (10 días hábiles)",
+      "Puesto crítico en control de subvenciones y convenios",
+      "Remisión a bases externas no detalladas en el anuncio nacional",
+      "Concentración de puestos de jefatura mediante concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o funcionarios de carrera con antigüedad específica en la institución",
+        "Redes de contactos internos con acceso previo a las bases del BOP"
+      ],
+      "perdedores": [
+        "Candidatos externos altamente cualificados pero sin puntos por antigüedad",
+        "Contribuyentes que exigen transparencia total en la fiscalización de subvenciones",
+        "Personal de base sin acceso a promociones horizontales"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Plazo de solicitud extremadamente reducido (10 días hábiles)",
+      "Puesto crítico en control de subvenciones y convenios",
+      "Remisión a bases externas no detalladas en el anuncio nacional",
+      "Concentración de puestos de jefatura mediante concurso"
+    ]
+  },
+  "tweeted": false
+}
