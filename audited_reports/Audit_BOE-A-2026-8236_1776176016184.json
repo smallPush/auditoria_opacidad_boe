@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8236",
+  "timestamp": "2026-04-14T14:13:36.184Z",
+  "title": "Resolución de 1 de abril de 2026, del Ayuntamiento de El Villar de Arnedo (La Rioja), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria para una plaza de personal laboral fijo mediante el sistema de 'concurso' en turno libre. La elección del sistema de concurso (solo valoración de méritos) en lugar de concurso-oposición para una plaza fija en una administración local suele ser un indicativo de procesos de estabilización encubiertos o diseñados para beneficiar a interinos actuales. El hecho de que las bases fueran rectificadas apenas una semana después de su publicación original en el BOR sugiere falta de rigor técnico o ajustes de última hora en los criterios de baremación.",
+    "resumen_ciudadano": "El Ayuntamiento de El Villar de Arnedo convoca una plaza permanente de operario de servicios múltiples. No habrá examen; la selección se basará únicamente en los méritos (experiencia y formación), lo que reduce las posibilidades de candidatos externos sin experiencia previa en la administración pública local.",
+    "resumen_tweet": "🧐 ¿Plaza fija sin examen en El Villar de Arnedo? Se convoca Agente de Servicios Múltiples mediante concurso de méritos. La sombra de la 'consolidación' a medida vuelve a aparecer en el ámbito local. 📉 #BOE #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso exclusivo para plaza fija",
+      "Rectificación inmediata de las bases originales",
+      "Opacidad en la descripción de funciones específicas",
+      "Posible proceso de estabilización no declarado explícitamente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que ya ocupa el puesto",
+        "Candidatos con antigüedad previa en la administración local"
+      ],
+      "perdedores": [
+        "Jóvenes graduados sin experiencia previa",
+        "Candidatos externos al municipio",
+        "Principios de igualdad, mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Sistema de selección por concurso exclusivo para plaza fija",
+      "Rectificación inmediata de las bases originales",
+      "Opacidad en la descripción de funciones específicas",
+      "Posible proceso de estabilización no declarado explícitamente"
+    ]
+  },
+  "tweeted": false
+}
