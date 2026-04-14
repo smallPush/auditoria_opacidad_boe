@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8145",
+  "timestamp": "2026-04-14T03:43:31.997Z",
+  "title": "Resolución de 6 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'Libre Designación', un mecanismo legal que permite la elección discrecional de altos cargos. Aunque se requiere que los candidatos sean funcionarios del subgrupo A1, la ausencia de méritos específicos detallados en la tabla anexa (columnas vacías) sugiere que la idoneidad se basará más en la confianza política que en criterios técnicos medibles. Se trata de un puesto de Nivel 29 con un complemento específico de 24.549,84 €, lo que representa una posición de alta influencia en la gestión de recursos críticos como sangre y tejidos reproductores.",
+    "resumen_ciudadano": "El Ministerio de Sanidad busca un Jefe o Jefa de División para el área de Sangre y Tejidos Reproductores. La plaza no se otorgará por concurso de méritos tradicional, sino por libre elección de los superiores entre funcionarios de alto nivel. El puesto está ubicado en Madrid y conlleva una remuneración técnica elevada.",
+    "resumen_tweet": "🚩 Nueva 'Libre Designación' en Sanidad. Se busca Jefe de División (Nivel 29) para Sangre y Tejidos. ¿Criterio? Discrecionalidad pura bajo el paraguas del #BOE. Menos meritocracia y más confianza política. 🏥 #Opacidad #Transparencia #Funcionarización",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección a dedo)",
+      "Columnas de méritos y funciones específicas vacías en el anexo",
+      "Alta jerarquía (Nivel 29) con gran margen de discrecionalidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con redes de confianza en el Ministerio",
+        "Cargos con perfil político-técnico"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con perfil técnico superior sin conexiones políticas",
+        "Ciudadanía (por la posible priorización de confianza sobre eficiencia técnica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección a dedo)",
+      "Columnas de méritos y funciones específicas vacías en el anexo",
+      "Alta jerarquía (Nivel 29) con gran margen de discrecionalidad"
+    ]
+  },
+  "tweeted": false
+}
