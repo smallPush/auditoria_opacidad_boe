@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8233",
+  "timestamp": "2026-04-14T14:11:14.217Z",
+  "title": "Resolución de 6 de abril de 2026, del Ayuntamiento de Alcobendas (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolución presenta una opacidad procedimental típica al remitir las bases reguladoras a un boletín regional (BOCM), dificultando el acceso inmediato del ciudadano a los requisitos de mérito y capacidad. El uso del sistema de 'concurso' para una plaza de 'Técnico/a Coordinador/a' sugiere un proceso de provisión de puestos que suele favorecer la promoción interna o la consolidación, limitando el acceso libre en comparación con una oposición abierta. No se detalla la retribución ni las funciones específicas de coordinación, lo que impide evaluar la eficiencia del gasto público en esta nueva plaza.",
+    "resumen_ciudadano": "El Ayuntamiento de Alcobendas ha convocado una plaza de Técnico/a Coordinador/a. El proceso se realizará por concurso (valoración de méritos previos) y los interesados tienen 15 días hábiles para inscribirse. Sin embargo, para conocer los detalles del sueldo y los requisitos exactos, es necesario buscar una publicación distinta en el boletín de la Comunidad de Madrid.",
+    "resumen_tweet": "🚨 ¡Alcobendas convoca plaza de Técnico/a Coordinador/a! Pero ojo: el #BOE no da detalles de sueldo ni requisitos, remitiendo a otro boletín. ¿Transparencia o laberinto burocrático? 🧐 15 días para solicitar. #Opacidad #Transparencia #Madrid #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Fragmentación de información (bases fuera del BOE)",
+      "Ambigüedad en la descripción del puesto",
+      "Uso de sistema de concurso en lugar de oposición abierta",
+      "Falta de desglose presupuestario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o funcionarios actuales con posibilidad de promoción interna",
+        "Administración local por cumplir el trámite mínimo legal sin máxima difusión"
+      ],
+      "perdedores": [
+        "Ciudadanos externos que desconocen los méritos específicos requeridos",
+        "Contribuyentes que no pueden fiscalizar la necesidad real del puesto"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Fragmentación de información (bases fuera del BOE)",
+      "Ambigüedad en la descripción del puesto",
+      "Uso de sistema de concurso en lugar de oposición abierta",
+      "Falta de desglose presupuestario"
+    ]
+  },
+  "tweeted": false
+}
