@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8131",
+  "timestamp": "2026-04-14T03:34:51.612Z",
+  "title": "Resolución 430/38188/2026, de 6 de abril, de la Subsecretaría, por la que se modifica la Resolución 430/38139/2026, de 10 de marzo, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a, Fisioterapeuta, Terapeuta Ocupacional, y Matrona, en la Red Hospitalaria de la Defensa, en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, convocado por Resolución 400/38533/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución revela una gestión ineficiente de las cuotas de reserva. Es alarmante que el 98% de las plazas reservadas para militares (54 de 55) y el 87% de las plazas para personas con discapacidad (7 de 8) hayan quedado desiertas, derivándose automáticamente al cupo general. Esta 'fuga' de plazas sugiere una desconexión entre la oferta legislativa y la realidad de los aspirantes en el ámbito de la sanidad militar. El texto utiliza una estructura burocrática estándar para parchear una renuncia individual, pero oculta el fracaso estructural de las políticas de inclusión y promoción interna mencionadas en los anexos.",
+    "resumen_ciudadano": "Se modifica el nombramiento de personal sanitario en hospitales de Defensa debido a la renuncia de una enfermera. Esto permite que otra profesional obtenga su destino deseado en Zaragoza y que un nuevo aspirante de la lista de espera sea nombrado para una plaza en Madrid. El proceso destaca por la gran cantidad de plazas de reserva que nadie ha ocupado.",
+    "resumen_tweet": "🏥 Movimiento en el #BOE: Una renuncia activa la lista de espera en Sanidad Militar. Dato crítico: ¡54 de 55 plazas de reserva militar quedaron VACÍAS! 📉 ¿Falla la planificación o los incentivos? #Sanidad #Transparencia #Defensa #Oposiciones",
+    "banderas_red_flags": [
+      "Altísima tasa de plazas desiertas en cupos específicos (Militar y Discapacidad)",
+      "Opacidad en las razones por las que no se cubren las reservas de ley",
+      "Gasto administrativo recurrente por modificaciones en resoluciones previas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miriam Guardia Valenzuela (obtiene plaza en Zaragoza)",
+        "Ismael Miguel Atance Werner (accede a la condición de personal fijo)",
+        "Aspirantes del cupo general (se benefician de las 54 plazas militares no cubiertas)"
+      ],
+      "perdedores": [
+        "Colectivo de personas con discapacidad (7 plazas sin usar)",
+        "Personal militar (54 plazas reservadas que se pierden por falta de candidatos)",
+        "Eficiencia administrativa (reprocesos por renuncias tras el nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (con efectos en Aragón y Madrid)",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Altísima tasa de plazas desiertas en cupos específicos (Militar y Discapacidad)",
+      "Opacidad en las razones por las que no se cubren las reservas de ley",
+      "Gasto administrativo recurrente por modificaciones en resoluciones previas"
+    ]
+  },
+  "tweeted": false
+}
