@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8217",
+  "timestamp": "2026-04-14T13:43:21.816Z",
+  "title": "Resolución de 7 de abril de 2026, de la Subsecretaría, por la que se crea el sello electrónico de la Dirección General de Derechos de la Infancia y de la Adolescencia.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución formaliza la deshumanización de los trámites administrativos mediante la creación de un sello electrónico para procesos automatizados. Si bien el marco legal (Ley 40/2015) lo ampara, la opacidad reside en el Artículo Tercero, que delega la lista de actuaciones automatizadas a la sede electrónica en lugar de detallarlas en el BOE. Esto genera una 'transparencia de segundo nivel', donde el ciudadano debe buscar activamente qué derechos o procesos están siendo decididos por algoritmos o máquinas sin supervisión humana directa.",
+    "resumen_ciudadano": "El Ministerio de Juventud e Infancia ha creado una 'firma automática' para que los ordenadores puedan resolver trámites de menores y jóvenes sin que un funcionario tenga que firmar cada documento a mano. Esto acelera la burocracia, pero dificulta saber exactamente qué gestiones se han automatizado, ya que esa lista no se publica en el BOE, sino en la web del Ministerio.",
+    "resumen_tweet": "🤖 El Ministerio de Juventud crea un sello electrónico para automatizar trámites. ¿Eficiencia o deshumanización? 📉 La lista de qué procesos serán automáticos NO está en el #BOE, se remite a la sede electrónica. #Opacidad #Transparencia #Administración",
+    "banderas_red_flags": [
+      "Externalización de la transparencia: la lista de procedimientos automatizados no aparece en el BOE",
+      "Falta de memoria económica sobre el coste de implementación técnica",
+      "Posible sesgo algorítmico en la gestión de derechos de la infancia al automatizar resoluciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (ahorro de tiempo y reducción de carga de trabajo humano)",
+        "FNMT-RCM (proveedor tecnológico del certificado)",
+        "Empresas de software de automatización administrativa"
+      ],
+      "perdedores": [
+        "Ciudadanos que pierden el derecho a una revisión humana inicial",
+        "Transparencia pública (al no desglosar los procedimientos afectados)",
+        "Personal administrativo cuya labor es sustituida por procesos de sellado automático"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización y Administración Pública",
+    "banderas_rojas": [
+      "Externalización de la transparencia: la lista de procedimientos automatizados no aparece en el BOE",
+      "Falta de memoria económica sobre el coste de implementación técnica",
+      "Posible sesgo algorítmico en la gestión de derechos de la infancia al automatizar resoluciones"
+    ]
+  },
+  "tweeted": false
+}
