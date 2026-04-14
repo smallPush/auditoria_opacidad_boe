@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8139",
+  "timestamp": "2026-04-14T03:37:40.697Z",
+  "title": "Resolución de 6 de abril de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 9 de diciembre de 2025, en el Instituto de Contabilidad y Auditoría de Cuentas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución cumple con los requisitos legales de publicidad, se observa una elevada circularidad administrativa. De los 7 puestos adjudicados, 5 de ellos (el 71,4%) han sido asignados a funcionarios que ya ocupaban exactamente el mismo puesto en la misma unidad, lo que sugiere que estos concursos operan más como procesos de consolidación de plazas 'ad hoc' que como mecanismos reales de movilidad y mérito competitivo abierto.",
+    "resumen_ciudadano": "El Instituto de Contabilidad y Auditoría de Cuentas (ICAC) ha finalizado su concurso de traslados. Sin embargo, la mayoría de los trabajadores seleccionados simplemente han 'ganado' el puesto en el que ya estaban trabajando. Solo dos personas provienen de otros departamentos, lo que limita la renovación interna en un organismo clave para la supervisión financiera.",
+    "resumen_tweet": "🔍 ¿Concurso o puro trámite? El ICAC adjudica 7 plazas, pero el 71% de los 'ganadores' ya ocupaban el mismo puesto. Poca movilidad real y mucha burocracia para mantener el statu quo en la supervisión de cuentas. 💼📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Circularidad administrativa (puestos adjudicados a sus actuales ocupantes)",
+      "Falta de renovación generacional o departamental",
+      "Endogamia funcional en organismos técnicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de niveles altos (A1 y A2)",
+        "Personal actual del ICAC que consolida su posición",
+        "Estructuras burocráticas centralizadas en Madrid"
+      ],
+      "perdedores": [
+        "Candidatos externos al ICAC",
+        "Principio de movilidad administrativa real",
+        "Contribuyentes que esperan procesos de selección dinámicos"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Resolución de Recursos Humanos",
+    "banderas_rojas": [
+      "Circularidad administrativa (puestos adjudicados a sus actuales ocupantes)",
+      "Falta de renovación generacional o departamental",
+      "Endogamia funcional en organismos técnicos"
+    ]
+  },
+  "tweeted": false
+}
