@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8136",
+  "timestamp": "2026-04-14T03:36:05.361Z",
+  "title": "Resolución de 1 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica dos puestos de Subdirector Adjunto (Nivel 29) mediante el sistema de 'libre designación'. Este mecanismo, aunque legal bajo la Ley 30/1984, es el paradigma de la discrecionalidad técnica en la administración española. No se detallan los méritos específicos ni la puntuación de los candidatos frente a otros posibles aspirantes, limitándose a certificar el 'procedimiento debido'. Se observa una clara endogamia administrativa: ambos adjudicatarios ya pertenecían al mismo centro directivo y mantenían el mismo nivel (29), lo que sugiere una reconfiguración de puestos de confianza más que una búsqueda competitiva de talento.",
+    "resumen_ciudadano": "El Ministerio de Educación ha cubierto dos altos cargos de subdirección utilizando el método de elección directa (a dedo). Estos puestos son de nivel 29, uno de los escalafones más altos y mejor remunerados de la función pública. Los elegidos ya trabajaban en el mismo departamento, reforzando la estructura interna sin ofrecer explicaciones sobre por qué son los mejores para el cargo.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Educación. Dos puestos de Nivel 29 se cubren por libre designación sin explicar los méritos frente a otros candidatos. ¿Meritocracia o confianza política? 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Adjudicatarios del mismo centro directivo de origen",
+      "Falta de memoria justificativa de la idoneidad en el texto publicado",
+      "Nivel salarial máximo (Nivel 29)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Octavio A. Moreno Cabrera",
+        "Martha Rosalía Villabona García",
+        "Élite del Cuerpo de Catedráticos y Profesores de Secundaria (A1)"
+      ],
+      "perdedores": [
+        "Candidatos externos por mérito y capacidad",
+        "Criterios de transparencia objetiva",
+        "Caja pública (sueldos de alta dirección sin concurso abierto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Adjudicatarios del mismo centro directivo de origen",
+      "Falta de memoria justificativa de la idoneidad en el texto publicado",
+      "Nivel salarial máximo (Nivel 29)"
+    ]
+  },
+  "tweeted": false
+}
