@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8223",
+  "timestamp": "2026-04-14T14:06:09.866Z",
+  "title": "Resolución de 27 de marzo de 2026, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer ejercicio, del proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala de Titulados de Escuelas Técnicas de Grado Medio de Organismos del Ministerio de Transportes, Movilidad y Agenda Urbana, convocado por Resolución de 13 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Aunque se trata de un trámite administrativo estándar, se detectan barreras de clase y territoriales. La centralización del examen único en Madrid (CEDEX) supone un coste de desplazamiento y alojamiento que discrimina a los aspirantes de la periferia. Además, las causas de exclusión A, B y C revelan fallos en la interoperabilidad de datos: la Administración exige al ciudadano demostrar que es pobre (rentas inferiores al SMI) o que está en paro, en lugar de consultar de oficio sus propios registros de la Seguridad Social o Hacienda.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha publicado la lista provisional de admitidos y excluidos para oposiciones de técnicos de grado medio. Los aspirantes excluidos tienen 10 días hábiles para corregir errores. El examen se celebrará en Madrid el 18 de junio de 2026.",
+    "resumen_tweet": "⚠️ ¡Atención opositores! El Ministerio de Transportes publica listas de admitidos. Barreras detectadas: examen único en Madrid y trabas para acreditar rentas bajas. ¿Es esto igualdad de oportunidades? 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralización geográfica en Madrid",
+      "Falta de interoperabilidad en datos de renta",
+      "Carga administrativa sobre opositores vulnerables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes en Madrid (ahorro en desplazamientos)",
+        "Candidatos con facilidad para gestiones burocráticas complejas"
+      ],
+      "perdedores": [
+        "Opositores de provincias",
+        "Aspirantes con bajos recursos (causas B y C)",
+        "Desempleados de larga duración con dificultades de acreditación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Centralización geográfica en Madrid",
+      "Falta de interoperabilidad en datos de renta",
+      "Carga administrativa sobre opositores vulnerables"
+    ]
+  },
+  "tweeted": false
+}
