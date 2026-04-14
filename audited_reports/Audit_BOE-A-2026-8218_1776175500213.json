@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8218",
+  "timestamp": "2026-04-14T14:05:00.213Z",
+  "title": "Resolución de 7 de abril de 2026, del Museo Nacional Centro de Arte Reina Sofía, por la que se resuelve el concurso general, convocado por Resolución de 16 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolucion muestra una gestion rutinaria de recursos humanos en el Museo Reina Sofia, pero destaca que el 50% de las plazas ofertadas (2 de 4) han quedado desiertas, incluyendo un puesto tecnico auxiliar de museos. Esto sugiere una desconexion entre los requisitos exigidos y el perfil de los funcionarios activos, o una falta de atractivo en las condiciones laborales de la institucion cultural. Se observa una rotacion interna entre instituciones de elite (Biblioteca Nacional al Reina Sofia), consolidando un nucleo administrativo cerrado en la capital.",
+    "resumen_ciudadano": "El Museo Reina Sofia ha finalizado su concurso de traslados para personal funcionario. Se han cubierto los puestos de Jefatura de Relaciones Publicas y un Negociado, pero dos plazas clave para el funcionamiento tecnico y administrativo han quedado vacantes al no encontrarse candidatos adecuados. Estos movimientos son internos entre funcionarios y no suponen nuevas contrataciones externas.",
+    "resumen_tweet": "🏛️ ¿Falta de atractivo en la cultura? El @museoreinasofia deja desiertas el 50% de las plazas de su concurso de personal. Solo se cubren puestos de Relaciones Públicas y gestión. ¿Por qué nadie quiere las plazas técnicas? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas (50%)",
+      "Endogamia institucional entre organismos de Madrid",
+      "Falta de explicacion sobre la carencia de candidatos para puestos tecnicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Almudena Cristina Gomez Valcarcel (ascenso de nivel 16 a 22)",
+        "Fernando Obispo Iglesias (traslado desde la Biblioteca Nacional)",
+        "Subdireccion de Gerencia"
+      ],
+      "perdedores": [
+        "Subdireccion Artistica (mantiene vacante su plaza tecnica)",
+        "Candidatos de provincias (centralismo administrativo en Madrid)",
+        "Eficiencia administrativa por puestos no cubiertos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas (50%)",
+      "Endogamia institucional entre organismos de Madrid",
+      "Falta de explicacion sobre la carencia de candidatos para puestos tecnicos"
+    ]
+  },
+  "tweeted": false
+}
