@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8235",
+  "timestamp": "2026-04-14T14:15:46.392Z",
+  "title": "Resolución de 20 de marzo de 2026, del Ayuntamiento de Bolaños de Calatrava (Ciudad Real), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de promocion interna y sistema de concurso-oposicion. Esta combinacion suele actuar como un mecanismo de blindaje para el personal ya existente, limitando la entrada de talento externo y meritocracia pura. Ademas, la publicacion en el BOE es meramente referencial, obligando al ciudadano a buscar las bases en un boletín provincial anterior, lo que aumenta la friccion informativa y reduce el escrutinio publico real sobre los criterios de seleccion.",
+    "resumen_ciudadano": "El Ayuntamiento de Bolaños de Calatrava ha convocado una plaza de Tecnico de Administracion General (nivel superior). Sin embargo, el proceso esta restringido unicamente a trabajadores que ya forman parte de la plantilla municipal. Se evaluaran tanto examenes como meritos previos, lo que suele beneficiar a quienes tienen mayor antiguedad en el puesto.",
+    "resumen_tweet": "🧐 ¿Oportunidad real o blindaje interno? Bolaños de Calatrava convoca plaza de Tecnico Superior SOLO para promocion interna. El sistema concurso-oposicion suele favorecer la endogamia administrativa. 🛡️ #BOE #Opacidad #Transparencia #CiudadReal",
+    "banderas_red_flags": [
+      "Acceso restringido por promocion interna",
+      "Opacidad por remision documental a otros boletines",
+      "Sistema de concurso-oposicion con alta carga de subjetividad en meritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con antiguedad",
+        "Estructuras de poder local establecidas"
+      ],
+      "perdedores": [
+        "Graduados universitarios externos",
+        "Opositores libres",
+        "Principio de igualdad de oportunidades"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Resolucion de Empleo Publico Local",
+    "banderas_rojas": [
+      "Acceso restringido por promocion interna",
+      "Opacidad por remision documental a otros boletines",
+      "Sistema de concurso-oposicion con alta carga de subjetividad en meritos"
+    ]
+  },
+  "tweeted": false
+}
