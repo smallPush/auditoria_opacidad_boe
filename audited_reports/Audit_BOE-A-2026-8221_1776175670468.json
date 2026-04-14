@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8221",
+  "timestamp": "2026-04-14T14:07:50.468Z",
+  "title": "Resolución 430/38192/2026, de 7 de abril, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para un puesto de marcado perfil técnico (Arquitectura TIC y DevSecOps). Si bien es legal bajo la Ley 30/1984, este método de 'dedazo' institucional en niveles 28 reduce la meritocracia en favor de la discrecionalidad política. La opacidad reside en que, aunque se exigen méritos, la decisión final es arbitraria del superior, lo cual es incongruente con una transformación digital que debería basarse en criterios puramente técnicos y competitivos.",
+    "resumen_ciudadano": "El Ministerio de Defensa busca un Consejero Técnico en Madrid con un sueldo extra de 17.490€ anuales solo por complemento específico. El problema es que el proceso de selección es por 'libre designación', es decir, a dedo entre funcionarios del grupo A1, en lugar de un concurso de méritos abierto y transparente.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' técnico en Defensa. Convocan puesto de Consejero de Transformación Digital (Nivel 28) por Libre Designación. ¿Por qué un perfil técnico no se elige por concurso de méritos? Menos opacidad, más transparencia. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Puesto técnico de alta responsabilidad sin concurso de méritos",
+      "Alta concentración de complementos económicos (17.490,62€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Grupo A1 con conexiones en el Ministerio",
+        "Estructuras administrativas centralizadas en Madrid"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos sin redes de influencia política",
+        "Meritocracia administrativa",
+        "Contribuyentes (por posible ineficiencia en la selección de talento)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Puesto técnico de alta responsabilidad sin concurso de méritos",
+      "Alta concentración de complementos económicos (17.490,62€)"
+    ]
+  },
+  "tweeted": false
+}
