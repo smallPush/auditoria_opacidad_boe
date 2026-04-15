@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8296",
+  "timestamp": "2026-04-15T14:02:46.466Z",
+  "title": "Resolución de 8 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 25 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del procedimiento de 'libre designación' para puestos como el nivel 28 (Jefe de Unidad de Coordinación) y niveles de apoyo técnico (18 y 17) representa el mecanismo legalizado de la discrecionalidad política. Aunque se cita el cumplimiento normativo, la libre designación permite la selección subjetiva frente al concurso de méritos, lo que en la práctica puede encubrir favores políticos o la creación de una red de confianza pagada con dinero público. La 'resolución parcial' indica que otros puestos podrían haber quedado desiertos o en proceso de negociación interna.",
+    "resumen_ciudadano": "El Gobierno ha seleccionado directamente a tres personas para ocupar cargos en las Delegaciones del Gobierno de Aragón y Galicia. Entre los puestos destaca la Jefatura de la Unidad contra la Violencia sobre la Mujer en Zaragoza. Al ser cargos de confianza (libre designación), no se basan exclusivamente en un examen de méritos público, sino en la elección discrecional del alto cargo de turno.",
+    "resumen_tweet": "🚩 El Ministerio de Política Territorial adjudica puestos 'a dedo' mediante libre designación en Aragón y Galicia. Desde jefaturas de nivel 28 hasta secretarías. ¿Mérito o confianza política? La discrecionalidad sigue ganando. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos",
+      "Resolución parcial de la convocatoria",
+      "Niveles de complementos elevados asignados discrecionalmente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Las tres personas adjudicatarias de los puestos",
+        "El Ministerio por consolidar personal de confianza en territorio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos técnicos sin perfil político",
+        "Ciudadanía que financia estructuras de confianza sin criterios objetivos de selección"
+      ]
+    },
+    "comunidad_autonoma": "Aragón y Galicia",
+    "tipologia": "Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos",
+      "Resolución parcial de la convocatoria",
+      "Niveles de complementos elevados asignados discrecionalmente"
+    ]
+  },
+  "tweeted": false
+}
