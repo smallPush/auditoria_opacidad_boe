@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8222",
+  "timestamp": "2026-04-15T03:35:06.166Z",
+  "title": "Resolución de 8 de abril de 2026, de la Presidencia de la Autoridad Independiente de Responsabilidad Fiscal, AAI, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de una convocatoria de concurso específico para 7 plazas en la AIReF. Aunque el procedimiento está reglado, el diseño de la 'segunda fase' de méritos específicos permite un margen de subjetividad técnica que a menudo se utiliza para la consolidación de personal ya presente en la institución mediante comisiones de servicio. Destaca la puntuación adicional por haber trabajado en la misma unidad, lo que penaliza la movilidad real y fomenta la endogamia burocrática. Los requisitos de conciliación son estándar, pero rígidos en cuanto a la residencia en el mismo municipio de trabajo.",
+    "resumen_ciudadano": "La Autoridad Independiente de Responsabilidad Fiscal (AIReF) busca cubrir 7 puestos de trabajo destinados exclusivamente a funcionarios de carrera. El proceso se divide en méritos generales (antigüedad y grado) y méritos específicos. Se valoran positivamente la formación en igualdad y las circunstancias de conciliación familiar, aunque el proceso favorece claramente a quienes ya tienen experiencia dentro de departamentos de análisis económico o presupuestario.",
+    "resumen_tweet": "🔍 ¿Transparencia o endogamia? La #AIReF convoca 7 plazas. Los méritos específicos y los puntos extra por haber trabajado ya en la misma unidad pueden favorecer el 'dedazo' técnico. 📉 Menos movilidad, más burocracia cerrada. #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Puntuación adicional por desempeño previo en la misma unidad (potencial endogamia)",
+      "Fase de méritos específicos con alta carga de subjetividad",
+      "Restricción de acceso a puestos para funcionarios de cuerpos exclusivos sin autorización previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con experiencia previa en la AIReF",
+        "Personal del Ministerio de Hacienda",
+        "Funcionarios con grado personal ya consolidado en niveles altos"
+      ],
+      "perdedores": [
+        "Funcionarios de otras administraciones (CCAA o Local) con dificultades de movilidad",
+        "Personal interino o laboral (excluidos del proceso)",
+        "Nuevos funcionarios con poca antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Puntuación adicional por desempeño previo en la misma unidad (potencial endogamia)",
+      "Fase de méritos específicos con alta carga de subjetividad",
+      "Restricción de acceso a puestos para funcionarios de cuerpos exclusivos sin autorización previa"
+    ]
+  },
+  "tweeted": false
+}
