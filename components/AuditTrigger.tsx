@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { AlertCircle, ArrowLeft, Loader2 } from 'lucide-react';
+import { AlertCircle, ArrowLeft } from 'lucide-react';
 import { AnalysisState, BOEAuditResponse, AuditHistoryItem } from '../types';
 import { Language, Translations } from '../translations';
 import AuditDashboard from './AuditDashboard';
