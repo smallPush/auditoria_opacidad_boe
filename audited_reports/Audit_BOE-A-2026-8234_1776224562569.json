@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8234",
+  "timestamp": "2026-04-15T03:42:42.569Z",
+  "title": "Resolución de 4 de marzo de 2026, del Ayuntamiento de Museros (Valencia/València), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria para una plaza única de Oficial de la Policía Local mediante promoción interna y sistema de concurso-oposición presenta riesgos de opacidad estructural. El plazo de tan solo diez días hábiles para la presentación de solicitudes es inusualmente breve, lo que favorece a candidatos internos que ya poseen la información de antemano. Este tipo de procedimientos, aunque legales, suelen ser utilizados para consolidar jerarquías preestablecidas bajo un barniz de mérito y capacidad, limitando la apertura de la administración a nuevas dinámicas de gestión.",
+    "resumen_ciudadano": "El Ayuntamiento de Museros (Valencia) ha abierto un proceso de ascenso para una plaza de Oficial en su Policía Local. El proceso está reservado para personal que ya trabaje en el ayuntamiento (promoción interna) y el tiempo para apuntarse es muy corto.",
+    "resumen_tweet": "🚨 ¿Promoción o traje a medida? Museros convoca plaza de Oficial de Policía con solo 10 días para solicitudes. La brevedad del plazo y la plaza única huelen a vieja política local. #BOE #Opacidad #Transparencia #Museros ⚖️",
+    "banderas_red_flags": [
+      "Plazo de presentación extremadamente corto (10 días)",
+      "Convocatoria de plaza única",
+      "Sistema de promoción interna que limita la competencia externa",
+      "Dependencia de bases publicadas en boletín provincial de difícil acceso inmediato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antigüedad",
+        "Estructura de mando actual de la Policía Local de Museros"
+      ],
+      "perdedores": [
+        "Agentes de otros municipios sin acceso a la plaza",
+        "Principio de libre concurrencia",
+        "Ciudadanía que financia procesos con baja competitividad"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Plazo de presentación extremadamente corto (10 días)",
+      "Convocatoria de plaza única",
+      "Sistema de promoción interna que limita la competencia externa",
+      "Dependencia de bases publicadas en boletín provincial de difícil acceso inmediato"
+    ]
+  },
+  "tweeted": false
+}
