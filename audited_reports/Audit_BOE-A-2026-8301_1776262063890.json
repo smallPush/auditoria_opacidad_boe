@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-8301",
+  "timestamp": "2026-04-15T14:07:43.890Z",
+  "title": "Decreto de 24 de marzo de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Delitos Económicos en la Fiscalía de la Comunidad Autónoma de la Región de Murcia a doña Juana María Jiménez Fernández.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El decreto detalla un proceso de selección competitivo con dos candidatas tras una jubilación, lo cual es superior a la media de opacidad en nombramientos directos. No obstante, la fundamentación se apoya en la 'experiencia y conocimientos' sin desglosar una puntuación técnica o baremo objetivo, lo que mantiene un margen de discrecionalidad jerárquica en el Ministerio Fiscal.",
+    "resumen_ciudadano": "Se ha nombrado a Juana María Jiménez Fernández como la nueva encargada de perseguir delitos económicos (fraude, blanqueo, etc.) en Murcia. El proceso fue transparente al mencionar que hubo otra solicitante y que la elección se basó en el currículum especializado de la seleccionada.",
+    "resumen_tweet": "⚖️ Nueva Fiscal de Delitos Económicos en Murcia. Juana María Jiménez Fernández asume el mando tras un proceso entre dos candidatas. Vigilancia sobre el fraude financiero en la región. ¿Criterios objetivos o discreción? 🧐 #BOE #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Uso de conceptos jurídicos indeterminados para la selección ('experiencia y conocimientos')",
+      "Ausencia de publicación de la comparativa de méritos entre ambas candidatas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juana María Jiménez Fernández",
+        "Ministerio Fiscal (estabilidad institucional)",
+        "Sociedad civil (por el refuerzo contra delitos de guante blanco)"
+      ],
+      "perdedores": [
+        "Beatriz Ramos del Valle (candidata descartada)",
+        "Potenciales infractores económicos en la Región de Murcia"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de conceptos jurídicos indeterminados para la selección ('experiencia y conocimientos')",
+      "Ausencia de publicación de la comparativa de méritos entre ambas candidatas"
+    ]
+  },
+  "tweeted": false
+}
