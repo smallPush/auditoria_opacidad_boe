@@ -205,24 +205,34 @@ const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
       }
     });
 
-    const nodes: Node[] = Object.entries(tagStats)
-      .filter(([_, stats]) => stats.count >= minFrequency)
-      .map(([name, stats]) => ({
-        id: name,
-        name,
-        count: stats.count,
-        avgTransparency: stats.totalTransparency / stats.count,
-        position: new THREE.Vector3((Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15),
-        velocity: new THREE.Vector3()
-      }));
+    const nodes: Node[] = [];
+    const nodeIds = new Set<string>();
 
-    const nodeIds = new Set(nodes.map(n => n.id));
-    const links: Link[] = Object.entries(coOccurrences)
-      .map(([key, strength]) => {
-        const [source, target] = key.split('|');
-        return { source, target, strength };
-      })
-      .filter(l => nodeIds.has(l.source) && nodeIds.has(l.target));
+    const tagEntries = Object.entries(tagStats);
+    for (let i = 0; i < tagEntries.length; i++) {
+      const [name, stats] = tagEntries[i];
+      if (stats.count >= minFrequency) {
+        nodes.push({
+          id: name,
+          name,
+          count: stats.count,
+          avgTransparency: stats.totalTransparency / stats.count,
+          position: new THREE.Vector3((Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15, (Math.random() - 0.5) * 15),
+          velocity: new THREE.Vector3()
+        });
+        nodeIds.add(name);
+      }
+    }
+
+    const links: Link[] = [];
+    const coOccurEntries = Object.entries(coOccurrences);
+    for (let i = 0; i < coOccurEntries.length; i++) {
+      const [key, strength] = coOccurEntries[i];
+      const [source, target] = key.split('|');
+      if (nodeIds.has(source) && nodeIds.has(target)) {
+        links.push({ source, target, strength });
+      }
+    }
 
     return { nodes, links, maxCount: maxCountFound };
   }, [history, minFrequency]);
