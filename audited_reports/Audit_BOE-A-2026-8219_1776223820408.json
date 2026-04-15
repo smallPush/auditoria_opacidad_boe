@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8219",
+  "timestamp": "2026-04-15T03:30:20.408Z",
+  "title": "Resolución de 8 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 29 (el segundo más alto en la escala funcionarial) representa la máxima discrecionalidad administrativa. Aunque legalmente fundamentado, el documento no expone los méritos específicos que decantaron la balanza hacia la adjudicataria frente a otros posibles candidatos, perpetuando el sistema de 'dedazo' técnico en las altas esferas del Ministerio para la Transformación Digital.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de alta dirección (Coordinadora de Área) en el Ministerio para la Transformación Digital. El proceso utilizado permite elegir a la persona de forma discrecional, sin un concurso de méritos público y comparativo, lo que dificulta verificar la neutralidad del nombramiento.",
+    "resumen_tweet": "🚨 El 'dedazo' técnico sigue vivo en el #BOE. Nombramiento de Nivel 29 por 'libre designación' en Transformación Digital. ¿Meritocracia o confianza política? Seguimos vigilando la opacidad en la alta administración. 🕵️‍♂️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Nivel salarial administrativo máximo (Nivel 29)",
+      "Ausencia de justificación técnica sobre la elección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ainara Toca Muguira",
+        "Élite funcionarial de libre designación"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios basado en mérito estricto",
+        "Cultura de transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Nivel salarial administrativo máximo (Nivel 29)",
+      "Ausencia de justificación técnica sobre la elección"
+    ]
+  },
+  "tweeted": false
+}
