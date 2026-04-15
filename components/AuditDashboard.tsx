@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, TooltipProps } from 'recharts';
 import { BOEAuditResponse } from '../types';
-import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Zap, Download, Loader2, Twitter, Copy, Check, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
+import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Download, Loader2, Twitter, Copy, Check, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
 import { translations, Language } from '../translations';
 import { postTweet } from '../services/twitterService';
 import { saveAuditToDB } from '../services/supabaseService';
