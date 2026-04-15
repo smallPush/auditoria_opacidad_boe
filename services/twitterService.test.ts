@@ -6,6 +6,10 @@ import { BOEAuditResponse } from "../types";
 const mockFetch = mock();
 global.fetch = mockFetch;
 
+// Mock VITE_BRIDGE_SECRET for the test environment
+const env = import.meta.env as any;
+env.VITE_BRIDGE_SECRET = 'test_secret';
+
 describe("twitterService", () => {
   beforeEach(() => {
     mockFetch.mockClear();
@@ -36,7 +40,7 @@ describe("twitterService", () => {
     expect(mockFetch).toHaveBeenCalledTimes(1);
     expect(mockFetch).toHaveBeenCalledWith('/api/post-tweet', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'X-Bridge-Secret': 'test_secret' },
       body: JSON.stringify({
         text: mockAuditData.resumen_tweet
       })
@@ -55,7 +59,7 @@ describe("twitterService", () => {
     expect(mockFetch).toHaveBeenCalledTimes(1);
     expect(mockFetch).toHaveBeenCalledWith('/api/post-tweet', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'X-Bridge-Secret': 'test_secret' },
       body: JSON.stringify({
         text: `${mockAuditData.resumen_tweet}\n\n${boeUrl}`
       })

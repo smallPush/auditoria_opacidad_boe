@@ -129,7 +129,7 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
     try {
       await fetch('/api/save-audit', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', 'X-Bridge-Secret': import.meta.env.VITE_BRIDGE_SECRET },
         body: JSON.stringify({ boeId, title, audit })
       });
     } catch (err) {
