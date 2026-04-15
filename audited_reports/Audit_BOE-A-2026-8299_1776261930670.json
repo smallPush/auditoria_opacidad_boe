@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8299",
+  "timestamp": "2026-04-15T14:05:30.670Z",
+  "title": "Resolución de 13 de abril de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, del Cuerpo de Ingenieros Técnicos de Obras Públicas.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolución es técnicamente transparente al detallar destinos y retribuciones complementarias (Nivel 22). Sin embargo, se observa una fuerte inercia centralista: un alto porcentaje de las plazas se concentran en Madrid (Sedes Centrales), contradiciendo el discurso oficial de descentralización administrativa. El 'Gasto Fantasma' potencial reside en la opacidad de los criterios para la fijación de los 'Complementos Específicos', que varían levemente (7.591,50€ vs 7.643,16€) sin una justificación clara de productividad o peligrosidad en el texto. Se destaca el caso del aspirante que declina la plaza tras haber aprobado, lo que sugiere posibles ineficiencias en el sistema de incentivos o en la duración de los procesos selectivos que duran más de un año (2025-2026).",
+    "resumen_ciudadano": "El Gobierno formaliza el nombramiento de nuevos Ingenieros Técnicos para Obras Públicas y Transición Ecológica. Se publican sus nombres, destinos finales y sueldos extra (complementos). Los nuevos funcionarios trabajarán principalmente en carreteras, confederaciones hidrográficas y costas. Un candidato ha renunciado a su plaza tras superar el proceso.",
+    "resumen_tweet": "🏗️ El #BOE publica nuevos funcionarios para Obras Públicas. Sueldos Nivel 22 con complementos de ~7.600€. 🚩 Persiste el centralismo: mucha oficina en Madrid y poca bota en el terreno rural. ¿Eficiencia o burocracia? #Transparencia #Opacidad #EspañaVaciada",
+    "banderas_red_flags": [
+      "Concentración de efectivos en Servicios Centrales (Madrid)",
+      "Opacidad en la diferencia de complementos específicos entre puestos similares",
+      "Abandono de plaza por un aspirante tras un proceso selectivo costoso",
+      "Dilación temporal: convocatoria de enero 2025 resuelta en abril 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Transportes (refuerza su estructura técnica)",
+        "Madrid (absorbe la mayoría del talento técnico)",
+        "Los 28 nuevos funcionarios de carrera"
+      ],
+      "perdedores": [
+        "Provincias con menor dotación técnica (España periférica)",
+        "David Martínez Mora (pierde derecho por renuncia al curso)",
+        "Contribuyente (coste de formación de quien finalmente renuncia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Concentración de efectivos en Servicios Centrales (Madrid)",
+      "Opacidad en la diferencia de complementos específicos entre puestos similares",
+      "Abandono de plaza por un aspirante tras un proceso selectivo costoso",
+      "Dilación temporal: convocatoria de enero 2025 resuelta en abril 2026"
+    ]
+  },
+  "tweeted": false
+}
