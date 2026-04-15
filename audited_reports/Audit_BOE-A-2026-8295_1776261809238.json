@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8295",
+  "timestamp": "2026-04-15T14:03:29.238Z",
+  "title": "Resolución de 8 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por el sistema de 'libre designación', que es la terminología técnica para un puesto de confianza o elección directa ('dedazo'). Aunque se menciona la existencia de un 'informe motivado' por parte de la Oficialía Mayor, dicho informe no es público ni se detallan los méritos específicos que superen a otros posibles candidatos. Se trata de un puesto de Nivel 28 (rango muy alto en la escala funcionarial) en el Ministerio de Transportes, otorgado a un miembro del Cuerpo Nacional de Policía. Este mecanismo, aunque legal, perpetúa la falta de meritocracia abierta en los puestos de alta dirección pública.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha elegido directamente a un nuevo Jefe de Área de Seguridad (Nivel 28). El puesto no se ha otorgado por concurso de méritos tradicional, sino por libre elección entre los candidatos que cumplían los requisitos básicos. El beneficiado es un Inspector del Cuerpo Nacional de Policía que ya se encontraba en el mismo departamento.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el Ministerio de Transportes. Se adjudica puesto de Nivel 28 (Jefe de Seguridad) vía libre designación. Menos competencia abierta y más elección directa en la cúpula. 🕵️‍♂️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel salarial elevado (28)",
+      "Informe motivado no accesible al público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Raúl Sánchez Núñez (adjudicatario)",
+        "Cúpula política del Ministerio de Transportes (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores sin conexiones políticas",
+        "Ciudadanía (por la opacidad en la gestión del empleo público de élite)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel salarial elevado (28)",
+      "Informe motivado no accesible al público"
+    ]
+  },
+  "tweeted": false
+}
