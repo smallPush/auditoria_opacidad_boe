@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8378",
+  "timestamp": "2026-04-16T14:11:22.537Z",
+  "title": "Real Decreto 320/2026, de 14 de abril, por el que, en ejecución de sentencias, se dispone el reconocimiento de la categoría de Fiscal de Sala a don Eduardo Esteban Rincón.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 320/2026 evidencia una fractura profunda entre el Tribunal Supremo (que anuló el nombramiento original) y el Tribunal Constitucional (que obligó a restituirlo). La opacidad es máxima en cuanto al coste económico: al reconocer efectos desde el 31 de mayo de 2022, el Estado deberá abonar cuantiosos atrasos salariales por una categoría superior (Fiscal de Sala) de forma retroactiva por casi cuatro años, lo que constituye un gasto público derivado de una gestión administrativa cuestionada judicialmente.",
+    "resumen_ciudadano": "Tras una batalla judicial entre tribunales, se restituye a un alto fiscal en su cargo. El contribuyente asumirá el pago retroactivo de su sueldo de alto nivel desde 2022, a pesar de que su nombramiento fue inicialmente anulado por falta de idoneidad según el Tribunal Supremo.",
+    "resumen_tweet": "⚖️ ¡Guerra de tribunales en el #BOE! El Gobierno restituye a un Fiscal de Sala tras el choque entre el Supremo y el Constitucional. Incluye pagos retroactivos desde 2022: ¿cuánto nos cuesta este pulso judicial? 💸 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retroactividad económica de largo alcance (4 años)",
+      "Conflicto de jurisdicción TS vs TC",
+      "Gasto público derivado de nombramientos anulados",
+      "Opacidad en el desglose de atrasos salariales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eduardo Esteban Rincón (recupera estatus y salario retroactivo)",
+        "Ministerio de la Presidencia y Justicia",
+        "Tribunal Constitucional (impone su criterio sobre el Supremo)"
+      ],
+      "perdedores": [
+        "Erario Público (pago de atrasos por mala gestión de nombramientos)",
+        "Tribunal Supremo (su sentencia de anulación queda sin efecto)",
+        "Seguridad jurídica en el sistema de carrera fiscal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Retroactividad económica de largo alcance (4 años)",
+      "Conflicto de jurisdicción TS vs TC",
+      "Gasto público derivado de nombramientos anulados",
+      "Opacidad en el desglose de atrasos salariales"
+    ]
+  },
+  "tweeted": false
+}
