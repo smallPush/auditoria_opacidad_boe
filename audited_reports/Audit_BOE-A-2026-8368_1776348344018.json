@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8368",
+  "timestamp": "2026-04-16T14:05:44.018Z",
+  "title": "Resolución de 13 de abril de 2026, de la Secretaría de Estado de Hacienda, por la que se establecen los criterios de distribución a las entidades locales de la compensación prevista en la disposición adicional octogésima de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, prorrogada para 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución articula la distribución de 3 millones de euros como compensación por la servidumbre de las bases militares de Rota y Arahal. Aunque los criterios de reparto basados en población son claros, existe una 'opacidad de propósito final': el dinero se entrega para compensar un 'mayor coste de los servicios municipales' sin especificar qué servicios ni exigir una rendición de cuentas sobre el impacto real en el ciudadano. Se detecta una inercia presupuestaria preocupante al prorrogar para 2026 criterios y fondos de una ley de 2023, lo que indica una falta de revisión de las necesidades socioeconómicas actuales de la zona.",
+    "resumen_ciudadano": "El Gobierno reparte 3 millones de euros entre Rota, Arahal y 11 municipios vecinos de Cádiz y Sevilla. El objetivo es compensar los gastos extra y las exenciones fiscales (como el impuesto de circulación) que provocan las bases militares de EE.UU. Rota y Arahal se llevan la mayor parte (1,7 millones), mientras que el resto se divide entre pueblos de más y menos de 50.000 habitantes según su población.",
+    "resumen_tweet": "💰 3M€ del #BOE para compensar a Rota, Arahal y vecinos por las bases militares de EE.UU. 🇺🇸 Fondos públicos que llegan a los ayuntamientos sin un destino claro de gasto. ¿En qué se beneficia realmente el vecino? 🤔 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Prórroga sistemática de presupuestos (2023-2026)",
+      "Ausencia de mecanismos de control sobre el destino del gasto local",
+      "Dependencia económica local de servidumbres militares extranjeras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamiento de Rota (1.019.582€)",
+        "Ayuntamiento de Arahal (680.418€)",
+        "Gestores municipales (ingresos sin finalidad vinculada)"
+      ],
+      "perdedores": [
+        "Contribuyente estatal (asume el coste del convenio de defensa)",
+        "Ciudadanos de municipios colindantes pequeños (reciben menos cuantía por habitante)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Financiación Local",
+    "banderas_rojas": [
+      "Prórroga sistemática de presupuestos (2023-2026)",
+      "Ausencia de mecanismos de control sobre el destino del gasto local",
+      "Dependencia económica local de servidumbres militares extranjeras"
+    ]
+  },
+  "tweeted": false
+}
