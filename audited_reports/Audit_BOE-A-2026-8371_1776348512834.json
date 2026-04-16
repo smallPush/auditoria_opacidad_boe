@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8371",
+  "timestamp": "2026-04-16T14:08:32.834Z",
+  "title": "Orden ECM/339/2026, de 10 de abril, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección de 60 euro «Academia General del Aire y del Espacio».",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden acuerda la emisión de hasta 1.000.000 de monedas de plata con un valor facial de 60 euros, sumando un total potencial de 60 millones de euros en circulación numismática. Si bien el valor de venta coincide con el facial, existe un beneficio industrial para la FNMT y un uso de la estructura estatal para la promoción de la imagen de la Corona. Se observa una cláusula de discrecionalidad en el Artículo 6 que permite a la Dirección General del Tesoro alterar el volumen de emisión según 'demanda del mercado', lo que diluye el control legislativo sobre el volumen total de plata acuñada.",
+    "resumen_ciudadano": "El Gobierno emitirá un millón de monedas de plata de 60 euros para conmemorar el paso de la Princesa Leonor por la Academia del Aire. Aunque no son para uso diario, cualquier ciudadano puede pedirlas en el banco por su valor nominal. Es una operación que mezcla el coleccionismo con el marketing institucional de la monarquía, financiada indirectamente por el Estado a través de la FNMT.",
+    "resumen_tweet": "🪙 ¡60 millones de € en monedas de plata! El #BOE anuncia emisión masiva con la imagen de la Princesa Leonor. ¿Cultura o marketing institucional? El Tesoro podrá ampliar la tirada a discreción. #Transparencia #Opacidad #Leonor #CasaReal 🇪🇸👑",
+    "banderas_red_flags": [
+      "Cláusula de modificación discrecional del volumen de emisión (Art. 6)",
+      "Falta de transparencia en los costes de producción y acuñación frente al valor del metal",
+      "Uso de la moneda estatal para fines de propaganda dinástica bajo el epígrafe de interés cultural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "FNMT (beneficio por gestión y acuñación)",
+        "Casa Real (refuerzo de imagen pública y presencia simbólica)",
+        "Sector numismático y coleccionistas"
+      ],
+      "perdedores": [
+        "Ciudadanos de rentas bajas (excluidos de una forma de ahorro en metal precioso)",
+        "Racionalidad presupuestaria (gasto en moneda no circulante en contexto de deuda)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Región de Murcia",
+    "tipologia": "Finanzas y Moneda",
+    "banderas_rojas": [
+      "Cláusula de modificación discrecional del volumen de emisión (Art. 6)",
+      "Falta de transparencia en los costes de producción y acuñación frente al valor del metal",
+      "Uso de la moneda estatal para fines de propaganda dinástica bajo el epígrafe de interés cultural"
+    ]
+  },
+  "tweeted": false
+}
