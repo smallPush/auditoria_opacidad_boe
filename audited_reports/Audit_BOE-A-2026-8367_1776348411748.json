@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8367",
+  "timestamp": "2026-04-16T14:06:51.748Z",
+  "title": "Resolución de 10 de abril de 2026, de la Secretaría de Estado de Hacienda, por la que se establecen los criterios de distribución a las entidades locales de la compensación prevista en la disposición adicional sexta del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el plan integral de respuesta a la crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución instrumentaliza un Real Decreto-ley de respuesta a una crisis internacional (Oriente Medio) para resolver un problema de financiación local crónico derivado de tratados de defensa de 1988. Existe una desconexión lógica entre el título del plan de crisis y el destino de los fondos (compensación por el Impuesto de Vehículos). Además, se detecta un desfase temporal: se paga en 2026 una compensación que se arrastra desde 2024, lo que sugiere una gestión presupuestaria reactiva y falta de previsión en la financiación de municipios con servidumbre militar.",
+    "resumen_ciudadano": "El Gobierno reparte 3 millones de euros entre Rota, Arahal y sus pueblos vecinos. Este dinero busca compensar a los ayuntamientos porque los vehículos de las bases militares de EE.UU. no pagan impuestos locales y porque la presencia de militares genera más gastos en limpieza, seguridad y mantenimiento de calles que el Estado ahora reconoce.",
+    "resumen_tweet": "¿Qué tiene que ver la crisis de Oriente Medio con los impuestos de Rota? 🧐 Hacienda usa un decreto de emergencia para repartir 3M€ por las bases de EE.UU. 💸 Pagos en 2026 para cubrir baches de 2024. ¡Ingeniería contable! 🏛️🇺🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de decreto-ley de emergencia para transferencias locales ordinarias",
+      "Desfase de dos años en el pago de las compensaciones (2024-2026)",
+      "Falta de una auditoría pública sobre el coste real de los servicios municipales prestados a las bases",
+      "Agrupación de municipios colindantes sin criterios de impacto directo probados más allá de la población"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamiento de Rota (recibe más de 1M€)",
+        "Ayuntamiento de Arahal",
+        "Gobierno de EE.UU. (mantiene privilegios fiscales para sus tropas)"
+      ],
+      "perdedores": [
+        "Contribuyentes estatales (financian beneficios fiscales extranjeros)",
+        "Municipios rurales sin bases que carecen de fondos adicionales por 'crisis internacionales'"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Financiación Local / Compensación por Servidumbre de Defensa",
+    "banderas_rojas": [
+      "Uso de decreto-ley de emergencia para transferencias locales ordinarias",
+      "Desfase de dos años en el pago de las compensaciones (2024-2026)",
+      "Falta de una auditoría pública sobre el coste real de los servicios municipales prestados a las bases",
+      "Agrupación de municipios colindantes sin criterios de impacto directo probados más allá de la población"
+    ]
+  },
+  "tweeted": false
+}
