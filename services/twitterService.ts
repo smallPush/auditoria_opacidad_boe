@@ -3,7 +3,7 @@ import { BOEAuditResponse } from "../types";
 export const postTweet = async (auditData: BOEAuditResponse, boeUrl?: string): Promise<void> => {
   const response = await fetch('/api/post-tweet', {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json', 'X-Bridge-Secret': import.meta.env.VITE_BRIDGE_SECRET },
     body: JSON.stringify({
       text: auditData.resumen_tweet + (boeUrl ? `\n\n${boeUrl}` : '')
     })

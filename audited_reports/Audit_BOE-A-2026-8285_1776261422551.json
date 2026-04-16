@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8285",
+  "timestamp": "2026-04-15T13:57:02.551Z",
+  "title": "Resolución de 14 de abril de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Aunque el documento presenta una apariencia técnica de control, el mecanismo de 'prudencia financiera' es una herramienta de control centralista sobre la autonomía local. La mención a 'asesoramiento externo independiente' como alternativa a las tablas oficiales constituye un punto ciego que permite a las administraciones con mayores recursos escapar de la norma estandarizada. Además, la indexación sistemática al Euribor transfiere el riesgo de mercado directamente a los presupuestos públicos destinados a servicios sociales, beneficiando al sector bancario en periodos de volatilidad.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los límites máximos de interés que los Ayuntamientos y las Comunidades Autónomas pueden pagar cuando piden préstamos. El objetivo oficial es evitar que se endeuden por encima de sus posibilidades, vinculando sus intereses a los que paga el Estado. Sin embargo, esto significa que el coste de nuestra deuda pública sigue dependiendo totalmente de los mercados financieros y de lo que dicte el Euribor.",
+    "resumen_tweet": "📉 El Tesoro actualiza los tipos máximos para la deuda de CC.AA. y Ayuntamientos. ¿Prudencia o control central? El dinero público sigue atado al Euribor mientras el asesoramiento externo abre puertas a la opacidad. #BOE #Opacidad #Transparencia 💸",
+    "banderas_red_flags": [
+      "Uso de asesoramiento externo independiente como vía alternativa de valoración",
+      "Vínculo directo entre servicios públicos y fluctuaciones del Euribor",
+      "Complejidad técnica que dificulta la fiscalización por parte del ciudadano medio",
+      "Posible limitación de la autonomía de gestión financiera de entidades locales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades financieras (aseguran cobro de intereses dentro de márgenes legales)",
+        "Ministerio de Economía (refuerza el control sobre las cuentas regionales)",
+        "Consultoras de asesoramiento financiero externo"
+      ],
+      "perdedores": [
+        "Autonomía financiera municipal",
+        "Contribuyentes futuros (que asumen la carga de intereses)",
+        "Presupuestos de servicios sociales (comprometidos por el pago de deuda)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Afecta a todas las CC.AA. y Entidades Locales)",
+    "tipologia": "Regulación de Deuda Pública y Control de Gasto",
+    "banderas_rojas": [
+      "Uso de asesoramiento externo independiente como vía alternativa de valoración",
+      "Vínculo directo entre servicios públicos y fluctuaciones del Euribor",
+      "Complejidad técnica que dificulta la fiscalización por parte del ciudadano medio",
+      "Posible limitación de la autonomía de gestión financiera de entidades locales"
+    ]
+  },
+  "tweeted": false
+}

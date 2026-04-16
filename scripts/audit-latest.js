@@ -271,7 +271,8 @@ async function run() {
         const itemXml = await itemXmlResponse.text();
         const audit = await analyzeBOE(itemXml);
         const timestamp = Date.now();
-        const fileName = `Audit_${item.id}_${timestamp}.json`;
+        const sanitizedId = item.id.replace(/[^a-zA-Z0-9_-]/g, '');
+        const fileName = `Audit_${sanitizedId}_${timestamp}.json`;
         const filePath = path.join(AUDITED_REPORTS_DIR, fileName);
 
         let tweeted = false;

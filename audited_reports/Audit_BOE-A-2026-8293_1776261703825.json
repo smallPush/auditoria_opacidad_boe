@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8293",
+  "timestamp": "2026-04-15T14:01:43.825Z",
+  "title": "Real Decreto 323/2026, de 14 de abril, por el que se dispone el cese de don Francisco José Palacio Ruiz de Azagra como Vocal del Tribunal Económico-Administrativo Central.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta un cese administrativo estándar bajo la fórmula de 'agradecimiento por los servicios prestados'. Sin embargo, la opacidad radica en la ausencia total de motivación: no se especifica si el cese es a petición propia, por jubilación, por discrepancias técnicas o por una reestructuración política del Ministerio de Hacienda. Dado que el Tribunal Económico-Administrativo Central (TEAC) es el órgano que resuelve las reclamaciones de los ciudadanos contra la administración tributaria, la falta de transparencia en la rotación de sus vocales puede afectar a la percepción de independencia del tribunal.",
+    "resumen_ciudadano": "Se formaliza la salida de Francisco José Palacio Ruiz de Azagra del Tribunal que decide sobre los recursos de los ciudadanos contra Hacienda. El Gobierno no explica los motivos de este cambio en la cúpula de la justicia administrativa fiscal.",
+    "resumen_tweet": "🚨 ¿Quién vigila a los que deciden sobre tus impuestos? Cese en el Tribunal Económico-Administrativo Central sin explicaciones. Movimientos en la cúpula fiscal que el ciudadano no puede fiscalizar. 📉⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de motivación del cese",
+      "Falta de indicación de destino o causa de salida",
+      "Uso de lenguaje administrativo genérico en puestos de alto impacto técnico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (capacidad de renovación de puestos clave)",
+        "Futuro sustituto (nueva cuota de poder en el tribunal)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconoce si el cese afecta a la línea doctrinal del tribunal)",
+        "Transparencia institucional (por el uso de fórmulas preestablecidas sin contenido explicativo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Ausencia de motivación del cese",
+      "Falta de indicación de destino o causa de salida",
+      "Uso de lenguaje administrativo genérico en puestos de alto impacto técnico"
+    ]
+  },
+  "tweeted": false
+}

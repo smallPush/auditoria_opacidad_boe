@@ -5,6 +5,7 @@ import { Search, Loader2, Lock, User, Radio, History, BookmarkCheck, Database, Z
 import { BOE_SOURCES, STORAGE_KEYS } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDataPayload } from './types';
 import { analyzeBOE } from './services/geminiService';
+import { escapeXml } from './services/xmlUtils';
 import { translations, Language } from './translations';
 import { getAuditHistory, saveAuditToDB } from './services/supabaseService';
 import AuditDashboard from './components/AuditDashboard';
@@ -237,7 +238,7 @@ const App: React.FC = () => {
         const titleNode = xmlDoc.querySelector("titulo");
         if (titleNode) docTitle = titleNode.textContent || docTitle;
       } catch (e) {
-        xmlText = `<boe><diario id="BOE-S-2024"><titulo>BOE</titulo><item id="${boeId}"><titulo>${docTitle}</titulo><texto>Contenido simulado para auditoría...</texto></item></diario></boe>`;
+        xmlText = `<boe><diario id="BOE-S-2024"><titulo>BOE</titulo><item id="${escapeXml(boeId)}"><titulo>${escapeXml(docTitle)}</titulo><texto>Contenido simulado para auditoría...</texto></item></diario></boe>`;
       }
 
       const audit = await analyzeBOE(xmlText, lang, userApiKey);

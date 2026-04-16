@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8288",
+  "timestamp": "2026-04-15T13:59:56.359Z",
+  "title": "Acuerdo de 24 de marzo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se nombra Presidente del Tribunal de Instancia de El Vendrell (Tarragona) al juez don Daniel Molina Castaño.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento formaliza un nombramiento jerárquico dentro de la estructura judicial catalana. Aunque se cita la base legal (LOPJ), existe una opacidad intrínseca en el proceso de elección por la 'Junta de Jueces', cuyos criterios de selección, méritos comparativos y actas de votación no son públicos ni se detallan en el BOE. Se perpetúa un modelo de cooptación interna que dificulta la fiscalización ciudadana sobre quién ostenta el poder territorial en la justicia.",
+    "resumen_ciudadano": "Se ha nombrado a Daniel Molina Castaño como nuevo Presidente del Tribunal de Instancia de El Vendrell (Tarragona). Este cargo es clave para la organización de los juzgados locales y ha sido decidido mediante una votación interna entre jueces y ratificado por el CGPJ.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la cúpula judicial de El Vendrell. El CGPJ designa a Daniel Molina tras una votación interna de jueces. ¿Transparencia? Escasa: no conocemos méritos ni deliberaciones. La justicia se organiza a puerta cerrada. 🏛️ #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose de méritos del candidato",
+      "Falta de transparencia en la deliberación de la Junta de Jueces",
+      "Procedimiento de elección interna sin escrutinio público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Daniel Molina Castaño (ascenso en la carrera judicial)",
+        "CGPJ (mantenimiento de su potestad de nombramiento)",
+        "Cúpulas judiciales (consolidación de estructuras jerárquicas)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de los criterios de idoneidad)",
+        "Otros candidatos potenciales (falta de visibilidad del proceso de exclusión)",
+        "Transparencia democrática (proceso de decisión opaco)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose de méritos del candidato",
+      "Falta de transparencia en la deliberación de la Junta de Jueces",
+      "Procedimiento de elección interna sin escrutinio público"
+    ]
+  },
+  "tweeted": false
+}

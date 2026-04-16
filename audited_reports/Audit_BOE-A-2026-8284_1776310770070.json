@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8284",
+  "timestamp": "2026-04-16T03:39:30.070Z",
+  "title": "Real Decreto 316/2026, de 14 de abril, por el que se modifica el Real Decreto 1155/2024, de 19 de noviembre, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 316/2026 opera como una regularización extraordinaria encubierta bajo la narrativa de adaptación al Pacto Europeo de Migración. Destaca el uso de TRAGSA y Correos para la gestión material, lo que supone una externalización de funciones de la Administración General hacia empresas públicas para evitar el colapso burocrático, ocultando el coste real de estos 'encargos de gestión'. Existe una incongruencia ideológica al presentar la medida como una protección de derechos humanos, mientras el preámbulo admite que la motivación real es la sostenibilidad de la Seguridad Social y el déficit demográfico. La habilitación provisional para trabajar desde el inicio del trámite es una medida de impacto económico inmediato para aflorar economía sumergida sin haber resuelto la residencia legal definitiva.",
+    "resumen_ciudadano": "El Gobierno facilita que solicitantes de asilo y extranjeros con vínculos en España consigan papeles y permiso de trabajo de forma más rápida hasta junio de 2026. La gestión de las solicitudes no la harán solo funcionarios, sino también personal de TRAGSA y oficinas de Correos para agilizar el proceso.",
+    "resumen_tweet": "🚨 Nueva regularización 'express' vía #BOE: El Gobierno habilita a TRAGSA y Correos para tramitar miles de permisos de residencia. Prioridad: cotizantes para la Seguridad Social bajo el paraguas de derechos humanos. 🧐 #Opacidad #Transparencia #Migración",
+    "banderas_red_flags": [
+      "Externalización de la gestión administrativa a TRAGSA/TRAGSATEC",
+      "Plazo de solicitud extremadamente breve (hasta junio 2026) que puede generar indefensión",
+      "Gastos operativos no desglosados mediante 'encargos de gestión'",
+      "Habilitación laboral provisional sin resolución jurídica firme"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresa de Transformación Agraria (TRAGSA) por nuevos contratos de gestión",
+        "Mercado laboral con necesidad de mano de obra",
+        "Inmigrantes en situación de irregularidad prolongada"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios de extranjería (desplazados por entes instrumentales)",
+        "Transparencia presupuestaria por la opacidad en los costes de externalización",
+        "Solicitantes que no logren tramitar en el estrecho margen temporal establecido"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma del Reglamento de Extranjería",
+    "banderas_rojas": [
+      "Externalización de la gestión administrativa a TRAGSA/TRAGSATEC",
+      "Plazo de solicitud extremadamente breve (hasta junio 2026) que puede generar indefensión",
+      "Gastos operativos no desglosados mediante 'encargos de gestión'",
+      "Habilitación laboral provisional sin resolución jurídica firme"
+    ]
+  },
+  "tweeted": false
+}

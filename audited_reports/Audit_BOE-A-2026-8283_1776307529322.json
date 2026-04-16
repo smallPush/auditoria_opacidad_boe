@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8283",
+  "timestamp": "2026-04-16T02:45:29.322Z",
+  "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en materia de transporte.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto-ley 9/2026 utiliza una narrativa de 'extrema urgencia' por un conflicto internacional para introducir cambios estructurales permanentes en la Ley de Ordenación de los Transportes Terrestres (1987) y la Ley de Contrato de Transporte (2009), evitando el debate parlamentario ordinario. Aunque se presenta bajo el paraguas del Ministerio de 'Movilidad Sostenible', el núcleo de la norma es el blindaje de la rentabilidad empresarial mediante la indexación obligatoria del precio del combustible en las facturas y la concesión de ayudas directas específicamente para locomotoras diésel, lo cual contradice los objetivos de descarbonización a largo plazo. La cuantía de 3,15 millones de euros para el sector ferroviario parece insuficiente para un impacto sistémico, funcionando más como un bálsamo sectorial que como una solución de fondo.",
+    "resumen_ciudadano": "El Gobierno aprueba una norma que obliga a que cualquier subida en el precio del gasóleo se traslade directamente al cliente final en el transporte de mercancías. Además, se destinan 3,15 millones de euros en ayudas directas a empresas de trenes de mercancías que usen locomotoras diésel para compensar el coste de la energía. Se incluyen también ayudas para taxis adaptados y transporte marítimo de carga.",
+    "resumen_tweet": "🚨 Nuevo #BOE: El Gobierno blinda por ley que las empresas de transporte te cobren más si sube el gasóleo 📈. Además, 3,15M€ en ayudas para locomotoras DIÉSEL. ¿Y la sostenibilidad? El consumidor paga el pato de la crisis energética. ⛽️🚛 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para modificaciones estructurales permanentes de leyes de 1987 y 2009",
+      "Incongruencia ambiental: ayudas directas vinculadas exclusivamente al uso de combustibles fósiles (diésel)",
+      "Indexación obligatoria de precios que elimina la libertad de pacto en perjuicio del cargador/consumidor",
+      "Establecimiento de un régimen sancionador mediante urgencia legislativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas de transporte por carretera (mayor facilidad para trasladar costes)",
+        "Operadores ferroviarios con flota diésel antigua",
+        "Empresas de transporte marítimo de carga"
+      ],
+      "perdedores": [
+        "Consumidor final (que asumirá el encarecimiento de productos por el transporte)",
+        "Pequeños autónomos del transporte con menor capacidad de negociación",
+        "Objetivos de transición ecológica (subvención al diésel)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para modificaciones estructurales permanentes de leyes de 1987 y 2009",
+      "Incongruencia ambiental: ayudas directas vinculadas exclusivamente al uso de combustibles fósiles (diésel)",
+      "Indexación obligatoria de precios que elimina la libertad de pacto en perjuicio del cargador/consumidor",
+      "Establecimiento de un régimen sancionador mediante urgencia legislativa"
+    ]
+  },
+  "tweeted": false
+}
