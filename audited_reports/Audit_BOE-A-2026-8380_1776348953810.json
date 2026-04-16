@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8380",
+  "timestamp": "2026-04-16T14:15:53.810Z",
+  "title": "Orden TES/340/2026, de 19 de marzo, por la que se sustituyen miembros del Consejo Rector del Organismo Autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden TES/340/2026 es un ejemplo de la 'burocracia de relevo' tras procesos electorales. Aunque se presenta como un ajuste técnico en el Consejo Rector de la Inspección de Trabajo, el texto carece de una justificación basada en méritos o idoneidad profesional para los cargos designados, limitándose a una sustitución nominal. Se observa un 'techo de cristal' inverso en la representación, donde las Direcciones Generales son ocupadas por perfiles políticos afines. La opacidad reside en la nula mención a las retribuciones por asistencia (dietas) que estos cargos podrían percibir adicionalmente a sus sueldos base en la administración.",
+    "resumen_ciudadano": "Se han cambiado los miembros del Consejo que supervisa la Inspección de Trabajo. Estos puestos son ocupados por altos cargos de diferentes ministerios y comunidades autónomas (Baleares, La Rioja, C. Valenciana). Es un trámite habitual para colocar a personal de confianza tras cambios en los gobiernos, pero no se explica qué criterios se usan para elegir a estas personas ni cuánto nos cuesta este consejo.",
+    "resumen_tweet": "🔄 ¡Baile de sillas en el Consejo de la Inspección de Trabajo! Nuevos nombres tras procesos electorales, pero sin explicar criterios de mérito ni dietas. ¿Gestión real o reparto de sillones? 🕵️‍♂️⚖️ #BOE #Opacidad #Transparencia #Trabajo",
+    "banderas_red_flags": [
+      "Ausencia de justificación de idoneidad",
+      "Opacidad en el coste de las dietas por asistencia",
+      "Nombramientos por libre designación política",
+      "Falta de perfiles técnicos independientes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la Administración General del Estado",
+        "Direcciones Generales de CCAA (Baleares, La Rioja, C. Valenciana)",
+        "Ministerio de Inclusión y Ministerio de Igualdad (mantienen cuota de poder)"
+      ],
+      "perdedores": [
+        "Cuerpo técnico de inspectores (sin representación directa en el control)",
+        "Contribuyentes (falta de transparencia en el coste del órgano)",
+        "Mérito y capacidad (supeditados a la confianza política)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y ceses",
+    "banderas_rojas": [
+      "Ausencia de justificación de idoneidad",
+      "Opacidad en el coste de las dietas por asistencia",
+      "Nombramientos por libre designación política",
+      "Falta de perfiles técnicos independientes"
+    ]
+  },
+  "tweeted": false
+}
