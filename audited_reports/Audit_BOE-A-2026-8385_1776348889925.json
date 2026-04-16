@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-8385",
+  "timestamp": "2026-04-16T14:14:49.925Z",
+  "title": "Resolución de 10 de abril de 2026, de la Universidad de Castilla-La Mancha, por la que se corrigen errores en la de 27 de marzo de 2026, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una corrección de errores técnica al amparo del artículo 109.2 de la Ley 39/2015. El error se localiza en la adscripción departamental de un Profesor Titular. Aunque es un procedimiento estándar, la recurrencia de correcciones en el BOE evidencia una falta de control de calidad previo en la fase de redacción legislativa y administrativa de la Universidad de Castilla-La Mancha. No se detectan gastos fantasma directos, pero sí un consumo de recursos públicos para subsanar descuidos administrativos evitables.",
+    "resumen_ciudadano": "La Universidad de Castilla-La Mancha ha corregido el departamento asignado a un profesor titular en su nombramiento oficial. El error consistía en asignarlo erróneamente a 'Tecnologías y Sistemas de Información' cuando su departamento real es 'Sistemas Informáticos'.",
+    "resumen_tweet": "🔍 Nueva corrección de errores en el #BOE. La UCLM rectifica el departamento de un profesor titular. Un recordatorio de que hasta en la academia el diablo está en los detalles administrativos. #Transparencia #Opacidad #UCLM #CastillaLaMancha",
+    "banderas_red_flags": [
+      "Error de redacción administrativa",
+      "Necesidad de subsanación posterior"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pardo Mateo, Juan José (por la correcta asignación de su plaza)"
+      ],
+      "perdedores": [
+        "Administración universitaria (por falta de rigor en la publicación inicial)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Error de redacción administrativa",
+      "Necesidad de subsanación posterior"
+    ]
+  },
+  "tweeted": false
+}
