@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-8366",
+  "timestamp": "2026-04-16T13:48:02.118Z",
+  "title": "Real Decreto 315/2026, de 15 de abril, por el que se modifica el Real Decreto 188/2025, de 11 de marzo, por el que se regulan las subvenciones y ayudas en el ámbito de la cooperación para el desarrollo sostenible y la solidaridad global.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto introduce una flexibilidad presupuestaria alarmante bajo el pretexto de 'especificidades de la cooperación'. La modificación permite variar la distribución presupuestaria inicial hasta un 25% basándose en 'necesidades sobrevenidas' apreciadas de forma subjetiva por el órgano concedente. Esto crea un espacio de discrecionalidad técnica que dificulta la fiscalización a posteriori. Además, la retroactividad de la norma (aplicándose a procedimientos ya iniciados desde 2025) sugiere una necesidad de legalizar ex post situaciones contables previas que no encajaban en la normativa anterior. Se facilita la imputación de gastos previos a la concesión y gastos de cierre, lo que diluye la trazabilidad del impacto real de los fondos.",
+    "resumen_ciudadano": "El Gobierno ha modificado las reglas de las subvenciones de cooperación internacional para permitir que las organizaciones receptoras puedan cambiar el destino de hasta una cuarta parte del dinero concedido sin necesidad de seguir el plan original de forma estricta. También se permite que cobren gastos realizados antes de que se aprobase la ayuda y gastos de personal en sedes centrales, lo que reduce el dinero que llega directamente al terreno.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! El Gobierno permite a las ONGs variar un 25% el gasto presupuestado sin control estricto bajo el concepto de 'necesidades sobrevenidas'. ¿Flexibilidad o falta de transparencia? 💸 #Opacidad #Transparencia #Cooperación",
+    "banderas_red_flags": [
+      "Desviación presupuestaria del 25% sin nueva resolución",
+      "Aplicación con efectos retroactivos a 2025",
+      "Ambigüedad en el término 'necesidades sobrevenidas'",
+      "Imputación de gastos de 'estructuras internacionales' y personal en sede",
+      "Validación de existencias previamente adquiridas como gasto subvencionable"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes ONGs (mayor flexibilidad operativa)",
+        "Organismos internacionales (imputación de costes de estructura)",
+        "Ministerio de Asuntos Exteriores (menor carga administrativa de control)"
+      ],
+      "perdedores": [
+        "Contribuyentes (menor control sobre el destino final del euro)",
+        "Tribunal de Cuentas (mayor dificultad para auditar cambios discrecionales)",
+        "Proyectos pequeños (que no tienen estructuras internacionales para imputar gastos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Cooperación Internacional",
+    "banderas_rojas": [
+      "Desviación presupuestaria del 25% sin nueva resolución",
+      "Aplicación con efectos retroactivos a 2025",
+      "Ambigüedad en el término 'necesidades sobrevenidas'",
+      "Imputación de gastos de 'estructuras internacionales' y personal en sede",
+      "Validación de existencias previamente adquiridas como gasto subvencionable"
+    ]
+  },
+  "tweeted": false
+}
