@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8300",
+  "timestamp": "2026-04-16T03:48:06.530Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Presidencia del Consejo de Estado, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 29 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Técnico de Sistemas Nivel 22 (Subgrupo C1) es un ejemplo de discrecionalidad administrativa. Aunque es una figura legal, el 'dedazo' institucional en puestos técnicos reduce la meritocracia en favor de la confianza política o personal. El traslado del adjudicatario desde el Ministerio de la Presidencia hacia el Consejo de Estado sugiere una rotación de cuadros de confianza dentro de la misma órbita de poder ejecutivo, eludiendo el concurso de méritos tradicional.",
+    "resumen_ciudadano": "El Consejo de Estado ha cubierto una plaza de informática mediante el método de elección directa en lugar de una competición abierta por méritos. Esto permite a la presidencia del órgano elegir a la persona sin justificar públicamente por qué es mejor que otros candidatos, lo que debilita la igualdad de acceso a empleos públicos.",
+    "resumen_tweet": "🚩 ¡Nuevo 'dedazo' en el #BOE! El Consejo de Estado adjudica un puesto técnico por libre designación. Menos meritocracia y más 'confianza' en puestos que deberían ser neutrales. 🏛️👤 #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Libre designación en niveles técnicos medios",
+      "Procedencia directa del Ministerio de la Presidencia",
+      "Falta de desglose de méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Garzón Ruíz (adjudicatario)",
+        "Presidencia del Consejo de Estado (control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no seleccionados",
+        "Ciudadanía (por la opacidad en la selección técnica)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Madrid",
+    "tipologia": "Nombramiento por Libre Designación",
+    "banderas_rojas": [
+      "Libre designación en niveles técnicos medios",
+      "Procedencia directa del Ministerio de la Presidencia",
+      "Falta de desglose de méritos comparativos"
+    ]
+  },
+  "tweeted": false
+}
