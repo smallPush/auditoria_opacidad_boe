@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8286",
+  "timestamp": "2026-04-16T03:40:34.580Z",
+  "title": "Real Decreto 319/2026, de 14 de abril, por el que se modifica el Real Decreto 204/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto crea una estructura administrativa específica (Oficina con nivel de Subdirección General) para gestionar la reparación de víctimas de abusos en la Iglesia Católica. Aunque responde a una recomendación del Defensor del Pueblo, el análisis revela una 'Incongruencia Ideológica' al basar el sistema en un protocolo pactado con la propia institución responsable (la Iglesia), lo que podría comprometer la percepción de imparcialidad. Además, el texto omite cualquier referencia al coste económico de esta nueva estructura de gestión, diluyendo el impacto presupuestario real bajo el pretexto de eficiencia organizativa.",
+    "resumen_ciudadano": "Se establece una nueva oficina oficial dentro del Ministerio de la Presidencia para tramitar solicitudes de ayuda y reconocimiento de víctimas de abusos sexuales en la Iglesia Católica cuyos delitos ya han prescrito legalmente. Esta oficina funcionará según un acuerdo firmado entre el Gobierno y la Conferencia Episcopal.",
+    "resumen_tweet": "🏛️ El #BOE crea la Oficina de Reparación para víctimas de abusos en la Iglesia ⛪️. Un sistema para casos prescritos basado en un pacto con la propia Iglesia. ¿Reparación justa o gestión de daños institucional? #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Externalización de la justicia penal a una vía administrativa pactada",
+      "Ausencia de memoria económica explícita en el decreto para la nueva Subdirección",
+      "Conflicto de interés: el sistema emana de un protocolo donde participa el ente infractor",
+      "Creación de cargos de libre designación (Subdirección General) para funciones de tramitación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura ministerial (gana una nueva Subdirección General)",
+        "Conferencia Episcopal (mantiene control sobre el proceso mediante el Protocolo)",
+        "Víctimas con casos prescritos (acceso a una vía de reconocimiento antes inexistente)"
+      ],
+      "perdedores": [
+        "Sistema judicial (desplazado por una vía administrativa)",
+        "Contribuyentes (asumen el gasto de la estructura administrativa de un problema institucional privado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Orgánica y Derechos Sociales",
+    "banderas_rojas": [
+      "Externalización de la justicia penal a una vía administrativa pactada",
+      "Ausencia de memoria económica explícita en el decreto para la nueva Subdirección",
+      "Conflicto de interés: el sistema emana de un protocolo donde participa el ente infractor",
+      "Creación de cargos de libre designación (Subdirección General) para funciones de tramitación"
+    ]
+  },
+  "tweeted": false
+}
