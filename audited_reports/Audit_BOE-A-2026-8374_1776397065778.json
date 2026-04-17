@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8374",
+  "timestamp": "2026-04-17T03:37:45.778Z",
+  "title": "Resolución de 8 de abril de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros de 31 de marzo de 2026, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución oficializa títulos en universidades civiles y de la Iglesia. Se detecta una asimetría normativa: mientras las universidades civiles requieren autorización de la Comunidad Autónoma, las de la Iglesia Católica operan bajo 'procedimientos especiales' derivados de acuerdos con la Santa Sede de 1962 y 1979. Esta dualidad jurídica mantiene una zona de sombra donde el control público autonómico se diluye ante privilegios históricos. Además, destaca la fuerte presencia de centros privados (UNIR, Atlántico Medio), sugiriendo un avance en la mercantilización de la educación superior bajo la etiqueta de oficialidad estatal.",
+    "resumen_ciudadano": "El Gobierno ha dado validez oficial a nuevos títulos de grado en varias universidades. Esto significa que estos estudios ahora tienen validez legal en toda España y permiten ejercer profesiones reguladas. La lista incluye desde Medicina hasta Marketing, abarcando tanto universidades públicas como privadas y religiosas.",
+    "resumen_tweet": "🎓 El #BOE oficializa nuevos grados, pero persisten los privilegios: las universidades de la Iglesia no necesitan permiso autonómico para sus títulos. ¿Igualdad educativa? ⛪️⚖️ Más mercado privado y menos control público. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Procedimientos especiales para universidades de la Iglesia",
+      "Exención de autorización autonómica para centros eclesiásticos",
+      "Crecimiento de la oferta privada sobre la pública en el listado",
+      "Falta de memoria económica sobre el coste de supervisión de estos títulos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidad Internacional de La Rioja (UNIR)",
+        "Universidades de la Iglesia Católica",
+        "Centros privados de enseñanza superior"
+      ],
+      "perdedores": [
+        "Sistema universitario público (competencia creciente)",
+        "Principio de aconfesionalidad administrativa (por trato diferenciado)",
+        "Control autonómico de la planificación educativa"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Educación y Universidades",
+    "banderas_rojas": [
+      "Procedimientos especiales para universidades de la Iglesia",
+      "Exención de autorización autonómica para centros eclesiásticos",
+      "Crecimiento de la oferta privada sobre la pública en el listado",
+      "Falta de memoria económica sobre el coste de supervisión de estos títulos"
+    ]
+  },
+  "tweeted": false
+}
