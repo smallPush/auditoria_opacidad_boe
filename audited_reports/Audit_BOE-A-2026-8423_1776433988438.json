@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8423",
+  "timestamp": "2026-04-17T13:53:08.438Z",
+  "title": "Corrección de errores de la Ley 1/2026, de 20 de febrero, Universitaria para Andalucía.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una corrección de errores de la Ley Universitaria para Andalucía. El cambio aparentemente técnico (modificar la referencia del apartado 3 por el apartado 2 del artículo 20) evidencia una falta de rigor en la redacción y revisión original de una ley de alto impacto social. Estas 'correcciones' a posteriori dificultan el seguimiento legislativo para el ciudadano común y pueden esconder cambios de calado bajo la apariencia de simples erratas.",
+    "resumen_ciudadano": "La Junta de Andalucía ha tenido que rectificar un error en su nueva Ley Universitaria. Donde la ley decía que se modificaba el apartado 3 del artículo 20, ahora aclaran que en realidad se referían al apartado 2. Es un ajuste burocrático que subsana un fallo de escritura en el texto legal original publicado semanas antes.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Andalucía corrige 'errores' en su nueva Ley Universitaria. ¿Despiste o falta de rigor? Un baile de números del apartado 3 al 2 que afecta a la seguridad jurídica educativa. Menos parches y más rigor. 🎓📉 #Opacidad #Transparencia #Andalucía",
+    "banderas_red_flags": [
+      "Inseguridad jurídica por error de redacción",
+      "Legislación mediante parches post-publicación",
+      "Falta de revisión técnica previa en el Parlamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Servicios jurídicos de la Junta (que cierran el fleco)",
+        "Gestores administrativos"
+      ],
+      "perdedores": [
+        "Comunidad Universitaria (por la confusión normativa)",
+        "Ciudadanía (que percibe falta de pulcritud en las leyes)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Educación / Enseñanza Universitaria",
+    "banderas_rojas": [
+      "Inseguridad jurídica por error de redacción",
+      "Legislación mediante parches post-publicación",
+      "Falta de revisión técnica previa en el Parlamento"
+    ]
+  },
+  "tweeted": false
+}
