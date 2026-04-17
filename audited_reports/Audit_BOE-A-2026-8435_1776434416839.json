@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8435",
+  "timestamp": "2026-04-17T14:00:16.839Z",
+  "title": "Resolución 491/2026, de 30 de marzo, de la Dirección General de Justicia e Interior, de la Consejería de Salud y Políticas Sociales, por la que se otorga destino a funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, incluido, en ejecución de sentencia, en la relación de aprobados del proceso selectivo convocado por Orden JUS/242/2022, de 24 de marzo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución es un ejemplo de 'reparación tardía'. Aunque el texto es claro en su mandato, revela una patología administrativa: el ciudadano tuvo que recurrir a los tribunales (Sentencia de 2025) para corregir un error en un proceso selectivo de 2022. La administración se ve obligada a 'incrementar en una plaza' la convocatoria original, lo que supone un gasto de personal no planificado inicialmente para subsanar una exclusión indebida. Además, se evidencia la precariedad del empleo público temporal al decretar el cese inmediato del interino que ocupaba la plaza sin mayor protección.",
+    "resumen_ciudadano": "Un aspirante a funcionario de Justicia en La Rioja recupera su derecho a una plaza tras ganar un juicio contra la Administración. Esto obliga al Gobierno riojano a crear un puesto adicional para cumplir la sentencia y provoca el despido automático de la persona interina que lo sustituía. El proceso ha tardado cuatro años en resolverse desde la convocatoria inicial.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 4 años! Un ciudadano gana a la Administración y logra su plaza en La Rioja por sentencia judicial. 🛑 El error administrativo obliga a crear una plaza extra y provoca el despido fulminante de un interino. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia por exclusión indebida",
+      "Incremento de plazas presupuestarias por vía judicial",
+      "Cese inmediato de personal interino sin preaviso",
+      "Dilación excesiva: proceso de 2022 resuelto en 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Roberto Fernández Díaz (recupera su derecho)",
+        "Sistema Judicial (corrige a la Administración)"
+      ],
+      "perdedores": [
+        "Funcionario interino (cesado el mismo día)",
+        "Contribuyente (costes de litigiosidad y plaza adicional no prevista)",
+        "Administración Pública (imagen de ineficiencia)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramiento de personal por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia por exclusión indebida",
+      "Incremento de plazas presupuestarias por vía judicial",
+      "Cese inmediato de personal interino sin preaviso",
+      "Dilación excesiva: proceso de 2022 resuelto en 2026"
+    ]
+  },
+  "tweeted": false
+}
