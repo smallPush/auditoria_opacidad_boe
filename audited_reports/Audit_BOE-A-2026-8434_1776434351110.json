@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8434",
+  "timestamp": "2026-04-17T13:59:11.110Z",
+  "title": "Resolución de 9 de abril de 2026, del Consejo de Seguridad Nuclear, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica tres puestos de alta responsabilidad técnica en el Consejo de Seguridad Nuclear (CSN) mediante el sistema de 'libre designación'. Aunque legal, este método es inherentemente discrecional y permite el nombramiento 'a dedo' de cargos que deberían ser estrictamente técnicos, dada la sensibilidad de la seguridad nuclear. Los complementos específicos asignados (superiores a los 30.000€) se suman a salarios base elevados, consolidando una élite burocrática (Grupo A1) con procesos de selección menos transparentes que el concurso de méritos.",
+    "resumen_ciudadano": "El Consejo de Seguridad Nuclear ha nombrado a tres altos cargos para áreas críticas como Protección Radiológica e Ingeniería. Estos nombramientos se han realizado por libre designación, un sistema que permite a los directivos elegir a quién quieran sin un proceso de examen público tradicional, lo que genera dudas sobre la meritocracia en un sector tan vital para la seguridad pública.",
+    "resumen_tweet": "☢️ ¿Seguridad nuclear o libre designación? El CSN adjudica 3 altos cargos con sueldos extra de +30k€ mediante el método de 'libre designación' (a dedo). En puestos tan críticos, ¿dónde queda la meritocracia pura? 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos",
+      "Alta discrecionalidad en la selección",
+      "Elevados complementos específicos (gastos fijos de personal)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Sánchez Hernando",
+        "Roberto Gil de Mingo",
+        "José Galindo Rodríguez",
+        "Funcionariado del Grupo A1"
+      ],
+      "perdedores": [
+        "Sistema de concurso basado puramente en méritos",
+        "Candidatos externos sin redes de confianza internas",
+        "Transparencia en la gestión de organismos reguladores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos",
+      "Alta discrecionalidad en la selección",
+      "Elevados complementos específicos (gastos fijos de personal)"
+    ]
+  },
+  "tweeted": false
+}
