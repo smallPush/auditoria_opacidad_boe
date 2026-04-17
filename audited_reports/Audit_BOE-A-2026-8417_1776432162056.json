@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8417",
+  "timestamp": "2026-04-17T13:22:42.056Z",
+  "title": "Enmiendas de 2023 a la parte A del Código de formación, titulación y guardia para la gente de mar (Código de Formación), adoptadas en Londres el 8 de junio de 2023 mediante Resolución MSC.541(107).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un retraso significativo entre la adopción de las enmiendas (2023), su entrada en vigor (2025) y su publicación definitiva en el BOE (2026). Esta desincronía temporal de casi tres años dificulta la fiscalización ciudadana en tiempo real. La digitalización de títulos y refrendos, si bien moderniza la burocracia, impone una dependencia tecnológica total y elimina elementos de validación física (firmas, sellos, fotos) en favor de sistemas electrónicos cuya seguridad y coste de implementación no se detallan en el texto. Existe un riesgo de opacidad en los contratos de adjudicación de las plataformas que gestionarán estos datos sensibles a nivel internacional.",
+    "resumen_ciudadano": "La normativa elimina la necesidad de sellos físicos, fotos y firmas manuscritas en los títulos de los marineros, sustituyéndolos por certificados electrónicos. Es una medida de modernización que busca agilizar el control en los puertos, pero que se publica en España con mucho retraso respecto a su acuerdo internacional.",
+    "resumen_tweet": "⚓️ Adiós al papel en alta mar: el #BOE digitaliza los títulos de marineros. Se eliminan sellos y firmas físicas para pasar al formato electrónico. ¿El problema? Se publica en 2026 un acuerdo de 2023. ⏳ La transparencia va a ritmo de remo. #Opacidad #Mar",
+    "banderas_red_flags": [
+      "Publicación extemporánea (3 años de retraso desde la adopción)",
+      "Eliminación de validaciones físicas sin especificar auditoría del sistema digital",
+      "Ausencia de desglose presupuestario para la transición tecnológica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas navieras (agilidad en despachos)",
+        "Administración Pública (reducción de costes de emisión física)",
+        "Proveedores de software de certificación"
+      ],
+      "perdedores": [
+        "Gente de mar con brecha digital",
+        "Trabajadores de gestión administrativa tradicional",
+        "Soberanía ciudadana sobre datos biométricos digitalizados"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Digitalización",
+    "banderas_rojas": [
+      "Publicación extemporánea (3 años de retraso desde la adopción)",
+      "Eliminación de validaciones físicas sin especificar auditoría del sistema digital",
+      "Ausencia de desglose presupuestario para la transición tecnológica"
+    ]
+  },
+  "tweeted": false
+}
