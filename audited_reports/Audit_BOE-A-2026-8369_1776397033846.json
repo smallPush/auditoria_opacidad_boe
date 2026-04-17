@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8369",
+  "timestamp": "2026-04-17T03:37:13.846Z",
+  "title": "Orden APA/338/2026, de 15 de abril, por la que se deja sin efectos la Orden APA/1288/2025, de 11 de noviembre, por la que se establece la medida de confinamiento de explotaciones para la prevención y control del contagio por influenza aviar.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden APA/338/2026 es un acto administrativo de reversión de medidas excepcionales. Si bien la justificación técnica se basa en la evolución epidemiológica y factores climáticos (subida de temperaturas), el texto peca de opacidad al remitir a 'herramientas de gestión del riesgo espacial' del Ministerio que no son públicas ni auditables por el ciudadano de a pie. Se observa una dependencia absoluta de criterios técnicos internos para restringir o liberar la actividad económica del sector avícola, sin detallar los umbrales exactos de detección que motivan el cambio de postura legislativa.",
+    "resumen_ciudadano": "El Gobierno ha decidido poner fin al confinamiento obligatorio de las aves de corral en toda España. Esta medida, que obligaba a mantener a los animales encerrados para evitar el contagio de gripe aviar por contacto con aves migratorias, queda anulada debido a la mejora de la situación sanitaria y la llegada del calor. Las granjas pueden volver a operar con normalidad exterior.",
+    "resumen_tweet": "🚨 Fin al confinamiento de aves en España. El #BOE publica el levantamiento de medidas contra la gripe aviar por 'evolución favorable' y calor. 🐔 Libertad para las explotaciones tras meses de restricciones. ¿Datos claros o gestión opaca? #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en las 'herramientas de gestión de riesgo' no especificadas",
+      "Ausencia de datos cuantitativos sobre casos detectados en el texto",
+      "Uso de conceptos subjetivos como 'evolución favorable' sin métricas públicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Explotaciones avícolas (especialmente de producción campera/ecológica)",
+        "Industria cárnica y de huevos al reducir costes de gestión de crisis",
+        "Bienestar animal (fin del confinamiento forzoso)"
+      ],
+      "perdedores": [
+        "Sistemas de vigilancia epidemiológica independiente (por falta de acceso a las métricas del Ministerio)",
+        "Pequeños productores que ya sufrieron el impacto económico del cierre previo sin ayudas mencionadas aquí"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Sanidad Animal / Medidas Cautelares",
+    "banderas_rojas": [
+      "Opacidad en las 'herramientas de gestión de riesgo' no especificadas",
+      "Ausencia de datos cuantitativos sobre casos detectados en el texto",
+      "Uso de conceptos subjetivos como 'evolución favorable' sin métricas públicas"
+    ]
+  },
+  "tweeted": false
+}
