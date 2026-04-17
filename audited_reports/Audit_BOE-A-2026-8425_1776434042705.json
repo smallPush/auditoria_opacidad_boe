@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8425",
+  "timestamp": "2026-04-17T13:54:02.705Z",
+  "title": "Resolución de 9 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento refleja el uso del sistema de 'Libre Designación', una figura legal que permite el nombramiento discrecional (comúnmente criticado como 'dedazo') para puestos que no deberían requerir tal nivel de confianza política, como una secretaría de nivel 17. Es notable que dos puestos de nivel 16 queden 'desiertos', lo que sugiere que no se hallaron perfiles que cumplieran con los criterios subjetivos de la subsecretaría, a pesar de ser rangos administrativos básicos. El adjudicatario procede de un ministerio distinto y otra provincia, lo que implica costes de traslado y una integración discrecional en la estructura de Exteriores.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha seleccionado a una persona para un puesto de secretario mediante adjudicación directa por confianza, mientras que otros dos puestos similares han quedado vacíos al no encontrar candidatos adecuados bajo este criterio. Un funcionario se traslada desde Baleares a Madrid para ocupar el cargo.",
+    "resumen_tweet": "🧐 Nueva resolución de 'Libre Designación' en Exteriores. El sistema de 'dedazo' legal sigue vigente para puestos administrativos. Una plaza adjudicada y dos quedan desiertas 🤷‍♂️ ¿Mérito o confianza política? #BOE #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación en niveles administrativos bajos (C1)",
+      "Puestos declarados desiertos sin explicación técnica",
+      "Opacidad en los criterios de idoneidad del adjudicatario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Andrés Jubero Carmona (ascenso y traslado)",
+        "Discrecionalidad administrativa"
+      ],
+      "perdedores": [
+        "Principios de mérito y capacidad",
+        "Transparencia en la función pública",
+        "Candidatos descartados sin baremación pública"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación en niveles administrativos bajos (C1)",
+      "Puestos declarados desiertos sin explicación técnica",
+      "Opacidad en los criterios de idoneidad del adjudicatario"
+    ]
+  },
+  "tweeted": false
+}
