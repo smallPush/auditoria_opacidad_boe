@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-8427",
+  "timestamp": "2026-04-17T13:55:10.575Z",
+  "title": "Orden PJC/349/2026, de 30 de marzo, por la que, en ejecución de sentencia, se nombra funcionario de carrera del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia a don Roberto Fernández Díaz.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "El documento es una orden de ejecucion de sentencia que evidencia un fallo sistémico en los procesos de seleccion de la Administracion de Justicia de 2022. La nulidad del cuestionario test para el recurrente implica que la Administracion cometio errores tecnicos en la evaluacion inicial, obligando al ciudadano a judicializar su acceso a la funcion publica. Este 'Gasto Fantasma' se materializa en la retroactividad de efectos economicos desde diciembre de 2023, pagando salarios por un periodo no trabajado debido a la ineficiencia administrativa previa.",
+    "resumen_ciudadano": "El Ministerio de Justicia se ha visto obligado por un juez a nombrar funcionario a Roberto Fernandez Diaz tras admitir errores en la correccion de su examen de oposicion de 2022. El afectado obtendra su plaza en La Rioja y cobrara todos los atrasos economicos desde finales de 2023, compensando asi el tiempo perdido por el error administrativo.",
+    "resumen_tweet": "⚖️ ¡Justicia frente al error administrativo! Un opositor logra su plaza en el #BOE tras ganar en los tribunales. El Estado debera pagar atrasos desde 2023 por una mala correccion en 2022. La ineficiencia nos sale cara. 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ejecucion de sentencia judicial por nulidad",
+      "Correccion retroactiva de cuestionario de examen",
+      "Efectos economicos retroactivos desde 2023",
+      "Incremento de plaza extra-cupo inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Roberto Fernandez Diaz (recupera su derecho y plaza)",
+        "Poder Judicial (como corrector de la Administracion)"
+      ],
+      "perdedores": [
+        "Ministerio de Justicia (por mala praxis en la oposicion)",
+        "Contribuyentes (pagan salarios retroactivos por errores de gestion)",
+        "Comunidad Autonoma de La Rioja (asume la ejecucion economica)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramiento por Ejecucion de Sentencia",
+    "banderas_rojas": [
+      "Ejecucion de sentencia judicial por nulidad",
+      "Correccion retroactiva de cuestionario de examen",
+      "Efectos economicos retroactivos desde 2023",
+      "Incremento de plaza extra-cupo inicial"
+    ]
+  },
+  "tweeted": false
+}
