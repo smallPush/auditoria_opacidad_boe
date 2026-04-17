@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8418",
+  "timestamp": "2026-04-17T13:50:03.320Z",
+  "title": "Enmiendas de 2023 al Convenio Internacional sobre normas de formación, titulación y guardia para la gente de mar, 1978 (Convenio de Formación de 1978), adoptadas en Londres el 8 de junio de 2023 mediante Resolución MSC.540(107).",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de la transposición de enmiendas internacionales (IMO) para la digitalización de la titulación marítima. Aunque se vende como 'respuesta oportuna', existe un desfase temporal notable: adoptadas en 2023, en vigor desde 2025, pero publicadas en el BOE en 2026. Esta 'lentitud burocrática' en la comunicación oficial contrasta con la urgencia de la 'tendencia mundial' que cita el texto. No se detallan los costes de implementación de las plataformas de verificación digital (posibles gastos fantasma en infraestructura IT).",
+    "resumen_ciudadano": "A partir de ahora, los marineros pueden llevar sus títulos y certificados en formato digital (móvil/tablet) en lugar de papel. Este cambio es obligatorio para todos los barcos y busca facilitar la verificación internacional de la formación de la tripulación.",
+    "resumen_tweet": "🚢 ¡Adiós al papel en alta mar! El #BOE publica la digitalización de títulos para marineros 📱. Se busca modernizar la gestión, pero la burocracia española tarda 3 años en publicarlo. ¿Listos para la verificación digital? 🌊 #Transparencia #GenteDeMar",
+    "banderas_red_flags": [
+      "Desfase de 3 años entre adopción internacional (2023) y publicación en BOE (2026)",
+      "Dependencia absoluta de sistemas digitales de la Administración para la verificación en alta mar",
+      "Falta de especificidad sobre la protección de datos en el intercambio internacional de títulos electrónicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes navieras (reducción de costes logísticos y gestión de archivos)",
+        "Administración Pública (centralización de datos y control digital de la población activa marítima)"
+      ],
+      "perdedores": [
+        "Gente de mar con brecha digital",
+        "Pequeños armadores que deban actualizar sistemas de acceso a datos para inspecciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Modernización Administrativa",
+    "banderas_rojas": [
+      "Desfase de 3 años entre adopción internacional (2023) y publicación en BOE (2026)",
+      "Dependencia absoluta de sistemas digitales de la Administración para la verificación en alta mar",
+      "Falta de especificidad sobre la protección de datos en el intercambio internacional de títulos electrónicos"
+    ]
+  },
+  "tweeted": false
+}
