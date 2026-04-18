@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8495",
+  "timestamp": "2026-04-18T13:36:34.040Z",
+  "title": "Resolución de 7 de abril de 2026, del Ayuntamiento de Inca (Illes Balears), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se limita a un extracto formal que externaliza las bases al Boletín Regional (BOIB). Se observa una oferta de empleo público de baja calidad: jornada reducida al 50% para una posición de limpieza, lo que perpetúa la precariedad laboral bajo el paraguas de la estabilidad laboral fija. El sistema de concurso-oposición sugiere una posible consolidación de personal interino previa, limitando las opciones reales de aspirantes externos sin puntos acumulados.",
+    "resumen_ciudadano": "El Ayuntamiento de Inca convoca una plaza de personal de limpieza a media jornada (50%). El proceso es por concurso-oposición, lo que significa que se valorará la experiencia previa además del examen. Los interesados tienen 20 días naturales para presentar su solicitud tras la publicación en el BOE.",
+    "resumen_tweet": "🧹 El Ayto de Inca convoca plaza de limpieza, pero ¡ojo!: solo al 50% de jornada. ¿Servicio público o precariedad fija? El sistema de concurso-oposición beneficia a quienes ya están dentro. Poca ambición para la limpieza municipal. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Jornada parcial (50%) en plaza de personal laboral fijo",
+      "Externalización de bases a boletín autonómico (BOIB) sin detalles en BOE",
+      "Sistema de selección concurso-oposición que favorece la endogamia administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual con puntos acumulados",
+        "Administración local (reducción de costes mediante media jornada)"
+      ],
+      "perdedores": [
+        "Aspirantes externos sin experiencia previa en la administración",
+        "Ciudadanos de Inca (posible insuficiencia de servicio con plazas a media jornada)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Convocatoria de Empleo Público Local",
+    "banderas_rojas": [
+      "Jornada parcial (50%) en plaza de personal laboral fijo",
+      "Externalización de bases a boletín autonómico (BOIB) sin detalles en BOE",
+      "Sistema de selección concurso-oposición que favorece la endogamia administrativa"
+    ]
+  },
+  "tweeted": false
+}
