@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8422",
+  "timestamp": "2026-04-18T03:26:00.217Z",
+  "title": "Orden DCA/348/2026, de 8 de abril, por la que se dictan normas para la aplicación y desarrollo, en las ciudades de Ceuta y de Melilla, del Real Decreto 888/2022, de 18 de octubre, por el que se establece el procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden DCA/348/2026 actualiza la normativa de 2000 para adaptarla al Real Decreto 888/2022 en Ceuta y Melilla. Si bien alega transparencia y eficiencia, introduce la 'evaluación por informe' y la 'evaluación telemática' bajo criterios de 'circunstancias especiales' que no quedan detallados en el texto, delegándolos a una comisión posterior. Esto crea un espacio de discrecionalidad administrativa que podría derivar en una reducción de la calidad del diagnóstico presencial bajo el pretexto de la agilidad. No se detallan nuevas partidas presupuestarias específicas, lo que sugiere que se absorberá con recursos existentes del Imserso, pudiendo saturar los Centros Base.",
+    "resumen_ciudadano": "Se regulan los equipos y el proceso para pedir el grado de discapacidad en Ceuta y Melilla. Se incluyen psicólogos, médicos y trabajadores sociales en los equipos. Se permite, por primera vez de forma clara, la evaluación por internet o por documentos si hay causas justificadas, y se crea una tarjeta de discapacidad específica.",
+    "resumen_tweet": "♿️ Ceuta y Melilla actualizan el proceso de discapacidad. Se abren las puertas a evaluaciones telemáticas y 'por informe'. ¿Agilidad o riesgo de diagnósticos menos humanos? 🧐 Exigimos claridad en las 'causas especiales'. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ambigüedad en las 'circunstancias especiales' para evitar la evaluación presencial",
+      "Delegación de criterios técnicos a una Comisión Estatal fuera del texto de la Orden",
+      "Ausencia de memoria económica detallada para la implementación de medios telemáticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Imserso (mayor flexibilidad administrativa)",
+        "Administración (reducción de costes operativos por evaluaciones no presenciales)",
+        "Usuarios con movilidad muy reducida (acceso telemático)"
+      ],
+      "perdedores": [
+        "Personas con brecha digital",
+        "Solicitantes en entornos vulnerables que requieren observación presencial del entorno ambiental",
+        "Personal de los Centros Base (posible aumento de carga sin refuerzo presupuestario explícito)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla",
+    "tipologia": "Derechos Sociales y Procedimiento Administrativo",
+    "banderas_rojas": [
+      "Ambigüedad en las 'circunstancias especiales' para evitar la evaluación presencial",
+      "Delegación de criterios técnicos a una Comisión Estatal fuera del texto de la Orden",
+      "Ausencia de memoria económica detallada para la implementación de medios telemáticos"
+    ]
+  },
+  "tweeted": false
+}
