@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8483",
+  "timestamp": "2026-04-18T13:22:41.978Z",
+  "title": "Resolución de 7 de abril de 2026, de la Universidad Rovira i Virgili, por la que se nombra Catedrático de Universidad a don Blas Herrera Gómez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de Catedrático mediante promoción interna. Aunque cumple la legalidad vigente (LOSU), este tipo de resoluciones ocultan el coste salarial real a largo plazo para el erario público. La mención a la 'promoción interna' subraya una tendencia en la universidad española que puede favorecer la endogamia institucional frente a la competencia abierta. No hay desglose de la puntuación obtenida ni de la composición específica de la comisión evaluadora en este extracto, lo que dificulta la auditoría de méritos por parte de la ciudadanía.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili nombra a un nuevo Catedrático en Geometría y Topología tras un proceso de promoción interna. Es un trámite administrativo estándar que consolida una plaza fija con el rango más alto dentro del cuerpo docente universitario.",
+    "resumen_tweet": "📢 Nuevo catedrático en la @URVuniversitat. Se adjudica plaza por vía de promoción interna. 🏫 ¿Favorece esto la endogamia académica o la estabilidad? Sin datos sobre el impacto presupuestario real. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial anual total de la plaza",
+      "Falta de visibilidad de la composición de la comisión examinadora",
+      "Posible sesgo de endogamia por ser promoción interna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Blas Herrera Gómez (consolida estatus y salario)",
+        "Departamento de Ingeniería Informática y Matemáticas (mantiene estructura interna)"
+      ],
+      "perdedores": [
+        "Talento externo (limitado por procesos de promoción interna)",
+        "Equidad de género en áreas STEM (nombramiento masculino en área infrarrepresentada)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial anual total de la plaza",
+      "Falta de visibilidad de la composición de la comisión examinadora",
+      "Posible sesgo de endogamia por ser promoción interna"
+    ]
+  },
+  "tweeted": false
+}
