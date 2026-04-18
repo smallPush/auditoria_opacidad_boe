@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8480",
+  "timestamp": "2026-04-18T13:19:27.456Z",
+  "title": "Acuerdo de 2 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Almudena Cánovas del Castillo Pascual.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El documento utiliza la terminologia técnica de 'derechos pasivos' para encubrir el coste real que supone la jubilación voluntaria de un alto cargo judicial para las arcas públicas. Se ampara en el Real Decreto Legislativo 670/1987, un régimen de Clases Pasivas que crea una clara asimetría de clase entre la élite funcionarial y el trabajador del régimen general. La opacidad reside en no cuantificar el impacto presupuestario de una salida voluntaria anticipada en una escala salarial de nivel 2 (Audiencia Provincial).",
+    "resumen_ciudadano": "Se oficializa la jubilación solicitada por la Magistrada doña María Almudena Cánovas del Castillo. Aunque es un trámite legal, el BOE no aclara la cuantía de la pensión vitalicia que se le asigna, financiada por todos los ciudadanos bajo un sistema de privilegios históricos conocido como Clases Pasivas.",
+    "resumen_tweet": "⚖️ Nueva jubilación voluntaria en la Audiencia de Madrid. El #BOE publica el retiro de la Magistrada Cánovas del Castillo con 'derechos pasivos' opacos. ¿Quién paga esta factura? 💸 #Opacidad #Transparencia #Privilegios",
+    "banderas_red_flags": [
+      "Derechos pasivos sin cuantía especificada",
+      "Falta de memoria económica del impacto en el Tesoro Público",
+      "Diferenciación de clase en el sistema de pensiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a pensiones de élite)",
+        "Cúpula judicial (mantenimiento del status quo)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de pensiones sin transparencia)",
+        "Sistema de Seguridad Social General (brecha comparativa)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Situaciones del CGPJ",
+    "banderas_rojas": [
+      "Derechos pasivos sin cuantía especificada",
+      "Falta de memoria económica del impacto en el Tesoro Público",
+      "Diferenciación de clase en el sistema de pensiones"
+    ]
+  },
+  "tweeted": false
+}
