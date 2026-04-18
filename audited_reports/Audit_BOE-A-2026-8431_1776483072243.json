@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8431",
+  "timestamp": "2026-04-18T03:31:12.243Z",
+  "title": "Resolución de 9 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de Nivel 29 en el Gabinete Técnico de Sanidad perpetúa una cultura administrativa basada en la confianza política sobre el mérito objetivo y conmensurable. Aunque legal bajo la Ley 30/1984, este método carece de baremos puntuables públicos, amparándose en una 'valoración de idoneidad' subjetiva realizada por el propio centro directivo que adjudica la plaza. La rotación de altos funcionarios entre ministerios (en este caso de Inclusión a Sanidad) sin un proceso de concurrencia competitiva real blinda a una élite burocrática del escrutinio técnico externo.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha cubierto un puesto de alta dirección (Coordinador de Área, Nivel 29) mediante elección directa. La persona seleccionada proviene de otro cargo de igual nivel en el Ministerio de Inclusión, Seguridad Social y Migraciones. Al ser una 'libre designación', no se publican las notas ni los méritos comparativos de los candidatos, lo que dificulta saber si es la persona más preparada o simplemente la de mayor confianza para el cargo.",
+    "resumen_tweet": "🚩 ¡Más 'dedazos' en el #BOE! El Ministerio de Sanidad adjudica un puesto Nivel 29 por libre designación. La élite administrativa rota entre ministerios sin baremos de mérito públicos. ¿Confianza o privilegio? 🕵️‍♂️ #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Adjudicación de Nivel 29 (máximo nivel de funcionario)",
+      "Falta de desglose de criterios de idoneidad",
+      "Endogamia entre ministerios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rosa María Gómez Movellan (adjudicataria)",
+        "Cuerpo Nacional Veterinario (mantiene cuota de poder)",
+        "Redes de confianza ministerial"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Principio de mérito y capacidad",
+        "Transparencia en la gestión pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de personal por libre designación",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (elección discrecional)",
+      "Adjudicación de Nivel 29 (máximo nivel de funcionario)",
+      "Falta de desglose de criterios de idoneidad",
+      "Endogamia entre ministerios"
+    ]
+  },
+  "tweeted": false
+}
