@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8487",
+  "timestamp": "2026-04-18T13:34:01.887Z",
+  "title": "Resolución de 8 de abril de 2026, de la Universidad de Jaén, por la que se nombra Profesor Titular de Universidad a don Antonio Jesús Muñoz Montoro.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja un acto administrativo estándar de nombramiento de funcionario de carrera (Profesor Titular) bajo la LOSU 2/2023. Aunque el procedimiento es legalmente transparente, el BOE actúa como un mero registro final, ocultando los detalles de la competición real o los méritos del candidato frente a terceros. En el ámbito de Ingeniería Telemática, se observa la persistencia de perfiles masculinos en la cúspide académica, lo que refuerza la brecha de género en áreas STEM.",
+    "resumen_ciudadano": "La Universidad de Jaén ha nombrado formalmente a un nuevo Profesor Titular en el área de Ingeniería Telemática. Este puesto es de carácter funcionario y vitalicio, tras haber superado un concurso de acceso convocado en 2025.",
+    "resumen_tweet": "🎓 Nuevo profesor funcionario en la Univ. de Jaén. Se consolida una plaza vitalicia en Ingeniería Telemática. ¿Fomento de la excelencia o burocracia académica? La brecha de género en STEM persiste. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Opacidad en la baremación de méritos",
+      "Riesgo de endogamia académica estructural",
+      "Ausencia de diversidad de género en el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Jesús Muñoz Montoro",
+        "Cuerpo de Profesores Titulares de Universidad",
+        "Universidad de Jaén"
+      ],
+      "perdedores": [
+        "Candidatos externos fuera del sistema de promoción interna",
+        "Representación femenina en cátedras de ingeniería"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Opacidad en la baremación de méritos",
+      "Riesgo de endogamia académica estructural",
+      "Ausencia de diversidad de género en el nombramiento"
+    ]
+  },
+  "tweeted": false
+}
