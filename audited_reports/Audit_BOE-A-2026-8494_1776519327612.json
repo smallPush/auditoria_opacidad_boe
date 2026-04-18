@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8494",
+  "timestamp": "2026-04-18T13:35:27.612Z",
+  "title": "Resolución de 31 de marzo de 2026, del Ayuntamiento de Fuenllana (Ciudad Real), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una convocatoria para una plaza de personal laboral fijo en un municipio de muy baja densidad poblacional (Fuenllana). El uso del sistema de 'concurso-oposición' en lugar de oposición pura en el ámbito local suele ser una barrera de entrada para candidatos externos, ya que la fase de concurso permite puntuar la experiencia previa, beneficiando habitualmente a trabajadores interinos ya presentes en la administración municipal. La opacidad reside en la falta de detalle de los baremos de méritos en este extracto, remitiendo a un boletín provincial que el ciudadano medio rara vez consulta.",
+    "resumen_ciudadano": "El Ayuntamiento de Fuenllana convoca una plaza fija de operario. Aunque se anuncia como 'turno libre', el proceso incluye una fase de concurso de méritos que suele favorecer a quienes ya tienen experiencia en ese ayuntamiento específico.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! Fuenllana (Ciudad Real) busca operario de servicios públicos. Plaza fija por concurso-oposición. ¿Oportunidad real o plaza con nombre y apellidos? 🧐 La transparencia local a examen. #Opacidad #EmpleoPúblico #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en municipio pequeño",
+      "Posible consolidación encubierta de personal interino",
+      "Remisión a bases externas para dificultar el escrutinio inmediato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del ayuntamiento",
+        "Candidatos locales con méritos acumulados"
+      ],
+      "perdedores": [
+        "Candidatos externos sin experiencia previa en la administración local",
+        "Jóvenes profesionales sin puntos por antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en municipio pequeño",
+      "Posible consolidación encubierta de personal interino",
+      "Remisión a bases externas para dificultar el escrutinio inmediato"
+    ]
+  },
+  "tweeted": false
+}
