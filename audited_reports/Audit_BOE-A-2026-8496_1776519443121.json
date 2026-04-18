@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8496",
+  "timestamp": "2026-04-18T13:37:23.121Z",
+  "title": "Resolución de 7 de abril de 2026, del Ayuntamiento de Crevillent (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una convocatoria estándar para una plaza de Monitor de ocio y tiempo libre, sin embargo, la existencia de tres publicaciones previas para rectificar las bases (BOP Alicante nº 248, nº 16 y nº 62) sugiere una gestión administrativa errática o ajustes 'ad hoc' que dificultan el seguimiento normativo por parte del ciudadano común. La fragmentación de las reglas del juego entre múltiples boletines provinciales antes de llegar al BOE reduce la accesibilidad efectiva.",
+    "resumen_ciudadano": "El Ayuntamiento de Crevillent abre el plazo para una plaza de Monitor de ocio. Para participar, los aspirantes deben navegar por un laberinto de tres publicaciones distintas en el boletín provincial debido a sucesivas correcciones en las normas de selección. El sistema es de oposición libre.",
+    "resumen_tweet": "🧐 ¡Ojo en Crevillent! Convocada plaza de Monitor de Ocio, pero con truco: las bases han sido rectificadas 3 veces antes de llegar al #BOE. La transparencia se pierde entre tanto boletín. ¿Falta de rigor o diseño a medida? #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Múltiples rectificaciones de bases",
+      "Dispersión normativa en diferentes boletines provinciales",
+      "Complejidad técnica para el acceso a la información definitiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con asesoría técnica o conocimiento interno de los cambios en las bases",
+        "Administración local (cumple el trámite legal formal)"
+      ],
+      "perdedores": [
+        "Opositores externos que enfrentan un proceso burocrático fragmentado",
+        "Transparencia administrativa real por la dispersión de datos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Múltiples rectificaciones de bases",
+      "Dispersión normativa en diferentes boletines provinciales",
+      "Complejidad técnica para el acceso a la información definitiva"
+    ]
+  },
+  "tweeted": false
+}
