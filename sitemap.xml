@@ -5401,7 +5401,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://smallpush.github.io/auditoria_opacidad_boe/audit/BOE-A-2026-8486</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://smallpush.github.io/auditoria_opacidad_boe/audit/BOE-A-2026-8487</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://smallpush.github.io/auditoria_opacidad_boe/audit/BOE-A-2026-8488</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5414,6 +5426,12 @@
   </url>
   <url>
     <loc>https://smallpush.github.io/auditoria_opacidad_boe/audit/BOE-A-2026-8490</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://smallpush.github.io/auditoria_opacidad_boe/audit/BOE-A-2026-8491</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
