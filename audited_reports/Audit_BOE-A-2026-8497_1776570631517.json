@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8497",
+  "timestamp": "2026-04-19T03:50:31.517Z",
+  "title": "Resolución de 7 de abril de 2026, del Ayuntamiento de Pineda de Mar (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria destaca por una dilación temporal sospechosa: las bases originales datan de abril de 2025, pero fueron rectificadas justo antes de su publicación en el BOE en 2026. El uso del sistema de 'concurso-oposición' para una plaza única de alta cualificación (Escala Superior) suele actuar como un mecanismo de consolidación 'ad hoc' para personal interino que ya ocupa el puesto, dificultando el acceso real a candidatos externos sin antigüedad previa en dicho ayuntamiento.",
+    "resumen_ciudadano": "El Ayuntamiento de Pineda de Mar busca un archivero de nivel superior. Sin embargo, el proceso valora méritos previos (concurso) además del examen, y las reglas del juego han sido modificadas un año después de su creación, lo que podría favorecer a alguien que ya trabaje allí.",
+    "resumen_tweet": "🧐 ¿Plaza blindada? Pineda de Mar convoca 1 puesto de Archivero tras un AÑO de cambios en las bases. El sistema concurso-oposición favorece a quienes ya están dentro. ¡Transparencia bajo lupa! 📜🔍 #BOE #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Rectificación de bases con un año de retraso",
+      "Sistema de concurso-oposición para plaza única",
+      "Opacidad en los criterios de puntuación de méritos en el anuncio del BOE",
+      "Largo periodo de latencia entre acuerdos locales y publicación nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento de Pineda de Mar",
+        "Estructura administrativa local (mantenimiento del statu quo)"
+      ],
+      "perdedores": [
+        "Opositores externos con mejor formación pero sin puntos por experiencia previa",
+        "Ciudadanía (posible falta de meritocracia competitiva pura)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Rectificación de bases con un año de retraso",
+      "Sistema de concurso-oposición para plaza única",
+      "Opacidad en los criterios de puntuación de méritos en el anuncio del BOE",
+      "Largo periodo de latencia entre acuerdos locales y publicación nacional"
+    ]
+  },
+  "tweeted": false
+}
