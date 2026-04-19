@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8486",
+  "timestamp": "2026-04-19T13:22:14.394Z",
+  "title": "Resolución de 7 de abril de 2026, de la Universidad de La Laguna, por la que se nombra Profesora Titular de Universidad a doña Janet Hernández Méndez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionaria de carrera tras un concurso de acceso. Aunque cumple con la legalidad vigente (LOSU 2/2023), el texto adolece de la opacidad clásica de la administración universitaria: no se detalla el coste presupuestario a largo plazo de esta plaza vitalicia ni se justifica la necesidad estratégica del área de 'Comercialización e Investigación de Mercados' frente a otras carencias académicas. La 'comisión nombrada al efecto' es mencionada pero sus integrantes y valoraciones permanecen ocultos en este extracto, dificultando la fiscalización de posibles sesgos de endogamia.",
+    "resumen_ciudadano": "La Universidad de La Laguna formaliza el nombramiento de una nueva Profesora Titular de Universidad en el área de Dirección de Empresas. Este es un paso administrativo que otorga estabilidad laboral permanente a la docente tras superar el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la Universidad de La Laguna. Nombrada Profesora Titular en Comercialización. ¿Transparencia? Los criterios de la comisión y el impacto presupuestario a largo plazo quedan fuera del alcance ciudadano. #BOE #Opacidad #ULL",
+    "banderas_red_flags": [
+      "Falta de desglose del impacto presupuestario de la plaza",
+      "Opacidad en los criterios específicos de evaluación de la comisión",
+      "Ausencia de información sobre el número de aspirantes que compitieron por la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Janet Hernández Méndez (estabilidad laboral vitalicia)",
+        "Departamento de Dirección de Empresas (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Personal docente precario (limitación de recursos para nuevas contrataciones)",
+        "Contribuyentes (falta de transparencia en la eficiencia del gasto público universitario)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de personal docente",
+    "banderas_rojas": [
+      "Falta de desglose del impacto presupuestario de la plaza",
+      "Opacidad en los criterios específicos de evaluación de la comisión",
+      "Ausencia de información sobre el número de aspirantes que compitieron por la plaza"
+    ]
+  },
+  "tweeted": false
+}
