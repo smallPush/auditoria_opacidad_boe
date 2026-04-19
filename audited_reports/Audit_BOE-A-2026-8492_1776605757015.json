@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8492",
+  "timestamp": "2026-04-19T13:35:57.015Z",
+  "title": "Resolución de 9 de abril de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza un sistema de concurso para puestos críticos de control financiero (Hacienda y Gestión Económica). La opacidad reside en la fragmentación de la información: el BOE solo actúa como anuncio, remitiendo los criterios de méritos a un Boletín Provincial (BOP) de difícil acceso para el ciudadano medio. Esto favorece la endogamia administrativa al reducir el espectro de candidatos reales a quienes ya están dentro de la estructura local.",
+    "resumen_ciudadano": "El Ayuntamiento de Motril busca jefes para sus departamentos de Economía y Hacienda. El proceso se hará por concurso de méritos, pero las reglas detalladas sobre cómo se puntuará a los candidatos no aparecen en este anuncio nacional, lo que dificulta la vigilancia ciudadana sobre posibles favoritismos en puestos que manejan dinero público.",
+    "resumen_tweet": "🔍 #BOE: Motril busca jefes para Hacienda y Economía pero oculta los requisitos en el boletín provincial. ¿Transparencia o burocracia selectiva? 15 días para puestos clave de control de fondos. #Opacidad #Transparencia #Motril 🧐⚖️",
+    "banderas_red_flags": [
+      "Remisión externa de bases (BOP)",
+      "Sistema de concurso propenso a la discrecionalidad",
+      "Plazo de 15 días que limita la competencia externa",
+      "Falta de desglose de retribuciones asociadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con antigüedad",
+        "Estructuras de mando actuales del Ayuntamiento",
+        "Candidatos con acceso a información privilegiada del BOP"
+      ],
+      "perdedores": [
+        "Profesionales externos del sector público",
+        "Ciudadanos que exigen fiscalización de la gestión económica",
+        "Principio de igualdad de oportunidades real"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Remisión externa de bases (BOP)",
+      "Sistema de concurso propenso a la discrecionalidad",
+      "Plazo de 15 días que limita la competencia externa",
+      "Falta de desglose de retribuciones asociadas"
+    ]
+  },
+  "tweeted": false
+}
