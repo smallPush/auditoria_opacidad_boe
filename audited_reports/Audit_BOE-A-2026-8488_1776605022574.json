@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8488",
+  "timestamp": "2026-04-19T13:23:42.574Z",
+  "title": "Resolución de 8 de abril de 2026, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Carlos Alberto Molina Santiago.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento representa un acto administrativo reglado de nombramiento de personal funcionario docente. Aunque cumple con la legalidad de la Ley Orgánica 2/2023 (LOSU), persiste la opacidad sobre el coste directo para las arcas públicas al referirse a 'emolumentos según disposiciones vigentes' sin especificar cuantías ni complementos de productividad asociados a la plaza 182TUN25. Es un proceso de consolidación interna que mantiene la estructura burocrática académica.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado oficialmente a un nuevo Profesor Titular en el área de Microbiología tras superar este un concurso público. El candidato tiene 20 días para tomar posesión del cargo.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Universidad de Málaga. Carlos Alberto Molina Santiago asume la plaza de Microbiología. Proceso legal estándar, pero sin transparencia en el coste salarial real en el texto. #BOE #Opacidad #Universidad #Málaga",
+    "banderas_red_flags": [
+      "Indeterminación de la cuantía económica en el texto",
+      "Remisión a normativas externas para el cálculo salarial",
+      "Estructura de acceso restringida por procesos de concurso interno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Alberto Molina Santiago",
+        "Universidad de Málaga (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores precarios sin acceso a plazas fijas",
+        "Contribuyentes (por falta de desglose de costes en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Indeterminación de la cuantía económica en el texto",
+      "Remisión a normativas externas para el cálculo salarial",
+      "Estructura de acceso restringida por procesos de concurso interno"
+    ]
+  },
+  "tweeted": false
+}
