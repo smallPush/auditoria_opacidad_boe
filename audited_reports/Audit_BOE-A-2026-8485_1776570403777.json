@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8485",
+  "timestamp": "2026-04-19T03:46:43.777Z",
+  "title": "Resolución de 7 de abril de 2026, de la Universidad de La Laguna, por la que se nombra Profesor Titular de Universidad a don Guido Santos Rosales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el nombramiento cumple con la legalidad vigente (LOSU 2/2023), el documento presenta la opacidad habitual de la administración pública al no desglosar el impacto presupuestario a largo plazo de una plaza de funcionario de carrera. Se perpetúa el modelo de 'Gasto Silencioso' donde se asignan recursos públicos de por vida sin una auditoría de eficiencia visible para el ciudadano.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha nombrado oficialmente a un nuevo Profesor Titular en el área de Bioquímica. Este es un puesto permanente financiado con dinero público, resultado de un proceso de selección iniciado a finales de 2025.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de La Laguna. El #BOE formaliza plazas vitalicias sin publicar el coste total para el contribuyente. ¿Estabilidad académica o blindaje de gasto público? #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Ausencia de información sobre el coste salarial anual y trienios",
+      "Falta de transparencia en la puntuación del concurso público en el extracto",
+      "Gasto estructural consolidado sin revisión de impacto económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Guido Santos Rosales (estabilidad laboral de por vida)",
+        "Universidad de La Laguna (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores postdoctorales sin acceso a plazas estables",
+        "Contribuyentes (desconocimiento del coste real de la estructura administrativa)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de información sobre el coste salarial anual y trienios",
+      "Falta de transparencia en la puntuación del concurso público en el extracto",
+      "Gasto estructural consolidado sin revisión de impacto económico"
+    ]
+  },
+  "tweeted": false
+}
