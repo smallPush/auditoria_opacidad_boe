@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8603",
+  "timestamp": "2026-04-20T14:08:39.006Z",
+  "title": "Resolución de 13 de abril de 2026, de la Dirección de la Agencia Estatal de Administración Digital, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oficializa el uso del mecanismo de 'Libre Designación' para cubrir puestos de máxima responsabilidad (Nivel 30) en la Agencia Estatal de Administración Digital. Aunque formalmente legal bajo el RD-ley 6/2023, este sistema permite la selección discrecional por parte de la dirección, priorizando la confianza política/personal sobre la concurrencia competitiva pura. Se observa que los adjudicatarios pertenecen a los cuerpos de élite (A1) de la administración, perpetuando un modelo de 'puertas giratorias' internas entre ministerios y agencias estatales.",
+    "resumen_ciudadano": "Se han nombrado 'a dedo' (libre designación) a los nuevos Secretario General y Director de Ciberseguridad de la Agencia Estatal de Administración Digital. Ambos cargos ostentan el Nivel 30, el escalafón salarial más alto para funcionarios en España. Aunque son perfiles técnicos cualificados del grupo A1, el proceso carece de la transparencia de una oposición abierta, basándose en la decisión directa del Director de la Agencia.",
+    "resumen_tweet": "🚨 ¿Transparencia o dedocracia? El Ministerio de Transformación Digital adjudica puestos de Nivel 30 por 'Libre Designación'. La élite A1 toma las riendas de la ciberseguridad y gestión digital del Estado. 🕵️‍♂️💻 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Libre Designación en puestos estratégicos de digitalización",
+      "Concentración de cargos de Nivel 30 (máximo nivel salarial)",
+      "Adjudicación basada en sesión extraordinaria del Consejo Rector",
+      "Falta de desglose de méritos específicos frente a otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Administradores Civiles del Estado",
+        "Cuerpo Superior de Sistemas y Tecnologías de la Información",
+        "Altos cargos de confianza ministerial"
+      ],
+      "perdedores": [
+        "Principio de mérito y capacidad",
+        "Funcionarios de carrera fuera del círculo de confianza",
+        "Transparencia en la provisión de puestos directivos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal Directivo",
+    "banderas_rojas": [
+      "Uso de Libre Designación en puestos estratégicos de digitalización",
+      "Concentración de cargos de Nivel 30 (máximo nivel salarial)",
+      "Adjudicación basada en sesión extraordinaria del Consejo Rector",
+      "Falta de desglose de méritos específicos frente a otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
