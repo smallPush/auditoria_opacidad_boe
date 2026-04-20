@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8604",
+  "timestamp": "2026-04-20T14:14:43.355Z",
+  "title": "Resolución de 13 de abril de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo de la Comisión de Gobierno, por el que se resuelve el concurso específico, convocado por Resolución de 18 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución detalla la adjudicación de 25 puestos en el Tribunal de Cuentas para el subgrupo A2. Al analizar los datos, se observa que en la mayoría de los casos el 'puesto adjudicado' es idéntico o muy similar al 'puesto en el que cesa' el funcionario (niveles 24 a 26). Esto sugiere que el proceso funciona más como una consolidación administrativa de puestos ya ocupados de facto que como una apertura real a la competitividad o renovación externa. Resulta paradójico que el organismo encargado de fiscalizar la eficiencia del gasto público mantenga una estructura de personal con escasa movilidad ascendente o externa en este documento específico.",
+    "resumen_ciudadano": "El Tribunal de Cuentas ha formalizado el reparto de puestos técnicos de alta responsabilidad. La mayoría de los beneficiarios ya trabajaban en los mismos departamentos, lo que confirma una tendencia a la continuidad interna en la institución que supervisa las cuentas del Estado.",
+    "resumen_tweet": "🧐 ¿Quién vigila al vigilante? El Tribunal de Cuentas resuelve su concurso de personal: vemos mucha continuidad, con funcionarios que 'cesan' para ocupar puestos casi idénticos. ¿Consolidación o falta de renovación? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia administrativa: alta coincidencia entre puesto previo y adjudicado",
+      "Falta de desglose de puntuaciones de la Comisión de Valoración",
+      "Posible 'encapsulamiento' de las unidades fiscalizadoras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera del subgrupo A2 ya integrados en el Tribunal",
+        "Departamentos de fiscalización de partidos políticos (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Talento externo o funcionarios de otros ministerios",
+        "Ciudadanía que demanda una renovación profunda en los órganos de control"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Endogamia administrativa: alta coincidencia entre puesto previo y adjudicado",
+      "Falta de desglose de puntuaciones de la Comisión de Valoración",
+      "Posible 'encapsulamiento' de las unidades fiscalizadoras"
+    ]
+  },
+  "tweeted": false
+}
