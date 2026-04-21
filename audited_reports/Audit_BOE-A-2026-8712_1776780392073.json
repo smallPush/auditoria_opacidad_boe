@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8712",
+  "timestamp": "2026-04-21T14:06:32.073Z",
+  "title": "Acuerdo de 12 de marzo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se aprueba la relación definitiva de aspirantes admitidos/as y excluidos/as para participar en el concurso para provisión de plaza de Letrado/a coordinador titular del Gabinete Técnico, al servicio del Tribunal Supremo, convocado por Acuerdo de 11 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una transparencia procedimental limitada. Aunque cumple con la normativa de publicar el acuerdo en el BOE, la administración utiliza la técnica de 'externalización de información crítica', remitiendo la lista de admitidos exclusivamente a la web del CGPJ. Esta práctica reduce la trazabilidad histórica del proceso en el registro oficial del Estado y dificulta el acceso directo a la información sobre quiénes aspiran a puestos de alta responsabilidad en el Gabinete Técnico del Tribunal Supremo.",
+    "resumen_ciudadano": "Se publica la lista definitiva para una plaza de Letrado/a coordinador en el Tribunal Supremo. Curiosamente, el BOE solo muestra el nombre de una persona excluida, mientras que los nombres de las personas admitidas se mantienen fuera del boletín oficial, consultables solo en la web del Poder Judicial.",
+    "resumen_tweet": "⚖️ ¿Quién coordina el Tribunal Supremo? El CGPJ publica el acuerdo para Letrado coordinador, pero 'esconde' a los admitidos remitiendo a su propia web. Transparencia a medias en la cúpula judicial. 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de listas de admitidos a servidores web de la institución",
+      "Falta de nombres de los seleccionados en el cuerpo del Boletín Oficial",
+      "Dilación entre la fecha de disposición (marzo) y la publicación real (abril)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes admitidos (protección de identidad frente al BOE)",
+        "CGPJ (mantiene el control centralizado de la información en su propio portal)"
+      ],
+      "perdedores": [
+        "Ciudadanía (necesita navegar por múltiples plataformas para fiscalizar nombramientos)",
+        "Historiadores y auditores de procesos públicos (dependencia de enlaces web que pueden caducar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdos de personal y concursos públicos de la Administración de Justicia",
+    "banderas_rojas": [
+      "Externalización de listas de admitidos a servidores web de la institución",
+      "Falta de nombres de los seleccionados en el cuerpo del Boletín Oficial",
+      "Dilación entre la fecha de disposición (marzo) y la publicación real (abril)"
+    ]
+  },
+  "tweeted": false
+}
