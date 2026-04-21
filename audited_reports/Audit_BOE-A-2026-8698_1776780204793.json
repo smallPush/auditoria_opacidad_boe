@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8698",
+  "timestamp": "2026-04-21T14:03:24.793Z",
+  "title": "Recurso de inconstitucionalidad n.º 2525-2026, contra los artículos 13.3, 14, 22.3, 23.6, 24, 28 y disposición transitoria segunda de la Ley 4/2025, de 1 de julio, del paisaje de La Rioja, únicamente en tanto que resulten de aplicación a las actuaciones de competencia estatal.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un choque frontal de competencias entre el Estado y la Comunidad Autónoma de La Rioja. El uso del artículo 161.2 de la Constitución permite al Gobierno central suspender automáticamente normas autonómicas, lo cual genera una asimetría de poder procesal. La opacidad reside en la falta de detalle sobre qué proyectos de 'competencia estatal' se ven obstaculizados por la protección del paisaje riojano, sugiriendo que intereses de infraestructuras o energía estatales priman sobre la preservación ambiental local.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha admitido un recurso del Gobierno de España contra varios puntos clave de la Ley del Paisaje de La Rioja. Esto significa que, mientras se decide si la ley es constitucional, La Rioja no podrá aplicar sus normas de protección del paisaje en cualquier actuación que el Estado considere de su competencia, como grandes infraestructuras o redes eléctricas.",
+    "resumen_tweet": "⚖️ ¡Guerra de competencias en el #BOE! El Gobierno suspende artículos de la Ley del Paisaje de #LaRioja. ¿Protección ambiental local o imposición de infraestructuras estatales? La transparencia territorial en entredicho. 🛑🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión automática mediante privilegio ejecutivo (Art. 161.2 CE)",
+      "Falta de especificidad sobre los proyectos estatales afectados",
+      "Conflicto de intereses entre desarrollo industrial/estatal y protección paisajística",
+      "Uso de tecnicismos para desplazar la normativa ambiental autonómica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerios de fomento o energía",
+        "Empresas concesionarias de infraestructuras estatales",
+        "Administración General del Estado"
+      ],
+      "perdedores": [
+        "Gobierno de La Rioja",
+        "Defensores del patrimonio natural y paisajístico riojano",
+        "Ciudadanía local con menor capacidad de influencia en Madrid"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Recurso de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Suspensión automática mediante privilegio ejecutivo (Art. 161.2 CE)",
+      "Falta de especificidad sobre los proyectos estatales afectados",
+      "Conflicto de intereses entre desarrollo industrial/estatal y protección paisajística",
+      "Uso de tecnicismos para desplazar la normativa ambiental autonómica"
+    ]
+  },
+  "tweeted": false
+}
