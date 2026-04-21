@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8590",
+  "timestamp": "2026-04-21T02:42:01.622Z",
+  "title": "Resolución de 14 de abril de 2026, de la Secretaría General de Financiación Autonómica y Local, por la que se regula el procedimiento de compensación de los beneficios fiscales en las cuotas correspondientes al ejercicio 2026 del Impuesto sobre Bienes Inmuebles y del Impuesto sobre Actividades Económicas, por los daños causados por las inundaciones y otros sucesos acaecidos en diferentes municipios de las comunidades autónomas de Andalucía y Extremadura.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion establece un mecanismo tecnico de compensacion financiera entre administraciones, pero incurre en una opacidad estructural al no cuantificar el impacto total previsto sobre los Presupuestos Generales del Estado. Se detecta un riesgo de 'Gasto Fantasma' potencial al permitir que el reconocimiento de beneficios fiscales se base en 'declaraciones responsables' y 'cualquier medio de prueba', lo que podria relajar la fiscalizacion real del destino de los fondos. Ideologicamente, el texto refuerza un modelo de gestion de catastrofes reactivo y paliativo en lugar de preventivo, cargando el coste al contribuyente general sin exigir responsabilidades por la gestion del suelo en zonas inundables.",
+    "resumen_ciudadano": "Este documento explica como el Estado devolvera el dinero a los Ayuntamientos de Andalucia y Extremadura que dejaron de cobrar impuestos (IBI e IAE) a los afectados por las inundaciones de 2026. Establece que los municipios deben pedir este reembolso por internet y demostrar los daños sufridos por los vecinos y empresas para que el Ministerio de Hacienda les compense la perdida de ingresos.",
+    "resumen_tweet": "🚨 El #BOE regula la compensacion por IBI/IAE tras inundaciones en #Andalucia y #Extremadura. Dinero publico para Ayuntamientos, pero sin cifra total cerrada y con dudas sobre el control de las ayudas. ¿Reparar o prevenir? 🌊💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cuantificacion economica indeterminada en los Presupuestos Generales del Estado",
+      "Uso de declaraciones responsables como medio de prueba para exenciones fiscales",
+      "Dependencia absoluta de la plataforma CompensaNet, lo que puede generar brecha digital en municipios pequeños",
+      "Ambigüedad en el plazo de 'reparacion de los daños' para mantener la exencion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos (recuperan ingresos tributarios perdidos)",
+        "Grandes propietarios de explotaciones agricolas (exencion del IBI rustico)",
+        "Empresas e industrias en zonas afectadas (reduccion del IAE)"
+      ],
+      "perdedores": [
+        "Contribuyentes generales (asumen el coste de la compensacion sin planes de prevencion)",
+        "Ciudadanos sin competencias digitales para supervisar la gestion de sus ayuntamientos",
+        "Pequeños propietarios con dificultades para acreditar daños por 'medios admitidos en Derecho'"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia y Extremadura",
+    "tipologia": "Resolucion Administrativa de Procedimiento Tributario",
+    "banderas_rojas": [
+      "Cuantificacion economica indeterminada en los Presupuestos Generales del Estado",
+      "Uso de declaraciones responsables como medio de prueba para exenciones fiscales",
+      "Dependencia absoluta de la plataforma CompensaNet, lo que puede generar brecha digital en municipios pequeños",
+      "Ambigüedad en el plazo de 'reparacion de los daños' para mantener la exencion"
+    ]
+  },
+  "tweeted": false
+}
