@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8699",
+  "timestamp": "2026-04-21T14:02:28.105Z",
+  "title": "Cuestión de inconstitucionalidad n.º 1251-2026, en relación con el inciso último del párrafo primero del artículo 101 del Código Civil, por posible contradicción con los artículos 10.1 y 14 de la Constitución Española.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento admite a tramite una cuestion de inconstitucionalidad sobre la extincion automatica de la pension compensatoria (Art. 101 CC) por convivencia con otra pareja. Bajo una apariencia tecnica, subyace un debate sobre si la ley castiga la libertad de relacion afectiva y el desarrollo de la personalidad (Art. 10.1 CE) frente a la igualdad (Art. 14 CE). La opacidad reside en no explicitar el motivo del conflicto juridico en el extracto, obligando al ciudadano a conocer profundamente la jurisprudencia previa para entender que se esta cuestionando la viabilidad economica de miles de personas tras un divorcio.",
+    "resumen_ciudadano": "El Tribunal Constitucional va a decidir si es constitucional que una persona deje de recibir la pension de su exconyuge automaticamente al empezar a vivir con una nueva pareja. Se examina si esta norma del Codigo Civil vulnera el derecho a la igualdad y a la dignidad personal.",
+    "resumen_tweet": "⚖️ ¿Castiga la ley que rehagas tu vida tras un divorcio? El TC admite a tramite revisar si quitar la pension compensatoria por convivir con otra persona es inconstitucional. Mas sobre el Art. 101 del Codigo Civil. #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Uso de terminologia juridica para enmascarar un conflicto de derechos fundamentales",
+      "Ausencia de explicacion sobre el impacto socioeconomico de la resolucion",
+      "Referencia a articulos constitucionales sin desarrollo del motivo de colision"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beneficiarios de pensiones compensatorias que desean estabilidad economica sin renunciar a nuevas relaciones",
+        "Defensores de la autonomia individual y el libre desarrollo de la personalidad"
+      ],
+      "perdedores": [
+        "Pagadores de pensiones compensatorias que podrian verse obligados a mantener el pago a pesar de que su ex-pareja conviva con otra persona",
+        "Seguridad juridica del modelo matrimonial tradicional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Judicial / Constitucional",
+    "banderas_rojas": [
+      "Uso de terminologia juridica para enmascarar un conflicto de derechos fundamentales",
+      "Ausencia de explicacion sobre el impacto socioeconomico de la resolucion",
+      "Referencia a articulos constitucionales sin desarrollo del motivo de colision"
+    ]
+  },
+  "tweeted": false
+}
