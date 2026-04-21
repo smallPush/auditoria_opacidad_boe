@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8592",
+  "timestamp": "2026-04-21T03:34:29.891Z",
+  "title": "Orden SND/356/2026, de 13 de abril, por la que se modifican, en relación con la información y vigilancia en salud pública, cribados prenatales, neonatales y de cáncer colorrectal, los anexos I, II y III del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización; y por la que se modifica la Orden SND/606/2024, de 13 de junio, por la que se crea el Comité Asesor para la Cartera Común de Servicios en el Área de Genética.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden SND/356/2026 actualiza la cartera de servicios del SNS con una narrativa centrada en la equidad y el 'modelo social de salud'. Si bien expande derechos tangibles en cribados y reproducción asistida, utiliza un lenguaje técnico-administrativo para institucionalizar una Red Estatal de Vigilancia de Salud Pública con amplias capacidades de cruce de datos (biológicos, sociales, laborales) cuya gobernanza y límites de privacidad quedan diluidos en la remisión a reglamentos generales. Existe un riesgo de 'vigilancia total' bajo el pretexto de la salud pública.",
+    "resumen_ciudadano": "El Gobierno amplía las pruebas gratuitas para recién nacidos (prueba del talón) incluyendo 9 enfermedades más, extiende el cribado de cáncer de colon hasta los 74 años y elimina la discriminación por edad (antes 36, ahora 40) para mujeres con fallo ovárico que necesiten fecundación in vitro con donante. También se crea un sistema masivo de vigilancia de datos de salud y se permite que los pacientes participen en decisiones sobre genética.",
+    "resumen_tweet": "🩺 Nueva actualización del #BOE: Más cribados neonatales y cáncer de colon hasta los 74 años. ✅ Se elimina la traba de edad para FIV en fallo ovárico. ⚠️ Ojo: la nueva Red de Vigilancia cruzará datos masivos de los ciudadanos. #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica específica para la implementación en las CCAA",
+      "Ambigüedad en el control de la 'Red Estatal de Vigilancia' y el cruce de datos de registros de defunciones y seguridad alimentaria",
+      "Dependencia de la 'realidad territorial' que puede generar inequidades en la velocidad de implantación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias con recién nacidos (detección precoz de acidemias e inmunodeficiencias)",
+        "Personas gestantes de entre 36 y 39 años con fallo ovárico",
+        "Población de 70-74 años (prevención de cáncer)",
+        "Pacientes de ELA (clarificación de derechos de rehabilitación)"
+      ],
+      "perdedores": [
+        "Presupuestos autonómicos (asumen la carga operativa sin desglose de fondos extra)",
+        "Defensores de la privacidad estricta de datos (por la expansión de la vigilancia epidemiológica)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Sanidad y Salud Pública",
+    "banderas_rojas": [
+      "Ausencia de memoria económica específica para la implementación en las CCAA",
+      "Ambigüedad en el control de la 'Red Estatal de Vigilancia' y el cruce de datos de registros de defunciones y seguridad alimentaria",
+      "Dependencia de la 'realidad territorial' que puede generar inequidades en la velocidad de implantación"
+    ]
+  },
+  "tweeted": false
+}
