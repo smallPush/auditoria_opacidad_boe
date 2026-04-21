@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8702",
+  "timestamp": "2026-04-21T14:05:05.225Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se analiza un nombramiento bajo la modalidad de 'libre designación', un mecanismo legal que permite la elección discrecional de altos cargos dentro de la Administración Pública. Aunque se cita el RD-ley 6/2023 para dar una apariencia de modernización bajo la etiqueta de 'personal directivo público profesional', el procedimiento sigue careciendo de criterios de mérito y capacidad auditables por la ciudadanía. El ascenso de la adjudicataria de un nivel 28 a un nivel 30 (el máximo escalafón funcionarial) en el Ministerio de Hacienda subraya la consolidación de una élite administrativa que se mueve por confianza política más que por concurso abierto.",
+    "resumen_ciudadano": "Hacienda ha nombrado a una nueva Subdirectora General de Recursos Humanos mediante elección directa (a dedo). Se trata de un puesto de máxima responsabilidad y sueldo (Nivel 30) que se otorga sin un proceso de oposición competitiva, basándose en la confianza de la Subsecretaría del Ministerio.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en Hacienda. Se adjudica una Subdirección General de RRHH por libre designación (Nivel 30). La élite administrativa se reorganiza bajo criterios de confianza política. #BOE #Opacidad #Transparencia 🏛️💸",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Nivel 30 (Máximo nivel funcionarial)",
+      "Discrecionalidad en la adjudicación",
+      "Opacidad en los criterios de idoneidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Blanca Cano Sánchez (Ascenso a Nivel 30)",
+        "Ministerio de Hacienda (Control discrecional del personal directivo)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (Meritocracia limitada)",
+        "Ciudadanía (Falta de transparencia en la elección de gestores públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento Discrecional / Personal Directivo",
+    "banderas_rojas": [
+      "Libre designación",
+      "Nivel 30 (Máximo nivel funcionarial)",
+      "Discrecionalidad en la adjudicación",
+      "Opacidad en los criterios de idoneidad"
+    ]
+  },
+  "tweeted": false
+}
