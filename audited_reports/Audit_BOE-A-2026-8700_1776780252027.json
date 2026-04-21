@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8700",
+  "timestamp": "2026-04-21T14:04:12.027Z",
+  "title": "Orden SND/362/2026, de 13 de abril, por la que se modifica el anexo 1 del Real Decreto 2829/1977, de 6 de octubre, por el que se regulan las sustancias y preparados medicinales psicotrópicos, así como la fiscalización e inspección de su fabricación, distribución, prescripción y dispensación.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden transpone directivas europeas y decisiones de la ONU para incluir nuevas sustancias en las listas de fiscalización. Aunque se justifica por la protección de la salud pública y la lucha contra el narcotráfico, destaca la inclusión de la lisdexanfetamina (usada para TDAH) en la Lista II. Esto supone una paradoja regulatoria: mientras se busca combatir 'legal highs' sintéticos, se imponen controles más estrictos a medicamentos de uso común, aumentando la carga burocrática para pacientes crónicos. No se detallan los costes administrativos adicionales para el sistema público de salud derivado de la nueva inspección.",
+    "resumen_ciudadano": "El Ministerio de Sanidad actualiza la lista de sustancias prohibidas o estrictamente controladas. Se añaden varias drogas sintéticas (como derivados de la catinona y cannabinoides sintéticos) y el medicamento lisdexanfetamina a las listas de máxima vigilancia. Esto significa que su fabricación, distribución y prescripción estarán mucho más vigiladas y cualquier uso fuera del cauce legal tendrá sanciones penales.",
+    "resumen_tweet": "🚨 Sanidad endurece el control sobre drogas sintéticas y medicamentos como la Lisdexanfetamina. Más burocracia para pacientes de TDAH y nuevas prohibiciones para frenar sustancias psicoactivas. ¿Control sanitario o exceso punitivo? #BOE #Salud #Opacidad",
+    "banderas_red_flags": [
+      "Aumento de la fiscalización sobre medicamentos para el TDAH sin evaluar impacto en el acceso",
+      "Falta de memoria económica sobre el coste de inspección de estas nuevas partidas",
+      "Ausencia de mención a programas de reducción de daños, centrando el texto solo en la vía penal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fuerzas y Cuerpos de Seguridad del Estado (mayor cobertura legal para detenciones)",
+        "Cuerpos de inspección farmacéutica",
+        "Organismos internacionales (cumplimiento de tratados)"
+      ],
+      "perdedores": [
+        "Pacientes con TDAH o trastorno por atracón (mayores trabas en la gestión de su medicación)",
+        "Usuarios de nuevas sustancias psicoactivas (criminalización inmediata)",
+        "Farmacias (incremento de la carga administrativa en el registro de psicótropos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad y Consumo",
+    "banderas_rojas": [
+      "Aumento de la fiscalización sobre medicamentos para el TDAH sin evaluar impacto en el acceso",
+      "Falta de memoria económica sobre el coste de inspección de estas nuevas partidas",
+      "Ausencia de mención a programas de reducción de daños, centrando el texto solo en la vía penal"
+    ]
+  },
+  "tweeted": false
+}
