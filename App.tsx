@@ -301,6 +301,16 @@ const App: React.FC = () => {
   const auditedIdsSet = useMemo(() => new Set(history.map(h => h.boeId)), [history]);
   const isAlreadyAudited = (id: string) => auditedIdsSet.has(id);
 
+  const opacityCounts = useMemo(() => {
+    return history.reduce((acc, h) => {
+      const t = h.audit.nivel_transparencia;
+      if (t <= 33) acc.critical++;
+      else if (t <= 66) acc.warning++;
+      else acc.transparent++;
+      return acc;
+    }, { critical: 0, warning: 0, transparent: 0 });
+  }, [history]);
+
   const LoginOverlay = () => (
     <div className="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-300">
       <div className="w-full max-w-md bg-slate-900 border border-slate-800 p-8 md:p-12 rounded-[2.5rem] shadow-2xl text-center space-y-8 relative animate-in zoom-in duration-300">
@@ -483,7 +493,7 @@ const App: React.FC = () => {
                       >
                         <span className="text-sm font-bold text-red-400">{t.opacityCritical} (0-33%)</span>
                         <span className="text-sm font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
-                          {history.filter(h => h.audit.nivel_transparencia <= 33).length}
+                          {opacityCounts.critical}
                         </span>
                       </button>
                       <button 
@@ -492,7 +502,7 @@ const App: React.FC = () => {
                       >
                         <span className="text-sm font-bold text-amber-400">{t.opacityWarning} (34-66%)</span>
                         <span className="text-sm font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
-                          {history.filter(h => h.audit.nivel_transparencia > 33 && h.audit.nivel_transparencia <= 66).length}
+                          {opacityCounts.warning}
                         </span>
                       </button>
                       <button 
@@ -501,7 +511,7 @@ const App: React.FC = () => {
                       >
                         <span className="text-sm font-bold text-emerald-400">{t.opacityTransparent} (67-100%)</span>
                         <span className="text-sm font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
-                          {history.filter(h => h.audit.nivel_transparencia > 66).length}
+                          {opacityCounts.transparent}
                         </span>
                       </button>
                     </div>
