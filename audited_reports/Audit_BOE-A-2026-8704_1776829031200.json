@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8704",
+  "timestamp": "2026-04-22T03:37:11.200Z",
+  "title": "Orden EFD/363/2026, de 14 de abril, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad de Autónoma de Andalucía, se nombra personal funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria al personal funcionario de carrera del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, integrados en virtud del procedimiento extraordinario convocado por Resolución de 1 de febrero de 2023.",
+  "report": {
+    "nivel_transparencia": 0.65,
+    "analisis_critico": "La orden regula el trasvase de funcionarios del cuerpo técnico de FP (A2) al cuerpo de profesores de secundaria (A1). Aunque es un acto administrativo estándar bajo la LOMLOE, la opacidad reside en la ausencia de una memoria económica que detalle el impacto presupuestario de esta subida de nivel salarial para las arcas de la Junta de Andalucía. Se observa una gran disparidad en las 'fechas de efectos' (desde 2021 hasta 2025), lo que sugiere una gestión burocrática lenta y resoluciones judiciales o administrativas individuales acumuladas que fragmentan la unidad de la promoción.",
+    "resumen_ciudadano": "Se formaliza el ascenso de un grupo de profesores técnicos de Formación Profesional en Andalucía al cuerpo de Profesores de Secundaria. Esto supone una mejora en su estatus laboral y salarial, integrándose en un cuerpo superior tras un proceso extraordinario de años.",
+    "resumen_tweet": "📢 ¡Ascenso en el #BOE! Docentes de FP en Andalucía pasan al cuerpo de Secundaria. 📈 Mejora salarial necesaria, pero con un proceso lento y disparidad de fechas. ¿Cuánto le cuesta esto al contribuyente? La transparencia económica brilla por su ausencia. 🕵️‍♂️ #Opacidad",
+    "banderas_red_flags": [
+      "Fechas de efectos retroactivos muy diversas (2021-2025)",
+      "Ausencia de desglose presupuestario por plaza",
+      "Uso de términos como 'cuerpo a extinguir' que ocultan la complejidad de la reestructuración administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Profesores Técnicos de FP (mejora de nivel salarial A1)",
+        "Sindicatos educativos (logro de equiparación)"
+      ],
+      "perdedores": [
+        "Contribuyentes (aumento del gasto público no cuantificado en el texto)",
+        "Docentes técnicos sin titulación universitaria que quedan en el cuerpo a extinguir"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Fechas de efectos retroactivos muy diversas (2021-2025)",
+      "Ausencia de desglose presupuestario por plaza",
+      "Uso de términos como 'cuerpo a extinguir' que ocultan la complejidad de la reestructuración administrativa"
+    ]
+  },
+  "tweeted": false
+}
