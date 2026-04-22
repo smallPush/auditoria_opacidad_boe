@@ -1,5 +1,5 @@
 import { expect, test, describe, beforeEach, afterEach, spyOn, mock } from "bun:test";
-import React from "react";
+
 import { render, cleanup } from "@testing-library/react";
 import GoogleAnalytics from "./GoogleAnalytics";
 

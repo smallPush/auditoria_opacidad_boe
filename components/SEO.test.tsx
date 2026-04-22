@@ -1,5 +1,5 @@
 import { expect, test, describe, beforeEach, afterEach } from "bun:test";
-import React from "react";
+
 import { render, cleanup } from "@testing-library/react";
 import SEO from "./SEO";
 
