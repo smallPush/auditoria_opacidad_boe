@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8703",
+  "timestamp": "2026-04-22T03:35:44.944Z",
+  "title": "Resolución de 26 de marzo de 2026, de la Secretaría de Estado de Seguridad, por la que se declara la pérdida de la condición de funcionario del Policía del Cuerpo Nacional de Policía don Francisco Javier Zaplana Menjíbar.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja la aplicación de la Ley Orgánica 9/2015 tras una sentencia penal firme. Se observa una respuesta administrativa diligente (2 meses desde la sentencia hasta la publicación). Sin embargo, el texto oculta la naturaleza específica de la 'estafa' y la 'falsedad documental', impidiendo evaluar el daño real al erario público o a ciudadanos particulares. No hay gastos fantasma directos, pero sí un coste de oportunidad y reputacional por la formación y salario de un agente corrupto.",
+    "resumen_ciudadano": "Se oficializa la expulsión definitiva de un agente de la Policía Nacional destinado en Torrent (Valencia) tras ser condenado por estafa y falsificación de documentos. Al perder su condición de funcionario por inhabilitación judicial, deja de percibir sueldo público y de ejercer funciones de autoridad.",
+    "resumen_tweet": "📉 Expulsado un Policía Nacional de Torrent tras condena por ESTAFA y FALSEDAD documental. El #BOE publica la pérdida de su condición de funcionario. ¿Qué hay detrás de estos delitos en el cuerpo? #Transparencia #Opacidad #Policía",
+    "banderas_red_flags": [
+      "Delito de falsedad documental cometido por funcionario público",
+      "Concurso ideal de delitos (estafa y falsedad)",
+      "Uso de la condición de autoridad para fines ilícitos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Institución Policial (por purga de elementos corruptos)",
+        "Sistema de Justicia (ejecución de sentencia)"
+      ],
+      "perdedores": [
+        "Francisco Javier Zaplana Menjíbar (pérdida de empleo y sueldo)",
+        "Confianza ciudadana en las fuerzas de seguridad"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Resolución de Personal / Régimen Disciplinario",
+    "banderas_rojas": [
+      "Delito de falsedad documental cometido por funcionario público",
+      "Concurso ideal de delitos (estafa y falsedad)",
+      "Uso de la condición de autoridad para fines ilícitos"
+    ]
+  },
+  "tweeted": false
+}
