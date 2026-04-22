@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8803",
+  "timestamp": "2026-04-22T14:05:29.085Z",
+  "title": "Resolución 430/38201/2026, de 14 de abril, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38071/2026, de 16 de febrero.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion documenta una adjudicacion de puesto por 'libre designacion', un eufemismo legal para el nombramiento discrecional o 'a dedo'. Aunque se publica en el BOE, el mecanismo carece de criterios de merito y capacidad auditables por la ciudadania, especialmente al tratarse de un puesto en el Gabinete de la Ministra de Defensa. El hecho de que la adjudicataria ya procediera del mismo gabinete sugiere una consolidacion de redes de confianza personal en lugar de una apertura competitiva del puesto.",
+    "resumen_ciudadano": "Se confirma el nombramiento de una Analista de Sistemas en el Gabinete de la Ministra de Defensa mediante libre designacion. Este metodo permite elegir a dedo al personal sin un concurso publico basado estrictamente en meritos academicos o profesionales, priorizando la confianza politica o personal.",
+    "resumen_tweet": "🚩 Mas 'libre designacion' en el #BOE. Defensa adjudica un puesto técnico en el Gabinete de la Ministra sin concurso publico. La opacidad de los cargos 'a dedo' debilita la meritocracia en la administracion. #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Libre designacion (nombramiento discrecional)",
+      "Puesto en gabinete politico",
+      "Falta de justificacion de meritos especificos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Milagros Ramos Vega (adjudicataria)",
+        "Gabinete de la Ministra de Defensa (mantiene personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso por merito",
+        "Transparencia publica",
+        "Sistema de oposicion abierta"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal / Adjudicacion discrecional",
+    "banderas_rojas": [
+      "Libre designacion (nombramiento discrecional)",
+      "Puesto en gabinete politico",
+      "Falta de justificacion de meritos especificos en el texto"
+    ]
+  },
+  "tweeted": false
+}
