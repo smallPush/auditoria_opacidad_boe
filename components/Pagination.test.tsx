@@ -1,5 +1,5 @@
 import { expect, test, describe, mock, afterEach } from "bun:test";
-import React from "react";
+
 import { render, screen, fireEvent, cleanup } from "@testing-library/react";
 import Pagination from "./Pagination";
 

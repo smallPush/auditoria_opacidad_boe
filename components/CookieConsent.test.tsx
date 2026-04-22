@@ -1,5 +1,5 @@
 import { expect, test, describe, mock, afterEach, beforeEach } from "bun:test";
-import React from "react";
+
 import { render, screen, fireEvent, cleanup } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
 import CookieConsent from "./CookieConsent";
