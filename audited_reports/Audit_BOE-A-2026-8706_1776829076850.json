@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8706",
+  "timestamp": "2026-04-22T03:37:56.850Z",
+  "title": "Resolución de 12 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución consolida el uso del sistema de 'libre designación' para puestos de alta responsabilidad técnica (Nivel 29) vinculados a la gestión de fondos europeos (Plan de Recuperación, Transformación y Resiliencia). Este mecanismo, aunque legal según el EBEP, permite la discrecionalidad política en la selección de personal, lo que debilita el principio de meritocracia. Resulta llamativo que puestos clave para la fiscalización y coordinación de fondos internacionales se cubran 'a dedo' en lugar de mediante concurso de méritos abierto y competitivo.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica ha asignado tres puestos de trabajo, incluyendo dos coordinadores de alto nivel para gestionar fondos de recuperación, mediante el sistema de libre designación (elección directa). Esto significa que no se ha realizado un concurso público basado únicamente en méritos objetivos, sino en la confianza del órgano directivo.",
+    "resumen_tweet": "🚩 Nueva adjudicación 'a dedo' en el @mitecogob. Puestos de Nivel 29 para gestionar Fondos Europeos asignados por libre designación. ¿Meritocracia o confianza política? La opacidad administrativa persiste. #BOE #Opacidad #Transparencia ⚖️🏛️",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos de alto nivel (A1/Nivel 29)",
+      "Asignación discrecional de personal para la coordinación del Plan de Recuperación y Resiliencia",
+      "Falta de detalle sobre los criterios de idoneidad específicos para los seleccionados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios seleccionados (Soria Orihuel, Romera González, Florido Plaza)",
+        "Altos cargos del Ministerio (mayor control sobre el personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Ciudadanía (riesgo de clientelismo en la gestión de fondos públicos)",
+        "Principio de mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Madrid)",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos de alto nivel (A1/Nivel 29)",
+      "Asignación discrecional de personal para la coordinación del Plan de Recuperación y Resiliencia",
+      "Falta de detalle sobre los criterios de idoneidad específicos para los seleccionados"
+    ]
+  },
+  "tweeted": false
+}
