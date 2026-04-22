@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8709",
+  "timestamp": "2026-04-22T03:40:12.633Z",
+  "title": "Resolución de 10 de abril de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, en la Escala de Técnicos Especializados de los Organismos Públicos de Investigación.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento presenta un nivel de transparencia elevado al detallar nombres, destinos, niveles de complemento de destino (20) y cuantías exactas de complementos específicos (5.215,28 euros). Sin embargo, el análisis temporal revela una burocracia pesada: el proceso se inició en mayo de 2024 y se resuelve en abril de 2026, lo que implica casi dos años para una promoción interna. La homogeneidad salarial en puestos de distinta naturaleza técnica en centros tan diversos como el CSIC o el CIEMAT sugiere una estructura de costes rígida que no discrimina por la complejidad específica de cada laboratorio o proyecto.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de personal técnico especializado para organismos de investigación pública (CSIC, CIEMAT, etc.). Este proceso permite que trabajadores que ya estaban en la administración asciendan a funcionarios de carrera, estabilizando sus puestos en diversos centros de investigación por toda España.",
+    "resumen_tweet": "🔬 Estabilidad para la ciencia: El #BOE publica los nuevos funcionarios técnicos para el CSIC y CIEMAT. Proceso transparente pero con lentitud burocrática (2 años de gestión). ¡La investigación merece agilidad! 🏛️📊 #Opacidad #Transparencia #Ciencia",
+    "banderas_red_flags": [
+      "Dilación administrativa: 23 meses entre convocatoria y resolución",
+      "Sistema de promoción interna cerrado que limita la entrada de talento externo en esta escala específica",
+      "Estandarización retributiva total a pesar de la diversidad de centros de destino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal técnico que promociona (estabilidad y mejora salarial)",
+        "Personas con discapacidad (aplicación efectiva de la reserva de plazas y adaptación de destino)",
+        "Organismos Públicos de Investigación (consolidación de plantillas)"
+      ],
+      "perdedores": [
+        "Científicos y técnicos externos (proceso restringido a promoción interna)",
+        "Contribuyente (por la ineficiencia temporal de una gestión de RRHH de dos años)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica (Madrid, Aragón, Andalucía, C. Valenciana, Galicia, La Rioja, Cataluña, Cantabria)",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Dilación administrativa: 23 meses entre convocatoria y resolución",
+      "Sistema de promoción interna cerrado que limita la entrada de talento externo en esta escala específica",
+      "Estandarización retributiva total a pesar de la diversidad de centros de destino"
+    ]
+  },
+  "tweeted": false
+}
