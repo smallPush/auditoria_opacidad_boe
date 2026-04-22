@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-8796",
+  "timestamp": "2026-04-22T14:02:00.405Z",
+  "title": "Real Decreto 329/2026, de 21 de abril, por el que se dispone el cese de don Miguel María de Lucas González como Embajador de España en el Reino Hachemí de Jordania.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento representa la tipica opacidad de los ceses discrecionales en la carrera diplomatica. Bajo la formula juridica de 'vengo en disponer', se ocultan las razones reales del cese (si es por rotacion ordinaria, perdida de confianza o mala gestion). No existe memoria economica que detalle el coste del retorno del embajador y su familia a España, lo que constituye un gasto ciego para el erario publico.",
+    "resumen_ciudadano": "El Gobierno ha cesado al Embajador de España en Jordania sin dar ninguna explicacion sobre los motivos. Este movimiento forma parte de la discrecionalidad politica del Ministerio de Asuntos Exteriores, donde los relevos de altos cargos se ejecutan de forma automatica y sin rendir cuentas sobre el desempeño del funcionario saliente.",
+    "resumen_tweet": "🚨 El #BOE publica el cese del Embajador en Jordania. ¿Motivo? Desconocido. ¿Coste del retorno? Opaco. La diplomacia sigue funcionando como una caja negra para el ciudadano. 🇪🇸🇯🇴 #Opacidad #Transparencia #Diplomacia",
+    "banderas_red_flags": [
+      "Ausencia total de motivacion para el cese",
+      "Falta de referencia a la futura asignacion del cargo",
+      "Opacidad en las dietas de retorno y compensaciones por cese"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El Ministerio de Asuntos Exteriores (libera una plaza estrategica para nuevos nombramientos discrecionales)"
+      ],
+      "perdedores": [
+        "La ciudadania (por falta de transparencia en la gestion de recursos diplomaticos)",
+        "El principio de meritocracia (al no evaluarse publicamente el desempeño del cesado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Cese de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia total de motivacion para el cese",
+      "Falta de referencia a la futura asignacion del cargo",
+      "Opacidad en las dietas de retorno y compensaciones por cese"
+    ]
+  },
+  "tweeted": false
+}
