@@ -1,11 +1,34 @@
-
-import React, { useState, useEffect } from 'react';
-import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, TooltipProps } from 'recharts';
-import { BOEAuditResponse } from '../types';
-import { AlertTriangle, Info, CheckCircle, XCircle, TrendingUp, TrendingDown, ExternalLink, Download, Loader2, Twitter, Copy, Check, FileJson, Terminal, MapPin, Tag, Send } from 'lucide-react';
-import { translations, Language } from '../translations';
-import { postTweet } from '../services/twitterService';
-import { saveAuditToDB } from '../services/supabaseService';
+import React, { useState, useEffect } from "react";
+import {
+  PieChart,
+  Pie,
+  Cell,
+  ResponsiveContainer,
+  Tooltip,
+  TooltipProps,
+} from "recharts";
+import { BOEAuditResponse } from "../types";
+import {
+  AlertTriangle,
+  Info,
+  CheckCircle,
+  XCircle,
+  TrendingUp,
+  TrendingDown,
+  ExternalLink,
+  Download,
+  Loader2,
+  Twitter,
+  Copy,
+  Check,
+  FileJson,
+  MapPin,
+  Tag,
+  Send,
+} from "lucide-react";
+import { translations, Language } from "../translations";
+import { postTweet } from "../services/twitterService";
+import { saveAuditToDB } from "../services/supabaseService";
 
 interface Props {
   data: BOEAuditResponse;
@@ -15,10 +38,17 @@ interface Props {
   isLoggedIn?: boolean;
 }
 
-const CustomTooltip = ({ active, payload, lang }: TooltipProps<number, string> & { lang: Language }) => {
+const CustomTooltip = ({
+  active,
+  payload,
+  lang,
+}: TooltipProps<number, string> & { lang: Language }) => {
   if (active && payload && payload.length) {
     const t = translations[lang];
-    const data = payload && Array.isArray(payload) && payload.length > 0 ? payload[0] : null;
+    const data =
+      payload && Array.isArray(payload) && payload.length > 0
+        ? payload[0]
+        : null;
     if (!data) return null;
     const isTransparency = data.name === t.transparencyLevel;
 
@@ -41,7 +71,7 @@ const AuditDashboard: React.FC<Props> = ({
   boeId,
   title,
   lang,
-  isLoggedIn
+  isLoggedIn,
 }) => {
   const t = translations[lang];
   const [copiedTweet, setCopiedTweet] = useState(false);
@@ -58,7 +88,7 @@ const AuditDashboard: React.FC<Props> = ({
     { name: t.opacityLevel, value: 100 - data.nivel_transparencia },
   ];
 
-  const COLORS = ['#22c55e', '#ef4444'];
+  const COLORS = ["#22c55e", "#ef4444"];
   const boeUrl = `https://www.boe.es/buscar/doc.php?id=${boeId}`;
   const radarUrl = `https://radarboe.es/#/audit/${boeId}`;
 
@@ -92,14 +122,18 @@ const AuditDashboard: React.FC<Props> = ({
   };
 
   const handleDownloadJson = () => {
-    const jsonString = JSON.stringify({
-      boe_id: boeId,
-      timestamp: new Date().toISOString(),
-      report: data
-    }, null, 2);
-    const blob = new Blob([jsonString], { type: 'application/json' });
+    const jsonString = JSON.stringify(
+      {
+        boe_id: boeId,
+        timestamp: new Date().toISOString(),
+        report: data,
+      },
+      null,
+      2,
+    );
+    const blob = new Blob([jsonString], { type: "application/json" });
     const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
+    const link = document.createElement("a");
     link.href = url;
     link.download = `Audit_${boeId}_${new Date().getTime()}.json`;
     document.body.appendChild(link);
@@ -117,7 +151,9 @@ const AuditDashboard: React.FC<Props> = ({
               <CheckCircle className="text-emerald-400" />
               {t.transparencyLevel}
             </h3>
-            <span className={`text-4xl font-black ${data.nivel_transparencia <= 33 ? 'text-red-400' : data.nivel_transparencia < 70 ? 'text-amber-400' : 'text-emerald-400'}`}>
+            <span
+              className={`text-4xl font-black ${data.nivel_transparencia <= 33 ? "text-red-400" : data.nivel_transparencia < 70 ? "text-amber-400" : "text-emerald-400"}`}
+            >
               {data.nivel_transparencia}%
             </span>
           </div>
@@ -135,14 +171,21 @@ const AuditDashboard: React.FC<Props> = ({
                   stroke="none"
                 >
                   {chartData.map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                    <Cell
+                      key={`cell-${index}`}
+                      fill={COLORS[index % COLORS.length]}
+                    />
                   ))}
                 </Pie>
-                <Tooltip content={(props) => <CustomTooltip {...props} lang={lang} />} />
+                <Tooltip
+                  content={(props) => <CustomTooltip {...props} lang={lang} />}
+                />
               </PieChart>
             </ResponsiveContainer>
           </div>
-          <p className="text-slate-400 text-sm mt-4 italic">{t.transparencyDesc}</p>
+          <p className="text-slate-400 text-sm mt-4 italic">
+            {t.transparencyDesc}
+          </p>
         </div>
 
         <div className="flex-[1.5] bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl flex flex-col">
@@ -167,8 +210,12 @@ const AuditDashboard: React.FC<Props> = ({
             {data.resumen_ciudadano}
           </div>
           <div className="mt-6 flex flex-wrap gap-2">
-            <span className="bg-slate-800 px-3 py-1 rounded-full text-xs text-slate-400 font-mono">ID: {boeId}</span>
-            <span className="bg-emerald-950/40 text-emerald-400 px-3 py-1 rounded-full text-xs border border-emerald-900/50">Gemini 3 Flash</span>
+            <span className="bg-slate-800 px-3 py-1 rounded-full text-xs text-slate-400 font-mono">
+              ID: {boeId}
+            </span>
+            <span className="bg-emerald-950/40 text-emerald-400 px-3 py-1 rounded-full text-xs border border-emerald-900/50">
+              Gemini 3 Flash
+            </span>
             {data.comunidad_autonoma && (
               <span className="bg-blue-950/40 text-blue-400 px-3 py-1 rounded-full text-xs border border-blue-900/50 flex items-center gap-1">
                 <MapPin size={10} />
@@ -184,7 +231,8 @@ const AuditDashboard: React.FC<Props> = ({
             {(() => {
               const val = data.nivel_transparencia;
               let label = t.transparencyAcceptable;
-              let style = "bg-emerald-950/40 text-emerald-400 border-emerald-900/50";
+              let style =
+                "bg-emerald-950/40 text-emerald-400 border-emerald-900/50";
 
               if (val <= 33) {
                 label = t.transparencyVeryBad;
@@ -195,7 +243,9 @@ const AuditDashboard: React.FC<Props> = ({
               }
 
               return (
-                <span className={`${style} px-3 py-1 rounded-full text-xs border flex items-center gap-1`}>
+                <span
+                  className={`${style} px-3 py-1 rounded-full text-xs border flex items-center gap-1`}
+                >
                   {label}
                 </span>
               );
@@ -212,7 +262,10 @@ const AuditDashboard: React.FC<Props> = ({
           </h3>
           <ul className="space-y-3">
             {data.banderas_rojas.map((flag, idx) => (
-              <li key={idx} className="flex gap-3 items-start bg-red-950/20 border border-red-900/30 p-3 rounded-lg">
+              <li
+                key={idx}
+                className="flex gap-3 items-start bg-red-950/20 border border-red-900/30 p-3 rounded-lg"
+              >
                 <span className="text-red-500 mt-1">•</span>
                 <span className="text-slate-300 text-sm">{flag}</span>
               </li>
@@ -232,7 +285,10 @@ const AuditDashboard: React.FC<Props> = ({
               </h4>
               <div className="flex flex-wrap gap-2">
                 {data.vencedores_vencidos.ganadores.map((g, idx) => (
-                  <span key={idx} className="bg-emerald-900/30 text-emerald-100 px-3 py-1 rounded-lg border border-emerald-800/50 text-xs">
+                  <span
+                    key={idx}
+                    className="bg-emerald-900/30 text-emerald-100 px-3 py-1 rounded-lg border border-emerald-800/50 text-xs"
+                  >
                     {g}
                   </span>
                 ))}
@@ -244,7 +300,10 @@ const AuditDashboard: React.FC<Props> = ({
               </h4>
               <div className="flex flex-wrap gap-2">
                 {data.vencedores_vencidos.perdedores.map((p, idx) => (
-                  <span key={idx} className="bg-red-900/30 text-red-100 px-3 py-1 rounded-lg border border-red-800/50 text-xs">
+                  <span
+                    key={idx}
+                    className="bg-red-900/30 text-red-100 px-3 py-1 rounded-lg border border-red-800/50 text-xs"
+                  >
                     {p}
                   </span>
                 ))}
@@ -252,12 +311,12 @@ const AuditDashboard: React.FC<Props> = ({
             </div>
           </div>
         </div>
-
-
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        <div className={`${isLoggedIn ? 'lg:col-span-2' : 'lg:col-span-3'} bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl`}>
+        <div
+          className={`${isLoggedIn ? "lg:col-span-2" : "lg:col-span-3"} bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl`}
+        >
           <h3 className="text-2xl font-bold mb-6 border-b border-slate-800 pb-4 flex items-center gap-3">
             <TrendingDown className="text-amber-400" />
             {t.criticalAnalysis}
@@ -281,7 +340,11 @@ const AuditDashboard: React.FC<Props> = ({
                 onClick={handleCopyJson}
                 className="flex-1 flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-white py-3 rounded-xl font-bold text-xs transition-all"
               >
-                {copiedJson ? <Check size={14} className="text-emerald-500" /> : <Copy size={14} />}
+                {copiedJson ? (
+                  <Check size={14} className="text-emerald-500" />
+                ) : (
+                  <Copy size={14} />
+                )}
                 {t.copyJson}
               </button>
               <button
@@ -302,29 +365,46 @@ const AuditDashboard: React.FC<Props> = ({
             <Twitter size={14} className="text-blue-400" />
             {t.tweetSummaryTitle}
           </h4>
-          <button onClick={handleCopyTweet} className="text-slate-500 hover:text-white transition-colors">
-            {copiedTweet ? <Check size={14} className="text-emerald-500" /> : <Copy size={14} />}
+          <button
+            onClick={handleCopyTweet}
+            className="text-slate-500 hover:text-white transition-colors"
+          >
+            {copiedTweet ? (
+              <Check size={14} className="text-emerald-500" />
+            ) : (
+              <Copy size={14} />
+            )}
           </button>
         </div>
         <div className="bg-slate-950 p-3 rounded-lg border border-slate-800 text-xs text-slate-400 leading-relaxed italic mb-3">
           "{data.resumen_tweet}
-          <br /><br />
+          <br />
+          <br />
           {radarUrl}"
         </div>
         {isLoggedIn && (
           <button
             onClick={handlePostTweet}
             disabled={tweetSent || isPostingTweet}
-            className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all mb-2 ${tweetSent ? 'bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50' : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20'}`}
+            className={`w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all mb-2 ${tweetSent ? "bg-emerald-900/30 text-emerald-400 cursor-not-allowed border border-emerald-900/50" : "bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-900/20"}`}
           >
-            {isPostingTweet ? <Loader2 size={14} className="animate-spin" /> : tweetSent ? <Check size={14} /> : <Send size={14} />}
+            {isPostingTweet ? (
+              <Loader2 size={14} className="animate-spin" />
+            ) : tweetSent ? (
+              <Check size={14} />
+            ) : (
+              <Send size={14} />
+            )}
             {tweetSent ? t.tweetSent : t.postTweet}
           </button>
         )}
         <button
           onClick={() => {
             const tweetText = `${data.resumen_tweet}\n\n${radarUrl}`;
-            window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`, '_blank');
+            window.open(
+              `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}`,
+              "_blank",
+            );
           }}
           className="w-full py-2 rounded-lg font-bold text-xs flex items-center justify-center gap-2 transition-all bg-slate-800 hover:bg-slate-700 text-white border border-slate-700"
         >
