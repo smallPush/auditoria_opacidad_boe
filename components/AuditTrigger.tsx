@@ -1,10 +1,10 @@
-import React, { useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
-import { AlertCircle, ArrowLeft } from 'lucide-react';
-import { AnalysisState, BOEAuditResponse, AuditHistoryItem } from '../types';
-import { Language, Translations } from '../translations';
-import AuditDashboard from './AuditDashboard';
-import SEO from './SEO';
+import React, { useEffect } from "react";
+import { useParams, useNavigate } from "react-router-dom";
+import { AlertCircle, ArrowLeft } from "lucide-react";
+import { AnalysisState, AuditHistoryItem } from "../types";
+import { Language, Translations } from "../translations";
+import AuditDashboard from "./AuditDashboard";
+import SEO from "./SEO";
 
 interface AuditTriggerProps {
   performAudit: (boeId: string) => void;
@@ -27,12 +27,12 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
   lang,
   resetState,
   history,
-  isHistoryLoaded
+  isHistoryLoaded,
 }) => {
   const { boeId } = useParams<{ boeId: string }>();
   const navigate = useNavigate();
 
-  const currentItem = history.find(h => h.boeId === (boeId || searchId));
+  const currentItem = history.find((h) => h.boeId === (boeId || searchId));
   const title = currentItem?.title || boeId || "BOE Document";
 
   useEffect(() => {
@@ -48,8 +48,8 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
         <AlertCircle className="text-red-500" size={64} />
         <h3 className="font-bold text-2xl">{t.errorTitle}</h3>
         <p className="text-slate-400">{state.error}</p>
-        <button 
-          onClick={() => boeId && performAudit(boeId)} 
+        <button
+          onClick={() => boeId && performAudit(boeId)}
           className="bg-slate-800 hover:bg-slate-700 px-10 py-3 rounded-xl font-bold"
         >
           {t.retryBtn}
@@ -63,8 +63,14 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
       <div className="flex flex-col items-center justify-center py-24 space-y-6">
         <div className="w-16 h-16 border-4 border-blue-500/20 border-t-blue-500 rounded-full animate-spin"></div>
         <div className="text-center space-y-2">
-          <h2 className="text-2xl font-bold">{!isHistoryLoaded ? "Cargando historial..." : t.decodingOpacity}</h2>
-          <p className="text-slate-400 max-w-md mx-auto">{!isHistoryLoaded ? "Verificando auditorías previas" : t.processingGemini}</p>
+          <h2 className="text-2xl font-bold">
+            {!isHistoryLoaded ? "Cargando historial..." : t.decodingOpacity}
+          </h2>
+          <p className="text-slate-400 max-w-md mx-auto">
+            {!isHistoryLoaded
+              ? "Verificando auditorías previas"
+              : t.processingGemini}
+          </p>
         </div>
       </div>
     );
@@ -72,24 +78,27 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
 
   if (state.result) {
     const keywords = [
-      "BOE", 
-      searchId, 
-      "Auditoría", 
-      "Transparencia", 
-      ...(state.result.banderas_rojas || []), 
-      state.result.tipologia, 
-      state.result.comunidad_autonoma
+      "BOE",
+      searchId,
+      "Auditoría",
+      "Transparencia",
+      ...(state.result.banderas_rojas || []),
+      state.result.tipologia,
+      state.result.comunidad_autonoma,
     ].filter((k): k is string => !!k);
 
     return (
       <div className="space-y-6">
-        <SEO 
+        <SEO
           title={`Auditoría ${searchId} - ${title}`}
-          description={state.result.resumen_tweet || state.result.resumen_ciudadano.substring(0, 160)}
+          description={
+            state.result.resumen_tweet ||
+            state.result.resumen_ciudadano.substring(0, 160)
+          }
           keywords={keywords}
         />
-        <button 
-          onClick={() => navigate('/')} 
+        <button
+          onClick={() => navigate("/")}
           className="flex items-center gap-2 bg-slate-900 border border-slate-800 px-6 py-3 rounded-xl text-slate-300 hover:bg-slate-800 transition-all"
         >
           <ArrowLeft size={18} /> {t.backToHome}
