@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8806",
+  "timestamp": "2026-04-22T14:06:59.037Z",
+  "title": "Resolución de 15 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza un nombramiento de Nivel 30 (el máximo en la administración pública) mediante el sistema de 'Libre Designación'. Aunque se ampara en el Real Decreto-ley 6/2023 para vestirse de 'Personal Directivo Público Profesional', el mecanismo sigue siendo discrecional, lo que permite la elección de perfiles basados en la confianza política más que en un concurso de méritos abierto y ciego. Se observa una rotación interna donde el adjudicado ya ocupaba un puesto similar en el mismo ministerio, lo que sugiere un proceso de consolidación de la estructura directiva actual bajo una apariencia de nueva regulación.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha adjudicado una Subdirección General clave (Planificación de Políticas Agrarias) de forma discrecional. Se trata de un puesto de alta remuneración y poder de decisión que no ha pasado por un concurso público de méritos tradicional, sino por una elección directa del subsecretario.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Nuevo 'dedazo' de Nivel 30 en Agricultura. Bajo el paraguas de 'personal directivo', se consolida la libre designación en puestos clave de planificación agraria. ¿Mérito o confianza? 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máxima categoría salarial)",
+      "Nombramiento en área estratégica de fondos agrarios",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Sainz Elías (adjudicatario del puesto)",
+        "Cúpula del Ministerio de Agricultura (control político)",
+        "Cuerpo Superior de la Administración (mantenimiento de élite administrativa)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza",
+        "Ciudadanía (por falta de procesos selectivos competitivos)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máxima categoría salarial)",
+      "Nombramiento en área estratégica de fondos agrarios",
+      "Opacidad en la justificación de la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
