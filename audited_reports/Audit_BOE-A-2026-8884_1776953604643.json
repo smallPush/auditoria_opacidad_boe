@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8884",
+  "timestamp": "2026-04-23T14:13:24.643Z",
+  "title": "Resolución de 10 de abril de 2026, de la Universidad de Zaragoza, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento formaliza la transición de seis académicos a plazas de funcionarios de carrera bajo la LOSU 2/2023. Aunque el proceso es nominalmente transparente, omite el coste presupuestario a largo plazo de estas plazas vitalicias. Se observa una tendencia de consolidación interna frente a la captación de talento externo, habitual en el sistema universitario español. No hay 'gastos fantasma' directos, pero sí un compromiso de gasto estructural opaco en su cuantía total.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado a seis nuevos Profesores Titulares en áreas como Derecho, Ingeniería y Psicología. Estos profesionales pasan a ser funcionarios fijos del Estado. El proceso finaliza una convocatoria iniciada en diciembre de 2025, garantizando estabilidad laboral a los seleccionados.",
+    "resumen_tweet": "🎓 Nueva hornada de funcionarios en la Univ. de Zaragoza: 6 plazas fijas de Profesor Titular. 66% son mujeres, un avance en igualdad, pero persiste la burocracia en el acceso a la élite académica. ¿Eficiencia o inercia? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación de 5 meses entre convocatoria y nombramiento",
+      "Ausencia de información sobre la composición de las comisiones evaluadoras en este extracto",
+      "Falta de referencia al impacto presupuestario anual de las nuevas titularidades"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (estabilidad vitalicia)",
+        "Universidad de Zaragoza (consolidación de estructura)",
+        "Colectivo femenino (4 de 6 nombramientos)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (sin acceso a plazas fijas)",
+        "Contribuyentes (gasto estructural sin evaluación de desempeño pública)",
+        "Candidatos externos (barreras de entrada por endogamia sistémica)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Dilación de 5 meses entre convocatoria y nombramiento",
+      "Ausencia de información sobre la composición de las comisiones evaluadoras en este extracto",
+      "Falta de referencia al impacto presupuestario anual de las nuevas titularidades"
+    ]
+  },
+  "tweeted": false
+}
