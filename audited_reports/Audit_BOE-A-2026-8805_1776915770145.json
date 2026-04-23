@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8805",
+  "timestamp": "2026-04-23T03:42:50.145Z",
+  "title": "Resolución de 15 de abril de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 14 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución del concurso general en el Ministerio de Agricultura, Pesca y Alimentación revela una preocupante tendencia: un alto porcentaje de plazas declaradas desiertas (un 70% en el fragmento analizado). Esto indica una desconexión entre los perfiles demandados y la oferta de personal, o bien una falta de atractivo en las condiciones laborales de puestos clave en el FEGA y ENESA. La 'circularidad' administrativa es evidente, donde funcionarios ya en activo en el puesto simplemente consolidan su posición, aportando escasa movilidad real al sistema.",
+    "resumen_ciudadano": "Se han asignado nuevos puestos de trabajo en el Ministerio de Agricultura. Aunque el proceso es público, la noticia real es que muchas oficinas (como las de seguros agrarios o auditoría) se quedan vacías porque nadie ha solicitado la plaza o no cumplen los requisitos. Esto afecta directamente a la gestión de ayudas al campo y a la supervisión de fondos públicos.",
+    "resumen_tweet": "🚩 ¡Alerta de sillas vacías en el Ministerio de Agricultura! 🚜 El #BOE publica plazas resueltas, pero la mayoría quedan DESIERTAS. ¿Quién gestionará las ayudas al campo? Menos personal = más burocracia. 📉 #Opacidad #Transparencia #España #Agricultura",
+    "banderas_red_flags": [
+      "Alta tasa de puestos desiertos (ineficiencia administrativa)",
+      "Adjudicaciones de funcionarios que ya ocupaban el mismo puesto",
+      "Falta de competitividad en los puestos de gestión técnica (A2/C1)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios que consolidan plazas en Madrid y Granada",
+        "Estructuras burocráticas que mantienen el status quo"
+      ],
+      "perdedores": [
+        "Sector agrícola por infra-dotación de personal en organismos de seguros y garantías",
+        "Candidatos externos por la rigidez del sistema de méritos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de puestos desiertos (ineficiencia administrativa)",
+      "Adjudicaciones de funcionarios que ya ocupaban el mismo puesto",
+      "Falta de competitividad en los puestos de gestión técnica (A2/C1)"
+    ]
+  },
+  "tweeted": false
+}
