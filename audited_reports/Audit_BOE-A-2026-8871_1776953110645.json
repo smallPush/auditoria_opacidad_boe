@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-8871",
+  "timestamp": "2026-04-23T14:05:10.645Z",
+  "title": "Orden TRM/367/2026, de 10 de abril, relativa a las condiciones de circulación de trenes históricos en la Red Ferroviaria de Interés General.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden TRM/367/2026 establece un marco excepcional para la circulación de material ferroviario que, por su antigüedad, no cumple los estándares modernos de seguridad e interoperabilidad. El punto más crítico es la delegación de la 'catalogación' de estos bienes en la Fundación de los Ferrocarriles Españoles, un ente que actúa como filtro previo a la autoridad estatal, lo que genera un espacio de discrecionalidad técnica. Aunque se justifica como 'actividad cultural', el artículo 59 abre la puerta a un régimen económico y tributario de 'incentivos' que no detalla cuantías ni criterios de reparto, lo que podría derivar en subvenciones encubiertas para operadores turísticos de lujo bajo el paraguas del patrimonio.",
+    "resumen_ciudadano": "Esta norma regula cómo pueden circular trenes antiguos (como locomotoras de vapor o vagones de madera) por las vías actuales. Crea puestos de trabajo específicos para su manejo y permite que no sigan las leyes de seguridad ferroviaria estándar. La decisión de qué tren es 'histórico' recae en una Fundación, y se prevén beneficios económicos para fomentar su uso cultural.",
+    "resumen_tweet": "🚂 ¿Vuelven los trenes de vapor? El #BOE regula los trenes históricos. Se delega la catalogación en una Fundación y se prevén 'incentivos' económicos poco claros. ¿Cultura o negocio turístico subvencionado? 🧐 #Transparencia #Ferrocarril #Opacidad",
+    "banderas_red_flags": [
+      "Externalización de la potestad de catalogación a una Fundación",
+      "Exclusión explícita de la Ley del Sector Ferroviario general",
+      "Ambigüedad en el régimen de incentivos económicos del Artículo 59",
+      "Relajación de estándares de seguridad operacional por motivos históricos",
+      "Creación de certificados de aptitud emitidos por personal ad-hoc fuera del control administrativo directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación de los Ferrocarriles Españoles (mayor poder regulador)",
+        "Operadores de trenes turísticos de lujo",
+        "Coleccionistas privados de material ferroviario"
+      ],
+      "perdedores": [
+        "Usuarios del transporte ferroviario convencional (posible afectación a la capacidad de la red)",
+        "Estándares de seguridad técnica moderna (se permiten excepciones por diseño antiguo)",
+        "Contribuyentes (por los incentivos fiscales y económicos no detallados)"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Regulación de Patrimonio y Transporte",
+    "banderas_rojas": [
+      "Externalización de la potestad de catalogación a una Fundación",
+      "Exclusión explícita de la Ley del Sector Ferroviario general",
+      "Ambigüedad en el régimen de incentivos económicos del Artículo 59",
+      "Relajación de estándares de seguridad operacional por motivos históricos",
+      "Creación de certificados de aptitud emitidos por personal ad-hoc fuera del control administrativo directo"
+    ]
+  },
+  "tweeted": false
+}
