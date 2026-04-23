@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8813",
+  "timestamp": "2026-04-23T03:47:38.401Z",
+  "title": "Resolución de 15 de abril de 2026, de la Dirección de la Agencia Estatal de Administración Digital, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 30 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento oficializa la cobertura de dos puestos de altísima responsabilidad (niveles 30 y 29) en la Agencia Estatal de Administración Digital mediante el sistema de 'libre designación'. Este método, aunque legal bajo la Ley 30/1984, permite una elección discrecional por parte de la jerarquía política, lo que en la práctica supone un nombramiento 'a dedo' que prioriza la confianza personal sobre la competencia técnica competitiva. Es especialmente sensible que se utilicen estos mecanismos para controlar áreas estratégicas como Recursos Humanos y Tecnologías de la Información.",
+    "resumen_ciudadano": "La Agencia Estatal de Administración Digital ha nombrado a los nuevos jefes de Recursos Humanos y de Tecnologías de la Información. Ambos puestos cuentan con los sueldos más altos de la administración pública y han sido elegidos directamente por los directivos sin un concurso de méritos abierto, utilizando el sistema de libre designación.",
+    "resumen_tweet": "🚩 Nombramientos 'a dedo' en la Agencia Estatal de Administración Digital. Se adjudican puestos de nivel 30 y 29 (máxima escala) mediante libre designación. ¿Confianza política o meritocracia en la gestión de tus datos? 🏛️💻 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación en puestos técnicos",
+      "Adjudicación de niveles máximos de la administración (30 y 29)",
+      "Opacidad en los criterios de idoneidad del adjudicatario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Gómez-Cano Alfaro (Nivel 30)",
+        "Jorge Hernández de Pablos (Nivel 29)",
+        "Cuerpo Superior de Sistemas y Tecnologías de la Información"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Ciudadanía (por la politización de la gestión digital)",
+        "Principios de igualdad y capacidad en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación en puestos técnicos",
+      "Adjudicación de niveles máximos de la administración (30 y 29)",
+      "Opacidad en los criterios de idoneidad del adjudicatario"
+    ]
+  },
+  "tweeted": false
+}
