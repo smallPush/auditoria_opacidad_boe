@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8872",
+  "timestamp": "2026-04-23T14:03:55.909Z",
+  "title": "Real Decreto 326/2026, de 22 de abril, por el que se regula el Plan Estatal de Vivienda 2026-2030.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Plan Estatal de Vivienda 2026-2030 presenta una dualidad preocupante: mientras diagnostica con dureza la pérdida de 6,5 millones de viviendas protegidas debido a la privatización del suelo público, introduce mecanismos de 'urgencia' para 2026 que permiten transferir fondos mediante resoluciones administrativas en lugar de convenios plurianuales. Esta vía rápida, sumada a la delegación de gestión en 'entidades colaboradoras' y sociedades mercantiles, genera un riesgo elevado de opacidad en la adjudicación de fondos. Se observa una incongruencia ideológica al pretender convertir la vivienda en el 'quinto pilar del bienestar' manteniendo estructuras de gestión que históricamente han derivado en bajas ejecuciones presupuestarias por parte de las Comunidades Autónomas.",
+    "resumen_ciudadano": "El Gobierno lanza un plan para que la vivienda protegida no vuelva a privatizarse, admitiendo que España solo tiene un 1,7% de hogares en vivienda pública frente al 20% de otros países. Para acelerar el proceso en 2026, el dinero se enviará a las autonomías de forma directa sin esperar a firmar convenios largos, y la gestión se podrá dejar en manos de empresas públicas y entidades sociales.",
+    "resumen_tweet": "🏠 ¡Ojo al #BOE! El Plan de Vivienda 2026-2030 promete ser el '5º pilar', pero permite trasvases de fondos sin convenios previos para 2026. ¿Más rapidez o menos control en un sector con solo 1,7% de parque público? #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Transferencia de fondos vía resolución administrativa sin convenio previo en 2026",
+      "Externalización de la gestión a sociedades mercantiles y entidades sociales",
+      "Historial de baja ejecución presupuestaria admitido en el texto",
+      "Ampliación discrecional de plazos de programas anteriores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades del Tercer Sector (nuevos gestores)",
+        "Empresas públicas de vivienda",
+        "Ministerio de Vivienda (centralización de indicadores)"
+      ],
+      "perdedores": [
+        "Promotores inmobiliarios tradicionales (fin de la descalificación de viviendas)",
+        "Ciudadanos en emergencia habitacional (el parque público sigue en niveles críticos)",
+        "Contribuyentes (riesgo por falta de fiscalización en resoluciones rápidas)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Estatal",
+    "tipologia": "Plan Estratégico Plurianual / Real Decreto",
+    "banderas_rojas": [
+      "Transferencia de fondos vía resolución administrativa sin convenio previo en 2026",
+      "Externalización de la gestión a sociedades mercantiles y entidades sociales",
+      "Historial de baja ejecución presupuestaria admitido en el texto",
+      "Ampliación discrecional de plazos de programas anteriores"
+    ]
+  },
+  "tweeted": false
+}
