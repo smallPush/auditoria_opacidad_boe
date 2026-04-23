@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-8794",
+  "timestamp": "2026-04-23T02:43:40.416Z",
+  "title": "Resolución de 15 de abril de 2026, conjunta de las Presidencias del Congreso de los Diputados y del Senado, por la que se nombra funcionaria del Cuerpo Técnico-Administrativo de las Cortes Generales, a la aspirante que ha superado la oposición, convocada por Resolución de 18 de marzo de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de nombramiento de personal funcionario tras un proceso de oposición. Aunque cumple con la legalidad, el texto es opaco respecto a los costes derivados del tribunal examinador y la logística de un proceso selectivo que se ha dilatado durante más de un año (marzo 2025 a abril 2026). La formalidad del lenguaje oculta la barrera de entrada socioeconómica que suponen las oposiciones de larga duración en España, accesibles principalmente para quienes pueden permitirse años de estudio sin ingresos.",
+    "resumen_ciudadano": "Nombramiento oficial de una nueva funcionaria para el Cuerpo Técnico-Administrativo de las Cortes Generales tras superar las pruebas selectivas convocadas en 2025.",
+    "resumen_tweet": "📄 Nueva plaza fija en las Cortes Generales. Tras más de un año de proceso, el #BOE oficializa un nuevo cargo técnico. ¿Cuánto nos cuesta realmente cada proceso selectivo individual? 💸 La burocracia sigue su curso. #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Dilatación temporal del proceso (13 meses para un nombramiento)",
+      "Ausencia de desglose de costes del tribunal examinador",
+      "Falta de datos sobre el número total de aspirantes descartados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Begoña Tarazaga López (estabilidad laboral vitalicia)",
+        "Cortes Generales (cobertura de vacante)"
+      ],
+      "perdedores": [
+        "Opositores sin recursos para largas preparaciones",
+        "Contribuyentes (coste de mantenimiento de estructuras de oposición para plazas individuales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Dilatación temporal del proceso (13 meses para un nombramiento)",
+      "Ausencia de desglose de costes del tribunal examinador",
+      "Falta de datos sobre el número total de aspirantes descartados"
+    ]
+  },
+  "tweeted": false
+}
