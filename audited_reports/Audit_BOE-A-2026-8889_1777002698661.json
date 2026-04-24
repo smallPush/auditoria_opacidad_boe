@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-8889",
+  "timestamp": "2026-04-24T03:51:38.661Z",
+  "title": "Resolución de 13 de abril de 2026, de la Universidad de Málaga, por la que se nombra Profesora Titular de Universidad a doña Rosario López Sánchez.",
+  "report": {
+    "nivel_transparencia": 90,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidacion de una plaza de funcionario docente en el area de Filosofia Moral. El texto es transparente en cuanto a la identidad y el proceso (LOSU 2/2023), pero mantiene la opacidad salarial sistematica al no detallar la cuantida bruta de los emolumentos, remitiendo a disposiciones externas. No se detectan gastos fantasma, pero si una reproduccion de la estructura jerarquica del funcionariado universitario estatal.",
+    "resumen_ciudadano": "Nombramiento oficial de doña Rosario Lopez Sanchez como Profesora Titular de la Universidad de Malaga tras superar el concurso correspondiente. Se le asigna plaza en el Departamento de Filosofia.",
+    "resumen_tweet": "🎓 Nueva plaza en la Univ. de Málaga: Rosario López Sánchez nombrada Profesora Titular de Filosofía Moral. ✅ Estabilidad docente bajo la #LOSU, pero con salarios ocultos tras 'normas vigentes'. 🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Cifra salarial no especificada en el documento",
+      "Uso de lenguaje burocratico para blindar actos administrativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rosario Lopez Sanchez",
+        "Universidad de Malaga",
+        "Cuerpo de Funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados",
+        "Personal docente precario sin plaza fija"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Cifra salarial no especificada en el documento",
+      "Uso de lenguaje burocratico para blindar actos administrativos"
+    ]
+  },
+  "tweeted": false
+}
