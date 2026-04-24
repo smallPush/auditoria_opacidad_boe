@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8974",
+  "timestamp": "2026-04-24T14:07:55.173Z",
+  "title": "Resolución de 21 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente discrecional que permite a los altos cargos elegir a dedo a su equipo de confianza en puestos de alto nivel (Nivel 30). En este caso, el Ministerio de Juventud e Infancia otorga una Subdirección General dentro del INJUVE a un funcionario del Cuerpo Superior de Administradores Civiles del Estado que ya operaba en el mismo organismo (Nivel 28). Esto refuerza la endogamia administrativa y la jerarquía de 'élites' burocráticas sobre la meritocracia pura de concurso abierto.",
+    "resumen_ciudadano": "El Ministerio de Juventud ha nombrado a Juan López Antoranz como Subdirector General del Instituto de la Juventud (INJUVE). El puesto es de nivel 30, el más alto en la escala funcionarial, y se ha cubierto de forma discrecional (libre designación) en lugar de por concurso de méritos tradicional.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el Ministerio de Juventud. Juan López Antoranz asciende a Subdirector General (Nivel 30) por libre designación. ¿Confianza política o mérito? La cúpula administrativa se blinda. 🏛️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (Discrecionalidad)",
+      "Nivel salarial y jerárquico máximo (Nivel 30)",
+      "Continuidad endogámica dentro del mismo organismo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan López Antoranz (ascenso personal)",
+        "Cuerpo Superior de Administradores Civiles del Estado (élite A1)",
+        "Ministerio de Juventud e Infancia (control político del puesto)"
+      ],
+      "perdedores": [
+        "Funcionarios de niveles medios sin acceso por concurso",
+        "Transparencia en la carrera administrativa pública"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (Discrecionalidad)",
+      "Nivel salarial y jerárquico máximo (Nivel 30)",
+      "Continuidad endogámica dentro del mismo organismo"
+    ]
+  },
+  "tweeted": false
+}
