@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8957",
+  "timestamp": "2026-04-24T13:57:40.568Z",
+  "title": "Orden EFD/374/2026, de 14 de abril, por la que se actualizan determinados estándares de competencias profesionales de las familias profesionales Agraria; Artes Gráficas; Electricidad y Electrónica; Energía y Agua; Edificación y Obra Civil; Fabricación Mecánica; Industrias Extractivas; Madera, Mueble y Corcho; Química; Seguridad y Medio Ambiente; Servicios Socioculturales y a la Comunidad; Textil, Confección y Piel; Transporte y Mantenimiento de Vehículos; y Vidrio y Cerámica recogidos en el Catálogo Nacional de Estándares de Competencias Profesionales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden EFD/374/2026 se presenta como una 'actualización técnica', pero opera bajo una técnica de opacidad administrativa basada en la hiper-referencia: remite a una maraña de Reales Decretos que datan desde 2004 hasta 2025. El uso de la 'asimilación automática' de unidades de competencia antiguas evita un debate público sustancial sobre si los nuevos estándares realmente protegen al trabajador o solo benefician la productividad empresarial. Se detecta un sesgo productivista donde el trabajador es visto como un recurso para la 'competitividad' económica, sin mención alguna a la calidad de vida o conciliación.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los requisitos y habilidades necesarios para obtener títulos profesionales en sectores clave como agricultura, mecánica, electrónica y servicios sociales. Esta reforma busca que la Formación Profesional (FP) esté más alineada con lo que piden las empresas actuales, cambiando los manuales de competencias que se usan en todo el país.",
+    "resumen_tweet": "⚠️ ¿Sabes qué te pedirán para ser profesional en 2026? El #BOE actualiza cientos de estándares en FP. Bajo lenguaje técnico se esconde una reforma que prioriza a la empresa sobre el alumno. ¿Transparencia o burocracia? 🧐 #Opacidad #Transparencia #FP",
+    "banderas_red_flags": [
+      "Legislación por remisión (referencias constantes a leyes derogadas o modificadas hace 20 años)",
+      "Asimilación automática de estándares sin auditoría de calidad individualizada",
+      "Ausencia total de mención al impacto de género en sectores altamente masculinizados como la industria extractiva o mecánica",
+      "Falta de memoria económica detallada sobre el coste de las 'actuaciones necesarias' del INCUAL"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros de formación (economías de escala)",
+        "Sectores industriales y tecnológicos (mano de obra alineada a su demanda)",
+        "Burocracia estatal (centralización del control curricular)"
+      ],
+      "perdedores": [
+        "Autónomos y PYMES (dificultad para adaptarse a la hiper-estandarización)",
+        "Mujeres (invisibilizadas en la redacción de estándares de familias profesionales tradicionales)",
+        "Trabajadores veteranos (riesgo de obsolescencia ante nuevos requisitos técnicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Educación y Formación Profesional",
+    "banderas_rojas": [
+      "Legislación por remisión (referencias constantes a leyes derogadas o modificadas hace 20 años)",
+      "Asimilación automática de estándares sin auditoría de calidad individualizada",
+      "Ausencia total de mención al impacto de género en sectores altamente masculinizados como la industria extractiva o mecánica",
+      "Falta de memoria económica detallada sobre el coste de las 'actuaciones necesarias' del INCUAL"
+    ]
+  },
+  "tweeted": false
+}
