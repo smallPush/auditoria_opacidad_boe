@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8870",
+  "timestamp": "2026-04-24T02:44:30.464Z",
+  "title": "Real Decreto 325/2026, de 22 de abril, por el que se modifica el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI), en relación con los requisitos mínimos de formación para las profesiones de enfermería responsable de cuidados generales, odontología, farmacia y veterinaria.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El Real Decreto 325/2026 actua como un parche tecnico necesario para armonizar la formacion de sanitarios con la normativa europea. Aunque se justifica bajo la competitividad y libre circulacion, el texto adolece del clasico vicio de la reforma a coste cero, imponiendo nuevas exigencias curriculares como digitalizacion, genomica y el concepto de una sola salud sin asignar presupuesto adicional. Esto traslada la carga economica y organizativa a las universidades y centros de formacion de manera opaca, ya que la modernizacion de equipos y temarios requiere recursos que el decreto afirma no necesitar.",
+    "resumen_ciudadano": "Se actualizan los planes de estudio para enfermeria, odontologia, farmacia y veterinaria incluyendo temas modernos como salud digital y genetica para facilitar el trabajo en toda Europa. Sin embargo, el Estado declara que esto no supone ningun gasto publico, lo que obliga a las universidades a modernizarse sin fondos extra, pudiendo afectar a la calidad de la enseñanza o las tasas.",
+    "resumen_tweet": "🏥 Actualizacion en el #BOE: enfermeria, odontologia y veterinaria incluiran salud digital y genetica 🧬. Lo malo: el Gobierno dice que el cambio sale GRATIS 💸. ¿Quien paga la factura de actualizar las facultades? 🤔 #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Clausula de no incremento de gasto publico",
+      "Traslacion de costes a entidades educativas",
+      "Ambigüedad en la definicion de experiencia clinica adecuada",
+      "Ausencia de memoria economica detallada para adaptacion de infraestructuras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estudiantes de reciente titulacion con movilidad europea",
+        "Empresas tecnologicas de salud y software medico",
+        "Consultoras de acreditacion educativa"
+      ],
+      "perdedores": [
+        "Universidades publicas (infrafinanciadas)",
+        "Profesionales veteranos con brecha digital",
+        "Facultades de veterinaria en zonas rurales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Transposicion de Directiva Europea / Reforma Educativa",
+    "banderas_rojas": [
+      "Clausula de no incremento de gasto publico",
+      "Traslacion de costes a entidades educativas",
+      "Ambigüedad en la definicion de experiencia clinica adecuada",
+      "Ausencia de memoria economica detallada para adaptacion de infraestructuras"
+    ]
+  },
+  "tweeted": false
+}
