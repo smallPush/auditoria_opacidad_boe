@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8956",
+  "timestamp": "2026-04-24T13:59:38.176Z",
+  "title": "Orden DEF/373/2026, de 17 de abril, por la que se aprueban los currículos de la enseñanza de formación de oficiales para la integración en la escala de oficiales del Cuerpo General de la Armada y del Cuerpo de Infantería de Marina, mediante la forma de ingreso sin titulación universitaria previa.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden DEF/373/2026 representa una modernización agresiva del currículo militar, integrando dominios de guerra no convencionales (ciberespacial, espacial y cognitivo) y tecnologías disruptivas como IA y gemelos digitales. Aunque el texto es prolijo en la descripción académica, incurre en opacidad financiera al no desglosar la dotación presupuestaria necesaria para la implementación de estas nuevas tecnologías en la Escuela Naval Militar. Se detecta una fuerte inclinación hacia la integración europea (programa EMILYO) que supedita parte de la formación al dominio del inglés, lo que podría actuar como una barrera de clase encubierta para aspirantes sin base lingüística previa.",
+    "resumen_ciudadano": "Defensa actualiza los estudios de los futuros oficiales de la Armada e Infantería de Marina. Se introduce el Grado en Ingeniería de Tecnologías Navales (Univ. Vigo) y formación en Inteligencia Artificial y Ciberdefensa. Se establece un 'Erasmus militar' obligatorio en inglés durante el tercer curso y se permiten facilidades de estudio a distancia por maternidad.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Defensa renueva la formación de la Armada. IA, drones y Ciberdefensa entran en el aula ⚓. ¿El problema? Falta claridad en el coste de esta 'transformación digital' y el peso del inglés como filtro. 🛡️💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada para la implantación de IA y Gemelos Digitales",
+      "Externalización de la formación a la Universidad de Vigo sin especificar costes de convenio",
+      "Discrecionalidad en la declaración de asignaturas 'selectivas' para la permanencia en el centro",
+      "Potencial exclusión por nivel de idiomas en el International Naval Semester"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidad de Vigo (adjudicación del grado)",
+        "Industria tecnológica de defensa",
+        "Oficiales con perfil técnico-digital"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de desglose de costes)",
+        "Aspirantes con baja formación previa en inglés",
+        "Modelos de enseñanza militar tradicional no tecnológica"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Defensa y Educación",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada para la implantación de IA y Gemelos Digitales",
+      "Externalización de la formación a la Universidad de Vigo sin especificar costes de convenio",
+      "Discrecionalidad en la declaración de asignaturas 'selectivas' para la permanencia en el centro",
+      "Potencial exclusión por nivel de idiomas en el International Naval Semester"
+    ]
+  },
+  "tweeted": false
+}
