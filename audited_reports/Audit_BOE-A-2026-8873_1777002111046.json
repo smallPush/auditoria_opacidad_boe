@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-8873",
+  "timestamp": "2026-04-24T03:41:51.046Z",
+  "title": "Real Decreto 361/2026, de 22 de abril, por el que se nombra Presidenta de la Comunidad Autónoma de Extremadura a doña María Guardiola Martín.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El texto es un Real Decreto de nombramiento estándar que cumple la legalidad vigente pero mantiene la opacidad sobre los acuerdos programáticos y políticos que sustentan la elección. Se omiten las implicaciones presupuestarias inmediatas de la nueva estructura de gabinete. La incongruencia ideológica reside en la diferencia entre el discurso de austeridad política y el mantenimiento de una estructura de presidencia sin desglose de costes operativos asociados al cargo en el momento del nombramiento.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de María Guardiola Martín como Presidenta de Extremadura tras su elección por la Asamblea regional. Este documento activa legalmente su capacidad de mando y la formación de su nuevo equipo de gobierno en la comunidad.",
+    "resumen_tweet": "🏛️ María Guardiola ya es oficialmente Presidenta de Extremadura según el #BOE. Un nombramiento que activa el nuevo ejecutivo regional. 🕒 ¿Transparencia en los pactos de gobierno? Seguiremos fiscalizando cada euro. 🧐 #Extremadura #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del coste del cargo",
+      "Opacidad sobre pactos políticos de investidura",
+      "Falta de detalle sobre objetivos de transparencia inmediatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Guardiola Martín",
+        "Coalición de investidura",
+        "Nueva estructura de cargos de confianza en Extremadura"
+      ],
+      "perdedores": [
+        "Ciudadanía que exige conocer el detalle de los acuerdos de gobierno",
+        "Estructuras administrativas del gobierno anterior"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del coste del cargo",
+      "Opacidad sobre pactos políticos de investidura",
+      "Falta de detalle sobre objetivos de transparencia inmediatos"
+    ]
+  },
+  "tweeted": false
+}
