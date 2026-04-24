@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8973",
+  "timestamp": "2026-04-24T14:11:09.054Z",
+  "title": "Orden EFD/376/2026, de 16 de abril, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, en ejecución de sentencia, se nombra funcionario de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria a don Salvador Astruells Moreno.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela la persistente litigiosidad en los procesos de acceso a la función pública docente. El nombramiento no es un acto administrativo ordinario, sino la consecuencia de una derrota judicial de la Administración (Sentencia 329/2025). Esto evidencia que los criterios de valoración iniciales de la Consejería fueron erróneos o injustos, obligando al ciudadano a recurrir a la vía judicial para obtener su plaza. Aunque el BOE publica el resultado, no detalla los costes procesales ni las razones del error administrativo original, lo que supone una opacidad sobre la eficiencia de los tribunales de selección.",
+    "resumen_ciudadano": "Un profesor de música en la Comunitat Valenciana ha sido nombrado funcionario de carrera del Cuerpo de Catedráticos tras ganar un juicio contra la Administración. Inicialmente fue excluido del proceso selectivo de 2022, pero los tribunales le han dado la razón, reconociendo sus méritos con efectos retroactivos desde septiembre de 2024.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Un docente logra su plaza de Catedrático de Música tras ganar en los tribunales a la Generalitat Valenciana. La justicia corrige un proceso selectivo de 2022. ¿Cuánto nos cuesta esta opacidad administrativa? 🏛️ #Transparencia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial",
+      "Error administrativo previo en baremación",
+      "Efectos retroactivos económicos y administrativos",
+      "Litigiosidad en procesos de acceso docente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Salvador Astruells Moreno (recupera su derecho y plaza)",
+        "Justicia contenciosa (corrige la arbitrariedad)"
+      ],
+      "perdedores": [
+        "Administración Pública (costes judiciales y descrédito)",
+        "Ciudadanía (paga los errores de gestión de los tribunales de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramiento de personal por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial",
+      "Error administrativo previo en baremación",
+      "Efectos retroactivos económicos y administrativos",
+      "Litigiosidad en procesos de acceso docente"
+    ]
+  },
+  "tweeted": false
+}
