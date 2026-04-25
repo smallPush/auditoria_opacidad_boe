@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9043",
+  "timestamp": "2026-04-25T13:25:09.901Z",
+  "title": "Decreto-ley 2/2026, de 9 de marzo, por el que se modifica el Decreto-ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de las prestaciones económicas vinculada al servicio y la de cuidados en el entorno familiar y de apoyo a personas cuidadoras no profesionales y la de asistencia personal, y se modifica la Ley 16/2019, de 2 de mayo, de Servicios Sociales de Canarias, en cuanto al régimen de compatibilidades e incompatibilidades de las prestaciones de atención a la dependencia en la Comunidad Autónoma de Canarias.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El uso de la figura del Decreto-ley para regular prestaciones de dependencia en Canarias agiliza la respuesta ante la 'Ley ELA', pero sustrae del debate parlamentario ordinario los criterios técnicos de los 'índices de reducción' por capacidad económica. Se observa una asimetría presupuestaria significativa entre los grados ordinarios (máximo 900€) y el nuevo Grado III+ (hasta 9.859€), lo cual, aunque justificado por la 'dependencia extrema', genera un riesgo de discrecionalidad en la evaluación de la 'intensidad de apoyos'. La condicionalidad de los pagos a la 'efectiva justificación del gasto' traslada la carga administrativa al dependiente.",
+    "resumen_ciudadano": "Canarias actualiza sus ayudas por dependencia para adaptarse a la nueva normativa nacional de ELA. Se crea una categoría de 'dependencia extrema' (Grado III+) con ayudas de hasta 9.859€ para contratar asistencia personal o ayuda a domicilio. Además, se fijan los importes mensuales para los grados I, II y III, y se permite por primera vez combinar varios servicios (como teleasistencia y ayuda a domicilio) que antes eran incompatibles.",
+    "resumen_tweet": "📢 Canarias regula ayudas para Gran Dependencia y ELA. 🏥 Se crea el Grado III+ con hasta 9.859€ para cuidados intensivos. ✅ Se permite combinar ayuda a domicilio y asistencia personal. ¿Llegará el dinero a tiempo? ⏳ #BOE #Dependencia #Canarias #ELA",
+    "banderas_red_flags": [
+      "Uso recurrente de Decreto-ley para evitar el debate legislativo",
+      "Ambigüedad en los índices de reducción por capacidad económica",
+      "Alta carga administrativa de justificación para el beneficiario",
+      "Dependencia de financiación autonómica adicional potencialmente inestable"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas con ELA y procesos de alta complejidad",
+        "Grandes dependientes (Grado III+)",
+        "Entidades privadas de asistencia personal y servicios sociales"
+      ],
+      "perdedores": [
+        "Dependientes de Grado I y II con subidas mínimas",
+        "Administración pública (por el aumento de la burocracia en la verificación de gastos)",
+        "Transparencia legislativa (por la vía de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Servicios Sociales / Dependencia",
+    "banderas_rojas": [
+      "Uso recurrente de Decreto-ley para evitar el debate legislativo",
+      "Ambigüedad en los índices de reducción por capacidad económica",
+      "Alta carga administrativa de justificación para el beneficiario",
+      "Dependencia de financiación autonómica adicional potencialmente inestable"
+    ]
+  },
+  "tweeted": false
+}
