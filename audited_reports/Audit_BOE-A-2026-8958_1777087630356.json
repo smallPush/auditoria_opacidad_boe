@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-8958",
+  "timestamp": "2026-04-25T03:27:10.356Z",
+  "title": "Real Decreto 327/2026, de 22 de abril, por el que se modifica el Real Decreto 317/2025, de 15 de abril, por el que se regula la concesión directa de subvenciones a entidades de referencia en el ámbito de las comunicaciones cuánticas, con el fin de fomentar su colaboración en el marco de la adenda del componente 16, Estrategia Nacional de Inteligencia Artificial, del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea-Next Generation EU.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una modificación técnica de un Real Decreto de subvenciones de concesión directa (sin concurso público). La justificación principal es el alineamiento con cambios en las Decisiones de Ejecución del Consejo Europeo, lo cual delata una maniobra administrativa para 'salvar' fondos ante el fracaso o la eliminación de objetivos originales (CID 457). Al diluir los objetivos cuánticos específicos en una categoría más genérica de IA (CID 253), se facilita el gasto de fondos europeos con menor fiscalización sobre los resultados técnicos específicos inicialmente prometidos.",
+    "resumen_ciudadano": "El Gobierno modifica las ayudas directas concedidas a centros tecnológicos de élite para asegurar que el dinero europeo (Next Generation EU) siga fluyendo. El cambio principal es burocrático: se eliminan objetivos específicos de 'ecosistema cuántico' para meterlos en un saco común de 'Inteligencia Artificial', evitando así perder la financiación tras cambios en las exigencias de Bruselas.",
+    "resumen_tweet": "🔴 Alerta #BOE: El Gobierno cambia las reglas para salvar subvenciones a dedo en comunicaciones cuánticas. Se eliminan objetivos específicos para evitar perder fondos europeos 🇪🇺. Adjudicación directa sin concurso. 🕵️‍♂️💸 #Opacidad #Transparencia #IA",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Eliminación de objetivos específicos originales (CID 457)",
+      "Actualización automática de resoluciones de concesión sin nueva fiscalización",
+      "Justificación de excepcionalidad basada en 'interés público' genérico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades de referencia ya seleccionadas",
+        "Ministerio para la Transformación Digital (mantiene ejecución presupuestaria)",
+        "Grandes corporaciones de tecnología cuántica e IA"
+      ],
+      "perdedores": [
+        "Pymes tecnológicas excluidas de la concesión directa",
+        "Transparencia en la evaluación de hitos científicos",
+        "Contribuyentes (por el riesgo de gasto en objetivos diluidos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Subvenciones Directas",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Eliminación de objetivos específicos originales (CID 457)",
+      "Actualización automática de resoluciones de concesión sin nueva fiscalización",
+      "Justificación de excepcionalidad basada en 'interés público' genérico"
+    ]
+  },
+  "tweeted": false
+}
