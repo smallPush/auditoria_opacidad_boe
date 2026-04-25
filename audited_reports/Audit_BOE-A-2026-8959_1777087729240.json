@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-8959",
+  "timestamp": "2026-04-25T03:28:49.240Z",
+  "title": "Resolución de 15 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 30 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del procedimiento de 'Libre Designación' para puestos de niveles 15 y 16 (Operadores de Seguridad) en Patrimonio Nacional resulta cuestionable desde el punto de vista de la meritocracia pura. Aunque legal, esta modalidad permite la elección discrecional ('a dedo') de funcionarios para puestos que, por su nivel técnico y ejecutivo bajo-medio, podrían cubrirse mediante concurso de méritos. La opacidad reside en la falta de publicación de los criterios específicos de idoneidad que hicieron a estos candidatos preferibles sobre otros. Se observa una traslación de efectivos desde el Ministerio del Interior (Guardia Civil y Policía) hacia la estructura de la Presidencia, reforzando el control directo sobre la seguridad de los Reales Sitios.",
+    "resumen_ciudadano": "El Gobierno ha seleccionado directamente a tres nuevos operadores de seguridad para el Patrimonio Nacional (incluyendo El Pardo). En lugar de un concurso donde gana el que tiene mejores notas o experiencia certificada, se ha utilizado el sistema de 'libre designación', que permite elegir a los candidatos de forma discrecional entre funcionarios de la Policía y la Guardia Civil.",
+    "resumen_tweet": "Nuevos nombramientos 'a dedo' en Patrimonio Nacional 🏰. Puestos de seguridad de nivel 15/16 se cubren por libre designación en lugar de concurso de méritos. ¿Es necesaria tanta discrecionalidad para seguridad básica? 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles administrativos bajos (15 y 16)",
+      "Falta de desglose de la puntuación de los candidatos",
+      "Discrecionalidad en la selección de personal de seguridad en entornos de poder"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal de las fuerzas y cuerpos de seguridad del Estado (Interior) que pasan a Presidencia",
+        "Cano Sánchez, María",
+        "Sánchez Hernández, Pablo",
+        "Carrero Juan, María del Mar"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza que no pueden competir por méritos objetivos",
+        "Transparencia administrativa en la provisión de puestos de trabajo"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles administrativos bajos (15 y 16)",
+      "Falta de desglose de la puntuación de los candidatos",
+      "Discrecionalidad en la selección de personal de seguridad en entornos de poder"
+    ]
+  },
+  "tweeted": false
+}
