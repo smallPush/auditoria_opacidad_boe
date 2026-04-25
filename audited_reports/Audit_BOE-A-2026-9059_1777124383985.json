@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9059",
+  "timestamp": "2026-04-25T13:39:43.985Z",
+  "title": "Resolución de 17 de abril de 2026, del Servicio Español para la Internacionalización de la Educación, por la que se convoca concurso específico para la provisión de puesto de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución cumple formalmente con la normativa, presenta la estructura clásica de los concursos 'específicos' donde la Fase II (Méritos Específicos) permite una discrecionalidad técnica que a menudo bordea la 'plaza a medida'. Se detecta opacidad en la remisión a listados externos de cursos alojados en la web del SEPIE, lo que fragmenta la información. Además, las cláusulas de conciliación son extremadamente rígidas, exigiendo residencia en el mismo municipio del puesto actual, lo que castiga a quienes ya sufren una movilidad forzosa previa.",
+    "resumen_ciudadano": "El SEPIE convoca una plaza de funcionario mediante un sistema de dos fases. Se premia la antigüedad y el grado personal, pero se reserva una puntuación determinante para méritos específicos detallados fuera del BOE. Incluye criterios de conciliación familiar, aunque con requisitos tan estrictos que limitan su impacto real para la mayoría de los trabajadores.",
+    "resumen_tweet": "⚠️ ¿Plazas a medida? Analizamos el concurso de @sepiegob. Mucha burocracia y filtros de 'méritos específicos' que dificultan la competencia real. La conciliación familiar suena bien, pero la letra pequeña es un laberinto. 📝🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la Fase II de valoración específica",
+      "Remisión a listados de cursos externos al documento oficial",
+      "Requisitos de conciliación restrictivos (residencia obligatoria en el mismo municipio)",
+      "Uso de 'autorizaciones excepcionales' para participación de cuerpos excluidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de alto grado ya integrados en la estructura del SEPIE",
+        "Personal con antigüedad consolidada en la Administración General del Estado",
+        "Funcionarios con cónyuges ya destinados en el mismo municipio"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes o con poca antigüedad",
+        "Personal en movilidad que no reside en el mismo municipio de su puesto actual",
+        "Candidatos externos al círculo de influencia del Ministerio de Ciencia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Provisión de Puestos",
+    "banderas_rojas": [
+      "Discrecionalidad en la Fase II de valoración específica",
+      "Remisión a listados de cursos externos al documento oficial",
+      "Requisitos de conciliación restrictivos (residencia obligatoria en el mismo municipio)",
+      "Uso de 'autorizaciones excepcionales' para participación de cuerpos excluidos"
+    ]
+  },
+  "tweeted": false
+}
