@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9045",
+  "timestamp": "2026-04-25T13:35:49.922Z",
+  "title": "Ley Foral 3/2026, de 23 de marzo, por la que se modifican la Ley Foral 5/2018, de 17 de mayo, de Transparencia, acceso a la información pública y buen gobierno, y la Ley Foral 7/2018, de 17 de mayo, de creación de la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La reforma de la Ley Foral de Transparencia de Navarra presenta una dualidad técnica. Por un lado, fortalece la fiscalización al permitir denuncias ciudadanas directas ante el Consejo de Transparencia ante la inactividad de la administración. Sin embargo, introduce un riesgo de opacidad bajo la 'cláusula de información inexistente' (Art. 37.a), que históricamente ha sido utilizada por las administraciones para evitar la rendición de cuentas alegando falta de soporte documental. El traslado del Registro de Grupos de Interés a la Oficina Anticorrupción es un acierto organizativo, pero la protección adicional sobre la localización de inmuebles de cargos electos reduce la capacidad de detección de conflictos de intereses por parte del periodismo de investigación.",
+    "resumen_ciudadano": "Navarra actualiza sus leyes de transparencia y anticorrupción. Los ciudadanos ahora pueden denunciar directamente ante un organismo independiente si el Gobierno no publica la información obligatoria. Se mejora el control sobre las agendas de políticos y las reuniones con lobistas (grupos de presión), aunque se limita el detalle público sobre las propiedades inmobiliarias exactas de los políticos por motivos de seguridad.",
+    "resumen_tweet": "🚨 ¡Navarra mueve ficha! 📜 Nueva ley de transparencia: más poder al Consejo de Transparencia y control de #lobbies por la Oficina Anticorrupción. Pero ojo 👁️ a las excusas de 'información inexistente'. ¿Más luz o más laberintos? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Inadmisión por información 'inexistente' como posible agujero negro legal",
+      "Anonimización de listas de espera que impide auditorías externas de gestión",
+      "Supresión de los artículos 6 y 53 sin justificación detallada en el preámbulo",
+      "Restricción en la localización detallada de bienes inmuebles de cargos locales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadanía (obtienen canal de denuncia directa)",
+        "Consejo de Transparencia de Navarra (mayor independencia técnica)",
+        "Oficina de Buenas Prácticas (centraliza el control de lobbies)"
+      ],
+      "perdedores": [
+        "Altos cargos (obligados a detallar agendas y asistentes)",
+        "Administraciones locales opacas (sujetas a mayor supervisión)",
+        "Periodismo de investigación (menor detalle en el registro de bienes inmuebles)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Modificación Legislativa / Transparencia y Buen Gobierno",
+    "banderas_rojas": [
+      "Inadmisión por información 'inexistente' como posible agujero negro legal",
+      "Anonimización de listas de espera que impide auditorías externas de gestión",
+      "Supresión de los artículos 6 y 53 sin justificación detallada en el preámbulo",
+      "Restricción en la localización detallada de bienes inmuebles de cargos locales"
+    ]
+  },
+  "tweeted": false
+}
