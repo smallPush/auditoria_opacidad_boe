@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9050",
+  "timestamp": "2026-04-25T13:37:03.402Z",
+  "title": "Resolución de 13 de abril de 2026, de la Universidad de Sevilla, por la que se nombra Profesora Titular de Universidad a doña Rocío Toscano Barragán.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de personal docente tras un concurso de acceso bajo la LOSU (Ley 2/2023). Aunque el documento identifica a la beneficiaria y el area, mantiene la opacidad habitual sobre los costes salariales brutos anuales que este nombramiento supone para las arcas publicas andaluzas y estatales.",
+    "resumen_ciudadano": "La Universidad de Sevilla nombra oficialmente a una nueva Profesora Titular de Universidad en el area de Didactica de la Matematica tras un proceso selectivo.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad de Sevilla: Rocio Toscano nombra Prof. Titular de Didactica de la Matematica. Burocracia estandar pero sin detalles del coste salarial publico total. #BOE #Opacidad #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Consolidacion de gasto publico a largo plazo sin desglose presupuestario",
+      "Opacidad en la publicacion de las actas de merito de la comision juzgadora",
+      "Ausencia de impacto economico estimado por departamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rocio Toscano Barragan (estabilidad laboral)",
+        "Universidad de Sevilla (consolidacion de plantilla)",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Investigadores precarios en espera de plazas",
+        "Contribuyentes (por falta de informacion sobre el retorno social de la inversion)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Consolidacion de gasto publico a largo plazo sin desglose presupuestario",
+      "Opacidad en la publicacion de las actas de merito de la comision juzgadora",
+      "Ausencia de impacto economico estimado por departamento"
+    ]
+  },
+  "tweeted": false
+}
