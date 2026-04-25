@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9042",
+  "timestamp": "2026-04-25T13:22:57.768Z",
+  "title": "Resolución de 24 de abril de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque se trata de una publicacion tecnica de precios, subyace una funcion recaudatoria del Estado a traves de productos nocivos. La resolucion se limita a validar las propuestas de fabricantes e importadores, actuando el Comisionado como un mero fedatario de intereses comerciales privados. No existe desglose de la carga impositiva real ni mencion a la compensacion por costes sanitarios derivados del consumo.",
+    "resumen_ciudadano": "Actualizacion oficial de los precios de venta al publico para diversas marcas de cigarrillos, puros y picadura de pipa en estancos de la Peninsula y Baleares. Incluye desde marcas de bajo coste hasta productos de lujo extremo.",
+    "resumen_tweet": "💸 Nuevos precios del tabaco en el #BOE. Desde cigarrillos a 4.85€ hasta estuches de puros de lujo por 259€. El Estado publica lo que dictan las tabaqueras. ¿Donde queda la transparencia sobre el impacto sanitario? 🚭📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fijacion de precios por parte de entes privados con aval publico",
+      "Ausencia de desglose tributario en el PVP publicado",
+      "Brecha de precios extrema entre tabaco de consumo masivo y articulos de lujo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (recaudacion via impuestos indirectos)",
+        "Fabricantes de tabaco premium (consolidacion de margenes de lujo)",
+        "Expendedurias de Tabaco y Timbre (estancos)"
+      ],
+      "perdedores": [
+        "Salud publica (fomento de la disponibilidad del producto)",
+        "Consumidores de rentas bajas (impacto regresivo del precio del tabaco)",
+        "Transparencia presupuestaria (no se vincula el ingreso a la inversion en salud)"
+      ]
+    },
+    "comunidad_autonoma": "Peninsula y Baleares",
+    "tipologia": "Resolucion de Precios de Venta",
+    "banderas_rojas": [
+      "Fijacion de precios por parte de entes privados con aval publico",
+      "Ausencia de desglose tributario en el PVP publicado",
+      "Brecha de precios extrema entre tabaco de consumo masivo y articulos de lujo"
+    ]
+  },
+  "tweeted": false
+}
