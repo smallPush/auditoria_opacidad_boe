@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9051",
+  "timestamp": "2026-04-26T13:38:33.194Z",
+  "title": "Resolución de 13 de abril de 2026, de la Universidad de Alcalá, por la que se nombra Catedrática de Universidad a doña María Dolores Ruiz Berdún.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario de carrera (Catedrática) en el ámbito universitario. Aunque el procedimiento sigue la Ley Orgánica 2/2023 (LOSU), existe una opacidad intrínseca sobre el coste real de la plaza para el erario público. La mención a códigos internos como 'Z051/DHC103' dificulta el seguimiento de la trazabilidad presupuestaria para un ciudadano ajeno a la gestión universitaria.",
+    "resumen_ciudadano": "La Universidad de Alcalá nombra a María Dolores Ruiz Berdún como Catedrática de Universidad en el área de Historia de la Ciencia. Este es el rango más alto dentro del profesorado universitario, consolidando una plaza fija de funcionaria tras superar un concurso-oposición.",
+    "resumen_tweet": "🎓 Nombrada una nueva Catedrática de Historia de la Ciencia en la @UAHes. Un avance en la carrera académica femenina, pero el #BOE sigue ocultando el impacto económico real de estas plazas fijas. #Opacidad #Transparencia #Universidad #UAH",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial o impacto presupuestario de la plaza",
+      "Codificación interna de plazas que impide la fiscalización externa directa",
+      "Uso de terminología técnica que distancia al ciudadano del acto administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Dolores Ruiz Berdún (consolidación de carrera y aumento salarial)",
+        "Universidad de Alcalá (estabilización de plantilla docente)"
+      ],
+      "perdedores": [
+        "Investigadores en precario (menos recursos para plazas de entrada)",
+        "Candidatos externos con menor red de contactos en el departamento local"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial o impacto presupuestario de la plaza",
+      "Codificación interna de plazas que impide la fiscalización externa directa",
+      "Uso de terminología técnica que distancia al ciudadano del acto administrativo"
+    ]
+  },
+  "tweeted": false
+}
