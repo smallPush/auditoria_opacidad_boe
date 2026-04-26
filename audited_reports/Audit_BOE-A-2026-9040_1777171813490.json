@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9040",
+  "timestamp": "2026-04-26T02:50:13.490Z",
+  "title": "Terminación de la aplicación provisional del Acuerdo entre el Reino de España y la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura relativo al IV Foro Mundial contra el Racismo y la Discriminación, Barcelona, Reino de España, del 9 al 11 de diciembre de 2024, hecho en París el 5 de diciembre de 2024.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento revela un fracaso parlamentario tras un hecho consumado. España aplicó de forma provisional un acuerdo internacional para organizar un foro en Barcelona en 2024, gastando recursos públicos antes de obtener la ratificación del Congreso. El hecho de que el Congreso deniegue la autorización 15 meses después de la celebración del evento genera un vacío legal sobre la legitimidad del gasto ya ejecutado. Es una táctica de 'hechos consumados' donde la aplicación provisional se usa para eludir el control legislativo previo.",
+    "resumen_ciudadano": "El Congreso de los Diputados ha rechazado oficialmente el acuerdo con la UNESCO para el Foro Mundial contra el Racismo celebrado en Barcelona en 2024. El problema radica en que el evento ya se realizó y se financió bajo una 'aplicación provisional'. Ahora que el poder legislativo dice 'no', queda en el aire la justificación de unos gastos que ya han salido del bolsillo del contribuyente sin el visto bueno definitivo de sus representantes.",
+    "resumen_tweet": "🚩 ¡Escándalo en el #BOE! El Congreso tumba el acuerdo del Foro contra el Racismo... ¡15 meses después de celebrarse! 💸 Se gastó dinero público mediante 'aplicación provisional' sin aval legislativo final. ¿Quién asume el coste? 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Gasto ejecutado sin ratificación parlamentaria final",
+      "Uso abusivo de la aplicación provisional de tratados",
+      "Opacidad en la liquidación de costes tras el rechazo del Congreso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "UNESCO (aseguró la sede y organización)",
+        "Proveedores de eventos en Barcelona (percibieron pagos bajo el marco provisional)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiaron un evento rechazado por el Parlamento)",
+        "Soberanía legislativa (su decisión llega cuando el dinero ya ha sido gastado)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Gasto ejecutado sin ratificación parlamentaria final",
+      "Uso abusivo de la aplicación provisional de tratados",
+      "Opacidad en la liquidación de costes tras el rechazo del Congreso"
+    ]
+  },
+  "tweeted": false
+}
