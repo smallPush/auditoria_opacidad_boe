@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9046",
+  "timestamp": "2026-04-26T03:50:33.307Z",
+  "title": "Ley Foral 4/2026, de 23 de marzo, por la que se modifica la Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "La modificación de la Ley Foral 6/1990 supone un avance significativo en la fiscalización de la Administración Local navarra. Al obligar al Tribunal Administrativo de Navarra (TAN) a publicar sus resoluciones en un plazo de una semana, se reduce el espacio para el secretismo administrativo. No obstante, existe un riesgo de 'opacidad técnica' bajo el pretexto de la protección de datos personales, lo que podría derivar en resoluciones excesivamente anonimizadas que dificulten el rastreo de malas praxis recurrentes en ayuntamientos específicos.",
+    "resumen_ciudadano": "Navarra obliga ahora a su Tribunal Administrativo a publicar por internet todas las sentencias sobre pleitos municipales en un máximo de siete días. Esto permite que cualquier vecino pueda consultar los criterios legales y las decisiones que afectan a su ayuntamiento, fomentando un control social más directo sobre la legalidad local.",
+    "resumen_tweet": "⚖️ ¡Luz en los ayuntamientos de Navarra! El Tribunal Administrativo tendrá solo 7 días para publicar sus resoluciones. Menos cajones cerrados y más control ciudadano. Vigilaremos que la protección de datos no oculte la verdad. 📑🔎 #BOE #Transparencia #Navarra",
+    "banderas_red_flags": [
+      "Posible uso abusivo de la protección de datos para ocultar identidades de cargos públicos",
+      "Falta de mención a recursos técnicos o humanos adicionales para cumplir el plazo de una semana",
+      "Ausencia de un portal centralizado único de consulta mencionado en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadanía de Navarra (mayor acceso a jurisprudencia administrativa)",
+        "Abogados administrativistas (precedentes más accesibles)",
+        "Activistas por la transparencia"
+      ],
+      "perdedores": [
+        "Ayuntamientos con gestiones opacas",
+        "Cargos públicos con resoluciones desfavorables que ahora serán públicas",
+        "Personal administrativo del TAN (aumento de carga de trabajo por plazos perentorios)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Transparencia y Administración Local",
+    "banderas_rojas": [
+      "Posible uso abusivo de la protección de datos para ocultar identidades de cargos públicos",
+      "Falta de mención a recursos técnicos o humanos adicionales para cumplir el plazo de una semana",
+      "Ausencia de un portal centralizado único de consulta mencionado en el texto"
+    ]
+  },
+  "tweeted": false
+}
