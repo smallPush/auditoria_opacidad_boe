@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9052",
+  "timestamp": "2026-04-26T13:40:14.484Z",
+  "title": "Resolución de 13 de abril de 2026, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad a doña Inmaculada Concepción Rodríguez Rojo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionaria de carrera. Aunque cumple con la normativa LOSU 2/2023, el sistema de publicación en el BOE oculta los detalles del proceso selectivo y la baremación de méritos bajo códigos internos (Z054/DEF207), lo que dificulta el escrutinio ciudadano sobre la idoneidad frente a otros candidatos. No se detectan gastos fantasma directos, pero sí la perpetuación de un sistema de acceso endogámico común en la universidad española.",
+    "resumen_ciudadano": "La Universidad de Alcalá formaliza el nombramiento de Inmaculada Concepción Rodríguez Rojo como Profesora Titular en el área de Enfermería tras superar el proceso de selección iniciado en 2025.",
+    "resumen_tweet": "🎓 Nombramiento en la Univ. de Alcalá: Inmaculada C. Rodríguez Rojo, nueva Profesora Titular de Enfermería. Un paso más en la consolidación del funcionariado universitario bajo la nueva LOSU. 🩺✨ #BOE #Transparencia #Universidad #Enfermería",
+    "banderas_red_flags": [
+      "Uso de códigos de plaza crípticos (Z054/DEF207) sin descripción de perfil",
+      "Ausencia de enlace a la baremación de méritos de la comisión evaluadora",
+      "Opacidad en la composición de la comisión examinadora en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inmaculada Concepción Rodríguez Rojo (estabilidad laboral de por vida)",
+        "Universidad de Alcalá (cobertura de plazas)",
+        "Sector público docente"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos académica",
+        "Sector sanitario privado (pérdida de personal cualificado hacia la pública)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Uso de códigos de plaza crípticos (Z054/DEF207) sin descripción de perfil",
+      "Ausencia de enlace a la baremación de méritos de la comisión evaluadora",
+      "Opacidad en la composición de la comisión examinadora en este extracto"
+    ]
+  },
+  "tweeted": false
+}
