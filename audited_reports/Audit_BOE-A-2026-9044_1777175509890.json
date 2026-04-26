@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9044",
+  "timestamp": "2026-04-26T03:51:49.890Z",
+  "title": "Ley Foral 2/2026, de 23 de marzo, por la que se modifica la Ley Foral 15/2018, de 27 de junio, de Ciencia y Tecnología.",
+  "report": {
+    "nivel_transparencia": 7.2,
+    "analisis_critico": "La Ley Foral 2/2026 de Navarra presenta un avance notable al fijar objetivos cuantitativos de inversión (3% del PIB para 2030). Sin embargo, introduce 'puntos ciegos' de opacidad técnica mediante la 'subcategorización de entidades singulares' delegada a futuros reglamentos, lo que permite la creación de trajes a medida para entidades específicas. Existe una tensión entre los criterios de excelencia meritocrática (exigencia de doctorados) y las cláusulas de excepción en la paridad de género y procesos de selección, que permiten eludir requisitos si hay 'razones justificadas', un concepto jurídico indeterminado que abre la puerta a la discrecionalidad. La financiación basal del 100% por rendimiento es una medida de estabilidad, pero al depender de indicadores fijados por el propio plan del gobierno, corre el riesgo de convertirse en un 'gasto fantasma' si la evaluación no es realizada por un órgano externo e independiente.",
+    "resumen_ciudadano": "Navarra reorganiza su sistema científico (SINAI) con el objetivo de invertir el 3% de su PIB en ciencia para 2030. Se obliga a los centros de investigación a tener planes de igualdad y protocolos LGTBI+. La ley permite que el Gobierno financie directamente el 100% de la actividad de los centros basándose en su excelencia y resultados, y fomenta que la propia administración compre tecnología innovadora a las empresas locales.",
+    "resumen_tweet": "🔬 Navarra blinda su Ciencia: meta del 3% PIB para 2030. Se incluyen planes de igualdad y LGTBI+. ¡Cuidado! ⚠️ Se abre la puerta a 'entidades singulares' y excepciones en paridad con criterios aún por definir. #BOE #Opacidad #Transparencia 🧬",
+    "banderas_red_flags": [
+      "Subcategorización de entidades por vía reglamentaria sin control parlamentario directo",
+      "Cláusulas de excepción en la representación paritaria de órganos directivos",
+      "Financiación basal del 100% sin especificar mecanismos de auditoría externa",
+      "Exención a universidades de cumplir ciertos procesos abiertos de selección directiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros tecnológicos acreditados",
+        "Universidades",
+        "Personal investigador doctorado",
+        "Grandes empresas beneficiarias de la Compra Pública Innovadora"
+      ],
+      "perdedores": [
+        "Entidades de I+D pequeñas sin capacidad de acreditación SINAI",
+        "Sectores tradicionales no vinculados a la innovación tecnológica",
+        "Ciudadanos que pierden control sobre el reparto discrecional de fondos basales"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Ley Foral de Modificación (Ciencia y Tecnología)",
+    "banderas_rojas": [
+      "Subcategorización de entidades por vía reglamentaria sin control parlamentario directo",
+      "Cláusulas de excepción en la representación paritaria de órganos directivos",
+      "Financiación basal del 100% sin especificar mecanismos de auditoría externa",
+      "Exención a universidades de cumplir ciertos procesos abiertos de selección directiva"
+    ]
+  },
+  "tweeted": false
+}
