@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9047",
+  "timestamp": "2026-04-26T03:52:33.175Z",
+  "title": "Ley Foral 5/2026, de 23 de marzo, del Voluntariado de Navarra.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley Foral 5/2026 de Navarra moderniza un marco de 1998, pero introduce zonas grises peligrosas. El Artículo 10.4 es especialmente alarmante al permitir que empleados de una entidad actúen como 'voluntarios' en la misma organización fuera de su jornada, lo que facilita el fraude laboral y las horas extra no remuneradas encubiertas. Aunque prohíbe la sustitución de empleo pùblico, la ambigüedad en el 'voluntariado corporativo' y la creación de la 'Escuela del Voluntariado' y la 'Red Navarra' sugieren un aumento de la burocracia y partidas presupuestarias para entes intermedios sin una fiscalización financiera detallada en el texto. Se utiliza el término 'auzalan' para dotar de legitimidad histórica a una regulación que, en la práctica, favorece la externalización de servicios sociales.",
+    "resumen_ciudadano": "Navarra actualiza su normativa de voluntariado para incluir el ámbito digital y corporativo. Establece un estatuto de derechos y deberes, crea un Registro de Entidades y una Escuela de Voluntariado. Permite que menores y empleados (bajo condiciones) participen, y garantiza el abono de gastos derivados de la actividad.",
+    "resumen_tweet": "⚠️ Alerta en Navarra: La nueva Ley de Voluntariado permite que empleados sean 'voluntarios' en su propia empresa (Art. 10.4). ¿Altruismo o precariedad encubierta? 🧐 Más burocracia y riesgo de externalización social. #BOE #Opacidad #Navarra #Transparencia",
+    "banderas_red_flags": [
+      "Posible fraude laboral en Artículo 10.4 (empleado-voluntario)",
+      "Ambigüedad financiera en la creación de la Escuela del Voluntariado",
+      "Gasto fantasma potencial en la gestión de la 'Red Navarra de Voluntariado'",
+      "Riesgo de sustitución de funciones pùblicas por servicios gratuitos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades de voluntariado (mayor control y estructuras de red)",
+        "Empresas (lavado de imagen vía voluntariado corporativo)",
+        "Administración (ahorro en servicios pùblicos externalizados)"
+      ],
+      "perdedores": [
+        "Trabajadores del tercer sector (riesgo de precarización)",
+        "Clase trabajadora (sustitución de empleo remunerado por 'altruismo')",
+        "CiudadaníA (posible pérdida de calidad en servicios profesionales socializados)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Ley Foral Social y Participativa",
+    "banderas_rojas": [
+      "Posible fraude laboral en Artículo 10.4 (empleado-voluntario)",
+      "Ambigüedad financiera en la creación de la Escuela del Voluntariado",
+      "Gasto fantasma potencial en la gestión de la 'Red Navarra de Voluntariado'",
+      "Riesgo de sustitución de funciones pùblicas por servicios gratuitos"
+    ]
+  },
+  "tweeted": false
+}
