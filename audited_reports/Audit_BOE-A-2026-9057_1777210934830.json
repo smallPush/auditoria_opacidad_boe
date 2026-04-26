@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9057",
+  "timestamp": "2026-04-26T13:42:14.830Z",
+  "title": "Resolución de 15 de abril de 2026, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Javier Benítez Porres.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un nombramiento estandarizado en la Universidad de Málaga que cumple con la legalidad vigente (LOSU). No obstante, la resolución utiliza fórmulas burocráticas genéricas como 'emolumentos que le corresponden', lo que oculta al ciudadano el coste bruto real de esta plaza fija para el erario público. La estructura administrativa universitaria sigue siendo un nicho de difícil fiscalización económica directa desde el BOE.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado oficialmente a Javier Benítez Porres como Profesor Titular en el área de Educación Física y Deportiva tras superar el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de Málaga. El #BOE publica el nombramiento, pero oculta el sueldo tras la frase 'emolumentos según disposiciones'. ¿Para cuándo transparencia salarial directa? 💸 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía económica exacta de la plaza",
+      "Remisión a normativas externas para el cálculo salarial",
+      "Falta de detalle sobre el coste de la seguridad social a cargo del Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Benítez Porres (obtención de plaza vitalicia)",
+        "Universidad de Málaga (consolidación de departamento)"
+      ],
+      "perdedores": [
+        "Aspirantes externos sin acceso a la plaza",
+        "Ciudadanía (por falta de información sobre el gasto público anual del puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en la cuantía económica exacta de la plaza",
+      "Remisión a normativas externas para el cálculo salarial",
+      "Falta de detalle sobre el coste de la seguridad social a cargo del Estado"
+    ]
+  },
+  "tweeted": false
+}
