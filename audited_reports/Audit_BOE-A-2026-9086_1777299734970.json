@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9086",
+  "timestamp": "2026-04-27T14:22:14.970Z",
+  "title": "Orden INT/378/2026, de 17 de abril, por la que se nombra Jefa Superior del País Vasco de la Dirección General de la Policía a la Comisaria Principal doña María Teresa Herráez García.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja un proceso de nombramiento por libre designación camuflado bajo una convocatoria pública (23/2026). La opacidad es estructural: se informa del resultado pero no de la baremación de méritos ni de las razones por las que esta candidata superó a otros aspirantes. Al ser un puesto de Comisaria Principal en el País Vasco, se trata de una posición estratégica con alta dotación económica y poder de mando directo, consolidando la estructura jerárquica del Ministerio del Interior en una zona de sensibilidad política.",
+    "resumen_ciudadano": "El Ministerio del Interior ha designado a María Teresa Herráez García como nueva Jefa Superior de la Policía Nacional en el País Vasco. Es un nombramiento de alto rango que otorga el control de la seguridad del Estado en dicha comunidad a una Comisaria Principal de la confianza del Ministro.",
+    "resumen_tweet": "🚨 Nueva Jefa Superior de Policía en el País Vasco. El Ministerio del Interior coloca a María Teresa Herráez en un puesto clave. ¿Transparencia o dedazo? Se resuelve la convocatoria 23/2026 sin detalle de méritos. 👮‍♀️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Resolución de libre designación",
+      "Falta de publicidad de la comparativa de méritos",
+      "Ausencia de desglose presupuestario del sueldo y complementos asociados al cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Herráez García (ascenso y poder)",
+        "Ministerio del Interior (control institucional en el País Vasco)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (opacidad en el proceso de selección)",
+        "Ciudadanía (desconocimiento de los criterios reales de idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Alto Cargo Policial",
+    "banderas_rojas": [
+      "Resolución de libre designación",
+      "Falta de publicidad de la comparativa de méritos",
+      "Ausencia de desglose presupuestario del sueldo y complementos asociados al cargo"
+    ]
+  },
+  "tweeted": false
+}
