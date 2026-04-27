@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9097",
+  "timestamp": "2026-04-27T14:28:06.363Z",
+  "title": "Resolución de 15 de abril de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 15 de septiembre de 2025, en el Instituto Nacional de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "Aunque se trata de una resolución técnica de recursos humanos, la 'especificidad' del concurso y la declaración de puestos desiertos en niveles altos (Nivel 27) sugieren una falta de incentivos o de perfiles adecuados para cubrir la alta gestión en provincias como Girona. El uso de la cláusula de 'carácter voluntario' en el punto quinto es un mecanismo legal para que la Administración evite el pago de indemnizaciones por traslado, cargando el coste de la movilidad geográfica exclusivamente sobre el trabajador, a pesar de ser una reorganización de la estructura pública.",
+    "resumen_ciudadano": "La Seguridad Social ha reorganizado sus oficinas por toda España, asignando nuevas plazas a funcionarios actuales. Se han cubierto puestos de jefatura en Alicante, Badajoz, Baleares y otras provincias, pero algunos cargos directivos importantes han quedado vacíos porque nadie ha cumplido los requisitos o solicitado la plaza.",
+    "resumen_tweet": "📢 Baile de sillas en la Seguridad Social. El #BOE publica nuevos jefes en el INSS, pero los puestos de alta dirección en Girona quedan vacíos 🕳️. El Estado se ahorra mudanzas al declarar los traslados como 'voluntarios'. #Opacidad #Transparencia 💼",
+    "banderas_red_flags": [
+      "Puestos de alta dirección (Nivel 27) declarados desiertos",
+      "Exención de indemnizaciones por traslado bajo el paraguas de 'voluntariedad'",
+      "Opacidad en la baremación de la Comisión de Valoración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarias del cuerpo C1 y A2 (clara presencia femenina en las adjudicaciones)",
+        "Ministerio de Inclusión (ahorro en costes de movilidad)"
+      ],
+      "perdedores": [
+        "Dirección Provincial de Girona (mantiene vacante su Subdirección)",
+        "Candidatos externos (proceso restringido a personal interno)",
+        "Funcionarios trasladados (asumen costes de mudanza sin indemnización)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Puestos de alta dirección (Nivel 27) declarados desiertos",
+      "Exención de indemnizaciones por traslado bajo el paraguas de 'voluntariedad'",
+      "Opacidad en la baremación de la Comisión de Valoración"
+    ]
+  },
+  "tweeted": false
+}
