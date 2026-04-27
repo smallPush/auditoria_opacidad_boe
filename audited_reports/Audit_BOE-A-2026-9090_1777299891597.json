@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9090",
+  "timestamp": "2026-04-27T14:24:51.597Z",
+  "title": "Orden EFD/381/2026, de 14 de abril, por la que se corrigen errores en la Orden EFD/69/2026, de 2 de febrero, por la que, a propuesta de la Consejería de Educación, Cultura y Deportes de la Comunidad Autónoma de Castilla-La Mancha, se nombra personal funcionario de carrera del Cuerpo de Maestros, por el turno libre, a las personas seleccionadas en el procedimiento selectivo convocado por Resolución de 22 de enero de 2024.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una correccion de errores que revela la inercia y la lentitud de la maquinaria burocratica. Un error material cometido en Castilla-La Mancha en septiembre de 2025 no llega a subsanarse en el BOE hasta abril de 2026. Aunque el acto en si es transparente al detallar el cambio de puntuacion de una aspirante (de 7,84 a 8,17), la necesidad de republicar listados completos meses despues de los nombramientos iniciales genera una inseguridad juridica latente sobre la precision de los procesos selectivos estatales y su coordinacion con las comunidades autonomas.",
+    "resumen_ciudadano": "Se corrige la nota de una opositora del Cuerpo de Maestros en Castilla-La Mancha tras detectarse un error en el calculo original. Esto obliga a modificar el orden de prelacion de los seleccionados en la especialidad de Educacion Primaria, asegurando que la funcionaria Ana Lopez Ruiz figure con su puntuacion real de 8,1740 en lugar de la erronea.",
+    "resumen_tweet": "📝 Fallo en la matriz: El #BOE corrige hoy un error de puntuacion en las oposiciones de maestros de 2024. Meses de retraso para ajustar una nota que cambia rankings. ¿Burocracia eficiente o parche legislativo? 🏫📊 #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Error material en cascada (del diario autonomico al estatal)",
+      "Dilacion temporal excesiva entre el error y la correccion final",
+      "Potencial desplazamiento de puestos en el ranking de otros aspirantes sin aviso individualizado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Lopez Ruiz (obtiene su puntuacion real y mejora su posicion)",
+        "Principio de meritocracia (ajuste a la legalidad de las notas)"
+      ],
+      "perdedores": [
+        "Administracion Publica (evidencia falta de rigor en la primera validacion)",
+        "Aspirantes que bajan un puesto en el escalafon relativo tras la subida de la nota corregida"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Gestion de Personal y Funcion Publica",
+    "banderas_rojas": [
+      "Error material en cascada (del diario autonomico al estatal)",
+      "Dilacion temporal excesiva entre el error y la correccion final",
+      "Potencial desplazamiento de puestos en el ranking de otros aspirantes sin aviso individualizado"
+    ]
+  },
+  "tweeted": false
+}
