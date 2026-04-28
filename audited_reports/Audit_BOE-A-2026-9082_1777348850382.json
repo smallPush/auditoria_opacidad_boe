@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9082",
+  "timestamp": "2026-04-28T04:00:50.382Z",
+  "title": "Resolución 430/38220/2026, de 16 de abril, de la Secretaría de Estado de Defensa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38137/2026, de 5 de marzo.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un mecanismo que, aunque legal, permite la elección discrecional de altos cargos. En este caso, el puesto es especialmente sensible: la Subdirección General de Gestión Económica de Programas dentro de la Dirección General de Armamento y Material. La gestión de presupuestos millonarios en armamento se delega en un cargo donde el componente de confianza política prima sobre el concurso de mérito abierto, lo que genera un riesgo inherente de opacidad en la ejecución de gastos de defensa.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha nombrado a José María Belluga Capilla como nuevo responsable de gestionar el dinero destinado a programas de armamento. El proceso ha sido por 'libre designación', es decir, una elección directa del ministerio en lugar de una oposición abierta basada estrictamente en méritos competitivos.",
+    "resumen_tweet": "🧐 ¡Otro dedazo en Defensa! Nombran al Subdirector de Gestión Económica de Armamento vía 'libre designación'. ¿Mérito o confianza política para gestionar millones en armas? La transparencia brilla por su ausencia. 🛡️💰 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto con alta responsabilidad presupuestaria en industria armamentística",
+      "Falta de publicación de los criterios de valoración del 'informe de expertos'",
+      "Opacidad en la terna de candidatos presentados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Belluga Capilla (ascenso a puesto directivo)",
+        "Cúpula del Ministerio de Defensa (control directo sobre la gestión económica de materiales)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (excluidos por falta de concurso de méritos abierto)",
+        "Transparencia pública (imposibilidad de auditar la idoneidad técnica frente a otros candidatos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto con alta responsabilidad presupuestaria en industria armamentística",
+      "Falta de publicación de los criterios de valoración del 'informe de expertos'",
+      "Opacidad en la terna de candidatos presentados"
+    ]
+  },
+  "tweeted": false
+}
