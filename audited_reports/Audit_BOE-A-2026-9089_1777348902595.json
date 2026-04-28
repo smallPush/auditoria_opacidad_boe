@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9089",
+  "timestamp": "2026-04-28T04:01:42.595Z",
+  "title": "Resolución de 17 de abril de 2026, de la Dirección de la Agencia Estatal de Seguridad Ferroviaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 29 en una agencia técnica como la de Seguridad Ferroviaria es un mecanismo recurrente que bordea la arbitrariedad bajo una apariencia legal. Aunque se menciona un 'informe motivado', este procedimiento permite la selección discrecional ('a dedo') de altos cargos, lo que puede comprometer la independencia técnica frente a la lealtad política. En este caso, se consolida a un miembro del Cuerpo de Ingenieros de Caminos, un grupo de élite tradicionalmente dominante en el Ministerio de Transportes.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de alta dirección (Director/a Adjunto de División) en la Agencia Estatal de Seguridad Ferroviaria a una funcionaria específica. Al ser por 'libre designación', el director de la agencia elige directamente a la persona basándose en 'confianza' y no estrictamente en un concurso de méritos abierto y ciego.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' técnico en el #BOE. La Agencia de Seguridad Ferroviaria adjudica un puesto Nivel 29 por libre designación. ¿Independencia técnica o confianza política? La #Opacidad de la elección directa sigue vigente. #Transparencia 🚂🏛️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta responsabilidad (Nivel 29) sin concurso abierto de méritos",
+      "Opacidad en los criterios específicos del 'interés general' mencionados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Delgado González, Lourdes (adjudicataria)",
+        "Cuerpo de Ingenieros de Caminos, Canales y Puertos (mantenimiento de cuotas de poder)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones de confianza",
+        "Ciudadanía (por la posible politización de la seguridad ferroviaria)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta responsabilidad (Nivel 29) sin concurso abierto de méritos",
+      "Opacidad en los criterios específicos del 'interés general' mencionados"
+    ]
+  },
+  "tweeted": false
+}
