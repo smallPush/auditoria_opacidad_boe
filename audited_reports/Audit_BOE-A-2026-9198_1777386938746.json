@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9198",
+  "timestamp": "2026-04-28T14:35:38.746Z",
+  "title": "Acuerdo de 22 de abril de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Juez sustituto para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Cataluña.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento de un solo juez sustituto para cubrir 25 partidos judiciales diferentes en Cataluña evidencia la precariedad y el uso de parches en la administración de justicia. Aunque el acto es formalmente legal bajo el Reglamento 2/2011, la dispersión geográfica (desde Barcelona hasta Berga o Vic) sugiere una carga de trabajo inasumible para una sola persona, lo que impacta en la calidad de la tutela judicial efectiva. Se recurre a la figura del sustituto para evitar la creación de plazas estructurales más costosas y estables.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha designado a un juez interino para reforzar o cubrir vacantes en gran parte de la provincia de Barcelona y alrededores para el curso 2025/2026. Este juez deberá estar disponible para actuar en decenas de localidades distintas según la necesidad del servicio.",
+    "resumen_tweet": "⚖️ ¿Justicia de calidad o parches? El #BOE publica el nombramiento de un juez sustituto para cubrir 25 localidades a la vez en Cataluña. Un solo nombre para un territorio inmenso. La precariedad llega a los tribunales. 🏛️🔍 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso excesivo de la interinidad judicial",
+      "Dispersión territorial extrema (25 sedes)",
+      "Opacidad en la retribución variable por sustitución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (ahorro en costes de plazas fijas)",
+        "Andrés Morante Valverde (adjudicatario de la plaza)"
+      ],
+      "perdedores": [
+        "Ciudadanos (justicia potencialmente más lenta o menos especializada)",
+        "Carrera Judicial (fomento de la precariedad laboral interna)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Uso excesivo de la interinidad judicial",
+      "Dispersión territorial extrema (25 sedes)",
+      "Opacidad en la retribución variable por sustitución"
+    ]
+  },
+  "tweeted": false
+}
