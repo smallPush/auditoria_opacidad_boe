@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9199",
+  "timestamp": "2026-04-28T14:33:50.493Z",
+  "title": "Acuerdo de 22 de abril de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Jueza sustituta para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Cantabria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo nombra a una jueza sustituta para cubrir demarcaciones clave en Cantabria. Críticamente, esta práctica evidencia la dependencia de la Justicia española de la figura de la interinidad ('jueces de refuerzo') para evitar el colapso, en lugar de convocar plazas estructurales fijas. Aunque el proceso cumple la legalidad, la opacidad reside en la falta de transparencia sobre la remuneración específica y el coste total que supone para el erario público mantener una justicia 'parcheada' mediante sustituciones temporales.",
+    "resumen_ciudadano": "El CGPJ ha designado a Laudelina Gutiérrez Luguera como jueza sustituta para el año judicial 2025/2026. Su labor cubrirá diversos tribunales en Cantabria, incluyendo Santander, Castro-Urdiales y Torrelavega, para asegurar el funcionamiento de los juzgados ante la ausencia de titulares.",
+    "resumen_tweet": "⚖️ ¿Justicia estable o a base de parches? El #BOE publica un nuevo nombramiento de jueza sustituta en Cantabria para cubrir 8 localidades. La interinidad sigue siendo la solución temporal a problemas estructurales. 🛑 #Justicia #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso recurrente de interinidad para cubrir carencias de plantilla",
+      "Falta de información sobre el impacto presupuestario del nombramiento",
+      "Concentración de múltiples jurisdicciones (8 juzgados) en un solo nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración (ahorro en costes de formación de plazas fijas)",
+        "CGPJ (mantiene la operatividad mínima del sistema)"
+      ],
+      "perdedores": [
+        "Ciudadanos (posible menor continuidad en los procedimientos judiciales)",
+        "Profesionales judiciales (precariedad laboral en la carrera judicial)",
+        "Sistema de transparencia (desconocimiento del gasto real en sustituciones)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de personal judicial",
+    "banderas_rojas": [
+      "Uso recurrente de interinidad para cubrir carencias de plantilla",
+      "Falta de información sobre el impacto presupuestario del nombramiento",
+      "Concentración de múltiples jurisdicciones (8 juzgados) en un solo nombramiento"
+    ]
+  },
+  "tweeted": false
+}
