@@ -4,7 +4,7 @@ import { defineConfig, loadEnv } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => {
-  const env = loadEnv(mode, '.', '');
+  const env = { ...process.env, ...loadEnv(mode, '.', '') };
 
   // Detect valid GA ID, ignoring mock values and ensuring safe format
   const getValidGaId = () => {

@@ -7,7 +7,27 @@ on:
     branches:
       - main
   workflow_run:
-    workflows: ["Scheduled BOE Audit 19"]
+    workflows:
+      - "Scheduled BOE Audit 00"
+      - "Scheduled BOE Audit 01"
+      - "Scheduled BOE Audit 02"
+      - "Scheduled BOE Audit 03"
+      - "Scheduled BOE Audit 04"
+      - "Scheduled BOE Audit 05"
+      - "Scheduled BOE Audit 06"
+      - "Scheduled BOE Audit 07"
+      - "Scheduled BOE Audit 08"
+      - "Scheduled BOE Audit 09"
+      - "Scheduled BOE Audit 10"
+      - "Scheduled BOE Audit 11"
+      - "Scheduled BOE Audit 12"
+      - "Scheduled BOE Audit 13"
+      - "Scheduled BOE Audit 14"
+      - "Scheduled BOE Audit 15"
+      - "Scheduled BOE Audit 16"
+      - "Scheduled BOE Audit 17"
+      - "Scheduled BOE Audit 18"
+      - "Scheduled BOE Audit 19"
     types:
       - completed
   workflow_dispatch:
