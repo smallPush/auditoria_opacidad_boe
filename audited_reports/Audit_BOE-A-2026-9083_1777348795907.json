@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9083",
+  "timestamp": "2026-04-28T03:59:55.907Z",
+  "title": "Resolución 430/38221/2026, de 16 de abril, de la Secretaría de Estado de Defensa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38109/2026, de 3 de marzo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento de libre designación para un puesto clave en la gestión de recursos: la Subdirección General de Contratación TIC en el Ministerio de Defensa. Aunque el texto alude a un informe de valoración de expertos, el sistema de 'libre designación' permite una discrecionalidad que a menudo bordea el clientelismo político. La relevancia del puesto es máxima, ya que gestiona las licitaciones tecnológicas de Defensa, un sector con presupuestos masivos y alta opacidad operativa.",
+    "resumen_ciudadano": "Defensa ha nombrado a un nuevo responsable para decidir quién se lleva los contratos de tecnología del ministerio. El proceso no ha sido un examen abierto, sino una elección directa basada en 'confianza' y un informe de expertos no publicado.",
+    "resumen_tweet": "🚨 Nuevo cargo 'a dedo' en Defensa. José María Delgado Moreno controlará la contratación TIC tras ser nombrado por libre designación. ¿Máxima transparencia en contratos militares de tecnología? El sistema sigue siendo opaco. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en área sensible",
+      "Puesto con control de presupuestos TIC",
+      "Ausencia de baremación pública de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Delgado Moreno (nuevo cargo)",
+        "Secretaría de Estado de Defensa (control directo sobre el perfil)"
+      ],
+      "perdedores": [
+        "Candidatos por mérito y capacidad",
+        "Ciudadanía (falta de visibilidad en criterios de selección)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Libre designación en área sensible",
+      "Puesto con control de presupuestos TIC",
+      "Ausencia de baremación pública de méritos"
+    ]
+  },
+  "tweeted": false
+}
