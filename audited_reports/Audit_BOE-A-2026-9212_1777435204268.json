@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9212",
+  "timestamp": "2026-04-29T04:00:04.268Z",
+  "title": "Orden EFD/386/2026, de 22 de abril, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, se retrotraen los efectos del nombramiento como funcionaria de carrera del Cuerpo de Profesores de Enseñanza Secundaria a doña María Soledad Baños Pedros.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una rectificación forzosa de la Administración tras una sentencia judicial (Sentencia 697/2022). El texto revela una 'opacidad de gestión' sistémica: la interesada ha tenido que litigar durante años para que se le reconozca un derecho de 2019. Existe un 'gasto fantasma' implícito: el pago de atrasos salariales y cotizaciones desde septiembre de 2020 hasta 2026, cuyo importe total no se especifica en el documento, ocultando el coste real del error administrativo al contribuyente.",
+    "resumen_ciudadano": "El Ministerio de Educación rectifica el nombramiento de una profesora de secundaria en la Comunidad Valenciana tras una sentencia judicial. Aunque fue nombrada formalmente en 2025, ahora se le reconoce la antigüedad y el sueldo desde el 1 de septiembre de 2020, lo que obliga al Estado a pagarle todos los atrasos correspondientes a esos seis años de diferencia.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 6 años! El #BOE reconoce efectos retroactivos desde 2020 a una profesora en Valencia tras una batalla judicial. La administración paga sus errores con el dinero de todos, pero oculta el coste de los atrasos. #Transparencia #Opacidad 🏫",
+    "banderas_red_flags": [
+      "Retraso judicial extremo (6 años para resolver un nombramiento)",
+      "Ausencia de desglose del impacto presupuestario de los atrasos",
+      "Corrección de errores administrativos mediante vía contenciosa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña María Soledad Baños Pedros (recupera derechos y salarios)",
+        "Servicios jurídicos (litigiosidad administrativa)"
+      ],
+      "perdedores": [
+        "Erario público (pago de intereses y atrasos por mala gestión)",
+        "Eficiencia administrativa (procedimiento que data de 2019)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Retraso judicial extremo (6 años para resolver un nombramiento)",
+      "Ausencia de desglose del impacto presupuestario de los atrasos",
+      "Corrección de errores administrativos mediante vía contenciosa"
+    ]
+  },
+  "tweeted": false
+}
