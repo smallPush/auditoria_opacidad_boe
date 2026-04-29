@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9290",
+  "timestamp": "2026-04-29T14:26:47.444Z",
+  "title": "Orden INT/395/2026, de 24 de abril, por la que se dispone el cese del General de Brigada don Francisco José Almansa Aguilar en el Mando de la Jefatura de Transformación Digital y Ciberseguridad (Madrid).",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El cese de un General de Brigada en una jefatura tan estratégica como la de Transformación Digital y Ciberseguridad se presenta sin motivación alguna, amparándose en la discrecionalidad técnica. Este tipo de movimientos en la cúpula de la Guardia Civil, aunque legales, ocultan posibles reestructuraciones internas o desacuerdos tácticos en un área crítica para la seguridad nacional y la soberanía digital.",
+    "resumen_ciudadano": "El Ministro del Interior ha apartado a Francisco José Almansa Aguilar de su cargo como jefe de Ciberseguridad de la Guardia Civil. Es un trámite administrativo habitual que no ofrece ninguna explicación sobre las razones del cambio ni sobre quién asumirá ahora la responsabilidad de proteger los sistemas digitales frente a amenazas externas.",
+    "resumen_tweet": "🚨 Movimiento opaco en la cúpula de la Guardia Civil. Marlaska cesa al General de Ciberseguridad sin dar explicaciones. ¿Qué pasa con nuestra seguridad digital? 🛡️ La falta de motivación en el #BOE impide el control ciudadano. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Carencia absoluta de motivación del cese",
+      "Alta rotación en puestos de mando tecnológicos",
+      "Uso de la libre designación para puestos técnicos de alta sensibilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (reajuste de poder interno)",
+        "Cargos de confianza política"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de la estrategia de ciberseguridad)",
+        "General Almansa Aguilar (cese en puesto de mando)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Carencia absoluta de motivación del cese",
+      "Alta rotación en puestos de mando tecnológicos",
+      "Uso de la libre designación para puestos técnicos de alta sensibilidad"
+    ]
+  },
+  "tweeted": false
+}
