@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9200",
+  "timestamp": "2026-04-29T03:55:52.381Z",
+  "title": "Acuerdo de 22 de abril de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Jueza sustituta para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de la Región de Murcia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento de una jueza sustituta para cubrir once demarcaciones judiciales diferentes (Murcia, Cartagena, Lorca, etc.) sugiere una gestion de 'parches' ante la falta de plazas estructurales. El texto es puramente procedimental y oculta el coste real para el erario publico de estas sustituciones, asi como los criterios especificos de seleccion frente a otros candidatos. La figura del juez sustituto, aunque legal, representa una precarizacion de la funcion judicial frente a la judicatura de carrera.",
+    "resumen_ciudadano": "Se nombra a Maria Inmaculada Morante Valverde como jueza sustituta para el año judicial 2025/2026, encargandole la cobertura de juzgados en casi toda la Region de Murcia. Es un mecanismo de urgencia para que los juzgados no se detengan ante la falta de personal fijo.",
+    "resumen_tweet": "⚖️ ¿Justicia o parche? El CGPJ nombra una jueza sustituta para cubrir 11 sedes en Murcia. Menos estabilidad y cero detalles sobre el coste publico de esta provisionalidad. La transparencia brilla por su ausencia. #BOE #Opacidad #Transparencia #Murcia",
+    "banderas_red_flags": [
+      "Dispersion geografica excesiva (11 municipios)",
+      "Opacidad en la remuneracion economica",
+      "Ausencia de explicacion sobre el proceso de seleccion",
+      "Dependencia de figuras de interinidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La administracion judicial (por su flexibilidad de costes)",
+        "La persona nombrada (acceso a puesto publico)"
+      ],
+      "perdedores": [
+        "El ciudadano (potencial falta de continuidad en sus casos)",
+        "Opositores a plazas fijas (se cubren con sustitutos)"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Dispersion geografica excesiva (11 municipios)",
+      "Opacidad en la remuneracion economica",
+      "Ausencia de explicacion sobre el proceso de seleccion",
+      "Dependencia de figuras de interinidad"
+    ]
+  },
+  "tweeted": false
+}
