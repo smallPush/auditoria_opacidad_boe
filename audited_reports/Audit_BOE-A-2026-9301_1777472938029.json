@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9301",
+  "timestamp": "2026-04-29T14:28:58.029Z",
+  "title": "Orden PJC/402/2026, de 21 de abril, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo para ingreso, por el sistema general de acceso libre y por el sistema de promoción interna, en el Cuerpo de Letradas y Letrados de la Administración de Justicia, convocado por Orden PJC/144/2026, de 24 de febrero.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La Orden PJC/402/2026 representa un acto administrativo estándar pero con puntos de fricción en transparencia. Aunque publica a los excluidos, la lista completa de admitidos se deriva a una web externa, dificultando el escrutinio público masivo. Destaca el Punto Cuarto, que funciona como una cláusula de exoneración: la Administración admite a candidatos sin verificar si realmente cumplen los requisitos hasta el final del proceso, lo que puede suponer una pérdida de tiempo y recursos para opositores que finalmente sean rechazados por cuestiones de forma tras meses de estudio.",
+    "resumen_ciudadano": "Se publica la lista provisional de personas que pueden presentarse a las oposiciones de Letrados de la Administración de Justicia. Si apareces en la lista de excluidos del anexo, tienes exactamente 10 días hábiles para corregir los errores o presentar los documentos que falten, de lo contrario quedarás fuera definitivamente.",
+    "resumen_tweet": "⚖️ Publicada lista provisional para Letrados de la Administración de Justicia. ¡Ojo! Solo 10 días para reclamar si te han excluido. Transparencia a medias: la lista de admitidos fuera del BOE. #BOE #Opacidad #Oposiciones #Justicia 🛡️",
+    "banderas_red_flags": [
+      "Plazo de subsanación de solo 10 días",
+      "Externalización de la lista de admitidos fuera del BOE",
+      "Cláusula de no validación de requisitos hasta la fase final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con recursos para seguimiento diario de sedes electrónicas",
+        "Administración (por diferir la carga de verificación documental al final)"
+      ],
+      "perdedores": [
+        "Opositores con brecha digital o poco tiempo para trámites burocráticos urgentes",
+        "Candidatos que podrían ser excluidos tras aprobar el examen por requisitos previos no verificados de oficio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Plazo de subsanación de solo 10 días",
+      "Externalización de la lista de admitidos fuera del BOE",
+      "Cláusula de no validación de requisitos hasta la fase final"
+    ]
+  },
+  "tweeted": false
+}
