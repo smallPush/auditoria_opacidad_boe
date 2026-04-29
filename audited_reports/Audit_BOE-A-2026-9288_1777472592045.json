@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-9288",
+  "timestamp": "2026-04-29T14:23:12.045Z",
+  "title": "Resolución de 15 de abril de 2026, de la Secretaría de Estado de Seguridad, por la que se acepta la renuncia a la condición de funcionario del Cuerpo Nacional de Policía a don Javier Miguel de la Uz López.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolución es un acto administrativo reglado y estándar. No se detectan 'Gastos Fantasma' ya que es una extinción de relación laboral sin indemnización. La opacidad aquí es sistémica: el BOE registra la salida pero nunca los motivos (fuga de talento hacia el sector privado o descontento interno), impidiendo un análisis de la retención de capital humano en las fuerzas de seguridad.",
+    "resumen_ciudadano": "Se oficializa la renuncia voluntaria de un agente de la Policía Nacional. El Estado acepta su baja tras verificar que el funcionario no tiene causas judiciales o disciplinarias pendientes, conforme al Estatuto Básico del Empleado Público.",
+    "resumen_tweet": "👮‍♂️ Un nuevo agente abandona la @policia de forma voluntaria. El #BOE publica la renuncia de Javier Miguel de la Uz. ¿Fuga de talento o decisión personal? La administración cumple el trámite pero calla los motivos. #Transparencia #Opacidad #Seguridad",
+    "banderas_red_flags": [
+      "Ausencia de datos sobre la causa de la renuncia",
+      "Pérdida de inversión pública en formación especializada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El individuo (recupera libertad profesional fuera del cuerpo)"
+      ],
+      "perdedores": [
+        "El Estado (pierde un activo formado)",
+        "Ciudadanía (disminución del número de efectivos operativos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Recursos Humanos y Personal",
+    "banderas_rojas": [
+      "Ausencia de datos sobre la causa de la renuncia",
+      "Pérdida de inversión pública en formación especializada"
+    ]
+  },
+  "tweeted": false
+}
