@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9293",
+  "timestamp": "2026-04-29T14:27:20.844Z",
+  "title": "Orden INT/398/2026, de 24 de abril, por la que se nombra para el Mando de la 1.ª Zona de la Guardia Civil (Madrid) al General de Brigada don Francisco José Almansa Aguilar.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento discrecional ('a dedo') bajo el amparo de la libre designación. Aunque legal, el documento carece de una memoria de méritos comparativa que justifique por qué este candidato es idóneo frente a otros. Existe una opacidad sistémica en la retribución total, ya que el BOE no desglosa complementos de destino, residencia o gastos de representación asociados al mando de la 1.ª Zona. El impacto de género es nulo, perpetuando una cúpula militar masculinizada.",
+    "resumen_ciudadano": "El Ministerio del Interior ha nombrado al General de Brigada Francisco José Almansa Aguilar como nuevo jefe de la Guardia Civil en la Comunidad de Madrid. Este puesto es de confianza política y no por concurso público de méritos, lo que impide conocer los criterios técnicos de la elección.",
+    "resumen_tweet": "👮‍♂️ Nuevo mando de la Guardia Civil en Madrid. El General Almansa Aguilar asume el cargo por designación directa de Marlaska. Más poder discrecional y cero detalles sobre su sueldo real o méritos frente a otros. 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación sin motivación técnica pública",
+      "Falta de desglose de beneficios en especie y complementos",
+      "Ausencia de procesos de selección abiertos",
+      "Persistencia del techo de cristal en la escala superior"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco José Almansa Aguilar",
+        "Ministerio del Interior (control jerárquico)"
+      ],
+      "perdedores": [
+        "Transparencia administrativa",
+        "Criterios de meritocracia pura",
+        "Igualdad de género en la alta oficialidad"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Libre designación sin motivación técnica pública",
+      "Falta de desglose de beneficios en especie y complementos",
+      "Ausencia de procesos de selección abiertos",
+      "Persistencia del techo de cristal en la escala superior"
+    ]
+  },
+  "tweeted": false
+}
