@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-9286",
+  "timestamp": "2026-04-29T14:00:00.867Z",
+  "title": "Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto-ley 10/2026 opera como un 'cajón de sastre' legislativo, una técnica habitual para aprobar medidas heterogéneas bajo el paraguas de la 'urgencia'. Mezcla de forma cuestionable la reparación de víctimas de abusos en la Iglesia Católica con ajustes tributarios por la DANA de 2024 y accidentes ferroviarios de 2026. Destaca la opacidad en la gestión de fondos del servicio exterior en 'mercados disfuncionales' y el pago de 11,3 millones de euros a la empresa pública TRAGSATEC por encargos de emergencia de años anteriores, lo que sugiere una falta de planificación presupuestaria previa y el uso de la vía de emergencia para regularizar pagos pendientes sin el escrutinio ordinario.",
+    "resumen_ciudadano": "Esta ley aprueba ayudas fiscales para las víctimas de la DANA y para quienes sufrieron abusos en la Iglesia. Sin embargo, también se utiliza para permitir que las Comunidades Autónomas se endeuden más y para pagar deudas millonarias atrasadas a empresas públicas por servicios de emergencia previos. Además, crea un sistema especial para mover dinero en efectivo en embajadas y consulados cuando haya problemas financieros internacionales.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el RDL 10/2026: Un 'cajón de sastre' que mezcla víctimas de la DANA con abusos en la Iglesia para colar deudas de 11M€ a TRAGSATEC y más endeudamiento autonómico. 🚩 ¿Ayuda urgente o parche presupuestario? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para temas inconexos (ómnibus oculto)",
+      "Crédito extraordinario de 11.3M€ para TRAGSATEC por tareas de 2025",
+      "Procedimiento excepcional para fondos en el exterior sin controles claros",
+      "Autorización de deuda extraordinaria para Valencia y Extremadura",
+      "Relajación de reglas fiscales y estabilidad presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iglesia Católica (evita impacto fiscal en indemnizaciones)",
+        "TRAGSATEC (recobra 11,3 millones por encargos de emergencia)",
+        "Gobiernos de la C. Valenciana y Extremadura (mayor capacidad de deuda)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de la opacidad en contratos de emergencia)",
+        "Sostenibilidad financiera (se flexibilizan las reglas de gasto y déficit)",
+        "Transparencia legislativa (se mezclan derechos humanos con gestión de caja)"
+      ]
+    },
+    "comunidad_autonoma": "Multicomunidad (Valenciana, Extremadura, Andalucía, Cataluña)",
+    "tipologia": "Medidas tributarias, financieras y de apoyo ante emergencias",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para temas inconexos (ómnibus oculto)",
+      "Crédito extraordinario de 11.3M€ para TRAGSATEC por tareas de 2025",
+      "Procedimiento excepcional para fondos en el exterior sin controles claros",
+      "Autorización de deuda extraordinaria para Valencia y Extremadura",
+      "Relajación de reglas fiscales y estabilidad presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
