@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9205",
+  "timestamp": "2026-04-29T03:56:55.732Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 2 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El uso del procedimiento de 'libre designación' para puestos de Nivel 29 (el segundo escalafón más alto en la administración pública) constituye una práctica legal pero opaca que permite el nombramiento discrecional. Aunque el documento cita leyes y reglamentos vigentes, no ofrece ninguna justificación técnica ni comparativa sobre por qué estos candidatos fueron elegidos sobre otros, alimentando la percepción de 'puestos de confianza' en estructuras supuestamente técnicas.",
+    "resumen_ciudadano": "El Ministerio de la Presidencia ha asignado a dedo dos puestos de Subdirector Adjunto en Madrid. Estos cargos son de alta jerarquía y gran responsabilidad administrativa, pero su elección no se basa en una oposición abierta, sino en la decisión discrecional de los superiores jerárquicos del ministerio.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el @boegob. El Ministerio de la Presidencia asigna puestos de Nivel 29 por libre designación. Cargos de alta jerarquía sin detalle de méritos comparativos. ¿Confianza política o capacidad técnica? 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Alta jerarquía administrativa (Nivel 29)",
+      "Ausencia de desglose de méritos específicos en la resolución",
+      "Resolución parcial de convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Balbín Pérez (Adjudicatario)",
+        "Enrique López Arévalo (Adjudicatario)",
+        "Cargos del Ministerio (consolidan personal de confianza)"
+      ],
+      "perdedores": [
+        "Sistema de mérito y capacidad",
+        "Funcionarios de carrera sin vínculos políticos/personales",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Alta jerarquía administrativa (Nivel 29)",
+      "Ausencia de desglose de méritos específicos en la resolución",
+      "Resolución parcial de convocatoria"
+    ]
+  },
+  "tweeted": false
+}
