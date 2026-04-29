@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9303",
+  "timestamp": "2026-04-29T14:31:58.873Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el concurso se ajusta a la normativa vigente, se observan mecanismos de control que fomentan la endogamia administrativa. La exigencia de que los cursos de formación deban figurar específicamente en el listado previo del Ministerio de Vivienda actúa como una barrera de entrada para funcionarios de otros departamentos. Asimismo, la validación de méritos específicos queda supeditada a certificados de funciones emitidos por superiores jerárquicos, lo que introduce un componente de subjetividad y posible clientelismo en la valoración de la experiencia.",
+    "resumen_ciudadano": "El Ministerio de Vivienda convoca 19 plazas de funcionario. El proceso puntúa la antigüedad, el grado y la conciliación familiar. Sin embargo, el sistema está diseñado para favorecer a quienes ya trabajan en el ministerio o tienen el visto bueno de sus jefes actuales, limitando la movilidad real y la meritocracia externa mediante el control estricto de qué cursos y funciones se consideran válidos.",
+    "resumen_tweet": "🔍 Auditamos el concurso de 19 plazas en Vivienda. ¿Mérito o endogamia? El Ministerio solo acepta cursos de su propia lista y el jefe certifica tu valía. Barreras sutiles que dificultan la movilidad externa. 🏛️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia en la valoración de cursos de formación",
+      "Discrecionalidad en la certificación de funciones por superiores",
+      "Posible reclasificación de puestos con efectos retroactivos durante el proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ministerio de Vivienda y Agenda Urbana",
+        "Personal con formación interna específica del departamento",
+        "Perfiles con buena relación jerárquica para la obtención de certificados de funciones"
+      ],
+      "perdedores": [
+        "Funcionarios de otros ministerios con formación transversal",
+        "Candidatos externos sin red de contactos en la unidad de destino",
+        "Funcionarios en situaciones de conflicto con sus superiores actuales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Endogamia en la valoración de cursos de formación",
+      "Discrecionalidad en la certificación de funciones por superiores",
+      "Posible reclasificación de puestos con efectos retroactivos durante el proceso"
+    ]
+  },
+  "tweeted": false
+}
