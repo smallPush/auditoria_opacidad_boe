@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9289",
+  "timestamp": "2026-04-30T03:57:23.390Z",
+  "title": "Orden INT/394/2026, de 24 de abril, por la que se dispone el cese del General de Brigada don Francisco Javier Vélez Alcalde, en el Mando de la 2.ª Zona de la Guardia Civil, Comunidad Autónoma de Castilla-La Mancha (Toledo).",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El documento presenta un cese discrecional de un alto mando de la Guardia Civil bajo la fórmula de libre designación. La opacidad es estructural: se omiten las causas del cese (si es por falta de confianza, reestructuración o motivos disciplinarios), amparándose en la potestad del Ministro. Existe una incongruencia entre la supuesta neutralidad de las fuerzas de seguridad y la capacidad política de remover mandos territoriales sin justificación pública. No hay rastro de gastos directos, pero estos ceses suelen conllevar indemnizaciones o asignaciones en puestos de reserva no especificados.",
+    "resumen_ciudadano": "El Ministro del Interior ha destituido al General de Brigada Francisco Javier Vélez como jefe de la Guardia Civil en Castilla-La Mancha. El BOE no explica por qué se toma esta decisión, limitándose a citar la ley que permite al Ministro cambiar a los mandos a su voluntad.",
+    "resumen_tweet": "🔴 Cese en la cúpula de la Guardia Civil de Castilla-La Mancha. Interior retira al General Vélez Alcalde sin explicar los motivos. ¿Renovación estratégica o decisión política? La discrecionalidad impera. 🕵️‍♂️🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia total de motivación fáctica en el cese",
+      "Uso de la libre designación para puestos operativos críticos",
+      "Falta de transparencia en la renovación de la cúpula de seguridad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (reafirma control político sobre el mando militar)",
+        "Futuro relevo de confianza de la Secretaría de Estado"
+      ],
+      "perdedores": [
+        "General Francisco Javier Vélez Alcalde (cesado de sus funciones)",
+        "Ciudadanía de Castilla-La Mancha (desconoce los motivos del cambio en su seguridad)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Ausencia total de motivación fáctica en el cese",
+      "Uso de la libre designación para puestos operativos críticos",
+      "Falta de transparencia en la renovación de la cúpula de seguridad"
+    ]
+  },
+  "tweeted": false
+}
