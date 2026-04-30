@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9369",
+  "timestamp": "2026-04-30T14:21:56.012Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de Alcalá, por la que se nombra Catedrático de Universidad a don Antonio García Cabot.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento representa un trámite administrativo estándar bajo la LOSU (2/2023). Aunque es legalmente impecable, evidencia la falta de transparencia en los procesos de selección universitaria al no publicar los méritos específicos ni la baremación frente a otros candidatos. En el área de STEM (Lenguajes y Sistemas Informáticos), se observa la continuación de la hegemonía masculina en los niveles de cátedra, lo que sugiere un estancamiento en la corrección del impacto de género en la alta academia.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de un nuevo Catedrático de Universidad en Alcalá de Henares. Este puesto conlleva una plaza funcionarial vitalicia financiada con dinero público. El proceso es burocrático y apenas ofrece información al ciudadano sobre por qué este candidato es el más idóneo.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Alcalá. ¿Paridad en Informática? El #BOE sigue publicando nombramientos sin detallar méritos públicos, perpetuando el techo de cristal en áreas STEM. 🏛️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de transparencia en la puntuación de méritos",
+      "Sesgo de género estructural en cátedras tecnológicas",
+      "Nomenclatura técnica (códigos de plaza) que dificulta el rastreo ciudadano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio García Cabot (estabilidad laboral vitalicia)",
+        "Universidad de Alcalá (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (brecha en jerarquía STEM)",
+        "Sociedad civil (desconocimiento de criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de transparencia en la puntuación de méritos",
+      "Sesgo de género estructural en cátedras tecnológicas",
+      "Nomenclatura técnica (códigos de plaza) que dificulta el rastreo ciudadano"
+    ]
+  },
+  "tweeted": false
+}
