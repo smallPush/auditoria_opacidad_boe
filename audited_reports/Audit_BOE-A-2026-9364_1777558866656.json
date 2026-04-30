@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9364",
+  "timestamp": "2026-04-30T14:21:06.656Z",
+  "title": "Orden PJC/406/2026, de 21 de abril, por la que se resuelve el concurso de traslados para el Cuerpo de Letrados de la Administración de Justicia, convocado por Orden PJC/118/2026, de 20 de febrero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el documento cumple con la formalidad de publicar nombres y destinos, el sistema de baremación bajo la columna 'Méritos' es críptico para el ciudadano común (valores de 0 a 4 sin desglose). Se detecta una discrecionalidad técnica en la capacidad de la Secretaría General para demorar ceses hasta 20 días por 'razones excepcionales' o 'conciliación', lo cual, sin criterios públicos definidos, puede interpretarse como un margen de arbitrariedad administrativa. La terminología utilizada (SCT TI, SCEJ, VSM) actúa como una barrera de lenguaje que segrega la comprensión del funcionamiento de la justicia.",
+    "resumen_ciudadano": "Se han asignado nuevas plazas a los Letrados de la Administración de Justicia (antiguos Secretarios Judiciales) que pidieron traslado. El proceso permite que funcionarios de alto nivel se muevan de ciudad según su antigüedad y méritos. Los plazos para mudarse varían desde 3 días hasta un mes dependiendo de si cambian de región.",
+    "resumen_tweet": "⚖️ Publicado el baile de sillas en la Justicia: resuelto el concurso de traslados de Letrados. Mucha terminología técnica para un proceso de movilidad interna. ¿Meritocracia real o burocracia opaca? 🕵️‍♂️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso excesivo de acrónimos no definidos (SCEJ, SCT TI, VSM, FIC)",
+      "Opacidad en la cuantificación de méritos específicos",
+      "Discrecionalidad en la prórroga de ceses por parte de la Secretaría General",
+      "Falta de información sobre el coste económico de las indemnizaciones por traslado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Letrados de la Administración de Justicia (mayoría mujeres, consolidando la feminización del sector)",
+        "Ciudades con alta demanda (Madrid, Valencia, Sevilla)",
+        "Altos funcionarios del Grupo A1"
+      ],
+      "perdedores": [
+        "Localidades con plazas menos atractivas que sufrirán vacantes",
+        "Ciudadanos con procesos abiertos en juzgados donde el Letrado se marcha, sufriendo posibles retrasos por el relevo",
+        "Transparencia pública debido al lenguaje codificado"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional / Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso excesivo de acrónimos no definidos (SCEJ, SCT TI, VSM, FIC)",
+      "Opacidad en la cuantificación de méritos específicos",
+      "Discrecionalidad en la prórroga de ceses por parte de la Secretaría General",
+      "Falta de información sobre el coste económico de las indemnizaciones por traslado"
+    ]
+  },
+  "tweeted": false
+}
