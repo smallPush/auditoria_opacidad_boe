@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9360",
+  "timestamp": "2026-04-30T14:19:59.678Z",
+  "title": "Orden INT/405/2026, de 28 de abril, por la que se regula la indemnización por razón de vestuario al personal de la Policía Nacional.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden INT/405/2026 intenta regularizar un derecho reconocido por el Tribunal Supremo, pero lo hace con una cuantía de 153,84 euros anuales que resulta ridícula para cubrir el mantenimiento de un vestuario profesional de paisano. Existe una 'opacidad discrecional' en el Artículo 9.1, donde la obligatoriedad de vestir de paisano queda bajo el 'superior criterio del jefe de la dependencia', lo que abre la puerta a arbitrariedades y favoritismos en el reconocimiento del derecho. Además, el condicionamiento del pago a la 'existencia de crédito' en los Presupuestos Generales del Estado convierte un derecho laboral en una promesa sujeta a la voluntad política del momento.",
+    "resumen_ciudadano": "Si eres policía nacional y trabajas sin uniforme (de paisano) por obligación, ahora tienes derecho a cobrar 153,84 euros al año. Sin embargo, para recibirlo debes haber estado al menos 6 meses en esa situación y tu jefe debe certificar que era totalmente imprescindible. El pago no está garantizado al 100%, ya que depende de que haya dinero suficiente en los presupuestos del Estado de cada año.",
+    "resumen_tweet": "👮‍♂️ ¿153€ al año por trabajar de paisano? El Ministerio del Interior publica la nueva orden de vestuario para la #Policía. Poca cuantía y mucha discrecionalidad: el jefe decide quién lo cobra. ¿Derecho o propina? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en el 'superior criterio del jefe de dependencia'",
+      "Cuantía económica manifiestamente insuficiente (12,8€ al mes)",
+      "Pago condicionado a disponibilidad presupuestaria futura",
+      "Requisito temporal de 6 meses que puede excluir a agentes en rotación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agentes de unidades operativas que antes no percibían nada (aunque sea mínimo)",
+        "Mandos intermedios con poder de decisión sobre quién cobra la indemnización"
+      ],
+      "perdedores": [
+        "Agentes que visten de paisano de forma no 'inexcusable' según su jefe",
+        "La dignidad salarial (por el bajo importe de la compensación)",
+        "Presupuestos públicos por la creación de una nueva partida de gestión burocrática compleja"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Administrativa y Retributiva",
+    "banderas_rojas": [
+      "Discrecionalidad en el 'superior criterio del jefe de dependencia'",
+      "Cuantía económica manifiestamente insuficiente (12,8€ al mes)",
+      "Pago condicionado a disponibilidad presupuestaria futura",
+      "Requisito temporal de 6 meses que puede excluir a agentes en rotación"
+    ]
+  },
+  "tweeted": false
+}
