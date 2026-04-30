@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9296",
+  "timestamp": "2026-04-30T03:59:33.059Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 22 de enero de 2026, en la Oficina Española de Patentes y Marcas, O.A.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución de este concurso en la Oficina Española de Patentes y Marcas (OEPM) destapa un fenómeno de movilidad estática. Al auditar el anexo, se observa que la gran mayoría de los adjudicatarios (como en los casos I-A/1, I-A/3, I-A/5 entre otros) ya ocupaban el mismo puesto que se les ha 'adjudicado'. Se trata de un proceso administrativo circular que consume recursos para formalizar situaciones que ya existían. Además, la declaración de múltiples plazas como 'desiertas' (35% de la muestra) sugiere una falta de atractivo de los puestos o requisitos que el personal actual no puede cumplir, manteniendo la infrautilización de la estructura pública.",
+    "resumen_ciudadano": "Este documento es una lista de movimientos de personal en la Oficina de Patentes. Sin embargo, tras el lenguaje técnico, se esconde que la mayoría de los empleados simplemente han sido confirmados en el puesto que ya tenían. El proceso no ha servido para renovar el organismo, ya que muchas plazas se han quedado vacías por falta de candidatos adecuados.",
+    "resumen_tweet": "🧐 El #BOE de la OEPM muestra 'movilidad estática': funcionarios que ganan la plaza que ya ocupaban y un 35% de puestos que se quedan DESIERTOS. ¿Burocracia circular para que nada cambie? 🔄📉 #Transparencia #Opacidad #Administración",
+    "banderas_red_flags": [
+      "Adjudicaciones redundantes (mismo origen y destino)",
+      "Elevado porcentaje de plazas desiertas",
+      "Uso de recursos públicos para trámites de consolidación encubierta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios que formalizan su situación previa",
+        "Inercia burocrática del Ministerio de Industria"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa",
+        "Candidatos externos",
+        "Ciudadanos (por puestos técnicos sin cubrir)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Adjudicaciones redundantes (mismo origen y destino)",
+      "Elevado porcentaje de plazas desiertas",
+      "Uso de recursos públicos para trámites de consolidación encubierta"
+    ]
+  },
+  "tweeted": false
+}
