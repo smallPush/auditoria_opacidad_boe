@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9377",
+  "timestamp": "2026-04-30T14:26:27.591Z",
+  "title": "Resolución de 16 de abril de 2026, de la Diputación Provincial de Valencia/València, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza una técnica de opacidad administrativa común: la remisión externa. Al no incluir las bases íntegras en el BOE y remitir al Boletín Provincial (BOP), se crea una barrera de acceso a la información. El uso del sistema de 'concurso' para puestos de 'Cometidos Especiales' sugiere una posible regularización de plazas ocupadas interinamente, lo que en la práctica cierra la puerta a la concurrencia competitiva real bajo los principios de igualdad, mérito y capacidad.",
+    "resumen_ciudadano": "La Diputación de Valencia ha convocado dos plazas técnicas (Lingüística e Informática) utilizando un sistema de selección basado solo en méritos, no en exámenes. Los requisitos detallados no aparecen en el BOE, sino en un boletín local, dificultando que profesionales de fuera del entorno administrativo actual puedan participar en igualdad de condiciones.",
+    "resumen_tweet": "🚩 ¡Ojo al #BOE! La Diputación de Valencia convoca plazas de 'cometidos especiales' por concurso de méritos. Los detalles reales se ocultan en el boletín provincial. ¿Transparencia o trajes a medida? 🕵️‍♂️💻 #Opacidad #Transparencia #Valencia",
+    "banderas_red_flags": [
+      "Opacidad por remisión a bases externas en el BOP",
+      "Uso de sistema de concurso exclusivo sin fase de oposición",
+      "Ambigüedad funcional bajo la clase 'Cometidos especiales'",
+      "Plazo de inscripción ajustado de 15 días"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad acumulada",
+        "Perfiles técnicos ya integrados en la administración local",
+        "Sindicatos con acceso previo a la negociación de bases"
+      ],
+      "perdedores": [
+        "Jóvenes licenciados sin experiencia previa",
+        "Talento del sector privado",
+        "Ciudadanos fuera de la provincia de Valencia"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Opacidad por remisión a bases externas en el BOP",
+      "Uso de sistema de concurso exclusivo sin fase de oposición",
+      "Ambigüedad funcional bajo la clase 'Cometidos especiales'",
+      "Plazo de inscripción ajustado de 15 días"
+    ]
+  },
+  "tweeted": false
+}
