@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9361",
+  "timestamp": "2026-04-30T14:17:29.583Z",
+  "title": "Real Decreto 367/2026, de 29 de abril, por el que se nombra Presidente de Aragón a don Jorge Antonio Azcón Navarro.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "Se trata de un acto administrativo reglado que formaliza la voluntad de las Cortes de Aragón. Aunque el texto es transparente en su fin (nombramiento), la opacidad reside en la falta de anexos sobre el coste salarial del nuevo gabinete o los gastos de representación asociados. Existe una incongruencia ideológica implícita al ser firmado por un Presidente del Gobierno de signo político opuesto, evidenciando la naturaleza puramente institucional del documento frente a la polarización política actual.",
+    "resumen_ciudadano": "Publicación oficial del nombramiento de Jorge Azcón como Presidente de Aragón tras la votación en las Cortes regionales. Es el paso legal definitivo para que asuma sus funciones de gobierno y representación de la comunidad autónoma.",
+    "resumen_tweet": "📝 Publicado en el #BOE el nombramiento de Jorge Azcón como Presidente de Aragón. Trámite institucional que activa el nuevo ejecutivo autonómico. ¿Transparencia real en los sueldos de los nuevos altos cargos? 🧐 #Aragón #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de información sobre retribuciones asociadas al cargo",
+      "Falta de desglose de gastos previstos para la toma de posesión",
+      "Mantenimiento de estructuras burocráticas de alto coste sin auditoría pública inmediata"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Antonio Azcón Navarro (acceso al poder ejecutivo)",
+        "Partidos que apoyaron la investidura",
+        "Élite administrativa de la Comunidad Autónoma"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el coste de mantenimiento de la estructura de presidencia sin control de eficiencia)",
+        "Oposición parlamentaria (desplazamiento del poder)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia de información sobre retribuciones asociadas al cargo",
+      "Falta de desglose de gastos previstos para la toma de posesión",
+      "Mantenimiento de estructuras burocráticas de alto coste sin auditoría pública inmediata"
+    ]
+  },
+  "tweeted": false
+}
