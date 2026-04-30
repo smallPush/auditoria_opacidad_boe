@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9294",
+  "timestamp": "2026-04-30T03:58:01.380Z",
+  "title": "Orden INT/399/2026, de 24 de abril, por la que se nombra para el Mando de la Jefatura de Transformación Digital y Ciberseguridad (Madrid) al General de División don José Santiago Martín Gómez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento discrecional de un General de División para un puesto altamente técnico como es la Ciberseguridad. La orden se ampara en la libre designación, omitiendo cualquier mención a la capacitación técnica específica del nombrado en materia digital. Existe una militarización de la transformación digital que debería ser, en parte, supervisada por criterios técnicos civiles y no meramente jerárquicos.",
+    "resumen_ciudadano": "El Ministro del Interior ha nombrado a un General de División para dirigir la Jefatura de Transformación Digital y Ciberseguridad. Este puesto no ha sido ocupado mediante concurso de méritos técnicos públicos, sino por designación directa, lo que deja dudas sobre si el perfil es el más idóneo tecnológicamente o si prima la lealtad jerárquica.",
+    "resumen_tweet": "🕵️‍♂️ ¿Ciberseguridad en manos militares? El General Martín Gómez es nombrado jefe de Transformación Digital por Marlaska. Sin concurso técnico, solo jerarquía. ¿Y la transparencia digital? 🛡️💻 #BOE #Opacidad #Transparencia #Ciberseguridad",
+    "banderas_red_flags": [
+      "Nombramiento de libre designación 'a dedo'",
+      "Ausencia de acreditación de competencias digitales en el texto",
+      "Militarización de infraestructuras críticas digitales",
+      "Opacidad en los motivos de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Santiago Martín Gómez (promoción interna)",
+        "Cúpula militar de la Guardia Civil",
+        "Ministerio del Interior (control directo)"
+      ],
+      "perdedores": [
+        "Candidatos civiles con alta cualificación técnica",
+        "Transparencia en la gestión de fondos digitales",
+        "Ciudadanía (por falta de meritocracia técnica visible)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Nombramiento de libre designación 'a dedo'",
+      "Ausencia de acreditación de competencias digitales en el texto",
+      "Militarización de infraestructuras críticas digitales",
+      "Opacidad en los motivos de la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
