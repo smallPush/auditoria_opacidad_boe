@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9371",
+  "timestamp": "2026-04-30T14:22:59.453Z",
+  "title": "Resolución de 24 de abril de 2026, de la Universidad Autónoma de Madrid, por la que se nombra Profesor Titular de Universidad a don Juan Luis Aragonés Gómez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera. Si bien el proceso es legalmente transparente en su forma, persiste la opacidad sobre el coste total a largo plazo para el erario público (salario, trienios y pasivos pensionales). No existe mención alguna al impacto de género en la composición del departamento de Física Teórica ni a la competitividad del proceso frente a investigadores externos.",
+    "resumen_ciudadano": "La Universidad Autónoma de Madrid ha nombrado oficialmente a Juan Luis Aragonés Gómez como Profesor Titular de Universidad en el área de Física de la materia condensada. Este es un paso final tras una oposición o concurso, otorgando al interesado la condición de funcionario público.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Universidad Autónoma de Madrid. Juan Luis Aragonés Gómez se convierte en Profesor Titular de Física. Proceso reglado pero con la habitual opacidad sobre el coste público real de la plaza. 🏛️📉 #BOE #Transparencia #UAM",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de datos sobre la tasa de concurrencia en el concurso",
+      "Invisibilidad de criterios de impacto social en el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Luis Aragonés Gómez (estabilidad laboral vitalicia)",
+        "Universidad Autónoma de Madrid (consolidación de su cuadro docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocimiento del coste total de la plaza a 30 años)",
+        "Candidatos externos (barreras estructurales a la movilidad académica)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de datos sobre la tasa de concurrencia en el concurso",
+      "Invisibilidad de criterios de impacto social en el nombramiento"
+    ]
+  },
+  "tweeted": false
+}
