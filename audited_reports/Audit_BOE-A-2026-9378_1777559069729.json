@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9378",
+  "timestamp": "2026-04-30T14:24:29.729Z",
+  "title": "Resolución de 17 de abril de 2026, del Ayuntamiento de Muro de Alcoy (Alicante/Alacant), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución presenta una opacidad técnica mediante la fragmentación documental. Al publicar únicamente un extracto en el BOE y remitir las bases al Boletín Oficial de la Provincia (BOP), se dificulta el acceso directo del ciudadano a los criterios de baremación. El uso del sistema de 'concurso' para plazas de escala general suele priorizar la antigüedad y méritos específicos sobre el conocimiento abierto (oposición), lo que puede interpretarse como un blindaje para la consolidación de personal interno, limitando el acceso a nuevos aspirantes sin experiencia previa en la administración local.",
+    "resumen_ciudadano": "El Ayuntamiento de Muro de Alcoy convoca 4 plazas de administrativo. Sin embargo, para conocer cómo te van a puntuar, debes buscar una publicación diferente en el boletín provincial de Alicante del 10 de abril. El plazo es de 20 días hábiles.",
+    "resumen_tweet": "⚠️ ¿Oportunidad real o laberinto burocrático? Muro de Alcoy lanza 4 plazas de administrativo por concurso. Las bases están ocultas en el boletín provincial, dificultando el acceso. ¿Consolidación encubierta? #BOE #Opacidad #Transparencia #Alicante 🏛️🔍",
+    "banderas_red_flags": [
+      "Remisión a boletines externos para consultar las bases (fragmentación informativa)",
+      "Sistema de provisión por concurso (posible ventaja para interinos)",
+      "Falta de desglose presupuestario del coste de las plazas en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos actuales con méritos acumulados",
+        "Personal de la propia administración local",
+        "Candidatos con acceso a información provincial específica"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Ciudadanos de fuera de la provincia de Alicante",
+        "Transparencia pública directa"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público / Concurso de Méritos",
+    "banderas_rojas": [
+      "Remisión a boletines externos para consultar las bases (fragmentación informativa)",
+      "Sistema de provisión por concurso (posible ventaja para interinos)",
+      "Falta de desglose presupuestario del coste de las plazas en el extracto"
+    ]
+  },
+  "tweeted": false
+}
