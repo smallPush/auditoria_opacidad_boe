@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9305",
+  "timestamp": "2026-04-30T04:05:17.669Z",
+  "title": "Resolución de 22 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una convocatoria de puestos de alta responsabilidad (niveles 29 y 30) bajo el mecanismo de libre designación, lo que permite la selección discrecional por parte de la Subsecretaría. Aunque se detallan funciones y méritos, este sistema es inherentemente opaco al priorizar la confianza sobre la competencia objetiva en áreas críticas como la División de Tecnologías de la Información y la gestión del PERTE para la Salud de Vanguardia. Existe un riesgo de politización técnica al cubrir la dirección estratégica de las TIC con personal elegido 'a dedo' en lugar de mediante concurso de méritos competitivo.",
+    "resumen_ciudadano": "El Ministerio de Ciencia ha abierto un proceso para elegir directores y asesores clave. En lugar de un examen o concurso abierto donde gane el mejor currículum, se utiliza la 'libre designación', permitiendo a los altos cargos elegir a personas de su confianza. Estos puestos gestionarán la digitalización del ministerio y fondos millonarios de salud, con sueldos que incluyen complementos de hasta 30.000 euros.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Ciencia convoca puestos directivos mediante 'libre designación' (a dedo) ☝️ Sueldos con complementos de 30.000€ para gestionar estrategia TIC y fondos PERTE. ¿Dónde queda la meritocracia? 🇪🇸 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Abuso de la libre designación en puestos técnicos",
+      "Nombramientos discrecionales en gestión de fondos PERTE",
+      "Alta concentración de poder en Madrid",
+      "Falta de baremación objetiva de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del subgrupo A1 con conexiones políticas",
+        "Élite administrativa en Madrid",
+        "Cargos de confianza institucional"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos sin red de contactos",
+        "Mérito y capacidad en la administración pública",
+        "Ciudadanía que demanda gestión técnica despolitizada"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Abuso de la libre designación en puestos técnicos",
+      "Nombramientos discrecionales en gestión de fondos PERTE",
+      "Alta concentración de poder en Madrid",
+      "Falta de baremación objetiva de méritos"
+    ]
+  },
+  "tweeted": false
+}
