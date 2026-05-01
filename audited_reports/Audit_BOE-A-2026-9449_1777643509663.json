@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-9449",
+  "timestamp": "2026-05-01T13:51:49.663Z",
+  "title": "Resolución de 22 de abril de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolución utiliza el sistema de 'Libre Designación', un eufemismo legal para la selección discrecional o 'a dedo' en puestos de alta responsabilidad. Aunque se enumeran requisitos técnicos, la especificidad de los mismos (manejo de herramientas internas como Zújar, Genio, Heracles o Hermes) y la pertenencia valorada a cuerpos de élite (Inspectores de Hacienda) sugieren que los candidatos ya están preseleccionados dentro de la propia organización. La opacidad se camufla tras una apariencia de tecnocracia extrema.",
+    "resumen_ciudadano": "La Agencia Tributaria convoca 13 puestos de jefatura en Madrid con complementos salariales que alcanzan los 52.105€ anuales. A pesar de publicarse en el BOE, el método de elección permite a los directivos elegir a quien deseen sin un examen objetivo, bajo el pretexto de la 'confianza', lo que dificulta el ascenso por mérito puro de otros funcionarios menos conectados.",
+    "resumen_tweet": "🚨 ¡Dedo a la vista en el #BOE! La AEAT convoca 13 puestos de 'Libre Designación' con pluses de hasta 52.100€ 💸. Requisitos tan específicos que parecen llevar nombre y apellidos. ¿Mérito o confianza? 🤔 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Requisitos técnicos hiper-específicos que limitan la competencia",
+      "Alta concentración de puestos en servicios centrales sin movilidad real",
+      "Complementos específicos desproporcionados respecto a la base",
+      "Falta de criterios de puntuación objetivos en las bases"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Inspectores",
+        "Personal con perfiles de confianza política o técnica",
+        "Cargos de libre designación en Madrid"
+      ],
+      "perdedores": [
+        "Funcionarios de base con méritos pero sin conexiones",
+        "Contribuyentes (por el riesgo de politización de la gestión tributaria)",
+        "Principio de igualdad y concurrencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sedes en Madrid y Alcorcón)",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Requisitos técnicos hiper-específicos que limitan la competencia",
+      "Alta concentración de puestos en servicios centrales sin movilidad real",
+      "Complementos específicos desproporcionados respecto a la base",
+      "Falta de criterios de puntuación objetivos en las bases"
+    ]
+  },
+  "tweeted": false
+}
