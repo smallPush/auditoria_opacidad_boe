@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9438",
+  "timestamp": "2026-05-01T13:45:48.390Z",
+  "title": "Resolución de 29 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 30 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento revela un proceso de 'libre designación', eufemismo legal para nombramientos discrecionales o 'a dedo'. Es destacable el cambio de nomenclatura de la 'Subdirección General de Gestión de Recursos y Subvenciones' a 'Subdirección General de Resiliencia y Recuperación', una maniobra de 'rebranding' semántico que alinea la terminología con los fondos europeos pero mantiene la opacidad en la gestión de fondos. La adjudicación de un puesto Nivel 30 con un complemento específico de 30.436€ a un Teniente Coronel de la Guardia Civil en un puesto de gestión civil subraya la militarización de estructuras administrativas de protección civil.",
+    "resumen_ciudadano": "El Ministerio del Interior ha nombrado a un Teniente Coronel para dirigir una subdirección general recién renombrada como 'Resiliencia y Recuperación' (antes Gestión de Subvenciones). Se trata de un puesto de libre designación con un sueldo extra anual de más de 30.000 euros, sin que se detallen los méritos específicos frente a otros candidatos más allá de la 'idoneidad' subjetiva.",
+    "resumen_tweet": "Nombramiento 'a dedo' en el Interior: Un Teniente Coronel dirigirá la nueva Subdirección de 'Resiliencia' (antes Subvenciones). Nivel 30 y +30k€ de complemento específico. ¿Mérito o confianza política? 🕵️‍♂️🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Rebranding terminológico sospechoso (Resiliencia vs Subvenciones)",
+      "Militarización de puestos de gestión civil",
+      "Alta remuneración por complemento específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Leandro Javier Sayago González (Teniente Coronel)",
+        "Cúpula del Ministerio del Interior",
+        "Perfiles militares en puestos administrativos"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios por oposición (meritocracia)",
+        "Transparencia en la gestión de subvenciones",
+        "Ciudadanía (por falta de justificación técnica del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Rebranding terminológico sospechoso (Resiliencia vs Subvenciones)",
+      "Militarización de puestos de gestión civil",
+      "Alta remuneración por complemento específico"
+    ]
+  },
+  "tweeted": false
+}
