@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9454",
+  "timestamp": "2026-05-01T13:56:46.426Z",
+  "title": "Resolución de 28 de abril de 2026, de la Secretaría de Estado de Migraciones, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza un lenguaje moderno de 'profesionalización directiva' bajo el paraguas del Plan de Recuperación, Transformación y Resiliencia para revestir un procedimiento de 'libre designación' (elección discrecional). Lo más alarmante es la Base Séptima, que exime explícitamente la necesidad de informes preceptivos habituales en la reforma de la Función Pública, agilizando el nombramiento pero eliminando controles técnicos externos. Se detecta una incongruencia entre la retórica de transparencia y la realidad de un puesto de Nivel 30 (máximo nivel administrativo) adjudicado con alta discrecionalidad política.",
+    "resumen_ciudadano": "El Ministerio de Inclusión convoca un puesto de Subdirector General de Inmigración en Madrid. Se trata de un cargo de alta responsabilidad (Nivel 30) con un complemento salarial específico de 30.436 euros anuales. Aunque se solicita currículum y una 'autoevaluación', la decisión final es discrecional y se han eliminado informes de control que normalmente se exigen en estos procesos para garantizar la imparcialidad.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! El Ministerio de Migraciones convoca un puesto de Nivel 30 'a dedo' (libre designación). Se saltan los informes de control habituales para agilizar el proceso. 💼💰 +30k€ de complemento. #Opacidad #Transparencia #Enchufismo",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación para alta dirección",
+      "Exención explícita de informes de control (Base Séptima)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Complemento específico muy elevado (30.436€) sin desglose de objetivos",
+      "Ambigüedad en la valoración de la 'idoneidad' mediante entrevista no reglada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con afinidad a la dirección política",
+        "Estructura del Ministerio (mayor agilidad para colocar perfiles de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin contactos políticos",
+        "Ciudadanía (menor garantía de neutralidad en la gestión migratoria)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación para alta dirección",
+      "Exención explícita de informes de control (Base Séptima)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Complemento específico muy elevado (30.436€) sin desglose de objetivos",
+      "Ambigüedad en la valoración de la 'idoneidad' mediante entrevista no reglada"
+    ]
+  },
+  "tweeted": false
+}
