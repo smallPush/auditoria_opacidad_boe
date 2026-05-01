@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9455",
+  "timestamp": "2026-05-01T13:54:57.305Z",
+  "title": "Resolución de 21 de abril de 2026, de la Ciudad de Ceuta, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución se limita a cumplir el trámite legal de aviso sin detallar los criterios de baremación, remitiendo al Boletín Oficial de la Ciudad de Ceuta. El sistema de 'concurso' (valoración de méritos sin examen) para una plaza técnica especializada es una práctica legal pero que, en entornos de administración local reducida, suele favorecer la consolidación de personal interino previo en lugar de fomentar la libre concurrencia competitiva nacional.",
+    "resumen_ciudadano": "La Ciudad Autónoma de Ceuta convoca una plaza de médico/a especialista en Medicina del Trabajo. El proceso no incluye examen, solo valoración de méritos. Los interesados tienen apenas 15 días hábiles para inscribirse. Para conocer qué méritos se puntúan, el ciudadano debe buscar de forma independiente el boletín local número 6610.",
+    "resumen_tweet": "🩺 ¿Plaza a medida? Ceuta convoca puesto de médico especialista mediante 'concurso' (sin examen). El #BOE solo da el aviso; la letra pequeña está en el boletín local. Solo 15 días para solicitar. 📉 #Opacidad #Transparencia #Ceuta #EmpleoPublico",
+    "banderas_red_flags": [
+      "Externalización de criterios: Los detalles clave están fuera del BOE",
+      "Sistema de concurso: Ausencia de examen teórico-práctico para puesto técnico",
+      "Plazo de 15 días: Ventana temporal reducida para candidatos de fuera de la ciudad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en la Ciudad Autónoma de Ceuta",
+        "Sindicatos locales con capacidad de influencia en la baremación de méritos"
+      ],
+      "perdedores": [
+        "Médicos especialistas jóvenes sin puntos por antigüedad",
+        "Candidatos externos al ámbito geográfico de Ceuta",
+        "Transparencia administrativa por dispersión de la información"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Resolución de Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Externalización de criterios: Los detalles clave están fuera del BOE",
+      "Sistema de concurso: Ausencia de examen teórico-práctico para puesto técnico",
+      "Plazo de 15 días: Ventana temporal reducida para candidatos de fuera de la ciudad"
+    ]
+  },
+  "tweeted": false
+}
