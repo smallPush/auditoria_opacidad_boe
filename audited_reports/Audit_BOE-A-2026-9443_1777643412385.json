@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-9443",
+  "timestamp": "2026-05-01T13:50:12.385Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de Almería, por la que se nombra Profesora Titular de Universidad a doña Carmen Capel Salinas.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento tras un proceso de concurso-oposición. Aunque el proceso sigue la legalidad de la LOSU (Ley Orgánica 2/2023), existe una opacidad inherente sobre los costes salariales a largo plazo que esta plaza de funcionaria supone para las arcas públicas. Se observa un lapso de 7 meses entre la convocatoria y el nombramiento, evidenciando la lentitud burocrática del sistema universitario español. No hay indicios de irregularidad, pero sí la típica falta de visibilidad sobre los méritos específicos que superaron a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Almería ha nombrado oficialmente a Carmen Capel Salinas como Profesora Titular en el área de Genética. Este es un puesto permanente de funcionaria tras haber superado un concurso convocado en septiembre de 2025.",
+    "resumen_tweet": "🧬 Nueva Profesora Titular de Genética en la Univ. de Almería. Carmen Capel Salinas logra plaza fija tras 7 meses de proceso. Estabilidad docente bajo la #LOSU, pero con la habitual lentitud burocrática. #BOE #Transparencia #Universidad #Almería 🎓",
+    "banderas_red_flags": [
+      "Dilatación temporal en la resolución (7 meses)",
+      "Ausencia de desglose del coste presupuestario de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carmen Capel Salinas",
+        "Universidad de Almería (Área de Genética)",
+        "Sistema Universitario (estabilidad)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados",
+        "Agilidad administrativa estatal"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Dilatación temporal en la resolución (7 meses)",
+      "Ausencia de desglose del coste presupuestario de la plaza"
+    ]
+  },
+  "tweeted": false
+}
