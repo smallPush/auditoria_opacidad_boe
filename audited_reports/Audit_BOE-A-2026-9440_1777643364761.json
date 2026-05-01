@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-9440",
+  "timestamp": "2026-05-01T13:49:24.761Z",
+  "title": "Corrección de errores de la Resolución de 13 de abril de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo de la Comisión de Gobierno, por el que se resuelve el concurso específico, convocado por Resolución de 18 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de una corrección de errores en un concurso de méritos del Tribunal de Cuentas, el órgano supremo fiscalizador del Estado. La modificación no es baladí: reduce el nivel administrativo de un puesto de 'Verificador/a' de un nivel 26 a un 24. Esto implica una reducción directa en el Complemento de Destino y, por tanto, en el salario del funcionario tras la adjudicación. Resulta paradójico que el organismo encargado de auditar la precisión de las cuentas públicas cometa errores de bulto en la clasificación de sus propios puestos de trabajo en el BOE.",
+    "resumen_ciudadano": "El Tribunal de Cuentas ha rectificado la categoría de un puesto de trabajo ya adjudicado. Lo que antes era un Nivel 26 ahora pasa a ser Nivel 24. Esto afecta al sueldo y al rango jerárquico de la persona que ganó la plaza en el Departamento de Fiscalización.",
+    "resumen_tweet": "🚨 ¿Quién audita al auditor? El @TribunalCuentas corrige un 'error' y baja el nivel (y sueldo 📉) de una plaza de verificador tras publicarla. De nivel 26 a 24 por arte de magia administrativa. ¿Error técnico o falta de rigor? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reducción de nivel administrativo post-adjudicación",
+      "Falta de explicación sobre la causa del error material",
+      "Incongruencia administrativa en el órgano fiscalizador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Presupuesto público (ahorro marginal por menor salario)"
+      ],
+      "perdedores": [
+        "El adjudicatario de la plaza (pierde poder adquisitivo y méritos)",
+        "Credibilidad institucional del Tribunal de Cuentas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Reducción de nivel administrativo post-adjudicación",
+      "Falta de explicación sobre la causa del error material",
+      "Incongruencia administrativa en el órgano fiscalizador"
+    ]
+  },
+  "tweeted": false
+}
