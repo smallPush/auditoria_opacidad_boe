@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9362",
+  "timestamp": "2026-05-01T04:09:25.760Z",
+  "title": "Acuerdo de 28 de abril de 2026, del Consejo General del Poder Judicial, por el que se corrigen errores en el de 22 de abril de 2026, por el que se nombra Jueza sustituta para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de la Región de Murcia.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una corrección de error material en el nombramiento de una jueza sustituta para múltiples demarcaciones en la Región de Murcia. Lo que parece un simple trámite administrativo revela una falta de rigor en la cadena de mando del CGPJ, al haber publicado un nombre totalmente distinto en el BOE original (Morante Valverde vs. Hellín Martínez). Este tipo de errores genera inseguridad jurídica y costes administrativos evitables en la gestión de la justicia sustituta, un sector ya de por sí precarizado.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha rectificado el nombre de la jueza sustituta asignada a los juzgados de Murcia, Cartagena y otras localidades. Por un error en la publicación original, se nombró a la persona equivocada. La jueza real es María Inmaculada Hellín Martínez, no la persona indicada anteriormente.",
+    "resumen_tweet": "⚖️ El CGPJ se equivoca de nombre al nombrar una jueza en Murcia. De Morante Valverde a Hellín Martínez por 'error material'. ¿Falta de rigor en la cúpula judicial? La justicia sustituta, clave y precaria. #BOE #Opacidad #Transparencia #Murcia 🇪🇸",
+    "banderas_red_flags": [
+      "Error material en identidad de cargo público",
+      "Falta de control administrativo en el CGPJ",
+      "Duplicidad de recursos por corrección de publicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Inmaculada Hellín Martínez (recupera su nombramiento oficial)",
+        "Administración del TSJ de Murcia (claridad sobre el personal)"
+      ],
+      "perdedores": [
+        "María Inmaculada Morante Valverde (desplazada por el error)",
+        "Contribuyente (paga el coste de la ineficiencia administrativa y republicación)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Error material en identidad de cargo público",
+      "Falta de control administrativo en el CGPJ",
+      "Duplicidad de recursos por corrección de publicación"
+    ]
+  },
+  "tweeted": false
+}
