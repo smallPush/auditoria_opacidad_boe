@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9367",
+  "timestamp": "2026-05-01T04:10:53.288Z",
+  "title": "Resolución de 14 de abril de 2026, conjunta de la Universidad de Cantabria y la Consejería de Salud del Gobierno de Cantabria, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Enrique María Ocio San Miguel.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de catedrático con 'plaza vinculada', una figura que permite la bicefalia presupuestaria entre la Universidad y el Servicio de Salud regional. El texto oculta el impacto económico total, ya que el salario se fragmenta entre dos administraciones (Salud y Educación), dificultando el rastreo del coste real para el contribuyente. Aunque el proceso técnico es legal, la falta de mención a las retribuciones o complementos específicos por la doble función (clínica y docente) mantiene el oscurantismo sobre las élites funcionariales médicas.",
+    "resumen_ciudadano": "La Universidad de Cantabria y la Consejería de Salud han nombrado a un nuevo Catedrático en Medicina para el área de Hematología. Este profesional tendrá una doble función: profesor universitario y médico especialista en el sistema de salud cántabro.",
+    "resumen_tweet": "🎓 Nuevo catedrático en Cantabria: Medicina y Hematología se unen en una 'plaza vinculada'. Trámite estándar, pero con opacidad en el coste real al dividirse entre Salud y Universidad. ¿Controlamos el gasto en las élites? 🩺📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la distribución de la masa salarial entre consejerías",
+      "Falta de detalle sobre el coste de los complementos vinculados",
+      "Perpetuación de estructuras de poder cerradas en el ámbito médico-académico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Enrique María Ocio San Miguel (consolidación de carrera)",
+        "Universidad de Cantabria (cubre plaza)",
+        "Consejería de Salud (mantiene especialista de alto nivel)"
+      ],
+      "perdedores": [
+        "Transparencia presupuestaria (por la bicefalia del gasto)",
+        "Aspirantes a plazas docentes puras sin vinculación hospitalaria",
+        "Contribuyente (por la falta de desglose salarial en el nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de Personal Funcionario / Académico",
+    "banderas_rojas": [
+      "Opacidad en la distribución de la masa salarial entre consejerías",
+      "Falta de detalle sobre el coste de los complementos vinculados",
+      "Perpetuación de estructuras de poder cerradas en el ámbito médico-académico"
+    ]
+  },
+  "tweeted": false
+}
