@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9436",
+  "timestamp": "2026-05-01T13:21:08.689Z",
+  "title": "Real Decreto 362/2026, de 29 de abril, por el que se modifica el Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el Atlántico Oriental y el Mediterráneo.",
+  "report": {
+    "nivel_transparencia": 6.2,
+    "analisis_critico": "El Real Decreto 362/2026 utiliza la recuperación biológica del atún rojo para reconfigurar el reparto de cuotas, consolidando el dominio de las flotas industriales de cerco y las almadrabas, que juntas acaparan más del 55% de la cuota principal. La mayor anomalía de transparencia reside en el Artículo 3 bis, que crea una 'Reserva de posibilidades de pesca' (inicialmente del 3,27% y ampliable al 10%) bajo gestión discrecional de la Secretaría General de Pesca. Este mecanismo permite al Estado gestionar cuotas de gran valor comercial mediante resoluciones posteriores, alejadas del control legislativo directo, lo que facilita el uso de estas como moneda de cambio política o administrativa. Aunque se mencionan criterios socioeconómicos, su peso es secundario frente a la 'historicidad', blindando el statu quo de los grandes actores del sector.",
+    "resumen_ciudadano": "Se actualizan las reglas para la pesca del atún rojo ante el aumento de la población de la especie. El Gobierno establece un nuevo reparto de beneficios donde las grandes empresas pesqueras y las almadrabas tradicionales son las grandes beneficiadas. Como novedad, el Estado se reserva hasta un 10% de la cuota total para gestionarla a su discreción, lo que reduce la claridad sobre quién acabará pescando esos ejemplares. Se permite por primera vez a barcos pequeños de otras modalidades declarar capturas accidentales, aunque bajo cuotas muy reducidas comparadas con la pesca industrial.",
+    "resumen_tweet": "🚨 ¡Más control, menos claridad! El nuevo RD de Atún Rojo crea una 'Reserva' discrecional de hasta el 10% de la cuota 🐟. Las grandes industrias y almadrabas se reparten el pastel, mientras el resto recibe migajas. #BOE #Opacidad #Pesca #AtunRojo 🎣⚖️",
+    "banderas_red_flags": [
+      "Reserva de cuota discrecional del 3,27% al 10%",
+      "Falta de precisión en la distribución de la reserva de gestión",
+      "Concentración de derechos en flota industrial de cerco",
+      "Delegación de criterios de campaña a resoluciones administrativas anuales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Flota de cerco del Mediterráneo (28,37%)",
+        "Almadrabas (27,23%)",
+        "Secretaría General de Pesca (por el control de la reserva)",
+        "Granjas de engorde de atún"
+      ],
+      "perdedores": [
+        "Pesca recreativa (limitada a captura y suelta y mortalidad accidental)",
+        "Pequeña flota artesanal (recibe porcentajes marginales)",
+        "Transparencia en la gestión de recursos públicos migratorios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Impacto en Andalucía, Canarias, Murcia, Cataluña y C. Valenciana)",
+    "tipologia": "Regulación de Recursos Pesqueros y Gestión de Cuotas",
+    "banderas_rojas": [
+      "Reserva de cuota discrecional del 3,27% al 10%",
+      "Falta de precisión en la distribución de la reserva de gestión",
+      "Concentración de derechos en flota industrial de cerco",
+      "Delegación de criterios de campaña a resoluciones administrativas anuales"
+    ]
+  },
+  "tweeted": false
+}
