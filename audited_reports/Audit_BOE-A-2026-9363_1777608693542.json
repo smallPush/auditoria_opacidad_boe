@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-9363",
+  "timestamp": "2026-05-01T04:11:33.542Z",
+  "title": "Acuerdo de 2 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Augusto Morales Limia.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa por edad. Aunque cumple con la legalidad, destaca la opacidad técnica en el término 'derechos pasivos', ocultando la cuantía real de la pensión vitalicia de un alto cargo judicial. Se observa un desfase temporal de casi tres meses entre la firma del acuerdo (febrero) y su publicación en el BOE (abril), una demora burocrática innecesaria para un trámite automático.",
+    "resumen_ciudadano": "El magistrado Augusto Morales Limia, de la Audiencia Provincial de Murcia, se jubila por ley al alcanzar la edad máxima. Seguirá cobrando su pensión del Estado bajo el régimen de Clases Pasivas.",
+    "resumen_tweet": "⚖️ Jubilación en la alta judicatura: El magistrado Morales Limia deja la Audiencia de Murcia. Se mencionan 'derechos pasivos' sin cifras claras. ¿Cuánto nos cuesta la élite judicial? 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de desglose económico de la pensión",
+      "Retraso de dos meses en la publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Augusto Morales Limia (acceso a pensión máxima de magistratura)",
+        "Candidatos a la vacante en la Audiencia de Murcia"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de transparencia en el gasto de pensiones de élite)",
+        "Agilidad administrativa (demora en publicación)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Falta de desglose económico de la pensión",
+      "Retraso de dos meses en la publicación oficial"
+    ]
+  },
+  "tweeted": false
+}
