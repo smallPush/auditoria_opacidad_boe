@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9442",
+  "timestamp": "2026-05-02T03:42:21.851Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de Almería, por la que se nombra Catedrático de Universidad a don Agustín Javier Simonelli Muñoz.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de alto rango académico bajo la LOSU 2/2023. Llama la atención un error de bulto en la redacción: el texto se refiere al nombrado como 'la interesada' a pesar de tratarse de un varón, lo que evidencia el uso de plantillas automatizadas ('corta-pega') y una falta de revisión minuciosa. En términos socioeconómicos, representa la consolidación del techo de cristal: un varón accediendo a la máxima categoría en Enfermería, área históricamente feminizada en la base pero con cúpulas masculinizadas.",
+    "resumen_ciudadano": "La Universidad de Almería ha oficializado el nombramiento de un nuevo Catedrático en el área de Enfermería. Es un trámite administrativo ordinario para elevar de categoría a un docente tras un concurso de acceso, lo que conlleva una plaza vitalicia y un incremento en el gasto de personal público.",
+    "resumen_tweet": "📑 Nuevo catedrático en Almería. El #BOE publica el ascenso de Agustín Simonelli en Enfermería. Ojo al detalle: el texto usa 'la interesada' para un hombre, reflejo del corta-pega burocrático. 🏥 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Incongruencia de género en el texto administrativo (uso de plantillas genéricas)",
+      "Falta de transparencia sobre el coste salarial total para el contribuyente",
+      "Opacidad en los méritos específicos evaluados por la comisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agustín Javier Simonelli Muñoz (ascenso laboral y salarial)",
+        "Cuerpo de Catedráticos de Universidad (consolidación de estatus)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (menos presupuesto para plazas base)",
+        "Precisión administrativa (por errores en la redacción del documento)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Incongruencia de género en el texto administrativo (uso de plantillas genéricas)",
+      "Falta de transparencia sobre el coste salarial total para el contribuyente",
+      "Opacidad en los méritos específicos evaluados por la comisión"
+    ]
+  },
+  "tweeted": false
+}
