@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9529",
+  "timestamp": "2026-05-02T13:41:16.167Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en el Instituto Nacional de Gestión Sanitaria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta un marco normativo aparentemente neutro pero con mecanismos de exclusion sutil. Destaca la obligatoriedad del uso del Portal Funciona y certificado electronico, limitando el acceso fisico a excepciones muy justificadas, lo que supone una barrera digital. El sistema de baremacion en dos fases con minimos de puntuacion (5 y 20 puntos) otorga un poder discrecional significativo a la comision de valoracion en la segunda fase (meritos especificos). La restriccion de valorar solo cursos incluidos en un catalogo anual propio del INGESA fomenta la endogamia administrativa, dificultando que funcionarios de otras areas puedan competir en igualdad de condiciones.",
+    "resumen_ciudadano": "El Ministerio de Sanidad convoca plazas para trabajar en el INGESA (gestion sanitaria). El proceso es solo para funcionarios de carrera. Se premia la antiguedad, el grado consolidado y cursos de formacion especificos de su propio catalogo. Incluye clausulas para facilitar que parejas de funcionarios trabajen en la misma ciudad y para el cuidado de hijos, aunque con exigencias de residencia estrictas.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el concurso de @sanidadgob para INGESA. 🏥 Entre baremos complejos y catalogos de formacion 'cerrados', la movilidad real se dificulta. Ojo a la brecha digital y la endogamia administrativa. ¿Transparencia o burocracia? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia formativa por catalogo cerrado de cursos",
+      "Obligatoriedad digital con exclusion de facto de la via presencial",
+      "Discrecionalidad en la valoracion de meritos especificos de la fase dos",
+      "Limitacion de movilidad interadministrativa mediante autorizaciones previas denegables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alto grado consolidado",
+        "Personal interno del INGESA con acceso a formacion especifica",
+        "Sindicatos con presencia en la Mesa General de Negociacion"
+      ],
+      "perdedores": [
+        "Funcionarios de otras administraciones (AAPP) con dificultades de movilidad",
+        "Candidatos con brecha digital",
+        "Personal con meritos formativos fuera del catalogo oficial del organismo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provision de puestos de trabajo",
+    "banderas_rojas": [
+      "Endogamia formativa por catalogo cerrado de cursos",
+      "Obligatoriedad digital con exclusion de facto de la via presencial",
+      "Discrecionalidad en la valoracion de meritos especificos de la fase dos",
+      "Limitacion de movilidad interadministrativa mediante autorizaciones previas denegables"
+    ]
+  },
+  "tweeted": false
+}
