@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9539",
+  "timestamp": "2026-05-02T13:47:16.309Z",
+  "title": "Resolución de 23 de abril de 2026, del Ayuntamiento de La Garriga (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se publica la convocatoria de una plaza de Educador Social bajo el sistema de concurso-oposición. La opacidad reside en la brevedad del anuncio en el BOE, que obliga al ciudadano a acudir al DOGC para conocer los criterios de baremación. El uso de concurso-oposición para una sola plaza suele ser un mecanismo para estabilizar personal interino que ya ocupa el puesto, limitando el acceso real en igualdad de condiciones para nuevos candidatos sin experiencia previa en la administración local.",
+    "resumen_ciudadano": "El Ayuntamiento de La Garriga busca cubrir una plaza fija de Educador/a Social. El proceso incluye examen y valoración de méritos (experiencia previa). Los interesados deben revisar las bases detalladas en el diario oficial autonómico y tienen 20 días naturales para inscribirse.",
+    "resumen_tweet": "📢 ¿Plaza con nombre? La Garriga convoca 1 plaza de Educador Social por concurso-oposición. El sistema de puntos suele premiar a interinos, dificultando el acceso a nuevos profesionales. ¡Cuidado con los méritos! 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plaza única en sistema mixto de concurso-oposición",
+      "Remisión externa para consulta de bases",
+      "Potencial consolidación de interinos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del ayuntamiento",
+        "Candidatos con amplia experiencia administrativa"
+      ],
+      "perdedores": [
+        "Nuevos titulados en Educación Social",
+        "Opositores sin experiencia previa en el sector público"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Plaza única en sistema mixto de concurso-oposición",
+      "Remisión externa para consulta de bases",
+      "Potencial consolidación de interinos"
+    ]
+  },
+  "tweeted": false
+}
