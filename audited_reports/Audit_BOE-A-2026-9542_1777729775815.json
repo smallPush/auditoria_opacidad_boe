@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9542",
+  "timestamp": "2026-05-02T13:49:35.815Z",
+  "title": "Resolución de 23 de abril de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución presenta una estructura administrativa estándar pero adolece de la 'opacidad por remisión'. Al no incluir las bases íntegras ni la dotación económica en el BOE, obliga al ciudadano a un rastreo burocrático por el BOP de Granada y el BOJA de Andalucía. Este fraccionamiento de la información dificulta la fiscalización inmediata de los criterios de selección y el gasto público asociado. El uso del sistema de 'oposición libre' en lugar de 'concurso-oposición' es técnicamente más democrático para nuevos aspirantes, pero el hermetismo sobre las funciones exactas en el texto central es una red flag de baja transparencia informativa.",
+    "resumen_ciudadano": "El Ayuntamiento de Motril convoca una plaza de Técnico/a de Gestión. El proceso es por oposición libre (examen), lo que permite que cualquiera se presente sin necesidad de puntos previos por experiencia. Tienes 20 días hábiles para solicitarlo. Sin embargo, para saber cuánto cobrarás o qué te preguntarán, debes buscar en otros boletines provinciales anteriores.",
+    "resumen_tweet": "🕵️‍♂️ ¿Transparencia o laberinto? El Ayto. de Motril convoca plaza de Técnico de Gestión. Info fragmentada entre BOE, BOJA y BOP. Dificulta el acceso real al ciudadano de a pie. 📉 #BOE #Opacidad #Transparencia #Motril #EmpleoPublico",
+    "banderas_red_flags": [
+      "Opacidad por remisión (remite a otros boletines para detalles críticos)",
+      "Inexistencia de memoria económica o desglose de retribuciones",
+      "Falta de descripción de las funciones del puesto en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Academias de preparación de oposiciones",
+        "Aspirantes con alta disponibilidad de tiempo para estudio teórico"
+      ],
+      "perdedores": [
+        "Trabajadores con experiencia previa (al no valorarse méritos en oposición pura)",
+        "Ciudadanos externos a Granada con dificultades para rastrear la burocracia local"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Opacidad por remisión (remite a otros boletines para detalles críticos)",
+      "Inexistencia de memoria económica o desglose de retribuciones",
+      "Falta de descripción de las funciones del puesto en el extracto"
+    ]
+  },
+  "tweeted": false
+}
