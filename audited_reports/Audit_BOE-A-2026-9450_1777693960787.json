@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9450",
+  "timestamp": "2026-05-02T03:52:40.787Z",
+  "title": "Resolución de 21 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para un puesto de alta responsabilidad técnica (Nivel 26) en la Dirección General de la Guardia Civil. Aunque el texto detalla requisitos técnicos, la naturaleza de este procedimiento permite la elección discrecional del candidato, lo que técnicamente se conoce como 'puesto de confianza' o 'dedazo'. Es especialmente preocupante que este cargo, designado sin un concurso de méritos abierto y competitivo, tenga entre sus funciones la 'tramitación y gestión de fondos europeos' y la 'planificación estratégica económico-presupuestaria', áreas críticas para la rendición de cuentas pública.",
+    "resumen_ciudadano": "El Ministerio del Interior ha publicado una vacante para la Jefatura de Sistemas Informáticos de la Guardia Civil. El puesto se asignará mediante libre designación, permitiendo que la administración elija a dedo a la persona que gestionará presupuestos, recursos financieros y fondos europeos. Aunque se requiere experiencia técnica, el sistema de selección prioriza la confianza política sobre la meritocracia pura.",
+    "resumen_tweet": "🚩 ¿Meritocracia o confianza? Interior convoca la Jefatura de Sistemas de la Guardia Civil mediante 'libre designación'. Gestionará fondos europeos y presupuestos estratégicos siendo elegido 'a dedo'. 💶👤 #BOE #Opacidad #Transparencia #GuardiaCivil",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación para cargos técnicos",
+      "Gestión de fondos europeos por personal de designación discrecional",
+      "Falta de baremación objetiva para la comparativa de candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal con perfil de confianza política",
+        "Candidatos con redes de contacto dentro de la Subsecretaría del Interior"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con alta cualificación técnica pero sin perfil político",
+        "La transparencia en el uso de fondos públicos europeos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Recursos Humanos",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación para cargos técnicos",
+      "Gestión de fondos europeos por personal de designación discrecional",
+      "Falta de baremación objetiva para la comparativa de candidatos"
+    ]
+  },
+  "tweeted": false
+}
