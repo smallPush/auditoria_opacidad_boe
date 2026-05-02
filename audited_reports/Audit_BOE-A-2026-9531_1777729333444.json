@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9531",
+  "timestamp": "2026-05-02T13:42:13.444Z",
+  "title": "Resolución de 22 de abril de 2026, del Ayuntamiento de Zizurkil (Gipuzkoa), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El uso del sistema de concurso-oposición en lugar de oposición libre para plazas administrativas de carácter general sugiere un blindaje para el personal interino ya presente en el ayuntamiento. La publicación en el BOE es meramente referencial, obligando al ciudadano a rastrear el Boletín Oficial de Gipuzkoa para conocer los criterios reales de selección, lo que fragmenta la información y reduce la accesibilidad efectiva.",
+    "resumen_ciudadano": "El Ayuntamiento de Zizurkil convoca dos plazas de administrativo. Aunque se anuncian como turno libre, el sistema de concurso-oposición valora méritos previos, lo que suele dar ventaja a quienes ya trabajan allí. Tienes 20 días hábiles para presentar la solicitud tras leer las bases detalladas en el boletín provincial.",
+    "resumen_tweet": "📢 Zizurkil convoca 2 plazas de administrativo por concurso-oposición. ¡Ojo! 👁️ La valoración de méritos suele favorecer a interinos, dificultando el acceso a nuevos aspirantes. Opacidad en los detalles salariales. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición frente a oposición libre",
+      "Remisión a bases en boletín provincial no adjuntas",
+      "Rectificación de bases previa a la publicación nacional",
+      "Ausencia de estimación presupuestaria del coste salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Zizurkil",
+        "Candidatos con experiencia previa en administración local vasca",
+        "Gestores de recursos humanos locales"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Ciudadanos de otras regiones (barrera informativa)",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición frente a oposición libre",
+      "Remisión a bases en boletín provincial no adjuntas",
+      "Rectificación de bases previa a la publicación nacional",
+      "Ausencia de estimación presupuestaria del coste salarial"
+    ]
+  },
+  "tweeted": false
+}
