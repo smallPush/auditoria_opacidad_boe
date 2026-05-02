@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9541",
+  "timestamp": "2026-05-02T13:51:18.497Z",
+  "title": "Resolución de 23 de abril de 2026, del Ayuntamiento de Barberà del Vallès (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion emplea el sistema de concurso-oposicion para plazas de turno libre, una modalidad que tecnicamente permite la entrada de nuevos aspirantes pero que, en la practica, suele favorecer la consolidacion de personal interino mediante la valoracion de meritos previos. La opacidad reside en la fragmentacion informativa: el BOE solo actua como anuncio, obligando al ciudadano a navegar por el Diari Oficial de la Generalitat de Catalunya para conocer los criterios reales de seleccion, lo que supone una barrera burocratica de facto.",
+    "resumen_ciudadano": "El Ayuntamiento de Barbera del Valles convoca dos plazas de Tecnico Superior. Aunque el acceso es libre, se utilizara un sistema donde la experiencia previa cuenta significativamente, no solo el examen. El plazo para apuntarse es de 20 dias habiles desde hoy.",
+    "resumen_tweet": "🚨 Barbera del Valles convoca plazas de Tecnico Superior mediante concurso-oposicion. ¿Acceso libre o ventaja para los de dentro? La burocracia obliga a saltar del BOE al DOGC para ver las bases. 🔎🏛️ #BOE #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposicion en turno libre",
+      "Fragmentacion de informacion entre boletines",
+      "Potencial sesgo hacia personal interno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antiguedad",
+        "Candidatos con experiencia previa en administracion local"
+      ],
+      "perdedores": [
+        "Opositores jovenes sin experiencia",
+        "Ciudadanos sin conocimientos en busqueda de boletines autonomicos"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Oferta de Empleo Publico Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposicion en turno libre",
+      "Fragmentacion de informacion entre boletines",
+      "Potencial sesgo hacia personal interno"
+    ]
+  },
+  "tweeted": false
+}
