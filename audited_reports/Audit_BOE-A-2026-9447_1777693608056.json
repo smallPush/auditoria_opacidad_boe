@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9447",
+  "timestamp": "2026-05-02T03:46:48.056Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Juan Antonio Gómez García.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento administrativo estándar para una cátedra universitaria. Aunque cumple con la legalidad vigente (LOSU 2/2023), el documento carece de información sobre la terna de candidatos o las puntuaciones obtenidas, manteniendo la habitual opacidad en la selección de cuerpos docentes superiores. La plaza de 'Filosofía del Derecho' representa un gasto estructural a largo plazo para el Estado sin una medición de impacto social directa fuera del ámbito académico.",
+    "resumen_ciudadano": "La Universidad Nacional de Educación a Distancia (UNED) ha nombrado oficialmente a un nuevo catedrático de Filosofía del Derecho. Este cargo es de carácter vitalicio y supone la consolidación de un puesto de alta dirección académica financiado con fondos públicos.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la @UNED. Juan Antonio Gómez García logra la plaza de Filosofía del Derecho. Un nombramiento legal pero que perpetúa la estructura tradicional de las cátedras sin mayor detalle sobre el proceso selectivo. ⚖️🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en los méritos del candidato seleccionado frente a otros aspirantes",
+      "Falta de desglose del coste salarial anual asociado a la plaza de nivel 30",
+      "Ausencia de mención a criterios de paridad en el tribunal de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Antonio Gómez García (consolidación de estatus funcionarial y aumento salarial)",
+        "UNED (cobertura de plaza de alto nivel)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (proceso poco transparente para el ciudadano medio)",
+        "Contribuyentes (compromiso de gasto público a largo plazo sin indicadores de rendimiento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Opacidad en los méritos del candidato seleccionado frente a otros aspirantes",
+      "Falta de desglose del coste salarial anual asociado a la plaza de nivel 30",
+      "Ausencia de mención a criterios de paridad en el tribunal de selección"
+    ]
+  },
+  "tweeted": false
+}
