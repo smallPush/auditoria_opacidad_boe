@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9524",
+  "timestamp": "2026-05-02T13:40:02.297Z",
+  "title": "Ley 3/2026, de 30 de marzo, de modificación de la Ley 8/2008, de 10 de julio, de salud de Galicia, por la que se establecen medidas de prevención y protección integral contra la violencia en el Sistema de salud de Galicia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 3/2026 de Galicia responde a un incremento real de la violencia en centros sanitarios, pero introduce mecanismos de 'blindaje' que rozan la opacidad. Destaca la potestad de suspender la asistencia sanitaria ante grabaciones no consentidas, lo que podría usarse para ocultar malas praxis bajo el pretexto de 'ruptura de la confianza'. Además, la ley delega en reglamentos posteriores el coste de la creación del Registro Gallego de Actos de Violencia y del Plan de Prevención, sin asignar una partida presupuestaria clara en el texto original, lo que constituye un gasto fantasma latente.",
+    "resumen_ciudadano": "Galicia endurece las sanciones por agresiones a sanitarios, incluyendo multas y el pago obligatorio de los gastos médicos de la víctima por parte del agresor. Se prohíbe grabar a personal sanitario sin consentimiento, bajo riesgo de perder el derecho a la asistencia en ese momento. Se crea un registro de infractores y se garantiza defensa jurídica gratuita para el personal del SERGAS.",
+    "resumen_tweet": "🏥 Galicia endurece las penas por violencia sanitaria. ¡Cuidado! Grabar sin permiso puede suspender tu consulta. Se crea un registro de agresores y multas por 'acoso digital'. ¿Protección necesaria o blindaje ante quejas? 🛡️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión de asistencia sanitaria por grabaciones (posible vulneración de derechos)",
+      "Indeterminación presupuestaria para el Registro y el Plan de Prevención",
+      "Concepto ambiguo de 'acoso digital' en el ámbito sanitario",
+      "Obligación de abonar gastos de asistencia sanitaria como sanción administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal sanitario (mayor protección y movilidad)",
+        "Letrados de la Xunta (ampliación de funciones de defensa)",
+        "Administración autonómica (nuevo régimen recaudatorio por multas)"
+      ],
+      "perdedores": [
+        "Pacientes (limitación de la capacidad de documentar posibles negligencias)",
+        "Personas con patologías que cursan con conductas disruptivas (riesgo de sanción sin distinción clara)",
+        "Ciudadanía general (opacidad sobre el coste real de la nueva infraestructura administrativa)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Modificación de Ley de Salud / Régimen Sancionador",
+    "banderas_rojas": [
+      "Suspensión de asistencia sanitaria por grabaciones (posible vulneración de derechos)",
+      "Indeterminación presupuestaria para el Registro y el Plan de Prevención",
+      "Concepto ambiguo de 'acoso digital' en el ámbito sanitario",
+      "Obligación de abonar gastos de asistencia sanitaria como sanción administrativa"
+    ]
+  },
+  "tweeted": false
+}
