@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9523",
+  "timestamp": "2026-05-02T13:14:34.557Z",
+  "title": "Resolución de 30 de abril de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Esta resolución es un ejemplo de la 'captura del regulador' donde el Estado actúa como ejecutor de la voluntad comercial de los fabricantes. Aunque se presenta como un ejercicio de transparencia administrativa, el texto confirma que los precios son 'propuestos por fabricantes e importadores', lo que subraya el peso del lobby tabaquero en la fijación de precios finales. Existe una brecha de clase evidente: se legitiman productos de lujo de 50 euros la unidad (Quai D’Orsay) frente a productos de bajo coste que perpetúan el tabaquismo en estratos socioeconómicos inferiores. No hay mención al destino de los ingresos fiscales generados para compensar el gasto sanitario derivado.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios oficiales de venta al público para marcas específicas de cigarros, cigarritos y picaduras de pipa en los estancos de la Península y Baleares. Los precios varían desde los 0,30 euros por unidad hasta los 50 euros en el caso de marcas premium.",
+    "resumen_tweet": "📉 Nuevos precios del tabaco en el #BOE. El Ministerio de Hacienda publica las tarifas propuestas por las tabaqueras. Puros de hasta 50€ la unidad. ¿Quién decide los precios, el Estado o el Lobby? 🚭💰 #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Fijación de precios por propuesta privada",
+      "Opacidad en el desglose de la carga fiscal por unidad",
+      "Desigualdad de acceso por precios de lujo",
+      "Exclusión de Canarias, Ceuta y Melilla en este marco tarifario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (recaudación fiscal asegurada)",
+        "Grandes marcas de tabaco (Cao, Quai D’Orsay)",
+        "Logista (distribución)"
+      ],
+      "perdedores": [
+        "Consumidores (pérdida de poder adquisitivo)",
+        "Sistema Nacional de Salud (coste externo no compensado en el texto)",
+        "Clases populares (fácil acceso a labores baratas de 0,30€)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península y Baleares)",
+    "tipologia": "Regulación de Precios de Mercado",
+    "banderas_rojas": [
+      "Fijación de precios por propuesta privada",
+      "Opacidad en el desglose de la carga fiscal por unidad",
+      "Desigualdad de acceso por precios de lujo",
+      "Exclusión de Canarias, Ceuta y Melilla en este marco tarifario"
+    ]
+  },
+  "tweeted": false
+}
