@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9444",
+  "timestamp": "2026-05-02T03:44:23.456Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de Córdoba, por la que se nombra Catedrática de Universidad a doña Ana Belén Martínez López.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática de Universidad en la Universidad de Córdoba. Aunque el proceso sigue la LOSU 2/2023, este tipo de resoluciones son la punta del iceberg de un sistema de funcionariado que garantiza puestos vitalicios. La opacidad reside en que no se publican en el BOE los méritos específicos ni la puntuación frente a otros candidatos, manteniendo el proceso dentro de una burbuja académica cerrada. El impacto presupuestario es de largo plazo (sueldo de nivel A1 con complementos de cátedra).",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a Ana Belén Martínez López como Catedrática en Filología Inglesa. Esto significa que ha superado el proceso de acreditación y concurso para obtener el máximo rango docente e investigador en la universidad pública, un puesto permanente pagado con fondos públicos.",
+    "resumen_tweet": "🎓 Nueva cátedra en la Univ. de Córdoba: Ana Belén Martínez López es nombrada Catedrática de Filología Inglesa. Un ascenso en la élite académica que consolida gasto público estructural. ¿Transparencia en los méritos? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Invisibilidad de la puntuación del concurso en el extracto",
+      "Endogamia potencial inherente a los sistemas de provisión internos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Belén Martínez López (estabilidad laboral y estatus)",
+        "Departamento de Filologías Inglesa y Alemana (consolidación de plaza)"
+      ],
+      "perdedores": [
+        "Tesoro público (compromiso de gasto a largo plazo)",
+        "Investigadores precarios (barreras de entrada al sistema de cátedras)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Invisibilidad de la puntuación del concurso en el extracto",
+      "Endogamia potencial inherente a los sistemas de provisión internos"
+    ]
+  },
+  "tweeted": false
+}
