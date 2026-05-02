@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9540",
+  "timestamp": "2026-05-02T13:50:18.435Z",
+  "title": "Resolución de 23 de abril de 2026, del Ayuntamiento de Olivares (Sevilla), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una convocatoria estándar de empleo público local bajo el sistema de oposición libre. Aunque el cumplimiento procedimental es alto al publicarse en tres niveles administrativos (BOP, BOJA y BOE), la fragmentación de la información obliga al ciudadano a rastrear las bases completas en el Boletín de la Provincia, dificultando el acceso directo. La convocatoria de una única plaza suele elevar el riesgo de diseño de perfil específico, aunque el sistema de oposición pura (sin concurso de méritos explícito en este extracto) reduce el margen de discrecionalidad política inicial.",
+    "resumen_ciudadano": "El Ayuntamiento de Olivares (Sevilla) abre el proceso para contratar a un administrativo de forma permanente. El acceso será mediante examen (oposición) y cualquier ciudadano que cumpla los requisitos puede presentarse. El plazo para echar la instancia es de 20 días hábiles a partir de hoy.",
+    "resumen_tweet": "📢 ¡Nueva plaza en Olivares! 🏛️ Se busca Administrativo por oposición libre. Proceso legal pero fragmentado en 3 boletines. ¡Ojo a los plazos! ⏳ 20 días para inscribirse desde hoy. #BOE #Opacidad #Transparencia #EmpleoPúblico #Sevilla",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única (riesgo de alta competitividad/discrecionalidad)",
+      "Fragmentación informativa entre BOP, BOJA y BOE",
+      "Bases detalladas no presentes en el cuerpo del extracto nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidato seleccionado (acceso a funcionariado)",
+        "Equipo de gobierno local (gestión de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores externos (por los costes de preparación para una sola plaza)",
+        "Ciudadanía (si la plaza no responde a una optimización de servicios reales)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Convocatoria de plaza única (riesgo de alta competitividad/discrecionalidad)",
+      "Fragmentación informativa entre BOP, BOJA y BOE",
+      "Bases detalladas no presentes en el cuerpo del extracto nacional"
+    ]
+  },
+  "tweeted": false
+}
