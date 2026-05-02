@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9452",
+  "timestamp": "2026-05-02T03:49:44.917Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Se audita una convocatoria de 'libre designación' para un puesto de Nivel 29 en la Subsecretaría de Igualdad. Este sistema, conocido coloquialmente como 'dedazo', permite la elección discrecional del candidato. La red flag más grave es la omisión absoluta de funciones y méritos específicos en el Anexo I de la resolución; las celdas están en blanco, lo que sugiere una plaza diseñada para un perfil ya preseleccionado, vaciando de contenido el principio de capacidad.",
+    "resumen_ciudadano": "El Ministerio de Igualdad publica una oferta de trabajo de alto nivel (Subdirector Adjunto) con un sueldo base elevado, pero no especifica qué tareas hará la persona ni qué experiencia necesita. El puesto se dará por confianza directa ('a dedo') en lugar de por un concurso de méritos abierto y transparente.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el #BOE. El Ministerio de Igualdad convoca un puesto Nivel 29 por libre designación. Lo más opaco: ¡las casillas de méritos y funciones están VACÍAS! 🧐 ¿Transparencia o traje a medida? #Opacidad #Transparencia #España 🇪🇸",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de funciones detalladas en el anexo",
+      "Ausencia de méritos específicos requeridos",
+      "Puesto de alta jerarquía (Nivel 29) sin perfil técnico definido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con conexiones políticas",
+        "Élite burocrática (Grupo A1)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin aval político",
+        "Ciudadanía (falta de meritocracia en la gestión pública)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de funciones detalladas en el anexo",
+      "Ausencia de méritos específicos requeridos",
+      "Puesto de alta jerarquía (Nivel 29) sin perfil técnico definido"
+    ]
+  },
+  "tweeted": false
+}
