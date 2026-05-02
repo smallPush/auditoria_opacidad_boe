@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9441",
+  "timestamp": "2026-05-02T03:45:06.125Z",
+  "title": "Resolución de 13 de abril de 2026, de la Universidad Jaume I, por la que se nombra Profesor Titular de Universidad a don Luis Vicente Lizán Tudela.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario de carrera tras un concurso de acceso. El proceso se ampara en la Ley Orgánica 2/2023 (LOSU). No se aprecian gastos fantasma, ya que es una plaza de plantilla presupuestada. La principal observacion es el uso de la firma por delegacion (P.D.), una practica comun que diluye la responsabilidad directa de la Rectora. El tiempo transcurrido desde la convocatoria (agosto 2025) hasta el nombramiento (abril 2026) muestra la habitual lentitud burocratica de la administracion universitaria española.",
+    "resumen_ciudadano": "La Universidad Jaume I ha nombrado oficialmente a un nuevo Profesor Titular en el area de Medicina. Este es un paso final para otorgar estabilidad laboral y estatus de funcionario a un docente que supero un concurso publico iniciado en 2025.",
+    "resumen_tweet": "🎓 Nueva plaza fija de funcionario en la Universidad Jaume I. Luis Vicente Lizan Tudela es nombrado Profesor Titular de Medicina tras 8 meses de burocracia. Transparencia procedimental aceptable. #BOE #Universidad #Castello #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Delegacion de firma (P.D.) de la Rectora en el Vicerrector",
+      "Dilacion temporal de 8 meses entre convocatoria y resolucion",
+      "Ausencia de publicacion de baremos comparativos en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Vicente Lizan Tudela (estabilidad laboral y estatus de funcionario)",
+        "Unidad Predepartamental de Medicina (consolidacion de personal)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Personal docente investigador precario (frente a la escasa oferta de plazas fijas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Delegacion de firma (P.D.) de la Rectora en el Vicerrector",
+      "Dilacion temporal de 8 meses entre convocatoria y resolucion",
+      "Ausencia de publicacion de baremos comparativos en el extracto"
+    ]
+  },
+  "tweeted": false
+}
