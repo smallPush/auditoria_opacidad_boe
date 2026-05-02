@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9527",
+  "timestamp": "2026-05-02T13:42:59.608Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que, en ejecución de sentencia, se resuelve el concurso general, convocado por Resolución de 3 de noviembre de 2025, en el Organismo Estatal Inspección de Trabajo y Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución no es un acto administrativo ordinario, sino una 'ejecución de sentencia'. Esto implica que el proceso original de noviembre de 2025 fue impugnado y un juez detectó irregularidades o falta de legalidad, obligando al Ministerio de Trabajo a rectificar. La opacidad reside en que no se explican los motivos de la sentencia ni los fallos previos de la administración que derivaron en este litigio judicial pagado con recursos públicos.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha tenido que corregir el reparto de plazas en la Inspección de Trabajo porque un tribunal anuló o modificó el concurso original. Se listan los funcionarios que cambian de puesto, muchos de ellos moviéndose dentro de Galicia o desde Madrid, tras una batalla legal interna.",
+    "resumen_tweet": "⚖️ ¡Varapalo judicial en el #BOE! El Ministerio de Trabajo se ve obligado a ejecutar una sentencia para corregir el concurso de la Inspección de Trabajo. La mala gestión previa nos cuesta tiempo y recursos. 🏛️📉 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia (proceso judicializado)",
+      "Rectificación de actos administrativos previos",
+      "Costes ocultos en litigiosidad de recursos humanos",
+      "Posible arbitrariedad en la valoración inicial de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios recurrentes que obtuvieron el amparo judicial",
+        "Sindicatos o colectivos que impugnaron la resolución original",
+        "Poder Judicial como garante frente a la administración"
+      ],
+      "perdedores": [
+        "Gestores de RRHH del Ministerio de Trabajo",
+        "Contribuyentes (por el coste de la demora y el proceso judicial)",
+        "Candidatos que pierden su plaza tras la nueva baremación"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Ejecución de sentencia (proceso judicializado)",
+      "Rectificación de actos administrativos previos",
+      "Costes ocultos en litigiosidad de recursos humanos",
+      "Posible arbitrariedad en la valoración inicial de méritos"
+    ]
+  },
+  "tweeted": false
+}
