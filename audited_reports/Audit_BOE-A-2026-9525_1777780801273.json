@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9525",
+  "timestamp": "2026-05-03T04:00:01.273Z",
+  "title": "Decreto-ley 1/2026, de 1 de abril, por el que se adoptan medidas extraordinarias y urgentes para paliar la crisis económica producida por los efectos de la guerra en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Decreto-ley utiliza la inestabilidad en Oriente Medio como catalizador para una relajación sistémica de los controles administrativos en las Illes Balears. Destaca la 'flexibilización' en la gestión de créditos (Disposición Adicional Sexta) y la 'agilización' de subvenciones, términos que habitualmente enmascaran la reducción de fiscalización previa. La posibilidad de modificar materiales en contratos públicos alegando funcionalidad abre la puerta a sobrecostes o pérdida de calidad en la obra pública bajo un marco de discrecionalidad técnica.",
+    "resumen_ciudadano": "Baleares aprueba ayudas urgentes por la crisis energética y de suministros. Incluye deducciones fiscales por hipotecas variables y un aumento salarial del 1,5% para funcionarios. Sin embargo, la ley permite cambiar condiciones de contratos de obras y acelera la entrega de subvenciones reduciendo los pasos de control habituales, lo que eleva el riesgo de adjudicaciones poco claras.",
+    "resumen_tweet": "🚨 Baleares usa la crisis en Oriente Medio para relajar controles en el gasto público. Menos burocracia para subvenciones y vía libre para modificar contratos de obras. ¿Ayuda urgente o pérdida de control? 🧐📉 #BOE #Opacidad #Transparencia #Baleares",
+    "banderas_red_flags": [
+      "Flexibilización de la gestión de créditos presupuestarios (articulado opaco sobre destino final)",
+      "Modificación de materiales en contratos públicos bajo criterios de urgencia",
+      "Agilización de subvenciones mediante reducción de plazos y trámites de fiscalización",
+      "Dependencia de un 'marco de compatibilidad estatal' aún no definido para la efectividad de las ayudas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes constructoras (por revisión de precios y materiales)",
+        "Sector público (incremento retributivo del 1,5%)",
+        "Propietarios de viviendas con hipotecas variables (deducción IRPF)",
+        "Sector turístico (blindaje de imagen como destino seguro)"
+      ],
+      "perdedores": [
+        "Inquilinos y clases bajas (excluidos de las deducciones fiscales por vivienda)",
+        "Pequeños licitadores (con menos capacidad de maniobra ante cambios en pliegos)",
+        "Transparencia administrativa (por la vía de la urgencia y flexibilización de controles)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Decreto-ley de medidas extraordinarias económicas",
+    "banderas_rojas": [
+      "Flexibilización de la gestión de créditos presupuestarios (articulado opaco sobre destino final)",
+      "Modificación de materiales en contratos públicos bajo criterios de urgencia",
+      "Agilización de subvenciones mediante reducción de plazos y trámites de fiscalización",
+      "Dependencia de un 'marco de compatibilidad estatal' aún no definido para la efectividad de las ayudas"
+    ]
+  },
+  "tweeted": false
+}
