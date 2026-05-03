@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9526",
+  "timestamp": "2026-05-03T04:04:35.753Z",
+  "title": "Resolución de 8 de abril de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 19 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución del concurso del Ministerio de Trabajo muestra una tendencia a la 'endogamia administrativa'. Gran parte de los adjudicatarios (como se observa en los casos I/1, I/2, I/3, I/6, I/7, I/8, I/9, I/10 e I/16) ya ocupaban exactamente el mismo puesto que se les ha 'adjudicado' formalmente, lo que indica un proceso de consolidación de situaciones previas más que una movilidad real basada en el mérito abierto. Resulta preocupante que plazas en unidades críticas como el Gabinete de la Secretaría de Estado o la S.G. de Programación del Fondo Social Europeo queden desiertas, sugiriendo una falta de atractivo o requisitos demasiado específicos que bloquean la gestión de fondos públicos.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha finalizado el reparto de puestos de trabajo entre sus funcionarios. En la práctica, la mayoría de los trabajadores se quedan donde estaban, oficializando su plaza. Lo más destacable es que varios puestos importantes para gestionar dinero europeo y asesorar a altos cargos han quedado vacíos porque nadie ha cumplido los requisitos o no ha habido interesados.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El Ministerio de Trabajo 'mueve' sus fichas, pero la mayoría se queda donde estaba. Alta tasa de autoadjudicación y plazas clave para gestionar fondos europeos quedan DESIERTAS. ¿Falta de eficiencia o burocracia interna? 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de consolidación (el funcionario ya ocupaba el puesto de cese)",
+      "Plazas desiertas en áreas de gestión de Fondos Europeos",
+      "Puestos de Gabinete de Secretaría de Estado sin cubrir",
+      "Retraso de 6 meses entre la convocatoria y la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con plaza consolidada de facto",
+        "Personal del Cuerpo General Administrativo (C1/C2)"
+      ],
+      "perdedores": [
+        "Movilidad interministerial real (estancamiento)",
+        "Unidad Administradora del Fondo Social Europeo (vacantes)",
+        "Ciudadanía (por la posible ralentización de la gestión de fondos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de consolidación (el funcionario ya ocupaba el puesto de cese)",
+      "Plazas desiertas en áreas de gestión de Fondos Europeos",
+      "Puestos de Gabinete de Secretaría de Estado sin cubrir",
+      "Retraso de 6 meses entre la convocatoria y la resolución"
+    ]
+  },
+  "tweeted": false
+}
