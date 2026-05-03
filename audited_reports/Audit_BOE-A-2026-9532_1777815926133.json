@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9532",
+  "timestamp": "2026-05-03T13:45:26.133Z",
+  "title": "Resolución de 22 de abril de 2026, del Ayuntamiento de Villarrobledo (Albacete), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución se limita a una remisión externa a boletines provinciales, lo que fragmenta la información y dificulta la fiscalización inmediata por parte del ciudadano. La existencia de una rectificación de bases apenas una semana antes de la publicación en el BOE es una señal de alerta sobre posibles errores de gestión o ajustes técnicos de última hora en los criterios de selección, algo habitual en administraciones locales para moldear perfiles específicos sin dar explicaciones en el diario nacional.",
+    "resumen_ciudadano": "El Ayuntamiento de Villarrobledo (Albacete) abre convocatoria para 3 plazas de Policía Local por oposición libre. Los interesados tienen 20 días hábiles para inscribirse, pero deben consultar el Boletín Provincial de Albacete para conocer los requisitos detallados, ya que el BOE no los incluye.",
+    "resumen_tweet": "🚨 ¡Alerta en Villarrobledo! Convocadas 3 plazas de Policía Local. Ojo: las bases fueron rectificadas poco antes de llegar al #BOE. La transparencia local se diluye entre boletines provinciales. 👮‍♂️📄 #Opacidad #Transparencia #Albacete #EmpleoPublico",
+    "banderas_red_flags": [
+      "Rectificación de bases previa a la publicación nacional",
+      "Falta de detalle sobre los requisitos de acceso en el texto principal",
+      "Fragmentación de la información administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Academias de preparación de oposiciones",
+        "Ayuntamiento de Villarrobledo (ampliación de plantilla)",
+        "Candidatos locales con acceso previo a la información provincial"
+      ],
+      "perdedores": [
+        "Opositores foráneos con menos tiempo de reacción ante rectificaciones",
+        "Ciudadanos que exigen máxima claridad presupuestaria en el BOE",
+        "Contribuyentes (compromiso de gasto estructural de por vida)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público / Seguridad",
+    "banderas_rojas": [
+      "Rectificación de bases previa a la publicación nacional",
+      "Falta de detalle sobre los requisitos de acceso en el texto principal",
+      "Fragmentación de la información administrativa"
+    ]
+  },
+  "tweeted": false
+}
