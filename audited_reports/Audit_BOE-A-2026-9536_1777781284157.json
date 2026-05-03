@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9536",
+  "timestamp": "2026-05-03T04:08:04.157Z",
+  "title": "Resolución de 22 de abril de 2026, del Cabildo Insular de Gran Canaria (Las Palmas), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La convocatoria se disfraza de transparencia publicándose en el BOE, pero la realidad es que el acceso está blindado al ser exclusivamente de 'promoción interna'. El sistema de concurso-oposición para una sola plaza de técnico superior (Biología) suele estar diseñado para consolidar trayectorias internas previas, limitando la entrada de nuevo talento científico externo a la administración insular.",
+    "resumen_ciudadano": "El Cabildo de Gran Canaria ha convocado una plaza de biólogo/a de alto nivel, pero solo pueden presentarse personas que ya sean funcionarios del propio Cabildo. Aunque es un procedimiento legal, excluye totalmente a cualquier graduado externo que busque empleo público en la isla.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! El Cabildo de Gran Canaria convoca plaza de Biólogo/a, pero SOLO para personal interno. Puertas cerradas al talento joven externo. ¿Transparencia o blindaje de plazas? 🧐🔍 #Opacidad #EmpleoPublico #GranCanaria",
+    "banderas_red_flags": [
+      "Acceso restringido (Promoción interna)",
+      "Remisión a bases externas en boletín provincial (BOP)",
+      "Sistema de concurso-oposición (fase de méritos subjetiva)",
+      "Convocatoria de plaza única"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Cabildo de Gran Canaria",
+        "Sindicatos con acuerdos de promoción interna"
+      ],
+      "perdedores": [
+        "Graduados en Biología desempleados",
+        "Talento científico externo",
+        "Contribuyentes (por falta de competencia abierta)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Acceso restringido (Promoción interna)",
+      "Remisión a bases externas en boletín provincial (BOP)",
+      "Sistema de concurso-oposición (fase de méritos subjetiva)",
+      "Convocatoria de plaza única"
+    ]
+  },
+  "tweeted": false
+}
