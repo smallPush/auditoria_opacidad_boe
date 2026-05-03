@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9530",
+  "timestamp": "2026-05-03T13:44:09.123Z",
+  "title": "Resolución de 22 de abril de 2026, de la Diputación Provincial de Valencia/València, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria se realiza bajo el sistema de 'concurso', lo que implica una valoracion de meritos sin examen previo. Esta modalidad suele utilizarse para la estabilizacion de personal interino, lo que puede limitar la igualdad de oportunidades para candidatos externos. La informacion critica sobre la baremacion se oculta tras una remision al Boletin Oficial de la Provincia (BOP), dificultando el control ciudadano desde el BOE.",
+    "resumen_ciudadano": "La Diputacion de Valencia ofrece una plaza de Tecnico auxiliar de deportes. El proceso se hara evaluando solo los meritos de los candidatos, con un plazo de 15 dias para inscribirse. Al no haber examen, el proceso beneficia a quienes ya tienen experiencia previa en esta administracion.",
+    "resumen_tweet": "⚠️ ¡Ojo al dato! La Diputacion de Valencia lanza plaza de Tecnico de Deportes por 'concurso' (sin examen). El BOE oculta los detalles remitiendo al BOP. ¿Consolidacion a medida? 🧐 #BOE #Opacidad #Transparencia #Enchufismo",
+    "banderas_red_flags": [
+      "Sistema de concurso puro sin oposicion",
+      "Opacidad en los criterios de baremacion en el texto del BOE",
+      "Plazo de inscripcion breve para una convocatoria publica",
+      "Remision a boletines de menor jerarquia para consultar las bases"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antiguedad",
+        "Candidatos con red de contactos en la administracion local"
+      ],
+      "perdedores": [
+        "Jovenes licenciados sin experiencia previa",
+        "Opositores libres fuera de la Comunidad Valenciana",
+        "Principio de igualdad, merito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico / Administracion Local",
+    "banderas_rojas": [
+      "Sistema de concurso puro sin oposicion",
+      "Opacidad en los criterios de baremacion en el texto del BOE",
+      "Plazo de inscripcion breve para una convocatoria publica",
+      "Remision a boletines de menor jerarquia para consultar las bases"
+    ]
+  },
+  "tweeted": false
+}
