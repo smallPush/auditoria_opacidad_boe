@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9535",
+  "timestamp": "2026-05-03T13:47:27.838Z",
+  "title": "Resolución de 22 de abril de 2026, del Ayuntamiento de Langreo (Asturias), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa un procedimiento administrativo estándar de convocatoria de empleo público que, no obstante, incurre en la habitual 'opacidad por remisión'. Al no incluir las bases íntegras en el BOE y redirigir al BOPA, se imponen fricciones al ciudadano. El uso del sistema de 'oposición' pura en lugar de 'concurso-oposición' elimina el valor de la experiencia previa, favoreciendo a perfiles con capacidad económica para el estudio intensivo frente a trabajadores con experiencia que no pueden permitirse la dedicación exclusiva.",
+    "resumen_ciudadano": "El Ayuntamiento de Langreo (Asturias) convoca 3 plazas de Técnico/a de Administración General (2 por turno libre y 1 reservada para personas con discapacidad). El sistema de acceso será mediante examen (oposición) y hay un plazo de 20 días naturales para presentar solicitudes.",
+    "resumen_tweet": "⚠️ El Ayto. de Langreo abre 3 plazas de técnico vía oposición. ¿Transparencia? El BOE solo da el aviso, las bases se ocultan en el BOPA. Un sistema que premia el tiempo de estudio sobre la experiencia laboral. #BOE #Opacidad #Transparencia #Langreo 🏛️⚖️",
+    "banderas_red_flags": [
+      "Opacidad por remisión externa (BOPA)",
+      "Ausencia de desglose presupuestario por plaza",
+      "Fomento de la brecha de clase mediante oposición pura"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con alto nivel adquisitivo para preparación exclusiva",
+        "Academias de formación de funcionarios",
+        "Administración Local (renovación de cuadros)"
+      ],
+      "perdedores": [
+        "Personal interino con experiencia no puntuable",
+        "Aspirantes de clase trabajadora sin tiempo para el estudio",
+        "Transparencia informativa directa"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Opacidad por remisión externa (BOPA)",
+      "Ausencia de desglose presupuestario por plaza",
+      "Fomento de la brecha de clase mediante oposición pura"
+    ]
+  },
+  "tweeted": false
+}
