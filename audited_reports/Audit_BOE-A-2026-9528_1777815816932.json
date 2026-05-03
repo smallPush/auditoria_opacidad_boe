@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9528",
+  "timestamp": "2026-05-03T13:43:36.932Z",
+  "title": "Resolución de 24 de abril de 2026, de la Dirección de la Agencia Estatal Comisión Española para la Lucha Antidopaje en el Deporte, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución presenta una estructura clásica de 'libre designación' camuflada bajo principios de mérito y capacidad. El punto más crítico es la discrecionalidad técnica: aunque se mencionan criterios de idoneidad, el nombramiento final depende de la propuesta directa del Director de la Agencia a un Consejo Rector, con una comisión de selección puramente interna y sin observadores externos. El plazo de 10 días naturales es excesivamente breve, lo que suele indicar procesos diseñados para candidatos que ya conocen la vacante de antemano. Además, el componente retributivo incluye un 'complemento variable' de 17.511,36€ sin objetivos públicos definidos, lo que puede interpretarse como un gasto discrecional encubierto.",
+    "resumen_ciudadano": "Se convoca una plaza de Jefe de Departamento en la Agencia Antidopaje (CELAD) con un sueldo total de 80.394€ anuales. El proceso de selección es de 'libre designación', lo que en la práctica significa que la dirección elige a dedo al candidato. Se exigen 5 años de experiencia y titulación superior, pero el corto plazo de solicitud (10 días) dificulta la competencia real de aspirantes externos.",
+    "resumen_tweet": "⚖️ ¿Mérito o dedo? La @CELAD_es convoca puesto directivo por 80.394€/año. Sistema de 'libre designación' y solo 10 días para solicitarlo. ¿Transparencia o traje a medida para alguien de la casa? 👔🚫 #BOE #Opacidad #Transparencia #Enchufe",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Complemento variable de 17.511€ sin métricas de rendimiento públicas",
+      "Comisión de selección compuesta únicamente por cargos internos de la propia Agencia",
+      "Uso del régimen laboral de alta dirección para un puesto técnico-administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La dirección de la Agencia (mantiene control total sobre el nombramiento)",
+        "El candidato 'de confianza' (acceso a un salario de 80k€ con blindaje de alta dirección)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores pero sin afinidad política/personal",
+        "Ciudadanía (opacidad en el pago de incentivos variables)",
+        "Transparencia administrativa (proceso acelerado y cerrado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Alta Dirección",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Complemento variable de 17.511€ sin métricas de rendimiento públicas",
+      "Comisión de selección compuesta únicamente por cargos internos de la propia Agencia",
+      "Uso del régimen laboral de alta dirección para un puesto técnico-administrativo"
+    ]
+  },
+  "tweeted": false
+}
