@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9595",
+  "timestamp": "2026-05-04T14:03:50.227Z",
+  "title": "Real Decreto 360/2026, de 22 de abril, por el que se nombra Presidente del Tribunal de Instancia de Torrejón de Ardoz (Madrid) al Magistrado don José Ángel Rollón Bragado.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "El documento formaliza un nombramiento judicial basado en una elección interna de la Junta de Jueces. Aunque cita legalidad (LOPJ), carece de desglose de méritos comparativos. Se observa la perpetuación de estructuras jerárquicas donde la deliberación sobre la idoneidad queda oculta al escrutinio ciudadano, limitándose a una ratificación administrativa de decisiones tomadas en círculos cerrados.",
+    "resumen_ciudadano": "Se ha designado a José Ángel Rollón Bragado como nuevo Presidente del Tribunal de Instancia en Torrejón de Ardoz. Es un ascenso interno decidido por otros jueces, lo que garantiza la continuidad administrativa pero no ofrece visibilidad sobre por qué este candidato fue preferido sobre otros.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la cúpula judicial de Torrejón de Ardoz. José Ángel Rollón asume la presidencia por elección interna. ¿Y los méritos? La opacidad en la selección de cargos judiciales sigue siendo tarea pendiente. #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de exposición de motivos o méritos",
+      "Opacidad en la deliberación de la Junta de Jueces",
+      "Ratificación burocrática de decisiones corporativistas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Ángel Rollón Bragado (promoción profesional)",
+        "Consejo General del Poder Judicial (mantenimiento de su potestad de nombramiento)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de los criterios de idoneidad)",
+        "Transparencia institucional (procedimiento de 'caja negra')"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Ausencia de exposición de motivos o méritos",
+      "Opacidad en la deliberación de la Junta de Jueces",
+      "Ratificación burocrática de decisiones corporativistas"
+    ]
+  },
+  "tweeted": false
+}
