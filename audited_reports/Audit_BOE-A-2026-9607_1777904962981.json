@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9607",
+  "timestamp": "2026-05-04T14:29:22.981Z",
+  "title": "Orden ECM/422/2026, de 17 de abril, por la que se dispone el cese y nombramiento de vocales en la Junta Consultiva de Seguros y Fondos de Pensiones.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un proceso de 'captura del regulador' donde la Asociación de Instituciones de Inversión Colectiva y Fondos de Pensiones (INVERCO), un lobby privado, tiene la potestad de designar directamente a sus representantes en un órgano consultivo público. Aunque legal, esta práctica diluye la independencia del Estado. Además, existe un retroceso en la representación de género al sustituir a una mujer por un hombre en un sector tradicionalmente masculinizado.",
+    "resumen_ciudadano": "El Gobierno ha cambiado a uno de los vocales que asesora sobre seguros y pensiones. Lo relevante es que el nombramiento no lo decide el Ministerio por méritos públicos, sino que lo solicita directamente la patronal de los fondos de pensiones (INVERCO), permitiendo que el sector regulado elija a sus propios interlocutores ante la administración.",
+    "resumen_tweet": "🚨 ¿Quién vigila tus pensiones? El Gobierno nombra a un nuevo vocal a propuesta de la patronal INVERCO. El lobby financiero elige directamente a sus 'asesores' en el Ministerio. Menos paridad y más influencia privada. 📉💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Designación directa por parte de un lobby sectorial (INVERCO)",
+      "Pérdida de paridad de género en el cargo",
+      "Ausencia de criterios de mérito y capacidad detallados en el texto",
+      "Endogamia entre el sector privado y los órganos de supervisión pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "INVERCO (mantiene control sobre la interlocución)",
+        "Entidades gestoras de fondos de pensiones",
+        "David de Miguel Rato"
+      ],
+      "perdedores": [
+        "Independencia de la Junta Consultiva",
+        "Representación femenina en altos cargos financieros",
+        "Ciudadanía (por la opacidad en los criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Gestión de Fondos de Pensiones",
+    "banderas_rojas": [
+      "Designación directa por parte de un lobby sectorial (INVERCO)",
+      "Pérdida de paridad de género en el cargo",
+      "Ausencia de criterios de mérito y capacidad detallados en el texto",
+      "Endogamia entre el sector privado y los órganos de supervisión pública"
+    ]
+  },
+  "tweeted": false
+}
