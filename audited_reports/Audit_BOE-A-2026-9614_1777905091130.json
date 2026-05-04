@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9614",
+  "timestamp": "2026-05-04T14:31:31.130Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de La Rioja, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolucion es un acto administrativo estandar de nombramiento de personal funcionario. Se observa una transparencia nominal alta al identificar a las personas y las plazas. Sin embargo, existe una desconexion presupuestaria: no se menciona el impacto economico en el Capitulo 1 de la Universidad de La Rioja. Es relevante destacar que, en una fecha proyectada como 2026, se sigue citando la Ley Organica 6/2001, lo que podria sugerir un periodo de transicion normativa prolongado o una inercia burocratica en las plantillas juridicas de la institucion.",
+    "resumen_ciudadano": "La Universidad de La Rioja ha formalizado el nombramiento de tres nuevas profesoras titulares en las areas de Tecnologia de los Alimentos y Didactica de la Matematica tras superar el proceso de concurso.",
+    "resumen_tweet": "🎓 La Universidad de La Rioja nombra 3 nuevas Profesoras Titulares. Paso adelante en la estabilizacion docente, pero con opacidad en el coste real de estas plazas para el erario publico. 🧐 #BOE #Opacidad #Transparencia #Universidad #LaRioja",
+    "banderas_red_flags": [
+      "Falta de informacion sobre el coste salarial anual de las plazas",
+      "Uso de referencias normativas antiguas (LOU) frente a la nueva LOSU",
+      "Invisibilidad de las actas de puntuacion en el extracto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Leticia Martinez Lapuente",
+        "Lucia Gonzalez Arenzana",
+        "Lara Orcos Palma",
+        "Universidad de La Rioja (estabilizacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Ciudadania (por falta de desglose de inversion publica en personal)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Recursos Humanos y Nombramientos Academicos",
+    "banderas_rojas": [
+      "Falta de informacion sobre el coste salarial anual de las plazas",
+      "Uso de referencias normativas antiguas (LOU) frente a la nueva LOSU",
+      "Invisibilidad de las actas de puntuacion en el extracto publicado"
+    ]
+  },
+  "tweeted": false
+}
