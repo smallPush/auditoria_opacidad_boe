@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9612",
+  "timestamp": "2026-05-04T14:32:25.466Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Raúl Berenguer Betrián.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Nombramiento administrativo reglado que cumple con la legalidad formal bajo la LOSU. La opacidad no reside en el gasto directo, sino en la fase previa de evaluacion por comisiones delegadas, un entorno tradicionalmente propenso a la endogamia academica donde los meritos especificos frente a otros candidatos no son publicos. Se consolida un gasto estructural de personal funcionario sin mencion al impacto presupuestario anual.",
+    "resumen_ciudadano": "La Universidad de Alicante nombra oficialmente a un nuevo catedratico en el area de Quimica Fisica tras superar el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nuevo catedratico en la Univ. de Alicante segun el #BOE. Nombramiento tecnico que consolida plazas publicas. La transparencia formal se cumple, pero el proceso de seleccion queda bajo llave administrativa. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de baremacion de la comision",
+      "Ausencia de impacto economico desglosado",
+      "Dificultad de fiscalizacion externa de la idoneidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Raul Berenguer Betrian",
+        "Universidad de Alicante"
+      ],
+      "perdedores": [
+        "Candidatos alternativos",
+        "Criterios de meritocracia abierta"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal de Universidades",
+    "banderas_rojas": [
+      "Opacidad en los criterios de baremacion de la comision",
+      "Ausencia de impacto economico desglosado",
+      "Dificultad de fiscalizacion externa de la idoneidad"
+    ]
+  },
+  "tweeted": false
+}
