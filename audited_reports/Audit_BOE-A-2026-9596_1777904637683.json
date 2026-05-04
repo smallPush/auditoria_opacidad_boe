@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9596",
+  "timestamp": "2026-05-04T14:23:57.683Z",
+  "title": "Real Decreto 356/2026, de 22 de abril, por el que se destina a los Magistrados y Magistradas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento presenta un masivo 'baile de sillas' en la cúpula judicial española. Se observa un patrón recurrente de plazas ocupadas de forma interina o accidental porque los titulares originales se encuentran en 'servicios especiales' (generalmente cargos políticos o administrativos). Esto genera una red de interinidades en órganos críticos como la Audiencia Nacional y Tribunales Superiores. No se detallan los costes de traslados, dietas ni los méritos específicos que han motivado cada movimiento, limitándose a citar un acuerdo de la Comisión Permanente del CGPJ.",
+    "resumen_ciudadano": "Se oficializa el traslado de 82 magistrados y magistradas a nuevos destinos en Audiencias Provinciales y Tribunales Superiores de Justicia. Destacan los nombramientos de presidentes de sección y plazas de refuerzo en materia de violencia sobre la mujer y mercantil. Muchos de estos cambios son temporales para cubrir a jueces que están trabajando fuera de los juzgados en otros cargos públicos.",
+    "resumen_tweet": "⚖️ ¡Gran rotación en la Justicia! El #BOE publica el destino de 82 magistrados. Preocupa la cantidad de plazas en 'servicios especiales' y la interinidad en puestos clave. ¿Justicia estable o puzle de influencias? 🧩 #Transparencia #PoderJudicial",
+    "banderas_red_flags": [
+      "Alta tasa de magistrados en servicios especiales",
+      "Opacidad en los costes económicos de la reestructuración",
+      "Interinidad en la Sala Penal de la Audiencia Nacional",
+      "Puertas giratorias implícitas entre judicatura y política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados que acceden a Presidencias de Sección",
+        "Perfiles que consolidan plazas en Madrid y Barcelona",
+        "Jueces que mantienen su plaza en reserva mientras ocupan cargos políticos"
+      ],
+      "perdedores": [
+        "Ciudadanía, por la falta de continuidad y estabilidad en los juzgados",
+        "Transparencia presupuestaria (dietas y mudanzas no desglosadas)",
+        "Zonas rurales o tribunales de instancia que pierden efectivos hacia órganos superiores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y traslados",
+    "banderas_rojas": [
+      "Alta tasa de magistrados en servicios especiales",
+      "Opacidad en los costes económicos de la reestructuración",
+      "Interinidad en la Sala Penal de la Audiencia Nacional",
+      "Puertas giratorias implícitas entre judicatura y política"
+    ]
+  },
+  "tweeted": false
+}
