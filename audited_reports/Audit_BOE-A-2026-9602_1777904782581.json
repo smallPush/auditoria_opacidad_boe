@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9602",
+  "timestamp": "2026-05-04T14:26:22.581Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 3 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de secretaría técnica en gabinetes de alto nivel es una práctica legal pero opaca que favorece la discrecionalidad frente al mérito. El hecho de que puestos queden 'desiertos' tras una convocatoria sugiere una posible preselección fallida o una falta de idoneidad bajo criterios no publicados. Además, se observa una endogamia administrativa donde los adjudicatarios ya pertenecían al mismo ministerio, consolidando estructuras cerradas.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha adjudicado a dedo (libre designación) varios puestos de secretaría para sus gabinetes de mando. De los cuatro puestos analizados, dos se han quedado vacíos sin explicación y los otros dos han sido para personas que ya trabajaban allí. Este sistema permite elegir al personal por confianza personal y no estrictamente por examen público.",
+    "resumen_tweet": "⚠️ ¿Transparencia o dedazo? El Ministerio de Exteriores resuelve sus puestos de confianza: 2 vacantes y 2 adjudicados a personal de la casa. La 'libre designación' sigue imperando en los gabinetes. 🏛️💼 #BOE #Opacidad #Transparencia #Funcionarado",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puestos declarados desiertos sin justificación técnica",
+      "Endogamia institucional: adjudicatarios internos",
+      "Opacidad en los criterios de idoneidad para el Gabinete del Ministro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos (que eligen a su personal de confianza)",
+        "Lorena Pérez Ramos",
+        "Ana María Albentosa López"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza",
+        "Criterio de meritocracia pura",
+        "Ciudadanía (por falta de competencia abierta en el sector público)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puestos declarados desiertos sin justificación técnica",
+      "Endogamia institucional: adjudicatarios internos",
+      "Opacidad en los criterios de idoneidad para el Gabinete del Ministro"
+    ]
+  },
+  "tweeted": false
+}
