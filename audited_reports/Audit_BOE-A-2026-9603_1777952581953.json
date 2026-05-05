@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9603",
+  "timestamp": "2026-05-05T03:43:01.953Z",
+  "title": "Resolución 430/38230/2026, de 24 de abril, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución 430/38023/2026, de 22 de enero.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución del concurso específico en el Ministerio de Defensa revela una preocupante tasa de vacantes estructurales. De los 14 puestos analizados en este fragmento, 10 han quedado desiertos o sin adjudicar (71%). Esta 'opacidad por omisión' sugiere una falta de atractivo en la carrera civil dentro de Defensa o una rigidez burocrática en los requisitos. Además, se observa una centralización total en Madrid, lo que profundiza la brecha administrativa con la periferia. No hay gastos fantasma directos, pero sí una ineficiencia en la gestión del capital humano.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha publicado quiénes ocuparán nuevos puestos de trabajo, pero la mayoría de las plazas han quedado vacías. Casi todos los movimientos son para jefaturas en Madrid, dejando claro que el poder administrativo no se reparte por el territorio español.",
+    "resumen_tweet": "🚨 El Ministerio de Defensa deja vacantes el 70% de los puestos en su último concurso. 🏛️ Madrid centraliza los cargos mientras la gestión técnica queda bajo mínimos. ¿Falta de incentivos o burocracia bloqueada? #BOE #Opacidad #Transparencia 🧐",
+    "banderas_red_flags": [
+      "Alta tasa de puestos desiertos (71%)",
+      "Concentración geográfica absoluta en Madrid",
+      "Criterios de no adjudicación genéricos ('cualquier otra circunstancia')"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cuerpos del Estado (A1/A2) con movilidad a Madrid",
+        "Estructura centralista del Ministerio"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (plazas sin cubrir)",
+        "Cuerpos técnicos de niveles inferiores (C1/C2)",
+        "Candidatos fuera de la capital"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Personal Público",
+    "banderas_rojas": [
+      "Alta tasa de puestos desiertos (71%)",
+      "Concentración geográfica absoluta en Madrid",
+      "Criterios de no adjudicación genéricos ('cualquier otra circunstancia')"
+    ]
+  },
+  "tweeted": false
+}
