@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9711",
+  "timestamp": "2026-05-05T14:20:24.043Z",
+  "title": "Resolución de 28 de abril de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución de la AEAT sobre libre designación revela una práctica de 'puerta giratoria interna'. Gran parte de los adjudicatarios ya ocupaban el mismo puesto del que ahora son oficialmente 'nombrados', lo que sugiere un proceso puramente administrativo para blindar posiciones de confianza. El sistema de libre designación, aunque legal, esquiva el concurso de méritos, permitiendo la discrecionalidad en niveles altos (26 a 29) con complementos específicos que superan los 56.000 euros anuales.",
+    "resumen_ciudadano": "La Agencia Tributaria ha formalizado el nombramiento de altos cargos en Madrid y Andalucía. Estos puestos, elegidos 'a dedo' por el sistema de libre designación, conllevan salarios con complementos muy elevados. La mayoría de los nombrados ya estaban realizando esas funciones, lo que indica una consolidación de la cúpula actual sin apertura a nuevos candidatos por mérito competitivo.",
+    "resumen_tweet": "🕵️‍♂️ Hacienda blinda a su cúpula: adjudicaciones 'a dedo' en la AEAT con complementos de hasta 56.713€. La libre designación prima la confianza sobre el mérito en los niveles 26-29. ¿Transparencia o endogamia? 💸 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso sistemático de Libre Designación para puestos técnicos de alto nivel",
+      "Circularidad: el puesto de procedencia es idéntico al adjudicado en múltiples casos",
+      "Elevada cuantía de los complementos específicos sin desglose de objetivos",
+      "Falta de publicidad sobre los criterios de idoneidad específicos para cada candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo de Inspectores (A0011)",
+        "Cargos de confianza técnica en la Delegación de Grandes Contribuyentes",
+        "Estructura administrativa de la AEAT en Madrid y Andalucía"
+      ],
+      "perdedores": [
+        "Funcionarios de base con aspiraciones de promoción por mérito",
+        "Ciudadanos que exigen procesos de selección competitivos y abiertos",
+        "Principio de igualdad en el acceso a la función pública superior"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (Principalmente Madrid y Andalucía)",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Uso sistemático de Libre Designación para puestos técnicos de alto nivel",
+      "Circularidad: el puesto de procedencia es idéntico al adjudicado en múltiples casos",
+      "Elevada cuantía de los complementos específicos sin desglose de objetivos",
+      "Falta de publicidad sobre los criterios de idoneidad específicos para cada candidato"
+    ]
+  },
+  "tweeted": false
+}
