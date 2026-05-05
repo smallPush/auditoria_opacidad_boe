@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9723",
+  "timestamp": "2026-05-05T14:24:25.986Z",
+  "title": "Resolución de 20 de abril de 2026, de la Consejería de Hacienda, Justicia y Asuntos Europeos, por la que se resuelve definitivamente el concurso de traslados entre personal funcionario de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia, convocado por Resolución de 27 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución publica un anexo detallado con nombres y puntuaciones, existe opacidad en los criterios de exclusión, remitiendo a los afectados a una web externa del Ministerio. El punto cuarto es crítico: permite la 'amortización' (eliminación) de plazas desiertas por 'necesidades del servicio', lo que en la práctica supone un mecanismo de recorte de plantilla pública encubierto. Además, la caducidad inmediata de las instancias de quienes no obtuvieron destino obliga a los funcionarios a reiniciar procesos burocráticos constantes, favoreciendo la fatiga administrativa.",
+    "resumen_ciudadano": "Se publican los resultados definitivos del traslado de funcionarios en la Administración de Justicia en Asturias (Gestión, Tramitación y Auxilio). Se establecen las fechas de cese y toma de posesión para mayo de 2026. Es relevante que las plazas que nadie ha querido podrán ser eliminadas en lugar de convocarse de nuevo, y que los sustitutos interinos perderán su empleo de forma inmediata al llegar el titular.",
+    "resumen_tweet": "⚖️ Asturias resuelve traslados en Justicia. Ojo: la resolución permite 'eliminar' plazas vacantes en vez de cubrirlas, reduciendo la plantilla judicial. El personal interino, el gran olvidado. 📉 #BOE #Opacidad #Transparencia #Justicia #Asturias",
+    "banderas_red_flags": [
+      "Amortización discrecional de plazas vacantes",
+      "Caducidad de solicitudes para futuros concursos",
+      "Remisión a enlaces externos para información sobre excluidos",
+      "Cese automático de personal interino sin medidas de transición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con alta antigüedad (ej. Valdés Fernández con 60 puntos)",
+        "Administración Regional (capacidad para amortizar/eliminar plazas desiertas)"
+      ],
+      "perdedores": [
+        "Personal interino (cese inmediato tras la toma de posesión del titular)",
+        "Candidatos con baja puntuación (sus solicitudes caducan y no sirven para el futuro)",
+        "Usuarios de la justicia en zonas rurales (riesgo de amortización de plazas en juzgados pequeños)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Resolución de Recursos Humanos / Administración de Justicia",
+    "banderas_rojas": [
+      "Amortización discrecional de plazas vacantes",
+      "Caducidad de solicitudes para futuros concursos",
+      "Remisión a enlaces externos para información sobre excluidos",
+      "Cese automático de personal interino sin medidas de transición"
+    ]
+  },
+  "tweeted": false
+}
