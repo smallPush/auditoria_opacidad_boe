@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-9610",
+  "timestamp": "2026-05-05T03:46:42.816Z",
+  "title": "Resolución de 20 de abril de 2026, de la Universidad Complutense de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución se limita a formalizar nombramientos de plazas ya decididas en concursos previos, un procedimiento estándar que oculta la 'cocina' de la selección académica. Aunque se publican nombres y códigos de plaza, existe un 'Gasto Fantasma' implícito: el compromiso financiero a largo plazo de estas plazas de funcionarios de carrera no se desglosa ni se vincula a presupuestos específicos en este documento. La transparencia es procedimental, pero no sustantiva respecto al coste público total o la justificación de la necesidad de estas áreas frente a otras más precarias.",
+    "resumen_ciudadano": "La Universidad Complutense de Madrid nombra oficialmente a 8 nuevos funcionarios docentes: 3 Profesores Titulares y 5 Catedráticos en áreas que van desde la Biología Celular hasta la Filosofía. Este es el paso final para otorgar plazas vitalicias a estos académicos tras superar procesos de concurso interno.",
+    "resumen_tweet": "🎓 La Complutense consolida 8 nuevas plazas vitalicias de catedráticos y titulares. Mucho nombre propio, pero ni rastro del coste total para las arcas públicas ni detalles del proceso de selección. ¿Transparencia o burocracia? 🤔 #BOE #Opacidad #UCM",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada a los nombramientos",
+      "Falta de acceso directo a las actas de evaluación de las comisiones",
+      "Uso de delegación de firma (P.D.) que aleja la responsabilidad directa del Rector"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Amalia Lamana Domínguez",
+        "Juan Ignacio Beltrán Fínez",
+        "Mercedes Martín Benito",
+        "María Luisa García Guardia",
+        "Rosa María Pardo San Gil",
+        "Raúl Arrabal Durán",
+        "Aránzazu Sánchez Muñoz",
+        "Gavin Rae (Consolidación de carrera académica y estabilidad laboral vitalicia)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (asociados y postdocs sin plazas de estabilización)",
+        "Contribuyentes (por la falta de transparencia en la cuantificación del gasto público en sueldos públicos consolidados)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada a los nombramientos",
+      "Falta de acceso directo a las actas de evaluación de las comisiones",
+      "Uso de delegación de firma (P.D.) que aleja la responsabilidad directa del Rector"
+    ]
+  },
+  "tweeted": false
+}
