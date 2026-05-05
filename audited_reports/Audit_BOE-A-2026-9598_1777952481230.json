@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9598",
+  "timestamp": "2026-05-05T03:41:21.230Z",
+  "title": "Real Decreto 358/2026, de 22 de abril, por el que se adjudica en propiedad la plaza número 1 de la Sección de lo Contencioso-Administrativo del Tribunal de Instancia de Soria al Magistrado don Carlos Ceña Nuel.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto formaliza la adjudicación de una plaza judicial en propiedad mediante una remisión genérica a la Ley Orgánica del Poder Judicial. Aunque el procedimiento es legalmente estándar, existe una opacidad intrínseca en la selección: no se detallan los méritos que fundamentan la elección de este magistrado sobre otros posibles candidatos, ni se explica el impacto de la creación o mantenimiento de esta plaza específica en el marco de la eficiencia judicial de Soria. Se perpetúa el modelo de 'caja negra' en los nombramientos del CGPJ.",
+    "resumen_ciudadano": "El Gobierno y el Consejo General del Poder Judicial han asignado definitivamente al Magistrado Carlos Ceña Nuel la plaza número 1 en el tribunal de lo Contencioso-Administrativo de Soria. Este es un trámite administrativo para cubrir una vacante permanente tras la salida del anterior titular.",
+    "resumen_tweet": "⚖️ Adjudicada en propiedad la plaza nº1 de lo Contencioso-Administrativo en Soria al Magistrado Carlos Ceña Nuel. Trámites rutinarios del CGPJ que mantienen la maquinaria judicial sin apenas escrutinio público sobre méritos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose de méritos y capacidad en el texto publicado",
+      "Falta de justificación sobre la necesidad operativa de la plaza en dicha demarcación",
+      "Automatismo burocrático que dificulta el control ciudadano sobre la carrera judicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Ceña Nuel (obtiene estabilidad en plaza propia)",
+        "Consejo General del Poder Judicial (mantiene el control de la planta judicial)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconoce los criterios de excelencia aplicados)",
+        "Candidatos alternativos (sin visibilidad pública del proceso de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Ausencia de desglose de méritos y capacidad en el texto publicado",
+      "Falta de justificación sobre la necesidad operativa de la plaza en dicha demarcación",
+      "Automatismo burocrático que dificulta el control ciudadano sobre la carrera judicial"
+    ]
+  },
+  "tweeted": false
+}
