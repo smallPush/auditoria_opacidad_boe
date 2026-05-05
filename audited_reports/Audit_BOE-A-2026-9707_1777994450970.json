@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-9707",
+  "timestamp": "2026-05-05T15:20:50.970Z",
+  "title": "Orden PJC/426/2026, de 21 de abril, por la que se nombra personal funcionario del Cuerpo Nacional de Médicos Forenses, a las personas que han superado el proceso selectivo convocado por Orden PJC/94/2024, de 31 de enero.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento tras un proceso selectivo. No se detectan partidas presupuestarias opacas, ya que el gasto se deriva de la Ley de Presupuestos para funcionarios de carrera. Se observa una notable feminización del cuerpo (aprox. 71% de las plazas adjudicadas en el anexo I son mujeres). Un punto crítico es la exclusión de dos aspirantes que ya eran funcionarios de carrera, lo que sugiere una falta de depuración previa en las listas de admitidos, generando una carga administrativa innecesaria. La valoración de lenguas cooficiales en la Comunidad Valenciana (hasta 12 puntos extra) altera significativamente la posición final en los subescalafones locales frente al escalafón general.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de 14 nuevos Médicos Forenses en diversas comunidades autónomas (Madrid, Andalucía, Cataluña, Valencia) y el Ministerio de Justicia. Se publican las notas detalladas de cada ejercicio para garantizar la limpieza del proceso, aunque se han tenido que corregir errores de inscripción de personas que ya tenían la plaza anteriormente.",
+    "resumen_tweet": "🩺 Nuevos Médicos Forenses para la Justicia española. El #BOE publica los nombramientos con un 71% de mujeres en los primeros puestos. ⚖️ Se aplican puntos por lenguas cooficiales en Valencia y Cataluña. #Transparencia #Justicia #Oposiciones",
+    "banderas_red_flags": [
+      "Exclusión de dos personas por ya ser funcionarios de carrera (ineficiencia en el filtrado inicial)",
+      "Diferencia notable de puntuación final por méritos lingüísticos en el ámbito autonómico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres profesionales de la medicina (dominio del 71% de las plazas)",
+        "Candidatos con competencia en lengua valenciana (puntuaciones adicionales de hasta 12 puntos)"
+      ],
+      "perdedores": [
+        "Aspirantes sin puntos por idiomas en C. Valenciana que pierden puestos en el subescalafón",
+        "Eficiencia administrativa (por la gestión de candidatos ya funcionarios)"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (Madrid, Andalucía, Cataluña, Comunidad Valenciana)",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Exclusión de dos personas por ya ser funcionarios de carrera (ineficiencia en el filtrado inicial)",
+      "Diferencia notable de puntuación final por méritos lingüísticos en el ámbito autonómico"
+    ]
+  },
+  "tweeted": false
+}
