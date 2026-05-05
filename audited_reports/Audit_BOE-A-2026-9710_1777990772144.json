@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9710",
+  "timestamp": "2026-05-05T14:19:32.144Z",
+  "title": "Resolución de 29 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 8 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para cubrir puestos en el Gabinete de la Presidencia del Gobierno representa una zona gris de la administración. Aunque legal, este mecanismo permite una elección discrecional basada en la 'confianza' y no estrictamente en el mérito competitivo. Resulta llamativo que dos de los tres puestos ofertados se declaren desiertos, lo que puede indicar una búsqueda de perfiles extremadamente específicos o una falta de candidatos que cumplan con los criterios subjetivos de la unidad de adscripción.",
+    "resumen_ciudadano": "La Presidencia del Gobierno ha seleccionado personal para su departamento de Protocolo. Se utiliza el dedo (libre designación) en lugar de una oposición abierta. Una persona ha sido elegida y otros dos puestos han quedado vacíos al no encontrar candidatos 'adecuados' bajo este criterio de confianza.",
+    "resumen_tweet": "🧐 ¿Meritocracia o confianza? Nueva resolución del #BOE para puestos en el Gabinete de Presidencia. Se usa la 'Libre Designación' (a dedo). 2 de 3 puestos quedan desiertos. La opacidad persiste en el corazón del poder. 🏛️💼 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos",
+      "Puestos declarados desiertos sin justificación detallada",
+      "Alta discrecionalidad en la Secretaría General de la Presidencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Muñoz Balsalobre (adjudicataria)",
+        "Gabinete de la Presidencia (mantiene control discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza política",
+        "Ciudadanía (por falta de transparencia en criterios de idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos",
+      "Puestos declarados desiertos sin justificación detallada",
+      "Alta discrecionalidad en la Secretaría General de la Presidencia"
+    ]
+  },
+  "tweeted": false
+}
