@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9806",
+  "timestamp": "2026-05-06T14:43:01.578Z",
+  "title": "Resolución de 23 de abril de 2026, de la Universidad de Córdoba, por la que se nombra Catedrática de Universidad a doña Aurora Ruiz Mezcua.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es un acto administrativo de nombramiento de personal funcionario de carrera. Aunque formalmente transparente, la opacidad reside en la desconexión entre el nombramiento y su coste presupuestario real. Se ampara en la Ley Orgánica 2/2023 (LOSU), que permite una gestión interna universitaria con escasa rendición de cuentas inmediata sobre el impacto financiero de las plazas vitalicias. El lenguaje es estrictamente técnico, limitando la comprensión ciudadana sobre los méritos específicos evaluados por la Comisión Calificadora.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a Aurora Ruiz Mezcua como Catedrática en el área de Traducción e Interpretación. Este es el paso final de un proceso de oposición iniciado en enero de 2026, otorgándole una plaza permanente en la jerarquía académica más alta.",
+    "resumen_tweet": "🎓 Nueva cátedra en la Univ. de Córdoba. Se nombra a Aurora Ruiz Mezcua en Traducción e Interpretación. Proceso reglado bajo la LOSU, pero sin rastro del coste público real de estas plazas vitalicias. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose de la partida presupuestaria asignada a la plaza",
+      "Invisibilidad de los criterios de baremación aplicados por la Comisión",
+      "Uso de lenguaje burocrático para validar la perpetuidad del cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aurora Ruiz Mezcua",
+        "Universidad de Córdoba",
+        "Cuerpo de Catedráticos"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el concurso de acceso",
+        "Ciudadanía (por desconocimiento del coste salarial total)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de funcionario docente",
+    "banderas_rojas": [
+      "Falta de desglose de la partida presupuestaria asignada a la plaza",
+      "Invisibilidad de los criterios de baremación aplicados por la Comisión",
+      "Uso de lenguaje burocrático para validar la perpetuidad del cargo"
+    ]
+  },
+  "tweeted": false
+}
