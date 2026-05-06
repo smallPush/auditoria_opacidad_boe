@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9720",
+  "timestamp": "2026-05-06T04:01:06.856Z",
+  "title": "Resolución de 20 de abril de 2026, de la Dirección General de Justicia, de la Consellería de Presidencia, Justicia y Deportes, por la que se resuelve definitivamente el concurso de traslados entre personal funcionario de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia, convocado por Resolución de 27 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución presenta los destinos adjudicados de forma clara en el anexo, existe una brecha de opacidad al remitir la lista de personal excluido y las motivaciones de las preferencias a una dirección web externa del Ministerio. Esto fragmenta la información y dificulta la auditoría ciudadana permanente. Además, el punto cuarto otorga una facultad discrecional a la Administración para 'amortizar' (eliminar) plazas desiertas en lugar de cubrirlas, lo que puede traducirse en una reducción silenciosa de la plantilla judicial bajo el pretexto de necesidades del servicio. Se observa también una transición hacia la gestión telemática que, aunque eficiente, puede generar barreras para personal menos digitalizado.",
+    "resumen_ciudadano": "Se publica la lista definitiva de funcionarios de justicia (Gestión, Tramitación y Auxilio) que cambian de destino en Galicia. El documento establece las fechas exactas en mayo de 2026 para el cese en puestos antiguos y la toma de posesión en los nuevos, así como el despido automático del personal interino que ocupaba dichas plazas.",
+    "resumen_tweet": "⚖️ Resueltos los traslados de Justicia en Galicia. Ojo: la lista de excluidos se oculta tras un link externo y las plazas vacantes podrían eliminarse discretamente por la administración. ¿Eficiencia o recorte encubierto? 🧐 #BOE #Opacidad #Galicia",
+    "banderas_red_flags": [
+      "Opacidad por remisión a links externos para exclusiones",
+      "Posible eliminación discrecional de plazas vacantes (amortización)",
+      "Despido inmediato de personal interino sin plan de contingencia detallado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios titulares que logran cercanía geográfica",
+        "Administración autonómica (capacidad de amortizar plazas y ahorrar costes)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado (cese automático)",
+        "Funcionarios excluidos (sin transparencia directa en el BOE sobre los motivos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Resolución de provisión de puestos de trabajo (Recursos Humanos)",
+    "banderas_rojas": [
+      "Opacidad por remisión a links externos para exclusiones",
+      "Posible eliminación discrecional de plazas vacantes (amortización)",
+      "Despido inmediato de personal interino sin plan de contingencia detallado"
+    ]
+  },
+  "tweeted": false
+}
