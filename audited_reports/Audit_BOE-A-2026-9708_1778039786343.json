@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9708",
+  "timestamp": "2026-05-06T03:56:26.343Z",
+  "title": "Orden PJC/427/2026, de 20 de abril, por la que se resuelve definitivamente el concurso de traslados entre personal funcionario de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia, convocado por Orden PJC/1253/2025, de 27 de octubre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el documento cumple con la formalidad administrativa de resolver un concurso de traslados, persiste una opacidad técnica al remitir la información sobre exclusiones y preferencias a una URL externa en lugar de integrarla en el cuerpo del texto. Se detecta un impacto directo en la estabilidad laboral de los trabajadores interinos, quienes son desplazados sistemáticamente por los funcionarios de carrera. La cláusula que permite la 'amortización' de plazas desiertas en lugar de su cobertura obligatoria sugiere una táctica de adelgazamiento de la Administración de Justicia bajo criterios de discrecionalidad presupuestaria.",
+    "resumen_ciudadano": "Resolución definitiva del concurso para que el personal de los juzgados cambie de ciudad o puesto. Se establecen los plazos para dejar el puesto antiguo y tomar posesión del nuevo, variando según la distancia geográfica. El documento confirma el cese automático de los trabajadores interinos que ocupaban estas plazas y abre la puerta a que algunas vacantes desaparezcan definitivamente si el Ministerio decide no cubrirlas.",
+    "resumen_tweet": "⚖️ El @boegob resuelve traslados en Justicia: funcionarios de carrera ganan movilidad, pero los interinos pagan el pato siendo cesados fulminantemente. Ojo a las plazas que podrían 'desaparecer' por amortización. #BOE #Opacidad #Transparencia 💼🚫",
+    "banderas_red_flags": [
+      "Cese automático de personal interino sin medidas de transición",
+      "Opacidad por remisión a enlaces externos para exclusiones",
+      "Posible amortización (eliminación) de plazas públicas desiertas",
+      "Discrecionalidad en la cobertura de vacantes por necesidades del servicio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (obtienen movilidad geográfica)",
+        "Ministerio de la Presidencia (posibilidad de amortizar plazas y ahorrar costes)"
+      ],
+      "perdedores": [
+        "Personal funcionario interino (despido/cese inmediato)",
+        "Ciudadanía (posible pérdida de efectivos si las plazas desiertas se amortizan)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Cese automático de personal interino sin medidas de transición",
+      "Opacidad por remisión a enlaces externos para exclusiones",
+      "Posible amortización (eliminación) de plazas públicas desiertas",
+      "Discrecionalidad en la cobertura de vacantes por necesidades del servicio"
+    ]
+  },
+  "tweeted": false
+}
