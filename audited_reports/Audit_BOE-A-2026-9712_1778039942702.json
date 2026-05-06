@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9712",
+  "timestamp": "2026-05-06T03:59:02.702Z",
+  "title": "Orden EFD/429/2026, de 27 de abril, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, en ejecución de sentencia, se nombra funcionaria de carrera del Cuerpo de Catedráticos de Enseñanza Secundaria a doña Ester Violeta Giménez Gómez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento forzado por la justicia. El documento revela una rectificación administrativa tras una sentencia judicial del Juzgado de lo Contencioso Administrativo de Valencia. Es un caso claro de 'mala praxis' inicial en la evaluación o baremación de los procesos de acceso a cátedras en 2022, que ha obligado a la ciudadana a litigar durante casi dos años para obtener su plaza. La opacidad reside en el coste económico derivado: la retroactividad de efectos al 1 de septiembre de 2024 implica el pago de salarios atrasados y cotizaciones no presupuestadas originalmente.",
+    "resumen_ciudadano": "Una profesora de Hostelería y Turismo ha logrado su plaza de Catedrática tras ganar un juicio contra la Generalitat Valenciana. Aunque el BOE oficializa su nombramiento ahora, se le reconoce el puesto desde 2024. Esto demuestra fallos en los procesos de selección pública que solo se corrigen en los tribunales.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Una docente gana su plaza de Catedrática tras sentencia judicial contra errores de la Administración en 2022. Efectos retroactivos desde 2024: ¿cuánto cuestan estos errores judiciales al contribuyente? 🏛️💸 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Ejecución de sentencia por error administrativo",
+      "Efectos retroactivos económicos (gastos fantasma en atrasos)",
+      "Litigiosidad en procesos selectivos públicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ester Violeta Giménez Gómez (recupera su derecho)",
+        "Servicios jurídicos particulares"
+      ],
+      "perdedores": [
+        "Hacienda Pública (pago de atrasos e intereses)",
+        "Administración Educativa (falta de eficiencia en baremación inicial)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia por error administrativo",
+      "Efectos retroactivos económicos (gastos fantasma en atrasos)",
+      "Litigiosidad en procesos selectivos públicos"
+    ]
+  },
+  "tweeted": false
+}
