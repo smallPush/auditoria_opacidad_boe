@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9796",
+  "timestamp": "2026-05-06T14:39:33.793Z",
+  "title": "Acuerdo entre el Ministerio de Educación, Formación Profesional y Deportes del Reino de España y el Ayuntamiento de Tallin para la implementación de un programa conducente a la doble titulación de bachillerato estonio-española, hecho en Tallin el 10 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo establece un marco de cooperacion para una doble titulacion en un unico centro especifico (Gymnasium Mustamae). Aunque el objetivo es la promocion linguistica, el documento utiliza clausulas de 'disponibilidad presupuestaria' que evitan cuantificar el gasto real en complementos salariales y viajes para el profesorado. Es notable que, en un tratado para promover el español, se establezca que el ingles sea la lengua prevalente en caso de discrepancia interpretativa.",
+    "resumen_ciudadano": "España y la ciudad de Tallin (Estonia) crean un programa piloto para que alumnos de un instituto estonio obtengan tambien el titulo de Bachillerato español. El Ministerio de Educacion español seleccionara profesores, les pagara un complemento mensual y los viajes, mientras que Tallin pagara el sueldo base. El acuerdo dura 4 años prorrogables.",
+    "resumen_tweet": "🇪🇸🤝🇪🇪 España firma acuerdo con Tallín para bachillerato doble en un centro de élite. Profesores recibirán extras pagados con fondos públicos 'según disponibilidad'. ¿Diplomacia educativa o gasto sin control claro? 🧐📜 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de las ayudas económicas complementarias",
+      "Focalización del gasto público en un solo centro educativo extranjero",
+      "Clausula de prevalencia del idioma inglés sobre el español",
+      "Ambigüedad en el 'asesoramiento técnico' con costes no desglosados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Profesorado español seleccionado (doble remuneración: local + complemento español)",
+        "Gymnasium Mustamäe de Tallín (recursos y prestigio)",
+        "Alumnado estonio del centro beneficiado"
+      ],
+      "perdedores": [
+        "Contribuyente español (financiación de complementos sin retorno económico directo)",
+        "Sistema educativo nacional (desvío de recursos a proyectos piloto internacionales específicos)"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Estonia)",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de las ayudas económicas complementarias",
+      "Focalización del gasto público en un solo centro educativo extranjero",
+      "Clausula de prevalencia del idioma inglés sobre el español",
+      "Ambigüedad en el 'asesoramiento técnico' con costes no desglosados"
+    ]
+  },
+  "tweeted": false
+}
