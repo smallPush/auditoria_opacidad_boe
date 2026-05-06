@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9713",
+  "timestamp": "2026-05-06T03:58:15.626Z",
+  "title": "Orden EFD/430/2026, de 27 de abril, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se nombra funcionario de carrera del Cuerpo de Catedráticos de Música y Artes Escénicas a don Mario Mora Saiz.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela una rectificación forzosa de la Administración tras un proceso judicial. Se trata de un nombramiento derivado de la ejecución de la Sentencia 451/2025 del TSJ de Madrid. El proceso original de 2022, diseñado como un sistema 'excepcional' de concurso de méritos, falló en la evaluación del candidato Mario Mora Saiz, quien tuvo que recurrir a la vía contencioso-administrativa para que se le reconociera su derecho a la plaza. Esto evidencia una falta de rigor en los baremos iniciales de la Consejería de Educación de Madrid y genera un gasto derivado de la retroactividad de efectos económicos desde septiembre de 2023.",
+    "resumen_ciudadano": "Un candidato a Catedrático de Música ha logrado su plaza tras ganar un juicio contra la Comunidad de Madrid, que inicialmente no lo había seleccionado en el concurso de méritos de 2022. El Ministerio de Educación se ve obligado ahora a nombrarlo funcionario de carrera con efectos retroactivos a 2023, lo que implica que la administración cometió un error en la valoración original de sus méritos.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Un docente logra su plaza de Catedrático tras ganar en los tribunales lo que la administración le denegó en 2022. El error administrativo obliga a efectos retroactivos desde 2023. ¿Falla la valoración de méritos? #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento por ejecución de sentencia judicial",
+      "Fallo previo en la valoración administrativa de méritos",
+      "Efectos económicos y administrativos retroactivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mario Mora Saiz (recupera su plaza y derechos)",
+        "Poder Judicial (como garante de los derechos frente a la administración)"
+      ],
+      "perdedores": [
+        "Consejería de Educación de Madrid (evidencia de mala gestión en procesos selectivos)",
+        "Erario público (costes de litigiosidad y abono de atrasos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Nombramiento por ejecución de sentencia judicial",
+      "Fallo previo en la valoración administrativa de méritos",
+      "Efectos económicos y administrativos retroactivos"
+    ]
+  },
+  "tweeted": false
+}
