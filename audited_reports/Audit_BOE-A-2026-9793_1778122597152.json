@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9793",
+  "timestamp": "2026-05-07T02:56:37.152Z",
+  "title": "Resolución de 30 de abril de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en materia de transporte.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La validación de este Real Decreto-ley 9/2026 bajo el pretexto de 'medidas urgentes' constituye un uso abusivo de la legislación de emergencia para eludir el debate parlamentario ordinario. Se observa una tipología de 'ley ómnibus' que mezcla sectores dispares como el autotaxi, el transporte marítimo y la gestión de carburantes. El punto más crítico es la inclusión de 'Créditos Extraordinarios y Suplementarios', lo que indica un gasto público imprevisto de gran magnitud que no se desglosa en la resolución, generando opacidad sobre el destino real de los fondos.",
+    "resumen_ciudadano": "El Congreso ha ratificado una ley de urgencia que inyecta dinero extra en el sector transporte y modifica las reglas para taxis, trenes y barcos. Lo más preocupante es que se aprueban gastos adicionales (créditos extraordinarios) sin explicar exactamente en qué se gastarán, beneficiando a grandes sectores corporativos mientras el ciudadano asume el coste presupuestario.",
+    "resumen_tweet": "🚨 ¡Alerta de Opacidad en el #BOE! Convalidado el RDL 9/2026 de transporte: 'medidas urgentes' que esconden créditos extraordinarios sin desglose claro 📉💰. ¿Quién paga la fiesta? El contribuyente. #Transparencia #Transporte #Escrutinio",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para temas no estrictamente urgentes",
+      "Inclusión de créditos extraordinarios y suplementarios con destino incierto",
+      "Legislación masiva que mezcla sectores (ómnibus) para ocultar medidas polémicas",
+      "Falta de memoria económica detallada en la resolución de convalidación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector del autotaxi (protección de licencias)",
+        "Grandes empresas de transporte de mercancías y navieras",
+        "Ministerio de Transportes (capacidad de gasto discrecional)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el impacto de los créditos extraordinarios)",
+        "Usuarios finales (si las ayudas a carburantes no se trasladan al precio del billete)",
+        "Pequeños operadores que sufren la rigidez de los nuevos procedimientos sancionadores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convalidación de Real Decreto-ley",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para temas no estrictamente urgentes",
+      "Inclusión de créditos extraordinarios y suplementarios con destino incierto",
+      "Legislación masiva que mezcla sectores (ómnibus) para ocultar medidas polémicas",
+      "Falta de memoria económica detallada en la resolución de convalidación"
+    ]
+  },
+  "tweeted": false
+}
