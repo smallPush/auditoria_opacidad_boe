@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9795",
+  "timestamp": "2026-05-07T03:52:30.846Z",
+  "title": "Recurso de inconstitucionalidad n.º 2781-2026, contra el artículo 2 del Decreto-ley 10/2025, de 8 de julio, del Consell, de medidas urgentes en materias de puertos de la Generalitat y de minimización del impacto generado por la DANA al Parque Natural de La Albufera.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "Se detecta un conflicto de competencias bajo la apariencia de ayuda humanitaria. El Gobierno central impugna una reforma valenciana que utiliza el pretexto de la DANA para modificar el régimen de concesiones portuarias. El uso de conceptos ambiguos como 'integración puerto-ciudad' en un Decreto-ley de urgencia sugiere una maniobra para blindar intereses de operadores privados bajo el paraguas de la emergencia climática, eludiendo el debate parlamentario ordinario y los controles de impacto ambiental rigurosos.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha admitido a trámite una demanda contra la Generalitat Valenciana por intentar cambiar las reglas de los puertos aprovechando las ayudas por la DANA. Se sospecha que el gobierno autonómico incluyó cláusulas que favorecen a empresas con concesiones en la costa, usando la catástrofe como 'caballo de Troya' legislativo.",
+    "resumen_tweet": "🚨 ¿Ayuda por la DANA o favores portuarios? El TC admite recurso contra la Generalitat por usar la emergencia para modificar concesiones en la costa. La 'reconstrucción' no debe ser excusa para la opacidad. 🕵️‍♂️ #BOE #Opacidad #Transparencia #DANA",
+    "banderas_red_flags": [
+      "Legislación oportunista aprovechando catástrofes (DANA)",
+      "Ambigüedad jurídica en el término 'integración puerto-ciudad'",
+      "Posible invasión de competencias estatales en dominio público",
+      "Uso de Decreto-ley para modificaciones de calado concesional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas concesionarias portuarias",
+        "Lobbies de construcción en el litoral",
+        "Despachos de abogados administrativos"
+      ],
+      "perdedores": [
+        "Seguridad jurídica ambiental",
+        "Parque Natural de La Albufera (riesgo de infraestructuras)",
+        "Control democrático parlamentario"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Recurso de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Legislación oportunista aprovechando catástrofes (DANA)",
+      "Ambigüedad jurídica en el término 'integración puerto-ciudad'",
+      "Posible invasión de competencias estatales en dominio público",
+      "Uso de Decreto-ley para modificaciones de calado concesional"
+    ]
+  },
+  "tweeted": false
+}
