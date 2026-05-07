@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9876",
+  "timestamp": "2026-05-07T14:15:13.109Z",
+  "title": "Acuerdo entre el Gobierno del Reino de España y el Gobierno de Canadá en materia de protección de información clasificada, hecho en Madrid el 9 de septiembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este acuerdo internacional formaliza un marco de hermetismo bilateral entre España y Canadá, centrado en el intercambio de información clasificada en los sectores de defensa e industria. El texto destaca por su enfoque en la 'seguridad industrial', permitiendo que contratistas privados accedan a secretos de Estado bajo protocolos de 'necesidad de conocer'. Existe un riesgo latente de opacidad delegada, donde la información pública queda restringida no solo por el Estado, sino por empresas privadas autorizadas por el CNI. La equivalencia entre niveles de protección canadiense (Protected A, B, C) y español (Difusión Limitada, Confidencial, Reservado) busca estandarizar el silencio administrativo sobre contratos armamentísticos y de inteligencia.",
+    "resumen_ciudadano": "España y Canadá han pactado cómo proteger y compartir secretos oficiales. Esto afecta principalmente a la industria de defensa y a los servicios de inteligencia. El acuerdo permite que empresas privadas manejen información clasificada siempre que el CNI (en España) las autorice. Básicamente, se asegura que los datos sensibles sobre seguridad nacional que se intercambien entre ambos países no se hagan públicos ni se pierdan en el sector privado.",
+    "resumen_tweet": "🔒 España y Canadá blindan sus secretos. El nuevo acuerdo permite que empresas privadas manejen información 'Top Secret' bajo la vigilancia del CNI. Más seguridad industrial, menos transparencia ciudadana. 🛡️🇨🇦🇪🇸 #BOE #Opacidad #Transparencia #Seguridad",
+    "banderas_red_flags": [
+      "Privatización del manejo de secretos oficiales mediante contratistas",
+      "Ambigüedad en la definición de 'información protegida canadiense' frente a la española",
+      "Ausencia de mecanismos de control parlamentario sobre el flujo de información entre países",
+      "Uso de terminología vaga como 'necesidad de conocer' para restringir accesos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Contratistas de la industria de defensa",
+        "Centro Nacional de Inteligencia (CNI)",
+        "Empresas de seguridad tecnológica"
+      ],
+      "perdedores": [
+        "Periodistas de investigación",
+        "Asociaciones por la transparencia pública",
+        "Ciudadanía interesada en el control de exportación de armas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional de Seguridad",
+    "banderas_rojas": [
+      "Privatización del manejo de secretos oficiales mediante contratistas",
+      "Ambigüedad en la definición de 'información protegida canadiense' frente a la española",
+      "Ausencia de mecanismos de control parlamentario sobre el flujo de información entre países",
+      "Uso de terminología vaga como 'necesidad de conocer' para restringir accesos"
+    ]
+  },
+  "tweeted": false
+}
