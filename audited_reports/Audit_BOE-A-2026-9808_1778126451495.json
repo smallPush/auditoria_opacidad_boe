@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-9808",
+  "timestamp": "2026-05-07T04:00:51.495Z",
+  "title": "Resolución de 22 de abril de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se aprueba la relación provisional de personas admitidas y excluidas a las oposiciones al Cuerpo de Aspirantes a Registradores de la Propiedad, Mercantiles y de Bienes Muebles, convocadas por Resolución de 4 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución revela una barrera burocrática significativa para el acceso a uno de los cuerpos más elitistas de la administración (Registradores). El alto número de exclusiones por la 'Causa C' (falta de cumplimentación de un recuadro específico) sugiere un sistema de filtrado punitivo basado en formalismos técnicos que puede desincentivar la participación. Además, las causas D, E y F demuestran que las dificultades para acreditar la situación económica (desempleo o bajos ingresos) siguen operando como un filtro de clase indirecto en oposiciones de larga duración y alta inversión económica.",
+    "resumen_ciudadano": "Publicación de las listas de admitidos y excluidos para las oposiciones a Registrador de la Propiedad de 2026. Si has solicitado participar, debes comprobar si apareces en la lista de excluidos, principalmente por errores en el formulario 790 o por no acreditar correctamente las exenciones de tasas por desempleo o familia numerosa. Tienes 10 días para subsanar errores.",
+    "resumen_tweet": "📜 ¿Quieres ser Registrador? Ojo a la burocracia: decenas de excluidos por simples errores de formulario o problemas con las tasas. Un cuerpo de élite con barreras de entrada que penalizan el error formal. 🖋️ #BOE #Opacidad #Oposiciones #Justicia",
+    "banderas_red_flags": [
+      "Burocracia punitiva (exclusiones masivas por el recuadro 27)",
+      "Barreras económicas (dificultad en acreditar exenciones de tasas)",
+      "Falta de publicación íntegra de la lista de admitidos en el propio BOE (remisión a sedes físicas o web)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con asesoramiento o recursos que superan el filtro formal",
+        "Estructura corporativista del Colegio de Registradores"
+      ],
+      "perdedores": [
+        "Aspirantes con bajos recursos (excluidos por causas D, E, F)",
+        "Candidatos excluidos por errores administrativos menores (Causa C)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa - Empleo Público",
+    "banderas_rojas": [
+      "Burocracia punitiva (exclusiones masivas por el recuadro 27)",
+      "Barreras económicas (dificultad en acreditar exenciones de tasas)",
+      "Falta de publicación íntegra de la lista de admitidos en el propio BOE (remisión a sedes físicas o web)"
+    ]
+  },
+  "tweeted": false
+}
