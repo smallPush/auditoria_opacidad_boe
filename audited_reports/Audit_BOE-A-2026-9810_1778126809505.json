@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9810",
+  "timestamp": "2026-05-07T04:06:49.505Z",
+  "title": "Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución emplea el mecanismo de 'libre designación', una fórmula legal que permite la selección discrecional de personal, alejándose de los principios de concurrencia competitiva y mérito estricto. Se observa una notable brecha salarial en los complementos específicos: mientras que un Jefe de Seguridad de un Palacio Real percibe 6.512 euros, un Vocal Asesor de Asuntos Económicos (Nivel 30) recibe 24.549 euros, lo que sugiere una priorización de la estructura de asesoría política sobre la operativa técnica. Además, la adscripción exclusiva (A7) para seguridad limita el acceso a otros funcionarios cualificados fuera de las fuerzas policiales.",
+    "resumen_ciudadano": "El Ministerio convoca tres puestos de trabajo en Patrimonio Nacional para ser cubiertos 'a dedo' entre funcionarios. El puesto más relevante es una asesoría económica en Madrid con un sobresueldo anual de 24.549 euros, sumado al sueldo base de nivel 30. Los otros dos puestos son para seguridad en el Palacio de Aranjuez y Madrid, reservados exclusivamente para miembros de las Fuerzas de Seguridad del Estado.",
+    "resumen_tweet": "🚨 Más puestos 'a dedo' en Patrimonio Nacional. El #BOE publica vacantes de libre designación con complementos de hasta 24.500€ para asesores. ¿Es esto meritocracia o reparto de sillones? 🧐 #Opacidad #Transparencia #PatrimonioNacional",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación para puestos de alta remuneración",
+      "Disparidad extrema en complementos específicos entre puestos de la misma convocatoria",
+      "Reserva de plazas exclusiva para cuerpos de seguridad (A7) en gestión de edificios",
+      "Falta de desglose sobre los objetivos específicos del Vocal Asesor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del grupo A1 con perfil de asesoría",
+        "Miembros de las Fuerzas y Cuerpos de Seguridad del Estado con acceso a plazas exclusivas"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran a promoción por mérito y capacidad",
+        "Ciudadanía, por la opacidad en la elección de cargos pagados con fondos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación para puestos de alta remuneración",
+      "Disparidad extrema en complementos específicos entre puestos de la misma convocatoria",
+      "Reserva de plazas exclusiva para cuerpos de seguridad (A7) en gestión de edificios",
+      "Falta de desglose sobre los objetivos específicos del Vocal Asesor"
+    ]
+  },
+  "tweeted": false
+}
