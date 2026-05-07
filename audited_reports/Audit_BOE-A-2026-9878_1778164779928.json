@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9878",
+  "timestamp": "2026-05-07T14:39:39.928Z",
+  "title": "Real Decreto 368/2026, de 6 de mayo, por el que se regula la composición y funcionamiento de la Comisión Nacional Española de Cooperación con la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 368/2026 realiza una maniobra de reestructuración administrativa bajo una narrativa de modernización post-COVID y compromiso multilateral. Aunque alega 'transparencia y eficiencia', el texto incurre en una hipertrofia orgánica al crear un Pleno con más de 20 categorías de vocalías, lo que suele derivar en órganos consultivos lentos y simbólicos donde el poder real se desplaza al Consejo Ejecutivo. Existe un riesgo de 'Gastos Fantasma' en la mención a la dotación de 'financiación y medios' para nuevas funciones sin desglosar partidas ni límites de gasto. La 'incardinación' de la sociedad civil parece más una cooptación institucional, ya que la estructura sigue rígidamente adscrita a la AECID y al Ministerio de Asuntos Exteriores.",
+    "resumen_ciudadano": "Se reforma la Comisión Nacional de la UNESCO para incluir a más representantes de Comunidades Autónomas, municipios y ONGs. Si bien parece más inclusivo, el control total permanece en el Gobierno central. Se prometen nuevos recursos económicos para esta comisión sin especificar cuánto dinero público extra costará esta ampliación de cargos y funciones.",
+    "resumen_tweet": "🕵️‍♂️ Nueva auditoría: El RD 368/2026 amplía la burocracia de la UNESCO en España. ¿Más participación o más sillas para cargos? Prometen 'medios y financiación' sin cifras claras. La transparencia queda en segundo plano tras el protocolo. 📉💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ambigüedad en la dotación presupuestaria ('financiación y medios' no cuantificados)",
+      "Hipertrofia de órganos colegiados (20 categorías de representantes)",
+      "Uso de lenguaje de auto-justificación ('principios de buena regulación') para evitar críticas sobre el coste",
+      "Centralización del control ejecutivo bajo la AECID a pesar de la fachada de participación civil"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la AECID (consolidan control)",
+        "Redes oficiales de la UNESCO (Geoparques, Reservas de la Biosfera) con representación institucional",
+        "Representantes autonómicos (ganan visibilidad política)"
+      ],
+      "perdedores": [
+        "Contribuyente general (asume el coste de una estructura más grande)",
+        "Organizaciones civiles independientes no integradas en las redes oficiales citadas"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Reestructuración Administrativa / Cooperación Internacional",
+    "banderas_rojas": [
+      "Ambigüedad en la dotación presupuestaria ('financiación y medios' no cuantificados)",
+      "Hipertrofia de órganos colegiados (20 categorías de representantes)",
+      "Uso de lenguaje de auto-justificación ('principios de buena regulación') para evitar críticas sobre el coste",
+      "Centralización del control ejecutivo bajo la AECID a pesar de la fachada de participación civil"
+    ]
+  },
+  "tweeted": false
+}
