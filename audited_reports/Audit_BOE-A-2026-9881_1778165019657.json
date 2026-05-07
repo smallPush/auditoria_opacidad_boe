@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9881",
+  "timestamp": "2026-05-07T14:43:39.657Z",
+  "title": "Acuerdo de 22 de abril de 2026, de Pleno del Consejo General del Poder Judicial, por el que se nombra Letrado Coordinador Titular del Gabinete Técnico al servicio del Tribunal Supremo, en el orden social.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento discrecional para una posición estratégica dentro del Tribunal Supremo. Aunque se cita un 'concurso', no se detallan las puntuaciones ni los méritos comparativos frente a otros aspirantes. El puesto de Letrado Coordinador en el orden social es clave para filtrar casos de derecho laboral y seguridad social, áreas de alto impacto ciudadano. La cláusula de destrucción de documentos de los no elegidos en 6 meses dificulta auditorías históricas o reclamaciones de transparencia a largo plazo.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha designado a Santiago Ezequiel Marqués Ferrero como jefe técnico en el área social del Tribunal Supremo. Este cargo asiste directamente a los magistrados en casos laborales. No se especifica el salario ni el coste total para el erario público, ni por qué este candidato fue preferido sobre los demás.",
+    "resumen_tweet": "🚨 Nuevo cargo técnico en el Tribunal Supremo. El CGPJ nombra coordinador para temas laborales sin detallar sueldo ni méritos específicos del elegido. Además, ¡los documentos de los aspirantes rechazados serán destruidos! 📄🔥 #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Opacidad retributiva: no se menciona el salario del cargo",
+      "Riesgo de destrucción de pruebas: los méritos de aspirantes no elegidos se eliminan en 6 meses",
+      "Falta de desglose de méritos: se publica el ganador sin el baremo final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago Ezequiel Marqués Ferrero (nuevo cargo)",
+        "Cúpula del CGPJ (consolidación de equipo de confianza)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento del coste)",
+        "Candidatos descartados (sus expedientes serán destruidos)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad retributiva: no se menciona el salario del cargo",
+      "Riesgo de destrucción de pruebas: los méritos de aspirantes no elegidos se eliminan en 6 meses",
+      "Falta de desglose de méritos: se publica el ganador sin el baremo final"
+    ]
+  },
+  "tweeted": false
+}
