@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9797",
+  "timestamp": "2026-05-07T03:58:54.156Z",
+  "title": "Orden SND/433/2026, de 27 de abril, por la que se actualizan los anexos I, II y III del Real Decreto 1207/2006, de 20 de octubre, por el que se regula la gestión del Fondo de cohesión sanitaria.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La orden SND/433/2026 actualiza los anexos del Fondo de Cohesión Sanitaria (FCS) con un alto nivel de detalle técnico pero una opacidad financiera subyacente. Se observa una transición hacia el modelo de Grupos Relacionados con el Diagnóstico (GRD) para procedimientos ambulatorios, lo que aumenta la precisión contable. Sin embargo, el sistema de compensación se fija en un 80% del coste medio, lo que implica que la Comunidad Autónoma prestadora asume un 20% del gasto 'en la sombra', penalizando potencialmente a las regiones con mayor número de centros de referencia (CSUR) si el fondo estatal no es suficiente. El retraso administrativo es evidente: la liquidación de 2025 corresponde a la actividad de 2024, lo que genera tensiones de tesorería regionales.",
+    "resumen_ciudadano": "Esta ley establece los precios que el Estado pagará a los hospitales de una Comunidad Autónoma cuando atiendan a pacientes de otra región. Incluye costes específicos para trasplantes (desde 25.000 hasta 80.000 euros) y técnicas complejas como la oxigenación extracorpórea. El objetivo es que cualquier español pueda ser operado en el mejor hospital disponible, independientemente de dónde viva, aunque el Estado solo cubre el 80% del coste oficial de estas intervenciones.",
+    "resumen_tweet": "🏥 El #BOE actualiza los precios de trasplantes y procesos complejos entre CCAA. Se compensa solo el 80% del coste: ¿quién cubre el resto? 💸 Más precisión técnica, pero persiste el desfase en pagos regionales. #Transparencia #Sanidad #Opacidad",
+    "banderas_red_flags": [
+      "Compensación parcial del 80 por ciento que genera infrafinanciación regional",
+      "Liquidación diferida con un año de retraso",
+      "Falta de mención a la dotación presupuestaria total del fondo en la orden"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pacientes con enfermedades raras o complejas",
+        "Hospitales de alta tecnología (CSUR)",
+        "Ministerio de Sanidad por centralización de datos"
+      ],
+      "perdedores": [
+        "Haciendas autonómicas (asumen el 20 por ciento del coste no compensado)",
+        "CCAA con mayor número de derivaciones externas por saturación",
+        "Tesorería pública por el desfase temporal de los pagos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad y Financiación Pública",
+    "banderas_rojas": [
+      "Compensación parcial del 80 por ciento que genera infrafinanciación regional",
+      "Liquidación diferida con un año de retraso",
+      "Falta de mención a la dotación presupuestaria total del fondo en la orden"
+    ]
+  },
+  "tweeted": false
+}
