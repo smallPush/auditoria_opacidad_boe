@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-9877",
+  "timestamp": "2026-05-08T03:45:41.119Z",
+  "title": "Modificaciones a los artículos 3, 4, 5, 6, 9, 10, 13, 15, 17, 21, 26 y 30 de los Estatutos de la Sociedad Europea para la financiación de material ferroviario (EUROFIMA), adoptadas el 16 de octubre de 2025. Texto consolidado de los Estatutos de EUROFIMA.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "La modificacion de los estatutos de EUROFIMA oculta tras tecnicismos financieros una transformacion profunda en la gestion del riesgo. El Articulo 3 permite ahora financiar a empresas privadas no accionistas siempre que un Estado 'confirme su voluntad de extender su garantia'. Esto traslada el riesgo de inversiones en material ferroviario privado directamente al erario publico. Ademas, se introduce una logica de 'voto inverso' en el Articulo 15, donde ciertos acuerdos solo pueden vetarse con una mayoria cualificada del 7/10, facilitando que una minoria activa (3/10) saque adelante cambios estructurales. La complejidad de la formula matematica para la recompra de acciones y el uso del franco suizo como moneda de referencia actuan como una barrera de comprension para el ciudadano comun.",
+    "resumen_ciudadano": "EUROFIMA, la entidad europea que financia trenes, cambia sus reglas para permitir el rescate o financiacion de empresas privadas con garantias publicas de los Estados. Ademas, complica el sistema de votos para que sea mas dificil frenar decisiones importantes y establece un sistema de recompra de acciones basado en formulas financieras complejas que benefician la salida de capitales de grandes inversores.",
+    "resumen_tweet": "⚠️ Alerta #BOE: EUROFIMA cambia sus estatutos. Se abre la puerta a financiar empresas privadas con avales publicos 💸. Mas opacidad financiera y un sistema de votos donde la minoria manda. ¿Quien paga el riesgo? El ciudadano. 🚆❌ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de formulas financieras complejas para determinar el valor de salida de accionistas",
+      "Clausula de 'voto confirmatorio' que requiere solo un 30% para aprobar frente a un 70% para vetar",
+      "Extension de financiacion a administraciones ferroviarias no accionistas bajo aval estatal",
+      "Referenciacion constante a francos suizos eludiendo el marco del Euro",
+      "Posibilidad de aplazar pagos de recompra de acciones hasta tres años"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadoras ferroviarias privadas (nuevos beneficiarios de financiacion)",
+        "Accionistas de Clase A (mecanismos de salida de capital garantizados)",
+        "Entidades financieras suizas (gestionan el capital de referencia)"
+      ],
+      "perdedores": [
+        "Contribuyente estatal (asume el riesgo de avales para terceros)",
+        "Transparencia democratica (por el sistema de mayorias invertidas)",
+        "Pequeñas redes ferroviarias locales sin peso en el Consejo de Administracion"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Finanzas Publicas",
+    "banderas_rojas": [
+      "Uso de formulas financieras complejas para determinar el valor de salida de accionistas",
+      "Clausula de 'voto confirmatorio' que requiere solo un 30% para aprobar frente a un 70% para vetar",
+      "Extension de financiacion a administraciones ferroviarias no accionistas bajo aval estatal",
+      "Referenciacion constante a francos suizos eludiendo el marco del Euro",
+      "Posibilidad de aplazar pagos de recompra de acciones hasta tres años"
+    ]
+  },
+  "tweeted": false
+}
