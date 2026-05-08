@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-9971",
+  "timestamp": "2026-05-08T14:20:46.193Z",
+  "title": "Resolución de 28 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución oficializa el uso del sistema de libre designación para puestos de naturaleza administrativa (C1) dentro del Gabinete de la Ministra. Aunque legal bajo la Ley 30/1984, este mecanismo representa el grado más bajo de meritocracia técnica al permitir la selección discrecional basada en la 'confianza' del cargo político. Se observa que los adjudicatarios ya procedían del mismo entorno, lo que sugiere una consolidación de estructuras de confianza preexistentes más que una búsqueda de excelencia competitiva.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha asignado tres puestos de secretaría y ayuda en el despacho de la Ministra sin realizar un concurso público de méritos. Se ha utilizado la 'libre designación', un método que permite a los altos cargos elegir directamente a su personal de apoyo entre los funcionarios, priorizando la afinidad personal sobre la competencia abierta.",
+    "resumen_tweet": "🚩 Sanidad adjudica 3 puestos en el Gabinete de la Ministra mediante 'libre designación'. Secretarios elegidos a discreción, evitando el concurso de méritos. ¿Confianza o dedazo institucional en el corazón del Ministerio? 🏛️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles administrativos básicos (16 y 17)",
+      "Adjudicación a personal que ya ocupaba puestos similares en el mismo departamento",
+      "Opacidad en los criterios de 'idoneidad' alegados por el Centro Directivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Roberto Condesa González",
+        "Ángela Barragán Navarro",
+        "Irene Molina Torres",
+        "Cúpula política del Ministerio (consolidación de equipo de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera del cuerpo C1 con mejores méritos pero sin vínculos políticos",
+        "Sistema de mérito y capacidad de la Función Pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles administrativos básicos (16 y 17)",
+      "Adjudicación a personal que ya ocupaba puestos similares en el mismo departamento",
+      "Opacidad en los criterios de 'idoneidad' alegados por el Centro Directivo"
+    ]
+  },
+  "tweeted": false
+}
