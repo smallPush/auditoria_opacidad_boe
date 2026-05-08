@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-9961",
+  "timestamp": "2026-05-08T14:11:45.548Z",
+  "title": "Orden TED/439/2026, de 6 de mayo, por la que se regula el procedimiento para la concesión del Sello de gestión transparente del agua, en el ámbito de las demarcaciones hidrográficas intercomunitarias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La norma introduce un sistema de 'recompensas' por cumplir con estándares que, en un marco de transparencia real, deberían ser obligatorios para todos los concesionarios de un bien público como el agua. Al vincular el Sello a la capacidad de generar informes de sostenibilidad bajo directivas de la UE y sistemas digitales complejos (PERTE), se favorece sistemáticamente a grandes corporaciones y operadores con músculo financiero, permitiéndoles un 'greenwashing' oficial. Se admite explícitamente un 'aumento de cargas administrativas', lo que genera una barrera de entrada para pequeños usuarios, creando una gestión del agua a dos velocidades: la 'sellada' y la invisible.",
+    "resumen_ciudadano": "El Gobierno crea un distintivo para premiar a las empresas y municipios que gestionen el agua de forma transparente. Sin embargo, para conseguirlo se exigen requisitos técnicos y digitales tan altos que solo las grandes empresas podrán permitírselo fácilmente. Lo que debería ser una obligación de informar a los ciudadanos se convierte en un club selecto de marketing para grandes operadores hídricos e hidroeléctricos.",
+    "resumen_tweet": "🌊 ¿Transparencia o marketing? El nuevo Sello de Gestión del Agua del #BOE premia con 'distintivos' lo que debería ser obligatorio. Favorece a grandes empresas con recursos digitales y olvida al pequeño regante. 🧐💧 #Opacidad #Transparencia #Agua",
+    "banderas_red_flags": [
+      "Requisitos técnicos vinculados a informes de sostenibilidad complejos",
+      "Admisión de aumento de cargas administrativas innecesarias",
+      "Creación de una distinción voluntaria sobre un recurso público esencial",
+      "Sesgo de digitalización que excluye a pequeños gestores rurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales del agua",
+        "Empresas hidroeléctricas",
+        "Consultoras de sostenibilidad y digitalización",
+        "Grandes comunidades de regantes tecnificadas"
+      ],
+      "perdedores": [
+        "Pequeños ayuntamientos rurales",
+        "Regantes tradicionales sin recursos digitales",
+        "Transparencia real (se convierte en un premio y no en norma)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ámbito de Confederaciones Hidrográficas)",
+    "tipologia": "Orden Ministerial",
+    "banderas_rojas": [
+      "Requisitos técnicos vinculados a informes de sostenibilidad complejos",
+      "Admisión de aumento de cargas administrativas innecesarias",
+      "Creación de una distinción voluntaria sobre un recurso público esencial",
+      "Sesgo de digitalización que excluye a pequeños gestores rurales"
+    ]
+  },
+  "tweeted": false
+}
