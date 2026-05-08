@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9975",
+  "timestamp": "2026-05-08T14:18:58.651Z",
+  "title": "Resolución de 27 de abril de 2026, de la Universidad de Córdoba, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de plazas de catedráticos. Aunque identifica a los beneficiarios, el documento omite el impacto presupuestario plurianual que suponen estas plazas vitalicias. La opacidad reside en la desconexión entre el nombramiento y la partida de gasto público que lo sustenta, tratando el presupuesto como un recurso inagotable y no como un fondo finito de gestión ciudadana.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado a tres nuevos catedráticos en las áreas de Filología Inglesa, Bioquímica y Prehistoria. Estos nombramientos son permanentes y suponen un aumento en el gasto de personal funcionario de la universidad.",
+    "resumen_tweet": "🎓 La Universidad de Córdoba suma 3 nuevos catedráticos. Nombres públicos, pero silencio total sobre el coste real para el contribuyente y la sostenibilidad del sistema. ¿Mérito o inercia burocrática? #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de mención a la tasa de reposición aplicada",
+      "Invisibilidad del coste salarial total del nivel Catedrático"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Jesús López Sánchez-Vizcaíno",
+        "Víctor Manuel Luque Almagro",
+        "José Antonio Riquelme Cantal",
+        "Cuerpo de Catedráticos (consolidación de estatus)"
+      ],
+      "perdedores": [
+        "Personal docente investigador precario (menos recursos para plazas de base)",
+        "Contribuyentes (asumen el gasto estructural sin métricas de productividad)",
+        "Candidatos externos (posible barrera por endogamia institucional)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de mención a la tasa de reposición aplicada",
+      "Invisibilidad del coste salarial total del nivel Catedrático"
+    ]
+  },
+  "tweeted": false
+}
