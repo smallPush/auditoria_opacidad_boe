@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-9879",
+  "timestamp": "2026-05-08T03:47:56.238Z",
+  "title": "Real Decreto 370/2026, de 6 de mayo, por el que se regula la concesión directa por el Servicio Público de Empleo Estatal de subvenciones en el ámbito del empleo y de la formación en el trabajo, para el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto utiliza la 'concesión directa' (Art. 22.2.c de la Ley General de Subvenciones) para evitar la concurrencia competitiva, amparándose en una prórroga presupuestaria y una supuesta excepcionalidad que, en realidad, es recurrente. Se observa un uso del lenguaje técnico para normalizar la transferencia de fondos a organismos estatales y tres comunidades autónomas específicas (Andalucía, Extremadura y Canarias) sin permitir que otros actores u otras regiones compitan por estos recursos. La 'técnica presupuestaria' se invoca como barrera para la transparencia real, consolidando un modelo de adjudicación a dedo bajo el pretexto de la continuidad administrativa.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la entrega directa de subvenciones para empleo en 2026 a varios organismos públicos y a las juntas de Andalucía, Canarias y Extremadura. Al no haber nuevos presupuestos, se saltan el concurso público habitual alegando razones de 'interés social' y urgencia, lo que impide que otras entidades puedan optar a estos fondos en igualdad de condiciones.",
+    "resumen_tweet": "💸 ¡Más adjudicaciones a dedo! El Gobierno usa la 'concesión directa' para repartir fondos de empleo en 2026 sin concurso público, escudándose en la prórroga presupuestaria. Menos competencia, más opacidad. 🧐🏛️ #BOE #Opacidad #Transparencia #SEPE",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva",
+      "Uso de la prórroga presupuestaria como justificación de excepcionalidad",
+      "Adjudicación nominativa encubierta",
+      "Falta de desglose de cuantías específicas en el texto base"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CSIC",
+        "INAEM",
+        "AECID",
+        "Junta de Andalucía",
+        "Gobierno de Canarias",
+        "Junta de Extremadura"
+      ],
+      "perdedores": [
+        "Resto de Comunidades Autónomas",
+        "Entidades del sector privado y social excluidas del acceso directo",
+        "Principio de igualdad en el acceso a fondos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía, Canarias y Extremadura",
+    "tipologia": "Subvenciones de Empleo y Formación",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva",
+      "Uso de la prórroga presupuestaria como justificación de excepcionalidad",
+      "Adjudicación nominativa encubierta",
+      "Falta de desglose de cuantías específicas en el texto base"
+    ]
+  },
+  "tweeted": false
+}
