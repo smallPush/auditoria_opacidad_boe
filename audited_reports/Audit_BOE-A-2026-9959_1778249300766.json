@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-9959",
+  "timestamp": "2026-05-08T14:08:20.766Z",
+  "title": "Real Decreto 369/2026, de 6 de mayo, por el que se regula la distribución de la recaudación del Impuesto sobre actividades de juego obtenida por las apuestas deportivo-benéficas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto consolida una estructura de reparto donde el juego financia masivamente al futbol profesional privado. Aunque se integra la Liga Femenina, persiste una brecha del 50 por ciento respecto a la masculina (30.5 por ciento vs 15 por ciento). Destaca el riesgo de 'Gastos Fantasma' en el articulo 3.2, donde los 'remanentes' se reparten entre clubes (SAD) bajo el concepto ambiguo de 'mejor desenvolvimiento', lo cual permite desviar fondos publicos a intereses privados con escasa fiscalizacion ciudadana. El Estado se asegura un mecanismo de autogestión de deudas al retener fondos si las entidades no estan al corriente con Hacienda.",
+    "resumen_ciudadano": "Este decreto regula como se reparte el dinero de los impuestos de las apuestas deportivas. El 49.95 por ciento va a las provincias y el resto al futbol. El futbol masculino recibe el doble que el femenino. El dinero se usara para obras en estadios y gastos de competicion, permitiendo que si sobra dinero, este se reparta directamente entre los clubes de futbol profesionales.",
+    "resumen_tweet": "💰 Nuevo reparto de apuestas en el #BOE: El futbol masculino recibe el doble que el femenino (30.5% vs 15%). 🧐 Ojo a los 'remanentes' que acaban en manos de clubes privados. ¿Transparencia o subvencion encubierta? #Opacidad #Transparencia ⚽⚖️",
+    "banderas_red_flags": [
+      "Brecha de genero institucionalizada en los porcentajes de reparto",
+      "Uso de remanentes para beneficio de Sociedades Anonimas Deportivas",
+      "Conceptos vagos como prestaciones para el mejor desenvolvimiento",
+      "Mecanismo de retencion de fondos para cobro de deudas estatales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Liga Nacional de Futbol Profesional",
+        "Sociedades Anonimas Deportivas (SAD)",
+        "Diputaciones Provinciales"
+      ],
+      "perdedores": [
+        "Futbol Femenino (en terminos de equidad proporcional)",
+        "Otros deportes federados no incluidos",
+        "Contribuyentes (por la opacidad en el destino final de remanentes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Distribucion de Ingresos Tributarios",
+    "banderas_rojas": [
+      "Brecha de genero institucionalizada en los porcentajes de reparto",
+      "Uso de remanentes para beneficio de Sociedades Anonimas Deportivas",
+      "Conceptos vagos como prestaciones para el mejor desenvolvimiento",
+      "Mecanismo de retencion de fondos para cobro de deudas estatales"
+    ]
+  },
+  "tweeted": false
+}
