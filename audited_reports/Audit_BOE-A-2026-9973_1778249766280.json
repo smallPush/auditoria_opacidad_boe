@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9973",
+  "timestamp": "2026-05-08T14:16:06.280Z",
+  "title": "Resolución de 22 de abril de 2026, de la Universidad de Cantabria, por la que se nombra Profesora Titular de Universidad a doña Marina Miranda Manzanares.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Profesora Titular tras un concurso de acceso. El texto se ajusta a la Ley Organica 2/2023 (LOSU). No se detectan gastos fantasma directos, aunque la resolucion no detalla la composicion del tribunal ni las puntuaciones obtenidas, algo habitual que oculta posibles sesgos de endogamia universitaria. Destaca la presencia femenina tanto en la adjudicacion como en la firma (Rectora), lo cual refuerza la paridad en puestos STEM.",
+    "resumen_ciudadano": "La Universidad de Cantabria ha nombrado oficialmente a Marina Miranda Manzanares como Profesora Titular en el area de Ingenieria del Terreno. Este es un tramite final tras un proceso selectivo iniciado en 2025 para consolidar su plaza como funcionaria docente investigadora.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la Univ. de Cantabria: Marina Miranda Manzanares en Ingenieria del Terreno. Un avance para el talento femenino en STEM bajo la nueva LOSU. Proceso reglado, pero persiste la opacidad en tribunales. 👩‍🏫🏗️ #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Falta de informacion sobre la composicion del tribunal evaluador",
+      "Opacidad en los meritos comparativos de la convocatoria",
+      "Riesgo de endogamia academica inherente al sistema de concursos de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marina Miranda Manzanares (estabilidad laboral y estatus de funcionaria)",
+        "Universidad de Cantabria (consolidacion de plantilla)",
+        "Representacion de mujeres en areas de Ingenieria"
+      ],
+      "perdedores": [
+        "Candidatos externos descartados en el proceso de concurso",
+        "Ciudadania (por la falta de transparencia en los criterios especificos de evaluacion publicados)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Falta de informacion sobre la composicion del tribunal evaluador",
+      "Opacidad en los meritos comparativos de la convocatoria",
+      "Riesgo de endogamia academica inherente al sistema de concursos de acceso"
+    ]
+  },
+  "tweeted": false
+}
