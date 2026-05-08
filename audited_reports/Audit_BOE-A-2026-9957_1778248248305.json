@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-9957",
+  "timestamp": "2026-05-08T13:50:48.305Z",
+  "title": "Acuerdo internacional administrativo entre el Ministerio de Educación, Formación Profesional y Deportes del Reino de España y la Escuela de lenguas extranjeras de Nanjing en China para la creación de una sección bilingüe de español, hecho en Pekín y Nanjing el 14 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Aunque el acuerdo detalla las responsabilidades logísticas de ambas partes, incurre en una opacidad financiera típica de la diplomacia cultural. Se establecen compromisos de gasto para el erario español (complementos salariales y gastos de viaje) sin cuantificar el impacto presupuestario total, delegándolo a futuras resoluciones de convocatoria pública. Esto genera una 'partida fantasma' en el BOE, donde el ciudadano sabe que se va a gastar, pero no cuánto ni bajo qué techo máximo de gasto.",
+    "resumen_ciudadano": "España y China firman un pacto para enviar profesores de español a la Escuela de Nanjing. España paga un plus mensual y los vuelos; China pone el sueldo base (mínimo 16.000 RMB) y la vivienda gratis. El programa dura 4 años renovables, pero el coste exacto para el contribuyente español se oculta bajo la cláusula de 'disponibilidad presupuestaria'.",
+    "resumen_tweet": "🇪🇸🇨🇳 ¿Cuánto nos cuesta la sección bilingüe en Nanjing? El #BOE publica acuerdo con China: España paga pluses y vuelos a docentes, pero el coste total es un misterio presupuestario. ¡Transparencia bajo mínimos! 💸📉 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Cuantía de ayudas económicas no especificada en el acuerdo",
+      "Gasto condicionado a 'disponibilidad presupuestaria' indeterminada",
+      "Falta de memoria económica adjunta en la publicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes seleccionados (sueldo de China + complemento de España + vivienda gratis)",
+        "Escuela de Nanjing (recibe profesorado nativo subvencionado)",
+        "Élite académica china"
+      ],
+      "perdedores": [
+        "Contribuyente español (asume costes de formación y viaje sin control del gasto total)",
+        "Centros educativos nacionales (posible desvío de recursos a proyección exterior)"
+      ]
+    },
+    "comunidad_autonoma": "N/A (Ámbito Internacional)",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Cuantía de ayudas económicas no especificada en el acuerdo",
+      "Gasto condicionado a 'disponibilidad presupuestaria' indeterminada",
+      "Falta de memoria económica adjunta en la publicación"
+    ]
+  },
+  "tweeted": false
+}
