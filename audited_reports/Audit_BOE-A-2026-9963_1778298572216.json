@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-9963",
+  "timestamp": "2026-05-09T03:49:32.216Z",
+  "title": "Ley 2/2026, de 27 de abril, de la Universidad de Mallorca.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Ley 2/2026 formaliza la conversión de una sociedad limitada privada (ADEMA SL) en la Universidad de Mallorca. Se observa una 'incongruencia ideológica' al declarar una entidad con ánimo de lucro como 'bien de interés social' para justificar derechos de tanteo y retracto por parte del Gobierno, lo que podría esconder futuros rescates con dinero público. Aunque el artículo 5.3 prohíbe la financiación directa, abre la puerta a la captura de recursos públicos mediante la 'concurrencia competitiva'. El modelo de Sociedad Limitada para una institución de educación superior prioriza el rendimiento económico sobre la función social, destinando apenas un 5% de los ingresos a becas.",
+    "resumen_ciudadano": "Baleares aprueba una nueva universidad privada en manos de una empresa limitada (SL). Se especializará en grados de alto coste como Odontología y Medicina. Se prohíbe el uso de fondos públicos directos, pero la universidad podrá competir por subvenciones y contratos públicos. La ley incluye una cláusula para que el Gobierno balear pueda comprar la universidad si los dueños deciden venderla, bajo el pretexto de su interés social.",
+    "resumen_tweet": "🚨 ¿Universidad o Negocio? Baleares aprueba la nueva Univ. de Mallorca como S.L. impulsada por una academia dental. Solo el 5% para becas y vía libre a fondos públicos 'competitivos'. ¡Ojo al derecho de rescate! 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Estructura mercantil de Sociedad Limitada para una universidad",
+      "Declaración de bien de interés social para una entidad privada",
+      "Derecho de tanteo y retracto gubernamental (posible blindaje ante quiebra)",
+      "Ambigüedad en el acceso a financiación pública 'competitiva'",
+      "Concentración de oferta en grados de alta rentabilidad económica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Academia Dental de Mallorca SL (promotores)",
+        "Estudiantes de rentas altas con acceso a grados privados",
+        "Sector inmobiliario en Inca y Palma"
+      ],
+      "perdedores": [
+        "Universidad pública (UIB) por competencia de recursos",
+        "Estudiantes de rentas bajas (oferta de becas muy limitada)",
+        "Contribuyentes (ante un posible rescate por derecho de tanteo)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Reconocimiento de Universidad Privada",
+    "banderas_rojas": [
+      "Estructura mercantil de Sociedad Limitada para una universidad",
+      "Declaración de bien de interés social para una entidad privada",
+      "Derecho de tanteo y retracto gubernamental (posible blindaje ante quiebra)",
+      "Ambigüedad en el acceso a financiación pública 'competitiva'",
+      "Concentración de oferta en grados de alta rentabilidad económica"
+    ]
+  },
+  "tweeted": false
+}
