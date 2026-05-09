@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10043",
+  "timestamp": "2026-05-09T13:44:54.246Z",
+  "title": "Orden DCA/448/2026, de 5 de mayo, por la que se regula el Sistema de Información Estatal de Servicios Sociales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden regula el SIESS bajo el pretexto de la modernización estadística y el cumplimiento de hitos del Plan de Recuperación (Hito CID 315). Aunque se enmarca en la transparencia, delega la carga operativa de la recolección de datos en las Entidades Locales y CCAA sin especificar una transferencia de crédito directa para compensar este esfuerzo administrativo extra. Se observa una centralización de la información ('explotación estadística estatal') que podría usarse para condicionar futuros repartos de fondos mediante convenios bilaterales, los cuales quedan fuera del escrutinio de esta norma. La mención a 'datos no personales' protege la privacidad, pero la falta de un presupuesto desglosado para el mantenimiento de la infraestructura digital estatal sugiere un gasto oculto bajo la etiqueta genérica de fondos europeos.",
+    "resumen_ciudadano": "El Gobierno crea un nuevo sistema centralizado para recopilar datos sobre servicios sociales y dependencia en toda España. Las Comunidades Autónomas y Ayuntamientos deberán enviar su información estadística a Madrid para que sea pública y abierta. Esto busca mejorar la planificación de ayudas, pero impone nuevas tareas administrativas a los ayuntamientos que ya suelen estar saturados.",
+    "resumen_tweet": "📊 Nuevo sistema SIESS en el #BOE: el Gobierno centralizará datos de servicios sociales con fondos 🇪🇺. Se promete #Transparencia, pero se traslada la carga de trabajo a Ayuntamientos sin presupuesto claro. ¿Mejora real o burocracia? #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada en el texto",
+      "Delegación de responsabilidad de carga de datos en entes locales sin recursos adicionales",
+      "Implementación supeditada a convenios bilaterales potencialmente opacos",
+      "Uso de conceptos vagos como 'apoyo financiero flexible' para el soporte técnico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Derechos Sociales (mayor control central de datos)",
+        "Empresas de consultoría y desarrollo tecnológico (mantenimiento del SIESS)",
+        "Instituciones europeas (cumplimiento de hitos del PRTR)"
+      ],
+      "perdedores": [
+        "Ayuntamientos y Entidades Locales (asumen la responsabilidad de proveer datos sin financiación directa)",
+        "CCAA (pérdida de exclusividad en la gestión de la información de sus usuarios)",
+        "Personal administrativo de servicios sociales (mayor carga de trabajo en reporte de datos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización y Estadística de Servicios Sociales",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada en el texto",
+      "Delegación de responsabilidad de carga de datos en entes locales sin recursos adicionales",
+      "Implementación supeditada a convenios bilaterales potencialmente opacos",
+      "Uso de conceptos vagos como 'apoyo financiero flexible' para el soporte técnico"
+    ]
+  },
+  "tweeted": false
+}
