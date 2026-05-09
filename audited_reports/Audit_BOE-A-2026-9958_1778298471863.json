@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-9958",
+  "timestamp": "2026-05-09T03:47:51.863Z",
+  "title": "Acuerdo internacional administrativo entre el Ministerio de Educación, Formación Profesional y Deportes del Reino de España y la Escuela de lenguas extranjeras de Ganquan de Shanghái en China para continuidad de la sección bilingüe de español, hecho en Pekín y Shanghái el 14 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo presenta una asimetría en la transparencia financiera. Mientras que las obligaciones de la parte china (vivienda, seguro, salario local) están claramente definidas en especie, las obligaciones financieras de España quedan ocultas bajo la cláusula de 'disponibilidad presupuestaria'. No se especifican los importes de los complementos salariales ni de las ayudas de desplazamiento, remitiendo a convocatorias futuras. Esto constituye una práctica de 'presupuesto en blanco' en el texto del acuerdo, dificultando la fiscalización ciudadana inmediata sobre el coste real de este programa de 'soft power' en el extranjero.",
+    "resumen_ciudadano": "España y una escuela de Shanghái renuevan un programa de profesores de español. El gobierno español enviará docentes pagándoles un extra y el viaje, mientras la escuela china les da casa, seguro médico y el sueldo base. Aunque suena bien para la cultura, el documento no dice cuánto dinero público español se va a gastar exactamente en estas 'ayudas' y materiales.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el acuerdo España-China en el #BOE: enviamos profes a Shanghái con ayudas de cuantía desconocida. 💶 ¿Cuánto nos cuesta realmente este 'Soft Power'? Mucha letra bilingüe y poca cifra clara. #Transparencia #Educación #Opacidad 🇨🇳🇪🇸",
+    "banderas_red_flags": [
+      "Cuantía de ayudas económicas no especificada en el texto",
+      "Gasto condicionado a 'disponibilidades presupuestarias' sin techo máximo",
+      "Falta de mecanismos de evaluación de impacto o retorno de inversión",
+      "Ambigüedad en el coste de los materiales didácticos a suministrar"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes licenciados con experiencia (oportunidad laboral internacional)",
+        "Escuela de Ganquan (obtiene profesorado nativo subvencionado)",
+        "Ministerio de Asuntos Exteriores (proyección de marca país)"
+      ],
+      "perdedores": [
+        "Contribuyente español (asume costes de formación y traslado sin transparencia de cifras)",
+        "Sistema educativo nacional (fuga de talento cualificado con 2 años de experiencia previa)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Internacional",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Cuantía de ayudas económicas no especificada en el texto",
+      "Gasto condicionado a 'disponibilidades presupuestarias' sin techo máximo",
+      "Falta de mecanismos de evaluación de impacto o retorno de inversión",
+      "Ambigüedad en el coste de los materiales didácticos a suministrar"
+    ]
+  },
+  "tweeted": false
+}
