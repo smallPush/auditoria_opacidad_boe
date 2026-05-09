@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10049",
+  "timestamp": "2026-05-09T13:47:35.956Z",
+  "title": "Resolución de 28 de abril de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento refleja la resolución de puestos mediante el sistema de 'libre designación', un mecanismo que permite la elección discrecional de personal dentro de la administración pública. Aunque se ampara en la ley, este sistema es inherentemente opaco al sustituir el concurso de méritos objetivo por criterios de 'idoneidad' y 'capacidad personal' evaluados de forma subjetiva por el centro directivo. Resulta llamativo que una plaza de nivel 17, con funciones de secretaría, se cubra por este método, y que otra quede 'desierta', lo que podría indicar una falta de candidatos que cumplan el perfil de confianza específico buscado.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha finalizado un proceso para elegir a dedo a un secretario de confianza para un Director General. De las dos plazas ofrecidas, una ha sido otorgada a un funcionario específico y la otra se ha dejado vacante. Este proceso no es una oposición abierta, sino una selección directa basada en la confianza del superior.",
+    "resumen_tweet": "🚨 Nueva 'Libre Designación' en el Ministerio de Trabajo. Puestos de secretaría elegidos a dedo bajo el criterio subjetivo de 'idoneidad'. ¿Meritocracia o red de confianza? 🧐 Una plaza queda desierta. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles administrativos medios (Nivel 17)",
+      "Criterios de valoración no cuantificados",
+      "Plaza declarada desierta sin justificación detallada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Ordiales Aroca (adjudicatario)",
+        "Altos cargos del Ministerio (capacidad de elegir personal afín)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin perfil de confianza política",
+        "Transparencia en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles administrativos medios (Nivel 17)",
+      "Criterios de valoración no cuantificados",
+      "Plaza declarada desierta sin justificación detallada"
+    ]
+  },
+  "tweeted": false
+}
