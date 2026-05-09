@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10042",
+  "timestamp": "2026-05-09T13:20:13.747Z",
+  "title": "Resolución de 8 de mayo de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución publica datos numéricos exactos, existe una opacidad estructural en el proceso de fijación de precios. El Estado actúa meramente como un 'notario' de las decisiones tomadas por fabricantes e importadores privados. Se observa una segmentación agresiva de mercado: desde productos de lujo (Davidoff a 16,20€/unidad) hasta 'cigarritos' de bajo coste (0,22€/unidad), lo cual busca mantener la base de consumidores en todos los estratos sociales. No hay un desglose real de la carga impositiva frente al beneficio industrial en este documento.",
+    "resumen_ciudadano": "El Gobierno actualiza los precios de venta al público de diversas marcas de tabaco (puros, picadura de liar y de pipa) tras las propuestas enviadas por la industria. Este cambio afecta directamente al bolsillo del consumidor en la Península y Baleares.",
+    "resumen_tweet": "🚬 El #BOE actualiza los precios del tabaco. No es solo gestión, es el Estado validando las decisiones de la industria tabaquera. Desde puros de lujo (16€) hasta opciones low-cost. ¿Recaudación o salud? #Opacidad #Transparencia #Hacienda 💰📉",
+    "banderas_red_flags": [
+      "Fijación de precios liderada por la industria privada y solo validada por el Estado",
+      "Ausencia de desglose entre impuestos directos y margen de beneficio comercial",
+      "Precios extremadamente bajos en 'cigarritos' que pueden incentivar el consumo en clases bajas",
+      "Vigencia inmediata que impide la reacción o adaptación del consumidor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantenimiento de recaudación vía impuestos especiales)",
+        "Grandes corporaciones tabaqueras (control del PVP y márgenes)",
+        "Expendedurías (estabilidad de margen oficial)"
+      ],
+      "perdedores": [
+        "Consumidores (pérdida de poder adquisitivo por actualización de precios)",
+        "Salud Pública (la segmentación de precios permite mantener la adicción en rentas bajas)",
+        "Transparencia real sobre el peso del lobby tabaquero en la normativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península y Baleares)",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Fijación de precios liderada por la industria privada y solo validada por el Estado",
+      "Ausencia de desglose entre impuestos directos y margen de beneficio comercial",
+      "Precios extremadamente bajos en 'cigarritos' que pueden incentivar el consumo en clases bajas",
+      "Vigencia inmediata que impide la reacción o adaptación del consumidor"
+    ]
+  },
+  "tweeted": false
+}
