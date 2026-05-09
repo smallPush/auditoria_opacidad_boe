@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10060",
+  "timestamp": "2026-05-09T13:55:25.888Z",
+  "title": "Corrección de errores del Acuerdo de 27 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de cargos judiciales entre miembros de la Carrera Judicial, con categoría de Magistrado/a.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque se presenta como una corrección técnica de errores, este ajuste en la definición de una plaza judicial en Arganda del Rey (de Civil e Instrucción a solo Instrucción) refleja una falta de rigor en la planificación de los recursos judiciales. La imprecisión inicial en un documento del Consejo General del Poder Judicial sugiere una cadena de supervisión laxa en la asignación de plazas que definen el acceso a la justicia penal frente a la civil.",
+    "resumen_ciudadano": "El CGPJ ha corregido un error en la convocatoria de una plaza de magistrado en Madrid. Originalmente se indicó que la plaza cubría tanto asuntos civiles como de instrucción, pero ahora se especifica que solo será de instrucción. Este tipo de rectificaciones públicas, aunque necesarias, evidencian fallos administrativos en el órgano de gobierno de los jueces.",
+    "resumen_tweet": "⚖️ ¡Rectificación en el #BOE! El CGPJ aclara que una plaza en Arganda del Rey es solo de instrucción, no civil. Los errores en la definición de plazas judiciales afectan a la especialización y al servicio público. #Transparencia #Justicia #Opacidad 🏛️🔍",
+    "banderas_red_flags": [
+      "Falta de supervisión técnica previa en el CGPJ",
+      "Modificación de la naturaleza de la plaza tras la convocatoria original",
+      "Gasto administrativo derivado de la republicación por errores evitables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados con perfil estrictamente penalista",
+        "Cuerpo administrativo del CGPJ al subsanar la errata antes de la adjudicación"
+      ],
+      "perdedores": [
+        "Magistrados con perfil civilista que pudieran haber mostrado interés",
+        "Ciudadanos de Arganda del Rey por la confusión en la especialización de sus tribunales",
+        "Erario público por los costes operativos de la gestión de errores"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Administración de Justicia",
+    "banderas_rojas": [
+      "Falta de supervisión técnica previa en el CGPJ",
+      "Modificación de la naturaleza de la plaza tras la convocatoria original",
+      "Gasto administrativo derivado de la republicación por errores evitables"
+    ]
+  },
+  "tweeted": false
+}
