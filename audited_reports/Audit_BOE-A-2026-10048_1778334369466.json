@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10048",
+  "timestamp": "2026-05-09T13:46:09.466Z",
+  "title": "Resolución de 28 de abril de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de doña Ana Isabel Secada Gutiérrez, Fiscal con destino en la Fiscalía de la Comunidad Autónoma de Cantabria.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para la jubilación voluntaria de un alto cargo del Ministerio Fiscal. Aunque el procedimiento es legalmente transparente, subyace la brecha de clase entre los regímenes de pensiones de la élite funcionarial (Clases Pasivas) y el trabajador medio. La terminología de 'Eficiencia del Servicio Público' resulta irónica al aplicarse a un trámite puramente burocrático de salida de personal.",
+    "resumen_ciudadano": "Se declara la jubilación voluntaria de doña Ana Isabel Secada Gutiérrez como Fiscal en Cantabria, asegurando sus derechos de pensión bajo el régimen especial de Clases Pasivas a partir del 14 de mayo de 2026.",
+    "resumen_tweet": "⚖️ Una fiscal en Cantabria se jubila voluntariamente. Mientras el ciudadano medio lidia con reformas de pensiones, la élite judicial asegura sus 'derechos pasivos' bajo regímenes especiales. ¿Justicia o privilegio? #BOE #Opacidad #Transparencia 💸",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la pensión generada",
+      "Tratamiento preferencial del régimen de Clases Pasivas",
+      "Procedimiento de jubilación voluntaria sin mención a la tasa de reposición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel Secada Gutiérrez (salida con derechos pasivos consolidados)",
+        "Cúpula del Ministerio Fiscal"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social General (por la dualidad de regímenes)",
+        "Contribuyentes (que financian pensiones de alta escala sin detalle presupuestario en el BOE)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Recursos Humanos y Personal de Justicia",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la pensión generada",
+      "Tratamiento preferencial del régimen de Clases Pasivas",
+      "Procedimiento de jubilación voluntaria sin mención a la tasa de reposición"
+    ]
+  },
+  "tweeted": false
+}
