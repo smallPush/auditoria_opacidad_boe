@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10061",
+  "timestamp": "2026-05-09T13:53:15.691Z",
+  "title": "Resolución de 7 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución utiliza un lenguaje técnico para revestir de meritocracia un proceso de 'Libre Designación' (nombramiento discrecional). Aunque se introducen 'informes de expertos' y 'cuestionarios de autoevaluación' bajo el paraguas del Plan de Recuperación (fondos UE), la decisión final sigue siendo subjetiva y dependiente de la jerarquía política. El plazo de 10 días naturales es excesivamente corto, lo que suele favorecer a candidatos ya preseleccionados internamente.",
+    "resumen_ciudadano": "Se convoca una plaza de alto nivel (Subdirector General) en el Ministerio de Educación para gestionar centros españoles en el extranjero. A pesar de hablar de 'competencias directivas' y 'expertos', el sistema de elección es el de 'dedazo' legalizado (libre designación), con un sueldo complementario de más de 30.000 euros anuales.",
+    "resumen_tweet": "🚨 ¿Transparencia o 'dedazo' técnico? El Ministerio de Educación convoca un puesto de Nivel 30 por Libre Designación. Mucho 'cuestionario' pero la decisión final es discrecional. ¡Plazo de solo 10 días! ⏳ #BOE #Opacidad #Transparencia #Funcionario",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Plazo de presentación de 10 días naturales",
+      "Entrevista limitable a juicio de expertos",
+      "Uso de fondos de Resiliencia para justificar burocracia directiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Subgrupo A1 con proximidad política",
+        "Élite administrativa con red de contactos en el Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin perfil político",
+        "Cultura de transparencia administrativa",
+        "Ciudadanía que financia puestos de alta dirección sin concurso público abierto"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo por Libre Designación",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Plazo de presentación de 10 días naturales",
+      "Entrevista limitable a juicio de expertos",
+      "Uso de fondos de Resiliencia para justificar burocracia directiva"
+    ]
+  },
+  "tweeted": false
+}
