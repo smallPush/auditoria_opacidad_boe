@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10058",
+  "timestamp": "2026-05-09T13:51:30.582Z",
+  "title": "Resolución de 5 de mayo de 2026, de la Universidad Complutense de Madrid, por la que se corrigen errores en la de 20 de abril de 2026, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una correccion de errores materiales sobre una resolucion previa de nombramiento de personal funcionario de los Cuerpos Docentes Universitarios. El cambio se limita estrictamente a la codificacion interna de las plazas (pasando de la serie 03XX a la 13XX). Aunque es un acto puramente administrativo, refleja una falta de precision inicial en documentos de alta relevancia juridica y laboral, lo que obliga a gastar recursos publicos en la publicacion de una fe de erratas en el BOE para garantizar la seguridad juridica de las nombradas.",
+    "resumen_ciudadano": "La Universidad Complutense de Madrid ha corregido los codigos de identificacion de tres plazas de catedraticas en las facultades de Ciencias de la Informacion, Quimicas y Farmacia. El error original afectaba a la referencia numerica de las plazas, no a las personas designadas ni a sus meritos.",
+    "resumen_tweet": "🔍 Auditoria #BOE: La UCM rectifica codigos de plaza para 3 catedraticas. ¿Descuido administrativo o complejidad burocratica excesiva? La transparencia empieza por la precision en los nombramientos. 🏛️ #Opacidad #Transparencia #UCM",
+    "banderas_red_flags": [
+      "Modificacion de codigos de plaza tras la publicacion oficial",
+      "Consumo de recursos publicos para corregir errores evitables",
+      "Opacidad en el significado tecnico del cambio de prefijo en los codigos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Luisa Garcia Guardia",
+        "Rosa Maria Pardo San Gil",
+        "Aranzazu Sanchez Muñoz (aseguran la validez administrativa de su plaza)"
+      ],
+      "perdedores": [
+        "La eficiencia administrativa (coste de republicacion)",
+        "El ciudadano (paga los errores de gestion de la Universidad)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Personal Funcionario - Cuerpos Docentes Universitarios",
+    "banderas_rojas": [
+      "Modificacion de codigos de plaza tras la publicacion oficial",
+      "Consumo de recursos publicos para corregir errores evitables",
+      "Opacidad en el significado tecnico del cambio de prefijo en los codigos"
+    ]
+  },
+  "tweeted": false
+}
