@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10055",
+  "timestamp": "2026-05-09T13:49:12.811Z",
+  "title": "Resolución de 28 de abril de 2026, conjunta de la Universidad de Córdoba y el Servicio Andaluz de Salud, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Pablo Jesús López Soto.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento formaliza un nombramiento de alto rango mediante la figura de 'plaza vinculada', un mecanismo que fusiona la carrera académica con la asistencial sanitaria. Aunque legal, esta estructura genera opacidad en el coste real para el contribuyente al repartirse la carga salarial entre la Universidad de Córdoba y el Servicio Andaluz de Salud (SAS) sin especificar cuantías. Se observa el fenómeno de la 'escalera mecánica de cristal', donde un varón alcanza el máximo escalafón (Catedrático) en un área tradicionalmente feminizada como la Enfermería, reflejando una brecha de género en la alta dirección de los cuidados.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Catedrático de Enfermería que desempeñará funciones tanto docentes en la Universidad de Córdoba como asistenciales en el Hospital Universitario Reina Sofía. Este tipo de puestos híbridos representan la élite del sistema público de salud y educación, uniendo dos sueldos o responsabilidades en una sola figura administrativa de alto nivel.",
+    "resumen_tweet": "📢 Nombramiento de Catedrático en Córdoba: plaza vinculada entre Universidad y Salud Pública. Alta jerarquía académica en un área feminizada liderada por un varón. ¿Sabemos el coste total de estas duplicidades? 🏥🎓 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el desglose presupuestario compartido entre Universidad y SAS",
+      "Posible sesgo de género en el acceso a la cátedra en sectores de cuidados",
+      "Uso de terminología técnica para enmascarar la duplicidad de funciones administrativas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El candidato nombrado (acceso a estatus vitalicio y doble competencia)",
+        "Universidad de Córdoba (refuerzo de cátedra)",
+        "Servicio Andaluz de Salud"
+      ],
+      "perdedores": [
+        "Transparencia presupuestaria (fragmentación de nóminas públicas)",
+        "Equidad de género (predominio masculino en la cúpula de enfermería)",
+        "Personal eventual con menor acceso a plazas vinculadas de alta jerarquía"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Cuerpos Docentes Universitarios",
+    "banderas_rojas": [
+      "Opacidad en el desglose presupuestario compartido entre Universidad y SAS",
+      "Posible sesgo de género en el acceso a la cátedra en sectores de cuidados",
+      "Uso de terminología técnica para enmascarar la duplicidad de funciones administrativas"
+    ]
+  },
+  "tweeted": false
+}
