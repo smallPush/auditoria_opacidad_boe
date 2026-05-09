@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10044",
+  "timestamp": "2026-05-09T13:43:34.692Z",
+  "title": "Resolución de 28 de abril de 2026, de la Intervención General de la Seguridad Social, por la que se modifica la de 3 de julio de 2014, por la que se aprueba la instrucción de gestión contable para las entidades que integran el Sistema de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion formaliza la transicion definitiva hacia una contabilidad puramente digital en la Seguridad Social (aplicaciones GEXI y SICOSS). El punto mas critico es la reclasificacion de las movilizaciones de fondos entre cuentas de la Tesoreria General: pasan de requerir autorizacion previa a ser registradas despues de que el movimiento real de dinero haya ocurrido (contabilidad patrimonial ex-post). Si bien se justifica por eficiencia administrativa para evitar el colapso de documentos, esta medida relaja el control preventivo sobre la liquidez interna, permitiendo una mayor discrecionalidad en el flujo de fondos entre centros gestores sin el freno de la 'propuesta de pago' tradicional.",
+    "resumen_ciudadano": "La Seguridad Social elimina el papel y pasa a un sistema digital para sus cuentas. El cambio principal es que los trasvases de dinero entre sus propias cuentas bancarias se anotaran despues de haberse realizado para 'ahorrar burocracia'. Esto agiliza la administracion pero disminuye la capacidad de auditar el movimiento de dinero publico en el momento exacto en que sucede.",
+    "resumen_tweet": "🚨 Nueva contabilidad en la Seguridad Social: se digitalizan procesos pero los trasvases de fondos entre cuentas se registraran DESPUES de realizarse. ¿Agilidad o riesgo de opacidad? 🧐 Menos papel, mas dudas. #BOE #Opacidad #Transparencia #Control",
+    "banderas_red_flags": [
+      "Registro contable ex-post de movimientos de fondos",
+      "Automatizacion de asientos directos para regularizacion de resultados",
+      "Dependencia total de sistemas informaticos internos (SICOSS) para la generacion de inversos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Burocracia estatal (reduccion de carga administrativa)",
+        "Intervencion General de la Seguridad Social",
+        "Mutuas colaboradoras"
+      ],
+      "perdedores": [
+        "Control ciudadano en tiempo real",
+        "Trazabilidad inmediata de flujos de tesoreria",
+        "Transparencia de operaciones no presupuestarias"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificacion normativa de gestion contable",
+    "banderas_rojas": [
+      "Registro contable ex-post de movimientos de fondos",
+      "Automatizacion de asientos directos para regularizacion de resultados",
+      "Dependencia total de sistemas informaticos internos (SICOSS) para la generacion de inversos"
+    ]
+  },
+  "tweeted": false
+}
