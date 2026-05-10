@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-10057",
+  "timestamp": "2026-05-10T13:52:48.525Z",
+  "title": "Resolución de 29 de abril de 2026, de la Universidad Rey Juan Carlos, por la que se nombra Catedrática de Universidad a doña Belén Vela Sánchez.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Nombramiento de catedrática en la URJC bajo el amparo de la LOSU. Aunque el procedimiento es formalmente correcto y transparente en cuanto a identidad y área, el BOE sigue siendo una 'caja negra' respecto al impacto presupuestario real: se cita un código de plaza (Y157/DF012500) pero se omite la cuantía salarial y el coste total para el erario público. No hay 'gastos fantasma' directos, pero sí una falta de transparencia en la traslación de rangos académicos a coste ciudadano.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos ha nombrado a Belén Vela Sánchez como Catedrática de Universidad en el área de Lenguajes y Sistemas Informáticos tras un proceso de selección. Este es un cargo de funcionario de carrera de máximo nivel académico.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la URJC: Belén Vela Sánchez en 'Sistemas Informáticos'. Nombramiento técnico bajo la LOSU. Mucha formalidad, pero seguimos sin ver el coste real de cada plaza en el #BOE. 🏛️ #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Uso de códigos internos de plaza sin equivalencia económica pública",
+      "Ausencia de desglose presupuestario del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Belén Vela Sánchez",
+        "Universidad Rey Juan Carlos",
+        "Cuerpo de Catedráticos"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de detalle en el gasto)",
+        "Candidatos externos al sistema de promoción interna"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Uso de códigos internos de plaza sin equivalencia económica pública",
+      "Ausencia de desglose presupuestario del nombramiento"
+    ]
+  },
+  "tweeted": false
+}
