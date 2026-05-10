@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10053",
+  "timestamp": "2026-05-10T04:09:43.479Z",
+  "title": "Decreto de 20 de abril de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de la especialidad de lo Social de Fiscalía Provincial de Cádiz a doña Esperanza de la Paz Cabilla Martín.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque el proceso de nombramiento cumple con el Reglamento del Ministerio Fiscal, el documento revela una preocupante falta de concurrencia competitiva al haber una única solicitante. Lo más grave es la detección de una errata técnica en el Hecho Tercero, donde se menciona a una 'señora López Esteban' como persona idónea en lugar de la candidata propuesta, lo que denota un automatismo administrativo basado en plantillas ('copia y pega') que compromete la calidad del control institucional en el BOE.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de doña Esperanza de la Paz Cabilla Martín como Fiscal Delegada de lo Social en Cádiz. Fue la única aspirante al cargo, un fenómeno común en plazas de especialización técnica que limita la capacidad de elegir entre diversos perfiles.",
+    "resumen_tweet": "⚖️ Solo una candidata para la Fiscalía de Cádiz y una errata en el texto que menciona a otra persona. ¿Control de calidad o puro automatismo burocrático? La transparencia exige más que cumplir trámites. #BOE #Opacidad #Transparencia #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Candidatura única (ausencia de competencia)",
+      "Errata de identidad en el Hecho Tercero (menciona a López Esteban)",
+      "Uso de plantillas administrativas sin revisión rigurosa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña Esperanza de la Paz Cabilla Martín",
+        "Continuismo en la Fiscalía Provincial de Cádiz"
+      ],
+      "perdedores": [
+        "Principio de concurrencia competitiva",
+        "Rigurosidad en la publicación de documentos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Candidatura única (ausencia de competencia)",
+      "Errata de identidad en el Hecho Tercero (menciona a López Esteban)",
+      "Uso de plantillas administrativas sin revisión rigurosa"
+    ]
+  },
+  "tweeted": false
+}
