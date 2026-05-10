@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10052",
+  "timestamp": "2026-05-10T13:51:16.392Z",
+  "title": "Resolución de 29 de abril de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 6 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se documenta la adjudicación de un puesto de trabajo mediante el sistema de 'libre designación' (discrecionalidad técnica o política) para una plaza de nivel 17 en la Secretaría General de Consumo y Juego. Aunque el procedimiento es legal bajo la Ley 30/1984, el uso de este mecanismo para puestos de apoyo administrativo (C1) en un ministerio que gestiona áreas sensibles como el Juego, refuerza la estructura de clientelismo interno al evitar el concurso de méritos convencional.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha nombrado a una nueva ayudante de secretaría para el área de Consumo y Juego. La elección no se ha realizado por concurso público de méritos, sino por elección directa (libre designación), un método que permite a los altos cargos elegir a dedo a su personal de confianza administrativa.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Derechos Sociales. Se utiliza la libre designación para un puesto de secretaría en Consumo y Juego. Menos mérito y más confianza política. #BOE #Opacidad #Transparencia 🕵️‍♂️⚖️",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles administrativos bajos (Nivel 17)",
+      "Falta de desglose de criterios de idoneidad del candidato",
+      "Procedimiento que prioriza la confianza sobre el mérito competitivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Bocio Jaramillo (adjudicataria)",
+        "Altos cargos del Ministerio (aseguran personal de su confianza personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran por concurso",
+        "Principio de neutralidad de la Administración Pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de personal por libre designación",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles administrativos bajos (Nivel 17)",
+      "Falta de desglose de criterios de idoneidad del candidato",
+      "Procedimiento que prioriza la confianza sobre el mérito competitivo"
+    ]
+  },
+  "tweeted": false
+}
