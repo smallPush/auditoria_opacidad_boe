@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10047",
+  "timestamp": "2026-05-10T13:50:13.926Z",
+  "title": "Resolución de 5 de mayo de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 2 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución expone la adjudicación de plazas de funcionarios del Ministerio de Justicia mediante el sistema de concurso. Se observa una tendencia preocupante de plazas 'desiertas' (3 puestos correlativos de Auxiliar de Oficina) específicamente en la Gerencia de Barcelona, lo que sugiere una incapacidad del sistema para atraer personal de niveles bajos (C2) a ciudades con alto coste de vida bajo la etiqueta de 'carácter voluntario'. Al considerarse voluntarios, la Administración se ahorra cualquier tipo de indemnización por traslado, penalizando la movilidad de las rentas más bajas del funcionariado (Clase y Rango).",
+    "resumen_ciudadano": "Publicación de los nuevos destinos para funcionarios en el Ministerio de Justicia. Incluye puestos de oficina, conductores y jefaturas de negociado en diversas comunidades autónomas. Destaca que varios puestos en Cataluña han quedado vacíos por falta de solicitantes.",
+    "resumen_tweet": "⚖️ Nuevos destinos en Justicia: El #BOE publica adjudicaciones de plazas, pero saltan las alarmas: Barcelona se queda con vacantes de auxiliares. ¿Sueldos bajos y alquileres altos? La administración ahorra en traslados a costa del empleado. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plazas desiertas sistemáticas en Barcelona (C2)",
+      "Cláusula de irrenunciabilidad forzosa de los puestos",
+      "Ahorro fiscal del Estado mediante la etiqueta de 'traslado voluntario' sin indemnización",
+      "Opacidad en la puntuación exacta obtenida por cada candidato en el anexo público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (ahorro en dietas y gastos de mudanza)",
+        "Funcionarios con mayor antigüedad en niveles C1/C2"
+      ],
+      "perdedores": [
+        "Ciudadanos de Barcelona (servicios públicos con plazas de oficina sin cubrir)",
+        "Funcionarios de niveles bajos sin capacidad económica para traslados no subvencionados"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Plazas desiertas sistemáticas en Barcelona (C2)",
+      "Cláusula de irrenunciabilidad forzosa de los puestos",
+      "Ahorro fiscal del Estado mediante la etiqueta de 'traslado voluntario' sin indemnización",
+      "Opacidad en la puntuación exacta obtenida por cada candidato en el anexo público"
+    ]
+  },
+  "tweeted": false
+}
