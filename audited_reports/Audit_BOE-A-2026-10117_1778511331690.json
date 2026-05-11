@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-10117",
+  "timestamp": "2026-05-11T14:55:31.690Z",
+  "title": "Ley 2/2026, de 28 de abril, de simplificación administrativa, mercado abierto y calidad normativa.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 2/2026 de La Rioja bajo el estandarte de la 'simplificación' introduce un cambio de paradigma hacia la liberalización extrema. El pilar de 'Mercado Abierto' permite que operadores de otras CCAA actúen sin controles previos locales, lo que puede derivar en una desprotección del consumidor riojano ante estándares regulatorios distintos. Destaca la creación de 'entidades colaboradoras de certificación', una privatización de facto de la inspección y verificación administrativa, donde empresas privadas cobrarán por validar trámites que antes supervisaba el funcionario público. Aunque se menciona la IA y la robotización, no se detallan salvaguardas contra sesgos algorítmicos en la toma de decisiones automáticas.",
+    "resumen_ciudadano": "Esta ley reduce los trámites para abrir negocios, sustituyendo licencias por declaraciones responsables y haciendo que, si la administración no responde a tiempo, el ciudadano gane por silencio positivo. También permite que empresas privadas certifiquen la legalidad de los documentos y reconoce automáticamente licencias de otras regiones para fomentar la inversión.",
+    "resumen_tweet": "📉 La Rioja apuesta por la desregulación total con la Ley 2/2026. Menos controles previos, privatización de inspecciones mediante entidades certificadoras y vía libre al 'mercado abierto'. ¿Agilidad o pérdida de control público? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Privatización de la función de verificación a través de entidades colaboradoras",
+      "Posible desprotección ante el reconocimiento automático de licencias externas (Mercado Abierto)",
+      "Falta de especificidad presupuestaria para el despliegue de IA y robotización",
+      "Riesgo de indefensión en el silencio administrativo si los recursos de inspección posterior son insuficientes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes inversores",
+        "Empresas de certificación privada",
+        "Operadores económicos de otras CCAA",
+        "Sector tecnológico de IA"
+      ],
+      "perdedores": [
+        "Pequeño comercio local sujeto a mayor competencia externa",
+        "Cuerpo de inspectores públicos (externalización de tareas)",
+        "Ciudadanos en zonas rurales con brecha digital persistente"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Ley de Simplificación Administrativa y Liberalización Económica",
+    "banderas_rojas": [
+      "Privatización de la función de verificación a través de entidades colaboradoras",
+      "Posible desprotección ante el reconocimiento automático de licencias externas (Mercado Abierto)",
+      "Falta de especificidad presupuestaria para el despliegue de IA y robotización",
+      "Riesgo de indefensión en el silencio administrativo si los recursos de inspección posterior son insuficientes"
+    ]
+  },
+  "tweeted": false
+}
