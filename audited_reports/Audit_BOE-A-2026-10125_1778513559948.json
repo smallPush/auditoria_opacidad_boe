@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10125",
+  "timestamp": "2026-05-11T15:32:39.948Z",
+  "title": "Resolución de 30 de abril de 2026, de la Secretaría de Estado de Justicia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se formaliza un nombramiento de alto nivel (Nivel 29) mediante el mecanismo de 'libre designación'. Este procedimiento, aunque legal bajo la Ley 30/1984, es intrínsecamente opaco ya que permite la elección discrecional de personal en puestos técnicos críticos como la ciberseguridad y la transformación digital de la justicia. La resolución no aporta ninguna motivación técnica o comparativa de méritos, limitándose a citar la normativa vigente. El control de las infraestructuras digitales del Estado por perfiles de 'confianza' política en lugar de concurso puro de méritos plantea dudas sobre la independencia técnica en la gestión de datos sensibles.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha asignado a dedo un puesto de Coordinador de Infraestructuras en el área de Ciberseguridad. Se trata de una posición de Nivel 29, una de las escalas más altas y mejor remuneradas de la administración. Al usarse el método de libre designación, no se garantiza que se haya elegido al candidato con más méritos técnicos, sino al que cuenta con la confianza política del directivo de turno.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el Ministerio de Justicia. Se adjudica un puesto de Nivel 29 en Ciberseguridad por libre designación. ¿Meritocracia o confianza política en áreas digitales críticas? 🧐 La transparencia brilla por su ausencia. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en puestos de alta responsabilidad técnica",
+      "Nivel salarial 29 (Escalafón superior)",
+      "Nombramiento en área estratégica (Ciberseguridad y Transformación Digital)",
+      "Ausencia total de justificación de méritos en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Pedro Domínguez Redondo (Adjudicatario)",
+        "Secretaría de Estado de Justicia (Asegura control de confianza en infraestructura digital)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos políticos (Excluidos de la competencia por mérito puro)",
+        "Contribuyentes (Pagan salarios de alta dirección sin garantías de selección óptima)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación en puestos de alta responsabilidad técnica",
+      "Nivel salarial 29 (Escalafón superior)",
+      "Nombramiento en área estratégica (Ciberseguridad y Transformación Digital)",
+      "Ausencia total de justificación de méritos en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
