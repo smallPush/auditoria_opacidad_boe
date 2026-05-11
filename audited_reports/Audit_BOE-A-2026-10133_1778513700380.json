@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10133",
+  "timestamp": "2026-05-11T15:35:00.380Z",
+  "title": "Resolución de 4 de mayo de 2026, del Consejo de Seguridad Nuclear, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 9 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica un puesto de Nivel 29 (Coordinador Técnico de Ingeniería) mediante el sistema de 'libre designación', un mecanismo que permite la discrecionalidad en el nombramiento. Aunque se menciona un informe de méritos, no se desglosan los criterios objetivos que hicieron al candidato superior a otros posibles aspirantes. El 'complemento específico' de 32.511,22 euros, sumado al sueldo base de un A1, sitúa esta retribución en los estratos más altos de la administración, protegida por la opacidad de los cargos 'de confianza'.",
+    "resumen_ciudadano": "El Consejo de Seguridad Nuclear ha cubierto un puesto directivo clave de forma discrecional (a dedo). El elegido disfrutará de un complemento salarial de más de 32.000 euros anuales. Este tipo de nombramientos en organismos de seguridad técnica genera dudas sobre si prima la afinidad personal/política sobre la excelencia técnica puramente independiente.",
+    "resumen_tweet": "⚠️ ¡Nuevo 'dedazo' en el CSN! ☢️ Adjudicado un puesto Nivel 29 por libre designación con un plus de 32.511€. La opacidad en los nombramientos directos sigue reinando en organismos clave. ¿Meritocracia o confianza? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en puesto técnico crítico",
+      "Elevado complemento específico (32.511,22€)",
+      "Nivel administrativo 29 (máximo nivel es 30)",
+      "Ausencia de desglose de puntuaciones de candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Mendoza Gómez (adjudicatario)",
+        "Élite administrativa (Cuerpo A1)",
+        "Dirección del CSN (control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Meritocracia administrativa",
+        "Funcionarios sin conexiones de confianza",
+        "Transparencia pública en organismos reguladores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación en puesto técnico crítico",
+      "Elevado complemento específico (32.511,22€)",
+      "Nivel administrativo 29 (máximo nivel es 30)",
+      "Ausencia de desglose de puntuaciones de candidatos"
+    ]
+  },
+  "tweeted": false
+}
