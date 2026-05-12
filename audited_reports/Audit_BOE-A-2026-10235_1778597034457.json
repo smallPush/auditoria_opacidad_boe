@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10235",
+  "timestamp": "2026-05-12T14:43:54.457Z",
+  "title": "Orden ECM/453/2026, de 7 de mayo, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «Personajes de Francisco Ibáñez».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la orden presenta un alto nivel de detalle técnico sobre la acuñación, subyace una operación comercial pública que mercantiliza el patrimonio cultural. Existe un desajuste flagrante entre el valor facial (1,5€) y el precio de venta al público (23,97€ + IVA), lo que convierte un supuesto 'homenaje' en un producto de inversión o lujo con un margen de beneficio superior al 1500% para la Fábrica Nacional de Moneda y Timbre (FNMT). La discrecionalidad para revisar precios basada en fluctuaciones del mercado de metales añade una capa de volatilidad controlada por la Administración.",
+    "resumen_ciudadano": "El Gobierno emitirá en 2026 una serie de 9 monedas de colección dedicadas a Francisco Ibáñez (Mortadelo, Filemón, etc.). Cada moneda tiene un valor legal de 1,5 euros pero se venderá a los ciudadanos por unos 24 euros más impuestos. Es una emisión limitada a 10.000 unidades por personaje destinada a coleccionistas.",
+    "resumen_tweet": "🕵️‍♂️ ¿Homenaje o negocio? El #BOE anuncia monedas de Mortadelo y Filemón. Valor facial: 1,5€. Precio venta: ¡23,97€ + IVA! 💸 El Estado monetiza la nostalgia por Ibáñez con un margen de beneficio masivo. #Opacidad #Transparencia #Cultura",
+    "banderas_red_flags": [
+      "Brecha excesiva entre valor facial y precio de venta",
+      "Uso de una entidad pública empresarial (FNMT) para fines puramente comerciales bajo capa cultural",
+      "Cláusula de revisión de precios al alza por fluctuación de metales sin auditoría externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fábrica Nacional de Moneda y Timbre (ingresos por comercialización)",
+        "Tesoro Público (cobro del valor facial)",
+        "Coleccionistas e inversores numismáticos"
+      ],
+      "perdedores": [
+        "Clase trabajadora y fans de Ibáñez (precio prohibitivo para una moneda de cobre)",
+        "Acceso universal a la cultura (convertida en objeto de lujo limitado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Monetaria / Cultura",
+    "banderas_rojas": [
+      "Brecha excesiva entre valor facial y precio de venta",
+      "Uso de una entidad pública empresarial (FNMT) para fines puramente comerciales bajo capa cultural",
+      "Cláusula de revisión de precios al alza por fluctuación de metales sin auditoría externa"
+    ]
+  },
+  "tweeted": false
+}
