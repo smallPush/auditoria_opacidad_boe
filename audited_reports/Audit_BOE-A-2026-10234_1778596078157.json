@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10234",
+  "timestamp": "2026-05-12T14:27:58.157Z",
+  "title": "Orden ECM/452/2026, de 7 de mayo, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «V Centenario de Álvaro de Bazán».",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden ECM/452/2026 regula la emision de monedas de coleccion bajo una apariencia puramente tecnica, pero oculta un mecanismo de rentabilidad estatal mediante el 'señoreaje'. Se autoriza la venta de una moneda con valor facial de 5 euros a un precio inicial de 60,33 euros mas IVA, lo que supone un recargo superior al 1100%. Aunque el proceso de acuñacion y comercializacion por la FNMT es legal, no existe transparencia sobre el desglose de costes de produccion frente al margen de beneficio neto para la Entidad Publica. Ademas, la revision de precios queda sujeta a la discrecionalidad de la Direccion General del Tesoro basada en las fluctuaciones del mercado de metales, lo que introduce un elemento especulativo en un documento oficial del Estado.",
+    "resumen_ciudadano": "El Gobierno emitira 4.000 monedas de plata para conmemorar a Alvaro de Bazan. Aunque el valor legal de la moneda es de solo 5 euros, el Estado la vendera a los ciudadanos por mas de 60 euros (mas impuestos). Es esencialmente un producto de lujo para coleccionistas e inversores, donde la Fabrica Nacional de Moneda y Timbre actua como una empresa comercial buscando beneficios, utilizando la historia militar de España como reclamo.",
+    "resumen_tweet": "🪙 ¿60€ por una moneda de 5€? El #BOE publica la emision por el V Centenario de Alvaro de Bazan. Un negocio estatal con margen del 1000% bajo el sello de la FNMT. Coleccionismo de lujo y poca claridad en costes. 💰 #Opacidad #Transparencia #Numismatica",
+    "banderas_red_flags": [
+      "Margen de beneficio comercial excesivo sobre valor facial",
+      "Discrecionalidad en la revision de precios de venta",
+      "Uso de recursos publicos para fines de coleccionismo privado",
+      "Falta de desglose en el destino del beneficio excedente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fabrica Nacional de Moneda y Timbre (FNMT) por ingresos comerciales",
+        "Coleccionistas de alto poder adquisitivo",
+        "Instituciones de la Armada por promocion de imagen historica"
+      ],
+      "perdedores": [
+        "Ciudadano medio (excluido de la conmemoracion por el precio)",
+        "Tesoro Publico (solo recibe el valor facial de 5€ mientras la FNMT gestiona el sobreprecio)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Economia",
+    "banderas_rojas": [
+      "Margen de beneficio comercial excesivo sobre valor facial",
+      "Discrecionalidad en la revision de precios de venta",
+      "Uso de recursos publicos para fines de coleccionismo privado",
+      "Falta de desglose en el destino del beneficio excedente"
+    ]
+  },
+  "tweeted": false
+}
