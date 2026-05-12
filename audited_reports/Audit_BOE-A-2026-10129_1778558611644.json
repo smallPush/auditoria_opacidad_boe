@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10129",
+  "timestamp": "2026-05-12T04:03:31.644Z",
+  "title": "Resolución de 30 de abril de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 27 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica tres puestos de máxima categoría administrativa (Nivel 30) mediante el procedimiento de 'libre designación'. Este método, aunque legal, permite una discrecionalidad absoluta en la elección de personas, alejándose de los principios de igualdad, mérito y capacidad que rigen la función pública. El uso de la 'valoración de personas expertas' sin identificar a dichas personas ni sus criterios técnicos específicos oculta la subjetividad de los nombramientos. Los complementos específicos asignados (entre 30.436 y 35.952 euros adicionales al salario base) representan un gasto fijo considerable para puestos de confianza jerárquica bajo la apariencia de gestión profesionalizada.",
+    "resumen_ciudadano": "El CSIC ha completado la selección de tres altos cargos (una vicepresidenta y dos secretarios adjuntos) para sus oficinas en Madrid. Estos puestos han sido asignados 'a dedo' (libre designación) y conllevan los salarios más altos de la administración pública, con pluses anuales que superan los 30.000 euros. Aunque se menciona que expertos evaluaron a los candidatos, no se detalla por qué fueron elegidos sobre otros, manteniendo la opacidad en la cúpula científica y administrativa.",
+    "resumen_tweet": "🔍 El #CSIC adjudica 'a dedo' 3 puestos de Nivel 30. Cargos de libre designación con pluses salariales de hasta 35.952€ anuales. ¿Transparencia o dedocracia técnica en la élite administrativa? 💸 #BOE #Opacidad #Transparencia #Ciencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos técnicos de alto nivel",
+      "Opacidad en la identidad y criterios de los expertos evaluadores",
+      "Elevada cuantía de los complementos específicos (gastos fijos)",
+      "Consolidación de niveles 30 (máximo funcionarial) mediante discrecionalidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera del Grupo A1 seleccionados",
+        "Estructura política del Ministerio de Ciencia e Innovación"
+      ],
+      "perdedores": [
+        "Candidatos externos con méritos técnicos superiores",
+        "Principio de transparencia en el gasto público",
+        "Funcionarios que aspiran a una carrera basada exclusivamente en el mérito"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos técnicos de alto nivel",
+      "Opacidad en la identidad y criterios de los expertos evaluadores",
+      "Elevada cuantía de los complementos específicos (gastos fijos)",
+      "Consolidación de niveles 30 (máximo funcionarial) mediante discrecionalidad"
+    ]
+  },
+  "tweeted": false
+}
