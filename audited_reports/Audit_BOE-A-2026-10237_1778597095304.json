@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10237",
+  "timestamp": "2026-05-12T14:44:55.304Z",
+  "title": "Real Decreto 366/2026, de 29 de abril, por el que se adjudica en propiedad la plaza de Magistrado de la Audiencia Provincial de Málaga, correspondiente al orden penal y con competencia en materia de violencia sobre la mujer, a don José María Páez Martínez-Virel.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una adjudicación de plaza judicial de forma escueta y técnica. Si bien cumple con la legalidad vigente (LOPJ), la opacidad reside en la ausencia total de la justificación de méritos o puntuaciones que han llevado a este nombramiento específico. El uso del término 'en propiedad' subraya la inamovilidad y blindaje de la carrera judicial frente a criterios de evaluación de desempeño externos.",
+    "resumen_ciudadano": "Se formaliza el nombramiento permanente de don José María Páez Martínez-Virel como Magistrado en la Audiencia Provincial de Málaga, específicamente en el área de lo penal y violencia sobre la mujer.",
+    "resumen_tweet": "⚖️ Adjudicada plaza de Magistrado en Málaga para Violencia sobre la Mujer. El #BOE publica el nombre, pero oculta los méritos y el proceso de selección. ¿Blindaje judicial o transparencia? #Opacidad #Justicia #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Ausencia de baremos de méritos en el texto",
+      "Falta de referencia a la puntuación del concurso",
+      "Uso de fórmulas de poder discrecional ('Vengo en adjudicar')"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Páez Martínez-Virel (obtiene plaza en propiedad)",
+        "Ministerio de Justicia (cierre administrativo de plaza)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de los méritos del juez)",
+        "Candidatos alternativos (sin visibilidad del proceso competitivo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Ausencia de baremos de méritos en el texto",
+      "Falta de referencia a la puntuación del concurso",
+      "Uso de fórmulas de poder discrecional ('Vengo en adjudicar')"
+    ]
+  },
+  "tweeted": false
+}
