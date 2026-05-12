@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10135",
+  "timestamp": "2026-05-12T04:09:21.066Z",
+  "title": "Resolución de 28 de abril de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en la Escala de Ayudantes de Archivos, Bibliotecas y Museos.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento representa un acto administrativo estándar de nombramiento de personal funcionario de carrera. Llama la atención el uso del Real Decreto-ley 6/2023, una norma de 'medidas urgentes' vinculada al Plan de Recuperación, Transformación y Resiliencia, para regular plazos de toma de posesión ordinarios. Esto evidencia una tendencia a legislar mediante decretos de urgencia para cuestiones de gestión diaria de recursos humanos. El proceso ha tardado 14 meses desde la convocatoria inicial, lo que cuestiona la agilidad administrativa prometida en los planes de modernización.",
+    "resumen_ciudadano": "La Universidad Nacional de Educación a Distancia (UNED) ha nombrado oficialmente a dos nuevas funcionarias (Leticia Gómez y Laura Bravo) para su escala de Archivos, Bibliotecas y Museos tras superar una oposición libre. Las interesadas deben presentarse en Madrid en un plazo máximo de 15 días para empezar a trabajar.",
+    "resumen_tweet": "📢 La UNED nombra nuevas funcionarias de carrera en Archivos y Bibliotecas tras 14 meses de proceso. Se utiliza normativa de 'medidas urgentes' para trámites administrativos ordinarios. ¿Burocracia eficiente o eterna? 🏛️📜 #BOE #Transparencia #UNED #Oposiciones",
+    "banderas_red_flags": [
+      "Normalización del uso de Reales Decretos-leyes de urgencia para trámites administrativos comunes",
+      "Dilación de más de un año entre la convocatoria y el nombramiento final",
+      "Invisibilidad del coste presupuestario asociado a las nuevas plazas en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Leticia Gómez Isorna y Laura Bravo Prados (obtienen plaza fija)",
+        "UNED (cubre vacantes estructurales)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el proceso de acceso libre",
+        "Ciudadanía (por la demora en la resolución de procesos selectivos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Normalización del uso de Reales Decretos-leyes de urgencia para trámites administrativos comunes",
+      "Dilación de más de un año entre la convocatoria y el nombramiento final",
+      "Invisibilidad del coste presupuestario asociado a las nuevas plazas en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
