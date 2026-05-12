@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10123",
+  "timestamp": "2026-05-12T04:00:42.157Z",
+  "title": "Real Decreto 388/2026, de 6 de mayo, por el que se adjudica en propiedad la plaza de Magistrado de la Audiencia Provincial de Pontevedra, correspondiente al orden civil, a don Francisco Javier Menéndez Estébanez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza la adjudicación de una plaza judicial como resultado de un proceso de litigio interno (recurso de alzada). Se observa una opacidad procedimental típica de la cúpula judicial: se menciona la desestimación de un recurso previo contra la Comisión Permanente pero no se aclaran los motivos del conflicto inicial ni las razones de la resolución definitiva. La plaza se otorga 'en propiedad', lo que asegura una posición de poder vitalicia dentro del escalafón civil de la Audiencia Provincial de Pontevedra mediante un lenguaje administrativo que oculta las tensiones internas del CGPJ.",
+    "resumen_ciudadano": "Se otorga oficialmente una plaza de Magistrado en Pontevedra a Francisco Javier Menéndez Estébanez. Este nombramiento no es un trámite ordinario, sino la resolución de un conflicto legal interno donde el magistrado tuvo que impugnar una decisión previa del Consejo General del Poder Judicial para obtener su puesto.",
+    "resumen_tweet": "⚖️ ¿Qué pasa en las entrañas del CGPJ? Adjudicada plaza de magistrado en Pontevedra tras un recurso interno. La transparencia brilla por su ausencia sobre los motivos del conflicto. #BOE #Opacidad #Transparencia #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Existencia de conflicto administrativo previo (recurso de alzada)",
+      "Falta de justificación de méritos en el texto del decreto",
+      "Opacidad sobre el motivo de la desestimación del recurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Menéndez Estébanez",
+        "Alta judicatura (consolidación de plazas en propiedad)"
+      ],
+      "perdedores": [
+        "Transparencia pública sobre procesos de selección judicial",
+        "Ciudadanía (desconocimiento de criterios de idoneidad en órganos clave)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Adjudicaciones Judiciales",
+    "banderas_rojas": [
+      "Existencia de conflicto administrativo previo (recurso de alzada)",
+      "Falta de justificación de méritos en el texto del decreto",
+      "Opacidad sobre el motivo de la desestimación del recurso"
+    ]
+  },
+  "tweeted": false
+}
