@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10249",
+  "timestamp": "2026-05-12T14:48:38.135Z",
+  "title": "Resolución de 29 de abril de 2026, de la Universidad de Salamanca, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion cumple formalmente con la normativa de transparencia administrativa al publicar nombres y plazas, pero oculta el impacto presupuestario a largo plazo de estos nombramientos vitalicios. Se observa una aplicacion estandar de la LOSU (Ley Organica del Sistema Universitario), manteniendo la estructura tradicional de funcionariado. No se detallan los costes salariales ni los criterios de merito especificos que justificaron estas promociones frente a otros candidatos, perpetuando una opacidad endogámica tipica del sistema universitario español.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado formalmente a dos nuevos catedráticos en las áreas de Matematica Aplicada e Histología. Los nombrados tienen 20 días para tomar posesion de sus cargos, que tienen caracter vitalicio dentro del cuerpo docente del Estado.",
+    "resumen_tweet": "🎓 La Universidad de Salamanca nombra nuevos catedráticos en el #BOE. ¿Transparencia real o puro trámite? Se publican nombres, pero no el coste para las arcas públicas ni los méritos específicos. 🧐 #Opacidad #Transparencia #Universidad #Salamanca",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de informacion sobre la composicion exacta de los tribunales evaluadores",
+      "Opacidad en la puntuacion final obtenida por los candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Araceli Queiruga Dios (Catedrática)",
+        "Juan Carlos Arévalo Martín (Catedrático)",
+        "Universidad de Salamanca (Consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (sin acceso a plazas vitalicias)",
+        "Contribuyentes (por falta de transparencia en el gasto de personal docente)",
+        "Movilidad académica (el sistema favorece la promoción interna)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de informacion sobre la composicion exacta de los tribunales evaluadores",
+      "Opacidad en la puntuacion final obtenida por los candidatos"
+    ]
+  },
+  "tweeted": false
+}
