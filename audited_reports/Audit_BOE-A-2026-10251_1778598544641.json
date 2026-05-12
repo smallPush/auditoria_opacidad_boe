@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10251",
+  "timestamp": "2026-05-12T15:09:04.641Z",
+  "title": "Resolución de 29 de abril de 2026, de la Universidad de Sevilla, por la que se nombra Profesora Titular de Universidad a doña Laura Macías García.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento rutinario bajo el marco de la nueva Ley Orgánica del Sistema Universitario (LOSU). Aunque cumple con la legalidad, el documento es parco en detalles sobre los méritos específicos o la composición detallada del tribunal, remitiendo a resoluciones previas. La estructura administrativa mantiene una barrera de lenguaje técnico que dificulta al ciudadano medio evaluar si el proceso de selección fue realmente competitivo o una consolidación interna de facto.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a Laura Macías García como Profesora Titular en el área de Anatomía Patológica. Este es un paso administrativo final tras superar un concurso de acceso público basado en la legislación universitaria vigente.",
+    "resumen_tweet": "👩‍🏫 Nueva plaza de Profesora Titular en la @unisevilla. Tras la LOSU, los nombramientos siguen su curso burocrático. ¿Transparencia real en los tribunales o inercia institucional? 🏛️ El BOE cumple, pero la fiscalización ciudadana es clave. #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la baremación final de méritos en el extracto publicado",
+      "Remisión a actos administrativos previos no adjuntos",
+      "Uso de terminología jurídica compleja en las instrucciones de recurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Macías García (estabilidad laboral y funcionariado)",
+        "Universidad de Sevilla (consolidación de plazas docentes)"
+      ],
+      "perdedores": [
+        "Candidatos externos (frecuentes barreras de entrada en el sistema universitario)",
+        "Ciudadanía (falta de transparencia directa sobre la excelencia del candidato en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Opacidad en la baremación final de méritos en el extracto publicado",
+      "Remisión a actos administrativos previos no adjuntos",
+      "Uso de terminología jurídica compleja en las instrucciones de recurso"
+    ]
+  },
+  "tweeted": false
+}
