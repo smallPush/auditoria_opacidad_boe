@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-10239",
+  "timestamp": "2026-05-12T14:45:34.922Z",
+  "title": "Orden DEF/454/2026, de 6 de mayo, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se audita una Orden de promoción individual para la Escala de Cabos y Guardias. El texto es transparente en su fin, pero expone una ineficiencia burocrática: la antigüedad se reconoce desde abril de 2024, pero la orden se firma en mayo de 2026. Este desfase de dos años en la formalización administrativa puede afectar la carrera y haberes del agente. No se detectan 'Gastos Fantasma' más allá del coste de publicación en el BOE para un solo individuo, lo que sugiere una falta de agrupación de actos administrativos para optimizar recursos públicos.",
+    "resumen_ciudadano": "El Ministerio de Defensa oficializa el ascenso a Guardia Civil de un alumno tras finalizar sus estudios. Se le asigna su lugar en el escalafón oficial de la institución con efectos retroactivos a 2024.",
+    "resumen_tweet": "👮 El #BOE publica el ascenso de un nuevo Guardia Civil. Curioso: su antigüedad es de 2024 pero se oficializa en 2026. ¿Burocracia lenta o retraso administrativo? Transparencia total en el nombramiento, pero poca agilidad. #Opacidad #Defensa",
+    "banderas_red_flags": [
+      "Retraso de dos años en la publicación respecto a la antigüedad concedida",
+      "Ineficiencia de publicación individualizada en lugar de colectiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Luis Carmona Lastres (obtención de plaza fija y rango)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (dos años para formalizar un ascenso de formación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Retraso de dos años en la publicación respecto a la antigüedad concedida",
+      "Ineficiencia de publicación individualizada en lugar de colectiva"
+    ]
+  },
+  "tweeted": false
+}
