@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10252",
+  "timestamp": "2026-05-12T15:11:24.525Z",
+  "title": "Resolución de 29 de abril de 2026, de la Universidad Miguel Hernández de Elche, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de funcionarios de carrera en el ámbito universitario. Aunque cumple con la legalidad de la Ley Orgánica 2/2023 (LOSU), presenta la opacidad habitual de la administración pública: se publican los nombres pero se omite el impacto presupuestario real a largo plazo de estas plazas vitalicias. Existe paridad de género en los nombramientos (2 hombres, 2 mujeres), lo que sugiere un alineamiento con las políticas de igualdad vigentes, pero no se detallan las puntuaciones ni el historial de los concursos, dificultando la fiscalización externa contra la endogamia académica.",
+    "resumen_ciudadano": "La Universidad Miguel Hernández de Elche ha nombrado oficialmente a cuatro nuevos profesores titulares permanentes en las áreas de Periodismo, Microbiología, Fisioterapia y Química Orgánica tras superar los concursos correspondientes.",
+    "resumen_tweet": "🎓 La @UMH nombra 4 nuevos profesores titulares. Paridad absoluta (2👩‍🔬 2👨‍🔬) en áreas clave. Pero el #BOE no aclara el coste total de estas plazas fijas. ¿Transparencia o burocracia ciega? #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a las plazas",
+      "Falta de transparencia en las actas de las comisiones evaluadoras",
+      "Consolidación de plazas sin mención a la tasa de reposición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (estabilidad laboral y estatus de funcionario)",
+        "Universidad Miguel Hernández (consolidación de plantilla)",
+        "Equilibrio de género en la academia"
+      ],
+      "perdedores": [
+        "Personal docente e investigador (PDI) en situación de precariedad",
+        "Aspirantes externos al sistema universitario valenciano",
+        "Contribuyentes (por falta de información sobre el gasto público derivado)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Funcionarios de Carrera",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a las plazas",
+      "Falta de transparencia en las actas de las comisiones evaluadoras",
+      "Consolidación de plazas sin mención a la tasa de reposición"
+    ]
+  },
+  "tweeted": false
+}
