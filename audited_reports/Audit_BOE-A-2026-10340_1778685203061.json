@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10340",
+  "timestamp": "2026-05-13T15:13:23.061Z",
+  "title": "Resolución de 28 de abril de 2026, de la Universidad de Valladolid, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es un acto administrativo rutinario de consolidación de empleo público docente. Bajo una apariencia de neutralidad técnica, el BOE actúa como un registro de acceso restringido simbólicamente por su lenguaje críptico. Se observa un impacto de género positivo en áreas STEM (Física y Química), tradicionalmente masculinizadas. No obstante, existe opacidad en el coste real de estas plazas para el erario público, ya que no se adjunta el compromiso presupuestario específico de la partida de personal de la Universidad de Valladolid.",
+    "resumen_ciudadano": "La Universidad de Valladolid ha nombrado formalmente a dos nuevas profesoras titulares en las áreas de Física de la Materia Condensada y Química Física tras superar el proceso de concurso. Es un trámite legal para asegurar sus plazas permanentes.",
+    "resumen_tweet": "🎓 La Universidad de Valladolid suma 2 profesoras titulares en áreas científicas. Un avance en género para las STEM, pero el #BOE sigue sin detallar el coste real de estas plazas para el contribuyente. 🏛️📊 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Uso de códigos de plaza internos no explicados al ciudadano",
+      "Plazo de toma de posesión muy breve (20 días) que puede dificultar la conciliación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Karina Carla Núñez Carrero",
+        "María Celina Bermúdez Arias",
+        "Universidad de Valladolid (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos descartados",
+        "Ciudadanía (por la dificultad de fiscalizar el gasto en personal docente mediante códigos crípticos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Uso de códigos de plaza internos no explicados al ciudadano",
+      "Plazo de toma de posesión muy breve (20 días) que puede dificultar la conciliación"
+    ]
+  },
+  "tweeted": false
+}
