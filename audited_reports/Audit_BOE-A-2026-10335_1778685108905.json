@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10335",
+  "timestamp": "2026-05-13T15:11:48.905Z",
+  "title": "Resolución de 4 de mayo de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La adjudicación del puesto de Oficialía Mayor en el Ayuntamiento de Girona se realiza mediante el sistema de 'libre designación'. Este mecanismo, aunque legal bajo la Ley 7/1985, permite la discrecionalidad política en la elección de puestos técnicos de alta responsabilidad. La 'libre designación' en figuras de control y fe pública (habilitados nacionales) genera una tensión entre la independencia técnica necesaria para la fiscalización y la confianza política del ejecutivo local. No se detallan en el documento los méritos específicos ni la justificación técnica que motivaron esta elección frente a otros candidatos, manteniendo la opacidad sobre la idoneidad del adjudicatario respecto a la competencia profesional.",
+    "resumen_ciudadano": "Se ha nombrado al nuevo Oficial Mayor del Ayuntamiento de Girona mediante el sistema de designación directa (a dedo). Este es un puesto clave para supervisar la legalidad de los actos del ayuntamiento, y al ser elegido directamente por el poder político, se corre el riesgo de que la independencia de su labor se vea comprometida por la relación de confianza con quien lo nombra.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el #BOE: Adjudicada la Oficialía Mayor de Girona por libre designación. ¿Quién controla al controlador si el político lo elige? Menos meritocracia, más discrecionalidad. 🏛️📉 #Opacidad #Transparencia #Girona",
+    "banderas_red_flags": [
+      "Libre designación en puestos de control técnico",
+      "Falta de motivación en la elección del candidato",
+      "Dependencia del Decreto de Alcaldía para la selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iago González Fagil (adjudicatario)",
+        "Alcaldía de Girona (mayor control sobre el staff técnico)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios por concurso de méritos",
+        "Ciudadanía (posible pérdida de imparcialidad en la fiscalización municipal)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación en puestos de control técnico",
+      "Falta de motivación en la elección del candidato",
+      "Dependencia del Decreto de Alcaldía para la selección"
+    ]
+  },
+  "tweeted": false
+}
