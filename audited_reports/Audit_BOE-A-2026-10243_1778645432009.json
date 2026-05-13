@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10243",
+  "timestamp": "2026-05-13T04:10:32.009Z",
+  "title": "Orden DEF/458/2026, de 6 de mayo, por la que se publica la relación del alumnado que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una orden administrativa estándar para el nombramiento de personal de carrera en la escala básica de la Guardia Civil. Aunque el proceso parece seguir una lógica de méritos tras superar un plan de estudios, destaca la persistente brecha de género en las fuerzas de seguridad; de la muestra analizada, la representación femenina sigue siendo minoritaria frente a la masculina. Además, el BOE actúa aquí como un mero tablón de anuncios sin desglosar el impacto presupuestario que supone la incorporación de esta nueva cohorte de funcionarios al gasto público estructural.",
+    "resumen_ciudadano": "Se publica la lista oficial de alumnos que pasan a ser oficialmente Guardias Civiles (Escala de Cabos y Guardias) tras completar su formación. Esto supone su entrada formal en el cuerpo y el inicio de su carrera profesional con antigüedad de abril de 2026.",
+    "resumen_tweet": "👮‍♂️ Nueva promoción en la @guardiacivil: cientos de alumnos ya son oficialmente guardias. Aunque se celebra la incorporación, la brecha de género en la escala básica sigue siendo notable. 📉 ¿Cuánto nos cuesta el refuerzo? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Subrepresentación de género",
+      "Ausencia de memoria económica asociada",
+      "Automatismo administrativo sin auditoría de costes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alumnado promocionado (seguridad laboral)",
+        "Ministerio de Defensa (refuerzo de efectivos)",
+        "Sector público (mantenimiento del orden)"
+      ],
+      "perdedores": [
+        "Paridad de género (progreso lento en la base)",
+        "Contribuyentes (desconocen el impacto fiscal total del aumento de plantilla)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Subrepresentación de género",
+      "Ausencia de memoria económica asociada",
+      "Automatismo administrativo sin auditoría de costes"
+    ]
+  },
+  "tweeted": false
+}
