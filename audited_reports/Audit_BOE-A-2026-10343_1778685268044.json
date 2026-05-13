@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10343",
+  "timestamp": "2026-05-13T15:14:28.044Z",
+  "title": "Resolución 430/38247/2026, de 6 de mayo, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se observa el uso recurrente del sistema de 'libre designación' para puestos de nivel técnico-administrativo (Nivel 17), una práctica que, aunque legal según la Ley 30/1984, permite la adjudicación discrecional o 'a dedo'. Esto debilita el principio de mérito y capacidad en la función pública. El requisito de 'disponibilidad horaria' suele actuar como una cláusula de barrera o justificación para compensaciones no siempre transparentes.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha convocado una plaza de secretario/a en Granada para el Ejército de Tierra. En lugar de un concurso de méritos objetivo, se elegirá a la persona por decisión discrecional (libre designación), lo que reduce las oportunidades para funcionarios sin conexiones directas con la jerarquía.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el #BOE. Defensa busca secretario/a en Granada mediante libre designación. ¿Meritocracia o confianza personal? La opacidad administrativa persiste en los niveles medios. 🕵️‍♂️ #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Libre designación en niveles no directivos",
+      "Criterios de selección subjetivos",
+      "Discrecionalidad en el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal con afinidad a la dirección",
+        "Candidatos con redes de confianza en el Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos pero sin contactos",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación en niveles no directivos",
+      "Criterios de selección subjetivos",
+      "Discrecionalidad en el nombramiento"
+    ]
+  },
+  "tweeted": false
+}
