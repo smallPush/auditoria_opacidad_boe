@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-10332",
+  "timestamp": "2026-05-13T14:55:33.601Z",
+  "title": "Orden DEF/470/2026, de 6 de mayo, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una regularización administrativa tardía. La orden promueve a un solo individuo con una antigüedad reconocida de 2021, pero se publica en 2026. Este desfase de cinco años suele indicar procesos judiciales previos o recursos administrativos ganados por el interesado que el texto omite, ocultando la ineficiencia administrativa original bajo un lenguaje puramente procedimental.",
+    "resumen_ciudadano": "El Ministerio de Defensa oficializa el ascenso de un alumno a Guardia Civil con efectos retroactivos desde 2021. Es un nombramiento individual que llega con cinco años de retraso administrativo, posiblemente derivado de una resolución judicial.",
+    "resumen_tweet": "🔍 El #BOE publica hoy una promoción a Guardia Civil con 5 años de retraso. Antigüedad de 2021 firmada en 2026. ¿Fallo administrativo o justicia lenta? La opacidad sobre el motivo del desfase persiste. 👮‍♂️⚖️ #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Retroactividad de 5 años en el nombramiento",
+      "Carácter individualizado de la orden (posible resolución de conflicto)",
+      "Falta de justificación sobre el retraso en la incorporación a la escala"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctor José Moreno Castellón (regulariza su estatus profesional y salarial)"
+      ],
+      "perdedores": [
+        "Administración Pública (ineficiencia en la gestión de tiempos)",
+        "Ciudadanía (opacidad sobre las causas del retraso administrativo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Retroactividad de 5 años en el nombramiento",
+      "Carácter individualizado de la orden (posible resolución de conflicto)",
+      "Falta de justificación sobre el retraso en la incorporación a la escala"
+    ]
+  },
+  "tweeted": false
+}
