@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-10240",
+  "timestamp": "2026-05-13T04:08:27.036Z",
+  "title": "Orden DEF/455/2026, de 6 de mayo, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento representa un acto administrativo reglado de gestion de personal. Aunque cumple con la legalidad, la publicacion individualizada en el BOE de un solo ascenso denota una ineficiencia burocratica y un gasto de recursos publicos en gestion de contenidos que podrian agruparse. No se observan partidas presupuestarias ocultas, pero si una persistencia en metodos de comunicacion del siglo XX para la era digital.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de un nuevo miembro de la Guardia Civil tras superar su periodo de formacion, asignandole su posicion correspondiente en el escalafon oficial.",
+    "resumen_tweet": "🎖️ El #BOE publica un ascenso individual en la Guardia Civil. ¿Es eficiente el uso de recursos para gestionar nombramientos uno a uno en lugar de listados agrupados? Menos burocracia, mas eficiencia. 🇪🇸 #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Burocracia atomizada",
+      "Gasto administrativo en gestion de publicaciones individuales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Parra Campos (nuevo empleo publico)",
+        "Escala de Cabos y Guardias"
+      ],
+      "perdedores": [
+        "Ciudadania (por el coste de la gestion administrativa ineficiente)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Burocracia atomizada",
+      "Gasto administrativo en gestion de publicaciones individuales"
+    ]
+  },
+  "tweeted": false
+}
