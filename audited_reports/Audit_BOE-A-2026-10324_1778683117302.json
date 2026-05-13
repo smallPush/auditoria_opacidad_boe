@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10324",
+  "timestamp": "2026-05-13T14:38:37.302Z",
+  "title": "Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto-ley 11/2026 utiliza una narrativa de emergencia vinculada a la inflacion y crisis geopoliticas para justificar una reforma estructural del sistema de copago farmaceutico. Aunque el fondo de la medida busca corregir inequidades (especialmente el efecto 'trampa' en pensionistas donde una subida nominal de la pension les quitaba la exencion), el uso de la figura del Real Decreto-ley evita el debate parlamentario pausado sobre la sostenibilidad del SNS. Se detecta una falta de cuantificacion del impacto economico neto para el Estado por la reduccion de ingresos por aportaciones del usuario.",
+    "resumen_ciudadano": "Esta ley cambia cuanto pagas por tus medicinas en la farmacia. Se crean mas tramos de renta para que sea mas justo: los trabajadores que ganan menos de 35.000 euros al año tendran ahora un limite maximo mensual para que sus tratamientos no les supongan un gasto excesivo. Ademas, se asegura que los pensionistas con las pensiones mas bajas no tengan que pagar por sus medicinas aunque su pension suba ligeramente con el IPC, vinculando la gratuidad al complemento por minimos en lugar de a una cifra fija de dinero.",
+    "resumen_tweet": "💊 Mas progresividad en el #copago farmaceutico: el #BOE publica topes mensuales para trabajadores de rentas bajas y protege la gratuidad de los pensionistas mas vulnerables frente a la inflacion. 🏥 #Transparencia #Sanidad #SaludPublica",
+    "banderas_red_flags": [
+      "Uso de tensiones en Oriente Medio como pretexto juridico para la urgencia de la norma",
+      "Ausencia de memoria economica detallada sobre la perdida de ingresos para el Sistema Nacional de Salud",
+      "Aumento de la complejidad administrativa al pasar de 3 a 6 niveles de aportacion para activos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores activos con rentas inferiores a 35.000 euros anuales",
+        "Pensionistas perceptores de complementos por minimos",
+        "Pacientes cronicos con alta carga terapeutica y bajos ingresos"
+      ],
+      "perdedores": [
+        "Administraciones Publicas (por la reduccion en la recaudacion final de copagos)",
+        "Farmaceuticos y gestion administrativa (por el aumento de la burocracia en los tramos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Sanidad y Seguridad Social",
+    "banderas_rojas": [
+      "Uso de tensiones en Oriente Medio como pretexto juridico para la urgencia de la norma",
+      "Ausencia de memoria economica detallada sobre la perdida de ingresos para el Sistema Nacional de Salud",
+      "Aumento de la complejidad administrativa al pasar de 3 a 6 niveles de aportacion para activos"
+    ]
+  },
+  "tweeted": false
+}
