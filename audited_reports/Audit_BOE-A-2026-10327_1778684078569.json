@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10327",
+  "timestamp": "2026-05-13T14:54:38.569Z",
+  "title": "Orden DEF/465/2026, de 6 de mayo, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se detecta una anomalía administrativa por desfase temporal extremo. La orden, fechada en mayo de 2026, otorga una antigüedad de abril de 2022 a un alumno de la Guardia Civil. Este retraso de cuatro años en la consolidación de un empleo de escala básica sugiere una parálisis burocrática, un proceso judicial de fondo o una subsanación de errores de larga duración que no se explicita en el texto, afectando la claridad del escalafón.",
+    "resumen_ciudadano": "El Ministerio de Defensa publica el ascenso de un alumno al cuerpo de la Guardia Civil reconociéndole efectos retroactivos desde el año 2022. El ciudadano asiste a una formalización legal que llega con cuatro años de demora respecto a la antigüedad concedida.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Defensa publica un ascenso con 4 años de retraso. ¿Por qué se otorga en 2026 una antigüedad de 2022? La lentitud burocrática impacta en la transparencia del escalafón de la #GuardiaCivil. #Transparencia #Opacidad 👮‍♂️🇪🇸",
+    "banderas_red_flags": [
+      "Desfase temporal superior a 48 meses entre antigüedad y publicación",
+      "Ausencia de motivación para la retroactividad de la plaza",
+      "Opacidad en la causa del retraso administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El alumno promocionado (recupera antigüedad y derechos económicos retroactivos)",
+        "Ministerio de Defensa (regulariza una situación pendiente)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa del Estado",
+        "Transparencia pública sobre los procesos de formación y promoción"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones Personales",
+    "banderas_rojas": [
+      "Desfase temporal superior a 48 meses entre antigüedad y publicación",
+      "Ausencia de motivación para la retroactividad de la plaza",
+      "Opacidad en la causa del retraso administrativo"
+    ]
+  },
+  "tweeted": false
+}
