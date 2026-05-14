@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10429",
+  "timestamp": "2026-05-14T14:32:38.910Z",
+  "title": "Decreto-ley 2/2026, de 19 de marzo, de concesión de un suplemento de crédito a los presupuestos de la Generalitat de Catalunya para el 2023 prorrogados para el 2026.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "El Decreto-ley 2/2026 representa un síntoma de parálisis legislativa crónica al prorrogar por tercer año consecutivo los presupuestos de 2023. El uso de la figura del suplemento de crédito para movilizar casi 6.000 millones de euros evita el debate parlamentario exhaustivo que requeriría una nueva Ley de Presupuestos. Se observa una 'huida' hacia partidas genéricas como 'Imprevistos' (3.430 millones) y 'Fondos extraordinarios' (2.557 millones), lo que diluye la trazabilidad del dinero público. Aunque se justifica por crisis externas (aranceles de EE.UU., conflictos bélicos y emergencia climática), el destino real es financiar gastos estructurales y recurrentes de personal y servicios que deberían estar planificados, no parcheados.",
+    "resumen_ciudadano": "La Generalitat de Cataluña ha aprobado un gasto extra de casi 6.000 millones de euros porque no ha conseguido aprobar unos presupuestos actuales. Este dinero se saca de ingresos imprevistos y se usará principalmente para pagar aumentos de sueldo de funcionarios, gastos sanitarios y educativos. Sin embargo, al hacerse mediante un 'suplemento' y no un presupuesto detallado, el control sobre el destino exacto de cada euro es mucho menor, agrupándose en bolsas de dinero llamadas 'imprevistos'.",
+    "resumen_tweet": "🚨 ¡6.000M€ asignados mediante parches! Cataluña prorroga por 3er año los presupuestos de 2023. Se inyectan fondos masivos en partidas de 'imprevistos' sin desglose claro. ¿Emergencia real o falta de gestión presupuestaria? 📉💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Prorroga presupuestaria por tercer año consecutivo (2023 a 2026)",
+      "Asignación masiva a la partida genérica de 'Imprevistos'",
+      "Financiación de gastos corrientes con ingresos extraordinarios de liquidaciones pasadas",
+      "Uso del Decreto-ley para evitar el debate de presupuestos ordinarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal de la administración pública (por los incrementos retributivos consolidados)",
+        "Sector de la construcción y mantenimiento (fondo específico para centros educativos)",
+        "Entes locales (60 millones para situaciones de urgencia)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la falta de fiscalización detallada del gasto)",
+        "Calidad democrática (degradación del proceso presupuestario ordinario)",
+        "Sostenibilidad financiera a largo plazo (dependencia de liquidaciones positivas para gastos fijos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Decreto-ley de suplemento de crédito",
+    "banderas_rojas": [
+      "Prorroga presupuestaria por tercer año consecutivo (2023 a 2026)",
+      "Asignación masiva a la partida genérica de 'Imprevistos'",
+      "Financiación de gastos corrientes con ingresos extraordinarios de liquidaciones pasadas",
+      "Uso del Decreto-ley para evitar el debate de presupuestos ordinarios"
+    ]
+  },
+  "tweeted": false
+}
