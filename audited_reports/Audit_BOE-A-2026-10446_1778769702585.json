@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-10446",
+  "timestamp": "2026-05-14T14:41:42.585Z",
+  "title": "Resolución de 11 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para puestos de Nivel 30 (Subdirectores Generales), el rango más alto para funcionarios de carrera. Aunque se ampara en el Plan de Recuperación, Transformación y Resiliencia para invocar una supuesta profesionalización, el proceso sigue siendo altamente discrecional. La inclusión de un 'cuestionario de autoevaluación' y entrevistas basadas en el 'juicio' de asesores designados por la propia Subsecretaría permite un margen de arbitrariedad significativo. Especialmente flagrante es el puesto nº 2, donde se 'valora la pertenencia a la carrera diplomática' y se exigen 10 años de experiencia A1, blindando el cargo para una élite muy específica dentro del Ministerio.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha convocado dos plazas de alto directivo en Madrid con sueldos elevados (Nivel 30). El método de selección es la libre designación, lo que popularmente se conoce como 'puestos a dedo'. Los candidatos tienen solo 10 días para presentarse y la decisión final dependerá de entrevistas subjetivas y méritos que favorecen claramente a quienes ya pertenecen a la carrera diplomática, dificultando que otros funcionarios cualificados accedan a estos puestos de poder.",
+    "resumen_tweet": "🚩 ¡Alerta de opacidad en el #BOE! Exteriores convoca puestos de Nivel 30 por 'libre designación' ☝️. Plazos de solo 10 días y entrevistas subjetivas para blindar a la élite diplomática. ¿Mérito o contactos? 📉 #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de inscripción extremadamente corto (10 días naturales)",
+      "Criterios de valoración subjetivos basados en 'juicio' de asesores",
+      "Preferencia explícita por la carrera diplomática en puestos técnicos",
+      "Uso de autoevaluaciones que carecen de rigor técnico externo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de la carrera diplomática",
+        "Altos funcionarios con red de contactos en la Subsecretaría",
+        "Perfiles con afinidad política dentro del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios del subgrupo A1 sin red de contactos",
+        "Personal técnico de otras administraciones (barrera de entrada)",
+        "Transparencia pública en la gestión de recursos humanos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de inscripción extremadamente corto (10 días naturales)",
+      "Criterios de valoración subjetivos basados en 'juicio' de asesores",
+      "Preferencia explícita por la carrera diplomática en puestos técnicos",
+      "Uso de autoevaluaciones que carecen de rigor técnico externo"
+    ]
+  },
+  "tweeted": false
+}
