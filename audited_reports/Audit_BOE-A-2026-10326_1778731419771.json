@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10326",
+  "timestamp": "2026-05-14T04:03:39.771Z",
+  "title": "Orden PJC/464/2026, de 30 de abril, por la que se acuerda la pérdida, por renuncia, de la condición de funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia de don Luis Sardina Castell.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de gestion de personal. No se detectan gastos fantasma ni incongruencias ideologicas directas, ya que es una renuncia voluntaria amparada por la Ley Organica del Poder Judicial. Sin embargo, la publicacion pone de manifiesto la salida de personal cualificado de un organo critico como la Audiencia Nacional. La falta de datos sobre el motivo de la renuncia impide analizar si existe un problema de fuga de talento hacia el sector privado debido a condiciones laborales en la administracion publica.",
+    "resumen_ciudadano": "Un funcionario del Cuerpo de Auxilio Judicial que trabajaba en la Audiencia Nacional ha decidido renunciar voluntariamente a su plaza permanente. El Ministerio de Justicia acepta esta baja, lo que implica que esta persona deja de pertenecer oficialmente al funcionariado del Estado.",
+    "resumen_tweet": "📉 Fuga de talento en la Justicia: un funcionario renuncia a su plaza en la Audiencia Nacional. ¿Por que el sector publico pierde personal formado? Sin detalles sobre los motivos, pero el Estado pierde capital humano. ⚖️ #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Perdida de capital humano especializado",
+      "Posible fuga de talento al sector privado",
+      "Opacidad sociologica sobre los motivos de abandono de la carrera administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El funcionario (por el ejercicio de su libertad profesional)",
+        "Sector privado (si es el destino del renunciante)"
+      ],
+      "perdedores": [
+        "El contribuyente (por la inversion en seleccion y formacion perdida)",
+        "La administracion de justicia (por la perdida de experiencia en la Audiencia Nacional)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos",
+    "banderas_rojas": [
+      "Perdida de capital humano especializado",
+      "Posible fuga de talento al sector privado",
+      "Opacidad sociologica sobre los motivos de abandono de la carrera administrativa"
+    ]
+  },
+  "tweeted": false
+}
