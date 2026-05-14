@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10445",
+  "timestamp": "2026-05-14T14:46:16.347Z",
+  "title": "Acuerdo de 5 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se promociona a la categoría de Magistrado/a a los Jueces y Juezas a quienes corresponde por turno de antigüedad, y se anuncia concurso para cobertura de vacantes.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El sistema de promoción judicial en España sigue anclado en la 'antigüedad escalafonal' como criterio soberano, lo que relega el mérito y la capacidad a un plano secundario. Resulta alarmante que se cite un escalafón de 2026 'pendiente de publicación' para validar este proceso, lo que genera una zona de sombra legal. Asimismo, la existencia de plazas 'fantasma' ocupadas por titulares en servicios especiales (como Paula Boix o Pilar Bares) perpetúa una interinidad estructural en puestos clave que afecta a la continuidad de la justicia.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha anunciado el ascenso de 76 jueces a la categoría de magistrado. Este ascenso se produce automáticamente por orden de antigüedad en la lista oficial. Los seleccionados pueden elegir entre nuevas plazas en diversas provincias o quedarse en sus puestos actuales. Aquellos que vayan a juzgados de violencia de género o áreas especializadas deberán realizar un curso de formación obligatorio antes de tomar posesión.",
+    "resumen_tweet": "Ascenso masivo en la justicia: 76 nuevos magistrados por pura antigüedad ⚖️. ¿Mérito? No, solo años de servicio. Algunas plazas están 'reservadas' para cargos especiales. ¡La cúpula se mueve por escalafón, no por eficiencia! 🏛️🔎 #BOE #Justicia #Opacidad",
+    "banderas_red_flags": [
+      "Uso de un escalafón de 2026 pendiente de publicación oficial",
+      "Prevalencia absoluta de la antigüedad sobre la productividad o excelencia",
+      "Plazas ofertadas cuyos titulares están en 'servicios especiales', creando inestabilidad en el destino",
+      "Potencial discrecionalidad en la ponderación de razones de conciliación para diferir ceses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jueces situados entre los números 186 y 261 del escalafón",
+        "Magistrados que buscan consolidar plazas por antigüedad",
+        "Cargos judiciales en situaciones administrativas especiales (mantienen reserva de plaza)"
+      ],
+      "perdedores": [
+        "Jueces jóvenes con alta productividad pero baja antigüedad",
+        "Ciudadanos con causas en juzgados con retrasos (el sistema premia el tiempo, no la agilidad procesal)",
+        "Transparencia pública (dependencia de escalafones no publicados)"
+      ]
+    },
+    "comunidad_autonoma": "Multicomunidad (Estatal)",
+    "tipologia": "Nombramientos, situaciones e incidencias del Poder Judicial",
+    "banderas_rojas": [
+      "Uso de un escalafón de 2026 pendiente de publicación oficial",
+      "Prevalencia absoluta de la antigüedad sobre la productividad o excelencia",
+      "Plazas ofertadas cuyos titulares están en 'servicios especiales', creando inestabilidad en el destino",
+      "Potencial discrecionalidad en la ponderación de razones de conciliación para diferir ceses"
+    ]
+  },
+  "tweeted": false
+}
