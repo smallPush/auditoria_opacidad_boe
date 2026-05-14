@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10427",
+  "timestamp": "2026-05-14T14:14:01.388Z",
+  "title": "Orden TRM/473/2026, de 5 de mayo, por la que se modifican parámetros operativos en las obligaciones de servicio público establecidas en el Acuerdo del Consejo de Ministros de 23 de febrero de 2018, por el que se aprueba la declaración de obligaciones de servicio público en las rutas aéreas Badajoz-Madrid y Badajoz-Barcelona.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden utiliza un lenguaje técnico administrativo para justificar una 'mayor flexibilidad operativa' que, en la práctica, beneficia principalmente a las aerolíneas operadoras al permitirles ajustar sus horarios a los límites del cierre del aeropuerto de Badajoz. Aunque se garantiza una capacidad mínima de asientos, el texto omite por completo el impacto presupuestario directo y el coste por plaza subvencionada que asume el Estado para mantener estas rutas de Obligación de Servicio Público (OSP). Se detecta una incongruencia ideológica leve: se habla de 'movilidad sostenible' en el nombre del Ministerio mientras se incentiva y subvenciona el transporte aéreo en rutas que podrían tener alternativas ferroviarias si se invirtiera en la red de alta velocidad extremeña.",
+    "resumen_ciudadano": "El Gobierno modifica las reglas de los vuelos subvencionados que conectan Badajoz con Madrid y Barcelona. A partir de octubre de 2026, las aerolíneas tendrán más libertad para fijar horarios, siempre que garanticen al menos dos vuelos diarios a Madrid (lunes a viernes) y cinco semanales a Barcelona. Se fija un mínimo anual de 54.000 asientos para la ruta de Madrid y 25.000 para la de Barcelona.",
+    "resumen_tweet": "✈️ El Gobierno ajusta los vuelos protegidos de Badajoz a Madrid y Barcelona. Se da más 'flexibilidad' horaria a las aerolíneas, pero el #BOE sigue sin aclarar cuánto nos cuesta cada billete a los contribuyentes. 💸 #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Opacidad en el coste real de la subvención por trayecto",
+      "Flexibilidad operativa volcada hacia el operador privado",
+      "Inexistencia de vuelos los sábados en la ruta a Madrid",
+      "Dependencia de horarios de cierre aeroportuario que limitan al usuario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aerolíneas operadoras (por la mayor flexibilidad en la gestión de sus flotas)",
+        "Viajeros recurrentes de negocios (por el blindaje de las primeras y últimas horas)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la falta de transparencia en el gasto público asociado)",
+        "Viajeros de ocio de fin de semana (por la ausencia de vuelos los sábados a Madrid)",
+        "Sector ferroviario (por la competencia subvencionada del aire)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Transporte Aéreo y Obligaciones de Servicio Público",
+    "banderas_rojas": [
+      "Opacidad en el coste real de la subvención por trayecto",
+      "Flexibilidad operativa volcada hacia el operador privado",
+      "Inexistencia de vuelos los sábados en la ruta a Madrid",
+      "Dependencia de horarios de cierre aeroportuario que limitan al usuario"
+    ]
+  },
+  "tweeted": false
+}
