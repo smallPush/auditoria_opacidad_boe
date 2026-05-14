@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-10440",
+  "timestamp": "2026-05-14T14:37:48.452Z",
+  "title": "Resolución de 4 de mayo de 2026, de la Universidad de Almería, por la que se nombra Profesora Titular de Universidad a doña María José Gómez Ramos.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Profesora Titular de Universidad siguiendo la Ley Orgánica 2/2023 (LOSU). El documento es transparente en su forma, pero oculta, como es habitual, el coste presupuestario anualizado de la plaza y los detalles de los méritos que la llevaron a superar a otros posibles candidatos. No se detectan gastos fantasma directos, pero sí la inercia de una burocracia académica que solo publica el resultado final y no la baremación del tribunal.",
+    "resumen_ciudadano": "La Universidad de Almería oficializa el nombramiento de doña María José Gómez Ramos como Profesora Titular en el área de Química Analítica. Este es el paso final tras un concurso de acceso iniciado en 2025.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la Universidad de Almería: María José Gómez Ramos asume su plaza en Química Analítica. Un proceso reglado bajo la #LOSU que consolida carrera académica. #BOE #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de información sobre la retribución bruta anual de la plaza",
+      "Falta de acceso directo a la baremación de méritos en el texto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María José Gómez Ramos (estabilidad laboral y estatus de funcionaria)",
+        "Universidad de Almería (consolidación de su departamento de Química y Física)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos en el concurso de acceso",
+        "Contribuyentes (por la falta de desglose de costes salariales en la resolución)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Ausencia de información sobre la retribución bruta anual de la plaza",
+      "Falta de acceso directo a la baremación de méritos en el texto del BOE"
+    ]
+  },
+  "tweeted": false
+}
