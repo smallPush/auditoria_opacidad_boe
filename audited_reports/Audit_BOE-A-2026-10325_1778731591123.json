@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10325",
+  "timestamp": "2026-05-14T04:06:31.123Z",
+  "title": "Orden JUI/463/2026, de 5 de mayo, por la que se modifica la Orden DSA/1029/2021, de 20 de septiembre, por la que se establecen para el período 2021-2027 las bases reguladoras para la concesión de subvenciones en el marco del Programa europeo «Erasmus+», para los capítulos de educación no formal, y la Orden DSA/1221/2023, de 3 de noviembre, de creación de la Agencia Nacional Española para la gestión de los capítulos de juventud y deporte del programa «Erasmus+» y del programa «Cuerpo Europeo de Solidaridad».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La orden introduce una modificacion critica al derogar la disposicion que impedia la contratacion de evaluadores externos. Bajo la premisa de insuficiencia de medios personales en el Ministerio de Juventud e Infancia, se abre la puerta a la externalizacion de la evaluacion de proyectos publicos por parte de expertos no funcionarios, lo que diluye la rendicion de cuentas. Ademas, aunque se alega transparencia, la figura de la convocatoria abierta potestativa otorga un margen de discrecionalidad al organo concedente sobre cuando y como liberar los fondos remanentes. El sistema de reparto territorial de sobrantes es complejo y podria favorecer arbitrariamente a ciertas regiones bajo criterios de ponderacion no auditados externamente.",
+    "resumen_ciudadano": "El Gobierno modifica las becas Erasmus+ de educacion no formal y deporte. El cambio principal permite que personal externo al Ministerio evalue quien recibe el dinero, admitiendo que no tienen personal suficiente. Tambien se centraliza mas la gestion en el INJUVE a pesar de ser competencias autonomicas, y se establece un nuevo sistema para repartir el dinero que sobra entre comunidades segun poblacion y desempleo juvenil.",
+    "resumen_tweet": "🚨 El Ministerio de Juventud externaliza la evaluacion de proyectos #ErasmusPlus alegando falta de personal. Se centralizan las ayudas bajo un sistema complejo de reparto territorial. ¿Eficiencia o perdida de control publico? 🧐 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Privatizacion de la evaluacion de subvenciones publicas",
+      "Alegacion recurrente de falta de medios personales para justificar externalizacion",
+      "Uso discrecional de fondos remanentes en convocatorias abiertas",
+      "Ambigüedad en la seleccion de beneficiarios suplentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consultoras y expertos externos contratados para evaluar",
+        "Organizaciones acreditadas con capacidad de gestion recurrente",
+        "Entidades en territorios con altas tasas de desempleo juvenil (por ponderacion)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios publicos desplazados de funciones de evaluacion",
+        "Pequeñas asociaciones con menos recursos para adaptarse a cambios de criterios anuales",
+        "Transparencia directa en la asignacion de fondos sobrantes"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificacion de bases reguladoras de subvenciones",
+    "banderas_rojas": [
+      "Privatizacion de la evaluacion de subvenciones publicas",
+      "Alegacion recurrente de falta de medios personales para justificar externalizacion",
+      "Uso discrecional de fondos remanentes en convocatorias abiertas",
+      "Ambigüedad en la seleccion de beneficiarios suplentes"
+    ]
+  },
+  "tweeted": false
+}
