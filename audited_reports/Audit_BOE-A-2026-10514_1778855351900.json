@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10514",
+  "timestamp": "2026-05-15T14:29:11.900Z",
+  "title": "Orden EFD/478/2026, de 7 de mayo, por la que, a propuesta de la Consejería de Educación y Universidades de la Comunidad Autónoma de las Illes Balears, se nombra funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria a don Jordi Miró Ferrer.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento no es un nombramiento rutinario, sino la ejecucion de una sentencia judicial (42/2025) que corrige una exclusion previa en un proceso de estabilizacion. Se detecta un fallo administrativo inicial en la Consejeria de Educacion de Baleares que obligo al ciudadano a litigar para obtener su plaza. La retroactividad de efectos al 2023 implica que la administracion debera abonar atrasos, lo que supone un gasto publico derivado de una mala gestion procesal inicial.",
+    "resumen_ciudadano": "Tras una batalla legal, un profesor de Biologia en Baleares logra su plaza de funcionario de carrera que le fue denegada en el proceso de estabilizacion de 2022. La justicia obliga al Ministerio a nombrarlo con efectos retroactivos desde septiembre de 2023.",
+    "resumen_tweet": "⚖️ ¡La justicia corrige al #BOE! Un docente gana en los tribunales su plaza tras ser excluido erroneamente en Baleares. La administracion debera pagar atrasos desde 2023 por su mala gestion inicial. #Opacidad #Transparencia #Educacion #Justicia",
+    "banderas_red_flags": [
+      "Ejecucion de sentencia judicial firme por exclusion previa",
+      "Efectos retroactivos economicos y administrativos",
+      "Fallo en el sistema de baremacion del concurso de meritos de 2022"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jordi Miro Ferrer (obtiene plaza y atrasos)",
+        "Poder Judicial (actua como contrapeso)"
+      ],
+      "perdedores": [
+        "Consejeria de Educacion de Baleares (evidencia mala gestion)",
+        "Contribuyentes (pago de costas y atrasos por errores administrativos)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de funcionario por via judicial",
+    "banderas_rojas": [
+      "Ejecucion de sentencia judicial firme por exclusion previa",
+      "Efectos retroactivos economicos y administrativos",
+      "Fallo en el sistema de baremacion del concurso de meritos de 2022"
+    ]
+  },
+  "tweeted": false
+}
