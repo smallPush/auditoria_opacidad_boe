@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10518",
+  "timestamp": "2026-05-15T14:31:09.136Z",
+  "title": "Resolución de 28 de abril de 2026, de la Universitat de València, por la que se nombra Catedrático de Universidad a don Sergio Martínez Hervás.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento detalla un nombramiento de catedrático bajo la LOSU 2/2023. Aunque el proceso administrativo parece seguir los cauces legales, este tipo de resoluciones ocultan la falta de competitividad externa habitual en la universidad española, donde las plazas suelen estar diseñadas para perfiles internos preexistentes. No hay un desglose del coste salarial anual ni del impacto presupuestario a largo plazo de esta plaza vitalicia vinculada a la sanidad pública.",
+    "resumen_ciudadano": "La Universitat de València ha nombrado a Sergio Martínez Hervás como Catedrático de Medicina, vinculando su labor al Hospital Clínico Universitario de Valencia en el área de Endocrinología y Nutrición.",
+    "resumen_tweet": "🎓 Nuevo catedrático de Medicina en la @UV_EG. Sergio Martínez Hervás logra plaza vinculada al Hospital Clínico de Valencia. ¿Son estos procesos realmente abiertos o pura inercia administrativa? #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Gasto público estructural vitalicio",
+      "Opacidad en los criterios de mérito de la comisión",
+      "Riesgo de endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sergio Martínez Hervás",
+        "Universitat de València",
+        "Hospital Clínico Universitario de Valencia"
+      ],
+      "perdedores": [
+        "Candidatos externos sin vinculación previa",
+        "Presupuesto público (gasto estructural consolidado)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Gasto público estructural vitalicio",
+      "Opacidad en los criterios de mérito de la comisión",
+      "Riesgo de endogamia académica"
+    ]
+  },
+  "tweeted": false
+}
