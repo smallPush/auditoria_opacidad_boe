@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-10530",
+  "timestamp": "2026-05-15T14:36:37.134Z",
+  "title": "Resolución de 6 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución convoca una plaza de 'Vocal Asesor' mediante el sistema de libre designación, un mecanismo que permite la elección discrecional ('a dedo') dentro de la administración. Al tratarse de un Nivel 30, el grado más alto en la jerarquía funcionarial, y carecer de descripción de funciones específicas o méritos preferentes en el anexo técnico, se fomenta la opacidad y el clientelismo técnico. Este tipo de nombramientos suele chocar con los discursos de regeneración democrática y profesionalización de la administración pública.",
+    "resumen_ciudadano": "El Ministerio de Inclusión convoca una plaza de alto asesor con el sueldo más alto de la administración (Nivel 30) para ser elegido de forma discrecional. Aunque es legal, no se especifican qué tareas hará ni qué méritos exactos se valorarán, más allá de ser del grupo A1.",
+    "resumen_tweet": "🚩 Nuevo puesto de 'Vocal Asesor' (Nivel 30) en el Ministerio de Inclusión. Se elige por 'libre designación' (a dedo) y el BOE no detalla funciones ni méritos específicos. ¿Transparencia o dedocracia? #BOE #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial)",
+      "Ausencia de funciones detalladas en el anexo",
+      "Méritos no especificados",
+      "Vigencia temporal no aclarada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con perfil político",
+        "Cuerpo A1 de la administración",
+        "Candidato con confianza directa de la Subsecretaría"
+      ],
+      "perdedores": [
+        "Mérito y capacidad objetiva",
+        "Candidatos sin conexiones políticas",
+        "Contribuyentes (por falta de justificación del perfil técnico para el gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial)",
+      "Ausencia de funciones detalladas en el anexo",
+      "Méritos no especificados",
+      "Vigencia temporal no aclarada"
+    ]
+  },
+  "tweeted": false
+}
