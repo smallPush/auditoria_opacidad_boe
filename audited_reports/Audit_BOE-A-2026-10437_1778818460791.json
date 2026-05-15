@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10437",
+  "timestamp": "2026-05-15T04:14:20.791Z",
+  "title": "Corrección de errores de la Resolución 590/2026, de 20 de abril, de la Dirección General de Justicia e Interior, de la Consejería de Salud y Políticas Sociales, por la que se resuelve definitivamente el concurso de traslados entre personal funcionario de los Cuerpos y Escalas de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa y Auxilio Judicial de la Administración de Justicia, convocado por Resolución 1380/2025, de 27 de octubre.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Esta publicación es una corrección de errores técnicos sobre un proceso de traslados de personal judicial en La Rioja. Aunque no se detectan 'gastos fantasma' directos, el documento revela una preocupante falta de rigor administrativo al confundir no solo el número de la resolución definitiva (de 201/2026 a 590/2026), sino también la resolución de origen de 2025. Este tipo de negligencias en la gestión de recursos humanos públicos genera inseguridad jurídica para los trabajadores y entorpece la eficiencia del sistema judicial.",
+    "resumen_ciudadano": "La administración de La Rioja ha tenido que corregir errores importantes en los números de identificación de las leyes que regulan el traslado de funcionarios de justicia (como auxiliares y gestores procesales). Se equivocaron al citar las fechas y números de las convocatorias originales, lo que obliga a esta corrección para que los movimientos de personal sean legales.",
+    "resumen_tweet": "📝 Nueva corrección en el #BOE. La Rioja rectifica errores en el concurso de traslados de Justicia. Fallos en números de resolución que demuestran falta de rigor administrativo. ⚖️ ¡Cuidado con la burocracia! #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Inseguridad jurídica por errores en numeración oficial",
+      "Falta de control de calidad en la Consejería de Salud y Políticas Sociales",
+      "Riesgo de impugnación por defectos de forma previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios judiciales (al obtener seguridad legal sobre sus nuevos destinos)",
+        "Administración Autonómica (al subsanar errores antes de posibles demandas)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (por la duplicidad de procesos)",
+        "Transparencia institucional (la burocracia se vuelve un laberinto de correcciones)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Inseguridad jurídica por errores en numeración oficial",
+      "Falta de control de calidad en la Consejería de Salud y Políticas Sociales",
+      "Riesgo de impugnación por defectos de forma previos"
+    ]
+  },
+  "tweeted": false
+}
