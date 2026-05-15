@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10442",
+  "timestamp": "2026-05-15T04:15:01.202Z",
+  "title": "Resolución de 4 de mayo de 2026, de la Universidad de Castilla-La Mancha, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento cumple con la legalidad administrativa en materia de nombramientos de funcionarios, siguiendo la Ley Orgánica 2/2023 (LOSU). No obstante, existe una opacidad intrínseca en la publicación de plazas: se omiten las retribuciones brutas anuales y el impacto presupuestario a largo plazo que estas plazas permanentes suponen para el erario público de Castilla-La Mancha. El uso de tecnicismos legales protege el proceso de la mirada ciudadana no experta.",
+    "resumen_ciudadano": "La Universidad de Castilla-La Mancha ha nombrado oficialmente a tres nuevos Profesores Titulares de Universidad en las áreas de Edafología, Geografía y Derecho Penal. Estos profesionales pasan a ser funcionarios de carrera con plaza fija. El proceso finaliza tras superar un concurso de acceso iniciado a finales de 2025.",
+    "resumen_tweet": "🎓 Nuevos profesores titulares en la @uclm_es según el #BOE. Se blindan tres plazas de funcionarios de carrera en áreas de ciencia y derecho. Transparencia nominal, pero opacidad en el coste real para el contribuyente. 🏛️ #CastillaLaMancha #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial o memoria económica",
+      "Falta de información sobre el número total de aspirantes rechazados en el proceso",
+      "Lenguaje administrativo de difícil acceso para el ciudadano medio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (obtienen estabilidad laboral vitalicia)",
+        "Universidad de Castilla-La Mancha (consolida plantilla estructural)",
+        "Sistema Universitario (refuerza el cuerpo de funcionarios)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (barreras de acceso a plazas fijas)",
+        "Contribuyentes (falta de transparencia sobre el gasto público consolidado)",
+        "Candidatos externos (dificultad competitiva frente a perfiles internos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial o memoria económica",
+      "Falta de información sobre el número total de aspirantes rechazados en el proceso",
+      "Lenguaje administrativo de difícil acceso para el ciudadano medio"
+    ]
+  },
+  "tweeted": false
+}
