@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10428",
+  "timestamp": "2026-05-15T04:11:23.741Z",
+  "title": "Decreto-ley 1/2026, de 17 de marzo, por el que se regulan las prestaciones económicas para las personas con grado III+ de dependencia extrema y de modificación de la Ley 12/2007, de 11 de octubre, de servicios sociales.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Decreto-ley 1/2026 introduce el grado III+ de dependencia extrema, elevando las cuantías máximas hasta los 14.788,50 euros para cuidados de 24 horas. Aunque el objetivo es loable (atender a enfermos de ELA y procesos rápidos), el texto revela una quiebra del sistema ordinario: se justifica la urgencia por el 'incremento exponencial de las listas de espera'. El punto más crítico es la modificación de la Ley 12/2007, que permite que el Programa Individual de Atención (PIA) sea elaborado por 'medios ajenos', lo que abre la puerta a la externalización y privatización de la evaluación de la dependencia, restando competencias a los servicios sociales básicos locales bajo la premisa de la agilidad.",
+    "resumen_ciudadano": "Cataluña crea una ayuda económica especial para personas con gran dependencia (como ELA avanzada) que necesiten cuidadores o asistencia personal. Las ayudas pueden llegar a casi 15.000 euros mensuales si se requiere atención las 24 horas. Además, para evitar los retrasos actuales, la Generalitat podrá contratar a empresas externas o usar personal propio para decidir qué ayudas recibe cada persona, saltándose el trámite habitual de los ayuntamientos.",
+    "resumen_tweet": "🚨 Cataluña aprueba ayudas de hasta 14.788€/mes para dependencia extrema (ELA) 💰. Pero atención: se permite que empresas externas evalúen a los dependientes ante el colapso del sistema público. ¿Agilidad o privatización? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de la elaboración de los programas de atención (medios ajenos)",
+      "Uso de la figura de urgencia (Decreto-ley) para cambios estructurales en servicios sociales",
+      "Admisión explícita del colapso del sistema por listas de espera exponenciales",
+      "Ambigüedad en la actualización de cuantías sujeta a presupuestos futuros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas diagnosticadas con ELA y enfermedades de alta complejidad",
+        "Empresas privadas de servicios sociales (posibles adjudicatarias de los PIA)",
+        "Cuidadores familiares (alivio de carga económica)"
+      ],
+      "perdedores": [
+        "Servicios sociales municipales (pérdida de competencias y control)",
+        "Sistema público de salud (por el reconocimiento de un fallo estructural previo)",
+        "Contribuyentes (por el alto impacto presupuestario sin desglose de financiación estatal/autonómica)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Servicios Sociales / Dependencia",
+    "banderas_rojas": [
+      "Externalización de la elaboración de los programas de atención (medios ajenos)",
+      "Uso de la figura de urgencia (Decreto-ley) para cambios estructurales en servicios sociales",
+      "Admisión explícita del colapso del sistema por listas de espera exponenciales",
+      "Ambigüedad en la actualización de cuantías sujeta a presupuestos futuros"
+    ]
+  },
+  "tweeted": false
+}
