@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10512",
+  "timestamp": "2026-05-15T14:28:10.905Z",
+  "title": "Real Decreto 392/2026, de 13 de mayo, por el que se modifica el Reglamento de ordenación de la enseñanza en la Guardia Civil, aprobado por el Real Decreto 131/2018, de 16 de marzo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 392/2026 presenta una dualidad administrativa. Por un lado, formaliza avances necesarios en materia de igualdad de género al blindar la antigüedad de las mujeres en formación por causas de embarazo o maternidad, eliminando penalizaciones de carrera. No obstante, introduce la figura del 'Concurrente Institucional', una categoría de acceso a la formación para personal de la AGE y militares en reserva mediante 'designación directa'. Esta medida, aunque se justifica como eficiencia en recursos humanos, abre la puerta a la discrecionalidad en la selección para cursos especializados sin detallar los criterios de mérito comparativos ni el impacto presupuestario de ampliar estas plazas a personal externo al servicio activo.",
+    "resumen_ciudadano": "La reforma actualiza las reglas de enseñanza de la Guardia Civil para que el embarazo o los permisos de maternidad/paternidad no perjudiquen la antigüedad de los agentes. También se crea una nueva vía para que personal de otros ministerios y guardias civiles jubilados (en reserva) asistan a sus cursos de formación. Por último, se endurecen las sanciones: si un alumno abandona un curso sin una causa muy justificada, no podrá pedir otro en 3 años.",
+    "resumen_tweet": "🚨 Auditoría #BOE: La Guardia Civil blinda la antigüedad por maternidad en formación 🤰✅. Pero ¡atención! se crea el 'concurrente institucional' para plazas por designación directa y se castigan bajas con 3 años de veto 🚫. #Transparencia #Opacidad #GuardiaCivil",
+    "banderas_red_flags": [
+      "Designación directa para la nueva figura de 'concurrente institucional' sin baremos de mérito explícitos.",
+      "Régimen sancionador severo: veto de 3 años para formación por bajas no suficientemente justificadas.",
+      "Falta de memoria económica detallada en el texto para la ampliación de plazas a personal de la AGE.",
+      "Ambigüedad en la definición de 'razón excepcional' para evitar el castigo por baja en cursos."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres en la Guardia Civil (protección de antigüedad y carrera profesional)",
+        "Personal de la Administración General del Estado (acceso a formación especializada de la GC)",
+        "Militares en situación de reserva"
+      ],
+      "perdedores": [
+        "Alumnos con dificultades de conciliación no cubiertas específicamente (veto de 3 años por bajas)",
+        "Aspirantes en activo que verán plazas de formación ocupadas por 'concurrentes' externos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Reglamento de Ordenación de Enseñanza",
+    "banderas_rojas": [
+      "Designación directa para la nueva figura de 'concurrente institucional' sin baremos de mérito explícitos.",
+      "Régimen sancionador severo: veto de 3 años para formación por bajas no suficientemente justificadas.",
+      "Falta de memoria económica detallada en el texto para la ampliación de plazas a personal de la AGE.",
+      "Ambigüedad en la definición de 'razón excepcional' para evitar el castigo por baja en cursos."
+    ]
+  },
+  "tweeted": false
+}
