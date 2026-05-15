@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-10527",
+  "timestamp": "2026-05-15T14:34:18.863Z",
+  "title": "Resolución de 7 de mayo de 2026, de la Secretaría de Estado de Educación, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para un puesto de Nivel 30 (Subdirector General), el escalafón más alto de la función pública. Aunque se introduce la figura de 'personas expertas' y un 'cuestionario de autoevaluación' para barnizar el proceso de meritocracia, la naturaleza del sistema permite la discrecionalidad política en el nombramiento. El plazo de 10 días naturales es extremadamente corto, lo que suele favorecer a candidatos internos o previamente avisados, dificultando la concurrencia real.",
+    "resumen_ciudadano": "El Ministerio de Educación convoca una plaza de alto directivo para gestionar las tecnologías educativas y formación del profesorado en España. A pesar de la importancia técnica del cargo, el proceso permite elegir al candidato de forma discrecional ('a dedo'), aunque se requiere ser funcionario del grupo A1 y pasar una entrevista que solo realizarán quienes decidan los evaluadores.",
+    "resumen_tweet": "🚨 ¿Meritocracia o dedazo? Educación convoca Subdirector General (Nivel 30) por libre designación. Solo 10 días para solicitar un puesto clave en tecnología educativa. 🕵️‍♂️ El barniz de 'expertos' no oculta la discrecionalidad. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Entrevista filtrada a juicio subjetivo de expertos",
+      "Uso de 'autoevaluación' como criterio de idoneidad",
+      "Puesto de alta remuneración (Complemento Específico >30.000€) fuera de concurso de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con afinidad política o redes de confianza en el Ministerio",
+        "Candidatos con información privilegiada debido al corto plazo de convocatoria"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Transparencia pública en la gestión de fondos para digitalización educativa",
+        "Ciudadanía, por el riesgo de politización en la formación del profesorado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo por libre designación",
+    "banderas_rojas": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Entrevista filtrada a juicio subjetivo de expertos",
+      "Uso de 'autoevaluación' como criterio de idoneidad",
+      "Puesto de alta remuneración (Complemento Específico >30.000€) fuera de concurso de méritos"
+    ]
+  },
+  "tweeted": false
+}
