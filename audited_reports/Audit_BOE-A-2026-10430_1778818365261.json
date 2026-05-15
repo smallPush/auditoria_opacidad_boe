@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-10430",
+  "timestamp": "2026-05-15T04:12:45.261Z",
+  "title": "Decreto-ley 3/2026, de 24 de marzo, de medidas urgentes en materia fiscal, de simplificación y agilización en la gestión, en el ámbito del urbanismo y la vivienda, en el ámbito de personal y otras medidas urgentes en prórroga presupuestaria.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este Decreto-ley es un ejemplo de manual de 'legislación ómnibus' bajo el pretexto de prórroga presupuestaria. Lo más alarmante es la modificación de la Ley de la Función Interventora para 'agilizar' la fiscalización del gasto, lo cual suele traducirse en un relajamiento de los controles preventivos contra la corrupción. Además, se imponen subidas de tasas (agua y residuos) con un horizonte hasta 2031 mediante un decreto de urgencia, hurtando el debate parlamentario de una ley de presupuestos ordinaria. Existe una contradicción ideológica: se clama urgencia climática para subir tasas de agua, pero se condona el impuesto de CO2 a vehículos comerciales (N1) alegando la crisis de Oriente Medio, priorizando el sector logístico sobre la fiscalidad verde.",
+    "resumen_ciudadano": "La Generalitat de Cataluña utiliza la vía de urgencia para subir el precio del agua y la gestión de residuos para los próximos años sin pasar por el debate completo del Parlament. Al mismo tiempo, reduce el control de los interventores sobre cómo se gasta el dinero público para 'ir más rápido' y perdona impuestos a las furgonetas de reparto. Se agiliza el uso de datos personales entre administraciones para perseguir alquileres no declarados, pero se debilita la vigilancia interna del gasto administrativo.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Cataluña usa un Decreto-ley para subir tasas de agua y residuos hasta 2031 esquivando el debate presupuestario. 📉 Se relaja el control de la Intervención sobre el gasto público. ¿Ganadores? Logísticas. ¿Perdedores? Tu bolsillo. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Decreto-ley para establecer tipos impositivos plurianuales (hasta 2031)",
+      "Reducción de la rigurosidad en la fiscalización previa de la Intervención General",
+      "Condonación de deuda tributaria (impuesto CO2) por decreto-ley",
+      "Acceso masivo a datos de salud por servicios sociales bajo concepto de 'dato único'",
+      "Aumento de presión sancionadora en alquileres sin mejorar la transparencia del destino de fondos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector logístico y de construcción (exención impuesto CO2 para vehículos N1)",
+        "Agencia Catalana del Agua y Agencia de Residuos (blindaje de ingresos)",
+        "Administración autonómica (mayor facilidad para gastar con menor control interventor)"
+      ],
+      "perdedores": [
+        "Consumidores finales (subida del canon del agua)",
+        "Transparencia democrática (uso de vía de urgencia para temas no urgentes)",
+        "Ciudadanos preocupados por la privacidad (cruce masivo de datos salud-servicios sociales)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Decreto-ley Ómnibus de Medidas Fiscales y Administrativas",
+    "banderas_rojas": [
+      "Uso de Decreto-ley para establecer tipos impositivos plurianuales (hasta 2031)",
+      "Reducción de la rigurosidad en la fiscalización previa de la Intervención General",
+      "Condonación de deuda tributaria (impuesto CO2) por decreto-ley",
+      "Acceso masivo a datos de salud por servicios sociales bajo concepto de 'dato único'",
+      "Aumento de presión sancionadora en alquileres sin mejorar la transparencia del destino de fondos"
+    ]
+  },
+  "tweeted": false
+}
