@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10612",
+  "timestamp": "2026-05-16T13:54:35.707Z",
+  "title": "Resolución de 13 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una convocatoria de 'Libre Designación' para un puesto de Nivel 30, el máximo en la carrera funcionarial. Aunque se introduce la figura de 'personas expertas' y un cuestionario de autoevaluación siguiendo el Plan de Recuperación, la decisión final sigue siendo discrecional ('dedazo institucionalizado'). Es especialmente crítico que el mismo perfil controle simultáneamente la Unidad de Transparencia, la Protección de Datos (DPO) y la información al ciudadano, centralizando el control del flujo de información y la fiscalización del propio Ministerio en una persona elegida a dedo.",
+    "resumen_ciudadano": "El Ministerio de Educación convoca una plaza de Subdirector General con un sueldo base elevado más un complemento de 30.436€ anuales. El sistema de elección permite elegir a quien el político desee, a pesar de que este cargo gestionará nada menos que tu derecho a la transparencia y la protección de tus datos personales.",
+    "resumen_tweet": "🧐 ¿Transparencia o dedazo? Educación convoca un puesto de 'Libre Designación' (Nivel 30) para controlar Transparencia y Protección de Datos. El sistema permite elegir a dedo a quien debe fiscalizar al propio Ministerio. 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Concentración de funciones críticas en un solo cargo (DPO + Transparencia)",
+      "Entrevista selectiva basada en juicio subjetivo de expertos",
+      "Plazo de solicitud extremadamente corto (10 días naturales)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionario A1 con afinidad política",
+        "Cúpula del Ministerio (asegura control de la información sensible)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera por mérito y capacidad",
+        "Ciudadanía (posible pérdida de independencia en la Unidad de Transparencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Concentración de funciones críticas en un solo cargo (DPO + Transparencia)",
+      "Entrevista selectiva basada en juicio subjetivo de expertos",
+      "Plazo de solicitud extremadamente corto (10 días naturales)"
+    ]
+  },
+  "tweeted": false
+}
