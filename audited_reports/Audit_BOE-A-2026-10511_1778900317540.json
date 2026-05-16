@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10511",
+  "timestamp": "2026-05-16T02:58:37.540Z",
+  "title": "Instrumento de adhesión al Acuerdo de Ciudad del Cabo de 2012 sobre la implantación de las disposiciones del Protocolo de Torremolinos de 1993 relativo al Convenio internacional de Torremolinos para la seguridad de los buques pesqueros, 1977, hecho en Ciudad del Cabo el 11 de octubre de 2012.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El texto presenta una estructura técnica sólida pero con mecanismos de opacidad en la ejecución. Aunque el objetivo declarado es la seguridad de las tripulaciones, el artículo 1.4 permite una 'implantación progresiva' de hasta 10 años para buques existentes, lo que diluye la urgencia de la reforma. Se detecta una delegación de soberanía inspectora en 'organizaciones reconocidas' (entes privados), lo que abre la puerta a la externalización de la supervisión pública sin especificar costes ni mecanismos de control de conflictos de interés.",
+    "resumen_ciudadano": "España se adhiere a un estándar internacional de seguridad para barcos de pesca de más de 24 metros. Aunque mejora las normas de construcción y salvamento, la ley permite que los barcos viejos tarden hasta 10 años en cumplir las normas y da poder a empresas privadas para hacer las inspecciones en lugar de funcionarios públicos.",
+    "resumen_tweet": "⚓️ España firma la seguridad pesquera global pero con 'letra pequeña': permite demoras de hasta 10 años para actualizar barcos viejos 🏗️ y privatiza inspecciones. ¿Seguridad real o blindaje a la industria? 🧐 #BOE #Opacidad #Transparencia #Pesca",
+    "banderas_red_flags": [
+      "Plazo de carencia de 10 años para buques existentes",
+      "Privatización de la inspección marítima mediante organizaciones reconocidas",
+      "Exenciones discrecionales de la Administración por zonas de operación",
+      "Sustitución de medidas físicas (eslora) por valores de arqueo bruto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes armadores (por las prórrogas y exenciones)",
+        "Entidades privadas de certificación y auditoría marítima"
+      ],
+      "perdedores": [
+        "Tripulaciones de buques antiguos (que operarán en barcos subestándar hasta 10 años más)",
+        "Pequeña pesca artesanal (no cubierta por estas protecciones)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Seguridad Marítima",
+    "banderas_rojas": [
+      "Plazo de carencia de 10 años para buques existentes",
+      "Privatización de la inspección marítima mediante organizaciones reconocidas",
+      "Exenciones discrecionales de la Administración por zonas de operación",
+      "Sustitución de medidas físicas (eslora) por valores de arqueo bruto"
+    ]
+  },
+  "tweeted": false
+}
