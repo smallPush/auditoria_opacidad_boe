@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10625",
+  "timestamp": "2026-05-16T14:00:58.896Z",
+  "title": "Resolución de 13 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Telde, por la que se suspende la rectificación de superficie de un elemento privativo de una propiedad horizontal solicitada mediante instancia.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El caso expone una vulnerabilidad sistémica en el tráfico jurídico inmobiliario: la promotora (Fábrica de Edificios Canarios, SA) vendió privadamente una superficie de 18,69 m2 y, posteriormente, antes de que los compradores inscribieran su título, modificó unilateralmente la configuración del edificio reduciendo la plaza a 12,34 m2 para ampliar zonas comunes. La Dirección General aplica estrictamente la legalidad hipotecaria (artículos 1, 38 y 40 LH), priorizando la integridad del Registro sobre el contrato privado de los ciudadanos. Esto genera una situación de indefensión donde el consumidor debe asumir el coste de un proceso judicial o el consenso de toda una comunidad para recuperar metros que pagó hace décadas.",
+    "resumen_ciudadano": "Dos ciudadanos en Telde intentaron recuperar 6,45 metros cuadrados de su plaza de garaje que 'desaparecieron' del Registro. Compraron la plaza en 1997 con una extensión, pero la constructora cambió los planos del edificio en 1998 antes de que ellos registraran su propiedad. Ahora, la justicia les deniega la corrección simple: les obliga a ir a juicio o a convencer a todos los vecinos del edificio, ya que esos metros pasaron a ser 'zonas comunes'.",
+    "resumen_tweet": "🚗 ¿Te han 'encogido' la plaza de garaje? Unos vecinos de Telde pierden 6m² porque la promotora cambió el plan tras venderles el local. La ley prioriza el Registro sobre tu contrato privado. ¡Ojo con no registrar rápido! 🏢📉 #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Modificación unilateral por promotora post-venta",
+      "Inexactitud registral consolidada por falta de inscripción inmediata",
+      "Carga procesal excesiva para el ciudadano (exigencia de juicio declarativo)",
+      "Pérdida de superficie privativa en favor de zonas comunes sin compensación aparente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidad de Propietarios (ganan superficie en zonas comunes)",
+        "Promotora (históricamente, al ajustar el proyecto a su conveniencia)"
+      ],
+      "perdedores": [
+        "E. C. S. H. y M. J. D. P. (compradores que pierden metros y deben costear pleitos)",
+        "Seguridad jurídica de los contratos privados"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Resolución de la Dirección General de Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Modificación unilateral por promotora post-venta",
+      "Inexactitud registral consolidada por falta de inscripción inmediata",
+      "Carga procesal excesiva para el ciudadano (exigencia de juicio declarativo)",
+      "Pérdida de superficie privativa en favor de zonas comunes sin compensación aparente"
+    ]
+  },
+  "tweeted": false
+}
