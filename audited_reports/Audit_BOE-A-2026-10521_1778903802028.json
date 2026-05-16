@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-10521",
+  "timestamp": "2026-05-16T03:56:42.028Z",
+  "title": "Resolución de 4 de mayo de 2026, de la Universidad de Alicante, por la que se nombra Catedrática de Universidad a doña María Beatriz Aracil Varón.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática tras superar un proceso selectivo. Aunque el procedimiento cumple la legalidad vigente (LOSU), existe una opacidad estructural en cuanto a la dotación presupuestaria exacta vinculada a este código de plaza (DF03216). No se detalla el impacto económico a largo plazo para las arcas públicas en concepto de haberes pasivos y complementos específicos.",
+    "resumen_ciudadano": "La Universidad de Alicante formaliza el ascenso de doña María Beatriz Aracil Varón al rango de Catedrática de Universidad en el área de Literatura Española.",
+    "resumen_tweet": "🎓 Nueva cátedra en la Universidad de Alicante. María Beatriz Aracil Varón asciende en Literatura Española. Proceso legal bajo la LOSU, pero con el habitual silencio sobre el coste salarial total para el contribuyente. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Ausencia de información sobre el proceso selectivo previo en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Beatriz Aracil Varón",
+        "Universidad de Alicante (Consolidación de plantilla)",
+        "Liderazgo femenino en la academia"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de detalle en la eficiencia del gasto)",
+        "Candidatos externos (potencial endogamia universitaria inherente al sistema)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Ausencia de información sobre el proceso selectivo previo en este extracto"
+    ]
+  },
+  "tweeted": false
+}
