@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10626",
+  "timestamp": "2026-05-16T14:02:03.957Z",
+  "title": "Resolución de 13 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Chiclana de la Frontera n.º 2, por la que se suspende la asignación de un número de registro de alquiler de corta duración turístico por tratarse de una vivienda en situación de «asimilada a fuera de ordenación» y no aportarse la autorización previa del Ayuntamiento para el uso turístico.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución BOE-A-2026-10626 revela la compleja maraña burocrática creada por la nueva 'Ventanilla Única Digital de Arrendamientos'. El conflicto central radica en si el Registrador de la Propiedad debe actuar como un filtro de legalidad urbanística local o meramente como un fedatario de lo que deciden las comunidades autónomas. Al estimar el recurso de 'La Squadra AD, SL', la DGSJFP prioriza la celeridad del registro turístico sobre el control municipal de viviendas en situación de 'Asimilado a Fuera de Ordenación' (AFO), lo que permite que edificaciones que no cumplen plenamente la normativa urbanística ordinaria se incorporen al mercado turístico masivo si cuentan con un visto bueno autonómico previo.",
+    "resumen_ciudadano": "Si posees una vivienda 'irregular' (AFO) en Andalucía y la Junta te dio permiso turístico después de febrero de 2024, el Registro de la Propiedad ya no puede bloquear tu acceso al número de registro nacional. Esta decisión impide que los registradores exijan autorizaciones municipales adicionales que la administración autonómica ya debería haber comprobado, simplificando el proceso para los propietarios y empresas de alquiler vacacional.",
+    "resumen_tweet": "🏘️ ¡Luz verde al alquiler turístico en viviendas AFO! La DGSJFP impide que los Registradores bloqueen licencias que la Junta de Andalucía ya aprobó. Más facilidad para el inversor, menos control municipal. 🏛️⚖️ #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Uso de figuras de 'vivienda irregular' (AFO) para fines de explotación comercial turística",
+      "Posible dejación de funciones en la comprobación de autorizaciones municipales por parte de la administración autonómica",
+      "Fricción competencial entre el Estado, la Junta de Andalucía y los Ayuntamientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inversores y empresas de gestión inmobiliaria (ej. La Squadra AD, SL)",
+        "Plataformas de alquiler de corta duración (Airbnb, Booking)",
+        "Propietarios de viviendas en situación urbanística precaria (AFO)"
+      ],
+      "perdedores": [
+        "Ayuntamientos (pierden la última palabra efectiva en el registro)",
+        "Residentes locales (aumento de oferta turística en zonas con viviendas fuera de ordenación)",
+        "Mercado de alquiler de larga duración"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recurso de alzada contra calificación registral",
+    "banderas_rojas": [
+      "Uso de figuras de 'vivienda irregular' (AFO) para fines de explotación comercial turística",
+      "Posible dejación de funciones en la comprobación de autorizaciones municipales por parte de la administración autonómica",
+      "Fricción competencial entre el Estado, la Junta de Andalucía y los Ayuntamientos"
+    ]
+  },
+  "tweeted": false
+}
