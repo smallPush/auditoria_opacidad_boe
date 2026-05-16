@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10610",
+  "timestamp": "2026-05-16T13:49:25.255Z",
+  "title": "Resolución de 5 de mayo de 2026, de la Universidad de Córdoba, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución cumple con los formalismos de la Ley Orgánica 2/2023 (LOSU), pero mantiene la opacidad tradicional sobre los méritos específicos que justifican el acceso a la cima de la jerarquía funcionarial. Se observa un equilibrio de género (un hombre y una mujer), lo cual se alinea con las políticas de igualdad actuales, aunque el texto no detalla la dotación presupuestaria exacta vinculada a estos cargos vitalicios, perpetuando el 'gasto inercial' en la administración universitaria.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a dos nuevos catedráticos en Ingeniería y Filología. Este es el paso final de un proceso selectivo interno que otorga plazas permanentes y de alto nivel salarial en el sistema público.",
+    "resumen_tweet": "🎓 La Univ. de Córdoba nombra nuevos catedráticos. Paridad de género lograda (1H/1M), pero persiste la duda: ¿cuánto nos cuestan estas plazas vitalicias sin desglose presupuestario en el texto? #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Falta de transparencia en los criterios específicos de la Comisión Calificadora",
+      "Opacidad en la puntuación final de los candidatos en el documento público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Eugenio Jiménez Hornero (Consolidación laboral)",
+        "Antonia Navarro Tejero (Consolidación laboral)",
+        "Élite académica (Mantenimiento del estatus jerárquico)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (Dificultad de acceso a plazas de alto nivel)",
+        "Ciudadanía (Falta de visibilidad sobre la eficiencia del gasto en personal público)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Funcionarios",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Falta de transparencia en los criterios específicos de la Comisión Calificadora",
+      "Opacidad en la puntuación final de los candidatos en el documento público"
+    ]
+  },
+  "tweeted": false
+}
