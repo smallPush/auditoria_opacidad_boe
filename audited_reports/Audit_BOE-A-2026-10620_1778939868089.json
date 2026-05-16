@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10620",
+  "timestamp": "2026-05-16T13:57:48.089Z",
+  "title": "Resolución de 30 de diciembre de 2025, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación negativa del registrador de la propiedad de San Fernando n.º 1 de una instancia solicitando el cambio de número de identidad de extranjero de una titular registral por el código número de identificación fiscal por haber adquirido la nacionalidad española por residencia.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución revela una fricción sistémica entre la digitalización administrativa y el formalismo registral. El registrador de la propiedad impuso una carga burocrática excesiva a una ciudadana naturalizada al exigir la inscripción del Registro Civil, ignorando que la posesión de un DNI y un certificado de concordancia de la Policía Nacional ya presuponen legalmente dicho trámite. Este caso ilustra cómo el celo administrativo puede derivar en una barrera de clase y procedencia, obligando a los ciudadanos a litigar mediante abogados para validar derechos de identidad básicos ya reconocidos por el Ministerio del Interior.",
+    "resumen_ciudadano": "La Dirección General de Seguridad Jurídica corrige a un registrador de San Fernando (Cádiz) que se negaba a actualizar los datos de una propietaria que pasó de tener NIE a DNI tras obtener la nacionalidad española. El registrador pedía 'más papeles' innecesarios. La resolución dictamina que el DNI y el certificado de la policía son pruebas suficientes, evitando que el ciudadano sea rehén de trámites redundantes.",
+    "resumen_tweet": "⚖️ ¡Victoria ciudadana contra el papeleo! El #BOE tumba el exceso de celo de un registrador que pedía documentos redundantes a una ciudadana tras nacionalizarse. Si tienes DNI, tu identidad está probada. 🇪🇸📜 #Transparencia #Opacidad #Burocracia",
+    "banderas_red_flags": [
+      "Exigencia de documentación redundante",
+      "Incongruencia entre organismos públicos (Policía vs Registro)",
+      "Obstaculización del derecho a la actualización de identidad",
+      "Costo económico derivado para la recurrente (honorarios de abogado)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña S. Y. Y. (recupera su derecho a la seguridad jurídica)",
+        "Abogados especialistas en recursos registrales",
+        "Cuerpo Nacional de Policía (se valida su certificado de concordancia)"
+      ],
+      "perdedores": [
+        "Registrador de San Fernando nº 1 (calificación revocada)",
+        "Administración pública (por la ineficiencia temporal del proceso)",
+        "Ciudadanos inmigrantes (expuestos a criterios arbitrarios de registradores)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Exigencia de documentación redundante",
+      "Incongruencia entre organismos públicos (Policía vs Registro)",
+      "Obstaculización del derecho a la actualización de identidad",
+      "Costo económico derivado para la recurrente (honorarios de abogado)"
+    ]
+  },
+  "tweeted": false
+}
