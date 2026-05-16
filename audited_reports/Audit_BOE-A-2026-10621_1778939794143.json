@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10621",
+  "timestamp": "2026-05-16T13:56:34.143Z",
+  "title": "Resolución de 12 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Archidona, por la que se deniega la tramitación del expediente del artículo 199 de la Ley Hipotecaria para inscribir la georreferenciación de una finca registral y la declaración de obra nueva sobre la misma, por existir indicios de operaciones de reordenación del terreno, no documentadas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento revela una tensión sistémica entre la realidad física (Catastro) y la realidad jurídica (Registro de la Propiedad). Se detecta una 'opacidad histórica' donde fincas segregadas en el siglo XIX generan bloqueos actuales. El registrador sospecha de una 'reordenación del terreno no documentada', lo que en lenguaje cívico sugiere un intento de blanquear una apropiación de terreno colindante o evitar los impuestos asociados a una segregación formal. El notario, por contra, denuncia indefensión ante errores de arrastre históricos.",
+    "resumen_ciudadano": "Unos propietarios en Archidona intentan inscribir una reforma y la venta de su casa, pero el Registro de la Propiedad lo bloquea. El motivo: la casa mide 145 m2 en la realidad pero solo 105 m2 en los papeles antiguos. El registrador cree que han 'absorbido' parte de la parcela de al lado sin los trámites legales, mientras que los dueños alegan que el error es del registro antiguo. Esto impide la venta a unos compradores extranjeros hasta que se aclare el 'misterio' de los 40 metros de diferencia.",
+    "resumen_tweet": "🕵️‍♂️ ¿Ingeniería parcelaria o error histórico? En Archidona, el Registro frena una venta por 40m2 'fantasmas' que no cuadran con las lindes de 1894. La falta de transparencia en la evolución de fincas castiga al ciudadano. #BOE #Opacidad #Transparencia #Archidona ⚖️🏠",
+    "banderas_red_flags": [
+      "Operaciones de reordenación del terreno no documentadas",
+      "Invasión de finca registral colindante",
+      "Discrepancia de superficie superior al 30%",
+      "Posible encubrimiento de negocio traslativo (evasión fiscal)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Registrador de la Propiedad (al mantener la integridad de los asientos frente a posibles fraudes)",
+        "Hacienda Pública (si se obliga a realizar una segregación y agrupación formal con sus respectivos impuestos)"
+      ],
+      "perdedores": [
+        "Vendedores (bloqueo de la venta y posible coste extra en trámites)",
+        "Compradores neerlandeses (inseguridad jurídica en su adquisición)",
+        "Notario (calificación negativa de su escritura)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Operaciones de reordenación del terreno no documentadas",
+      "Invasión de finca registral colindante",
+      "Discrepancia de superficie superior al 30%",
+      "Posible encubrimiento de negocio traslativo (evasión fiscal)"
+    ]
+  },
+  "tweeted": false
+}
