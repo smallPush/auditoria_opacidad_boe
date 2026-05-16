@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10516",
+  "timestamp": "2026-05-16T03:55:45.149Z",
+  "title": "Resolución de 6 de mayo de 2026, de la Presidencia del Tribunal de Cuentas, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla la adjudicación de 11 puestos de alta responsabilidad (niveles 28 a 30) en el Tribunal de Cuentas mediante el sistema de 'libre designación'. Este mecanismo, aunque legal, permite una discrecionalidad que colisiona con el espíritu de mérito y capacidad, especialmente en el órgano encargado de fiscalizar el dinero público. Se observa una marcada endogamia administrativa: 10 de los 11 adjudicatarios ya tenían destino previo en el propio Tribunal de Cuentas, lo que sugiere un proceso de 'ascenso interno' o consolidación de posiciones de confianza bajo una apariencia de convocatoria abierta.",
+    "resumen_ciudadano": "El Tribunal de Cuentas ha asignado 11 puestos de trabajo de alto nivel (con sueldos elevados asociados a los niveles 28, 29 y 30) a dedo. Aunque se presentaron varios candidatos, los elegidos son casi exclusivamente personas que ya trabajaban allí. Esto refuerza la estructura de mando interna del organismo que debería ser el ejemplo de transparencia en España.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién vigila al vigilante? El Tribunal de Cuentas adjudica 11 puestazos (niveles 28-30) a 'dedo' (libre designación). 10 de los 11 ya trabajaban allí. La endogamia administrativa en su máximo esplendor. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistemático de la libre designación en puestos técnicos",
+      "Alta tasa de adjudicaciones internas (91%)",
+      "Falta de publicación de los informes de idoneidad comparativos",
+      "Concentración de niveles salariales máximos (30)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Auditores del Tribunal de Cuentas",
+        "Élite funcionarial de niveles 28-30",
+        "Personal con red de confianza interna en el Tribunal"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera externos sin conexiones internas",
+        "Principio de mérito, capacidad y concurrencia real",
+        "Ciudadanía que demanda procesos de selección objetivos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistemático de la libre designación en puestos técnicos",
+      "Alta tasa de adjudicaciones internas (91%)",
+      "Falta de publicación de los informes de idoneidad comparativos",
+      "Concentración de niveles salariales máximos (30)"
+    ]
+  },
+  "tweeted": false
+}
