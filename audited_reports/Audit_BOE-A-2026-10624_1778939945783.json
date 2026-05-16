@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10624",
+  "timestamp": "2026-05-16T13:59:05.783Z",
+  "title": "Resolución de 13 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Alcalá de Henares n.º 4, por la que se suspende la inscripción de un cambio de uso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El caso expone la fricción burocrática entre el Registro de la Propiedad y el Catastro. A pesar de que el ciudadano (H.E.A.F.) contaba con licencias municipales y una Referencia Catastral única y coincidente, la Registradora de Alcalá de Henares suspendió la inscripción basándose en discrepancias métricas (33m² frente a 47m²) y cambios en la numeración de la calle. Esta rigidez administrativa actúa como un cuello de botella para la creación de vivienda, obligando al ciudadano a un proceso de recurso costoso y lento para validar una realidad ya reconocida por el Ayuntamiento y el Catastro.",
+    "resumen_ciudadano": "Un vecino de Alcalá de Henares solicitó registrar el cambio de uso de un local comercial a vivienda tras obtener todos los permisos municipales. La registradora se negó alegando que el local parecía 'distinto' por tener más metros en el catastro que en el registro antiguo y por un cambio en el número de la calle. Finalmente, la Dirección General le da la razón al ciudadano: si el número de identificación (referencia catastral) es el mismo, el registro debe actualizarse y no bloquear al propietario por tecnicismos.",
+    "resumen_tweet": "🏛️ ¿Trabas para crear vivienda? Un registrador bloqueó el cambio de uso de local a piso en Alcalá pese a tener licencia, alegando dudas métricas. La DGSJFP le corrige: la referencia catastral es la clave. ¡Menos burocracia, más realidad! 🏠📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Rigidez burocrática obstructiva",
+      "Descoordinación crónica Registro-Catastro",
+      "Inseguridad jurídica por criterios subjetivos del registrador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadano recurrente (H.E.A.F.)",
+        "Dirección General de Seguridad Jurídica (aplica lógica digital)"
+      ],
+      "perdedores": [
+        "Registradora de la Propiedad de Alcalá de Henares nº 4",
+        "Agilidad en el mercado de la vivienda"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Resolución de Recursos de Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Rigidez burocrática obstructiva",
+      "Descoordinación crónica Registro-Catastro",
+      "Inseguridad jurídica por criterios subjetivos del registrador"
+    ]
+  },
+  "tweeted": false
+}
