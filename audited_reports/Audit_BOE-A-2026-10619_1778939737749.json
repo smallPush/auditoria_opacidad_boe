@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10619",
+  "timestamp": "2026-05-16T13:55:37.749Z",
+  "title": "Resolución de 26 de diciembre de 2025, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa del registrador de la propiedad de Rivas Vaciamadrid a rectificar la inscripción de la representación gráfica georreferenciada de una finca, solicitada por un colindante, por omitir la constitución de una servidumbre de acueducto.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se ampara en el principio de 'salvaguardia judicial de los asientos' para blindar una inscripción registral posiblemente errónea. Aunque el registrador pudo haber ignorado la realidad física de una servidumbre de acueducto (cacera), la Dirección General dictamina que una vez practicado el asiento, el ciudadano queda indefenso administrativamente, obligándole a acudir a un proceso judicial largo y costoso. Existe una disonancia entre la 'validación catastral positiva' y la realidad del terreno reclamada por los colindantes, lo que genera una situación de indefensión bajo una apariencia de legalidad técnica.",
+    "resumen_ciudadano": "Unos vecinos de Velilla de San Antonio denunciaron que el Registro de la Propiedad inscribió la finca de un vecino incluyendo terreno que les pertenece y omitiendo una acequia (servidumbre de acueducto). La administración reconoce el conflicto, pero se lava las manos alegando que, como el error ya está 'escrito' en el Registro, solo un juez en un juicio civil puede arreglarlo. El ciudadano pierde su derecho a la corrección administrativa simple ante un error de delimitación geográfica.",
+    "resumen_tweet": "⚖️ El laberinto del #BOE: Si el Registro se equivoca con tu linde, ¡estás atrapado! La Dirección General dice que una vez inscrito, solo un juez puede arreglarlo. Vecinos de Velilla pierden ante la burocracia registral. 🛑 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Inmutabilidad del asiento registral tras error",
+      "Derivación forzosa a la vía judicial civil",
+      "Posible discrepancia entre catastro y realidad física",
+      "Falta de tutela administrativa efectiva ante errores del registrador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Titulares de la finca 8.966 (obtienen pleno dominio sobre zona en disputa)",
+        "Registrador de la Propiedad de Rivas Vaciamadrid (su decisión queda blindada)"
+      ],
+      "perdedores": [
+        "Don J.A.P.S. y colindantes (pierden el control de la servidumbre y deben pagar juicio)",
+        "Transparencia territorial (prevalece el papel sobre la realidad del terreno)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Resolución Administrativa de Seguridad Jurídica",
+    "banderas_rojas": [
+      "Inmutabilidad del asiento registral tras error",
+      "Derivación forzosa a la vía judicial civil",
+      "Posible discrepancia entre catastro y realidad física",
+      "Falta de tutela administrativa efectiva ante errores del registrador"
+    ]
+  },
+  "tweeted": false
+}
