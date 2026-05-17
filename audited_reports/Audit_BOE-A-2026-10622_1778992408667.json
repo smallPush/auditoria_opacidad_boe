@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10622",
+  "timestamp": "2026-05-17T04:33:28.667Z",
+  "title": "Resolución de 13 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Elche n.º 3 a inscribir una escritura de compraventa.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento expone una colisión entre el derecho a la propiedad privada y las cargas sucesorias impuestas hace décadas. Se detecta una 'opacidad técnica' donde la interpretación de una cláusula de 1992 bloquea una transacción en 2026. Aunque no hay un gasto público directo, el coste de oportunidad y la inseguridad jurídica para los compradores de buena fe (como L.A.P.) actúan como un impuesto indirecto a la agilidad económica. La rigidez de la registradora frente a la interpretación del recurrente refleja una burocracia que prioriza la literalidad del siglo pasado sobre la lógica de mercado actual.",
+    "resumen_ciudadano": "Un vecino de Elche intentó vender una casa que heredó de su madre con condiciones. El testamento decía que no podía venderla en 30 años y que luego pasaría a sus sobrinos. Aunque ya pasaron los 30 años, la Registradora de la Propiedad ha bloqueado la venta alegando que el vendedor es solo un 'fiduciario' y tiene que guardar la casa para los sobrinos sí o sí. El caso muestra cómo cláusulas antiguas pueden paralizar propiedades hoy en día.",
+    "resumen_tweet": "🏠 ¿Heredaste con condiciones? El #BOE analiza una venta en Elche bloqueada por una cláusula de 1992. El conflicto entre la voluntad de los fallecidos y la libertad de los vivos genera parálisis legal. ¡Ojo a las letras pequeñas! 👁️⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cargas sucesorias con duración superior a tres décadas",
+      "Interpretación registral restrictiva de la libertad dispositiva",
+      "Inseguridad jurídica para terceros compradores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sobrinos (fideicomisarios) que mantienen su expectativa de herencia",
+        "Administración Pública (tasas y costas del proceso de recurso)"
+      ],
+      "perdedores": [
+        "P.U.E. (Vendedor), que no puede disponer de su patrimonio",
+        "L.A.P. (Compradora), que ve frustrada su adquisición por una carga histórica",
+        "Fluidez del tráfico jurídico inmobiliario"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Resolución de la Dirección General de Seguridad Jurídica",
+    "banderas_rojas": [
+      "Cargas sucesorias con duración superior a tres décadas",
+      "Interpretación registral restrictiva de la libertad dispositiva",
+      "Inseguridad jurídica para terceros compradores"
+    ]
+  },
+  "tweeted": false
+}
