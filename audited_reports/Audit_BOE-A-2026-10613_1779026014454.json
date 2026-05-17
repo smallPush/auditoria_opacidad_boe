@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10613",
+  "timestamp": "2026-05-17T13:53:34.454Z",
+  "title": "Resolución de 5 de mayo de 2026, del Instituto Nacional de Gestión Sanitaria, por la que se convoca proceso selectivo, por concurso, por el sistema general de acceso libre y promoción interna, para acceso a la condición de personal estatutario fijo en plazas de las categorías de personal sanitario del Grupo A, Subgrupo A1.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución opta por el sistema de concurso (solo méritos, sin examen) amparándose en la Ley 55/2003 y la urgencia de gestión. Si bien se justifica por la alta cualificación previa (MIR), este método tiende a favorecer la consolidación de personal interino actual sobre nuevos aspirantes, limitando la competencia efectiva. Se detecta una reserva para discapacidad de solo 1 plaza sobre 50, lo que representa un 2%, situándose en el umbral mínimo legal y dificultando la inclusión real en el Subgrupo A1.",
+    "resumen_ciudadano": "El Instituto Nacional de Gestión Sanitaria (INGESA) convoca 50 plazas fijas para médicos y especialistas sanitarios (A1) en Ceuta y Melilla. La selección se hará solo por currículum y experiencia, sin realizar exámenes teóricos, con el objetivo de acelerar la contratación de personal estable en especialidades críticas como Radiodiagnóstico, Pediatría y Urología.",
+    "resumen_tweet": "🚨 ¡Atención! El INGESA convoca 50 plazas de médicos especialistas por concurso (sin examen) para Ceuta y Melilla. Solo 1 plaza reservada para discapacidad (2%) 📉. ¿Agilidad o consolidación encubierta? 🏥⚖️ #BOE #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Uso del sistema de concurso exclusivo omitiendo la fase de oposición",
+      "Cuota de reserva para discapacidad en el límite inferior (2%)",
+      "Concentración de plazas en Radiodiagnóstico (7) frente a otras áreas críticas",
+      "Escasa oferta de promoción interna (solo 1 plaza)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Médicos especialistas con amplia experiencia acumulada (interinos)",
+        "Gestores de INGESA por la simplificación administrativa del proceso"
+      ],
+      "perdedores": [
+        "Médicos recién titulados sin puntos por servicios prestados",
+        "Aspirantes con discapacidad por la baja reserva de plazas"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla (Gestión Estatal)",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Uso del sistema de concurso exclusivo omitiendo la fase de oposición",
+      "Cuota de reserva para discapacidad en el límite inferior (2%)",
+      "Concentración de plazas en Radiodiagnóstico (7) frente a otras áreas críticas",
+      "Escasa oferta de promoción interna (solo 1 plaza)"
+    ]
+  },
+  "tweeted": false
+}
