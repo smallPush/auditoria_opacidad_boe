@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10627",
+  "timestamp": "2026-05-17T04:32:41.758Z",
+  "title": "Resolución de 14 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto «contra la calificación del mandamiento de ampliación al ser entendido como una anotación nueva» practicada por la registradora de la propiedad de Santander n.º 1, que no procedió a la ampliación de la anotación de embargo ya practicada a favor del Ayuntamiento de Santander, sino a la extensión de una nueva anotación preventiva.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El caso revela una estrategia del Ayuntamiento de Santander para obtener privilegio de cobro sobre otros acreedores (como la Seguridad Social). Al intentar 'ampliar' un embargo de 2011 con deudas acumuladas hasta 2024, la administración local pretendía saltarse el orden de prioridad registral. La Dirección General interviene para evitar que una administración 'canibalice' el rango hipotecario, protegiendo la seguridad jurídica frente a la voracidad recaudatoria que ignora el tracto sucesivo.",
+    "resumen_ciudadano": "El Ayuntamiento de Santander intentó cobrar deudas de impuestos recientes (IBI, basuras, multas) usando la 'matrícula' de un embargo muy antiguo de 2011. Esto le habría permitido cobrar antes que otros organismos a los que el ciudadano también debe dinero. La justicia registral ha dicho que no: las deudas nuevas deben ir al final de la cola de pagos, respetando el orden de llegada, evitando así que el Ayuntamiento tenga un superpoder sobre otros acreedores.",
+    "resumen_tweet": "⚖️ El Ayto. de Santander intentó 'colarse' en la cola de cobros usando un embargo de 2011 para deudas de 2024. ¡Frenazo en el Registro! No se puede saltar la prioridad frente a otros acreedores como la Seguridad Social. 🛑📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Intento de salto de prelación de créditos",
+      "Acumulación excesiva de débitos (2012-2024) en un solo expediente",
+      "Conflicto de intereses entre Administraciones Públicas (Ayuntamiento vs Seguridad Social)",
+      "Uso instrumental de figuras jurídicas para priorizar recaudación local"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tesorería General de la Seguridad Social",
+        "Otros acreedores con cargas intermedias",
+        "Seguridad Jurídica del Sistema Registral"
+      ],
+      "perdedores": [
+        "Ayuntamiento de Santander (recaudación municipal)",
+        "El deudor (acumula múltiples anotaciones en lugar de una)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Resolución de la Dirección General de Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Intento de salto de prelación de créditos",
+      "Acumulación excesiva de débitos (2012-2024) en un solo expediente",
+      "Conflicto de intereses entre Administraciones Públicas (Ayuntamiento vs Seguridad Social)",
+      "Uso instrumental de figuras jurídicas para priorizar recaudación local"
+    ]
+  },
+  "tweeted": false
+}
