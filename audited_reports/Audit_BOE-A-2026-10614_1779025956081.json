@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10614",
+  "timestamp": "2026-05-17T13:52:36.081Z",
+  "title": "Resolución de 5 de mayo de 2026, del Instituto Nacional de Gestión Sanitaria, por la que se convoca proceso selectivo, por concurso, por el sistema general de acceso libre, para acceso a la condición de personal estatutario fijo en plazas de la categoría de Enfermería Obstétrico-Ginecológico (Matrón/a).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso' (solo méritos) obviando la fase de examen, justificándolo por la necesidad de 'celeridad' y la titulación previa. Esto suele ser una vía para consolidar personal interino existente, dificultando el acceso a nuevos aspirantes sin experiencia previa pero con alta capacidad técnica. Aunque se cita la transparencia, la externalización de la protección de datos a una entidad privada (Ayesa Ibermática) y las trabas burocráticas específicas para residentes en Ceuta y Melilla en la verificación de exención de tasas restan puntos a la equidad del proceso.",
+    "resumen_ciudadano": "Se convocan 3 plazas de matrona para el INGESA mediante un proceso que solo valorará los méritos (experiencia y formación) sin realizar exámenes. El proceso es telemático y busca rapidez administrativa. Se han detectado dificultades añadidas para los aspirantes residentes en Ceuta y Melilla, quienes no disfrutan de la misma automatización de datos que el resto de España.",
+    "resumen_tweet": "⚠️ Solo 3 plazas de matrona en el #BOE. Selección por 'concurso' (sin examen) para acelerar el proceso. ¿Consolidación de interinos? Además, trabas en trámites para Ceuta y Melilla. 🏥🔎 #Opacidad #Transparencia #Sanidad #Ingesa",
+    "banderas_red_flags": [
+      "Sistema de selección sin examen (solo concurso)",
+      "Número de plazas insuficiente (solo 3)",
+      "Externalización de la gestión de protección de datos a empresa privada",
+      "Discriminación técnica/burocrática para residentes en Ceuta y Melilla"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con larga experiencia acumulada",
+        "Administración (por simplificación de plazos)",
+        "Ayesa Ibermática (entidad privada de gestión de datos)"
+      ],
+      "perdedores": [
+        "Nuevos graduados en enfermería obstétrico-ginecológica",
+        "Residentes en Ceuta y Melilla (por carga burocrática extra)",
+        "Sistema sanitario (por baja oferta de plazas ante la demanda)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Ceuta y Melilla)",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de selección sin examen (solo concurso)",
+      "Número de plazas insuficiente (solo 3)",
+      "Externalización de la gestión de protección de datos a empresa privada",
+      "Discriminación técnica/burocrática para residentes en Ceuta y Melilla"
+    ]
+  },
+  "tweeted": false
+}
