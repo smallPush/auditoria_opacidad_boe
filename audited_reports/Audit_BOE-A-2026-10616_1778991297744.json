@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10616",
+  "timestamp": "2026-05-17T04:14:57.744Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un concurso específico para la provisión de puestos en la CNMC, un organismo regulador crítico. Aunque las bases son detalladas, el uso de 'méritos específicos' (Fase 2) es un mecanismo habitual para consolidar a personal que ya ocupa los puestos de forma provisional, creando 'trajes a medida' legislativos. La obligatoriedad de tramitación electrónica exclusiva a través del Portal Funciona, salvo excepciones muy rígidas, supone una barrera burocrática digital, aunque eficiente. Se detecta una restricción de movilidad para el personal de la AEAT, supeditada a autorizaciones que limitan la libertad de carrera profesional.",
+    "resumen_ciudadano": "La CNMC busca cubrir puestos de trabajo mediante un concurso interno para funcionarios. Se valorará la experiencia previa, cursos de formación y situaciones familiares. Aunque menciona la igualdad de género, el sistema de puntuación favorece fuertemente a quienes ya desempeñan funciones similares dentro del organismo o áreas reguladas (energía, telecos, transportes), dificultando la entrada de sangre nueva de otras áreas de la administración.",
+    "resumen_tweet": "🔍 Nueva auditoría #BOE: La CNMC convoca plazas. Mucha técnica y poca movilidad real. Los 'méritos específicos' suelen ser barreras para quienes no están ya dentro. ¿Transparencia o consolidación interna? 💼⚖️ #Opacidad #Transparencia #FunciónPública",
+    "banderas_red_flags": [
+      "Uso de méritos específicos con peso determinante (6 puntos mínimo)",
+      "Restricción de movilidad para personal de la Agencia Tributaria",
+      "Dependencia de un listado interno de cursos no adjunto directamente al BOE",
+      "Exclusiones por sector que requieren autorización discrecional de la CECIR"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con adscripción provisional actual en la CNMC",
+        "Especialistas en sectores regulados (Energía, Telecomunicaciones)",
+        "Funcionarios con antigüedad consolidada y formación interna previa"
+      ],
+      "perdedores": [
+        "Funcionarios de la AEAT (movilidad limitada)",
+        "Funcionarios de cuerpos generales sin experiencia técnica en mercados",
+        "Personal con dificultades de acceso a certificados electrónicos FNMT/DNI-e"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Uso de méritos específicos con peso determinante (6 puntos mínimo)",
+      "Restricción de movilidad para personal de la Agencia Tributaria",
+      "Dependencia de un listado interno de cursos no adjunto directamente al BOE",
+      "Exclusiones por sector que requieren autorización discrecional de la CECIR"
+    ]
+  },
+  "tweeted": false
+}
