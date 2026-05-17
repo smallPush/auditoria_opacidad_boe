@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10623",
+  "timestamp": "2026-05-17T13:55:06.787Z",
+  "title": "Resolución de 13 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Sabadell n.º 2 a inscribir una sentencia dictada en procedimiento ordinario por la que se declara la adquisición por prescripción de parte de una porción procedente de varias fincas registrales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento expone una colisión de esferas entre el Poder Judicial y la Administración Registral. A pesar de existir una sentencia firme que reconoce la propiedad de un patio de 24m2 por prescripción (usucapión), el Registro de la Propiedad impone barreras técnicas y administrativas que supeditan la efectividad judicial a la validación de licencias municipales y georreferenciación. Esto genera una 'indefensión burocrática' donde el ciudadano, tras ganar un pleito, queda atrapado en un bucle de requisitos técnicos (informes de ingenieros, validaciones catastrales) que encarecen el proceso y dilatan la seguridad jurídica. No hay gastos públicos directos, pero sí una transferencia de costes hacia el ciudadano en beneficio de colegios profesionales (notarios, registradores, ingenieros).",
+    "resumen_ciudadano": "Una ciudadana de Sabadell ganó un juicio para que se le reconociera la propiedad de un pequeño patio de 24 metros cuadrados. Sin embargo, el Registro de la Propiedad se niega a inscribir la sentencia si no presenta nuevas licencias del ayuntamiento, escrituras notariales adicionales y mapas georreferenciados precisos. La Administración demuestra que, incluso con una sentencia judicial a favor, la burocracia técnica tiene la última palabra.",
+    "resumen_tweet": "⚖️ Ganar un juicio no es suficiente. El #BOE muestra cómo el Registro de Sabadell bloquea una sentencia sobre un patio de 24m2 exigiendo más burocracia y mapas técnicos. La justicia civil se estrella contra el muro registral. 📜🚫 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Supremacía de la burocracia sobre la sentencia judicial",
+      "Bucle de requisitos técnicos inalcanzables",
+      "Elevados costes de transacción para el ciudadano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo de Registradores de la Propiedad",
+        "Ingenieros técnicos (peritos)",
+        "Notarios (por futuras escrituras de segregación)"
+      ],
+      "perdedores": [
+        "Doña M. V. N. (ciudadana recurrente)",
+        "Eficacia del sistema judicial civil"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Seguridad Jurídica",
+    "banderas_rojas": [
+      "Supremacía de la burocracia sobre la sentencia judicial",
+      "Bucle de requisitos técnicos inalcanzables",
+      "Elevados costes de transacción para el ciudadano"
+    ]
+  },
+  "tweeted": false
+}
