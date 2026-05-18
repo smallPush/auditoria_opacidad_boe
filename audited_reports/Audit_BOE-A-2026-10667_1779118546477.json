@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-10667",
+  "timestamp": "2026-05-18T15:35:46.477Z",
+  "title": "Orden HAC/484/2026, de 14 de mayo, por la que se modifican para el período impositivo 2025 los índices de rendimiento neto aplicables en el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas para las actividades agrícolas y ganaderas afectadas por diversas circunstancias excepcionales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden HAC/484/2026 actúa como un mecanismo de alivio fiscal 'quirúrgico' que utiliza la reducción de índices de rendimiento neto para compensar pérdidas por sequía y plagas. No obstante, la opacidad reside en la discrecionalidad técnica: el informe del Ministerio de Agricultura que justifica qué municipios entran y cuáles no, no es público ni se detalla en el texto. Esto genera una red de 'micro-subvenciones fiscales' que pueden ser utilizadas como herramientas políticas territoriales. Además, el sistema de 'módulos' (estimación objetiva) es intrínsecamente menos transparente que la contabilidad real, permitiendo una tributación que no siempre refleja la riqueza efectiva.",
+    "resumen_ciudadano": "El Gobierno ha rebajado los impuestos (IRPF) para agricultores y ganaderos de zonas específicas afectadas por problemas climáticos o plagas en 2025. Sectores como el olivar, la almendra, la apicultura y el ganado ovino pagarán menos sobre sus beneficios estimados. La medida busca evitar el colapso financiero de pequeñas y medianas explotaciones en regiones como Andalucía y Almería, basándose en reducciones de los índices de beneficio neto.",
+    "resumen_tweet": "🚜 El #BOE publica rebajas fiscales para el campo por 'circunstancias excepcionales' en 2025. ¿Alivio real o parche temporal? 🧐 Se benefician dueños de tierras, pero se olvida a los jornaleros. ¡La opacidad técnica oculta el impacto! #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Criterios de inclusión municipal basados en informes no publicados",
+      "Uso de conceptos vagos como 'circunstancias excepcionales' sin cuantificar el daño mínimo",
+      "Falta de medidas compensatorias para los trabajadores asalariados del campo (jornaleros)",
+      "Complejidad técnica que requiere gestoría especializada, penalizando a los más pequeños"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Propietarios de explotaciones agrícolas en régimen de módulos",
+        "Sector olivarero de Jaén y Córdoba",
+        "Apicultores (reducción general al 0,13)",
+        "Productores de almendra en Almería"
+      ],
+      "perdedores": [
+        "Hacienda Pública (pérdida de recaudación)",
+        "Trabajadores agrícolas por cuenta ajena",
+        "Pequeños agricultores fuera de los municipios seleccionados",
+        "Transparencia presupuestaria (gasto fiscal indirecto)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica (Principalmente Andalucía)",
+    "tipologia": "Orden Ministerial - Fiscalidad Agraria",
+    "banderas_rojas": [
+      "Criterios de inclusión municipal basados en informes no publicados",
+      "Uso de conceptos vagos como 'circunstancias excepcionales' sin cuantificar el daño mínimo",
+      "Falta de medidas compensatorias para los trabajadores asalariados del campo (jornaleros)",
+      "Complejidad técnica que requiere gestoría especializada, penalizando a los más pequeños"
+    ]
+  },
+  "tweeted": false
+}
