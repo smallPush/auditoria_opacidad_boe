@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10679",
+  "timestamp": "2026-05-18T15:55:54.350Z",
+  "title": "Resolución de 6 de mayo de 2026, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad, con plaza vinculada, a doña Sonia Santos Lasaosa.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento formaliza un nombramiento bajo la Ley Orgánica 2/2023 (LOSU). Se observa la consolidación de una 'plaza vinculada', un mecanismo que permite a la élite médica ostentar simultáneamente cargos de alta jerarquía académica y asistencial. Aunque el proceso cumple la legalidad, perpetúa una estructura donde los puestos de decisión en hospitales públicos y la docencia universitaria quedan concentrados en las mismas manos, limitando la rotación de poder.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado a doña Sonia Santos Lasaosa como Profesora Titular de Medicina. Este cargo está ligado a su función clínica en el Hospital Clínico Universitario Lozano Blesa, donde mantendrá su puesto como Jefa de Sección de Neurología.",
+    "resumen_tweet": "🎓 Nombramiento en @unizar: Sonia Santos Lasaosa, nueva Profesora Titular de Medicina. Combina docencia y jefatura en Neurología del Lozano Blesa. La élite médica blinda su posición en la universidad. 🏥💉 #BOE #Transparencia #Universidad #Aragón",
+    "banderas_red_flags": [
+      "Plaza vinculada universidad-hospital",
+      "Acumulación de poder administrativo, docente y asistencial",
+      "Mantenimiento de jefatura de sección previo al nombramiento académico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sonia Santos Lasaosa",
+        "Universidad de Zaragoza",
+        "Estructura jerárquica del Hospital Lozano Blesa"
+      ],
+      "perdedores": [
+        "Personal investigador joven con menor acceso a plazas vinculadas",
+        "Médicos asistenciales sin perfil académico para jefaturas"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de personal funcionario de carrera",
+    "banderas_rojas": [
+      "Plaza vinculada universidad-hospital",
+      "Acumulación de poder administrativo, docente y asistencial",
+      "Mantenimiento de jefatura de sección previo al nombramiento académico"
+    ]
+  },
+  "tweeted": false
+}
