@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10678",
+  "timestamp": "2026-05-18T15:54:33.692Z",
+  "title": "Resolución de 6 de mayo de 2026, de la Universidad de Córdoba, por la que se nombra Catedrático de Universidad a don Juan Garrido Jurado.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de cátedra estándar bajo la nueva LOSU. Aunque formalmente transparente, el sistema de 'concurso' sigue siendo una caja negra para el ciudadano común, donde los méritos específicos no se publican en el BOE, limitándose a la resolución del Rectorado. Se observa la persistencia del techo de cristal en áreas STEM, con un nombramiento masculino en una disciplina de ingeniería.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a Juan Garrido Jurado como Catedrático en Ingeniería de Sistemas y Automática. Este es el paso final de un proceso selectivo que otorga una plaza permanente de máximo nivel docente e investigador en la estructura universitaria pública.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la @Univcordoba. Juan Garrido Jurado alcanza la cima académica en Ingeniería. ¿Reflejan estos nombramientos la diversidad real en las áreas STEM? #BOE #Opacidad #Universidad #UCO #Transparencia",
+    "banderas_red_flags": [
+      "Predominancia masculina en altos cargos de ingeniería (STEM)",
+      "Opacidad en los baremos de la Comisión Calificadora en el extracto publicado",
+      "Gasto estructural consolidado sin desglose presupuestario en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Garrido Jurado",
+        "Departamento de Ingeniería Eléctrica y Automática",
+        "Universidad de Córdoba"
+      ],
+      "perdedores": [
+        "Candidatos alternativos del concurso",
+        "Representación femenina en la élite de la ingeniería universitaria"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Predominancia masculina en altos cargos de ingeniería (STEM)",
+      "Opacidad en los baremos de la Comisión Calificadora en el extracto publicado",
+      "Gasto estructural consolidado sin desglose presupuestario en la resolución"
+    ]
+  },
+  "tweeted": false
+}
