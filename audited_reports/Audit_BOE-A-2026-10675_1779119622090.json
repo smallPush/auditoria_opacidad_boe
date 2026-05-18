@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10675",
+  "timestamp": "2026-05-18T15:53:42.090Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 29 (uno de los más altos en la escala funcionarial) en el Ministerio de Igualdad subraya una práctica recurrente en la administración pública española: la discrecionalidad técnica. Aunque legal bajo la Ley 30/1984, este método permite la selección de personal basada en la confianza política más que en un concurso de méritos abierto y ciego. El puesto de 'Coordinador de Unidad de Inclusión' es un rol estratégico que, al ser provisto 'a dedo', genera dudas sobre la independencia técnica frente a la directriz política del departamento.",
+    "resumen_ciudadano": "El Ministerio de Igualdad ha adjudicado un puesto de alta dirección (Nivel 29) mediante el sistema de libre designación. Esto significa que el candidato ha sido elegido directamente por los responsables del ministerio por criterios de confianza, en lugar de pasar por un proceso de oposición o concurso de méritos abierto a otros funcionarios calificados. El beneficiario proviene de la Agencia Estatal de Administración Digital.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' administrativo en el Ministerio de Igualdad. Adjudicado un puesto de Nivel 29 por libre designación. ¿Confianza política o mérito profesional? La opacidad de los nombramientos a dedo continúa. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel de complemento de destino muy alto (29)",
+      "Adjudicación en puesto de Gabinete Técnico (perfil político)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Aradas Cabado (asciende a Nivel 29)",
+        "Ministerio de Igualdad (asegura personal de confianza en puestos clave)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza política",
+        "Ciudadanía (menor transparencia en la gestión de recursos humanos)",
+        "Criterios de mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento por Libre Designación",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel de complemento de destino muy alto (29)",
+      "Adjudicación en puesto de Gabinete Técnico (perfil político)"
+    ]
+  },
+  "tweeted": false
+}
