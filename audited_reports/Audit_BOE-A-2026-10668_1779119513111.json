@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10668",
+  "timestamp": "2026-05-18T15:51:53.111Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución establece precios de forma automática basándose en variables externas como la cotización del propano/butano en dólares y los fletes. Existe una opacidad estructural en los 'costes de comercialización', que se revisan anualmente pero no se desglosan en esta resolución, funcionando como una caja negra que protege los márgenes de beneficio de las distribuidoras. La traslación de la volatilidad del mercado internacional y del tipo de cambio euro/dólar recae directamente sobre el consumidor final sin mecanismos de amortiguación social claros.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios del gas licuado (GLP) por canalización. A partir del 19 de mayo de 2026, los hogares pagarán un término fijo de 1,58 € al mes más una parte variable según el consumo (102,14 c€/kg). Este precio no incluye impuestos (IVA o IGIC). La subida o bajada depende de mercados internacionales y de lo que cueste traer el gas en barco.",
+    "resumen_tweet": "⛽️ El #BOE actualiza los precios del gas por canalización. Los consumidores quedan expuestos a la volatilidad del dólar y mercados externos. ¿Y los márgenes de las eléctricas? 🧐 Poca claridad en los costes de comercialización. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fórmulas de cálculo basadas en órdenes ministeriales de 2008 no actualizadas a la realidad social actual",
+      "Opacidad en la determinación de los 'costes de comercialización'",
+      "Traslación directa de riesgos de mercado (fletes y cambio de divisa) al ciudadano",
+      "Falta de auditoría pública sobre los beneficios reales de las distribuidoras por canalización"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas distribuidoras de GLP",
+        "Intermediarios de fletes marítimos",
+        "Mercado de divisas (dólar)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos en zonas rurales",
+        "Familias con calefacción de gas canalizado",
+        "Pequeños negocios de hostelería"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Precios y Tarifas",
+    "banderas_rojas": [
+      "Fórmulas de cálculo basadas en órdenes ministeriales de 2008 no actualizadas a la realidad social actual",
+      "Opacidad en la determinación de los 'costes de comercialización'",
+      "Traslación directa de riesgos de mercado (fletes y cambio de divisa) al ciudadano",
+      "Falta de auditoría pública sobre los beneficios reales de las distribuidoras por canalización"
+    ]
+  },
+  "tweeted": false
+}
