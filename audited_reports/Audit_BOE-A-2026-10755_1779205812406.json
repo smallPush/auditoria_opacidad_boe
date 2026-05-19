@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10755",
+  "timestamp": "2026-05-19T15:50:12.406Z",
+  "title": "Decreto de 28 de abril de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Delitos Económicos en la Fiscalía Provincial de Córdoba a doña Carmen Romero Urrutia.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El decreto formaliza el nombramiento de una fiscal para una especialidad crítica: Delitos Económicos. Aunque el proceso se presenta como abierto, la existencia de una 'única solicitud' (candidata única) sugiere una falta de competencia interna o un diseño de plaza que desincentiva otras candidaturas. Se apela a la 'dedicación previa' como mérito principal, lo que consolida situaciones de hecho antes de su oficialización reglamentaria.",
+    "resumen_ciudadano": "Se oficializa el cargo de Fiscal Delegada de Delitos Económicos en Córdoba para Carmen Romero Urrutia. Fue la única persona que solicitó el puesto tras una convocatoria interna a la plantilla. Su nombramiento busca regularizar la estructura de la fiscalía conforme al reglamento de 2022.",
+    "resumen_tweet": "⚖️ Carmen Romero Urrutia, nueva Fiscal de Delitos Económicos en Córdoba. Fue la ÚNICA candidata para un puesto clave contra la corrupción. ¿Falta de competencia o exceso de especialización? 🧐 #BOE #Opacidad #Transparencia #Córdoba",
+    "banderas_red_flags": [
+      "Candidatura única",
+      "Regularización tardía de un cargo bajo el reglamento de 2022",
+      "Ausencia de desglose de recursos económicos asignados a la delegación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carmen Romero Urrutia (consolidación de cargo)",
+        "Fiscalía General del Estado (cumplimiento administrativo)"
+      ],
+      "perdedores": [
+        "Pluralidad de aspirantes (proceso sin competencia)",
+        "Ciudadanía (incertidumbre sobre los medios materiales para combatir el fraude)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Candidatura única",
+      "Regularización tardía de un cargo bajo el reglamento de 2022",
+      "Ausencia de desglose de recursos económicos asignados a la delegación"
+    ]
+  },
+  "tweeted": false
+}
