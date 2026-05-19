@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10741",
+  "timestamp": "2026-05-19T15:26:07.527Z",
+  "title": "Tratado de extradición entre el Gobierno del Reino de España y el Gobierno de la República Federal de Nigeria, hecho «ad referendum» en Madrid el 1 de junio de 2022.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Este tratado, aunque sigue estándares internacionales, presenta una opacidad intrínseca en su ejecución financiera y en la vaguedad de sus cláusulas de exclusión. La demora de 4 años entre la firma (2022) y su plena vigencia/publicación (2026) sugiere una diplomacia de 'tiempos muertos'. Se observa una contradicción ideológica al externalizar la garantía de derechos fundamentales a una 'promesa de palabra' (Art. 4.c) en casos de pena de muerte, lo cual es jurídicamente frágil. La cláusula 3.i sobre 'intereses básicos del Estado' actúa como un cheque en blanco para la discrecionalidad política bajo el manto de la seguridad nacional.",
+    "resumen_ciudadano": "España y Nigeria acuerdan intercambiarse personas reclamadas por la justicia. El tratado prohíbe la entrega si hay riesgo de tortura, persecución política o pena de muerte. Sin embargo, el Estado se reserva el derecho de rechazar extradiciones si considera que afectan a su 'soberanía' o 'intereses básicos', un término muy amplio que permite decisiones arbitrarias fuera del control ciudadano.",
+    "resumen_tweet": "🚨 España formaliza extradiciones con Nigeria en el #BOE. Aunque incluye cláusulas de DDHH, la ambigüedad de los 'intereses del Estado' permite el uso político de la justicia. 🕵️‍♂️ ¿Quién vigila que no se aplique la tortura tras la entrega? #Opacidad",
+    "banderas_red_flags": [
+      "Cláusula de escape por 'intereses básicos del Estado' (Art. 3.i) sin definición técnica.",
+      "Aceptación de extradición por delitos con pena de muerte bajo simple promesa de no ejecución.",
+      "Ausencia total de desglose de costes operativos para el traslado de reos entre continentes.",
+      "Inseguridad jurídica en la interpretación de 'delitos políticos' frente a 'terrorismo'."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aparato burocrático de exteriores (fortalecimiento de lazos diplomáticos)",
+        "Ministerio de Justicia (agilidad en procedimientos internacionales)",
+        "Interpol (mayor control transfronterizo)"
+      ],
+      "perdedores": [
+        "Solicitantes de asilo nigerianos (mayor riesgo de ser reclamados bajo acusaciones genéricas)",
+        "Contribuyentes (asumen gastos de extradición no presupuestados de forma transparente)",
+        "Garantismo procesal (dependencia de la voluntad política para aplicar cláusulas de derechos humanos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Derecho Penal",
+    "banderas_rojas": [
+      "Cláusula de escape por 'intereses básicos del Estado' (Art. 3.i) sin definición técnica.",
+      "Aceptación de extradición por delitos con pena de muerte bajo simple promesa de no ejecución.",
+      "Ausencia total de desglose de costes operativos para el traslado de reos entre continentes.",
+      "Inseguridad jurídica en la interpretación de 'delitos políticos' frente a 'terrorismo'."
+    ]
+  },
+  "tweeted": false
+}
