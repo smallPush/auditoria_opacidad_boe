@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10748",
+  "timestamp": "2026-05-19T15:45:59.800Z",
+  "title": "Resolución de 7 de mayo de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 28 de octubre de 2025, en el Instituto de Salud Carlos III.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una resolución de concurso específico que, bajo una apariencia de movilidad y mérito, revela un alto grado de inmovilismo administrativo. Una parte significativa de los adjudicatarios (casos 1, 6, 7, 8, 12, 13, 14, 16 y 17) han sido asignados al mismo puesto que ya ocupaban o venían desempeñando en funciones ('puesto de cese' idéntico al 'puesto adjudicado'). Esto sugiere que el proceso actúa más como un mecanismo de consolidación jurídica de situaciones preexistentes que como un verdadero concurso competitivo abierto a la renovación. Existe una clara brecha de clase administrativa: los puestos de alta cualificación (A1, niveles 26-28) se blindan, mientras que los puestos de apoyo (C1, C2) quedan desiertos, evidenciando una falta de incentivos o excesiva rigidez en las escalas bajas.",
+    "resumen_ciudadano": "El Instituto de Salud Carlos III ha finalizado el reparto de puestos de trabajo de alta responsabilidad. Aunque se anuncia como un concurso de méritos, la realidad es que la mayoría de los jefes y directores simplemente han 'renovado' oficialmente en el puesto que ya tenían. Mientras los altos cargos aseguran su posición, varios empleos de apoyo administrativo han quedado vacíos porque nadie ha cumplido los requisitos o no ha habido solicitantes.",
+    "resumen_tweet": "🧐 ¿Movilidad real o sillas musicales en el ISCIII? El @boegob publica destinos donde la mayoría de altos cargos (A1) simplemente 'repiten' en su puesto. Poca renovación real y puestos base vacíos. ¿Transparencia o trámite? 🏛️💉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia administrativa: adjudicación sistemática a quienes ya ocupan el puesto",
+      "Puestos desiertos en niveles bajos (15, 18) frente a saturación en niveles altos",
+      "Opacidad en la baremación de méritos específicos en el texto publicado",
+      "Incongruencia entre la narrativa de 'movilidad' y la realidad de 'estratificación'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del grupo A1 (Nivel 28/26)",
+        "Personal ya asentado en la estructura del ISCIII",
+        "Mujeres en puestos de dirección científica y gestión económica"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera externos con intención de traslado",
+        "Niveles administrativos C1 y C2 (puestos declarados desiertos)",
+        "Ciudadanía (por la escasa renovación de perfiles en la gestión de salud pública)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Provisión de puestos de trabajo y Recursos Humanos",
+    "banderas_rojas": [
+      "Endogamia administrativa: adjudicación sistemática a quienes ya ocupan el puesto",
+      "Puestos desiertos en niveles bajos (15, 18) frente a saturación en niveles altos",
+      "Opacidad en la baremación de méritos específicos en el texto publicado",
+      "Incongruencia entre la narrativa de 'movilidad' y la realidad de 'estratificación'"
+    ]
+  },
+  "tweeted": false
+}
