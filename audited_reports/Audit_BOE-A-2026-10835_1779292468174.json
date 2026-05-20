@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10835",
+  "timestamp": "2026-05-20T15:54:28.174Z",
+  "title": "Resolución de 12 de mayo de 2026, del Ayuntamiento de Sueca (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un desfase temporal significativo entre la publicación de las bases en el Boletín Provincial (enero de 2026) y su inserción en el BOE (mayo de 2026). Esta brecha de cuatro meses crea una ventaja competitiva para los residentes locales o personas con acceso a información de proximidad, reduciendo la igualdad de oportunidades efectiva a nivel nacional a pesar de ser una convocatoria de turno libre. No se detallan los costes asociados al proceso selectivo ni el impacto presupuestario de las nuevas plazas.",
+    "resumen_ciudadano": "El Ayuntamiento de Sueca (Valencia) abre el plazo de inscripción para 6 plazas de conserje. 5 plazas son de acceso libre y 1 está reservada para personas con discapacidad. El sistema de selección es la oposición, lo que implica exámenes teóricos y/o prácticos según las bases locales.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Sueca convoca 6 plazas de conserje. ¡Ojo! 🐢 4 meses de retraso entre el boletín provincial y el nacional. ¿Favorece esto la endogamia local? Una plaza reservada para discapacidad. #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Asimetría informativa por retraso administrativo de 4 meses",
+      "Falta de transparencia en el coste total del proceso para el contribuyente",
+      "Uso del sistema de oposición pura que puede penalizar la experiencia previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores locales con acceso previo a la información provincial",
+        "Administración municipal (cobertura de plazas vacantes)"
+      ],
+      "perdedores": [
+        "Aspirantes externos con menor tiempo de preparación específica",
+        "Criterio de meritocracia (al no ser concurso-oposición)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Asimetría informativa por retraso administrativo de 4 meses",
+      "Falta de transparencia en el coste total del proceso para el contribuyente",
+      "Uso del sistema de oposición pura que puede penalizar la experiencia previa"
+    ]
+  },
+  "tweeted": false
+}
