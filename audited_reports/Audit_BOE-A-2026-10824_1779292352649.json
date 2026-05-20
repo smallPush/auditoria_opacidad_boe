@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10824",
+  "timestamp": "2026-05-20T15:52:32.649Z",
+  "title": "Resolución de 7 de mayo de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución se ampara en normativas de igualdad y conciliación, el proceso de 'concurso específico' es un terreno abonado para la discrecionalidad técnica. Se observa una 'Incongruencia Ideológica' al limitar la movilidad de funcionarios de la AEAT (Agencia Tributaria) mediante autorizaciones previas que actúan como un derecho de veto del organismo de origen, contradiciendo la supuesta libertad de carrera profesional. La valoración de méritos específicos en la segunda fase (mínimo 10 puntos) suele ser el mecanismo para consolidar a personas que ya ocupan los puestos de forma provisional, blindando la endogamia administrativa.",
+    "resumen_ciudadano": "El Ministerio de Inclusión convoca 66 plazas para funcionarios. El sistema premia excesivamente la antigüedad y la permanencia en el puesto sobre la capacitación técnica actual. Además, pone trabas a los trabajadores de la Agencia Tributaria que quieran cambiar de aires, exigiendo permisos especiales de sus jefes, lo que limita la transparencia y la competencia real.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! El Ministerio de Inclusión convoca 66 plazas con truco: barreras a la movilidad para empleados de la AEAT y méritos específicos que huelen a 'puesto asignado'. ¿Igualdad real o burocracia blindada? 🕵️‍♂️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Autorización previa discrecional para personal de la AEAT",
+      "Fase segunda de méritos específicos con umbral de eliminación",
+      "Caducidad arbitraria de cursos de formación a los 10 años",
+      "Exclusión de formación no incluida en el listado anual interno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad (hasta 20 puntos automáticos)",
+        "Candidatos en adscripción provisional (ventaja en méritos específicos)",
+        "Colectivos con derecho a puntos por conciliación (familias numerosas/monoparentales)"
+      ],
+      "perdedores": [
+        "Funcionarios de la Agencia Tributaria (movilidad restringida)",
+        "Talento joven o nuevo personal con poca antigüedad",
+        "Funcionarios con formación continua antigua no reconocida"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Provisión de Puestos de Trabajo",
+    "banderas_rojas": [
+      "Autorización previa discrecional para personal de la AEAT",
+      "Fase segunda de méritos específicos con umbral de eliminación",
+      "Caducidad arbitraria de cursos de formación a los 10 años",
+      "Exclusión de formación no incluida en el listado anual interno"
+    ]
+  },
+  "tweeted": false
+}
