@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10833",
+  "timestamp": "2026-05-20T15:58:14.290Z",
+  "title": "Resolución de 12 de mayo de 2026, del Ayuntamiento de Lleida, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución del Ayuntamiento de Lleida sigue el patrón estándar de derivación normativa: se anuncia la convocatoria en el BOE pero los criterios reales (bases) se esconden en el Boletín Provincial. Esto obliga al ciudadano a un rastreo documental fragmentado. Se observa una priorización en la escala de seguridad (Guardia Urbana) con una mezcla de acceso libre y promoción interna que, si bien legal, mantiene el gasto público blindado bajo la etiqueta de 'servicios especiales' sin detallar el impacto presupuestario a largo plazo en las arcas municipales.",
+    "resumen_ciudadano": "El Ayuntamiento de Lleida abre convocatoria para 6 nuevas plazas en la Guardia Urbana: 4 agentes por oposición libre, 1 inspector por concurso-oposición libre y 1 inspector mediante promoción interna. El plazo de inscripción es de 20 días hábiles tras la publicación.",
+    "resumen_tweet": "🚨 ¡Más policía en Lleida! 👮‍♂️ El @paeria convoca 6 plazas para la Guardia Urbana. La letra pequeña sobre méritos y costes queda oculta en el boletín provincial. ¿Transparencia o burocracia? 🧐 #BOE #Opacidad #Transparencia #Lleida",
+    "banderas_red_flags": [
+      "Información fragmentada (remisión al BOP)",
+      "Ausencia de desglose presupuestario del coste de las plazas",
+      "Uso del sistema concurso-oposición para puestos de mando (posible arbitrariedad en méritos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores preparados",
+        "Funcionarios internos para promoción",
+        "Sector de seguridad pública"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de datos de coste real)",
+        "Candidatos sin puntos por méritos previos en el sistema de concurso-oposición"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público / Seguridad",
+    "banderas_rojas": [
+      "Información fragmentada (remisión al BOP)",
+      "Ausencia de desglose presupuestario del coste de las plazas",
+      "Uso del sistema concurso-oposición para puestos de mando (posible arbitrariedad en méritos)"
+    ]
+  },
+  "tweeted": false
+}
