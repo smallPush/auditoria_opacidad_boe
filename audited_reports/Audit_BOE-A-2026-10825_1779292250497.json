@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10825",
+  "timestamp": "2026-05-20T15:50:50.497Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de libre designación para un puesto de Nivel 29 con funciones críticas de control. Resulta paradójico que el encargado de gestionar el Comité Antifraude, las Declaraciones de Conflicto de Interés (DACI) y la interlocución con auditores de los Fondos Europeos sea elegido mediante discrecionalidad política y no por concurso de méritos. Este sistema de 'dedocracia' legalizada en el Ministerio para la Transformación Digital debilita la independencia necesaria para supervisar la ejecución del PRTR y el control de fraudes, situando al vigilante bajo la deuda de confianza de quien lo nombra.",
+    "resumen_ciudadano": "El Gobierno busca un alto cargo (Nivel 29) para vigilar el uso de los Fondos Europeos y detectar fraudes. Sin embargo, la selección no será mediante examen o méritos objetivos, sino 'a dedo' (libre designación). Esto permite al Ministerio elegir a alguien de su total confianza personal para funciones que deberían ser independientes, como tramitar denuncias de fraude o vigilar conflictos de interés dentro del propio organismo.",
+    "resumen_tweet": "🚩 ¿Quién vigila al vigilante? El Gobierno convoca un puesto Nivel 29 para controlar fraudes en #FondosEuropeos mediante 'libre designación' (a dedo). Poca independencia en un cargo clave para el #PRTR. 🕵️‍♂️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en puesto de vigilancia antifraude",
+      "Alta discrecionalidad en funciones de control financiero",
+      "Riesgo de captura del supervisor por el supervisado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del grupo A1 con perfil político",
+        "Subsecretaría del Ministerio (mayor control discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos sin padrino político",
+        "Transparencia en la gestión del PRTR",
+        "Independencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provisión de puestos de trabajo / Libre designación",
+    "banderas_rojas": [
+      "Libre designación en puesto de vigilancia antifraude",
+      "Alta discrecionalidad en funciones de control financiero",
+      "Riesgo de captura del supervisor por el supervisado"
+    ]
+  },
+  "tweeted": false
+}
