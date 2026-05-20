@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10742",
+  "timestamp": "2026-05-20T04:20:58.959Z",
+  "title": "Real Decreto 393/2026, de 13 de mayo, por el que se modifica el Real Decreto 425/2021, de 15 de junio, por el que se establecen las bases reguladoras de las subvenciones destinadas a la organización del Programa CULTIVA, relativo a estancias formativas de jóvenes agricultores en explotaciones modelo, y se convocan las correspondientes al ejercicio 2021.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 393/2026 presenta una fachada de simplificación administrativa pero introduce mecanismos de control y propaganda técnica. Por un lado, la inclusión de lenguaje inclusivo ('agricultoras') y la clarificación de listas de espera son avances positivos. Sin embargo, la prohibición de subsanar requisitos materiales (art. 9 y 10) endurece el acceso para solicitantes con errores técnicos. Destaca la obligatoriedad de un 'plan de difusión y publicidad' para las entidades beneficiarias, lo que convierte de facto a las asociaciones agrarias en agencias de comunicación del Ministerio. Asimismo, la derogación con efectos retroactivos de un artículo de otra norma (RD 251/2024) revela una corrección de errores legislativos previos ('incongruencia interna') bajo el pretexto de seguridad jurídica.",
+    "resumen_ciudadano": "Se actualizan las ayudas para que jóvenes agricultores aprendan en 'granjas modelo'. Se mejora el orden de las listas de espera si una granja cancela la estancia, pero se vuelve más estricto el proceso de solicitud: si te equivocas en datos básicos, no podrás corregirlo. Además, las organizaciones que reciban la ayuda ahora están obligadas a hacer publicidad del Ministerio de Agricultura.",
+    "resumen_tweet": "🚜 Cambios en el Programa #CULTIVA: Mejoras en listas de espera para jóvenes agricultores pero más burocracia publicitaria. ¡Ojo! 👁️ Se prohíbe corregir errores materiales en la solicitud. ¿Formación o campaña de imagen? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Retroactividad en la derogación de normativa previa",
+      "Gasto indirecto obligatorio en 'planes de difusión y publicidad'",
+      "Restricción en la subsanación de requisitos materiales",
+      "Discrecionalidad en la sustitución de la secretaría de valoración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jóvenes en lista de espera (mayor prioridad en reasignaciones)",
+        "Ministerio de Agricultura (obtiene publicidad gratuita obligatoria)",
+        "Funcionarios de carrera (mayor flexibilidad en comisiones de valoración)"
+      ],
+      "perdedores": [
+        "Explotaciones modelo (nueva carga burocrática de encuestas obligatorias)",
+        "Solicitantes con errores administrativos (sin posibilidad de subsanación material)",
+        "Entidades grandes (limitadas al 50% del presupuesto total)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Formación Agroalimentaria",
+    "banderas_rojas": [
+      "Retroactividad en la derogación de normativa previa",
+      "Gasto indirecto obligatorio en 'planes de difusión y publicidad'",
+      "Restricción en la subsanación de requisitos materiales",
+      "Discrecionalidad en la sustitución de la secretaría de valoración"
+    ]
+  },
+  "tweeted": false
+}
