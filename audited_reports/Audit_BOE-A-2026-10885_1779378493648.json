@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-10885",
+  "timestamp": "2026-05-21T15:48:13.648Z",
+  "title": "Real Decreto 401/2026, de 20 de mayo, por el que se establecen las normas reguladoras del Bono Cultural Joven.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 401/2026 consolida el Bono Cultural Joven como una ayuda estructural, pero mantiene una arquitectura de gestión delegada en 'entidades colaboradoras' que introduce opacidad en el manejo de fondos públicos. Aunque se amplía el catálogo a la 'creación' (instrumentos, software), la exclusión explícita de la artesanía y la obra plástica/gráfica resulta contradictoria con el fomento artístico. La obligatoriedad de la tramitación exclusivamente electrónica, bajo la presunción de que todo joven es 'nativo digital', ignora la brecha digital socioeconómica. Además, el trasvase de competencias a la nueva Dirección General de Derechos Culturales centraliza el poder de decisión, restando autonomía a las entidades locales en la gestión de su propia oferta cultural.",
+    "resumen_ciudadano": "El Gobierno renueva el bono de 400 euros para jóvenes de 18 años. Como novedad, ahora permite comprar instrumentos musicales, cámaras y pagar cursos de formación artística, además de entradas y libros. Todo se debe tramitar por internet y el dinero será gestionado por bancos o plataformas externas que actúan como intermediarios.",
+    "resumen_tweet": "🚨 Nueva versión del #BonoCultural: 400€ para jóvenes que ahora cubren instrumentos y software creativo. Pero ¡ojo! 👁️ Se excluye la artesanía y se impone la vía digital obligatoria. ¿Ayuda al arte o a las grandes plataformas? 🏛️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de la gestión de fondos en entidades privadas con comisiones no detalladas.",
+      "Exclusión arbitraria de sectores como la artesanía y la obra plástica.",
+      "Barrera de acceso por obligatoriedad de medios electrónicos sin alternativa presencial garantizada.",
+      "Incongruencia entre el fomento de la creación y la exclusión de artes gráficas tradicionales."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes superficies de venta tecnológica",
+        "Plataformas de streaming y videojuegos",
+        "Entidades financieras colaboradoras",
+        "Jóvenes con alta competencia digital y recursos"
+      ],
+      "perdedores": [
+        "Artesanos y pequeños creadores de artes plásticas",
+        "Jóvenes en situación de exclusión digital o entornos rurales sin conectividad",
+        "Sector de la moda y gastronomía cultural",
+        "Autonomía administrativa de las comunidades autónomas"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Subvenciones y Ayudas Públicas",
+    "banderas_rojas": [
+      "Externalización de la gestión de fondos en entidades privadas con comisiones no detalladas.",
+      "Exclusión arbitraria de sectores como la artesanía y la obra plástica.",
+      "Barrera de acceso por obligatoriedad de medios electrónicos sin alternativa presencial garantizada.",
+      "Incongruencia entre el fomento de la creación y la exclusión de artes gráficas tradicionales."
+    ]
+  },
+  "tweeted": false
+}
