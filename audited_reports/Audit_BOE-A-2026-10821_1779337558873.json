@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10821",
+  "timestamp": "2026-05-21T04:25:58.873Z",
+  "title": "Orden PJC/488/2026, de 12 de mayo, por la que se publica la relación de personas aprobadas en el proceso selectivo para el acceso por promoción interna y sistema de concurso oposición, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, convocado por Orden PJC/150/2024, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento detalla la culminación de un proceso selectivo iniciado en 2024, lo que revela una demora administrativa de dos años para la resolución de plazas en el sistema de justicia. Se observa una marcada feminización del Cuerpo de Tramitación Procesal en el listado de aprobados. Las exclusiones finales en el anexo II y III por falta de requisitos de promoción interna sugieren una fiscalización de requisitos tardía que podría haber evitado el esfuerzo de los opositores de haber sido detectada en fases previas. La exigencia de aportar documentos que la administración ya debería poseer (o verificar de oficio) sigue siendo una barrera burocrática persistente.",
+    "resumen_ciudadano": "Se publica la lista definitiva de personas que han aprobado las oposiciones para el Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia. Los seleccionados tienen un plazo de 10 días hábiles para presentar su documentación física o digital y solicitar destino. El proceso también confirma la exclusión de varios candidatos que no cumplían con los requisitos específicos de promoción interna tras un periodo de alegaciones.",
+    "resumen_tweet": "⚖️ Tras 2 años de espera, el #BOE publica los aprobados para Tramitación Procesal. Alta presencia femenina y 10 días para el papeleo final. ¡Ojo a las exclusiones de última hora por burocracia técnica! 📅 #Justicia #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Dilación excesiva del proceso selectivo (2024-2026)",
+      "Exclusión de aspirantes tras superar el proceso por fallos en la verificación previa de requisitos",
+      "Exigencia de copia auténtica de DNI y títulos si no hubo consentimiento previo, contraviniendo el espíritu de simplificación administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres (predominio absoluto en las notas más altas)",
+        "Personal interno con antigüedad acumulada",
+        "Administración de Justicia (cobertura de vacantes)"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos en el Anexo II y III por requisitos técnicos de promoción interna",
+        "Opositores sin acceso rápido a registros físicos en Madrid para entrega de documentación urgente"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Andalucía",
+    "tipologia": "Función Pública y Recursos Humanos",
+    "banderas_rojas": [
+      "Dilación excesiva del proceso selectivo (2024-2026)",
+      "Exclusión de aspirantes tras superar el proceso por fallos en la verificación previa de requisitos",
+      "Exigencia de copia auténtica de DNI y títulos si no hubo consentimiento previo, contraviniendo el espíritu de simplificación administrativa"
+    ]
+  },
+  "tweeted": false
+}
