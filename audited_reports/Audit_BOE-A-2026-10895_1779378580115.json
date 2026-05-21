@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10895",
+  "timestamp": "2026-05-21T15:49:40.115Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se observa un proceso de libre designacion (adjudicacion a dedo) que consolida a la elite burocratica en el Ministerio de Economia. Los cinco adjudicatarios ya ocupaban puestos del mismo nivel (29 o 30) en la misma Direccion General de Inteligencia Economica y Comercial. Esto sugiere un movimiento circular o 'silla musical' que cumple la legalidad pero evita la competicion real por el merito. La pertenencia casi exclusiva al Cuerpo Superior de Tecnicos Comerciales y Economistas del Estado subraya un endogamia institucional de clase alta funcionarial.",
+    "resumen_ciudadano": "El Ministerio de Economia ha repartido cinco puestos de alta direccion (sueldos maximos del Estado) de forma discrecional. Lo curioso es que todos los elegidos ya estaban trabajando en la misma oficina y con el mismo rango. Es un tramite para asegurar puestos de confianza sin abrir la puerta a nuevos perfiles.",
+    "resumen_tweet": "📉 Mas puestos 'a dedo' en el Ministerio de Economia. Niveles 30 y 29 adjudicados mediante libre designacion a quienes ya ocupaban esos rangos en el mismo departamento. ¿Gestion de confianza o blindaje de la elite? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designacion discrecional",
+      "Endogamia corporativa (Cuerpo de Tecnicos Comerciales)",
+      "Movimientos laterales sin promocion real",
+      "Falta de justificacion de idoneidad especifica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Tecnicos Comerciales y Economistas del Estado",
+        "Altos cargos de la D.G. de Inteligencia Economica",
+        "Aida Fernandez Gonzalez (Subsecretaria)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza",
+        "Sistema de merito y capacidad",
+        "Transparencia en la gestion de RRHH publicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designacion discrecional",
+      "Endogamia corporativa (Cuerpo de Tecnicos Comerciales)",
+      "Movimientos laterales sin promocion real",
+      "Falta de justificacion de idoneidad especifica"
+    ]
+  },
+  "tweeted": false
+}
