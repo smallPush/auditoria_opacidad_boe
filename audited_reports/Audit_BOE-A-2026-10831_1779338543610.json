@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-10831",
+  "timestamp": "2026-05-21T04:42:23.610Z",
+  "title": "Resolución de 6 de mayo de 2026, del Ayuntamiento de Alovera (Guadalajara), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una convocatoria de empleo publico estandar para una plaza de Arquitecto/a en el Ayuntamiento de Alovera. Aunque se publica en el BOE, el texto es minimalista y remite al BOP de Guadalajara para los detalles criticos (temario, meritos, retribuciones). La eleccion del sistema de oposicion pura en lugar de concurso-oposicion favorece a perfiles academicos sobre profesionales con experiencia previa, lo que puede interpretarse como una barrera de entrada para arquitectos senior del sector privado.",
+    "resumen_ciudadano": "El Ayuntamiento de Alovera (Guadalajara) abre el proceso de seleccion para una plaza fija de Arquitecto/a. El acceso es por turno libre (cualquier persona cualificada puede presentarse) y el metodo es mediante oposicion (examen). Los interesados tienen 20 dias habiles para inscribirse tras la publicacion en el BOE.",
+    "resumen_tweet": "🏗️ ¡Nueva plaza de Arquitecto/a en Alovera (Guadalajara)! Sistema de oposicion libre. El #BOE remite al boletin provincial para los detalles. ¿Garantiza esto la maxima transparencia o es un tramite burocratico mas? 🏛️ #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Remision externa a bases en BOP",
+      "Falta de detalle sobre la composicion del tribunal en el extracto",
+      "Ausencia de mencion a la retribucion salarial prevista"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con alta capacidad de estudio teorico",
+        "Recien graduados con tiempo para preparar examenes"
+      ],
+      "perdedores": [
+        "Arquitectos con amplia experiencia laboral pero poco tiempo de estudio",
+        "Sectores sociales con menos recursos para costearse la preparacion de una oposicion de nivel A1"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Publico",
+    "banderas_rojas": [
+      "Remision externa a bases en BOP",
+      "Falta de detalle sobre la composicion del tribunal en el extracto",
+      "Ausencia de mencion a la retribucion salarial prevista"
+    ]
+  },
+  "tweeted": false
+}
