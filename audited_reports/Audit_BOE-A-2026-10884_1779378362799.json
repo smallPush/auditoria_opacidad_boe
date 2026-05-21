@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10884",
+  "timestamp": "2026-05-21T15:46:02.799Z",
+  "title": "Real Decreto 400/2026, de 20 de mayo, por el que se regula la concesión directa de subvenciones a salas de exhibición cinematográfica para fomentar el acceso al cine de las personas de 65 o más años durante el periodo 2026-2027.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto utiliza la 'concesión directa' bajo el artículo 22.2.c de la Ley General de Subvenciones, una figura legal pensada para casos excepcionales que aquí se convierte en norma para evitar la concurrencia competitiva. Aunque se justifica por el 'interés público' y el éxito de ediciones anteriores, el uso de una 'entidad colaboradora' externa para gestionar los fondos introduce una capa de intermediación que puede generar costes de gestión opacos. La medida funciona como un rescate indirecto al sector de la exhibición (salas de cine) utilizando a la tercera edad como vehículo canalizador del flujo de capital público.",
+    "resumen_ciudadano": "El Gobierno renueva las ayudas para que los mayores de 65 años vayan al cine por 2 euros un día a la semana durante el periodo 2026-2027. El dinero no va directamente a los ciudadanos, sino a los dueños de los cines para compensarles por la rebaja del precio. Se excluyen las salas públicas y el cine para adultos (X).",
+    "resumen_tweet": "🎬 ¿Cine a 2€ para mayores de 65? El #BOE publica nuevas subvenciones directas. Bajo el lema de 'envejecimiento activo' se esconde una inyección directa a las salas de cine sin concurso público. ¿Cultura o rescate? 🤔 #Opacidad #Transparencia #Cine",
+    "banderas_red_flags": [
+      "Abuso de la concesión directa sin concurrencia competitiva",
+      "Externalización de la gestión a una entidad colaboradora",
+      "Justificación de urgencia para un programa ya consolidado",
+      "Falta de mención al importe total del gasto en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dueños de salas de cine privadas (ingresos garantizados)",
+        "Entidad colaboradora (comisiones de gestión)",
+        "Personas de 65 o más años"
+      ],
+      "perdedores": [
+        "Salas de cine de titularidad pública (excluidas)",
+        "Menores de 65 años con bajos ingresos (sin ayuda)",
+        "Sector de la producción (la ayuda solo llega a la exhibición)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Ayudas",
+    "banderas_rojas": [
+      "Abuso de la concesión directa sin concurrencia competitiva",
+      "Externalización de la gestión a una entidad colaboradora",
+      "Justificación de urgencia para un programa ya consolidado",
+      "Falta de mención al importe total del gasto en este extracto"
+    ]
+  },
+  "tweeted": false
+}
