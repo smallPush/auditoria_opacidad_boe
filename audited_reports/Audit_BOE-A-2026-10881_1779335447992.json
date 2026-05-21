@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10881",
+  "timestamp": "2026-05-21T03:50:47.992Z",
+  "title": "Reforma del apartado 3 del artículo 69 de la Constitución Española, a los efectos de que la isla de Formentera elija un senador propio, de 19 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La reforma del artículo 69.3 es una cirugía legislativa precisa que atiende una demanda histórica de Formentera para separarse de la agrupación electoral con Ibiza. Aunque el preámbulo es exhaustivo en la justificación de la 'identidad formenterense', el texto omite por completo el análisis de costes derivados de la creación de un nuevo escaño vitalicio (sueldos, dietas, asesores). Existe una incongruencia sistémica: se justifica en la eficiencia de la representación territorial en una cámara (el Senado) cuya utilidad real es constantemente cuestionada. No hay 'gastos fantasma' explícitos, pero sí un aumento del gasto estructural del Estado camuflado bajo el concepto de 'justicia representativa'.",
+    "resumen_ciudadano": "A partir de las próximas elecciones, la isla de Formentera dejará de compartir senador con Ibiza y tendrá su propio representante en el Senado. Esto supone una modificación directa de la Constitución Española para reconocer a Formentera la misma autonomía de representación que ya tienen otras islas como El Hierro o La Gomera.",
+    "resumen_tweet": "¡Formentera tendrá senador propio! 🏝️ Se reforma la Constitución para romper la pareja con Ibiza. ¿Justicia territorial o simplemente un escaño más a pagar? 🏛️ El BOE lo confirma: más cargos, misma opacidad presupuestaria. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Aumento de gasto estructural no cuantificado",
+      "Sobre-representación de territorios con escasa población frente a grandes urbes",
+      "Urgencia en la aplicación transitoria sin informe de impacto económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Clase política de Formentera",
+        "Consejo Insular de Formentera",
+        "Partidos regionalistas/insulares"
+      ],
+      "perdedores": [
+        "Contribuyente estatal (coste de un nuevo escaño)",
+        "Ciudadanos de provincias altamente pobladas (dilución de su peso representativo)"
+      ]
+    },
+    "comunidad_autonoma": "Islas Baleares",
+    "tipologia": "Reforma Constitucional",
+    "banderas_rojas": [
+      "Aumento de gasto estructural no cuantificado",
+      "Sobre-representación de territorios con escasa población frente a grandes urbes",
+      "Urgencia en la aplicación transitoria sin informe de impacto económico"
+    ]
+  },
+  "tweeted": false
+}
