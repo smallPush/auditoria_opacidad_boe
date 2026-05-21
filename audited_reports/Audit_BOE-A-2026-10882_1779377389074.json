@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10882",
+  "timestamp": "2026-05-21T15:29:49.074Z",
+  "title": "Real Decreto 397/2026, de 20 de mayo, por el que se aprueba el Estatuto del Organismo Autónomo Mutualidad General Judicial, y por el que se modifica el Reglamento del Mutualismo Judicial, aprobado por el Real Decreto 1026/2011, de 15 de julio.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 397/2026 representa un ejercicio de reingeniería administrativa que busca formalizar la estructura de la Mutualidad General Judicial (MUGEJU) bajo la Ley 40/2015. Aunque el texto se esfuerza en proyectar una imagen de austeridad al prohibir la percepción de asistencias económicas por concurrir a reuniones, la norma blinda un sistema de salud paralelo para la élite judicial. La inclusión de medidas para víctimas de violencia de género es un avance necesario, pero actúa como un barniz social sobre una estructura que perpetúa la fragmentación del sistema público de salud en favor de un cuerpo funcionarial específico. La 'modernización digital' mencionada carece de memoria económica detallada en el texto, lo que podría derivar en contrataciones externas de servicios tecnológicos sin fiscalización ciudadana directa.",
+    "resumen_ciudadano": "Se aprueban los nuevos estatutos de la Mutualidad Judicial. Los cambios principales incluyen: el cambio de nombre de 'Gerente' a 'Director', la creación de delegaciones en provincias para acercar la gestión al mutualista y la garantía de que las víctimas de violencia de género y sus hijos mantendrán su cobertura sanitaria de forma protegida. Además, se establece que los miembros de los consejos de control no cobrarán extras por asistir a las reuniones.",
+    "resumen_tweet": "🏛️ Nueva estructura para la Mutualidad Judicial (MUGEJU). Blindaje para víctimas de violencia de género y 'coste cero' en dietas de consejos. Pero... ¿por qué seguimos pagando sistemas de salud paralelos para élites? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentación del sistema sanitario público mediante regímenes especiales",
+      "Ausencia de desglose presupuestario para la transición digital",
+      "Discrecionalidad en la gestión descentralizada de las delegaciones provinciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de las carreras judiciales",
+        "Letrados del Tribunal Constitucional",
+        "Mujeres víctimas de violencia de género (mejora de cobertura)"
+      ],
+      "perdedores": [
+        "Sistema Nacional de Salud (por falta de integración)",
+        "Ciudadanos de a pie (que financian regímenes de clase administrativa diferenciados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Estatuto Orgánico",
+    "banderas_rojas": [
+      "Fragmentación del sistema sanitario público mediante regímenes especiales",
+      "Ausencia de desglose presupuestario para la transición digital",
+      "Discrecionalidad en la gestión descentralizada de las delegaciones provinciales"
+    ]
+  },
+  "tweeted": false
+}
