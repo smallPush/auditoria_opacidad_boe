@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10890",
+  "timestamp": "2026-05-21T15:48:56.999Z",
+  "title": "Orden de 12 de mayo de 2026, por la que se destina a los Jueces y Juezas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento detalla el movimiento de personal en la carrera judicial mediante un concurso de traslados. Aunque la lista es pública, destaca la implementación de los 'Tribunales de Instancia', una figura que busca agrupar juzgados pero cuya eficiencia real y coste de transición permanecen opacos. Un punto crítico es el apartado Treinta y siete, donde se admite explícitamente que el mérito del idioma y derecho propio permite a ciertos jueces adelantar a otros con mejor puesto en el escalafón, lo que genera una barrera de entrada técnica y política en ciertas comunidades autónomas.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha publicado el listado de 36 jueces y juezas que cambian de destino en toda España. Muchos de estos movimientos refuerzan las secciones de Violencia sobre la Mujer y Familia. Se destaca que saber el idioma de una comunidad autónoma ha servido para que una jueza consiga plaza por delante de otros con más antigüedad.",
+    "resumen_tweet": "⚖️ ¡Baile de sillas en la Justicia! El CGPJ traslada a 36 jueces. Ojo al dato: el idioma regional permite 'saltar' el escalafón de antigüedad para conseguir plaza (Punto 37). ¿Mérito o barrera de acceso? 🏛️🔎 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Alteración del orden de escalafón por criterios lingüísticos",
+      "Opacidad en los costes operativos de la transición a Tribunales de Instancia",
+      "Concentración de traslados que deja plazas vacantes en zonas rurales (Coria, Loja, Chantada)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jueces con méritos en idiomas cooficiales",
+        "Secciones de Violencia sobre la Mujer (reciben nuevos efectivos)",
+        "Administración centralizada de Justicia"
+      ],
+      "perdedores": [
+        "Jueces con mayor antigüedad (escalafón) sin conocimientos lingüísticos regionales",
+        "Justicia de proximidad en zonas rurales que pierden titulares",
+        "Principio de unidad de carrera judicial frente a fragmentación autonómica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Traslados Judiciales",
+    "banderas_rojas": [
+      "Alteración del orden de escalafón por criterios lingüísticos",
+      "Opacidad en los costes operativos de la transición a Tribunales de Instancia",
+      "Concentración de traslados que deja plazas vacantes en zonas rurales (Coria, Loja, Chantada)"
+    ]
+  },
+  "tweeted": false
+}
