@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10823",
+  "timestamp": "2026-05-21T04:40:07.395Z",
+  "title": "Resolución 430/38253/2026, de 12 de mayo, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para puestos técnicos como la Jefatura de Unidad de Obras y Mantenimiento (Nivel 28) o Planificación de Recursos Humanos es un mecanismo habitual para eludir la concurrencia competitiva basada estrictamente en el mérito. Aunque se detallan requisitos técnicos, la discrecionalidad en la elección final abre la puerta al clientelismo dentro de la administración militar. Además, la exigencia de 'disponibilidad horaria' para puestos de nivel 17 (Secretaría) suele encubrir jornadas irregulares que dificultan la conciliación, favoreciendo a perfiles sin cargas familiares o con redes de apoyo externas.",
+    "resumen_ciudadano": "El Ministerio de Defensa convoca cuatro puestos de trabajo en Madrid y Barcelona que serán elegidos 'a dedo' (libre designación) en lugar de por examen o concurso de méritos tradicional. Entre los puestos destacan dos jefaturas de alto nivel (28) con complementos superiores a los 17.000 euros anuales para gestionar obras y planificación de personal, y dos secretarías que exigen estar siempre disponibles.",
+    "resumen_tweet": "🚨 El @Defensagob convoca puestos por 'Libre Designación'. ¿Dedo o mérito? ☝️ Jefaturas nivel 28 y secretarios con 'disponibilidad horaria' en Madrid y Barcelona. Menos meritocracia, más discrecionalidad. 📉 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Requisito subjetivo de 'disponibilidad horaria'",
+      "Puestos de alta responsabilidad técnica otorgados por confianza política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con perfiles de confianza personal del equipo directivo",
+        "Arquitectos de la administración con red de contactos en el Ministerio"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios que buscan ascenso por méritos objetivos y examen",
+        "Conciliación laboral (debido a la 'disponibilidad horaria')",
+        "Transparencia en el gasto público de personal"
+      ]
+    },
+    "comunidad_autonoma": "Madrid / Cataluña",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Requisito subjetivo de 'disponibilidad horaria'",
+      "Puestos de alta responsabilidad técnica otorgados por confianza política"
+    ]
+  },
+  "tweeted": false
+}
