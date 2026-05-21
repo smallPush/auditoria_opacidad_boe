@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10822",
+  "timestamp": "2026-05-21T04:38:43.917Z",
+  "title": "Orden PJC/489/2026, de 11 de mayo, por la que se aprueba la relación definitiva de personas admitidas y excluidas en el proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, en el Cuerpo Nacional de Médicos Forenses, convocado por Orden PJC/1537/2025, de 18 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden revela una dependencia excesiva de la interoperabilidad administrativa que falla en perjuicio del ciudadano. Las causas de exclusión F, G, H e I evidencian que, cuando la Administración es incapaz de verificar datos (rentas, discapacidad, desempleo), la carga de la prueba y la exclusión recaen sobre el aspirante. Esto crea una barrera de clase de facto, donde los opositores con menos recursos deben navegar una burocracia más compleja para validar sus exenciones de tasas. La 'admisión condicionada' (punto cuarto) genera una inseguridad jurídica para quienes impugnan, obligándoles a examinarse bajo sospecha.",
+    "resumen_ciudadano": "Se publica la lista definitiva de médicos admitidos y excluidos para las oposiciones de forenses. Destaca que muchos son rechazados porque el Estado no pudo verificar automáticamente su situación de pobreza o desempleo. Los afectados deben acudir al examen de forma condicionada mientras se resuelven sus recursos.",
+    "resumen_tweet": "🚨 ¡Alerta Oposiciones! Publicada lista de Médicos Forenses en el #BOE. La burocracia castiga: si el Estado no verifica tus datos de renta o desempleo, ¡te excluyen! 📑 Barreras para los más vulnerables. ¿Eficiencia o exclusión? ⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión por incapacidad de verificación de la propia Administración",
+      "Traslado de la carga burocrática al ciudadano en situación de vulnerabilidad económica",
+      "Inseguridad jurídica en la realización condicionada de exámenes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con alta capacidad de gestión documental",
+        "Estructura burocrática del Ministerio de Justicia"
+      ],
+      "perdedores": [
+        "Aspirantes con rentas inferiores al SMI (Causa F)",
+        "Desempleados con problemas de certificación SEPE (Causa I)",
+        "Personas con discapacidad con trabas en la verificación de grado (Causa G)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Procesos Selectivos",
+    "banderas_rojas": [
+      "Exclusión por incapacidad de verificación de la propia Administración",
+      "Traslado de la carga burocrática al ciudadano en situación de vulnerabilidad económica",
+      "Inseguridad jurídica en la realización condicionada de exámenes"
+    ]
+  },
+  "tweeted": false
+}
