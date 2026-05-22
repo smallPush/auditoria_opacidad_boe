@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10888",
+  "timestamp": "2026-05-22T04:23:54.645Z",
+  "title": "Decreto-ley Foral 1/2026, de 15 de abril, por el que se adoptan medidas fiscales en la Comunidad Foral de Navarra en respuesta a las consecuencias económicas de la crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El uso del Decreto-ley Foral permite al Gobierno de Navarra modificar sustancialmente el régimen de impuestos (Sociedades e IRPF) eludiendo el debate parlamentario previo bajo la premisa de 'urgencia' por la crisis en Oriente Medio. Mientras que las medidas para ciudadanos parecen positivas, la prórroga para la materialización de la Reserva Especial para Inversiones es un salvavidas fiscal para empresas que no cumplieron sus planes de inversión. Además, la exención en el ITP para los Certificados de Ahorro Energético (CAE) beneficia a un mercado de nicho donde operan grandes comercializadoras de energía.",
+    "resumen_ciudadano": "Navarra amplía los plazos para que las empresas puedan disfrutar de beneficios fiscales sin haber completado sus inversiones a tiempo. Para los ciudadanos, se recuperan las deducciones en el IRPF (entre el 20% y el 60%) por realizar obras que mejoren la eficiencia energética en sus viviendas durante 2026 y 2027.",
+    "resumen_tweet": "🚨 Navarra responde a la crisis energética: más tiempo para que empresas mantengan beneficios fiscales y nuevas deducciones por obras en casa (IRPF) 🏠📉. Se facilita el mercado de certificados energéticos sin pagar ITP. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de decreto-ley para modificaciones tributarias de largo alcance",
+      "Prórroga de beneficios fiscales por incumplimiento de plazos empresariales",
+      "Creación de beneficios fiscales para activos financieros energéticos (CAE)",
+      "Justificación geopolítica genérica para ajustes técnicos internos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas con beneficios extraordinarios pendientes de reinversión",
+        "Propietarios de viviendas con solvencia para acometer reformas",
+        "Grandes comercializadoras eléctricas (mercado de CAE)"
+      ],
+      "perdedores": [
+        "Inquilinos (no pueden aplicar deducciones por obras en viviendas que no son suyas)",
+        "Recaudación pública por impuestos directos",
+        "Familias en situación de pobreza energética sin capital para invertir en reformas"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Decreto-ley Foral (Medidas Fiscales)",
+    "banderas_rojas": [
+      "Uso de decreto-ley para modificaciones tributarias de largo alcance",
+      "Prórroga de beneficios fiscales por incumplimiento de plazos empresariales",
+      "Creación de beneficios fiscales para activos financieros energéticos (CAE)",
+      "Justificación geopolítica genérica para ajustes técnicos internos"
+    ]
+  },
+  "tweeted": false
+}
