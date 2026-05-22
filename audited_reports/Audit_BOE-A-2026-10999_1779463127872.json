@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10999",
+  "timestamp": "2026-05-22T15:18:47.872Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad de Jaén, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de plazas docentes en el cuerpo de Profesores Titulares. El documento es transparente en cuanto a la base legal (LOSU 2/2023) y el procedimiento, aunque perpetúa la opacidad estructural sobre los méritos específicos que han llevado a estos nombramientos frente a otros candidatos. Destaca la paridad de género (50%) en un área técnica (Ingeniería Eléctrica), lo cual es inusual en sectores STEM. Sin embargo, la resolución tarda 7 meses desde la convocatoria original, evidenciando la lentitud burocrática del sistema universitario español.",
+    "resumen_ciudadano": "La Universidad de Jaén oficializa el nombramiento de dos nuevos profesores de carrera en el área de Ingeniería Eléctrica. María Ángeles Verdejo Espinosa y Manuel Valverde Ibáñez adquieren la condición de funcionarios tras un proceso iniciado en octubre de 2025.",
+    "resumen_tweet": "🎓 Paridad en Ingeniería Eléctrica: La Universidad de Jaén nombra 2 nuevos Profesores Titulares. Un proceso legal pero lento (7 meses de espera). ¡La burocracia no descansa! 🏛️ #BOE #Transparencia #Universidad #Jaén",
+    "banderas_red_flags": [
+      "Dilatación temporal: 7 meses para resolver un concurso de acceso",
+      "Opacidad en el número de aspirantes descartados",
+      "Falta de desglose presupuestario del coste salarial a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Ángeles Verdejo Espinosa (estabilidad funcionarial)",
+        "Manuel Valverde Ibáñez (estabilidad funcionarial)",
+        "Departamento de Ingeniería Eléctrica (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente precario (asociados) sin acceso a plazas de titularidad",
+        "Aspirantes externos descartados en el proceso oculto",
+        "Agilidad administrativa (7 meses de proceso)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Dilatación temporal: 7 meses para resolver un concurso de acceso",
+      "Opacidad en el número de aspirantes descartados",
+      "Falta de desglose presupuestario del coste salarial a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
