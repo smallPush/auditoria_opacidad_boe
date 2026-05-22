@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-10994",
+  "timestamp": "2026-05-22T15:16:46.533Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, en el Cuerpo de Gestión de la Administración Civil del Estado.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento detalla nombramientos por promoción interna, un mecanismo que refuerza la endogamia corporativa frente al acceso libre. Se detecta una brecha salarial significativa en los 'complementos específicos' asignados: mientras un Técnico en el SEPE percibe 4.894€, un perfil similar en la Agencia Tributaria recibe 11.651€, sin que el texto justifique tal disparidad de funciones. Asimismo, la resolución deniega de forma genérica peticiones de traslado por discapacidad alegando falta de 'acreditación', lo que supone una barrera de opacidad sobre los criterios reales de evaluación de la vulnerabilidad de los trabajadores.",
+    "resumen_ciudadano": "La Administración nombra a nuevos funcionarios de gestión que ascienden desde puestos inferiores. El listado incluye sus destinos y salarios adicionales. Destaca el rechazo a traslados solicitados por funcionarios con discapacidad y la gran diferencia de sueldos entre ministerios para puestos de rango similar.",
+    "resumen_tweet": "🏢 Nuevos funcionarios en el Cuerpo de Gestión. La promoción interna avanza, pero persisten las dudas: ¿Por qué la Agencia Tributaria paga complementos del doble que el SEPE? 💸 Además, se deniegan traslados por discapacidad. #BOE #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Disparidad salarial extrema en complementos específicos (hasta 138% de diferencia)",
+      "Denegación genérica de adaptaciones por discapacidad",
+      "Opacidad en la valoración de criterios de dependencia personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal de la Agencia Estatal de Administración Tributaria (mayores retribuciones)",
+        "Funcionarios de promoción interna (ascenso garantizado)"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad (traslados denegados)",
+        "Ciudadanos externos (limitación de acceso por plazas de promoción interna)",
+        "Personal del SEPE (peores complementos específicos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (España)",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Disparidad salarial extrema en complementos específicos (hasta 138% de diferencia)",
+      "Denegación genérica de adaptaciones por discapacidad",
+      "Opacidad en la valoración de criterios de dependencia personal"
+    ]
+  },
+  "tweeted": false
+}
