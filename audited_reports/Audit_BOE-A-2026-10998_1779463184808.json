@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-10998",
+  "timestamp": "2026-05-22T15:19:44.808Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad de Córdoba, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de catedráticos. Aunque cumple con la normativa de publicidad de nombres y áreas, existe una opacidad intrínseca en el BOE sobre el coste salarial real y las partidas presupuestarias exactas que sustentan estas plazas vitalicias. Se observa una paridad de género exacta en esta muestra (50% mujer, 50% hombre), alineada con las políticas de igualdad actuales, pero el documento no desglosa el impacto económico a largo plazo de estos ascensos en el erario público.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha oficializado el nombramiento de dos nuevos catedráticos en las áreas de Botánica y Química Física tras superar los procesos de acreditación y concurso correspondientes.",
+    "resumen_tweet": "🧐 Nuevos catedráticos en la Univ. de Córdoba. Se cumple la paridad en este nombramiento, pero el #BOE sigue sin detallar el coste real a largo plazo de estas plazas vitalicias para el contribuyente. #Transparencia #Opacidad #UCO #Educación",
+    "banderas_red_flags": [
+      "Ausencia de detalle sobre la retribución económica asociada a los cargos",
+      "Falta de vinculación directa con la partida presupuestaria específica en el texto de la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Herminia María García Mozo (Consolidación de carrera)",
+        "Juan José Giner Casares (Consolidación de carrera)",
+        "Universidad de Córdoba (Fortalecimiento de su cuerpo docente)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (sin acceso a estas plazas de élite)",
+        "Contribuyentes (por la falta de transparencia en el gasto de personal a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de detalle sobre la retribución económica asociada a los cargos",
+      "Falta de vinculación directa con la partida presupuestaria específica en el texto de la resolución"
+    ]
+  },
+  "tweeted": false
+}
