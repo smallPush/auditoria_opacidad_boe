@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10987",
+  "timestamp": "2026-05-22T14:57:04.381Z",
+  "title": "Real Decreto 410/2026, de 20 de mayo, por el que, en ejecución de la Sentencia de la Sección Sexta de la Sala Tercera del Tribunal Supremo núm. 557/2026, de 4 de mayo, recaída en el recurso contencioso-administrativo número 345/2025, se anula el nombramiento como Presidente de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de la Comunidad Valenciana de don Antonio López Tomás, disponiendo su cese en ese cargo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este Real Decreto es la expresión formal de un revés judicial al Consejo General del Poder Judicial (CGPJ). La anulación de un nombramiento de alto rango por parte del Tribunal Supremo sugiere una deficiencia previa en la motivación o en el procedimiento de selección de la cúpula judicial. El texto es parco y puramente procedimental, ocultando las razones de fondo por las cuales el nombramiento original fue considerado ilegal, lo que mantiene la opacidad sobre los criterios de mérito y capacidad en la judicatura.",
+    "resumen_ciudadano": "El Gobierno, obligado por una sentencia del Tribunal Supremo, retira a Antonio López Tomás de la presidencia de la Sala de lo Contencioso del Tribunal Superior de Justicia de la Comunidad Valenciana. El magistrado debe abandonar el puesto que obtuvo en 2025 y regresar a su plaza anterior como magistrado raso tras detectarse irregularidades en su designación.",
+    "resumen_tweet": "⚖️ El Supremo tumba otro nombramiento del CGPJ. Anulada la presidencia de Antonio López Tomás en el TSJ de la C. Valenciana por sentencia judicial. ¿Arbitrariedad en las altas esferas? La justicia corrige a la justicia. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Anulación judicial de un nombramiento discrecional",
+      "Falta de motivación del cese en el cuerpo del texto legislativo",
+      "Corrección del Tribunal Supremo a la política de nombramientos del CGPJ"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado de Derecho",
+        "Demandantes del recurso contencioso-administrativo",
+        "Principios de mérito y capacidad"
+      ],
+      "perdedores": [
+        "Antonio López Tomás",
+        "Consejo General del Poder Judicial (CGPJ)",
+        "Estabilidad institucional del TSJCV"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Judicial / Nombramientos",
+    "banderas_rojas": [
+      "Anulación judicial de un nombramiento discrecional",
+      "Falta de motivación del cese en el cuerpo del texto legislativo",
+      "Corrección del Tribunal Supremo a la política de nombramientos del CGPJ"
+    ]
+  },
+  "tweeted": false
+}
