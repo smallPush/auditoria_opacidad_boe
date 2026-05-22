@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11002",
+  "timestamp": "2026-05-22T15:21:29.375Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad de Zaragoza, por la que se nombra Profesor Titular de Universidad a don Sergio Sebastián Franco.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera tras un concurso de acceso. Aunque el documento cumple con la legalidad vigente (LOSU 2/2023), el sistema de provisión de plazas universitarias en España sigue siendo criticado por su opacidad en los procesos de selección reales, donde el BOE solo muestra el resultado final sin detallar la baremación de méritos frente a otros aspirantes. La 'red flag' principal no es la ilegalidad, sino la inercia de un sistema que consolida plazas de por vida sin un escrutinio público post-selección.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado oficialmente a don Sergio Sebastián Franco como Profesor Titular en el área de Proyectos Arquitectónicos. Este es el paso final tras ganar un concurso iniciado a finales de 2025. A partir de ahora, adquiere la condición de funcionario de carrera con plaza permanente.",
+    "resumen_tweet": "🏛️ Nuevo profesor titular en la @unizar. Sergio Sebastián Franco obtiene plaza permanente en Arquitectura. El #BOE formaliza el proceso, pero ¿es el sistema de acceso universitario suficientemente abierto al talento externo? #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Endogamia académica potencial por falta de datos comparativos",
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Consolidación de gasto estructural a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sergio Sebastián Franco",
+        "Universidad de Zaragoza",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Aspirantes externos sin acceso a los detalles del concurso",
+        "Transparencia en la baremación pública de méritos"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Endogamia académica potencial por falta de datos comparativos",
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Consolidación de gasto estructural a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
