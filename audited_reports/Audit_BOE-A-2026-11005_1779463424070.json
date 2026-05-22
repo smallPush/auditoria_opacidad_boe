@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11005",
+  "timestamp": "2026-05-22T15:23:44.070Z",
+  "title": "Orden TES/497/2026, de 13 de mayo, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se disfraza de modernidad administrativa utilizando términos como 'liderazgo transformador' e 'inteligencia contextual', pero bajo la superficie se mantiene el sistema de 'libre designación', que permite la elección discrecional del candidato. El plazo de 10 días naturales es extremadamente corto para un puesto de Nivel 30 (Subdirector General), lo que suele indicar que el proceso podría estar pre-orientado a candidatos ya internos o identificados. El cuestionario de autoevaluación es puramente subjetivo y no garantiza una selección basada exclusivamente en el mérito y la capacidad técnica objetiva.",
+    "resumen_ciudadano": "El Ministerio de Trabajo busca un nuevo Subdirector/a General para las estadísticas del SEPE. Aunque es un puesto técnico de alto nivel (el sueldo base más alto de la administración), el sistema de elección es 'a dedo' (libre designación). Los interesados solo tienen 10 días para presentarse, un tiempo muy ajustado para un puesto de esta responsabilidad.",
+    "resumen_tweet": "🚩 ¿Transparencia o discrecionalidad? Trabajo convoca una Subdirección General en el SEPE (Nivel 30) por 'libre designación'. Plazo exprés de 10 días y autoevaluación subjetiva. El #BOE sigue blindando los puestos 'a dedo'. #Opacidad #Transparencia 💼",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de presentación de 10 días (inusualmente corto)",
+      "Cuestionario de autoevaluación sin criterios de validación externos",
+      "Uso de conceptos abstractos para definir la idoneidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con afinidad política o de confianza",
+        "Candidatos internos con conocimiento previo de la vacante"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones jerárquicas",
+        "Ciudadanía (por la opacidad en la selección de gestores de datos públicos)",
+        "Meritocracia técnica pura"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Plazo de presentación de 10 días (inusualmente corto)",
+      "Cuestionario de autoevaluación sin criterios de validación externos",
+      "Uso de conceptos abstractos para definir la idoneidad"
+    ]
+  },
+  "tweeted": false
+}
