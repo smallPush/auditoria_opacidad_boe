@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-10993",
+  "timestamp": "2026-05-22T15:17:31.327Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Delegación del Gobierno en la Comunidad Autónoma del País Vasco, por la que se nombra Subdelegado del Gobierno en Bizkaia a don Carlos García Buendía.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un caso de reincidencia administrativa tras un revés judicial. La Resolución original de 2024 fue anulada por el Tribunal Superior de Justicia del País Vasco, lo que suele indicar falta de motivación o arbitrariedad en la libre designación. El Gobierno, en lugar de abrir un proceso competitivo real, realiza un ejercicio de subsanación formal para ratificar al mismo candidato, Carlos García Buendía, amparándose en la estructura de libre designación para blindar un puesto de confianza política frente al escrutinio técnico.",
+    "resumen_ciudadano": "El Gobierno ha vuelto a nombrar como Subdelegado en Bizkaia a la misma persona cuyo cargo fue anulado por los tribunales en 2024. La justicia obligó a cesarlo por irregularidades en el proceso, pero la administración ha 'arreglado' los papeles para mantenerlo en el puesto bajo la modalidad de libre designación.",
+    "resumen_tweet": "🚩 ¿Rectificación o insistencia? Tras una sentencia que anuló su nombramiento en 2024, el Gobierno vuelve a designar al mismo cargo en Bizkaia. La libre designación como escudo frente a los tribunales. #BOE #Opacidad #Transparencia ⚖️🏛️",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por nombramiento previo invalidado",
+      "Ratificación de un candidato cuyo proceso fue tildado de irregular por el TSJPV",
+      "Uso del procedimiento de libre designación para puestos de alta dirección estatal",
+      "Opacidad en la comparativa real de méritos frente a otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos García Buendía (recupera su posición)",
+        "Delegación del Gobierno (impone su criterio político sobre el judicial previo)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos con méritos técnicos",
+        "Sistema de meritocracia de la Administración Pública",
+        "Ciudadanía (que sufraga procesos judiciales por nombramientos mal ejecutados)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal de Confianza",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por nombramiento previo invalidado",
+      "Ratificación de un candidato cuyo proceso fue tildado de irregular por el TSJPV",
+      "Uso del procedimiento de libre designación para puestos de alta dirección estatal",
+      "Opacidad en la comparativa real de méritos frente a otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
