@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10988",
+  "timestamp": "2026-05-22T14:55:27.476Z",
+  "title": "Real Decreto 411/2026, de 20 de mayo, por el que se nombra Presidente del Tribunal de Instancia de Palencia al Magistrado don Jorge Martínez Moreno.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 411/2026 formaliza un nombramiento judicial basado en una elección interna de la Junta de Jueces de Palencia. Aunque el proceso es legalmente sólido bajo la LOPJ, destaca la opacidad sobre los méritos específicos del candidato frente a otros aspirantes. Existe un desfase temporal de seis meses entre la elección (noviembre 2025) y el nombramiento efectivo (mayo 2026), lo que sugiere una burocracia lenta o negociaciones internas no explicitadas. Además, se observa la persistencia de perfiles masculinos en la presidencia de órganos jurisdiccionales, reflejando el techo de cristal en la alta judicatura.",
+    "resumen_ciudadano": "Se nombra a Jorge Martínez Moreno como nuevo Presidente del Tribunal de Instancia de Palencia. Este cargo es el resultado de una votación interna entre jueces realizada meses atrás. El documento es un trámite administrativo que consolida el mando de un magistrado que ya operaba en la sección penal del mismo tribunal.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en el Tribunal de Palencia: Jorge Martínez Moreno asume la presidencia tras 6 meses de espera burocrática. ¿Dónde queda la paridad y la transparencia de méritos? La justicia sigue su propio ritmo interno. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desfase temporal excesivo entre elección y nombramiento",
+      "Falta de detalle sobre méritos competitivos",
+      "Ausencia de rotación o criterios de paridad de género"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Martínez Moreno",
+        "Magistratura tradicional",
+        "Consejo General del Poder Judicial"
+      ],
+      "perdedores": [
+        "Candidatas mujeres",
+        "Transparencia en procesos electivos judiciales",
+        "Sociedad civil (por falta de información sobre méritos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Desfase temporal excesivo entre elección y nombramiento",
+      "Falta de detalle sobre méritos competitivos",
+      "Ausencia de rotación o criterios de paridad de género"
+    ]
+  },
+  "tweeted": false
+}
