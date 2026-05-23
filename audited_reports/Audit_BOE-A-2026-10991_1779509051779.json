@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10991",
+  "timestamp": "2026-05-23T04:04:11.779Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Subsecretaría, por la que se resuelve el concurso para la provisión de puestos de asesores técnicos y asesoras técnicas en el exterior, convocado por Resolución de 3 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura técnica estándar pero oculta el impacto presupuestario real. Aunque se publican nombres y puntuaciones, el 'Régimen Económico' se remite a una convocatoria previa (base décima), evitando detallar los cuantiosos complementos por destino en el extranjero. Destaca el uso del punto Sexto, que abre la puerta a la asignación de plazas desiertas mediante 'comisión de servicios', un mecanismo históricamente más discrecional y menos transparente que el concurso de méritos, lo que supone un riesgo de dedismo institucional en destinos atractivos.",
+    "resumen_ciudadano": "El Ministerio de Educación ha seleccionado a los profesores que trabajarán como asesores técnicos en embajadas y consulados de países como EE.UU., China o Brasil. Se publica quiénes son y qué nota sacaron, pero no cuánto nos costará su estancia ni bajo qué criterios exactos se elegirán a dedo los puestos que han quedado vacantes (como en Costa de Marfil o Marruecos) a través de comisiones de servicio.",
+    "resumen_tweet": "✈️ ¡Maletas listas! El #BOE publica los nuevos asesores en el exterior. Ojo a las plazas desiertas: se cubrirán por 'comisión de servicios', un método con menor control y transparencia. 🧐 ¿Cuánto nos cuesta cada puesto? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en las cuantías económicas específicas del régimen de exterior",
+      "Uso de comisiones de servicio para cubrir plazas desiertas (riesgo de discrecionalidad)",
+      "Remisión a enlaces externos para ver el desglose de puntuaciones específicas",
+      "Dependencia de autorizaciones autonómicas que pueden bloquear procesos ya resueltos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes seleccionados (acceso a salarios superiores y carrera internacional)",
+        "Andalucía y Madrid (mayor número de efectivos exportados)"
+      ],
+      "perdedores": [
+        "Candidatos en lista de espera (opacidad en el proceso de vacantes desiertas)",
+        "Contribuyente (falta de desglose de costes operativos en el extranjero)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en las cuantías económicas específicas del régimen de exterior",
+      "Uso de comisiones de servicio para cubrir plazas desiertas (riesgo de discrecionalidad)",
+      "Remisión a enlaces externos para ver el desglose de puntuaciones específicas",
+      "Dependencia de autorizaciones autonómicas que pueden bloquear procesos ya resueltos"
+    ]
+  },
+  "tweeted": false
+}
