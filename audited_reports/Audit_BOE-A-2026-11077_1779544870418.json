@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11077",
+  "timestamp": "2026-05-23T14:01:10.418Z",
+  "title": "Resolución de 13 de mayo de 2026, de la Universidad de Málaga, por la que se nombra Profesor Titular de Universidad a don Antoni Torres Signes.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Profesor Titular) mediante resolución administrativa estándar. La opacidad reside en la cláusula genérica de 'emolumentos según disposiciones vigentes', lo cual impide al ciudadano conocer el coste real para el erario público de esta plaza vitalicia sin consultar tablas salariales externas complejas. Es un acto administrativo de trámite que cumple la legalidad, pero mantiene el secretismo presupuestario sobre la masa salarial universitaria.",
+    "resumen_ciudadano": "La Universidad de Málaga nombra a Antoni Torres Signes como Profesor Titular en el área de Estadística e Investigación Operativa tras superar un concurso. Es un puesto permanente con sueldo público no especificado en el documento.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Univ. de Málaga para Estadística. Aunque el proceso es legal, los 'emolumentos' quedan ocultos bajo fórmulas genéricas. ¿Para cuándo transparencia salarial directa en el #BOE? 📉 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía salarial",
+      "Falta de desglose del coste presupuestario a largo plazo",
+      "Lenguaje administrativo autorreferencial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antoni Torres Signes (puesto vitalicio)",
+        "Universidad de Málaga (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Contribuyente (por falta de información financiera directa)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Opacidad en la cuantía salarial",
+      "Falta de desglose del coste presupuestario a largo plazo",
+      "Lenguaje administrativo autorreferencial"
+    ]
+  },
+  "tweeted": false
+}
