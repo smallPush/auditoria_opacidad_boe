@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11065",
+  "timestamp": "2026-05-23T13:27:20.138Z",
+  "title": "Resolución de 22 de mayo de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Esta resolución expone la estructura de precios de un mercado bajo monopolio estatal donde los precios no los fija el mercado libre, sino los fabricantes e importadores con el visto bueno de Hacienda. Existe una notable brecha de clase en el catálogo: mientras se validan cigarros de lujo como el 'Plasencia Year of the Horse' a 69€ la unidad, la picadura de liar mantiene precios para el consumo de masas. La opacidad reside en la falta de transparencia sobre los márgenes de beneficio que las multinacionales pactan con el Comisionado para el Mercado de Tabacos.",
+    "resumen_ciudadano": "Hacienda ha publicado la lista actualizada de precios de tabaco para la península, Baleares, Ceuta y Melilla. Los precios son propuestos por las empresas tabacaleras y el Estado los oficializa, afectando tanto a cigarros premium como a tabaco de pipa y de liar.",
+    "resumen_tweet": "📉 Hacienda actualiza los precios del tabaco. Las multinacionales proponen y el Estado firma. Desde cigarros de lujo a 69€ hasta picadura para el consumo popular. El monopolio estatal al servicio de la industria. 🚬 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fijación de precios por parte del oligopolio tabacalero",
+      "Ausencia de desglose del porcentaje de impuestos frente al margen comercial",
+      "Disparidad de precios entre territorios (Ceuta/Melilla vs Península)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fabricantes (Davidoff, Padrón, Plasencia)",
+        "Agencia Tributaria (recaudación de Impuestos Especiales e IVA)",
+        "Expendedurías (mantenimiento del margen de monopolio)"
+      ],
+      "perdedores": [
+        "Consumidores de rentas bajas (dependientes de la picadura de liar)",
+        "Salud pública (la actualización de precios no responde a criterios sanitarios sino comerciales)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Control de Precios y Mercado Monopolizado",
+    "banderas_rojas": [
+      "Fijación de precios por parte del oligopolio tabacalero",
+      "Ausencia de desglose del porcentaje de impuestos frente al margen comercial",
+      "Disparidad de precios entre territorios (Ceuta/Melilla vs Península)"
+    ]
+  },
+  "tweeted": false
+}
