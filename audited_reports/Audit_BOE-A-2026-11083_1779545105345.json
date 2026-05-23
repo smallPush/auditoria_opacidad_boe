@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11083",
+  "timestamp": "2026-05-23T14:05:05.345Z",
+  "title": "Resolución de 12 de mayo de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "Se observa un fenómeno de opacidad por referencia cruzada. La resolución en el BOE actúa como un mero esqueleto legal que obliga al ciudadano a consultar tres diarios oficiales distintos (BOE, BOPB y DOGC) para comprender la naturaleza de la rectificación. Este tipo de correcciones técnicas a posteriori en convocatorias de empleo público suelen encubrir errores en la definición de perfiles o ajustes en los baremos de méritos que pueden favorecer a perfiles específicos ya preseleccionados. La falta de detalle sobre qué plazas se rectifican en el texto nacional dificulta la fiscalización pública inmediata.",
+    "resumen_ciudadano": "El Ayuntamiento de Castelldefels ha modificado las reglas de juego para acceder a varias plazas de empleo público que ya habían sido convocadas. Debido a este cambio, se abre un nuevo periodo de 20 días para presentar solicitudes, pero solo para los puestos afectados. El ciudadano debe buscar en el boletín provincial de Barcelona para saber exactamente qué requisitos o plazas han cambiado.",
+    "resumen_tweet": "🧐 Castelldefels rectifica las bases de su convocatoria de empleo. ¿Qué cambió exactamente? La opacidad obliga a saltar entre boletines para descubrirlo. Se abre nuevo plazo de 20 días para los puestos afectados. #BOE #Opacidad #Transparencia #Castelldefels",
+    "banderas_red_flags": [
+      "Opacidad por referencia externa",
+      "Rectificación de bases en proceso iniciado",
+      "Fragmentación de la información pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos que no cumplían los requisitos originales y ahora sí (posible diseño a medida)",
+        "Administración local por evitar impugnaciones mediante parches legales"
+      ],
+      "perdedores": [
+        "Candidatos que ya habían postulado (incertidumbre jurídica)",
+        "Ciudadanos sin tiempo para rastrear cambios en tres boletines distintos"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Opacidad por referencia externa",
+      "Rectificación de bases en proceso iniciado",
+      "Fragmentación de la información pública"
+    ]
+  },
+  "tweeted": false
+}
