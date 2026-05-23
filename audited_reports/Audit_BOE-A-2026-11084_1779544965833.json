@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11084",
+  "timestamp": "2026-05-23T14:02:45.833Z",
+  "title": "Resolución de 14 de mayo de 2026, del Ayuntamiento de Roquetes (Tarragona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria de una única plaza de Ingeniero Superior mediante el sistema de 'concurso-oposición' en una administración local suele ser un indicador de consolidación de personal interino. Aunque legal, la fase de concurso introduce una carga de subjetividad y baremación de méritos que premia desproporcionadamente la experiencia previa en la misma administración, dificultando el acceso real a candidatos externos del sector privado o recién titulados, a pesar de anunciarse como 'turno libre'.",
+    "resumen_ciudadano": "El Ayuntamiento de Roquetes (Tarragona) abre proceso para contratar a un ingeniero/a de clase superior. El sistema elegido permite sumar puntos por experiencia previa antes del examen, lo que inclina la balanza hacia personas que ya podrían estar trabajando allí de forma temporal. Los interesados tienen 20 días naturales para presentarse tras la publicación.",
+    "resumen_tweet": "📢 ¿Plaza con nombre y apellidos en Roquetes? 🧐 Se convoca 1 puesto de Ingeniero Superior vía concurso-oposición. El sistema de méritos suele favorecer a interinos frente al talento externo. ¡Vigilancia ciudadana! ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para plaza única superior",
+      "Alta ponderación de méritos específicos en administraciones locales",
+      "Posible consolidación encubierta de interinidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que ya ocupa el puesto",
+        "Perfiles con experiencia previa en administración pública catalana"
+      ],
+      "perdedores": [
+        "Ingenieros del sector privado",
+        "Jóvenes titulados sin puntos por méritos",
+        "Principio de igualdad y capacidad pura (Oposición libre)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para plaza única superior",
+      "Alta ponderación de méritos específicos en administraciones locales",
+      "Posible consolidación encubierta de interinidad"
+    ]
+  },
+  "tweeted": false
+}
