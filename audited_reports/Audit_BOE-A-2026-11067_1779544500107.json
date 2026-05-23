@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11067",
+  "timestamp": "2026-05-23T13:55:00.107Z",
+  "title": "Acuerdo de 10 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña Ana Victoria Jiménez Jiménez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la jubilación de una magistrada. Aunque la transparencia nominal es alta respecto al sujeto y la causa (edad), existe una opacidad sistémica en la gestión de las 'Clases Pasivas'. No se detalla el impacto económico ni la cuantía de los derechos pasivos generados, lo que impide una fiscalización ciudadana del gasto en pensiones de la élite judicial. La firma data de febrero pero se publica en mayo, evidenciando un desfase administrativo en la gestión de recursos humanos del CGPJ.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial formaliza la jubilación forzosa por edad de la magistrada Ana Victoria Jiménez Jiménez, de la Sección de lo Social en Madrid. Este trámite legal pone fin a su servicio activo y le otorga el derecho a su pensión correspondiente según la ley.",
+    "resumen_tweet": "⚖️ Jubilación en la alta magistratura de Madrid. Trámite legal pero opaco en lo económico: el #BOE no aclara el coste de estas pensiones de élite para el erario público. ¿Más transparencia o más gasto ciego? #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Desfase temporal de tres meses entre resolución y publicación",
+      "Falta de información sobre el proceso de relevo en la plaza vacante"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a pensión de Clases Pasivas)",
+        "Aspirantes a la plaza vacante número 11 en Madrid"
+      ],
+      "perdedores": [
+        "Contribuyentes (asunción de gasto pasivo sin desglose)",
+        "Transparencia fiscal del sistema judicial"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Desfase temporal de tres meses entre resolución y publicación",
+      "Falta de información sobre el proceso de relevo en la plaza vacante"
+    ]
+  },
+  "tweeted": false
+}
