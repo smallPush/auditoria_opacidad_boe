@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-10986",
+  "timestamp": "2026-05-23T03:22:39.101Z",
+  "title": "Resolución de 20 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa la técnica de 'decreto ómnibus' donde, bajo el paraguas éticamente incuestionable de la ayuda a las víctimas de la DANA, se introducen materias inconexas como la fiscalidad de la Iglesia Católica y regulaciones sobre carburantes. Esta amalgama legislativa dificulta la fiscalización ciudadana, ya que la urgencia de la catástrofe se utiliza para validar cambios técnicos en el IRPF, IVA y Sociedades sin el debate parlamentario ordinario que requerirían estas modificaciones estructurales.",
+    "resumen_ciudadano": "El Congreso ha convalidado un paquete masivo de medidas urgentes. Aunque el foco principal es el auxilio por inundaciones (DANA), el texto incluye ajustes en múltiples impuestos, financiación de comunidades autónomas (específicamente Comunidad Valenciana y Extremadura) y normativas sobre incendios y ferrocarriles. La inclusión de la Iglesia Católica en los metadatos sugiere beneficios o ajustes fiscales específicos no detallados en el título principal.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! Se usan las ayudas por la DANA como 'caballo de Troya' para colar cambios fiscales sobre la Iglesia y carburantes. ¿Emergencia real o cajón desastre legislativo? Poca claridad en los créditos extraordinarios. 🧐📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Legislación ómnibus: mezcla de catástrofes con fiscalidad eclesiástica",
+      "Uso de créditos extraordinarios y suplementarios (potencial gasto fantasma)",
+      "Tramitación de urgencia que elude el debate pormenorizado",
+      "Incongruencia entre el título (DANA) y las materias tratadas (Carburantes, Iglesia)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas de siniestros (ayudas directas)",
+        "Iglesia Católica (mención en materias fiscales)",
+        "Grandes gestores de carburantes y energía"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Control parlamentario efectivo",
+        "Contribuyentes (por la opacidad en la gestión de créditos extraordinarios)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana y Extremadura",
+    "tipologia": "Resolución de Convalidación de Real Decreto-ley (Urgencia)",
+    "banderas_rojas": [
+      "Legislación ómnibus: mezcla de catástrofes con fiscalidad eclesiástica",
+      "Uso de créditos extraordinarios y suplementarios (potencial gasto fantasma)",
+      "Tramitación de urgencia que elude el debate pormenorizado",
+      "Incongruencia entre el título (DANA) y las materias tratadas (Carburantes, Iglesia)"
+    ]
+  },
+  "tweeted": false
+}
