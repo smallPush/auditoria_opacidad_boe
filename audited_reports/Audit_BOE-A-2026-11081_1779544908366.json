@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11081",
+  "timestamp": "2026-05-23T14:01:48.366Z",
+  "title": "Resolución de 1 de abril de 2026, del Ayuntamiento de Fuente el Olmo de Fuentidueña (Segovia), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Se observa un procedimiento de provisión de empleo público de baja complejidad técnica pero con las opacidades habituales del nivel local. La utilización del sistema de concurso-oposición, en lugar de una oposición libre basada exclusivamente en capacidad, permite que la fase de concurso (méritos) actúe como un filtro subjetivo que suele favorecer la consolidación de personal interino o personas con vínculos previos en el municipio. Además, la fragmentación de la información (bases en el BOCyL y anuncio en el BOE) dificulta el acceso ciudadano directo.",
+    "resumen_ciudadano": "Convocatoria para una plaza fija de operario de servicios múltiples en Fuente el Olmo de Fuentidueña (Segovia). El proceso de selección combina examen y valoración de méritos. El plazo de inscripción es de 20 días hábiles.",
+    "resumen_tweet": "📢 ¡Ojo en Segovia! El Ayto. de Fuente el Olmo de Fuentidueña abre plaza de operario. El sistema concurso-oposición suele beneficiar a conocidos. 🧐 ¿Transparencia real o trámite administrativo? #BOE #Opacidad #Transparencia #Segovia 🏛️⚙️",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición que permite valorar méritos específicos",
+      "Información dispersa entre el boletín nacional y el autonómico",
+      "Carencia de desglose presupuestario asociado a la plaza en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral temporal con antigüedad en el municipio",
+        "Candidatos con experiencia previa en administración local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin puntos por méritos",
+        "Candidatos externos al municipio",
+        "Transparencia administrativa total por fragmentación de bases"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición que permite valorar méritos específicos",
+      "Información dispersa entre el boletín nacional y el autonómico",
+      "Carencia de desglose presupuestario asociado a la plaza en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
