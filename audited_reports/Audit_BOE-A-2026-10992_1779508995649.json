@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-10992",
+  "timestamp": "2026-05-23T04:03:15.649Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Subsecretaría, por la que se resuelve el concurso para la provisión de puestos de personal docente en el exterior, convocado por Resolución de 3 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion presenta un alto nivel de detalle nominal y tecnico, cumpliendo formalmente con la publicidad de los actos administrativos. Sin embargo, se detecta un punto de opacidad en el punto Sexto: la provision de vacantes desiertas mediante 'comision de servicios'. Este mecanismo suele ser menos transparente y mas discrecional que el concurso de meritos ordinario, permitiendo asignaciones a dedo bajo la apariencia de urgencia administrativa. Ademas, el 'regimen economico' se remite a bases previas sin desglosar los complementos por destino internacional, ocultando el coste real para las arcas publicas de estas estancias en el extranjero.",
+    "resumen_ciudadano": "Se ha publicado la lista definitiva de profesores que trabajaran en centros españoles en el extranjero (Argentina, Brasil, Andorra, Marruecos, etc.) a partir de 2026/2027. Los seleccionados deberan realizar un curso virtual y gestionar sus haberes entre su comunidad de origen y el Ministerio. Las plazas que nadie quiso se asignaran mediante un procedimiento paralelo de comision de servicios.",
+    "resumen_tweet": "🌍 Profesores por el mundo: Se publican los destinos finales para docentes en el exterior. Ojo a la cláusula 6: las plazas vacantes se darán vía 'comisión de servicios'. ¿Meritocracia o discrecionalidad? 🧐 #BOE #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Uso de comisiones de servicio para plazas desiertas (posible discrecionalidad)",
+      "Remision a regimenes economicos externos sin desglose de costes",
+      "Dependencia de autorizaciones regionales que pueden bloquear el proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antiguedad y puntos",
+        "Docentes que acceden a complementos salariales por exterior",
+        "Comunidad de Madrid (gran representacion en destinos premium)"
+      ],
+      "perdedores": [
+        "Docentes jovenes con menos puntos",
+        "Administraciones regionales que pierden capital humano cualificado",
+        "Candidatos en lista de espera ante posibles asignaciones discretas en vacantes"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiautonómica",
+    "tipologia": "Recursos Humanos y Educación",
+    "banderas_rojas": [
+      "Uso de comisiones de servicio para plazas desiertas (posible discrecionalidad)",
+      "Remision a regimenes economicos externos sin desglose de costes",
+      "Dependencia de autorizaciones regionales que pueden bloquear el proceso"
+    ]
+  },
+  "tweeted": false
+}
