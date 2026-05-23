@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11071",
+  "timestamp": "2026-05-23T13:58:08.182Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad de Barcelona, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución cumple con la formalidad de publicar los nombramientos tras un proceso selectivo, pero mantiene el vicio de la opacidad económica al referirse a las retribuciones de forma genérica ('según las disposiciones vigentes'). No se especifica el impacto presupuestario anual que supone el ascenso de estos ocho profesionales a la categoría de catedráticos. Se observa un cumplimiento equilibrado en términos de género (5 mujeres y 3 hombres), lo que sugiere una aplicación de políticas de igualdad interna, aunque el documento no lo explicite como criterio rector.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado oficialmente a ocho nuevos catedráticos en diversas áreas que van desde la Química Analítica hasta la Literatura Española. Este paso formal consolida sus plazas y niveles salariales máximos dentro del cuerpo docente universitario.",
+    "resumen_tweet": "🎓 La Universidad de Barcelona suma 8 nuevos catedráticos. Se cumple la norma, pero el coste real para el contribuyente se oculta tras el lenguaje de 'retribuciones vigentes'. ¿Sabemos cuánto nos cuesta cada ascenso? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario por plaza",
+      "Remisión a normas externas para ocultar salarios base y complementos",
+      "Ausencia de justificación de méritos en el extracto público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 8 académicos nombrados (consolidación de estatus y mejora salarial)",
+        "Universidad de Barcelona (fortalecimiento de su cuerpo docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de transparencia en el gasto público de personal)",
+        "Personal docente e investigador en precario (sin acceso a estas plazas de élite)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario por plaza",
+      "Remisión a normas externas para ocultar salarios base y complementos",
+      "Ausencia de justificación de méritos en el extracto público"
+    ]
+  },
+  "tweeted": false
+}
