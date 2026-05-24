@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11079",
+  "timestamp": "2026-05-24T14:01:34.942Z",
+  "title": "Resolución de 14 de mayo de 2026, del Ayuntamiento de Villanueva de la Cañada (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza una técnica de opacidad procedimental común: remitir las bases íntegras al Boletín de la Comunidad Autónoma (BOCM), dejando el BOE como un mero cascarón informativo. El uso del sistema de 'concurso' para un puesto de escala Superior (Jefe de Instalaciones) sugiere una posible consolidación de personal interino previa, evitando las pruebas de aptitud (oposición) que garantizarían mayor igualdad de oportunidades para candidatos externos.",
+    "resumen_ciudadano": "El Ayuntamiento de Villanueva de la Cañada convoca una plaza de alta dirección técnica para gestionar alumbrado y actividades. En lugar de un examen abierto, se valorarán méritos ya adquiridos, y los detalles sobre qué méritos cuentan exactamente no figuran en este anuncio nacional, obligando al ciudadano a investigar en el boletín regional.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Villanueva de la Cañada busca Jefe de Instalaciones por 'concurso'. ¿Meritocracia real o traje a medida para quien ya está dentro? Las bases se esconden en el boletín autonómico. #Opacidad #Transparencia #Madrid 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Fragmentación informativa (remisión al BOCM)",
+      "Elección de sistema de concurso en lugar de concurso-oposición para puestos técnicos superiores",
+      "Falta de desglose de los criterios de puntuación en el anuncio nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el municipio",
+        "Candidatos con red de contactos local"
+      ],
+      "perdedores": [
+        "Ingenieros y técnicos externos cualificados sin experiencia previa en esta administración",
+        "Ciudadanía que financia plazas de alta escala sin procesos de examen riguroso"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Convocatoria de Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación informativa (remisión al BOCM)",
+      "Elección de sistema de concurso en lugar de concurso-oposición para puestos técnicos superiores",
+      "Falta de desglose de los criterios de puntuación en el anuncio nacional"
+    ]
+  },
+  "tweeted": false
+}
