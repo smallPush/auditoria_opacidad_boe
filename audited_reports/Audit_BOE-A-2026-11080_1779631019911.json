@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11080",
+  "timestamp": "2026-05-24T13:56:59.911Z",
+  "title": "Resolución de 18 de mayo de 2026, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso' para un puesto estratégico como la Jefatura de Sección de Nóminas. A diferencia de la oposición libre, el concurso permite una valoración de méritos que a menudo se diseña para favorecer a candidatos internos o con perfiles preseleccionados. La opacidad se incrementa al no detallar los criterios de baremación en el BOE, remitiendo al interesado al Boletín Oficial de la Provincia, una técnica habitual de 'fricción administrativa' para limitar la concurrencia de profesionales externos.",
+    "resumen_ciudadano": "La Diputación de Badajoz ha sacado una plaza para mandar en el departamento de nóminas, pero no lo hace mediante un examen abierto para todos, sino por un sistema de méritos que suele premiar a quienes ya están trabajando allí. Para ver las reglas detalladas hay que buscarlas en el boletín local, dificultando que candidatos de fuera puedan competir en igualdad.",
+    "resumen_tweet": "🚩 ¿Traje a medida en Badajoz? 🏛️ Se convoca Jefatura de Nóminas por 'concurso' (méritos) y no examen. Las bases reales están 'escondidas' en el boletín provincial. Menos competencia, más control interno. 🧐 #BOE #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Uso de sistema de concurso en lugar de oposición para jefaturas",
+      "Falta de desglose de méritos en el boletín nacional",
+      "Puesto con acceso a gestión económica crítica bajo criterios subjetivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad específica",
+        "Candidatos con proximidad a la estructura política provincial",
+        "Administración local que evita la fiscalización externa"
+      ],
+      "perdedores": [
+        "Licenciados externos sin puntos previos",
+        "Ciudadanos que exigen procesos de máxima capacidad y mérito",
+        "Transparencia en la gestión de recursos humanos"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Uso de sistema de concurso en lugar de oposición para jefaturas",
+      "Falta de desglose de méritos en el boletín nacional",
+      "Puesto con acceso a gestión económica crítica bajo criterios subjetivos"
+    ]
+  },
+  "tweeted": false
+}
