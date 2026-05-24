@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11069",
+  "timestamp": "2026-05-24T13:55:48.902Z",
+  "title": "Resolución de 22 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 7 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Este documento es un ejemplo de la 'meritocracia blindada'. Se utiliza el sistema de 'Libre Designación' para un puesto de Nivel 30, el escalafón más alto del funcionariado. Aunque se cita el cumplimiento del Real Decreto-ley 6/2023 sobre la ejecución del Plan de Recuperación, que supuestamente busca profesionalizar la función pública, la resolución no detalla los méritos específicos ni la comparativa de candidatos. Se menciona la intervención de 'Asesores expertos', pero su identidad y criterios de valoración permanecen en la sombra, perpetuando la opacidad en la adjudicación de puestos directivos estratégicos.",
+    "resumen_ciudadano": "El Ministerio de Educación ha nombrado a una nueva Subdirectora General para la Unidad de Acción Educativa Exterior. El proceso se ha realizado mediante libre designación, lo que permite a la administración elegir a dedo entre funcionarios de alto rango sin necesidad de un concurso de méritos abierto y transparente.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el @educaciongob. Se adjudica una Subdirección General (Nivel 30) por libre designación. ¿Transparencia? La mínima legal. Expertos 'anónimos' avalan la idoneidad sin datos públicos. #BOE #Opacidad #Transparencia 🏛️⚖️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de desglose de méritos comparativos",
+      "Invocación de 'asesores expertos' sin identificar",
+      "Nombramiento en el nivel máximo de la administración (30)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Violeta Paz Roel (mantiene estatus de Nivel 30)",
+        "Ministerio de Educación (control discrecional de puestos directivos)"
+      ],
+      "perdedores": [
+        "Candidatos externos con méritos técnicos superiores sin afinidad política",
+        "Ciudadanía (incapacidad de auditar la meritocracia real)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de desglose de méritos comparativos",
+      "Invocación de 'asesores expertos' sin identificar",
+      "Nombramiento en el nivel máximo de la administración (30)"
+    ]
+  },
+  "tweeted": false
+}
