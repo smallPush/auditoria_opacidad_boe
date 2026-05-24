@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11068",
+  "timestamp": "2026-05-24T04:23:30.406Z",
+  "title": "Acuerdo de 10 de febrero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don José Enrique Mora Mateo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa por cumplimiento de edad. Sin embargo, resalta la brecha temporal entre la adopción del acuerdo (10 de febrero) y su publicación efectiva (23 de mayo), lo que denota una lentitud burocrática en la gestión de la cúpula judicial. Además, la referencia genérica a los 'derechos pasivos' encubre pensiones del régimen de Clases Pasivas que sitúan a este estrato profesional en la élite económica del funcionariado público, lejos del régimen general.",
+    "resumen_ciudadano": "El magistrado José Enrique Mora Mateo, del Tribunal Superior de Justicia de Aragón, se jubila obligatoriamente al alcanzar la edad máxima permitida. Este trámite libera una plaza en la Sala de lo Social y activa su pensión vitalicia como alto cargo judicial.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la cúpula judicial de Aragón. El magistrado Mora Mateo deja su puesto con beneficios blindados de 'Clases Pasivas'. Transparencia formal, pero opacidad en el coste real de estas pensiones. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el cálculo de derechos pasivos",
+      "Desfase de tres meses entre acuerdo y publicación oficial",
+      "Mantenimiento de regímenes de jubilación de élite"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (acceso a pensión máxima del Estado)",
+        "Futuros aspirantes a la plaza vacante en el TSJ Aragón"
+      ],
+      "perdedores": [
+        "Sistema público de seguridad social (por el coste del régimen de clases pasivas)",
+        "Justicia social (brecha entre pensiones judiciales y medias)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en el cálculo de derechos pasivos",
+      "Desfase de tres meses entre acuerdo y publicación oficial",
+      "Mantenimiento de regímenes de jubilación de élite"
+    ]
+  },
+  "tweeted": false
+}
