@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11076",
+  "timestamp": "2026-05-24T04:35:24.873Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad de Extremadura, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta una consolidacion masiva de plazas en la Universidad de Extremadura (36 nombramientos). Aunque el acto es administrativo y reglado, existe una brecha de genero notable en el acceso a la Catedra (66% hombres vs 33% mujeres). No se especifica el coste economico anual que supone esta promocion interna de funcionarios ni se detalla si estas plazas provienen de procesos de estabilizacion que limitan la concurrencia competitiva externa (endogamia universitaria).",
+    "resumen_ciudadano": "La Universidad de Extremadura nombra a 12 nuevos catedraticos y 24 profesores titulares. Es un tramite habitual para fijar personal, pero destaca la desigualdad de genero en los puestos mas altos y la falta de informacion sobre cuanto costaran estos ascensos al contribuyente extremeno.",
+    "resumen_tweet": "🎓 Mas de 30 nuevos nombramientos en la Univ. de Extremadura. 🔎 Las Catedras siguen siendo masculinas (solo 1/3 son mujeres). ¿Donde esta el desglose presupuestario de estos ascensos de por vida? 📉 #BOE #Opacidad #Transparencia #UEX #Extremadura",
+    "banderas_red_flags": [
+      "Brecha de genero en el acceso a Catedra",
+      "Falta de memoria economica adjunta a los nombramientos",
+      "Posible endogamia por procesos de promocion interna cerrados",
+      "Opacidad en los criterios de seleccion de la comision juzgadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "36 nuevos funcionarios con plaza vitalicia",
+        "Rectorado de la UEX (consolidacion de plantilla)",
+        "Departamentos de Didactica y Matematicas (mayor numero de ascensos)"
+      ],
+      "perdedores": [
+        "Mujeres academicas (infrarepresentadas en la elite docente)",
+        "Investigadores externos (barreras de entrada por promocion interna)",
+        "Contribuyentes (desconocimiento del impacto en el gasto publico)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramiento de Personal Funcionario Docente",
+    "banderas_rojas": [
+      "Brecha de genero en el acceso a Catedra",
+      "Falta de memoria economica adjunta a los nombramientos",
+      "Posible endogamia por procesos de promocion interna cerrados",
+      "Opacidad en los criterios de seleccion de la comision juzgadora"
+    ]
+  },
+  "tweeted": false
+}
