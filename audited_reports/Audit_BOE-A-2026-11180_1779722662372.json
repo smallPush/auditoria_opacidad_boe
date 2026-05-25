@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11180",
+  "timestamp": "2026-05-25T15:24:22.372Z",
+  "title": "Ley del Principado de Asturias 2/2026, de 30 de abril, de modificación de la Ley del Principado de Asturias 8/2002, de 21 de octubre, de Espectáculos Públicos y Actividades Recreativas, en materia de declaración responsable para espectáculos públicos y actividades recreativas en directo de escasa incidencia o entidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley introduce la 'declaración responsable' como mecanismo de simplificación administrativa, eliminando el control previo del Ayuntamiento para eventos de 'escasa incidencia'. Si bien agiliza la cultura de base, delega la responsabilidad técnica y jurídica totalmente en el empresario. El riesgo reside en la vaguedad del término 'escasa incidencia', que queda en un limbo normativo hasta que se actualice el catálogo oficial en un plazo de 9 meses, permitiendo una discrecionalidad técnica que puede derivar en inseguridad jurídica tanto para el promotor como para los vecinos afectados por ruidos.",
+    "resumen_ciudadano": "Los bares y locales culturales de Asturias ya no necesitarán esperar meses por una licencia para conciertos pequeños o actividades sencillas. Ahora basta con avisar al Ayuntamiento con 48 horas de antelación mediante una declaración donde el dueño afirma cumplir todas las normas. Esto se aplica solo si no se necesita escenario, camerinos, ni se aumenta el aforo. El horario general para estos eventos será de 10:00 a 23:00 horas, salvo que el local esté insonorizado.",
+    "resumen_tweet": "🎸 Asturias agiliza la cultura: ¡conciertos en locales con solo 48h de aviso! 🍻 Se implanta la declaración responsable para eventos pequeños. Menos burocracia pero más responsabilidad para el hostelero y riesgo para el descanso vecinal. #BOE #Asturias #Transparencia",
+    "banderas_red_flags": [
+      "Concepto jurídico indeterminado: 'escasa incidencia o entidad' sin definición técnica final hasta dentro de 9 meses.",
+      "Eliminación del control preventivo: La Administración solo interviene si hay denuncia o inspección a posteriori.",
+      "Arbitrariedad en la distancia: Se fija un radio de 40 metros para terrazas sin justificación técnica de impacto acústico específica.",
+      "Plazo de transitoriedad excesivo: 9 meses para adaptar los decretos de catálogo y horarios."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pequeños empresarios de hostelería",
+        "Artistas locales y bandas emergentes",
+        "Ayuntamientos (reducción de atascos administrativos)"
+      ],
+      "perdedores": [
+        "Asociaciones de vecinos (posible aumento de molestias acústicas)",
+        "Servicios de inspección municipal (mayor carga de trabajo de vigilancia posterior)",
+        "Seguridad jurídica del empresario (responsabilidad penal/civil directa ante errores de interpretación)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Modificación Legislativa / Simplificación Administrativa",
+    "banderas_rojas": [
+      "Concepto jurídico indeterminado: 'escasa incidencia o entidad' sin definición técnica final hasta dentro de 9 meses.",
+      "Eliminación del control preventivo: La Administración solo interviene si hay denuncia o inspección a posteriori.",
+      "Arbitrariedad en la distancia: Se fija un radio de 40 metros para terrazas sin justificación técnica de impacto acústico específica.",
+      "Plazo de transitoriedad excesivo: 9 meses para adaptar los decretos de catálogo y horarios."
+    ]
+  },
+  "tweeted": false
+}
