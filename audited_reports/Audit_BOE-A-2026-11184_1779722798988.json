@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11184",
+  "timestamp": "2026-05-25T15:26:38.988Z",
+  "title": "Acuerdo de 13 de mayo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Juezas sustitutas en el ámbito del Tribunal Superior de Justicia de Castilla-La Mancha para el año judicial 2025/2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta un nombramiento rutinario de juezas sustitutas en el ámbito del TSJ de Castilla-La Mancha. Aunque la identificación de las personas es clara, el proceso adolece de la opacidad habitual del CGPJ: no se detallan los méritos específicos, la baremación comparativa con otros candidatos ni el impacto presupuestario de estas contrataciones temporales. Se perpetúa el modelo de 'justicia interina' para cubrir zonas geográficamente dispersas como Cuenca y sus alrededores, lo que podría derivar en una justicia de menor estabilidad para el ciudadano rural.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha designado a dos juezas sustitutas para cubrir las necesidades de los tribunales en Cuenca, Motilla del Palancar, San Clemente y Tarancón durante el periodo 2025/2026. Este movimiento busca evitar el colapso de los juzgados locales ante posibles vacantes o bajas.",
+    "resumen_tweet": "⚖️ El CGPJ nombra juezas sustitutas para la justicia rural en Cuenca. Nombres públicos, pero ¿y la transparencia en la selección y costes? La justicia de proximidad sigue dependiendo de la temporalidad. 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de criterios de selección detallados",
+      "Falta de desglose presupuestario de las plazas",
+      "Dependencia de personal interino/sustituto en zonas rurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Yolanda Torreira Peris (nombramiento)",
+        "Alba Fernández Vera (nombramiento)",
+        "CGPJ (mantenimiento del servicio con personal temporal)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin acceso a puntuaciones)",
+        "Ciudadanos de zonas rurales (afectados por la alta rotación judicial)",
+        "Transparencia pública (procedimiento administrativo opaco)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de criterios de selección detallados",
+      "Falta de desglose presupuestario de las plazas",
+      "Dependencia de personal interino/sustituto en zonas rurales"
+    ]
+  },
+  "tweeted": false
+}
