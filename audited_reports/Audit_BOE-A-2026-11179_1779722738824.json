@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11179",
+  "timestamp": "2026-05-25T15:25:38.824Z",
+  "title": "Resolución de 11 de mayo de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se modifica la de 5 de febrero de 2024, sobre organización y atribución de funciones en el ámbito de competencias del Servicio de Planificación y Relaciones Institucionales.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion se presenta bajo la apariencia de una mejora en la 'comunicacion institucional', pero el movimiento clave es la adscripcion de la Unidad de Coordinacion de Contenidos de la Sede Electronica directamente al Gabinete de la Direccion General. Esto sugiere un intento de centralizar y controlar el relato oficial de la Agencia Tributaria (AEAT), alejandolo de criterios puramente tecnicos para situarlo bajo control politico directo. Ademas, se formaliza la creacion de Dependencias Regionales en comunidades especificas (Andalucia, Cataluña, Valencia, Madrid, Navarra y Pais Vasco), lo que implica una expansion de la estructura burocratica de alto nivel (Cuerpo Superior de Inspectores) sin una memoria economica que detalle el incremento del gasto publico en estas nuevas jefaturas.",
+    "resumen_ciudadano": "La Agencia Tributaria reorganiza sus departamentos internos para que el control de lo que se publica en internet y la relacion con los ciudadanos pase a depender directamente de la cupula directiva. Ademas, se crean nuevas oficinas de 'Relaciones Institucionales' en seis comunidades autonomas para gestionar convenios y programas de educacion tributaria, lo que supone mas puestos de jefatura para altos funcionarios de Hacienda.",
+    "resumen_tweet": "👁️ Hacienda refuerza el control de su 'relato'. La AEAT mueve comunicacion al Gabinete de Direccion y crea nuevas oficinas regionales en 6 CCAA. ¿Eficiencia o mas burocracia para controlar la imagen publica? 📉 Sin datos de costes. #BOE #Opacidad #AEAT 🚩",
+    "banderas_red_flags": [
+      "Centralizacion de la comunicacion en el Gabinete de Direccion",
+      "Creacion de nuevas jefaturas de subgrupo A1 sin desglose presupuestario",
+      "Uso de conceptos ambiguos como 'Programa de Educacion Civico-Tributaria' para justificar estructuras",
+      "Disparidad territorial en la creacion de dependencias regionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Inspectores de Hacienda del Estado (nuevos puestos de libre designacion)",
+        "Direccion General de la AEAT (mayor control politico de la informacion)",
+        "Delegaciones Especiales de Madrid, Cataluña, Andalucia, Valencia, Pais Vasco y Navarra"
+      ],
+      "perdedores": [
+        "Contribuyentes (coste oculto de la nueva estructura administrativa)",
+        "Transparencia informativa (la informacion pasa a estar filtrada por el Gabinete)",
+        "Otras Comunidades Autonomas excluidas de la estructura regional inicial"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia, Cataluña, Comunitat Valenciana, Madrid, Navarra y Pais Vasco",
+    "tipologia": "Reorganizacion Administrativa y Fiscal",
+    "banderas_rojas": [
+      "Centralizacion de la comunicacion en el Gabinete de Direccion",
+      "Creacion de nuevas jefaturas de subgrupo A1 sin desglose presupuestario",
+      "Uso de conceptos ambiguos como 'Programa de Educacion Civico-Tributaria' para justificar estructuras",
+      "Disparidad territorial en la creacion de dependencias regionales"
+    ]
+  },
+  "tweeted": false
+}
