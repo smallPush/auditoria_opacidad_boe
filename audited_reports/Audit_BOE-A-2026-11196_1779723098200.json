@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11196",
+  "timestamp": "2026-05-25T15:31:38.200Z",
+  "title": "Resolución de 12 de mayo de 2026, de la Universidad Carlos III de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento formaliza el nombramiento de personal docente funcionario en la Universidad Carlos III de Madrid (UC3M). Se observa una notable disparidad de género en los rangos más altos: de los dos nombramientos para el Cuerpo de Catedráticos (CU), ambos son varones (100%). En el cuerpo de Profesores Titulares (TU), la proporción mejora pero sigue siendo mayoritariamente masculina (4 de 7). Otro punto crítico es la temporalidad; se están resolviendo plazas vinculadas a la Oferta de Empleo Público (OEP) de 2023 en pleno 2026, lo que evidencia una lentitud administrativa que cronifica la precariedad hasta la toma de posesión final.",
+    "resumen_ciudadano": "La UC3M ha nombrado a 9 nuevos profesores permanentes (funcionarios) en áreas como Ingeniería Aeroespacial, Derecho y Economía. Este es un trámite administrativo final tras superar concursos públicos basados en la ley de universidades (LOSU).",
+    "resumen_tweet": "🎓 La UC3M nombra 9 nuevos funcionarios docentes. 🛑 Alerta: El 100% de las nuevas cátedras en este listado son para hombres. Además, se resuelven plazas de 2023 en 2026. ¿Lentitud o estrategia? 🧐 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Sesgo de género en Cátedras (0% mujeres en este anuncio)",
+      "Retraso burocrático (ejecución de OEP 2023 en 2026)",
+      "Endogamia potencial (no se especifica si los candidatos son de promoción interna o externa)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Andrés Marcos Esteban (Cátedra)",
+        "Andrés Anca Couce (Cátedra)",
+        "Sector de Ingeniería (mayor número de plazas)"
+      ],
+      "perdedores": [
+        "Representación femenina en la élite académica (Cátedras)",
+        "Agilidad administrativa (3 años para resolver una OEP)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Funcionarios",
+    "banderas_rojas": [
+      "Sesgo de género en Cátedras (0% mujeres en este anuncio)",
+      "Retraso burocrático (ejecución de OEP 2023 en 2026)",
+      "Endogamia potencial (no se especifica si los candidatos son de promoción interna o externa)"
+    ]
+  },
+  "tweeted": false
+}
