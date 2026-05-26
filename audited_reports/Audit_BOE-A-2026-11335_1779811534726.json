@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11335",
+  "timestamp": "2026-05-26T16:05:34.726Z",
+  "title": "Resolución de 18 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para un puesto de Nivel 29 (Subdirector Adjunto) representa uno de los mecanismos más opacos de la Administración Pública. Aunque legal, permite el nombramiento discrecional ('a dedo') de altos funcionarios, lo que puede vulnerar los principios de mérito y capacidad. En la tabla del Anexo I, las columnas de 'Funciones' y 'Méritos' aparecen vacías, lo que impide al ciudadano y a otros candidatos conocer qué se busca exactamente para este puesto de alta responsabilidad en el Ministerio de Trabajo.",
+    "resumen_ciudadano": "El Ministerio de Trabajo convoca una plaza de alto nivel (Subdirector Adjunto) en Madrid. El sueldo base se complementa con 24.549,84 euros anuales extra. Sin embargo, la elección no se hará por examen u oposición pura, sino por decisión discrecional de los superiores entre funcionarios del grupo A1. No se han detallado las tareas específicas ni los méritos concretos que se valorarán.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: El Ministerio de Trabajo busca un Subdirector Adjunto (Nivel 29). 🖋️ Se usará 'libre designación' (a dedo). 💰 Plus de 24.549€ sin especificar funciones ni méritos en el anuncio. ¿Meritocracia o dedocracia? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en niveles altos",
+      "Ausencia de descripción de funciones en el extracto",
+      "Ausencia de méritos específicos requeridos",
+      "Nivel de complemento específico elevado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con afinidad a la cúpula del Ministerio",
+        "Cargos con redes de contacto dentro de la administración pública"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin conexiones políticas",
+        "Principio de igualdad, mérito y capacidad",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación en niveles altos",
+      "Ausencia de descripción de funciones en el extracto",
+      "Ausencia de méritos específicos requeridos",
+      "Nivel de complemento específico elevado"
+    ]
+  },
+  "tweeted": false
+}
