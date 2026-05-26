@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-11181",
+  "timestamp": "2026-05-26T04:20:48.403Z",
+  "title": "Ley Foral 6/2026, de 8 de mayo, de concesión de créditos extraordinarios y suplementos de crédito en varios Departamentos del Gobierno de Navarra en el Presupuesto de 2026, con destino al Programa de Inversiones 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Ley Foral 6/2026 evidencia una deficiente planificación presupuestaria previa, recurriendo de forma masiva al remanente de tesorería (ahorros de ejercicios anteriores) para financiar inversiones que se presentan como 'inaplazables'. Si bien el detalle de las partidas es elevado, el uso de créditos extraordinarios para financiar un campo de rugby (1M€) o un bosque de la memoria bajo el pretexto de urgencia resulta cuestionable desde la lógica de transparencia. Se observa una transferencia masiva de fondos a empresas públicas (NASUVINSA, NASERTIC, TRACASA), lo que permite una ejecución de gasto con menor control administrativo directo que si se realizara desde las direcciones generales correspondientes.",
+    "resumen_ciudadano": "El Gobierno de Navarra ha aprobado una inyección de 21,2 millones de euros adicionales de sus ahorros para cubrir gastos de inversiones de 2025 que no tenían dinero suficiente en 2026. Casi la mitad del dinero (9,5 millones) se destina a vivienda de alquiler público a través de la empresa NASUVINSA. El resto se reparte en una amalgama de proyectos que van desde la renovación de vehículos policiales y obras en túneles hasta la construcción de un campo de rugby y laboratorios tecnológicos.",
+    "resumen_tweet": "🚨 Navarra gasta 21,2M€ de sus ahorros en créditos extra. 🏠 9,5M€ para vivienda pública, pero el resto se diluye en coches de policía, un campo de rugby y entes públicos. ¿Urgencia real o mala planificación? #BOE #Opacidad #Transparencia #Navarra 🧐🏛️",
+    "banderas_red_flags": [
+      "Uso de créditos de urgencia para proyectos recreativos como campos de rugby",
+      "Fuerte dependencia de empresas públicas para ejecutar el gasto",
+      "Gasto en 'Sistemas de información' sin desglose de objetivos técnicos",
+      "Incongruencia entre la urgencia declarada y la naturaleza de las inversiones culturales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "NASUVINSA (Vivienda pública)",
+        "Sector tecnológico y computacional (NASERTIC/TRACASA)",
+        "UPNA (Infraestructuras deportivas)",
+        "Cuerpos de Seguridad (Vehículos y movilidad)"
+      ],
+      "perdedores": [
+        "Salud Mental (recibe solo 225k€ frente a 1,4M€ en coches patrulla)",
+        "Rigor presupuestario (se asume que el presupuesto original de 2025 fue insuficiente)",
+        "Control parlamentario directo del gasto final"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Modificación Presupuestaria",
+    "banderas_rojas": [
+      "Uso de créditos de urgencia para proyectos recreativos como campos de rugby",
+      "Fuerte dependencia de empresas públicas para ejecutar el gasto",
+      "Gasto en 'Sistemas de información' sin desglose de objetivos técnicos",
+      "Incongruencia entre la urgencia declarada y la naturaleza de las inversiones culturales"
+    ]
+  },
+  "tweeted": false
+}
