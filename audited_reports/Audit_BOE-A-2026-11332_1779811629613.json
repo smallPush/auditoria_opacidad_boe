@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11332",
+  "timestamp": "2026-05-26T16:07:09.613Z",
+  "title": "Acuerdo de 19 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de puestos de trabajo en la Gerencia.",
+  "report": {
+    "nivel_transparencia": 0.75,
+    "analisis_critico": "Se trata de una convocatoria para 5 plazas de auxiliar (C2) en la Gerencia del CGPJ. Aunque el texto formaliza baremos y cita leyes de igualdad, existe un riesgo de endogamia administrativa. La Comisión de Valoración está compuesta íntegramente por personal de la propia Gerencia, y la fase de 'méritos específicos' junto a la memoria y entrevista permiten un margen de discrecionalidad técnica que puede favorecer a candidatos que ya conocen el funcionamiento interno o están 'en el entorno' del organismo.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial convoca un concurso para cubrir 5 puestos de auxiliar administrativo. Pueden participar funcionarios de carrera del subgrupo C2. Se valorará la experiencia previa, cursos de formación, antigüedad y medidas de conciliación familiar. El proceso incluye una evaluación de méritos generales y específicos, seguida de una entrevista personal.",
+    "resumen_tweet": "⚖️ El CGPJ busca 5 auxiliares. Baremo detallado pero con tribunal interno de la propia Gerencia: ¿Garantía de mérito o riesgo de endogamia? La discrecionalidad en 'méritos específicos' sigue siendo el punto ciego. 🤔 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Endogamia potencial: El tribunal evaluador pertenece a la misma Gerencia que ofrece las plazas",
+      "Discrecionalidad en la segunda fase: 12 puntos dependen de criterios específicos y una memoria subjetiva",
+      "Entrevista final: Elemento que suele usarse para ajustar resultados previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios C2 con experiencia previa en órganos técnicos de la administración",
+        "Personal con facilidad para la movilidad geográfica hacia Madrid",
+        "Funcionarios con cursos específicos en igualdad y riesgos laborales"
+      ],
+      "perdedores": [
+        "Funcionarios externos sin red de contactos en el CGPJ",
+        "Candidatos con alta puntuación en méritos generales pero baja en la fase 'específica' discrecional",
+        "Personal de niveles inferiores con dificultad para acreditar 'méritos específicos' similares a los del puesto"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Empleo Público / Concurso de Méritos",
+    "banderas_rojas": [
+      "Endogamia potencial: El tribunal evaluador pertenece a la misma Gerencia que ofrece las plazas",
+      "Discrecionalidad en la segunda fase: 12 puntos dependen de criterios específicos y una memoria subjetiva",
+      "Entrevista final: Elemento que suele usarse para ajustar resultados previos"
+    ]
+  },
+  "tweeted": false
+}
