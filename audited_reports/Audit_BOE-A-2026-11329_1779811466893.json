@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11329",
+  "timestamp": "2026-05-26T16:04:26.893Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por el sistema de 'libre designación', un mecanismo que, aunque legal, permite la discrecionalidad en la elección de altos cargos, limitando la meritocracia pura en favor de la confianza política. Se adjudica un Nivel 30 (el máximo en la administración pública española) a una funcionaria proveniente del Ministerio de Hacienda. Se ampara en el Real Decreto-ley 6/2023 vinculado al Plan de Recuperación, Transformación y Resiliencia, lo que otorga un marco de 'urgencia' y 'gestión profesional' a un proceso que sigue siendo esencialmente de confianza.",
+    "resumen_ciudadano": "Se ha nombrado a dedo (libre designación) a la nueva Secretaria General del CIEMAT. La elegida es una funcionaria de Nivel 29 que asciende al Nivel 30, el escalafón más alto y mejor remunerado del Estado. El proceso cumple la ley, pero no detalla los méritos específicos que la hicieron destacar sobre otros posibles candidatos.",
+    "resumen_tweet": "🚨 Nuevo dedazo en el #BOE. Nombramiento por 'libre designación' para la Secretaría General del CIEMAT. Nivel 30 adjudicado discretamente bajo el paraguas del Plan de Recuperación. ¿Mérito o confianza? 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ascenso al Nivel 30 (máximo nivel salarial/administrativo)",
+      "Uso de normativa de medidas urgentes (RDL 6/2023) para provisión de puestos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Concepción Hernández Arellano (ascenso a Nivel 30)",
+        "Ministerio de Ciencia (control sobre el puesto clave de Secretaría General)"
+      ],
+      "perdedores": [
+        "Candidatos por concurso de méritos (excluidos por sistema discrecional)",
+        "Transparencia administrativa (no se publican criterios de selección comparados)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal (Libre Designación)",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ascenso al Nivel 30 (máximo nivel salarial/administrativo)",
+      "Uso de normativa de medidas urgentes (RDL 6/2023) para provisión de puestos"
+    ]
+  },
+  "tweeted": false
+}
