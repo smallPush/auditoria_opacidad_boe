@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11322",
+  "timestamp": "2026-05-26T16:00:45.560Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento refleja el uso sistemático del mecanismo de 'libre designación', un eufemismo legal para la adjudicación discrecional de puestos que elude los principios de mérito y capacidad. El hecho de que una plaza de nivel 16 en la Embajada de Conakry (Guinea) sea declarada desierta tras siete meses de proceso administrativo (octubre 2025 a mayo 2026) sugiere una desconexión entre la oferta de la administración y el interés del personal, o bien una reserva estratégica del puesto para una futura adjudicación más favorable a intereses particulares.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha publicado que no se ha elegido a nadie para el puesto de Secretario/a en la Embajada de Guinea, a pesar de haber tenido meses para el proceso de selección 'a dedo'. Esto deja la plaza vacante y evidencia la ineficiencia de los procesos de selección discrecionales en destinos internacionales.",
+    "resumen_tweet": "🕵️‍♂️ El @MAECgob deja desierta una plaza de 'libre designación' en Guinea tras 7 meses de espera. ¿Falta de candidatos o selección estratégica? La opacidad del sistema 'a dedo' sigue reinando en la diplomacia. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (selección discrecional)",
+      "Dilación excesiva del proceso (7 meses para una sola plaza)",
+      "Ausencia de motivación técnica para declarar el puesto desierto",
+      "Falta de datos sobre el número de aspirantes descartados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La discrecionalidad del Ministerio al retener la plaza",
+        "Futuros candidatos de conveniencia en una segunda vuelta"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de procesos administrativos ineficaces)",
+        "Cuerpo de funcionarios que aspira a una carrera basada en mérito transparente"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Servicio Exterior",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (selección discrecional)",
+      "Dilación excesiva del proceso (7 meses para una sola plaza)",
+      "Ausencia de motivación técnica para declarar el puesto desierto",
+      "Falta de datos sobre el número de aspirantes descartados"
+    ]
+  },
+  "tweeted": false
+}
