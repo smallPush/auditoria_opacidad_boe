@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11326",
+  "timestamp": "2026-05-26T16:02:50.168Z",
+  "title": "Orden EFD/506/2026, de 19 de mayo, por la que, a propuesta del Departamento de Educación de la Comunidad Foral de Navarra, se nombra funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria a don José Luis Ruiz Jaén.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela un caso de 'Obstruccionismo Administrativo' por goteo. Aunque la orden es un acto reglado, el trasfondo muestra que el ciudadano tuvo que recurrir a la vía contencioso-administrativa para corregir una exclusión de procesos selectivos iniciados en 2019. Existe una 'opacidad reactiva': la administración solo reconoce derechos cuando existe una sentencia judicial firme (Sentencia 26/2024 del TSJ de Navarra), lo que genera un coste innecesario en tiempo y recursos públicos para resolver lo que debería ser un proceso transparente de mérito y capacidad.",
+    "resumen_ciudadano": "El Ministerio de Educación nombra funcionario de carrera a un profesor de secundaria en Navarra con efectos retroactivos desde 2022. Este nombramiento no es de oficio, sino la ejecución de una sentencia judicial tras un recurso del interesado contra errores en el proceso selectivo de 2019.",
+    "resumen_tweet": "⚖️ Siete años para lograr una plaza: El #BOE publica el nombramiento forzado por sentencia judicial de un docente en Navarra. La administración pierde, el ciudadano sufre la demora. ¿Es esta la eficiencia prometida? 🏛️❌ #Transparencia #Opacidad #Navarra",
+    "banderas_red_flags": [
+      "Judicialización del empleo público",
+      "Demora administrativa extrema (7 años desde la convocatoria)",
+      "Efectos retroactivos por error administrativo previo",
+      "Coste de oportunidad por litigiosidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Luis Ruiz Jaén (recupera su derecho profesional)",
+        "Poder Judicial (garante último frente a la administración)"
+      ],
+      "perdedores": [
+        "Contribuyente (costes del proceso judicial y posibles intereses)",
+        "Departamento de Educación de Navarra (falta de diligencia inicial)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Nombramiento de personal / Ejecución de sentencia",
+    "banderas_rojas": [
+      "Judicialización del empleo público",
+      "Demora administrativa extrema (7 años desde la convocatoria)",
+      "Efectos retroactivos por error administrativo previo",
+      "Coste de oportunidad por litigiosidad"
+    ]
+  },
+  "tweeted": false
+}
