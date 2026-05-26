@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11338",
+  "timestamp": "2026-05-26T16:12:42.603Z",
+  "title": "Resolución de 14 de mayo de 2026, de la Dirección de la Agencia Estatal de Investigación, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento detalla un proceso de concurso específico para 18 plazas en la Agencia Estatal de Investigación. Aunque el marco legal es sólido, se observa una dependencia de criterios de méritos específicos que pueden actuar como barreras de entrada para funcionarios de otros departamentos. La remisión de perfiles formativos a una URL externa fuera del BOE fragmenta la información y reduce la fiscalización directa del ciudadano. El incentivo de 1 punto en igualdad es positivo, pero marginal frente a los 25 puntos por desempeño previo.",
+    "resumen_ciudadano": "Convocatoria interna para cubrir 18 puestos de funcionario en la Agencia Estatal de Investigación. Se premia principalmente el grado ya consolidado y la experiencia previa en puestos similares. Se incluyen facilidades para la conciliación familiar y una pequeña puntuación por formación en igualdad de género.",
+    "resumen_tweet": "🔍 Auditamos la convocatoria de 18 plazas en la Agencia Estatal de Investigación. Mucho peso en 'méritos específicos' y detalles clave en webs externas. ¿Movilidad real o blindaje interno? 👔🏛️ #BOE #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Puntuación de méritos específicos potencialmente subjetiva",
+      "Información de méritos formativos delegada a un enlace externo PDF",
+      "Veto explícito a la movilidad para personal de la AEAT basado en necesidades del servicio",
+      "Ventaja administrativa para los ya destinados en la Agencia al no tener que certificar méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alto grado consolidado",
+        "Personal que ya presta servicios en la Agencia Estatal de Investigación",
+        "Funcionarios con hijos menores de 12 años por puntos de conciliación"
+      ],
+      "perdedores": [
+        "Personal de la AEAT (bloqueables por su dirección)",
+        "Funcionarios noveles con poca antigüedad",
+        "Aspirantes externos a la Administración General del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Puntuación de méritos específicos potencialmente subjetiva",
+      "Información de méritos formativos delegada a un enlace externo PDF",
+      "Veto explícito a la movilidad para personal de la AEAT basado en necesidades del servicio",
+      "Ventaja administrativa para los ya destinados en la Agencia al no tener que certificar méritos"
+    ]
+  },
+  "tweeted": false
+}
