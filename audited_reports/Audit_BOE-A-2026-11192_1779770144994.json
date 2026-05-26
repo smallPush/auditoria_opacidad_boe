@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11192",
+  "timestamp": "2026-05-26T04:35:44.994Z",
+  "title": "Resolución de 18 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se audita una resolución de libre designación donde el 100% de las plazas convocadas (3 de 3) han sido declaradas desiertas. Este fenómeno es altamente inusual en procesos de 'libre designación', que suelen ser nombramientos discrecionales ('a dedo') para puestos de confianza. Que un puesto de Nivel 30 (Vocal Asesor) quede desierto sugiere una de dos: o una falta absoluta de perfiles técnicos dispuestos a asumir el cargo bajo las condiciones actuales, o un movimiento táctico para reabrir la convocatoria con otros criterios no declarados. La opacidad radica en la nula justificación de por qué ningún candidato fue considerado idóneo para cargos que, por definición, dependen de la voluntad del órgano convocante.",
+    "resumen_ciudadano": "El Ministerio de Ciencia ha publicado los resultados de una convocatoria para tres puestos de trabajo, incluyendo una asesoría de alto nivel (Nivel 30). El resultado es nulo: todos los puestos han quedado vacantes (desiertos). Esto implica que el esfuerzo administrativo y el tiempo invertido no han servido para cubrir las necesidades del ministerio, dejando dudas sobre la planificación de estos procesos de selección de personal de confianza.",
+    "resumen_tweet": "🔍 ¿Fallo de gestión o purga silenciosa? El Ministerio de Ciencia deja DESIERTOS 3 puestos de libre designación, incluido un Nivel 30 (Vocal Asesor). Opacidad total sobre por qué no hubo perfiles idóneos. 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Pleno de plazas desiertas (100%)",
+      "Falta de motivación en la resolución de vacío",
+      "Gasto administrativo en convocatorias estériles",
+      "Incongruencia en la búsqueda de personal de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ninguno (proceso fallido)"
+      ],
+      "perdedores": [
+        "Ciudadanía (por la ineficiencia administrativa y costes de convocatoria)",
+        "Funcionarios de carrera (bloqueo de movilidad)",
+        "Estructura del Ministerio (falta de personal clave en Gabinete Técnico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Pleno de plazas desiertas (100%)",
+      "Falta de motivación en la resolución de vacío",
+      "Gasto administrativo en convocatorias estériles",
+      "Incongruencia en la búsqueda de personal de confianza"
+    ]
+  },
+  "tweeted": false
+}
