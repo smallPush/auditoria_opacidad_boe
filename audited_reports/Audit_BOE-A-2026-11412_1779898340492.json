@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11412",
+  "timestamp": "2026-05-27T16:12:20.492Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la convocatoria se ajusta a la legalidad vigente, presenta mecanismos sutiles de exclusión y endogamia burocrática. La restricción de los cursos de formación a un 'listado anual' publicado por el propio organismo (CIEMAT) actúa como un filtro de entrada que favorece a quienes ya están dentro o tienen acceso a información privilegiada sobre qué formación será puntuable. Además, el sistema de puntuación por 'conciliación' beneficia desproporcionadamente a los funcionarios casados con otros funcionarios de carrera ('parejas de estado'), discriminando indirectamente a familias monoparentales o parejas con trabajadores del sector privado.",
+    "resumen_ciudadano": "El CIEMAT convoca 7 puestos de trabajo mediante concurso. El proceso se divide en dos fases: méritos generales (antigüedad, grado) y específicos. Se exige una permanencia mínima de 2 años en el puesto actual y se otorgan puntos extra por conciliación familiar, siempre que el cónyuge también sea funcionario.",
+    "resumen_tweet": "🧐 Auditamos el @CIEMAT: 7 plazas en juego. Ojo con la 'endogamia formativa': solo puntúan cursos de su propia lista interna. Además, el sistema premia más a parejas de funcionarios que al mérito puro. ¿Transparencia o club privado? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Limitación de cursos puntuables a una lista discrecional del organismo",
+      "Restricción de movilidad para personal de la AEAT (requiere permiso previo)",
+      "Puntuación por cónyuge funcionario que crea una ventaja de casta administrativa",
+      "Fase segunda de méritos específicos con alta carga de subjetividad técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con cónyuges en la administración",
+        "Personal interno con acceso a los cursos del catálogo específico del CIEMAT",
+        "Funcionarios con grados consolidados altos (niveles superiores)"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con experiencia en el sector privado (no puntúa)",
+        "Padres/madres solteros o con parejas fuera de la función pública",
+        "Personal de la Agencia Tributaria con restricciones de movilidad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Empleo Público",
+    "banderas_rojas": [
+      "Limitación de cursos puntuables a una lista discrecional del organismo",
+      "Restricción de movilidad para personal de la AEAT (requiere permiso previo)",
+      "Puntuación por cónyuge funcionario que crea una ventaja de casta administrativa",
+      "Fase segunda de méritos específicos con alta carga de subjetividad técnica"
+    ]
+  },
+  "tweeted": false
+}
