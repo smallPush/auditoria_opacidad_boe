@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11325",
+  "timestamp": "2026-05-27T04:44:02.408Z",
+  "title": "Orden EFD/505/2026, de 19 de mayo, por la que, a propuesta del Departamento de Educación de la Comunidad Foral de Navarra, se nombra funcionaria de carrera del Cuerpo de Profesores Técnicos de Formación Profesional a doña María Concepción Aguirre Martínez.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Este documento es el resultado de un fracaso administrativo previo. Se trata de un nombramiento forzado por una sentencia judicial del Tribunal Superior de Justicia de Navarra. La ciudadana tuvo que judicializar su proceso selectivo iniciado en 2020 para que se le reconociera una puntuación correcta (5,4812). El retraso de 6 años entre la convocatoria y el nombramiento definitivo evidencia la lentitud de la justicia y la rigidez de los órganos de selección docente.",
+    "resumen_ciudadano": "Tras una larga batalla legal, Doña María Concepción Aguirre Martínez ha sido nombrada oficialmente profesora de carrera en Navarra. El Ministerio ha tenido que corregir su error inicial y reconocerle la plaza con efectos retroactivos desde 2023 debido a una sentencia judicial que le dio la razón sobre su nota en las oposiciones.",
+    "resumen_tweet": "⚖️ ¡Justicia tras 6 años! Una profesora de FP en Navarra logra su plaza tras ganar en los tribunales lo que la administración le denegó en 2020. El #BOE publica el nombramiento por sentencia judicial. 🏛️💼 #Opacidad #Transparencia #Navarra #Educación",
+    "banderas_red_flags": [
+      "Judicialización de procesos selectivos",
+      "Dilación temporal extrema (6 años para resolver una plaza)",
+      "Corrección de errores mediante sentencia judicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña María Concepción Aguirre Martínez (obtiene su plaza legítima)",
+        "Poder Judicial (garante de los derechos ciudadanos)"
+      ],
+      "perdedores": [
+        "Departamento de Educación de Navarra (error administrativo)",
+        "Contribuyentes (costes derivados del proceso judicial y administrativo)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Nombramiento de personal funcionario por ejecución de sentencia",
+    "banderas_rojas": [
+      "Judicialización de procesos selectivos",
+      "Dilación temporal extrema (6 años para resolver una plaza)",
+      "Corrección de errores mediante sentencia judicial"
+    ]
+  },
+  "tweeted": false
+}
