@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11321",
+  "timestamp": "2026-05-27T04:42:28.912Z",
+  "title": "Acuerdo de 19 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 24 de marzo de 2026, en la Gerencia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una resolución administrativa estándar para el nombramiento de personal en la Gerencia del CGPJ. Sin embargo, llama la atención la ineficiencia del proceso: se convocaron cuatro plazas de subalterno y solo se han cubierto dos. Esta brecha del 50% sugiere una posible desconexión entre los requisitos exigidos y el perfil de los aspirantes, o una falta de atractivo de los puestos que genera un gasto administrativo de gestión de concurso no optimizado. No se detallan las puntuaciones desglosadas, amparándose en la remisión a actos previos.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha finalizado un concurso para contratar cuatro conserjes/subalternos, pero solo dos personas han conseguido la plaza. Los seleccionados son funcionarios que vienen de Correos y de la Administración Especial. Si no se incorporan en los plazos de 3 días o un mes (según si tienen que mudarse), las plazas quedarán vacías.",
+    "resumen_tweet": "📉 Eficiencia a medias en el #CGPJ: de 4 plazas de subalterno convocadas, solo se cubren 2. ¿Procesos demasiado rígidos o falta de interés? Transparencia limitada en la selección de personal. 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plazas desiertas (50% de la convocatoria)",
+      "Opacidad en la puntuación final detallada",
+      "Posible sesgo de género en la selección final (100% hombres)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Miguel Martín Mayoral",
+        "José Ignacio Ruiz Martín",
+        "Cuerpo de Ayudantes Postales y de Telecomunicación (trasvase de personal)"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa (proceso infrautilizado)",
+        "Candidatas mujeres (ninguna seleccionada)",
+        "Ciudadanía (coste de un concurso que deja vacantes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Plazas desiertas (50% de la convocatoria)",
+      "Opacidad en la puntuación final detallada",
+      "Posible sesgo de género en la selección final (100% hombres)"
+    ]
+  },
+  "tweeted": false
+}
