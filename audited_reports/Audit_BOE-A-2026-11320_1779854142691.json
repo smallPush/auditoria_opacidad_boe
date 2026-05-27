@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11320",
+  "timestamp": "2026-05-27T03:55:42.691Z",
+  "title": "Real Decreto 399/2026, de 25 de mayo, por el que se modifica el Reglamento de especialidades fundamentales de las Fuerzas Armadas, aprobado por Real Decreto 711/2010, de 28 de mayo, y el Real Decreto 240/2013, de 5 de abril, por el que se aprueba el Estatuto del personal del Centro Nacional de Inteligencia.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "El decreto presenta una dualidad técnica y estratégica. Por un lado, la fragmentación de la escala de ingenieros del Aire en tres especialidades busca adaptarse a la complejidad tecnológica, pero podría generar rigidez administrativa. Lo más relevante es la modificación del Estatuto del CNI: se extiende el blindaje de carrera al personal militar permanente en la inteligencia, permitiendo que sus evaluaciones para el ascenso computen igual que destinos de élite en Presidencia. Esto consolida una estructura de poder donde la inteligencia se asimila a la gestión política, diluyendo la separación entre la carrera de campo y la labor de gabinete, y garantizando promociones en un entorno de opacidad informativa.",
+    "resumen_ciudadano": "Esta norma cambia las reglas del juego para los ingenieros militares del Aire, obligándoles a especializarse en sistemas, comunicaciones o infraestructuras. Además, asegura que los militares que trabajan de forma fija en el CNI no pierdan puntos para ascender, equiparando su labor secreta con los puestos de máxima confianza en el Gobierno. Básicamente, se facilita que quienes están en la inteligencia suban de rango tan rápido como quienes están en el frente o en puestos de alta gestión.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! El Gobierno blinda el ascenso de militares en el CNI, igualando sus puntos a puestos de élite en Presidencia. Además, los ingenieros del Aire se fragmentan en 3 áreas. ¿Mérito o blindaje de la inteligencia? 🕵️‍♂️📈 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Asimilación de trayectoria profesional en entornos opacos",
+      "Extensión de privilegios de evaluación del personal temporal al permanente",
+      "Uso de conceptos indeterminados como 'espacios de asimilación' para justificar ascensos",
+      "Posible creación de una élite militar-administrativa desconectada de la operatividad tradicional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal militar permanente del CNI (seguridad en el ascenso)",
+        "Ingenieros especializados en sistemas aeroespaciales (nichos de poder técnico)",
+        "Ministerio de Defensa (centralización de la gestión de talento)"
+      ],
+      "perdedores": [
+        "Personal militar en unidades de combate (compiten en puntos con personal de oficina/inteligencia)",
+        "Transparencia pública (criterios de mérito basados en servicios secretos)",
+        "Ingenieros aeronáuticos generalistas (su especialidad entra en extinción)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el Estado",
+    "tipologia": "Real Decreto de Personal y Estructura Militar",
+    "banderas_rojas": [
+      "Asimilación de trayectoria profesional en entornos opacos",
+      "Extensión de privilegios de evaluación del personal temporal al permanente",
+      "Uso de conceptos indeterminados como 'espacios de asimilación' para justificar ascensos",
+      "Posible creación de una élite militar-administrativa desconectada de la operatividad tradicional"
+    ]
+  },
+  "tweeted": false
+}
