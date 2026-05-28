@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11413",
+  "timestamp": "2026-05-28T04:39:17.706Z",
+  "title": "Resolución de 21 de mayo de 2026, de la Dirección General de la Función Pública, por la que se publican las bases de concurso ordinario para los años 2025 y 2026, y convocatorias específicas para la provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento regula la provisión de puestos clave de control (Secretarios e Interventores) en ayuntamientos, utilizando un sistema de puntuación fragmentado que delega un 20% a criterios autonómicos y específicos. Esta estructura permite que, bajo una apariencia de mérito técnico, las corporaciones locales mantengan un margen de discrecionalidad en el 5% de 'méritos específicos'. Además, los criterios de conciliación familiar son excluyentes: solo puntúan si el cónyuge es empleado público 'fijo', discriminando a familias donde la pareja trabaja en el sector privado o tiene contratos temporales, reforzando una casta burocrática cerrada.",
+    "resumen_ciudadano": "Se publica el concurso nacional para que los funcionarios de Administración Local (los que aseguran que los ayuntamientos cumplan la ley) cambien de destino o consigan plaza. El proceso es un laberinto legal que obliga a consultar decenas de boletines autonómicos diferentes para entender cómo se puntúa realmente a cada candidato.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién controla la legalidad de tu ayuntamiento? El #BOE lanza el concurso para Secretarios e Interventores. Un sistema complejo con méritos 'a medida' y ventajas solo para familias de funcionarios. ¡Exigimos #Transparencia real! ⚖️ #Opacidad",
+    "banderas_red_flags": [
+      "Fragmentación normativa extrema",
+      "Discrecionalidad en el 5% de méritos específicos",
+      "Exclusión de parejas del sector privado en puntos por conciliación",
+      "Uso de extractos que ocultan el baremo real de cada municipio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con cónyuges que ya son empleados públicos fijos",
+        "Candidatos con veteranía en comunidades con lengua propia",
+        "Redes clientelares locales (vía méritos específicos)"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes sin cargas familiares tradicionales",
+        "Parejas de trabajadores del sector privado",
+        "Ciudadanía general (por la dificultad de fiscalizar la idoneidad del interventor)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiautonómica",
+    "tipologia": "Función Pública y Recursos Humanos",
+    "banderas_rojas": [
+      "Fragmentación normativa extrema",
+      "Discrecionalidad en el 5% de méritos específicos",
+      "Exclusión de parejas del sector privado en puntos por conciliación",
+      "Uso de extractos que ocultan el baremo real de cada municipio"
+    ]
+  },
+  "tweeted": false
+}
