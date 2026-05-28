@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11484",
+  "timestamp": "2026-05-28T16:32:20.563Z",
+  "title": "Real Decreto 428/2026, de 27 de mayo, por el que se nombra Fiscal Superior de la Fiscalía de la Comunidad Autónoma de Canarias a don Jaime Serrano-Jover González.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto 428/2026 sigue el patron tradicional de opacidad en los nombramientos de la cupula judicial. Aunque cita la base legal (Ley 50/1981), el documento es un acto de soberania administrativa que no ofrece motivacion alguna sobre la idoneidad del candidato. La falta de una memoria de meritos o una comparativa con otros candidatos en el texto publicado impide cualquier control ciudadano sobre la meritocracia del proceso, dejando la seleccion en el ambito de la discrecionalidad politica y jerarquica entre la Fiscalia General y el Ministerio.",
+    "resumen_ciudadano": "Se ha designado oficialmente a Jaime Serrano-Jover González como el nuevo Fiscal Superior de Canarias. El proceso se realiza 'a dedo' legalmente, basandose en propuestas internas del Gobierno y la Fiscal General del Estado, sin que se expliquen publicamente las razones tecnicas o profesionales para esta eleccion especifica.",
+    "resumen_tweet": "⚖️ Nuevo Fiscal Superior en Canarias: Jaime Serrano-Jover. El #BOE publica el nombramiento pero oculta los meritos que lo avalan. ¿Dedocracia o meritocracia? La justicia sigue sin ser transparente en sus cupulas. #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Ausencia de motivacion del nombramiento",
+      "Discrecionalidad en la seleccion de altos cargos judiciales",
+      "Nula mencion a procesos de concurrencia competitiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jaime Serrano-Jover González (ascenso a la cupula fiscal)",
+        "Ministerio de la Presidencia (consolidacion de influencia en justicia)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (anonimos y sin feedback publico)",
+        "Ciudadania (privada de criterios de seleccion transparentes)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia de motivacion del nombramiento",
+      "Discrecionalidad en la seleccion de altos cargos judiciales",
+      "Nula mencion a procesos de concurrencia competitiva"
+    ]
+  },
+  "tweeted": false
+}
