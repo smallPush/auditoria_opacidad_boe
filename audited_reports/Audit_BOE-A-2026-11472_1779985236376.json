@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11472",
+  "timestamp": "2026-05-28T16:20:36.376Z",
+  "title": "Real Decreto 412/2026, de 27 de mayo, por el que se regula la concesión directa de una subvención al Ayuntamiento de Valdeavellano de Tera para el desarrollo de actividades formativas en el «Espacio Valdeavellano».",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 412/2026 utiliza la figura de la concesión directa para otorgar 40.000 euros al Ayuntamiento de Valdeavellano de Tera, eludiendo el principio de concurrencia competitiva. La justificación de 'excepcionalidad' y 'razones de interés público' es recurrente en la técnica legislativa para favorecer proyectos locales específicos sin compararlos con otras necesidades territoriales. Se observa una 'cláusula polizón' (logrolling) al incluir en el preámbulo y articulado modificaciones relativas al Plan Xacobeo 2021 y el Plan de Recuperación, Transformación y Resiliencia, materias que no guardan relación directa con el objeto principal de la formación en Soria, reduciendo la claridad administrativa.",
+    "resumen_ciudadano": "El Gobierno ha concedido directamente 40.000 euros a un pequeño ayuntamiento de Soria para cursos de funcionarios y mantenimiento de un espacio local. Al ser una 'concesión directa', no ha habido concurso público para que otros pueblos o entidades pudieran optar a esos fondos. El texto también aprovecha para ampliar los plazos de ejecución de ayudas turísticas del Plan Xacobeo hasta junio de 2026.",
+    "resumen_tweet": "🚨 ¡Alerta de adjudicación a dedo! 40.000€ directos al Ayto. de Valdeavellano de Tera para formación, saltándose el concurso público. ¿Interés general o favoritismo local? 🧐 Además, cuelan prórrogas del Plan Xacobeo. #BOE #Opacidad #Transparencia #Soria",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de situación excepcional por prórroga presupuestaria para justificar discrecionalidad",
+      "Inclusión de materias heterogéneas (Plan Xacobeo en decreto de formación)",
+      "Falta de desglose pormenorizado de los 40.000 euros en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamiento de Valdeavellano de Tera",
+        "Instituto Nacional de Administración Pública (INAP)",
+        "Sector servicios local de la comarca de Soria"
+      ],
+      "perdedores": [
+        "Otros municipios de la 'España Vaciada' sin convenios directos",
+        "Empresas de formación privadas excluidas del proceso",
+        "Transparencia en la gestión de fondos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Subvención de concesión directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de situación excepcional por prórroga presupuestaria para justificar discrecionalidad",
+      "Inclusión de materias heterogéneas (Plan Xacobeo en decreto de formación)",
+      "Falta de desglose pormenorizado de los 40.000 euros en el texto"
+    ]
+  },
+  "tweeted": false
+}
