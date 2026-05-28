@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11400",
+  "timestamp": "2026-05-28T04:23:43.642Z",
+  "title": "Acuerdo de 19 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de servicios especiales en la Carrera Judicial al Magistrado don Santiago Ezequiel Marqués Ferrero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento formaliza un movimiento dentro de la elite judicial mediante la figura de 'servicios especiales'. Esto permite a un Magistrado del TSJ de Madrid ocupar un cargo de confianza técnica en el Tribunal Supremo sin perder su antigüedad ni derechos en la carrera judicial. Aunque amparado por la LOPJ, este tipo de acuerdos subraya la existencia de una burocracia judicial que permite desplazamientos horizontales hacia puestos de mayor influencia política/técnica sin un proceso de concurrencia competitiva transparente para el ciudadano.",
+    "resumen_ciudadano": "Un juez de la Sala de lo Social de Madrid ha sido nombrado coordinador jefe en el Gabinete Técnico del Tribunal Supremo. Esto significa que deja de poner sentencias para dedicarse a labores de coordinación, manteniendo todos sus privilegios de carrera judicial activos.",
+    "resumen_tweet": "⚖️ Movimiento en la cúpula: un magistrado del TSJ de Madrid pasa al Tribunal Supremo como letrado coordinador. Se activa el blindaje de 'servicios especiales': mantiene privilegios sin juzgar. ¿Gestión o influencia? 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de servicios especiales para cargos de confianza",
+      "Ausencia de detalle sobre la remuneración del nuevo cargo",
+      "Reducción de efectivos en la jurisdicción social madrileña"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago Ezequiel Marqués Ferrero",
+        "Gabinete Técnico del Tribunal Supremo"
+      ],
+      "perdedores": [
+        "Justicia Social de Madrid (pérdida de un magistrado activo)",
+        "Ciudadanos con juicios pendientes en el TSJ de Madrid"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Situaciones Administrativas",
+    "banderas_rojas": [
+      "Uso de servicios especiales para cargos de confianza",
+      "Ausencia de detalle sobre la remuneración del nuevo cargo",
+      "Reducción de efectivos en la jurisdicción social madrileña"
+    ]
+  },
+  "tweeted": false
+}
