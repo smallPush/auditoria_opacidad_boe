@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11474",
+  "timestamp": "2026-05-28T16:22:49.896Z",
+  "title": "Real Decreto 416/2026, de 27 de mayo, por el que se regula el régimen jurídico de la jubilación flexible y otros aspectos comunes a las modalidades de compatibilidad de la pensión contributiva de jubilación con el trabajo, y se modifica el régimen de la jubilación demorada.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 416/2026 se presenta bajo un barniz de 'libertad' y 'envejecimiento activo', pero oculta una estrategia para retrasar el gasto efectivo en pensiones. Aunque flexibiliza los porcentajes de jornada (33-80%), impone una barrera de entrada injustificada para los trabajadores por cuenta propia: no haber estado en alta los 3 años previos a la jubilación. Esto castiga al emprendedor de carrera frente al trabajador por cuenta ajena. Además, la 'mejora' de la pensión mediante una escala de incentivos (15-25%) solo es accesible para quienes inician la actividad seis meses después de jubilarse, un artificio burocrático que busca el ahorro del sistema en el corto plazo.",
+    "resumen_ciudadano": "Esta norma permite que los jubilados vuelvan a trabajar a tiempo parcial o como autónomos cobrando parte de su pensión. Se amplían los límites de jornada laboral permitida y se crean incentivos económicos para quienes esperen al menos seis meses tras jubilarse para empezar a trabajar de nuevo. Sin embargo, los autónomos que ya lo eran justo antes de jubilarse tienen prohibido usar este sistema durante tres años.",
+    "resumen_tweet": "🚨 Nueva jubilación 'flexible': ¿Libertad o necesidad de seguir trabajando? El #BOE abre la puerta a compatibilizar sueldo y pensión, pero castiga a los autónomos de toda la vida con vetos de 3 años. 📉 El sistema gana, tú trabajas más. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión discriminatoria de trabajadores por cuenta propia (veto de 3 años previos)",
+      "Complejidad técnica en el cálculo de la escala de incentivos (15-25%)",
+      "Uso de conceptos indeterminados como 'persona trabajadora a tiempo completo comparable'",
+      "Fomento de la prolongación de la vida laboral bajo la premisa de 'insuficiencia de pensión'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (ahorro en el desembolso total de pensiones)",
+        "Grandes empresas (acceso a mano de obra experimentada con costes de Seguridad Social reducidos)",
+        "Pensionistas de rentas altas con capacidad de consultoría externa"
+      ],
+      "perdedores": [
+        "Autónomos de larga trayectoria (vetados por la regla de los 3 años)",
+        "Clase trabajadora de rentas bajas (obligados a la jubilación flexible por necesidad económica)",
+        "Jóvenes (ralentización del relevo generacional en puestos técnicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Seguridad Social y Empleo",
+    "banderas_rojas": [
+      "Exclusión discriminatoria de trabajadores por cuenta propia (veto de 3 años previos)",
+      "Complejidad técnica en el cálculo de la escala de incentivos (15-25%)",
+      "Uso de conceptos indeterminados como 'persona trabajadora a tiempo completo comparable'",
+      "Fomento de la prolongación de la vida laboral bajo la premisa de 'insuficiencia de pensión'"
+    ]
+  },
+  "tweeted": false
+}
