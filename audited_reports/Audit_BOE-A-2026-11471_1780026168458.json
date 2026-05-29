@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11471",
+  "timestamp": "2026-05-29T03:42:48.458Z",
+  "title": "Enmiendas al Convenio Constitutivo del Fondo Común para los Productos Básicos, adoptadas por el Consejo de Gobernadores el 10 de diciembre de 2014 mediante la Decisión CFC/GC/XXGVI/1.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El texto presenta una estructura tecnocrática que diluye la responsabilidad fiscal directa. La creación de una 'Reserva Colateral' y 'Fondos Fiduciarios' (Art. 13 y 15) permite la gestión de recursos fuera del balance principal, lo que facilita la opacidad en el destino final de los fondos. Además, el uso de 'pagarés irrevocables y no negociables' como forma de pago (Art. 10) supone un compromiso de deuda pública diferida que no se contabiliza como gasto inmediato, ocultando el impacto real en las arcas del Estado. La definición de 'intervención financiera' es tan amplia que permite desde donaciones hasta inversiones en acciones, lo que genera un riesgo elevado de 'gastos fantasma' bajo la etiqueta de cooperación al desarrollo.",
+    "resumen_ciudadano": "España actualiza su participación en un fondo internacional de materias primas. En lugar de pagar todo en efectivo, el Estado entregará pagarés (promesas de pago futuras) que comprometen el dinero de los próximos años. Se crean cuentas especiales y fondos de reserva que funcionan con reglas propias, alejadas del control presupuestario ordinario, para financiar proyectos de desarrollo sostenible en el sector de materias primas.",
+    "resumen_tweet": "🚨 Nueva opacidad en el #BOE: El Estado compromete fondos mediante pagarés y 'fondos fiduciarios' en el Fondo de Productos Básicos. Ingeniería financiera que oculta el gasto real. ¿Quién controla ese dinero? 💸 #Opacidad #Transparencia #GastoPúblico",
+    "banderas_red_flags": [
+      "Uso de pagarés no negociables para diferir deuda pública",
+      "Creación de fondos fiduciarios gestionados fuera de la cuenta principal",
+      "Definiciones ambiguas de 'intervención financiera' que permiten opacidad en el gasto",
+      "Falta de mecanismos de auditoría ciudadana directa sobre los beneficios de las materias primas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Organismos Internacionales de Productos Básicos (OIPB)",
+        "Grandes inversores en mercados de divisas y materias primas",
+        "Burocracia financiera internacional"
+      ],
+      "perdedores": [
+        "Contribuyente español (asume el riesgo de los pagarés)",
+        "Pequeños productores locales (quedan fuera de la escala de estas intervenciones financieras)",
+        "Transparencia presupuestaria nacional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Uso de pagarés no negociables para diferir deuda pública",
+      "Creación de fondos fiduciarios gestionados fuera de la cuenta principal",
+      "Definiciones ambiguas de 'intervención financiera' que permiten opacidad en el gasto",
+      "Falta de mecanismos de auditoría ciudadana directa sobre los beneficios de las materias primas"
+    ]
+  },
+  "tweeted": false
+}
