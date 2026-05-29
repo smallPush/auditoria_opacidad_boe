@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11473",
+  "timestamp": "2026-05-29T04:23:32.704Z",
+  "title": "Real Decreto 413/2026, de 27 de mayo, por el que se crea y regula la Comisión Nacional para la conmemoración del IX Centenario del nacimiento de Averroes, y por el que se modifican el Real Decreto 53/2026, de 28 de enero, por el que se crea y regula la Comisión Nacional para la conmemoración del Centenario de la Generación del 27, y el Real Decreto 71/2026, de 4 de febrero, por el que se crea y regula la Comisión Nacional para la conmemoración del Bicentenario del fallecimiento de Francisco de Goya.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 413/2026 utiliza una efeméride histórica para expandir la estructura burocrática interministerial. Bajo el pretexto de la 'diálogo de culturas', se establece una jerarquía de cargos que incluye a nueve ministerios, pero sin una partida presupuestaria transparente, refugiándose en la fórmula de 'no incremento de gasto'. Resulta sospechosa la modificación 'ad hoc' de otros dos reales decretos (Goya y Generación del 27) para aumentar la presencia de la Secretaría General de Presidencia y elevar el rango institucional, sugiriendo un deseo de control centralizado sobre la narrativa cultural y posibles beneficios fiscales futuros vía Ley de Mecenazgo que no están desglosados.",
+    "resumen_ciudadano": "El Gobierno crea una nueva Comisión Nacional para el IX Centenario de Averroes en Córdoba y modifica las de Goya y la Generación del 27. Aunque se presenta como una iniciativa cultural sin coste, moviliza a decenas de altos cargos y abre la puerta a beneficios fiscales para entidades privadas ('interés público'). Se centraliza más poder en la Presidencia del Gobierno dentro de estos eventos.",
+    "resumen_tweet": "🏛️ ¿Más burocracia cultural? El #BOE crea la Comisión Averroes: 9 ministerios implicados y más control de Presidencia en la Gen del 27. Dicen que cuesta 0€, pero preparan beneficios fiscales opacos. 🧐📉 #Opacidad #Transparencia #Averroes",
+    "banderas_red_flags": [
+      "Gasto fantasma: Horas de altos cargos y recursos materiales no cuantificados",
+      "Invasión de control: Inclusión de la Secretaría General de Presidencia en comisiones de otros ministerios",
+      "Mecenazgo opaco: Referencia a la Ley 49/2002 para futuros incentivos fiscales sin detallar impacto",
+      "Hipertrofia administrativa: Creación de Pleno y Comisión Ejecutiva para una efeméride puntual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (nuevas vocalías y dietas de representación)",
+        "Presidencia del Gobierno (mayor control sobre eventos culturales)",
+        "Instituciones locales de Córdoba (proyección institucional)"
+      ],
+      "perdedores": [
+        "Contribuyentes (gasto indirecto en gestión administrativa)",
+        "Transparencia (uso de decretos organizativos para modificar otros sin debate)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Real Decreto de creación de órgano colegiado",
+    "banderas_rojas": [
+      "Gasto fantasma: Horas de altos cargos y recursos materiales no cuantificados",
+      "Invasión de control: Inclusión de la Secretaría General de Presidencia en comisiones de otros ministerios",
+      "Mecenazgo opaco: Referencia a la Ley 49/2002 para futuros incentivos fiscales sin detallar impacto",
+      "Hipertrofia administrativa: Creación de Pleno y Comisión Ejecutiva para una efeméride puntual"
+    ]
+  },
+  "tweeted": false
+}
