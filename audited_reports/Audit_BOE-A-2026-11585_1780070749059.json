@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11585",
+  "timestamp": "2026-05-29T16:05:49.059Z",
+  "title": "Orden APA/530/2026, de 13 de mayo, por la que se modifica la Orden APA/142/2026, de 25 de febrero, por la que se acuerdan adaptaciones y concreciones relativas a la ayuda y a las actuaciones de reparación previstas en los artículos 9 y 12 del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden APA/530/2026 revela una rectificación estratégica en el marco jurídico de las ayudas. El paso del régimen de minimis (ayudas pequeñas con poca burocracia) a las Directrices Europeas 2022/C 485/01 indica que la magnitud del daño superó las previsiones iniciales o que se busca evitar el tope de acumulación de ayudas. Es crítico señalar la dependencia de la empresa pública Tragsatec para el cálculo de daños, actuando como juez y parte en la evaluación económica. Aunque se justifica la 'causa de fuerza mayor', la discrecionalidad en el cálculo del 30% de los ingresos agrarios podría ocultar disparidades en la compensación real frente a las pérdidas declaradas.",
+    "resumen_ciudadano": "El Gobierno modifica las ayudas para los agricultores afectados por el temporal en Andalucía y Extremadura. Cambian el marco legal europeo para permitir pagos de hasta el 30% de la renta agraria. Los beneficiarios son aquellos que ya estaban en las listas del FEGA y aceptaron la ayuda previamente. El pago se basa en un informe de la empresa pública Tragsatec y excluye el IVA. El proceso se vuelve más complejo legalmente pero busca cubrir daños que el sistema anterior no alcanzaba.",
+    "resumen_tweet": "🚜 Cambio de reglas en las ayudas por el temporal en #Andalucía y #Extremadura. El Gobierno pasa al marco de ayudas de Estado de la UE para cubrir el 30% de la renta. Tragsatec evalúa los daños. ¿Llegará el dinero al campo o se quedará en el #BOE? 🏛️",
+    "banderas_red_flags": [
+      "Externalización de la valoración de daños a Tragsatec como medio propio",
+      "Cambio de régimen jurídico 'a posteriori' para ampliar límites de ayuda",
+      "Exclusión explícita del IVA como gasto subvencionable",
+      "Uso automatizado de cuentas corrientes previas en poder del FEGA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes explotaciones agrarias (que superaban el límite de minimis anterior)",
+        "Empresa pública Tragsatec (consolida su rol de evaluador)",
+        "Sector de seguros agrarios (la ayuda se articula con sus pólizas)"
+      ],
+      "perdedores": [
+        "Pequeños agricultores con ayudas inferiores a 5.000€ (quedan fuera de este nuevo marco)",
+        "Productores de cultivos industriales/cereales bajo el Reglamento 2024/3118 (régimen diferente)",
+        "Contribuyentes (por el coste de la gestión externa de informes)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Extremadura",
+    "tipologia": "Modificación de subvenciones por catástrofe natural",
+    "banderas_rojas": [
+      "Externalización de la valoración de daños a Tragsatec como medio propio",
+      "Cambio de régimen jurídico 'a posteriori' para ampliar límites de ayuda",
+      "Exclusión explícita del IVA como gasto subvencionable",
+      "Uso automatizado de cuentas corrientes previas en poder del FEGA"
+    ]
+  },
+  "tweeted": false
+}
