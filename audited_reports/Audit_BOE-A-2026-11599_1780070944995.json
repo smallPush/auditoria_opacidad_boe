@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11599",
+  "timestamp": "2026-05-29T16:09:04.995Z",
+  "title": "Resolución de 18 de mayo de 2026, de la Universidad Rey Juan Carlos, por la que se nombra Catedrático de Universidad a don Vicente Garrido Rebolledo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento representa un acto administrativo discrecional bajo apariencia de concurso público. Aunque se citan las bases legales (LOSU y RD 678/2023), la resolucion es una formalidad que no permite auditar la meritocracia real del proceso. Se observa la adjudicacion de una plaza vitalicia con un codigo interno (Y163/DF012498) que impide al ciudadano conocer el coste salarial exacto o la existencia de otros candidatos. Es una muestra de la consolidacion de las estructuras de poder academico en la URJC.",
+    "resumen_ciudadano": "Se nombra oficialmente a Vicente Garrido Rebolledo como Catedrático de Derecho Internacional Público en la Universidad Rey Juan Carlos. Este es un puesto de funcionario de máximo nivel tras un proceso de seleccion interno iniciado en marzo de 2026.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la URJC. Un proceso administrativo que consolida plazas vitalicias bajo códigos opacos. ¿Transparencia o burocracia académica habitual? La élite universitaria sigue sumando nombres. #BOE #Opacidad #Transparencia #URJC",
+    "banderas_red_flags": [
+      "Opacidad en la baremacion de meritos",
+      "Falta de informacion sobre costes presupuestarios a largo plazo",
+      "Ausencia de mencion a otros candidatos en la terna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Vicente Garrido Rebolledo",
+        "Rectorado de la URJC"
+      ],
+      "perdedores": [
+        "Candidatos externos sin acceso a la plaza",
+        "Sistema de transparencia universitaria"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en la baremacion de meritos",
+      "Falta de informacion sobre costes presupuestarios a largo plazo",
+      "Ausencia de mencion a otros candidatos en la terna"
+    ]
+  },
+  "tweeted": false
+}
