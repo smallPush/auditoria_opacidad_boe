@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11580",
+  "timestamp": "2026-05-29T15:36:02.295Z",
+  "title": "Orden PJC/528/2026, de 26 de mayo, por la que se actualizan el anexo I del Real Decreto 2028/1986, de 6 de junio, sobre las normas para la aplicación de determinadas directivas de la CEE, relativas a la homologación de tipo de vehículos automóviles, remolques, semirremolques, motocicletas, ciclomotores y vehículos agrícolas, así como de partes y piezas de dichos vehículos; los anexos II, VII y XVIII del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos; y los anexos III, IV, XI y XII del Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden PJC/528/2026 se presenta bajo el barniz de la modernización técnica y digitalización, pero oculta realidades socioeconómicas. El uso de un lenguaje hiper-técnico sobre homologaciones internacionales actúa como barrera de entrada para el escrutinio ciudadano. Se observa una asimetría en la seguridad: mientras a los ciudadanos se les exige 1,6 mm en neumáticos, a los vehículos pesados se les permite circular con solo 1,0 mm, priorizando costes logísticos sobre seguridad vial. Además, la digitalización obligatoria de la tarjeta ITV (tipo A, B, C, D) impone una transición tecnológica sin considerar la brecha digital en sectores rurales o de transportistas autónomos de avanzada edad. Las exenciones para 'series cortas' de fabricación sugieren un trato de favor regulatorio para nichos de mercado industriales específicos.",
+    "resumen_ciudadano": "El Gobierno actualiza las normas de seguridad y piezas de vehículos para adaptarlas a Europa. Los cambios principales son: las tarjetas de la ITV pasan a ser obligatoriamente electrónicas (se acaba el papel); se definen mejor las condiciones de los neumáticos de invierno (con el sello de montaña y copo de nieve) y se ajustan las medidas de las matrículas de ciclomotores. Un dato clave: se permite que camiones y autobuses circulen con menos profundidad de dibujo en sus ruedas (1mm) que los coches particulares (1,6mm).",
+    "resumen_tweet": "⚠️ Nueva norma de vehículos en el #BOE: ¡Adiós al papel en la ITV! 🚗 La tarjeta será obligatoriamente digital. Además, camiones podrán circular con menos dibujo en neumáticos que los coches. ¿Seguridad o ahorro logístico? #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Diferencial de seguridad: 1mm de dibujo para camiones vs 1.6mm para turismos",
+      "Exenciones discrecionales para fabricantes de 'series cortas'",
+      "Digitalización forzosa de documentos ITV sin alternativa física para evitar brecha digital",
+      "Ambigüedad en el impacto de costes para el usuario final por neumáticos 3PMSF"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fabricantes de neumáticos (especialmente de invierno)",
+        "Administración Pública (ahorro en gestión de papel)",
+        "Fabricantes de vehículos de lujo o series limitadas (exenciones técnicas)"
+      ],
+      "perdedores": [
+        "Conductores en zonas de montaña (coste de neumáticos certificados)",
+        "Transportistas autónomos (brecha digital en ITV)",
+        "Seguridad vial ciudadana (menor exigencia en vehículos pesados)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el Estado",
+    "tipologia": "Regulación Técnica y Seguridad Industrial",
+    "banderas_rojas": [
+      "Diferencial de seguridad: 1mm de dibujo para camiones vs 1.6mm para turismos",
+      "Exenciones discrecionales para fabricantes de 'series cortas'",
+      "Digitalización forzosa de documentos ITV sin alternativa física para evitar brecha digital",
+      "Ambigüedad en el impacto de costes para el usuario final por neumáticos 3PMSF"
+    ]
+  },
+  "tweeted": false
+}
