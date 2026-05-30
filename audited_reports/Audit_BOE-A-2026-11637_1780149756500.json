@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11637",
+  "timestamp": "2026-05-30T14:02:36.500Z",
+  "title": "Resolución de 18 de mayo de 2026, de la Universidad de Sevilla, por la que se nombran Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución cumple con los requisitos legales de la LOSU (Ley Orgánica del Sistema Universitario), perpetúa una opacidad estructural sobre el coste público. No se detalla la partida presupuestaria ni el compromiso financiero a largo plazo que suponen estos nombramientos vitalicios. Además, se observa una falta de diversidad de género en este extracto particular: el 100% de los nuevos catedráticos son hombres, lo que evidencia el persistente techo de cristal en el grado académico más alto (Catedrático de Universidad), a pesar de que la resolución es firmada por una Rectora.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado formalmente a dos nuevos catedráticos en las áreas de Economía Financiera y Antropología Social. Estos nombramientos son la culminación de concursos de acceso iniciados en febrero de 2026. Si bien el proceso es estándar, el ciudadano no recibe información sobre cuánto costarán estas plazas a las arcas públicas ni qué méritos específicos justifican su elección por encima de otros candidatos.",
+    "resumen_tweet": "📢 Nueva resolución en el #BOE: La @unisevilla nombra 2 nuevos Catedráticos. ¿Y la paridad? 🧐 100% hombres en la cima académica. Cero información sobre el coste público de estas plazas vitalicias. #Opacidad #Transparencia #Universidad 🏛️📉",
+    "banderas_red_flags": [
+      "Ausencia de paridad de género en los nombramientos publicados",
+      "Opacidad absoluta sobre el impacto presupuestario de las plazas",
+      "Lenguaje administrativo de difícil acceso para el ciudadano no experto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María González González (Acceso a puesto vitalicio y máximo rango)",
+        "David Lagunas Arias (Acceso a puesto vitalicio y máximo rango)",
+        "Cuerpo de Catedráticos (Consolidación de plazas masculinas)"
+      ],
+      "perdedores": [
+        "Mujeres en la academia (Persistencia de la brecha de género en la alta dirección)",
+        "Contribuyentes (Desconocimiento del coste total de la masa salarial universitaria)",
+        "Transparencia económica (Partidas presupuestarias no declaradas en el extracto)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de paridad de género en los nombramientos publicados",
+      "Opacidad absoluta sobre el impacto presupuestario de las plazas",
+      "Lenguaje administrativo de difícil acceso para el ciudadano no experto"
+    ]
+  },
+  "tweeted": false
+}
