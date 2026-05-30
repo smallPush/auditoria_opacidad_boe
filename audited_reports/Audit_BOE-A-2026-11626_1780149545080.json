@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11626",
+  "timestamp": "2026-05-30T13:59:05.080Z",
+  "title": "Resolución de 29 de mayo de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la apariencia de una simple lista de precios, esta resolución del Ministerio de Hacienda encubre el mecanismo de recaudación indirecta del Estado mediante el monopolio del tabaco. Se observa una disparidad extrema de precios que segmenta el mercado por clase: desde cigarrillos de 4,60€ hasta puros de lujo de 59€ la unidad (Plasencia Year of the Horse). La opacidad reside en que el documento no desglosa qué porcentaje del PVP corresponde a la carga impositiva real y qué parte al margen del fabricante, ocultando el beneficio estatal tras la 'propuesta' de las tabaqueras.",
+    "resumen_ciudadano": "El Gobierno actualiza los precios oficiales del tabaco para la península, Baleares, Ceuta y Melilla. Los nuevos precios han sido propuestos por los fabricantes e incluyen todos los impuestos. Esto afecta directamente al bolsillo de los consumidores, especialmente en productos de gama baja y picaduras de pipa, mientras que los artículos de lujo mantienen precios prohibitivos.",
+    "resumen_tweet": "🚬 Nuevos precios del tabaco en el #BOE. Desde los 2,80€ de marcas blancas hasta los 59€ por un solo puro de lujo. ¿Control sanitario o simple afán recaudatorio del monopolio estatal? La fiscalidad sigue siendo un misterio. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose de la carga impositiva real por unidad",
+      "Segmentación de precios por clase socioeconómica",
+      "Mantenimiento del régimen de monopolio estatal",
+      "Diferencial fiscal opaco entre península y ciudades autónomas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (recaudación fiscal asegurada)",
+        "Fabricantes de tabaco premium (márgenes de beneficio en puros de lujo)",
+        "Logista (distribución del monopolio)"
+      ],
+      "perdedores": [
+        "Consumidores de clase trabajadora (mayor impacto relativo en su renta)",
+        "Sistema Público de Salud (externalidades negativas del tabaquismo)",
+        "Pequeños estanqueros (margen comercial rígido)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Península, Illes Balears, Ceuta y Melilla)",
+    "tipologia": "Resolución de Precios / Fiscalidad Indirecta",
+    "banderas_rojas": [
+      "Falta de desglose de la carga impositiva real por unidad",
+      "Segmentación de precios por clase socioeconómica",
+      "Mantenimiento del régimen de monopolio estatal",
+      "Diferencial fiscal opaco entre península y ciudades autónomas"
+    ]
+  },
+  "tweeted": false
+}
