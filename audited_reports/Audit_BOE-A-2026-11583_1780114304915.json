@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11583",
+  "timestamp": "2026-05-30T04:11:44.915Z",
+  "title": "Orden HAC/529/2026, de 7 de mayo, por la que se aprueban los modelos de declaración del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes correspondiente a establecimientos permanentes y a entidades en régimen de atribución de rentas constituidas en el extranjero con presencia en territorio español, para los períodos impositivos iniciados entre el 1 de enero y el 31 de diciembre de 2025, se dictan instrucciones relativas al procedimiento de declaración e ingreso y se establecen las condiciones generales y el procedimiento para su presentación electrónica.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "La Orden HAC/529/2026 se presenta como una actualización técnica de formularios, pero esconde una arquitectura de control fiscal compleja. El incremento de la reserva de capitalización al 20% parece un incentivo, pero al vincularse estrictamente al incremento de plantilla media, excluye de facto a empresas en sectores estancados o en procesos de automatización. La declaración de no deducibilidad del nuevo impuesto a la banca y cigarrillos electrónicos asegura la recaudación estatal íntegra, impidiendo que las empresas compensen esa carga, lo que previsiblemente se trasladará al consumidor final. Además, la obligatoriedad del formato XML para contribuyentes de normativa foral impone una barrera técnica que beneficia a las grandes consultoras tecnológicas frente a la gestión autónoma del ciudadano.",
+    "resumen_ciudadano": "Hacienda establece cómo deben pagar impuestos las empresas por el ejercicio 2025. Se introducen nuevos gravámenes para la gran banca y multinacionales, se ajustan los beneficios fiscales para pymes dependiendo de si contratan nuevos empleados y se digitaliza obligatoriamente gran parte del proceso, complicando la gestión para quienes no dominen herramientas informáticas avanzadas.",
+    "resumen_tweet": "📢 Hacienda publica las reglas del Impuesto de Sociedades 2025. Más control digital con XML y beneficios fiscales condicionados a contratar personal. La banca no podrá deducirse sus nuevos impuestos. 📉💼 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Condicionalidad de beneficios fiscales a métricas de empleo",
+      "No deducibilidad de impuestos sectoriales específicos",
+      "Complejidad técnica por remisión a múltiples leyes (Ley 7/2024, RDL 8/2025)",
+      "Barrera de entrada tecnológica por el uso obligatorio de formatos XML"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (blindaje de recaudación no deducible)",
+        "Grandes consultoras tecnológicas y fiscales",
+        "Sector de rehabilitación de vivienda protegida en Canarias"
+      ],
+      "perdedores": [
+        "Entidades financieras (impuestos no deducibles)",
+        "Pymes con plantillas estables (sin acceso a nuevos incentivos)",
+        "Contribuyentes forales con baja digitalización"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial Tributaria",
+    "banderas_rojas": [
+      "Condicionalidad de beneficios fiscales a métricas de empleo",
+      "No deducibilidad de impuestos sectoriales específicos",
+      "Complejidad técnica por remisión a múltiples leyes (Ley 7/2024, RDL 8/2025)",
+      "Barrera de entrada tecnológica por el uso obligatorio de formatos XML"
+    ]
+  },
+  "tweeted": false
+}
