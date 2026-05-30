@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11630",
+  "timestamp": "2026-05-30T14:00:33.080Z",
+  "title": "Resolución de 22 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla el nombramiento de cuatro altos cargos (niveles 29 y 30) mediante el sistema de 'libre designación'. Este mecanismo, aunque legal, permite la selección discrecional por parte de los superiores, lo que suele interpretarse como un sistema de nombramientos 'a dedo' que prioriza la confianza política sobre la competencia técnica pura medida en concurso abierto. Se observa que los adjudicatarios ya pertenecían a la estructura del Ministerio, lo que sugiere un movimiento interno de piezas para consolidar la red de confianza en puestos clave de Pesca y Seguridad Alimentaria.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha finalizado el proceso para llenar cuatro puestos directivos de alta remuneración. Estos puestos no se han otorgado por examen u oposición abierta, sino por elección directa de los jefes del ministerio entre funcionarios de alto rango. Todos los elegidos ya trabajaban en el mismo ministerio.",
+    "resumen_tweet": "🚨 Nueva tanda de puestos 'a dedo' en Agricultura. 4 altos cargos (niveles 29 y 30) asignados por libre designación. La meritocracia se diluye ante la confianza política en el corazón del ministerio. 🧐 #BOE #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles máximos (29 y 30)",
+      "Endogamia institucional: todos los elegidos ya estaban en el Ministerio",
+      "Opacidad en los criterios de idoneidad específicos para cada candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Consuegra Alcalde",
+        "Iria Soto Tejedor",
+        "Jesús Salas Calvo",
+        "Beatriz Martínez Zamorano",
+        "Cúpula del Ministerio (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios sin redes de confianza política",
+        "Ciudadanía (por la falta de procesos competitivos abiertos)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal por Libre Designación",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles máximos (29 y 30)",
+      "Endogamia institucional: todos los elegidos ya estaban en el Ministerio",
+      "Opacidad en los criterios de idoneidad específicos para cada candidato"
+    ]
+  },
+  "tweeted": false
+}
