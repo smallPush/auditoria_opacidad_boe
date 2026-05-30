@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11581",
+  "timestamp": "2026-05-30T04:10:20.582Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, referida a los modelos para la presentación en el Registro Mercantil de las cuentas anuales de los sujetos obligados a su publicación.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución técnica de la Dirección General de Seguridad Jurídica y Fe Pública parece un mero trámite administrativo, pero esconde avances significativos en la lucha contra la elusión fiscal. La transposición de la Directiva (UE) 2021/2101 obliga a las grandes multinacionales (más de 750 millones de ingresos) a desglosar impuestos pagados país por país. Sin embargo, persiste la opacidad en el uso de conceptos como 'amenaza arancelaria' para justificar la reformulación de cuentas, un mecanismo que podría usarse para maquillar estados financieros bajo pretextos geopolíticos. La carga administrativa sigue recayendo en la estructura burocrática del Registro Mercantil, beneficiando al gremio de registradores.",
+    "resumen_ciudadano": "Se han actualizado los formularios para que las empresas presenten sus cuentas anuales. La novedad más relevante es que las grandes empresas y multinacionales ahora están obligadas a informar públicamente cuánto dinero ganan y cuántos impuestos pagan en cada país donde operan, evitando que escondan beneficios en paraísos fiscales. También se actualizan los códigos de actividad económica al modelo de 2025.",
+    "resumen_tweet": "🚨 ¡Lupa sobre las multinacionales! El #BOE publica nuevos modelos de cuentas: las empresas que facturen >750M€ deberán detallar sus impuestos país por país. 🌍 Menos ingeniería fiscal, más #Transparencia. Pero ojo a la burocracia. 📜 #Opacidad #CNAE2025",
+    "banderas_red_flags": [
+      "Habilitación para reformular cuentas por 'amenaza arancelaria' (RD-ley 4/2025)",
+      "Complejidad técnica extrema en la taxonomía XBRL para el ciudadano medio",
+      "Dependencia de software específico del Colegio de Registradores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Tributaria (mayor control fiscal)",
+        "Ciudadanía (transparencia corporativa)",
+        "Registradores Mercantiles"
+      ],
+      "perdedores": [
+        "Grupos multinacionales (fin del anonimato fiscal por países)",
+        "Pequeñas gestorías (necesidad de actualización técnica constante)",
+        "Empresas afectadas por el nuevo impuesto complementario global"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa / Transparencia Fiscal",
+    "banderas_rojas": [
+      "Habilitación para reformular cuentas por 'amenaza arancelaria' (RD-ley 4/2025)",
+      "Complejidad técnica extrema en la taxonomía XBRL para el ciudadano medio",
+      "Dependencia de software específico del Colegio de Registradores"
+    ]
+  },
+  "tweeted": false
+}
