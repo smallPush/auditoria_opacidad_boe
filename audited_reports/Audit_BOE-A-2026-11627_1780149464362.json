@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11627",
+  "timestamp": "2026-05-30T13:57:44.362Z",
+  "title": "Orden TRM/535/2026, de 18 de mayo, por la que se establecen disposiciones relativas a la autorización de material rodante auxiliar ferroviario.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "La Orden TRM/535/2026 institucionaliza una excepción tecnológica significativa: permite que el material auxiliar y de maniobras eluda la instalación del sistema de seguridad europeo ERTMS. La justificación es puramente económica, admitiendo que 'puede no compensar la inversión', lo que supedita la seguridad operativa y la modernización técnica a la rentabilidad financiera. Además, revela una parálisis regulatoria al admitir que se deben seguir usando normas de 2009 porque el Ministerio no ha finalizado las instrucciones técnicas actuales. Esto genera un marco jurídico 'Frankenstein' que mezcla normativas de tres décadas distintas.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha decidido que los trenes de mantenimiento (los que arreglan las vías) y las locomotoras de maniobras no tienen que instalar el sistema de seguridad más avanzado de Europa para ahorrar dinero y tiempo. Esta medida favorece a las grandes constructoras y a Adif al reducir sus costes de equipamiento, pero crea una red ferroviaria con distintos niveles de protección técnica y depende de leyes antiguas de 2009 que todavía no han sido actualizadas.",
+    "resumen_tweet": "🚂 ¿Seguridad a dos velocidades? El #BOE exime a trenes de mantenimiento y maniobras de instalar el sistema europeo ERTMS para \"ahorrar\". Menos costes para constructoras, pero más parches legales y obsolescencia. 🚩 #Opacidad #Transparencia #Ferrocarril",
+    "banderas_red_flags": [
+      "Exención de estándares de seguridad europeos por criterios económicos",
+      "Uso de normativa obsoleta del año 2009 por falta de desarrollo reglamentario",
+      "Discrecionalidad en la aplicación de la instrucción IF MR ALC-20",
+      "Posible riesgo de seguridad al permitir el desmantelamiento de sistemas de clase B sin tener ERTMS"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adif (ahorro en inversión de maquinaria propia)",
+        "Empresas constructoras y de mantenimiento ferroviario",
+        "Ministerio de Transportes (reducción de presión por plazos de implementación)"
+      ],
+      "perdedores": [
+        "Industria de señalización y tecnología ferroviaria",
+        "Homogeneidad del sistema de seguridad europeo (interoperabilidad)",
+        "Ciudadanía (infraestructura mantenida con tecnología menos avanzada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa de Seguridad y Transporte Ferroviario",
+    "banderas_rojas": [
+      "Exención de estándares de seguridad europeos por criterios económicos",
+      "Uso de normativa obsoleta del año 2009 por falta de desarrollo reglamentario",
+      "Discrecionalidad en la aplicación de la instrucción IF MR ALC-20",
+      "Posible riesgo de seguridad al permitir el desmantelamiento de sistemas de clase B sin tener ERTMS"
+    ]
+  },
+  "tweeted": false
+}
