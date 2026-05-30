@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-11582",
+  "timestamp": "2026-05-30T04:07:56.782Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, referida a los modelos para la presentación en el Registro Mercantil de las cuentas anuales consolidadas de los sujetos obligados a su publicación.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Esta resolución técnica, aunque densa en lenguaje contable y taxonómico (XBRL), es una herramienta de transparencia fiscal internacional. Implementa la Directiva (UE) 2021/2101 para que multinacionales con ingresos superiores a 750 millones de euros desglosen públicamente sus impuestos pagados país por país. Sin embargo, camufla tras la burocracia de los 'modelos de cuentas' un cambio estructural en la lucha contra la ingeniería fiscal. Destaca la mención a 'amenazas arancelarias' (RD-ley 4/2025) como motivo para reformular cuentas, sugiriendo una respuesta defensiva del Estado ante la volatilidad comercial global.",
+    "resumen_ciudadano": "El Gobierno actualiza los formularios que las grandes empresas deben presentar en el Registro Mercantil. El cambio principal obliga a las multinacionales más ricas a detallar públicamente cuántos impuestos pagan en cada país donde operan, evitando que oculten beneficios en paraísos fiscales. También se actualiza la clasificación de actividades económicas (CNAE 2025) y se ajustan los modelos para reflejar el nuevo impuesto mínimo global del 15%.",
+    "resumen_tweet": "🚨 ¡Lupa sobre las multinacionales! El #BOE obliga a los gigantes (>750M€) a publicar cuánto pagan de impuestos país por país. Menos ingeniería fiscal y más control sobre los beneficios en paraísos. 📊📉 #Transparencia #Opacidad #JusticiaFiscal",
+    "banderas_red_flags": [
+      "Opacidad por tecnicismo: El uso de términos como 'Taxonomía XBRL' y 'ESEF Conformance Suite' hace que el control ciudadano sea imposible sin expertos.",
+      "Flexibilidad contable discrecional: La referencia a la 'amenaza arancelaria' para reformular cuentas abre la puerta a ajustes contables bajo presión política o externa."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hacienda Pública (mayor capacidad de rastreo)",
+        "Sociedad civil (acceso a datos de tributación de grandes grupos)",
+        "Consultoras tecnológicas (adaptación de sistemas XBRL/ESEF)"
+      ],
+      "perdedores": [
+        "Grandes grupos multinacionales (pierden opacidad en sus estrategias fiscales)",
+        "Jurisdicciones de baja tributación (quedan señaladas en el desglose país por país)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa de Carácter Contable/Fiscal",
+    "banderas_rojas": [
+      "Opacidad por tecnicismo: El uso de términos como 'Taxonomía XBRL' y 'ESEF Conformance Suite' hace que el control ciudadano sea imposible sin expertos.",
+      "Flexibilidad contable discrecional: La referencia a la 'amenaza arancelaria' para reformular cuentas abre la puerta a ajustes contables bajo presión política o externa."
+    ]
+  },
+  "tweeted": false
+}
