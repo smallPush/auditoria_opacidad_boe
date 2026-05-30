@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11625",
+  "timestamp": "2026-05-30T13:40:48.215Z",
+  "title": "Resolución de 28 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza un mecanismo de convalidación rápida para una medida que impacta directamente en el bolsillo del ciudadano (copago farmacéutico). Al publicarse como una simple resolución de convalidación, se omite en este documento el desglose de quiénes verán incrementada su aportación, obligando al ciudadano a rastrear el BOE anterior (116) para entender el perjuicio económico. El uso de la vía del Real Decreto-ley para modificar prestaciones sociales es una técnica de urgencia que hurta el debate parlamentario profundo.",
+    "resumen_ciudadano": "El Congreso ha dado el visto bueno definitivo a los cambios en el precio que pagas por tus medicinas (copago). Bajo el término técnico 'modificación de la aportación', se esconde un reajuste en el sistema de salud que afecta a cuánto dinero deben poner los usuarios y sus beneficiarios para acceder a medicamentos recetados.",
+    "resumen_tweet": "🚨 ¡Ojo al bolsillo! El Congreso valida cambios en el copago de tus medicinas vía Real Decreto-ley. Sin debate profundo y con lenguaje técnico para ocultar el impacto real. ¿Quién paga más esta vez? 💊📉 #BOE #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Abuso de la figura del Real Decreto-ley para reformas estructurales",
+      "Opacidad por remisión a textos previos para ocultar el impacto económico",
+      "Eufemismos para evitar la palabra 'subida' o 'ajuste'",
+      "Falta de memoria económica en el acto de convalidación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (reducción de gasto farmacéutico)",
+        "Sistema Nacional de Salud (ahorro operativo)"
+      ],
+      "perdedores": [
+        "Pacientes crónicos",
+        "Pensionistas con rentas medias/bajas",
+        "Usuarios con múltiples beneficiarios a cargo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Legislación Sanitaria / Control de Gasto",
+    "banderas_rojas": [
+      "Abuso de la figura del Real Decreto-ley para reformas estructurales",
+      "Opacidad por remisión a textos previos para ocultar el impacto económico",
+      "Eufemismos para evitar la palabra 'subida' o 'ajuste'",
+      "Falta de memoria económica en el acto de convalidación"
+    ]
+  },
+  "tweeted": false
+}
