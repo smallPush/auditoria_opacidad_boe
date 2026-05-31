@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11638",
+  "timestamp": "2026-05-31T14:08:48.274Z",
+  "title": "Resolución de 19 de mayo de 2026, de la Universidad de Valladolid, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución de nombramiento de personal funcionario de carrera (Profesores Titulares) en la Universidad de Valladolid. Aunque el acto cumple con la legalidad administrativa y la LOSU 2/2023, la opacidad reside en la desconexión entre el nombramiento y la dotación presupuestaria exacta que estos puestos suponen a largo plazo para el erario público. El documento es puramente ejecutivo y carece de detalles sobre la baremación o la composición de los tribunales que decidieron estas plazas, remitiendo a boletines anteriores, lo que dificulta la fiscalización ciudadana inmediata.",
+    "resumen_ciudadano": "La Universidad de Valladolid ha nombrado a cuatro nuevos Profesores Titulares en las áreas de Botánica, Economía Aplicada, Óptica y Comercialización. Los seleccionados tienen 20 días para tomar posesión de su cargo, adquiriendo una plaza permanente en el sistema universitario público tras superar los concursos correspondientes.",
+    "resumen_tweet": "🎓 La Universidad de Valladolid consolida 4 plazas de profesorado titular. Paridad de género detectada (2H/2M) ⚖️. El #BOE publica el éxito de los aspirantes, pero sigue el silencio sobre el coste salarial total. #Transparencia #Universidad #UVa 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al gasto estructural",
+      "Remisión a tribunales externos no detallados en el extracto",
+      "Falta de transparencia en los criterios de mérito y capacidad aplicados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Madrigal González, Jaime",
+        "Gómez Vega, Mafalda",
+        "Ortiz Toquero, Sara",
+        "Rodríguez Pinto, Javier",
+        "Universidad de Valladolid (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso",
+        "Personal docente precario (asociados) que no accede a plazas fijas"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de personal docente",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al gasto estructural",
+      "Remisión a tribunales externos no detallados en el extracto",
+      "Falta de transparencia en los criterios de mérito y capacidad aplicados"
+    ]
+  },
+  "tweeted": false
+}
