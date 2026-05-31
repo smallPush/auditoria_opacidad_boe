@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11629",
+  "timestamp": "2026-05-31T14:07:49.566Z",
+  "title": "Resolución de 27 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 2 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion detalla nombramientos mediante el sistema de 'libre designacion' en areas sensibles como el Gabinete de la Presidencia y el Departamento de Seguridad Nacional. Aunque formalmente cumple con la ley, este mecanismo permite la seleccion discrecional de personal, lo que a menudo se traduce en la creacion de circulos de confianza politica dentro de estructuras tecnicas del Estado. Es notable el trasvase de personal desde el Ministerio de Defensa y la Guardia Real hacia la Presidencia, reforzando el control directo del ejecutivo sobre la seguridad nacional mediante funcionarios seleccionados 'a dedo'.",
+    "resumen_ciudadano": "El Gobierno ha adjudicado cuatro puestos de alta responsabilidad en el Gabinete de Presidencia y Seguridad Nacional a traves de libre designacion. Los seleccionados provienen mayoritariamente del Ministerio de Defensa y Vivienda, ocupando puestos de niveles 22 y 26. Este proceso prioriza la confianza del organo directivo sobre el concurso de meritos abierto tradicional.",
+    "resumen_tweet": "🚨 Nueva tanda de 'dedazos' legales en el corazon de Moncloa. El Ministerio de Presidencia coloca a personal de Defensa y Vivienda en Seguridad Nacional mediante libre designacion. ¿Confianza politica o merito tecnico? 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designacion discrecional",
+      "Nombramientos en Seguridad Nacional sin oposicion publica",
+      "Trasvase de personal militar/defensa a la Presidencia del Gobierno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios seleccionados (mejoras de nivel y proximidad al nucleo de poder)",
+        "Ejecutivo (asegura lealtad en areas criticas de seguridad)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vinculos politicos",
+        "Principio de meritocracia administrativa",
+        "Transparencia en la gestion de personal tecnico"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal de Confianza",
+    "banderas_rojas": [
+      "Libre designacion discrecional",
+      "Nombramientos en Seguridad Nacional sin oposicion publica",
+      "Trasvase de personal militar/defensa a la Presidencia del Gobierno"
+    ]
+  },
+  "tweeted": false
+}
