@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11642",
+  "timestamp": "2026-05-31T14:12:28.635Z",
+  "title": "Resolución de 20 de mayo de 2026, de la Universidad de Málaga, por la que se nombran Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de personal funcionario docente. La opacidad reside en la fórmula 'emolumentos que le corresponden', ocultando el coste real para las arcas públicas bajo una referencia genérica a la ley. Existe una notable brecha de género en este nombramiento específico para el área de Tecnología Electrónica, donde el 100% de las plazas adjudicadas son para varones, perpetuando el sesgo de género en las áreas STEM.",
+    "resumen_ciudadano": "La Universidad de Málaga ha formalizado el nombramiento de dos nuevos Profesores Titulares en el área de Tecnología Electrónica tras superar un concurso de acceso convocado en 2025.",
+    "resumen_tweet": "🧐 La Universidad de Málaga adjudica plazas de profesor titular en Tecnología Electrónica. 100% hombres, 0% transparencia salarial inmediata. La brecha de género en STEM sigue blindada en el #BOE. #Transparencia #UMA #Opacidad #Igualdad",
+    "banderas_red_flags": [
+      "Ausencia de paridad de género en el nombramiento STEM",
+      "Opacidad en la cuantía económica de los emolumentos",
+      "Lenguaje administrativo técnico que dificulta el control social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Molina Tanco",
+        "Francisco Javier González Cañete",
+        "Estructura administrativa de la Universidad de Málaga"
+      ],
+      "perdedores": [
+        "Representación femenina en áreas tecnológicas",
+        "Contribuyentes (por falta de desglose de costes salariales directos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de paridad de género en el nombramiento STEM",
+      "Opacidad en la cuantía económica de los emolumentos",
+      "Lenguaje administrativo técnico que dificulta el control social"
+    ]
+  },
+  "tweeted": false
+}
