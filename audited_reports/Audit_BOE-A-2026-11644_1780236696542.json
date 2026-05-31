@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11644",
+  "timestamp": "2026-05-31T14:11:36.542Z",
+  "title": "Resolución 430/38258/2026, de 21 de mayo, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución articula un sistema de provisión de puestos basado en una jerarquía rígida donde la antigüedad (25 pts) y el grado consolidado (11 pts) superan ampliamente a la formación técnica (máx 10 pts). Esto fomenta una estructura de 'gerontocracia administrativa' que dificulta el ascenso del talento joven. Existe una barrera de acceso digital significativa: la presentación en papel es tratada como una anomalía casi punible, exigiendo pruebas de 'imposibilidad técnica' para ser admitida, lo que ignora la brecha digital en ciertos sectores o situaciones personales.",
+    "resumen_ciudadano": "El Ministerio de Defensa convoca un concurso para que funcionarios de carrera ocupen puestos vacantes. Se valorará principalmente cuántos años lleva el trabajador en la administración y su rango actual, más que sus cursos o conocimientos recientes. La solicitud es obligatoriamente telemática salvo casos de fuerza mayor muy justificados.",
+    "resumen_tweet": "🪖 El @Defensagob convoca plazas para funcionarios. El sistema premia más los años que el conocimiento (Antigüedad 25 vs Formación 10). 📑 ¡Cuidado! Presentar en papel es casi imposible, blindando la burocracia digital. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión de solicitudes en papel sin justificación técnica externa",
+      "Desproporción de puntos por antigüedad frente a méritos de formación",
+      "Opacidad en la dotación presupuestaria específica de las vacantes en el cuerpo del texto",
+      "Limitación temporal de 10 años para la validez de cursos de formación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios veteranos con más de 30 años de servicio",
+        "Personal con grados consolidados altos",
+        "Matrimonios entre funcionarios (puntos por cónyuge)"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con alta formación pero poca antigüedad",
+        "Personal con dificultades de acceso a certificados electrónicos",
+        "Candidatos solteros o sin hijos (menor puntuación en conciliación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Exclusión de solicitudes en papel sin justificación técnica externa",
+      "Desproporción de puntos por antigüedad frente a méritos de formación",
+      "Opacidad en la dotación presupuestaria específica de las vacantes en el cuerpo del texto",
+      "Limitación temporal de 10 años para la validez de cursos de formación"
+    ]
+  },
+  "tweeted": false
+}
