@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11633",
+  "timestamp": "2026-05-31T14:06:36.821Z",
+  "title": "Resolución de 15 de mayo de 2026, de la Universidad Jaume I, por la que se nombra Profesora Titular de Universidad a doña Sara Izquierdo Zandalinas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento de funcionaria de carrera en el ámbito universitario bajo el marco de la LOSU (Ley Orgánica 2/2023). Aunque el acto es legal y procedimentalmente correcto, la publicación en el BOE oculta los baremos de puntuación específicos, la terna de candidatos descartados y el impacto presupuestario real a largo plazo que supone una plaza vitalicia para las arcas públicas.",
+    "resumen_ciudadano": "Nombramiento oficial de Sara Izquierdo Zandalinas como Profesora Titular de Universidad en el área de Bioquímica y Biología Molecular en la Universitat Jaume I de Castellón. Es un trámite administrativo que consolida una plaza de profesorado fijo tras superar un concurso-oposición.",
+    "resumen_tweet": "🧬 Nueva plaza fija en la Uni Jaume I: Sara Izquierdo ya es Profesora Titular de Bioquímica. El #BOE publica el nombramiento pero sigue sin detallar costes totales ni puntuaciones del proceso. ¿Transparencia o inercia burocrática? 🎓🔍 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del puesto",
+      "Falta de transparencia en las actas de la comisión evaluadora",
+      "Opacidad en la ratio de competencia (número de aspirantes por plaza)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sara Izquierdo Zandalinas",
+        "Cuerpo de Profesores Titulares de Universidad",
+        "Universitat Jaume I (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores en régimen de precariedad",
+        "Aspirantes externos sin plaza",
+        "Ciudadanía (por falta de información sobre el uso de recursos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de personal",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del puesto",
+      "Falta de transparencia en las actas de la comisión evaluadora",
+      "Opacidad en la ratio de competencia (número de aspirantes por plaza)"
+    ]
+  },
+  "tweeted": false
+}
