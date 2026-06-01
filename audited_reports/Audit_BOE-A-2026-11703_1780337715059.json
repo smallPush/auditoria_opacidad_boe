@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11703",
+  "timestamp": "2026-06-01T18:15:15.059Z",
+  "title": "Ley 1/2026, de 23 de abril, de modificación de la Ley 1/1987, de 27 de marzo, de Elecciones para las Juntas Generales de los Territorios Históricos de Álava, Bizkaia y Gipuzkoa.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La ley modifica el orden de prelación en la publicación de candidaturas electorales, priorizando a los partidos con representación previa. Bajo el pretexto de 'seguridad jurídica', se institucionaliza una ventaja competitiva de visibilidad (efecto de primacía) para las formaciones ya establecidas. Esto dificulta la irrupción de nuevas fuerzas políticas o agrupaciones de electores, que son relegadas sistemáticamente al final de las listas y boletines oficiales.",
+    "resumen_ciudadano": "Se ha cambiado la norma para decidir quién aparece primero en los boletines y documentos electorales de las Juntas Generales. Los partidos que sacaron más votos en las últimas elecciones irán arriba del todo. Los partidos nuevos o grupos de vecinos irán siempre al final, ordenados por sorteo entre ellos.",
+    "resumen_tweet": "🚨 El #BOE publica cambios en las elecciones vascas. Los partidos tradicionales se aseguran los primeros puestos en las listas por ley. ¡Los nuevos y agrupaciones vecinales al final de la fila! 📉 ¿Seguridad jurídica o blindaje? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sesgo de visibilidad pro-establishment",
+      "Barreras de entrada simbólicas para nuevos partidos",
+      "Ausencia de criterios de alternancia o neutralidad total"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partidos políticos tradicionales consolidados",
+        "Grandes coaliciones con resultados históricos positivos"
+      ],
+      "perdedores": [
+        "Nuevos movimientos políticos",
+        "Agrupaciones de electores locales",
+        "Candidaturas ciudadanas independientes"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Modificación Legislación Electoral",
+    "banderas_rojas": [
+      "Sesgo de visibilidad pro-establishment",
+      "Barreras de entrada simbólicas para nuevos partidos",
+      "Ausencia de criterios de alternancia o neutralidad total"
+    ]
+  },
+  "tweeted": false
+}
