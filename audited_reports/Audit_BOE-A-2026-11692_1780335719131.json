@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11692",
+  "timestamp": "2026-06-01T17:41:59.131Z",
+  "title": "Recurso de inconstitucionalidad n.º 3001-2026, contra el apartado Uno del artículo único de la Ley de la Comunidad Autónoma de La Rioja 5/2025, de 21 de julio, de medidas fiscales de apoyo al medio rural, en cuanto dota de contenido al apartado 8 del artículo 32 de la Ley 10/2017, de 27 de octubre, por la que se consolidan las disposiciones legales de la Comunidad Autónoma de La Rioja en materia de impuestos propios y tributos cedidos.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se detecta una colisión de poder entre el Ejecutivo Central y la Autonomía de La Rioja. Bajo el pretexto técnico de 'inconstitucionalidad', el Estado bloquea medidas de alivio fiscal destinadas al medio rural. La opacidad es alta ya que el ciudadano no recibe en este documento la motivación real del recurso (si es por invasión de competencias o por vulneración de la igualdad tributaria), dejando a los habitantes de la 'España Vaciada' en un limbo de inseguridad jurídica mientras se resuelve el litigio.",
+    "resumen_ciudadano": "El Gobierno de España ha impugnado ante el Tribunal Constitucional las nuevas ventajas fiscales que La Rioja había aprobado para apoyar a sus zonas rurales. Esto significa que las rebajas de impuestos prometidas para luchar contra la despoblación quedan bajo sospecha legal y podrían ser anuladas.",
+    "resumen_tweet": "⚖️ ¡Guerra de impuestos! El Gobierno central recurre las ayudas fiscales para el mundo rural de #LaRioja ante el Constitucional. ¿Apoyo al campo o invasión de competencias? La España Vaciada en vilo. 🚜💨 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Inseguridad jurídica para el contribuyente rural",
+      "Conflicto competencial latente",
+      "Falta de motivación del recurso en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Central (mantenimiento del control fiscal)",
+        "Burocracia estatal"
+      ],
+      "perdedores": [
+        "Habitantes del medio rural riojano",
+        "Autonomía legislativa de La Rioja",
+        "Pequeños propietarios rurales"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Recurso de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Inseguridad jurídica para el contribuyente rural",
+      "Conflicto competencial latente",
+      "Falta de motivación del recurso en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
