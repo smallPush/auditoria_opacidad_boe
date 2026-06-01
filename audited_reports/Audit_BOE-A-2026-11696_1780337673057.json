@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11696",
+  "timestamp": "2026-06-01T18:14:33.057Z",
+  "title": "Cuestión de inconstitucionalidad n.º 2841-2026, en relación con el artículo 47 de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía, por posible contradicción con el artículo 149.1.6 de la Constitución Española.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La admisión a trámite de esta cuestión de inconstitucionalidad revela un conflicto latente entre la Junta de Andalucía y el Estado por la regulación de los privilegios procesales de la administración autonómica. El artículo 47 de la Ley 9/2007 podría estar invadiendo la competencia exclusiva del Estado en legislación procesal (Art. 149.1.6 CE). Bajo un lenguaje técnico, se esconde la posibilidad de que la administración regional haya intentado blindarse jurídicamente en los juicios monitorios (deudas), lo que generaría una desigualdad de trato para el ciudadano común frente al aparato administrativo.",
+    "resumen_ciudadano": "El Tribunal Constitucional investiga si el Gobierno de Andalucía se otorgó a sí mismo poderes o reglas especiales en los juzgados que no le corresponden. El problema es que solo el Estado central puede decidir cómo funcionan los procesos judiciales para garantizar que las reglas sean iguales para todos, y Andalucía podría haber incumplido esto en su ley de administración.",
+    "resumen_tweet": "⚖️ ¿Privilegios en Andalucía? El TC investiga si la Junta invadió competencias estatales para blindarse en los tribunales. Un conflicto que afecta la igualdad de todos ante la justicia. 🔍 #BOE #Opacidad #Transparencia #Andalucía #Justicia",
+    "banderas_red_flags": [
+      "Invasión de competencias exclusivas del Estado",
+      "Posible ruptura de la unidad de la legislación procesal",
+      "Trato privilegiado de la Administración en procedimientos de reclamación de deudas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración General del Estado",
+        "Igualdad jurisdiccional"
+      ],
+      "perdedores": [
+        "Servicios Jurídicos de la Junta de Andalucía",
+        "Autonomía legislativa regional extralimitada"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Cuestión de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Invasión de competencias exclusivas del Estado",
+      "Posible ruptura de la unidad de la legislación procesal",
+      "Trato privilegiado de la Administración en procedimientos de reclamación de deudas"
+    ]
+  },
+  "tweeted": false
+}
