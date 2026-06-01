@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11694",
+  "timestamp": "2026-06-01T17:57:32.336Z",
+  "title": "Cuestión de inconstitucionalidad n.º 8596-2025, en relación con disposición adicional tercera del Decreto-ley 1/2022, de 22 de abril, del Consell, de medidas urgentes en respuesta a la emergencia energética y económica originada en la Comunitat Valenciana por la guerra en Ucrania.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La providencia revela una potencial extralimitación del poder ejecutivo valenciano bajo el paraguas de la 'emergencia económica' por la guerra en Ucrania. Al admitirse la cuestión de inconstitucionalidad, se pone bajo sospecha el uso de decretos-ley urgentes para modificar aspectos estructurales de la función pública y la sanidad. Esta táctica legislativa suele utilizarse para evitar el debate parlamentario ordinario, justificando con crisis externas cambios que afectan a los derechos laborales de los trabajadores públicos.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha aceptado revisar si una norma de la Comunidad Valenciana, aprobada de forma urgente por la guerra de Ucrania, vulnera la Constitución. La medida afecta específicamente a personal sanitario y funcionarios. Un juzgado de Valencia sospecha que el gobierno autonómico utilizó la excusa de la crisis energética para imponer cambios que podrían ser ilegales.",
+    "resumen_tweet": "🚨 El TC admite a trámite la inconstitucionalidad de medidas 'urgentes' en la Comunitat Valenciana. ¿Se usó la guerra de Ucrania como excusa para recortar derechos en sanidad y función pública? 📉 Bajo la lupa la justicia cívica. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Legislación de emergencia para temas de personal",
+      "Posible vulneración de derechos fundamentales",
+      "Elusión del debate parlamentario ordinario",
+      "Justificación de medidas internas mediante crisis internacionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Generalitat Valenciana (por la flexibilidad temporal obtenida mediante el decreto)"
+      ],
+      "perdedores": [
+        "Personal estatutario de salud",
+        "Funcionarios públicos",
+        "Seguridad jurídica ciudadana"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Cuestión de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Legislación de emergencia para temas de personal",
+      "Posible vulneración de derechos fundamentales",
+      "Elusión del debate parlamentario ordinario",
+      "Justificación de medidas internas mediante crisis internacionales"
+    ]
+  },
+  "tweeted": false
+}
