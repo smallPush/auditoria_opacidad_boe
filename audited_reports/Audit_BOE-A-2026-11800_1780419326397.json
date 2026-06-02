@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11800",
+  "timestamp": "2026-06-02T16:55:26.397Z",
+  "title": "Resolución de 21 de mayo de 2026, del Ayuntamiento de Bolaños de Calatrava (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso-oposición' para un turno libre, una práctica legal pero éticamente cuestionable en términos de igualdad de oportunidades. Al incluir una fase de concurso (méritos), se suele otorgar una ventaja competitiva decisiva a personal que ya presta servicios de forma interina en el propio Ayuntamiento, dificultando el acceso real de ciudadanos externos sin experiencia previa en esa administración específica. Además, la fragmentación de la información (bases en el BOP y anuncio en el BOE) añade una capa de fricción burocrática para el opositor común.",
+    "resumen_ciudadano": "El Ayuntamiento de Bolaños de Calatrava abre el proceso para contratar a dos administrativos. Aunque cualquiera puede presentarse, el sistema de selección valora la experiencia previa, lo que habitualmente significa que las plazas están orientadas a convertir a trabajadores temporales de la casa en fijos.",
+    "resumen_tweet": "🚩 ¿Plazas con nombre propio? Bolaños de Calatrava convoca 2 administrativos por concurso-oposición. El sistema de puntos por méritos suele favorecer a interinos frente al talento externo. #BOE #Opacidad #Transparencia #Oposiciones 🏛️🧐",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en acceso libre",
+      "Opacidad en la valoración de méritos específicos en el extracto del BOE",
+      "Posible proceso de estabilización encubierto bajo apariencia de convocatoria ordinaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos actuales del Ayuntamiento de Bolaños de Calatrava",
+        "Candidatos con amplia antigüedad en la administración local"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin experiencia previa",
+        "Talento externo al municipio",
+        "Principio de meritocracia pura"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en acceso libre",
+      "Opacidad en la valoración de méritos específicos en el extracto del BOE",
+      "Posible proceso de estabilización encubierto bajo apariencia de convocatoria ordinaria"
+    ]
+  },
+  "tweeted": false
+}
