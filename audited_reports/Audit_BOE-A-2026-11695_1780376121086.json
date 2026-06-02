@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11695",
+  "timestamp": "2026-06-02T04:55:21.086Z",
+  "title": "Cuestión de inconstitucionalidad n.º 2840-2026, en relación con artículo 47 de la Ley 9/2007, de 22 de octubre de la Administración de la Junta de Andalucía, por posible contradicción con el art. 149.1-6.ª de la Constitución Española.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se observa un conflicto de competencias clásico entre la Junta de Andalucía y el Estado central. El Tribunal Constitucional admite a trámite una cuestión sobre si la autonomía andaluza invadió la competencia exclusiva del Estado en legislación procesal (art. 149.1-6.ª CE) a través del art. 47 de su Ley 9/2007. Esta opacidad técnica esconde una lucha por el control de las normas que rigen los juicios monitorios (deudas), lo que puede generar inseguridad jurídica para el ciudadano común mientras se resuelve el litigio competencial.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha decidido investigar si una parte de la Ley de Administración de Andalucía es ilegal por regular temas judiciales que solo le corresponden al Estado. Esto afecta a cómo se gestionan ciertos juicios rápidos de reclamación de deudas en la región.",
+    "resumen_tweet": "⚖️ ¿Se pasó de frenada Andalucía? El Constitucional investiga si la Junta invadió competencias estatales en derecho procesal. Un choque de poderes que afecta a la seguridad jurídica en procesos de deuda. 🏛️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Posible invasión de competencias exclusivas del Estado",
+      "Conflicto normativo en procesos de reclamación de deuda",
+      "Riesgo de anulación de actuaciones judiciales previas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado Central (refuerza su monopolio legislativo procesal)",
+        "Grandes acreedores (buscan uniformidad procesal en todo el país)"
+      ],
+      "perdedores": [
+        "Administración de la Junta de Andalucía (pérdida de autonomía política)",
+        "Ciudadanos con procesos abiertos (incertidumbre sobre la validez de las normas aplicadas)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Judicial/Constitucional",
+    "banderas_rojas": [
+      "Posible invasión de competencias exclusivas del Estado",
+      "Conflicto normativo en procesos de reclamación de deuda",
+      "Riesgo de anulación de actuaciones judiciales previas"
+    ]
+  },
+  "tweeted": false
+}
