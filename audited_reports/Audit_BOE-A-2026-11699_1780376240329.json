@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11699",
+  "timestamp": "2026-06-02T04:57:20.329Z",
+  "title": "Orden TES/539/2026, de 25 de mayo, por la que se regula la legalización en formato electrónico de libros en el ámbito del Registro de Sociedades Cooperativas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden TES/539/2026 impone la digitalización obligatoria para todas las cooperativas, alineándose con la Ley 39/2015. Si bien mejora la eficiencia administrativa, genera una 'brecha de cumplimiento' para pequeñas cooperativas rurales o tradicionales con escasos recursos tecnológicos. El artículo 6.3 es crítico: el Registro borrará los archivos tras la legalización, conservando solo la 'huella digital'. Aunque se justifica por protección de datos, esto traslada toda la responsabilidad de custodia y riesgo de pérdida de integridad a la entidad privada, dificultando auditorías externas si la cooperativa no mantiene backups robustos.",
+    "resumen_ciudadano": "A partir de julio de 2026, las cooperativas ya no podrán legalizar sus libros (socios, actas, cuentas) en papel. Todo el proceso será electrónico a través de una plataforma del Ministerio. Una vez que el Registro compruebe los archivos, estos se borrarán del sistema público por seguridad, dejando solo una firma digital como prueba de que existieron y fueron validados. Las cooperativas que no se adapten al sistema digital no podrán registrar sus movimientos legales.",
+    "resumen_tweet": "📢 ¡Adiós al papel en las cooperativas! 📜 El Ministerio de Trabajo impone la legalización 100% digital de libros desde 2026. 💻 ¿Eficiencia o barrera para el mundo rural? Ojo al borrado de archivos tras el trámite. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Brecha digital para cooperativas pequeñas",
+      "Borrado sistemático de archivos originales en el Registro (Art. 6.3)",
+      "Dependencia absoluta de la Dirección Electrónica Habilitada única",
+      "Soberanía de datos: el registro solo guarda la 'huella', no el contenido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de software de gestión y firma electrónica",
+        "Grandes gestorías administrativas",
+        "Ministerio de Trabajo (reducción de costes de archivo físico)"
+      ],
+      "perdedores": [
+        "Cooperativas agrarias o rurales con baja digitalización",
+        "Secretarios de cooperativas tradicionales",
+        "Archivos históricos físicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización Administrativa / Derecho Mercantil",
+    "banderas_rojas": [
+      "Brecha digital para cooperativas pequeñas",
+      "Borrado sistemático de archivos originales en el Registro (Art. 6.3)",
+      "Dependencia absoluta de la Dirección Electrónica Habilitada única",
+      "Soberanía de datos: el registro solo guarda la 'huella', no el contenido"
+    ]
+  },
+  "tweeted": false
+}
