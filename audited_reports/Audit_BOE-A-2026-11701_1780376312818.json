@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11701",
+  "timestamp": "2026-06-02T04:58:32.818Z",
+  "title": "Orden ISM/541/2026, de 27 de mayo, por la que se modifica la Orden ISM/903/2020, de 24 de septiembre, por la que se regulan las notificaciones y comunicaciones electrónicas en el ámbito de la Administración de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden ISM/541/2026 amplía la obligatoriedad de la relación electrónica a colectivos vulnerables: personas en situación de incapacidad temporal (baja médica) o permanente. Bajo una narrativa de 'modernización' y 'eficiencia', el texto oculta una motivación puramente fiscalista. La administración admite explícitamente que la notificación electrónica permite dejar de pagar la prestación por incapacidad en el mismo instante de la notificación, evitando el 'retraso' del correo postal que beneficiaba al trabajador con unos días adicionales de cobro mientras se recuperaba. Se asume, de forma arbitraria, que por estar en el mercado laboral se poseen medios y conocimientos digitales, ignorando la brecha digital en sectores de baja cualificación o el estado físico/mental de quien está de baja.",
+    "resumen_ciudadano": "Si estás de baja médica o tramitas una incapacidad, la Seguridad Social ya no te enviará cartas de papel. Estás obligado a recibir notificaciones por internet. Aunque dicen que es para ayudarte, el objetivo real es ahorrar en gastos de envío y, sobre todo, dejar de pagarte la prestación de baja lo antes posible, ya que la notificación digital es instantánea.",
+    "resumen_tweet": "🚨 ¡Atención! Si estás de baja médica, el #BOE ahora te obliga a la notificación electrónica 💻. El Gobierno busca ahorrar en sellos y, sobre todo, cortar los pagos de prestaciones de forma inmediata 📉. ¿Eficiencia o desprotección? #Opacidad #SeguridadSocial",
+    "banderas_red_flags": [
+      "Presunción de competencia digital por el mero hecho de ser trabajador activo.",
+      "Reconocimiento de que la medida busca interrumpir el pago de prestaciones más rápido.",
+      "Traslado de la carga administrativa al ciudadano bajo el concepto de 'eficiencia'.",
+      "Riesgo de indefensión si el ciudadano no revisa el correo electrónico o SMS estando enfermo."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración de la Seguridad Social (ahorro en costes postales y reducción de días de prestación pagados)",
+        "Ministerio de Inclusión (mejora de métricas de digitalización)"
+      ],
+      "perdedores": [
+        "Trabajadores de baja médica (pierden la 'cortesía' temporal del correo postal)",
+        "Personas con baja capacitación digital",
+        "Sectores laborales de mayor edad o precariedad con dificultades de acceso tecnológico"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administración Electrónica y Seguridad Social",
+    "banderas_rojas": [
+      "Presunción de competencia digital por el mero hecho de ser trabajador activo.",
+      "Reconocimiento de que la medida busca interrumpir el pago de prestaciones más rápido.",
+      "Traslado de la carga administrativa al ciudadano bajo el concepto de 'eficiencia'.",
+      "Riesgo de indefensión si el ciudadano no revisa el correo electrónico o SMS estando enfermo."
+    ]
+  },
+  "tweeted": false
+}
