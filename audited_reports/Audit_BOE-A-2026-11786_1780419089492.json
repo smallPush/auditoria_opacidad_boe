@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11786",
+  "timestamp": "2026-06-02T16:51:29.492Z",
+  "title": "Resolución de 21 de mayo de 2026, de la Subsecretaría, por la que se corrigen errores en la de 7 de mayo de 2026, por la que se resuelve el concurso específico convocado por Resolución de 28 de octubre de 2025, en el Instituto de Salud Carlos III.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una corrección de errores en una resolución previa relativa a un concurso de méritos en el Instituto de Salud Carlos III. La modificación no es menor: cambia tanto la denominación del puesto (de 'Jefe de Área' a 'Jefe de Servicio') como el código identificativo del mismo (de 5040829 a 5040874). Aunque se presenta como un error de transcripción, estas variaciones en la nomenclatura administrativa suelen implicar diferencias en niveles de complemento de destino y responsabilidades, lo que sugiere una falta de rigor en la fase de fiscalización previa a la publicación original.",
+    "resumen_ciudadano": "El Gobierno ha corregido un error en la adjudicación de una plaza de mando en el Instituto de Salud Carlos III. Un puesto que se había anunciado como 'Jefe de Área' es en realidad un puesto de 'Jefe de Servicio'. Esta rectificación técnica ajusta el nombre oficial y el código de la plaza para el personal afectado.",
+    "resumen_tweet": "🔍 Errata en el #BOE: El Instituto de Salud Carlos III rectifica la categoría de una jefatura. De 'Jefe de Área' a 'Jefe de Servicio'. ¿Falta de rigor en el control de plazas públicas o simple error humano? La lupa en la burocracia. 📑⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Inconsistencia en códigos de identificación de puestos",
+      "Modificación de jerarquía post-resolución",
+      "Vulnerabilidad en la fiscalización de procesos de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El adjudicatario de la plaza (por la seguridad jurídica de su cargo)",
+        "Administración del ISCIII (por corregir el error antes de posibles recursos)"
+      ],
+      "perdedores": [
+        "Transparencia pública (por la publicación de datos incorrectos)",
+        "Eficacia administrativa (requiere dobles trámites para una misma resolución)"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Inconsistencia en códigos de identificación de puestos",
+      "Modificación de jerarquía post-resolución",
+      "Vulnerabilidad en la fiscalización de procesos de personal"
+    ]
+  },
+  "tweeted": false
+}
