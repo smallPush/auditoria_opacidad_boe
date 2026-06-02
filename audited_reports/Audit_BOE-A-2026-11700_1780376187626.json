@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11700",
+  "timestamp": "2026-06-02T04:56:27.626Z",
+  "title": "Orden ITU/540/2026, de 21 de mayo, por la que se deroga la Orden ITC/1197/2010, de 29 de abril, por la que se crea y regula el Registro de Entidades Solicitantes de Ayudas en el Ministerio de Industria, Turismo y Comercio.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden ITU/540/2026 liquida un registro que inicialmente se vendió como una herramienta de simplificación administrativa (exención de presentar documentos). La justificación oficial de que el registro ahora supone una 'carga añadida' y que los 'controles antifraude' motivan su cierre resulta paradójica: si un registro de entidades solicitantes entorpece el control del fraude, es que el sistema de validación era ineficaz o los nuevos sistemas de interoperabilidad del Estado (que no se detallan en el texto) ya lo hacen innecesario. Se detecta una retirada del Estado en la gestión de bases de datos específicas en favor de procesos centralizados que, si bien reducen burocracia, pueden centralizar el poder de decisión sobre quién accede a las ayudas.",
+    "resumen_ciudadano": "El Ministerio de Industria elimina el Registro de Entidades Solicitantes de Ayudas. Hasta ahora, las empresas se inscribían ahí para no tener que entregar los mismos papeles cada vez que pedían una subvención. El Gobierno dice que este registro ya no sirve, que entorpece la gestión actual y que los nuevos controles contra el fraude lo hacen prescindible. A partir de ahora, se borrarán los datos de las entidades registradas, a menos que tengan procesos judiciales o recursos abiertos.",
+    "resumen_tweet": "📉 El Ministerio de Industria suprime el Registro de Entidades Solicitantes de Ayudas. Alegando 'cargas añadidas' y nuevos controles antifraude, se elimina una herramienta de 2010. ¿Simplificación real o mayor opacidad en el acceso? 🧐 #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Paradoja administrativa: un registro para simplificar termina siendo una carga.",
+      "Eliminación de datos: el borrado de ficheros podría dificultar auditorías históricas sobre beneficiarios recurrentes.",
+      "Falta de especificación técnica sobre qué sistema sustituye al registro para evitar la duplicidad de documentos."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Industria y Turismo (ahorro en costes de mantenimiento de bases de datos)",
+        "Gestorías administrativas (posible necesidad de volver a tramitar documentación recurrente)"
+      ],
+      "perdedores": [
+        "PYMES y ONGs (pierden el beneficio de no presentar documentos ya entregados)",
+        "Transparencia pública (desaparece un censo específico de solicitantes de ayudas industriales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa / Simplificación de Cargas",
+    "banderas_rojas": [
+      "Paradoja administrativa: un registro para simplificar termina siendo una carga.",
+      "Eliminación de datos: el borrado de ficheros podría dificultar auditorías históricas sobre beneficiarios recurrentes.",
+      "Falta de especificación técnica sobre qué sistema sustituye al registro para evitar la duplicidad de documentos."
+    ]
+  },
+  "tweeted": false
+}
