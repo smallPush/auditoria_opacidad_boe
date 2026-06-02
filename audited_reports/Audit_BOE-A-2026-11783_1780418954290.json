@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11783",
+  "timestamp": "2026-06-02T16:49:14.290Z",
+  "title": "Acuerdo de 12 de enero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Asunción Covadonga Rodríguez Luelmo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento representa un acto administrativo rutinario del CGPJ que, bajo una apariencia de normalidad institucional, oculta el impacto económico real en el sistema de Clases Pasivas del Estado. Se utiliza un lenguaje altamente codificado para referirse a la jubilación de la élite judicial, omitiendo las cuantías de los 'derechos pasivos' devengados. Existe una dilación temporal notable: el acuerdo se tomó en enero pero no se publicó hasta junio, reflejando una gestión administrativa lenta o una acumulación estratégica de notificaciones.",
+    "resumen_ciudadano": "Se oficializa la jubilación voluntaria de una Magistrada de la Sección de lo Penal en Gijón. Aunque el texto parece un simple trámite, activa una pensión vitalicia bajo el régimen especial de Clases Pasivas del Estado, cuyo importe exacto no se desglosa por motivos de privacidad administrativa, impidiendo conocer el gasto público real que supone para el contribuyente.",
+    "resumen_tweet": "🕵️‍♂️ Jubilación voluntaria en la élite judicial de Gijón. Tras el lenguaje técnico se activan pensiones de Clases Pasivas sin transparencia en las cifras. ¿Cuánto nos cuesta el retiro de la cúpula judicial? ⚖️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la prestación pública",
+      "Dilación de 5 meses entre acuerdo y publicación",
+      "Uso de regímenes especiales (Clases Pasivas) ajenos a la Seguridad Social general"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a derechos pasivos de alto rango)",
+        "Sistema judicial (renovación de plaza)"
+      ],
+      "perdedores": [
+        "Contribuyente (desconoce el impacto presupuestario)",
+        "Sostenibilidad del sistema general de pensiones (por mantenimiento de regímenes especiales)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Administración de Justicia / Personal",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la prestación pública",
+      "Dilación de 5 meses entre acuerdo y publicación",
+      "Uso de regímenes especiales (Clases Pasivas) ajenos a la Seguridad Social general"
+    ]
+  },
+  "tweeted": false
+}
