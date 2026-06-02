@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11797",
+  "timestamp": "2026-06-02T16:54:13.769Z",
+  "title": "Resolución de 24 de abril de 2026, del Ayuntamiento de Coria (Cáceres), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una fragmentación de la información que dificulta el acceso equitativo al empleo público. El desfase temporal entre la publicación en el BOP de Cáceres (abril) y el BOE (junio) genera una ventaja competitiva de facto para los residentes locales o quienes monitorizan boletines provinciales, en detrimento del principio de publicidad nacional. El sistema de oposición pura para puestos de oficios manuales (jardinería) puede ser una barrera para perfiles con gran experiencia práctica pero menor capacidad de estudio teórico, favoreciendo un sesgo académico en puestos técnicos.",
+    "resumen_ciudadano": "El Ayuntamiento de Coria abre convocatoria para dos plazas: un encargado de jardines y un oficial de servicios múltiples. El proceso es por oposición libre, lo que significa examen sin concurso de méritos previo. Los interesados tienen 20 días hábiles para inscribirse, pero deben buscar las bases detalladas en el Boletín Provincial de Cáceres de abril para conocer el temario y requisitos exactos.",
+    "resumen_tweet": "📢 ¡Ojo en Coria! Publicadas plazas de jardinería y oficios en el #BOE. Pero cuidado: las bases están 'escondidas' en el BOP de hace 2 meses. ¿Transparencia o laberinto burocrático? 🕵️‍♂️ El tiempo vuela para los de fuera. #Opacidad #Transparencia #Coria",
+    "banderas_red_flags": [
+      "Información fragmentada entre boletines provincial y nacional",
+      "Desfase de 40 días entre la disposición y la publicidad en el BOE",
+      "Opacidad en la descripción de las pruebas específicas en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos locales con acceso a información provincial previa",
+        "Opositores con perfil académico/teórico sobre el práctico"
+      ],
+      "perdedores": [
+        "Candidatos de otras regiones con menor margen de maniobra",
+        "Transparencia administrativa por falta de centralización de bases",
+        "Perfiles con experiencia laboral que no computa (al no ser concurso-oposición)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Información fragmentada entre boletines provincial y nacional",
+      "Desfase de 40 días entre la disposición y la publicidad en el BOE",
+      "Opacidad en la descripción de las pruebas específicas en el extracto"
+    ]
+  },
+  "tweeted": false
+}
