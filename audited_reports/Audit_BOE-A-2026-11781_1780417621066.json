@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11781",
+  "timestamp": "2026-06-02T16:27:01.066Z",
+  "title": "Acuerdo de 27 de mayo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Juezas y Jueces sustitutos para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una estructura administrativa estándar pero oculta la realidad de una justicia 'parcheada'. El uso recurrente de jueces sustitutos en lugar de ampliar la plantilla orgánica de la Carrera Judicial revela una deficiencia estructural. No se especifican los criterios de mérito y capacidad individuales frente a otros candidatos, ni el coste presupuestario derivado de estas sustituciones, que suelen gestionarse de forma opaca bajo partidas genéricas de personal.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a cinco nuevos jueces sustitutos para cubrir vacantes temporales en diversos juzgados de Andalucía, Ceuta y Melilla para el curso 2025/2026. Estos nombramientos son una medida de emergencia para evitar el colapso de los tribunales en zonas con alta carga de trabajo.",
+    "resumen_tweet": "⚖️ El #BOE publica nuevos nombramientos de jueces sustitutos en Andalucía y Melilla. Otra vez se recurre a la interinidad para evitar el colapso judicial. ¿Y las plazas fijas? La justicia 'low cost' genera incertidumbre. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Abuso de la figura de interinidad judicial",
+      "Falta de desglose presupuestario por nombramiento",
+      "Ausencia de justificación de méritos en el extracto",
+      "Opacidad en los criterios de selección discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CGPJ (mantiene el sistema funcionando con menor coste fijo)",
+        "Candidatos seleccionados (obtienen puesto temporal)"
+      ],
+      "perdedores": [
+        "Ciudadanos (justicia potencialmente más lenta por la temporalidad)",
+        "Carrera Judicial (precarización del acceso al funcionariado)",
+        "Contribuyentes (falta de transparencia en el gasto de sustituciones)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía, Ceuta y Melilla",
+    "tipologia": "Nombramientos de Personal Judicial",
+    "banderas_rojas": [
+      "Abuso de la figura de interinidad judicial",
+      "Falta de desglose presupuestario por nombramiento",
+      "Ausencia de justificación de méritos en el extracto",
+      "Opacidad en los criterios de selección discrecional"
+    ]
+  },
+  "tweeted": false
+}
