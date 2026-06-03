@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11792",
+  "timestamp": "2026-06-03T05:08:22.779Z",
+  "title": "Orden PJC/543/2026, de 22 de mayo, por la que se aprueba la relación definitiva de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer ejercicio del turno libre, del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, al Cuerpo Especial de Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses, convocado por Orden PJC/1534/2025, de 17 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El proceso selectivo para el Instituto Nacional de Toxicología muestra una opacidad estructural mediante la derivación de datos clave (listas completas) a una web externa, limitando la fiscalización directa en el BOE. Se detecta una barrera socioeconómica significativa: la centralización del examen exclusivamente en Madrid genera una discriminación geográfica y económica para aspirantes de la periferia. Además, la persistencia de exclusiones por causas como la 'falta de acreditación de rentas inferiores al SMI' o 'verificación fallida por la administración' (Causas F e I) traslada la ineficiencia burocrática al ciudadano, penalizando a los sectores más vulnerables que ya están exentos de tasas por necesidad.",
+    "resumen_ciudadano": "Publicación de las listas definitivas de admitidos y excluidos para plazas de facultativos en Toxicología. Se fija el examen el 5 de julio de 2026 en Madrid. Se permite realizar el examen de forma condicionada a quienes estén recurriendo su exclusión, lo que genera cierta incertidumbre jurídica.",
+    "resumen_tweet": "⚖️ El Ministerio de Justicia publica listas para Toxicología. Ojo: examen centralizado solo en Madrid 📍, dificultando el acceso por costes de viaje. Fallos en verificación de rentas castigan a los más vulnerables. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralización geográfica absoluta en Madrid para un cuerpo nacional",
+      "Exclusiones por fallos en la verificación de datos que posee la propia Administración",
+      "Derecho a examen condicionado: limbo jurídico para aspirantes en fase de recurso",
+      "Externalización de la información completa fuera del boletín oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores residentes en la Comunidad de Madrid (menor gasto)",
+        "Sector de la gestión administrativa de recursos humanos del Ministerio"
+      ],
+      "perdedores": [
+        "Aspirantes con bajos recursos (excluidos por fallos de acreditación SMI)",
+        "Opositores de fuera de Madrid (barrera de clase por gastos de desplazamiento y alojamiento)",
+        "Personas sin nacionalidad española (exclusión por Causa N)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Oposiciones",
+    "banderas_rojas": [
+      "Centralización geográfica absoluta en Madrid para un cuerpo nacional",
+      "Exclusiones por fallos en la verificación de datos que posee la propia Administración",
+      "Derecho a examen condicionado: limbo jurídico para aspirantes en fase de recurso",
+      "Externalización de la información completa fuera del boletín oficial"
+    ]
+  },
+  "tweeted": false
+}
