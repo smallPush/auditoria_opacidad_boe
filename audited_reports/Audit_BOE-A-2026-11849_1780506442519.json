@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11849",
+  "timestamp": "2026-06-03T17:07:22.519Z",
+  "title": "Corrección de errores en el Conflicto entre órganos constitucionales n.º 8598-2025, en relación con el acuerdo de disconformidad, firmado por el Secretario de Estado de Relaciones con las Cortes y Asuntos Constitucionales, de fecha 15 de septiembre de 2025, respecto a la tramitación de la enmienda número 8 del Grupo Parlamentario Popular en el Senado, por la que se introduce la disposición adicional decimocuarta en el Proyecto de Ley por la que se modifican la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante un uso del mecanismo de 'corrección de errores' para subsanar una imprecisión jurídica de calado: no se trata de un simple conflicto de competencias entre administraciones, sino de un choque directo entre el Poder Ejecutivo (Gobierno) y el Poder Legislativo (Senado). El Gobierno, mediante el Secretario de Estado de Relaciones con las Cortes, ha bloqueado una enmienda del Grupo Popular sobre navegación aérea basándose probablemente en el control de gasto (veto presupuestario), lo que el Senado considera una invasión de sus facultades. La opacidad reside en que el ciudadano solo ve el trámite burocrático, mientras se oculta el fondo de la enmienda 8 y el motivo real de la discordia institucional.",
+    "resumen_ciudadano": "El Gobierno y el Senado están enfrentados en el Tribunal Constitucional. El Gobierno ha rechazado una propuesta de cambio en las leyes de seguridad y navegación aérea presentada en el Senado. Lo que inicialmente se publicó como un error técnico es en realidad una batalla por el poder: el Ejecutivo está limitando la capacidad del Senado para modificar leyes, y el Tribunal Constitucional deberá decidir quién tiene la razón.",
+    "resumen_tweet": "🏛️ Guerra institucional en el #BOE. El Gobierno bloquea una enmienda del Senado sobre seguridad aérea y el conflicto llega al Tribunal Constitucional. Lo que llaman 'error' oculta una pugna de poder entre el Ejecutivo y el Legislativo. ⚖️🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de corrección de errores para redefinir la gravedad jurídica de un conflicto",
+      "Bloqueo del Ejecutivo a la capacidad legislativa de la oposición en el Senado",
+      "Falta de detalle sobre el contenido real de la enmienda número 8",
+      "Confusión terminológica entre 'competencias' y 'conflictos entre órganos'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de la Nación (por el uso del veto para paralizar la tramitación legislativa)"
+      ],
+      "perdedores": [
+        "Senado (por la limitación de sus funciones legislativas)",
+        "Ciudadanía (por la falta de claridad sobre qué cambios en navegación aérea se están bloqueando)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Conflictos Constitucionales / Navegación Aérea",
+    "banderas_rojas": [
+      "Uso de corrección de errores para redefinir la gravedad jurídica de un conflicto",
+      "Bloqueo del Ejecutivo a la capacidad legislativa de la oposición en el Senado",
+      "Falta de detalle sobre el contenido real de la enmienda número 8",
+      "Confusión terminológica entre 'competencias' y 'conflictos entre órganos'"
+    ]
+  },
+  "tweeted": false
+}
