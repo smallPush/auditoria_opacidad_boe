@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-11848",
+  "timestamp": "2026-06-03T16:50:57.724Z",
+  "title": "Real Decreto-ley 13/2026, de 2 de junio, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto-ley 13/2026 utiliza la figura de la 'extraordinaria y urgente necesidad' para solventar una parálisis política: la ausencia de Presupuestos Generales del Estado actualizados. Bajo un lenguaje técnico de 'actualización de entregas a cuenta', el Gobierno elude el debate parlamentario ordinario sobre la distribución de la riqueza nacional. Se detecta una 'incongruencia ideológica' al presentar como medida técnica de tesorería lo que en realidad es un ajuste discrecional basado en un techo de gasto (noviembre 2025) que no ha pasado por el escrutinio legislativo completo. Esta técnica consolida una gobernanza de parches financieros que debilita la previsibilidad presupuestaria y la transparencia sobre el destino final de los suplementos de crédito millonarios.",
+    "resumen_ciudadano": "Debido a que no hay nuevos presupuestos, el Estado actualiza por decreto el dinero que envía a Comunidades y Ayuntamientos usando previsiones de ingresos de 2026. Esto se hace para evitar que las autonomías se queden sin dinero para sanidad, farmacia o dependencia y para que los ayuntamientos puedan gastar su ahorro (superávit) en vivienda social sin ser multados por las reglas de gasto. En la práctica, es una maniobra para que el Estado siga funcionando sin necesidad de aprobar una ley presupuestaria completa.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Gobierno usa decretos para parchear la falta de Presupuestos. Se inyecta liquidez a CCAA y Ayuntamientos para evitar el colapso de servicios básicos, pero eludiendo el debate parlamentario detallado. 💸📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del Real Decreto-ley para eludir la falta de consenso presupuestario",
+      "Cálculos de financiación basados en un techo de gasto no ratificado legislativamente",
+      "Opacidad en la distribución territorial detallada de los suplementos de crédito",
+      "Habilitación plurianual de gasto en vivienda sin controles específicos de ejecución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidades Autónomas (reciben liquidez inmediata)",
+        "Proveedores de la administración (se agilizan los cobros)",
+        "Ayuntamientos con superávit (flexibilidad para invertir en vivienda)"
+      ],
+      "perdedores": [
+        "Control Parlamentario (se vacía de contenido la potestad presupuestaria de las Cortes)",
+        "Transparencia Ciudadana (dificultad para trazar el origen y destino del gasto)",
+        "Empresas de telefonía móvil (el Estado asume las devoluciones judiciales eximiendo a los ayuntamientos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiautonómico",
+    "tipologia": "Financiación Territorial y Hacienda Pública",
+    "banderas_rojas": [
+      "Uso del Real Decreto-ley para eludir la falta de consenso presupuestario",
+      "Cálculos de financiación basados en un techo de gasto no ratificado legislativamente",
+      "Opacidad en la distribución territorial detallada de los suplementos de crédito",
+      "Habilitación plurianual de gasto en vivienda sin controles específicos de ejecución"
+    ]
+  },
+  "tweeted": false
+}
