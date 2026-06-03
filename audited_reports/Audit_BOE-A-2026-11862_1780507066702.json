@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11862",
+  "timestamp": "2026-06-03T17:17:46.702Z",
+  "title": "Resolución de 22 de mayo de 2026, del Departamento de Justicia y Calidad Democrática, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, relación complementaria, turno libre, que superó el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de la resolución final para una convocatoria que data de diciembre de 2022, lo que evidencia una demora administrativa de casi cuatro años para incorporar personal a la Administración de Justicia en Cataluña. Aunque el documento cumple con la formalidad de publicar destinos y nombres, la 'opacidad' reside en la ineficiencia temporal: procesos selectivos tan dilatados precarizan tanto el servicio público como las expectativas de los opositores. Además, destaca el desplazamiento automático de personal interino, un colectivo que asume la inestabilidad del sistema.",
+    "resumen_ciudadano": "El Departamento de Justicia de la Generalitat de Cataluña ha asignado plazas definitivas a los nuevos funcionarios del Cuerpo de Tramitación Procesal que aprobaron las oposiciones convocadas en 2022. Los seleccionados tienen 20 días para tomar posesión de sus cargos en diversas localidades como Barcelona y Terrassa. Este movimiento implica el cese inmediato de los trabajadores interinos que ocupaban esas plazas hasta ahora.",
+    "resumen_tweet": "⚖️ Tras 4 años de espera, Cataluña asigna destinos a los aprobados de Justicia de 2022. Ganadores: nuevos funcionarios con plaza fija. Perdedores: interinos que son cesados hoy mismo. La lentitud administrativa también es una forma de opacidad. #BOE #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Dilatación excesiva del proceso (2022-2026)",
+      "Cese fulminante de personal interino sin periodo de transición",
+      "Bloqueo de movilidad: prohibición de concursar en 2 años"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (adjudicatarios)",
+        "Generalitat de Catalunya (estabilización de plantilla técnica)",
+        "Sector femenino (78% de las plazas en el anexo son para mujeres)"
+      ],
+      "perdedores": [
+        "Personal interino (cesado automáticamente)",
+        "Ciudadanía (servicio judicial ralentizado por procesos de 4 años)",
+        "Aspirantes en lista de espera (por la rigidez del sistema de adjudicación)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Dilatación excesiva del proceso (2022-2026)",
+      "Cese fulminante de personal interino sin periodo de transición",
+      "Bloqueo de movilidad: prohibición de concursar en 2 años"
+    ]
+  },
+  "tweeted": false
+}
