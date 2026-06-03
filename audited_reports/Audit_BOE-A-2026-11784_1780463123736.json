@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11784",
+  "timestamp": "2026-06-03T05:05:23.736Z",
+  "title": "Acuerdo de 12 de enero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria del Magistrado don Rafael Tomás Climent Durán.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de un acto administrativo ordinario de jubilación voluntaria bajo el régimen de Clases Pasivas del Estado. La opacidad reside en la nula mención al impacto presupuestario de estos 'derechos pasivos' (pensiones) de la alta judicatura. Existe un desfase temporal de 5 meses entre la firma del acuerdo (enero) y su publicación en el BOE (junio), lo que dificulta el control ciudadano en tiempo real sobre las vacantes y el gasto público.",
+    "resumen_ciudadano": "El Magistrado Rafael Tomás Climent Durán se jubila voluntariamente de su plaza en Gijón. Esto implica que pasará a cobrar una pensión vitalicia de funcionario de alto nivel, financiada con impuestos, sin que el documento detalle el coste anual para las arcas públicas.",
+    "resumen_tweet": "⚖️ Jubilación voluntaria en la justicia de Gijón. Rafael Tomás Climent Durán deja su plaza con 'derechos pasivos' vitalicios asegurados. ¿Cuál es el coste real para el contribuyente? La opacidad sigue en las cifras. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de memoria económica adjunta",
+      "Retraso de 5 meses en la publicación oficial",
+      "Uso de terminología técnica para ocultar el coste de pensiones (derechos pasivos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El magistrado (acceso a jubilación voluntaria con beneficios de Clases Pasivas)",
+        "Sector judicial (rotación de plazas de alto nivel)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de una pensión de nivel máximo sin transparencia en la cuantía)",
+        "Ciudadanos de Gijón (pérdida de un juez titular hasta la cobertura de la vacante)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Nombramientos, situaciones e incidencias de personal",
+    "banderas_rojas": [
+      "Falta de memoria económica adjunta",
+      "Retraso de 5 meses en la publicación oficial",
+      "Uso de terminología técnica para ocultar el coste de pensiones (derechos pasivos)"
+    ]
+  },
+  "tweeted": false
+}
