@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11853",
+  "timestamp": "2026-06-03T17:09:19.708Z",
+  "title": "Orden PJC/546/2026, de 22 de mayo, por la que se nombra personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, relación complementaria, turno libre, a las personas que superaron el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Estamos ante la culminación de un proceso de estabilización extraordinaria que ha tardado 4 años en resolverse (convocatoria de 2022 resuelta en 2026). La utilización del sistema de 'concurso' (solo méritos, sin examen) apunta a una regularización masiva de personal interino para cumplir con normativas europeas contra la temporalidad, más que a una búsqueda de nuevo talento. Existe una 'opacidad temporal' donde la administración dilata nombramientos críticos para el funcionamiento de los juzgados.",
+    "resumen_ciudadano": "El Ministerio de Justicia oficializa el nombramiento de personal administrativo para juzgados en varias regiones. Estas personas entran como funcionarios de carrera tras un proceso selectivo iniciado hace años, cubriendo plazas de tramitación procesal en Canarias, Cataluña, Madrid, País Vasco y Valencia.",
+    "resumen_tweet": "⚖️ ¡4 años para resolver! El #BOE publica hoy nombramientos de Tramitación Procesal pendientes desde 2022. Un proceso de 'concurso' que estabiliza interinos pero confirma la lentitud crónica de la Justicia. 🐢📜 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (4 años para un nombramiento)",
+      "Sistema de acceso por concurso (riesgo de endogamia administrativa)",
+      "Publicación de relación complementaria (parcheo de vacantes previas)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino de larga duración (consolidan plaza)",
+        "Mujeres (predominancia absoluta en el listado de aprobados)",
+        "Sindicatos de justicia (presión por estabilización)"
+      ],
+      "perdedores": [
+        "Opositores jóvenes (el sistema de méritos les excluye frente a la antigüedad)",
+        "Ciudadanía (la lentitud en renovar plantillas lastra la agilidad judicial)",
+        "Eficiencia presupuestaria (coste de procesos selectivos que duran años)"
+      ]
+    },
+    "comunidad_autonoma": "Plurirregional (Canarias, Cataluña, Madrid, País Vasco, Valencia)",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (4 años para un nombramiento)",
+      "Sistema de acceso por concurso (riesgo de endogamia administrativa)",
+      "Publicación de relación complementaria (parcheo de vacantes previas)"
+    ]
+  },
+  "tweeted": false
+}
