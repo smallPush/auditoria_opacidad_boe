@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-11856",
+  "timestamp": "2026-06-04T04:59:47.870Z",
+  "title": "Resolución 430/38268/2026, de 27 de mayo, de la Secretaría de Estado de Defensa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38218/2026, de 16 de abril.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El nombramiento mediante la modalidad de 'libre designación' para la Subdirección General de Adquisiciones de Armamento y Material representa un punto crítico de opacidad institucional. Este cargo es el responsable de gestionar contratos de suministros bélicos de gran volumen económico. Aunque se cita un informe de valoración de expertos y el Real Decreto-ley 6/2023, el proceso de libre designación permite una discrecionalidad política que puede comprometer la independencia técnica necesaria en la contratación pública de Defensa. No se publican los méritos específicos ni la puntuación comparada de los candidatos, solo la resolución final.",
+    "resumen_ciudadano": "Defensa ha cubierto 'a dedo' (libre designación) el puesto de responsable de las compras de armas y material militar. Esta figura permite que la Secretaría de Estado elija directamente al candidato, lo que en áreas de alto presupuesto como es el armamento, genera dudas sobre si la elección se basa en la excelencia técnica o en la confianza política para gestionar partidas de gasto opacas.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El responsable de comprar armas para España es nombrado por 'libre designación'. Menos mérito técnico y más control político en contratos millonarios. ¿Dónde queda la transparencia en Defensa? 🛡️💸 #Opacidad #Transparencia #GastoMilitar",
+    "banderas_red_flags": [
+      "Uso de libre designación en área de alta sensibilidad presupuestaria",
+      "Inexistencia de desglose de criterios de evaluación de expertos",
+      "Concentración de poder de contratación en un cargo de designación discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alfonso Pedro González Lavín",
+        "Secretaría de Estado de Defensa (control directo sobre adquisiciones)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos políticos",
+        "Ciudadanía (menor fiscalización del gasto militar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo Profesional",
+    "banderas_rojas": [
+      "Uso de libre designación en área de alta sensibilidad presupuestaria",
+      "Inexistencia de desglose de criterios de evaluación de expertos",
+      "Concentración de poder de contratación en un cargo de designación discrecional"
+    ]
+  },
+  "tweeted": false
+}
