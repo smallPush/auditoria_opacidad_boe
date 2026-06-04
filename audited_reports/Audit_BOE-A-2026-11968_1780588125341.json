@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-11968",
+  "timestamp": "2026-06-04T15:48:45.341Z",
+  "title": "Resolución de 4 de mayo de 2026, de la Entidad Municipal Descentralizada del Estartit (Girona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "Se detecta una incongruencia técnica significativa: se convoca una plaza de 'Auxiliar' (categoría generalmente C1/C2) pero se le atribuyen 'funciones de dirección' (propias de categorías A1/A2). Esta maniobra puede esconder una precarización salarial, donde se exige responsabilidad directiva a cambio de un sueldo de técnico auxiliar, o la creación de un perfil ad hoc donde el apartado de 'concurso' (méritos) pese más que la 'oposición' para favorecer a un candidato interno ya presente en la estructura municipal.",
+    "resumen_ciudadano": "La Entidad Municipal Descentralizada del Estartit convoca una plaza de biblioteca que mezcla un rango bajo con responsabilidades altas. Se utilizará el sistema de concurso-oposición, lo que otorga discrecionalidad a la administración para valorar la experiencia previa por encima del examen, en un puesto cuyas funciones de mando no coinciden con su titulación técnica básica.",
+    "resumen_tweet": "🚨 ¿Auxiliar o Director? El #BOE publica plaza en L'Estartit para 'Auxiliar de Biblioteca' con 'funciones de dirección'. ¿Precarización o traje a medida? El sistema concurso-oposición bajo sospecha. 🧐📚 #Opacidad #Transparencia #Girona",
+    "banderas_red_flags": [
+      "Disonancia entre categoría profesional y funciones reales",
+      "Riesgo de arbitrariedad en la valoración de méritos (concurso)",
+      "Posible ahorro presupuestario a costa de la jerarquía administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración local (obtiene un director a precio de auxiliar)",
+        "Candidato con experiencia previa específica en la entidad"
+      ],
+      "perdedores": [
+        "Licenciados en biblioteconomía (excluidos por nivel de plaza)",
+        "Personal laboral que busca ascenso por méritos objetivos",
+        "Transparencia en la gestión de recursos humanos"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Disonancia entre categoría profesional y funciones reales",
+      "Riesgo de arbitrariedad en la valoración de méritos (concurso)",
+      "Posible ahorro presupuestario a costa de la jerarquía administrativa"
+    ]
+  },
+  "tweeted": false
+}
