@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-11952",
+  "timestamp": "2026-06-04T15:34:04.189Z",
+  "title": "Resolución de 22 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 10 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 0.4,
+    "analisis_critico": "El documento oficializa un nombramiento mediante el sistema de 'libre designación', un mecanismo legal pero criticado por permitir la adjudicación de puestos de alta responsabilidad (Nivel 30, el máximo en la administración) basándose en criterios de confianza personal y política en lugar de un concurso de méritos puro. Aunque se cita la normativa vigente, no se detallan los méritos específicos que han llevado a la elección de la candidata sobre otros posibles aspirantes, manteniendo la opacidad estructural del sistema de 'dedazo' institucionalizado.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de Vocal Asesor en el Gabinete Técnico de la Secretaría General de Inclusión a Ana Álvarez Sánchez. Este cargo, de nivel 30, ha sido asignado por el método de libre designación, lo que significa que el ministerio elige directamente a la persona sin un proceso de oposición pública competitiva.",
+    "resumen_tweet": "🚨 ¡Otro puesto de Nivel 30 adjudicado a dedo! ☝️ El Ministerio de Inclusión usa la 'libre designación' para blindar su gabinete técnico. Menos meritocracia, más discrecionalidad. ¿Transparencia? Brilla por su ausencia. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Nivel 30 (Máximo nivel retributivo)",
+      "Falta de justificación de méritos específicos",
+      "Puesto de confianza en Gabinete Técnico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Álvarez Sánchez (accede a un puesto de Nivel 30)",
+        "Cúpula del Ministerio (asegura personal de afinidad directa)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de carrera profesional por méritos)",
+        "Ciudadanía (opacidad en la selección de altos cargos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento por libre designación",
+    "banderas_rojas": [
+      "Libre designación",
+      "Nivel 30 (Máximo nivel retributivo)",
+      "Falta de justificación de méritos específicos",
+      "Puesto de confianza en Gabinete Técnico"
+    ]
+  },
+  "tweeted": false
+}
