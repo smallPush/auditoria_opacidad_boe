@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11963",
+  "timestamp": "2026-06-04T15:38:14.241Z",
+  "title": "Resolución de 28 de mayo de 2026, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas y se modifican los miembros de los órganos de selección del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en la Escala de Profesorado de Investigación de los Organismos Públicos de Investigación, convocado por Resolución de 23 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una opacidad técnica característica de los procesos de alta escala administrativa. Se detecta un 'baile de nombres' masivo en los órganos de selección (tribunales) a propuesta de organismos como el CSIC, CIEMAT e INTA, sin explicar las causas de estas sustituciones en cadena. Esta rotación de jueces a mitad del proceso genera dudas sobre la estabilidad de los criterios de evaluación. Además, la exclusión de aspirantes mediante códigos numéricos crípticos (ej. 13.4, 13.7) sin desglose semántico inmediato en el texto obliga al ciudadano a una búsqueda externa, dificultando la transparencia reactiva.",
+    "resumen_ciudadano": "El Ministerio de Ciencia publica la lista de admitidos y excluidos para las plazas de Profesor de Investigación. Si estás en la lista de excluidos, tienes 10 días para reclamar solo por vía electrónica. Lo más llamativo es el cambio masivo de los jueces (tribunales) que evaluarán a los científicos en áreas como Química, Biología y Humanidades.",
+    "resumen_tweet": "🔬 ¿Quién juzga a la élite científica? El @CienciaGob cambia decenas de miembros en tribunales de OPIs a mitad de proceso. Opacidad en motivos y exclusiones por códigos crípticos. ¿Transparencia o burocracia de élite? 📑🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sustitución masiva de vocales y presidentes de tribunales post-convocatoria",
+      "Uso de códigos de exclusión no explicados en el cuerpo del texto",
+      "Brecha digital: Obligatoriedad de subsanación exclusivamente electrónica",
+      "Falta de justificación para las propuestas de cambio de los organismos (CSIC/CIEMAT)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos miembros de tribunales designados (redes de influencia académica)",
+        "Administración General del Estado (al imponer trámites 100% digitales que reducen el volumen de reclamaciones físicas)"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos por defectos de forma o firma electrónica",
+        "Transparencia pública (por la falta de motivación en los cambios de tribunal)",
+        "Investigadores de carrera con dificultades de acceso a la plataforma Cl@ve"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sustitución masiva de vocales y presidentes de tribunales post-convocatoria",
+      "Uso de códigos de exclusión no explicados en el cuerpo del texto",
+      "Brecha digital: Obligatoriedad de subsanación exclusivamente electrónica",
+      "Falta de justificación para las propuestas de cambio de los organismos (CSIC/CIEMAT)"
+    ]
+  },
+  "tweeted": false
+}
