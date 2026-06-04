@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-11854",
+  "timestamp": "2026-06-04T04:58:56.742Z",
+  "title": "Orden PJC/547/2026, de 22 de mayo, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justica, relación complementaria, turno libre, que superó el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se observa una dilación temporal significativa entre la convocatoria original (2022) y la adjudicación de destinos (2026), lo que refleja una burocracia lenta que afecta la eficiencia judicial. El uso de una 'relación complementaria' sugiere que las plazas originales no se cubrieron o hubo renuncias, dejando vacantes críticas durante años. Además, se impone un castigo de inmovilidad de dos años para los nuevos funcionarios, limitando su derecho a la conciliación bajo un sistema de 'carácter forzoso'.",
+    "resumen_ciudadano": "El Ministerio de Justicia adjudica plazas fijas a 19 personas en las Islas Baleares para el cuerpo de Tramitación Procesal, tras un proceso iniciado en 2022. Los nuevos funcionarios tienen 20 días para tomar posesión, mientras que los interinos que ocupaban esas plazas son despedidos de forma automática y fulminante el mismo día del relevo.",
+    "resumen_tweet": "⚖️ El #BOE adjudica plazas en Baleares para Tramitación Procesal (convocatoria 2022). 4 años de espera para 19 funcionarios. La cara B: el cese inmediato de interinos sin transición. ¿Es esta la eficiencia judicial prometida? #Justicia #Opacidad #Baleares",
+    "banderas_red_flags": [
+      "Retraso administrativo de 4 años desde la convocatoria",
+      "Cese inmediato de personal interino sin periodo de preaviso funcional",
+      "Prohibición de participar en concursos de traslados durante 2 años",
+      "Adjudicación de carácter forzoso",
+      "Existencia de plazas desiertas que no se asignan a pesar de la necesidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "19 funcionarios de carrera (obtienen estabilidad laboral)",
+        "Administración de Justicia en Illes Balears (reduce tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino cesado (despido automático)",
+        "Ciudadanos (afectados por la lentitud de 4 años en cubrir plazas fijas)",
+        "Nuevos funcionarios (restringidos de movilidad geográfica por 24 meses)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos y Destinos de Función Pública",
+    "banderas_rojas": [
+      "Retraso administrativo de 4 años desde la convocatoria",
+      "Cese inmediato de personal interino sin periodo de preaviso funcional",
+      "Prohibición de participar en concursos de traslados durante 2 años",
+      "Adjudicación de carácter forzoso",
+      "Existencia de plazas desiertas que no se asignan a pesar de la necesidad"
+    ]
+  },
+  "tweeted": false
+}
