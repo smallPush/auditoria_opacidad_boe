@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-11969",
+  "timestamp": "2026-06-04T15:44:17.365Z",
+  "title": "Resolución de 26 de mayo de 2026, del Ayuntamiento de La Carlota (Córdoba), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de 'promoción interna' y sistema de 'concurso-oposición'. Esta combinación es un mecanismo clásico de la administración para consolidar personal preexistente, limitando la entrada de talento externo y meritocracia abierta. Al remitir las bases al Boletín Provincial, el BOE actúa meramente como un tablón de anuncios vacío de contenido sustancial, obligando al ciudadano a un rastreo burocrático para auditar los criterios de selección.",
+    "resumen_ciudadano": "El Ayuntamiento de La Carlota reserva una plaza de Técnico de Gestión exclusivamente para empleados que ya forman parte de su plantilla. No es una oferta de empleo para el público general, sino un proceso de ascenso interno cuyos detalles y criterios de puntuación están ocultos en boletines de menor rango.",
+    "resumen_tweet": "🧐 El Ayto. de La Carlota convoca plaza de Técnico de Gestión, PERO solo para los que ya están dentro (Promoción Interna). 🏰 ¿Mérito o muro burocrático? El sistema concurso-oposición vuelve a escena. #BOE #Opacidad #Transparencia #Córdoba 🇪🇸",
+    "banderas_red_flags": [
+      "Endogamia administrativa por promoción interna restringida",
+      "Opacidad por remisión a boletines provinciales",
+      "Sistema de concurso-oposición con alta subjetividad en la fase de concurso",
+      "Falta de desglose presupuestario del coste de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ayuntamiento de La Carlota",
+        "Estructuras de mando local"
+      ],
+      "perdedores": [
+        "Opositores externos cualificados",
+        "Ciudadanos en busca de primer empleo público",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Endogamia administrativa por promoción interna restringida",
+      "Opacidad por remisión a boletines provinciales",
+      "Sistema de concurso-oposición con alta subjetividad en la fase de concurso",
+      "Falta de desglose presupuestario del coste de la plaza"
+    ]
+  },
+  "tweeted": false
+}
