@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12041",
+  "timestamp": "2026-06-05T15:25:03.517Z",
+  "title": "Real Decreto 455/2026, de 3 de junio, por el que se regula la concesión directa de subvenciones a favor de determinadas entidades, asociaciones y fundaciones para actividades relacionadas con la promoción, fomento y divulgación de la Memoria Democrática y el reconocimiento moral de las víctimas de la Guerra de España y la dictadura.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' amparándose en el artículo 22.2.c) de la Ley General de Subvenciones para evitar la concurrencia competitiva. La justificación de 'excepcionalidad' e 'imposibilidad de convocatoria pública' es técnicamente débil, ya que se basa en la supuesta exclusividad de las entidades para gestionar sus propios archivos o legados, bloqueando la posibilidad de que otros investigadores o asociaciones opten a fondos mediante proyectos competitivos. Se observa una clara discrecionalidad política al seleccionar entidades específicas (dedazo institucional) bajo el paraguas ético de la Memoria Democrática, lo que dificulta la auditoría de eficiencia en el gasto público.",
+    "resumen_ciudadano": "El Gobierno otorga dinero público directamente y sin concurso a una lista cerrada de ayuntamientos, fundaciones (como la de García Lorca o Juan Negrín) y asociaciones. El motivo alegado es que estas entidades son 'únicas' para realizar actividades de divulgación histórica y reparación de víctimas, evitando así que otras organizaciones puedan competir por esos fondos.",
+    "resumen_tweet": "🔴 ¡Dedo a la vista! El Gobierno reparte subvenciones DIRECTAS (sin concurso) a fundaciones y ayuntamientos seleccionados a mano 💸. Justifican 'excepcionalidad' para evitar la libre competencia. ¿Transparencia? Escasa. #BOE #Opacidad #Transparencia 🧐⚖️",
+    "banderas_red_flags": [
+      "Concesión directa sin concurso público",
+      "Justificación subjetiva de exclusividad de las entidades",
+      "Uso de conceptos jurídicos indeterminados como 'razones humanitarias' para evitar la fiscalización",
+      "Falta de desglose presupuestario individualizado en el cuerpo del texto analizado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos seleccionados (Cocentaina, Leciceña, Portbou)",
+        "Fundaciones culturales específicas (Lorca, Max Aub, Juan Negrín)",
+        "Ateneo de Madrid y AIPAZ"
+      ],
+      "perdedores": [
+        "Asociaciones de memoria histórica no seleccionadas",
+        "Investigadores independientes sin vinculación institucional",
+        "Contribuyentes (por la ausencia de licitación para optimizar costes)"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (España)",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Concesión directa sin concurso público",
+      "Justificación subjetiva de exclusividad de las entidades",
+      "Uso de conceptos jurídicos indeterminados como 'razones humanitarias' para evitar la fiscalización",
+      "Falta de desglose presupuestario individualizado en el cuerpo del texto analizado"
+    ]
+  },
+  "tweeted": false
+}
