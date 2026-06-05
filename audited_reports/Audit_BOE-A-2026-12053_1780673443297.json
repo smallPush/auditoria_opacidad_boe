@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12053",
+  "timestamp": "2026-06-05T15:30:43.297Z",
+  "title": "Resolución de 28 de mayo de 2026, de la Presidencia del Consejo de Estado, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Técnico de Sistemas (Nivel 22) resulta cuestionable desde una óptica de mérito y capacidad. Aunque legal bajo la Ley 30/1984, adjudicar puestos técnicos mediante discrecionalidad política en lugar de concurso abierto genera opacidad. Es destacable que el adjudicatario provenga del Cuerpo de Maestros de Arsenales de la Armada y pase al Consejo de Estado, un órgano consultivo supremo, bajo la firma de la Presidenta Carmen Calvo. Este tipo de movimientos suelen blindar estructuras de confianza personal en puestos que deberían ser estrictamente profesionales.",
+    "resumen_ciudadano": "Se ha adjudicado 'a dedo' un puesto de técnico informático en el Consejo de Estado. En lugar de un examen o concurso donde gane el mejor preparado, se utiliza la libre designación, permitiendo que la dirección elija directamente a la persona, en este caso procedente del Ministerio de la Presidencia.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo 'dedazo' en el Consejo de Estado. Se adjudica por libre designación un puesto técnico de sistemas. ¿Mérito o confianza política? La opacidad administrativa persiste en los niveles altos. 📉 #BOE #Opacidad #Transparencia #Enchufismo",
+    "banderas_red_flags": [
+      "Libre designación en puesto técnico",
+      "Procedimiento discrecional",
+      "Adjudicatario procedente de ministerio político (Presidencia)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agustín Ávila Gil (adjudicatario)",
+        "Presidencia del Consejo de Estado (control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos superiores",
+        "Ciudadanía (por falta de competencia real en el acceso al puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación en puesto técnico",
+      "Procedimiento discrecional",
+      "Adjudicatario procedente de ministerio político (Presidencia)"
+    ]
+  },
+  "tweeted": false
+}
