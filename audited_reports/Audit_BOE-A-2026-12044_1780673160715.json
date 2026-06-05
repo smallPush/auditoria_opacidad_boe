@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-12044",
+  "timestamp": "2026-06-05T15:26:00.715Z",
+  "title": "Real Decreto 457/2026, de 3 de junio, por el que se regula la concesión directa de una subvención a la Fundación César Carlos.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Este Real Decreto utiliza la figura de la 'concesión directa' para eludir la concurrencia competitiva, justificándolo en una supuesta 'singularidad' del Colegio Mayor César Carlos. Se detecta un 'Gasto Fantasma' potencial en la autorización para sufragar deudas de ejercicios anteriores (2024-2026), lo que convierte la subvención en un rescate financiero encubierto. Además, permitir la subcontratación del 100% de la actividad desnaturaliza el propósito de la ayuda y dificulta el rastreo del destino final de los fondos públicos.",
+    "resumen_ciudadano": "El Gobierno ha concedido casi medio millón de euros (482.500€) a una fundación privada que gestiona un colegio mayor para opositores a cuerpos de élite de la Administración. En lugar de abrir un concurso público para que otros centros puedan optar a estas ayudas, el dinero se entrega 'a dedo', permitiendo incluso que se use para pagar deudas pasadas de la propia fundación.",
+    "resumen_tweet": "🚨 ¡Dedazo en el #BOE! 482.500€ directos a la Fundación César Carlos para formar a la élite del Estado. 💸 Se permite pagar deudas de años anteriores y subcontratar el 100%. ¿Ayuda social o rescate encubierto? 🧐 #Opacidad #Transparencia #Casta",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación retroactiva de deudas (2024-2026)",
+      "Subcontratación permitida del 100%",
+      "Justificación de 'singularidad' altamente subjetiva",
+      "Fomento de la endogamia en los altos cuerpos de la Administración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación César Carlos (rescate de su balance financiero)",
+        "Opositores a cuerpos superiores del Estado (C1/A1) con acceso a este centro"
+      ],
+      "perdedores": [
+        "Otros centros y colegios mayores que no reciben ayudas directas",
+        "Contribuyentes (financiación de centros privados de élite con dinero público)",
+        "Principio de igualdad de oportunidades en el acceso a subvenciones"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Subvención Directa / Real Decreto",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación retroactiva de deudas (2024-2026)",
+      "Subcontratación permitida del 100%",
+      "Justificación de 'singularidad' altamente subjetiva",
+      "Fomento de la endogamia en los altos cuerpos de la Administración"
+    ]
+  },
+  "tweeted": false
+}
