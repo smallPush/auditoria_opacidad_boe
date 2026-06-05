@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12052",
+  "timestamp": "2026-06-05T15:28:46.101Z",
+  "title": "Resolución de 28 de mayo de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oficializa un nombramiento por el sistema de 'libre designación', un mecanismo que, aunque legal bajo la Ley 30/1984, permite la adjudicación de puestos basada en la confianza personal y no estrictamente en el mérito competitivo. El adjudicatario proviene de la Jefatura Provincial de Tráfico de La Rioja (Ministerio del Interior) para ocupar una secretaría de nivel 17 en la Delegación del Gobierno contra la Violencia de Género en Madrid. Este movimiento entre departamentos tan dispares bajo un sistema de elección discrecional suele ocultar redes de afinidad administrativa o política.",
+    "resumen_ciudadano": "El Ministerio de Igualdad ha elegido a dedo a un nuevo secretario para el Director General contra la Violencia de Género. El funcionario seleccionado trabajaba antes en Tráfico en Logroño y ahora se traslada a Madrid. Este tipo de nombramientos no pasan por un concurso de méritos abierto, sino que dependen de la decisión directa del cargo superior.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Igualdad. Un puesto de nivel 17 mediante libre designación. De Tráfico en La Rioja a la lucha contra la Violencia de Género en Madrid. 🕵️‍♂️ ¿Mérito o confianza? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (sistema discrecional)",
+      "Puesto de confianza en secretaría de alto cargo",
+      "Cambio radical de área técnica (de Tráfico a Igualdad)",
+      "Traslado geográfico financiado por el sistema de provisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Peñaranda Ortega (obtiene plaza de confianza en Madrid)",
+        "Subsecretaría de Igualdad (capacidad de elegir personal afín)"
+      ],
+      "perdedores": [
+        "Funcionarios con especialización en Igualdad sin acceso al puesto",
+        "Ciudadanía (opacidad en los criterios de selección real)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (sistema discrecional)",
+      "Puesto de confianza en secretaría de alto cargo",
+      "Cambio radical de área técnica (de Tráfico a Igualdad)",
+      "Traslado geográfico financiado por el sistema de provisión"
+    ]
+  },
+  "tweeted": false
+}
