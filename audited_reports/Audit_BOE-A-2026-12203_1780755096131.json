@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12203",
+  "timestamp": "2026-06-06T14:11:36.131Z",
+  "title": "Resolución de 26 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el mecanismo de libre designacion para puestos de Nivel 29, el maximo escalafon administrativo, que gestionaran directamente fondos del Plan de Recuperacion, Transformacion y Resiliencia (PRTR). Aunque se detallan funciones tecnicas, este sistema permite una seleccion discrecional, lo que genera una barrera de opacidad sobre el merito real frente a la afinidad politica. La coincidencia de funciones criticas (gestion de ayudas industriales) con un metodo de seleccion 'a dedo' es una practica recurrente que debilita la independencia de la funcion publica.",
+    "resumen_ciudadano": "El Ministerio de Industria convoca 5 puestos de alta direccion en Madrid para gestionar ayudas publicas y fondos europeos. Al ser por 'libre designacion', los jefes eligen directamente a quien quieran entre los candidatos, lo que resta objetividad al proceso y favorece el amiguismo en la gestion de millones de euros en subvenciones.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! El Ministerio de Industria convoca 5 puestazos de Nivel 29 a 'dedo' (libre designacion). Manejaran fondos europeos y ayudas industriales. ¿Transparencia o red de favores? 🧐💼 #Opacidad #Transparencia #Industria",
+    "banderas_red_flags": [
+      "Sistema de libre designacion en puestos de gestion de fondos",
+      "Alta discrecionalidad en la valoracion de meritos",
+      "Puestos de Nivel 29 con alta retribucion especifica",
+      "Concentracion de poder administrativo en Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de elite (A1) con perfil de confianza politica",
+        "Estructura burocratica centralizada en Madrid"
+      ],
+      "perdedores": [
+        "Funcionarios con meritos tecnicos pero sin conexiones",
+        "Transparencia en la gestion del gasto publico",
+        "Ciudadania que exige meritocracia en la gestion de fondos europeos"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provision de puestos por libre designacion",
+    "banderas_rojas": [
+      "Sistema de libre designacion en puestos de gestion de fondos",
+      "Alta discrecionalidad en la valoracion de meritos",
+      "Puestos de Nivel 29 con alta retribucion especifica",
+      "Concentracion de poder administrativo en Madrid"
+    ]
+  },
+  "tweeted": false
+}
