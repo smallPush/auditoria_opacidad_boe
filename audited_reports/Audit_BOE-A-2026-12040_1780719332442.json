@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-12040",
+  "timestamp": "2026-06-06T04:15:32.442Z",
+  "title": "Real Decreto 454/2026, de 3 de junio, por el que se regula la concesión directa de una subvención a la Red Española de Teatros, Auditorios, Circuitos y Festivales de Titularidad Pública, Asociación Cultural, con el fin de crear el Circuito de Artes Escénicas y Memoria Democrática.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se detecta una concesión directa de 400.000 euros bajo el amparo de 'razones de interés público', evitando así la concurrencia competitiva y la licitación pública. El texto admite explícitamente que esta subvención NO estaba incluida en el Plan Estratégico de Subvenciones 2025-2027, justificando su aparición repentina como una 'necesidad surgida con posterioridad'. El uso del artículo 22.2.c de la Ley 38/2003 es un mecanismo común para la asignación discrecional de fondos a entidades afines o redes ya establecidas (la Red Española de Teatros se fundó por convenio con el propio Ministerio). Además, se permite que un 10% del total se use para 'gastos de funcionamiento ordinario', lo que constituye una transferencia de fondos a la estructura interna de la asociación sin vinculación directa a una actividad concreta.",
+    "resumen_ciudadano": "El Gobierno ha otorgado de forma directa 400.000 euros a la Red Española de Teatros para crear un circuito de obras de teatro sobre los 50 años de la democracia. Al ser una 'concesión directa', no se ha permitido que otras organizaciones compitan por el proyecto ni se ha buscado la oferta más económica o de mayor calidad mediante concurso público.",
+    "resumen_tweet": "🚨 €400.000 asignados 'a dedo' para teatro y memoria democrática. Sin concurso público y fuera del plan estratégico original. ¿Cultura o discrecionalidad presupuestaria? 🎭🏛️ #BOE #Opacidad #Transparencia #MemoriaDemocrática",
+    "banderas_red_flags": [
+      "Concesión directa eludiendo la concurrencia competitiva",
+      "Subvención no prevista en el Plan Estratégico de Subvenciones",
+      "Financiación de gastos de funcionamiento ordinario de la entidad (10%)",
+      "Posible duplicidad con programas existentes (PLATEA)",
+      "Justificación de excepcionalidad basada en una red preexistente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Red Española de Teatros (gestión directa de fondos)",
+        "Compañías de teatro ya vinculadas a la Red",
+        "Ministerio de Política Territorial (control del relato de la Transición)"
+      ],
+      "perdedores": [
+        "Asociaciones culturales pequeñas fuera de la Red",
+        "Contribuyentes (falta de transparencia en la eficiencia del gasto)",
+        "Sector cultural emergente sin acceso a ayudas directas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvención",
+    "banderas_rojas": [
+      "Concesión directa eludiendo la concurrencia competitiva",
+      "Subvención no prevista en el Plan Estratégico de Subvenciones",
+      "Financiación de gastos de funcionamiento ordinario de la entidad (10%)",
+      "Posible duplicidad con programas existentes (PLATEA)",
+      "Justificación de excepcionalidad basada en una red preexistente"
+    ]
+  },
+  "tweeted": false
+}
