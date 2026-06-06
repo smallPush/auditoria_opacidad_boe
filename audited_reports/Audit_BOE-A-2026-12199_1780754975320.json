@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12199",
+  "timestamp": "2026-06-06T14:09:35.320Z",
+  "title": "Acuerdo de 26 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convocan pruebas de promoción y especialización en los asuntos propios de los órganos de lo mercantil.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el proceso técnico de selección está bien definido, existe una opacidad presupuestaria respecto al coste de las 'licencias por estudios' de un mes con sueldo para los aspirantes y las dietas del tribunal. Se observa un sesgo de clase corporativa al limitar el acceso exclusivamente a quienes ya integran la carrera judicial o fiscal, reforzando la endogamia del sistema. El requisito de 50 horas de formación en género para asuntos mercantiles parece más un filtro administrativo que una herramienta de transformación sustancial en litigios comerciales.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial busca 12 jueces especialistas en temas mercantiles (empresas, quiebras, etc.). Los candidatos podrán dejar de trabajar un mes para estudiar manteniendo su sueldo. El proceso incluye exámenes orales, escritos y un curso final en la Escuela Judicial.",
+    "resumen_tweet": "⚖️ El CGPJ busca 12 especialistas en lo Mercantil. ¿El coste? Un mes de 'licencia' pagada para estudiar y dietas de tribunal no cuantificadas. Acceso restringido solo a la élite judicial y fiscal. #BOE #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Coste no desglosado de las licencias retribuidas de un mes",
+      "Opacidad en las dietas y retribuciones del tribunal calificador",
+      "Requisito de formación en género como posible barrera de acceso discrecional",
+      "Endogamia profesional al excluir a juristas externos de prestigio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de la Carrera Judicial y Fiscal con antigüedad",
+        "Catedráticos y abogados del Estado que integran el tribunal (dietas)"
+      ],
+      "perdedores": [
+        "Ciudadanos con procesos pendientes (retrasos por licencias de estudios)",
+        "Juristas externos excluidos de la especialización",
+        "Contribuyentes (pagan el sueldo de quienes estudian sin ejercer)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Administrativa y Judicial",
+    "banderas_rojas": [
+      "Coste no desglosado de las licencias retribuidas de un mes",
+      "Opacidad en las dietas y retribuciones del tribunal calificador",
+      "Requisito de formación en género como posible barrera de acceso discrecional",
+      "Endogamia profesional al excluir a juristas externos de prestigio"
+    ]
+  },
+  "tweeted": false
+}
