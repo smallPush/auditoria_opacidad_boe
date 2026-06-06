@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-12196",
+  "timestamp": "2026-06-06T14:05:43.261Z",
+  "title": "Resolución de 21 de mayo de 2026, de la Universidad Politécnica de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento cumple con la formalidad de publicar nombramientos, pero mantiene la opacidad sistémica sobre el coste económico real de estas plazas de por vida. Aunque existe una paridad aparente en las categorías superiores (2 hombres y 2 mujeres en cátedras), no se detalla el proceso de selección ni el número de candidatos descartados, lo que impide evaluar la meritocracia frente a la endogamia universitaria. La resolución se basa en la LOSU, pero no desglosa las partidas presupuestarias que sustentarán estos salarios de funcionarios del Estado.",
+    "resumen_ciudadano": "La Universidad Politécnica de Madrid ha oficializado el nombramiento de 4 catedráticos y 3 profesores titulares en áreas que van desde la Arquitectura hasta la Ingeniería Aeroespacial. Estos profesionales pasan a ser personal funcionario, lo que implica un compromiso de gasto público a largo plazo que no viene detallado en la resolución.",
+    "resumen_tweet": "🎓 Nueva tanda de funcionarios en la UPM. ¿Transparencia? Solo nombres. ¿Coste real para el bolsillo público? Incógnita. El sistema premia la estabilidad de unos pocos mientras la precariedad docente sigue en la sombra. 🏛️💸 #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Opacidad en los criterios de las comisiones de juzgado",
+      "Riesgo de endogamia académica estructural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal docente nombrado (estabilidad laboral vitalicia)",
+        "Cuerpos de catedráticos (consolidación de poder académico)"
+      ],
+      "perdedores": [
+        "Investigadores precarios sin plazas",
+        "Contribuyentes (por falta de información sobre el coste de la masa salarial)",
+        "Candidatos externos no seleccionados"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Opacidad en los criterios de las comisiones de juzgado",
+      "Riesgo de endogamia académica estructural"
+    ]
+  },
+  "tweeted": false
+}
