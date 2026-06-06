@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12037",
+  "timestamp": "2026-06-06T04:11:27.859Z",
+  "title": "Orden HAC/557/2026, de 3 de junio, por la que se dictan las normas para la elaboración de los Presupuestos Generales del Estado para 2027.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Orden HAC/557/2026 utiliza un escenario geopolítico de crisis extrema (conflicto Irán-Israel-EE.UU.) como narrativa de legitimación para una expansión del gasto, destacando un 'Plan Integral de Respuesta' de 5.000 millones de euros ya comprometidos vía Real Decreto-ley. Existe una opacidad significativa en la mención a un 'nuevo sistema de financiación' territorial que se introduce sin detalles técnicos, sugiriendo posibles acuerdos bilaterales fuera del régimen común. El uso de neologismos como 'dimensión marrón' en los informes de sostenibilidad añade complejidad técnica que puede dificultar la fiscalización ciudadana sobre el destino real de las partidas de transición ecológica.",
+    "resumen_ciudadano": "Hacienda establece las reglas para los presupuestos de 2027. Se justifica un gasto extraordinario de 5.000 millones de euros por la crisis energética derivada de la guerra en Oriente Medio. La normativa promete priorizar vivienda, sanidad y educación pública, pero introduce cambios profundos en cómo se repartirá el dinero entre las comunidades autónomas sin explicar los nuevos criterios de equidad.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Hacienda prepara los Presupuestos 2027 usando la guerra en Irán para justificar 5.000M€ de gasto extra. Ojo al 'nuevo sistema de financiación' territorial: ¿opacidad o privilegios? 🕵️‍♂️📉 #Opacidad #Transparencia #PGE2027",
+    "banderas_red_flags": [
+      "Gasto de 5.000M€ vinculado al RD-ley 7/2026 con destino genérico",
+      "Nuevo sistema de financiación autonómica sin desglose de criterios de equidad",
+      "Uso de terminología ambigua como 'dimensión marrón' para el análisis de gasto",
+      "Dependencia de escenarios de incertidumbre para justificar desviaciones fiscales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administraciones autonómicas beneficiadas por el nuevo sistema de financiación",
+        "Empresas vinculadas a la digitalización y transición ecológica",
+        "Aparato burocrático de gestión de fondos europeos"
+      ],
+      "perdedores": [
+        "Ciudadanos afectados por el encarecimiento de hidrocarburos",
+        "Pequeñas empresas dependientes de suministros del Golfo Pérsico",
+        "Transparencia en el reparto territorial del gasto"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Normativa de Elaboración de Presupuestos",
+    "banderas_rojas": [
+      "Gasto de 5.000M€ vinculado al RD-ley 7/2026 con destino genérico",
+      "Nuevo sistema de financiación autonómica sin desglose de criterios de equidad",
+      "Uso de terminología ambigua como 'dimensión marrón' para el análisis de gasto",
+      "Dependencia de escenarios de incertidumbre para justificar desviaciones fiscales"
+    ]
+  },
+  "tweeted": false
+}
