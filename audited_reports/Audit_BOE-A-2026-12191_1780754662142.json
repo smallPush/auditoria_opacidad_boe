@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12191",
+  "timestamp": "2026-06-06T14:04:22.142Z",
+  "title": "Orden EFD/566/2026, de 1 de junio, por la que se resuelve la convocatoria de libre designación, efectuada por Orden EFD/324/2026, de 30 de marzo.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolución emplea el sistema de 'libre designación', un mecanismo que permite la elección discrecional por parte de los órganos políticos. Aunque se invoca la presencia de 'Asesores expertos' y el marco del Real Decreto-ley 6/2023 vinculado al Plan de Recuperación, la ausencia de baremación pública de méritos y de las actas de evaluación de otros posibles candidatos reduce la meritocracia a una cuestión de confianza técnica. El paso de un nivel 28 a un nivel 30 (el máximo en la administración española) supone una consolidación de carrera profesional blindada por una decisión administrativa no competitiva.",
+    "resumen_ciudadano": "Se ha nombrado a una nueva Subdirectora General de Centros y Emprendimiento en el Ministerio de Educación. El puesto ha sido otorgado por 'libre designación' (elección directa por confianza) y corresponde al Nivel 30, el escalafón más alto y mejor remunerado dentro de los funcionarios del Estado.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Adjudicación 'a dedo' (libre designación) de una Subdirección General Nivel 30 en Educación. Menos meritocracia y más discrecionalidad bajo el paraguas del Plan de Recuperación. 📉 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de publicidad de los criterios de los asesores expertos",
+      "Adjudicación del máximo nivel administrativo (Nivel 30)",
+      "Uso de normativa de urgencia para legitimar provisión de puestos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisca Saez Garcia (adjudicataria)",
+        "Ministerio de Educación (control de puestos directivos)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios por méritos competitivos",
+        "Transparencia en la gestión de recursos públicos",
+        "Igualdad de oportunidades en el acceso a la alta dirección pública"
+      ]
+    },
+    "comunidad_autonoma": "Madrid (Ámbito Estatal)",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de publicidad de los criterios de los asesores expertos",
+      "Adjudicación del máximo nivel administrativo (Nivel 30)",
+      "Uso de normativa de urgencia para legitimar provisión de puestos"
+    ]
+  },
+  "tweeted": false
+}
