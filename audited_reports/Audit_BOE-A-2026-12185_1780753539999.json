@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12185",
+  "timestamp": "2026-06-06T13:45:39.999Z",
+  "title": "Orden PJC/564/2026, de 4 de junio, por la que se aprueba y publica el programa formativo de la especialidad de Medicina Intensiva, que incluye los criterios de evaluación de sus especialistas en formación y los requisitos de acreditación de las unidades docentes de Medicina Intensiva.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden PJC/564/2026 actualiza un programa formativo estancado desde 1996, lo cual es positivo, pero incurre en la habitual opacidad financiera de las reformas sanitarias. Aunque el texto invoca el principio de 'eficiencia' y 'gestión racional de recursos', no detalla la dotación presupuestaria necesaria para que las Unidades Docentes cumplan con los nuevos requisitos de acreditación en el plazo de 3 años. Esto sugiere un gasto fantasma derivado de la carga administrativa y de infraestructura que los centros sanitarios deberán absorber sin fondos adicionales específicos. Se detecta una incongruencia ideológica: se promueve la 'humanización' y evaluación 360º, pero el sistema sigue pivotando sobre la 'relación laboral especial' de residencia, que en la práctica suele implicar precariedad y sobrecarga horaria no abordada en el currículo.",
+    "resumen_ciudadano": "Esta norma define cómo se formarán los futuros especialistas de la UCI en España. Introduce métodos modernos de examen (simulaciones y evaluaciones de compañeros) y obliga a los hospitales a renovar sus acreditaciones docentes. Sin embargo, no aclara quién pagará las mejoras necesarias en los hospitales para cumplir con estos nuevos estándares.",
+    "resumen_tweet": "🏥 Nueva regulación para médicos de UCI: se moderniza la formación tras 30 años pero sin presupuesto claro para que los hospitales se adapten. ¿Más calidad o solo más burocracia para el #MIR? 👁️ #BOE #Opacidad #Sanidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada para la adaptación de infraestructuras docentes",
+      "Plazo de 3 años para re-acreditación sin fondos de apoyo previstos",
+      "Vigencia de programas antiguos para residentes actuales generando dualidad formativa en un mismo servicio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros hospitalarios universitarios (con capacidad de cumplir requisitos fácilmente)",
+        "Empresas de software y simulación médica",
+        "Comisiones Nacionales (mayor control normativo)"
+      ],
+      "perdedores": [
+        "Hospitales pequeños de provincias (riesgo de perder acreditación docente)",
+        "Tutores MIR (incremento masivo de tareas de evaluación sin compensación horaria)",
+        "Pacientes en áreas rurales si se cierran unidades docentes periféricas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Formación Sanitaria Especializada",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada para la adaptación de infraestructuras docentes",
+      "Plazo de 3 años para re-acreditación sin fondos de apoyo previstos",
+      "Vigencia de programas antiguos para residentes actuales generando dualidad formativa en un mismo servicio"
+    ]
+  },
+  "tweeted": false
+}
