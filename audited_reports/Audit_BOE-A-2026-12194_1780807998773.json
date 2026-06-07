@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-12194",
+  "timestamp": "2026-06-07T04:53:18.773Z",
+  "title": "Resolución de 28 de mayo de 2026, de la Presidencia del Consejo de Estado, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla la resolución de un puesto mediante 'libre designación', una modalidad que, aunque legal, permite la adjudicación discrecional de cargos basada en la confianza y no estrictamente en el baremo de méritos competitivos. Se trata de un puesto de Nivel 26 en el Consejo de Estado, un órgano consultivo supremo donde la independencia debería ser prioritaria. La falta de una memoria justificativa pública sobre por qué el candidato elegido es más idóneo que otros aspirantes perpetúa la percepción de opacidad en la administración de las altas instituciones del Estado.",
+    "resumen_ciudadano": "El Consejo de Estado ha nombrado a un nuevo Jefe de Servicio de Tramitaciones y Consultas en Madrid. La elección se ha realizado mediante el sistema de 'libre designación', lo que significa que la dirección elige directamente al candidato entre los funcionarios que cumplen los requisitos básicos, sin necesidad de un concurso de méritos abierto y puntuable.",
+    "resumen_tweet": "🏛️ Nuevo 'dedazo' legal en el Consejo de Estado. Se adjudica una Jefatura de Servicio (Nivel 26) mediante libre designación. La discrecionalidad vuelve a ganarle la partida a la meritocracia pura. #BOE #Opacidad #Transparencia #Administración Púbica",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos técnicos",
+      "Ausencia de puntuación desglosada de candidatos",
+      "Opacidad en los criterios de idoneidad final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Solana Gásquez, Tomás Manuel",
+        "Cargos directivos con potestad de elección discrecional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza política",
+        "Ciudadanía (por la reducción de la meritocracia)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos técnicos",
+      "Ausencia de puntuación desglosada de candidatos",
+      "Opacidad en los criterios de idoneidad final"
+    ]
+  },
+  "tweeted": false
+}
