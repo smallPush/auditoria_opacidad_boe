@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12200",
+  "timestamp": "2026-06-07T14:18:24.501Z",
+  "title": "Acuerdo de 26 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convocan pruebas de especialización para la provisión de plazas de Magistrado especialista en el orden jurisdiccional contencioso-administrativo.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El acuerdo del CGPJ presenta una estructura reglada pero con matices de opacidad en su ejecución indirecta. Se detecta un 'gasto fantasma' en forma de lucro cesante: la concesión de licencias de estudios de hasta un mes para los aspirantes supone que el Estado sufraga el sueldo de funcionarios que dejan de ejercer su función jurisdiccional para promoción personal. Existe una barrera de entrada ideológica/técnica explícita: la obligatoriedad de 50 horas de formación en 'perspectiva de género', un requisito que actúa como filtro previo sobre la carrera profesional. La discrecionalidad del tribunal es alta, pudiendo finalizar exámenes de forma unilateral si aprecian 'deficiencia de contenido', lo que genera inseguridad jurídica frente a criterios subjetivos.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial convoca 14 plazas de magistrado especialista en pleitos contra la Administración. Para participar, los jueces y fiscales actuales deben llevar 2 años en el cargo y tener formación específica en género. Se les permite dejar de trabajar un mes para estudiar cobrando su sueldo, lo que puede aumentar el atasco judicial. El examen incluye una parte oral y la redacción de una sentencia.",
+    "resumen_tweet": "⚖️ ¿Especialización o filtro ideológico? El #CGPJ convoca 14 plazas para magistrados especialistas. Obligan a tener 50h de formación en género y permiten 1 mes de 'baja' pagada para estudiar. ¿Quién paga el retraso en los juzgados? 💸 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Gasto indirecto por licencias de estudios remuneradas",
+      "Criterio de exclusión por formación ideológica específica (género)",
+      "Alta subjetividad en la interrupción del examen oral por el tribunal",
+      "Falta de desglose presupuestario del coste de las dietas del tribunal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de la carrera judicial con formación en perspectiva de género",
+        "Magistrados que buscan ascenso y sueldo superior",
+        "Catedráticos y abogados del Estado designados para el tribunal (dietas)"
+      ],
+      "perdedores": [
+        "Ciudadanos (demoras por licencias de estudio de jueces)",
+        "Jueces con méritos técnicos pero sin formación específica en género",
+        "Contribuyentes (coste de la formación y sustituciones)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Promoción Interna Judicial",
+    "banderas_rojas": [
+      "Gasto indirecto por licencias de estudios remuneradas",
+      "Criterio de exclusión por formación ideológica específica (género)",
+      "Alta subjetividad en la interrupción del examen oral por el tribunal",
+      "Falta de desglose presupuestario del coste de las dietas del tribunal"
+    ]
+  },
+  "tweeted": false
+}
