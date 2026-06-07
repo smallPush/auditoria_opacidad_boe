@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12186",
+  "timestamp": "2026-06-07T04:50:15.515Z",
+  "title": "Ley del Principado de Asturias 3/2026, de 13 de mayo, de Colegios Profesionales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 3/2026 de Asturias intenta modernizar un sector anclado en la normativa de 1974, pero mantiene estructuras de poder cerradas. El uso sistemático del 'silencio administrativo negativo' (Art. 18 y 22) para la aprobación de estatutos e inscripciones registrales actúa como una barrera de entrada injustificada bajo el pretexto de 'interés general'. Además, la ley permite excepciones de ámbito territorial para colegios preexistentes (Disposición Transitoria Primera), lo que sugiere un blindaje a grupos de interés locales frente a la homogeneización autonómica.",
+    "resumen_ciudadano": "Asturias establece su primera ley propia para colegios profesionales. Aunque obliga a auditorías cada dos años y ventanilla única electrónica, otorga a la administración regional el poder de bloquear cambios o nuevos colegios simplemente no respondiendo a tiempo (silencio negativo). Se mantiene el privilegio de colegios antiguos que no llegan al ámbito provincial.",
+    "resumen_tweet": "🕵️‍♂️ Asturias regula sus Colegios Profesionales: ¿Transparencia o control? Se impone el 'silencio negativo' para frenar nuevos colectivos y se blindan estructuras antiguas. Auditorías cada 2 años pero con lagunas. 📉 #BOE #Opacidad #Transparencia #Asturias",
+    "banderas_red_flags": [
+      "Silencio administrativo negativo como barrera burocrática",
+      "Excepciones territoriales ad hoc para colegios preexistentes",
+      "Presupuestos de carácter meramente estimativo (Art. 11.3)",
+      "Criterios vagos para acreditar la 'representatividad' en nuevas creaciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Colegios profesionales tradicionales",
+        "Administración del Principado de Asturias (mayor control registral)",
+        "Cúpulas colegiales consolidadas"
+      ],
+      "perdedores": [
+        "Nuevos colectivos profesionales (trabas a la creación)",
+        "Consumidores (posible lentitud en actualización de estatutos)",
+        "Profesiones sin titulación universitaria oficial (excluidas del modelo)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Derecho Corporativo / Colegios Profesionales",
+    "banderas_rojas": [
+      "Silencio administrativo negativo como barrera burocrática",
+      "Excepciones territoriales ad hoc para colegios preexistentes",
+      "Presupuestos de carácter meramente estimativo (Art. 11.3)",
+      "Criterios vagos para acreditar la 'representatividad' en nuevas creaciones"
+    ]
+  },
+  "tweeted": false
+}
