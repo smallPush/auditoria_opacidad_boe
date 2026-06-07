@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12201",
+  "timestamp": "2026-06-07T14:19:35.822Z",
+  "title": "Acuerdo de 26 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convocan pruebas de especialización para la provisión de plazas de Magistrado especialista en el orden jurisdiccional social.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El acuerdo del CGPJ para plazas de especialistas en lo Social presenta una estructura procedimental clara pero con puntos críticos de opacidad indirecta. Se observa una 'barrera de entrada ideológica' al exigir específicamente 50 horas de formación en perspectiva de género como requisito previo, lo cual, aunque legal, actúa como un filtro selectivo antes de la prueba. El sistema de examen oral, a pesar de los instrumentos de evaluación, mantiene un alto grado de discrecionalidad técnica del tribunal. Además, la apertura de plazas de la Carrera Judicial a miembros de la Carrera Fiscal es un movimiento que diluye la separación funcional, permitiendo un trasvase que puede afectar a la especialización técnica puramente judicial.",
+    "resumen_ciudadano": "Se convocan 11 plazas para Magistrados especialistas en el orden social (laboral). Pueden participar jueces y fiscales con al menos 2 años de servicio. El proceso incluye un examen teórico oral, un examen práctico (redacción de sentencia) y un curso obligatorio en la Escuela Judicial. Se reserva una plaza para personas con discapacidad.",
+    "resumen_tweet": "⚖️ El CGPJ convoca 11 plazas de especialista en lo Social. Filtro de 50h en perspectiva de género y sistema de examen oral con margen de discrecionalidad. ¿Promoción basada en mérito técnico o alineación normativa? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la valoración del ejercicio oral",
+      "Filtro previo obligatorio de 50 horas en formación específica de género",
+      "Opacidad en el coste económico de las licencias por estudios otorgadas",
+      "Posibilidad de 'invasión' de plazas judiciales por parte de la carrera fiscal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de la Carrera Judicial y Fiscal con antigüedad",
+        "Centros de formación que imparten los cursos de género requeridos",
+        "Escuela Judicial (centralización de la formación)"
+      ],
+      "perdedores": [
+        "Juristas externos de reconocido prestigio (acceso cerrado)",
+        "Magistrados con carga de trabajo excesiva que no pueden solicitar licencias",
+        "Ciudadanos que buscan una justicia desvinculada de requisitos formativos de sesgo político"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Promoción Interna y Acceso a la Especialización Judicial",
+    "banderas_rojas": [
+      "Discrecionalidad en la valoración del ejercicio oral",
+      "Filtro previo obligatorio de 50 horas en formación específica de género",
+      "Opacidad en el coste económico de las licencias por estudios otorgadas",
+      "Posibilidad de 'invasión' de plazas judiciales por parte de la carrera fiscal"
+    ]
+  },
+  "tweeted": false
+}
