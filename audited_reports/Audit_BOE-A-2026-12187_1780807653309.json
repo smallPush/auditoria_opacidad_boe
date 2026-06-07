@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12187",
+  "timestamp": "2026-06-07T04:47:33.309Z",
+  "title": "Acuerdo de 7 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Andrés Palacios Martínez.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se documenta un proceso administrativo estándar de jubilación forzosa por cumplimiento de edad legal. Aunque el acto es transparente en su forma, la opacidad reside en el sistema de 'Clases Pasivas', donde los derechos pasivos (pensiones) de altos cargos judiciales no son desglosados públicamente, impidiendo el control ciudadano sobre el gasto público a largo plazo. Se observa una demora de dos meses entre la adopción del acuerdo y su publicación efectiva en el BOE.",
+    "resumen_ciudadano": "El magistrado Andrés Palacios Martínez, destinado en la Audiencia Provincial de Sevilla, finaliza su carrera judicial de forma obligatoria al alcanzar la edad máxima establecida por ley. A partir de junio de 2026, pasará a percibir su pensión de jubilación como funcionario del Estado.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la Audiencia de Sevilla: el magistrado Andrés Palacios deja su cargo por edad. ¿Renovación o pérdida de experiencia? El coste de las pensiones de alto rango sigue fuera del foco ciudadano. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la pensión vitalicia",
+      "Desfase temporal entre el acuerdo (abril) y la publicación (junio)",
+      "Sostenibilidad del sistema de Clases Pasivas para altos cargos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (acceso a pensión máxima)",
+        "Futuros aspirantes a la vacante en Sevilla"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento de pensiones de alto nivel)",
+        "Administración de Justicia (pérdida de efectivos con experiencia)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la pensión vitalicia",
+      "Desfase temporal entre el acuerdo (abril) y la publicación (junio)",
+      "Sostenibilidad del sistema de Clases Pasivas para altos cargos"
+    ]
+  },
+  "tweeted": false
+}
