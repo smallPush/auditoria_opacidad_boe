@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12202",
+  "timestamp": "2026-06-07T14:21:06.194Z",
+  "title": "Resolución de 26 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La convocatoria emplea el sistema de 'libre designación', un mecanismo de selección discrecional que se aleja de los principios de mérito y capacidad. Es especialmente preocupante que para puestos de responsabilidad técnica, como el 'Jefe de Sección de Contratos Seguridad', las columnas de funciones y méritos específicos en el anexo se dejen vacías, lo que otorga un cheque en blanco a la administración para elegir perfiles basados en la confianza política o personal en lugar de la solvencia técnica.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ofrece tres puestos de trabajo que se cubrirán 'a dedo' (libre designación). Aunque son cargos pagados con dinero público para gestionar contratos de seguridad y apoyo administrativo, la convocatoria no detalla qué experiencia específica se requiere ni qué tareas se realizarán exactamente, favoreciendo la opacidad en el acceso a estos empleos.",
+    "resumen_tweet": "🚨 ¡Dedo en lugar de mérito! Exteriores convoca puestos de 'libre designación' para contratos de seguridad y secretaría. Las columnas de méritos y funciones están VACÍAS. ¿Transparencia o clientelismo? 🕵️‍♂️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de provisión por libre designación",
+      "Ausencia de descripción de funciones en el anexo",
+      "Ausencia de méritos específicos requeridos",
+      "Puesto relacionado con seguridad gestionado discrecionalmente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad política o personal a la cúpula del Ministerio",
+        "Altos cargos que refuerzan su círculo de confianza con discrecionalidad"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mejores méritos técnicos pero sin contactos",
+        "Contribuyentes, debido al riesgo de gestión ineficiente por falta de perfiles técnicos validados"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Madrid)",
+    "tipologia": "Provisión de puestos de trabajo / Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de provisión por libre designación",
+      "Ausencia de descripción de funciones en el anexo",
+      "Ausencia de méritos específicos requeridos",
+      "Puesto relacionado con seguridad gestionado discrecionalmente"
+    ]
+  },
+  "tweeted": false
+}
