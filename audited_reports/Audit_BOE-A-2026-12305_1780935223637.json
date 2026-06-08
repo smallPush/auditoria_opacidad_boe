@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12305",
+  "timestamp": "2026-06-08T16:13:43.637Z",
+  "title": "Real Decreto 464/2026, de 3 de junio, por el que se nombra Presidenta del Tribunal de Instancia de Gavà (Barcelona) a la Magistrada doña Mónica Buetas Mesa.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto formaliza el nombramiento de Mónica Buetas Mesa tras una elección interna por la Junta de Jueces de Gavà. Aunque se citan las bases legales (LOPJ), el documento carece de transparencia sobre los méritos competitivos o la existencia de otros candidatos. Es un ejemplo de 'endogamia administrativa' donde el poder judicial se organiza a sí mismo; si bien es legal, el ciudadano no tiene visibilidad sobre por qué esta persona es la más idónea para el cargo más allá de la votación de sus pares.",
+    "resumen_ciudadano": "Se ha nombrado a Mónica Buetas Mesa como la nueva Presidenta del Tribunal de Instancia en Gavà, Barcelona. Este es un cargo de gestión y liderazgo dentro de los juzgados locales. El proceso fue decidido por los propios jueces de la zona y ratificado por el Consejo General del Poder Judicial.",
+    "resumen_tweet": "⚖️ Mónica Buetas Mesa, nueva Presidenta del Tribunal de Gavà. Elección interna entre jueces ratificada por el CGPJ. ¿Transparencia en los méritos? Escasa. La justicia se organiza entre bambalinas. 🏛️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de mérito y capacidad",
+      "Falta de publicidad de candidaturas alternativas",
+      "Mecanismo de cooptación interna (jueces eligen a su jefe)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mónica Buetas Mesa (ascenso jerárquico)",
+        "Junta de Jueces de Gavà (mantenimiento de autonomía)"
+      ],
+      "perdedores": [
+        "Transparencia pública (proceso cerrado)",
+        "Sociedad civil (nula capacidad de fiscalización de cargos judiciales)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y personal - Poder Judicial",
+    "banderas_rojas": [
+      "Opacidad en los criterios de mérito y capacidad",
+      "Falta de publicidad de candidaturas alternativas",
+      "Mecanismo de cooptación interna (jueces eligen a su jefe)"
+    ]
+  },
+  "tweeted": false
+}
