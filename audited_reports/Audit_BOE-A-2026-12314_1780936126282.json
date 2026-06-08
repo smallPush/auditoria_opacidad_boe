@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12314",
+  "timestamp": "2026-06-08T16:28:46.282Z",
+  "title": "Resolución de 29 de mayo de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 27 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un caso de ascenso vertical acelerado dentro de la burocracia estatal en el exterior. El puesto es de nivel 30 (el máximo para un funcionario), adjudicado mediante el sistema de 'Libre Designación', lo que implica una selección discrecional por parte del Ministerio sin necesidad de baremación objetiva de méritos. El adjudicatario ya ocupaba un nivel 29 en el mismo destino (Bruselas), lo que sugiere una estructura de consolidación de poder en la Representación Permanente ante la UE. Este mecanismo, aunque legal, fomenta la creación de redes de confianza política en detrimento del acceso por mérito estricto.",
+    "resumen_ciudadano": "El Ministerio ha otorgado a dedo un puesto de máxima responsabilidad y remuneración en Bruselas a un funcionario que ya trabajaba allí. Se utiliza el sistema de 'libre designación', que permite elegir a la persona sin explicar los motivos técnicos ni compararla públicamente con otros aspirantes. Esto garantiza el control del Ministerio sobre puestos clave en Europa, pero reduce la igualdad de oportunidades.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' de alto nivel en Bruselas. El Ministerio adjudica una Consejería de Nivel 30 mediante libre designación. Sin criterios de mérito público, la élite administrativa se consolida en el extranjero. 🇪🇺 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre Designación en puestos de Nivel 30",
+      "Escasa justificación de idoneidad frente a otros candidatos",
+      "Adjudicación en el exterior con opacidad de complementos retributivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago Blanes Cabanes (promoción a Nivel 30)",
+        "Cuerpo de Ingenieros Industriales del Estado",
+        "Cúpula del Ministerio para la Transición Ecológica"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin redes de confianza",
+        "Contribuyente (financiación de altos cargos sin proceso competitivo abierto)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Exterior)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre Designación en puestos de Nivel 30",
+      "Escasa justificación de idoneidad frente a otros candidatos",
+      "Adjudicación en el exterior con opacidad de complementos retributivos"
+    ]
+  },
+  "tweeted": false
+}
