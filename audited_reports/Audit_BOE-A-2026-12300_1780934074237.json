@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12300",
+  "timestamp": "2026-06-08T15:54:34.237Z",
+  "title": "Sentencia de 19 de mayo de 2026, de la Sala Tercera del Tribunal Supremo, que estima parcialmente el recurso contencioso-administrativo interpuesto por la Abogada de la Generalitat Valenciana, en la representación que de ésta ostenta, contra el Real Decreto 1312/2024, de 23 de diciembre, por el que se regula el procedimiento de Registro Único de Arrendamientos y se crea la Ventanilla Única Digital de Arrendamientos para la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La sentencia del Tribunal Supremo representa un choque de competencias entre el Estado y las Comunidades Autónomas. Al anular la obligatoriedad de la inscripción en el Registro de la Propiedad para obtener el número de registro de alquileres de corta duración, el tribunal desactiva el núcleo de control del Real Decreto 1312/2024. Este fallo evidencia un intento del Gobierno central por centralizar datos turísticos y de vivienda bajo una 'Ventanilla Única' que invadía las competencias autonómicas en materia de vivienda y turismo. La opacidad reside en cómo el Estado intentó justificar una medida de control administrativo a través de un registro de seguridad jurídica privada (Registro de la Propiedad), lo que el Supremo ha considerado un exceso regulatorio.",
+    "resumen_ciudadano": "El Tribunal Supremo ha anulado gran parte de la normativa que obligaba a los propietarios de pisos turísticos a inscribirse en el Registro de la Propiedad para poder operar. Esta sentencia da la razón a la Generalitat Valenciana, protegiendo sus competencias propias sobre turismo y frenando el control centralizado que pretendía imponer el Estado a través de la Ventanilla Única Digital de Arrendamientos.",
+    "resumen_tweet": "⚖️ ¡Varapalo judicial! El Supremo tumba la obligación de pasar por el Registro de la Propiedad para alquilar pisos turísticos. Victoria para las CCAA frente al control centralizado del Estado. 🏠🔓 #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Invasión de competencias autonómicas por parte del Estado",
+      "Uso del Registro de la Propiedad para fines de control administrativo-turístico sin base legal",
+      "Anulación de múltiples artículos clave que dejan la normativa en un limbo operativo",
+      "Posible incremento de la fragmentación regulatoria entre regiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Generalitat Valenciana",
+        "Propietarios de viviendas de uso turístico (menos trámites burocráticos)",
+        "Plataformas de alquiler (menor rigor en la validación registral inmediata)"
+      ],
+      "perdedores": [
+        "Gobierno de España (Ministerio de Vivienda)",
+        "Sector hotelero tradicional (que buscaba mayor regulación para sus competidores)",
+        "Agencia Tributaria (menor facilidad de cruce de datos centralizados)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Sentencia de Nulidad Parcial",
+    "banderas_rojas": [
+      "Invasión de competencias autonómicas por parte del Estado",
+      "Uso del Registro de la Propiedad para fines de control administrativo-turístico sin base legal",
+      "Anulación de múltiples artículos clave que dejan la normativa en un limbo operativo",
+      "Posible incremento de la fragmentación regulatoria entre regiones"
+    ]
+  },
+  "tweeted": false
+}
