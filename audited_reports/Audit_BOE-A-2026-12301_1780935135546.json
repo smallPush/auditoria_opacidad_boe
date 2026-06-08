@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-12301",
+  "timestamp": "2026-06-08T16:12:15.546Z",
+  "title": "Decreto-ley 4/2026, de 28 de abril, de medidas urgentes en el ámbito de la dependencia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Decreto-ley 4/2026 es una confesión de parte del colapso del sistema de dependencia en Cataluña, admitiendo una lista de espera de 64.000 personas. Se detecta una 'Incongruencia Ideológica' al presentar como 'justicia social' lo que técnicamente es una amnistía de deudas provocadas por la propia ineficacia administrativa (reclamaciones de cobros indebidos que la administración no detectó a tiempo). La creación de 'importes mínimos' (100-200€) funciona como un 'Gasto Fantasma' preventivo: se asigna una cantidad fija para calmar la demanda social sin que esta responda necesariamente al coste real del servicio necesario para el ciudadano.",
+    "resumen_ciudadano": "La Generalitat establece un sistema de urgencia para la dependencia: si estás en lista de espera y tienes grado reconocido, recibirás entre 100€ y 200€ mensuales automáticamente hasta que se resuelva tu expediente completo. Además, el Gobierno perdona las deudas que los ciudadanos tenían con la administración por errores en el cálculo de ayudas pasadas, reconociendo que los retrasos eran culpa del propio sistema. Se prioriza de forma directa a los grandes dependientes y casos de ELA mediante informes médicos, saltándose trámites burocráticos lentos.",
+    "resumen_tweet": "🚨 ¡Colapso en dependencia! Cataluña lanza el Decreto-ley 4/2026 para frenar la lista de 64.000 personas. Pagos 'parche' de 100-200€ y amnistía de deudas por fallos de la administración. ¿Justicia o maquillaje? 📉💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reconocimiento explícito de 64.000 personas en lista de espera",
+      "Amnistía generalizada de deudas con la hacienda pública por errores administrativos",
+      "Establecimiento de 'cuantías mínimas' que podrían desincentivar la resolución de prestaciones superiores",
+      "Uso de contratación de emergencia (vía art. 119 LCSP) para gestión de servicios ordinarios",
+      "Determinación del Grado III 'directo' sin valoración presencial estándar"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Solicitantes de Grado III y ELA (acceso rápido)",
+        "Deudores por errores administrativos previos (amnistía)",
+        "Empresas de servicios y personal temporal (contratación urgente)"
+      ],
+      "perdedores": [
+        "Dependientes de Grado I y II (quedan en segundo plano)",
+        "Sostenibilidad presupuestaria a largo plazo",
+        "Transparencia en los baremos de valoración por la vía directa"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Asistencia Social y Dependencia",
+    "banderas_rojas": [
+      "Reconocimiento explícito de 64.000 personas en lista de espera",
+      "Amnistía generalizada de deudas con la hacienda pública por errores administrativos",
+      "Establecimiento de 'cuantías mínimas' que podrían desincentivar la resolución de prestaciones superiores",
+      "Uso de contratación de emergencia (vía art. 119 LCSP) para gestión de servicios ordinarios",
+      "Determinación del Grado III 'directo' sin valoración presencial estándar"
+    ]
+  },
+  "tweeted": false
+}
