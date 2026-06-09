@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12308",
+  "timestamp": "2026-06-09T04:19:34.778Z",
+  "title": "Corrección de errores del Acuerdo de 12 de enero de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Asunción Covadonga Domínguez Luelmo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Aunque se trata de una corrección técnica de un nombre, el documento revela la ineficiencia burocrática del CGPJ: un acuerdo de jubilación tomado en enero de 2026 no se publica correctamente hasta junio del mismo año. La corrección de 'Rodríguez' por 'Domínguez' es vital para el acceso a 'derechos pasivos' (pensiones de clase alta judicial) que no se cuantifican públicamente en este extracto, manteniendo la opacidad sobre el coste real para el erario público.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial corrige el apellido de la Magistrada María Asunción Covadonga Domínguez Luelmo en su acta de jubilación voluntaria. Este trámite es esencial para que la jueza pueda cobrar su pensión tras su destino en el Tribunal de Instancia de Gijón.",
+    "resumen_tweet": "⚖️ El CGPJ corrige errores en la identidad de una Magistrada jubilada en Gijón. Un acuerdo de enero que se publica mal en junio. La precisión es clave cuando se trata de pensiones de la élite judicial. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retraso administrativo de 5 meses en publicación",
+      "Falta de cuantificación de derechos pasivos",
+      "Error de identificación en documento oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada (garantiza su pensión legal)",
+        "Élite judicial"
+      ],
+      "perdedores": [
+        "Eficiencia del CGPJ",
+        "Ciudadanía (por falta de datos sobre el gasto en pensiones de magistrados)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Administrativa Judicial",
+    "banderas_rojas": [
+      "Retraso administrativo de 5 meses en publicación",
+      "Falta de cuantificación de derechos pasivos",
+      "Error de identificación en documento oficial"
+    ]
+  },
+  "tweeted": false
+}
