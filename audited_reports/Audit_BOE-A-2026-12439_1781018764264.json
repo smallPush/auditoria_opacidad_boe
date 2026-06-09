@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12439",
+  "timestamp": "2026-06-09T15:26:04.264Z",
+  "title": "Acuerdo de 27 de mayo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se convoca la provisión de plaza de Magistrado/a de la Sala Segunda del Tribunal Supremo, turno general.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Aunque la convocatoria se presenta bajo un nuevo Reglamento (1/2025) que intenta objetivar los méritos, el proceso sigue pivotando sobre el concepto de 'nombramiento discrecional'. La estructura de la convocatoria favorece una endogamia académica y gubernativa, donde no solo importa la calidad de las sentencias, sino el 'prestigio del centro docente' y la 'participación en órganos de gobierno'. La comparecencia de solo 10 minutos para una plaza vitalicia en la Sala de lo Penal del Tribunal Supremo (la que juzga a aforados) resulta insuficiente para una evaluación técnica profunda, dejando un amplio margen a la subjetividad del Pleno del CGPJ.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial busca un nuevo juez para la Sala Segunda del Tribunal Supremo. Se exige una carrera de al menos 20 años. Aunque el proceso incluye una entrevista pública transmitida por internet, la decisión final es 'discrecional', lo que significa que el CGPJ tiene la última palabra sobre quién ocupa este puesto clave en la justicia penal española.",
+    "resumen_tweet": "⚖️ ¿Transparencia o dedazo? El CGPJ convoca plaza en la Sala de lo Penal del Supremo. Pese a las entrevistas públicas, el nombramiento sigue siendo 'discrecional'. Solo 10 minutos para evaluar a un juez vitalicio. 🕵️‍♂️ #BOE #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional: La elección final no es puramente automática por puntos.",
+      "Tiempo de comparecencia extremadamente breve: 10 minutos para defender toda una carrera.",
+      "Ponderación de 'prestigio': Conceptos subjetivos en la valoración de centros docentes y publicaciones.",
+      "Informes de 'necesidades específicas' de la Sala: Pueden usarse para teledirigir el perfil del candidato."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados con red de contactos en el CGPJ",
+        "Perfiles con alta producción editorial/académica",
+        "Jueces con trayectoria en órganos de gobierno (presidencias de Audiencias)"
+      ],
+      "perdedores": [
+        "Jueces de base con excelente nivel técnico pero sin cargos políticos/gubernativos",
+        "Magistrados sin tiempo para publicaciones científicas o docencia",
+        "Transparencia absoluta en la meritocracia judicial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Nombramiento discrecional: La elección final no es puramente automática por puntos.",
+      "Tiempo de comparecencia extremadamente breve: 10 minutos para defender toda una carrera.",
+      "Ponderación de 'prestigio': Conceptos subjetivos en la valoración de centros docentes y publicaciones.",
+      "Informes de 'necesidades específicas' de la Sala: Pueden usarse para teledirigir el perfil del candidato."
+    ]
+  },
+  "tweeted": false
+}
