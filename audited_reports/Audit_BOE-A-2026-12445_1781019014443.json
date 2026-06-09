@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12445",
+  "timestamp": "2026-06-09T15:30:14.443Z",
+  "title": "Resolución de 3 de junio de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El documento utiliza el mecanismo de 'libre designación', un eufemismo legal para la adjudicación discrecional de puestos de alta responsabilidad (Nivel 29). Bajo una apariencia de concurrencia pública, los 'méritos' exigidos para el puesto de Coordinador de Área son sospechosamente específicos, mencionando proyectos concretos en Colombia y asesorías en la OMM. Esta práctica es característica de los 'trajes a medida', donde los requisitos se redactan para que solo un candidato predeterminado pueda cumplirlos, burlando el espíritu de la meritocracia administrativa.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica lanza una convocatoria para dos puestos de jefatura con salarios de alto nivel (Nivel 29) en Madrid y Valladolid. Aunque cualquiera que cumpla los requisitos puede presentarse, el sistema de selección es la 'libre designación', lo que significa que el Ministerio elige a quien quiera sin necesidad de una puntuación objetiva. Los requisitos son tan detallados y específicos para proyectos internacionales que sugieren que ya saben a quién van a contratar.",
+    "resumen_tweet": "🕵️‍♂️ ¿Méritos o 'trajes a medida'? El MITECO convoca puestos de Nivel 29 por libre designación. Requisitos tan específicos (proyectos en Colombia 🇨🇴) que huelen a selección precocinada. La meritocracia se diluye. #BOE #Opacidad #Transparencia #Dedazo",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Méritos hiper-específicos vinculados a proyectos internacionales concretos",
+      "Nivel salarial máximo en la escala funcionarial (Nivel 29)",
+      "Posible preselección de candidatos bajo apariencia de proceso abierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con perfiles técnicos-políticos preexistentes",
+        "Élite funcionarial con conexiones internacionales",
+        "Estructura de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos generales",
+        "Sistema de mérito y capacidad",
+        "Transparencia en el acceso a la alta dirección pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Méritos hiper-específicos vinculados a proyectos internacionales concretos",
+      "Nivel salarial máximo en la escala funcionarial (Nivel 29)",
+      "Posible preselección de candidatos bajo apariencia de proceso abierto"
+    ]
+  },
+  "tweeted": false
+}
