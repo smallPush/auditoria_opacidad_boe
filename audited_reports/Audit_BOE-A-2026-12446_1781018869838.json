@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12446",
+  "timestamp": "2026-06-09T15:27:49.838Z",
+  "title": "Resolución de 29 de mayo de 2026, de la Secretaría de Estado de Seguridad Social y Pensiones, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se trata de una convocatoria para un puesto de Vocal Asesor (Nivel 30, el máximo en la carrera funcionarial) mediante el sistema de 'Libre Designación'. Este mecanismo permite la elección discrecional por parte de la autoridad superior, lo que a menudo se traduce en nombramientos 'a dedo' que bordean la frontera entre lo técnico y lo político. Lo más alarmante es que, en el Anexo I, las columnas de 'Funciones' y 'Méritos' aparecen totalmente vacías, lo que impide cualquier tipo de control ciudadano o concurrencia basada en la idoneidad específica para el cargo. Se financia un puesto de alta jerarquía con un Complemento Específico de 24.549,84€ sin detallar qué tareas realizará el adjudicatario.",
+    "resumen_ciudadano": "El Ministerio de Seguridad Social convoca una plaza de asesor de alto nivel en Madrid. El puesto será elegido directamente por los superiores (sin examen u oposición competitiva) y cuenta con un sueldo complementario elevado. No se han publicado las funciones ni los méritos necesarios para el puesto en el BOE.",
+    "resumen_tweet": "🚩 Nueva 'Libre Designación' en el Ministerio de Inclusión. Puesto de Vocal Asesor (Nivel 30) con +24k€ de complemento. ¿Funciones? Vacías en el BOE. ¿Méritos? No especificados. La discrecionalidad gana al mérito. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Funciones no especificadas en el anexo",
+      "Méritos requeridos ausentes en el documento",
+      "Nivel máximo de la administración (Nivel 30)",
+      "Complemento específico elevado sin justificación de tareas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con afinidad política o contactos en la Secretaría de Estado",
+        "La autoridad que designa, por mantener margen de arbitrariedad"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin perfil político",
+        "Ciudadanía, por la falta de transparencia en la definición de puestos de asesoría"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Funciones no especificadas en el anexo",
+      "Méritos requeridos ausentes en el documento",
+      "Nivel máximo de la administración (Nivel 30)",
+      "Complemento específico elevado sin justificación de tareas"
+    ]
+  },
+  "tweeted": false
+}
