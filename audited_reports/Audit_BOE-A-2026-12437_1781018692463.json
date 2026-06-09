@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12437",
+  "timestamp": "2026-06-09T15:24:52.463Z",
+  "title": "Acuerdo de 27 de mayo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se convoca la provisión de la Presidencia de la Sala Tercera del Tribunal Supremo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento articula un proceso formalmente transparente pero sustancialmente opaco. Bajo la etiqueta de 'nombramiento discrecional', el CGPJ abre la convocatoria para la Presidencia de la Sala Tercera del Tribunal Supremo, clave porque controla la legalidad de los actos del Gobierno. Aunque se incluyen comparecencias públicas y criterios de ponderación, la 'discrecionalidad' permite que la decisión final escape a un control meritocrático puro, facilitando repartos de poder internos. Llama la atención la limitación de la comparecencia a solo 10 minutos para un cargo de tal magnitud, lo que reduce la defensa del currículo a un mero trámite formal frente a la negociación política previa.",
+    "resumen_ciudadano": "Se busca nuevo presidente para la Sala del Tribunal Supremo que juzga al Gobierno. El proceso exige ser magistrado del Supremo y presentar un plan de gestión. Aunque las entrevistas serán públicas por internet, la decisión final es 'discrecional', es decir, a voluntad de los vocales del CGPJ, lo que mantiene la sombra de la politización en la cúpula judicial.",
+    "resumen_tweet": "⚖️ ¿Quién vigilará al Gobierno? El #CGPJ convoca la Presidencia de la Sala 3ª del Supremo. Mucho mérito y paridad, pero el nombramiento sigue siendo 'discrecional'. ¡Solo 10 min de entrevista para un cargo vital! #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (subjetividad)",
+      "Tiempo de comparecencia extremadamente breve (10 minutos)",
+      "Criterios de ponderación con alta carga interpretativa",
+      "Posibilidad de añadir candidatos fuera de la terna inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados/as con redes de influencia dentro del CGPJ",
+        "Perfiles con experiencia en cargos de gestión previa (gubernativos)"
+      ],
+      "perdedores": [
+        "Magistrados/as puramente jurisdiccionales sin perfil político/administrativo",
+        "Ciudadanía que espera una despolitización total de la justicia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento Judicial de Alto Rango",
+    "banderas_rojas": [
+      "Nombramiento discrecional (subjetividad)",
+      "Tiempo de comparecencia extremadamente breve (10 minutos)",
+      "Criterios de ponderación con alta carga interpretativa",
+      "Posibilidad de añadir candidatos fuera de la terna inicial"
+    ]
+  },
+  "tweeted": false
+}
