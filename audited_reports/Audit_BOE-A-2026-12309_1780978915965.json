@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12309",
+  "timestamp": "2026-06-09T04:21:55.965Z",
+  "title": "Orden PJC/570/2026, de 25 de mayo, por la que se nombra personal funcionario del Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia a las personas que han superado el proceso selectivo para ingreso, por el sistema general de acceso libre, convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja una gestión administrativa reactiva y fragmentada. Se detecta una 'Incongruencia de Eficiencia' al tener que corregir errores materiales de una orden previa (PJC/152/2026) que omitió injustificadamente a aspirantes aprobados. Existe una alarmante lentitud burocrática: el proceso se convocó en 2022 y los nombramientos se consolidan en 2026, un periodo de 4 años que desgasta al opositor. Además, la exclusión explícita de Andalucía en este listado genera una desconexión territorial en la gestión del personal de Justicia.",
+    "resumen_ciudadano": "Nombramiento oficial de nuevos funcionarios para el Cuerpo de Gestión Procesal tras 4 años de espera desde la convocatoria de 2022. El Ministerio ha tenido que rectificar fallos previos donde olvidaron incluir a personas aprobadas y se registran renuncias de varios seleccionados, posiblemente por el excesivo tiempo transcurrido.",
+    "resumen_tweet": "⚖️ Tras 4 años de espera, el #BOE nombra funcionarios de Justicia de la oferta de 2022. El retraso y los 'errores materiales' en listas previas revelan una burocracia que asfixia al ciudadano. ¡Justicia lenta no es justicia! 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Error material en la relación definitiva de aspirantes previa",
+      "Exclusión del ámbito territorial de Andalucía sin justificación inmediata en el texto",
+      "Dilatación temporal extrema: 4 años entre convocatoria (2022) y nombramiento (2026)",
+      "Renuncias múltiples registradas antes de la toma de posesión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes que subsanaron el error administrativo",
+        "Sectores feminizados (clara mayoría de mujeres en el listado)"
+      ],
+      "perdedores": [
+        "Aspirantes de Andalucía (postergados)",
+        "Eficiencia del servicio público",
+        "Aspirantes que renunciaron por el largo tiempo de espera"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Aragón, Asturias, Canarias, Cataluña, Valencia, Madrid)",
+    "tipologia": "Recursos Humanos y Oposiciones",
+    "banderas_rojas": [
+      "Error material en la relación definitiva de aspirantes previa",
+      "Exclusión del ámbito territorial de Andalucía sin justificación inmediata en el texto",
+      "Dilatación temporal extrema: 4 años entre convocatoria (2022) y nombramiento (2026)",
+      "Renuncias múltiples registradas antes de la toma de posesión"
+    ]
+  },
+  "tweeted": false
+}
