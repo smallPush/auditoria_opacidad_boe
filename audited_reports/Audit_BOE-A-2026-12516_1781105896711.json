@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-12516",
+  "timestamp": "2026-06-10T15:38:16.711Z",
+  "title": "Real Decreto-ley 14/2026, de 9 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2026.",
+  "report": {
+    "nivel_transparencia": 4.2,
+    "analisis_critico": "El texto utiliza una narrativa de emergencia externa (crisis en Irán e inflación) para justificar la repetición de una medida que se ha vuelto estructural desde 2023. La técnica legislativa del Real Decreto-ley evita el debate parlamentario ordinario. Es altamente crítico que el Artículo 1 y el Artículo 6 excluyan explícitamente la aplicación de la Ley 38/2003 General de Subvenciones, lo que reduce los controles de fiscalización, concurrencia y transparencia financiera habituales en la entrega de fondos públicos. Se detecta una 'Incongruencia Ideológica' al presentar como medida de emergencia algo que ya es una tradición estival, usando la urgencia para eludir trámites de control.",
+    "resumen_ciudadano": "El Gobierno aprueba descuentos de hasta el 90% en trenes y autobuses estatales para jóvenes de 18 a 30 años durante el verano de 2026. Para beneficiarse, los jóvenes deben registrarse en una web ministerial. Aunque la medida se presenta como un apoyo contra la inflación, la norma permite entregar dinero público a operadoras de transporte (como Renfe y empresas de autobús) sin pasar por los controles habituales de la Ley de Subvenciones.",
+    "resumen_tweet": "🚆 Vuelve el #VeranoJoven pero con trampa: el Gobierno usa un Decreto de urgencia para saltarse la Ley de Subvenciones 🚩 Dinero público para operadoras con menos control financiero. ¿Ayuda social o marketing electoral? 🚌 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión explícita de la Ley General de Subvenciones",
+      "Uso del Real Decreto-ley para medidas previsibles (cuarto año consecutivo)",
+      "Falta de detalle en la cuantía total de la modificación presupuestaria para Renfe",
+      "Ampliación discrecional de exenciones de pago en red de carreteras (Disp. Final 2ª)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jóvenes de 18 a 30 años (beneficiarios directos)",
+        "Renfe Viajeros S.M.E. (compensaciones garantizadas)",
+        "Empresas de transporte por carretera de competencia estatal",
+        "Sector turístico de grandes destinos nacionales"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de subvenciones sin control de concurrencia)",
+        "Ciudadanos mayores de 30 años (sufren la inflación del transporte sin alivio)",
+        "Sistemas de transporte de competencia autonómica (supeditados a convenios específicos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Real Decreto-ley de Ayudas y Fomento del Transporte",
+    "banderas_rojas": [
+      "Exclusión explícita de la Ley General de Subvenciones",
+      "Uso del Real Decreto-ley para medidas previsibles (cuarto año consecutivo)",
+      "Falta de detalle en la cuantía total de la modificación presupuestaria para Renfe",
+      "Ampliación discrecional de exenciones de pago en red de carreteras (Disp. Final 2ª)"
+    ]
+  },
+  "tweeted": false
+}
