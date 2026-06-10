@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12431",
+  "timestamp": "2026-06-10T04:41:28.997Z",
+  "title": "Orden TES/575/2026, de 5 de junio, por la que se resuelve la convocatoria de libre designación, efectuada por Orden TES/497/2026, de 13 de mayo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 30 (el máximo en la administración) representa la persistencia de mecanismos discrecionales en la alta función pública. Aunque se menciona un 'informe de valoración de competencias' por 'personas expertas', el proceso carece de publicidad en los baremos específicos, convirtiendo la meritocracia en un proceso de confianza política legalizado. Se promociona a un funcionario del nivel 29 al 30 dentro del mismo organismo, consolidando la estructura interna sin apertura real a competencia externa transparente.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha formalizado el nombramiento de Ricardo Cuesta García como Subdirector General de Estadística e Información del SEPE. Este puesto es de libre designación, lo que significa que el ministerio elige directamente al candidato entre los funcionarios que cumplen los requisitos, sin un concurso de méritos tradicional y público.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el SEPE. Adjudicada por libre designación la Subdirección Gral de Estadística (Nivel 30). Informes de 'expertos' opacos para un puesto de máxima confianza salarial. 🕵️‍♂️📉 #BOE #Opacidad #Transparencia #Enchufismo",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Máximo nivel salarial de la administración (Nivel 30)",
+      "Referencia a informes de expertos no publicados ni accesibles",
+      "Endogamia institucional (promoción interna de nivel 29 a 30 en el mismo organismo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ricardo Cuesta García (ascenso al nivel 30)",
+        "Ministerio de Trabajo (mantiene personal de confianza en puestos clave de datos)"
+      ],
+      "perdedores": [
+        "Funcionarios sin red de confianza política",
+        "Ciudadanía (incapacidad de auditar la verdadera competencia del elegido)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en Madrid)",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Máximo nivel salarial de la administración (Nivel 30)",
+      "Referencia a informes de expertos no publicados ni accesibles",
+      "Endogamia institucional (promoción interna de nivel 29 a 30 en el mismo organismo)"
+    ]
+  },
+  "tweeted": false
+}
