@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12427",
+  "timestamp": "2026-06-10T03:50:18.866Z",
+  "title": "Circular 2/2026, de 5 de junio, de la Comisión Nacional de los Mercados y la Competencia, por la que se modifica la Circular 1/2026, de 18 de marzo, por la que se regula el Registro de Alias.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Circular 2/2026 revela una claudicación regulatoria ante la presión de los operadores de telecomunicaciones. Tras solo dos meses de vigencia del Registro de Alias, la CNMC flexibiliza los requisitos de seguridad (eliminando la obligatoriedad de certificados digitales para entidades extranjeras) alegando 'barreras desproporcionadas'. Esta 'flexibilización' permite que la representación se acredite mediante firmas manuscritas o cartas de autorización, lo que debilita la trazabilidad absoluta que se buscaba inicialmente para combatir el 'smishing'. La transición de una 'carga masiva' temporal a una indefinida sugiere que el sistema original era burocráticamente insostenible ante el volumen de 75.000 solicitudes, priorizando la operatividad del tráfico comercial sobre el rigor del control preventivo.",
+    "resumen_ciudadano": "La CNMC ha suavizado las reglas para que las empresas registren los nombres (alias) que usan para enviarte SMS. Antes era obligatorio usar certificados digitales estrictos; ahora, debido a las quejas de las telecos por la 'complejidad técnica' y el volumen de peticiones, se permiten métodos más laxos y delegaciones en terceros. El objetivo es evitar que se bloqueen mensajes legítimos, pero al facilitar el proceso también se reduce el listón de seguridad que protegía contra suplantaciones de identidad.",
+    "resumen_tweet": "⚠️ La @CNMC_ES rebaja la guardia en el Registro de Alias de SMS. Ante la presión de las telecos, se flexibiliza la seguridad para 'facilitar' el tráfico comercial. ¿Más agilidad o más riesgo de fraude? 📱🚫 #BOE #Opacidad #Transparencia #Smishing",
+    "banderas_red_flags": [
+      "Sustitución de certificado digital por firma manuscrita para extranjeros",
+      "Conversión de trámite excepcional (carga masiva) en trámite permanente",
+      "Presión explícita de grupos de interés (operadores) admitida en el texto",
+      "Ampliación de plazos para obligaciones de bloqueo de mensajes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Proveedores de servicios de mensajería (PRO)",
+        "Empresas extranjeras sin sede física en España",
+        "Grandes agregadores de SMS"
+      ],
+      "perdedores": [
+        "Seguridad digital estricta",
+        "Usuarios finales (mayor riesgo potencial de filtración de alias dudosos)",
+        "Pequeñas empresas que ya habían cumplido con el estándar riguroso anterior"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Circular de Regulación de Telecomunicaciones",
+    "banderas_rojas": [
+      "Sustitución de certificado digital por firma manuscrita para extranjeros",
+      "Conversión de trámite excepcional (carga masiva) en trámite permanente",
+      "Presión explícita de grupos de interés (operadores) admitida en el texto",
+      "Ampliación de plazos para obligaciones de bloqueo de mensajes"
+    ]
+  },
+  "tweeted": false
+}
