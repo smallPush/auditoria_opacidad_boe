@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12520",
+  "timestamp": "2026-06-10T16:03:15.196Z",
+  "title": "Orden HAC/580/2026, de 9 de junio, por la que se regula el procedimiento de reintegro de los fondos recibidos con cargo al Mecanismo de Recuperación y Resiliencia.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden HAC/580/2026 establece el 'protocolo de retirada' de los fondos europeos ante el cierre del Plan de Recuperación en 2026. Bajo una apariencia de seguridad jurídica, el texto introduce una 'presunción de incumplimiento' (Art. 4.4) sumamente agresiva: si falta una firma o un certificado en el sistema, se asume que el hito no se ha cumplido, obligando al reintegro. Esto penaliza la gestión administrativa sobre el impacto real del proyecto. Además, el uso supletorio de la Ley General de Subvenciones añade una capa de rigidez burocrática que podría ahogar a entidades locales con menos recursos, mientras que el Tesoro Público actúa como el gran recolector de fondos no ejecutados.",
+    "resumen_ciudadano": "Hacienda dicta las normas para recuperar el dinero de los fondos europeos que no se haya gastado o cuyos objetivos no se hayan cumplido antes de que acabe 2026. Si un ayuntamiento o empresa recibió fondos y no puede demostrar con certificados específicos que cumplió todo lo prometido, tendrá que devolver el dinero al Estado. Se establecen plazos de audiencia y procedimientos de recaudación ejecutiva para asegurar que el dinero regrese al Tesoro Público.",
+    "resumen_tweet": "🚨 Hacienda activa la 'operación retorno' de fondos #NextGenEU. Si falta un papel o no se cumplió el hito, ¡toca devolver el dinero! 💸 Cuidado: la falta de firma ahora equivale a incumplimiento legal. #BOE #Opacidad #Transparencia #FondosEuropeos 🇪🇺",
+    "banderas_red_flags": [
+      "Presunción de incumplimiento por defectos de forma o falta de firma",
+      "Plazos de subsanación reducidos para la complejidad de los fondos MRR",
+      "Posibilidad de fraccionamiento de deuda sujeta a discrecionalidad administrativa",
+      "Responsabilidad de reintegro que puede derivar en cascada hacia ejecutores finales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tesoro Público (recupera liquidez)",
+        "Ministerio de Hacienda (centraliza el control final)",
+        "Auditoras y consultoras de gestión de certificados"
+      ],
+      "perdedores": [
+        "Pequeños municipios (sin capacidad para litigios administrativos)",
+        "Pymes (riesgo de quiebra por reintegros imprevistos)",
+        "Beneficiarios finales de proyectos paralizados por burocracia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera y Procedimiento Administrativo",
+    "banderas_rojas": [
+      "Presunción de incumplimiento por defectos de forma o falta de firma",
+      "Plazos de subsanación reducidos para la complejidad de los fondos MRR",
+      "Posibilidad de fraccionamiento de deuda sujeta a discrecionalidad administrativa",
+      "Responsabilidad de reintegro que puede derivar en cascada hacia ejecutores finales"
+    ]
+  },
+  "tweeted": false
+}
