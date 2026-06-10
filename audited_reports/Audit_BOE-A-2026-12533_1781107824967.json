@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12533",
+  "timestamp": "2026-06-10T16:10:24.967Z",
+  "title": "Resolución de 1 de junio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y por promoción interna, del Cuerpo Superior de Técnicos de la Administración de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Aunque la resolución detalla nombres y destinos, se observa una opacidad técnica en el punto segundo: la 'reclasificación' de niveles de complemento de destino tras la toma de posesión basada en el Real Decreto-ley 6/2023. Esto implica que el coste presupuestario real no es el que figura inicialmente en la tabla, sino uno que se ajustará 'a posteriori', dificultando el control preventivo del gasto. Existe además una disparidad notable en los complementos específicos para un mismo nivel (24), que oscilan entre los 5.720€ y los 9.854€ sin una justificación de funciones que explique tal brecha salarial en el mismo cuerpo técnico.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de nuevos altos funcionarios (técnicos superiores) para gestionar la Seguridad Social. Se publican sus sueldos base y destinos (principalmente en Madrid, Valencia y capitales de provincia), aunque se advierte que sus niveles salariales definitivos podrían subir mediante una revisión técnica posterior ya programada.",
+    "resumen_tweet": "🏛️ El #BOE oficializa nuevos Técnicos Superiores de la Seguridad Social. 💼 Puestos de Nivel 24 con sueldos claros, pero ojo a las 'reclasificaciones' de nivel tras la firma. ¿Ajustes al alza fuera de control? 🧐 #Opacidad #Transparencia #Funcionarios",
+    "banderas_red_flags": [
+      "Reclasificación automática de niveles salariales post-nombramiento",
+      "Brecha de hasta 4.000 euros en complementos específicos para el mismo nivel administrativo",
+      "Uso de decretos de urgencia (RD-ley 6/2023) para modificar estructuras ordinarias de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios de carrera (estabilidad y alta remuneración)",
+        "Madrid (concentra el mayor número de efectivos técnicos)",
+        "Ministerio para la Transformación Digital y Función Pública (refuerza su estructura)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el impacto presupuestario incierto de las reclasificaciones)",
+        "Zonas rurales (la distribución de plazas sigue altamente centralizada en capitales)",
+        "Transparencia presupuestaria inmediata (el gasto final está sujeto a cambios administrativos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Reclasificación automática de niveles salariales post-nombramiento",
+      "Brecha de hasta 4.000 euros en complementos específicos para el mismo nivel administrativo",
+      "Uso de decretos de urgencia (RD-ley 6/2023) para modificar estructuras ordinarias de personal"
+    ]
+  },
+  "tweeted": false
+}
