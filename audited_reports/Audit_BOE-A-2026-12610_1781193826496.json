@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12610",
+  "timestamp": "2026-06-11T16:03:46.496Z",
+  "title": "Compromiso concerniente al reconocimiento de la formación y certificación para la gente de mar en barcos de bandera española, entre la Dirección General de la Marina Mercante del Reino de España y la Autoridad Marítima de Ghana, hecho en Accra y Madrid el 7 de septiembre y 29 de octubre de 2012.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Lo más alarmante de este documento es el desfase temporal: un acuerdo firmado en 2012 que no se publica de forma oficial y completa hasta 2026. Esta latencia de 14 años es una anomalía democrática que impide el escrutinio público en tiempo real. Técnicamente, el acuerdo externaliza la validación de competencias profesionales a Ghana, permitiendo que tripulación extranjera opere en buques de bandera española. Aunque se menciona la capacidad de inspección de la Administración española (Punto V), no se detallan las partidas presupuestarias para estos viajes y auditorías en el extranjero, lo que constituye un 'gasto fantasma' operativo oculto bajo funciones de inspección ordinaria.",
+    "resumen_ciudadano": "España y Ghana han formalizado un acuerdo (con 14 años de retraso en su publicidad) para que los marineros ghaneses puedan trabajar en barcos españoles reconociendo sus títulos. El acuerdo permite a España inspeccionar las escuelas de formación en Ghana para asegurar que cumplen los estándares internacionales de seguridad marítima.",
+    "resumen_tweet": "🚢 ¡14 AÑOS DE OPACIDAD! Firmado en 2012, publicado en 2026. España reconoce títulos marítimos de Ghana para buques nacionales. ¿Quién paga las inspecciones en África? 🌍 ¿A quién beneficia este retraso? #BOE #Opacidad #Transparencia #MarinaMercante",
+    "banderas_red_flags": [
+      "Retraso extremo de 14 años en la publicación oficial",
+      "Costes de inspección internacional no cuantificados",
+      "Vigencia retroactiva de un acuerdo administrativo",
+      "Potencial precarización del sector marítimo local"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas navieras (acceso a mano de obra internacional)",
+        "Autoridad Marítima de Ghana",
+        "Tripulantes ghaneses (acceso al mercado laboral europeo)"
+      ],
+      "perdedores": [
+        "Gente de mar española (mayor competencia salarial)",
+        "Ciudadanía (privada de información durante una década)",
+        "Sistema de transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Retraso extremo de 14 años en la publicación oficial",
+      "Costes de inspección internacional no cuantificados",
+      "Vigencia retroactiva de un acuerdo administrativo",
+      "Potencial precarización del sector marítimo local"
+    ]
+  },
+  "tweeted": false
+}
