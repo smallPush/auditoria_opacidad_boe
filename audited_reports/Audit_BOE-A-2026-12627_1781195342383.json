@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-12627",
+  "timestamp": "2026-06-11T16:29:02.383Z",
+  "title": "Resolución de 3 de junio de 2026, de la Dirección de la Agencia Estatal de Seguridad Aérea, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'Libre Designación' para puestos de alta responsabilidad técnica (Niveles 28 y 29) en la Agencia Estatal de Seguridad Aérea (AESA). Este método, aunque legal, permite una discrecionalidad que bordea la 'dedocracia', alejándose de los principios de concurso de méritos. Los requisitos de méritos están tan detalladamente redactados que parecen perfiles 'ad hoc' para candidatos que ya ocupan funciones similares internamente, limitando la competencia real.",
+    "resumen_ciudadano": "Se han convocado puestos directivos en seguridad aérea con sueldos elevados que serán elegidos 'a dedo' en lugar de por un examen abierto. Aunque se exige experiencia previa, el sistema de selección final depende de la voluntad política o directiva, no puramente de la mejor puntuación objetiva entre los funcionarios.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad! AESA convoca puestos de Nivel 29 (sueldos altos) mediante 'Libre Designación'. ¿Seguridad aérea o colocación a dedo? ✈️ La meritocracia se diluye en el #BOE. Exigimos procesos abiertos y claros. #Opacidad #Transparencia #AESA",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos de alta escala técnica",
+      "Méritos extremadamente específicos que sugieren perfiles preseleccionados",
+      "Ausencia de baremación numérica objetiva en la selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del grupo A1 con conexiones internas",
+        "Cargos de confianza con perfil institucional"
+      ],
+      "perdedores": [
+        "Funcionarios cualificados sin redes de contacto internas",
+        "Principio de mérito y capacidad",
+        "Contribuyente (por riesgo de politización en seguridad aérea)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos de alta escala técnica",
+      "Méritos extremadamente específicos que sugieren perfiles preseleccionados",
+      "Ausencia de baremación numérica objetiva en la selección"
+    ]
+  },
+  "tweeted": false
+}
