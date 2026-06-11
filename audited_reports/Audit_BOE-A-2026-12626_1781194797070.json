@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12626",
+  "timestamp": "2026-06-11T16:19:57.070Z",
+  "title": "Resolución de 9 de junio de 2026, de la Subsecretaría, por la que se corrigen errores en la de 19 de mayo de 2026, por la que se convoca concurso general para la provisión de puestos de trabajo en el Organismo Autónomo Jefatura Central de Tráfico.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Aunque se presenta como una simple corrección de errores, el documento altera radicalmente la naturaleza de puestos de trabajo previamente convocados. El puesto n.º 5 pasa de requerir funciones de dirección general en seguridad vial a exigir conocimientos técnicos híper-específicos en software de gestión interna (IPS, SOROLLA, JIRA) y procesos de selección. Este tipo de cambios sustanciales post-convocatoria bajo el paraguas de 'errata' suele ser un mecanismo para ajustar el perfil a candidatos predeterminados que ya manejan esas herramientas específicas dentro de la propia administración, limitando la libre concurrencia real.",
+    "resumen_ciudadano": "Interior modifica las reglas de juego de un concurso de traslados en la DGT meses después de publicarlo. Lo que llaman 'corrección de errores' es en realidad un cambio total en las funciones y méritos de varios puestos, exigiendo ahora el manejo de aplicaciones informáticas muy concretas y cambiando la forma en que se dan los puntos.",
+    "resumen_tweet": "🚩 ¡Alerta en la DGT! Una 'corrección de errores' cambia por completo funciones y méritos de puestos clave. ¿Transparencia o trajes a medida? 👔 De supervisión general a software ultra-específico. La meritocracia en duda. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Alteración sustancial de funciones post-convocatoria",
+      "Cambio en el baremo de puntuación de méritos específicos",
+      "Requisito de software de gestión interna muy específico (barrera de entrada)",
+      "Uso del procedimiento de corrección de errores para cambios de fondo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o funcionarios ya destinados en el área de recursos humanos de la DGT que manejan aplicaciones como SOROLLA o JIRA",
+        "Candidatos con perfil administrativo técnico-especialista"
+      ],
+      "perdedores": [
+        "Funcionarios con amplia experiencia en Seguridad Vial o Tráfico que pierden la opción al puesto por el cambio de perfil",
+        "Candidatos externos al departamento que no han tenido acceso previo a las aplicaciones informáticas citadas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Alteración sustancial de funciones post-convocatoria",
+      "Cambio en el baremo de puntuación de méritos específicos",
+      "Requisito de software de gestión interna muy específico (barrera de entrada)",
+      "Uso del procedimiento de corrección de errores para cambios de fondo"
+    ]
+  },
+  "tweeted": false
+}
