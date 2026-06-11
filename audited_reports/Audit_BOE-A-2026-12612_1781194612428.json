@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12612",
+  "timestamp": "2026-06-11T16:16:52.428Z",
+  "title": "Ley Foral 8/2026, de 20 de mayo, de Cuentas Generales de Navarra de 2024.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Esta Ley Foral constituye un acto de validación administrativa a posteriori que carece de contenido informativo real en su cuerpo legislativo. Se observa una brecha temporal significativa: las cuentas del ejercicio 2024 se elevan a rango de ley definitiva a mediados de 2026, lo que diluye la responsabilidad política inmediata. El texto es una cáscara jurídica que no desglosa partidas, remitiendo al Portal de Navarra para conocer los detalles, lo que dificulta la fiscalización ciudadana directa desde el BOE. Aunque cuenta con el dictamen de la Cámara de Comptos, la falta de resúmenes presupuestarios integrados en la ley perpetúa la opacidad técnica.",
+    "resumen_ciudadano": "Navarra ha dado el visto bueno legal a todo el dinero gastado en 2024. Sin embargo, lo hace con dos años de retraso y sin incluir ni una sola cifra en el documento oficial. Es una aprobación técnica que sirve para cerrar los libros contables ante la ley, pero que obliga al ciudadano a realizar una búsqueda externa para entender cómo se gestionaron realmente sus impuestos.",
+    "resumen_tweet": "🧐 Navarra aprueba por ley las cuentas de 2024... ¡en 2026! 📜 Un texto sin una sola cifra que remite a portales externos para ver el detalle del gasto. ¿Fiscalización real o mero trámite burocrático? #BOE #Opacidad #Navarra #Transparencia",
+    "banderas_red_flags": [
+      "Aprobación legislativa con 24 meses de retardo",
+      "Ausencia absoluta de datos financieros en el cuerpo de la ley",
+      "Remisión a fuentes externas para el contenido sustancial",
+      "Estructura de artículo único sin desglose de cumplimiento de objetivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno Foral (blindaje legal de su gestión pasada)",
+        "Burocracia administrativa"
+      ],
+      "perdedores": [
+        "Ciudadanía (acceso tardío a la información)",
+        "Transparencia proactiva"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Ley de Cuentas Generales",
+    "banderas_rojas": [
+      "Aprobación legislativa con 24 meses de retardo",
+      "Ausencia absoluta de datos financieros en el cuerpo de la ley",
+      "Remisión a fuentes externas para el contenido sustancial",
+      "Estructura de artículo único sin desglose de cumplimiento de objetivos"
+    ]
+  },
+  "tweeted": false
+}
