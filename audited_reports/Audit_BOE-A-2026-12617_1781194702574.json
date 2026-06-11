@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-12617",
+  "timestamp": "2026-06-11T16:18:22.574Z",
+  "title": "Resolución de 29 de mayo de 2026, de la Universidad Autónoma de Madrid, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento detalla un nombramiento de funcionario docente (Titular) bajo la Ley Organica del Sistema Universitario (LOSU). Aunque la identidad y el area (Ecologia) son claras, la partida presupuestaria se enmascara tras codigos internos (I3R3-A1019TU) que dificultan al ciudadano rastrear si este puesto proviene de fondos de recuperacion, programas de excelencia o presupuestos ordinarios. No se detectan gastos fantasma directos, pero si la habitual opacidad administrativa en la estructura de costes de personal a largo plazo.",
+    "resumen_ciudadano": "La Universidad Autonoma de Madrid ha nombrado a una nueva Profesora Titular de Universidad en el area de Ecologia. Este es un tramite administrativo estandar para consolidar a investigadores como funcionarios de carrera, asegurando su estabilidad laboral en el sistema publico.",
+    "resumen_tweet": "🎓 Nueva plaza de Titular en la UAM (Ecologia). Transparencia aceptable en el nombramiento, pero los codigos de gasto (I3R3) siguen siendo jeroglificos para el ciudadano. ¿Consolidacion de talento o blindaje burocratico? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Codificacion presupuestaria interna opaca para el publico (I3R3)",
+      "Uso de delegacion de firma que aleja la responsabilidad directa de la Rectora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La candidata seleccionada (estabilidad laboral vitalicia)",
+        "Cuerpo de Funcionarios del Estado",
+        "Facultad de Ciencias de la UAM"
+      ],
+      "perdedores": [
+        "Personal investigador precario sin plaza",
+        "Contribuyente (por la falta de desglose del coste total de la plaza a futuro)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Codificacion presupuestaria interna opaca para el publico (I3R3)",
+      "Uso de delegacion de firma que aleja la responsabilidad directa de la Rectora"
+    ]
+  },
+  "tweeted": false
+}
