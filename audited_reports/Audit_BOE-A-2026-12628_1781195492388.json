@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12628",
+  "timestamp": "2026-06-11T16:31:32.388Z",
+  "title": "Resolución de 22 de mayo de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "El documento detalla una convocatoria para cubrir la Dirección Territorial del IMSERSO en Melilla mediante el sistema de 'libre designación'. Este mecanismo es legalmente válido pero democráticamente opaco, ya que permite el nombramiento discrecional ('a dedo') de altos cargos, alejándose de los principios de mérito y capacidad. El Anexo I es especialmente preocupante: las columnas de 'Funciones', 'Méritos' y 'Titulación Requerida' aparecen vacías, lo que otorga un cheque en blanco a la administración para seleccionar a cualquier funcionario A1 sin necesidad de justificar su idoneidad técnica para gestionar servicios sociales sensibles.",
+    "resumen_ciudadano": "Se busca un nuevo Director para el IMSERSO en Melilla con un nivel 28 (rango alto). El proceso de selección es por 'libre designación', lo que significa que el cargo será elegido por confianza política y no necesariamente por ser el más cualificado en un concurso público. El sueldo base se complementa con una partida específica de más de 13.600 euros anuales, sin que se especifiquen qué tareas o experiencia previa se requieren exactamente para el puesto.",
+    "resumen_tweet": "🕵️‍♂️ Auditado: Puesto de Director del IMSERSO en Melilla (Nivel 28). Se usa 'libre designación' (a dedo) sin detallar méritos específicos en el BOE. ¿Gestión técnica o favor político? 🚩 La meritocracia en pausa. #BOE #Opacidad #Transparencia #Melilla",
+    "banderas_red_flags": [
+      "Libre designación en cargo de gestión técnica",
+      "Ausencia de méritos específicos en la tabla oficial",
+      "Nivel de responsabilidad 28 con criterios de selección subjetivos",
+      "Opacidad en las funciones requeridas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con conexiones políticas",
+        "Cargos de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos técnicos",
+        "Ciudadanos usuarios del IMSERSO en Melilla"
+      ]
+    },
+    "comunidad_autonoma": "Melilla",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación en cargo de gestión técnica",
+      "Ausencia de méritos específicos en la tabla oficial",
+      "Nivel de responsabilidad 28 con criterios de selección subjetivos",
+      "Opacidad en las funciones requeridas"
+    ]
+  },
+  "tweeted": false
+}
