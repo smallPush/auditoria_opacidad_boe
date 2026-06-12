@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12622",
+  "timestamp": "2026-06-12T05:00:14.134Z",
+  "title": "Resolución de 1 de junio de 2026, de la Universidad de Huelva, por la que se nombra Catedrático de Universidad a don Manuel Sánchez García.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de catedrático mediante promoción interna en la Universidad de Huelva. Aunque el proceso sigue la Ley Orgánica 2/2023 (LOSU), el uso recurrente de la promoción interna puede generar un ecosistema endogámico que limita la entrada de talento externo. No se detallan las métricas específicas de méritos ni el impacto presupuestario exacto del incremento salarial que conlleva el rango de catedrático.",
+    "resumen_ciudadano": "La Universidad de Huelva ha nombrado a un nuevo catedrático en el área de Metodología de las Ciencias del Comportamiento. Es un trámite administrativo estándar para consolidar la carrera de un docente que ya formaba parte de la institución.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Universidad de Huelva mediante promoción interna. El #BOE publica el ascenso de Manuel Sánchez García. ¿Fomenta esto la meritocracia abierta o el inmovilismo institucional? 🏫💼 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Promoción interna (limitación de concurrencia competitiva externa)",
+      "Ausencia de desglose del coste presupuestario del nuevo grado salarial",
+      "Opacidad en la ponderación de méritos específicos en el extracto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Sánchez García (estabilidad laboral y aumento de estatus/salario)",
+        "Universidad de Huelva (mantiene estructura interna)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos por el sistema de promoción interna)",
+        "Sistema de ciencia abierta (posible refuerzo de la endogamia universitaria)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Promoción interna (limitación de concurrencia competitiva externa)",
+      "Ausencia de desglose del coste presupuestario del nuevo grado salarial",
+      "Opacidad en la ponderación de méritos específicos en el extracto publicado"
+    ]
+  },
+  "tweeted": false
+}
