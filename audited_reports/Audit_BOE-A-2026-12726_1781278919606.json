@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12726",
+  "timestamp": "2026-06-12T15:41:59.606Z",
+  "title": "Resolución de 1 de junio de 2026, de la Universidad de Barcelona, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución de la Universidad de Barcelona (UB) muestra una transparencia formal alta al identificar nombres y áreas de conocimiento, pero mantiene una opacidad financiera sistémica al referirse genéricamente a las 'retribuciones que correspondan' sin desglosar el impacto presupuestario a largo plazo de estos puestos vitalicios. Se observa un cambio en la tendencia histórica de género: 4 de los 6 nombramientos son mujeres (66%), lo que sugiere una corrección del techo de cristal en esta convocatoria específica. Sin embargo, no hay mención a la procedencia de los fondos ni al coste de oportunidad frente a la estabilización de investigadores precarios.",
+    "resumen_ciudadano": "Se formaliza el ascenso a la máxima categoría docente (catedrático) de seis profesionales en la Universidad de Barcelona en áreas como Educación, Farmacia, Sociología y Prehistoria. Este es un trámite administrativo necesario para validar su estatus y salario como funcionarios de alto rango.",
+    "resumen_tweet": "🎓 @UniBarcelona nombra 6 nuevos catedráticos. Destaca un 66% de mujeres, rompiendo techos de cristal, pero el #BOE oculta el coste salarial real de estas plazas vitalicias. ¿Y la transparencia presupuestaria? 🔍🏛️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario individualizado",
+      "Referencia genérica a retribuciones según disposiciones vigentes",
+      "Nula mención al impacto en el gasto público total de la universidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 nuevos catedráticos (estabilidad laboral y prestigio)",
+        "Universidad de Barcelona (consolidación de estructura docente)"
+      ],
+      "perdedores": [
+        "Profesorado asociado y precario (falta de plazas de acceso)",
+        "Sistema de transparencia ciudadana (por falta de datos económicos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario individualizado",
+      "Referencia genérica a retribuciones según disposiciones vigentes",
+      "Nula mención al impacto en el gasto público total de la universidad"
+    ]
+  },
+  "tweeted": false
+}
