@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-12725",
+  "timestamp": "2026-06-12T15:37:46.674Z",
+  "title": "Resolución de 1 de junio de 2026, de la Universidad de Barcelona, por la que se nombra Profesor Titular de Universidad a don Shawn Carlisle Kefauver.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de un funcionario de carrera (Profesor Titular). Cumple con la legalidad vigente (LOSU y normativa catalana). La opacidad es baja, aunque persiste el vicio burocratico de no detallar la cuantida exacta de las 'retribuciones vigentes', remitiendo al ciudadano a buscar tablas salariales externas en lugar de ofrecer transparencia financiera directa en el nombramiento.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado oficialmente a un nuevo Profesor Titular para el area de Fisiologia Vegetal. Este nombramiento es el resultado de un concurso de oposicion iniciado en 2025, consolidando una plaza de docente e investigador dentro del sistema publico universitario.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Univ. de Barcelona. Se nombra Profesor Titular en Fisiologia Vegetal tras concurso publico. Proceso reglado, pero persiste la falta de transparencia sobre el coste salarial real en el texto. 🏛️ #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Remision generica a retribuciones segun disposiciones vigentes sin desglose",
+      "Lenguaje administrativo tecnico que dificulta la fiscalizacion del gasto publico directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Shawn Carlisle Kefauver (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Barcelona (consolidacion de su cuerpo docente)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso de 2025",
+        "Ciudadania (por la dificultad de auditar el coste total de la plaza en un solo documento)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Remision generica a retribuciones segun disposiciones vigentes sin desglose",
+      "Lenguaje administrativo tecnico que dificulta la fiscalizacion del gasto publico directo"
+    ]
+  },
+  "tweeted": false
+}
