@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-12722",
+  "timestamp": "2026-06-12T15:36:37.616Z",
+  "title": "Resolución de 4 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento representa un ejemplo clásico de 'libre designación', un mecanismo legal que permite la elección discrecional de personal para puestos de alta responsabilidad. Aunque cumple formalmente con la ley, carece de transparencia sobre los méritos específicos que hacen al candidato superior a otros posibles aspirantes. Se observa un movimiento horizontal (Nivel 28 a Nivel 28) dentro de la misma subsecretaría, lo que sugiere una consolidación interna de posiciones de confianza más que una renovación basada en mérito competitivo abierto.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha asignado a dedo un puesto de Consejero Técnico de Asuntos de la CEE (Nivel 28) a un funcionario que ya ocupaba un cargo similar en el mismo departamento. Es un cargo de alta remuneración y responsabilidad técnica en relaciones internacionales.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en Sanidad. Adjudicado puesto de Consejero Técnico (Nivel 28) por libre designación. Sin competencia real, el elegido ya estaba en el mismo despacho. ¿Mérito o confianza política? #BOE #Opacidad #Transparencia 🕵️‍♂️⚖️",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad absoluta)",
+      "Adjudicación interna sin cambio de nivel",
+      "Falta de baremación de méritos pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Fernández Portillo (adjudicatario)",
+        "Élite funcionarial (Cuerpo A1)"
+      ],
+      "perdedores": [
+        "Candidatos externos sin redes de confianza",
+        "Transparencia administrativa",
+        "Sistema de mérito e igualdad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento Discrecional",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad absoluta)",
+      "Adjudicación interna sin cambio de nivel",
+      "Falta de baremación de méritos pública"
+    ]
+  },
+  "tweeted": false
+}
