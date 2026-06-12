@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12615",
+  "timestamp": "2026-06-12T04:58:03.189Z",
+  "title": "Real Decreto 476/2026, de 10 de junio, por el que se nombra Presidente de la Junta de Castilla y León a don Alfonso Fernández Mañueco.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es un acto administrativo reglado que formaliza la voluntad de las Cortes de Castilla y León. La opacidad no reside en el texto en sí, sino en la ausencia de información anexa sobre los pactos de gobierno subyacentes y el coste económico de la estructura de poder que este nombramiento desencadena. Es una pieza de 'lenguaje de poder' que valida la continuidad institucional sin exponer los compromisos políticos adquiridos.",
+    "resumen_ciudadano": "Se oficializa mediante Real Decreto el nombramiento de Alfonso Fernández Mañueco como Presidente de la Junta de Castilla y León, tras la votación en el parlamento autonómico. Es el paso legal necesario para que tome posesión efectiva del cargo.",
+    "resumen_tweet": "🏛️ Confirmado en el #BOE: Mañueco repite como Presidente de Castilla y León. Un trámite formal que oculta los pactos de despacho tras la investidura. 🖋️ Firmado por el Rey y Sánchez. ¿Dónde está la transparencia de los acuerdos? #Opacidad #CyL",
+    "banderas_red_flags": [
+      "Ausencia de transparencia en los acuerdos de coalición previos",
+      "Falta de memoria económica sobre el coste de la sesión de investidura",
+      "Sesgo de género: todos los actores firmantes y el nombrado son hombres"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alfonso Fernández Mañueco",
+        "Partido Popular",
+        "Socios de coalición parlamentaria"
+      ],
+      "perdedores": [
+        "Oposición política regional",
+        "Ciudadanía demandante de transparencia en pactos",
+        "Paridad de género en los niveles más altos del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Ausencia de transparencia en los acuerdos de coalición previos",
+      "Falta de memoria económica sobre el coste de la sesión de investidura",
+      "Sesgo de género: todos los actores firmantes y el nombrado son hombres"
+    ]
+  },
+  "tweeted": false
+}
