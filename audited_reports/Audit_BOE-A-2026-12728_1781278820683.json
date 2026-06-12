@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12728",
+  "timestamp": "2026-06-12T15:40:20.683Z",
+  "title": "Resolución de 2 de junio de 2026, de la Universidad de Castilla-La Mancha, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución cumple con los requisitos formales de publicidad, pero esconde tras su lenguaje administrativo un profundo sesgo de género: de 9 nombramientos a la máxima categoría académica, solo 1 es mujer (11%). Esto refleja una barrera estructural no mencionada. Además, aunque se citan las bases legales, no existe un desglose del impacto presupuestario plurianual que suponen estos puestos vitalicios para las arcas públicas de Castilla-La Mancha.",
+    "resumen_ciudadano": "La Universidad de Castilla-La Mancha nombra a 9 nuevos catedráticos en áreas como Derecho, Medicina e Ingeniería. Estos nombramientos son la culminación de concursos de acceso y otorgan a los seleccionados una plaza permanente de funcionario en el cuerpo docente más alto.",
+    "resumen_tweet": "📢 Nombramientos en la UCLM: 9 nuevas cátedras en el #BOE. 🚩 Alerta de género: ¡Solo 1 mujer entre los 9 elegidos! El techo de cristal sigue intacto en la universidad. ¿Transparencia presupuestaria? Ausente. 🧐 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Desequilibrio de género extremo (88% hombres)",
+      "Concentración de plazas en Ingeniería Mecánica (33% del total)",
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Referencia a reglamentos autonómicos que dificultan el seguimiento del proceso original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 9 docentes nombrados (estabilidad laboral y ascenso salarial)",
+        "Departamento de Mecánica Aplicada (refuerzo de poder interno)",
+        "Rectorado de la UCLM"
+      ],
+      "perdedores": [
+        "Mujeres académicas (invisibilización en la cúpula docente)",
+        "Contribuyentes (falta de información sobre el coste de estas plazas)",
+        "Candidatos externos (potencial endogamia universitaria)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos de Funcionarios de Carrera",
+    "banderas_rojas": [
+      "Desequilibrio de género extremo (88% hombres)",
+      "Concentración de plazas en Ingeniería Mecánica (33% del total)",
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Referencia a reglamentos autonómicos que dificultan el seguimiento del proceso original"
+    ]
+  },
+  "tweeted": false
+}
