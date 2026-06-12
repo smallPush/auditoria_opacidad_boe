@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12715",
+  "timestamp": "2026-06-12T15:34:41.700Z",
+  "title": "Resolución de 4 de junio de 2026, de la Presidencia del Tribunal Constitucional, por la que se resuelve el proceso selectivo, por el sistema de concurso-oposición, para la provisión de plazas de personal laboral de Ayudante de Informática, convocado por Resolución de 9 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución formaliza la contratación de tres personas como personal laboral en el Tribunal Constitucional. Aunque el procedimiento es el estándar de concurso-oposición, resulta llamativo el uso de la figura de 'personal laboral' para puestos técnicos en la alta magistratura, lo que suele implicar una mayor flexibilidad contractual frente al estricto régimen de funcionarios. El documento carece de información sobre la cuantía salarial o el impacto presupuestario de estas plazas, manteniendo el coste del personal técnico en una zona gris de los presupuestos del Tribunal.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha finalizado el proceso de selección de 2025 para contratar a tres ayudantes de informática: Pedro Martínez de Muniain Irigoyen, Raquel Pérez Rodríguez y Martín Moreno Capitán. Los seleccionados disponen de 20 días hábiles para formalizar sus contratos. Este proceso refuerza el equipo técnico del órgano judicial mediante contratación laboral estatal.",
+    "resumen_tweet": "🏛️ El Tribunal Constitucional adjudica plazas de informática. Tres nuevos contratos laborales en el corazón judicial. ¿Por qué personal laboral y no funcionarios de carrera? Transparencia formal, pero silencio en costes. 🖥️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de personal laboral en lugar de funcionarios de carrera en órgano constitucional",
+      "Ausencia de desglose salarial y presupuestario de las plazas",
+      "Plazo de resolución dilatado (de octubre 2025 a junio 2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pedro Martínez de Muniain Irigoyen",
+        "Raquel Pérez Rodríguez",
+        "Martín Moreno Capitán",
+        "Tribunal Constitucional (mejora de capacidad técnica)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el concurso-oposición",
+        "El modelo de función pública clásica (sustituido por contratos laborales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Procesos Selectivos",
+    "banderas_rojas": [
+      "Uso de personal laboral en lugar de funcionarios de carrera en órgano constitucional",
+      "Ausencia de desglose salarial y presupuestario de las plazas",
+      "Plazo de resolución dilatado (de octubre 2025 a junio 2026)"
+    ]
+  },
+  "tweeted": false
+}
