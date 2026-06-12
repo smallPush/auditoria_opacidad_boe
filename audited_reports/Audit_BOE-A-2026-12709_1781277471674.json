@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12709",
+  "timestamp": "2026-06-12T15:17:51.674Z",
+  "title": "Convenio multilateral para aplicar las medidas relacionadas con los tratados fiscales para prevenir la erosión de las bases imponibles y el traslado de beneficios, hecho en Paris el 24 de noviembre de 2016. Notificación de España el 26 de mayo de 2026 al Secretario General de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) como depositario del Convenio, de conformidad con las disposiciones de su artículo 35.7.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Bajo la apariencia de un tecnicismo administrativo sobre 'conclusión de procedimientos internos', este documento activa la arquitectura fiscal internacional que regula cómo tributan las multinacionales entre España y más de 60 territorios. La opacidad reside en la omisión absoluta del impacto recaudatorio real. Se presentan medidas contra la 'erosión de bases imponibles' (evasión fiscal), pero el listado incluye territorios históricamente vinculados a la baja tributación o el secreto bancario (Panamá, Andorra, Hong Kong, Emiratos Árabes), legitimando su estatus bajo un barniz de cooperación multilateral de la OCDE.",
+    "resumen_ciudadano": "España actualiza formalmente sus tratados fiscales con una larga lista de países (incluyendo Argentina, Alemania y Panamá) para aplicar nuevas reglas internacionales. El objetivo declarado es evitar que las grandes empresas muevan sus beneficios a otros países para pagar menos impuestos, pero el documento es puramente burocrático y no explica cuánto dinero se espera recuperar o perder con estos cambios.",
+    "resumen_tweet": "📉 ¿Lucha real contra el fraude o lavado de cara burocrático? España activa acuerdos con 60+ países, incluidos paraísos fiscales. Mucha técnica de la OCDE, pero poca claridad sobre la recaudación real para lo público. 💸🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Validación de tratados con jurisdicciones de baja tributación (Panamá, Andorra, Hong Kong)",
+      "Asimetría de plazos: aplicación acelerada (2 meses) específicamente para Alemania",
+      "Lenguaje altamente codificado que impide al ciudadano conocer el impacto en el gasto público",
+      "Incongruencia: se lucha contra la erosión fiscal manteniendo la estructura con centros financieros offshore"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones con ingeniería fiscal (que ganan seguridad jurídica)",
+        "Consultoras fiscales 'Big Four'",
+        "Jurisdicciones con impuestos bajos que se mantienen en la lista de convenios"
+      ],
+      "perdedores": [
+        "Contribuyentes de a pie (que soportan la carga fiscal que las multinacionales 'erosionan')",
+        "Pequeñas y medianas empresas (sin recursos para aprovechar estos convenios internacionales)",
+        "Sistemas de bienestar social (por la falta de transparencia en la recuperación de bases imponibles)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Fiscalidad Internacional",
+    "banderas_rojas": [
+      "Validación de tratados con jurisdicciones de baja tributación (Panamá, Andorra, Hong Kong)",
+      "Asimetría de plazos: aplicación acelerada (2 meses) específicamente para Alemania",
+      "Lenguaje altamente codificado que impide al ciudadano conocer el impacto en el gasto público",
+      "Incongruencia: se lucha contra la erosión fiscal manteniendo la estructura con centros financieros offshore"
+    ]
+  },
+  "tweeted": false
+}
