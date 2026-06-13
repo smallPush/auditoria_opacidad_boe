@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12813",
+  "timestamp": "2026-06-13T14:28:00.871Z",
+  "title": "Resolución de 2 de junio de 2026, de la Universidad de Sevilla, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un nombramiento de tres plazas de catedráticos de universidad (nivel funcionarial máximo) en la Universidad de Sevilla. Aunque cumple el marco legal de la LOSU 2/2023, destaca una brecha de género absoluta en este lote: 100% de los nombrados son hombres, a pesar de ser una resolución firmada por una Rectora. Existe opacidad financiera, ya que el documento no desglosa el coste presupuestario de consolidar estas tres plazas vitalicias ni el impacto en las arcas públicas andaluzas.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado tres nuevos catedráticos permanentes en las áreas de Arquitectura y Fisiología Vegetal. Estos puestos son de por vida y financiados con dinero público, aunque el anuncio no aclara cuánto cobrarán ni el coste total para la universidad.",
+    "resumen_tweet": "¡100% hombres! 🏛️ La @unisevilla nombra nuevos catedráticos vitalicios en arquitectura y biología. ¿Y la paridad en la élite académica? 🧐 Plazas permanentes sin detalle de coste presupuestario en el texto. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Brecha de género total (3/3 hombres)",
+      "Ausencia de memoria económica o coste salarial",
+      "Consolidación de gasto público estructural sin desglose"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Vicente Flores Alés",
+        "Jaime Solís Guzmán",
+        "José Antonio Monreal Hermoso",
+        "Cuerpo de Catedráticos de la US"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (nula representación en este lote)",
+        "Personal docente joven/precario",
+        "Contribuyentes (por falta de transparencia en el coste)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Brecha de género total (3/3 hombres)",
+      "Ausencia de memoria económica o coste salarial",
+      "Consolidación de gasto público estructural sin desglose"
+    ]
+  },
+  "tweeted": false
+}
