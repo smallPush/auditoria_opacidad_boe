@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12811",
+  "timestamp": "2026-06-13T14:22:43.427Z",
+  "title": "Resolución de 2 de junio de 2026, de la Universidad de Sevilla, por la que se nombra Profesor Titular de Universidad a don Álvaro Jiménez Guerra.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionario de carrera. Aunque cumple la legalidad bajo la LOSU 2/2023, el texto mantiene la opacidad tradicional del sistema universitario español: no se mencionan los méritos específicos ni la puntuación obtenida en el concurso de acceso. El lenguaje es puramente burocrático, ocultando la competitividad real o la posible endogamia del proceso bajo referencias a leyes y decretos. La plaza en 'Estomatología' sugiere una consolidación de perfiles en áreas con alta rentabilidad privada fuera de la academia.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a un nuevo Profesor Titular en el área de Estomatología (Odontología). Esto supone la adjudicación de una plaza vitalicia pagada con fondos públicos tras un proceso de selección interno cuyos detalles de evaluación no son públicos en este extracto.",
+    "resumen_tweet": "🦷 Nuevo profesor vitalicio en la Universidad de Sevilla. Nombramiento de funcionario en Estomatología bajo la nueva ley LOSU. ¿Méritos? No aparecen. ¿Transparencia real? Cuestionable. 🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose de puntuaciones del concurso",
+      "Falta de información sobre la terna de candidatos",
+      "Invisibilidad del coste salarial total para el erario público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Álvaro Jiménez Guerra (obtiene plaza vitalicia)",
+        "Universidad de Sevilla (cubre vacante de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (barreras de entrada al sistema)",
+        "Sociedad civil (desconocimiento de la calidad del proceso selectivo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose de puntuaciones del concurso",
+      "Falta de información sobre la terna de candidatos",
+      "Invisibilidad del coste salarial total para el erario público"
+    ]
+  },
+  "tweeted": false
+}
