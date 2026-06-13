@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12818",
+  "timestamp": "2026-06-13T14:26:53.695Z",
+  "title": "Resolución de 8 de junio de 2026, de la Presidencia de la Autoridad Independiente de Responsabilidad Fiscal, AAI, por la que se publica la relación de aspirantes que han superado el proceso selectivo para la provisión de plaza de personal laboral fijo, fuera de convenio, con la categoría de Titulado Superior, convocado por Resolución de 10 de octubre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución detalla el proceso de selección para una plaza de 'Asesor/a en previsiones macroeconómicas' en la AIReF. El punto crítico reside en la categoría 'fuera de convenio', una práctica habitual en organismos reguladores para atraer perfiles de élite que permite eludir las tablas salariales estándar del funcionariado. Aunque se publican las puntuaciones, no se especifica la cuantía retributiva de este puesto 'fuera de convenio', lo que genera una zona de sombra presupuestaria en el organismo encargado, precisamente, de velar por la sostenibilidad fiscal y la transparencia de las cuentas públicas.",
+    "resumen_ciudadano": "La AIReF ha seleccionado a Iván Medrano Escalada como nuevo asesor macroeconómico fijo. Es un puesto de alta cualificación técnica y nivel salarial especial (fuera de convenio). Otros dos candidatos quedan en reserva.",
+    "resumen_tweet": "📢 La @AIReF_es ficha asesor macroeconómico con plaza 'FUERA DE CONVENIO'. Se publican nombres y notas, pero el sueldo real de esta élite técnica sigue siendo un misterio presupuestario. 🧐💼 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Contratación fuera de convenio",
+      "Opacidad en la retribución específica del puesto",
+      "Concentración de poder técnico en entes con autonomía especial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iván Medrano Escalada (adjudicatario)",
+        "AIReF (refuerzo de capacidad técnica)"
+      ],
+      "perdedores": [
+        "Ciudadanía (falta de claridad sobre el coste total de personal directivo/técnico)",
+        "Escalafón estándar (agravio comparativo con personal laboral bajo convenio)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Contratación fuera de convenio",
+      "Opacidad en la retribución específica del puesto",
+      "Concentración de poder técnico en entes con autonomía especial"
+    ]
+  },
+  "tweeted": false
+}
