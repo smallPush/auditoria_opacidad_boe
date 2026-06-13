@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-12808",
+  "timestamp": "2026-06-13T14:21:43.989Z",
+  "title": "Resolución de 1 de junio de 2026, de la Universidad de La Rioja, por la que se nombra Profesora Titular de Universidad a doña Elena Andrade Gómez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se observa un nombramiento estándar de personal funcionario de carrera tras un proceso de concurso iniciado en 2025. La resolución es transparente en cuanto a la base legal pero opaca respecto a la dotación presupuestaria específica que consumirá esta plaza de por vida. Existe una brecha temporal de 7 meses entre la convocatoria y el nombramiento, evidenciando la lentitud burocrática del sistema universitario español. No hay indicios de irregularidad, pero sí la típica falta de información sobre el coste total para el contribuyente.",
+    "resumen_ciudadano": "La Universidad de La Rioja ha formalizado el nombramiento de doña Elena Andrade Gómez como Profesora Titular en el área de Enfermería. Este es el paso final de un proceso selectivo que permite a la docente obtener una plaza fija y derechos como funcionaria tras cumplir los requisitos legales y las evaluaciones de la comisión universitaria.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular de Enfermería en la Univ. de La Rioja: Elena Andrade Gómez logra plaza fija tras proceso iniciado en 2025. 📜 Trámites lentos pero transparentes en el sector educativo. #BOE #Universidad #LaRioja #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Dilación administrativa de 7 meses entre concurso y nombramiento",
+      "Ausencia de desglose presupuestario asociado a la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Andrade Gómez",
+        "Universidad de La Rioja",
+        "Facultad de Enfermería"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el concurso 06/2025",
+        "Agilidad administrativa estatal"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Dilación administrativa de 7 meses entre concurso y nombramiento",
+      "Ausencia de desglose presupuestario asociado a la plaza"
+    ]
+  },
+  "tweeted": false
+}
