@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12714",
+  "timestamp": "2026-06-13T04:44:03.784Z",
+  "title": "Resolución de 8 de junio de 2026, conjunta de las Presidencias del Congreso de los Diputados y del Senado, por la que se nombra funcionario del Cuerpo de Letrados de las Cortes Generales al aspirante que ha superado la oposición convocada por Resolución de 2 de diciembre de 2024.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un acto administrativo discrecional en su forma final pero reglado en su fondo, que culmina un proceso selectivo de 18 meses para acceder al cuerpo de élite jurídica del Estado: los Letrados de las Cortes. Aunque el proceso es público, el documento no detalla las puntuaciones finales ni el número de plazas disputadas, limitándose a la formalización del poder burocrático. Este cuerpo técnico tiene una influencia decisiva en la interpretación del reglamento parlamentario y la redacción de leyes, operando a menudo fuera del escrutinio ciudadano directo.",
+    "resumen_ciudadano": "Nombramiento oficial de un nuevo funcionario de alto nivel (Letrado) para las Cortes Generales tras superar una oposición convocada a finales de 2024. Este puesto representa la cúspide técnica en el Congreso y el Senado.",
+    "resumen_tweet": "🏛️ Nueva incorporación a la élite jurídica del Parlamento. Pablo Forster Freijomil es nombrado Letrado de las Cortes tras 18 meses de proceso. Un puesto clave con gran influencia legislativa y difícil acceso. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación temporal (convocatoria 2024, resolución 2026)",
+      "Concentración de poder técnico en cuerpos reducidos",
+      "Opacidad en los detalles de méritos y puntuaciones finales en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pablo Forster Freijomil (estabilidad laboral vitalicia, alto nivel salarial)",
+        "Cuerpo de Letrados de las Cortes (renovación de su estructura técnica)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados tras un largo proceso",
+        "Ciudadanía (por la dificultad de auditar la meritocracia real de estos cuerpos cerrados)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Cortes Generales)",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Dilación temporal (convocatoria 2024, resolución 2026)",
+      "Concentración de poder técnico en cuerpos reducidos",
+      "Opacidad en los detalles de méritos y puntuaciones finales en el extracto"
+    ]
+  },
+  "tweeted": false
+}
