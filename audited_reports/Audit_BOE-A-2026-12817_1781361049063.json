@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-12817",
+  "timestamp": "2026-06-13T14:30:49.063Z",
+  "title": "Resolución 160/38283/2026, de 11 de junio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se publica la relación provisional de personas admitidas y excluidas y se anuncia fecha, hora y lugar de la primera prueba de las pruebas selectivas para ingreso en los centros docentes de formación para la incorporación a la Escala de Cabos y Guardias del Cuerpo de la Guardia Civil, convocadas por Resolución 160/38243/2026, de 5 de mayo.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento regula el acceso a la escala basica de la Guardia Civil. Aunque el proceso es publico, existe una barrera de clase geografica: la centralizacion de sedes obliga a aspirantes de provincias enteras (como Cataluña o Castilla-La Mancha) a sufragar gastos de desplazamiento y pernocta para un examen unificado. Se detecta la pervivencia de un numero 902 para informacion ciudadana, lo que supone un coste directo para el administrado. El plazo de 3 dias para cambios de sede es extremadamente reducido, dificultando la reaccion ante imprevistos.",
+    "resumen_ciudadano": "Publicada la lista provisional de admitidos y excluidos para ser Guardia Civil. El examen sera el 11 de julio de 2026 a las 7:30 (6:30 en Canarias). Tienes 10 dias para corregir errores en tu inscripcion y solo 3 dias para pedir un cambio de sede por motivos justificados. Consulta tu estado en la web oficial de la Guardia Civil o del Ministerio del Interior.",
+    "resumen_tweet": "📢 ¡Atención opositores! Publicada lista provisional para la Guardia Civil. 📅 Examen: 11 de julio. ⚠️ Solo 3 días para cambios de sede. La centralización obliga a viajar a miles de aspirantes. #BOE #Oposiciones2026 #Transparencia #GuardiaCivil 🇪🇸",
+    "banderas_red_flags": [
+      "Persistencia de linea 902 de pago para informacion",
+      "Plazo de solo 3 dias para solicitar cambios de sede",
+      "Centralizacion extrema: 7 provincias obligadas a ir a Zaragoza",
+      "Ausencia de sedes en capitales clave como Barcelona o Toledo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes residentes en ciudades sede (Madrid, Sevilla, Leon)",
+        "Sector hotelero en ciudades como Baeza o Avila el fin de semana del examen"
+      ],
+      "perdedores": [
+        "Opositores de Cataluña (desplazamiento forzoso a Aragon)",
+        "Aspirantes rurales con rentas bajas",
+        "Candidatos con problemas de conciliacion para traslados rapidos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Publico / Seguridad",
+    "banderas_rojas": [
+      "Persistencia de linea 902 de pago para informacion",
+      "Plazo de solo 3 dias para solicitar cambios de sede",
+      "Centralizacion extrema: 7 provincias obligadas a ir a Zaragoza",
+      "Ausencia de sedes en capitales clave como Barcelona o Toledo"
+    ]
+  },
+  "tweeted": false
+}
