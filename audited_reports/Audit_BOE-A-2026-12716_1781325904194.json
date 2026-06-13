@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12716",
+  "timestamp": "2026-06-13T04:45:04.194Z",
+  "title": "Corrección de errores del Acuerdo de 27 de mayo de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 24 de marzo de 2026, en la Secretaría General.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una 'corrección de errores' que va más allá de lo tipográfico. Se modifica sustancialmente el origen profesional del adjudicatario de una Jefatura de Sección en el CGPJ. Este tipo de rectificaciones en el BOE suelen encubrir una falta de rigor administrativo en los procesos de selección de la élite judicial. Cambiar 'Sección de Instrucción' por 'Jefatura de área del Servicio Común de Ejecución' indica que la base sobre la que se evaluaron los méritos inicialmente pudo estar viciada o mal documentada, lo que arroja sombras sobre la precisión del concurso.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha tenido que corregir el BOE para aclarar de dónde viene realmente el nuevo Jefe de Sección de su Secretaría General. No procedía de una sección de instrucción penal, sino de una jefatura de ejecución civil y social en Córdoba. Un cambio técnico que demuestra descuidos en la burocracia de los altos nombramientos.",
+    "resumen_tweet": "🧐 ¿Error de dedo o falta de rigor? El CGPJ rectifica el origen profesional de un nuevo alto cargo en la Secretaría General. La precisión en los méritos de la élite judicial es vital para la #Transparencia. ⚖️ #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Rectificación de datos profesionales clave",
+      "Posible falta de rigor en la baremación inicial",
+      "Opacidad en la descripción de plazas de alta dirección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco José Aguilar Osuna (se consolida su ascenso)",
+        "Burocracia del CGPJ (subsanación discreta)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (que compitieron contra un perfil erróneamente descrito)",
+        "Seguridad jurídica (por el descuido administrativo en fuentes oficiales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Rectificación de datos profesionales clave",
+      "Posible falta de rigor en la baremación inicial",
+      "Opacidad en la descripción de plazas de alta dirección"
+    ]
+  },
+  "tweeted": false
+}
