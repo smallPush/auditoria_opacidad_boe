@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-12810",
+  "timestamp": "2026-06-14T05:03:19.544Z",
+  "title": "Resolución de 2 de junio de 2026, de la Universidad de las Illes Balears, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "Se trata de una resolucion estandar de nombramiento de personal funcionario de alto nivel docente. Aunque se detallan los nombres, NIF parciales y codigos de plaza, el texto oculta el impacto economico real (masa salarial) que estas promociones suponen para el erario publico. Existe un sesgo de clase academica donde el acceso a la catedra sigue siendo un proceso interno que rara vez detalla la competitividad del concurso frente a candidatos externos.",
+    "resumen_ciudadano": "La Universidad de las Illes Balears ha nombrado a cinco nuevos catedraticos en las areas de Economia, Filologia, Enfermeria e Ingenieria. Esto consolida puestos de trabajo vitalicios en la cuspide de la jerarquia universitaria con fondos publicos.",
+    "resumen_tweet": "🎓 Nuevos catedraticos en la UIB: 3 mujeres y 2 hombres alcanzan la maxima escala docente. Transparencia nominal aceptable, pero silencio total sobre el coste salarial de estas plazas vitalicias. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica vinculada a los nombramientos",
+      "Falta de informacion sobre el numero de aspirantes totales en el concurso",
+      "Uso de codigos de plaza internos que dificultan el rastreo presupuestario externo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marta Jacob Escauriaza",
+        "Maria Antonia Fornes Pallicer",
+        "Margalida Miro Bonet",
+        "Joan Ernest De Pedro Gomez",
+        "Jose Luis Ferrer Gomila",
+        "Cuerpo de Catedraticos de Universidad"
+      ],
+      "perdedores": [
+        "Personal docente no precario",
+        "Aspirantes externos a la endogamia universitaria",
+        "Transparencia presupuestaria detallada"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de memoria economica vinculada a los nombramientos",
+      "Falta de informacion sobre el numero de aspirantes totales en el concurso",
+      "Uso de codigos de plaza internos que dificultan el rastreo presupuestario externo"
+    ]
+  },
+  "tweeted": false
+}
