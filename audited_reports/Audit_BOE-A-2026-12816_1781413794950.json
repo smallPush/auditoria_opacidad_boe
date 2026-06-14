@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12816",
+  "timestamp": "2026-06-14T05:09:54.950Z",
+  "title": "Orden PJC/591/2026, de 9 de junio, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación, para el Cuerpo de Letrados de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria emplea el sistema de 'libre designación', un mecanismo que permite la selección discrecional por parte de los superiores jerárquicos bajo el pretexto de la 'idoneidad'. Aunque se exigen requisitos técnicos de antigüedad (20 años de carrera), la decisión final depende de una propuesta subjetiva del Secretario de Gobierno del Tribunal Supremo y una resolución ministerial. Este sistema es una ventana abierta al clientelismo institucional en la cúpula judicial, alejándose de los principios de mérito y capacidad que rigen el concurso público.",
+    "resumen_ciudadano": "El Ministerio de Justicia busca cubrir un puesto de Letrado en la Sala de lo Social del Tribunal Supremo. El proceso no es una competición de méritos abierta y puntuable, sino una elección 'a dedo' entre funcionarios con larga trayectoria. El jefe del departamento elegirá a quien prefiera de entre los solicitantes, lo que reduce la transparencia en la ocupación de puestos de alta responsabilidad judicial.",
+    "resumen_tweet": "🚩 ¿Justicia o discrecionalidad? Convocada plaza en el Tribunal Supremo mediante 'libre designación'. La 'idoneidad' queda al arbitrio de los superiores, facilitando el control jerárquico sobre puestos clave. #BOE #Opacidad #Transparencia #Justicia ⚖️🏛️",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Elección basada en idoneidad subjetiva",
+      "Entrevista personal potestativa (no obligatoria ni reglada)",
+      "Falta de baremo de puntuación pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Letrados con alta antigüedad y afinidad con la cúpula judicial",
+        "Poder ejecutivo (al ratificar nombramientos estratégicos)"
+      ],
+      "perdedores": [
+        "Letrados con currículum brillante pero sin conexiones internas",
+        "Ciudadanía (por la politización del entorno técnico del Tribunal Supremo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación",
+      "Elección basada en idoneidad subjetiva",
+      "Entrevista personal potestativa (no obligatoria ni reglada)",
+      "Falta de baremo de puntuación pública"
+    ]
+  },
+  "tweeted": false
+}
