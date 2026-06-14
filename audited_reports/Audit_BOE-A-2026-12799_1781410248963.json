@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-12799",
+  "timestamp": "2026-06-14T04:10:48.963Z",
+  "title": "Resolución de 12 de junio de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución actúa como un mero trámite administrativo que valida los precios propuestos por la industria tabaquera, consolidando un oligopolio donde el Estado ejerce de notario y recaudador. Se observa una disparidad extrema de precios que segmenta el mercado: desde puros de lujo inaccesibles (Arturo Fuente a 121,90€ el envase de 3) hasta picaduras de pipa/shisha a precios populares, fomentando distintos nichos de consumo sin un desglose claro de la carga impositiva real por cada categoría.",
+    "resumen_ciudadano": "Publicación oficial de los nuevos precios de venta al público para tabaco de aspirar, puros y picaduras de pipa en la Península y Baleares. Los precios incluyen impuestos y entrarán en vigor de forma inmediata tras su publicación.",
+    "resumen_tweet": "🚬 Hacienda actualiza los precios del tabaco: desde puros de lujo a 121€ hasta picaduras de shisha baratas. Una regulación técnica que favorece la recaudación y valida las propuestas de las grandes tabaqueras. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Entrada en vigor inmediata sin periodo de adaptación",
+      "Fijación de precios dirigida por fabricantes e importadores",
+      "Opacidad en el desglose de los márgenes de beneficio del Comisionado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (vía impuestos especiales)",
+        "Importadores de puros premium (EPC, Arturo Fuente, Plasencia)",
+        "Grandes expendedurías de tabaco y timbre"
+      ],
+      "perdedores": [
+        "Consumidores de rentas bajas (segmento de picaduras)",
+        "Salud pública (mantenimiento de precios accesibles en ciertos productos)",
+        "Pequeños fabricantes locales frente a grandes importadores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península e Illes Balears)",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Entrada en vigor inmediata sin periodo de adaptación",
+      "Fijación de precios dirigida por fabricantes e importadores",
+      "Opacidad en el desglose de los márgenes de beneficio del Comisionado"
+    ]
+  },
+  "tweeted": false
+}
