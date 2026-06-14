@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-12804",
+  "timestamp": "2026-06-14T14:23:33.109Z",
+  "title": "Resolución de 9 de junio de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 17 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución del concurso del Ministerio del Interior revela una preocupante inercia administrativa y una posible crisis de captación de talento en sectores críticos. Se detecta un patrón de 'sillas musicales' donde gran parte de los adjudicatarios (I/1, I/2, I/5, I/7, I/8, I/11, I/12) consolidan puestos que ya venían ocupando en funciones, lo que sugiere una formalización de situaciones preexistentes más que una movilidad real basada en méritos competitivos. Lo más alarmante es la cantidad de plazas declaradas DESIERTAS en áreas vitales como la Subdirección General de Resiliencia y Recuperación (Protección Civil) y Prevención de Riesgos, lo que indica una falta de personal cualificado o falta de atractivo en estos puestos técnicos esenciales para la seguridad ciudadana.",
+    "resumen_ciudadano": "El Ministerio del Interior ha repartido nuevos puestos de trabajo entre sus funcionarios, pero el resultado es agridulce. Mientras muchos empleados simplemente se quedan donde estaban (ahora con plaza fija), casi la mitad de los puestos técnicos en áreas de emergencias, protección civil y prevención de riesgos laborales han quedado vacíos porque nadie ha cumplido los requisitos o no ha habido candidatos. Esto significa que departamentos clave para gestionar catástrofes y seguridad interna están operando bajo mínimos de personal.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Ministerio del Interior resuelve su concurso de personal con un resultado preocupante: vacantes masivas en Protección Civil y Emergencias 📉. Muchos funcionarios solo 'oficializan' su silla actual. ¿Quién nos protege? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de puestos desiertos en áreas de emergencia (Resiliencia y Recuperación)",
+      "Consolidación endogámica: adjudicatarios que ya ocupaban el mismo puesto de cese",
+      "Falta de cobertura en puestos de Prevención de Riesgos (Salud Laboral)",
+      "Concentración total de poder administrativo en Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1/A2) que consolidan sus puestos actuales",
+        "Estructura burocrática centralizada en Madrid",
+        "Funcionarios que saltan de otros ministerios (Cultura a Interior)"
+      ],
+      "perdedores": [
+        "Sistema de Protección Civil (por falta de cobertura técnica)",
+        "Seguridad y Salud Laboral (puestos de prevención desiertos)",
+        "Ciudadanía (por la merma de personal en gestión de crisis y resiliencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de Puestos de Trabajo",
+    "banderas_rojas": [
+      "Alta tasa de puestos desiertos en áreas de emergencia (Resiliencia y Recuperación)",
+      "Consolidación endogámica: adjudicatarios que ya ocupaban el mismo puesto de cese",
+      "Falta de cobertura en puestos de Prevención de Riesgos (Salud Laboral)",
+      "Concentración total de poder administrativo en Madrid"
+    ]
+  },
+  "tweeted": false
+}
