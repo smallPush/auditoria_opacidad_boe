@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12812",
+  "timestamp": "2026-06-14T14:25:21.826Z",
+  "title": "Resolución de 2 de junio de 2026, de la Universidad de Sevilla, por la que se nombra Profesor Titular de Universidad a don Luis Felipe Pérez Romero.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una resolución administrativa de nombramiento de funcionario tras superar un concurso de acceso. El texto es estándar y cumple con la normativa de la LOSU. No obstante, existe la opacidad habitual en estos actos: no se detalla la remuneración bruta anual que asumirá el erario público ni los méritos específicos que superaron a otros candidatos, limitándose a la formalidad legal.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a un nuevo Profesor Titular en el área de Agronomía (Producción Vegetal). Es el paso final tras un proceso selectivo convocado a principios de año.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Universidad de Sevilla: Luis Felipe Pérez ya es Profesor Titular. Aunque el proceso es legal, el #BOE sigue sin desglosar el coste real para el contribuyente. 🏛️📜 #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de información presupuestaria vinculada",
+      "Complejidad en los mecanismos de impugnación administrativa",
+      "Uso de terminología técnica que distancia al ciudadano del proceso de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Felipe Pérez Romero (estabilidad laboral)",
+        "Universidad de Sevilla (cubrimiento de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Ciudadanía (por falta de transparencia salarial en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Ausencia de información presupuestaria vinculada",
+      "Complejidad en los mecanismos de impugnación administrativa",
+      "Uso de terminología técnica que distancia al ciudadano del proceso de selección"
+    ]
+  },
+  "tweeted": false
+}
