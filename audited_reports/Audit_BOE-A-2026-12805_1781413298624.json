@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-12805",
+  "timestamp": "2026-06-14T05:01:38.624Z",
+  "title": "Orden EFD/590/2026, de 8 de junio, por la que, a propuesta del Departamento de Educación y Formación Profesional de la Comunidad Autónoma de Cataluña, se nombra personal funcionario de carrera, a las personas seleccionadas en los procesos de estabilización, mediante el sistema selectivo de concurso oposición para el ingreso a la función pública docente, convocados por Resolución EDU/4037/2022, de 21 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento formaliza el nombramiento de funcionarios de carrera en el sector docente de Cataluña como resultado de los procesos de estabilización de 2022. Se observa una dilatación temporal significativa: una convocatoria de 2022 que se resuelve administrativamente en 2026, aunque con efectos retroactivos a finales de 2024. Esta 'burocracia de retardo' genera una opacidad operativa sobre la gestión real de las plantillas. Aunque no hay 'gastos fantasma' directos, el coste a largo plazo de la consolidación de miles de plazas no viene acompañado de una memoria económica de impacto presupuestario en este extracto. La estructura de resoluciones cruzadas y correcciones de erratas dificulta el seguimiento ciudadano del proceso selectivo.",
+    "resumen_ciudadano": "Se nombra finalmente como funcionarios de carrera a los docentes que superaron las oposiciones de estabilización en Cataluña convocadas en 2022. El proceso afecta a diversos cuerpos (Secundaria, Primaria, FP) y reconoce su antigüedad desde el 31 de diciembre de 2024, a pesar de publicarse en junio de 2026.",
+    "resumen_tweet": "📝 Tras 4 años de espera, el #BOE publica el nombramiento de funcionarios docentes en Cataluña. Un proceso de estabilización que llega con efectos retroactivos de 2024. ¿Justicia laboral o lentitud burocrática? 🏛️👥 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Retroactividad de efectos administrativos de casi 18 meses",
+      "Excesiva demora entre convocatoria (2022) y nombramiento final (2026)",
+      "Complejidad por multiplicidad de resoluciones modificativas y correcciones de erratas citadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal docente interino que logra estabilidad laboral",
+        "Administración autonómica al cumplir formalmente con la reducción de temporalidad europea"
+      ],
+      "perdedores": [
+        "Aspirantes libres con menos puntos por experiencia previa",
+        "Ciudadanía por la lentitud extrema en la resolución de procesos públicos de empleo"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Retroactividad de efectos administrativos de casi 18 meses",
+      "Excesiva demora entre convocatoria (2022) y nombramiento final (2026)",
+      "Complejidad por multiplicidad de resoluciones modificativas y correcciones de erratas citadas"
+    ]
+  },
+  "tweeted": false
+}
