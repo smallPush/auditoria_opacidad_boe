@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13045",
+  "timestamp": "2026-06-16T17:22:00.956Z",
+  "title": "Resolución de 9 de junio de 2026, de la Universidad de Granada, por la que se corrigen errores en la de 29 de mayo de 2026, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de una correccion de errores materiales en el nombramiento de personal funcionario docente. Aunque el procedimiento es legal, la modificacion de un area de conocimiento de 'Historia Moderna' a 'Historia de America' no es un detalle menor en el ambito academico, ya que las competencias, perfiles y tribunales de oposicion varian drasticamente entre ambas especialidades. Este tipo de 'fe de erratas' puede enmascarar deficiencias en la gestion administrativa de los expedientes de profesorado.",
+    "resumen_ciudadano": "La Universidad de Granada ha rectificado el nombramiento de profesorado titular porque se asigno por error el area de 'Historia Moderna' a una plaza que correspondia legalmente a 'Historia de America'. Es un ajuste tecnico en el escalafon docente universitario.",
+    "resumen_tweet": "🧐 ¡Atención! La Universidad de Granada corrige un error de bulto en el #BOE: confunden 'Historia Moderna' con 'Historia de América' en un nombramiento de catedrático. ¿Despiste administrativo o falta de rigor en la gestión pública? 🎓🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Error en definición de plaza pública",
+      "Corrección de área de conocimiento post-nombramiento",
+      "Falta de detalle sobre el expediente original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El docente nombrado (que obtiene la plaza con el perfil correcto)",
+        "Burocracia universitaria (que subsana el error sin mayores consecuencias)"
+      ],
+      "perdedores": [
+        "Rigor administrativo de la Universidad de Granada",
+        "Candidatos descartados que pudieran haber impugnado por errores en la base de la convocatoria"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Error en definición de plaza pública",
+      "Corrección de área de conocimiento post-nombramiento",
+      "Falta de detalle sobre el expediente original"
+    ]
+  },
+  "tweeted": false
+}
