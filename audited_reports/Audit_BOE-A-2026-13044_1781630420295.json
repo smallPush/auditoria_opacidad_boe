@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-13044",
+  "timestamp": "2026-06-16T17:20:20.295Z",
+  "title": "Resolución de 5 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Naiara Romero Antón.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario tras un concurso de acceso. Aunque el proceso cumple con la Ley Orgánica 2/2023 del Sistema Universitario, la opacidad reside en la falta de información sobre la terna de candidatos o la puntuación final en este extracto. No obstante, destaca la consolidación de una mujer en el área de Ingeniería Energética (Máquinas y Motores Térmicos), un campo tradicionalmente masculinizado, lo que supone un impacto positivo de género en la academia técnica.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Naiara Romero Antón como Profesora Titular en la Escuela de Ingeniería de Bilbao tras superar un concurso público convocado en 2025.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la UPV/EHU: Naiara Romero Antón se incorpora a Ingeniería Energética en Bilbao. ✅ Proceso transparente bajo la LOSU, reforzando el perfil femenino en áreas STEM. #BOE #Transparencia #Universidad #STEM",
+    "banderas_red_flags": [
+      "Dilación administrativa: Convocatoria iniciada en noviembre de 2025 y resuelta en junio de 2026",
+      "Ausencia de información sobre la concurrencia competitiva real en el extracto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Naiara Romero Antón (estabilidad laboral y plaza en propiedad)",
+        "Universidad del País Vasco (cobertura de plaza estructural)",
+        "Representación femenina en áreas de ingeniería"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el proceso selectivo de 2025",
+        "Presupuesto público (gasto estructural a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa: Convocatoria iniciada en noviembre de 2025 y resuelta en junio de 2026",
+      "Ausencia de información sobre la concurrencia competitiva real en el extracto publicado"
+    ]
+  },
+  "tweeted": false
+}
