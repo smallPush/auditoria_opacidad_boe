@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13041",
+  "timestamp": "2026-06-17T05:10:39.151Z",
+  "title": "Resolución 9 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución de 'Libre Designación', un sistema de provisión de puestos que, aunque legal, permite la adjudicación discrecional ('a dedo') de puestos de alta responsabilidad y remuneración (Nivel 30, el máximo en la administración pública). El Ministerio para la Transformación Digital y de la Función Pública, que debería liderar con el ejemplo en meritocracia, utiliza este mecanismo para un puesto de Jefe de Unidad, favoreciendo la confianza política sobre la concurrencia competitiva pura. No se detallan los méritos específicos que hicieron al candidato superior a otros posibles aspirantes.",
+    "resumen_ciudadano": "El Ministerio de Función Pública ha asignado un puesto de Jefe de Unidad (el nivel salarial más alto, Nivel 30) a un funcionario mediante el sistema de libre designación. Esto significa que el nombramiento depende de la confianza del superior y no de un examen o concurso de méritos abierto.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Función Pública. Un Nivel 30 (el máximo salarial) asignado por Libre Designación. ¿Meritocracia o confianza política en el corazón de la administración? 🕵️‍♂️ #BOE #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Adjudicación de Nivel 30 (máxima categoría salarial)",
+      "Falta de desglose de criterios de selección específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Romera Martín (ascenso a Nivel 30)",
+        "Altos cargos con capacidad de elección discrecional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin red de confianza política",
+        "Principio de meritocracia y capacidad",
+        "Transparencia en la gestión de recursos humanos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Adjudicación de Nivel 30 (máxima categoría salarial)",
+      "Falta de desglose de criterios de selección específicos"
+    ]
+  },
+  "tweeted": false
+}
