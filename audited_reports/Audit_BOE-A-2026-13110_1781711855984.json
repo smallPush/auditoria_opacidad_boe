@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-13110",
+  "timestamp": "2026-06-17T15:57:35.984Z",
+  "title": "Real Decreto 493/2026, de 16 de junio, por el que se dispone el cese de doña Almudena Lastra de Inés como Fiscal Superior de la Fiscalía de la Comunidad de Madrid.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de cese por expiracion de mandato en un cargo de alta sensibilidad judicial. Aunque el texto cumple con la legalidad formal, la opacidad reside en la naturaleza politica de estos relevos en la Fiscalia. La adscripcion inmediata tras el cese garantiza la continuidad del estatus profesional y economico de la afectada sin detallar el impacto presupuestario de esta transicion de personal de alto nivel.",
+    "resumen_ciudadano": "Almudena Lastra deja de ser la Fiscal Superior de Madrid porque su periodo de mandato ha terminado. Permanecera trabajando en la Fiscalia de Madrid hasta que se nombre y tome posesion una nueva persona para el cargo.",
+    "resumen_tweet": "⚖️ Relevo en la cupula judicial: Cese de la Fiscal Superior de Madrid por fin de mandato. Movimiento estrategico en el #BOE que abre la puerta a nuevos nombramientos. ¿Garantia de independencia o rotacion politica? 🕵️‍♂️ #Justicia #Madrid #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en el futuro nombramiento del sucesor",
+      "Mantenimiento de estatus mediante adscripcion directa",
+      "Falta de desglose sobre el coste de las indemnizaciones o complementos de transicion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Justicia (capacidad de renovacion de cargos)",
+        "Almudena Lastra (mantiene plaza en la Fiscalia de Madrid)"
+      ],
+      "perdedores": [
+        "Ciudadania (exclusion de los procesos de seleccion de altos cargos judiciales)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Discrecionalidad en el futuro nombramiento del sucesor",
+      "Mantenimiento de estatus mediante adscripcion directa",
+      "Falta de desglose sobre el coste de las indemnizaciones o complementos de transicion"
+    ]
+  },
+  "tweeted": false
+}
