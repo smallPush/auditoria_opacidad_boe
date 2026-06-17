@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-13030",
+  "timestamp": "2026-06-17T05:00:18.267Z",
+  "title": "Acuerdo internacional administrativo entre la Organización Mundial del Turismo y la Secretaría de Estado de Turismo del Gobierno de España para la celebración de la 126.ª reunión del Consejo Ejecutivo de ONU Turismo, hecho en Madrid el 8 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El acuerdo destaca por su vaguedad financiera bajo una apariencia técnica. Se establece que España sufragará no solo los gastos directos, sino también los 'indirectos' (Art. IV.1), lo cual constituye un cheque en blanco jurídico. Resulta alarmante la cláusula de indemnización (Art. III.2) donde el Estado español asume la responsabilidad civil por daños a instalaciones o personas, exonerando a la ONU Turismo salvo negligencia grave. Además, se otorga inmunidad de jurisdicción al personal facilitado por España, blindando legalmente cualquier actuación durante el evento. Aunque se mencionan anexos con 'valor razonable', las cifras reales están ausentes del documento público.",
+    "resumen_ciudadano": "España organiza y paga íntegramente una reunión de dos días de la Organización Mundial del Turismo en Toledo. El Gobierno se compromete a pagar gastos ilimitados (directos e indirectos), facturas directas emitidas por la ONU para su propio personal y ofrece inmunidad legal total a los participantes. El ciudadano paga la infraestructura, el personal, la tecnología de alta gama y asume los riesgos legales de cualquier incidente.",
+    "resumen_tweet": "💸 España firma un cheque en blanco para la reunión de ONU Turismo en Toledo. Gastos 'indirectos' ilimitados a cargo del contribuyente, inmunidad legal total y cero presupuesto detallado en el texto. ¿Transparencia? Ausente. 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de gastos indirectos no cuantificados",
+      "Indemnización unilateral a cargo del Estado",
+      "Inmunidad de jurisdicción extendida a personal local",
+      "Pago de facturas directas a organismo internacional por su propio personal",
+      "Ausencia de techo presupuestario en el acuerdo publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de ONU Turismo (gastos pagados y blindaje legal)",
+        "Empresas de tecnología y eventos de lujo en Toledo",
+        "Delegados internacionales (167 países)"
+      ],
+      "perdedores": [
+        "Contribuyente español (asume costes y riesgos sin límite claro)",
+        "Transparencia pública (se derivan fondos mediante facturación directa a organismo internacional)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Cláusula de gastos indirectos no cuantificados",
+      "Indemnización unilateral a cargo del Estado",
+      "Inmunidad de jurisdicción extendida a personal local",
+      "Pago de facturas directas a organismo internacional por su propio personal",
+      "Ausencia de techo presupuestario en el acuerdo publicado"
+    ]
+  },
+  "tweeted": false
+}
