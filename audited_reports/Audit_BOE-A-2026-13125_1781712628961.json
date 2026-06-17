@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-13125",
+  "timestamp": "2026-06-17T16:10:28.961Z",
+  "title": "Resolución de 10 de junio de 2026, de la Subsecretaría, por la que se modifica la composición del Tribunal calificador del proceso selectivo para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Ingenieros Industriales del Estado, designado por Resolución de 25 de febrero de 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una modificacion tecnica ordinaria en la composicion de un tribunal calificador para el Cuerpo de Ingenieros Industriales del Estado. Aunque el documento cumple con la formalidad de identificar altas y bajas, existe una opacidad sistematica sobre las razones de las renuncias, un fenomeno recurrente que puede sugerir falta de incentivos o sobrecarga de trabajo en los funcionarios de alto nivel. No se detectan gastos fantasma directos, pero los cambios en tribunales pueden alterar sutilmente los criterios de evaluacion tecnica debido a la subjetividad inherente a los nuevos perfiles.",
+    "resumen_ciudadano": "El Ministerio de Industria ha actualizado el tribunal que evaluara a los futuros Ingenieros Industriales del Estado. Dos vocales suplentes han renunciado y han sido sustituidos por nuevos profesionales para garantizar que el proceso selectivo pueda continuar sin problemas legales.",
+    "resumen_tweet": "🔄 Cambio de fichas en el tribunal de Ingenieros Industriales del Estado. Renuncias de vocales obligan a modificar el tribunal suplente a mitad del proceso. ¿Falta de incentivos para evaluar? 🧐 #BOE #Opacidad #Transparencia #Oposiciones",
+    "banderas_red_flags": [
+      "Renuncias no motivadas de miembros del tribunal",
+      "Modificacion de organos tecnicos durante el proceso selectivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos vocales (acceso a dietas de examen)",
+        "Continuidad del proceso administrativo"
+      ],
+      "perdedores": [
+        "Opositores (incertidumbre por cambio de evaluadores)",
+        "Vocales dimisionarios (presunta sobrecarga)"
+      ]
+    },
+    "comunidad_autonoma": "España (Ambito Estatal)",
+    "tipologia": "Recursos Humanos y Oposiciones",
+    "banderas_rojas": [
+      "Renuncias no motivadas de miembros del tribunal",
+      "Modificacion de organos tecnicos durante el proceso selectivo"
+    ]
+  },
+  "tweeted": false
+}
