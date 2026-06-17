@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13121",
+  "timestamp": "2026-06-17T16:05:34.512Z",
+  "title": "Resolución de 8 de junio de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 29 (Coordinador de Área) representa un punto crítico de opacidad administrativa. Aunque legal, este procedimiento permite la selección discrecional ('a dedo') de funcionarios para puestos de alta responsabilidad en la redacción de leyes y transposición de directivas europeas. Se observa una incongruencia entre la retórica de transparencia y la realidad de una estructura que prioriza la 'confianza' sobre el concurso de méritos puro en puestos clave del Ministerio de la Presidencia y Justicia.",
+    "resumen_ciudadano": "El Gobierno convoca una plaza de alto nivel para redactar leyes y coordinar asuntos jurídicos con la Unión Europea. El puesto, reservado para la élite funcionarial (Grupo A1), será asignado de forma discrecional por los superiores, no por examen o mérito objetivo estricto. Cuenta con un complemento específico de 24.549,84 euros anuales, que se suma al sueldo base y otros pluses de un Nivel 29.",
+    "resumen_tweet": "🚨 ¡Alerta de 'dedazo' legislativo! El Ministerio de Justicia convoca un puesto de Nivel 29 por libre designación. Quien redacte nuestras leyes será elegido por 'confianza', no por mérito puro. 💼 24.549€ de plus extra. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Funciones sensibles: redacción y seguimiento de proyectos legislativos",
+      "Falta de baremo objetivo de méritos en la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (A1) con perfil político o de confianza",
+        "Estructura jerárquica del Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin vínculos de confianza",
+        "Ciudadanía (riesgo de politización en la redacción técnica de leyes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo por libre designación",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Funciones sensibles: redacción y seguimiento de proyectos legislativos",
+      "Falta de baremo objetivo de méritos en la convocatoria"
+    ]
+  },
+  "tweeted": false
+}
