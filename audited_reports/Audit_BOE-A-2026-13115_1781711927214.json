@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13115",
+  "timestamp": "2026-06-17T15:58:47.214Z",
+  "title": "Resolución de 10 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El uso del sistema de libre designación para un puesto de nivel 17 (Secretaría de Director General) representa una práctica que, aunque legal bajo la Ley 30/1984, bordea la dedocracia administrativa. El informe motivado que justifica la elección se menciona pero no se desglosa, impidiendo al ciudadano evaluar si los méritos de la persona elegida son superiores a otros candidatos. Se perpetúa una estructura de 'confianza' en niveles que deberían ser puramente técnicos o administrativos.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha nombrado a una funcionaria como Secretaria del Director General del Sector Ferroviario mediante elección directa ('a dedo') en lugar de un concurso de méritos tradicional. Este método permite a la administración elegir libremente a quién colocar en puestos estratégicos de apoyo sin necesidad de una competencia pública abierta entre funcionarios.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedocracia? El Ministerio de Transportes adjudica un puesto de Nivel 17 por 'libre designación'. Otro cargo decidido sin concurso abierto y con informe motivado 'invisible'. #BOE #Opacidad #Transparencia 👁️⚖️",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Opacidad en el contenido del informe motivado",
+      "Ausencia de comparativa de méritos con otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jennifer Montero González (ascenso/consolidación por confianza)",
+        "Cargos directivos (discrecionalidad en equipo cercano)"
+      ],
+      "perdedores": [
+        "Cuerpo General Administrativo (limitación de acceso por mérito puro)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Opacidad en el contenido del informe motivado",
+      "Ausencia de comparativa de méritos con otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
