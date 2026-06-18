@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13209",
+  "timestamp": "2026-06-18T15:49:00.452Z",
+  "title": "Resolución de 11 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 30,
+    "analisis_critico": "Se trata de una adjudicación de puesto de trabajo por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite el nombramiento discrecional ('a dedo') de funcionarios para puestos de confianza. El análisis muestra un movimiento horizontal entre ministerios (de Transportes a Vivienda) de una funcionaria del cuerpo de Correos y Telégrafos. La opacidad reside en la falta de una tabla comparativa de méritos con otros posibles candidatos, amparándose únicamente en el 'informe de la unidad proponente'.",
+    "resumen_ciudadano": "El Ministerio de Vivienda ha seleccionado a una secretaria para su Dirección General sin concurso público de méritos, utilizando el sistema de libre designación. La elegida ya ocupaba un cargo similar en el Ministerio de Transportes. Este tipo de nombramientos suele premiar la confianza política o personal sobre la competencia técnica evaluable.",
+    "resumen_tweet": "🏠 Nuevo 'dedazo' legal en el Ministerio de Vivienda. Se adjudica puesto de confianza por libre designación. ¿Meritocracia o afinidad? La opacidad sigue reinando en los nombramientos de la administración. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de justificación de méritos específicos en el texto",
+      "Nombramiento basado en informe interno no público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miranda Lorenzo, M. Victoria (adjudicataria)",
+        "Ministerio de Vivienda (fortalece su equipo de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor antigüedad o formación sin acceso al puesto",
+        "Transparencia pública (procedimiento sin concurrencia real)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Ausencia de justificación de méritos específicos en el texto",
+      "Nombramiento basado en informe interno no público"
+    ]
+  },
+  "tweeted": false
+}
