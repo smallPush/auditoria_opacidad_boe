@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-13219",
+  "timestamp": "2026-06-18T15:52:23.834Z",
+  "title": "Resolución de 8 de junio de 2026, de la Universidad de Extremadura, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion oficializa la consolidacion de 29 plazas de funcionario de carrera en la Universidad de Extremadura bajo la Ley Organica 2/2023 (LOSU). Aunque se detallan los nombres y codigos de plaza, existe una opacidad intrinseca sobre el impacto presupuestario real a largo plazo. Se observa una segregacion horizontal persistente: las catedras en areas tecnicas y de ciencias duras siguen estando mayoritariamente ocupadas por hombres, mientras que la paridad es mas visible en areas de servicios y salud. No se adjunta la baremacion de meritos, dejando al ciudadano fuera del proceso de evaluacion de la excelencia.",
+    "resumen_ciudadano": "La Universidad de Extremadura ha nombrado a 29 nuevos catedraticos y profesores titulares. Esto supone la asignacion de plazas vitalicias pagadas con fondos publicos en areas que van desde la Nutricion hasta la Ingenieria Mecanica. El proceso es legalmente correcto pero no ofrece informacion sobre el coste salarial total ni por que estos candidatos fueron mejores que sus competidores.",
+    "resumen_tweet": "🎓 29 nuevos funcionarios de elite en la Univ. de Extremadura. Mas catedras y titularidades blindadas por ley. 🏛️ ¿El coste real para el contribuyente? Un misterio. ¿Meritos? No publicados. Transparencia a medias en el #BOE. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica vinculada a los nombramientos",
+      "Opacidad en la puntuacion final obtenida por los candidatos en este extracto",
+      "Persistencia de brecha de genero en el acceso a Catedras tecnicas",
+      "Asignacion de plazas vitalicias sin desglose de incentivos o complementos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "29 academicos nombrados (estabilidad laboral vitalicia)",
+        "Universidad de Extremadura (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocen el compromiso de gasto futuro)",
+        "Aspirantes externos (posible endogamia no evaluable sin baremos)",
+        "Investigadores precarios (sin acceso a estas plazas de elite)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de memoria economica vinculada a los nombramientos",
+      "Opacidad en la puntuacion final obtenida por los candidatos en este extracto",
+      "Persistencia de brecha de genero en el acceso a Catedras tecnicas",
+      "Asignacion de plazas vitalicias sin desglose de incentivos o complementos"
+    ]
+  },
+  "tweeted": false
+}
