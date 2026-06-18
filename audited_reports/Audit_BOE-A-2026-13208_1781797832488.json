@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13208",
+  "timestamp": "2026-06-18T15:50:32.488Z",
+  "title": "Resolución 430/38289/2026, de 10 de junio, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38192/2026, de 7 de abril.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite la selección discrecional de altos cargos sin un concurso de méritos abierto y comparativo. En este caso, se traslada a un funcionario del Cuerpo Superior de Meteorólogos desde Transición Ecológica a una posición de Consejero Técnico en Defensa (Nivel 28). Aunque formalmente correcto, el sistema de libre designación es la antítesis de la meritocracia técnica, priorizando la confianza política o personal sobre la competencia pública demostrada.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha nombrado a dedo a un nuevo Consejero Técnico para su Subdirección de Transformación Digital. El elegido viene de la Agencia Estatal de Meteorología. Al ser un puesto de 'libre designación', no ha tenido que competir públicamente con otros candidatos, lo que impide saber si es el más capacitado para el gasto público que conlleva su salario de Nivel 28.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el @Defensagob. Se adjudica un puesto de Nivel 28 por libre designación a un técnico de meteorología. Menos meritocracia y más discrecionalidad en la alta administración. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del procedimiento de Libre Designación (discrecionalidad)",
+      "Salto salarial y jerárquico del nivel 25 al 28",
+      "Ausencia de justificación técnica sobre la idoneidad del perfil meteorológico para transformación digital de defensa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Luis García de Arboleya Cañas (ascenso y mejora salarial)",
+        "Cúpula del Ministerio de Defensa (control sobre puestos estratégicos)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin conexiones",
+        "Transparencia pública",
+        "Ciudadanía (desconocimiento de criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Uso del procedimiento de Libre Designación (discrecionalidad)",
+      "Salto salarial y jerárquico del nivel 25 al 28",
+      "Ausencia de justificación técnica sobre la idoneidad del perfil meteorológico para transformación digital de defensa"
+    ]
+  },
+  "tweeted": false
+}
