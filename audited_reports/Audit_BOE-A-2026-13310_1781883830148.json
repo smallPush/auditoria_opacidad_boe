@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13310",
+  "timestamp": "2026-06-19T15:43:50.148Z",
+  "title": "Resolución de 9 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento por el sistema de 'libre designación', un mecanismo que, aunque legal, permite la discrecionalidad política en la elección de altos cargos (Nivel 30, el máximo en la administración pública). Resulta llamativo que se utilice como marco normativo el Real Decreto-ley 6/2023, vinculado al Plan de Recuperación, Transformación y Resiliencia, para blindar o justificar procedimientos de provisión de puestos directivos que eluden el concurso de méritos tradicional. La opacidad reside en la falta de una rúbrica pública que explique por qué este candidato es más idóneo que otros, más allá de la 'valoración del Centro Directivo'.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha ascendido a un funcionario al puesto de Vicesecretario General Técnico. Este ascenso se ha realizado mediante 'libre designación', es decir, una elección directa por parte de los superiores en lugar de una competición abierta basada únicamente en puntos por experiencia y formación. El puesto es de Nivel 30, la escala salarial y de responsabilidad más alta para un funcionario de carrera.",
+    "resumen_tweet": "Nombramiento a dedo en Sanidad 🏥. Un Nivel 30 (máximo escalafón) adjudicado por 'libre designación'. Se usa el Plan de Resiliencia para gestionar personal directivo con opacidad. ¿Mérito o confianza política? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación en niveles máximos (Nivel 30)",
+      "Justificación vinculada a fondos de recuperación para agilizar nombramientos discrecionales",
+      "Ausencia de criterios de puntuación comparativa entre candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cristian Yepes Crespillo (ascenso a Nivel 30)",
+        "Cúpula del Ministerio de Sanidad (asegura personal de confianza en puestos clave)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de la carrera administrativa por mérito puro)",
+        "Ciudadanía (incapacidad de auditar la idoneidad técnica real del nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación en niveles máximos (Nivel 30)",
+      "Justificación vinculada a fondos de recuperación para agilizar nombramientos discrecionales",
+      "Ausencia de criterios de puntuación comparativa entre candidatos"
+    ]
+  },
+  "tweeted": false
+}
