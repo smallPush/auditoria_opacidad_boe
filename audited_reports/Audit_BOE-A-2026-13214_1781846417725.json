@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-13214",
+  "timestamp": "2026-06-19T05:20:17.725Z",
+  "title": "Decreto de 5 de junio de 2026, de la Fiscal General del Estado, por el que se dispone el cese de doña María Eugenia Calvo Isasi como Fiscal Delegada de Trata de Personas y Extranjería de la Fiscalía Provincial de Huesca.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento refleja un procedimiento administrativo estándar para el cese voluntario de un cargo de confianza técnica. Sin embargo, se detecta una latencia temporal significativa: la fiscal presentó su renuncia el 27 de febrero y el decreto no se dictó hasta el 5 de junio, publicándose finalmente el 18 de junio. Un lapso de casi cuatro meses para formalizar una renuncia en un área tan crítica como la 'Trata de Personas y Extranjería' sugiere una burocracia pesada que podría comprometer la continuidad de investigaciones sensibles en la provincia de Huesca.",
+    "resumen_ciudadano": "Se formaliza el cese por renuncia voluntaria de la Fiscal Delegada de Trata de Personas y Extranjería en Huesca, María Eugenia Calvo Isasi. El proceso cumple con la legalidad vigente y cuenta con el visto bueno de la Fiscalía General, aunque el relevo administrativo ha tardado varios meses en oficializarse.",
+    "resumen_tweet": "🚨 Cese en la Fiscalía de Trata de Huesca: 4 meses para tramitar una renuncia voluntaria. ¿Es razonable esta lentitud en áreas tan críticas? La burocracia no debe frenar la justicia. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retraso de 111 días entre la renuncia y el decreto de cese",
+      "Falta de mención a una sustitución inmediata en un área de alta prioridad social",
+      "Opacidad sobre los motivos de la renuncia (aunque sea voluntaria)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Eugenia Calvo Isasi (se desvincula del cargo según su deseo)"
+      ],
+      "perdedores": [
+        "Eficacia en la lucha contra la trata en Huesca (potencial vacío de mando)",
+        "Ciudadanía (lentitud en la gestión de recursos humanos del Ministerio Fiscal)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Retraso de 111 días entre la renuncia y el decreto de cese",
+      "Falta de mención a una sustitución inmediata en un área de alta prioridad social",
+      "Opacidad sobre los motivos de la renuncia (aunque sea voluntaria)"
+    ]
+  },
+  "tweeted": false
+}
