@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13205",
+  "timestamp": "2026-06-19T05:10:51.712Z",
+  "title": "Real Decreto 479/2026, de 10 de junio, por el que se nombra Presidente de la Sala de lo Social del Tribunal Superior de Justicia de Illes Balears a don Alejandro Roa Nonide.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza un nombramiento de 'nombramiento discrecional' en la cúpula judicial de Illes Balears. Bajo el amparo de la Ley Orgánica del Poder Judicial, se mantiene un sistema donde la elección de altos cargos no se basa en un concurso público de méritos con puntuaciones desglosadas, sino en la voluntad del Pleno del CGPJ. Esto perpetúa una estructura de poder vertical y opaca, donde la 'discrecionalidad' suele ser un eufemismo para la falta de rendición de cuentas ante la ciudadanía sobre por qué un candidato es preferible a otros.",
+    "resumen_ciudadano": "Se ha nombrado a Alejandro Roa Nonide como Presidente de la Sala de lo Social del Tribunal Superior de Justicia de las Islas Baleares. Este cargo se otorga por decisión directa del Consejo General del Poder Judicial y no por una oposición o sistema de puntos visible, cubriendo una vacante por fin de mandato anterior.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento 'a dedo' en la justicia de Baleares. Alejandro Roa Nonide presidirá la Sala de lo Social tras una decisión discrecional del CGPJ. ¿Méritos objetivos o política judicial? La opacidad continúa. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (libre designación)",
+      "Ausencia de comparativa de méritos con otros aspirantes",
+      "Falta de justificación técnica en el texto del decreto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alejandro Roa Nonide",
+        "Sistema de cooptación del CGPJ"
+      ],
+      "perdedores": [
+        "Transparencia en la carrera judicial",
+        "Candidatos con méritos técnicos sin respaldo en el Pleno",
+        "Ciudadanía (por falta de claridad en la elección de jueces)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional (libre designación)",
+      "Ausencia de comparativa de méritos con otros aspirantes",
+      "Falta de justificación técnica en el texto del decreto"
+    ]
+  },
+  "tweeted": false
+}
