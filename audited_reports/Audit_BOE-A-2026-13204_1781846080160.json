@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-13204",
+  "timestamp": "2026-06-19T05:14:40.160Z",
+  "title": "Real Decreto 492/2026, de 17 de junio, por el que se modifica el Real Decreto 668/2025, de 22 de julio, por el que se regula la concesión directa de una subvención a la Federación Española de Municipios y Provincias para la prestación del Servicio de teleasistencia móvil a víctimas de violencia contra las mujeres (servicio ATENPRO).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La norma justifica una inyeccion adicional de 5,88 millones de euros (un incremento del 60% sobre el presupuesto anterior) bajo la premisa de la transicion al sistema ATENPRO 2.0. El uso de la 'concesion directa' a la FEMP evita la licitacion publica competitiva, permitiendo que un intermediario gestione fondos que terminaran en empresas tecnologicas subcontratadas. La 'necesidad' de mantener dos sistemas operativos simultaneamente durante 11 meses sugiere una planificacion deficiente en la modernizacion original o una estrategia para inflar los costes de gestion administrativa.",
+    "resumen_ciudadano": "El Gobierno amplia el presupuesto y el plazo para el servicio de teleasistencia a victimas de violencia de genero gestionado por la FEMP. Se añaden casi 6 millones de euros extra para cubrir un periodo de convivencia entre el sistema antiguo y el nuevo sistema tecnologico, extendiendo los pagos hasta abril de 2027.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Ministerio de Igualdad inyecta 5.9M€ extra a la FEMP mediante concesión directa. 📉 Se justifica por el 'solapamiento' de sistemas tecnológicos durante 11 meses. ¿Falta de previsión o gasto inflado? #Opacidad #Transparencia #ATENPRO",
+    "banderas_red_flags": [
+      "Concesion directa sin concurso publico",
+      "Incremento presupuestario sustancial (60%) mediante modificacion de Real Decreto",
+      "Ambiguedad en los costes de 'coordinacion' entre sistemas",
+      "Pagos por adelantado basados en estimaciones de gastos futuros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Federacion Española de Municipios y Provincias (FEMP) como gestora de fondos",
+        "Empresas de tecnologia y traduccion subcontratadas por la FEMP",
+        "Ayuntamientos con deficit de infraestructura que reciben parches de cobertura"
+      ],
+      "perdedores": [
+        "Contribuyentes por el sobrecoste derivado de la convivencia de sistemas",
+        "Victimas en zonas rurales cuya seguridad depende de una transicion tecnologica dilatada"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificacion de Subvencion Directa",
+    "banderas_rojas": [
+      "Concesion directa sin concurso publico",
+      "Incremento presupuestario sustancial (60%) mediante modificacion de Real Decreto",
+      "Ambiguedad en los costes de 'coordinacion' entre sistemas",
+      "Pagos por adelantado basados en estimaciones de gastos futuros"
+    ]
+  },
+  "tweeted": false
+}
