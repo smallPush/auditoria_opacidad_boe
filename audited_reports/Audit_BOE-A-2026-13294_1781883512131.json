@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13294",
+  "timestamp": "2026-06-19T15:38:32.131Z",
+  "title": "Real Decreto 488/2026, de 17 de junio, por el que se establece el Certificado profesional en Procedimientos y técnicas de micropigmentación, de la familia profesional Imagen Personal, se fija su currículo y las ofertas de grados B y A incluidas en este certificado profesional y se modifica el Real Decreto 300/2026, de 8 de abril, por el que se establece el título de Formación Profesional de Grado Superior de Técnico Superior en Diseño y construcción artesanal de instrumentos musicales de cuerda, se fijan los aspectos básicos del currículo y las ofertas de grados C, B y A incluidos en este título.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 488/2026 utiliza una técnica de 'legislación macedonia' o de acompañamiento, donde se establece un currículo para micropigmentación mientras se modifica, de forma casi quirúrgica y opaca en el mismo texto, el título de Técnico Superior en Construcción de Instrumentos Musicales de Cuerda. Aunque se justifica bajo los principios de 'buena regulación', la mezcla de sectores tan dispares (estética y luthería) dificulta el seguimiento ciudadano de las normativas. Se apoya financieramente en fondos europeos (FSE+), lo que externaliza el coste pero evita detallar el impacto presupuestario directo en las arcas estatales.",
+    "resumen_ciudadano": "Este decreto regula oficialmente los estudios para trabajar en micropigmentación (tatuaje cosmético), estableciendo 510 horas de formación y prácticas en empresas. Sin embargo, el Gobierno ha aprovechado este mismo documento para cambiar las reglas de la formación de artesanos que fabrican instrumentos musicales, algo que no tiene relación directa y que suele pasar desapercibido para el público general.",
+    "resumen_tweet": "🖋️ Nueva regulación para la micropigmentación. Pero ojo: el Gobierno cuela cambios en la formación de artesanos de instrumentos musicales en el mismo decreto. ¿Transparencia o cajón desastre legislativo? 🎻 #BOE #Opacidad #Transparencia #FP",
+    "banderas_red_flags": [
+      "Legislación ómnibus: mezcla de estética e instrumentos musicales",
+      "Ausencia de desglose presupuestario detallado más allá de la mención a fondos FSE+",
+      "Modificación lateral de un Real Decreto previo (300/2026) con apenas dos meses de vida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Centros de formación estética",
+        "Empresas de micropigmentación y tatuaje",
+        "Sector de la imagen personal"
+      ],
+      "perdedores": [
+        "Artesanos de instrumentos de cuerda (afectados por cambios normativos indirectos)",
+        "Claridad legislativa para el ciudadano medio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Ordenación Educativa",
+    "banderas_rojas": [
+      "Legislación ómnibus: mezcla de estética e instrumentos musicales",
+      "Ausencia de desglose presupuestario detallado más allá de la mención a fondos FSE+",
+      "Modificación lateral de un Real Decreto previo (300/2026) con apenas dos meses de vida"
+    ]
+  },
+  "tweeted": false
+}
