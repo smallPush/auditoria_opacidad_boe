@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-13386",
+  "timestamp": "2026-06-20T14:29:02.106Z",
+  "title": "Resolución de 10 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Naiara Vicent Otaño.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de una plaza de funcionaria de carrera en la UPV/EHU bajo la Ley Orgánica 2/2023 (LOSU). El documento es transparente en cuanto a la identidad y el destino, pero opaco respecto a los baremos de puntuación y la composición de la comisión que decidió el nombramiento, delegando la responsabilidad en una resolución previa del Rectorado.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Naiara Vicent Otaño como Profesora Titular en el área de Didáctica de las Ciencias Sociales. La plaza es de dedicación completa y requiere perfil bilingüe. El proceso sigue la normativa universitaria vigente tras superar el concurso correspondiente.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad del País Vasco. Naiara Vicent Otaño es nombrada Profesora Titular de Ciencias Sociales. Trámite estándar bajo la LOSU, pero con la habitual opacidad en los méritos finales. 🧐 #BOE #Transparencia #Universidad #EHU",
+    "banderas_red_flags": [
+      "Referencia a una propuesta de comisión externa no detallada en el texto",
+      "Uso de códigos internos de plaza (TUC8L1-D00320-7) que dificultan el rastreo presupuestario ciudadano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Naiara Vicent Otaño (estabilidad laboral y estatus de funcionaria)",
+        "UPV/EHU (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso de acceso",
+        "Contribuyentes (asunción de gasto de personal a largo plazo sin desglose salarial en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Referencia a una propuesta de comisión externa no detallada en el texto",
+      "Uso de códigos internos de plaza (TUC8L1-D00320-7) que dificultan el rastreo presupuestario ciudadano"
+    ]
+  },
+  "tweeted": false
+}
