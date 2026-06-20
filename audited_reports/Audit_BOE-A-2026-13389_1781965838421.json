@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13389",
+  "timestamp": "2026-06-20T14:30:38.421Z",
+  "title": "Resolución de 15 de junio de 2026, del Ayuntamiento de Cee (A Coruña), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una opacidad estructural común en la administración local: la resolución en el BOE es un mero trámite administrativo que remite al boletín provincial (BOP), dificultando el acceso directo a los criterios de selección. El puesto es de alta sensibilidad política y administrativa (Jefe de Negociado de Secretaría General y Contratación), donde se gestiona el control de legalidad y la adjudicación de contratos públicos. El uso del sistema de 'concurso' en lugar de 'oposición' sugiere una valoración de méritos subjetivos que puede favorecer la consolidación de personal interno afín, limitando el acceso por capacidad pura.",
+    "resumen_ciudadano": "El Ayuntamiento de Cee convoca una plaza de mando intermedio para gestionar sus contratos y secretaría. El anuncio no detalla el sueldo ni los requisitos específicos, obligando al ciudadano a buscar en otros boletines, lo cual dificulta la fiscalización pública de quién controlará el dinero del municipio.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién controla los contratos en Cee? El #BOE anuncia plaza de Jefe de Contratación mediante 'concurso'. Opacidad al remitir al BOP para ver los requisitos. ¡Vigilamos los puestos clave! 🧐 #Opacidad #Transparencia #Cee #Coruña",
+    "banderas_red_flags": [
+      "Remisión externa de bases (BOP)",
+      "Puesto estratégico en gestión de contratos",
+      "Sistema de selección por méritos (concurso) propenso a discrecionalidad",
+      "Falta de información salarial y presupuestaria en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antigüedad acumulada",
+        "Estructura administrativa actual del Ayuntamiento"
+      ],
+      "perdedores": [
+        "Opositores externos sin experiencia previa en el ente local",
+        "Ciudadanía que demanda transparencia inmediata en perfiles de control de gasto"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público / Control Administrativo",
+    "banderas_rojas": [
+      "Remisión externa de bases (BOP)",
+      "Puesto estratégico en gestión de contratos",
+      "Sistema de selección por méritos (concurso) propenso a discrecionalidad",
+      "Falta de información salarial y presupuestaria en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
