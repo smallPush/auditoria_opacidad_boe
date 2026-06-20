@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-13370",
+  "timestamp": "2026-06-20T14:06:09.613Z",
+  "title": "Resolución de 19 de junio de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución se limita a validar precios propuestos por fabricantes e importadores bajo el paraguas del monopolio estatal. Aunque el dato numérico es transparente, el mecanismo de fijación de precios y el desglose real de la carga impositiva por cada euro pagado permanecen ocultos tras el lenguaje administrativo. Se observa un mercado de lujo blindado (puros de 55€/unidad) frente a picaduras de liar, lo que evidencia una segmentación fiscal que no cuestiona el impacto en salud pública, sino que asegura la recaudación.",
+    "resumen_ciudadano": "Se actualizan los precios oficiales de venta al público de diversas marcas de tabaco (cigarros, puros y picadura de pipa) para la Península, Baleares, Ceuta y Melilla. El cambio afecta tanto a marcas exclusivas como a productos de consumo más masivo.",
+    "resumen_tweet": "📢 Nuevos precios de tabaco en el #BOE. Desde puros de lujo de 55€ hasta picaduras de liar. El Estado actúa como gestor de precios de la industria, garantizando su parte del pastel 🥧💰. ¿Salud o recaudación? #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Fijación de precios por propuesta directa de fabricantes",
+      "Mantenimiento de estructuras de monopolio",
+      "Ausencia de justificación de impacto en salud pública",
+      "Falta de desglose tributario específico por unidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantiene ingresos vía impuestos especiales)",
+        "Fabricantes de tabaco de lujo (Partagas, Punch)",
+        "Expendedurías de Tabaco y Timbre"
+      ],
+      "perdedores": [
+        "Consumidores (asumen el coste final sin transparencia en el margen estatal)",
+        "Salud Pública (la norma es meramente fiscal/mercantil)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Fiscalidad y Precios Públicos",
+    "banderas_rojas": [
+      "Fijación de precios por propuesta directa de fabricantes",
+      "Mantenimiento de estructuras de monopolio",
+      "Ausencia de justificación de impacto en salud pública",
+      "Falta de desglose tributario específico por unidad"
+    ]
+  },
+  "tweeted": false
+}
