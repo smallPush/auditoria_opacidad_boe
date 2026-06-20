@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13305",
+  "timestamp": "2026-06-20T04:39:33.363Z",
+  "title": "Orden PJC/615/2026, de 8 de junio, por la que se nombra personal funcionario de carrera del Cuerpo de Médicos Forenses a las personas que han superado el proceso selectivo extraordinario para acceso, por concurso, reservado a personas con discapacidad, convocado por Orden PJC/1356/2024, de 19 de noviembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla el nombramiento de personal funcionario de carrera en el Cuerpo de Médicos Forenses bajo un cupo de discapacidad. Aunque el proceso es formalmente transparente al publicar puntuaciones, se observa un sesgo masivo hacia la veteranía: la columna de 'Servicios prestados' es el factor determinante (hasta 60 puntos), mientras que algunos seleccionados presentan un 0,00 en 'Títulos y grados académicos'. Esto sugiere un proceso de estabilización de interinos de larga duración más que una selección basada en la excelencia académica actual.",
+    "resumen_ciudadano": "El Ministerio de Justicia nombra a 5 nuevos médicos forenses tras un proceso especial para personas con discapacidad. La selección se ha hecho por concurso de méritos, donde ha pesado más la experiencia previa en la administración que los títulos académicos o los exámenes aprobados.",
+    "resumen_tweet": "⚖️ Nuevos Médicos Forenses en el #BOE. Proceso para personas con discapacidad que premia la veteranía: hasta 60 puntos por 'servicios prestados' frente a 0 en títulos académicos en algunos casos. ¿Estabilización o meritocracia? #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Peso desproporcionado de la antigüedad sobre la formación (60 vs 0 puntos)",
+      "Nombramiento de candidatos con puntuación nula en títulos y grados académicos",
+      "Escasa concurrencia de nuevos perfiles profesionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con discapacidad y larga trayectoria en la administración",
+        "Ministerio de Justicia (cumplimiento de cuotas de discapacidad)"
+      ],
+      "perdedores": [
+        "Jóvenes profesionales con discapacidad con alta formación pero sin experiencia previa",
+        "Criterio de excelencia académica sobre la experiencia temporal"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con asignaciones en Cataluña)",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Peso desproporcionado de la antigüedad sobre la formación (60 vs 0 puntos)",
+      "Nombramiento de candidatos con puntuación nula en títulos y grados académicos",
+      "Escasa concurrencia de nuevos perfiles profesionales"
+    ]
+  },
+  "tweeted": false
+}
