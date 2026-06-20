@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13306",
+  "timestamp": "2026-06-20T04:38:31.098Z",
+  "title": "Orden PJC/616/2026, de 15 de junio, por la que se nombran miembros de la Comisión Consultiva de Protección del Informante.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden formaliza la estructura de asesoramiento de la Autoridad Independiente de Protección del Informante. Aunque la publicación de nombres es un ejercicio de transparencia formal, se observa una fuerte endogamia institucional: la mayoría de los miembros son altos cargos de otros organismos estatales (Banco de España, CNMC, AEAT), lo que podría comprometer la 'independencia' real frente al propio Estado. Destaca la designación discrecional de dos juristas por el Ministerio y una única representante de los informantes, lo que diluye el peso de la sociedad civil frente al bloque burocrático.",
+    "resumen_ciudadano": "Se han nombrado a las personas que formarán la Comisión Consultiva para proteger a quienes denuncien corrupción. El grupo está compuesto principalmente por directivos de organismos públicos y expertos elegidos directamente por el Ministerio de Justicia. Esta comisión asesorará a la autoridad que debe velar por los informantes de infracciones legales.",
+    "resumen_tweet": "🚨 ¿Quién vigila a los vigilantes? El #BOE publica los nombres de la Comisión de Protección del Informante. Muchos altos cargos y expertos elegidos a dedo. ¿Garantiza esto independencia frente al poder? 🛡️🔎 #Opacidad #Corrupción #Transparencia",
+    "banderas_red_flags": [
+      "Predominio de cargos de la administración pública sobre la sociedad civil",
+      "Nombramiento discrecional de 'juristas de reconocida competencia' por parte del Ministerio",
+      "Ausencia de información sobre remuneraciones o dietas por asistencia (Gastos Fantasma potenciales)",
+      "Riesgo de conflicto de intereses al ser los propios organismos públicos los que se auditan a sí mismos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Estado (consolidan influencia en órganos consultivos)",
+        "Ministerio de la Presidencia y Justicia (mantiene el control de los nombramientos clave)",
+        "Académicos seleccionados por el ejecutivo"
+      ],
+      "perdedores": [
+        "Independencia sistémica (la comisión está colonizada por el sector público)",
+        "Asociaciones de informantes minoritarias (solo una representante)",
+        "Ciudadanía (que percibe una fiscalización interna en lugar de externa)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Predominio de cargos de la administración pública sobre la sociedad civil",
+      "Nombramiento discrecional de 'juristas de reconocida competencia' por parte del Ministerio",
+      "Ausencia de información sobre remuneraciones o dietas por asistencia (Gastos Fantasma potenciales)",
+      "Riesgo de conflicto de intereses al ser los propios organismos públicos los que se auditan a sí mismos"
+    ]
+  },
+  "tweeted": false
+}
