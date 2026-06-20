@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13301",
+  "timestamp": "2026-06-20T04:36:40.186Z",
+  "title": "Real Decreto 483/2026, de 10 de junio, por el que se nombra Presidente de la Audiencia Provincial de Ciudad Real a don Luis Casero Linares.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El nombramiento se ampara en la figura de 'provisión discrecional' (Art. 326.2 LOPJ), un mecanismo que permite a la cúpula judicial elegir cargos sin una transparencia total sobre la comparativa de méritos con otros candidatos. Aunque legal, esta discrecionalidad alimenta la percepción de politización en la justicia y perpetúa estructuras de poder cerradas en la Audiencia Provincial de Ciudad Real. No se mencionan las razones específicas que hacen a este candidato superior a otros posibles aspirantes.",
+    "resumen_ciudadano": "Se ha designado a Luis Casero Linares como nuevo Presidente de la Audiencia Provincial de Ciudad Real. Este cargo no se otorga por oposición directa, sino por decisión del Consejo General del Poder Judicial (CGPJ), lo que se conoce como nombramiento discrecional. Básicamente, la cúpula judicial elige a quien considera más adecuado sin explicar públicamente los detalles de la comparativa de méritos.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento 'a dedo' en la justicia: Luis Casero Linares presidirá la Audiencia de Ciudad Real. La 'discrecionalidad' vuelve a primar sobre la transparencia de méritos públicos. ¿Hasta cuándo la opacidad en el CGPJ? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional sin baremo público",
+      "Falta de desglose de méritos comparativos",
+      "Persistencia de estructuras jerárquicas masculinizadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Casero Linares",
+        "Cúpula del CGPJ",
+        "Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Candidatos con mayores méritos técnicos no seleccionados",
+        "Paridad de género en altos cargos judiciales",
+        "Ciudadanía que exige meritocracia"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional sin baremo público",
+      "Falta de desglose de méritos comparativos",
+      "Persistencia de estructuras jerárquicas masculinizadas"
+    ]
+  },
+  "tweeted": false
+}
