@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13388",
+  "timestamp": "2026-06-20T14:34:26.343Z",
+  "title": "Resolución de 16 de junio de 2026, de la Dirección General de Recursos Humanos, de la Consejería de Educación, Ciencia y Universidades, por la que se publica la modificación de la convocatoria del proceso selectivo para ingreso en el Cuerpo de Maestros y para adquisición de nuevas especialidades en el citado Cuerpo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución presenta una opacidad estratégica bajo el paraguas de la eficiencia administrativa. Al ampliar masivamente el número de plazas (de un estimado inicial de 685 a 1756) sin reabrir el plazo de inscripción, se vulnera el principio de concurrencia y acceso en condiciones de igualdad. Esta 'modificación técnica' ocurre meses después de la convocatoria original, lo que sugiere una planificación deficiente o una voluntad de restringir la competencia a quienes ya estaban en el proceso, excluyendo a nuevos graduados o profesionales que no se inscribieron ante una oferta inicial menos atractiva.",
+    "resumen_ciudadano": "La Comunidad de Madrid ha sumado 1.071 plazas extra a las oposiciones de maestros de este año, llegando a un total de 1.756. El problema es que, aunque hay muchas más plazas, no dejan que se apunte nadie nuevo. Solo podrán optar a estas plazas quienes ya se inscribieron en febrero, dejando fuera a cualquier otro interesado que ahora vea una oportunidad real de obtener plaza.",
+    "resumen_tweet": "📢 Madrid amplía en 1.071 plazas las oposiciones de Maestros, ¡pero NO abre plazo para nuevos candidatos! 🚫 Si no te apuntaste en febrero, pierdes el tren de esta oferta masiva. ¿Transparencia o cerrojazo administrativo? 🧐 #BOE #Educación #Madrid",
+    "banderas_red_flags": [
+      "Ampliación masiva de plazas sin apertura de nuevos plazos",
+      "Posible vulneración de principios de igualdad y libre concurrencia",
+      "Gestión tardía de la tasa de reposición de efectivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes inscritos en febrero (aumentan drásticamente sus probabilidades de éxito)",
+        "Consejería de Educación (acelera la contratación sin gestionar nuevas solicitudes)"
+      ],
+      "perdedores": [
+        "Nuevos titulados que terminaron después de febrero",
+        "Maestros que desistieron de participar por el escaso número de plazas inicial",
+        "Principio de igualdad en el acceso al empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos / Empleo Público",
+    "banderas_rojas": [
+      "Ampliación masiva de plazas sin apertura de nuevos plazos",
+      "Posible vulneración de principios de igualdad y libre concurrencia",
+      "Gestión tardía de la tasa de reposición de efectivos"
+    ]
+  },
+  "tweeted": false
+}
