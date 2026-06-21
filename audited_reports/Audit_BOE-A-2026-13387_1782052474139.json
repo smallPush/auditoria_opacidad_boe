@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13387",
+  "timestamp": "2026-06-21T14:34:34.139Z",
+  "title": "Resolución de 11 de junio de 2026, de la Secretaría de Estado para la Unión Europea, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación', un mecanismo que permite la discrecionalidad técnica bajo una apariencia de proceso reglado. Aunque se introduce un cuestionario de autoevaluación de competencias (Anexo III) y una fase de entrevistas, la decisión final recae en la voluntad del órgano convocante sin una baremación pública de méritos objetiva. El requisito de 'mínimo diez años de experiencia en el subgrupo A1' y la valoración preferente de la 'Carrera Diplomática' actúan como una barrera de entrada que favorece el endogamia administrativa y el mantenimiento de una élite burocrática específica dentro del Ministerio de Exteriores.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha convocado tres puestos de alta dirección (Subdirectores Generales) con un nivel 30, el máximo en la administración. El proceso de selección no es por oposición ni concurso de méritos puro, sino por 'libre designación' (elección directa), destinado a funcionarios con más de 10 años de antigüedad. Estos puestos gestionan la política con Europa y asuntos de justicia e interior, con complementos específicos que superan los 30.000 euros anuales.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el #BOE. Exteriores convoca 3 Subdirecciones Generales por libre designación. 💼 Sueldos nivel 30 blindados para la élite diplomática con +10 años de exp. A1. ¿Mérito o contactos? 🤔 #Opacidad #Transparencia #Funciona",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Requisito de antigüedad mínima de 10 años en A1 (filtro de exclusión)",
+      "Valoración subjetiva de la idoneidad mediante entrevista no baremada",
+      "Preferencia explícita por un cuerpo específico (Carrera Diplomática)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios de la Carrera Diplomática",
+        "Perfiles con afinidad política o contactos en la Secretaría de Estado",
+        "Élite administrativa con más de una década en el subgrupo A1"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con alta capacidad técnica pero menos de 10 años de antigüedad",
+        "Candidatos externos al cuerpo diplomático",
+        "Transparencia pública en la gestión de recursos humanos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Requisito de antigüedad mínima de 10 años en A1 (filtro de exclusión)",
+      "Valoración subjetiva de la idoneidad mediante entrevista no baremada",
+      "Preferencia explícita por un cuerpo específico (Carrera Diplomática)"
+    ]
+  },
+  "tweeted": false
+}
