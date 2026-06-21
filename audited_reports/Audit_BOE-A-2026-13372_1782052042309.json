@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13372",
+  "timestamp": "2026-06-21T14:27:22.309Z",
+  "title": "Ley de Cantabria 7/2026, de 4 de junio, por la que se modifica la Ley de Cantabria 9/2022, de 27 de diciembre, de Coordinación de Policías Locales de Cantabria.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La modificación legal presenta una preocupante normalización de la precariedad en el acceso a la función pública. Bajo la apariencia de 'agilidad administrativa', el artículo 33.5 introduce una figura de 'aspirante voluntario' que realiza el curso de formación sin remuneración ni derechos laborales para cubrir posibles bajas, lo cual supone una barrera de entrada para quienes no tengan recursos económicos. Por otro lado, la autorización para que personal que aún no es funcionario de carrera ni agente de la autoridad (en prácticas) porte armas de fuego traslada una responsabilidad de alto riesgo a individuos en formación, priorizando las necesidades operativas de los ayuntamientos sobre la seguridad jurídica y ciudadana extrema.",
+    "resumen_ciudadano": "Cantabria cambia las reglas para sus policías locales. Las novedades principales son: los agentes en prácticas podrán llevar armas de fuego si superan el tiro, y los ayuntamientos podrán convocar a más personas de las que hay plazas para que hagan el curso de formación gratis (sin cobrar y de forma voluntaria) por si alguien falla. Además, se aclara que el ayuntamiento que se quede con el policía será el que pague su sueldo durante las prácticas.",
+    "resumen_tweet": "⚠️ Cantabria permite que policías en prácticas porten armas de fuego 🔫. Además, crea aspirantes 'voluntarios' que harán el curso de formación ¡SIN COBRAR! para cubrir bajas 💸 ¿Eficiencia o precarización pública? #BOE #Opacidad #Transparencia #Cantabria",
+    "banderas_red_flags": [
+      "Trabajo de formación no remunerado para aspirantes excedentes",
+      "Uso de armas de fuego por personal que legalmente no es agente de la autoridad",
+      "Transferencia de costes salariales directos a los ayuntamientos en procesos unificados",
+      "Ambigüedad en la seguridad ciudadana al dotar de armas a personal en fase de evaluación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos (mayor flexibilidad para cubrir vacantes sin esperas)",
+        "Gobierno de Cantabria (simplifica la gestión de la Escuela de Formación)",
+        "Funcionarios veteranos (se eliminan los límites temporales para reconocerles cursos antiguos)"
+      ],
+      "perdedores": [
+        "Aspirantes con bajos recursos (no pueden permitirse hacer cursos sin cobrar)",
+        "Seguridad Ciudadana (riesgo potencial de agentes armados en fase de aprendizaje)",
+        "Candidatos en prácticas (asumen riesgos de seguridad sin ser aún funcionarios de carrera)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Seguridad Pública y Función Pública",
+    "banderas_rojas": [
+      "Trabajo de formación no remunerado para aspirantes excedentes",
+      "Uso de armas de fuego por personal que legalmente no es agente de la autoridad",
+      "Transferencia de costes salariales directos a los ayuntamientos en procesos unificados",
+      "Ambigüedad en la seguridad ciudadana al dotar de armas a personal en fase de evaluación"
+    ]
+  },
+  "tweeted": false
+}
