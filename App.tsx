@@ -1,50 +1,77 @@
+import React, { useState, useEffect, useMemo } from "react";
+import {
+  Routes,
+  Route,
+  useNavigate,
+  useLocation,
+  Link,
+} from "react-router-dom";
+import {
+  Search,
+  Loader2,
+  Lock,
+  User,
+  Radio,
+  History,
+  BookmarkCheck,
+  Database,
+  Zap,
+  ArrowLeft,
+  ShieldCheck,
+  KeyRound,
+  ExternalLink,
+} from "lucide-react";
+import { BOE_SOURCES, STORAGE_KEYS } from "./constants";
+import {
+  AnalysisState,
+  ScrapedLaw,
+  AuditHistoryItem,
+  BOEAuditResponse,
+  ImportDataPayload,
+} from "./types";
+import { analyzeBOE } from "./services/geminiService";
+import { escapeXml } from "./services/xmlUtils";
+import { translations, Language } from "./translations";
+import { getAuditHistory, saveAuditToDB } from "./services/supabaseService";
+import { fetchLatestBOEArticles } from "./services/boeService";
 
-import React, { useState, useEffect, useMemo } from 'react';
-import { Routes, Route, useNavigate, useLocation, Link } from 'react-router-dom';
-import { Search, Loader2, Lock, User, Radio, History, BookmarkCheck, Database, Zap, ArrowLeft, ShieldCheck, KeyRound, ExternalLink } from 'lucide-react';
-import { BOE_SOURCES, STORAGE_KEYS } from './constants';
-import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDataPayload } from './types';
-import { analyzeBOE } from './services/geminiService';
-import { escapeXml } from './services/xmlUtils';
-import { translations, Language } from './translations';
-import { getAuditHistory, saveAuditToDB } from './services/supabaseService';
-import AuditDashboard from './components/AuditDashboard';
-import HistoryDashboard from './components/HistoryDashboard';
-import Navbar from './components/Navbar';
-import GoogleAnalytics from './components/GoogleAnalytics';
-import AuditTrigger from './components/AuditTrigger';
-import SEO from './components/SEO';
-import Tags3DCloud from './components/Tags3DCloud';
-import RelatedTags3D from './components/RelatedTags3D';
-import Pagination from './components/Pagination';
-import CookieConsent from './components/CookieConsent';
-import PrivacyPolicy from './components/PrivacyPolicy';
+import AuditDashboard from "./components/AuditDashboard";
+import HistoryDashboard from "./components/HistoryDashboard";
+import Navbar from "./components/Navbar";
+import GoogleAnalytics from "./components/GoogleAnalytics";
+import AuditTrigger from "./components/AuditTrigger";
+import SEO from "./components/SEO";
+import Tags3DCloud from "./components/Tags3DCloud";
+import RelatedTags3D from "./components/RelatedTags3D";
+import Pagination from "./components/Pagination";
+import CookieConsent from "./components/CookieConsent";
+import PrivacyPolicy from "./components/PrivacyPolicy";
 
 const App: React.FC = () => {
   const [lang, setLang] = useState<Language>(() => {
     const saved = localStorage.getItem(STORAGE_KEYS.PREF_LANG);
-    return (saved as Language) || 'es';
+    return (saved as Language) || "es";
   });
 
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
-    return localStorage.getItem(STORAGE_KEYS.AGENT_SESSION) === 'active';
+    return localStorage.getItem(STORAGE_KEYS.AGENT_SESSION) === "active";
   });
   const [userApiKey, setUserApiKey] = useState(() => {
-    return localStorage.getItem(STORAGE_KEYS.USER_API_KEY) || '';
+    return localStorage.getItem(STORAGE_KEYS.USER_API_KEY) || "";
   });
   const [githubToken, setGithubToken] = useState(() => {
-    return localStorage.getItem(STORAGE_KEYS.GITHUB_TOKEN) || '';
+    return localStorage.getItem(STORAGE_KEYS.GITHUB_TOKEN) || "";
   });
   const [showLogin, setShowLogin] = useState(false);
-  const [password, setPassword] = useState('');
-  const [tempApiKey, setTempApiKey] = useState('');
+  const [password, setPassword] = useState("");
+  const [tempApiKey, setTempApiKey] = useState("");
   const [loginError, setLoginError] = useState(false);
-  const [searchId, setSearchId] = useState('');
+  const [searchId, setSearchId] = useState("");
   const [history, setHistory] = useState<AuditHistoryItem[]>([]);
   const [isHistoryLoaded, setIsHistoryLoaded] = useState(false);
   const [latestArticles, setLatestArticles] = useState<ScrapedLaw[]>([]);
   const [radarPage, setRadarPage] = useState(1);
-  const [radarSearchQuery, setRadarSearchQuery] = useState('');
+  const [radarSearchQuery, setRadarSearchQuery] = useState("");
   const radarItemsPerPage = 5;
   const [isFetchingLatest, setIsFetchingLatest] = useState(false);
   const navigate = useNavigate();
@@ -55,7 +82,7 @@ const App: React.FC = () => {
     error: null,
     result: null,
     scrapingResults: undefined,
-    isScraping: false
+    isScraping: false,
   });
 
   const t = translations[lang];
@@ -70,86 +97,28 @@ const App: React.FC = () => {
     fetchLatestBOE();
   }, []);
 
-  const filteredArticles = latestArticles.filter(art => 
-    art.titulo.toLowerCase().includes(radarSearchQuery.toLowerCase()) || 
-    art.id.toLowerCase().includes(radarSearchQuery.toLowerCase())
+  const filteredArticles = latestArticles.filter(
+    (art) =>
+      art.titulo.toLowerCase().includes(radarSearchQuery.toLowerCase()) ||
+      art.id.toLowerCase().includes(radarSearchQuery.toLowerCase()),
   );
 
   const fetchLatestBOE = async () => {
     setIsFetchingLatest(true);
-    const today = new Date().toISOString().slice(0, 10).replace(/-/g, '');
-    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10).replace(/-/g, '');
-
-    const urls = [
-      `https://www.boe.es/datosabiertos/api/boe/sumario/${today}`,
-      `https://www.boe.es/datosabiertos/api/boe/sumario/${yesterday}`,
-      'https://www.boe.es/diario_boe/xml.php'
-    ];
-
-    const fetchAndParse = async (url: string): Promise<ScrapedLaw[]> => {
-      try {
-        const response = await fetch(url, {
-          headers: {
-            'Accept': 'application/xml',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AuditoriaCívica/1.0'
-          }
-        });
-        if (!response.ok) return [];
-
-        const text = await response.text();
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, 'text/xml');
-
-        // Handle both possible structures (REST API vs legacy xml.php)
-        const items = xml.querySelectorAll('item');
-        if (items.length === 0) return [];
-
-        return Array.from(items).map((item: Element) => {
-          // Identificador can be in an attribute (xml.php) or in a child node (REST API)
-          const id = item.getAttribute('id') || item.querySelector('identificador')?.textContent || '';
-          const titulo = item.querySelector('titulo')?.textContent || 'Sin título';
-
-          // Structure mapping:
-          // REST API: item -> departamento (parent) @nombre
-          // xml.xml: item -> departamento (ancestor) -> nombre
-          const deptNode = item.closest('departamento');
-          const departamento = deptNode?.getAttribute('nombre') || deptNode?.querySelector('nombre')?.textContent || 'Varios';
-
-          const seccionNode = item.closest('seccion');
-          const seccionName = seccionNode?.getAttribute('nombre') || seccionNode?.querySelector('nombre')?.textContent || 'I';
-
-          return { id, titulo, departamento, seccion: seccionName };
-        });
-      } catch (e) {
-        console.warn(`Failed to fetch from ${url}:`, e);
-        return [];
-      }
-    };
-
-    // Start all requests in parallel
-    const fetchPromises = urls.map(url => fetchAndParse(url));
-
-    let foundArticles: ScrapedLaw[] = [];
-
-    // Process results in priority order
-    for (const promise of fetchPromises) {
-      const articles = await promise;
-      if (articles.length > 0) {
-        foundArticles = articles;
-        break; // Stop at the first source that provides articles
-      }
-    }
+    const foundArticles = await fetchLatestBOEArticles();
 
     if (foundArticles.length > 0) {
       setLatestArticles(foundArticles);
     } else {
       console.warn("Using sources as fallback");
-      setLatestArticles(BOE_SOURCES.map(s => ({
-        id: s.id,
-        titulo: s.title,
-        departamento: s.category,
-        seccion: 'I'
-      })));
+      setLatestArticles(
+        BOE_SOURCES.map((s) => ({
+          id: s.id,
+          titulo: s.title,
+          departamento: s.category,
+          seccion: "I",
+        })),
+      );
     }
     setIsFetchingLatest(false);
   };
@@ -160,20 +129,22 @@ const App: React.FC = () => {
     setIsHistoryLoaded(true);
   };
 
-  const toggleLang = () => setLang(l => l === 'es' ? 'en' : 'es');
+  const toggleLang = () => setLang((l) => (l === "es" ? "en" : "es"));
 
   const handleLogin = async () => {
     if (requiredPasswordHash) {
       // Hashing for secure comparison
       const encoder = new TextEncoder();
       const data = encoder.encode(password);
-      const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+      const hashBuffer = await crypto.subtle.digest("SHA-256", data);
       const hashArray = Array.from(new Uint8Array(hashBuffer));
-      const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+      const hashHex = hashArray
+        .map((b) => b.toString(16).padStart(2, "0"))
+        .join("");
 
       if (hashHex === requiredPasswordHash) {
         setIsLoggedIn(true);
-        localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
+        localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, "active");
         setLoginError(false);
         setShowLogin(false);
       } else {
@@ -183,7 +154,7 @@ const App: React.FC = () => {
     } else {
       // If no password is configured in the environment, allow free access by default
       setIsLoggedIn(true);
-      localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, 'active');
+      localStorage.setItem(STORAGE_KEYS.AGENT_SESSION, "active");
       setShowLogin(false);
     }
   };
@@ -198,8 +169,8 @@ const App: React.FC = () => {
 
   const handleLogout = () => {
     setIsLoggedIn(false);
-    setUserApiKey('');
-    setGithubToken('');
+    setUserApiKey("");
+    setGithubToken("");
     localStorage.removeItem(STORAGE_KEYS.AGENT_SESSION);
     localStorage.removeItem(STORAGE_KEYS.USER_API_KEY);
     localStorage.removeItem(STORAGE_KEYS.GITHUB_TOKEN);
@@ -211,10 +182,15 @@ const App: React.FC = () => {
   };
 
   const performAudit = async (boeId: string, customTitle?: string) => {
-    const cached = history.find(item => item.boeId === boeId);
+    const cached = history.find((item) => item.boeId === boeId);
     if (cached) {
       setSearchId(boeId);
-      setState(prev => ({ ...prev, loading: false, error: null, result: cached.audit }));
+      setState((prev) => ({
+        ...prev,
+        loading: false,
+        error: null,
+        result: cached.audit,
+      }));
       return;
     }
 
@@ -224,13 +200,22 @@ const App: React.FC = () => {
     }
 
     setSearchId(boeId);
-    setState(prev => ({ ...prev, loading: true, error: null, result: null, scrapingResults: undefined }));
+    setState((prev) => ({
+      ...prev,
+      loading: true,
+      error: null,
+      result: null,
+      scrapingResults: undefined,
+    }));
     try {
       let xmlText = "";
-      let docTitle = customTitle || (lang === 'es' ? "Documento BOE" : "Gazette Document");
+      let docTitle =
+        customTitle || (lang === "es" ? "Documento BOE" : "Gazette Document");
 
       try {
-        const response = await fetch(`https://www.boe.es/diario_boe/xml.php?id=${boeId}`);
+        const response = await fetch(
+          `https://www.boe.es/diario_boe/xml.php?id=${boeId}`,
+        );
         if (!response.ok) throw new Error("CORS Blocked");
         xmlText = await response.text();
         const parser = new DOMParser();
@@ -245,11 +230,16 @@ const App: React.FC = () => {
       await saveAuditToDB(boeId, docTitle, audit);
       await loadHistory();
 
-      setState(prev => ({ ...prev, loading: false, error: null, result: audit }));
-
+      setState((prev) => ({
+        ...prev,
+        loading: false,
+        error: null,
+        result: audit,
+      }));
     } catch (error: unknown) {
-      const errorMessage = error instanceof Error ? error.message : "Error during analysis";
-      setState(prev => ({ ...prev, loading: false, error: errorMessage }));
+      const errorMessage =
+        error instanceof Error ? error.message : "Error during analysis";
+      setState((prev) => ({ ...prev, loading: false, error: errorMessage }));
     }
   };
 
@@ -259,15 +249,41 @@ const App: React.FC = () => {
         // Bulk import of AuditHistoryItem[]
         const promises = [];
         for (const item of data) {
-          if (item && typeof item === 'object' && 'boeId' in item && 'title' in item && 'audit' in item) {
-            promises.push(saveAuditToDB(item.boeId as string, item.title as string, item.audit as BOEAuditResponse));
+          if (
+            item &&
+            typeof item === "object" &&
+            "boeId" in item &&
+            "title" in item &&
+            "audit" in item
+          ) {
+            promises.push(
+              saveAuditToDB(
+                item.boeId as string,
+                item.title as string,
+                item.audit as BOEAuditResponse,
+              ),
+            );
           }
         }
         await Promise.all(promises);
-      } else if (data && typeof data === 'object' && 'boe_id' in data && 'report' in data) {
+      } else if (
+        data &&
+        typeof data === "object" &&
+        "boe_id" in data &&
+        "report" in data
+      ) {
         // Single report import from Download format
-        await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
-      } else if (data && typeof data === 'object' && 'boeId' in data && 'audit' in data) {
+        await saveAuditToDB(
+          data.boe_id,
+          data.title || data.boe_id,
+          data.report,
+        );
+      } else if (
+        data &&
+        typeof data === "object" &&
+        "boeId" in data &&
+        "audit" in data
+      ) {
         // Single AuditHistoryItem import
         await saveAuditToDB(data.boeId, data.title || data.boeId, data.audit);
       } else {
@@ -277,38 +293,51 @@ const App: React.FC = () => {
       await loadHistory();
       alert(t.importSuccess);
     } catch (err: unknown) {
-      console.error("Import failed", err instanceof Error ? err.message : String(err));
+      console.error(
+        "Import failed",
+        err instanceof Error ? err.message : String(err),
+      );
       alert(t.importError);
     }
   };
 
   const resetState = () => {
-    setState({ loading: false, error: null, result: null, scrapingResults: undefined, isScraping: false });
-    setSearchId('');
+    setState({
+      loading: false,
+      error: null,
+      result: null,
+      scrapingResults: undefined,
+      isScraping: false,
+    });
+    setSearchId("");
   };
-
-
 
   const getCurrentView = () => {
-    if (location.pathname === '/') return 'home';
-    if (location.pathname === '/history') return 'history';
-    if (location.pathname === '/tags') return 'tags';
-    if (location.pathname === '/related-tags') return 'related-tags';
-    if (location.pathname.startsWith('/audit/')) return 'audit';
-    return 'home';
+    if (location.pathname === "/") return "home";
+    if (location.pathname === "/history") return "history";
+    if (location.pathname === "/tags") return "tags";
+    if (location.pathname === "/related-tags") return "related-tags";
+    if (location.pathname.startsWith("/audit/")) return "audit";
+    return "home";
   };
 
-  const auditedIdsSet = useMemo(() => new Set(history.map(h => h.boeId)), [history]);
+  const auditedIdsSet = useMemo(
+    () => new Set(history.map((h) => h.boeId)),
+    [history],
+  );
   const isAlreadyAudited = (id: string) => auditedIdsSet.has(id);
 
   const opacityCounts = useMemo(() => {
-    return history.reduce((acc, h) => {
-      const t = h.audit.nivel_transparencia;
-      if (t <= 33) acc.critical++;
-      else if (t <= 66) acc.warning++;
-      else acc.transparent++;
-      return acc;
-    }, { critical: 0, warning: 0, transparent: 0 });
+    return history.reduce(
+      (acc, h) => {
+        const t = h.audit.nivel_transparencia;
+        if (t <= 33) acc.critical++;
+        else if (t <= 66) acc.warning++;
+        else acc.transparent++;
+        return acc;
+      },
+      { critical: 0, warning: 0, transparent: 0 },
+    );
   }, [history]);
 
   const LoginOverlay = () => (
@@ -342,19 +371,24 @@ const App: React.FC = () => {
                   placeholder={t.passwordPlaceholder}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  onKeyDown={(e) => e.key === 'Enter' && handleLogin()}
-                  className={`w-full bg-slate-950/50 border ${loginError ? 'border-red-500 animate-shake' : 'border-slate-800 group-hover:border-slate-700 focus:border-blue-500'} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
+                  onKeyDown={(e) => e.key === "Enter" && handleLogin()}
+                  className={`w-full bg-slate-950/50 border ${loginError ? "border-red-500 animate-shake" : "border-slate-800 group-hover:border-slate-700 focus:border-blue-500"} rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono`}
                   autoFocus
                 />
                 {loginError && (
-                  <p className="text-[10px] text-red-400 mt-2 text-left font-medium">{t.invalidPassword}</p>
+                  <p className="text-[10px] text-red-400 mt-2 text-left font-medium">
+                    {t.invalidPassword}
+                  </p>
                 )}
               </div>
               <button
                 onClick={handleLogin}
                 className="w-full bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold text-lg shadow-xl shadow-blue-900/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
               >
-                <ShieldCheck size={20} className="group-hover:scale-110 transition-transform" />
+                <ShieldCheck
+                  size={20}
+                  className="group-hover:scale-110 transition-transform"
+                />
                 {t.loginBtn}
               </button>
             </div>
@@ -362,7 +396,9 @@ const App: React.FC = () => {
 
           <div className="relative py-4 flex items-center gap-4">
             <div className="flex-1 h-px bg-slate-800"></div>
-            <span className="text-slate-600 text-xs font-bold uppercase tracking-widest">{t.orEnterApiKey}</span>
+            <span className="text-slate-600 text-xs font-bold uppercase tracking-widest">
+              {t.orEnterApiKey}
+            </span>
             <div className="flex-1 h-px bg-slate-800"></div>
           </div>
 
@@ -376,7 +412,7 @@ const App: React.FC = () => {
                 placeholder={t.apiKeyPlaceholder}
                 value={tempApiKey}
                 onChange={(e) => setTempApiKey(e.target.value)}
-                onKeyDown={(e) => e.key === 'Enter' && handleApiKeySubmit()}
+                onKeyDown={(e) => e.key === "Enter" && handleApiKeySubmit()}
                 className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-emerald-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
               />
             </div>
@@ -392,19 +428,27 @@ const App: React.FC = () => {
                   value={githubToken}
                   onChange={(e) => {
                     setGithubToken(e.target.value);
-                    localStorage.setItem(STORAGE_KEYS.GITHUB_TOKEN, e.target.value);
+                    localStorage.setItem(
+                      STORAGE_KEYS.GITHUB_TOKEN,
+                      e.target.value,
+                    );
                   }}
                   className="w-full bg-slate-950/50 border border-slate-800 group-hover:border-slate-700 focus:border-blue-500 rounded-2xl py-4 pl-12 pr-4 outline-none text-white transition-all font-mono text-sm"
                 />
               </div>
             )}
-            <p className="text-[10px] text-slate-500 text-left px-2">{t.apiKeyNote}</p>
+            <p className="text-[10px] text-slate-500 text-left px-2">
+              {t.apiKeyNote}
+            </p>
             <button
               onClick={handleApiKeySubmit}
               disabled={tempApiKey.length < 15}
               className="w-full bg-emerald-600/10 hover:bg-emerald-600 text-emerald-500 hover:text-white border border-emerald-600/20 py-4 rounded-2xl font-bold text-lg transition-all active:scale-[0.98] disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 group"
             >
-              <Zap size={18} className="group-hover:scale-110 transition-transform" />
+              <Zap
+                size={18}
+                className="group-hover:scale-110 transition-transform"
+              />
               {t.useApiKeyBtn}
             </button>
           </div>
@@ -429,287 +473,374 @@ const App: React.FC = () => {
       />
 
       <div className="max-w-7xl mx-auto px-4 pt-4 pb-16 md:pt-4 md:pb-24 mt-20 md:mt-24">
-
-        {location.pathname === '/' && (
+        {location.pathname === "/" && (
           <header className="mb-12 text-center relative">
             <div className="inline-flex items-center gap-2 bg-blue-900/30 px-4 py-2 rounded-full border border-blue-500/30 text-blue-400 mb-6">
-              <User size={16} /><span className="text-sm font-bold tracking-widest uppercase">Agent #0412 · {t.badge}</span>
+              <User size={16} />
+              <span className="text-sm font-bold tracking-widest uppercase">
+                Agent #0412 · {t.badge}
+              </span>
             </div>
-            <h1 className="text-3xl md:text-4xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">{t.title}</h1>
-            <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">{t.subtitle}</p>
+            <h1 className="text-3xl md:text-4xl font-black mb-4 bg-gradient-to-r from-white via-slate-400 to-slate-600 bg-clip-text text-transparent">
+              {t.title}
+            </h1>
+            <p className="text-slate-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
+              {t.subtitle}
+            </p>
           </header>
         )}
 
         <Routes>
-          <Route path="/" element={
-            <div className="space-y-12 animate-in fade-in duration-500">
-              <SEO
-                title={t.title + " - " + t.subtitle}
-                description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
-                keywords={["BOE", "Auditoría", "Transparencia", "IA", "Civic Tech", "España", "Leyes"]}
-              />
+          <Route
+            path="/"
+            element={
+              <div className="space-y-12 animate-in fade-in duration-500">
+                <SEO
+                  title={t.title + " - " + t.subtitle}
+                  description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
+                  keywords={[
+                    "BOE",
+                    "Auditoría",
+                    "Transparencia",
+                    "IA",
+                    "Civic Tech",
+                    "España",
+                    "Leyes",
+                  ]}
+                />
 
-              {/* SECTION 1: SEARCH / HERO (Full Width) */}
-              <section className="w-full max-w-4xl mx-auto">
-                <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
-                                        <div className="text-center space-y-4">
-                                          <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
-                                            <Search size={32} />
-                                          </div>
-                                          <h3 className="text-2xl font-bold text-white tracking-tight">{t.smartSearchTitle}</h3>
-                                          <p className="text-slate-500 text-sm max-w-xs mx-auto">{t.smartSearchSubtitle}</p>
-                                        </div>
-                  <div className="flex flex-col gap-3">
-                    <input
-                      type="text"
-                      placeholder={t.searchPlaceholder}
-                      className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
-                      value={searchId}
-                      onChange={(e) => setSearchId(e.target.value)}
-                      onKeyDown={(e) => e.key === 'Enter' && searchId && handleAudit(searchId)}
-                    />
-                    <button
-                      onClick={() => handleAudit(searchId)}
-                      disabled={!searchId}
-                      className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
-                    >
-                      {t.analyzeBtn}
-                    </button>
-                  </div>
-                </div>
-              </section>
-
-              {/* SECTION 2: CONTENT GRID */}
-              <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
-                
-                {/* Left Column: Exploration (Narrower) */}
-                <div className="lg:col-span-4 space-y-6">
-                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-6 rounded-3xl shadow-2xl h-full">
-                    <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6 text-center">{t.exploreByOpacity}</p>
-                    <div className="grid grid-cols-1 gap-4">
-                      <button 
-                        onClick={() => navigate('/history?min=0&max=33')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-red-400">{t.opacityCritical} (0-33%)</span>
-                        <span className="text-sm font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
-                          {opacityCounts.critical}
-                        </span>
-                      </button>
-                      <button 
-                        onClick={() => navigate('/history?min=34&max=66')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-amber-400">{t.opacityWarning} (34-66%)</span>
-                        <span className="text-sm font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
-                          {opacityCounts.warning}
-                        </span>
-                      </button>
-                      <button 
-                        onClick={() => navigate('/history?min=67&max=100')}
-                        className="flex items-center justify-between p-4 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
-                      >
-                        <span className="text-sm font-bold text-emerald-400">{t.opacityTransparent} (67-100%)</span>
-                        <span className="text-sm font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
-                          {opacityCounts.transparent}
-                        </span>
-                      </button>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Right Column: Latest Radar (Wider) */}
-                <div className="lg:col-span-8 space-y-6">
-                  <div className="flex items-center justify-between border-b border-slate-800 pb-4">
-                    <div>
-                      <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
-                        <Radio className="text-red-500 animate-pulse" size={24} />
-                        {t.latestRadarTitle}
-                      </h2>
-                      <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">{t.latestRadarSubtitle}</p>
-                    </div>
-                    <div className="flex items-center gap-2">
-                      <button
-                        onClick={() => fetchLatestBOE()}
-                        disabled={isFetchingLatest}
-                        className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-all flex items-center gap-2 text-xs font-bold border border-slate-700 disabled:opacity-50"
-                        title={t.refreshBtn}
-                      >
-                        <Radio size={14} className={isFetchingLatest ? 'animate-pulse' : ''} />
-                        {t.refreshBtn}
-                      </button>
-                      {isFetchingLatest && <Loader2 className="animate-spin text-slate-500" size={20} />}
-                    </div>
-                  </div>
-
-                  {/* Search Input for Radar */}
-                  <div className="relative">
-                    <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500" size={18} />
-                    <input
-                      type="text"
-                      placeholder={t.radarSearchPlaceholder}
-                      className="w-full bg-slate-900/50 border border-slate-800 rounded-xl py-3 pl-12 pr-4 text-sm text-slate-200 focus:border-blue-500/50 outline-none transition-all placeholder:text-slate-600"
-                      value={radarSearchQuery}
-                      onChange={(e) => {
-                        setRadarSearchQuery(e.target.value);
-                        setRadarPage(1); // Reset to first page on search
-                      }}
-                    />
-                  </div>
-
-                  <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
-                    {filteredArticles.length === 0 ? (
-                      <div className="text-center py-12 text-slate-500 italic">
-                        {t.noResultsFound} "{radarSearchQuery}"
+                {/* SECTION 1: SEARCH / HERO (Full Width) */}
+                <section className="w-full max-w-4xl mx-auto">
+                  <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-8 rounded-3xl shadow-2xl flex flex-col justify-center gap-8">
+                    <div className="text-center space-y-4">
+                      <div className="w-16 h-16 bg-blue-600/10 rounded-2xl border border-blue-600/20 flex items-center justify-center mx-auto text-blue-500 shadow-xl shadow-blue-900/10">
+                        <Search size={32} />
                       </div>
-                    ) : (
-                      filteredArticles.slice((radarPage - 1) * radarItemsPerPage, radarPage * radarItemsPerPage).map((art) => {
-                        const audited = isAlreadyAudited(art.id);
-                        return (
-                          <div key={art.id} className={`bg-slate-900/40 border p-4 rounded-2xl transition-all flex flex-col justify-between group relative overflow-hidden ${audited ? 'border-emerald-500/20' : 'border-slate-800 hover:border-blue-500/30'}`}>
-                            {audited && (
-                              <div className="absolute top-2 right-2 flex items-center gap-1 bg-emerald-900/40 text-emerald-400 px-2 py-0.5 rounded text-[9px] font-bold border border-emerald-500/30">
-                                <BookmarkCheck size={10} />
-                                {t.alreadyAudited}
+                      <h3 className="text-2xl font-bold text-white tracking-tight">
+                        {t.smartSearchTitle}
+                      </h3>
+                      <p className="text-slate-500 text-sm max-w-xs mx-auto">
+                        {t.smartSearchSubtitle}
+                      </p>
+                    </div>
+                    <div className="flex flex-col gap-3">
+                      <input
+                        type="text"
+                        placeholder={t.searchPlaceholder}
+                        className="w-full bg-slate-950 border border-slate-800 rounded-2xl py-5 px-6 outline-none text-white text-lg focus:border-blue-500 transition-all font-mono placeholder:text-slate-700"
+                        value={searchId}
+                        onChange={(e) => setSearchId(e.target.value)}
+                        onKeyDown={(e) =>
+                          e.key === "Enter" && searchId && handleAudit(searchId)
+                        }
+                      />
+                      <button
+                        onClick={() => handleAudit(searchId)}
+                        disabled={!searchId}
+                        className="w-full bg-blue-600 hover:bg-blue-500 disabled:bg-slate-800 disabled:text-slate-600 text-white py-5 rounded-2xl font-black text-xl transition-all transform active:scale-[0.98] shadow-2xl shadow-blue-900/20"
+                      >
+                        {t.analyzeBtn}
+                      </button>
+                    </div>
+                  </div>
+                </section>
+
+                {/* SECTION 2: CONTENT GRID */}
+                <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                  {/* Left Column: Exploration (Narrower) */}
+                  <div className="lg:col-span-4 space-y-6">
+                    <div className="bg-slate-900/50 backdrop-blur-md border border-slate-800 p-6 rounded-3xl shadow-2xl h-full">
+                      <p className="text-sm font-bold text-slate-500 uppercase tracking-widest mb-6 text-center">
+                        {t.exploreByOpacity}
+                      </p>
+                      <div className="grid grid-cols-1 gap-4">
+                        <button
+                          onClick={() => navigate("/history?min=0&max=33")}
+                          className="flex items-center justify-between p-4 rounded-xl bg-red-900/10 border border-red-900/20 hover:bg-red-900/20 transition-all group"
+                        >
+                          <span className="text-sm font-bold text-red-400">
+                            {t.opacityCritical} (0-33%)
+                          </span>
+                          <span className="text-sm font-black text-red-500/70 font-mono uppercase tracking-tighter group-hover:text-red-400">
+                            {opacityCounts.critical}
+                          </span>
+                        </button>
+                        <button
+                          onClick={() => navigate("/history?min=34&max=66")}
+                          className="flex items-center justify-between p-4 rounded-xl bg-amber-900/10 border border-amber-900/20 hover:bg-amber-900/20 transition-all group"
+                        >
+                          <span className="text-sm font-bold text-amber-400">
+                            {t.opacityWarning} (34-66%)
+                          </span>
+                          <span className="text-sm font-black text-amber-500/70 font-mono uppercase tracking-tighter group-hover:text-amber-400">
+                            {opacityCounts.warning}
+                          </span>
+                        </button>
+                        <button
+                          onClick={() => navigate("/history?min=67&max=100")}
+                          className="flex items-center justify-between p-4 rounded-xl bg-emerald-900/10 border border-emerald-900/20 hover:bg-emerald-600/10 transition-all group"
+                        >
+                          <span className="text-sm font-bold text-emerald-400">
+                            {t.opacityTransparent} (67-100%)
+                          </span>
+                          <span className="text-sm font-black text-emerald-500/70 font-mono uppercase tracking-tighter group-hover:text-emerald-400">
+                            {opacityCounts.transparent}
+                          </span>
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Right Column: Latest Radar (Wider) */}
+                  <div className="lg:col-span-8 space-y-6">
+                    <div className="flex items-center justify-between border-b border-slate-800 pb-4">
+                      <div>
+                        <h2 className="text-2xl font-bold flex items-center gap-2 text-white">
+                          <Radio
+                            className="text-red-500 animate-pulse"
+                            size={24}
+                          />
+                          {t.latestRadarTitle}
+                        </h2>
+                        <p className="text-slate-500 text-xs font-medium uppercase tracking-widest">
+                          {t.latestRadarSubtitle}
+                        </p>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <button
+                          onClick={() => fetchLatestBOE()}
+                          disabled={isFetchingLatest}
+                          className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-all flex items-center gap-2 text-xs font-bold border border-slate-700 disabled:opacity-50"
+                          title={t.refreshBtn}
+                        >
+                          <Radio
+                            size={14}
+                            className={isFetchingLatest ? "animate-pulse" : ""}
+                          />
+                          {t.refreshBtn}
+                        </button>
+                        {isFetchingLatest && (
+                          <Loader2
+                            className="animate-spin text-slate-500"
+                            size={20}
+                          />
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Search Input for Radar */}
+                    <div className="relative">
+                      <Search
+                        className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500"
+                        size={18}
+                      />
+                      <input
+                        type="text"
+                        placeholder={t.radarSearchPlaceholder}
+                        className="w-full bg-slate-900/50 border border-slate-800 rounded-xl py-3 pl-12 pr-4 text-sm text-slate-200 focus:border-blue-500/50 outline-none transition-all placeholder:text-slate-600"
+                        value={radarSearchQuery}
+                        onChange={(e) => {
+                          setRadarSearchQuery(e.target.value);
+                          setRadarPage(1); // Reset to first page on search
+                        }}
+                      />
+                    </div>
+
+                    <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
+                      {filteredArticles.length === 0 ? (
+                        <div className="text-center py-12 text-slate-500 italic">
+                          {t.noResultsFound} "{radarSearchQuery}"
+                        </div>
+                      ) : (
+                        filteredArticles
+                          .slice(
+                            (radarPage - 1) * radarItemsPerPage,
+                            radarPage * radarItemsPerPage,
+                          )
+                          .map((art) => {
+                            const audited = isAlreadyAudited(art.id);
+                            return (
+                              <div
+                                key={art.id}
+                                className={`bg-slate-900/40 border p-4 rounded-2xl transition-all flex flex-col justify-between group relative overflow-hidden ${audited ? "border-emerald-500/20" : "border-slate-800 hover:border-blue-500/30"}`}
+                              >
+                                {audited && (
+                                  <div className="absolute top-2 right-2 flex items-center gap-1 bg-emerald-900/40 text-emerald-400 px-2 py-0.5 rounded text-[9px] font-bold border border-emerald-500/30">
+                                    <BookmarkCheck size={10} />
+                                    {t.alreadyAudited}
+                                  </div>
+                                )}
+                                <div>
+                                  <span className="text-[10px] font-mono text-slate-500 block mb-1">
+                                    {art.departamento}
+                                  </span>
+                                  <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">
+                                    {art.titulo}
+                                  </h3>
+                                </div>
+                                <div className="flex items-center justify-between mt-4">
+                                  <a
+                                    href={`https://www.boe.es/buscar/doc.php?id=${art.id}`}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="text-[10px] text-slate-600 font-mono hover:text-blue-400 transition-colors flex items-center gap-1"
+                                  >
+                                    {art.id} <ExternalLink size={10} />
+                                  </a>
+                                  <Link
+                                    to={`/audit/${art.id}`}
+                                    className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? "bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white" : "bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white"}`}
+                                  >
+                                    <Zap size={10} />
+                                    {audited ? t.goToAudit : t.auditWithGemini}
+                                  </Link>
+                                </div>
                               </div>
-                            )}
-                            <div>
-                              <span className="text-[10px] font-mono text-slate-500 block mb-1">{art.departamento}</span>
-                              <h3 className="text-sm font-bold text-slate-200 line-clamp-2 leading-snug group-hover:text-white">{art.titulo}</h3>
-                            </div>
-                            <div className="flex items-center justify-between mt-4">
-                              <a
-                                href={`https://www.boe.es/buscar/doc.php?id=${art.id}`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="text-[10px] text-slate-600 font-mono hover:text-blue-400 transition-colors flex items-center gap-1"
-                              >
-                                {art.id} <ExternalLink size={10} />
-                              </a>
-                              <Link
-                                to={`/audit/${art.id}`}
-                                className={`px-4 py-1.5 rounded-lg text-xs font-bold transition-all flex items-center gap-2 ${audited ? 'bg-emerald-600/10 text-emerald-400 border border-emerald-600/20 hover:bg-emerald-600 hover:text-white' : 'bg-blue-600/10 text-blue-400 border border-blue-600/20 hover:bg-blue-600 hover:text-white'}`}
-                              >
-                                <Zap size={10} />
-                                {audited ? t.goToAudit : t.auditWithGemini}
-                              </Link>
-                            </div>
-                          </div>
-                        );
-                      })
+                            );
+                          })
+                      )}
+                    </div>
+                    {filteredArticles.length > 0 && (
+                      <Pagination
+                        currentPage={radarPage}
+                        totalPages={Math.ceil(
+                          filteredArticles.length / radarItemsPerPage,
+                        )}
+                        onPageChange={setRadarPage}
+                        itemsPerPage={radarItemsPerPage}
+                        totalItems={filteredArticles.length}
+                        label={t.articlesLabel}
+                      />
                     )}
                   </div>
-                  {filteredArticles.length > 0 && (
-                    <Pagination
-                      currentPage={radarPage}
-                      totalPages={Math.ceil(filteredArticles.length / radarItemsPerPage)}
-                      onPageChange={setRadarPage}
-                      itemsPerPage={radarItemsPerPage}
-                      totalItems={filteredArticles.length}
-                      label={t.articlesLabel}
-                    />
+                </div>
+              </div>
+            }
+          />
+
+          <Route
+            path="/history"
+            element={
+              <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
+                <SEO
+                  title={`${t.historyTitle} - ${t.title}`}
+                  description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
+                  keywords={[
+                    "BOE",
+                    "Historial",
+                    "Auditorías",
+                    "Transparencia",
+                    "Archivo",
+                  ]}
+                />
+                <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
+                  <div>
+                    <h2 className="text-3xl font-black flex items-center gap-3 text-white">
+                      <History className="text-purple-500" size={32} />
+                      {t.historyTitle}
+                    </h2>
+                    <p className="text-slate-500 text-sm font-medium uppercase tracking-widest mt-1">
+                      {t.historySubtitle}
+                    </p>
+                  </div>
+                  {history.length > 0 && (
+                    <span className="bg-purple-950/40 text-purple-400 px-4 py-1.5 rounded-full text-xs font-bold border border-purple-900/50">
+                      {history.length} Auditorías
+                    </span>
                   )}
                 </div>
 
-              </div>
-            </div>
-          } />
-
-          <Route path="/history" element={
-            <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
-              <SEO
-                title={`${t.historyTitle} - ${t.title}`}
-                description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
-                keywords={["BOE", "Historial", "Auditorías", "Transparencia", "Archivo"]}
-              />
-              <div className="border-b border-slate-800 pb-6 flex items-center justify-between">
-                <div>
-                  <h2 className="text-3xl font-black flex items-center gap-3 text-white">
-                    <History className="text-purple-500" size={32} />
-                    {t.historyTitle}
-                  </h2>
-                  <p className="text-slate-500 text-sm font-medium uppercase tracking-widest mt-1">{t.historySubtitle}</p>
+                <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
+                  <HistoryDashboard
+                    history={history}
+                    onImport={handleImportData}
+                    lang={lang}
+                    isLoggedIn={isLoggedIn}
+                    githubToken={githubToken}
+                  />
                 </div>
-                {history.length > 0 && (
-                  <span className="bg-purple-950/40 text-purple-400 px-4 py-1.5 rounded-full text-xs font-bold border border-purple-900/50">
-                    {history.length} Auditorías
-                  </span>
-                )}
               </div>
+            }
+          />
 
-              <div className="bg-slate-900/20 border border-slate-800 rounded-3xl min-h-[500px]">
-                <HistoryDashboard
-                  history={history}
-                  onImport={handleImportData}
-                  lang={lang}
-                  isLoggedIn={isLoggedIn}
-                  githubToken={githubToken}
+          <Route
+            path="/tags"
+            element={
+              <div className="space-y-8 animate-in fade-in duration-500">
+                <SEO
+                  title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
+                  description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
+                  keywords={[
+                    "BOE",
+                    "3D",
+                    "Visualización",
+                    "Datos",
+                    "React Three Fiber",
+                  ]}
                 />
+                <Tags3DCloud history={history} lang={lang} />
               </div>
-            </div>
-          } />
+            }
+          />
 
-          <Route path="/tags" element={
-            <div className="space-y-8 animate-in fade-in duration-500">
-              <SEO
-                title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
-                description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
-                keywords={["BOE", "3D", "Visualización", "Datos", "React Three Fiber"]}
+          <Route
+            path="/related-tags"
+            element={
+              <div className="space-y-8 animate-in fade-in duration-500">
+                <SEO
+                  title={`Red de Conceptos - ${t.title}`}
+                  description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
+                  keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
+                />
+                <RelatedTags3D history={history} lang={lang} />
+              </div>
+            }
+          />
+
+          <Route
+            path="/audit/:boeId"
+            element={
+              <AuditTrigger
+                performAudit={performAudit}
+                state={state}
+                t={t}
+                isLoggedIn={isLoggedIn}
+                searchId={searchId}
+                lang={lang}
+                resetState={resetState}
+                history={history}
+                isHistoryLoaded={isHistoryLoaded}
               />
-              <Tags3DCloud history={history} lang={lang} />
-            </div>
-          } />
+            }
+          />
 
-          <Route path="/related-tags" element={
-            <div className="space-y-8 animate-in fade-in duration-500">
-              <SEO
-                title={`Red de Conceptos - ${t.title}`}
-                description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
-                keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
+          <Route
+            path="/a/:boeId"
+            element={
+              <AuditTrigger
+                performAudit={performAudit}
+                state={state}
+                t={t}
+                isLoggedIn={isLoggedIn}
+                searchId={searchId}
+                lang={lang}
+                resetState={resetState}
+                history={history}
+                isHistoryLoaded={isHistoryLoaded}
               />
-              <RelatedTags3D history={history} lang={lang} />
-            </div>
-          } />
+            }
+          />
 
-          <Route path="/audit/:boeId" element={
-            <AuditTrigger
-              performAudit={performAudit}
-              state={state}
-              t={t}
-              isLoggedIn={isLoggedIn}
-              searchId={searchId}
-              lang={lang}
-              resetState={resetState}
-              history={history}
-              isHistoryLoaded={isHistoryLoaded}
-            />
-          } />
-
-          <Route path="/a/:boeId" element={
-            <AuditTrigger
-              performAudit={performAudit}
-              state={state}
-              t={t}
-              isLoggedIn={isLoggedIn}
-              searchId={searchId}
-              lang={lang}
-              resetState={resetState}
-              history={history}
-              isHistoryLoaded={isHistoryLoaded}
-            />
-          } />
-
-          <Route path="/privacy" element={
-            <PrivacyPolicy t={t} />
-          } />
+          <Route path="/privacy" element={<PrivacyPolicy t={t} />} />
         </Routes>
-
-
 
         <footer className="mt-24 pt-12 border-t border-slate-800 text-center text-slate-500 text-sm">
           <p>&copy; 2026 Spanish BOE Transparency Auditor. {t.footerDesc}</p>
           <div className="mt-4 flex justify-center gap-6">
-            <Link to="/privacy" className="hover:text-blue-400 transition-colors">
+            <Link
+              to="/privacy"
+              className="hover:text-blue-400 transition-colors"
+            >
               {t.privacyPolicy}
             </Link>
           </div>
