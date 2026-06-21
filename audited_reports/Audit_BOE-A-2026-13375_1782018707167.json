@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13375",
+  "timestamp": "2026-06-21T05:11:47.167Z",
+  "title": "Resolución de 4 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 27 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla la adjudicacion de puestos bajo el sistema de libre designacion en el Ministerio de Asuntos Exteriores. Este mecanismo, aunque legal, permite la seleccion discrecional (a dedo) de personal, alejandose de los principios de merito y capacidad. Es alarmante que el 75 por ciento de las plazas ofertadas en este extracto hayan quedado desiertas, lo que sugiere una falta de candidatos que cumplan con el perfil de confianza buscado o una ineficiencia en la planificacion de la convocatoria. Se observa la promocion de un nivel 17 a un 18 en el Gabinete del Ministro, un area tradicionalmente opaca de la administracion.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha asignado un puesto de Jefatura de Negociado en el Gabinete del Ministro mediante libre designacion. Otras tres plazas de secretariado han quedado sin cubrir. Este sistema de libre designacion es criticado por ser menos transparente que el concurso publico, al permitir que los altos cargos elijan directamente a sus colaboradores en puestos que deberian ser tecnicos.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedazo en el @MAECgob? De 4 puestos de libre designacion, 3 quedan desiertos. Se adjudica a dedo una jefatura de nivel 18 en el Gabinete del Ministro. Menos confianza y mas merito es lo que falta. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistematico de la libre designacion para puestos administrativos",
+      "Elevado indice de plazas desiertas (75%)",
+      "Discrecionalidad en el Gabinete del Ministro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal con vinculos de confianza en el Gabinete",
+        "Mercedes Iglesias Barata (promocion de nivel)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin contactos politicos",
+        "Sistema de merito y capacidad",
+        "Transparencia en la funcion publica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistematico de la libre designacion para puestos administrativos",
+      "Elevado indice de plazas desiertas (75%)",
+      "Discrecionalidad en el Gabinete del Ministro"
+    ]
+  },
+  "tweeted": false
+}
