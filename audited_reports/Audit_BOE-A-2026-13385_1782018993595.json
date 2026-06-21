@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-13385",
+  "timestamp": "2026-06-21T05:16:33.595Z",
+  "title": "Resolución de 10 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Iratxe Gillate Aierdi.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en el ámbito universitario bajo la LOSU 2/2023. El documento es transparente en cuanto a la identidad y el área de conocimiento, pero mantiene la opacidad técnica habitual mediante códigos de plaza (TUC8L1-D00320-6) que no permiten al ciudadano conocer la retribución exacta ni el coste total para el erario público sin consultar tablas salariales externas. No se detectan 'gastos fantasma' fuera de la masa salarial presupuestada, aunque el lenguaje administrativo sigue siendo de difícil acceso para el profano.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Iratxe Gillate Aierdi como Profesora Titular en el área de Didáctica de las Ciencias Sociales en la Facultad de Educación de Bilbao. La plaza es de dedicación completa y carácter bilingüe, tras superar el concurso de acceso correspondiente.",
+    "resumen_tweet": "👩‍🏫 Nueva titularidad en la UPV/EHU: Iratxe Gillate Aierdi se incorpora a Didáctica de Ciencias Sociales. Aunque el proceso es legal, los códigos de plaza siguen siendo indescifrables para el contribuyente. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Uso de codificación interna críptica para el ciudadano",
+      "Ausencia de referencia al impacto presupuestario directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iratxe Gillate Aierdi (Consolidación de carrera)",
+        "UPV/EHU (Estabilidad de plantilla)",
+        "Sistema educativo bilingüe"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el concurso de acceso",
+        "Transparencia ciudadana sobre costes salariales específicos"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Uso de codificación interna críptica para el ciudadano",
+      "Ausencia de referencia al impacto presupuestario directo"
+    ]
+  },
+  "tweeted": false
+}
