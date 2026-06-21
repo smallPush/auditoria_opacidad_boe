@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13373",
+  "timestamp": "2026-06-21T14:28:55.185Z",
+  "title": "Ley 2/2026, de 4 de junio, sobre infracciones y sanciones administrativas en materia de agresiones a profesionales sanitarios y demás personal de la red sanitaria de utilización pública de la Región de Murcia, en el ejercicio de sus funciones.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Ley 2/2026 de Murcia establece un marco punitivo severo para proteger al personal sanitario, incluyendo el entorno digital y redes sociales. No obstante, presenta riesgos de discrecionalidad administrativa al permitir que los gerentes de salud (juez y parte) inicien expedientes de oficio. La medida de 'reasignación de centro' como sanción accesoria es altamente polémica: podría utilizarse para desatender a pacientes conflictivos sin resolver las causas estructurales de la crispación, como las listas de espera o la falta de personal. Se observa una traslación de la responsabilidad de la seguridad laboral del empleador hacia el comportamiento del usuario mediante multas recaudatorias.",
+    "resumen_ciudadano": "Se tipifican como infracciones las agresiones físicas, amenazas e insultos (incluso en redes sociales) contra personal sanitario en Murcia. Las multas oscilan entre 300€ y 30.000€. La administración podrá cambiar al infractor de médico o centro sanitario como castigo. Los procesos pueden iniciarse sin que el sanitario agredido denuncie personalmente.",
+    "resumen_tweet": "🚨 Murcia multa con hasta 30.000€ las agresiones y el acoso en RRSS a sanitarios. 🏥 La ley permite cambiar de centro a pacientes conflictivos como sanción. ¿Protección necesaria o creación de 'pacientes paria'? 🧐 #BOE #Opacidad #Sanidad #Murcia",
+    "banderas_red_flags": [
+      "Los gerentes de salud actúan como instructores (posible conflicto de interés)",
+      "Ambigüedad en el concepto 'falta de consideración' en redes sociales",
+      "Riesgo de estigmatización del paciente mediante reasignaciones forzosas",
+      "Ausencia de memoria económica para las medidas preventivas y de apoyo psicológico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal sanitario (mayor cobertura jurídica)",
+        "Administración regional (potestad sancionadora reforzada)",
+        "Servicio Murciano de Salud (herramienta de control disciplinario)"
+      ],
+      "perdedores": [
+        "Usuarios en contextos de exclusión o crisis de salud mental",
+        "Pacientes desplazados de sus centros de referencia",
+        "Ciudadanos críticos en entornos digitales (riesgo de infracción leve por opiniones)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Ley de Régimen Sancionador",
+    "banderas_rojas": [
+      "Los gerentes de salud actúan como instructores (posible conflicto de interés)",
+      "Ambigüedad en el concepto 'falta de consideración' en redes sociales",
+      "Riesgo de estigmatización del paciente mediante reasignaciones forzosas",
+      "Ausencia de memoria económica para las medidas preventivas y de apoyo psicológico"
+    ]
+  },
+  "tweeted": false
+}
