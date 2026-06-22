@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13471",
+  "timestamp": "2026-06-22T17:10:20.023Z",
+  "title": "Resolución de 15 de junio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución muestra una adjudicación por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite a la administración elegir candidatos discrecionalmente. En este caso, se traslada a un funcionario del Ministerio de Defensa a una unidad estratégica (PERTE para la Salud de Vanguardia) en el Ministerio de Ciencia. El uso de este sistema en unidades que gestionan fondos europeos y proyectos estratégicos suele priorizar la confianza política sobre la competencia técnica comprobada en concurso abierto.",
+    "resumen_ciudadano": "Se ha formalizado el nombramiento 'a dedo' de un nuevo secretario para la Subdirección General de la División Técnica del PERTE de Salud. El adjudicatario, procedente de Defensa, sube de un nivel 14 a un nivel 16. Este tipo de nombramientos no requiere una comparativa pública de méritos, lo que dificulta saber si es la persona más apta para un puesto vinculado a la recuperación económica.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el Ministerio de Ciencia. Se adjudica por libre designación un puesto de nivel 16 en la gestión de fondos PERTE de Salud. ¿Mérito o confianza? La opacidad administrativa continúa. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Nombramiento discrecional",
+      "Falta de detalle en los méritos del elegido",
+      "Vinculación a fondos PERTE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Javier Navarro Garijo (ascenso de nivel salarial)",
+        "Altos cargos (aseguran personal de su confianza directa)"
+      ],
+      "perdedores": [
+        "Funcionarios con mejores méritos sin acceso al puesto",
+        "Ciudadanía (opacidad en la gestión de recursos de proyectos estratégicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal / Libre Designación",
+    "banderas_rojas": [
+      "Libre designación",
+      "Nombramiento discrecional",
+      "Falta de detalle en los méritos del elegido",
+      "Vinculación a fondos PERTE"
+    ]
+  },
+  "tweeted": false
+}
