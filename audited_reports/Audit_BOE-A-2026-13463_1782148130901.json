@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13463",
+  "timestamp": "2026-06-22T17:08:50.901Z",
+  "title": "Acuerdo de 15 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 7 de abril de 2026, en la Gerencia.",
+  "report": {
+    "nivel_transparencia": 70,
+    "analisis_critico": "El documento detalla la adjudicacion de una jefatura de unidad en la Gerencia del CGPJ mediante concurso de meritos. Se observa una traslacion de personal especializado desde Hacienda Publica hacia el organo de gobierno de los jueces. Aunque el procedimiento es formalmente correcto, la publicacion solo muestra los nombres y puntuaciones finales sin desglosar los criterios especificos que decantaron la balanza, lo cual es una practica habitual que dificulta el escrutinio ciudadano sobre la idoneidad tecnica frente a la afinidad administrativa.",
+    "resumen_ciudadano": "Se nombra a Antonio Nicolas Molero Lopez, arquitecto tecnico de Hacienda, como nuevo jefe de unidad en el Consejo General del Poder Judicial tras un proceso de seleccion interno.",
+    "resumen_tweet": "🚨 Nuevo movimiento en la administracion: un arquitecto de Hacienda llega a la Gerencia del CGPJ. Proceso legal pero con la habitual falta de detalle en las puntuaciones de meritos. ¿Transparencia real? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Trasvase de funcionarios entre departamentos de distinta naturaleza sin justificacion de perfil",
+      "Opacidad en el desglose de la puntuacion de meritos",
+      "Predominancia de perfiles tecnocraticos en organos de gobierno judicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Nicolas Molero Lopez (adjudicatario)",
+        "Cuerpo de Arquitectos Tecnicos de la Hacienda Publica (presencia en CGPJ)"
+      ],
+      "perdedores": [
+        "Silvia Alaminos Cañamaque (en reserva)",
+        "Susana Gomez Granell (en reserva)",
+        "Paridad de genero en altos cargos tecnicos (ganador hombre sobre dos suplentes mujeres)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Trasvase de funcionarios entre departamentos de distinta naturaleza sin justificacion de perfil",
+      "Opacidad en el desglose de la puntuacion de meritos",
+      "Predominancia de perfiles tecnocraticos en organos de gobierno judicial"
+    ]
+  },
+  "tweeted": false
+}
