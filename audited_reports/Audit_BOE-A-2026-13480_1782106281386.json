@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13480",
+  "timestamp": "2026-06-22T05:31:21.386Z",
+  "title": "Resolución de 9 de junio de 2026, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don José Julio Lozano Bahilo.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionario de carrera. Aunque cumple la legalidad formal bajo la LOSU, la opacidad reside en la falta de visibilidad sobre los baremos específicos de la comisión evaluadora en este extracto. Es un gasto estructural a largo plazo (salario vitalicio) derivado de una convocatoria de febrero de 2026. No presenta gastos fantasma directos, pero sí una inercia de consolidación de plazas que rara vez se cuestiona en términos de eficiencia presupuestaria externa.",
+    "resumen_ciudadano": "La Universidad de Alcalá ha nombrado oficialmente a José Julio Lozano Bahilo como Profesor Titular de Física Aplicada. Este es un trámite final tras superar un proceso selectivo, otorgándole una plaza fija en el sistema universitario público madrileño.",
+    "resumen_tweet": "🎓 Nuevo funcionario en la @UAHes: José Julio Lozano Bahilo nombrado Profesor Titular de Física Aplicada. Un proceso administrativo que consolida gasto público a largo plazo. ¿Transparencia en los méritos? 🧐 #BOE #Transparencia #Universidad #Física",
+    "banderas_red_flags": [
+      "Ausencia de detalles sobre la baremación de méritos en el texto publicado",
+      "Dependencia de una corrección previa a la convocatoria (24 de febrero)",
+      "Estructura de acceso que favorece la inercia interna universitaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Julio Lozano Bahilo (estabilidad laboral vitalicia)",
+        "Universidad de Alcalá (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a la información de la plaza",
+        "Contribuyentes (asunción de compromiso de gasto a perpetuidad sin métricas de retorno directo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal / Funcionariado",
+    "banderas_rojas": [
+      "Ausencia de detalles sobre la baremación de méritos en el texto publicado",
+      "Dependencia de una corrección previa a la convocatoria (24 de febrero)",
+      "Estructura de acceso que favorece la inercia interna universitaria"
+    ]
+  },
+  "tweeted": false
+}
