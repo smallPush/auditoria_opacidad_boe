@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13462",
+  "timestamp": "2026-06-23T04:15:03.606Z",
+  "title": "Resolución de 18 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 13/2026, de 2 de junio, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial.",
+  "report": {
+    "nivel_transparencia": 4.2,
+    "analisis_critico": "La convalidación del Real Decreto-ley 13/2026 revela el uso sistemático de la legislación de urgencia para abordar reformas estructurales del sistema de financiación territorial. Al tramitarse como RDL, se evita el debate parlamentario sosegado sobre el reparto de impuestos clave como el IVA y el IRPF. Esta opacidad favorece la negociación bilateral y el intercambio de partidas presupuestarias por apoyos políticos, diluyendo la claridad sobre el destino final de los fondos y los criterios de equidad territorial. Se observa una fragmentación de la gestión tributaria que podría ocultar transferencias discrecionales bajo tecnicismos de 'gestión presupuestaria'.",
+    "resumen_ciudadano": "El Congreso ha ratificado una norma que modifica cómo se reparte el dinero de los impuestos (IVA, IRPF y otros) entre las diferentes regiones y ayuntamientos. Al hacerlo mediante un decreto urgente, se limita la transparencia y el debate público sobre si este dinero se está distribuyendo de forma justa o si responde a acuerdos políticos cerrados. Esto afecta directamente a la financiación de servicios públicos básicos en cada comunidad autónoma.",
+    "resumen_tweet": "🚨 El Congreso convalida el RDL 13/2026 sobre financiación territorial. ¿Urgencia o parche político? Se reparten IVA e IRPF mediante decretazos, esquivando el debate profundo. ¡Ojo a la opacidad en el reparto! 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Abuso del Real Decreto-ley para modificaciones tributarias estructurales",
+      "Opacidad en los criterios de reparto de impuestos cedidos",
+      "Riesgo de 'Gastos Fantasma' en la gestión de recursos territoriales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobiernos autonómicos con capacidad de presión política",
+        "Haciendas Locales con convenios específicos"
+      ],
+      "perdedores": [
+        "Contribuyentes en regiones con menor representación parlamentaria",
+        "Transparencia pública en la gestión del IVA e IRPF"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiación Territorial y Tributaria",
+    "banderas_rojas": [
+      "Abuso del Real Decreto-ley para modificaciones tributarias estructurales",
+      "Opacidad en los criterios de reparto de impuestos cedidos",
+      "Riesgo de 'Gastos Fantasma' en la gestión de recursos territoriales"
+    ]
+  },
+  "tweeted": false
+}
