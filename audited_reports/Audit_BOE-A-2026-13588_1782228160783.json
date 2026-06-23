@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-13588",
+  "timestamp": "2026-06-23T15:22:40.783Z",
+  "title": "Orden PJC/626/2026, de 16 de junio, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación en la Administración de Justicia en el ámbito territorial gestionado por el Ministerio de la Presidencia, Justicia y Relaciones con la Cortes, entre funcionarios del Cuerpo de Tramitación Procesal y Administrativa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'Libre Designación' para puestos de auxilio y secretaría (Tramitación Procesal y Administrativa), un mecanismo que, aunque legal, permite la elección discrecional ('a dedo') de funcionarios para funciones que no son de alta dirección. Esto genera una estructura de 'personal de confianza' dentro de la Administración de Justicia, con complementos específicos que superan los 10.000 euros anuales. El texto blinda la opacidad al permitir el cese discrecional motivado únicamente en la 'competencia para adoptarlo', lo que reduce la independencia del funcionario frente al superior que lo elige. Existe una incongruencia entre la retórica de profesionalización y el uso de este sistema para tareas de secretaría personal de Fiscales Jefes.",
+    "resumen_ciudadano": "El Ministerio de Justicia publica una lista de 14 puestos de trabajo en diversas fiscalías (León, Valladolid, Madrid, etc.) que no se darán por examen o méritos objetivos, sino por elección directa de los jefes. Estos puestos, destinados a tareas de secretaría y apoyo, conllevan sueldos más altos gracias a complementos especiales. Los elegidos pueden ser despedidos de esos puestos en cualquier momento sin necesidad de una justificación detallada, lo que fomenta una red de favores y lealtades personales dentro del sistema judicial.",
+    "resumen_tweet": "🚩 Nueva convocatoria de puestos 'a dedo' en Justicia. 14 plazas de libre designación para secretaría personal de Fiscales Jefes con extras de +10k€/año. ¿Mérito o confianza personal? La opacidad persiste. 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Sistema de libre designación para personal administrativo",
+      "Cese discrecional sin motivación sustantiva",
+      "Complementos específicos elevados para tareas de apoyo",
+      "Plazo de resolución excepcionalmente corto (2 meses)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con redes de confianza con la cúpula fiscal",
+        "Fiscales Jefes (autonomía para elegir personal de secretaría)"
+      ],
+      "perdedores": [
+        "Funcionarios con mejores méritos pero sin conexiones",
+        "Principio de igualdad, mérito y capacidad",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (Ámbito Estatal)",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Sistema de libre designación para personal administrativo",
+      "Cese discrecional sin motivación sustantiva",
+      "Complementos específicos elevados para tareas de apoyo",
+      "Plazo de resolución excepcionalmente corto (2 meses)"
+    ]
+  },
+  "tweeted": false
+}
