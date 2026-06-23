@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13579",
+  "timestamp": "2026-06-23T15:20:10.872Z",
+  "title": "Real Decreto 513/2026, de 17 de junio, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Araba/Álava, correspondiente al orden civil, a doña María Mercedes Guerrero Romeo.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto confirma la adjudicación de una plaza judicial 'en propiedad', término que refuerza la percepción del cargo público como un activo patrimonial del funcionario. Aunque el proceso se ampara en la Ley Orgánica del Poder Judicial, el BOE omite los méritos específicos o la puntuación que justifican esta elección sobre otros posibles candidatos, manteniendo la opacidad en la selección de la cúpula judicial. No se detallan los costes asociados al cambio de titularidad o traslados, lo que constituye un gasto indirecto no auditado en este texto.",
+    "resumen_ciudadano": "Se ha asignado de forma permanente la plaza de Magistrada de la Audiencia Provincial de Álava a María Mercedes Guerrero Romeo. Es un trámite burocrático para formalizar quién ocupa una de las sillas más importantes de la justicia civil en la provincia.",
+    "resumen_tweet": "⚖️ Nueva magistrada 'en propiedad' en la Audiencia de Álava. El #BOE adjudica plazas como si fueran activos privados. Sin rastro de los méritos comparativos. ¿Transparencia en la justicia? Seguimos esperando. #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Uso del concepto 'adjudicar en propiedad' para una función pública",
+      "Ausencia de exposición de motivos o méritos del adjudicatario",
+      "Falta de transparencia en los criterios de selección de la Comisión Permanente del CGPJ"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Mercedes Guerrero Romeo (obtiene seguridad jurídica y permanencia en el cargo)",
+        "Consejo General del Poder Judicial (ejerce su potestad discrecional)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconoce los criterios de excelencia del nombramiento)",
+        "Transparencia administrativa (proceso de selección no detallado)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos y Situaciones Jurisdiccionales",
+    "banderas_rojas": [
+      "Uso del concepto 'adjudicar en propiedad' para una función pública",
+      "Ausencia de exposición de motivos o méritos del adjudicatario",
+      "Falta de transparencia en los criterios de selección de la Comisión Permanente del CGPJ"
+    ]
+  },
+  "tweeted": false
+}
