@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13583",
+  "timestamp": "2026-06-23T15:21:40.486Z",
+  "title": "Resolución de 17 de junio de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación' en un puesto clave de control legal (Vicesecretaría) en el Ayuntamiento de Burgos. Aunque legal, este sistema permite la elección discrecional por parte del poder político de turno, lo que erosiona la independencia técnica que debería regir a los funcionarios de administración local con habilitación de carácter nacional. No se especifican los méritos comparativos que llevaron a esta elección frente a otros posibles candidatos, manteniendo la opacidad sobre los criterios de idoneidad técnica.",
+    "resumen_ciudadano": "El Ayuntamiento de Burgos ha seleccionado 'a dedo' a la nueva Vicesecretaria, una funcionaria que supervisará la Junta de Gobierno. Al usarse el método de libre designación en lugar de un concurso de méritos puro, se prioriza la confianza política sobre la neutralidad técnica del puesto.",
+    "resumen_tweet": "¡A dedo! 👆 El Ayto de Burgos adjudica una Vicesecretaría clave mediante 'libre designación'. Menos independencia técnica y más control político en puestos que deberían vigilar la legalidad local. 🧐📉 #BOE #Opacidad #Transparencia #Burgos",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puestos de fiscalización",
+      "Falta de desglose de méritos frente a otros candidatos",
+      "Potencial politización de la escala de funcionarios nacionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Ángeles Madrid Arlanzón (adjudicataria)",
+        "Equipo de gobierno local (obtiene perfil de confianza)"
+      ],
+      "perdedores": [
+        "Independencia administrativa",
+        "Candidatos con mayores méritos técnicos no seleccionados",
+        "Ciudadanía (menor garantía de fiscalización imparcial)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Adjudicación de puestos de trabajo / Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación en puestos de fiscalización",
+      "Falta de desglose de méritos frente a otros candidatos",
+      "Potencial politización de la escala de funcionarios nacionales"
+    ]
+  },
+  "tweeted": false
+}
