@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13476",
+  "timestamp": "2026-06-23T04:19:50.965Z",
+  "title": "Resolución de 17 de junio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Gestión de la Administración de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución presenta un nivel de detalle técnico alto en cuanto a la asignación de plazas y retribuciones (Nivel 20 de complemento de destino), pero incurre en opacidad administrativa en su Artículo Cuarto. Se deniega de forma genérica la alteración del orden de prelación a personas con discapacidad alegando que la necesidad no ha quedado 'debidamente acreditada', sin detallar los criterios de evaluación aplicados. Asimismo, el Artículo Sexto introduce una variable de 'reclasificación' posterior de niveles bajo el Real Decreto-ley 6/2023, lo que implica una modificación de la estructura de costes de personal que no es totalmente visible en este documento.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de nuevos funcionarios para la Gestión de la Seguridad Social. El documento es transparente al listar nombres, destinos y salarios base (complementos de unos 5.500€ a 6.400€). Lo más reseñable es la negativa de la Administración a facilitar destinos específicos a personas con discapacidad, alegando falta de pruebas, mientras que solo una persona sí logró acreditar su situación.",
+    "resumen_tweet": "📢 Nuevos funcionarios en la Seguridad Social. Se publican destinos y sueldos (Nivel 20). 🧐 Ojo: se deniegan la mayoría de peticiones de destino por discapacidad por 'falta de acreditación'. ¿Transparencia o burocracia? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Denegación discrecional de adaptaciones por discapacidad",
+      "Reclasificación de niveles salariales post-nombramiento",
+      "Exclusión de aspirantes por requisitos de titulación en fase final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal nombrado (estabilidad laboral garantizada)",
+        "Ministerio de Inclusión, Seguridad Social y Migraciones (refuerzo operativo)"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad que no obtuvieron el destino solicitado por motivos de movilidad",
+        "Javier Grau Sánchez (excluido tras superar las pruebas por falta de título)",
+        "Transparencia en los criterios de 'acreditación' de dependencia personal"
+      ]
+    },
+    "comunidad_autonoma": "España (Nacional)",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Denegación discrecional de adaptaciones por discapacidad",
+      "Reclasificación de niveles salariales post-nombramiento",
+      "Exclusión de aspirantes por requisitos de titulación en fase final"
+    ]
+  },
+  "tweeted": false
+}
