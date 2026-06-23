@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13590",
+  "timestamp": "2026-06-23T15:25:15.774Z",
+  "title": "Resolución de 15 de junio de 2026, del Ayuntamiento de Alconchel (Badajoz), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria de plazas para cuerpos de seguridad del Estado (Policía Local) mediante el sistema de 'concurso' es un mecanismo que genera dudas sobre la meritocracia abierta. A diferencia de la 'oposición' o el 'concurso-oposición', el concurso puro evalúa únicamente méritos previos (experiencia, formación acumulada), lo cual suele ser una herramienta para la estabilización de personal interino que ya ocupa el puesto, bloqueando de facto la entrada de nuevos aspirantes jóvenes o sin antigüedad previa en la administración local. El extracto del BOE es extremadamente parco, forzando al ciudadano a recurrir al Boletín Provincial para entender los baremos de puntuación.",
+    "resumen_ciudadano": "El Ayuntamiento de Alconchel convoca dos plazas de Policía Local pero, en lugar de hacer exámenes para evaluar la capacidad de los candidatos, usará un sistema de puntos por experiencia y cursos (concurso). Este método suele estar diseñado para que las plazas se las queden personas que ya están trabajando allí como interinos o que llevan años en la administración pública.",
+    "resumen_tweet": "🚨 ¿Transparencia o 'traje a medida'? El Ayto de Alconchel convoca 2 plazas de Policía Local por concurso de méritos, evitando los exámenes de oposición. 👮‍♂️ Esto dificulta el acceso a nuevos aspirantes sin antigüedad. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso puro para seguridad pública",
+      "Opacidad en los criterios de valoración en el extracto nacional",
+      "Potencial proceso de consolidación de personal interino encubierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Sindicatos que priorizan la estabilización sobre la movilidad abierta"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin experiencia previa",
+        "Ciudadanos que esperan procesos de selección basados en aptitud técnica inmediata",
+        "Igualdad de oportunidades real"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Resolución de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de selección por concurso puro para seguridad pública",
+      "Opacidad en los criterios de valoración en el extracto nacional",
+      "Potencial proceso de consolidación de personal interino encubierto"
+    ]
+  },
+  "tweeted": false
+}
