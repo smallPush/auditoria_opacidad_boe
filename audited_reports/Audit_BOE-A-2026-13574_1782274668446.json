@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13574",
+  "timestamp": "2026-06-24T04:17:48.446Z",
+  "title": "Orden TED/624/2026, de 12 de junio, por la que se redefinen los sistemas eléctricos aislados del territorio no peninsular de Canarias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden TED/624/2026 formaliza la fusión administrativa de los sistemas eléctricos de Tenerife y La Gomera basándose exclusivamente en informes de Red Eléctrica y Endesa. Aunque se presenta como una actualización técnica por la interconexión de 66 kV, el texto oculta el impacto económico real: la redefinición de 'sistemas aislados' afecta directamente a las compensaciones por costes de generación que se cargan a los Presupuestos Generales del Estado o al recibo de la luz. Existe una dependencia total del criterio del oligopolio energético para validar la operatividad de las infraestructuras sin una auditoría pública independiente mencionada en el texto.",
+    "resumen_ciudadano": "El Gobierno ha unido oficialmente a efectos eléctricos las islas de Tenerife y La Gomera tras finalizar el cable submarino que las conecta. Esto significa que ya no se consideran sistemas separados, lo que altera cómo se gestiona la energía y quién paga los sobrecostes de producción en las islas. La medida se basa en la información proporcionada por las propias empresas eléctricas (Red Eléctrica y Endesa).",
+    "resumen_tweet": "⚡️ El @Mitecogob une los sistemas eléctricos de Tenerife y La Gomera tras el nuevo enlace submarino. ¿Menos costes o más beneficio para el oligopolio? La gestión técnica cambia, pero el ahorro real para el ciudadano sigue bajo llave. 🔌 #BOE #Canarias",
+    "banderas_red_flags": [
+      "Dependencia de informes técnicos proporcionados por empresas con intereses directos (Endesa y Red Eléctrica)",
+      "Ausencia de desglose del impacto presupuestario de la nueva interconexión",
+      "Uso de lenguaje técnico para ocultar cambios en la estructura de compensación de costes extrapeninsulares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Red Eléctrica (consolida su posición como gestor de red interconectada)",
+        "Endesa Distribución (validación administrativa de sus activos de infraestructura)",
+        "Estabilidad de red para La Gomera"
+      ],
+      "perdedores": [
+        "Consumidor final (opacidad sobre si la interconexión reducirá el coste del sistema o servirá para amortizar la obra)",
+        "Transparencia pública (se aceptan plazos de empresas privadas sin fiscalización externa visible)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Energía y Suministro Eléctrico",
+    "banderas_rojas": [
+      "Dependencia de informes técnicos proporcionados por empresas con intereses directos (Endesa y Red Eléctrica)",
+      "Ausencia de desglose del impacto presupuestario de la nueva interconexión",
+      "Uso de lenguaje técnico para ocultar cambios en la estructura de compensación de costes extrapeninsulares"
+    ]
+  },
+  "tweeted": false
+}
