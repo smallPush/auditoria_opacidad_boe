@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13654",
+  "timestamp": "2026-06-24T14:51:35.696Z",
+  "title": "Resolución de 16 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa el uso del sistema de 'libre designación' para un puesto de carácter técnico como es la Jefatura de Sistemas Informáticos (Nivel 26). Este procedimiento, aunque legal bajo la Ley 30/1984, permite la selección discrecional por parte de cargos políticos, reduciendo la competencia objetiva por méritos técnicos. El complemento específico de 13.829,34 euros se suma al sueldo base, consolidando un gasto estructural en un puesto de confianza en lugar de un concurso abierto.",
+    "resumen_ciudadano": "El Ministerio del Interior ha nombrado a María Cristina Ramón Miranda como Jefa de Sistemas Informáticos de la Guardia Civil. El nombramiento se ha realizado 'a dedo' (libre designación), un sistema que no requiere una comparativa pública de méritos entre candidatos, asignándole un complemento salarial extra de casi 14.000 euros anuales.",
+    "resumen_tweet": "🧐 ¿Mérito o confianza? Interior adjudica 'a dedo' (libre designación) la Jefatura de Sistemas Informáticos en la Guardia Civil. Un puesto nivel 26 con +13k€ de complemento específico. La discrecionalidad frente a la transparencia. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Libre designación (Discrecionalidad)",
+      "Falta de motivación técnica en el nombramiento",
+      "Elevado complemento específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Cristina Ramón Miranda (adjudicataria)",
+        "Cargos políticos del Ministerio del Interior (capacidad de elección directa)"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos con mayores méritos no seleccionados",
+        "Ciudadanía (pérdida de objetividad en la gestión de sistemas públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (Discrecionalidad)",
+      "Falta de motivación técnica en el nombramiento",
+      "Elevado complemento específico"
+    ]
+  },
+  "tweeted": false
+}
