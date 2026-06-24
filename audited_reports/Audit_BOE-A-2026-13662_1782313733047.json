@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13662",
+  "timestamp": "2026-06-24T15:08:53.047Z",
+  "title": "Resolución de 17 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso sistemático de la 'Libre Designación' para puestos de Nivel 29, como esta Subdirección Adjunta, representa una forma legal de 'dedocracia' que elude los principios de mérito y capacidad. Aunque el proceso es público, la discrecionalidad es total, permitiendo al cargo político elegir a dedo a su equipo técnico, lo que debilita la independencia de la función pública frente al poder político. En este caso, se trata de un movimiento interno en el mismo ministerio, lo que sugiere una consolidación de poder burocrático previo.",
+    "resumen_ciudadano": "Se ha formalizado el nombramiento de una Subdirectora Adjunta en el Ministerio para la Transformación Digital. El puesto es de nivel 29 (uno de los más altos del funcionariado) y ha sido otorgado por elección directa ('libre designación') en lugar de por un concurso de méritos abierto y ciego. La adjudicataria ya pertenecía al mismo departamento, reforzando la estructura interna actual.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedocracia? Nueva adjudicación de Nivel 29 por 'Libre Designación' en el @min_digital_fp. Se cubren puestos clave sin concurso público real. ¡La opacidad en la alta administración sigue intacta! 🕵️‍♂️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Nivel de complemento de destino muy alto (Nivel 29)",
+      "Endogamia administrativa (procedencia del mismo ministerio)",
+      "Ausencia de justificación técnica pública para la elección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior Técnico de Instituciones Penitenciarias (A1)",
+        "Estructura interna del Ministerio",
+        "Rocío Martínez Cuquerella"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin adscripción política",
+        "Transparencia institucional",
+        "Ciudadanía (pérdida de independencia técnica)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Nivel de complemento de destino muy alto (Nivel 29)",
+      "Endogamia administrativa (procedencia del mismo ministerio)",
+      "Ausencia de justificación técnica pública para la elección"
+    ]
+  },
+  "tweeted": false
+}
