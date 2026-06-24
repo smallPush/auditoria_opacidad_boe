@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13644",
+  "timestamp": "2026-06-24T14:50:02.703Z",
+  "title": "Resolución de 17 de junio de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros de 16 de junio de 2026, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución oficializa una serie de títulos universitarios, destacando una fuerte presencia de instituciones privadas (UNIR, Universidad de las Hespérides) frente a la oferta pública. Se observa una tendencia a la mercantilización de la educación con títulos de alta demanda como 'Inteligencia Artificial' y otros con carga ideológica o tradicional como 'Teología Cristiana'. Aunque el procedimiento sigue el RD 822/2021, la validación estatal de títulos en centros privados de pago plantea dudas sobre la equidad en el acceso a profesiones reguladas y el sesgo de clase en la formación de élites tecnológicas y artísticas.",
+    "resumen_ciudadano": "El Gobierno ha dado validez oficial a nuevos grados universitarios en universidades públicas y privadas. Esto significa que estos títulos ahora tienen pleno reconocimiento legal en España, permiten acceder a oposiciones y habilitan para el ejercicio profesional. Los grados incluyen desde Arquitectura hasta Inteligencia Artificial y Teología.",
+    "resumen_tweet": "🎓 El @boegob oficializa nuevos grados. Destaca el avance de la universidad privada en áreas como la IA y la Cinematografía, e incluso la Teología Cristiana. ¿Hacia dónde va nuestro modelo educativo? 📉🤔 #BOE #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Predominio de títulos en universidades privadas (UNIR, Hespérides)",
+      "Oficialización de títulos con carga religiosa (Teología Cristiana) bajo el amparo de un Estado laico",
+      "Falta de desglose de costes administrativos para la supervisión pública de estos centros privados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (expansión de catálogo y prestigio oficial)",
+        "Sector tecnológico (nuevos graduados en IA)",
+        "Estudiantes de rentas altas con acceso a centros privados"
+      ],
+      "perdedores": [
+        "Universidad pública (competencia por recursos y alumnos)",
+        "Equidad educativa (brecha de acceso en títulos artísticos y tecnológicos de alto coste)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Títulos Universitarios",
+    "banderas_rojas": [
+      "Predominio de títulos en universidades privadas (UNIR, Hespérides)",
+      "Oficialización de títulos con carga religiosa (Teología Cristiana) bajo el amparo de un Estado laico",
+      "Falta de desglose de costes administrativos para la supervisión pública de estos centros privados"
+    ]
+  },
+  "tweeted": false
+}
