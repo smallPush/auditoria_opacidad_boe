@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13581",
+  "timestamp": "2026-06-24T04:20:45.580Z",
+  "title": "Orden TMD/625/2026, de 16 de junio, por la que se regula y convoca el proceso selectivo para la designación de vocales del Consejo Superior de Fundaciones, en representación de las fundaciones.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque el proceso se publica en el BOE, el sistema de selección de las vocalías para fundaciones no asociadas es intrínsecamente plutocrático: el artículo 7 establece que el criterio de desempate y selección principal es el 'mayor patrimonio neto'. Esto excluye de facto la influencia de fundaciones pequeñas con gran impacto social pero escasos recursos financieros. Además, el plazo de 10 días hábiles para presentar candidaturas tras la publicación es extremadamente breve, lo que favorece a las grandes organizaciones con departamentos jurídicos ya preparados, penalizando a las entidades de base.",
+    "resumen_ciudadano": "El Gobierno ha abierto el proceso para elegir a los 10 representantes de las fundaciones en el Consejo Superior de Fundaciones. Seis puestos serán para asociaciones de fundaciones (según cuántos socios tengan) y cuatro para fundaciones individuales. Para estas últimas, se han creado cuatro grupos basados en su riqueza (patrimonio neto), y ganará la que más dinero tenga en cada categoría.",
+    "resumen_tweet": "📢 ¿Democracia o Plutocracia en el #BOE? El Gobierno elige a los vocales del Consejo Superior de Fundaciones. El criterio principal para las no asociadas: ¡quién tiene más dinero! 💰 Las pequeñas quedan fuera. 10 días para solicitar. #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Plazo de presentación extremadamente corto (10 días)",
+      "Criterio de selección basado exclusivamente en patrimonio neto (riqueza)",
+      "Sesgo hacia grandes asociaciones con mayor número de inscritos",
+      "Mecanismo de 'acrecentamiento' que favorece grupos de mayor patrimonio si quedan vacantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fundaciones bancarias",
+        "Fundaciones corporativas de gran patrimonio",
+        "Grandes asociaciones patronales de fundaciones"
+      ],
+      "perdedores": [
+        "Pequeñas fundaciones culturales",
+        "Fundaciones de barrio o de impacto social local con pocos activos",
+        "Diversidad de representación (se prima el capital sobre el fin social)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Proceso Selectivo",
+    "banderas_rojas": [
+      "Plazo de presentación extremadamente corto (10 días)",
+      "Criterio de selección basado exclusivamente en patrimonio neto (riqueza)",
+      "Sesgo hacia grandes asociaciones con mayor número de inscritos",
+      "Mecanismo de 'acrecentamiento' que favorece grupos de mayor patrimonio si quedan vacantes"
+    ]
+  },
+  "tweeted": false
+}
