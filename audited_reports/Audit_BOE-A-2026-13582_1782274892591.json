@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13582",
+  "timestamp": "2026-06-24T04:21:32.591Z",
+  "title": "Resolución de 19 de junio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y por promoción interna, en la Escala de Técnicos Facultativos Superiores de Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Aunque la resolución publica nombres y salarios base (niveles 24-26), persiste la opacidad estructural en los 'Complementos Específicos'. Se observa una lentitud burocrática alarmante: el proceso inició en diciembre de 2024 y finaliza en junio de 2026, lo que favorece a aspirantes con alto colchón económico capaz de resistir 18 meses de incertidumbre. Además, existe un claro sesgo centralista, con 12 de los 14 puestos radicados en Madrid o su periferia (Algete), perpetuando la brecha territorial en la administración del Estado.",
+    "resumen_ciudadano": "El Gobierno nombra a 14 nuevos funcionarios de carrera para el Ministerio de Agricultura tras un proceso que ha durado un año y medio. Estos técnicos tendrán sueldos con complementos de entre 7.500 y 13.800 euros anuales extra. La mayoría de los puestos se quedan en Madrid, con solo dos plazas en Lugo y Granada.",
+    "resumen_tweet": "🐢 1.5 años para nombrar a 14 técnicos en el Ministerio de Agricultura. La lentitud del #BOE favorece a quien puede permitirse esperar. Sueldos con complementos de hasta 13k€ y el 85% de plazas en Madrid. ¿Y la descentralización? #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Dilatación excesiva del proceso selectivo (18 meses)",
+      "Concentración geográfica extrema en Madrid",
+      "Opacidad en la justificación de la cuantía del Complemento Específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 14 nuevos funcionarios (estabilidad laboral y niveles salariales A1)",
+        "Madrid (concentra la mayoría de la fuerza técnica)"
+      ],
+      "perdedores": [
+        "Aspirantes sin recursos para aguantar procesos de año y medio",
+        "Provincias periféricas (infrapresentadas)",
+        "Contribuyente (coste de gestión de procesos extremadamente lentos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Principalmente Madrid, Galicia y Andalucía)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilatación excesiva del proceso selectivo (18 meses)",
+      "Concentración geográfica extrema en Madrid",
+      "Opacidad en la justificación de la cuantía del Complemento Específico"
+    ]
+  },
+  "tweeted": false
+}
