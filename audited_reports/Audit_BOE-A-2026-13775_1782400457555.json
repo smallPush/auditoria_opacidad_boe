@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13775",
+  "timestamp": "2026-06-25T15:14:17.555Z",
+  "title": "Resolución de 12 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrática de Universidad a doña Nerea Madariaga Pisano.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática en Filología Eslava. Aunque el documento cumple con la normativa de la Ley Orgánica 2/2023 (LOSU), la opacidad reside en la falta de información sobre el coste salarial plurianual que asume el Estado y la opacidad inherente a los tribunales de oposiciones universitarias, a menudo señalados por dinámicas de endogamia académica. No se detectan gastos fantasma directos, pero sí una consolidación de gasto estructural sin auditoría de rendimiento pública.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Nerea Madariaga Pisano como Catedrática de Filología Eslava tras superar un concurso de acceso. La plaza es de dedicación completa y bilingüe, adscrita a la Facultad de Letras en Leioa.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la UPV: Nerea Madariaga Pisano asume la plaza de Filología Eslava. Transparencia administrativa estándar, pero sin detalle del impacto presupuestario a largo plazo. ⚖️ #BOE #Opacidad #Transparencia #Universidad #Euskadi",
+    "banderas_red_flags": [
+      "Falta de transparencia en el coste salarial de la plaza",
+      "Endogamia sistémica en procesos de acceso universitario",
+      "Ausencia de justificación de necesidad de la plaza en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nerea Madariaga Pisano",
+        "Universidad del País Vasco (UPV/EHU)",
+        "Departamento de Estudios Clásicos"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema universitario vasco",
+        "Contribuyentes (por falta de desglose de costes)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de funcionario de carrera",
+    "banderas_rojas": [
+      "Falta de transparencia en el coste salarial de la plaza",
+      "Endogamia sistémica en procesos de acceso universitario",
+      "Ausencia de justificación de necesidad de la plaza en el texto"
+    ]
+  },
+  "tweeted": false
+}
