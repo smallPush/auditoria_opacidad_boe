@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13770",
+  "timestamp": "2026-06-25T15:16:23.707Z",
+  "title": "Resolución de 11 de junio de 2026, de la Universidad de Barcelona, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion formaliza el acceso a la titularidad de dos profesoras en la Universidad de Barcelona. Aunque el proceso cumple con la LOSU, se observa una falta de especificidad en las 'retribuciones correspondientes', derivando la transparencia economica a leyes de presupuestos generales sin desglosar el coste real para el contribuyente. El tiempo transcurrido desde la convocatoria (noviembre 2025) hasta el nombramiento (junio 2026) revela una lentitud burocratica de siete meses en la administracion academica.",
+    "resumen_ciudadano": "Se han nombrado dos nuevas Profesoras Titulares en la Universidad de Barcelona en las areas de Sociologia y Educacion. El proceso es publico, pero no especifica el sueldo exacto que percibiran, remitiendo a tablas salariales genericas.",
+    "resumen_tweet": "🔍 Auditoria #BOE: Nuevas profesoras titulares en la UB. ¿El problema? Se oculta el coste salarial exacto tras 'disposiciones vigentes'. Siete meses de espera burocratica para resolver el concurso. 🏛️📉 #Opacidad #Transparencia #Barcelona",
+    "banderas_red_flags": [
+      "Referencia generica a retribuciones sin desglose economico",
+      "Dilacion de siete meses en el proceso administrativo",
+      "Uso de lenguaje administrativo que remite a otras leyes para ocultar cifras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Belen Cano Hila",
+        "Sandra Girbes Peco",
+        "Universidad de Barcelona (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Transparencia fiscal directa (sin cifras claras)",
+        "Candidatos descartados en el proceso de noviembre 2025"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Referencia generica a retribuciones sin desglose economico",
+      "Dilacion de siete meses en el proceso administrativo",
+      "Uso de lenguaje administrativo que remite a otras leyes para ocultar cifras"
+    ]
+  },
+  "tweeted": false
+}
