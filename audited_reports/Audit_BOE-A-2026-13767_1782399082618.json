@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13767",
+  "timestamp": "2026-06-25T14:51:22.618Z",
+  "title": "Resolución de 22 de junio de 2026, de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 29 de mayo 2026.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El documento oficializa un nombramiento de Nivel 30 (el máximo rango funcionarial) mediante el sistema de 'libre designación'. Aunque legal, este método es intrínsecamente opaco ya que permite la elección discrecional del candidato sobre otros aspirantes sin detallar la baremación de méritos. El adjudicatario procede de la CNMC y pertenece al Cuerpo Superior de Técnicos Comerciales y Economistas del Estado (TECOs), considerada la élite burocrática de la administración económica. Este movimiento sugiere una rotación de poder dentro de círculos cerrados del Estado, alejándose de los principios de meritocracia y publicidad que deberían regir el Plan de Recuperación mencionado en el texto.",
+    "resumen_ciudadano": "El Ministerio de Economía ha nombrado a Enrique Ruiz de Villa Saiz como nuevo Subdirector General de Análisis Financiero. El nombramiento se ha realizado mediante 'libre designación', es decir, de forma discrecional o 'a dedo' entre funcionarios de alto rango, en lugar de un concurso de méritos abierto y transparente.",
+    "resumen_tweet": "🧐 Nueva 'libre designación' en el Ministerio de Economía. Enrique Ruiz de Villa Saiz pasa de la CNMC a Subdirector General del Tesoro (Nivel 30). ¿Mérito o dedazo técnico? La opacidad de estos cargos sigue bajo la lupa. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máximo nivel administrativo)",
+      "Endogamia en cuerpos de élite (TECO)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Enrique Ruiz de Villa Saiz",
+        "Cuerpo Superior de Técnicos Comerciales y Economistas del Estado"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin afinidad política",
+        "Criterios de mérito y capacidad",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máximo nivel administrativo)",
+      "Endogamia en cuerpos de élite (TECO)"
+    ]
+  },
+  "tweeted": false
+}
