@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13764",
+  "timestamp": "2026-06-25T14:53:49.922Z",
+  "title": "Acuerdo de 18 de junio de 2026, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso, convocado por Acuerdo de 14 de abril de 2026, de la Comisión Permanente, en el Servicio de Formación Continua de la Escuela Judicial.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El nombramiento de Luisa María Torres Vargas como Directora del Servicio de Formación Continua de la Escuela Judicial representa una promoción interna directa, dado que ya ocupaba el cargo de Jefa de Sección en el mismo servicio. Aunque se menciona un 'concurso de méritos', el documento carece de transparencia técnica al no publicar la puntuación de otros candidatos ni los criterios específicos que decantaron la balanza. Este tipo de movimientos refuerzan la estructura de poder interna del CGPJ bajo la figura de 'servicios especiales', permitiendo a la judicatura ocupar cargos de gestión técnica sin perder privilegios de su carrera judicial de origen.",
+    "resumen_ciudadano": "Se ha nombrado a una nueva jefa para la formación de los jueces en España. La elegida es una magistrada que ya trabajaba en ese mismo departamento. Aunque es un proceso legal, no se explica por qué fue mejor que otros candidatos, lo que da una imagen de ascenso automático dentro de la cúpula judicial.",
+    "resumen_tweet": "⚖️ Nueva Directora de Formación en la Escuela Judicial. Ascenso interno: de Jefa de Sección a Directora. ¿Real competencia o promoción pactada? La opacidad en los méritos detallados sigue siendo marca de la casa. #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Endogamia institucional por promoción interna directa",
+      "Ausencia de datos comparativos de méritos entre candidatos",
+      "Opacidad en la motivación técnica del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luisa María Torres Vargas (ascenso profesional)",
+        "Estructura actual del CGPJ (continuidad directiva)"
+      ],
+      "perdedores": [
+        "Magistrados externos al círculo de la Escuela Judicial",
+        "Ciudadanía (por falta de detalle en la justificación del mérito)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal de Alta Dirección Judicial",
+    "banderas_rojas": [
+      "Endogamia institucional por promoción interna directa",
+      "Ausencia de datos comparativos de méritos entre candidatos",
+      "Opacidad en la motivación técnica del nombramiento"
+    ]
+  },
+  "tweeted": false
+}
