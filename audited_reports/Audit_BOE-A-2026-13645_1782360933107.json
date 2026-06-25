@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13645",
+  "timestamp": "2026-06-25T04:15:33.107Z",
+  "title": "Resolución de 17 de junio de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo del Consejo de Ministros de 16 de junio de 2026, por el que se establece el carácter oficial de determinados títulos de Máster y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución oficializa una serie de títulos de Máster, destacando una fuerte presencia de la universidad privada (UNIR) y la persistencia de un régimen jurídico diferenciado para la Iglesia Católica. Aunque el procedimiento administrativo es claro, se omite cualquier referencia al coste de estas titulaciones para el ciudadano o la financiación pública necesaria para su acreditación. Existe un sesgo hacia la 'mercantilización' del postgrado, priorizando áreas tecnológicas y de salud digital que a menudo operan bajo lógicas de mercado más que de servicio público.",
+    "resumen_ciudadano": "El Gobierno da validez oficial a nuevos títulos de Máster en diversas universidades españolas. Esto permite que estos títulos tengan validez en todo el país y habiliten para profesiones reguladas. La mayoría de los nuevos títulos pertenecen a universidades privadas o especializadas en educación a distancia, enfocándose en Inteligencia Artificial, Deporte y Salud.",
+    "resumen_tweet": "🎓 Nuevo listado de Másteres oficiales en el #BOE. Llama la atención el aluvión de títulos de universidades privadas y el trato especial a la Iglesia Católica. ¿Educación para todos o mercado de títulos? 🧐 #Transparencia #Opacidad #Universidades",
+    "banderas_red_flags": [
+      "Trato diferenciado a universidades de la Iglesia Católica (no requieren autorización autonómica)",
+      "Predominio de títulos en universidades privadas/online (UNIR)",
+      "Ausencia de información sobre precios públicos o tasas de matrícula",
+      "Opacidad en los criterios de 'verificación positiva' más allá de la mención al Real Decreto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (especialmente UNIR)",
+        "Sector tecnológico y de Inteligencia Artificial",
+        "Iglesia Católica (mantenimiento de privilegios procedimentales)"
+      ],
+      "perdedores": [
+        "Sistema de universidad pública (menor volumen de nuevos títulos en esta lista)",
+        "Estudiantes de rentas bajas (barrera de entrada en títulos privados)",
+        "Transparencia autonómica (exenciones en la supervisión de centros religiosos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Títulos Académicos",
+    "banderas_rojas": [
+      "Trato diferenciado a universidades de la Iglesia Católica (no requieren autorización autonómica)",
+      "Predominio de títulos en universidades privadas/online (UNIR)",
+      "Ausencia de información sobre precios públicos o tasas de matrícula",
+      "Opacidad en los criterios de 'verificación positiva' más allá de la mención al Real Decreto"
+    ]
+  },
+  "tweeted": false
+}
