@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13765",
+  "timestamp": "2026-06-25T14:52:12.223Z",
+  "title": "Resolución de 18 de junio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento detalla la resolución de puestos mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente discrecional que permite la elección de personal sin un concurso de méritos puramente objetivo. En el ámbito del Ministerio de Asuntos Exteriores, esto se traduce en la asignación de plazas en el extranjero (Ginebra, Tel Aviv, La Habana) que suelen llevar aparejados importantes complementos económicos y beneficios por residencia, sin que el ciudadano pueda evaluar la idoneidad técnica frente a otros candidatos. La opacidad reside en la falta de justificación individualizada de por qué estos perfiles son los más aptos.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ha finalizado la asignación de varios cargos en embajadas y consulados alrededor del mundo. Estos puestos se han otorgado 'a dedo' (libre designación), lo que incluye destinos codiciados en países como Suiza, Israel y Pakistán. Aunque es una práctica común en la administración, dificulta el control sobre si se elige a los mejores o a los más cercanos al poder.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedocracia? Exteriores asigna puestos en embajadas mediante 'libre designación'. Destinos internacionales con sueldos especiales adjudicados sin concurso público abierto. La transparencia brilla por su ausencia. #BOE #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Asignación de puestos internacionales con altos complementos de destino",
+      "Falta de desglose de las dietas y gastos de representación asociados",
+      "Puesto en Brasilia declarado desierto sin explicación técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del grupo A2 y C1 con acceso a la red de confianza ministerial",
+        "Adjudicatarios de plazas en destinos con alto nivel de vida y complementos (Ginebra, Tel Aviv)",
+        "Estructuras de poder que mantienen la discrecionalidad en el servicio exterior"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos pero sin perfiles de confianza",
+        "Contribuyentes, debido a la falta de transparencia en el coste real de estos desplazamientos",
+        "Igualdad de oportunidades en el acceso a puestos de relevancia internacional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Exterior",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Asignación de puestos internacionales con altos complementos de destino",
+      "Falta de desglose de las dietas y gastos de representación asociados",
+      "Puesto en Brasilia declarado desierto sin explicación técnica"
+    ]
+  },
+  "tweeted": false
+}
