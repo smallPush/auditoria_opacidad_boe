@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13774",
+  "timestamp": "2026-06-26T04:43:08.559Z",
+  "title": "Resolución de 12 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrática de Universidad a doña Miren Gotzone Barandika Argoitia.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática tras un concurso de acceso. Aunque el proceso sigue la LOSU 2/2023, existe una opacidad intrínseca en la resolución al no desglosar el impacto presupuestario plurianual de la plaza ni la composición de la comisión evaluadora. El requisito de perfil lingüístico trilingüe (euskera/inglés/castellano), si bien legal, funciona como un filtro de clase y procedencia que limita la competitividad internacional y nacional en favor de la endogamia académica regional. No se detectan gastos fantasma directos, pero sí una consolidación de gasto público permanente sin métricas de retorno social claras.",
+    "resumen_ciudadano": "Nombramiento oficial de Miren Gotzone Barandika Argoitia como Catedrática de Química Inorgánica en la Universidad del País Vasco. La plaza es de dedicación completa y requiere dominio de tres idiomas. Se basa en una convocatoria de marzo de 2026.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la UPV/EHU. Avance en presencia femenina en STEM, pero la barrera trilingüe y la falta de datos sobre el coste real de la plaza mantienen la sombra sobre la gestión de fondos universitarios. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial y de seguridad social",
+      "Filtro lingüístico trilingüe como barrera de acceso",
+      "Falta de información sobre los miembros de la comisión evaluadora en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miren Gotzone Barandika Argoitia",
+        "UPV/EHU (consolidación de plantilla)",
+        "Élite académica trilingüe local"
+      ],
+      "perdedores": [
+        "Candidatos externos no trilingües",
+        "Contribuyentes (por falta de transparencia en el coste de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de personal docente e investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial y de seguridad social",
+      "Filtro lingüístico trilingüe como barrera de acceso",
+      "Falta de información sobre los miembros de la comisión evaluadora en el extracto"
+    ]
+  },
+  "tweeted": false
+}
