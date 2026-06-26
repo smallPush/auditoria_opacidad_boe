@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-13766",
+  "timestamp": "2026-06-26T04:36:45.620Z",
+  "title": "Orden EFD/636/2026, de 18 de junio, por la que, en aceptación de renuncia, se declara la pérdida de la condición de funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria de don Jaume Maciá Colomer.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "Se trata de un acto administrativo reglado y transparente que formaliza la renuncia voluntaria de un funcionario. No se detectan gastos fantasma, ya que la resolución implica el cese de una obligación de pago salarial por parte del Estado. La única nota de opacidad es la falta de contexto sobre los motivos de la renuncia, lo cual podría indicar problemas sistémicos en las condiciones del cuerpo docente que el BOE no refleja. El desfase temporal de siete meses entre la resolución autonómica y la publicación estatal evidencia una burocracia lenta.",
+    "resumen_ciudadano": "El Ministerio de Educación formaliza la baja definitiva de un profesor de enseñanza secundaria en Cataluña tras haber presentado este su renuncia voluntaria. El proceso cumple con la ley de empleados públicos, extinguiendo su relación laboral con la administración desde noviembre de 2025.",
+    "resumen_tweet": "📉 Un funcionario menos en el sistema: el #BOE formaliza la renuncia voluntaria de un profesor de secundaria. Sin gastos fantasma, pero con 7 meses de demora burocrática. ¿Por qué renuncia el talento docente? #Transparencia #Educación #Opacidad",
+    "banderas_red_flags": [
+      "Desfase temporal de 7 meses entre resolución y publicación",
+      "Fuga de capital humano en el sector educativo público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (reducción de masa salarial inmediata)",
+        "El interesado (recuperación de su autonomía profesional)"
+      ],
+      "perdedores": [
+        "Sistema educativo público (pérdida de un profesional de carrera formado)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Gestión de Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Desfase temporal de 7 meses entre resolución y publicación",
+      "Fuga de capital humano en el sector educativo público"
+    ]
+  },
+  "tweeted": false
+}
