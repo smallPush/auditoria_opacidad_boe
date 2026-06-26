@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13901",
+  "timestamp": "2026-06-26T14:45:36.891Z",
+  "title": "Decreto de 15 de junio de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Menores de la Fiscalía Provincial de Gipuzkoa a doña Raquel Fernández Leiras.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El decreto detalla escrupulosamente los pasos legales seguidos para el nombramiento, citando el Estatuto Orgánico del Ministerio Fiscal y reglamentos internos. No obstante, se observa una nula concurrencia competitiva: doña Raquel Fernández Leiras fue la única solicitante de la plaza. Esto plantea dudas sobre el atractivo de estos puestos especializados dentro de la carrera fiscal o sobre la existencia de una sucesión interna ya prevista, dado que la anterior titular dejó la vacante para ascender a la jefatura del órgano. No se detectan gastos fantasma, pero sí una estructura administrativa altamente autorreferencial.",
+    "resumen_ciudadano": "Se ha oficializado el nombramiento de Raquel Fernández Leiras como Fiscal Delegada de Menores en Gipuzkoa. El proceso se inició tras la renuncia de la anterior encargada por ascenso. Aunque se abrió una convocatoria interna para todos los fiscales de la plantilla, Fernández Leiras fue la única que se presentó. Su idoneidad ha sido avalada por la Fiscalía General del Estado tras pasar los filtros de audiencia del Consejo Fiscal y la Inspección Fiscal.",
+    "resumen_tweet": "⚖️ Nueva Fiscal de Menores en Gipuzkoa: Raquel Fernández Leiras. Proceso legal impecable pero con un dato curioso: fue la única aspirante al puesto. ¿Falta de competencia o sucesión planificada? 🏛️ #BOE #Transparencia #Justicia #Gipuzkoa",
+    "banderas_red_flags": [
+      "Candidata única en el proceso de selección",
+      "Falta de pluralidad de opciones para la administración",
+      "Endogamia institucional sugerida por la falta de solicitantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Raquel Fernández Leiras (obtiene el cargo)",
+        "Ministerio Fiscal (mantiene continuidad operativa)"
+      ],
+      "perdedores": [
+        "Principio de competencia (proceso con un solo participante)",
+        "Sociedad civil (menor diversidad de perfiles evaluados para un área sensible como Menores)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Candidata única en el proceso de selección",
+      "Falta de pluralidad de opciones para la administración",
+      "Endogamia institucional sugerida por la falta de solicitantes"
+    ]
+  },
+  "tweeted": false
+}
