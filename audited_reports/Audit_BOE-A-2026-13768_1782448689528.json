@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-13768",
+  "timestamp": "2026-06-26T04:38:09.528Z",
+  "title": "Resolución de 11 de junio de 2026, de la Universidad de Barcelona, por la que se nombra Profesora Titular de Universidad a doña Carmen Gómez Vaquero.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Profesora Titular tras un concurso-oposición. La opacidad es baja, aunque persiste el uso de fórmulas genéricas como 'retribuciones según las disposiciones vigentes', lo que impide al ciudadano conocer el coste real de la plaza sin consultar tablas salariales externas. El proceso cumple con la LOSU y la normativa catalana, reflejando la estabilidad de la élite académica en el sector sanitario.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado oficialmente a Carmen Gómez Vaquero como Profesora Titular de Medicina, vinculada al Hospital Universitario de Bellvitge. Este es el paso final de un proceso de selección iniciado en noviembre de 2025.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la @UniBarcelona. Carmen Gómez Vaquero se incorpora al área de Medicina (Bellvitge). Proceso legal estándar, pero con la habitual falta de detalle salarial en el #BOE. 🏥 #Transparencia #Universidad #Opacidad",
+    "banderas_red_flags": [
+      "Falta de desglose salarial específico en el texto",
+      "Lapso de 7 meses entre convocatoria y nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carmen Gómez Vaquero (estabilidad laboral)",
+        "Universidad de Barcelona (consolidación de plantilla)",
+        "Sistema sanitario de Bellvitge"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados",
+        "Ciudadanía (por falta de transparencia retributiva directa en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Falta de desglose salarial específico en el texto",
+      "Lapso de 7 meses entre convocatoria y nombramiento"
+    ]
+  },
+  "tweeted": false
+}
