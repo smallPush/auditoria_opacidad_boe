@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13906",
+  "timestamp": "2026-06-26T14:48:36.344Z",
+  "title": "Resolución de 16 de junio de 2026, de la Universidad de Zaragoza, por la que se nombra Catedrático de Universidad a don Eduardo Montijano Muñoz.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un Catedrático de Universidad. Aunque se citan las bases legales (LOSU y Estatutos), existe una opacidad presupuestaria sistémica: el BOE publica el nombramiento pero no el coste salarial bruto ni los complementos específicos que se derivan de esta plaza vitalicia. Además, se observa la persistencia de la brecha de género en las cátedras de áreas tecnológicas (STEM), donde los puestos de máxima jerarquía siguen siendo mayoritariamente ocupados por varones.",
+    "resumen_ciudadano": "La Universidad de Zaragoza formaliza el nombramiento de Eduardo Montijano Muñoz como Catedrático en Ingeniería de Sistemas y Automática. Este cargo le otorga la condición de funcionario de carrera con efectos tras su toma de posesión.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Zaragoza. El #BOE publica el nombramiento pero oculta el impacto económico a largo plazo de esta plaza vitalicia. ¿Para cuándo transparencia total en sueldos públicos? #Opacidad #Transparencia #Aragón #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Falta de mención a la composición de la comisión evaluadora",
+      "Inercia de género en áreas STEM"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eduardo Montijano Muñoz (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Zaragoza (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocimiento del coste total de la plaza)",
+        "Candidatas mujeres (invisibilización en el acceso a la élite académica tecnológica)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de impacto presupuestario desglosado",
+      "Falta de mención a la composición de la comisión evaluadora",
+      "Inercia de género en áreas STEM"
+    ]
+  },
+  "tweeted": false
+}
