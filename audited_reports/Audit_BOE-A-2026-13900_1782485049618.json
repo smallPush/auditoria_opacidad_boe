@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13900",
+  "timestamp": "2026-06-26T14:44:09.618Z",
+  "title": "Resolución de 18 de junio de 2026, de la Presidencia del Consejo de Estado, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion' para cubrir un puesto de Jefe de Seccion en el Consejo de Estado. Aunque legalmente amparado por la Ley 30/1984, este procedimiento es el menos transparente del sistema publico, permitiendo la seleccion discrecional basada en la 'confianza' y no estrictamente en el merito u oposicion competitiva. Resulta llamativo que un puesto de nivel 22, de caracter administrativo, se cubra mediante este metodo en el maximo organo consultivo del Gobierno, consolidando una estructura de cargos elegidos 'a dedo' bajo la firma de la presidencia del Consejo.",
+    "resumen_ciudadano": "Se ha asignado un puesto de Jefe de Seccion en el Consejo de Estado a una funcionaria proveniente de otro ministerio mediante el sistema de libre designacion. Esto significa que la eleccion ha sido discrecional por parte de los superiores, en lugar de ser un concurso abierto donde ganara el candidato con mas puntos o meritos objetivos.",
+    "resumen_tweet": "🚨 ¡Adjudicacion 'a dedo' en el Consejo de Estado! Carmen Calvo firma un nuevo nombramiento por libre designacion para una Jefatura de Seccion. Menos meritocracia y mas discrecionalidad en las instituciones. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designacion para puestos de nivel tecnico-medio",
+      "Discrecionalidad en la eleccion de personal en organos consultivos",
+      "Falta de publicacion de los criterios especificos de idoneidad frente a otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel Soriano Ocampos",
+        "Cargos politicos con potestad de nombramiento discrecional"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios con mayores meritos academicos",
+        "Sistema de meritocracia administrativa",
+        "Ciudadania que demanda transparencia total en empleos publicos"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de libre designacion para puestos de nivel tecnico-medio",
+      "Discrecionalidad en la eleccion de personal en organos consultivos",
+      "Falta de publicacion de los criterios especificos de idoneidad frente a otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
