@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13892",
+  "timestamp": "2026-06-26T14:42:20.862Z",
+  "title": "Resolución de 16 de junio de 2026, de la Dirección General de Tráfico, por la que se modifica la de 14 de enero de 2026, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026, en relación con la celebración del Gran Premio de Motociclismo de la Comunitat Valenciana y al puerto de El Musel en Gijón.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución es un ajuste técnico-logístico. Destaca la rectificación en Gijón, donde se reconoce implícitamente que 40.000 ciudadanos estaban expuestos al tránsito de mercancías peligrosas por zonas residenciales (Av. Príncipe de Asturias). En Valencia, el cambio responde a un ajuste de calendario del GP de Motociclismo, lo cual implica una reprogramación de recursos públicos de seguridad sin desglose presupuestario asociado.",
+    "resumen_ciudadano": "Se modifican las fechas de restricción de tráfico en Valencia por el cambio del Gran Premio de Motociclismo (ahora del 27 al 29 de noviembre). En Gijón, se obliga a los camiones con mercancías peligrosas a usar el túnel Aboño-Musel en lugar de cruzar zonas habitadas, mejorando la seguridad ciudadana.",
+    "resumen_tweet": "🚦 El #BOE reacciona: cambian fechas de tráfico para el GP de Cheste 🏍️. Además, por fin desvían las mercancías peligrosas del centro de Gijón (40.000 vecinos en riesgo) hacia rutas seguras. ¡Menos riesgo, más transparencia! #Tráfico #SeguridadVial #Opacidad",
+    "banderas_red_flags": [
+      "Riesgo previo admitido: 40.000 vecinos en Gijón expuestos hasta ahora",
+      "Ausencia de impacto económico por el cambio de fechas del dispositivo policial",
+      "Dependencia de calendarios privados (motores) para la regulación pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes de la Avenida Príncipe de Asturias en Gijón (seguridad)",
+        "Organizadores del Gran Premio de Motociclismo (logística asegurada)",
+        "Ministerio de Transportes (integración RIMP)"
+      ],
+      "perdedores": [
+        "Sector del transporte de mercancías (reajuste de rutas)",
+        "Contribuyentes (costes operativos de reprogramación no detallados)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana y Principado de Asturias",
+    "tipologia": "Seguridad Vial y Regulación de Transportes",
+    "banderas_rojas": [
+      "Riesgo previo admitido: 40.000 vecinos en Gijón expuestos hasta ahora",
+      "Ausencia de impacto económico por el cambio de fechas del dispositivo policial",
+      "Dependencia de calendarios privados (motores) para la regulación pública"
+    ]
+  },
+  "tweeted": false
+}
