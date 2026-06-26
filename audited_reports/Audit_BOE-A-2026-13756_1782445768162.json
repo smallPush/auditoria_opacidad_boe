@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13756",
+  "timestamp": "2026-06-26T03:49:28.162Z",
+  "title": "Enmiendas a los Anexos II y III del Protocolo sobre las Zonas Especialmente Protegidas y la Diversidad Biológica en el Mediterráneo, adoptadas por Decisión IG.27/7 en la 24.ª reunión de las Partes celebrada en El Cairo (Egipto) el 5 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 55,
+    "analisis_critico": "El acuerdo internacional presenta una fachada de consenso ecológico bajo el paraguas de la ONU, pero esconde una fractura geopolítica significativa en el Mediterráneo. Mientras se eleva el nivel de protección de especies comercialmente sensibles como la tintorera (Prionace glauca) o el tiburón trozo (Carcharhinus plumbeus), países como Túnez y Libia han interpuesto reservas explícitas, lo que genera un vacío legal donde estas especies estarán protegidas en unas aguas y serán capturadas en otras. El lenguaje técnico de los anexos actúa como barrera para que el sector pesquero comprenda la restricción inmediata de su actividad sin que se mencionen partidas presupuestarias específicas para la transición económica de las flotas afectadas.",
+    "resumen_ciudadano": "España y otros países del Mediterráneo han acordado prohibir la pesca y explotación de nuevas especies de tiburones, rayas y esponjas. Aunque es una medida positiva para el ecosistema, el documento no aclara cómo se vigilarán estas aguas ni qué ayudas recibirán los pescadores que pierden estas capturas. Además, la oposición de países vecinos como Túnez y Libia debilita la eficacia real de la norma.",
+    "resumen_tweet": "🦈 El #BOE blinda a tiburones y esponjas en el Mediterráneo, pero con letra pequeña: Túnez y Libia se oponen y no hay fondos garantizados para vigilancia. ¿Protección real o postureo internacional? 🌊 #Opacidad #Transparencia #Pesca",
+    "banderas_red_flags": [
+      "Cláusula de 'presupuesto disponible' para la implementación, lo que sugiere una posible falta de financiación real.",
+      "Reservas diplomáticas de Túnez y Libia que invalidan la protección integral en zonas fronterizas.",
+      "Ausencia total de análisis de impacto socioeconómico para las flotas pesqueras locales.",
+      "Uso de taxonomía compleja que dificulta la fiscalización ciudadana sobre qué se está prohibiendo exactamente."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ecosistemas marinos (en teoría)",
+        "Organismos internacionales de gestión ambiental (CAR/SPA)",
+        "ONGs conservacionistas con capacidad de lobby"
+      ],
+      "perdedores": [
+        "Sector pesquero artesanal del Mediterráneo",
+        "Consumidores finales por posible encarecimiento de productos del mar",
+        "Pueblos costeros dependientes de la pesca sin planes de reconversión"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Impacto en todo el litoral mediterráneo)",
+    "tipologia": "Acuerdo Internacional / Conservación Ambiental",
+    "banderas_rojas": [
+      "Cláusula de 'presupuesto disponible' para la implementación, lo que sugiere una posible falta de financiación real.",
+      "Reservas diplomáticas de Túnez y Libia que invalidan la protección integral en zonas fronterizas.",
+      "Ausencia total de análisis de impacto socioeconómico para las flotas pesqueras locales.",
+      "Uso de taxonomía compleja que dificulta la fiscalización ciudadana sobre qué se está prohibiendo exactamente."
+    ]
+  },
+  "tweeted": false
+}
