@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13946",
+  "timestamp": "2026-06-27T14:02:04.196Z",
+  "title": "Orden HAC/649/2026, de 21 de junio, por la que se modifica la Orden HFP/115/2023, de 9 de febrero, por la que se determinan los países y territorios, así como los regímenes fiscales perjudiciales, que tienen la consideración de jurisdicciones no cooperativas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La orden ministerial actualiza el listado de jurisdicciones no cooperativas, destacando la salida de territorios históricamente opacos como Gibraltar y Seychelles. Aunque se justifica por avances en transparencia, la falta de métricas públicas sobre estos avances sugiere una decisión más diplomática que técnica. La inclusión de Rusia parece una respuesta geopolítica, pero el diferimiento de su aplicación a seis meses actúa como una ventana de oportunidad para la reubicación de capitales antes de que las restricciones sean efectivas. Se observa una asimetría clara: se suavizan controles para territorios cercanos (Gibraltar) mientras se endurecen para enemigos geopolíticos, pero con un margen temporal que invalida la urgencia de la lucha contra el fraude.",
+    "resumen_ciudadano": "El Gobierno ha decidido que Gibraltar, Barbados y Seychelles ya no son considerados paraísos fiscales para España, lo que reduce los controles sobre el dinero que fluye hacia allí. Por otro lado, Rusia entra en la lista negra, aunque se le otorga un periodo de gracia de seis meses para que las nuevas reglas le afecten, permitiendo posibles movimientos de fondos preventivos.",
+    "resumen_tweet": "📉 @Haciendagob saca a Gibraltar y Seychelles de la lista de paraísos fiscales. ¿Realidad o maquillaje contable? 🚩 Rusia entra en la lista, pero con 6 meses de margen para mover capitales. #BOE #Opacidad #Transparencia #FraudeFiscal 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Eliminación de Gibraltar como jurisdicción no cooperativa",
+      "Periodo de gracia de 6 meses para la entrada en vigor de sanciones a la Federación de Rusia",
+      "Ambigüedad en los criterios técnicos que justifican la salida de Seychelles y Barbados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas offshore en Gibraltar y Seychelles",
+        "Grandes fortunas con activos en Barbados",
+        "Inversores con intereses en holding companies rusas (por el margen de 6 meses)"
+      ],
+      "perdedores": [
+        "Contribuyentes de a pie sin acceso a ingeniería fiscal",
+        "Agencia Tributaria por la reducción del perímetro de vigilancia",
+        "Transparencia fiscal efectiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Fiscal",
+    "banderas_rojas": [
+      "Eliminación de Gibraltar como jurisdicción no cooperativa",
+      "Periodo de gracia de 6 meses para la entrada en vigor de sanciones a la Federación de Rusia",
+      "Ambigüedad en los criterios técnicos que justifican la salida de Seychelles y Barbados"
+    ]
+  },
+  "tweeted": false
+}
