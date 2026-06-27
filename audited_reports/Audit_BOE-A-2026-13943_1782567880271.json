@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-13943",
+  "timestamp": "2026-06-27T13:44:40.271Z",
+  "title": "Resolución de 25 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 14/2026, de 9 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de una convalidación parlamentaria de un Real Decreto-ley de medidas estacionales. Aunque el objetivo declarado es fomentar la movilidad juvenil, este tipo de disposiciones suelen carecer de un desglose pormenorizado del coste real por usuario en el texto del BOE, diluyendo la responsabilidad fiscal en conceptos genéricos de fomento del transporte. Es una medida de alto impacto mediático pero de carácter efímero que no aborda los problemas estructurales de las infraestructuras ferroviarias o de autobús.",
+    "resumen_ciudadano": "El Congreso ha ratificado los descuentos en transporte público (tren y autobús) para jóvenes durante el verano de 2026. La medida busca abaratar los viajes estivales para menores de 30 años con fondos estatales.",
+    "resumen_tweet": "🚆 ¿Ayuda real o parche electoral? El Congreso convalida los descuentos de transporte para jóvenes este verano. 💸 Sin desglose claro del gasto total ni impacto estructural a largo plazo. #BOE #Opacidad #Transparencia #VeranoJoven",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada en la resolución",
+      "Uso de la figura de Real Decreto-ley para medidas no urgentes/estructurales",
+      "Carácter temporal que evita reformas de precios sostenibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jóvenes de 18 a 30 años",
+        "Operadoras de transporte público (subvención garantizada)",
+        "Sector turístico de costa y grandes urbes"
+      ],
+      "perdedores": [
+        "Contribuyentes sin acceso a descuentos",
+        "Población rural con infraestructuras de transporte inexistentes",
+        "Mantenimiento a largo plazo de la red ferroviaria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Legislativa / Subvenciones al Transporte",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada en la resolución",
+      "Uso de la figura de Real Decreto-ley para medidas no urgentes/estructurales",
+      "Carácter temporal que evita reformas de precios sostenibles"
+    ]
+  },
+  "tweeted": false
+}
