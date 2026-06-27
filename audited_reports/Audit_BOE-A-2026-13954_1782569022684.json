@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13954",
+  "timestamp": "2026-06-27T14:03:42.684Z",
+  "title": "Resolución de 17 de junio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por promoción interna, en el Cuerpo de Arquitectos de la Hacienda Pública.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento detalla el nombramiento de un único funcionario de carrera en el Cuerpo de Arquitectos de la Hacienda Pública tras un proceso de promoción interna. Si bien existe transparencia en los datos salariales (Nivel 26 y Complemento Específico de 13.234,76€), se observa una preocupante lentitud administrativa: el proceso comenzó en noviembre de 2024 y finaliza en junio de 2026. Esta 'promoción interna' para una sola plaza sugiere una estructura de ascenso sumamente cerrada que prioriza la endogamia administrativa sobre la captación de talento externo en un sector crítico como la gestión catastral.",
+    "resumen_ciudadano": "Se formaliza el ascenso de un funcionario al cuerpo técnico superior de arquitectos de Hacienda en Madrid, con un salario base de nivel 26 tras casi dos años de trámites internos.",
+    "resumen_tweet": "🏛️ Nuevo arquitecto en Hacienda vía promoción interna. Casi 2 años para resolver una sola plaza en Madrid. ¿Eficiencia o endogamia burocrática? Nivel 26 blindado. #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Lentitud burocrática extrema (19 meses para una resolución)",
+      "Sistema de promoción interna limitativo",
+      "Concentración de recursos técnicos en la capital (Madrid)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario promocionado",
+        "Dirección General del Catastro"
+      ],
+      "perdedores": [
+        "Arquitectos externos (sector privado)",
+        "Contribuyentes (por la baja agilidad en la gestión de plazas)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Lentitud burocrática extrema (19 meses para una resolución)",
+      "Sistema de promoción interna limitativo",
+      "Concentración de recursos técnicos en la capital (Madrid)"
+    ]
+  },
+  "tweeted": false
+}
