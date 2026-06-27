@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-13956",
+  "timestamp": "2026-06-27T14:04:59.047Z",
+  "title": "Resolución de 16 de junio de 2026, de la Universidad de Sevilla, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una resolución estándar de nombramiento de catedráticos basada en la Ley Orgánica 2/2023 (LOSU). El documento es transparente en cuanto a identidades y áreas de conocimiento (Estomatología e Ingeniería Telemática). No se detectan 'gastos fantasma' directos, aunque el BOE omite sistemáticamente el impacto salarial bruto anual de estos nuevos funcionarios de carrera. Existe un equilibrio de género (1:1) en este acto administrativo específico. El punto crítico reside en la obligatoriedad de la relación electrónica para recursos, lo cual puede suponer una barrera administrativa para ciudadanos con dificultades técnicas.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a dos nuevos catedráticos: Jenifer Martín González y Antonio José Estepa Alonso. Estos nombramientos siguen los cauces legales de concursos de acceso tras obtener la acreditación estatal correspondiente.",
+    "resumen_tweet": "🎓 La Universidad de Sevilla suma dos nuevas cátedras en Estomatología y Telemática. ⚖️ Paridad de género en el nombramiento, pero el #BOE sigue ocultando el coste salarial real para el contribuyente. #Transparencia #Opacidad #Sevilla #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Obligatoriedad de relación electrónica para recursos administrativos",
+      "Endogamia potencial habitual en concursos de acceso universitario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jenifer Martín González",
+        "Antonio José Estepa Alonso",
+        "Cuerpo de Catedráticos de la Universidad de Sevilla"
+      ],
+      "perdedores": [
+        "Candidatos externos descartados",
+        "Contribuyentes (por falta de información sobre el impacto en el gasto público)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Obligatoriedad de relación electrónica para recursos administrativos",
+      "Endogamia potencial habitual en concursos de acceso universitario"
+    ]
+  },
+  "tweeted": false
+}
