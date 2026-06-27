@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-13962",
+  "timestamp": "2026-06-27T14:07:05.814Z",
+  "title": "Resolución 430/38299/2026, de 19 de junio, de la Dirección General de Personal, por la que se convoca vacante en los órganos judiciales de la jurisdicción militar.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La convocatoria se ampara en el concepto de 'nombramiento discrecional', un mecanismo legal que permite la libre designación camuflada bajo una ponderación de méritos subjetiva. Aunque cita leyes de paridad recientes (2024), la estructura del Tribunal Militar Central y el proceso de 'informes motivados' mantienen un sistema cerrado donde la jerarquía prima sobre la transparencia competitiva. Además, la retribución de 662,91 euros mensuales referenciada es solo el Complemento Especial (CSCE), omitiendo el sueldo base y otros complementos que disparan el coste real del cargo para el erario público.",
+    "resumen_ciudadano": "Defensa busca un juez militar (Vocal Togado) para Sevilla. A pesar de listar méritos académicos, el sistema de elección es 'a dedo' (discrecional). Se utiliza un lenguaje técnico complejo para ocultar que la cúpula militar y el CGPJ eligen al candidato según su propio criterio, no por una puntuación objetiva.",
+    "resumen_tweet": "⚖️ ¿Justicia o dedo? Defensa convoca plaza de juez militar en Sevilla mediante 'nombramiento discrecional'. Mucha referencia a la paridad, pero la decisión final es subjetiva. 🛑 ¿Transparencia o jerarquía? #BOE #Opacidad #Transparencia #JusticiaMilitar",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (libre designación)",
+      "Ponderación de méritos subjetiva",
+      "Opacidad en la retribución total real",
+      "Control del Tribunal Militar Central sobre el listado de candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tenientes Coroneles Auditores con buenas conexiones jerárquicas",
+        "Cúpula del Cuerpo Jurídico Militar"
+      ],
+      "perdedores": [
+        "Candidatos con mejores méritos pero sin respaldo discrecional",
+        "Ciudadanía (por falta de independencia judicial total)",
+        "Transparencia presupuestaria"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Personal y Nombramientos - Jurisdicción Militar",
+    "banderas_rojas": [
+      "Nombramiento discrecional (libre designación)",
+      "Ponderación de méritos subjetiva",
+      "Opacidad en la retribución total real",
+      "Control del Tribunal Militar Central sobre el listado de candidatos"
+    ]
+  },
+  "tweeted": false
+}
