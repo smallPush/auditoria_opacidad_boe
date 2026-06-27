@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-13944",
+  "timestamp": "2026-06-27T14:01:03.840Z",
+  "title": "Resolución de 25 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 15/2026, de 9 de junio, de autorización de operaciones de crédito extraordinarias a organismos y entidades integrantes del sector público institucional estatal.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "La derogación parlamentaria de un Real Decreto-ley sobre créditos extraordinarios revela una fractura en la gestión de fondos públicos. El uso de la figura de 'créditos extraordinarios' suele esconder 'Gastos Fantasma' al eludir el debate presupuestario ordinario. Esta resolución es una victoria de la fiscalización, pero el texto es extremadamente opaco al no detallar qué entidades perdieron la financiación ni cuáles eran las cuantías implicadas.",
+    "resumen_ciudadano": "El Congreso ha anulado una ley que permitía al Gobierno repartir fondos extraordinarios a empresas y organismos públicos de forma urgente. Se ha frenado un posible uso discrecional del dinero público, aunque no se explican los motivos técnicos ni el impacto económico real de esta cancelación.",
+    "resumen_tweet": "🛑 ¡Frenazo al gasto opaco! El Congreso deroga el RDL de créditos extraordinarios para entidades públicas. Se detiene el reparto de fondos sin destino claro, pero persiste el silencio sobre las cifras. 🕵️‍♂️💸 #BOE #Opacidad #Transparencia #ControlPúblico",
+    "banderas_red_flags": [
+      "Uso abusivo de la vía de urgencia para créditos",
+      "Falta de desglose de entidades beneficiarias",
+      "Ausencia de memoria económica en la derogación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Oposición parlamentaria",
+        "Mecanismos de control democrático"
+      ],
+      "perdedores": [
+        "Organismos del sector público institucional",
+        "Gobierno central (derrota legislativa)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Parlamentaria",
+    "banderas_rojas": [
+      "Uso abusivo de la vía de urgencia para créditos",
+      "Falta de desglose de entidades beneficiarias",
+      "Ausencia de memoria económica en la derogación"
+    ]
+  },
+  "tweeted": false
+}
