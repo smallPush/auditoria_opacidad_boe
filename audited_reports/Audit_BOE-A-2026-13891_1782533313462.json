@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13891",
+  "timestamp": "2026-06-27T04:08:33.462Z",
+  "title": "Orden INT/644/2026, de 23 de junio, por la que se modifica la Orden INT/372/2018, de 28 de marzo, por la que se crea y se regula el funcionamiento de la Comisión Ministerial de Administración Digital del Ministerio del Interior.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden INT/644/2026 expande significativamente el organigrama de la Comisión Ministerial de Administración Digital (CMAD) del Interior. Bajo un pretexto de 'inclusión' y 'transformación tecnológica', se institucionaliza una estructura hipertrofiada con más de 15 vocalías de alto rango en el Pleno. Aunque el texto alega que no supone un incremento de gastos, el coste de oportunidad y el tiempo de dedicación de subsecretarios y directores generales constituye un gasto indirecto considerable. Existe un riesgo de 'parálisis por análisis' y una dilución de responsabilidades en la toma de decisiones sobre contratos tecnológicos críticos.",
+    "resumen_ciudadano": "El Ministerio del Interior ha modificado su estructura interna para la gestión digital, incluyendo a los jefes de casi todos sus departamentos (Policía, Guardia Civil, Tráfico, Instituciones Penitenciarias, etc.) en un gran comité de control. El objetivo declarado es adaptarse a los cambios tecnológicos, pero en la práctica crea una mesa de decisión muy grande y exclusivamente reservada para la élite administrativa (niveles 29 y 30), lo que podría alejar la toma de decisiones de la realidad técnica y operativa.",
+    "resumen_tweet": "🚨 ¿Más sillas para los de siempre? Interior amplía su Comisión Digital con 15+ altos cargos. Dicen que es 'eficiencia', pero parece burocracia expansiva bajo el velo de la tecnología. 👮‍♂️💻 #BOE #Opacidad #Transparencia #Digitalización",
+    "banderas_red_flags": [
+      "Expansión burocrática injustificada",
+      "Falta de métricas de éxito tecnológico",
+      "Concentración de poder en niveles A1 (29-30)",
+      "Uso de conceptos vagos como 'carácter inclusivo' para ampliar órganos políticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del Ministerio del Interior (mayor presencia institucional)",
+        "Cúpulas de la Policía y Guardia Civil",
+        "Directores Generales con nuevas competencias digitales"
+      ],
+      "perdedores": [
+        "Personal técnico de base (excluido de la toma de decisiones)",
+        "Contribuyentes (por riesgo de ineficiencia administrativa)",
+        "Agilidad en la contratación de servicios digitales"
+      ]
+    },
+    "comunidad_autonoma": "España (Nacional)",
+    "tipologia": "Organización Administrativa / Digitalización",
+    "banderas_rojas": [
+      "Expansión burocrática injustificada",
+      "Falta de métricas de éxito tecnológico",
+      "Concentración de poder en niveles A1 (29-30)",
+      "Uso de conceptos vagos como 'carácter inclusivo' para ampliar órganos políticos"
+    ]
+  },
+  "tweeted": false
+}
