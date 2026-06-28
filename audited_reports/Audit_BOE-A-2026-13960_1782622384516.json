@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-13960",
+  "timestamp": "2026-06-28T04:53:04.516Z",
+  "title": "Resolución de 17 de junio de 2026, de la Universidad de Salamanca, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de funcionarios de carrera en la Universidad de Salamanca. Aunque el proceso cumple con la Ley Orgánica 2/2023 (LOSU), existe una opacidad presupuestaria estructural: el BOE publica el nombramiento pero no el coste salarial anual ni el impacto en el capítulo 1 de gastos del organismo. La firma es por delegación (P.D.), lo que diluye la responsabilidad directa del Rector en el documento público.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a cuatro nuevos Profesores Titulares en las áreas de Lengua Española, Derecho Procesal y Comunicación Audiovisual. Estos profesionales pasan a ser personal funcionario con plaza permanente tras superar el concurso correspondiente.",
+    "resumen_tweet": "🎓 La Univ. de Salamanca consolida 4 plazas de profesorado titular. Estabilidad para los elegidos, pero sin detalle del gasto público que suponen estas plazas vitalicias en el #BOE. ¿Es suficiente esta información? #Transparencia #Universidad 🏛️⚖️",
+    "banderas_red_flags": [
+      "Ausencia de información sobre la cuantía económica de las plazas",
+      "Firma por delegación que oculta la figura del Rector",
+      "Falta de referencia a la puntuación obtenida en el concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Yeray González Plasencia",
+        "Adrià Pardo Llibrer",
+        "Alicia González Monje",
+        "María del Carmen López San Segundo",
+        "Universidad de Salamanca (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente e investigador (PDI) en situación de precariedad",
+        "Candidatos descartados en el proceso de concurso",
+        "Contribuyentes (por falta de desglose de costes salariales en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de información sobre la cuantía económica de las plazas",
+      "Firma por delegación que oculta la figura del Rector",
+      "Falta de referencia a la puntuación obtenida en el concurso"
+    ]
+  },
+  "tweeted": false
+}
