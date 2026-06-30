@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14012",
+  "timestamp": "2026-06-30T04:19:27.834Z",
+  "title": "Acuerdo de 15 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don Alejandro Familiar Martín a la Audiencia Provincial de Segovia.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El acuerdo muestra un movimiento técnico de la judicatura bajo el artículo 355 bis.2 de la LOPJ. Se observa una 'adscripción en diferido', donde un magistrado queda vinculado a una Audiencia (Segovia) supeditado a la reincorporación de un tercero y a la espera de una vacante futura no especificada. Esta práctica, aunque legal, genera una zona gris sobre la gestión de plazas y la dotación presupuestaria inmediata para puestos que dependen de contingencias temporales.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha asignado al magistrado Alejandro Familiar Martín a la Audiencia Provincial de Segovia. Su puesto será efectivo cuando se libere una plaza tras el regreso de otro magistrado (José Miguel García Moreno). Es esencialmente un sistema de reserva de plaza en la cúpula judicial provincial.",
+    "resumen_tweet": "⚖️ ¿Plazas en espera? El CGPJ asigna magistrado a Segovia supeditado a vacantes futuras. Movimientos burocráticos que garantizan puestos pero mantienen la opacidad en la gestión de tiempos judiciales. #BOE #Transparencia #Justicia #Segovia",
+    "banderas_red_flags": [
+      "Adjudicación de vacante futura no definida",
+      "Dependencia de reincorporación de terceros",
+      "Indeterminación de la fecha de efectividad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alejandro Familiar Martín (estabilidad en el escalafón)",
+        "José Miguel García Moreno (recupera su plaza reservada)"
+      ],
+      "perdedores": [
+        "Ciudadanía de Segovia (incertidumbre sobre la composición estable del tribunal)",
+        "Transparencia presupuestaria (gastos de personal en situaciones de adscripción provisional)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Situaciones Personales",
+    "banderas_rojas": [
+      "Adjudicación de vacante futura no definida",
+      "Dependencia de reincorporación de terceros",
+      "Indeterminación de la fecha de efectividad"
+    ]
+  },
+  "tweeted": false
+}
