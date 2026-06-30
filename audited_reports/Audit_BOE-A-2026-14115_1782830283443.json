@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14115",
+  "timestamp": "2026-06-30T14:38:03.443Z",
+  "title": "Orden PJC/654/2026, de 29 de junio, por la que se publica el Acuerdo del Consejo de Ministros de 29 de junio de 2026, por el que se aprueba la segunda prórroga del Mecanismo RED de Flexibilidad y Estabilización del Empleo para el sector de la fabricación de vehículos de motor, activado por el Acuerdo del Consejo de Ministros de 23 de diciembre de 2024, de conformidad con el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Esta segunda prórroga del Mecanismo RED para el sector automotriz revela una dependencia estructural de la industria hacia los subsidios públicos de flexibilidad laboral. Aunque el texto se ampara en la 'recualificación', la falta de una memoria económica que detalle el coste total para la Seguridad Social y el Fondo RED genera opacidad presupuestaria. Se establece una cláusula de no despido por 2 años, pero se permite a las empresas esquivarla mediante 'comunicaciones motivadas' a las Secretarías de Estado, lo que deja la puerta abierta a una discrecionalidad política en la validación de cierres o reajustes industriales futuros.",
+    "resumen_ciudadano": "El Gobierno extiende hasta diciembre de 2026 las ayudas especiales para el sector de fabricación de coches. Las empresas podrán reducir jornadas o suspender contratos con beneficios en la Seguridad Social siempre que presenten planes de formación para sus empleados y se comprometan a no despedir en los siguientes dos años. Solo pueden acceder empresas con pérdidas de empleo previas superiores al 25% o un uso muy elevado de ERTEs entre 2022 y 2025.",
+    "resumen_tweet": "🚗 El Gobierno prorroga el Mecanismo RED para el sector motor hasta final de 2026. Ayudas públicas para evitar despidos inmediatos a cambio de formación y compromiso de empleo 2 años. ¿Protección real o parche ante la crisis industrial? 🧐 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de estimación presupuestaria del coste de las exoneraciones",
+      "Mecanismo de validación de planes de formación centralizado y potencialmente lento",
+      "Posibilidad de eludir el compromiso de empleo mediante comunicación motivada previa",
+      "Criterios de acceso vinculados a datos de afiliación de años anteriores (2022-2024)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales del automóvil",
+        "Empresas de la cadena de suministro con CNAE específico",
+        "Sindicatos mayoritarios (paz social garantizada temporalmente)"
+      ],
+      "perdedores": [
+        "Erario público (vía exoneraciones de cuotas)",
+        "Autónomos y PYMES de otros sectores sin acceso a mecanismos RED",
+        "Trabajadores de empresas auxiliares no incluidas en los anexos de la cadena de valor"
+      ]
+    },
+    "comunidad_autonoma": "Todo el Estado",
+    "tipologia": "Laboral / Industrial",
+    "banderas_rojas": [
+      "Ausencia de estimación presupuestaria del coste de las exoneraciones",
+      "Mecanismo de validación de planes de formación centralizado y potencialmente lento",
+      "Posibilidad de eludir el compromiso de empleo mediante comunicación motivada previa",
+      "Criterios de acceso vinculados a datos de afiliación de años anteriores (2022-2024)"
+    ]
+  },
+  "tweeted": false
+}
