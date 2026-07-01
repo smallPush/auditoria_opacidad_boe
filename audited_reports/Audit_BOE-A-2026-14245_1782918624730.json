@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14245",
+  "timestamp": "2026-07-01T15:10:24.730Z",
+  "title": "Resolución de 24 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de mayo de 2026, en el Instituto de las Mujeres, O.A.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se formaliza una adjudicación mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite el nombramiento discrecional ('a dedo') de funcionarios en puestos estratégicos o de confianza. En este caso, se premia a un auxiliar (C2) con un ascenso del nivel 14 al 17 para asistir directamente a la Dirección General del Instituto de las Mujeres. Aunque el procedimiento cumple la ley, perpetúa la cultura de la 'red de confianza' frente a la concurrencia competitiva por méritos objetivos, ocultando bajo un lenguaje administrativo estándar la falta de transparencia en la elección del candidato.",
+    "resumen_ciudadano": "El Ministerio de Igualdad ha nombrado discretamente a un nuevo secretario para la Directora del Instituto de las Mujeres. El puesto ha sido asignado por 'libre designación', lo que significa que no ha habido un concurso de méritos abierto donde gane el mejor puntuado, sino una elección directa del cargo superior. El beneficiado sube de nivel administrativo (de 14 a 17) dentro de la misma institución.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo 'dedazo' legal en el @InstMujeres. Adjudicada por Libre Designación la Secretaría de la Dirección General. Un ascenso de nivel 14 a 17 sin concurso público de méritos. ¿Confianza o meritocracia? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (adjudicación discrecional)",
+      "Ascenso jerárquico vinculado a cercanía con altos cargos",
+      "Falta de desglose de méritos específicos en el texto público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sergio Amaya Diaz (ascenso de nivel 14 a 17)",
+        "Directora General del Instituto de las Mujeres (asegura personal de su elección directa)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos sin acceso a puestos de confianza",
+        "Ciudadanía (opacidad en la gestión de recursos humanos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (adjudicación discrecional)",
+      "Ascenso jerárquico vinculado a cercanía con altos cargos",
+      "Falta de desglose de méritos específicos en el texto público"
+    ]
+  },
+  "tweeted": false
+}
