@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14233",
+  "timestamp": "2026-07-01T14:38:12.235Z",
+  "title": "Resolución de 25 de junio de 2026, de la Dirección General de Política Energética y Minas, por la que se publica la tarifa de último recurso de gas natural.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución presenta una estructura de precios que, bajo la apariencia de protección social (Tarifa de Último Recurso), oculta una complejidad matemática que impide la auditoría ciudadana directa. Se detecta una 'Bandera Roja' significativa en el artículo Primero: se aplica un canon de almacenamiento de 0 € para los excedentes de 20 días, lo que supone una subvención encubierta a la industria gasista bajo el pretexto de la crisis en Oriente Medio. Además, la inclusión de las Empresas de Servicios Energéticos (ESEs) como beneficiarias de la TUR abre la puerta a que intermediarios privados capturen márgenes de beneficio destinados originalmente al ahorro del consumidor final.",
+    "resumen_ciudadano": "El Gobierno actualiza los precios del gas para hogares y comunidades de vecinos a partir de julio de 2026. Aunque se mantiene la tarifa regulada, el cálculo del coste de la materia prima sigue siendo una 'caja negra' financiera. Se perdona el pago de ciertos cánones de almacenamiento a las empresas del sector, y se permite que empresas privadas de servicios energéticos operen con tarifas que deberían ser de protección social.",
+    "resumen_tweet": "📉 El #BOE actualiza los precios del gas (TUR). Se detecta opacidad en el cálculo de la materia prima y un 'regalo' fiscal: canon 0€ al almacenamiento para las gasistas. ¿Protección o beneficio corporativo? 🧐 #Opacidad #Transparencia #Gas #Energía",
+    "banderas_red_flags": [
+      "Fórmula de materia prima (Cn) indescifrable para el ciudadano común",
+      "Exención del canon de almacenamiento (artículo 8.1 del RD-ley 7/2026)",
+      "Intermediación de ESEs en tarifas de último recurso",
+      "Diferencia regresiva en términos variables: el gran consumidor paga menos por kWh que el pequeño hogar"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de Servicios Energéticos (ESEs)",
+        "Grandes distribuidoras de gas",
+        "Consumidores industriales de gran escala (TUR.11)"
+      ],
+      "perdedores": [
+        "Pequeños consumidores (TUR.1) con el precio por kWh más alto",
+        "Hogares vulnerables que no comprenden la indexación de precios",
+        "Transparencia pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Energética / Tarifas",
+    "banderas_rojas": [
+      "Fórmula de materia prima (Cn) indescifrable para el ciudadano común",
+      "Exención del canon de almacenamiento (artículo 8.1 del RD-ley 7/2026)",
+      "Intermediación de ESEs en tarifas de último recurso",
+      "Diferencia regresiva en términos variables: el gran consumidor paga menos por kWh que el pequeño hogar"
+    ]
+  },
+  "tweeted": false
+}
