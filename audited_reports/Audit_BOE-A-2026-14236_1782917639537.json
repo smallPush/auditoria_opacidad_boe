@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14236",
+  "timestamp": "2026-07-01T14:53:59.537Z",
+  "title": "Acuerdo de 18 de junio de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Jueza y Juez sustituta/o en el ámbito del Tribunal Superior de Justicia de Canarias para el año judicial 2025/2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento presenta un nombramiento discrecional técnico bajo la apariencia de normalidad administrativa. La principal 'opacidad' radica en la falta de desglose presupuestario asociado a la remuneración de estos jueces sustitutos y la ausencia de criterios de selección de méritos en el extracto. Se observa una carga geográfica desmedida para solo dos personas, abarcando casi la totalidad de los partidos judiciales de Canarias, lo que sugiere un sistema de 'parcheo' estructural más que una planificación de plantilla estable.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a Victoria Anabella Bachi Di Rienzo y a Miguel Sánchez López como jueces sustitutos para el año 2025/2026 en Canarias. Estos jueces deberán cubrir vacantes o ausencias en una lista extensísima de municipios en ambas provincias canarias, evidenciando la dependencia de la justicia de personal interino para funcionar.",
+    "resumen_tweet": "⚖️ El CGPJ nombra solo 2 jueces sustitutos para cubrir decenas de juzgados en Canarias. Mucha carga territorial y poca transparencia en el coste real de este 'parcheo' judicial. 📉 ¿Justicia de calidad o interinidad crónica? #BOE #Opacidad #Canarias",
+    "banderas_red_flags": [
+      "Ausencia de dotación económica específica en el anuncio",
+      "Ambigüedad en los criterios de prelación para el nombramiento",
+      "Carga de trabajo geográfica potencialmente inasumible (multitud de sedes)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración de Justicia (por cubrir huecos con personal interino más flexible)",
+        "Candidatos seleccionados (acceso a la carrera judicial interina)"
+      ],
+      "perdedores": [
+        "Ciudadanía canaria (justicia marcada por la provisionalidad)",
+        "Carrera judicial (falta de creación de plazas fijas y estables)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Situaciones",
+    "banderas_rojas": [
+      "Ausencia de dotación económica específica en el anuncio",
+      "Ambigüedad en los criterios de prelación para el nombramiento",
+      "Carga de trabajo geográfica potencialmente inasumible (multitud de sedes)"
+    ]
+  },
+  "tweeted": false
+}
