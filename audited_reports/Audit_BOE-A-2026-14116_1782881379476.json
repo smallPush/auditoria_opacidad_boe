@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14116",
+  "timestamp": "2026-07-01T04:49:39.476Z",
+  "title": "Resolución de 23 de junio de 2026, conjunta de las Presidencias del Congreso de los Diputados y del Senado, por la que se nombra personal funcionario del Cuerpo de Asesores Facultativos de las Cortes Generales, especialidad en Informática.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El nombramiento de personal funcionario para el Cuerpo de Asesores Facultativos de las Cortes Generales muestra una brecha de género absoluta (100% hombres), lo que contradice las políticas de igualdad transversal promovidas por el Estado. El proceso se ha dilatado más de 15 meses desde la convocatoria (marzo 2025) hasta el nombramiento (junio 2026), un síntoma de ineficiencia administrativa en la incorporación de talento tecnológico clave para la digitalización del legislativo. No se especifica la cuantía salarial ni el impacto presupuestario plurianual que estos puestos suponen para el erario público.",
+    "resumen_ciudadano": "Se oficializa la entrada de dos nuevos asesores informáticos de alto nivel en las Cortes Generales (Congreso y Senado). Estos puestos representan una élite técnica dentro de la administración pública central.",
+    "resumen_tweet": "🚨 Nueva resolución del #BOE: Congreso y Senado nombran asesores informáticos de élite. Resultado: 2 hombres, 0 mujeres. 📉 ¿Dónde queda la paridad en la alta función pública? Transparencia limitada sobre el coste salarial. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia total de paridad de género en la especialidad técnica",
+      "Dilatación excesiva del proceso selectivo (más de un año)",
+      "Falta de transparencia en el impacto económico de las plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Bachiller Soler",
+        "David González Márquez",
+        "Cuerpo de Asesores Facultativos de las Cortes Generales"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (representación nula en esta resolución)",
+        "Contribuyentes (opacidad sobre el coste salarial directo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia total de paridad de género en la especialidad técnica",
+      "Dilatación excesiva del proceso selectivo (más de un año)",
+      "Falta de transparencia en el impacto económico de las plazas"
+    ]
+  },
+  "tweeted": false
+}
