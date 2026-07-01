@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14112",
+  "timestamp": "2026-07-01T04:00:24.176Z",
+  "title": "Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto-ley 18/2026 utiliza una narrativa de emergencia bélica para consolidar un gasto masivo de 5.000 millones de euros mediante la técnica de 'decreto-ley', eludiendo el debate parlamentario ordinario para medidas que califica de 'estructurales'. Se observa una contradicción ideológica: se subvencionan masivamente los hidrocarburos (energía fósil) bajo el pretexto de una 'transición ecológica' futura. La opacidad reside en la falta de desglose de los beneficiarios reales de las ayudas directas, que suelen favorecer a grandes operadores logísticos y energéticos más que al consumidor final vulnerable.",
+    "resumen_ciudadano": "El Gobierno responde a la crisis en Oriente Medio inyectando 5.000 millones de euros en ayudas y rebajas fiscales. Aunque se presenta como un alivio para las familias, el grueso de los fondos se destina a sectores industriales específicos (transporte, pesca, agricultura) y a compensar a las eléctricas por descuentos que el Estado deja de percibir. Es un parche financiero que no soluciona la dependencia energética y utiliza dinero público para estabilizar precios de mercado sin auditoría pública clara.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El RDL 18/2026 moviliza 5.000M€ por la crisis en Oriente Medio. Mucho subsidio a hidrocarburos y poca claridad en el destino del dinero. ¿Ayuda real o parche para las energéticas? 🧐💸 #Opacidad #Transparencia #GastoFantasma",
+    "banderas_red_flags": [
+      "Uso del RDL para medidas de carácter estructural y de largo plazo",
+      "Falta de desglose pormenorizado de la partida de 5.000 millones de euros",
+      "Incongruencia entre subvenciones al combustible y metas de descarbonización",
+      "Mecanismos de supervisión de la CNMC mencionados pero no detallados en su ejecución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas distribuidoras de carburantes",
+        "Sector logístico y de grandes transportes",
+        "Lobbies energéticos con proyectos de almacenamiento"
+      ],
+      "perdedores": [
+        "Clases medias excluidas de los bonos sociales",
+        "Sostenibilidad de las cuentas públicas a largo plazo",
+        "Pequeños consumidores sin capacidad de inversión en renovables"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de Respuesta a Crisis Geopolítica",
+    "banderas_rojas": [
+      "Uso del RDL para medidas de carácter estructural y de largo plazo",
+      "Falta de desglose pormenorizado de la partida de 5.000 millones de euros",
+      "Incongruencia entre subvenciones al combustible y metas de descarbonización",
+      "Mecanismos de supervisión de la CNMC mencionados pero no detallados en su ejecución"
+    ]
+  },
+  "tweeted": false
+}
