@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14241",
+  "timestamp": "2026-07-02T04:16:15.097Z",
+  "title": "Resolución de 25 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución formaliza el nombramiento de dos altos cargos (Nivel 30) mediante el sistema de 'libre designación', un mecanismo legal pero altamente discrecional que elude el concurso de méritos tradicional. Se observa una endogamia administrativa, ya que ambas adjudicatarias pertenecen al Cuerpo Superior de Administradores Civiles del Estado y ya ocupaban puestos de máximo nivel en el mismo ministerio. Este movimiento refuerza la estructura de élite dentro de la administración pública sin aportar justificación alguna sobre la idoneidad técnica o los méritos específicos frente a otros posibles candidatos.",
+    "resumen_ciudadano": "El Gobierno ha adjudicado 'a dedo' dos de los puestos mejor pagados de la administración (Nivel 30) en el Ministerio de Política Territorial. Aunque es legal, el proceso no permite saber por qué estas personas son mejores que otras, limitándose a confirmar el ascenso o permanencia de la élite funcionarial (Grupo A1) en los puestos de mando.",
+    "resumen_tweet": "🚨 ¡Más nombramientos 'a dedo' en el #BOE! El Ministerio de Política Territorial asigna dos puestos de Nivel 30 (máximo rango) por libre designación. La élite del Grupo A1 se reparte el poder sin concurso público de méritos. 🏛️📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecional)",
+      "Máximo nivel retributivo (Nivel 30)",
+      "Adjudicación interna (procedencia del mismo ministerio)",
+      "Ausencia de baremación de méritos pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alba Velázquez Poza",
+        "Julia Federica Giráldez Velasco",
+        "Cuerpo Superior de Administradores Civiles del Estado (élite funcionarial)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin red de contactos",
+        "Principio de mérito y capacidad",
+        "Ciudadanía (por falta de transparencia en la elección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecional)",
+      "Máximo nivel retributivo (Nivel 30)",
+      "Adjudicación interna (procedencia del mismo ministerio)",
+      "Ausencia de baremación de méritos pública"
+    ]
+  },
+  "tweeted": false
+}
