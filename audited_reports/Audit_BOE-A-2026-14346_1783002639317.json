@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14346",
+  "timestamp": "2026-07-02T14:30:39.317Z",
+  "title": "Resolución de 22 de junio de 2026, de la Universidad de Zaragoza, por la que se nombran Catedráticos y Catedráticas de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de la carrera docente en la Universidad de Zaragoza. El análisis revela un avance significativo en la rotura del techo de cristal, con un 66% de nombramientos femeninos (4 de 6). Sin embargo, bajo la apariencia de normalidad técnica, el documento oculta el impacto económico a largo plazo de estos cargos vitalicios para las arcas públicas de la Comunidad Autónoma de Aragón, omitiendo las cuantías salariales y los complementos específicos asociados.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha formalizado el nombramiento de seis nuevos catedráticos y catedráticas en diversas facultades (Filología, Marketing, Contabilidad, Psicología, Ingeniería y Derecho). Este trámite es el paso final para que estos docentes obtengan plaza fija y máxima categoría académica tras superar los procesos de acreditación estatal.",
+    "resumen_tweet": "🎓 Paridad en la cumbre académica: La Universidad de Zaragoza nombra 6 nuevos catedráticos, con mayoría femenina (66%). Un avance en igualdad, aunque sin transparencia sobre el coste total de estas plazas vitalicias. 🏛️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad sobre el coste salarial total de la resolución",
+      "Ausencia de desglose del impacto presupuestario plurianual",
+      "Remisión a estatutos universitarios que pueden favorecer la endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (estabilidad laboral y prestigio)",
+        "Universidad de Zaragoza (consolidación de cuadros directivos)",
+        "Género femenino (superioridad en este lote de nombramientos)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (adjuntos y asociados con menor presupuesto)",
+        "Contribuyentes (compromiso de gasto público indefinido sin auditoría de rendimiento)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad sobre el coste salarial total de la resolución",
+      "Ausencia de desglose del impacto presupuestario plurianual",
+      "Remisión a estatutos universitarios que pueden favorecer la endogamia académica"
+    ]
+  },
+  "tweeted": false
+}
