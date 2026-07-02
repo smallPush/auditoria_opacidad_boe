@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14329",
+  "timestamp": "2026-07-02T14:02:49.192Z",
+  "title": "Ley Orgánica 2/2026, de 30 de junio, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para adaptarla a la reforma del apartado 3 del artículo 69 de la Constitución.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La ley es una adaptacion tecnica de caracter obligatorio tras la reforma del articulo 69.3 de la Constitucion. Aunque se viste de proximidad democratica y reconocimiento de la singularidad insular, el trasfondo real es la creacion de un nuevo puesto de representacion politica permanente. No se adjunta memoria economica sobre el coste de mantenimiento del nuevo escaño, asesores y dietas asociados en el Senado. Es una expansion del aparato institucional bajo el paraguas de la autonomia administrativa.",
+    "resumen_ciudadano": "A partir de ahora, Ibiza y Formentera dejan de compartir un unico senador para tener uno cada una. Esta medida otorga mas peso politico a Formentera en Madrid, pero implica un aumento en el numero de cargos electos y en el gasto publico derivado de la Cámara Alta.",
+    "resumen_tweet": "🗳️ El #BOE anuncia: Ibiza y Formentera se separan electoralmente. Formentera gana un senador propio. Mas representacion territorial, pero tambien mas gasto politico estructural a costa del contribuyente. 🏛️💸 #Transparencia #Opacidad #ReformaElectoral",
+    "banderas_red_flags": [
+      "Aumento silencioso del gasto publico institucional",
+      "Ausencia de desglose presupuestario por nuevo escaño",
+      "Inercia de expansion de la camara territorial sin evaluacion de eficiencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Clase politica de Formentera",
+        "Partidos insularistas",
+        "Estructura administrativa del Senado"
+      ],
+      "perdedores": [
+        "Contribuyentes",
+        "Defensores de la reduccion de camaras legislativas"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Reforma Ley Electoral (LOREG)",
+    "banderas_rojas": [
+      "Aumento silencioso del gasto publico institucional",
+      "Ausencia de desglose presupuestario por nuevo escaño",
+      "Inercia de expansion de la camara territorial sin evaluacion de eficiencia"
+    ]
+  },
+  "tweeted": false
+}
