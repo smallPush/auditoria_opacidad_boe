@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14429",
+  "timestamp": "2026-07-03T14:28:20.877Z",
+  "title": "Enmiendas al Acuerdo internacional administrativo entre el Ministerio de Ciencia, Innovación y Universidades y el Instituto Universitario Europeo, relativo a la financiación de ayudas para investigadores que participen en el programa de doctorado de dicha institución, hecho en Madrid y Florencia el 1 de diciembre de 2025, hechas en Madrid y Florencia el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La enmienda se centra en blindar la continuidad del flujo financiero hacia el Instituto Universitario Europeo (IUE) mediante una cláusula de prórroga tácita anual tras los primeros 5 años. Se detecta una opacidad procedimental al no incluir las cuantías económicas en este texto, remitiendo al acuerdo original de 2025. La delegación de resolución de conflictos a un arbitraje privado, en lugar de jurisdicciones públicas ordinarias, sugiere un régimen de excepción para esta institución de élite.",
+    "resumen_ciudadano": "El Gobierno ha modificado el contrato con el Instituto Universitario Europeo en Florencia para que las becas de doctorado se renueven automáticamente cada año si nadie dice lo contrario. Además, han acordado que cualquier pelea legal se solucione mediante árbitros privados en lugar de jueces normales, lo que suele ser más caro y menos público.",
+    "resumen_tweet": "🚨 ¿Dinero en modo automático? El Gobierno blinda la financiación al Instituto Universitario Europeo con prórrogas tácitas: dinero público para élites académicas sin pasar por revisión anual. 💸🎓 #BOE #Opacidad #Transparencia #Ciencia",
+    "banderas_red_flags": [
+      "Prórroga tácita automática (cláusula 7)",
+      "Ausencia de desglose presupuestario en la enmienda",
+      "Sometimiento a arbitraje privado para resolución de conflictos",
+      "Falta de indicadores de retorno social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Investigadores de élite en Florencia",
+        "Instituto Universitario Europeo (IUE)",
+        "Altos cargos ministeriales (gestión simplificada)"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de control sobre el gasto futuro)",
+        "Investigadores nacionales con menos recursos",
+        "Transparencia democrática"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Prórroga tácita automática (cláusula 7)",
+      "Ausencia de desglose presupuestario en la enmienda",
+      "Sometimiento a arbitraje privado para resolución de conflictos",
+      "Falta de indicadores de retorno social"
+    ]
+  },
+  "tweeted": false
+}
