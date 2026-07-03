@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14442",
+  "timestamp": "2026-07-03T14:31:29.717Z",
+  "title": "Resolución de 24 de junio de 2026, de la Universidad de Sevilla, por la que se nombra Profesora Titular de Universidad a doña Jara González Silva.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para el nombramiento de una Profesora Titular tras un concurso de acceso. Aunque el proceso es publico y reglado por la LOSU (Ley 2/2023), el texto presenta una opacidad burocratica tipica en la explicacion de los recursos administrativos y codigos SIA, lo que aleja la comprension del ciudadano medio sobre como se gestionan estas plazas publicas. No se detallan los costes salariales asociados ni la partida presupuestaria especifica que soportara este gasto estructural de por vida.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a Jara Gonzalez Silva como Profesora Titular en el area de Educacion Fisica y Deportiva. Este es un puesto de funcionaria de carrera obtenido tras superar un proceso selectivo.",
+    "resumen_tweet": "🏛️ Nueva plaza fija en la Universidad de Sevilla: Jara Gonzalez Silva es nombrada Profesora Titular de Educacion Fisica. Un proceso estandar que consolida gasto publico estructural a largo plazo. #BOE #Transparencia #Universidad #Sevilla",
+    "banderas_red_flags": [
+      "Complejidad excesiva en la explicacion de recursos administrativos",
+      "Falta de informacion sobre el coste economico del puesto",
+      "Uso de codigos tecnicos (SIA 2982467) poco intuitivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jara Gonzalez Silva (estabilidad laboral definitiva)",
+        "Universidad de Sevilla (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados en el concurso",
+        "Contribuyentes (asuncion de gasto publico estructural sin desglose de coste en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Complejidad excesiva en la explicacion de recursos administrativos",
+      "Falta de informacion sobre el coste economico del puesto",
+      "Uso de codigos tecnicos (SIA 2982467) poco intuitivos"
+    ]
+  },
+  "tweeted": false
+}
