@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14445",
+  "timestamp": "2026-07-03T14:33:43.353Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de Barcelona, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario docente en régimen de plazas vinculadas entre la Universidad de Barcelona y el Hospital Clínico. Aunque el proceso cumple con la normativa (LOSU), existe una opacidad intrínseca en la terminología de 'retribuciones según disposiciones vigentes', lo que impide al ciudadano conocer el coste real directo de estas tres plazas de élite médica en el presupuesto público. Además, el sistema de plazas vinculadas suele favorecer estructuras internas de promoción que dificultan el acceso de talento externo no vinculado previamente al hospital de referencia.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado oficialmente a tres nuevos Profesores Titulares de Universidad en las áreas de Oftalmología, Medicina y Cirugía. Estos profesionales trabajarán tanto en la universidad como en el Hospital Clínico de Barcelona, consolidando su plaza como funcionarios de carrera tras superar el concurso convocado en 2025.",
+    "resumen_tweet": "🩺 Nuevos profesores titulares en la @UB_elmeu y el Hospital Clínic. Detrás de estos nombramientos se esconde la opacidad salarial clásica del #BOE: 'según disposiciones vigentes'. ¿Sabemos cuánto cuestan realmente estas plazas? 🎓🏛️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario individualizado",
+      "Endogamia potencial en plazas vinculadas a instituciones sanitarias específicas",
+      "Uso de fórmulas genéricas para la retribución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los tres candidatos nombrados (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Barcelona",
+        "Hospital Clínico de Barcelona"
+      ],
+      "perdedores": [
+        "Personal investigador precario",
+        "Candidatos externos sin vinculación previa con el centro hospitalario",
+        "Transparencia pública sobre el gasto en sueldos de altos cargos docentes"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Funcionarios",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario individualizado",
+      "Endogamia potencial en plazas vinculadas a instituciones sanitarias específicas",
+      "Uso de fórmulas genéricas para la retribución"
+    ]
+  },
+  "tweeted": false
+}
