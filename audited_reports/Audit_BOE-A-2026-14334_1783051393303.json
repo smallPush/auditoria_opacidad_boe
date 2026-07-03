@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14334",
+  "timestamp": "2026-07-03T04:03:13.303Z",
+  "title": "Resolución de 22 de junio de 2026, de la Dirección General de Producciones y Mercados Agrarios, por la que se modifica la de 27 de septiembre de 2022, por la que se establecen los criterios técnicos para la consideración de operador pertinente y los medios electrónicos para el cumplimiento de la obligación de comunicación de existencias de cereales, semillas oleaginosas y arroz establecida en el Reglamento de ejecución (UE) 2022/791 de la Comisión de 19 de mayo de 2022, por el que se modifica el Reglamento de ejecución (UE) 2017/1185, y en la disposición adicional tercera del Real Decreto 861/2018, de 13 de julio, por el que se establece la normativa básica en materia de declaraciones obligatorias de los sectores del aceite de oliva y las aceitunas de mesa y por el que se modifica el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se presenta como una mera adecuación técnica a la normativa europea (Reglamento UE 2024/2391), pero esconde un incremento en la presión de control sobre el stock de materias primas. Aunque se justifica por la 'seguridad alimentaria', la modificación de fechas (especialmente el retraso a septiembre) busca capturar datos en el momento de máxima acumulación de poder de mercado de los grandes operadores. No se detallan los costes de mantenimiento del sistema SIEGA, que opera como una infraestructura de vigilancia administrativa constante sobre el sector primario.",
+    "resumen_ciudadano": "El Gobierno cambia las fechas en las que las empresas agrícolas deben informar sobre cuántas semillas de cereales y arroz tienen almacenadas. El objetivo es que el Estado sepa exactamente cuánta reserva de alimento hay antes de que empiece la siembra, ajustándose a las normas de la Unión Europea.",
+    "resumen_tweet": "🚜 El Gobierno ajusta el calendario de control de reservas de semillas para el sector agrícola. Más burocracia digital para saber cuánto cereal hay antes de sembrar. 🌾📊 ¿Seguridad alimentaria o vigilancia de mercado? #BOE #Opacidad #Agricultura",
+    "banderas_red_flags": [
+      "Uso de términos técnicos vagos como 'operador pertinente'",
+      "Aumento de la carga administrativa mediante declaraciones electrónicas obligatorias",
+      "Dependencia absoluta de directrices de la Comisión Europea sin debate nacional previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas agroindustriales (con capacidad tecnológica para reportar datos)",
+        "Ministerio de Agricultura (mayor control sobre el inventario nacional)"
+      ],
+      "perdedores": [
+        "Pequeños productores de semillas (más plazos y burocracia digital)",
+        "Consumidor final (la transparencia de stock no siempre se traduce en menores precios)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulatoria/Administrativa",
+    "banderas_rojas": [
+      "Uso de términos técnicos vagos como 'operador pertinente'",
+      "Aumento de la carga administrativa mediante declaraciones electrónicas obligatorias",
+      "Dependencia absoluta de directrices de la Comisión Europea sin debate nacional previo"
+    ]
+  },
+  "tweeted": false
+}
