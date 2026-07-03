@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-14338",
+  "timestamp": "2026-07-03T04:04:55.982Z",
+  "title": "Resolución de 24 de junio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion emplea el sistema de 'libre designacion', un eufemismo legal para la seleccion discrecional o 'a dedo'. Aunque amparado por la Ley 30/1984, este metodo elude el concurso publico de meritos, permitiendo al Ministerio colocar a personal en puestos estrategicos en el extranjero (Suiza, Peru, Kazajistan) sin una motivacion tecnica publica que justifique por que estos candidatos son mejores que otros. Se observa una rotacion interna entre puestos de elite (Doha a Berna, San Petersburgo a Lima), lo que sugiere una endogamia administrativa donde los mismos funcionarios rotan por plazas de alta remuneracion por complementos de destino y residencia.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha asignado tres puestos de trabajo en embajadas y consulados extranjeros mediante el sistema de libre designacion. Este sistema permite a los superiores elegir directamente a quien deseen para el cargo. Los elegidos ocuparan puestos de vicecanciller, jefatura de visados y secretaria en Berna, Lima y Astana, manteniendo la opacidad sobre los criterios de seleccion mas alla de la confianza politica o personal.",
+    "resumen_tweet": "🚨 ¡Mas dedazos en el servicio exterior! El @MAECgob asigna puestos en Suiza, Peru y Kazajistan mediante 'libre designacion'. Un sistema opaco que esquiva el concurso de meritos. ¿Transparencia? No en el BOE de hoy. 🇪🇸✈️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designacion (discrecionalidad)",
+      "Falta de motivacion tecnica en la eleccion",
+      "Resolucion parcial de convocatoria",
+      "Rotacion interna entre plazas de alta compensacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Federica M. Perezagua Lorfèvre (nueva plaza en Suiza)",
+        "Antonio Rodriguez Tristante (nueva plaza en Peru)",
+        "Inmaculada Soria Herrera (nueva plaza en Kazajistan)",
+        "Ministerio de Asuntos Exteriores (mantiene control discrecional sobre el personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vinculos de confianza con la cupula",
+        "Meritocracia administrativa",
+        "Ciudadania (que desconoce los criterios de idoneidad para estos cargos publicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de libre designacion (discrecionalidad)",
+      "Falta de motivacion tecnica en la eleccion",
+      "Resolucion parcial de convocatoria",
+      "Rotacion interna entre plazas de alta compensacion"
+    ]
+  },
+  "tweeted": false
+}
