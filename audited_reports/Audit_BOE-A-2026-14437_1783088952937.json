@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-14437",
+  "timestamp": "2026-07-03T14:29:12.937Z",
+  "title": "Resolución de 22 de junio de 2026, de la Universidad de Alcalá, por la que se nombra Profesor Titular de Universidad a don José Nicolás Gutiérrez Pérez.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento cumple la legalidad formal bajo la Ley Orgánica 2/2023 (LOSU), pero presenta una anomalía estructural significativa: la plaza de la especialidad 'Expresión Gráfica Arquitectónica' ha sido adscrita al 'Departamento de Enfermería y Fisioterapia'. Esta disonancia funcional entre el área de conocimiento y el departamento de destino sugiere una gestión de recursos humanos atomizada o la ausencia de un departamento afín, lo que podría comprometer la calidad de la investigación especializada.",
+    "resumen_ciudadano": "Nombramiento de un Profesor Titular en la Universidad de Alcalá. Aunque el proceso administrativo es estándar, resulta llamativo que un experto en dibujo arquitectónico sea asignado permanentemente al departamento de Enfermería y Fisioterapia.",
+    "resumen_tweet": "🧐 ¿Qué hace un experto en Dibujo Arquitectónico en el Depto. de Enfermería? El #BOE publica un nombramiento en la Univ. de Alcalá con una adscripción departamental incoherente. ¿Gestión eficiente o caos administrativo? #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Adscripción departamental incongruente",
+      "Posible fragmentación burocrática del profesorado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Nicolás Gutiérrez Pérez (obtención de plaza fija)",
+        "Universidad de Alcalá (cobertura de vacante)"
+      ],
+      "perdedores": [
+        "Coherencia académica del departamento",
+        "Estudiantes de enfermería (reciben personal no especializado en su salud)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos / Universidad",
+    "banderas_rojas": [
+      "Adscripción departamental incongruente",
+      "Posible fragmentación burocrática del profesorado"
+    ]
+  },
+  "tweeted": false
+}
