@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14501",
+  "timestamp": "2026-07-04T13:51:58.111Z",
+  "title": "Orden TED/672/2026, de 2 de julio, por la que se regula el procedimiento de asignación del régimen retributivo específico en las convocatorias para instalaciones de cogeneración de alta eficiencia convocadas al amparo del Real Decreto 530/2026, de 24 de junio, por el que se establece el marco de las convocatorias para el otorgamiento del régimen retributivo específico a instalaciones de cogeneración, y se aprueban sus parámetros retributivos.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden TED/672/2026 establece un complejo sistema de subastas para asignar 1.200 MW en ayudas a la cogeneración. Bajo una retórica de eficiencia energética y transición ecológica (PNIEC), se perpetúan subsidios al gas natural (subgrupo a.1.1) con la promesa técnica de una futura mezcla de solo un 10% de hidrógeno renovable. El texto garantiza una 'rentabilidad razonable' del 7,09%, blindando el beneficio privado frente a la volatilidad del mercado. Existe un riesgo de opacidad en el cumplimiento de los requisitos de 'empresas en crisis' y 'criterios de sostenibilidad', ya que la administración delega la vigilancia en meras 'declaraciones responsables' de los propios interesados, lo que debilita el control público efectivo.",
+    "resumen_ciudadano": "El Gobierno lanza nuevas ayudas económicas para plantas industriales que producen electricidad y calor (cogeneración). Se repartirán 1.200 MW de potencia. Aunque se incluye biomasa, las plantas de gas natural siguen siendo protagonistas si prometen ser eficientes. Las empresas adjudicatarias tienen asegurado un beneficio del 7,09% durante años. Para recibir el dinero, las empresas solo deben presentar una declaración jurada diciendo que cumplen las normas, lo que reduce la vigilancia estatal previa.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Se reparten 1.200 MW en ayudas a la cogeneración. Se garantiza un 7,09% de beneficio a empresas, ¡incluso de gas natural! 📉 La transparencia peligra al confiar en 'declaraciones responsables'. ¿Quién paga? Tú. 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso extensivo de 'declaraciones responsables' para validar criterios de exclusión de ayudas",
+      "Prórroga automática de la rentabilidad del 7,09% sin nueva revisión técnica para el periodo 2026-2031",
+      "Subsidio encubierto a combustibles fósiles (gas) bajo la etiqueta de 'alta eficiencia'",
+      "Complejidad técnica extrema en el cálculo de parámetros retributivos que dificulta la fiscalización ciudadana"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes grupos industriales con capacidad de inversión en cogeneración",
+        "Empresas del sector del gas natural",
+        "Fondos de inversión atraídos por el 7,09% de rentabilidad garantizada"
+      ],
+      "perdedores": [
+        "Consumidores eléctricos domésticos (quienes financian el régimen retributivo específico a través de cargos en la factura)",
+        "Pequeñas instalaciones de renovables sin capacidad para entrar en subastas de gran escala",
+        "Objetivos de descarbonización total (al permitirse el gas hasta 2045)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación del Sector Eléctrico y Régimen Retributivo",
+    "banderas_rojas": [
+      "Uso extensivo de 'declaraciones responsables' para validar criterios de exclusión de ayudas",
+      "Prórroga automática de la rentabilidad del 7,09% sin nueva revisión técnica para el periodo 2026-2031",
+      "Subsidio encubierto a combustibles fósiles (gas) bajo la etiqueta de 'alta eficiencia'",
+      "Complejidad técnica extrema en el cálculo de parámetros retributivos que dificulta la fiscalización ciudadana"
+    ]
+  },
+  "tweeted": false
+}
