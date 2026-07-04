@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14499",
+  "timestamp": "2026-07-04T13:27:42.700Z",
+  "title": "Corrección de errores de la Orden HAC/623/2026, de 12 de junio, por la que se modifican la Orden EHA/3316/2010, de 17 de diciembre, por la que se aprueban los modelos de autoliquidación 210, 211 y 213 del Impuesto sobre la Renta de No Residentes, que deben utilizarse para declarar las rentas obtenidas sin mediación de establecimiento permanente, la retención practicada en la adquisición de bienes inmuebles a no residentes sin establecimiento permanente y el gravamen especial sobre bienes inmuebles de entidades no residentes, y se establecen las condiciones generales y el procedimiento para su presentación y otras normas referentes a la tributación de no residentes; la Orden EHA/3290/2008, de 6 de noviembre, por la que se aprueban el modelo 216 «Impuesto sobre la Renta de No Residentes. Rentas obtenidas sin mediación de establecimiento permanente. Retenciones e ingresos a cuenta. Declaración-documento de ingreso» y el modelo 296 «Impuesto sobre la Renta de No Residentes. No residentes sin establecimiento permanente. Declaración anual de retenciones e ingresos a cuenta»; y la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas cuya gestión tiene atribuida la Agencia Estatal de Administración Tributaria.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este documento es una corrección de errores técnica sobre modelos tributarios para no residentes. Aunque parece un ajuste menor, la modificación de la posición de un campo en un registro digital (del 13 al 135) ilustra la extrema complejidad y el carácter laberíntico de la gestión fiscal en España. Esta opacidad técnica actúa como una barrera de entrada para el ciudadano común, obligando al uso de intermediarios financieros o consultorías especializadas para cumplir con obligaciones básicas del Impuesto sobre la Renta de No Residentes.",
+    "resumen_ciudadano": "Hacienda corrige un fallo en el diseño de los formularios digitales (Modelos 210, 211, 213, 216 y 296) que los no residentes deben usar para declarar sus rentas e inmuebles en España. El cambio ajusta la posición de los datos técnicos en los archivos de declaración.",
+    "resumen_tweet": "🧐 Hacienda corrige errores técnicos en los modelos de impuestos para no residentes. Una maraña de códigos y posiciones que solo las grandes consultoras descifran. ¿Transparencia o burocracia inaccesible? 💼📉 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Complejidad técnica excesiva",
+      "Corrección de errores en normativas ya publicadas",
+      "Lenguaje altamente codificado e inaccesible"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes gestorías y consultoras",
+        "Software de gestión fiscal",
+        "Agencia Tributaria (por depuración de datos)"
+      ],
+      "perdedores": [
+        "Pequeños inversores extranjeros sin asesoría",
+        "Claridad administrativa",
+        "Ciudadano medio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Fiscal",
+    "banderas_rojas": [
+      "Complejidad técnica excesiva",
+      "Corrección de errores en normativas ya publicadas",
+      "Lenguaje altamente codificado e inaccesible"
+    ]
+  },
+  "tweeted": false
+}
