@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-14514",
+  "timestamp": "2026-07-04T13:55:39.267Z",
+  "title": "Resolución de 26 de junio de 2026, de la Universidad de Murcia, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de funcionarios de carrera en la Universidad de Murcia. Aunque el texto es transparente en cuanto a nombres y códigos de plaza, oculta el impacto presupuestario real a largo plazo (sueldos, trienios y complementos vitalicios). Se observa una ligera asimetría de género en este boletín específico (33% mujeres frente a 66% hombres) y se perpetúa el modelo de 'concursos de acceso' que, a menudo, son criticados por favorecer la endogamia universitaria al no detallar los méritos específicos en el anuncio público.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado oficialmente a tres nuevos profesores titulares con plaza fija en las áreas de Didáctica de Ciencias, Organización de Empresas y Expresión Corporal. Estas personas pasan a ser funcionarios del Estado con empleo garantizado de por vida.",
+    "resumen_tweet": "🎓 Tres nuevos funcionarios de carrera en la @UMU. Nombres y plazas públicos, pero silencio total sobre el coste real para el contribuyente y los detalles de los méritos evaluados. #BOE #Opacidad #Transparencia #Universidad #Murcia 🔍",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del coste de las plazas",
+      "Falta de acceso directo a las actas de evaluación de las comisiones",
+      "Sesgo de género en la muestra de nombramientos del día"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña Isabel Beatriz Baños González",
+        "Don Gabriel Lozano Reina",
+        "Don Alfonso Martínez Moreno",
+        "Universidad de Murcia"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Investigadores precarios sin acceso a plazas fijas",
+        "Contribuyentes (por falta de desglose de costes)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del coste de las plazas",
+      "Falta de acceso directo a las actas de evaluación de las comisiones",
+      "Sesgo de género en la muestra de nombramientos del día"
+    ]
+  },
+  "tweeted": false
+}
