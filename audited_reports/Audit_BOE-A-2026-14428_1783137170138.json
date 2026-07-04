@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14428",
+  "timestamp": "2026-07-04T03:52:50.138Z",
+  "title": "Estatutos del Centro Internacional de Estudios Avanzados sobre Sistemas Fluviomarinos: Consorcio de Infraestructuras de Investigación Europeas (Eric Danubius).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento establece el marco legal del consorcio Eric Danubius. Si bien se presenta bajo el paraguas de la investigación científica y la sostenibilidad, el texto adolece de una falta de transparencia presupuestaria inmediata: se omiten las cifras exactas de las contribuciones anuales en el cuerpo principal del acuerdo. Se observa una estructura de gobernanza donde España, aunque afiliada, financia una infraestructura cuya sede central y toma de decisiones operativas residen en Rumanía. La cláusula 2.4 permite 'actividades económicas limitadas', lo que abre la puerta a la comercialización de hallazgos financiados con fondos públicos sin definir claramente el retorno social de dichos beneficios.",
+    "resumen_ciudadano": "España entra formalmente en un consorcio europeo para estudiar sistemas de ríos y costas. Esto implica el pago de cuotas anuales para mantener un centro de investigación en Rumanía. Aunque busca soluciones al cambio climático, el ciudadano no tiene acceso claro a cuánto nos cuesta esto ni cómo se traducirá el estudio de ríos lejanos en mejoras para la gestión hídrica local en España.",
+    "resumen_tweet": "🚨 Nueva estructura burocrática europea en el #BOE: Eric Danubius. 🌊 España financiará investigación de ríos con sede en Rumanía. Ciencia necesaria, pero con presupuestos poco claros y cuotas anuales indeterminadas. 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de anexos financieros con el desglose de la cuota anual española en el texto publicado",
+      "Permisividad de actividades económicas lucrativas paralelas por el consorcio",
+      "Limitación de responsabilidad financiera que podría derivar en rescates externos si el consorcio quiebra"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidades académicas e investigadores de élite",
+        "Rumanía (como sede de la infraestructura)",
+        "Empresas de tecnología de medición marina y fluvial"
+      ],
+      "perdedores": [
+        "Contribuyente medio (pago de cuotas internacionales sin impacto local directo)",
+        "Presupuestos de investigación hídrica autonómica (desvío de fondos a consorcios paneuropeos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional / Investigación Científica",
+    "banderas_rojas": [
+      "Ausencia de anexos financieros con el desglose de la cuota anual española en el texto publicado",
+      "Permisividad de actividades económicas lucrativas paralelas por el consorcio",
+      "Limitación de responsabilidad financiera que podría derivar en rescates externos si el consorcio quiebra"
+    ]
+  },
+  "tweeted": false
+}
