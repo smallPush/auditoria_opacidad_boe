@@ -1,0 +1,43 @@
+{
+  "boe_id": "BOE-A-2026-14502",
+  "timestamp": "2026-07-04T13:53:14.151Z",
+  "title": "Real Decreto 538/2026, de 30 de junio, por el que se regula la concesión directa de subvenciones en materia de Agenda Urbana, arquitectura y calidad de la edificación durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 538/2026 constituye un catálogo de adjudicaciones a dedo bajo el paraguas del artículo 22.2.c de la Ley General de Subvenciones. Se observa un abuso sistemático del concepto de 'excepcionalidad' y 'urgencia' para financiar actividades que, por su naturaleza (como bienales, congresos mundiales en 2026 o mantenimiento de páginas web), son perfectamente programables y deberían someterse a concurrencia competitiva. Especialmente flagrante es la inclusión de entidades como FACUA o el Consejo General de la Abogacía por 'razones de urgencia' que no estaban contempladas en el Plan Estratégico de Subvenciones previo, lo que sugiere una improvisación presupuestaria o una asignación arbitraria de fondos para servicios de información ciudadana que el propio Ministerio podría centralizar.",
+    "resumen_ciudadano": "El Gobierno ha aprobado el reparto directo de dinero público a una lista cerrada de colegios profesionales, universidades y fundaciones para proyectos de arquitectura y vivienda en 2026. En lugar de abrir un concurso para que cualquier entidad presente la mejor oferta, el Ministerio elige directamente a los beneficiarios alegando que son los únicos capacitados o que los trámites son urgentes, incluso para eventos que se celebrarán dentro de años.",
+    "resumen_tweet": "🚨 ¡Reparto a dedo en el #BOE! El Ministerio de Vivienda otorga subvenciones directas a colegios y fundaciones para 2026 alegando 'urgencia' en eventos previstos hace años. Menos competencia, más opacidad. 📉🏛️ #Transparencia #Opacidad #AgendaUrbana",
+    "banderas_red_flags": [
+      "Abuso de la concesión directa sin concurrencia competitiva",
+      "Inclusión de subvenciones no previstas en el Plan Estratégico original",
+      "Justificación de urgencia para eventos programados a largo plazo (2026-2027)",
+      "Asignación nominativa a fundaciones privadas para tareas de mantenimiento digital",
+      "Uso de conceptos jurídicos indeterminados como 'interés social' para evitar el concurso público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejo Superior de Colegios de Arquitectos de España (CSCAE)",
+        "Fundación Arquia",
+        "FACUA-Consumidores en Acción",
+        "Grandes Universidades Públicas (UPM, UPC, URJC)",
+        "Fundación Mies Van der Rohe"
+      ],
+      "perdedores": [
+        "Pequeñas empresas de consultoría urbana",
+        "Asociaciones de consumidores sin convenios ministeriales",
+        "Arquitectos jóvenes sin acceso a licitaciones abiertas",
+        "Contribuyentes (por posible falta de eficiencia en el gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Abuso de la concesión directa sin concurrencia competitiva",
+      "Inclusión de subvenciones no previstas en el Plan Estratégico original",
+      "Justificación de urgencia para eventos programados a largo plazo (2026-2027)",
+      "Asignación nominativa a fundaciones privadas para tareas de mantenimiento digital",
+      "Uso de conceptos jurídicos indeterminados como 'interés social' para evitar el concurso público"
+    ]
+  },
+  "tweeted": false
+}
