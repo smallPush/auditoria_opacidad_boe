@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14444",
+  "timestamp": "2026-07-04T04:05:58.674Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de Barcelona, por la que se nombra Profesora Titular de Universidad a doña Núria González Campañá.",
+  "report": {
+    "nivel_transparencia": 0.65,
+    "analisis_critico": "Se trata de un nombramiento estándar bajo la LOSU (Ley Orgánica del Sistema Universitario). Aunque cumple la legalidad, el documento es opaco respecto a la dotación económica específica de la plaza ('retribuciones correspondientes'), remitiendo a normativas genéricas sin especificar el coste real para el erario público. El proceso de selección se basa en una resolución previa no detallada en este extracto, ocultando los méritos comparativos frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Barcelona ha nombrado formalmente a una nueva Profesora Titular en el área de Derecho Constitucional tras superar un concurso de acceso. Es un trámite administrativo que consolida a personal docente como funcionario o personal fijo de la universidad.",
+    "resumen_tweet": "📢 Nueva plaza fija en la Universidad de Barcelona. Se nombra Titular en Derecho Constitucional a N. González Campañá. Cumplimiento de la LOSU, pero sin detalle de sueldo ni méritos en el extracto. 🏛️💼 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de cuantía salarial exacta",
+      "Falta de transparencia en la puntuación del concurso",
+      "Referencia a resoluciones externas no adjuntas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Núria González Campañá (estabilidad laboral y funcionariado)",
+        "Universidad de Barcelona (consolidación de estructura docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos del proceso sin visibilidad de criterios)",
+        "Ciudadanía (desconoce el impacto presupuestario exacto del nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de cuantía salarial exacta",
+      "Falta de transparencia en la puntuación del concurso",
+      "Referencia a resoluciones externas no adjuntas"
+    ]
+  },
+  "tweeted": false
+}
