@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14438",
+  "timestamp": "2026-07-04T03:58:54.668Z",
+  "title": "Resolución de 23 de junio de 2026, de la Universidad de Huelva, por la que se nombra Catedrática de Universidad a doña Beatriz Peña Acuña.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de Catedrática por promoción interna en la Universidad de Huelva. Aunque el acto es formalmente correcto según la Ley Orgánica 2/2023 (LOSU), el sistema de promoción interna tiende a perpetuar estructuras de poder locales y limita la competencia de talento externo. No se especifica el impacto presupuestario del incremento salarial derivado del cambio de categoría funcionarial.",
+    "resumen_ciudadano": "La Universidad de Huelva ha nombrado a doña Beatriz Peña Acuña como Catedrática de Universidad en el área de Didáctica de la Lengua y Literatura tras un concurso de méritos de promoción interna.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la @unihuelva. Aunque es un proceso legal de promoción interna, la falta de datos sobre el impacto presupuestario y la competencia externa sigue siendo un reto para la #Transparencia universitaria. #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Promoción interna sin mención a concurrencia competitiva externa",
+      "Ausencia de desglose del coste presupuestario del ascenso",
+      "Opacidad en la baremación de méritos específicos en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beatriz Peña Acuña (promoción profesional y aumento salarial)",
+        "Universidad de Huelva (consolidación de su plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos excluidos por el formato de promoción interna",
+        "Contribuyentes (por la opacidad en el coste incremental de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Promoción interna sin mención a concurrencia competitiva externa",
+      "Ausencia de desglose del coste presupuestario del ascenso",
+      "Opacidad en la baremación de méritos específicos en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
