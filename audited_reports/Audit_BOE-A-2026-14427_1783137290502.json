@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14427",
+  "timestamp": "2026-07-04T03:54:50.502Z",
+  "title": "Acuerdo técnico entre la Dirección General de Aviación Civil, el Ministerio de Fomento del Reino de España y la Junta de Aviación Civil de la República Dominicana para el desarrollo y aplicación del Acuerdo de transporte aéreo entre el Reino de España y República Dominicana, hecho en Áqaba el 2 de diciembre de 2019.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo técnico presenta una opacidad temporal significativa al publicarse y entrar en vigor en 2026, a pesar de haber sido firmado en 2019 en Áqaba (Jordania). Aunque detalla técnicamente las rutas y libertades de tráfico (3ª, 4ª y 5ª), carece por completo de un informe de impacto económico para las arcas públicas españolas o una evaluación de impacto ambiental ante la concesión de 'frecuencias ilimitadas' en servicios de carga y pasajeros de la Ruta 1. La 'quinta libertad' otorgada permite a las aerolíneas recoger pasajeros en terceros países, lo que favorece la concentración del mercado en grandes operadores.",
+    "resumen_ciudadano": "España y República Dominicana han fijado las reglas para sus vuelos comerciales. El acuerdo permite vuelos ilimitados en ciertas rutas y autoriza a las aerolíneas a compartir códigos y vender billetes de forma conjunta. Lo más llamativo es que el acuerdo se guardó en un cajón desde 2019 hasta 2026. Favorece la conectividad turística pero ignora los costes de infraestructuras y el daño ambiental de los vuelos sin límite.",
+    "resumen_tweet": "✈️ Siete años después de su firma, el #BOE publica el acuerdo aéreo con Rep. Dominicana. Frecuencias ILIMITADAS y privilegios para grandes aerolíneas. ¿Y el impacto climático o el coste real? 🌍 Mucha técnica, poca #Transparencia. #Opacidad",
+    "banderas_red_flags": [
+      "Diferencia de 7 años entre la firma (2019) y la publicación/vigencia (2026)",
+      "Concesión de frecuencias semanales ilimitadas sin estudio de saturación aérea",
+      "Uso de terminología técnica ('quinta libertad', 'ruptura de carga') que dificulta la fiscalización pública",
+      "Ausencia de partidas presupuestarias específicas pese a implicar gestión de aviación civil"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes aerolíneas internacionales (Iberia, Air Europa)",
+        "Operadores turísticos de lujo en el Caribe",
+        "Empresas de logística y transporte de carga"
+      ],
+      "perdedores": [
+        "Compromisos climáticos (emisiones de CO2 sin techo)",
+        "Ciudadanos afectados por el ruido en entornos aeroportuarios",
+        "Pequeñas aerolíneas regionales sin capacidad de acuerdos de código compartido"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Diferencia de 7 años entre la firma (2019) y la publicación/vigencia (2026)",
+      "Concesión de frecuencias semanales ilimitadas sin estudio de saturación aérea",
+      "Uso de terminología técnica ('quinta libertad', 'ruptura de carga') que dificulta la fiscalización pública",
+      "Ausencia de partidas presupuestarias específicas pese a implicar gestión de aviación civil"
+    ]
+  },
+  "tweeted": false
+}
