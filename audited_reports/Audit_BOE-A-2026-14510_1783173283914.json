@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14510",
+  "timestamp": "2026-07-04T13:54:43.914Z",
+  "title": "Resolución de 24 de junio de 2026, de la Universidad de Sevilla, por la que se nombra Catedrático de Universidad a don Luis Antonio Palma Martos.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera (Catedrático) bajo el amparo de la Ley Orgánica 2/2023 (LOSU). El texto es formalmente transparente pero omite los detalles del proceso selectivo, limitándose a remitir a resoluciones previas. No se detectan 'gastos fantasma' directos, pero sí la perpetuación de una estructura de gasto fijo en personal de alto rango en áreas sensibles como la Economía Aplicada.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha oficializado el nombramiento de Luis Antonio Palma Martos como Catedrático de Universidad en el área de Economía Aplicada, tras superar el concurso de acceso correspondiente.",
+    "resumen_tweet": "🎓 Luis Antonio Palma Martos es nombrado Catedrático de Economía en la @unisevilla. Un paso administrativo habitual que consolida estructuras de poder académico. ¿Realmente hay apertura o es endogamia regulada? 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de visibilidad de los méritos del candidato en el extracto",
+      "Remisión a concursos internos con baja publicidad fuera del ámbito académico",
+      "Concentración de poder en departamentos de Economía e Historia Económica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Antonio Palma Martos (consolidación de plaza vitalicia)",
+        "Universidad de Sevilla (cobertura de cátedra)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (posible barrera de entrada)",
+        "Contribuyentes (compromiso de gasto público a largo plazo sin desglose de productividad)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos - Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de visibilidad de los méritos del candidato en el extracto",
+      "Remisión a concursos internos con baja publicidad fuera del ámbito académico",
+      "Concentración de poder en departamentos de Economía e Historia Económica"
+    ]
+  },
+  "tweeted": false
+}
