@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-14432",
+  "timestamp": "2026-07-04T03:56:57.353Z",
+  "title": "Resolución de 25 de junio de 2026, del Consejo de la Comisión Nacional del Mercado de Valores, por la que se modifica el Reglamento de Régimen Interior.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La reforma del Reglamento de Régimen Interior de la CNMV bajo la apariencia de modernización técnica esconde una centralización del poder comunicativo en la figura de la Presidencia. Al asumir el control directo de la política de comunicación y la gestión web, se reduce la independencia de los informes técnicos frente al relato oficial. Asimismo, la flexibilidad otorgada al personal para operar en mercados financieros mediante contratos de gestión de carteras, aunque agiliza procesos, suaviza los controles éticos previos sobre el conflicto de intereses. La creación de departamentos para IA y Criptoactivos carece de una memoria económica que detalle el coste de esta 'digitalización 2030'.",
+    "resumen_ciudadano": "La CNMV se reestructura para controlar la supervisión de criptoactivos e inteligencia artificial. Los cambios otorgan al Presidente el control total de lo que se comunica al público y relajan las normas para que los empleados de la institución puedan invertir en bolsa a través de gestores externos.",
+    "resumen_tweet": "📢 ¡Alerta en el #BOE! La CNMV centraliza su comunicación en la Presidencia y crea departamentos para IA y Cripto sin detallar costes 💸. Se relajan reglas para que su personal invierta en bolsa. ¿Supervisión o privilegio? 🤔 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralización de la política de comunicación en la Presidencia",
+      "Relajación de requisitos para inversiones financieras del propio personal de la CNMV",
+      "Ausencia de desglose presupuestario para la nueva estrategia de IA y tecnología digital",
+      "Ampliación de discrecionalidad en la Dirección de Comunicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Presidencia de la CNMV (más control político)",
+        "Personal de la CNMV (facilidades para invertir)",
+        "Sector de criptoactivos (marco regulatorio definido)",
+        "Consultoras tecnológicas (contratos por digitalización)"
+      ],
+      "perdedores": [
+        "Inversor minorista (menor foco en protección directa frente a la digitalización)",
+        "Transparencia institucional (centralización del mensaje)",
+        "Ciudadanos sin competencias digitales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución / Reforma Organizativa",
+    "banderas_rojas": [
+      "Centralización de la política de comunicación en la Presidencia",
+      "Relajación de requisitos para inversiones financieras del propio personal de la CNMV",
+      "Ausencia de desglose presupuestario para la nueva estrategia de IA y tecnología digital",
+      "Ampliación de discrecionalidad en la Dirección de Comunicación"
+    ]
+  },
+  "tweeted": false
+}
