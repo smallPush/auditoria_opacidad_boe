@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14512",
+  "timestamp": "2026-07-05T14:04:27.002Z",
+  "title": "Resolución de 24 de junio de 2026, de la Universidad de Cádiz, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de funcionarios de carrera. La opacidad no reside en el procedimiento, sino en la remisión genérica a los 'emolumentos vigentes', lo que impide al ciudadano conocer el coste real inmediato de estas plazas para el erario público sin consultar tablas salariales externas. Existe un sesgo de género en esta resolución con un 66% de hombres frente a un 33% de mujeres, reflejando el techo de cristal en las cátedras y titularidades técnicas.",
+    "resumen_ciudadano": "La Universidad de Cádiz formaliza el nombramiento de seis nuevos Profesores Titulares en diversas áreas (Derecho, Ingeniería, Zoología y Filología). Estas personas pasan a ser funcionarios permanentes del Estado.",
+    "resumen_tweet": "🎓 La Univ. de Cádiz nombra 6 nuevos profesores titulares. ✅ Transparencia en nombres, ❌ Opacidad en el coste salarial directo. Brecha de género: solo 2 de 6 son mujeres. El sistema sigue favoreciendo la escala técnica masculina. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario en el texto",
+      "Desequilibrio de representación de género (4M/2F)",
+      "Uso de lenguaje administrativo para ocultar costes reales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 nuevos funcionarios (estabilidad laboral de por vida)",
+        "Estructura académica de la Universidad de Cádiz"
+      ],
+      "perdedores": [
+        "Candidatos en lista de espera",
+        "Contribuyentes (por falta de información salarial directa)",
+        "Igualdad de género (menor representación femenina)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario en el texto",
+      "Desequilibrio de representación de género (4M/2F)",
+      "Uso de lenguaje administrativo para ocultar costes reales"
+    ]
+  },
+  "tweeted": false
+}
