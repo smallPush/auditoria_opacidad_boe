@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14511",
+  "timestamp": "2026-07-05T14:06:20.004Z",
+  "title": "Resolución de 24 de junio de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la estabilización de personal docente e investigador. Aunque el proceso es transparente en cuanto a los nombres y áreas de conocimiento (Biología Celular, Historia Económica y Derecho Penal), existe una opacidad estructural sobre el coste presupuestario a largo plazo de estas plazas fijas. Se observa un cumplimiento efectivo de la paridad, con una mayoría femenina (5 de 7 nombramientos), lo que refleja un avance en el impacto de género en la jerarquía académica de la Universidad de Sevilla.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha nombrado oficialmente a siete nuevos Profesores Titulares en diversas áreas. Este movimiento consolida sus puestos permanentes tras superar los concursos de acceso previstos en la Ley de Universidades (LOSU). Es un trámite habitual para dar estabilidad al profesorado y asegurar la continuidad de la investigación y docencia.",
+    "resumen_tweet": "⚖️ La Univ. de Sevilla formaliza 7 plazas de Profesor Titular. Predominio femenino (5/7) en Biología y Derecho. Transparencia en nombres, pero silencio sobre el impacto presupuestario real a largo plazo. 🏛️ #BOE #Transparencia #Universidad #US",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial anual total",
+      "Referencia genérica a partidas presupuestarias de personal",
+      "Opacidad sobre el origen de la financiación de las plazas (fondos propios vs estatales)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (Valentina Annese, Mariola Chacón, etc.) por estabilidad laboral",
+        "Universidad de Sevilla por consolidación de plantilla",
+        "Representación femenina en la academia"
+      ],
+      "perdedores": [
+        "Investigadores precarios con menos vacantes disponibles tras la consolidación",
+        "Contribuyentes (por falta de transparencia en la cuantía exacta de los compromisos financieros adquiridos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial anual total",
+      "Referencia genérica a partidas presupuestarias de personal",
+      "Opacidad sobre el origen de la financiación de las plazas (fondos propios vs estatales)"
+    ]
+  },
+  "tweeted": false
+}
