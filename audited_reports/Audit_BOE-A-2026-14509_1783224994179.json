@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14509",
+  "timestamp": "2026-07-05T04:16:34.179Z",
+  "title": "Resolución de 23 de junio de 2026, conjunta de la Universidad de Granada y el Servicio Andaluz de Salud, por la que se nombra Profesora Titular de Universidad, con plaza vinculada, a doña María Isabel Blancas López-Barajas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de plaza vinculada entre la Universidad de Granada y el Servicio Andaluz de Salud (SAS). Este modelo, aunque eficiente para la formación médica, suele ocultar el desglose real del coste salarial dividido entre dos administraciones distintas. No se especifica la carga docente frente a la asistencial, lo que dificulta el control ciudadano sobre la productividad en ambos sectores. La opacidad reside en la falta de transparencia sobre el coste total acumulado de estas figuras de 'doble nómina'.",
+    "resumen_ciudadano": "La Universidad de Granada y el SAS han nombrado formalmente a una nueva Profesora Titular de Medicina que trabajará simultáneamente en el Hospital Clínico San Cecilio. Es un trámite administrativo estándar para consolidar personal médico-académico de alto nivel en Andalucía.",
+    "resumen_tweet": "🏥🎓 Nuevo nombramiento en la Univ. de Granada y el SAS. Las 'plazas vinculadas' consolidan élites médicas pero fragmentan el gasto público entre salud y educación. ¿Quién audita estas dobles funciones? #BOE #Opacidad #Transparencia #Granada",
+    "banderas_red_flags": [
+      "Doble dependencia administrativa (UGR-SAS) que dificulta la fiscalización del gasto",
+      "Inexistencia de desglose presupuestario en el extracto del BOE",
+      "Sistema de acceso restringido que perpetúa endogamia en departamentos de Medicina"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Isabel Blancas López-Barajas (estabilidad laboral y prestigio dual)",
+        "Universidad de Granada (mantenimiento de facultativos docentes)"
+      ],
+      "perdedores": [
+        "Médicos e investigadores jóvenes (acceso limitado a plazas de élite vinculadas)",
+        "Contribuyente (falta de claridad en el origen exacto de los fondos salariales)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal de Alta Cualificación",
+    "banderas_rojas": [
+      "Doble dependencia administrativa (UGR-SAS) que dificulta la fiscalización del gasto",
+      "Inexistencia de desglose presupuestario en el extracto del BOE",
+      "Sistema de acceso restringido que perpetúa endogamia en departamentos de Medicina"
+    ]
+  },
+  "tweeted": false
+}
