@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-14513",
+  "timestamp": "2026-07-05T14:10:19.678Z",
+  "title": "Resolución de 26 de junio de 2026, de la Universidad de Murcia, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de funcionarios de carrera tras concurso. La transparencia procedimental es alta, pero existe opacidad económica: no se detalla el incremento del gasto público derivado de estos ascensos al cuerpo de Catedráticos. Destaca la adjudicación de tres plazas a una misma área (Sociología), lo cual, aunque legal, evidencia una fuerte expansión o consolidación de poder departamental específico en este periodo.",
+    "resumen_ciudadano": "La Universidad de Murcia ha oficializado el nombramiento de cuatro nuevos catedráticos: tres en el área de Sociología y uno en Toxicología. Estos nombramientos consolidan puestos permanentes de alta jerarquía académica dentro de la institución pública.",
+    "resumen_tweet": "🎓 Cuatro nuevos catedráticos en la Univ. de Murcia. 75% de las plazas se concentran en Sociología. El #BOE sigue sin informar del coste real para el contribuyente de estos puestos vitalicios. 🧐 #Transparencia #Opacidad #Murcia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose del impacto presupuestario",
+      "Concentración de plazas en un único departamento",
+      "Falta de enlace a los baremos de puntuación final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marcos Alonso Bote Díaz",
+        "Pilar Ortiz García",
+        "Andrés Pedreño Cánovas",
+        "Diego Romero García",
+        "Departamento de Sociología (UMU)"
+      ],
+      "perdedores": [
+        "Investigadores en precario (tapón generacional)",
+        "Contribuyentes (falta de transparencia en costes de personal)",
+        "Otras áreas académicas con déficit de personal"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose del impacto presupuestario",
+      "Concentración de plazas en un único departamento",
+      "Falta de enlace a los baremos de puntuación final"
+    ]
+  },
+  "tweeted": false
+}
