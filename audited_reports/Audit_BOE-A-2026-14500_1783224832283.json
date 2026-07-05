@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14500",
+  "timestamp": "2026-07-05T04:13:52.283Z",
+  "title": "Resolución de 3 de julio de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Esta resolución del BOE actúa como el tablón de anuncios oficial de un oligopolio. Aunque se presenta como transparencia, en realidad es la validación estatal de los precios decididos unilateralmente por fabricantes e importadores. El Estado delega la soberanía del precio en las tabacaleras, actuando meramente como recaudador de impuestos indirectos (IVA e IIEE). Se observa una clara segmentación: productos de lujo (Cigarros Asylum a 15,50€/u) frente a productos de acceso masivo (shisharillos) que buscan fidelizar a nichos jóvenes o de rentas bajas. La opacidad reside en que no se explica el porcentaje exacto de beneficio empresarial frente a la carga impositiva en esta subida.",
+    "resumen_ciudadano": "El Gobierno ha actualizado oficialmente el precio de varias marcas de tabaco, puros y picadura de pipa. Estos precios no los pone el Gobierno, sino las propias marcas, y el BOE simplemente los hace obligatorios para todos los estancos. Si eres fumador, pagarás más a partir de ahora, especialmente por marcas de importación y nuevos productos como las shisharillos. Los precios en Ceuta y Melilla siguen siendo significativamente menores debido a su régimen fiscal especial.",
+    "resumen_tweet": "🚬 El BOE oficializa la subida de precios del tabaco decidida por las marcas. El Estado actúa de 'notario' para asegurar su recaudación vía impuestos indirectos. ¡Ojo a los precios en Ceuta y Melilla! 📉 #BOE #Tabaco #Transparencia #Hacienda #Impuestos",
+    "banderas_red_flags": [
+      "Fijación de precios por parte del sector privado validada por el sector público",
+      "Opacidad en el margen de beneficio de los fabricantes",
+      "Diferencia de precios territorial que fomenta el mercado negro interno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mayor recaudación por impuestos indirectos)",
+        "Grandes multinacionales tabacaleras (fijan sus márgenes)"
+      ],
+      "perdedores": [
+        "Consumidores (pérdida de poder adquisitivo)",
+        "Salud pública (el Estado actúa como gestor comercial de un producto nocivo)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con especificidades para Ceuta y Melilla)",
+    "tipologia": "Regulación de precios y fiscalidad indirecta",
+    "banderas_rojas": [
+      "Fijación de precios por parte del sector privado validada por el sector público",
+      "Opacidad en el margen de beneficio de los fabricantes",
+      "Diferencia de precios territorial que fomenta el mercado negro interno"
+    ]
+  },
+  "tweeted": false
+}
