@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14661",
+  "timestamp": "2026-07-07T15:07:51.367Z",
+  "title": "Resolución de 29 de junio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 20 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento refleja la adjudicación de una plaza mediante 'libre designación', un eufemismo legal para el nombramiento discrecional o 'a dedo'. Bajo el amparo de la Ley 30/1984, el Ministerio de Asuntos Exteriores elude el sistema de concurso de méritos para reubicar personal en el servicio exterior (Argel), consolidando una estructura de favores o confianza política que dificulta el acceso por mérito estricto a otros funcionarios de carrera.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha asignado directamente una plaza de Canciller en el Consulado de Argelia a un funcionario que se encontraba en México. Al ser una 'libre designación', no ha habido un proceso de competencia abierta donde se comparen públicamente las capacidades de los candidatos, priorizando la elección directa del subsecretario.",
+    "resumen_tweet": "🚩 Nueva 'Libre Designación' en el @MAECgob. Se adjudica a dedo el puesto de Canciller en Argel. El BOE sigue siendo el refugio de los nombramientos sin concurso de méritos. ¿Dónde queda la igualdad de oportunidades? 🕵️‍♂️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Falta de publicación de criterios de selección",
+      "Resolución parcial de convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Garcia Roig (adjudicatario del puesto)",
+        "Cúpula del MAEC (mantiene control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios sin conexiones políticas",
+        "Sistema de mérito y capacidad",
+        "Ciudadanía (opacidad en la gestión pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Exterior",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Falta de publicación de criterios de selección",
+      "Resolución parcial de convocatoria"
+    ]
+  },
+  "tweeted": false
+}
