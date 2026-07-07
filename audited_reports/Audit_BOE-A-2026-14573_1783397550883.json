@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14573",
+  "timestamp": "2026-07-07T04:12:30.883Z",
+  "title": "Resolución de 23 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 6 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion' para cubrir puestos de alta direccion (Nivel 29) en el Instituto Nacional de la Seguridad Social. Este procedimiento, aunque legal, es la antitesis de la transparencia meritocratica, ya que permite la eleccion discrecional de cargos sin un baremo publico de puntuacion. Se observa una 'endogamia administrativa' donde los adjudicatarios ya pertenecian a las mismas direcciones provinciales, lo que sugiere una formalizacion de puestos previamente ocupados o una falta de renovacion real en la cupula de la Seguridad Social.",
+    "resumen_ciudadano": "Se han asignado oficialmente las direcciones provinciales de la Seguridad Social en Zaragoza y Alicante mediante el sistema de eleccion directa ('a dedo'). Aunque los elegidos son funcionarios de alto rango, el proceso evita la competencia publica por meritos, blindando la estructura interna del Ministerio con perfiles de confianza.",
+    "resumen_tweet": "🚨 ¿Transparencia o dedocracia? El Ministerio de Inclusion adjudica direcciones del INSS en Zaragoza y Alicante via 'libre designacion'. Puestos de Nivel 29 blindados sin concurso publico de meritos. 🕵️‍♂️ #BOE #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Uso de libre designacion en puestos tecnicos de alto nivel",
+      "Consolidacion de cargos preexistentes sin movilidad real",
+      "Ausencia de criterios de seleccion publicados en la resolucion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Asuncion Albero Marcen",
+        "Fernando Luis Bonache Bermejo",
+        "Cupula politica del Ministerio de Inclusion"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios aspirantes por concurso de meritos",
+        "Transparencia institucional",
+        "Ciudadania (por falta de justificacion en la idoneidad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Aragon y Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Uso de libre designacion en puestos tecnicos de alto nivel",
+      "Consolidacion de cargos preexistentes sin movilidad real",
+      "Ausencia de criterios de seleccion publicados en la resolucion"
+    ]
+  },
+  "tweeted": false
+}
