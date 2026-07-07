@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14671",
+  "timestamp": "2026-07-07T15:15:49.620Z",
+  "title": "Resolución de 26 de junio de 2026, de la Universidad de Huelva, por la que se nombra Catedrático de Universidad a don Antonio Claret García Martínez.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento representa un acto administrativo rutinario de promocion interna dentro del sistema universitario espanol bajo la Ley Organica 2/2023 (LOSU). Aunque el proceso es legalmente pulcro, la promocion interna en el ambito academico a menudo suscita criticas sobre la endogamia universitaria al restringir la entrada de talento externo. No se especifica el coste salarial total ni el impacto presupuestario a largo plazo de esta plaza de funcionario, lo que constituye una opacidad estandar en la administracion publica.",
+    "resumen_ciudadano": "Se ha nombrado oficialmente a un nuevo catedratico en la Universidad de Huelva en el area de Ciencias y Tecnicas Historiograficas. El proceso se realizo mediante promocion interna, lo que significa que el puesto estaba destinado a personal que ya formaba parte de la institucion.",
+    "resumen_tweet": "🏛️ Nueva catedra en la Univ. de Huelva mediante promocion interna. Un proceso legal pero que alimenta el debate sobre la endogamia en la universidad publica espanola. Mas funcionarios, poca claridad sobre el coste real. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Promocion interna restrictiva",
+      "Falta de memoria economica especifica",
+      "Potencial endogamia academica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Claret Garcia Martinez (ascenso y estatus)",
+        "Universidad de Huelva (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores externos (excluidos por promocion interna)",
+        "Contribuyentes (opacidad en el coste de la masa salarial publica)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Promocion interna restrictiva",
+      "Falta de memoria economica especifica",
+      "Potencial endogamia academica"
+    ]
+  },
+  "tweeted": false
+}
