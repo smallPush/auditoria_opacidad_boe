@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14664",
+  "timestamp": "2026-07-07T15:10:18.028Z",
+  "title": "Orden EFD/680/2026, de 30 de junio, por la que se dispone el cese y nombramiento de miembros del Consejo Escolar del Estado por el grupo del profesorado de la enseñanza pública.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden ejecutada por el Ministerio de Educación evidencia la estructura de poder corporativista en el Consejo Escolar del Estado. La figura de la 'revocación del mandato' (Art. 9.1.d) permite que los sindicatos mayoritarios, en este caso STEs-Intersindical, sustituyan a sus representantes a discreción sin necesidad de presentar una justificación técnica o de gestión. Esta opacidad en los motivos del cese oculta posibles fricciones internas o cambios de línea política que afectan a la representación del profesorado público.",
+    "resumen_ciudadano": "Se ha sustituido a una de las representantes de los profesores de la enseñanza pública en el Consejo Escolar del Estado. A petición del sindicato STEs-Intersindical, sale María Luz González Rodríguez y entra Christina Fulconis Maroto para lo que queda de mandato.",
+    "resumen_tweet": "🔄 Cambio de sillas en el Consejo Escolar. STEs-Intersindical revoca a su representante sin explicar motivos. ¿Control sindical o renovación necesaria? La transparencia en los órganos consultivos sigue bajo mínimos. 🏫📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de la revocación del mandato sin motivación pública",
+      "Falta de detalle sobre el coste de las dietas por asistencia para nuevos miembros",
+      "Concentración de representación en sindicatos tradicionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Christina Fulconis Maroto (obtiene el cargo)",
+        "STEs-Intersindical (mantiene su cuota de poder institucional)"
+      ],
+      "perdedores": [
+        "María Luz González Rodríguez (cesada)",
+        "Transparencia pública (se desconocen los motivos del cese)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Uso de la revocación del mandato sin motivación pública",
+      "Falta de detalle sobre el coste de las dietas por asistencia para nuevos miembros",
+      "Concentración de representación en sindicatos tradicionales"
+    ]
+  },
+  "tweeted": false
+}
