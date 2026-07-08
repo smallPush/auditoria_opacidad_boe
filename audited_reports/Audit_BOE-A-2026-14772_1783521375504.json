@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14772",
+  "timestamp": "2026-07-08T14:36:15.504Z",
+  "title": "Real Decreto 573/2026, de 7 de julio, por el que se nombra Consejero de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil a don Jorge Navacerrada Álvarez.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El Real Decreto 573/2026 representa un ejercicio clásico de discrecionalidad política bajo la apariencia de un procedimiento administrativo reglado. A pesar de que la Autoridad para la Investigación de Accidentes se define como 'Independiente', la designación del consejero emana directamente de la propuesta del Ministro, sin que el documento aporte un solo dato sobre la trayectoria profesional, capacidad técnica o proceso de selección previo del nombrado. Esta falta de exposición de motivos en el BOE oculta si la elección responde a criterios de excelencia o a una lógica de cuotas y confianza política en un organismo que debería ser técnicamente autónomo.",
+    "resumen_ciudadano": "El Gobierno ha nombrado a Jorge Navacerrada Álvarez como consejero de la autoridad encargada de investigar accidentes de trenes, barcos y aviones. Aunque este organismo debería ser neutral para garantizar la seguridad de todos, la designación se realiza a dedo por el Ministerio de Transportes sin explicar las razones o méritos del candidato.",
+    "resumen_tweet": "⚠️ ¿Independencia real o control político? El @transportesgob nombra consejero para investigar accidentes ferroviarios y aéreos sin detallar méritos ni CV. La 'independencia' se cuestiona cuando el dedo es ministerial. 🧐🚢🚂 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de currículum o méritos justificados en el texto",
+      "Riesgo de captura institucional en un organismo 'independiente'",
+      "Nombramiento directo sin mención a concurso público de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Navacerrada Álvarez (Acceso a alto cargo)",
+        "Ministerio de Transportes (Control sobre el organismo de investigación)"
+      ],
+      "perdedores": [
+        "Ciudadanía (Falta de garantías de imparcialidad en seguridad)",
+        "Técnicos de carrera (Exclusión de procesos basados en meritocracia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Falta de currículum o méritos justificados en el texto",
+      "Riesgo de captura institucional en un organismo 'independiente'",
+      "Nombramiento directo sin mención a concurso público de méritos"
+    ]
+  },
+  "tweeted": false
+}
