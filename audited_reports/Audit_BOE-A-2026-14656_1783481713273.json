@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-14656",
+  "timestamp": "2026-07-08T03:35:13.273Z",
+  "title": "Orden TES/679/2026, de 29 de junio, por la que se modifica la Orden TMS/368/2019, de 28 de marzo, por la que se desarrolla el Real Decreto 694/2017, de 3 de julio, por el que se desarrolla la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral, en relación con la oferta formativa de las administraciones competentes y su financiación, y se establecen las bases reguladoras para la concesión de subvenciones públicas destinadas a su financiación.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden TES/679/2026 reduce drásticamente el control financiero preventivo de la administración sobre las subvenciones de formación. Al elevar el anticipo del 25-60% al 80% sin exigir garantías adicionales, se traslada el riesgo de liquidez desde las empresas privadas y entidades de formación hacia el erario público. La justificación de que 'datos estadísticos anteriores' avalan esta decisión es vaga y carece de informes de auditoría públicos adjuntos. Se prioriza la 'concurrencia' de empresas sobre la seguridad del capital público.",
+    "resumen_ciudadano": "El Gobierno ha decidido pagar por adelantado el 80% de las subvenciones a las academias y centros que dan cursos de formación para el empleo, antes incluso de que terminen de impartirlos. Antes solo se adelantaba una parte pequeña. Esto ayuda a las academias a tener dinero rápido, pero relaja la vigilancia sobre cómo se gasta nuestro dinero antes de comprobar si los cursos han sido útiles o se han realizado correctamente.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! El Gobierno adelanta el 80% del pago de subvenciones a academias de formación antes de dar los cursos 💰. Se eliminan garantías y aumenta el riesgo para el dinero público. ¿Eficiencia o falta de control? 🤔 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Eliminación explícita de la constitución de garantías para cobros anticipados",
+      "Aumento de la exposición al riesgo del dinero público hasta el 80%",
+      "Justificación de solvencia basada en estadísticas históricas no detalladas",
+      "Potencial desincentivo para la justificación final rigurosa al quedar solo un 20% pendiente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Academias de formación privadas",
+        "Grandes consultoras de formación",
+        "Entidades con poca liquidez propia"
+      ],
+      "perdedores": [
+        "Contribuyentes (mayor riesgo de pérdida de fondos)",
+        "Administración pública (mayor carga de reclamación de reintegros a posteriori)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Formación Profesional",
+    "banderas_rojas": [
+      "Eliminación explícita de la constitución de garantías para cobros anticipados",
+      "Aumento de la exposición al riesgo del dinero público hasta el 80%",
+      "Justificación de solvencia basada en estadísticas históricas no detalladas",
+      "Potencial desincentivo para la justificación final rigurosa al quedar solo un 20% pendiente"
+    ]
+  },
+  "tweeted": false
+}
