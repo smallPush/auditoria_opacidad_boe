@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14762",
+  "timestamp": "2026-07-08T14:34:04.887Z",
+  "title": "Real Decreto 536/2026, de 30 de junio, por el que se modifica el Real Decreto 429/2022, de 7 de junio, por el que se establecen normas para la comercialización de los productos reproductivos de las especies ganaderas en el ámbito nacional y se regulan medidas para la aplicación de la normativa europea aplicable a los desplazamientos dentro de la Unión Europea de productos reproductivos de las especies ganaderas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Este Real Decreto es un ejercicio de desregulación técnica bajo el mantra de la 'eficiencia administrativa'. Al modificar el RD 429/2022 en menos de cuatro años de vida, el legislador admite implícitamente que la normativa anterior era excesivamente gravosa para el mercado. La transición al formato digital con plena validez jurídica (Art. 9.3) es un paso hacia la modernización, pero la justificación de que ciertas exigencias de trazabilidad 'dificultan la comercialización sin aportar garantías adicionales' es una afirmación subjetiva que podría ocultar una relajación en la vigilancia de la calidad zootécnica a favor de los grandes distribuidores de material genético.",
+    "resumen_ciudadano": "Se simplifican los trámites para la compra y venta de material reproductivo animal (semen, óvulos, embriones). Los documentos que acompañan a estos productos ahora pueden ser totalmente digitales. Además, se aclara la obligación de detallar qué antibióticos se usan en la conservación del material, buscando agilizar el comercio ganadero nacional e internacional.",
+    "resumen_tweet": "📉 Menos burocracia para el mercado de genética ganadera. El #BOE digitaliza documentos y relaja la trazabilidad para 'agilizar' ventas. ¿Simplificación necesaria o pérdida de control sanitario? 🐄🧬 #Transparencia #Ganadería #Opacidad",
+    "banderas_red_flags": [
+      "Reconocimiento de errores legislativos previos en materia de trazabilidad",
+      "Uso del término 'eficiencia' para justificar la reducción de requisitos",
+      "Inclusión de antibióticos en diluyentes sin especificar límites, solo nombres comerciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros de inseminación y biotecnología",
+        "Exportadores de material genético",
+        "Empresas de servicios electrónicos de confianza"
+      ],
+      "perdedores": [
+        "Pequeños ganaderos con dificultades para el acceso digital",
+        "Sectores defensores de una trazabilidad analógica más estricta"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad Animal y Regulación de Mercados",
+    "banderas_rojas": [
+      "Reconocimiento de errores legislativos previos en materia de trazabilidad",
+      "Uso del término 'eficiencia' para justificar la reducción de requisitos",
+      "Inclusión de antibióticos en diluyentes sin especificar límites, solo nombres comerciales"
+    ]
+  },
+  "tweeted": false
+}
