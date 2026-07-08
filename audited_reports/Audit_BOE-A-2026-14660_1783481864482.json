@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14660",
+  "timestamp": "2026-07-08T03:37:44.482Z",
+  "title": "Acuerdo de 23 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se resuelve las reclamaciones al Escalafón General de la Carrera Judicial, cerrado al 31 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Este acuerdo del CGPJ revela la compleja micro-burocracia de la Carrera Judicial. Se observa el uso de numeraciones 'bis' (2698 bis, 2978 bis), una técnica para incrustar magistrados en el escalafón sin alterar la numeración correlativa original, lo cual indica fallos previos en el censo. Destaca la desestimación de la reclamación de un ex-Presidente de Tribunal Superior de Justicia (Gómez y Díaz-Castroverde), evidenciando una lucha interna por el cómputo de antigüedad 'especialista', crucial para futuros ascensos y destinos de prestigio. La fe de erratas sobre plazas de Violencia sobre la Mujer frente a Arrecife muestra una preocupante falta de precisión inicial en destinos sensibles.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha corregido el listado oficial de antigüedad y puestos de varios jueces. Estas correcciones incluyen desde errores en el tiempo de servicio hasta cambios en sus destinos actuales (como corregir un destino en Violencia sobre la Mujer por una sección civil). Es un trámite esencial para que los jueces puedan ascender o moverse de plaza legalmente.",
+    "resumen_tweet": "⚖️ El CGPJ ajusta su escalafón interno entre números 'bis' y errores de destino. La jerarquía judicial se mueve entre bambalinas: ¿quién sube y quién baja en el poder? Así se gestiona la élite que nos juzga. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de numeración bis para parches en el escalafón",
+      "Confusión administrativa entre plazas de Violencia de Género y plazas Civiles",
+      "Interpretación restrictiva de la antigüedad para especialistas que ocupan cargos políticos/administrativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beatriz Rico Maroto (gana reconocimiento de 22 años en carrera)",
+        "José Benito Pérez Bello (mejora su posición oficial)",
+        "Juan Antonio Sagredo Cañavate (logra reconocimiento como Especialista Social)"
+      ],
+      "perdedores": [
+        "José María Gómez y Díaz-Castroverde (pierde el cómputo de especialidad tras dejar presidencia del TSJ)",
+        "Sistema de gestión de datos del CGPJ (por múltiples errores materiales detectados)",
+        "Ciudadanía (por la opacidad en el impacto real de estos movimientos en la agilidad judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Administrativo de Personal Judicial",
+    "banderas_rojas": [
+      "Uso de numeración bis para parches en el escalafón",
+      "Confusión administrativa entre plazas de Violencia de Género y plazas Civiles",
+      "Interpretación restrictiva de la antigüedad para especialistas que ocupan cargos políticos/administrativos"
+    ]
+  },
+  "tweeted": false
+}
