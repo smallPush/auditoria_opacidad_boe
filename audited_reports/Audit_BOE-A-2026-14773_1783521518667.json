@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-14773",
+  "timestamp": "2026-07-08T14:38:38.667Z",
+  "title": "Real Decreto 574/2026, de 7 de julio, por el que se nombra Consejero de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil a don José Antonio Pañero Huerga.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se observa el nombramiento de un alto cargo en una autoridad calificada como 'independiente' bajo la modalidad de propuesta directa ministerial. La opacidad reside en la ausencia total de méritos, trayectoria o justificación técnica en el texto legal, lo que cuestiona la verdadera autonomía de un organismo encargado de investigar accidentes críticos (trenes, barcos, aviones) donde el propio Ministerio de Transportes podría tener responsabilidades derivadas.",
+    "resumen_ciudadano": "El Gobierno ha designado a José Antonio Pañero Huerga como consejero de la nueva autoridad que investiga accidentes en transporte ferroviario, marítimo y aviación. Aunque el organismo se define como independiente, el proceso de selección no se detalla, manteniendo la dinámica de cargos de confianza en sectores técnicos sensibles.",
+    "resumen_tweet": "🚨 ¿Independencia o control? Nombran nuevo consejero para investigar accidentes de trenes, barcos y aviones 🚂🚢✈️. El cargo se otorga a dedo sin explicar méritos ni trayectoria. ¿Garantiza esto una investigación imparcial? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional en organismo 'independiente'",
+      "Falta de exposición de motivos o CV",
+      "Conflicto de interés potencial en supervisión técnica",
+      "Puerta giratoria o cargo de confianza política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Antonio Pañero Huerga (acceso a alto cargo público)",
+        "Ministerio de Transportes (mantiene control en la autoridad)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de la capacitación del técnico)",
+        "Independencia de la investigación de accidentes",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Nombramiento discrecional en organismo 'independiente'",
+      "Falta de exposición de motivos o CV",
+      "Conflicto de interés potencial en supervisión técnica",
+      "Puerta giratoria o cargo de confianza política"
+    ]
+  },
+  "tweeted": false
+}
