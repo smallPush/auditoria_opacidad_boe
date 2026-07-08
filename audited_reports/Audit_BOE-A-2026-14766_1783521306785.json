@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-14766",
+  "timestamp": "2026-07-08T14:35:06.785Z",
+  "title": "Acuerdo de 1 de julio de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Juezas sustitutas para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de la Comunidad Valenciana.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento presenta una transparencia procedimental básica al identificar a las personas nombradas, pero oculta la realidad estructural: el uso sistemático de la figura de 'Jueza sustituta' para cubrir vacantes en 18 localidades valencianas. Esta práctica denota una justicia 'parcheada' donde se evita la creación de plazas fijas y presupuestadas, optando por la precariedad técnica. No se especifica la cuantía de las dietas o retribuciones ni los criterios de baremación aplicados para estas dos personas frente a otros candidatos.",
+    "resumen_ciudadano": "El CGPJ ha designado a dos juezas sustitutas para el año judicial 2025/2026 que deberán cubrir las necesidades de dieciocho partidos judiciales en la provincia de Valencia (desde Gandía hasta Sagunto). Es una medida para evitar el bloqueo de los juzgados ante la falta de magistrados titulares.",
+    "resumen_tweet": "⚖️ ¿Justicia estable o parches temporales? El CGPJ nombra solo a dos juezas sustitutas para cubrir 18 localidades en Valencia. Menos plazas fijas y más temporalidad oculta bajo lenguaje burocrático. #BOE #Opacidad #Transparencia #Justicia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Uso de personal temporal para funciones estructurales",
+      "Ausencia de memoria económica sobre el coste de las sustituciones",
+      "Ambigüedad en los criterios de selección de las candidatas",
+      "Sobrecarga geográfica: 18 sedes para solo dos nombramientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (ahorro en costes de seguridad social y plazas fijas)",
+        "CGPJ (cumplimiento formal de gestión con recursos mínimos)"
+      ],
+      "perdedores": [
+        "Justiciables valencianos (menor continuidad en los procesos judiciales)",
+        "Candidatos excluidos (opacidad en el baremo de méritos)",
+        "Sistema judicial (perpetuación de la interinidad)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de personal temporal para funciones estructurales",
+      "Ausencia de memoria económica sobre el coste de las sustituciones",
+      "Ambigüedad en los criterios de selección de las candidatas",
+      "Sobrecarga geográfica: 18 sedes para solo dos nombramientos"
+    ]
+  },
+  "tweeted": false
+}
