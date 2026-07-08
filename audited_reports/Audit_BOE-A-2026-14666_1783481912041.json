@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-14666",
+  "timestamp": "2026-07-08T03:38:32.041Z",
+  "title": "Resolución de 30 de junio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla nombramientos mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la selección discrecional ('a dedo') de altos cargos. Se adjudican puestos de Nivel 30 y 29, los máximos en la escala administrativa, en departamentos críticos como la Oficina Técnica del PERTE de la Industrialización de la Vivienda. La 'libre designación' en áreas que gestionan fondos estratégicos europeos (PERTE) genera un riesgo de politización de la gestión técnica y dificulta la fiscalización por mérito y capacidad frente a la confianza política.",
+    "resumen_ciudadano": "El Ministerio de Vivienda ha adjudicado dos puestos de alta dirección de forma discrecional. Estos cargos, que incluyen la dirección del PERTE para la industrialización de la vivienda, han sido ocupados por funcionarios que ya se encontraban en el ministerio, consolidando la estructura interna actual bajo un sistema que no requiere concurso público de méritos.",
+    "resumen_tweet": "🔍 El #BOE publica nuevos nombramientos 'a dedo' en el Ministerio de Vivienda. Niveles 29 y 30 para gestionar fondos estratégicos del PERTE. ¿Confianza técnica o política? La libre designación sigue limitando la transparencia. 🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nombramientos de máximo nivel administrativo (30)",
+      "Gestión de fondos PERTE involucrada",
+      "Ausencia de justificación de méritos específicos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios seleccionados",
+        "Estructura política del Ministerio (consolida personal de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos externos por mérito",
+        "Transparencia administrativa",
+        "Ciudadanía (incertidumbre sobre criterios de selección en fondos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nombramientos de máximo nivel administrativo (30)",
+      "Gestión de fondos PERTE involucrada",
+      "Ausencia de justificación de méritos específicos en el texto"
+    ]
+  },
+  "tweeted": false
+}
