@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-14780",
+  "timestamp": "2026-07-08T14:41:37.091Z",
+  "title": "Resolución de 26 de junio de 2026, conjunta de la Universidad de Cádiz y el Servicio Andaluz de Salud, por la que se nombran Profesoras y Profesores Titulares de Universidad con plaza vinculada.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion formaliza la figura de la 'plaza vinculada', permitiendo que personal docente sea simultaneamente personal sanitario del SAS. Se observa la recurrente opacidad en la cuantificacion del gasto publico, utilizando la formula generica 'emolumentos que correspondan' sin desglosar el impacto presupuestario real de estos nuevos funcionarios. Esta ambiguedad protege la estructura de costes de la administracion frente al escrutinio ciudadano directo.",
+    "resumen_ciudadano": "Se han nombrado dos nuevos Profesores Titulares en la Universidad de Cadiz que trabajaran tambien como medicos especialistas en el Hospital Universitario Puerta del Mar. Se trata de un tramite administrativo de consolidacion de personal en las areas de Pediatria y Microbiologia.",
+    "resumen_tweet": "🏥🎓 Nueva bicefalia en el #BOE: Profesores y medicos a la vez en Cadiz. Mucha titulacion pero nula transparencia en el coste real para el contribuyente. Los 'emolumentos' son el gran secreto de la administracion. 📉 #Transparencia #Opacidad #Andalucia",
+    "banderas_red_flags": [
+      "Cifras salariales omitidas",
+      "Ambiguedad en el desglose de costes entre Universidad y Servicio de Salud"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Simón Pedro Lubián López",
+        "Fátima Galán Sánchez",
+        "Universidad de Cádiz (UCA)"
+      ],
+      "perdedores": [
+        "Transparencia fiscal",
+        "Ciudadania (por falta de informacion sobre el coste del gasto publico)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente y Sanitario",
+    "banderas_rojas": [
+      "Cifras salariales omitidas",
+      "Ambiguedad en el desglose de costes entre Universidad y Servicio de Salud"
+    ]
+  },
+  "tweeted": false
+}
