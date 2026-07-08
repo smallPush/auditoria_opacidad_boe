@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-14779",
+  "timestamp": "2026-07-08T14:45:20.998Z",
+  "title": "Resolución de 22 de junio de 2026, de la Universidad Politécnica de Cataluña, por la que se nombran Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se observa un cumplimiento normativo estricto bajo la LOSU, pero destaca una incongruencia flagrante con las politicas de igualdad: el 100% de los nombramientos (4 de 4) son varones. En una universidad politecnica, esto refuerza el techo de cristal en las areas STEM (Ciencia, Tecnologia, Ingenieria y Matematicas). No hay transparencia sobre las retribuciones asociadas ni sobre la puntuacion obtenida frente a otros aspirantes, limitandose a referenciar codigos internos de concurso.",
+    "resumen_ciudadano": "La Universidad Politecnica de Cataluña oficializa el nombramiento de cuatro nuevos Profesores Titulares en areas como Inteligencia Artificial e Ingenieria Naval. Los seleccionados tienen 20 dias para tomar posesion de sus cargos permanentes.",
+    "resumen_tweet": "📢 El #BOE publica nuevos profesores titulares en la UPC: 4 plazas, 4 hombres. 🧐 ¿Donde esta la paridad que exige la #LOSU? La brecha de genero en las politecnicas sigue siendo un muro de hormigon. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Sesgo de genero absoluto (0% mujeres)",
+      "Falta de informacion sobre costes salariales publicos",
+      "Opacidad en los criterios de puntuacion final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo docente masculino",
+        "Universidad Politecnica de Cataluña (estabilizacion de plazas)"
+      ],
+      "perdedores": [
+        "Igualdad de genero en academia STEM",
+        "Candidatas femeninas excluidas o inexistentes",
+        "Ciudadania (por falta de detalle presupuestario)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Funcionarios",
+    "banderas_rojas": [
+      "Sesgo de genero absoluto (0% mujeres)",
+      "Falta de informacion sobre costes salariales publicos",
+      "Opacidad en los criterios de puntuacion final"
+    ]
+  },
+  "tweeted": false
+}
