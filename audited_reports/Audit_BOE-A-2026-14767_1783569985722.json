@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14767",
+  "timestamp": "2026-07-09T04:06:25.722Z",
+  "title": "Acuerdo de 1 de julio de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Juezas y Jueces sustitutas/os para el año judicial 2025/2026, en el ámbito del Tribunal Superior de Justicia de Cataluña.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El acuerdo revela una gestión de la Justicia basada en la provisionalidad. Se recurre a figuras de sustitución para cubrir deficiencias estructurales en el sistema judicial de Cataluña. Llama la atención la asignación de tres juezas a prácticamente la totalidad de los partidos judiciales de las cuatro provincias catalanas simultáneamente, lo que sugiere una movilidad extrema y una posible saturación de funciones. No se especifican las retribuciones ni los baremos de méritos específicos aplicados para estas designaciones frente a otros candidatos, manteniendo la opacidad sobre el gasto público que representan estas sustituciones.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a seis jueces sustitutos para cubrir vacantes en diversos juzgados de Cataluña durante el próximo año judicial. Estas personas deberán desplazarse entre múltiples ciudades para asegurar que los juzgados sigan funcionando ante la falta de jueces titulares de carrera.",
+    "resumen_tweet": "⚖️ ¿Justicia real o parches temporales? El CGPJ nombra jueces sustitutos para cubrir toda Cataluña en el año 2025/26. 🚩 Una sola jueza asignada a decenas de sedes. Opacidad en costes y méritos. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario por plaza",
+      "Movilidad geográfica extrema (un juez para 4 provincias)",
+      "Uso de interinidad para resolver problemas estructurales",
+      "Criterios de selección no detallados en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración de Justicia (por cubrir huecos con personal temporal menos costoso)",
+        "Candidatos seleccionados (acceso a la carrera judicial por vía de sustitución)"
+      ],
+      "perdedores": [
+        "Ciudadanía (justicia potencialmente más lenta o con menos continuidad)",
+        "Jueces sustitutos (carga de trabajo dispersa geográficamente)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario por plaza",
+      "Movilidad geográfica extrema (un juez para 4 provincias)",
+      "Uso de interinidad para resolver problemas estructurales",
+      "Criterios de selección no detallados en el texto"
+    ]
+  },
+  "tweeted": false
+}
