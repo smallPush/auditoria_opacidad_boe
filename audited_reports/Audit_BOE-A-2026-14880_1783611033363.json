@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14880",
+  "timestamp": "2026-07-09T15:30:33.363Z",
+  "title": "Real Decreto 561/2026, de 8 de julio, por el que se crea una vocalía en el Tribunal Administrativo Central de Recursos Contractuales.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 561/2026 justifica la expansion de la cupula del Tribunal Administrativo Central de Recursos Contractuales (TACRC) alegando un aumento del 22% en la litigiosidad contractual en 2025. Se detecta una 'Incongruencia Ideologica' al presentarse como una medida de eficiencia, cuando en realidad es una respuesta reactiva al cuello de botella generado por la gestion de los fondos del Plan de Recuperacion. No se detalla el coste presupuestario de la nueva vocalia, lo que constituye un 'Gasto Fantasma' estructural: se crean plazas de alto nivel sin especificar el impacto en el capitulo de personal ni el personal de apoyo necesario.",
+    "resumen_ciudadano": "El Gobierno añade un nuevo vocal (juez administrativo) al tribunal encargado de resolver las disputas sobre contratos publicos. El motivo es que el sistema esta colapsado por el volumen de recursos y la urgencia de ejecutar los fondos europeos antes de que caduquen. Se amplia la estructura del Estado para intentar evitar que las obras y servicios publicos se queden paralizados por pleitos legales.",
+    "resumen_tweet": "🏛️ El Gobierno amplia el Tribunal de Contratos ante el colapso por fondos europeos. Mas plazas de alto nivel pero sin transparencia en el coste real. ¿Gestion eficiente o parche burocratico? 📉 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica detallada",
+      "Crecimiento administrativo reactivo ante fondos europeos",
+      "Uso de lenguaje de urgencia para crear plazas estructurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la administracion (nueva plaza)",
+        "Grandes empresas constructoras y de servicios (resoluciones mas rapidas)"
+      ],
+      "perdedores": [
+        "Contribuyente (incremento del gasto publico fijo)",
+        "PYMEs (que siguen enfrentandose a un sistema juridico complejo y costoso)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Organizacion de la Administracion del Estado",
+    "banderas_rojas": [
+      "Ausencia de memoria economica detallada",
+      "Crecimiento administrativo reactivo ante fondos europeos",
+      "Uso de lenguaje de urgencia para crear plazas estructurales"
+    ]
+  },
+  "tweeted": false
+}
