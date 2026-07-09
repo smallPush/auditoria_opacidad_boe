@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14771",
+  "timestamp": "2026-07-09T04:09:12.123Z",
+  "title": "Real Decreto 572/2026, de 7 de julio, por el que se nombra Presidente de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil a don Gonzalo Julián Guillén Espejo-Saavedra.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de un nombramiento discrecional para un organismo que, irónicamente, se autodenomina 'Independiente'. El BOE no detalla los méritos, experiencia técnica específica o el proceso de selección que justifique la idoneidad de Gonzalo Julián Guillén Espejo-Saavedra para supervisar la seguridad en tres áreas críticas: ferroviaria, marítima y aérea. Esta centralización de la investigación de accidentes bajo una figura elegida directamente por el Ministerio de Transportes genera dudas sobre la verdadera autonomía de la entidad frente al Gobierno.",
+    "resumen_ciudadano": "El Gobierno ha designado al nuevo responsable de investigar los accidentes de trenes, barcos y aviones en España. Aunque el cargo es vital para la seguridad pública, la publicación no explica por qué se ha elegido a esta persona ni qué salario percibirá, dejando la meritocracia en la sombra.",
+    "resumen_tweet": "⚠️ ¿Independencia real? El Gobierno nombra al nuevo jefe de investigación de accidentes de transporte por decreto directo. Sin CV público ni detalles de selección. La seguridad merece luz y taquígrafos. ✈️🚆🚢 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento a propuesta política",
+      "Ausencia de justificación de méritos en el texto",
+      "Concentración de poder de investigación en un solo cargo",
+      "Opacidad sobre las retribuciones del puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gonzalo Julián Guillén Espejo-Saavedra (nuevo alto cargo)",
+        "Ministerio de Transportes (mantiene control sobre el regulador)"
+      ],
+      "perdedores": [
+        "Transparencia ciudadana (desconocimiento del proceso)",
+        "Independencia técnica (percepción de control político)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Nombramiento a propuesta política",
+      "Ausencia de justificación de méritos en el texto",
+      "Concentración de poder de investigación en un solo cargo",
+      "Opacidad sobre las retribuciones del puesto"
+    ]
+  },
+  "tweeted": false
+}
