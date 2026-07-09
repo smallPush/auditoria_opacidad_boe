@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-14877",
+  "timestamp": "2026-07-09T15:11:15.036Z",
+  "title": "Corrección de errores del Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Aunque el documento es una corrección técnica de errores, revela una alarmante falta de control de calidad en la redacción de Reales Decretos-leyes de alto impacto económico. El hecho de que se citara la Ley de Dependencia (fundamental para el sistema) con el año '2026' en lugar de '2006' evidencia una tramitación acelerada de medidas extraordinarias de gasto (créditos suplementarios). Esta 'legislación de urgencia' a menudo sacrifica la precisión técnica, lo que puede generar inseguridad jurídica en la gestión de fondos destinados a colectivos vulnerables.",
+    "resumen_ciudadano": "El Gobierno ha tenido que corregir errores de escritura en el decreto de ayudas a la dependencia. El fallo más destacado fue confundir el año de la Ley de Dependencia, citando una ley de 2026 (que no existe) en lugar de la de 2006. Es un trámite administrativo para evitar confusiones legales en el reparto de ayudas.",
+    "resumen_tweet": "🔍 Auditoría #BOE: ¡El Gobierno corrige el RDL de Dependencia tras citar por error una ley del año 2026 que no existe! 🤦‍♂️ Falta de rigor en normas que gestionan millones para nuestros mayores. Exigimos excelencia técnica. 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Errata en fecha de ley marco fundamental",
+      "Evidencia de tramitación legislativa ultra-rápida",
+      "Falta de revisión en decretos de créditos extraordinarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo técnico administrativo (al subsanar el vacío legal)"
+      ],
+      "perdedores": [
+        "Ciudadanía (por la percepción de chapuza legislativa)",
+        "Seguridad jurídica (debilitada por errores de bulto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Corrección de Errores / Administrativa",
+    "banderas_rojas": [
+      "Errata en fecha de ley marco fundamental",
+      "Evidencia de tramitación legislativa ultra-rápida",
+      "Falta de revisión en decretos de créditos extraordinarios"
+    ]
+  },
+  "tweeted": false
+}
