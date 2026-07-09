@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-14896",
+  "timestamp": "2026-07-09T15:34:13.205Z",
+  "title": "Resolución de 29 de junio de 2026, de la Universidad de Zaragoza, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para la consolidación de plazas de alto rango académico. El análisis revela una tendencia positiva en la reducción de la brecha de género en la cúspide universitaria: 6 de los 9 nombramientos (66%) son mujeres, lo cual es relevante dado el histórico 'techo de cristal' en las cátedras. No obstante, existe una opacidad financiera inherente; aunque se cita la ley presupuestaria de forma indirecta, no se detalla el incremento de gasto estructural que suponen estos puestos vitalicios para las arcas de la Comunidad Autónoma de Aragón.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha formalizado el nombramiento de 9 nuevos catedráticos y catedráticas en áreas que van desde la Ingeniería hasta la Filología. Estos nombramientos son el resultado de concursos de acceso y otorgan a los seleccionados una plaza permanente en la escala más alta de la carrera docente universitaria.",
+    "resumen_tweet": "🎓 9 nuevas cátedras en la @unizar. Interesante: el 66% son mujeres, un golpe al techo de cristal académico. 🏛️ Sin embargo, el BOE sigue sin detallar el coste público de estas plazas vitalicias. ¿Transparencia real? 🔍 #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial y presupuestario",
+      "Falta de información sobre los perfiles de las comisiones evaluadoras en el texto",
+      "Consolidación de plazas vitalicias sin mención a criterios de rendimiento futuro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sonia María Baelo Allué",
+        "Mónica Carolina Calvo Pascual",
+        "Javier Civera Sancho",
+        "Nuria Garatachea Vallejo",
+        "Francisco Javier López Lorente",
+        "Jaime Marcuello Servós",
+        "Belén Masiá Corcoy",
+        "Concepción Villanueva Morte",
+        "María Belén Zalba Nonay"
+      ],
+      "perdedores": [
+        "Investigadores en fase post-doctoral (precariedad estructural)",
+        "Candidatos externos no seleccionados en el proceso de concurso"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial y presupuestario",
+      "Falta de información sobre los perfiles de las comisiones evaluadoras en el texto",
+      "Consolidación de plazas vitalicias sin mención a criterios de rendimiento futuro"
+    ]
+  },
+  "tweeted": false
+}
