@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-14889",
+  "timestamp": "2026-07-10T04:11:07.168Z",
+  "title": "Resolución de 3 de julio de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución adjudica un puesto de Subdirección Adjunta (Nivel 29) en la Dirección de Energía mediante el sistema de 'libre designación'. Este mecanismo, aunque legal, permite la elección discrecional por parte de los cargos políticos o directivos, alejándose de los principios de mérito y capacidad que rigen el concurso abierto. El puesto pertenece a la CNMC, un organismo regulador crítico cuya independencia podría verse comprometida por este sistema de nombramientos basados en la confianza personal en lugar de la competencia técnica pura.",
+    "resumen_ciudadano": "La Comisión Nacional de los Mercados y la Competencia (CNMC) ha nombrado a una nueva Subdirectora Adjunta de Energía. El nombramiento se ha realizado 'a dedo' (libre designación), un método habitual para puestos de alta responsabilidad (Nivel 29) que limita la posibilidad de que otros funcionarios compitan en igualdad de condiciones.",
+    "resumen_tweet": "🚩 Nueva adjudicación 'a dedo' en la CNMC. Se cubre un puesto de Nivel 29 (Subdirección de Energía) mediante libre designación. La opacidad de estos nombramientos discrecionales dificulta el control meritocrático. #BOE #Opacidad #Transparencia 🕵️‍♂️⚖️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Sector estratégico bajo regulación (Energía)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María González de Perosanz (designada)",
+        "Cuerpo A0700 (Técnicos Comerciales y Economistas del Estado)",
+        "Dirección de la CNMC (control discrecional del equipo)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso por confianza",
+        "Transparencia en la administración pública",
+        "Sistema de mérito puro"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alta jerarquía (Nivel 29)",
+      "Sector estratégico bajo regulación (Energía)"
+    ]
+  },
+  "tweeted": false
+}
