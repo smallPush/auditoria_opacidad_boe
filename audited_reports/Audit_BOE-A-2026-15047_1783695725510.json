@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15047",
+  "timestamp": "2026-07-10T15:02:05.510Z",
+  "title": "Resolución de 30 de junio de 2026, de la Universidad de Murcia, por la que se nombran Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion presenta un proceso administrativo estandar para el ascenso a catedratico en la Universidad de Murcia. Sin embargo, desde una optica de impacto de genero, se observa una hegemonia masculina absoluta (4 de 4 nombramientos), lo que evidencia la persistencia del techo de cristal en los escalafones mas altos de la academia, especialmente en areas de ingenieria y tecnologia. No se declaran gastos explicitos, pero cada plaza implica una consolidacion presupuestaria de por vida en la Administracion Publica sin un analisis publico de coste-beneficio social mas alla del merito academico individual.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado a cuatro nuevos catedraticos en las areas de Informatica, Telematica y Sociologia. Todos los beneficiarios son hombres, lo que mantiene la tendencia de sobrerrepresentacion masculina en los cargos docentes mas altos. Estos puestos son vitalicios y representan la cima de la carrera funcionarial universitaria.",
+    "resumen_tweet": "🔴 Nuevo #BOE de la Univ. de Murcia: 4 nuevos catedraticos nombrados... y los 4 son hombres (100%). El techo de cristal en STEM y Sociologia sigue blindado. ¿Donde queda la paridad en la alta jerarquia academica? #Opacidad #Transparencia #Igualdad",
+    "banderas_red_flags": [
+      "Ausencia total de representacion femenina",
+      "Consolidacion de plazas vitalicias sin desglose presupuestario asociado",
+      "Concentracion de promociones en departamentos tecnologicos especificos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Oscar Canovas Reverte",
+        "Manuel Hernandez Pedreño",
+        "Gabriel Lopez Millan",
+        "Rafael Marin Lopez",
+        "Cuerpo de Catedraticos de Universidad"
+      ],
+      "perdedores": [
+        "Mujeres academicas (nula presencia en esta resolucion)",
+        "Criterios de paridad de genero en alta jerarquia",
+        "Transparencia en el coste salarial total del nombramiento"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Nombramiento de personal funcionario de carrera",
+    "banderas_rojas": [
+      "Ausencia total de representacion femenina",
+      "Consolidacion de plazas vitalicias sin desglose presupuestario asociado",
+      "Concentracion de promociones en departamentos tecnologicos especificos"
+    ]
+  },
+  "tweeted": false
+}
