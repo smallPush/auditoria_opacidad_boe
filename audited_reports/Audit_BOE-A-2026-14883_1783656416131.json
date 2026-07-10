@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-14883",
+  "timestamp": "2026-07-10T04:06:56.131Z",
+  "title": "Real Decreto 514/2026, de 17 de junio, por el que se nombra Presidente de la Sala de lo Social del Tribunal Superior de Justicia del País Vasco a don Juan Carlos Benito-Butrón Ochoa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento de alto nivel judicial bajo la modalidad de 'discrecionalidad'. Aunque se citan los artículos de la Ley Orgánica del Poder Judicial, el proceso de selección de estos cargos carece de una exposición pública de méritos comparados, lo que perpetúa la percepción de control político sobre la cúpula judicial. La demora entre la decisión del Pleno (abril) y la publicación en el BOE (julio) sugiere una burocracia lenta o tiempos políticos calculados.",
+    "resumen_ciudadano": "Se ha nombrado a Juan Carlos Benito-Butrón Ochoa como nuevo Presidente de la Sala de lo Social del Tribunal Superior de Justicia del País Vasco. Este cargo es de designación directa por el Consejo General del Poder Judicial (CGPJ), lo que significa que no se basa en una oposición abierta, sino en una elección interna del órgano de gobierno de los jueces.",
+    "resumen_tweet": "⚠️ Nuevo nombramiento 'a dedo' en la justicia. Juan Carlos Benito-Butrón presidirá la Sala de lo Social en el País Vasco. La 'discrecionalidad' sigue reinando en las altas esferas judiciales. 🏛️⚖️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento de carácter discrecional (libre designación)",
+      "Falta de desglose de méritos frente a otros candidatos",
+      "Lapso temporal de casi tres meses entre el acuerdo del Pleno y la publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Carlos Benito-Butrón Ochoa (ascenso jerárquico)",
+        "CGPJ (ejerce su poder de nombramiento discrecional)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (sin visibilidad de baremación)",
+        "Ciudadanía (opacidad en los criterios de selección de la cúpula judicial)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Nombramiento de carácter discrecional (libre designación)",
+      "Falta de desglose de méritos frente a otros candidatos",
+      "Lapso temporal de casi tres meses entre el acuerdo del Pleno y la publicación oficial"
+    ]
+  },
+  "tweeted": false
+}
