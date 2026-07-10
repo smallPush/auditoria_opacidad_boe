@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15046",
+  "timestamp": "2026-07-10T15:05:13.628Z",
+  "title": "Resolución de 30 de junio de 2026, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad a doña María Luisa García Hernández.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Profesora Titular tras un concurso de acceso. Aunque el proceso sigue la legalidad vigente (LOSU 2/2023), existe una opacidad intrínseca en la publicación: no se detalla el impacto presupuestario plurianual ni el salario asociado a la plaza 211610. El lenguaje es puramente técnico-burocrático, lo que dificulta al ciudadano medio comprender la carga financiera que supone este puesto vitalicio para el erario público.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado formalmente a María Luisa García Hernández como Profesora Titular en el área de 'Didáctica y Organización Escolar'. Este es el paso final tras ganar una oposición pública. El puesto es de carácter funcionario y permanente.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la Universidad de Murcia. María Luisa García Hdez. nombrada Profesora Titular. Proceso legal, pero sin rastro del coste salarial real en el #BOE. ¿Más transparencia en el gasto universitario? 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de memoria económica asociada al nombramiento",
+      "Opacidad en la retribución específica del código de plaza 211610",
+      "Uso de terminología técnica que oculta el compromiso financiero a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Luisa García Hernández (estabilidad laboral y estatus de funcionaria)",
+        "Universidad de Murcia (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la ausencia de transparencia en el coste de las estructuras administrativas)",
+        "Candidatos externos (barreras de entrada al sistema universitario tradicional)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Falta de memoria económica asociada al nombramiento",
+      "Opacidad en la retribución específica del código de plaza 211610",
+      "Uso de terminología técnica que oculta el compromiso financiero a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
