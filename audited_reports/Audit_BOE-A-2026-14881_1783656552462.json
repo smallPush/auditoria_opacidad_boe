@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-14881",
+  "timestamp": "2026-07-10T04:09:12.462Z",
+  "title": "Real Decreto 567/2026, de 8 de julio, por el que se regula la concesión directa de una subvención a la asociación Be Wild Be Proud para la realización de la Ruta al Exilio.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se observa el uso recurrente de la 'concesión directa' amparada en el artículo 22.2.c de la Ley General de Subvenciones, una figura excepcional que aquí se justifica por el registro de la marca 'Ruta al Exilio'. Esta estrategia legal blinda a la asociación 'Be Wild Be Proud' frente a la competencia, impidiendo que otras entidades memorialistas o educativas presenten propuestas alternativas más eficientes. Aunque los objetivos se alinean con la Ley de Memoria Democrática, la falta de una convocatoria abierta limita la fiscalización de los costes reales y la calidad pedagógica comparada.",
+    "resumen_ciudadano": "El Ministerio de Juventud otorga una subvención directa (sin concurso público) a la asociación 'Be Wild Be Proud' para organizar viajes y talleres sobre el exilio republicano para 40 jóvenes. El Gobierno justifica la falta de concurso alegando que la asociación tiene el nombre del proyecto registrado, lo que excluye legalmente a cualquier otro competidor del proceso.",
+    "resumen_tweet": "🚨 ¡Dedo detectado en el #BOE! Subvención directa a una asociación por tener la marca registrada, evitando el concurso público 🚌 Memoria democrática para 40 jóvenes con fondos sin competencia. ¿Transparencia o favoritismo? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa (sin concurrencia competitiva)",
+      "Uso del registro de marca como barrera de entrada al mercado de subvenciones",
+      "Inclusión de gastos en redes sociales y comunicación de difícil auditoría",
+      "Falta de desglose presupuestario total en el texto legislativo",
+      "Discrecionalidad en la selección de los 40 jóvenes beneficiarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Be Wild Be Proud (monopolio del proyecto)",
+        "40 jóvenes seleccionados para el viaje",
+        "Profesionales de comunicación y marketing contratados"
+      ],
+      "perdedores": [
+        "Asociaciones memorialistas sin acceso a fondos públicos en igualdad de condiciones",
+        "Contribuyentes (por ausencia de comparativa de precios/eficiencia)",
+        "Sector educativo formal, desplazado por metodologías no auditadas de 'educación no formal'"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Impacto en España y Francia)",
+    "tipologia": "Subvención Directa / Memoria Democrática",
+    "banderas_rojas": [
+      "Concesión directa (sin concurrencia competitiva)",
+      "Uso del registro de marca como barrera de entrada al mercado de subvenciones",
+      "Inclusión de gastos en redes sociales y comunicación de difícil auditoría",
+      "Falta de desglose presupuestario total en el texto legislativo",
+      "Discrecionalidad en la selección de los 40 jóvenes beneficiarios"
+    ]
+  },
+  "tweeted": false
+}
