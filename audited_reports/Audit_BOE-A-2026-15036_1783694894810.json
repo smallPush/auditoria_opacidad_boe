@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15036",
+  "timestamp": "2026-07-10T14:48:14.810Z",
+  "title": "Real Decreto 585/2026, de 8 de julio, por el que se nombra Presidente de la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de la Comunidad Valenciana a don Antonio López Tomás.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento formaliza un nombramiento en la cúpula judicial bajo la modalidad de 'discrecional'. Aunque legal, esta figura es el epicentro de la opacidad en el CGPJ, ya que no se detallan los méritos específicos ni la puntuación comparativa con otros candidatos en el texto del BOE. Se observa la continuidad de una estructura de poder tradicional donde la elección técnica se diluye en la decisión política del Pleno. No hay mención a criterios de paridad, reforzando el sesgo de género en las altas magistraturas.",
+    "resumen_ciudadano": "Se ha nombrado a Antonio López Tomás como Presidente de la Sala de lo Contencioso-Administrativo en el Tribunal Superior de Justicia de la Comunidad Valenciana. Este cargo es vital, pues esta sala es la que decide si las actuaciones de la administración pública valenciana son legales o no.",
+    "resumen_tweet": "⚖️ Nuevo cargo 'a dedo' en la cúpula judicial valenciana. Antonio López Tomás presidirá la Sala de lo Contencioso del TSJCV por decisión 'discrecional' del CGPJ. La transparencia en los méritos brilla por su ausencia. #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (arbitrariedad permitida)",
+      "Falta de justificación de méritos en el extracto",
+      "Inexistencia de mención a la terna de candidatos",
+      "Ausencia de perspectiva de género en la designación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio López Tomás",
+        "Estamentos tradicionales del CGPJ"
+      ],
+      "perdedores": [
+        "Transparencia en procesos selectivos",
+        "Candidatas mujeres (brecha en altos cargos)",
+        "Mérito y capacidad auditable por la ciudadanía"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional (arbitrariedad permitida)",
+      "Falta de justificación de méritos en el extracto",
+      "Inexistencia de mención a la terna de candidatos",
+      "Ausencia de perspectiva de género en la designación"
+    ]
+  },
+  "tweeted": false
+}
