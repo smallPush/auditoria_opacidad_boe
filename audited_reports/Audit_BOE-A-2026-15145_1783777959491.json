@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15145",
+  "timestamp": "2026-07-11T13:52:39.491Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de Cádiz, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento sigue la estructura burocrática estándar para el nombramiento de funcionarios de carrera. Se detecta una opacidad inherente en la mención de los 'emolumentos que correspondan', una fórmula que evita desglosar el coste real para las arcas públicas de cada plaza consolidada. Existe paridad de género exacta (3 hombres, 3 mujeres), lo que sugiere un cumplimiento de las políticas de igualdad, aunque no se detalla el proceso de selección previo ni los criterios de mérito específicos que justifican estos nombramientos vitalicios.",
+    "resumen_ciudadano": "La Universidad de Cádiz ha nombrado formalmente a seis nuevos Profesores Titulares en áreas que van desde el Trabajo Social hasta la Ingeniería. Estas personas pasan a ser funcionarios de carrera con plazas permanentes pagadas con dinero público.",
+    "resumen_tweet": "🎓 La Universidad de Cádiz nombra 6 nuevos profesores titulares. Aunque hay paridad (3♀️/3♂️), el #BOE oculta el coste real de estas plazas fijas tras fórmulas genéricas. ¿Transparencia o burocracia opaca? 🧐 #Opacidad #Transparencia #Cádiz",
+    "banderas_red_flags": [
+      "Opacidad en el gasto (emolumentos no cifrados)",
+      "Falta de detalle en los criterios de selección en el texto final",
+      "Consolidación de gasto público estructural sin memoria económica adjunta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 nuevos funcionarios (estabilidad laboral vitalicia)",
+        "Universidad de Cádiz (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el proceso de selección",
+        "Contribuyentes (por falta de transparencia en el coste salarial exacto)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en el gasto (emolumentos no cifrados)",
+      "Falta de detalle en los criterios de selección en el texto final",
+      "Consolidación de gasto público estructural sin memoria económica adjunta"
+    ]
+  },
+  "tweeted": false
+}
