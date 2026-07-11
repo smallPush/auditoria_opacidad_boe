@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-15131",
+  "timestamp": "2026-07-11T13:43:48.893Z",
+  "title": "Ley 1/2026, de 2 de julio, de creación de la entidad pública empresarial Agencia Extremeña de la Energía (AGENEX).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La creación de AGENEX como Entidad Pública Empresarial (EPE) bajo régimen de derecho privado supone un movimiento clásico de 'huida del Derecho Administrativo'. Aunque se justifica por la salida de la Diputación de Cáceres del consorcio previo, la ley otorga a la nueva agencia la condición de 'medio propio personificado', lo que le permite recibir encomiendas de gestión y contratos de la Junta de Extremadura sin pasar por licitaciones públicas competitivas en muchos casos. La 'cesión global de activos y pasivos' del antiguo consorcio a la EPE es un proceso contable que suele ocultar ineficiencias previas. Además, se le otorga la potestad de conceder subvenciones directas, lo que reduce la concurrencia y el control parlamentario sobre el gasto energético.",
+    "resumen_ciudadano": "Extremadura transforma su Agencia de la Energía en una empresa pública que funcionará mayoritariamente bajo leyes privadas. Se encargará de gestionar el Bono Social Térmico, planes de ahorro y captación de inversiones. El riesgo principal es que, al ser un 'medio propio' de la Junta, se convierta en una estructura para adjudicar proyectos y contratar personal eludiendo los controles estrictos de la administración pública ordinaria.",
+    "resumen_tweet": "🕵️‍♂️ ALERTA #BOE: Extremadura crea AGENEX, nueva empresa pública de energía. ¿Eficiencia o control? Al ser 'medio propio', recibirá contratos sin licitación abierta. Ojo a la gestión privada de fondos públicos. 💸 #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Uso del régimen jurídico privado para actividades externas",
+      "Condición de medio propio personificado para adjudicaciones directas",
+      "Capacidad de conceder subvenciones de forma directa sin convocatoria pública",
+      "Traspaso opaco de activos y pasivos del consorcio disuelto",
+      "Posible duplicidad de funciones con la Dirección General de Industria, Energía y Minas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la nueva estructura directiva de AGENEX",
+        "Grandes empresas energéticas (interlocutores preferentes en planes estratégicos)",
+        "Personal contratado bajo régimen laboral privado (menos exigente que la función pública)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el coste de la nueva estructura burocrática)",
+        "PYMES del sector que pierden oportunidades frente a la gestión directa del medio propio",
+        "Transparencia pública (menor fiscalización de la gestión de subvenciones)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Creación de Entidad Pública Empresarial",
+    "banderas_rojas": [
+      "Uso del régimen jurídico privado para actividades externas",
+      "Condición de medio propio personificado para adjudicaciones directas",
+      "Capacidad de conceder subvenciones de forma directa sin convocatoria pública",
+      "Traspaso opaco de activos y pasivos del consorcio disuelto",
+      "Posible duplicidad de funciones con la Dirección General de Industria, Energía y Minas"
+    ]
+  },
+  "tweeted": false
+}
