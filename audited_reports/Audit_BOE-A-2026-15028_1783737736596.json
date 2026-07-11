@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15028",
+  "timestamp": "2026-07-11T02:42:16.596Z",
+  "title": "Real Decreto 562/2026, de 8 de julio, por el que se regula la concesión directa de subvenciones a las organizaciones sindicales de la Policía Nacional con representación en el Consejo de Policía.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 562/2026 representa un giro hacia la opacidad institucional al sustituir el regimen de concurrencia competitiva por el de concesion directa. La justificacion de la predeterminacion de beneficiarios por resultados electorales es un artificio legal que blinda financieramente a las estructuras sindicales existentes, eliminando la obligacion de competir mediante proyectos de utilidad social. Se observa una clara incongruencia ideologica: mientras se apela a la eficiencia, se crea un sistema de asignacion automatica de remanentes presupuestarios que carece de un destino claro, lo que encaja en la definicion de gastos fantasma. Ademas, el sistema de dietas por asistencia a plenos y comisiones (hasta 240 euros por sesion) incentiva la burocratizacion del conflicto laboral en lugar de su resolucion.",
+    "resumen_ciudadano": "El Gobierno ha decidido que los sindicatos de la Policia Nacional reciban subvenciones de forma directa y automatica, sin tener que presentar proyectos especificos ni competir por los fondos. El dinero se repartira segun los votos obtenidos y tambien se pagara a los sindicatos por cada reunion a la que asistan. Este cambio reduce el control publico sobre como se gasta el dinero de los impuestos en la accion sindical policial.",
+    "resumen_tweet": "🚨 Alerta #BOE: El Gobierno blinda la caja de los sindicatos policiales. Pasan de competir por proyectos a recibir dinero DIRECTO por votos y por ir a reuniones. ¿Financiacion de la labor sindical o compra de paz social? 💸👮‍♂️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Supresion del regimen de concurrencia competitiva",
+      "Reparto de fondos remanentes sin fin especifico",
+      "Pagos por asistencia vinculados a disponibilidad presupuestaria",
+      "Autofiscalizacion: el Consejo de Policia informa sobre sus propias ayudas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sindicatos mayoritarios con representacion en el Consejo",
+        "Cupulas sindicales actuales",
+        "Ministerio del Interior (asegura paz social)"
+      ],
+      "perdedores": [
+        "Sindicatos minoritarios sin representacion",
+        "Nuevas plataformas sindicales",
+        "Ciudadania (menor fiscalizacion del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones",
+    "banderas_rojas": [
+      "Supresion del regimen de concurrencia competitiva",
+      "Reparto de fondos remanentes sin fin especifico",
+      "Pagos por asistencia vinculados a disponibilidad presupuestaria",
+      "Autofiscalizacion: el Consejo de Policia informa sobre sus propias ayudas"
+    ]
+  },
+  "tweeted": false
+}
