@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15147",
+  "timestamp": "2026-07-11T13:57:34.741Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de las Illes Balears, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento cumple con la formalidad administrativa, pero mantiene la opacidad estructural del sistema universitario. Se citan códigos de plaza (ej. 803219) que resultan ininteligibles para el ciudadano promedio, ocultando el coste salarial real de estos ascensos. Existe una brecha de género evidente en este lote de nombramientos (75% hombres), lo que sugiere que los mecanismos de promoción interna siguen favoreciendo perfiles masculinos en la alta jerarquía académica (Catedráticos).",
+    "resumen_ciudadano": "La Universidad de las Illes Balears ha nombrado a cuatro nuevos catedráticos en las áreas de Filología Inglesa, Ingeniería Telemática, Filología Catalana e Historia Moderna. Es un proceso de promoción interna que consolida plazas permanentes con mayor rango y sueldo.",
+    "resumen_tweet": "🎓 Nuevo reparto de sillas en la Universidad de las Illes Balears. 4 catedráticos nuevos: 75% hombres y 25% mujeres. ¿Y la paridad real? Códigos de plaza que ocultan el gasto público real. #BOE #Opacidad #Transparencia #Universidad #BrechaDeGenero",
+    "banderas_red_flags": [
+      "Desequilibrio de género en altos cargos (3 hombres frente a 1 mujer)",
+      "Uso de códigos numéricos de plaza sin desglose presupuestario",
+      "Falta de detalle sobre los méritos específicos que motivaron la elección por encima de otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Igor Prieto Arranz",
+        "Felip Riera Palou",
+        "Maria Margalida Pons Jaume",
+        "Miguel José Deyá Bauzá",
+        "Estructura funcionarial universitaria"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (infrarrepresentadas en este lote)",
+        "Contribuyentes (desconocen el impacto económico exacto)",
+        "Personal docente precario sin acceso a cátedra"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de Personal Funcionario de Carrera",
+    "banderas_rojas": [
+      "Desequilibrio de género en altos cargos (3 hombres frente a 1 mujer)",
+      "Uso de códigos numéricos de plaza sin desglose presupuestario",
+      "Falta de detalle sobre los méritos específicos que motivaron la elección por encima de otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
