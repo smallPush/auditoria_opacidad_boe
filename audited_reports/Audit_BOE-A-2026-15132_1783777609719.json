@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15132",
+  "timestamp": "2026-07-11T13:46:49.719Z",
+  "title": "Acuerdo de 7 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en situación administrativa de servicios especiales en la Carrera Judicial al Magistrado don Juan Luis Lorenzo Bragado.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El acuerdo documenta el paso de un alto cargo judicial (Presidente del TSJ de Canarias) a una plaza de menor exigencia politica/administrativa como Encargado del Registro Civil, utilizando la figura de 'servicios especiales'. El punto critico es el blindaje de privilegios: se le garantiza preferencia absoluta durante tres años para elegir cualquier plaza vacante. Esto crea una jerarquia de privilegios dentro de la propia carrera judicial, donde los altos cargos retienen 'tickets dorados' que impiden la promocion basada estrictamente en el merito y capacidad de otros magistrados sin tales contactos o antecedentes de mando.",
+    "resumen_ciudadano": "El ex-Presidente del Tribunal Superior de Justicia de Canarias deja su cargo para dirigir el Registro Civil de Santa Cruz de Tenerife. A pesar del cambio, el sistema le permite mantener un derecho de prioridad sobre otros jueces para elegir su proximo destino durante los proximos tres años. Es un mecanismo legal que asegura que la elite judicial nunca pierda su estatus ni sus opciones de movilidad preferente frente al resto de funcionarios de la carrera.",
+    "resumen_tweet": "🚨 ¿Privilegios judiciales? El ex-Presidente del TSJ Canarias pasa al Registro Civil manteniendo un 'blindaje' de 3 años para elegir plaza preferente. Una red de seguridad para la elite que limita la meritocracia. ⚖️🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reserva de plaza privilegiada",
+      "Carrera judicial de dos velocidades",
+      "Mecanismos de autoproteccion de altos cargos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Luis Lorenzo Bragado (mantiene movilidad preferente)",
+        "Altos cargos del CGPJ (mantenimiento del statu quo)"
+      ],
+      "perdedores": [
+        "Magistrados de base (ven bloqueadas plazas por derechos de preferencia)",
+        "Sistema de meritocracia judicial"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Situaciones Administrativas y Nombramientos",
+    "banderas_rojas": [
+      "Reserva de plaza privilegiada",
+      "Carrera judicial de dos velocidades",
+      "Mecanismos de autoproteccion de altos cargos"
+    ]
+  },
+  "tweeted": false
+}
