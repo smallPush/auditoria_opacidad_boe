@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-15148",
+  "timestamp": "2026-07-11T13:54:55.059Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de León, por la que se nombra Catedrática de Universidad a doña Rosa María Valencia Barrera.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera de nivel superior (Catedrática de Universidad) en la Universidad de León. La resolución es transparente en cuanto a la base legal (Ley Orgánica 2/2023) y el procedimiento de concurso previo. Sin embargo, existe una opacidad intrínseca en el BOE sobre el coste real para el erario público, ya que no se especifica el nivel retributivo ni el impacto presupuestario del código de plaza DF001189. Es un gasto estructural consolidado de por vida bajo el régimen de funcionariado.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado oficialmente a Rosa María Valencia Barrera como Catedrática de Botánica tras superar el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nueva Catedrática de Botánica en la Universidad de León. Rosa María Valencia Barrera accede a la máxima categoría docente. Trámite legal cumplido, pero ¿cuánto nos cuesta esta plaza fija? El #BOE sigue sin detallar salarios. #Transparencia #León",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Referencia a códigos de inventario de plazas (DF001189) inaccesibles para el ciudadano común"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rosa María Valencia Barrera (consolidación de carrera y estatus)",
+        "Universidad de León (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la falta de transparencia en la cuantía del gasto público generado)",
+        "Candidatos externos (en caso de ser una promoción interna encubierta)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario asociado a la plaza",
+      "Referencia a códigos de inventario de plazas (DF001189) inaccesibles para el ciudadano común"
+    ]
+  },
+  "tweeted": false
+}
