@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15030",
+  "timestamp": "2026-07-11T03:28:49.702Z",
+  "title": "Real Decreto 563/2026, de 8 de julio, por el que se aprueban los Estatutos del Instituto de Censores Jurados de Cuentas de España.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 563/2026 formaliza una estructura de 'autovigilancia' bajo el paraguas de Corporación de Derecho Público. Aunque se menciona la subordinación al ICAC (sector público), el texto devuelve al Instituto de Censores Jurados de Cuentas (ICJCE) la capacidad de elaborar sus propias normas técnicas y códigos de conducta. Esta delegación de funciones públicas en un ente privado genera un riesgo de 'captura del regulador', donde los auditores terminan definiendo la intensidad de su propia fiscalización. Se detecta una retórica de transparencia que enmascara el fortalecimiento del lobby de la auditoría frente a la supervisión estatal directa.",
+    "resumen_ciudadano": "Se actualizan las reglas del juego para los auditores de cuentas en España. El decreto define cómo se gobiernan, cómo sancionan a sus miembros y cómo cobran. Lo más relevante es que se les permite seguir redactando las normas técnicas que ellos mismos deben cumplir, manteniendo un sistema de gremio cerrado que influye directamente en el control de las grandes empresas del país.",
+    "resumen_tweet": "🛡️ ¿Quién audita al auditor? El nuevo RD 563/2026 refuerza el poder del gremio de Censores Jurados de Cuentas. Menos control público directo y más autogestión normativa. ¿Garantiza esto transparencia real? 🧐💼 #BOE #Opacidad #Transparencia #Auditoria",
+    "banderas_red_flags": [
+      "Autoregulación de criterios orientativos de honorarios (posible pacto de precios)",
+      "Régimen disciplinario gestionado internamente (juez y parte)",
+      "Control de acceso a la profesión mediante exámenes organizados por el propio gremio",
+      "Opacidad en la gestión de 'recursos extraordinarios' del régimen económico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes firmas de auditoría (Big Four)",
+        "Censores jurados con antigüedad",
+        "Estructuras territoriales del Instituto"
+      ],
+      "perdedores": [
+        "Auditores noveles (barreras de entrada más rígidas)",
+        "Pequeños despachos independientes",
+        "Ciudadanía (menor independencia real en la fiscalización de cuentas corporativas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Estatutos Profesionales",
+    "banderas_rojas": [
+      "Autoregulación de criterios orientativos de honorarios (posible pacto de precios)",
+      "Régimen disciplinario gestionado internamente (juez y parte)",
+      "Control de acceso a la profesión mediante exámenes organizados por el propio gremio",
+      "Opacidad en la gestión de 'recursos extraordinarios' del régimen económico"
+    ]
+  },
+  "tweeted": false
+}
