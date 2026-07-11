@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-15033",
+  "timestamp": "2026-07-11T03:34:39.417Z",
+  "title": "Real Decreto 566/2026, de 8 de julio, por el que se regula la concesión directa de una subvención a Cruz Roja Española para la puesta en marcha del Servicio de teleasistencia móvil a víctimas de violencia contra las mujeres (servicio ATENPRO 2.0).",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 566/2026 utiliza la figura de 'concesión directa' bajo el artículo 22.2.c de la Ley General de Subvenciones, una herramienta legal que permite evitar el concurso público alegando 'interés público'. Lo más alarmante es la justificación de que Cruz Roja es la 'única entidad capacitada' debido a su experiencia desde 2013, lo que consolida un monopolio técnico que impide la entrada de nuevos actores tecnológicos o del tercer sector que podrían ofrecer mayor eficiencia o menor coste. Además, se admite que la subvención no figuraba en el Plan Estratégico de Subvenciones 2024-2026, recurriendo a una modificación presupuestaria 'ad hoc', lo que debilita la planificación y fiscalización previa.",
+    "resumen_ciudadano": "El Gobierno ha otorgado una subvención directa (sin concurso) a Cruz Roja para modernizar el sistema de teleasistencia para víctimas de violencia de género (ATENPRO 2.0). Aunque el fin es mejorar la tecnología y la cobertura rural, se hace saltándose la libre competencia entre entidades, alegando que solo Cruz Roja sabe gestionar este servicio. Se financiará mediante cambios en el presupuesto original del Ministerio de Igualdad.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Subvención DIRECTA a Cruz Roja para ATENPRO 2.0 sin concurso público 🚩 El Gobierno alega 'exclusividad técnica', blindando un monopolio de servicios sociales. Gasto no planificado en el Plan Estratégico. 💸 ¿Transparencia? #Opacidad",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de exclusividad técnica dudosa",
+      "Gasto no integrado originalmente en el Plan Estratégico de Subvenciones",
+      "Uso de modificaciones presupuestarias para saltar la planificación",
+      "Concentración de recursos en una sola entidad privada (Cruz Roja)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cruz Roja Española (financiación asegurada y control tecnológico)",
+        "Ministerio de Igualdad (ejecución rápida de fondos sin trabas administrativas de concurso)"
+      ],
+      "perdedores": [
+        "Otras ONGs y empresas tecnológicas (excluidas del proceso)",
+        "Contribuyentes (falta de optimización de costes por ausencia de competencia)",
+        "Sistema de transparencia pública (uso de excepciones legales como norma)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de exclusividad técnica dudosa",
+      "Gasto no integrado originalmente en el Plan Estratégico de Subvenciones",
+      "Uso de modificaciones presupuestarias para saltar la planificación",
+      "Concentración de recursos en una sola entidad privada (Cruz Roja)"
+    ]
+  },
+  "tweeted": false
+}
