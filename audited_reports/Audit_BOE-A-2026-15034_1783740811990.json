@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15034",
+  "timestamp": "2026-07-11T03:33:31.990Z",
+  "title": "Resolución 5/2026, de 1 de julio, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico complementarias en la Comunidad Autónoma del País Vasco, con motivo del eclipse total solar que tendrá lugar el 12 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución utiliza un evento natural (eclipse solar) para imponer una restricción total de 24 horas al transporte pesado en toda la red viaria vasca. Aunque se justifica por seguridad, la opacidad reside en la cláusula de 'levantamiento excepcional' y en las 'instrucciones oportunas a la Ertzaintza', que permiten una gestión discrecional de quién puede o no circular sin criterios técnicos públicos previos. Esto genera incertidumbre jurídica para el sector logístico bajo una apariencia de mera ordenación del tráfico.",
+    "resumen_ciudadano": "El 12 de agosto de 2026, con motivo del eclipse total de sol, se prohíbe la circulación de camiones de más de 7.500 kg en todo el País Vasco durante todo el día. Solo se permitirá el paso a autobuses y ciertos servicios esenciales. La administración podrá cambiar estas reglas sobre la marcha si lo considera necesario.",
+    "resumen_tweet": "🌑 El eclipse solar de 2026 paralizará el transporte de mercancías en Euskadi. Prohibida la circulación de camiones >7,5t todo el 12/08. Ojo: la autoridad se reserva el poder de dar excepciones 'a medida'. 🚚🛑 #BOE #Opacidad #Tráfico #Eclipse2026",
+    "banderas_red_flags": [
+      "Poder discrecional de levantamiento de restricciones",
+      "Falta de criterios objetivos para las excepciones",
+      "Restricción total de 24 horas sin itinerarios alternativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Turistas y observadores del eclipse",
+        "Sector hostelería (vías libres para clientes)",
+        "Empresas de transporte de pasajeros"
+      ],
+      "perdedores": [
+        "Sector del transporte de mercancías por carretera",
+        "Logística industrial y de suministro",
+        "Transportistas autónomos (pérdida de jornada laboral)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Regulación de Tráfico y Seguridad Vial",
+    "banderas_rojas": [
+      "Poder discrecional de levantamiento de restricciones",
+      "Falta de criterios objetivos para las excepciones",
+      "Restricción total de 24 horas sin itinerarios alternativos"
+    ]
+  },
+  "tweeted": false
+}
