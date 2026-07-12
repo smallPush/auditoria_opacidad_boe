@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-15135",
+  "timestamp": "2026-07-12T03:46:41.820Z",
+  "title": "Corrección de errores de la Orden PJC/616/2026, de 15 de junio, por la que se nombran miembros de la Comisión Consultiva de Protección del Informante.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una corrección técnica de apellidos en un órgano de alta sensibilidad política y social: la Comisión Consultiva de Protección del Informante. Aunque el error parece trivial (intercambio de apellidos), la falta de rigor inicial en el nombramiento de quienes deben tutelar a los denunciantes de corrupción proyecta una imagen de descuido administrativo. La opacidad no reside en el error, sino en la ausencia de publicidad sobre los criterios de idoneidad de los elegidos dentro del mismo documento.",
+    "resumen_ciudadano": "El Gobierno ha tenido que corregir el nombre de un vocal de la Comisión de Protección del Informante, Óscar Sánchez Muñoz, cuyo nombre figuraba incorrectamente en la publicación original de junio. Es un trámite burocrático para subsanar un error en la identificación oficial de un cargo público.",
+    "resumen_tweet": "🧐 Errata en el #BOE: Justicia corrige los apellidos de un miembro de la Comisión de Protección del Informante. Rigor bajo en la gestión de un órgano vital contra la corrupción. ¿Despiste o desinterés? 🕵️‍♂️⚖️ #Transparencia #Opacidad #España",
+    "banderas_red_flags": [
+      "Falta de rigor en la identificación de cargos en órganos de control",
+      "Gestión administrativa descuidada en materia de anticorrupción",
+      "Ausencia de transparencia sobre los méritos de los nombrados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Óscar Sánchez Muñoz (obtiene la seguridad jurídica de su nombramiento correcto)"
+      ],
+      "perdedores": [
+        "Ciudadanía (paga el coste operativo de republicar y subsanar errores evitables)",
+        "Institucionalidad (pérdida de imagen de profesionalidad en la lucha contra la opacidad)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Corrección de errores / Nombramientos",
+    "banderas_rojas": [
+      "Falta de rigor en la identificación de cargos en órganos de control",
+      "Gestión administrativa descuidada en materia de anticorrupción",
+      "Ausencia de transparencia sobre los méritos de los nombrados"
+    ]
+  },
+  "tweeted": false
+}
