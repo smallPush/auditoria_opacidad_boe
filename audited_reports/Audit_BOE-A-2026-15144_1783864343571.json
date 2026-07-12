@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15144",
+  "timestamp": "2026-07-12T13:52:23.571Z",
+  "title": "Resolución de 30 de junio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrático de Universidad a don Asier Eiguren Goyenechea.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un Catedrático de Universidad (Funcionario de Carrera) tras un concurso de acceso. Aunque se cita la base legal (LOSU 2/2023), el documento carece de transparencia sobre los costes salariales asociados a largo plazo y los criterios específicos que permitieron al candidato superar a otros aspirantes. Es un ejemplo de endogamia procedimental donde se formaliza una plaza cuya financiación pública es opaca en este extracto.",
+    "resumen_ciudadano": "La Universidad del País Vasco nombra oficialmente a un nuevo catedrático en el área de Física de la Materia Condensada. Este es un cargo vitalicio pagado con fondos públicos que implica un compromiso presupuestario permanente para la institución.",
+    "resumen_tweet": "🎓 Nueva cátedra vitalicia en la UPV/EHU. El #BOE publica el nombramiento en Física, pero ¿cuánto nos cuesta esta plaza a largo plazo? La burocracia administrativa oculta las cifras reales tras códigos genéricos. 🔍 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario del puesto",
+      "Falta de visibilidad sobre los méritos comparativos del proceso",
+      "Uso de códigos internos (CUC8/1-D00341-24) que impiden el rastreo ciudadano del gasto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El candidato nombrado (estabilidad laboral y estatus de funcionario de máximo nivel)",
+        "La estructura burocrática universitaria"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocen el coste total de la plaza)",
+        "Investigadores jóvenes sin plazas fijas (limitación de acceso por consolidación de plazas senior)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario del puesto",
+      "Falta de visibilidad sobre los méritos comparativos del proceso",
+      "Uso de códigos internos (CUC8/1-D00341-24) que impiden el rastreo ciudadano del gasto"
+    ]
+  },
+  "tweeted": false
+}
