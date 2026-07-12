@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15137",
+  "timestamp": "2026-07-12T13:49:09.883Z",
+  "title": "Resolución 430/38314/2026, de 1 de julio, de la Subsecretaría, por la que se nombra personal estatutario fijo en la categoría de Técnico/a Medio Sanitario: Cuidados Auxiliares de Enfermería en la Red Hospitalaria de la Defensa, y por la que se modifica la Resolución 430/38556/2025, de 23 de diciembre, por la que se publica la relación de personas aprobadas en el proceso selectivo de ingreso, por el sistema general de acceso libre, convocado por Resolución 400/38535/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución revela una gestión ineficiente de las plazas reservadas: el 95% de las vacantes destinadas al cupo militar (21 de 22) quedaron desiertas y tuvieron que ser transferidas al cupo general. Asimismo, se detecta una falta de depuración en las listas previas, ya que se nombra a personas que ya ostentaban la condición de personal fijo o que renuncian de inmediato. La centralización absoluta en Madrid para las plazas restantes limita la movilidad geográfica y favorece el desarraigo de los profesionales sanitarios.",
+    "resumen_ciudadano": "El Ministerio de Defensa nombra oficialmente a nuevos auxiliares de enfermería (TCAE) para sus hospitales. El dato más relevante es que casi todas las plazas que estaban guardadas exclusivamente para militares no se llenaron, por lo que se han entregado a ciudadanos que entraron por el turno libre. Los nuevos puestos se concentran únicamente en Madrid.",
+    "resumen_tweet": "🏥 ¿Falta de interés? En el #BOE de hoy, Defensa adjudica plazas de enfermería. ¡Ojo! 21 de las 22 plazas reservadas para militares quedan DESIERTAS y pasan al cupo general. Todo centralizado en Madrid. 📉 #Transparencia #Opacidad #Sanidad",
+    "banderas_red_flags": [
+      "Plazas de reserva militar desiertas (95%)",
+      "Falta de depuración de listas (nombramientos duplicados)",
+      "Centralización total de destinos en Madrid",
+      "Alta tasa de renuncias inmediatas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes del cupo general (obtienen 21 plazas extra por rebote)",
+        "Sector sanitario civil en Madrid"
+      ],
+      "perdedores": [
+        "Personal militar (que no optó o no pudo acceder a las plazas reservadas)",
+        "Candidatos de provincias (sin opciones de destino fuera de la capital)",
+        "Eficiencia administrativa (proceso con múltiples rectificaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Procesos Selectivos",
+    "banderas_rojas": [
+      "Plazas de reserva militar desiertas (95%)",
+      "Falta de depuración de listas (nombramientos duplicados)",
+      "Centralización total de destinos en Madrid",
+      "Alta tasa de renuncias inmediatas"
+    ]
+  },
+  "tweeted": false
+}
