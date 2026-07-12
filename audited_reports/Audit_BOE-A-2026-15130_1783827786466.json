@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15130",
+  "timestamp": "2026-07-12T03:43:06.466Z",
+  "title": "Corrección de errores de la Orden EFD/1333/2025, de 20 de noviembre, por la que se adaptan ciertos aspectos del Sistema de Formación Profesional para su pleno desarrollo en el sistema de enseñanza del Ministerio de Defensa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Aunque se presenta como una simple corrección de errores, el texto revela un cambio estructural en la cadena de mando administrativa para la acreditación de competencias profesionales en el ámbito militar. Se desplaza la autoridad de la Subdirección General de Enseñanza Militar hacia la Subdirección General de Reclutamiento y Desarrollo Profesional. Esta 'errata' masiva en seis artículos fundamentales sugiere una falta de coordinación inicial entre el Ministerio de Educación y el de Defensa, afectando directamente a la seguridad jurídica de los militares y reservistas que iniciaron procesos de acreditación de FP bajo la normativa original errónea.",
+    "resumen_ciudadano": "El Gobierno ha tenido que corregir múltiples puntos de la ley que regula cómo los militares obtienen títulos de Formación Profesional. El cambio principal es la oficina encargada de gestionar los papeles y resolver las quejas: ya no es el área de 'Enseñanza', sino la de 'Reclutamiento y Desarrollo Profesional'. Si eres militar o reservista y esperas una respuesta a tu acreditación o quieres reclamar, debes dirigirte a este nuevo organismo para evitar que tu solicitud se pierda en el vacío administrativo.",
+    "resumen_tweet": "🔍 #BOE: Baile de nombres en Defensa. Se corrige el órgano que acredita la FP militar tras meses de error. ¿Afectó esto a los recursos de los soldados? La burocracia oculta cambios de poder. 📑🇪🇸 #Opacidad #Transparencia #FuerzasArmadas",
+    "banderas_red_flags": [
+      "Reestructuración de competencias camuflada como corrección de errores",
+      "Posible indefensión jurídica en recursos de alzada presentados ante el órgano equivocado",
+      "Dilación en la actualización del catálogo de estándares de competencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Subdirección General de Reclutamiento y Desarrollo Profesional (gana peso administrativo)",
+        "Reservistas de Especial Disponibilidad (ahora explícitamente incluidos en la gestión)"
+      ],
+      "perdedores": [
+        "Personal militar (posible confusión en trámites)",
+        "Transparencia institucional (errores de bulto en la redacción original)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa/Militar",
+    "banderas_rojas": [
+      "Reestructuración de competencias camuflada como corrección de errores",
+      "Posible indefensión jurídica en recursos de alzada presentados ante el órgano equivocado",
+      "Dilación en la actualización del catálogo de estándares de competencia"
+    ]
+  },
+  "tweeted": false
+}
