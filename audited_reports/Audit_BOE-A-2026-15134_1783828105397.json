@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15134",
+  "timestamp": "2026-07-12T03:48:25.397Z",
+  "title": "Resolución de 8 de julio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos en embajadas extranjeras constituye un mecanismo de discrecionalidad técnica que, aunque legal, bordea el clientelismo administrativo. En este caso, la adjudicación de una Cancillería en La Haya (Nivel 24) a una funcionaria que procede de un Nivel 26 sugiere que el atractivo del destino y sus probables indemnizaciones por residencia en el extranjero compensan el descenso de nivel administrativo. La opacidad reside en la falta de una comparativa pública de méritos, limitándose el BOE a informar del resultado final de una elección basada en la 'confianza'.",
+    "resumen_ciudadano": "Se ha asignado a dedo un puesto de Canciller en la Embajada de España en los Países Bajos. El Ministerio de Exteriores utiliza la 'libre designación', un método que permite elegir personal sin un concurso público de méritos abierto, lo que dificulta saber si se ha elegido a la persona más capacitada o a la más cercana al poder.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza? El Ministerio de Exteriores adjudica 'a dedo' la Cancillería en la Embajada de Países Bajos 🇳🇱. El sistema de Libre Designación sigue blindando la discrecionalidad en puestos clave del servicio exterior. 💼👁️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Descenso de nivel administrativo (de 26 a 24) condicionado por beneficios de destino",
+      "Falta de memoria justificativa del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adjudicataria (acceso a destino internacional de alto nivel)",
+        "Subsecretaría de Exteriores (mantenimiento de cuotas de poder discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores sin vínculos de confianza",
+        "Transparencia pública (imposibilidad de auditar la idoneidad del perfil)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Servicio Exterior",
+    "tipologia": "Nombramiento de personal por libre designación",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Descenso de nivel administrativo (de 26 a 24) condicionado por beneficios de destino",
+      "Falta de memoria justificativa del nombramiento"
+    ]
+  },
+  "tweeted": false
+}
