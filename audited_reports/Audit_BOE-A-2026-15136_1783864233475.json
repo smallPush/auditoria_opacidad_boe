@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15136",
+  "timestamp": "2026-07-12T13:50:33.475Z",
+  "title": "Resolución 430/38313/2026, de 1 de julio, de la Subsecretaría, por la que se modifica la Resolución 430/38139/2026, de 10 de marzo, por la que se nombra personal estatutario fijo en la categoría de Enfermero/a en la Red Hospitalaria de la Defensa, y por la que se modifica la Resolución 430/38554/2025, de 23 de diciembre, por la que se publica la relación de personas aprobadas en el proceso selectivo de ingreso, por el sistema general de acceso libre, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Enfermero/a y de Matrona, en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38533/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento revela una gestión de recursos humanos en Defensa marcada por el fracaso de los incentivos específicos. Es alarmante que el 98% de las plazas reservadas para militares (54 de 55) y el 87% de las de discapacidad hayan quedado desiertas. Aunque el proceso es formalmente transparente, la transferencia masiva de plazas de reserva al cupo general indica una desconexión entre la oferta legislada y la realidad de los candidatos cualificados en esos colectivos. Además, el retraso administrativo es notable: un proceso iniciado en 2024 no se resuelve definitivamente hasta mediados de 2026.",
+    "resumen_ciudadano": "Defensa nombra a nuevos enfermeros para sus hospitales tras la renuncia de varios candidatos iniciales. La mayoría de las plazas que estaban reservadas por ley para militares y personas con discapacidad no se han cubierto con esos perfiles y han pasado a la lista general de aspirantes. Casi todos los destinos se concentran en Madrid.",
+    "resumen_tweet": "🔍 Auditoría #BOE: ¡Fracaso en las plazas reservadas! 🏥 De 55 puestos de enfermería para militares en Defensa, 54 quedan desiertos y pasan al cupo general. ¿Mala planificación o falta de interés? 98% de vacantes en reserva. 📉 #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "98% de plazas de reserva militar desiertas",
+      "87% de plazas de reserva por discapacidad desiertas",
+      "Dilación temporal excesiva (convocatoria 2024, resolución 2026)",
+      "Concentración geográfica extrema en Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes del cupo general (se benefician de 54 plazas adicionales)",
+        "Hospital Central de la Defensa en Madrid"
+      ],
+      "perdedores": [
+        "Personal militar (nula ocupación de su reserva)",
+        "Colectivo de personas con discapacidad",
+        "Candidatos de Zaragoza (plazas residuales frente a Madrid)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "98% de plazas de reserva militar desiertas",
+      "87% de plazas de reserva por discapacidad desiertas",
+      "Dilación temporal excesiva (convocatoria 2024, resolución 2026)",
+      "Concentración geográfica extrema en Madrid"
+    ]
+  },
+  "tweeted": false
+}
