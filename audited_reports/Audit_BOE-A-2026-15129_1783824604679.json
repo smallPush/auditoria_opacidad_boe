@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15129",
+  "timestamp": "2026-07-12T02:50:04.679Z",
+  "title": "Resolución de 10 de julio de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion detalla los precios de venta al publico del tabaco bajo un control estatal estricto que, aunque transparente en cifras, oculta el desglose real de la carga impositiva. Existe una disparidad flagrante entre productos de consumo masivo y articulos de lujo (ej. Plasencia a 49,95 euros la unidad), lo que refleja una segmentacion de clase en el vicio. Se mantiene la incongruencia ideologica de un Estado que promueve la salud publica mientras gestiona con precision quirurgica la recaudacion de un mercado adictivo.",
+    "resumen_ciudadano": "Hacienda actualiza el coste de diversas marcas de tabaco, desde cigarrillos comunes hasta puros de lujo y picadura de pipa. Este ajuste es obligatorio para todos los estancos de la Peninsula y Baleares y entra en vigor de forma inmediata.",
+    "resumen_tweet": "🚬 Nuevos precios del tabaco en el #BOE. El Estado regula desde cajetillas a 4€ hasta puros de lujo a 50€. ¿Salud publica o maquina de recaudar? El monopolio sigue blindado mientras el ciudadano paga mas. #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Falta de desglose de impuestos especiales en el PVP",
+      "Validacion estatal de margenes comerciales privados",
+      "Asimetria extrema en precios de productos de lujo frente a consumo popular"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (asegura recaudacion fiscal)",
+        "Fabricantes de lujo (segmento de alto margen)",
+        "Comisionado para el Mercado de Tabacos"
+      ],
+      "perdedores": [
+        "Consumidores finales (menor poder adquisitivo)",
+        "Salud publica (fomento de la adiccion via normalizacion legislativa)",
+        "Clases socioeconomicas bajas (mayor gasto relativo en adicciones)"
+      ]
+    },
+    "comunidad_autonoma": "Peninsula y Baleares",
+    "tipologia": "Resolucion Administrativa de Precios",
+    "banderas_rojas": [
+      "Falta de desglose de impuestos especiales en el PVP",
+      "Validacion estatal de margenes comerciales privados",
+      "Asimetria extrema en precios de productos de lujo frente a consumo popular"
+    ]
+  },
+  "tweeted": false
+}
