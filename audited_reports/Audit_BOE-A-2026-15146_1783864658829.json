@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-15146",
+  "timestamp": "2026-07-12T13:57:38.829Z",
+  "title": "Resolución de 1 de julio de 2026, de la Universidad de las Illes Balears, por la que se nombra Profesor Titular de Universidad a don Juan Bautista Soriano Ortiz.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de personal docente funcionario. Aunque formalmente correcto, destaca la mencion de un 'Departamento de Medicina en constitucion', lo que revela una debilidad estructural institucional donde se asignan plazas a organos que aun no tienen existencia plena, generando una zona gris en la gestion de recursos humanos y materiales. No se explicita el coste economico asociado al proceso de seleccion ni la partida presupuestaria que sustentara la plaza a largo plazo.",
+    "resumen_ciudadano": "La Universidad de las Illes Balears oficializa el nombramiento de Juan Bautista Soriano Ortiz como Profesor Titular de Medicina Preventiva tras superar un concurso de acceso. Es un tramite habitual para consolidar la plantilla docente universitaria bajo la nueva Ley Organica del Sistema Universitario (LOSU).",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la UIB: Medicina Preventiva suma efectivos. Sin embargo, se asigna a un departamento 'en constitucion'. ¿Crecimiento planificado o improvisacion administrativa? 🏛️🔍 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Departamento en estado de constitucion (falta de estructura consolidada)",
+      "Falta de desglose de costes del proceso selectivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Bautista Soriano Ortiz (estabilidad laboral funcionarial)",
+        "Universidad de las Illes Balears (refuerzo de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (opacidad en la baremacion final en este extracto)",
+        "Contribuyente (falta de transparencia sobre el coste de las comisiones de evaluacion)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Departamento en estado de constitucion (falta de estructura consolidada)",
+      "Falta de desglose de costes del proceso selectivo"
+    ]
+  },
+  "tweeted": false
+}
