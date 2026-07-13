@@ -82,7 +82,10 @@ export default defineConfig(({ mode }) => {
         name: 'save-audit-bridge',
         configureServer(server) {
           server.middlewares.use(async (req, res, next) => {
-            if (req.url === '/api/save-audit' && req.method === 'POST') {
+            const isBulk = req.url === '/api/save-audits-bulk';
+            const isSingle = req.url === '/api/save-audit';
+
+            if ((isBulk || isSingle) && req.method === 'POST') {
               if (req.headers['x-bridge-secret'] !== bridgeSecret) {
                 res.statusCode = 403;
                 res.end(JSON.stringify({ error: 'Unauthorized' }));
@@ -92,28 +95,42 @@ export default defineConfig(({ mode }) => {
               req.on('data', chunk => { body += chunk; });
               req.on('end', async () => {
                 try {
-                  const data = JSON.parse(body);
-                  const boeId = String(data.boeId).replace(/[^a-zA-Z0-9_-]/g, '');
-                  const title = data.title;
-                  const audit = data.audit;
+                  const payload = JSON.parse(body);
+                  const items = isBulk ? payload.items : [payload];
 
                   const fs = await import('fs/promises');
                   const path = await import('path');
                   const reportsDir = path.resolve(__dirname, 'audited_reports');
 
-                  const timestamp = Date.now();
-                  const fileName = `Audit_${boeId}_${timestamp}.json`;
-                  const filePath = path.join(reportsDir, fileName);
-                  const auditRecord = {
-                    boe_id: boeId,
-                    timestamp: new Date(timestamp).toISOString(),
-                    title: title || boeId,
-                    report: audit
-                  };
+                  const newEntries = [];
+                  const now = Date.now();
 
-                  await fs.writeFile(filePath, JSON.stringify(auditRecord, null, 2));
+                  for (const item of items) {
+                    const boeId = String(item.boeId).replace(/[^a-zA-Z0-9_-]/g, '');
+                    const title = item.title;
+                    const audit = item.audit;
 
-                  // Update Index
+                    const fileName = `Audit_${boeId}_${now}.json`;
+                    const filePath = path.join(reportsDir, fileName);
+                    const auditRecord = {
+                      boe_id: boeId,
+                      timestamp: new Date(now).toISOString(),
+                      title: title || boeId,
+                      report: audit
+                    };
+
+                    await fs.writeFile(filePath, JSON.stringify(auditRecord, null, 2));
+
+                    newEntries.push({
+                      id: boeId,
+                      titulo: title || boeId,
+                      url_boe: `https://www.boe.es/buscar/doc.php?id=${boeId}`,
+                      transparencia: audit.nivel_transparencia,
+                      fecha_auditoria: auditRecord.timestamp
+                    });
+                  }
+
+                  // Update Index (Once)
                   const files = await fs.readdir(reportsDir);
                   const indexFiles = files.filter(f => f.startsWith('BOE_Audit_Index_'));
 
@@ -128,17 +145,8 @@ export default defineConfig(({ mode }) => {
                   }));
 
                   const currentIndex = indexContents.flat();
-
-                  const entry = {
-                    id: boeId,
-                    titulo: title || boeId,
-                    url_boe: `https://www.boe.es/buscar/doc.php?id=${boeId}`,
-                    transparencia: audit.nivel_transparencia,
-                    fecha_auditoria: auditRecord.timestamp
-                  };
-
                   const seen = new Set();
-                  const updatedIndex = [entry, ...currentIndex].filter(item => {
+                  const updatedIndex = [...newEntries, ...currentIndex].filter(item => {
                     if (seen.has(item.id)) return false;
                     seen.add(item.id);
                     return true;

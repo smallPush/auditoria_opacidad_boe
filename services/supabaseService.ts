@@ -111,42 +111,57 @@ export const getAuditHistory = async (): Promise<AuditHistoryItem[]> => {
 };
 
 export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAuditResponse) => {
-  const newItem: AuditHistoryItem = {
-    boeId,
-    title,
-    audit,
-    timestamp: Date.now()
-  };
+  await saveAuditsToDB([{ boeId, title, audit }]);
+};
 
-  // Save to LocalStorage (always)
+export const saveAuditsToDB = async (items: { boeId: string; title: string; audit: BOEAuditResponse }[]) => {
+  const now = Date.now();
+  const newItems: AuditHistoryItem[] = items.map(item => ({
+    ...item,
+    timestamp: now
+  }));
+
+  // 1. Save to LocalStorage (Bulk)
   const localRaw = localStorage.getItem(STORAGE_KEYS.AUDIT_HISTORY);
   const localData: AuditHistoryItem[] = localRaw ? JSON.parse(localRaw) : [];
-  const filteredLocal = localData.filter(item => item.boeId !== boeId);
-  localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify([newItem, ...filteredLocal]));
 
-  // Save to Local File System (Bridge) if in development
+  const newBoeIds = new Set(newItems.map(item => item.boeId));
+  const filteredLocal = localData.filter(item => !newBoeIds.has(item.boeId));
+
+  localStorage.setItem(STORAGE_KEYS.AUDIT_HISTORY, JSON.stringify([...newItems, ...filteredLocal]));
+
+  // 2. Save to Local File System (Bridge) if in development
   if (import.meta.env.DEV) {
     try {
-      await fetch('/api/save-audit', {
+      // If single item, use existing endpoint for backward compatibility (optional but safer)
+      // or just always use bulk if we update the bridge.
+      // Let's use bulk if more than one, or always bulk if we are confident.
+      const endpoint = items.length > 1 ? '/api/save-audits-bulk' : '/api/save-audit';
+      const body = items.length > 1 ? JSON.stringify({ items }) : JSON.stringify(items[0]);
+
+      await fetch(endpoint, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'X-Bridge-Secret': import.meta.env.VITE_BRIDGE_SECRET },
-        body: JSON.stringify({ boeId, title, audit })
+        body
       });
     } catch (err) {
       console.warn('Local bridge save failed (expected if not using vite dev server):', err);
     }
   }
 
-  // Save to Supabase (if available)
+  // 3. Save to Supabase (Bulk Upsert)
   if (supabase) {
     const { error } = await supabase
       .from('boe_audits')
-      .upsert({
-        boe_id: boeId,
-        title,
-        audit,
-        created_at: new Date().toISOString()
-      }, { onConflict: 'boe_id' });
+      .upsert(
+        items.map(item => ({
+          boe_id: item.boeId,
+          title: item.title,
+          audit: item.audit,
+          created_at: new Date(now).toISOString()
+        })),
+        { onConflict: 'boe_id' }
+      );
 
     if (error) {
       console.error('Error saving to Supabase, but saved to local:', error);

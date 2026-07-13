@@ -7,7 +7,7 @@ import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDa
 import { analyzeBOE } from './services/geminiService';
 import { escapeXml } from './services/xmlUtils';
 import { translations, Language } from './translations';
-import { getAuditHistory, saveAuditToDB } from './services/supabaseService';
+import { getAuditHistory, saveAuditToDB, saveAuditsToDB } from './services/supabaseService';
 import AuditDashboard from './components/AuditDashboard';
 import HistoryDashboard from './components/HistoryDashboard';
 import Navbar from './components/Navbar';
@@ -257,13 +257,17 @@ const App: React.FC = () => {
     try {
       if (Array.isArray(data)) {
         // Bulk import of AuditHistoryItem[]
-        const promises = [];
-        for (const item of data) {
-          if (item && typeof item === 'object' && 'boeId' in item && 'title' in item && 'audit' in item) {
-            promises.push(saveAuditToDB(item.boeId as string, item.title as string, item.audit as BOEAuditResponse));
-          }
+        const validItems = data.filter(item =>
+          item && typeof item === 'object' && 'boeId' in item && 'title' in item && 'audit' in item
+        ).map(item => ({
+          boeId: item.boeId as string,
+          title: item.title as string,
+          audit: item.audit as BOEAuditResponse
+        }));
+
+        if (validItems.length > 0) {
+          await saveAuditsToDB(validItems);
         }
-        await Promise.all(promises);
       } else if (data && typeof data === 'object' && 'boe_id' in data && 'report' in data) {
         // Single report import from Download format
         await saveAuditToDB(data.boe_id, data.title || data.boe_id, data.report);
