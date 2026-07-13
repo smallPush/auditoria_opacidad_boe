@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-15206",
+  "timestamp": "2026-07-13T14:54:48.583Z",
+  "title": "Resolución de 6 de julio de 2026, de la Secretaría de Estado de Justicia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento formaliza un nombramiento mediante el sistema de 'libre designación', un mecanismo que permite la elección discrecional de personal para puestos de alta responsabilidad (Nivel 30). Este sistema es legalmente una excepción a la norma de concurso de méritos, lo que genera opacidad sobre los criterios técnicos reales de elección. La adjudicataria ya ocupaba un Nivel 30 en el mismo Ministerio, lo que sugiere una rotación de la élite administrativa interna o 'endogamia' en la cúpula judicial y política sin apertura a una competencia externa real.",
+    "resumen_ciudadano": "Se ha designado a dedo a la nueva Directora de Gabinete de la Secretaría General para la Innovación y Calidad del Servicio Público de Justicia. Se trata de un puesto de máximo nivel salarial y jerárquico (Nivel 30) en el Ministerio de Justicia, cubierto por una funcionaria que ya pertenecía al círculo de confianza del departamento.",
+    "resumen_tweet": "🚨 Nuevo \"dedazo\" en el Ministerio de Justicia. Se adjudica un puesto de Nivel 30 por libre designación. La élite administrativa rota en cargos de confianza sin concurso de méritos abierto. ¿Transparencia? La justa. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Adjudicación interna sin competencia abierta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Irene Rodríguez Muñiz (consolidación en la cúpula)",
+        "Secretaría de Estado de Justicia (control sobre cargos de confianza)"
+      ],
+      "perdedores": [
+        "Meritocracia administrativa",
+        "Funcionarios de carrera sin conexiones políticas",
+        "Ciudadanía (por falta de procesos selectivos competitivos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de personal / Provisión de puestos de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Adjudicación interna sin competencia abierta"
+    ]
+  },
+  "tweeted": false
+}
