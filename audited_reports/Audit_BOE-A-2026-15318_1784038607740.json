@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15318",
+  "timestamp": "2026-07-14T14:16:47.740Z",
+  "title": "Resolución de 7 de julio de 2026, de la Universidad Carlos III de Madrid, por la que se nombra Catedrática de Universidad a doña Teresa Leguey Galán.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento refleja un proceso administrativo estándar de promoción interna en la universidad pública. Aunque cumple con la legalidad vigente (LOSU), existe una opacidad intrínseca sobre el coste presupuestario real que supone la creación o consolidación de esta cátedra a largo plazo. Se observa una transparencia puramente formal donde se omiten los méritos específicos evaluados y las puntuaciones frente a otros candidatos, limitándose a la resolución final sin mostrar el proceso de selección detallado.",
+    "resumen_ciudadano": "La Universidad Carlos III de Madrid ha nombrado oficialmente a Teresa Leguey Galán como Catedrática en el área de Física Aplicada. Este nombramiento es el resultado de un concurso convocado a finales de 2025 y representa la consolidación de un puesto docente de alto nivel en la estructura funcionarial del Estado.",
+    "resumen_tweet": "🎓 Nueva Cátedra en Física Aplicada en la @uc3m. Tras meses de burocracia, se consolida una plaza de alto nivel. Transparencia formal cumplida, pero ¿conocemos el coste real y méritos detallados del proceso? 🧐 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de detalle en los criterios de puntuación final",
+      "Retraso administrativo (convocatoria de 2025 para resolución en 2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Teresa Leguey Galán (promoción profesional)",
+        "Universidad Carlos III (consolidación de área STEM)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin visibilidad de sus méritos)",
+        "Ciudadanía (desconocimiento del impacto presupuestario directo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de detalle en los criterios de puntuación final",
+      "Retraso administrativo (convocatoria de 2025 para resolución en 2026)"
+    ]
+  },
+  "tweeted": false
+}
