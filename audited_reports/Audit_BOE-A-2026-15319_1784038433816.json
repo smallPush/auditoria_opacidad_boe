@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-15319",
+  "timestamp": "2026-07-14T14:13:53.816Z",
+  "title": "Resolución de 7 de julio de 2026, de la Universidad Carlos III de Madrid, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento cumple con los estándares formales de publicación de nombramientos. Sin embargo, existe una opacidad intrínseca sobre el coste salarial total que estas plazas suponen a las arcas públicas a largo plazo (puestos vitalicios). Se observa una paridad de género aceptable (43% mujeres, 57% hombres) y un fuerte peso de las Humanidades en esta resolución específica (4 de 7 plazas). No se detectan 'gastos fantasma' directos, pero la resolución no vincula el gasto a una partida presupuestaria desglosada.",
+    "resumen_ciudadano": "La Universidad Carlos III de Madrid ha nombrado oficialmente a 7 nuevos Profesores Titulares de Universidad en las áreas de Derecho Mercantil, Filosofía e Ingeniería Aeroespacial, siguiendo la Ley Orgánica del Sistema Universitario (LOSU).",
+    "resumen_tweet": "🎓 7 nuevos funcionarios de carrera en la @uc3m. Nombramientos en Filosofía, Derecho e Ingeniería. Aunque hay nombres, el coste real para el contribuyente es una 'caja negra' administrativa. 🏛️ #BOE #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste presupuestario anual por plaza",
+      "Falta de transparencia en la puntuación final de los candidatos en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 7 académicos nombrados (estabilidad laboral vitalicia)",
+        "Universidad Carlos III de Madrid (consolidación de plantilla docente)",
+        "Departamento de Humanidades (obtiene 4 de las 7 plazas)"
+      ],
+      "perdedores": [
+        "Personal investigador precario (que compite por escasas plazas)",
+        "Contribuyentes (falta de visibilidad sobre el compromiso financiero a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste presupuestario anual por plaza",
+      "Falta de transparencia en la puntuación final de los candidatos en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
