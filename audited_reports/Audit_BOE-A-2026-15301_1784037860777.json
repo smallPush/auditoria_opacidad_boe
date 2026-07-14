@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15301",
+  "timestamp": "2026-07-14T14:04:20.777Z",
+  "title": "Corrección de errores del Real Decreto 452/2026, de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre un Real Decreto de ordenación educativa. Aunque parezca un trámite menor, la rectificación de referencias a disposiciones transitorias y artículos específicos (cambio de Art. 30 por 31 y Transitoria 3 por 4) evidencia una falta de rigor en la redacción original de junio. Estos 'bailes de cifras' en la normativa pueden generar inseguridad jurídica momentánea en los centros educativos y en los expedientes de los alumnos durante la transición de planes de estudio.",
+    "resumen_ciudadano": "El Ministerio de Educación rectifica errores de redacción en la ley que regula las enseñanzas de Artes Plásticas y Diseño. Los cambios ajustan referencias internas mal citadas en el texto original, afectando principalmente a cómo se deben aplicar las normas durante el periodo de cambio entre modelos educativos.",
+    "resumen_tweet": "🧐 Nueva 'corrección de errores' en el #BOE. El Ministerio rectifica fallos de redacción en la normativa de Artes Plásticas y Diseño publicada hace solo un mes. La precisión legislativa brilla por su ausencia. 🎨 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Inseguridad jurídica por erratas en referencias cruzadas",
+      "Legislación apresurada (corrección un mes después de la publicación original)",
+      "Falta de control de calidad en el texto legislativo inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración educativa (al subsanar el error técnico)",
+        "Gestores de centros de arte (por la clarificación de la norma)"
+      ],
+      "perdedores": [
+        "Estudiantes (afectados por la confusión inicial en las disposiciones transitorias)",
+        "Ciudadanía (por el coste de ineficiencia administrativa y republicación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación / Enseñanzas Artísticas",
+    "banderas_rojas": [
+      "Inseguridad jurídica por erratas en referencias cruzadas",
+      "Legislación apresurada (corrección un mes después de la publicación original)",
+      "Falta de control de calidad en el texto legislativo inicial"
+    ]
+  },
+  "tweeted": false
+}
