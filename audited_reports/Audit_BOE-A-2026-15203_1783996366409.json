@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15203",
+  "timestamp": "2026-07-14T02:32:46.409Z",
+  "title": "Real Decreto 584/2026, de 8 de julio, por el que se nombra Magistrado del Tribunal Supremo competente para conocer de la autorización de las actividades del Centro Nacional de Inteligencia que afecten a los derechos fundamentales reconocidos en el artículo 18.2 y 3 de la Constitución Española.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El nombramiento centraliza el control de la vigilancia estatal en una única figura judicial, creando un embudo de poder sobre la privacidad ciudadana. Aunque legalmente reglamentado, el proceso de selección del CGPJ para este puesto específico carece de desgloses de méritos comparativos, operando bajo una lógica de designación de élite para asuntos de 'Estado profundo'. La capacidad de autorizar entradas en domicilios e interceptar comunicaciones queda en manos de una sola persona, sin mecanismos de rendición de cuentas pública sobre sus criterios de ponderación.",
+    "resumen_ciudadano": "Se ha designado al magistrado que decidirá cuándo el CNI puede pinchar teléfonos o entrar en domicilios de forma legal. Es el 'árbitro' de tus secretos frente al Estado, pero su elección es un proceso de despacho sin escrutinio público sobre su sensibilidad respecto a la privacidad digital o civil.",
+    "resumen_tweet": "👁️ ¿Quién vigila a los espías? Se nombra al Juez que autorizará las operaciones del CNI que invaden tu privacidad. Un solo hombre tiene la llave de tus derechos fundamentales. Poca luz en la elección. 🕵️‍♂️⚖️ #BOE #Opacidad #Transparencia #Privacidad",
+    "banderas_red_flags": [
+      "Concentración de poder en un solo magistrado",
+      "Ausencia de criterios de selección competitiva en el texto",
+      "Opacidad sobre el historial de autorizaciones previas",
+      "Sesgo de género en la cúpula decisoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cúpula judicial del Tribunal Supremo",
+        "CNI (estabilidad en la interlocución judicial)",
+        "Andrés Martínez Arrieta (Magistrado designado)"
+      ],
+      "perdedores": [
+        "Ciudadanía (dependencia de un único criterio judicial ciego)",
+        "Transparencia institucional",
+        "Diversidad de género en puestos de alta responsabilidad de seguridad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de control judicial especial",
+    "banderas_rojas": [
+      "Concentración de poder en un solo magistrado",
+      "Ausencia de criterios de selección competitiva en el texto",
+      "Opacidad sobre el historial de autorizaciones previas",
+      "Sesgo de género en la cúpula decisoria"
+    ]
+  },
+  "tweeted": false
+}
