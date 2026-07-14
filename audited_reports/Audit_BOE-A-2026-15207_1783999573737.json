@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-15207",
+  "timestamp": "2026-07-14T03:26:13.737Z",
+  "title": "Corrección de errores de la Resolución 430/38298/2026, de 18 de junio, de la Secretaría de Estado de Defensa, por la que se dispone el cese del General de División del Cuerpo de Ingenieros Politécnicos del Ejército de Tierra, don Manuel Blasco Gómez, como Subdirector General de Planificación y Medio Ambiente de la Dirección General de Infraestructura.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La corrección de errores técnica sobre el cese del General de División Manuel Blasco Gómez elimina la mención a su 'situación de reserva'. Este cambio no es trivial en la administración militar, ya que el estatus de reserva frente al servicio activo determina desde las retribuciones económicas hasta la compatibilidad con futuros cargos en el sector privado o público. La rectificación sugiere una falta de rigor inicial en un documento oficial de alto nivel del Ministerio de Defensa, ocultando si la reclasificación obedece a un ajuste de pensiones o a una reorganización de la cúpula de ingenieros.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha tenido que corregir el documento oficial de cese de un General de División para aclarar su situación administrativa exacta. Se eliminó la etiqueta de 'en reserva', lo que ajusta su historial profesional oficial tras dejar su cargo en la Dirección General de Infraestructura.",
+    "resumen_tweet": "🔍 Defensa rectifica el cese de un General de División: se elimina su mención 'en reserva'. ¿Ajuste técnico o blindaje de estatus administrativo? La precisión en el #BOE es vital, pero la falta de contexto genera dudas. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Modificación de estatus profesional post-cese",
+      "Falta de justificación sobre el error de origen",
+      "Impacto potencial en la base de cotización o pensiones militares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Blasco Gómez (obtiene una hoja de servicios corregida según sus intereses o realidad administrativa)"
+      ],
+      "perdedores": [
+        "Administración Pública (por falta de rigor en la publicación original)",
+        "Sociedad Civil (opacidad sobre las implicaciones económicas de este cambio de estatus)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Modificación de estatus profesional post-cese",
+      "Falta de justificación sobre el error de origen",
+      "Impacto potencial en la base de cotización o pensiones militares"
+    ]
+  },
+  "tweeted": false
+}
