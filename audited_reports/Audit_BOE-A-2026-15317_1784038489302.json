@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-15317",
+  "timestamp": "2026-07-14T14:14:49.302Z",
+  "title": "Resolución de 3 de julio de 2026, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad a doña María Sabater Molina.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un nombramiento estándar de Profesora Titular en la Universidad de Murcia. Sin embargo, destaca la mención explícita a que la plaza está 'subvencionada para financiar el incremento y mantenimiento de plazas del Grado de Medicina'. Aunque el proceso administrativo parece seguir la legalidad (LOSU 2/2023), existe una opacidad presupuestaria inherente al no detallar el origen ni la cuantía exacta de dicha subvención externa dentro del anuncio del nombramiento.",
+    "resumen_ciudadano": "La Universidad de Murcia nombra a María Sabater Molina como Profesora Titular en Medicina Legal y Forense. Esta plaza forma parte de un plan subvencionado para ampliar los estudios de Medicina, reforzando la facultad con fondos específicos de los que no se detalla el coste total para el contribuyente.",
+    "resumen_tweet": "🏥 Nueva plaza de Profesora Titular en la @UMU para Medicina Legal. Se menciona 'subvención para mantenimiento de plazas' pero sin cifras claras ni origen del fondo. ¿Transparencia real en el gasto universitario? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de subvenciones finalistas sin desglose de cuantía",
+      "Falta de referencia al convenio específico que financia la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña María Sabater Molina (estabilidad laboral)",
+        "Universidad de Murcia (aumento de plantilla docente)",
+        "Estudiantes de Medicina (garantía de plazas)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocimiento del coste por plaza)",
+        "Departamentos de humanidades o artes (excluidos de estos planes de subvención específicos)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Uso de subvenciones finalistas sin desglose de cuantía",
+      "Falta de referencia al convenio específico que financia la plaza"
+    ]
+  },
+  "tweeted": false
+}
