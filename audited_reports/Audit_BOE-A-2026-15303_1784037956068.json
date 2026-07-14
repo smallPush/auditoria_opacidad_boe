@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15303",
+  "timestamp": "2026-07-14T14:05:56.068Z",
+  "title": "Ley 5/2026, de 25 de junio, de Medidas para la Normalización Lingüística, por la que se modifica la Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La ley es una respuesta directa a la 'inestabilidad' provocada por sentencias judiciales del TSJPV que anulaban requisitos lingüísticos por desproporcionados. El legislador intenta blindar el sistema sustituyendo los 'índices de obligado cumplimiento' (fáciles de impugnar por su rigidez) por una 'proporcionalidad individualizada' basada en la realidad sociolingüística. Esto, aunque parece más flexible, aumenta la discrecionalidad administrativa y traslada la carga de la prueba al ciudadano que quiera denunciar una discriminación, ya que ahora cada plaza tendrá una justificación ad hoc difícil de contrastar.",
+    "resumen_ciudadano": "El Gobierno Vasco modifica la ley de empleo público para adaptarse a los tribunales. El cambio principal es que ya no habrá porcentajes fijos de plazas que exijan euskera para toda una administración, sino que se decidirá puesto por puesto. Además, se crea la figura de la 'preceptividad diferida': se podrá acceder a algunas plazas sin saber euskera inicialmente, siempre que el trabajador se comprometa a aprenderlo y alcanzar el nivel en un plazo determinado, recibiendo formación pagada por la administración.",
+    "resumen_tweet": "⚖️ El País Vasco cambia su ley de empleo para esquivar varapalos judiciales. Se eliminan cuotas fijas de euskera por un análisis 'puesto a puesto' y se permiten plazas con euskera 'diferido' (aprender tras aprobar). ¿Flexibilidad o parche? 🤔 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Alta discrecionalidad en la definición de 'proporcionalidad individualizada'",
+      "Falta de memoria económica sobre el coste de la formación lingüística para empleados contratados sin el perfil",
+      "Uso de conceptos jurídicos indeterminados como 'realidad sociolingüística' para justificar requisitos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores que no dominan el euskera pero están dispuestos a aprenderlo (gracias al diferimiento)",
+        "Gestores públicos (ganan margen de maniobra frente a los tribunales)",
+        "Entidades de formación lingüística"
+      ],
+      "perdedores": [
+        "Opositores monolingües que no pueden comprometerse a un aprendizaje intensivo post-contratación",
+        "Seguridad jurídica (el sistema se vuelve más complejo y menos predecible)",
+        "Ciudadanos vascoparlantes que podrían ver retrasada la atención en su lengua en plazas de nueva creación"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Empleo Público y Política Lingüística",
+    "banderas_rojas": [
+      "Alta discrecionalidad en la definición de 'proporcionalidad individualizada'",
+      "Falta de memoria económica sobre el coste de la formación lingüística para empleados contratados sin el perfil",
+      "Uso de conceptos jurídicos indeterminados como 'realidad sociolingüística' para justificar requisitos"
+    ]
+  },
+  "tweeted": false
+}
