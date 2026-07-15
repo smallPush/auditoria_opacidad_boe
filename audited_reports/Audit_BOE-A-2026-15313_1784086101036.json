@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15313",
+  "timestamp": "2026-07-15T03:28:21.036Z",
+  "title": "Resolución de 2 de julio de 2026, de la Universidad de Las Palmas de Gran Canaria, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución detalla el nombramiento de 31 catedráticos y catedráticas en la ULPGC. Aunque formalmente cumple con la publicidad necesaria, el sistema de concursos de acceso en la universidad española es frecuentemente criticado por su elevada endogamia, donde las plazas suelen estar pre-asignadas a personal interno. El texto no especifica si hubo concurrencia real competitiva o si son promociones internas automáticas tras años de interinidad. Además, el documento omite el impacto presupuestario de estos emolumentos de carácter vitalicio. Se observa una paridad de género aceptable (aprox. 50/50), lo cual es positivo en el escalafón más alto de la academia.",
+    "resumen_ciudadano": "La Universidad de Las Palmas de Gran Canaria oficializa el ascenso de 31 docentes a la categoría de Catedrático/a en diversas áreas como Economía, Filología e Ingeniería. Estos nombramientos son definitivos y otorgan a los seleccionados el máximo rango docente y salarial dentro de la estructura universitaria pública.",
+    "resumen_tweet": "🎓 ¿Mérito o inercia? La ULPGC nombra 31 nuevos catedráticos. Aunque hay paridad de género, persiste la duda sobre la competencia real frente a la endogamia universitaria. ¡Más transparencia en los concursos! 🏛️📉 #BOE #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Riesgo de endogamia académica",
+      "Ausencia de desglose presupuestario por plaza",
+      "Opacidad en el número de candidatos externos rechazados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 31 docentes nombrados (consolidación de estatus vitalicio y aumento salarial)",
+        "Departamentos de Economía y Filología (mayor peso administrativo)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada al sistema universitario)",
+        "Contribuyentes (falta de análisis de retorno social de la inversión en altos cargos docentes)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Riesgo de endogamia académica",
+      "Ausencia de desglose presupuestario por plaza",
+      "Opacidad en el número de candidatos externos rechazados"
+    ]
+  },
+  "tweeted": false
+}
