@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15388",
+  "timestamp": "2026-07-15T14:05:13.682Z",
+  "title": "Resolución de 8 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja el uso del sistema de 'libre designación', un mecanismo legal pero discrecional que permite el nombramiento de altos cargos por confianza política o personal en lugar de por concurso de méritos puro. Se observa un fenómeno de endogamia administrativa: los adjudicatarios ya pertenecían al mismo centro directivo y al mismo cuerpo de élite (Cuerpo Superior de Técnicos Comerciales y Economistas del Estado), lo que sugiere una formalización de puestos ya ocupados o una promoción interna cerrada. La opacidad reside en la falta de justificación cualitativa de por qué estos candidatos son idóneos frente a otros, más allá de la normativa citada.",
+    "resumen_ciudadano": "El Ministerio de Economía ha adjudicado dos puestos de alta dirección (niveles 29 y 30) a funcionarios que ya trabajaban en el mismo departamento. Estos puestos, de libre designación, son conocidos como 'puestos de confianza'. Curiosamente, una plaza de secretaría para un Director General ha quedado desierta, lo cual es inusual para puestos de apoyo administrativo.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el #BOE: Nuevos 'dedazos' legales en Economía. Cargos de Nivel 29 y 30 asignados por libre designación a la élite técnica del Estado. ¿Mérito real o confianza política? Una plaza de secretaría queda vacía. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Reciclaje interno de altos cargos",
+      "Puesto de nivel inferior (secretaría) declarado desierto sin explicación",
+      "Adjudicación a miembros del cuerpo de élite A1"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Técnicos Comerciales y Economistas del Estado",
+        "Altos funcionarios consolidados en niveles 29 y 30",
+        "Estructura política del Ministerio (afianza personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso a redes de confianza",
+        "Transparencia pública (al no detallar méritos específicos)",
+        "Candidatos externos al núcleo del Ministerio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Reciclaje interno de altos cargos",
+      "Puesto de nivel inferior (secretaría) declarado desierto sin explicación",
+      "Adjudicación a miembros del cuerpo de élite A1"
+    ]
+  },
+  "tweeted": false
+}
