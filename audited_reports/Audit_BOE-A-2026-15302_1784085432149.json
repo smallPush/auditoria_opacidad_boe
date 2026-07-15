@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15302",
+  "timestamp": "2026-07-15T03:17:12.149Z",
+  "title": "Orden SND/715/2026, de 8 de julio, por la que se modifica la Orden SCB/45/2019, de 22 de enero, por la que se modifica el anexo VI del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, se regula el procedimiento de inclusión, alteración y exclusión de la oferta de productos ortoprotésicos y se determinan los coeficientes de corrección.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden SND/715/2026 presenta una dualidad técnica. Por un lado, avanza en la digitalización mediante el identificador único UDI-DI, alineándose con la normativa europea y los fondos de recuperación (C18.R3). Sin embargo, bajo el pretexto de 'racionalización administrativa', se amplía el plazo de renovación de la oferta de 3 a 5 años. Esta extensión reduce la frecuencia de fiscalización de precios y la revisión de la vigencia tecnológica de los productos, lo que podría derivar en una obsolescencia del catálogo financiado frente al mercado real.",
+    "resumen_ciudadano": "Sanidad cambia la forma de identificar prótesis, sillas de ruedas y otros productos sanitarios para que sea digital (código UDI), eliminando gradualmente las etiquetas físicas. El cambio más relevante es que las empresas ahora solo tendrán que confirmar sus productos en el catálogo cada cinco años en lugar de cada tres, lo que simplifica el papeleo para la administración y las empresas.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Sanidad digitaliza el control de prótesis y sillas de ruedas con códigos UDI 🏥 Pero hay letra pequeña: amplían de 3 a 5 años la renovación de productos. ¿Eficiencia o menos control de precios e innovación? 🤔 #Transparencia #Opacidad #SNS",
+    "banderas_red_flags": [
+      "Ampliación del plazo de renovación de 3 a 5 años (relajación del control administrativo)",
+      "Periodo de convivencia de sistemas (UDI vs Precinto) que puede generar confusión en la facturación",
+      "Uso de fondos NextGenEU para una reforma de carácter eminentemente burocrático",
+      "Posibilidad de que productos de baja sigan en el sistema hasta 3 años después del cese oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas ortoprotésicas (menos carga burocrática y plazos de renovación más largos)",
+        "Ministerio de Sanidad (reducción de carga de gestión administrativa)"
+      ],
+      "perdedores": [
+        "Pacientes/Usuarios (posible retraso en la entrada de innovaciones al ampliarse los ciclos de revisión)",
+        "Pequeños establecimientos dispensadores (deben adaptar su gestión digital a sistemas mixtos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad y Consumo",
+    "banderas_rojas": [
+      "Ampliación del plazo de renovación de 3 a 5 años (relajación del control administrativo)",
+      "Periodo de convivencia de sistemas (UDI vs Precinto) que puede generar confusión en la facturación",
+      "Uso de fondos NextGenEU para una reforma de carácter eminentemente burocrático",
+      "Posibilidad de que productos de baja sigan en el sistema hasta 3 años después del cese oficial"
+    ]
+  },
+  "tweeted": false
+}
