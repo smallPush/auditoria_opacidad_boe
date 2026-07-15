@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-15300",
+  "timestamp": "2026-07-15T02:30:48.168Z",
+  "title": "Aplicación provisional del Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Árabe de Egipto para el intercambio y la protección de información clasificada en el ámbito de la defensa, hecho en Madrid el 17 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "Este acuerdo internacional establece un marco legal para el secretismo bilateral entre España y la República Árabe de Egipto. Bajo la apariencia de 'cooperación técnica', el texto permite que información sensible sobre contratos de defensa y operaciones de inteligencia escape al control parlamentario y ciudadano. Es especialmente preocupante la 'aplicación provisional' del acuerdo, una técnica que permite ejecutar lo pactado antes de que las Cortes Generales puedan debatir o vetar el texto. Además, la equivalencia entre el CNI español y la Autoridad de Inteligencia Militar egipcia normaliza la cooperación con un régimen criticado por su historial en derechos humanos, bajo el paraguas de la seguridad nacional.",
+    "resumen_ciudadano": "España y Egipto han firmado un pacto para compartir y proteger secretos militares y de inteligencia. Esto significa que cualquier contrato de venta de armas, tecnología de vigilancia o estrategia conjunta entre ambos países será inaccesible para el público. El CNI y la inteligencia militar egipcia serán los únicos que decidan qué se puede saber, blindando los negocios de la industria de defensa frente a la transparencia democrática.",
+    "resumen_tweet": "🕵️‍♂️ España y Egipto blindan sus secretos de defensa. El #BOE publica un acuerdo que oculta contratos militares y cooperación de inteligencia con un régimen cuestionado. Menos control público, más opacidad. #Opacidad #Transparencia #Defensa 🤐🇪🇸🇪🇬",
+    "banderas_red_flags": [
+      "Aplicación provisional que elude el debate parlamentario previo",
+      "Inclusión de 'fase preparatoria' de contratos como información clasificada",
+      "Cooperación directa con inteligencia militar de un régimen no democrático",
+      "Ambigüedad en la definición de 'daño' para clasificar información",
+      "Cláusulas que permiten a la parte emisora prohibir la destrucción de documentos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes contratistas de defensa y armamento",
+        "Centro Nacional de Inteligencia (CNI)",
+        "Cúpula militar de la República Árabe de Egipto",
+        "Intermediarios en el comercio de material de doble uso"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Organizaciones de derechos humanos",
+        "Periodismo de investigación",
+        "Ciudadanía privada de fiscalizar el gasto en defensa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional de Seguridad y Defensa",
+    "banderas_rojas": [
+      "Aplicación provisional que elude el debate parlamentario previo",
+      "Inclusión de 'fase preparatoria' de contratos como información clasificada",
+      "Cooperación directa con inteligencia militar de un régimen no democrático",
+      "Ambigüedad en la definición de 'daño' para clasificar información",
+      "Cláusulas que permiten a la parte emisora prohibir la destrucción de documentos"
+    ]
+  },
+  "tweeted": false
+}
