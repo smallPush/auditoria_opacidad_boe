@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15385",
+  "timestamp": "2026-07-15T14:04:03.040Z",
+  "title": "Real Decreto 598/2026, de 14 de julio, por el que se nombra adjunto al miembro nacional de España en Eurojust a doña María de las Heras García.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 598/2026 formaliza el nombramiento de María de las Heras García en Eurojust bajo una estructura de libre designación. La principal crítica reside en la opacidad del proceso de selección: se ampara en la Ley 29/2022 pero no se detallan los méritos específicos, la trayectoria profesional ni si existieron otros candidatos evaluados. Este tipo de nombramientos en organismos internacionales suele ser un espacio de discrecionalidad política donde la transparencia sobre la idoneidad técnica queda en segundo plano frente a la confianza del Ministerio.",
+    "resumen_ciudadano": "El Gobierno ha nombrado a una nueva representante adjunta para la agencia de cooperación judicial de la Unión Europea (Eurojust). El cargo tiene una duración de cinco años y ha sido decidido directamente por el Ministro de Justicia y el Consejo de Ministros sin explicar públicamente por qué esta persona es la más adecuada para el puesto.",
+    "resumen_tweet": "🚨 Nuevo nombramiento en el #BOE para Eurojust. María de las Heras García ocupará el cargo de adjunta por 5 años. Cero detalles sobre sus méritos o el proceso de selección. ¿Confianza política o capacidad técnica? 🕵️‍♂️⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional sin concurso público",
+      "Falta de exposición de méritos en el decreto",
+      "Ausencia de transparencia en la terna de candidatos",
+      "Compromiso presupuestario a largo plazo (5 años) no detallado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María de las Heras García",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+      ],
+      "perdedores": [
+        "Candidatos técnicos con méritos sin vinculación política",
+        "Contribuyentes por falta de justificación de idoneidad en altos cargos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Nombramiento discrecional sin concurso público",
+      "Falta de exposición de méritos en el decreto",
+      "Ausencia de transparencia en la terna de candidatos",
+      "Compromiso presupuestario a largo plazo (5 años) no detallado"
+    ]
+  },
+  "tweeted": false
+}
