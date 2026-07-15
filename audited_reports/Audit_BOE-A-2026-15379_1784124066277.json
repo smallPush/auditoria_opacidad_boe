@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15379",
+  "timestamp": "2026-07-15T14:01:06.277Z",
+  "title": "Orden ISM/727/2026, de 13 de julio, por la que se fijan para el ejercicio 2026 las bases normalizadas de cotización a la Seguridad Social, por contingencias comunes, en el Régimen Especial de la Seguridad Social para la Minería del Carbón.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento es una manifestación técnica de la parálisis política: el uso de prórrogas presupuestarias de 2023 para el ejercicio 2026. Esta inercia legislativa crea un laberinto de remisiones normativas (Real Decreto-ley 3/2026, Ley 31/2022, Real Decreto 2064/1995) que dificulta la fiscalización ciudadana. La fijación de bases 'normalizadas' otorga un poder discrecional técnico al Ministerio bajo el pretexto de la 'necesaria adaptación', operando con efectos retroactivos desde enero en una orden publicada en julio, lo que genera inseguridad jurídica administrativa.",
+    "resumen_ciudadano": "A falta de nuevos Presupuestos Generales, el Gobierno publica las tablas de cuánto deben cotizar los trabajadores de la minería del carbón en 2026 basándose en leyes prorrogadas de 2023. Se establecen importes diarios específicos por categorías profesionales, desde ingenieros hasta peones, aplicándose con carácter retroactivo desde el inicio del año.",
+    "resumen_tweet": "🚨 ¡Zombi legislativo en el #BOE! Sin presupuestos para 2026, el Gobierno parchea las cotizaciones mineras usando leyes de 2023. ⛏️ Laberinto técnico, retroactividad y opacidad presupuestaria. ¿Quién entiende este puzle? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Prórroga presupuestaria sistemática (uso de bases de 2023 en 2026)",
+      "Retroactividad de la norma (publicada en julio con efectos desde enero)",
+      "Complejidad extrema en el cálculo de 'bases normalizadas'",
+      "Dependencia de facultades ministeriales para fijar cuantías sin debate parlamentario fresco"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración del Estado (mantiene recaudación mediante inercia)",
+        "Grandes estructuras burocráticas (dominan el lenguaje técnico)"
+      ],
+      "perdedores": [
+        "Transparencia democrática (legislación basada en parches)",
+        "Pequeños gestores (obligados a recalcular diferencias de meses pasados)",
+        "Sector minero (sujeto a un régimen especial cada vez más residual y complejo)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias y Castilla y León",
+    "tipologia": "Orden Ministerial de Cotización",
+    "banderas_rojas": [
+      "Prórroga presupuestaria sistemática (uso de bases de 2023 en 2026)",
+      "Retroactividad de la norma (publicada en julio con efectos desde enero)",
+      "Complejidad extrema en el cálculo de 'bases normalizadas'",
+      "Dependencia de facultades ministeriales para fijar cuantías sin debate parlamentario fresco"
+    ]
+  },
+  "tweeted": false
+}
