@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-15458",
+  "timestamp": "2026-07-16T14:15:49.429Z",
+  "title": "Real Decreto 590/2026, de 15 de julio, por el que se regula la concesión directa de subvenciones para el desarrollo de las actuaciones de adaptación al riesgo de inundación en los municipios afectados por la DANA incluidos en el anexo del Real Decreto-ley 6/2024, de 5 de noviembre, y asociados a áreas con riesgo potencial significativo de inundación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto utiliza la figura de 'concesión directa' para repartir 60 millones de euros, lo que elimina la concurrencia competitiva y reduce el control sobre la eficiencia del gasto. Aunque se fundamenta en la catástrofe de la DANA de 2024, se apoya en una revisión técnica de 2025 que excluye a 16 de los 78 municipios inicialmente afectados, basándose en criterios de 'riesgo potencial significativo' que pueden ser interpretados de forma discrecional. La inclusión de partidas para 'adquisición de terrenos y edificaciones' y 'aplicaciones tecnológicas' sin desgloses de costes máximos abre la puerta a sobrecostes y adjudicaciones a dedo a nivel municipal.",
+    "resumen_ciudadano": "El Gobierno asigna 60 millones de euros a 62 ayuntamientos seleccionados para obras de protección contra inundaciones (como válvulas antirretorno y sellado de fachadas) y sistemas de alerta. Al ser una ayuda directa, los fondos no pasan por concurso público. El plan también permite que los ayuntamientos compren casas o terrenos afectados para proyectos de ingeniería hidráulica.",
+    "resumen_tweet": "🚨 60M€ en ayudas 'a dedo' para obras tras la DANA. Se excluyen 16 municipios afectados y se prioriza la compra de terrenos y apps. ¿Gasto eficiente o parches tardíos? Vigilamos el destino de los fondos. 🌊📉 #BOE #Opacidad #Transparencia #DANA",
+    "banderas_red_flags": [
+      "Concesión directa que evita la licitación pública",
+      "Exclusión de 16 municipios bajo criterios técnicos de 2025",
+      "Partidas genéricas para adquisición de inmuebles",
+      "Falta de auditoría externa especificada para los sistemas tecnológicos locales",
+      "Uso de un Real Decreto para evitar trámites parlamentarios largos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos de las zonas ARPSI",
+        "Empresas de consultoría en sistemas de alerta temprana",
+        "Grandes constructoras de obras hidráulicas",
+        "Propietarios de terrenos que el ayuntamiento decida comprar"
+      ],
+      "perdedores": [
+        "Los 16 municipios afectados por la DANA excluidos del anexo",
+        "Pequeñas empresas locales sin capacidad de gestionar subvenciones directas",
+        "Contribuyentes por la falta de comparación de precios competitivos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana, Castilla-La Mancha, Andalucía",
+    "tipologia": "Subvenciones y Ayudas Públicas - Emergencia Climática",
+    "banderas_rojas": [
+      "Concesión directa que evita la licitación pública",
+      "Exclusión de 16 municipios bajo criterios técnicos de 2025",
+      "Partidas genéricas para adquisición de inmuebles",
+      "Falta de auditoría externa especificada para los sistemas tecnológicos locales",
+      "Uso de un Real Decreto para evitar trámites parlamentarios largos"
+    ]
+  },
+  "tweeted": false
+}
