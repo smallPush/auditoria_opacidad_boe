@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15389",
+  "timestamp": "2026-07-16T03:33:14.596Z",
+  "title": "Resolución de 7 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "Se trata de una adjudicación por el sistema de 'Libre Designación', el método legal que permite la selección discrecional ('a dedo') en la Administración General del Estado. El puesto, Vocal Asesor en la Secretaría General de Salud Digital, ostenta el Nivel 30, que es el grado máximo de la escala funcionarial en España, con el consiguiente impacto presupuestario en complementos de destino y específicos. La resolución justifica la elección basándose en una vaga 'idoneidad' valorada por el propio Centro Directivo interesado, sin detallar puntuaciones ni comparativas con otros posibles candidatos, lo que perpetúa la opacidad en la alta dirección pública.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha nombrado a un nuevo asesor de alto nivel para el área de Salud Digital y Tecnologías de la Información. Este puesto es de libre elección por parte de los superiores y conlleva el salario más alto dentro de la escala técnica de funcionarios, sin haber pasado por un concurso de méritos abierto y transparente.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Sanidad adjudica 'a dedo' (Libre Designación) un puesto de Nivel 30 en Salud Digital. 📈 Máximo nivel salarial bajo criterios de 'idoneidad' subjetivos. La meritocracia real sufre ante la discrecionalidad política. 🏛️💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Falta de baremación pública de méritos",
+      "Puesto de Vocal Asesor (típico de estructuras de confianza)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alexander Zlotnik Enaliev (adjudicatario)",
+        "Estructura política de la Secretaría General de Salud Digital"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos superiores sin afinidad política",
+        "Ciudadanía (por falta de transparencia en la gestión de recursos humanos estratégicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Madrid)",
+    "tipologia": "Nombramiento de Libre Designación",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Falta de baremación pública de méritos",
+      "Puesto de Vocal Asesor (típico de estructuras de confianza)"
+    ]
+  },
+  "tweeted": false
+}
