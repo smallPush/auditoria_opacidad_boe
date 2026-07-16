@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15464",
+  "timestamp": "2026-07-16T14:16:58.565Z",
+  "title": "Decreto 86/2026, de 5 de junio, del Consell, de modificación de los Estatutos de la Universitat de València-Estudi General, aprobados por el Decreto 128/2004, de 30 de julio, del Consell.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de una adaptación obligatoria a la Ley Orgánica 2/2023 (LOSU). Aunque el proceso sigue los cauces legales, destaca la 'Disposición adicional segunda', que impone una limitación de gasto estricta: la Generalitat se lava las manos financieramente, obligando a la Universitat de València a absorber cualquier coste derivado de la reestructuración con sus propios recursos. Esto puede derivar en una 'opacidad operativa' donde la falta de fondos obligue a recortes en servicios no blindados estatutariamente.",
+    "resumen_ciudadano": "La Universidad de Valencia actualiza sus reglas internas para cumplir con la nueva ley estatal. El cambio afecta a su estructura y gobierno, pero el gobierno autonómico ha dejado claro que no dará un euro extra para estos cambios, por lo que la universidad deberá pagarlos de su propio bolsillo.",
+    "resumen_tweet": "🎓 La @UV_EG adapta sus estatutos a la #LOSU. ¡Ojo! 👁️ La Generalitat impone 'coste cero' para las arcas públicas, obligando a la Universidad a autofinanciar su propia reforma estructural. ¿Autonomía real o asfixia? 💸📉 #BOE #Transparencia #Valencia",
+    "banderas_red_flags": [
+      "Cláusula de blindaje presupuestario de la Generalitat (Disposición adicional segunda)",
+      "Supresión masiva de artículos (26 artículos quedan 'sin contenido') sin desglose de impacto en la gestión",
+      "Ambigüedad en la financiación de los nuevos órganos requeridos por la LOSU"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Generalitat Valenciana (cumple el trámite legal sin compromiso de gasto)",
+        "Estructura administrativa (se moderniza el marco normativo)"
+      ],
+      "perdedores": [
+        "Presupuesto operativo de la Universidad (debe absorber costes de transición)",
+        "Estudiantado y personal (riesgo de recortes indirectos para financiar la burocracia de la reforma)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Decreto de Modificación Estatutaria",
+    "banderas_rojas": [
+      "Cláusula de blindaje presupuestario de la Generalitat (Disposición adicional segunda)",
+      "Supresión masiva de artículos (26 artículos quedan 'sin contenido') sin desglose de impacto en la gestión",
+      "Ambigüedad en la financiación de los nuevos órganos requeridos por la LOSU"
+    ]
+  },
+  "tweeted": false
+}
