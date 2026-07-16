@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15472",
+  "timestamp": "2026-07-16T14:27:28.807Z",
+  "title": "Resolución de 9 de julio de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de cargos de alta responsabilidad. Aunque se publica el nombre y el nivel (30, el máximo en la administración), el proceso carece de una comparativa de méritos pública con respecto a otros posibles candidatos. El puesto de Director de Gabinete en un organismo científico de élite como el CSIC, dotado con un complemento específico superior a los 30.000 euros anuales (adicionales al sueldo base), consolida la estructura de 'cargos de confianza' dentro de la administración técnica.",
+    "resumen_ciudadano": "La Presidencia del CSIC ha nombrado a María Elena Corera Álvarez como nueva Directora de Gabinete. Este puesto es de Nivel 30 (el más alto para funcionarios) y se ha otorgado de forma directa ('a dedo'), lo cual es habitual para asesores de confianza, pero limita la transparencia y la competencia basada exclusivamente en méritos objetivos.",
+    "resumen_tweet": "🧐 ¿Ciencia o confianza política? El CSIC adjudica 'a dedo' (libre designación) la Dirección de Gabinete (Nivel 30) con un complemento de +30.000€. La meritocracia se detiene ante los despachos de poder. #BOE #Opacidad #Transparencia #CSIC 🏛️💸",
+    "banderas_red_flags": [
+      "Libre designación (elección discrecional)",
+      "Nivel 30 (Máximo nivel burocrático)",
+      "Complemento específico elevado (30.436,00€)",
+      "Puesto en Gabinete (alta proximidad política/personal)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Elena Corera Álvarez (adjudicataria del puesto)",
+        "Presidencia del CSIC (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de promoción por mérito puro)",
+        "Ciudadanía (falta de transparencia en la selección de altos cargos pagados con fondos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal de Alta Dirección / Libre Designación",
+    "banderas_rojas": [
+      "Libre designación (elección discrecional)",
+      "Nivel 30 (Máximo nivel burocrático)",
+      "Complemento específico elevado (30.436,00€)",
+      "Puesto en Gabinete (alta proximidad política/personal)"
+    ]
+  },
+  "tweeted": false
+}
