@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15378",
+  "timestamp": "2026-07-16T03:26:56.621Z",
+  "title": "Resolución de 2 de junio de 2026, de la Dirección General del Servicio Público de Empleo Estatal, por la que se habilitan trámites y actuaciones a través del canal telefónico y telemático mediante determinados sistemas de identificación y expresión de voluntad y se regulan aspectos relativos a la presentación y firma de solicitudes mediante formularios electrónicos a través de ambos canales en el ámbito de las prestaciones por desempleo.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución busca modernizar el SEPE permitiendo trámites de desempleo vía telefónica y telemática. Sin embargo, introduce la biometría como sistema de identificación bajo una ambigüedad preocupante. Aunque se presenta como una 'facilidad' para el ciudadano, oculta una infraestructura de vigilancia digital cuya auditoría técnica y costes de implementación no se detallan. La validación de la 'voluntad' mediante un simple código SMS o grabación de voz reduce las garantías jurídicas tradicionales en favor de una agilidad procesal que beneficia más a la eficiencia de la administración que a la seguridad del administrado.",
+    "resumen_ciudadano": "A partir de ahora, podrás solicitar el paro o realizar gestiones del SEPE por teléfono o internet usando códigos enviados a tu móvil, el sistema Cl@ve o, próximamente, datos biométricos (como tu voz o rostro). Esto evita ir a la oficina, pero otorga a la administración un control tecnológico mayor sobre tu identidad y tus datos personales.",
+    "resumen_tweet": "¡El SEPE se vuelve digital y biométrico! 📱👤 Ya puedes gestionar el paro por teléfono o web con códigos SMS. Pero ojo: la resolución abre la puerta a la identificación por biometría sin aclarar su coste ni seguridad. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de datos biométricos sin especificar protocolos de privacidad específicos",
+      "Falta de memoria económica sobre el coste de los nuevos sistemas tecnológicos",
+      "Discrecionalidad en los 'datos de contraste' requeridos",
+      "Externalización implícita de la verificación de identidad a través de operadoras y tecnología móvil"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (reducción de atención presencial)",
+        "Empresas de tecnología biométrica y ciberseguridad",
+        "Usuarios con altas competencias digitales"
+      ],
+      "perdedores": [
+        "Personas en brecha digital (mayores o sin smartphones)",
+        "Derecho a la privacidad (normalización de la biometría)",
+        "Personal administrativo de atención directa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización Administrativa / Seguridad Social",
+    "banderas_rojas": [
+      "Uso de datos biométricos sin especificar protocolos de privacidad específicos",
+      "Falta de memoria económica sobre el coste de los nuevos sistemas tecnológicos",
+      "Discrecionalidad en los 'datos de contraste' requeridos",
+      "Externalización implícita de la verificación de identidad a través de operadoras y tecnología móvil"
+    ]
+  },
+  "tweeted": false
+}
