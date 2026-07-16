@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15455",
+  "timestamp": "2026-07-16T14:12:48.430Z",
+  "title": "Resolución de 14 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La validación de este Real Decreto-ley evidencia una gestión reactiva del Sistema de Dependencia. El recurso a 'medidas extraordinarias' y 'créditos suplementarios' (materia 1758) sugiere una incapacidad de previsión en los Presupuestos Generales, utilizando el decreto para evitar el debate parlamentario profundo. La existencia de una corrección de errores previa a la convalidación denota una técnica legislativa apresurada en un área sensible.",
+    "resumen_ciudadano": "El Congreso ha ratificado el uso de fondos de emergencia para financiar la Ley de Dependencia y el IMSERSO. Aunque asegura la continuidad de los servicios, este mecanismo oculta que la financiación ordinaria es insuficiente, recurriendo a parches financieros en lugar de una reforma estructural transparente.",
+    "resumen_tweet": "🚨 El Congreso valida por decreto el parche para la Dependencia. ¿Por qué usamos 'créditos extraordinarios' en lugar de presupuestos claros? Menos improvisación y más transparencia real en lo social. 💸 #BOE #Opacidad #Transparencia #Dependencia",
+    "banderas_red_flags": [
+      "Uso del Real Decreto-ley para gasto estructural",
+      "Inclusión de créditos extraordinarios y suplementarios",
+      "Tramitación urgente que elude el debate legislativo ordinario",
+      "Corrección de errores previa indicativa de falta de rigor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "IMSERSO (recibe fondos sin desglose detallado inmediato)",
+        "Administración central (evita el bloqueo político de la ayuda social)"
+      ],
+      "perdedores": [
+        "Familias dependientes (viven bajo la incertidumbre de medidas extraordinarias)",
+        "Contribuyentes (falta de trazabilidad en el uso de créditos suplementarios)",
+        "Calidad democrática (se legisla por la vía rápida)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Validación de Gasto Extraordinario",
+    "banderas_rojas": [
+      "Uso del Real Decreto-ley para gasto estructural",
+      "Inclusión de créditos extraordinarios y suplementarios",
+      "Tramitación urgente que elude el debate legislativo ordinario",
+      "Corrección de errores previa indicativa de falta de rigor"
+    ]
+  },
+  "tweeted": false
+}
