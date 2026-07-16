@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15456",
+  "timestamp": "2026-07-16T14:11:35.541Z",
+  "title": "Resolución de 8 de julio de 2026, de la Secretaría General Técnica, en virtud del artículo 24.2 de la Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución cumple formalmente con la publicidad de acuerdos internacionales, actúa como un buzón de 'malas noticias' en materia de derechos humanos. Se normaliza la suspensión de libertades fundamentales en terceros países (Ucrania y Guatemala) bajo un barniz administrativo. La opacidad reside en que los decretos específicos que detallan las restricciones no se publican íntegramente en el BOE, remitiendo a consultas externas. Se observa una incongruencia entre el discurso de promoción de DDHH y la mera tramitación burocrática de su suspensión.",
+    "resumen_ciudadano": "El Gobierno español publica comunicaciones internacionales donde Ucrania prorroga su ley marcial y Guatemala declara estados de prevención. Esto implica la suspensión legal de derechos como la libertad de movimiento, reunión y seguridad jurídica en esos territorios, afectando directamente a residentes y ciudadanos españoles en dichas zonas.",
+    "resumen_tweet": "🚨 ¡Alerta en el #BOE! Se oficializa la suspensión de derechos civiles y políticos en Ucrania y Guatemala 📉. Libertad de reunión y movimiento restringidas bajo el paraguas de 'notificaciones administrativas'. #Opacidad #Transparencia #DerechosHumanos",
+    "banderas_red_flags": [
+      "Suspensión de derechos fundamentales",
+      "Uso de leyes marciales",
+      "Restricción de libertad de movimiento y reunión",
+      "Publicación parcial de decretos restrictivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poder Ejecutivo en Guatemala (Bernardo Arévalo)",
+        "Mandos militares en Ucrania",
+        "Aparatos de seguridad del Estado"
+      ],
+      "perdedores": [
+        "Sociedad civil en zonas de conflicto",
+        "Población vulnerable en Guatemala (afectada por estados de prevención)",
+        "Defensores de libertades civiles"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Tratados Internacionales y Derechos Humanos",
+    "banderas_rojas": [
+      "Suspensión de derechos fundamentales",
+      "Uso de leyes marciales",
+      "Restricción de libertad de movimiento y reunión",
+      "Publicación parcial de decretos restrictivos"
+    ]
+  },
+  "tweeted": false
+}
