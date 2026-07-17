@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15461",
+  "timestamp": "2026-07-17T03:32:13.530Z",
+  "title": "Real Decreto 594/2026, de 15 de julio, por el que se regula la concesión directa de una subvención a la Fundació Barcelona Mobile World Capital Foundation.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un incremento discrecional del 60% en la cuantía de la subvención (de 5 a 8 millones de euros) bajo la justificación de un IPC acumulado del 20%, lo que evidencia un sobredimensionamiento de la partida sin una auditoría de costes transparente. El decreto utiliza conceptos paraguas como 'perspectiva de género' y 'tecnología para el bien común' para blindar éticamente una transferencia que, en su mayoría (6 de los 8 millones), acaba en manos de la GSMA, una entidad privada internacional. La concesión directa evita la concurrencia competitiva, consolidando un oligopolio institucional en la gestión de fondos digitales.",
+    "resumen_ciudadano": "El Gobierno ha aprobado una ayuda directa de 8 millones de euros para la Fundación del Mobile World Congress en Barcelona para el año 2026. Aunque se justifica por el impacto económico del evento, la ayuda ha subido 3 millones respecto a años anteriores. Gran parte de este dinero público se transfiere directamente a la organización privada del congreso (GSMA) y a gastos internos de la fundación, utilizando la vía de urgencia para evitar que otras entidades puedan optar a estos fondos.",
+    "resumen_tweet": "🚨 ¡8M€ a dedo para el Mobile! El Gobierno sube un 60% la subvención directa a la Fundación MWC. Justifican el alza por el IPC, pero el dinero fluye a una entidad privada (GSMA). ¿Transparencia? Escasa. 💸📱 #BOE #Opacidad #Transparencia #MWC2026",
+    "banderas_red_flags": [
+      "Incremento del 60% de la ayuda frente al 20% de IPC alegado",
+      "Concesión directa sin publicidad ni concurrencia competitiva",
+      "Uso de 'perspectiva de género' como cláusula genérica de legitimación de gasto",
+      "Destino final de fondos (6M€) hacia la asociación privada GSMA"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "GSMA (Groupe Spécial Mobile Association)",
+        "Fundació Barcelona Mobile World Capital Foundation",
+        "Sector hotelero y turístico de lujo en Barcelona"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de sobrecostes no competitivos)",
+        "Startups y PYMES fuera del ecosistema MWC",
+        "Otras CCAA con hubs tecnológicos emergentes sin financiación directa equivalente"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Incremento del 60% de la ayuda frente al 20% de IPC alegado",
+      "Concesión directa sin publicidad ni concurrencia competitiva",
+      "Uso de 'perspectiva de género' como cláusula genérica de legitimación de gasto",
+      "Destino final de fondos (6M€) hacia la asociación privada GSMA"
+    ]
+  },
+  "tweeted": false
+}
