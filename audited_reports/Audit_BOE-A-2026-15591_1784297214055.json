@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15591",
+  "timestamp": "2026-07-17T14:06:54.055Z",
+  "title": "Resolución de 8 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 3 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de Nivel 17 (C1) en la Secretaría de Estado de Migraciones representa la consolidación del dedazo administrativo. Aunque legal bajo la Ley 30/1984, aplicar este criterio de confianza a puestos técnicos o de secretaría de nivel medio-bajo vacía de contenido el principio de mérito y capacidad, permitiendo la creación de redes de confianza personal pagadas con dinero público.",
+    "resumen_ciudadano": "Se ha asignado a dedo un puesto de secretaría para un Director General en el Ministerio de Inclusión. A pesar de ser un rango administrativo medio, la ley permite que el jefe elija directamente a la persona sin un concurso público de méritos tradicional.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el #BOE. Se adjudica por libre designación un puesto de secretaría en Migraciones. El sistema permite elegir a dedo incluso en niveles medios, esquivando la competencia real. 🧐 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles administrativos no directivos",
+      "Falta de desglose de méritos comparativos entre aspirantes",
+      "Adjudicación interna opaca"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Patricia Checa Medel (adjudicataria)",
+        "Director General (obtiene personal de confianza directa)"
+      ],
+      "perdedores": [
+        "Cuerpo General Administrativo (limitación de promoción por mérito real)",
+        "Ciudadanía (opacidad en la gestión de recursos humanos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Resolución de Nombramiento Discrecional",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles administrativos no directivos",
+      "Falta de desglose de méritos comparativos entre aspirantes",
+      "Adjudicación interna opaca"
+    ]
+  },
+  "tweeted": false
+}
