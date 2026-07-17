@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15592",
+  "timestamp": "2026-07-17T14:04:19.795Z",
+  "title": "Resolución de 8 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, del Cuerpo de Ingenieros de Minas del Estado.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento detalla el nombramiento de personal funcionario en el Cuerpo de Ingenieros de Minas. Aunque la transparencia en cuanto a salarios (complemento específico de 13.234,76€) y destinos es alta, se observa un centralismo absoluto: el 100% de los puestos (4 de 4) se ubican en Madrid, alejados de las zonas de actividad minera real. Existe una brecha de género notable (75% hombres, 25% mujeres) y una lentitud burocrática significativa, tardando 18 meses desde la convocatoria hasta el nombramiento definitivo.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de 4 nuevos ingenieros de minas para el Estado. Todos trabajarán en sedes ministeriales de Madrid como Jefes de Servicio, con un nivel 26. El proceso ha tardado casi dos años en culminar desde su inicio en 2024.",
+    "resumen_tweet": "⛏️ ¿Ingenieros de minas en la capital? El #BOE nombra a 4 nuevos funcionarios: el 100% destinados a despachos en Madrid, lejos de las minas. 🚺 Solo 1 de los 4 es mujer. Sueldos claros (Nivel 26), pero burocracia lenta. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Centralismo geográfico total",
+      "Desequilibrio de género",
+      "Demora excesiva en la resolución (2024-2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal nombrado (estabilidad laboral y nivel 26)",
+        "Ministerio para la Transición Ecológica (refuerzo de servicios centrales)"
+      ],
+      "perdedores": [
+        "Regiones con actividad minera (Asturias, León, Andalucía) que no reciben técnicos",
+        "Promesas de descentralización estatal"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Centralismo geográfico total",
+      "Desequilibrio de género",
+      "Demora excesiva en la resolución (2024-2026)"
+    ]
+  },
+  "tweeted": false
+}
