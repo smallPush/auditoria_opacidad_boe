@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15460",
+  "timestamp": "2026-07-17T03:31:07.881Z",
+  "title": "Real Decreto 592/2026, de 15 de julio, por el que se regula el régimen jurídico de las entidades del Tercer Sector de Acción Social colaboradoras con la Administración General del Estado.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 592/2026 formaliza un 'estatus de privilegio' para ciertas organizaciones. Aunque se ampara en la transparencia, el Art. 3.2 abre la puerta a actuaciones de 'carácter urgente' sin control previo exhaustivo, y el Art. 5.3 menciona medidas para 'garantizar la sostenibilidad' de estas entidades, lo que sugiere una vía de financiación pública estructural bajo criterios que el propio órgano competente definirá a posteriori. Se consolida un modelo de gestión externalizada donde el Estado delega funciones críticas en entidades privadas con menos fiscalización que la administración pública.",
+    "resumen_ciudadano": "Esta norma crea un registro oficial de ONGs 'VIP' que colaboran con el Gobierno. Estas entidades tendrán más facilidades para recibir subvenciones, podrán saltarse burocracia en las solicitudes y actuarán como interlocutores preferentes. Se justifica en la eficiencia, pero centraliza el poder en grandes estructuras del Tercer Sector.",
+    "resumen_tweet": "🕵️‍♂️ Nueva ley crea un 'club VIP' de ONGs estatales. 🚩 Alerta: el Art. 3.2 permite gastos 'urgentes' con menos control y el 5.3 promete dinero para 'sostenibilidad'. ¿Colaboración social o red clientelar? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de excepcionalidad en el Art. 3.2 para situaciones sobrevenidas sin fiscalización previa",
+      "Ambigüedad en las 'medidas para garantizar la sostenibilidad' financieras (Art. 5.3)",
+      "Exención de presentación de documentación recurrente (Art. 5.4) que puede relajar el control de requisitos en tiempo real",
+      "Potencial uso de convenios directos evitando la Ley de Contratos del Sector Público (Art. 3.1.c)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes ONGs con presencia en múltiples comunidades",
+        "Plataforma del Tercer Sector",
+        "Secretaría de Estado de Derechos Sociales (mayor control discrecional)"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones locales (excluidas por el requisito de ámbito estatal)",
+        "Nuevas entidades ciudadanas sin historial de 'colaboración'",
+        "Contribuyentes (por la opacidad en las partidas de 'sostenibilidad')"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Régimen Jurídico y Colaboración Público-Privada",
+    "banderas_rojas": [
+      "Cláusula de excepcionalidad en el Art. 3.2 para situaciones sobrevenidas sin fiscalización previa",
+      "Ambigüedad en las 'medidas para garantizar la sostenibilidad' financieras (Art. 5.3)",
+      "Exención de presentación de documentación recurrente (Art. 5.4) que puede relajar el control de requisitos en tiempo real",
+      "Potencial uso de convenios directos evitando la Ley de Contratos del Sector Público (Art. 3.1.c)"
+    ]
+  },
+  "tweeted": false
+}
