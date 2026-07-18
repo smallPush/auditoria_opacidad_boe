@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-15576",
+  "timestamp": "2026-07-18T03:20:55.232Z",
+  "title": "Real Decreto 593/2026, de 15 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con la investigación y el conocimiento.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 593/2026 utiliza la figura de la 'concesión directa' bajo el amparo del artículo 22.2.c) de la Ley General de Subvenciones, una excepción legal que se ha convertido en norma para evitar la concurrencia pública. El texto justifica el 'interés público' de forma genérica, vinculándolo a la existencia histórica de las entidades beneficiarias en lugar de a proyectos con objetivos medibles. Se observa una clara fragmentación territorial de las ayudas, funcionando más como una transferencia de mantenimiento institucional (gastos de funcionamiento) que como una inversión en innovación disruptiva. La opacidad reside en la falta de criterios objetivos para determinar por qué estas 12 entidades y no otras similares reciben fondos sin competir.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la entrega de dinero público de forma directa a un grupo selecto de academias de la lengua regionales y asociaciones científicas. En lugar de abrir un concurso donde cualquier entidad de investigación pueda presentar sus mejores proyectos, se otorga la subvención para 'gastos de funcionamiento' (sueldos, luz, alquiler), justificando que su labor es esencial para el Estado, evitando así que otras organizaciones puedan optar a estos fondos.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: El Gobierno reparte subvenciones 'a dedo' a academias y asociaciones científicas. Se usa la 'excepcionalidad' para evitar la competencia pública y cubrir gastos de oficina. ¿Ciencia o clientelismo? 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso recurrente del procedimiento de concesión directa",
+      "Justificación de excepcionalidad por 'razones de interés público' vagamente definidas",
+      "Financiación de gastos corrientes y de personal sin vinculación a proyectos de impacto",
+      "Falta de desglose presupuestario en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Institut d’Estudis Catalans",
+        "Euskaltzaindia",
+        "Real Academia Galega",
+        "COSCE",
+        "Elites intelectuales de academias regionales"
+      ],
+      "perdedores": [
+        "Nuevos centros de investigación sin estatus histórico",
+        "Científicos jóvenes fuera de los circuitos institucionales",
+        "Contribuyentes (por ausencia de licitación competitiva que optimice el gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Real Decreto de Subvenciones",
+    "banderas_rojas": [
+      "Uso recurrente del procedimiento de concesión directa",
+      "Justificación de excepcionalidad por 'razones de interés público' vagamente definidas",
+      "Financiación de gastos corrientes y de personal sin vinculación a proyectos de impacto",
+      "Falta de desglose presupuestario en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
