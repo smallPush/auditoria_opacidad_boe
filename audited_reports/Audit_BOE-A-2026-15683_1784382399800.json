@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15683",
+  "timestamp": "2026-07-18T13:46:39.800Z",
+  "title": "Ley 3/2026, de 29 de junio, de la Generalitat, de medidas urgentes frente a la hiperregulación, la agilización de procedimientos y la garantía de la unidad de mercado.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Ley 3/2026 de la Generalitat Valenciana se presenta como una 'Ley Ómnibus' clásica, utilizando la desburocratización como un caballo de Troya para reformar más de 90 disposiciones legales de diversa índole (desde sanidad animal hasta energía solar y urbanismo). Esta técnica legislativa dificulta el escrutinio público y el debate parlamentario detallado. Se observa una clara tendencia a la sustitución de controles administrativos previos por declaraciones responsables, lo que traslada el riesgo de la administración al ciudadano y al medio ambiente.",
+    "resumen_ciudadano": "El gobierno valenciano ha aprobado una reforma masiva que cambia las reglas en casi todos los sectores: vivienda, turismo, medio ambiente y comercio. El objetivo oficial es eliminar papeleo y acelerar la economía, pero en la práctica supone una relajación de los controles públicos sobre grandes proyectos, facilitando que las empresas operen con menos supervisión previa.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! La Generalitat Valenciana lanza una 'Ley Ómnibus' masiva que modifica 90+ normas de golpe. Menos controles, más riesgo. ¿Agilidad económica o barra libre para grandes empresas? 📉🏗️ #Opacidad #Transparencia #Valencia",
+    "banderas_red_flags": [
+      "Técnica legislativa de 'Ley Ómnibus' para evitar debates sectoriales",
+      "Derogación masiva de decretos y órdenes mediante una sola ley de urgencia",
+      "Reducción de los tiempos de evaluación de impacto ambiental",
+      "Sustitución sistemática de licencias por declaraciones responsables en sectores sensibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes promotoras inmobiliarias",
+        "Fondos de inversión en energías renovables",
+        "Sector de alojamientos turísticos"
+      ],
+      "perdedores": [
+        "Plataformas de defensa del territorio y medio ambiente",
+        "Administraciones locales (pérdida de competencias de control)",
+        "Seguridad jurídica del pequeño ciudadano ante cambios normativos masivos"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Ley de Medidas Urgentes y Simplificación Administrativa",
+    "banderas_rojas": [
+      "Técnica legislativa de 'Ley Ómnibus' para evitar debates sectoriales",
+      "Derogación masiva de decretos y órdenes mediante una sola ley de urgencia",
+      "Reducción de los tiempos de evaluación de impacto ambiental",
+      "Sustitución sistemática de licencias por declaraciones responsables en sectores sensibles"
+    ]
+  },
+  "tweeted": false
+}
