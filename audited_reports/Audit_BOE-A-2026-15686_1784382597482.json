@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-15686",
+  "timestamp": "2026-07-18T13:49:57.482Z",
+  "title": "Resolución de 7 de julio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrática de Universidad a doña Askoa Ibisate González de Matuaco.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática de Universidad bajo el marco de la Ley Orgánica 2/2023 (LOSU). El documento cumple con la formalidad técnica y referencial, citando las resoluciones previas del concurso. No se detectan 'gastos fantasma' ya que las retribuciones de catedráticos están estandarizadas, aunque la opacidad en estos procesos suele residir en la composición y criterios de los tribunales evaluadores, no detallados en este extracto.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a una nueva Catedrática en el área de Geografía Física, especializada en Agua y Planificación, tras concluir el proceso de concurso público iniciado en marzo de 2026.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la UPV/EHU: Askoa Ibisate asume la cátedra de Geografía Física en el área de 'Agua y Planificación'. Un trámite estándar para la consolidación del profesorado universitario. #BOE #Universidad #Euskadi #Transparencia 🌊",
+    "banderas_red_flags": [
+      "Opacidad en los baremos específicos del tribunal evaluador",
+      "Riesgo estructural de endogamia académica en concursos de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Askoa Ibisate González de Matuaco",
+        "UPV/EHU (consolidación de su cuadro docente)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso",
+        "Contribuyente (impacto salarial de nivel administrativo superior)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de personal docente e investigador",
+    "banderas_rojas": [
+      "Opacidad en los baremos específicos del tribunal evaluador",
+      "Riesgo estructural de endogamia académica en concursos de acceso"
+    ]
+  },
+  "tweeted": false
+}
