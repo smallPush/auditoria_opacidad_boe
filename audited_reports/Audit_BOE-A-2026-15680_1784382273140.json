@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15680",
+  "timestamp": "2026-07-18T13:44:33.140Z",
+  "title": "Ley 6/2026, de 28 de mayo, del tercer sector social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley establece un marco jurídico que institucionaliza la colaboración público-privada en los servicios sociales de Cataluña. Aunque formaliza principios de transparencia y democracia interna, la norma blinda la 'acción concertada' y la 'gestión delegada' como vías preferentes frente a la contratación pública ordinaria. Esto permite a la Administración externalizar servicios esenciales a entidades sin ánimo de lucro bajo criterios que, si bien son sociales, reducen la competencia abierta y pueden generar redes de clientelismo institucional. Destaca la mención explícita a 'entidades singulares' (Cáritas, Cruz Roja, ONCE), lo que crea una jerarquía de facto en el tercer sector, otorgando un estatus de interlocución privilegiado a los actores históricos frente a nuevas organizaciones ciudadanas.",
+    "resumen_ciudadano": "Esta ley regula cómo las ONGs y cooperativas sociales gestionan servicios públicos en Cataluña (residencias, centros de día, inclusión laboral). Se priorizan los convenios directos sobre los concursos públicos para favorecer a entidades sociales, pero se corre el riesgo de que grandes organizaciones copen los fondos mientras las pequeñas luchan con la burocracia. Se reconoce un volumen de negocio de más de 2.100 millones de euros gestionados por este sector.",
+    "resumen_tweet": "🚨 Cataluña blinda por ley la gestión de servicios sociales mediante ONGs. Se prioriza el 'concierto social' sobre la subasta pública. Ojo al privilegio de 'entidades singulares' y la externalización masiva de 2.100M€ 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reconocimiento de 'entidades singulares' con estatus preferente (Cáritas, Cruz Roja, ONCE)",
+      "Preferencia de la acción concertada sobre la licitación pública competitiva",
+      "Remisión a futuros reglamentos para concretar las obligaciones de transparencia financiera",
+      "Ambigüedad en el control de excedentes económicos reinvertidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes estructuras del tercer sector (Cáritas, Cruz Roja, ONCE)",
+        "Gestoras de servicios sociales privados no lucrativos",
+        "Generalitat (por la descarga de gestión directa y ahorro en costes de personal público)"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones locales con menos capacidad administrativa para cumplir requisitos",
+        "Cuerpo de funcionarios (sustitución de empleo público por empleo en el tercer sector)",
+        "Ciudadanía (menor control democrático directo sobre servicios externalizados)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Ley de Servicios Sociales y Tercer Sector",
+    "banderas_rojas": [
+      "Reconocimiento de 'entidades singulares' con estatus preferente (Cáritas, Cruz Roja, ONCE)",
+      "Preferencia de la acción concertada sobre la licitación pública competitiva",
+      "Remisión a futuros reglamentos para concretar las obligaciones de transparencia financiera",
+      "Ambigüedad en el control de excedentes económicos reinvertidos"
+    ]
+  },
+  "tweeted": false
+}
