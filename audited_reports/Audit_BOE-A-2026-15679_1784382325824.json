@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-15679",
+  "timestamp": "2026-07-18T13:45:25.824Z",
+  "title": "Ley 5/2026, de 20 de mayo, de medidas urgentes de apoyo al sector agrario y forestal.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 5/2026 utiliza la narrativa de la 'urgencia climática y sanitaria' para implementar cambios estructurales que reducen el control administrativo sobre el suelo forestal. Destaca el uso de una ley sectorial agraria para introducir de forma opaca una modificación en el régimen de incompatibilidades de la Agencia Tributaria de Cataluña (Disposición Final 1), lo cual es una técnica legislativa de 'ley ómnibus' que dificulta la fiscalización ciudadana. Asimismo, la flexibilización de requisitos para el control cinegético y la eliminación de licencias urbanísticas para puntos de agua forestales representan una cesión de soberanía regulatoria ante lobbies específicos bajo el paraguas de la emergencia.",
+    "resumen_ciudadano": "Se aprueban ayudas directas al ganado vacuno por tuberculosis, exenciones de tasas veterinarias y beneficios fiscales en sucesiones para explotaciones agrarias. Además, se simplifica la burocracia digital (cuaderno de campo) y se agilizan las obras de prevención de incendios, eliminando la necesidad de licencias urbanísticas para balsas de agua y facilitando que los cazadores actúen como controladores de población con menos formación previa.",
+    "resumen_tweet": "🚜 Cataluña aprueba la Ley 5/2026 de apoyo agrario. Mucha 'urgencia' para dar ayudas, pero aprovechan para colar cambios en Hacienda y reducir controles ambientales y urbanísticos. ¿Apoyo al campo o barra libre burocrática? 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Contaminación legislativa: Inclusión de cambios en el régimen de funcionarios de Hacienda en una ley agraria.",
+      "Desregulación urbanística: Eliminación de licencias para infraestructuras en suelo forestal.",
+      "Reducción de estándares: Menores requisitos de formación para actividades de control cinegético.",
+      "Opacidad presupuestaria: Remisión a reglamentos 'de minimis' sin especificar techos de gasto locales inmediatos."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes explotaciones ganaderas de vacuno",
+        "Lobby cinegético (cazadores)",
+        "Altos cargos de la Agencia Tributaria (recuperan compatibilidad docente)",
+        "Propietarios de terrenos forestales en perímetros de protección"
+      ],
+      "perdedores": [
+        "Plataformas ecologistas (por la menor vigilancia ambiental en montes)",
+        "Administración local (pierde competencias de control urbanístico en incendios)",
+        "Pequeños artesanos (el relevo generacional sigue condicionado a registros burocráticos aunque se flexibilicen)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Medidas urgentes / Ley ómnibus encubierta",
+    "banderas_rojas": [
+      "Contaminación legislativa: Inclusión de cambios en el régimen de funcionarios de Hacienda en una ley agraria.",
+      "Desregulación urbanística: Eliminación de licencias para infraestructuras en suelo forestal.",
+      "Reducción de estándares: Menores requisitos de formación para actividades de control cinegético.",
+      "Opacidad presupuestaria: Remisión a reglamentos 'de minimis' sin especificar techos de gasto locales inmediatos."
+    ]
+  },
+  "tweeted": false
+}
