@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15675",
+  "timestamp": "2026-07-18T13:42:20.991Z",
+  "title": "Corrección de errores de la Aplicación provisional del Acuerdo entre el Gobierno del Reino de España y el Gobierno de la República Árabe de Egipto para el intercambio y la protección de información clasificada en el ámbito de la defensa, hecho en Madrid el 17 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "El documento es una corrección técnica de un acuerdo de alta sensibilidad sobre intercambio de información clasificada con Egipto. Llama la atención el error en el lugar de firma (El Cairo vs Madrid), lo que sugiere una gestión administrativa apresurada o descuidada en tratados que comprometen la seguridad nacional. La terminología 'información clasificada' actúa como un muro legal que impide conocer qué tipo de datos o tecnología se están compartiendo realmente con un régimen cuya trayectoria en derechos humanos es cuestionable.",
+    "resumen_ciudadano": "España y Egipto ajustan los términos legales para compartir secretos militares y de defensa. Aunque el texto solo corrige errores de forma y lugar, el acuerdo de fondo permite que ambos países intercambien información sensible fuera del control público, amparándose en la seguridad mutua y el secretismo oficial.",
+    "resumen_tweet": "🛡️ España blinda el intercambio de secretos militares con Egipto. Correcciones de última hora sobre el lugar de firma revelan falta de rigor en acuerdos de 'Información Clasificada'. ¿Seguridad o pactos en la sombra? 🇪🇸🇪🇬 #BOE #Opacidad #Defensa",
+    "banderas_red_flags": [
+      "Opacidad por naturaleza del contenido (clasificado)",
+      "Contradicción en el lugar de celebración del acuerdo",
+      "Falta de desglose sobre el coste de implementación de protocolos de seguridad",
+      "Cooperación en defensa con regímenes de baja calidad democrática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria de defensa y armamento",
+        "Servicios de inteligencia (CNI)",
+        "Gobierno de la República Árabe de Egipto"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Organizaciones de derechos humanos",
+        "Ciudadanía privada de fiscalización sobre pactos militares"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional de Defensa",
+    "banderas_rojas": [
+      "Opacidad por naturaleza del contenido (clasificado)",
+      "Contradicción en el lugar de celebración del acuerdo",
+      "Falta de desglose sobre el coste de implementación de protocolos de seguridad",
+      "Cooperación en defensa con regímenes de baja calidad democrática"
+    ]
+  },
+  "tweeted": false
+}
