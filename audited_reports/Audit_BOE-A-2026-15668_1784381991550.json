@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-15668",
+  "timestamp": "2026-07-18T13:39:51.550Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, sobre la manera en la que se llevarán a cabo las inspecciones fronterizas de Schengen y la vigilancia de fronteras, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una estructura de 'soberanía cosmética'. Aunque España asume la responsabilidad técnica de la frontera Schengen, el acuerdo impone restricciones visuales severas a la autoridad estatal (agentes de paisano fuera de cabinas y barcos sin distintivos oficiales), lo que sugiere una cesión de imagen a cambio de control técnico. Existe una opacidad significativa en la Parte 1.1, donde se delegan los aspectos clave a 'entendimientos operativos' privados entre agencias policiales, sustrayéndolos del control parlamentario. No se detallan los costes de mantenimiento de los sistemas automáticos ni de las patrullas marítimas rotatorias, lo que constituye un escenario de gasto público sin fiscalización directa.",
+    "resumen_ciudadano": "España y Reino Unido acuerdan el control de la frontera de Gibraltar tras el Brexit. España realizará las inspecciones de entrada al espacio Schengen (aeropuerto y puerto), pero sus agentes no podrán vestir uniforme fuera de las cabinas de control y deberán ser escoltados por autoridades británicas en sus desplazamientos. Se establecen patrullas marítimas conjuntas donde los barcos se turnarán semanalmente y no llevarán banderas nacionales, solo la europea u otros distintivos acordados.",
+    "resumen_tweet": "🚨 ¿Control real o maquillaje diplomático? El nuevo acuerdo sobre #Gibraltar permite a España vigilar la frontera #Schengen, pero con agentes de paisano y escoltados por británicos. Mucha opacidad en los pactos policiales 'secretos'. 🧐📉 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Delegación de detalles operativos a acuerdos policiales no publicados",
+      "Uso de agentes de paisano para ocultar la presencia del Estado",
+      "Uso de embarcaciones sin distintivos nacionales (pabellón europeo como pantalla)",
+      "Falta de desglose presupuestario para la infraestructura y patrullas conjuntas",
+      "Procedimiento de detención complejo que permite suspender expulsiones por vía judicial rápida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores transfronterizos (mayor fluidez)",
+        "Operadores turísticos de cruceros",
+        "Empresas de tecnología de control fronterizo (puertas automáticas)"
+      ],
+      "perdedores": [
+        "Soberanistas (por la ambigüedad visual)",
+        "Ciudadanos (por la opacidad de los acuerdos policiales subyacentes)",
+        "Transparencia pública (por el uso de 'acuerdos administrativos' que evitan debates legislativos profundos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Acuerdo Internacional / Seguridad Ciudadana",
+    "banderas_rojas": [
+      "Delegación de detalles operativos a acuerdos policiales no publicados",
+      "Uso de agentes de paisano para ocultar la presencia del Estado",
+      "Uso de embarcaciones sin distintivos nacionales (pabellón europeo como pantalla)",
+      "Falta de desglose presupuestario para la infraestructura y patrullas conjuntas",
+      "Procedimiento de detención complejo que permite suspender expulsiones por vía judicial rápida"
+    ]
+  },
+  "tweeted": false
+}
