@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-15580",
+  "timestamp": "2026-07-18T03:24:41.389Z",
+  "title": "Real Decreto 583/2026, de 8 de julio, por el que se nombra Presidente del Tribunal Superior de Justicia de Canarias a don Juan Avello Formoso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza un nombramiento bajo la modalidad de 'discrecionalidad', un término legal que permite la elección de altos cargos judiciales sin la obligación de publicar una baremación comparativa de méritos en el extracto del BOE. Aunque se cita el Reglamento 1/2025, el proceso sigue siendo una 'caja negra' para la ciudadanía, donde la afinidad institucional suele pesar tanto o más que la excelencia técnica. Se observa una continuidad en la estructura de poder judicial mediante el sistema de cooptación interna del CGPJ.",
+    "resumen_ciudadano": "Se ha nombrado a Juan Avello Formoso como nuevo Presidente del Tribunal Superior de Justicia de Canarias. Este cargo es de designación directa por el Consejo General del Poder Judicial (CGPJ), lo que significa que la elección no se basa en un concurso público abierto y transparente, sino en una decisión interna del órgano de gobierno de los jueces.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento 'a dedo' en la cúpula judicial: Juan Avello Formoso presidirá el TSJ de Canarias. El BOE confirma la discrecionalidad del CGPJ sin detallar méritos frente a otros candidatos. #BOE #Opacidad #Transparencia #Justicia 🇮🇨🕵️‍♂️",
+    "banderas_red_flags": [
+      "Nombramiento discrecional",
+      "Ausencia de justificación de méritos en el texto",
+      "Falta de transparencia en el proceso de selección frente a la ciudadanía"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Avello Formoso",
+        "Pleno del CGPJ (ejercicio de poder de nombramiento)"
+      ],
+      "perdedores": [
+        "Transparencia democrática",
+        "Candidatos alternativos con posibles méritos superiores",
+        "Ciudadanía (por falta de información sobre la idoneidad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional",
+      "Ausencia de justificación de méritos en el texto",
+      "Falta de transparencia en el proceso de selección frente a la ciudadanía"
+    ]
+  },
+  "tweeted": false
+}
