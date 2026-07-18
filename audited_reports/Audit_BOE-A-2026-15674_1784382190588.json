@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15674",
+  "timestamp": "2026-07-18T13:43:10.588Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, sobre el Protocolo relativo a la coordinación de la Seguridad Social, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El acuerdo presenta una dualidad juridica compleja. Por un lado, busca proteger los derechos de seguridad social post-Brexit, pero incluye clausulas de salvaguarda de soberania que actuan como un 'escudo diplomatico' para evitar que la cooperacion tecnica se interprete como reconocimiento politico. Se observa una exclusion explicita de ciertos regímenes de funcionarios (Clases Pasivas) en coberturas de salud, lo que genera una segmentacion en la proteccion social. La gestion de reembolsos a traves de la NHS Business Services Authority del Reino Unido introduce una capa de intermediacion financiera dificil de fiscalizar por el ciudadano medio.",
+    "resumen_ciudadano": "Este acuerdo regula como se pagan las pensiones, bajas medicas y accidentes de trabajo entre España y Gibraltar. Establece que los trabajadores desplazados usaran la Tarjeta Sanitaria Europea o certificados equivalentes. Aunque garantiza la atencion medica, excluye a ciertos funcionarios españoles de algunas ventajas y mantiene un periodo transitorio de formularios antiguos que podria generar burocracia.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! España y UK coordinan la Seguridad Social en Gibraltar. Se protegen derechos laborales pero se excluye a ciertos funcionarios de coberturas clave. Mas gestion indirecta y menos claridad en reembolsos. #Opacidad #Transparencia 🇬🇮🇪🇸",
+    "banderas_red_flags": [
+      "Exclusion de funcionarios de regímenes especiales en beneficios de salud",
+      "Periodos transitorios de formularios sin fecha de fin clara",
+      "Intermediacion de la NHS Business Services Authority en el flujo de dinero",
+      "Clausulas de soberania que podrian dificultar reclamaciones judiciales futuras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores transfronterizos",
+        "Empresas con empleados desplazados entre España y Gibraltar",
+        "Organismos de enlace de la Seguridad Social (INSS/SEPE)"
+      ],
+      "perdedores": [
+        "Funcionarios bajo regímenes especiales (Muface/Clases Pasivas)",
+        "Ciudadanos que dependan de la unificacion de formularios para tramites urgentes"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia (Campo de Gibraltar)",
+    "tipologia": "Acuerdo Internacional de Coordinacion Social",
+    "banderas_rojas": [
+      "Exclusion de funcionarios de regímenes especiales en beneficios de salud",
+      "Periodos transitorios de formularios sin fecha de fin clara",
+      "Intermediacion de la NHS Business Services Authority en el flujo de dinero",
+      "Clausulas de soberania que podrian dificultar reclamaciones judiciales futuras"
+    ]
+  },
+  "tweeted": false
+}
