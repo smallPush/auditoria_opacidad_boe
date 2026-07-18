@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-15670",
+  "timestamp": "2026-07-18T13:41:19.806Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, en materia aduanera, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo establece un marco técnico de alta complejidad para la gestión de mercancías en Gibraltar, externalizando de facto la vigilancia tributaria del IVA y los Impuestos Especiales españoles a las autoridades gibraltareñas en casos de irregularidades. Se detecta una potencial zona gris en la transferencia de fondos recaudados, con plazos de hasta dos meses que podrían generar desajustes de tesorería y dificultades de auditoría directa por parte de la Hacienda española. El lenguaje técnico oculta una cesión operativa bajo la excusa de la facilitación del comercio, manteniendo la cláusula de 'sin perjuicio de la soberanía' como un escudo retórico ante una integración aduanera profunda.",
+    "resumen_ciudadano": "España y el Reino Unido han pactado un nuevo sistema para controlar el paso de productos por Gibraltar. Cuando haya errores o fraudes en los impuestos españoles (IVA), Gibraltar se encargará de cobrar ese dinero y luego enviárselo a España. Aunque parece un avance logístico, crea un sistema burocrático difícil de vigilar para el ciudadano común, donde las empresas de transporte y barcos tienen normas especiales, mientras el control del dinero queda en manos de administraciones que a veces no coinciden en sus plazos.",
+    "resumen_tweet": "🧐 ¿Control real o cesión fiscal? El nuevo acuerdo sobre #Gibraltar externaliza a las autoridades del Peñón el cobro de impuestos españoles en caso de irregularidades. Más burocracia y plazos de 2 meses para recuperar fondos. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Recaudación de impuestos españoles delegada a autoridades extranjeras",
+      "Plazo de 2 meses para la transferencia de deudas tributarias entre territorios",
+      "Exenciones de presentación física de mercancías para avituallamiento de buques",
+      "Uso de pruebas alternativas de difícil verificación en caso de fallos técnicos",
+      "Complejidad en el registro de mensajes NCTS que favorece la opacidad de pequeños movimientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadores logísticos internacionales",
+        "Sector de avituallamiento de buques y aeronaves",
+        "Autoridades aduaneras de Gibraltar (ganan capacidad de gestión fiscal delegada)"
+      ],
+      "perdedores": [
+        "Agencia Tributaria Española (pierde control directo sobre el cobro inmediato)",
+        "Pequeño comercio local del Campo de Gibraltar frente a grandes importadores",
+        "Transparencia administrativa pública"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía (Campo de Gibraltar)",
+    "tipologia": "Acuerdo Internacional Aduanero",
+    "banderas_rojas": [
+      "Recaudación de impuestos españoles delegada a autoridades extranjeras",
+      "Plazo de 2 meses para la transferencia de deudas tributarias entre territorios",
+      "Exenciones de presentación física de mercancías para avituallamiento de buques",
+      "Uso de pruebas alternativas de difícil verificación en caso de fallos técnicos",
+      "Complejidad en el registro de mensajes NCTS que favorece la opacidad de pequeños movimientos"
+    ]
+  },
+  "tweeted": false
+}
