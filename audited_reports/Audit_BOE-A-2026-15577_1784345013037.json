@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15577",
+  "timestamp": "2026-07-18T03:23:33.037Z",
+  "title": "Resolución de 7 de julio de 2026, de la Secretaría de Estado de la Seguridad Social y Pensiones, por la que se establece la planificación general de las actividades preventivas de la Seguridad Social a desarrollar por las mutuas colaboradoras con la Seguridad Social en sus planes de actividades del año 2027.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Esta resolucion perpetua la delegacion de fondos publicos de la Seguridad Social hacia las Mutuas Colaboradoras (entidades privadas) bajo el concepto del 0,7% de ingresos por contingencias profesionales. Aunque se detallan programas de asesoramiento y 'Vision Cero', el documento carece de mecanismos de fiscalizacion en tiempo real, basandose en informes que las propias Mutuas entregaran con un año de retraso (2028). Existe un riesgo inherente de que estos fondos se utilicen para fidelizar empresas asociadas mas que para una reduccion efectiva de la siniestralidad, dada la ambigüedad en las partidas de I+D+i y la naturaleza 'orientativa' de las visitas tecnicas.",
+    "resumen_ciudadano": "El Gobierno ha fijado las reglas para que las Mutuas utilicen parte de las cuotas de la Seguridad Social en 2027 para actividades de prevencion de accidentes laborales. Se centraran en pequeñas empresas (menos de 50 empleados) y sectores con alta mortalidad. El presupuesto asignado es el 0,7% de las cuotas recaudadas. Las Mutuas deben presentar sus planes antes de que termine 2026 y publicar sus gastos en sus webs tras ser aprobados.",
+    "resumen_tweet": "⚠️¿Adónde va el 0,7% de tus cuotas de accidentes? El #BOE planifica el gasto de las Mutuas para 2027. Mucho asesoramiento y 'Visión Cero', pero el control real del dinero es ex-post y por autoinforme. ¿Prevención o marketing? 🧐🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Gestion de fondos publicos por entidades privadas con control diferido",
+      "Falta de indicadores de exito vinculados a la financiacion",
+      "Riesgo de uso de actividades preventivas como herramienta de captacion comercial",
+      "Ambigüedad en el gasto destinado a I+D+i preventivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mutuas colaboradoras (gestionan fondos liquidos)",
+        "PYMES (reciben consultoria sin coste directo)",
+        "Consultoras externas de prevencion"
+      ],
+      "perdedores": [
+        "Trabajadores de sectores precarios (si el asesoramiento es solo burocratico)",
+        "Cajas publicas (por la externalizacion del 0,7% de ingresos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolucion Administrativa / Planificacion de Gasto",
+    "banderas_rojas": [
+      "Gestion de fondos publicos por entidades privadas con control diferido",
+      "Falta de indicadores de exito vinculados a la financiacion",
+      "Riesgo de uso de actividades preventivas como herramienta de captacion comercial",
+      "Ambigüedad en el gasto destinado a I+D+i preventivo"
+    ]
+  },
+  "tweeted": false
+}
