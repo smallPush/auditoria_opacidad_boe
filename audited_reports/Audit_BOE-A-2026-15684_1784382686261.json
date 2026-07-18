@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15684",
+  "timestamp": "2026-07-18T13:51:26.261Z",
+  "title": "Acuerdo de 14 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don José Luis Costa Pillado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa por edad. La opacidad no reside en el acto en sí, sino en la mención genérica a los 'derechos pasivos'. Este lenguaje técnico enmascara el coste real de las pensiones de la élite judicial, que se rigen por el régimen de Clases Pasivas, notablemente superior al sistema de Seguridad Social común. No se especifica la cuantía ni el impacto presupuestario a largo plazo de esta transición de activo a pasivo.",
+    "resumen_ciudadano": "El magistrado José Luis Costa Pillado, del Tribunal Superior de Justicia de Galicia, se jubila por cumplir la edad legal. Pasará a cobrar una pensión del Estado cuyos detalles económicos no se publican en el BOE, manteniendo el secretismo sobre el coste de las jubilaciones de altos cargos judiciales.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial de Galicia. El #BOE anuncia el retiro de un Magistrado, pero oculta la cuantía de sus 'derechos pasivos'. ¿Pensiones de élite a costa del contribuyente? 🧐 #Opacidad #Transparencia #Justicia #GastosFantasma",
+    "banderas_red_flags": [
+      "Indeterminación de cuantía en derechos pasivos",
+      "Falta de memoria económica del relevo judicial",
+      "Uso de terminología técnica para evitar escrutinio sobre el gasto en pensiones de alto rango"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (acceso a pensión máxima del régimen de Clases Pasivas)",
+        "Estructura del CGPJ (mantenimiento de la inercia administrativa)"
+      ],
+      "perdedores": [
+        "Sistema público de pensiones (carga financiera sin desglose público)",
+        "Ciudadanía (falta de claridad sobre el gasto en la administración de justicia)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Indeterminación de cuantía en derechos pasivos",
+      "Falta de memoria económica del relevo judicial",
+      "Uso de terminología técnica para evitar escrutinio sobre el gasto en pensiones de alto rango"
+    ]
+  },
+  "tweeted": false
+}
