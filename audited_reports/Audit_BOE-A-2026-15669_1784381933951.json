@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15669",
+  "timestamp": "2026-07-18T13:38:53.951Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, en materia de continuación de la vigilancia y la no interrupción de la persecución, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo formaliza la erosion de la frontera fisica en terminos policiales bajo un lenguaje de 'cooperacion operativa'. Aunque se presenta como un avance tecnico, delega la letra pequeña (reglamento interno y directrices de actuacion) a un 'Grupo de Trabajo' binacional que opera fuera del control parlamentario directo. La clausula de soberania es un 'escudo retorico' habitual que permite la cooperacion practica mientras se mantiene el inmovilismo politico. No se detallan los costes de la infraestructura tecnologica (redes cifradas) ni el aumento de gasto de personal en las 'zonas de inspeccion de segunda linea'.",
+    "resumen_ciudadano": "España y Reino Unido permiten que sus respectivas policias entren en territorio ajeno (Gibraltar y España) para no interrumpir persecuciones de delincuentes o vigilancias en curso. Se crea un grupo de mando conjunto y una red de radio secreta para coordinar estas operaciones, garantizando que los agentes puedan ir armados pero sin capacidad de detencion directa en el pais vecino salvo excepciones.",
+    "resumen_tweet": "🚨 España y UK acuerdan que sus policias crucen la frontera de #Gibraltar en persecuciones 'calientes' 🚔. Se crea un grupo de trabajo opaco y redes de radio cifradas con gasto sin detallar. ¿Seguridad o mas vigilancia? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reglamento interno del Grupo de Trabajo no sujeto a publicacion publica",
+      "Coste indeterminado de la frecuencia de radio cifrada",
+      "Ambigüedad en las 'modalidades de ejercicio de la persecución' supeditadas a declaraciones futuras",
+      "Gasto en personal de 'segunda linea' no presupuestado explícitamente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpos y Fuerzas de Seguridad del Estado",
+        "Ministerio de Asuntos Exteriores (exito diplomatico formal)",
+        "Contratistas de tecnologia de comunicaciones cifradas"
+      ],
+      "perdedores": [
+        "Residentes del Campo de Gibraltar (mayor vigilancia transfronteriza)",
+        "Transparencia presupuestaria (gastos operativos ocultos)",
+        "Control parlamentario sobre reglas de enfrentamiento policial"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Acuerdo Internacional de Seguridad",
+    "banderas_rojas": [
+      "Reglamento interno del Grupo de Trabajo no sujeto a publicacion publica",
+      "Coste indeterminado de la frecuencia de radio cifrada",
+      "Ambigüedad en las 'modalidades de ejercicio de la persecución' supeditadas a declaraciones futuras",
+      "Gasto en personal de 'segunda linea' no presupuestado explícitamente"
+    ]
+  },
+  "tweeted": false
+}
