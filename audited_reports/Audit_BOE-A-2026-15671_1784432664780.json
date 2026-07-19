@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15671",
+  "timestamp": "2026-07-19T03:44:24.780Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, sobre cuestiones medioambientales, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El acuerdo establece una estructura de gobernanza ambiental (Comité Técnico) que, aunque necesaria, carece de mecanismos de fiscalización ciudadana directa. Se detecta una 'opacidad preventiva' al remitir los métodos de trabajo a normas internas futuras no publicadas en este texto. El uso del medio ambiente actúa aquí como un 'terreno neutral' para evitar el conflicto de soberanía, pero los compromisos de información sobre 'rellenos' y 'aguas residuales' son laxos (se basan en la buena fe del participante originante) y no especifican sanciones por incumplimiento. Es un pacto de gestión de mínimos para evitar fricciones diplomáticas post-Brexit.",
+    "resumen_ciudadano": "España y el Reino Unido han pactado crear un Comité Técnico para intercambiar datos sobre la contaminación, los residuos y la calidad del aire en la zona de Gibraltar. Aunque busca mejorar la cooperación, no garantiza que los ciudadanos del Campo de Gibraltar tengan acceso a esos datos ni define cuánto dinero público se gastará en mantener esta nueva burocracia internacional.",
+    "resumen_tweet": "🌍 ¿Solución ambiental o cortina de humo diplomática? España y RU crean un comité para Gibraltar sin control ciudadano directo ni presupuesto claro. Mucho intercambio de datos, poca transparencia real. 🕵️‍♂️💸 #BOE #Gibraltar #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de dotación presupuestaria específica para el Comité Técnico",
+      "Remisión de los métodos de trabajo a reglamentos internos no públicos",
+      "Plazos de notificación de impactos ambientales (30 días) potencialmente insuficientes para la reacción civil",
+      "Falta de mecanismos de participación para las ONGs ambientales locales en el Comité"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (nuevas sedes y competencias)",
+        "Administraciones centrales de Madrid y Londres",
+        "Empresas gestoras de residuos transfronterizos"
+      ],
+      "perdedores": [
+        "Ciudadanos del Campo de Gibraltar (sin acceso directo a la mesa de diálogo)",
+        "Transparencia pública (gastos de gestión no desglosados)",
+        "Entidades locales de Andalucía (supeditadas a la administración central)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Ausencia de dotación presupuestaria específica para el Comité Técnico",
+      "Remisión de los métodos de trabajo a reglamentos internos no públicos",
+      "Plazos de notificación de impactos ambientales (30 días) potencialmente insuficientes para la reacción civil",
+      "Falta de mecanismos de participación para las ONGs ambientales locales en el Comité"
+    ]
+  },
+  "tweeted": false
+}
