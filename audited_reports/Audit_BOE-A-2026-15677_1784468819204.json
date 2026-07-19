@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15677",
+  "timestamp": "2026-07-19T13:46:59.204Z",
+  "title": "Sentencia de 1 de junio de 2026, de la Sala Tercera del Tribunal Supremo, que estima en parte el recurso contencioso-administrativo interpuesto por la Comunidad Autónoma de la Región de Murcia, representada y defendida por el Letrado de sus servicios jurídicos, contra el Real Decreto 1312/2024, de 23 de diciembre, por el que se regula el procedimiento de Registro Único de Arrendamientos y se crea la Ventanilla Única Digital de Arrendamientos para la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La sentencia revela una colisión de competencias entre el Estado y las Comunidades Autónomas. El Gobierno intentó centralizar el control de los alquileres de corta duración mediante un Registro Único y una Ventanilla Única, pero el Tribunal Supremo ha anulado gran parte de la normativa (artículos clave sobre el procedimiento y competencias) por invadir potestades autonómicas. Esto genera un vacío regulatorio inmediato y demuestra una técnica legislativa deficiente que ignora el marco competencial de la Región de Murcia y otras regiones.",
+    "resumen_ciudadano": "El Tribunal Supremo ha anulado varios puntos clave del nuevo Registro Único de Alquileres Turísticos del Gobierno tras una demanda de la Región de Murcia. El Estado no puede imponer por decreto el procedimiento de registro de estos alojamientos, ya que es una competencia regional. Esto significa que la regulación del alquiler vacacional seguirá fragmentada y el intento de control centralizado ha fallado legalmente.",
+    "resumen_tweet": "⚖️ El Supremo tumba el control central del alquiler turístico. Varapalo al Gobierno: Murcia gana la batalla por las competencias. La 'Ventanilla Única' queda herida de muerte por invadir autonomía regional. 🛑 #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Invasión de competencias autonómicas",
+      "Nulidad de artículos fundamentales del RD 1312/2024",
+      "Inseguridad jurídica para los propietarios de viviendas turísticas",
+      "Gasto de recursos públicos en litigios interadministrativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de la Región de Murcia",
+        "Plataformas de alquiler vacacional (por la demora en la unificación de datos)",
+        "Autonomías que defienden su gestión exclusiva en turismo"
+      ],
+      "perdedores": [
+        "Ministerio de Vivienda y Agenda Urbana",
+        "Ciudadanos que buscan una regulación homogénea y simplificada",
+        "Transparencia en el mercado de alquiler de corta duración"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Sentencia Judicial / Conflicto de Competencias",
+    "banderas_rojas": [
+      "Invasión de competencias autonómicas",
+      "Nulidad de artículos fundamentales del RD 1312/2024",
+      "Inseguridad jurídica para los propietarios de viviendas turísticas",
+      "Gasto de recursos públicos en litigios interadministrativos"
+    ]
+  },
+  "tweeted": false
+}
