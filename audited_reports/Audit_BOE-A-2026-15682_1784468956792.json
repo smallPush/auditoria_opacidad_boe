@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-15682",
+  "timestamp": "2026-07-19T13:49:16.792Z",
+  "title": "Decreto-ley 5/2026, de 28 de abril, de medidas urgentes en materia de transporte público interurbano de viajeros por carretera.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Decreto-ley utiliza la crisis de Rodalies y la emergencia climática como palancas de urgencia para evitar la licitación pública competitiva. Bajo la figura del 'restablecimiento del equilibrio económico', se concede una prórroga de hasta 6 años a las actuales operadoras de transporte por carretera. Este mecanismo de 'compensación en tiempo' es una adjudicación directa encubierta que bloquea la entrada de nuevos competidores y posibles bajadas de precios hasta 2034. La opacidad reside en que la valoración del 'desequilibrio' se basa en estudios económicos individuales presentados por las propias empresas, lo que facilita el inflado de costes para maximizar la prórroga.",
+    "resumen_ciudadano": "La Generalitat permite que las actuales empresas de autobús sigan operando sin concurso público hasta 6 años más de lo previsto. A cambio, las empresas deben comprar autobuses eléctricos y mejorar sus apps antes de 2029. El gobierno justifica esta medida por el mal funcionamiento de los trenes de Rodalies, que obliga a usar más el autobús, y por la necesidad de reducir la contaminación.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Cataluña extiende 'a dedo' las concesiones de bus hasta 6 años extra bajo el pretexto de la crisis de Rodalies y el clima. 🚌💨 ¿Inversión verde o blindaje de monopolios sin concurso público? 🧐 #Opacidad #Transparencia #Catalunya",
+    "banderas_red_flags": [
+      "Adjudicación directa de prórrogas sin concurrencia competitiva",
+      "Uso de decreto-ley para modificar contratos de larga duración",
+      "Cálculo del desequilibrio económico basado en datos de la propia empresa",
+      "Inexistencia de auditoría externa pública para validar los planes de inversión",
+      "Viculación de la ineficiencia de un servicio estatal (Rodalies) para beneficiar a concesionarias privadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas concesionarias actuales (blindaje de mercado)",
+        "Fabricantes de vehículos eléctricos",
+        "Gobierno autonómico (cumplimiento rápido de cuotas de descarbonización)"
+      ],
+      "perdedores": [
+        "Nuevos operadores de transporte (excluidos del mercado)",
+        "Usuarios (pérdida de beneficios potenciales de la libre competencia)",
+        "Contribuyentes (falta de optimización de precios por licitación abierta)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Transporte y Medio Ambiente",
+    "banderas_rojas": [
+      "Adjudicación directa de prórrogas sin concurrencia competitiva",
+      "Uso de decreto-ley para modificar contratos de larga duración",
+      "Cálculo del desequilibrio económico basado en datos de la propia empresa",
+      "Inexistencia de auditoría externa pública para validar los planes de inversión",
+      "Viculación de la ineficiencia de un servicio estatal (Rodalies) para beneficiar a concesionarias privadas"
+    ]
+  },
+  "tweeted": false
+}
