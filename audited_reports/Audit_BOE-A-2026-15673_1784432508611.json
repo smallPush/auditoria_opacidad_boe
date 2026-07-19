@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-15673",
+  "timestamp": "2026-07-19T03:41:48.611Z",
+  "title": "Acuerdo Administrativo entre España y el Reino Unido, con respecto a Gibraltar, en materia de movilidad de determinadas categorías de personas y mercancías con respecto a Gibraltar, hecho en Madrid el 25 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo establece una estructura de gobernanza paralela mediante un 'Grupo de Trabajo' y 'Oficiales de Enlace' militares que operan fuera del escrutinio parlamentario ordinario. Bajo la fórmula de 'decisiones por consenso', se oculta la capacidad de crear nuevos subgrupos y delegar tareas sin transparencia pública. La mención reiterada a que el acuerdo no afecta a la soberanía actúa como una cortina de humo jurídica para una gestión compartida de facto de la frontera y los flujos militares. Además, la gestión de 'información clasificada' según un acuerdo de 2009 asegura que la verdadera operatividad del paso fronterizo sea opaca para el ciudadano.",
+    "resumen_ciudadano": "España y el Reino Unido han creado un comité bilateral formado por diplomáticos y militares para gestionar el movimiento de personas y mercancías en Gibraltar. Este sistema permite que militares británicos y fuerzas aliadas entren y salgan con documentos especiales, evitando los controles de pasaporte y visado que sufre el resto de la población. Se establecen 'oficiales de enlace' (militares) que vigilarán la frontera 24/7 y manejarán información que no será pública por ser considerada clasificada.",
+    "resumen_tweet": "🚩 ¿Soberanía o gestión opaca? Nuevo acuerdo en el #BOE para Gibraltar: militares británicos con privilegios de entrada y un 'Grupo de Trabajo' que decidirá por consenso fuera del control ciudadano. 💂‍♂️🛂 #Opacidad #Transparencia #Gibraltar",
+    "banderas_red_flags": [
+      "Creación de grupos de trabajo con potestad para crear subgrupos sin control parlamentario",
+      "Exención de controles fronterizos Schengen para categorías militares específicas",
+      "Uso de oficiales de enlace militares para funciones administrativas civiles",
+      "Decisiones tomadas por 'consenso' sin mecanismos de publicidad de actas",
+      "Gestión de información bajo protocolos de secreto de 2009"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Defensa del Reino Unido (facilidad de despliegue)",
+        "Oficiales militares de rango OF3 (nuevas funciones de enlace)",
+        "Diplomáticos de carrera (puestos en el Grupo de Trabajo)",
+        "Fuerzas Armadas de países socios (privilegios de movilidad)"
+      ],
+      "perdedores": [
+        "Ciudadanos de a pie (sujetos a controles Schengen estrictos)",
+        "Transparencia pública (decisiones opacas por consenso)",
+        "Control parlamentario (estructura técnica fuera de la cámara)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Creación de grupos de trabajo con potestad para crear subgrupos sin control parlamentario",
+      "Exención de controles fronterizos Schengen para categorías militares específicas",
+      "Uso de oficiales de enlace militares para funciones administrativas civiles",
+      "Decisiones tomadas por 'consenso' sin mecanismos de publicidad de actas",
+      "Gestión de información bajo protocolos de secreto de 2009"
+    ]
+  },
+  "tweeted": false
+}
