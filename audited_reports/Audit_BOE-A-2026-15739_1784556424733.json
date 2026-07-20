@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-15739",
+  "timestamp": "2026-07-20T14:07:04.733Z",
+  "title": "Resolución de 9 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Esta resolución representa una actualización tecnocrática de precios basada en fórmulas de 2008. Aunque los datos macro (cotización del propano/butano y fletes) son públicos, los 'costes de comercialización' actúan como un 'Gasto Fantasma' para el ciudadano: se fijan en 36,77 c€/kg para usuarios finales sin desglosar qué parte es beneficio empresarial y qué parte es coste operativo real. La incongruencia ideológica radica en que, bajo un Ministerio de 'Transición Ecológica', se sigue gestionando un sistema de precios que traslada toda la volatilidad del dólar y los hidrocarburos al consumidor, sin mecanismos de protección contra la pobreza energética en el texto analizado.",
+    "resumen_ciudadano": "A partir del 21 de julio de 2026, el precio del gas por canalización (propano/butano) cambia. Pagarás una cuota fija de 1,60€ al mes más un término variable de 80,79 céntimos por kilo consumido (sin contar impuestos). El precio se ha calculado usando el valor del dólar y el coste internacional del petróleo. Las empresas distribuidoras han visto actualizados sus márgenes de comercialización este mes.",
+    "resumen_tweet": "📉 Nuevo ajuste del precio del gas por canalización en el #BOE. Los 'costes de comercialización' se blindan para las empresas mientras el usuario asume la volatilidad del dólar y el crudo. ⛽️💸 #Opacidad #Transparencia #Energía #Consumo",
+    "banderas_red_flags": [
+      "Opacidad en el cálculo de márgenes de comercialización",
+      "Dependencia total de la paridad euro/dólar sin amortiguadores",
+      "Complejidad de la facturación proporcional que dificulta el control ciudadano",
+      "Fórmulas de actualización automática que eluden el debate político mensual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas distribuidoras de GLP (aseguran actualización de costes)",
+        "Estado (recaudación vía impuestos sobre base indexada)"
+      ],
+      "perdedores": [
+        "Consumidores en zonas rurales sin acceso a gas natural",
+        "Familias vulnerables dependientes de calefacción por propano",
+        "Clase trabajadora en viviendas antiguas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de precios de hidrocarburos",
+    "banderas_rojas": [
+      "Opacidad en el cálculo de márgenes de comercialización",
+      "Dependencia total de la paridad euro/dólar sin amortiguadores",
+      "Complejidad de la facturación proporcional que dificulta el control ciudadano",
+      "Fórmulas de actualización automática que eluden el debate político mensual"
+    ]
+  },
+  "tweeted": false
+}
