@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15743",
+  "timestamp": "2026-07-20T14:29:27.217Z",
+  "title": "Resolución de 13 de julio de 2026, de la Secretaría de Estado de Justicia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 20 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla un nombramiento por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la selección de altos cargos por criterios de confianza política en lugar de méritos competitivos. Se adjudica un puesto de Nivel 30 (el máximo en la administración pública) como Vocal Asesor, una figura que suele actuar como enlace político-técnico. La falta de justificación sobre los méritos específicos del candidato frente a otros posibles aspirantes subraya la discrecionalidad del proceso.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha nombrado a un nuevo asesor de máximo nivel salarial (Nivel 30) mediante el método de 'libre designación' (elección directa). Aunque el adjudicatario ya es funcionario del subgrupo A1, este sistema evita la competencia abierta y refuerza las redes de confianza interna en el Ministerio.",
+    "resumen_tweet": "🚩 Nuevo dedazo en el Ministerio de Justicia: adjudicado un puesto de Vocal Asesor (Nivel 30) por libre designación. La opacidad de estos cargos 'de confianza' dificulta la fiscalización ciudadana. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Libre designación (elección discrecional)",
+      "Nivel 30 (Máximo complemento de destino)",
+      "Puesto de Vocal Asesor (Funciones laxas)",
+      "Propuesta directa del titular del centro directivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alejandro Fernández Muñoz (accede a un puesto de Nivel 30)",
+        "Dirección General de Cooperación Jurídica Internacional (consolida equipo de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (sin opción a concurso de méritos)",
+        "Ciudadanía (pagadores de sueldos de asesores sin transparencia en criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación (elección discrecional)",
+      "Nivel 30 (Máximo complemento de destino)",
+      "Puesto de Vocal Asesor (Funciones laxas)",
+      "Propuesta directa del titular del centro directivo"
+    ]
+  },
+  "tweeted": false
+}
