@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-15740",
+  "timestamp": "2026-07-20T14:26:41.466Z",
+  "title": "Resolución de 9 de julio de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución utiliza un lenguaje técnico que camufla la transferencia de ineficiencias del mercado al consumidor final. Se observa un 'mecanismo de desajuste' (Xb-1) de +32,65 cts.€/kg, lo que implica que el ciudadano está pagando hoy deudas acumuladas por el sistema en bimestres anteriores. Además, los 'costes de comercialización' representan el 51.7% del precio total antes de impuestos, una cifra desproporcionadamente alta que no se desglosa, protegiendo el margen de las operadoras frente al interés ciudadano.",
+    "resumen_ciudadano": "El Gobierno ha fijado el nuevo precio del butano. Lo que no explican claramente es que el precio incluye un recargo para compensar a las gasistas por pérdidas pasadas y que más de la mitad de lo que pagas por el gas antes de impuestos se va en gastos de gestión y transporte de las empresas, no en el producto en sí.",
+    "resumen_tweet": "🚨 ¡Ojo a la bombona! El nuevo precio del #butano incluye un 'desajuste' de +32 cts que pagas tú por desfases pasados. El 51% del precio son costes de comercialización opacos. Golpe a los hogares más vulnerables. 📉🔥 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Término de desajuste unitario (deuda retroactiva)",
+      "Costes de comercialización superiores al coste de materia prima",
+      "Opacidad en el cálculo del Fondo Nacional de Eficiencia Energética",
+      "Compensación diferida a favor de grandes operadores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadores al por mayor de GLP",
+        "Fondo Nacional de Eficiencia Energética",
+        "Administración (recaudación indirecta)"
+      ],
+      "perdedores": [
+        "Hogares de rentas bajas",
+        "Población rural sin gas natural",
+        "Pensionistas",
+        "Consumidores cautivos del sistema de envases"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de precios energéticos",
+    "banderas_rojas": [
+      "Término de desajuste unitario (deuda retroactiva)",
+      "Costes de comercialización superiores al coste de materia prima",
+      "Opacidad en el cálculo del Fondo Nacional de Eficiencia Energética",
+      "Compensación diferida a favor de grandes operadores"
+    ]
+  },
+  "tweeted": false
+}
