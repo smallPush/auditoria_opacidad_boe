@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-15757",
+  "timestamp": "2026-07-20T14:35:25.346Z",
+  "title": "Resolución de 8 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros de Caminos, Canales y Puertos del Estado.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Aunque el documento cumple formalmente con la transparencia al detallar nombres, destinos y complementos salariales, revela una 'Incongruencia Ideológica' respecto a la descentralización del Estado: la gran mayoría de los nuevos efectivos (Cuerpo de Ingenieros de Caminos) se concentran en Madrid, dejando bajo mínimos de talento técnico a regiones periféricas. Además, el proceso ha tardado casi dos años en culminar (desde 2024 a 2026), lo que indica una ineficiencia administrativa que actúa como barrera de acceso para perfiles con menor colchón económico.",
+    "resumen_ciudadano": "El Gobierno nombra a los nuevos ingenieros de élite del Estado. Estos funcionarios entran directamente con un Nivel 26 y un complemento específico de 13.829,34 euros anuales. Se encargarán de supervisar carreteras, trenes y recursos hídricos, principalmente desde las sedes centrales de los ministerios en la capital.",
+    "resumen_tweet": "🏗️ ¡Más ingenieros para el Estado! Pero con matices: el 75% de las plazas se quedan en Madrid. ¿Y la España vaciada? 🧐 Nombramientos de 2024 que llegan en 2026. Lucha por el talento con sueldos de nivel 26. 📉 #BOE #Opacidad #Transparencia #TalentoPúblico",
+    "banderas_red_flags": [
+      "Concentración geográfica extrema en Madrid",
+      "Dilación temporal excesiva entre convocatoria y nombramiento",
+      "Complementos específicos uniformes sin ajuste por coste de vida regional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios (estabilidad y nivel salarial alto)",
+        "Madrid (atracción de talento técnico)",
+        "Ministerio de Transportes y Movilidad Sostenible"
+      ],
+      "perdedores": [
+        "Regiones periféricas (menor dotación técnica)",
+        "Sector privado (fuga de ingenieros especializados al sector público)",
+        "Aspirantes con pocos recursos (debido a la lentitud del proceso selectivo)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Predominio Madrid)",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Concentración geográfica extrema en Madrid",
+      "Dilación temporal excesiva entre convocatoria y nombramiento",
+      "Complementos específicos uniformes sin ajuste por coste de vida regional"
+    ]
+  },
+  "tweeted": false
+}
