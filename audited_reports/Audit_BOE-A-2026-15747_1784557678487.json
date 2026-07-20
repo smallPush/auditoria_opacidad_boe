@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15747",
+  "timestamp": "2026-07-20T14:27:58.487Z",
+  "title": "Resolución de 14 de julio de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que resuelve la convocatoria de libre designación, efectuada por Resolución de 22 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución oficializa el uso del sistema de 'Libre Designación' para cubrir puestos de alta responsabilidad en la Agencia Tributaria (AEAT). Este mecanismo, aunque legal, permite la discrecionalidad técnica y política bajo la apariencia de idoneidad, limitando la competencia meritocrática real. Se observa un patrón de continuismo: la mayoría de los adjudicatarios ya ocupaban el mismo puesto de procedencia, sugiriendo una formalización de situaciones previas más que una renovación o selección competitiva. Además, las vacantes en áreas críticas de investigación del fraude (puestos 22, 23) generan interrogantes sobre la capacidad operativa actual de estas unidades.",
+    "resumen_ciudadano": "La Agencia Tributaria ha confirmado a dedo a varios altos cargos y jefes de servicio en Madrid y delegaciones regionales. Aunque los salarios y nombres son públicos, el sistema elegido no garantiza que sean los mejores candidatos, sino los designados por la dirección. Destacan sueldos con complementos específicos de hasta 44.000 euros anuales, concentrados mayoritariamente en la estructura central de Madrid.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos la AEAT: Continúa el uso de la 'Libre Designación' para altos cargos. ¿Meritocracia o dedazo institucional? 💸 Sueldos de nivel 29 confirmados para quienes ya estaban en el puesto. Poca renovación y mucha opacidad. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistemático de Libre Designación",
+      "Endogamia: Adjudicatarios que ya ocupaban el mismo puesto",
+      "Puestos de investigación del fraude declarados vacantes",
+      "Concentración de poder en la estructura central de Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios (Nivel 26-29)",
+        "Estructura central de la AEAT en Madrid",
+        "Cargos confirmados por discrecionalidad"
+      ],
+      "perdedores": [
+        "Candidatos externos basados únicamente en méritos",
+        "Transparencia en el acceso a la función pública",
+        "Ciudadanía (por falta de competencia real en puestos clave)"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistemático de Libre Designación",
+      "Endogamia: Adjudicatarios que ya ocupaban el mismo puesto",
+      "Puestos de investigación del fraude declarados vacantes",
+      "Concentración de poder en la estructura central de Madrid"
+    ]
+  },
+  "tweeted": false
+}
