@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-15748",
+  "timestamp": "2026-07-20T14:31:54.827Z",
+  "title": "Resolución de 14 de julio de 2026, de la Presidencia de la Autoridad Independiente de Responsabilidad Fiscal, AAI, por la que se resuelve el concurso específico, convocado por Resolución de 8 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolución muestra una alta tasa de endogamia administrativa o consolidación de puestos. De las 7 plazas adjudicadas, 6 de los ganadores (85,7%) ya ocupaban exactamente el mismo puesto y organismo en el que han sido ratificados. Aunque legalmente es un 'concurso específico', en la práctica funciona como un trámite de regularización de personal interno, lo que dificulta la entrada de talento externo o la movilidad real entre departamentos. Se observa una estructura de niveles altos (22-28) reservada a los grupos A1 y A2.",
+    "resumen_ciudadano": "La AIReF ha finalizado un proceso de adjudicación de puestos de trabajo. Lo llamativo es que la gran mayoría de los seleccionados ya estaban trabajando en esos mismos puestos antes del concurso. Solo una persona proviene de un ministerio externo, lo que sugiere que estos procesos, aunque públicos, sirven principalmente para estabilizar a quienes ya están dentro de la institución.",
+    "resumen_tweet": "🧐 ¿Concurso público o trámite interno? El 85% de las plazas adjudicadas en la @AIReF ya estaban ocupadas por los mismos 'ganadores'. Una práctica legal que consolida el statu quo pero limita la movilidad real. #BOE #Opacidad #Transparencia 📉⚖️",
+    "banderas_red_flags": [
+      "Alta tasa de adjudicación interna (85.7%)",
+      "Circularidad en la provisión de puestos",
+      "Baja permeabilidad para candidatos externos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno de la AIReF",
+        "Altos niveles de la administración (A1/A2)"
+      ],
+      "perdedores": [
+        "Aspirantes externos",
+        "Principios de libre concurrencia efectiva",
+        "Nuevos talentos del sector público"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Resolución de Personal / Consolidación de Puestos",
+    "banderas_rojas": [
+      "Alta tasa de adjudicación interna (85.7%)",
+      "Circularidad en la provisión de puestos",
+      "Baja permeabilidad para candidatos externos"
+    ]
+  },
+  "tweeted": false
+}
