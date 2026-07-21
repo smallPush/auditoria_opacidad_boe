@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15853",
+  "timestamp": "2026-07-21T14:11:52.482Z",
+  "title": "Real Decreto 588/2026, de 15 de julio, por el que se establece el Curso de especialización de Formación Profesional de Grado Superior en Desarrollo de equipos y sistemas electrónicos y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto establece un nuevo Máster de FP en microchips y electrónica, un sector estratégico. No obstante, utiliza una técnica de 'opacidad normativa' al declarar que los contenidos del currículo están 'implícitamente incluidos' en los resultados de aprendizaje (Art. 15.1 del RD 69/2025), lo que dificulta la fiscalización ciudadana sobre qué se enseña exactamente. Además, aunque se ampara en fondos europeos FSE+, no desglosa la cuantía económica exacta destinada a la implementación de estos nuevos laboratorios en las CCAA, dejando un vacío sobre el coste real por plaza.",
+    "resumen_ciudadano": "Se crea un nuevo curso de especialización (Máster de FP) de 750 horas para expertos en diseño de microchips y sistemas electrónicos de potencia. Está dirigido a quienes ya tienen un título de Técnico Superior. Busca cubrir la demanda de la industria tecnológica usando fondos europeos.",
+    "resumen_tweet": "🔬 Nueva especialización en el #BOE: Microchips y electrónica de potencia. 750h para ser 'Máster de FP'. Suena bien, pero ojo: los contenidos son 'implícitos' y el presupuesto real por centro es opaco bajo fondos europeos. 🧐 #Transparencia #FP #Opacidad",
+    "banderas_red_flags": [
+      "Contenidos curriculares definidos como 'implícitos' (Art. 15.1)",
+      "Falta de desglose presupuestario específico por comunidad autónoma",
+      "Uso de la vía reglamentaria (Real Decreto) para fijar bases que deberían ser de rango legal superior",
+      "Dependencia absoluta de fondos europeos FSE+ sin plan de sostenibilidad nacional claro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Técnicos Superiores de FP (acceso a mayor titulación)",
+        "Industria de semiconductores y microelectrónica",
+        "Grandes empresas tecnológicas con capacidad de formación dual"
+      ],
+      "perdedores": [
+        "Ciudadanos sin titulación previa (barrera de entrada)",
+        "Centros públicos en regiones con baja dotación tecnológica",
+        "Transparencia presupuestaria (por la ambigüedad en el coste de los equipos mínimos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación / Formación Profesional",
+    "banderas_rojas": [
+      "Contenidos curriculares definidos como 'implícitos' (Art. 15.1)",
+      "Falta de desglose presupuestario específico por comunidad autónoma",
+      "Uso de la vía reglamentaria (Real Decreto) para fijar bases que deberían ser de rango legal superior",
+      "Dependencia absoluta de fondos europeos FSE+ sin plan de sostenibilidad nacional claro"
+    ]
+  },
+  "tweeted": false
+}
