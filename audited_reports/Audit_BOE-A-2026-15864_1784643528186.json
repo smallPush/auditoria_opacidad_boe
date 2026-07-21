@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-15864",
+  "timestamp": "2026-07-21T14:18:48.186Z",
+  "title": "Resolución de 9 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 5 de junio de 2026, en el Instituto de Contabilidad y Auditoría de Cuentas.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento formaliza un nombramiento mediante el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional de funcionarios para puestos de alta responsabilidad (Nivel 29). Aunque se cita el cumplimiento normativo, este método debilita el principio de mérito y capacidad en favor de la confianza política o personal. Resulta especialmente llamativo que ocurra en el ICAC, el organismo encargado de supervisar la transparencia y auditoría de cuentas en España, lo que sugiere una estructura de control interna basada en la afinidad jerárquica.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector Adjunto en el Instituto de Contabilidad y Auditoría de Cuentas. El puesto es de nivel 29, uno de los más altos de la administración, y se ha concedido 'a dedo' (libre designación) en lugar de por un concurso de méritos abierto y puramente competitivo. El elegido ya pertenecía al mismo organismo, lo que indica un movimiento interno de confianza en la cúpula del Ministerio de Economía.",
+    "resumen_tweet": "🖋️ Nueva 'Libre Designación' en el #BOE. El Ministerio de Economía adjudica a dedo un puesto de Nivel 29 en el ICAC. ¿Mérito técnico o confianza política? 🧐 La opacidad de estos nombramientos directos sigue blindando las cúpulas. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de alto nivel salarial (Nivel 29)",
+      "Endogamia administrativa (procedencia del mismo organismo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ramiro Carrillo López (adjudicatario)",
+        "Cúpula del Ministerio de Economía (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin contactos políticos",
+        "Principio de mérito y capacidad",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Puesto de alto nivel salarial (Nivel 29)",
+      "Endogamia administrativa (procedencia del mismo organismo)"
+    ]
+  },
+  "tweeted": false
+}
