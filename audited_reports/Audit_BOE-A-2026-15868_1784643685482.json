@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15868",
+  "timestamp": "2026-07-21T14:21:25.482Z",
+  "title": "Resolución de 8 de julio de 2026, del Departamento de Justicia y Calidad Democrática, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo para ingreso, por el sistema general de acceso libre, convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución detalla la adjudicación de plazas para el Cuerpo de Auxilio Judicial en Cataluña. El elemento más alarmante es la brecha temporal: un proceso convocado en diciembre de 2022 se resuelve plenamente en julio de 2026. Esta demora de casi cuatro años revela una ineficiencia burocrática crónica en la Administración de Justicia. Además, el texto subraya la fragilidad del personal interino, cuyo cese se produce de forma automática y sin transición el mismo día de la toma de posesión del nuevo titular.",
+    "resumen_ciudadano": "Se han asignado los lugares de trabajo definitivos para los nuevos funcionarios de Auxilio Judicial en Cataluña que aprobaron las oposiciones de 2022. El documento explica cuándo deben empezar a trabajar (septiembre de 2026) y qué ocurre si ya trabajaban en otros puestos de la justicia. También incluye una lista con los nombres de los aprobados y sus destinos en juzgados de Barcelona, Girona, Lleida y Tarragona.",
+    "resumen_tweet": "⚖️ 4 AÑOS para resolver una oposición. El #BOE publica los destinos de Auxilio Judicial en Cataluña de una convocatoria de 2022. Estabilidad para unos, cese fulminante para interinos. ¿Es esta la justicia ágil que prometen? 🐢 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación temporal extrema: 44 meses entre convocatoria y adjudicación",
+      "Cese inmediato de interinos sin periodo de convivencia o traspaso",
+      "Prohibición de movilidad (concurso de traslados) durante los primeros 2 años",
+      "Uso de delegación de firma (P.D.) en un acto de Calidad Democrática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (obtienen estabilidad laboral)",
+        "Generalitat de Catalunya (consolida plantillas propias)",
+        "Sector femenino (predominancia estadística en el listado de aprobados)"
+      ],
+      "perdedores": [
+        "Personal interino (despido automático sin preaviso extenso)",
+        "Ciudadanía (soportando una justicia lenta por retrasos en gestión de personal)",
+        "Candidatos en lista de espera (plazas desiertas que no se adjudican inmediatamente)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Recursos Humanos / Administración de Justicia",
+    "banderas_rojas": [
+      "Dilación temporal extrema: 44 meses entre convocatoria y adjudicación",
+      "Cese inmediato de interinos sin periodo de convivencia o traspaso",
+      "Prohibición de movilidad (concurso de traslados) durante los primeros 2 años",
+      "Uso de delegación de firma (P.D.) en un acto de Calidad Democrática"
+    ]
+  },
+  "tweeted": false
+}
