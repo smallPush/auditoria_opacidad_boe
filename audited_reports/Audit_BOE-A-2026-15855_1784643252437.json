@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-15855",
+  "timestamp": "2026-07-21T14:14:12.437Z",
+  "title": "Orden PJC/737/2026, de 2 de julio, por la que se resuelve el concurso específico, convocado por Orden PJC/435/2026, de 22 de abril, en el Instituto Nacional de Toxicología y Ciencias Forenses y en los Institutos de Medicina Legal y Ciencias Forenses.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución cumple con la legalidad administrativa al publicar adjudicaciones y vacantes, revela un fallo sistémico en la provisión de personal especializado. La enorme cantidad de plazas desiertas (Anexo II) frente a las pocas adjudicaciones (Anexo I) sugiere una falta de atractivo de estos puestos o requisitos excesivamente rígidos que no se ajustan a la realidad del mercado laboral forense. Especialmente preocupante es el vacío en Madrid y Barcelona, centros críticos para la resolución de causas penales.",
+    "resumen_ciudadano": "Se han asignado nuevos destinos a personal técnico del Instituto Nacional de Toxicología. Sin embargo, la gran mayoría de los puestos clave (especialmente en Madrid y Barcelona) se han quedado vacíos porque nadie los ha solicitado o no cumplían los requisitos, lo que puede retrasar pruebas de ADN y autopsias en procesos judiciales.",
+    "resumen_tweet": "⚠️ Alarma en el #BOE: El Instituto de Toxicología es incapaz de cubrir sus plazas. Decenas de vacantes de técnicos forenses quedan desiertas en Madrid y Barcelona. ¿Justicia lenta por falta de personal? 🧪⚖️ #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Altísimo ratio de plazas desiertas en ciudades con alto coste de vida",
+      "Fuga de talento o falta de incentivos en el Cuerpo de Técnicos Especialistas",
+      "Riesgo de colapso en la emisión de informes forenses por falta de personal técnico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 9 funcionarios que consiguen el traslado solicitado",
+        "Administraciones de origen que liberan carga salarial"
+      ],
+      "perdedores": [
+        "Ciudadanía (retrasos en informes de toxicología y forenses)",
+        "Sistema Judicial (cuellos de botella en la fase de instrucción)",
+        "Personal en activo (sobrecarga de trabajo por plazas no cubiertas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (con impacto en Madrid, Cataluña, Andalucía y Canarias)",
+    "tipologia": "Provisión de puestos de trabajo y Recursos Humanos",
+    "banderas_rojas": [
+      "Altísimo ratio de plazas desiertas en ciudades con alto coste de vida",
+      "Fuga de talento o falta de incentivos en el Cuerpo de Técnicos Especialistas",
+      "Riesgo de colapso en la emisión de informes forenses por falta de personal técnico"
+    ]
+  },
+  "tweeted": false
+}
