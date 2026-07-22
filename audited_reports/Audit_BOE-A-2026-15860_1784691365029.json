@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15860",
+  "timestamp": "2026-07-22T03:36:05.029Z",
+  "title": "Resolución de 14 de julio de 2026, de la Dirección de la Agencia Estatal de Seguridad Aérea, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 3 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza el nombramiento de cuatro altos cargos en la Agencia Estatal de Seguridad Aérea (AESA) mediante el sistema de 'Libre Designación'. Este mecanismo, aunque legal, permite una alta discrecionalidad en la elección de personal, alejándose de los principios de concurrencia competitiva pura. Es reseñable que los cuatro adjudicatarios ya pertenecían a la AESA y ocupaban niveles idénticos (28 y 29), lo que sugiere un movimiento horizontal de consolidación interna o rotación de élites dentro del propio organismo en lugar de una apertura real al talento externo de la Administración.",
+    "resumen_ciudadano": "Se han adjudicado cuatro puestos de máxima responsabilidad y sueldo (niveles 28 y 29) en la Agencia de Seguridad Aérea. Los seleccionados han sido elegidos por confianza directa ('dedo') y todos trabajaban ya previamente en la misma agencia, manteniendo sus niveles salariales de origen.",
+    "resumen_tweet": "🚩 ¿Meritocracia o dedazo? La AESA adjudica 4 puestos de alto nivel (28 y 29) mediante 'libre designación'. Curiosamente, todos los elegidos ya estaban en la propia agencia. La transparencia vuela bajo. ✈️🚫 #BOE #Opacidad #Transparencia #AESA",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Endogamia institucional: todos los seleccionados proceden del mismo organismo",
+      "Movilidad horizontal en niveles máximos (28-29) sin competencia abierta",
+      "Uso de conceptos jurídicos indeterminados como 'interés general' para justificar el nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo de Ingenieros Aeronáuticos",
+        "Estructura interna de la AESA (consolidación de cargos)",
+        "Ministerio de Transportes y Movilidad Sostenible"
+      ],
+      "perdedores": [
+        "Funcionarios de otros departamentos con menos 'contactos' o visibilidad",
+        "Candidatos externos que buscan procesos basados exclusivamente en méritos objetivos",
+        "Ciudadanía (opacidad en la selección de gestores de seguridad aérea)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Endogamia institucional: todos los seleccionados proceden del mismo organismo",
+      "Movilidad horizontal en niveles máximos (28-29) sin competencia abierta",
+      "Uso de conceptos jurídicos indeterminados como 'interés general' para justificar el nombramiento"
+    ]
+  },
+  "tweeted": false
+}
