@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-15852",
+  "timestamp": "2026-07-22T02:44:58.848Z",
+  "title": "Real Decreto 587/2026, de 15 de julio, por el que se establece el Curso de especialización de Formación Profesional de Grado Medio en Montaje integral y mantenimiento de bicicletas y vehículos de movilidad personal y se fijan los aspectos básicos del currículo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto establece un currículo necesario para la transición ecológica, pero utiliza la técnica de 'mínimo común denominador' para regular mediante reglamento aspectos que deberían tener mayor debate parlamentario. Aunque se menciona la igualdad de género, el texto es genérico y no propone medidas activas para romper la brecha en un sector tradicionalmente masculinizado. La mayor opacidad reside en la financiación: se delega al Programa FSE+ (Fondos Europeos), lo que diluye la responsabilidad presupuestaria directa del Estado y deja la carga de la implementación física (talleres y equipos) a las Comunidades Autónomas bajo un principio de 'eficiencia' que a menudo se traduce en falta de recursos reales.",
+    "resumen_ciudadano": "Se crea un nuevo título de Formación Profesional para especialistas en reparación de bicicletas y patinetes eléctricos (VMP). El curso durará 690 horas e incluye prácticas en empresas. El objetivo es profesionalizar un sector en auge por la movilidad urbana sostenible.",
+    "resumen_tweet": "🚲 Nuevo título de FP para mecánicos de bicis y patinetes. Mucha mención a la sostenibilidad, pero la financiación queda en el aire de los fondos europeos FSE+. ¿Tendrán los centros recursos para los talleres? 🛠️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de la financiación a fondos europeos (FSE+)",
+      "Uso de normas reglamentarias para establecer bases estatales eludiendo rango de ley",
+      "Ambigüedad en la dotación económica para los 'espacios y equipamientos mínimos'",
+      "Cláusula de 'no imposición de cargas' que puede limitar la creación de nuevas plazas reales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de logística de última milla",
+        "Fabricantes de Vehículos de Movilidad Personal (VMP)",
+        "Grandes centros de formación con infraestructura previa"
+      ],
+      "perdedores": [
+        "Centros públicos en regiones con bajo presupuesto para equipar talleres tecnológicos",
+        "Mujeres (por falta de cuotas o incentivos específicos en un sector con sesgo de género)",
+        "Autónomos de reparación tradicional sin capacidad para la transición al mantenimiento electrónico"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Educación y Formación Profesional",
+    "banderas_rojas": [
+      "Externalización de la financiación a fondos europeos (FSE+)",
+      "Uso de normas reglamentarias para establecer bases estatales eludiendo rango de ley",
+      "Ambigüedad en la dotación económica para los 'espacios y equipamientos mínimos'",
+      "Cláusula de 'no imposición de cargas' que puede limitar la creación de nuevas plazas reales"
+    ]
+  },
+  "tweeted": false
+}
