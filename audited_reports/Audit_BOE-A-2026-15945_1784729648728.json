@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15945",
+  "timestamp": "2026-07-22T14:14:08.728Z",
+  "title": "Acuerdo de 14 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don José Luis López Fuentes a la Audiencia Provincial de Málaga, orden penal.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El acuerdo presenta un formalismo técnico que oculta las dinámicas de poder interno en el CGPJ. Si bien se cita el artículo 340 de la LOPJ, la concesión de una 'preferencia' de dos años para futuros concursos tras un cese supone un blindaje de la carrera profesional que distorsiona la libre concurrencia por méritos. No se especifica el coste del traslado ni la justificación de la necesidad de esta adscripción específica en el orden penal de Málaga, una de las audiencias con mayor carga de trabajo y relevancia política.",
+    "resumen_ciudadano": "Se ha colocado al magistrado José Luis López Fuentes en la Audiencia Provincial de Málaga. Lo relevante no es solo el puesto, sino que se le otorga un derecho de prioridad durante los próximos dos años para elegir cualquier otra plaza frente a sus compañeros, lo que supone un privilegio administrativo dentro del sistema de traslados judiciales.",
+    "resumen_tweet": "⚖️ ¿Privilegios en la justicia? El CGPJ adscribe a un magistrado a Málaga otorgándole 'preferencia' de 2 años sobre otros jueces en futuros concursos. Un blindaje profesional que resta transparencia al sistema de méritos. 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Preferencia competitiva discrecional",
+      "Falta de memoria económica del traslado",
+      "Opacidad en los motivos de la elección del destino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Luis López Fuentes (por su blindaje de plaza y preferencia)",
+        "Cúpula del CGPJ"
+      ],
+      "perdedores": [
+        "Otros magistrados de la carrera judicial con mayor antigüedad o méritos",
+        "Transparencia en el sistema de concursos"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Administración de Justicia / Nombramientos",
+    "banderas_rojas": [
+      "Preferencia competitiva discrecional",
+      "Falta de memoria económica del traslado",
+      "Opacidad en los motivos de la elección del destino"
+    ]
+  },
+  "tweeted": false
+}
