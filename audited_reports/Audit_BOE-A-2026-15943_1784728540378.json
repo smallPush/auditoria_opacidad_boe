@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15943",
+  "timestamp": "2026-07-22T13:55:40.378Z",
+  "title": "Real Decreto 629/2026, de 21 de julio, por el que se concede el Collar de la Insigne Orden del Toisón de Oro a Su Excelencia Marcelo Nuno Duarte Rebelo de Sousa, expresidente de la República Portuguesa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de la concesión de la más alta distinción de la Corona española, el Toisón de Oro, un honor de carácter dinástico y diplomático. La opacidad reside en la ausencia total de memoria económica sobre el coste de la insignia (joya de oro y esmalte que debe ser devuelta al fallecimiento, pero cuyo mantenimiento y logística son públicos) y los gastos derivados del ceremonial. Es un acto de diplomacia de élite que refuerza vínculos entre jefaturas de estado sin una justificación de méritos concretos más allá de la 'tradicional amistad'.",
+    "resumen_ciudadano": "El Rey, con el refrendo del Presidente del Gobierno, otorga al expresidente de Portugal la máxima condecoración española. Aunque es un acto protocolario habitual, no se detalla el gasto público que conlleva la fabricación, entrega y gestión de esta orden caballeresca.",
+    "resumen_tweet": "👑 El BOE publica la entrega del Toisón de Oro al expresidente de Portugal. Un honor de élite con costes ocultos tras la 'amistad tradicional'. ¿Cuánto nos cuesta esta diplomacia de joyas y protocolos? 🪙🇵🇹🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica",
+      "Criterios de concesión subjetivos (Real aprecio)",
+      "Uso de recursos públicos para honores aristocráticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marcelo Nuno Duarte Rebelo de Sousa (prestigio personal)",
+        "Diplomacia de alto nivel (relaciones bilaterales)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento del coste del honor)",
+        "Lógica de mérito civil frente a mérito diplomático-aristocrático"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión de Honores",
+    "banderas_rojas": [
+      "Ausencia de memoria económica",
+      "Criterios de concesión subjetivos (Real aprecio)",
+      "Uso de recursos públicos para honores aristocráticos"
+    ]
+  },
+  "tweeted": false
+}
