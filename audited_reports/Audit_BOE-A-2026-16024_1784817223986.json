@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16024",
+  "timestamp": "2026-07-23T14:33:43.986Z",
+  "title": "Resolución de 6 de julio de 2026, de la Dirección General de Justicia, de la Consellería de Presidencia, Justicia y Deportes, por la que se otorga destino al personal funcionario del Cuerpo de Médicos Forenses que superó el proceso selectivo, convocado por Orden PJC/1446/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "La resolución cumple con los estándares administrativos básicos al identificar plazas y adjudicatarios. Sin embargo, se observa una opacidad técnica sobre el impacto presupuestario real de estas plazas fijas frente al ahorro por el cese de interinos. Existe una rigidez normativa que bloquea el traslado de estos profesionales durante dos años, lo que limita la conciliación. El punto quinto revela la existencia de plazas desiertas, lo cual supone una debilidad en la cobertura de servicios forenses críticos para la ciudadanía en Galicia.",
+    "resumen_ciudadano": "Se oficializa el nombramiento y destino de nuevas médicas forenses en Ourense y A Coruña. Estas funcionarias de carrera desplazan automáticamente al personal interino que ocupaba esos puestos. Se abre un plazo de 20 días para su incorporación, pero se les prohíbe pedir traslado en los próximos dos años. Persisten plazas vacantes que no han sido cubiertas en este proceso.",
+    "resumen_tweet": "📢 Nuevas plazas de Médicos Forenses en Galicia. 🏥 El BOE publica los destinos en Ourense y A Coruña. 🚩 Alerta: El personal interino cesa hoy mismo y quedan plazas desiertas sin cubrir. ¿Falta de medios en la justicia? ⚖️ #BOE #Opacidad #Galicia #Justicia",
+    "banderas_red_flags": [
+      "Cese inmediato de personal interino sin periodo de transición",
+      "Existencia de plazas desiertas en servicios críticos",
+      "Restricción de movilidad geográfica por dos años (art. 529.3 LOPJ)",
+      "Opacidad en el coste salarial total de la adjudicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Vanesa Pérez González (Nueva funcionaria de carrera)",
+        "Lucía Arca Insua (Nueva funcionaria de carrera)",
+        "Administración de Justicia de Galicia (Estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado (pérdida de empleo inmediata)",
+        "Ciudadanía en zonas con plazas desiertas (posible retraso en servicios forenses)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Recursos Humanos / Administración de Justicia",
+    "banderas_rojas": [
+      "Cese inmediato de personal interino sin periodo de transición",
+      "Existencia de plazas desiertas en servicios críticos",
+      "Restricción de movilidad geográfica por dos años (art. 529.3 LOPJ)",
+      "Opacidad en el coste salarial total de la adjudicación"
+    ]
+  },
+  "tweeted": false
+}
