@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16010",
+  "timestamp": "2026-07-23T14:01:31.153Z",
+  "title": "Real Decreto 609/2026, de 22 de julio, por el que se regula la concesión directa de ayudas a la compra de vehículos eléctricos y electrificados (Programa Auto+).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto establece el Programa Auto+ mediante concesión directa, un mecanismo que reduce la concurrencia competitiva tradicional. Aunque justifica la centralización por la ineficacia de la gestión autonómica previa, introduce un criterio de 'puntuación europea' que actúa como una barrera proteccionista encubierta. Este sesgo hacia la fabricación europea y de baterías locales, bajo el pretexto de la 'autonomía estratégica', podría encarecer el acceso real al vehículo eléctrico para las rentas más bajas al limitar la competencia de fabricantes externos más económicos.",
+    "resumen_ciudadano": "Se regulan nuevas ayudas directas para comprar coches eléctricos hasta 2030. El Gobierno centralizará los pagos para evitar retrasos en las comunidades autónomas. La cuantía de la ayuda dependerá de tres factores: cuánto contamine el coche, su precio y, por primera vez, si el vehículo y sus baterías se han fabricado en Europa.",
+    "resumen_tweet": "🚗 Nuevo Programa Auto+: ayudas directas al coche eléctrico hasta 2030. Ojo: se prioriza lo fabricado en Europa 🇪🇺. ¿Impulso industrial o barrera para el ciudadano que busca lo más barato? Centralización de fondos estatales. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Criterio de origen geográfico (Europeo) con riesgo de proteccionismo",
+      "Uso de crisis internacionales (Irán) para justificar urgencia normativa",
+      "Desplazamiento de competencias de las Comunidades Autónomas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fabricantes de automóviles europeos",
+        "Empresas de baterías con plantas en la UE",
+        "Rentas medias-altas con capacidad de adelantar la compra"
+      ],
+      "perdedores": [
+        "Fabricantes de vehículos eléctricos económicos de fuera de la UE (Asia)",
+        "Administraciones autonómicas (pierden control del gasto)",
+        "Ciudadanos de rentas bajas que no pueden acceder a vehículos de gama media"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvenciones y Ayudas",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Criterio de origen geográfico (Europeo) con riesgo de proteccionismo",
+      "Uso de crisis internacionales (Irán) para justificar urgencia normativa",
+      "Desplazamiento de competencias de las Comunidades Autónomas"
+    ]
+  },
+  "tweeted": false
+}
