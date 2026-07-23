@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16029",
+  "timestamp": "2026-07-23T14:32:41.528Z",
+  "title": "Resolución de 6 de julio de 2026, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, de la Consejería de Presidencia, Justicia y Administración Local, por la que se otorga destino al personal funcionario del Cuerpo de Médicos Forenses, que superó el proceso selectivo, convocado por Orden PJC/1446/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolución es un acto administrativo estándar de adjudicación de destinos. Destaca la rigidez del sistema: los funcionarios son destinados de forma 'forzosa' según su puntuación y se les prohíbe concursar para traslados durante dos años, lo que limita la conciliación. Se observa la precariedad estructural del sistema judicial español en el punto tercero, donde se confirma que los interinos que mantenían el servicio operativo serán cesados de forma inmediata sin mención a indemnizaciones o recolocación.",
+    "resumen_ciudadano": "Se han asignado oficialmente 8 plazas de médicos forenses en la Comunidad de Madrid (Coslada, Madrid, Móstoles, Valdemoro, Alcorcón, Parla y Leganés). Esto supone la entrada de personal fijo, pero conlleva el despido automático de los interinos que ocupaban esos puestos hasta ahora.",
+    "resumen_tweet": "⚖️ Nuevos médicos forenses en Madrid: 8 plazas fijas adjudicadas. La cara B: cese inmediato de los interinos que cubrían los puestos y prohibición de traslados en 2 años para los nuevos. ¿Estabilidad o rigidez? #BOE #Justicia #Madrid #Transparencia 🏥",
+    "banderas_red_flags": [
+      "Cese fulminante de personal interino",
+      "Inmovilismo geográfico forzoso por 24 meses",
+      "Opacidad en los costes de formación y selección previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "8 nuevos funcionarios de carrera (estabilidad laboral)",
+        "Administración de Justicia (reducción de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino cesado",
+        "Funcionarios con deseos de movilidad geográfica (bloqueados por 2 años)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Destinos",
+    "banderas_rojas": [
+      "Cese fulminante de personal interino",
+      "Inmovilismo geográfico forzoso por 24 meses",
+      "Opacidad en los costes de formación y selección previos"
+    ]
+  },
+  "tweeted": false
+}
