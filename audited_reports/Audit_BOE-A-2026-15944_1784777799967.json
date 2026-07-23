@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-15944",
+  "timestamp": "2026-07-23T03:36:39.967Z",
+  "title": "Acuerdo de 14 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don Javier Latorre Beltrán a la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla-La Mancha.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un procedimiento de adscripción basado en el artículo 355 bis.2 de la LOPJ, lo que representa una técnica de 'reserva de plaza' interna. Aunque legal, este mecanismo permite asegurar un puesto a un magistrado específico ante una futura vacante, limitando de facto la libre concurrencia o la transparencia en la adjudicación de plazas mediante concurso ordinario. No se detectan gastos fantasma directos, pero sí un mantenimiento de estructuras de personal que priorizan la estabilidad de la carrera judicial sobre la agilidad administrativa.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha recolocado al magistrado Javier Latorre Beltrán en el Tribunal Superior de Justicia de Castilla-La Mancha. El magistrado ocupará la primera plaza que quede libre una vez que otro compañero se reincorpore a su puesto original. Es un movimiento interno para organizar el personal del tribunal.",
+    "resumen_tweet": "⚖️ ¿Juego de sillas en la justicia? El CGPJ adscribe a un magistrado al TSJ de Castilla-La Mancha a la espera de una vacante futura. Movimientos internos que aseguran plazas antes de que existan. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Adjudicación de primera vacante futura sin especificar fecha",
+      "Mecanismo de adscripción discrecional para cubrir plazas reservadas",
+      "Potencial limitación de la competencia para otros magistrados en futuras vacantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Latorre Beltrán (asegura su permanencia en el TSJ Castilla-La Mancha)",
+        "Javier Fernández-Corredor Sánchez-Diezma (recupera su plaza reservada)"
+      ],
+      "perdedores": [
+        "Magistrados de menor rango que aspiran a plazas por concurso de méritos",
+        "Transparencia en la movilidad judicial por el uso de adscripciones temporales que se vuelven definitivas"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento y Adscripción de Personal Judicial",
+    "banderas_rojas": [
+      "Adjudicación de primera vacante futura sin especificar fecha",
+      "Mecanismo de adscripción discrecional para cubrir plazas reservadas",
+      "Potencial limitación de la competencia para otros magistrados en futuras vacantes"
+    ]
+  },
+  "tweeted": false
+}
