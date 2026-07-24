@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16022",
+  "timestamp": "2026-07-24T03:39:35.440Z",
+  "title": "Orden de 6 de julio de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Médicos Forenses que superó el proceso selectivo, convocado por Orden PJC/1446/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque la orden cumple con los estándares de publicidad administrativa al detallar nombres y destinos, oculta la realidad presupuestaria subyacente: el coste total de estas plazas y la indemnización (o falta de ella) para el personal interino desplazado. Es un proceso de 'limpieza administrativa' que, si bien es legalmente impecable, evidencia la precariedad estructural del sistema público español, donde la consolidación de unos implica el cese fulminante de otros sin una red de seguridad explícita en el texto.",
+    "resumen_ciudadano": "Se han asignado oficialmente tres plazas fijas de Médicos Forenses en Bilbao (Bizkaia) tras el proceso selectivo de 2024. Los nuevos funcionarios tienen 20 días para tomar posesión. El dato relevante para el ciudadano es que el personal interino que ocupaba estos puestos será despedido automáticamente en el momento en que los nuevos titulares lleguen.",
+    "resumen_tweet": "🚨 El #BOE publica destinos para Médicos Forenses en el País Vasco. 🏥 3 plazas fijas en Bilbao, pero a costa del cese inmediato de personal interino. ¿Estabilidad o rotación precaria en la Administración? ⚖️ #Opacidad #Transparencia #PaísVasco",
+    "banderas_red_flags": [
+      "Cese automático de personal interino sin mención a reubicación",
+      "Restricción de movilidad (2 años sin posibilidad de concurso)",
+      "Falta de desglose presupuestario asociado a las dotaciones 240001"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera nombrados (Pablo Bolao, Nuria Bratos, Maria Noble)",
+        "Administración Pública (consolida plazas estructurales)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado (pierden su empleo inmediatamente)",
+        "Candidatos que no superaron el proceso pero que financiaron las tasas de examen"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Cese automático de personal interino sin mención a reubicación",
+      "Restricción de movilidad (2 años sin posibilidad de concurso)",
+      "Falta de desglose presupuestario asociado a las dotaciones 240001"
+    ]
+  },
+  "tweeted": false
+}
