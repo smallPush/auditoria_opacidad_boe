@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16020",
+  "timestamp": "2026-07-24T03:37:09.696Z",
+  "title": "Orden PJC/740/2026, de 6 de julio, por la que se nombra personal funcionario del Cuerpo Nacional de Médicos Forenses a las personas que han superado el proceso selectivo, convocado por Orden PJC/1446/2024, de 10 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento cumple con los estandares de transparencia al publicar notas y nombres, pero revela una gestion administrativa lenta: el proceso comenzo en 2024 y se resuelve en 2026. Se observa una clara feminizacion del Cuerpo de Medicos Forenses (aprox. 80% de las nuevas plazas son mujeres). La inclusion de lenguas cooficiales en el escalafon regional (Anexo II) actua como un factor determinante que altera el orden de merito nacional, lo que puede limitar la movilidad de profesionales entre comunidades. No se especifican los destinos finales ni el coste total del proceso selectivo para el erario publico.",
+    "resumen_ciudadano": "Se nombran 40 nuevos funcionarios de carrera para el Cuerpo Nacional de Medicos Forenses tras superar las oposiciones convocadas a finales de 2024. El listado incluye las notas detalladas de los tres ejercicios y las puntuaciones adicionales por conocimientos de idiomas oficiales en comunidades con lengua propia.",
+    "resumen_tweet": "🩺 ¡Nuevos Medicos Forenses en el #BOE! Tras 2 años de espera, 40 profesionales logran su plaza. Gran presencia femenina en la promocion. Los idiomas cooficiales siguen siendo clave para el destino final. 🏛️ #Justicia #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Dilacion administrativa (2 años de proceso)",
+      "Barreras de movilidad por lengua cooficial",
+      "Falta de informacion sobre la ubicacion de las plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres profesionales de la medicina (hegemonia en la lista)",
+        "Opositores con dominio de lenguas cooficiales",
+        "Ministerio de Justicia (cobertura de vacantes)"
+      ],
+      "perdedores": [
+        "Opositores sin lenguas cooficiales (desplazados en ranking)",
+        "Ciudadanos (demora de 2 años en el refuerzo forense)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal con impacto en Cataluña, C. Valenciana, Galicia y Pais Vasco",
+    "tipologia": "Nombramiento de personal funcionario carrera de funcionarios de la Administracion de Justicia",
+    "banderas_rojas": [
+      "Dilacion administrativa (2 años de proceso)",
+      "Barreras de movilidad por lengua cooficial",
+      "Falta de informacion sobre la ubicacion de las plazas"
+    ]
+  },
+  "tweeted": false
+}
