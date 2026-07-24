@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16092",
+  "timestamp": "2026-07-24T13:46:36.642Z",
+  "title": "Declaración de ciertos Gobiernos europeos en relación con la fase de explotación de los Lanzadores Ariane, Vega y Soyuz desde el Centro Espacial de la Guayana, hecho en París el 30 de marzo de 2007.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento establece un marco de explotacion comercial que delega funciones publicas a una estructura industrial privada (Arianespace). Se observa una 'opacidad por referencia', ya que la ejecucion financiera depende de resoluciones del Consejo de la AEE y acuerdos especificos no detallados en este texto. Existe un riesgo de socializacion de perdidas (mantenimiento de la base en Guayana) y privatizacion de beneficios (comercializacion de lanzamientos). La clausula de 'fines pacificos' es de dificil auditoria ciudadana, quedando delegada en un 'Comite de Control de Ventas' de caracter politico y no judicial.",
+    "resumen_ciudadano": "Este acuerdo internacional regula como se gestionaran y financiaran los lanzamientos de los cohetes Ariane, Vega y Soyuz desde la Guayana Francesa. España, como parte de la Agencia Espacial Europea, se compromete a priorizar estos lanzadores y a financiar el mantenimiento del centro espacial. La explotacion comercial se cede en exclusiva a la empresa Arianespace, mientras los gobiernos asumen los costes de infraestructura y el riesgo de responsabilidad internacional por daños espaciales.",
+    "resumen_tweet": "🚀 ¿Quién paga la factura del espacio? El #BOE publica el acuerdo para explotar los lanzadores Ariane y Soyuz. Los Estados financian las bases mientras una empresa privada gestiona los beneficios. 🛰️💸 ¿Soberanía o subsidio industrial? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Monopolio de explotacion cedido a una estructura industrial especifica (Arianespace)",
+      "Financiacion publica de infraestructuras para uso comercial privado",
+      "Opacidad en las cifras reales de contribucion de cada Estado miembro",
+      "Ambigüedad en el control de ventas a terceros paises por parte del Comite de Control"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Arianespace (monopolio de comercializacion)",
+        "Grandes corporaciones aeroespaciales europeas",
+        "Gobierno de Francia (mantenimiento de soberania sobre el Centro Espacial de la Guayana)"
+      ],
+      "perdedores": [
+        "Contribuyentes europeos (financian infraestructuras sin retorno directo claro)",
+        "Nuevas startups espaciales (el acuerdo impone preferencia por lanzadores tradicionales)",
+        "Transparencia presupuestaria (gastos diluidos en organismos internacionales)"
+      ]
+    },
+    "comunidad_autonoma": "No aplica (Ambito Estatal/Internacional)",
+    "tipologia": "Acuerdo Internacional de Cooperacion Tecnologica y Comercial",
+    "banderas_rojas": [
+      "Monopolio de explotacion cedido a una estructura industrial especifica (Arianespace)",
+      "Financiacion publica de infraestructuras para uso comercial privado",
+      "Opacidad en las cifras reales de contribucion de cada Estado miembro",
+      "Ambigüedad en el control de ventas a terceros paises por parte del Comite de Control"
+    ]
+  },
+  "tweeted": false
+}
