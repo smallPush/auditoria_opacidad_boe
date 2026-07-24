@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16012",
+  "timestamp": "2026-07-24T03:30:40.232Z",
+  "title": "Real Decreto 612/2026, de 22 de julio, por el que se regula la concesión directa de dos subvenciones, a la Universidad Politécnica de Madrid y al Servicio de Salud del Principado de Asturias, en materia de seguridad minera.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa la institucionalización de la concesión directa como mecanismo ordinario en lugar de excepcional. Bajo el amparo del artículo 22.2.c de la Ley 38/2003, se elude la concurrencia competitiva para otorgar 1,55 millones de euros. La justificación de 'circunstancias excepcionales' por la prórroga presupuestaria es una anomalía administrativa recurrente desde 2018 que debilita el control parlamentario y la eficiencia del gasto público.",
+    "resumen_ciudadano": "El Gobierno ha otorgado directamente 1.200.000 euros a la Universidad Politécnica de Madrid y 350.000 euros al Servicio de Salud de Asturias para seguridad minera y prevención de la silicosis en 2026. Aunque las labores de salud y seguridad son críticas, el uso del 'dedazo' administrativo impide que otros centros de investigación puedan competir por estos fondos con mejores propuestas.",
+    "resumen_tweet": "🚨 ¡Vuelve el 'dedazo' al #BOE! 1,55M€ repartidos sin concurso público para seguridad minera y silicosis. Se alega 'interés público' para evitar la competencia, convirtiendo la excepción en norma. ¿Eficiencia o conveniencia? 🔍⛏️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva",
+      "Recurrencia sistemática de la concesión directa desde 2008",
+      "Justificación de excepcionalidad basada en mala gestión presupuestaria",
+      "Externalización de la vigilancia de explosivos a entes académicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidad Politécnica de Madrid (Laboratorio Madariaga)",
+        "Servicio de Salud del Principado de Asturias (Instituto Nacional de Silicosis)",
+        "Ministerio para la Transición Ecológica (agilidad sin fiscalización)"
+      ],
+      "perdedores": [
+        "Otras facultades de ingeniería de minas en España",
+        "Empresas tecnológicas de seguridad que podrían licitar",
+        "Principio de mérito y capacidad en el acceso a fondos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Madrid / Asturias",
+    "tipologia": "Concesión directa de subvenciones",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva",
+      "Recurrencia sistemática de la concesión directa desde 2008",
+      "Justificación de excepcionalidad basada en mala gestión presupuestaria",
+      "Externalización de la vigilancia de explosivos a entes académicos"
+    ]
+  },
+  "tweeted": false
+}
