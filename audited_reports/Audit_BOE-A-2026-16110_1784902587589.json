@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-16110",
+  "timestamp": "2026-07-24T14:16:27.589Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad a doña María de los Ángeles Bonmatí Carrión.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento detalla un nombramiento de funcionaria de carrera en la escala docente universitaria. Es destacable la mencion a que la plaza esta 'subvencionada para financiar el incremento y el mantenimiento de plazas del Grado de Medicina'. Esto indica una vinculacion directa entre presupuestos estatales/autonomicos destinados especificamente a paliar el deficit de medicos y la contratacion de personal. Aunque el proceso legal se cita correctamente (LOSU 2/2023), la opacidad reside en la dificultad para el ciudadano de rastrear si estas subvenciones finalistas se estan traduciendo efectivamente en una mayor oferta de plazas para estudiantes o simplemente en la consolidacion de estructuras administrativas preexistentes.",
+    "resumen_ciudadano": "Se nombra a Maria de los Angeles Bonmati Carrion como Profesora Titular de Anatomia y Embriologia Humana en la Universidad de Murcia. Este puesto forma parte de un plan de choque financiado para reforzar la facultad de Medicina.",
+    "resumen_tweet": "🔍 Auditoria #BOE: Nombramiento en la Univ. de Murcia ligado a subvenciones para ampliar plazas de Medicina 🏥. ¿Se traduce esto en mas medicos o solo en burocracia academica? Transparencia moderada en la adjudicacion. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Vinculacion de plazas a subvenciones finalistas de dificil rastreo posterior",
+      "Falta de detalle sobre los costes totales de mantenimiento de la plaza a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria de los Angeles Bonmati Carrion (estabilidad laboral)",
+        "Departamento de Anatomia Humana y Psicobiologia (refuerzo de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (opacidad en baremos de seleccion en este extracto)",
+        "Contribuyentes (dependencia de subvenciones externas para gasto estructural)"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Vinculacion de plazas a subvenciones finalistas de dificil rastreo posterior",
+      "Falta de detalle sobre los costes totales de mantenimiento de la plaza a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
