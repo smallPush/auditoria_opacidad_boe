@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16108",
+  "timestamp": "2026-07-24T14:10:38.209Z",
+  "title": "Resolución de 13 de julio de 2026, de la Universidad de Zaragoza, por la que se nombra Catedrático de Universidad a don José Antonio Albajez García.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un Catedrático de Universidad. Aunque cumple la legalidad formal, el documento es opaco respecto al impacto presupuestario real a largo plazo (sueldo base, complementos y trienios vitalicios). Este tipo de resoluciones perpetúan la endogamia académica al ser procesos que, aunque públicos, suelen estar diseñados para la promoción interna de personal ya vinculado a la institución, dificultando el acceso a talento externo o internacional.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado formalmente a José Antonio Albajez García como Catedrático en Ingeniería de los Procesos de Fabricación. Es un puesto de funcionario de carrera con carácter vitalicio financiado con fondos públicos.",
+    "resumen_tweet": "🎓 Nuevo catedrático vitalicio en la Univ. de Zaragoza. El #BOE publica el nombramiento de José Antonio Albajez. Proceso legal pero con nula información sobre el coste real para el contribuyente. ¿Promoción o endogamia? #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del coste salarial",
+      "Posible sesgo de endogamia universitaria",
+      "Lenguaje administrativo que dificulta la fiscalización social del mérito"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Antonio Albajez García (estabilidad laboral y aumento de rango)",
+        "Universidad de Zaragoza (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el coste de una plaza vitalicia sin desglose)",
+        "Investigadores jóvenes (barreras de entrada al sistema por falta de movilidad)",
+        "Candidatos externos (dificultad de acceso frente a la promoción interna)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del coste salarial",
+      "Posible sesgo de endogamia universitaria",
+      "Lenguaje administrativo que dificulta la fiscalización social del mérito"
+    ]
+  },
+  "tweeted": false
+}
