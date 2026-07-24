@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16096",
+  "timestamp": "2026-07-24T14:06:12.132Z",
+  "title": "Real Decreto 605/2026, de 15 de julio, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Ciudad Real a doña María Jesús Alarcón Barcos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento bajo la modalidad de 'adjudicación en propiedad' refleja la persistencia de estructuras estamentales en la judicatura española. Lo más alarmante es el privilegio de preferencia otorgado por dos años tras el cese, lo que crea una ventaja competitiva artificial frente a otros magistrados, blindando la trayectoria de la adjudicada. Este tipo de resoluciones no explicitan la baremación de méritos frente a otros posibles candidatos, operando bajo una lógica de 'juego de sillas' interna tras el ascenso de otro cargo (Luis Casero Linares).",
+    "resumen_ciudadano": "Se asigna de forma definitiva una plaza de Magistrada en la Audiencia Provincial de Ciudad Real a María Jesús Alarcón Barcos. Además del puesto, se le concede un derecho preferente para elegir otras plazas durante los próximos dos años, lo cual restringe la libre competencia dentro de la carrera judicial.",
+    "resumen_tweet": "⚖️ Nueva adjudicación 'en propiedad' en la Audiencia de Ciudad Real. María Jesús Alarcón Barcos obtiene plaza con privilegios de preferencia por 2 años. El sistema judicial sigue blindando sus estructuras internas. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Privilegio de preferencia por 2 años",
+      "Nombramiento condicionado a la toma de posesión de un tercero",
+      "Concepto de plaza 'en propiedad' (tradición patrimonialista)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Jesús Alarcón Barcos",
+        "Cúpula judicial (estabilidad de plazas)"
+      ],
+      "perdedores": [
+        "Magistrados con mayor mérito sin derecho de preferencia",
+        "Competitividad abierta en la carrera judicial"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos y Adjudicaciones Judiciales",
+    "banderas_rojas": [
+      "Privilegio de preferencia por 2 años",
+      "Nombramiento condicionado a la toma de posesión de un tercero",
+      "Concepto de plaza 'en propiedad' (tradición patrimonialista)"
+    ]
+  },
+  "tweeted": false
+}
