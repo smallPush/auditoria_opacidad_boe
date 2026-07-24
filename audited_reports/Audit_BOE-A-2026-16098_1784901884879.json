@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16098",
+  "timestamp": "2026-07-24T14:04:44.879Z",
+  "title": "Orden EFD/749/2026, de 16 de julio, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, se nombra personal funcionario de carrera del Cuerpo de Profesores de Enseñanza Secundaria, a personas seleccionadas en el procedimiento selectivo convocado por Orden EDU/1406/2023, de 4 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja la culminación de un proceso selectivo iniciado en 2023 para la Comunidad de Castilla y León. Se observa una dilación administrativa significativa: casi tres años para formalizar el nombramiento de funcionarios que tuvieron aplazamientos en prácticas. Aunque la información personal y las puntuaciones son transparentes (bajo el marco de protección de datos), la fragmentación de estos nombramientos evidencia una gestión de recursos humanos lenta que afecta a la planificación escolar y a la estabilidad de las plantillas.",
+    "resumen_ciudadano": "Se formaliza el nombramiento como funcionarios de carrera de 4 profesores de educación secundaria en Castilla y León (especialidades de Lengua, Historia, Orientación y Fabricación Mecánica). Estos docentes corresponden a la convocatoria de 2023 y sus efectos administrativos comenzarán el 1 de septiembre de 2026.",
+    "resumen_tweet": "🕒 3 años después... Castilla y León nombra por fin a 4 docentes de la convocatoria de 2023. La burocracia ralentiza la estabilidad en las aulas. ¿Es este el ritmo de nuestra educación? 📝 #BOE #Opacidad #Transparencia #CastillaYLeón",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (convocatoria 2023, efectos 2026)",
+      "Gestión fragmentada de las fases de prácticas",
+      "Carga burocrática para el nombramiento de solo 4 personas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 4 docentes nombrados (estabilidad laboral)",
+        "Consejería de Educación de Castilla y León (cierre de expedientes pendientes)"
+      ],
+      "perdedores": [
+        "Sistema educativo (lentitud en la consolidación de plazas)",
+        "Candidatos en listas de interinidad que sufren la demora de los procesos"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (convocatoria 2023, efectos 2026)",
+      "Gestión fragmentada de las fases de prácticas",
+      "Carga burocrática para el nombramiento de solo 4 personas"
+    ]
+  },
+  "tweeted": false
+}
