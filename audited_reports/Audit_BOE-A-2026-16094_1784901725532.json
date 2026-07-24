@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-16094",
+  "timestamp": "2026-07-24T14:02:05.532Z",
+  "title": "Real Decreto 610/2026, de 22 de julio, por el que se modifican diversas normas en materia de intervenciones de los sectores de frutas y hortalizas, vitivinícola y apícola en el marco del Plan Estratégico de la Política Agrícola Común.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto actúa como un puente normativo arriesgado entre el periodo actual de la PAC y el futuro marco 2028-2034. Lo más alarmante es la habilitación de gasto supeditado a reglamentos europeos aún en fase de propuesta, creando una inseguridad jurídica bajo la apariencia de continuidad administrativa. Se observa una clara tendencia a favorecer la comercialización de élite (enoturismo) y la exportación a largo plazo (ampliación de 3 a 9 años de promoción), lo que consolida la posición de los grandes grupos vitivinícolas frente al pequeño productor. Además, la mención explícita a la detección de 'situaciones artificiales' revela que el sistema actual de reconocimiento de organizaciones de productores padece de vulnerabilidades de fraude que no se habían atajado eficazmente hasta ahora.",
+    "resumen_ciudadano": "El Gobierno modifica las ayudas a la agricultura y viticultura para adaptarse a nuevas exigencias europeas. Los cambios principales incluyen: 1) Intentar asegurar que las subvenciones sigan llegando entre 2027 y 2028 aunque el presupuesto de la UE no esté cerrado. 2) Se darán más ayudas para promocionar vino en el extranjero durante 9 años. 3) Se incluye el 'turismo del vino' (enoturismo) como actividad que puede recibir dinero público. 4) Se crea un sistema informático (SOFYH) más estricto para evitar que empresas creen estructuras falsas solo para cobrar ayudas.",
+    "resumen_tweet": "🚨 ALERTA #BOE: El Gobierno maniobra para blindar ayudas de la PAC hasta 2034 sin tener el presupuesto de la UE cerrado. Más dinero para enoturismo y 9 años de 'promoción' que benefician a los grandes. ¿Control o clientelismo? 🍷🚜 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Gasto condicionado a reglamentos no aprobados (MFP 2028-2034)",
+      "Ampliación discrecional de periodos de promoción de 3 a 9 años",
+      "Admisión de 'situaciones artificiales' previas en el reconocimiento de productores",
+      "Uso de 'cosecha en verde' para manipular precios ante el exceso de oferta",
+      "Subvenciones a infraestructuras de enoturismo que pueden encubrir inversiones inmobiliarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes bodegas exportadoras (por la extensión de ayudas a la promoción)",
+        "Empresas de software agrario (gestión de SOFYH)",
+        "Sector del enoturismo de lujo",
+        "Grandes organizaciones de productores (OP)"
+      ],
+      "perdedores": [
+        "Pequeños viticultores tradicionales (sin capacidad de exportación a 9 años)",
+        "Consumidores (por la retirada de producto del mercado para mantener precios)",
+        "Contribuyentes (por la incertidumbre en los compromisos legales de gasto futuro)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Intervenciones Sectoriales (PAC)",
+    "banderas_rojas": [
+      "Gasto condicionado a reglamentos no aprobados (MFP 2028-2034)",
+      "Ampliación discrecional de periodos de promoción de 3 a 9 años",
+      "Admisión de 'situaciones artificiales' previas en el reconocimiento de productores",
+      "Uso de 'cosecha en verde' para manipular precios ante el exceso de oferta",
+      "Subvenciones a infraestructuras de enoturismo que pueden encubrir inversiones inmobiliarias"
+    ]
+  },
+  "tweeted": false
+}
