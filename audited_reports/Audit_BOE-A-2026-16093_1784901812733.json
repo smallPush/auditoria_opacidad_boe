@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16093",
+  "timestamp": "2026-07-24T14:03:32.733Z",
+  "title": "Orden INT/748/2026, de 23 de julio, por la que se declara la emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden INT/748/2026 activa el Nivel 3 de protección civil, centralizando el mando en el Ministerio del Interior. Si bien la base legal (Ley 17/2015) es sólida, el documento presenta una opacidad financiera total al no adjuntar una estimación de costes ni una memoria económica. Se detecta una 'Incongruencia Ideológica' potencial: se justifica la intervención por la 'afectación a más de una comunidad autónoma', pero la declaración se extiende a Ávila por 'necesidad', lo que permite al Estado absorber competencias autonómicas de gestión forestal. La redacción permite el uso de recursos de otras CCAA no afectadas, abriendo la puerta a una dispersión de gastos difícil de fiscalizar en tiempo real.",
+    "resumen_ciudadano": "El Gobierno Central asume el control total de los incendios forestales en Madrid y Ávila, desplazando a los gobiernos autonómicos. La Unidad Militar de Emergencias (UME) dirigirá las operaciones sobre el terreno. El Ministro del Interior ahora tiene el poder de movilizar cualquier recurso estatal o local, pero la orden no explica cuánto dinero se va a gastar ni de dónde saldrá exactamente.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! El Ministerio del Interior declara 'interés nacional' por incendios en Madrid y Ávila. Se centraliza el mando y entra la UME, pero ni rastro del coste económico. 🧐 ¿Transparencia o cheque en blanco? #Opacidad #Madrid #Ávila",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica o presupuesto estimado",
+      "Cláusula de duración indeterminada (hasta que se restablezca la normalidad)",
+      "Centralización operativa bajo mando militar (UME)",
+      "Potencial uso de contratos de emergencia sin publicidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (control político y operativo)",
+        "Unidad Militar de Emergencias (protagonismo institucional)",
+        "Grandes contratas de servicios de emergencia (contrataciones directas por urgencia)"
+      ],
+      "perdedores": [
+        "Gobiernos autonómicos (pérdida de mando)",
+        "Población rural (incertidumbre sobre ayudas directas post-incendio)",
+        "Contribuyente (desconocimiento del impacto fiscal de la medida)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid y Castilla y León",
+    "tipologia": "Emergencia de Protección Civil e Interés Nacional",
+    "banderas_rojas": [
+      "Ausencia de memoria económica o presupuesto estimado",
+      "Cláusula de duración indeterminada (hasta que se restablezca la normalidad)",
+      "Centralización operativa bajo mando militar (UME)",
+      "Potencial uso de contratos de emergencia sin publicidad"
+    ]
+  },
+  "tweeted": false
+}
