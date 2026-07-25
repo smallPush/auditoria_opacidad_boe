@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16188",
+  "timestamp": "2026-07-25T14:05:11.581Z",
+  "title": "Resolución de 15 de julio de 2026, de la Universitat de València, por la que se nombra Profesor Titular de Universidad a don Jorge Navarro Pérez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento formaliza el nombramiento de un Profesor Titular en el área de Medicina tras un concurso de acceso (292/2025). Lo más relevante desde la inteligencia cívica es la mención a una 'reclamación presentada contra la propuesta de provisión', lo que indica que el proceso selectivo fue impugnado internamente antes de este nombramiento. Aunque el acto cumple la legalidad, la opacidad reside en los motivos de dicha reclamación y cómo se resolvió, algo habitual en los feudos universitarios donde la endogamia es un riesgo constante. El gasto es estructural y permanente para el erario público.",
+    "resumen_ciudadano": "La Universitat de València nombra oficialmente a Jorge Navarro Pérez como Profesor Titular de Medicina. El nombramiento se produce después de haber superado una fase de conflicto administrativo (reclamación) que retrasó o puso en duda la adjudicación inicial de la plaza.",
+    "resumen_tweet": "📢 Nombramiento en la Universitat de València: Jorge Navarro Pérez accede a Titular de Medicina tras resolverse una reclamación previa en el concurso. La burocracia académica sigue su curso. ¿Mérito o inercia? 🏥🎓 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Existencia de una reclamación previa resuelta contra la adjudicación inicial",
+      "Falta de desglose de la masa salarial vinculada a la plaza número 2556",
+      "Procedimiento de concurso específico 292/2025 con posibles fricciones internas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Navarro Pérez (consolida plaza fija de funcionario)",
+        "Universitat de València (cubre vacante de área médica)"
+      ],
+      "perdedores": [
+        "El reclamante cuya queja fue desestimada",
+        "Aspirantes externos afectados por la endogamia universitaria sistemática"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Personal y Nombramientos / Educación Superior",
+    "banderas_rojas": [
+      "Existencia de una reclamación previa resuelta contra la adjudicación inicial",
+      "Falta de desglose de la masa salarial vinculada a la plaza número 2556",
+      "Procedimiento de concurso específico 292/2025 con posibles fricciones internas"
+    ]
+  },
+  "tweeted": false
+}
