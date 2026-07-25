@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16171",
+  "timestamp": "2026-07-25T13:54:19.247Z",
+  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 19/2026, de 29 de junio, de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convalidación parlamentaria de un Real Decreto-ley que utiliza el mecanismo de 'extrema y urgente necesidad' para regular cuestiones estructurales como la jubilación parcial y complementos salariales territoriales. La resolución adolece de falta de detalle técnico sobre el coste actuarial de estas jubilaciones anticipadas y la cuantía exacta del complemento de insularidad. Es un ejemplo de legislación por decreto que evita el debate parlamentario extenso, ocultando el impacto real en las arcas públicas bajo un barniz de urgencia administrativa.",
+    "resumen_ciudadano": "El Congreso ha ratificado una ley que permite a ciertos empleados públicos jubilarse antes y otorga un plus salarial a quienes trabajan en las Islas Baleares debido a la insularidad. Aunque suena positivo para los beneficiarios, no se explica de dónde saldrá el dinero ni por qué se ha tramitado de forma urgente en lugar de como una ley ordinaria con mayor control.",
+    "resumen_tweet": "🚨 El Congreso valida por vía urgente jubilaciones anticipadas y pluses en Baleares. ¿Urgencia real o falta de planificación? Menos debate, más gasto público sin desglose claro. #BOE #Opacidad #Transparencia #Baleares 📉💸",
+    "banderas_red_flags": [
+      "Abuso del Real Decreto-ley para reformas de calado estructural",
+      "Ausencia de memoria económica detallada en la resolución de convalidación",
+      "Posible agravio comparativo entre comunidades autónomas por el plus de insularidad",
+      "Opacidad en los criterios de acceso a la jubilación parcial del personal laboral"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral de las Administraciones Públicas",
+        "Funcionarios y trabajadores públicos destinados en Illes Balears",
+        "Gobierno (por evitar el proceso legislativo ordinario)"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social (por el coste de las jubilaciones anticipadas)",
+        "Contribuyentes de otras comunidades sin pluses de residencia",
+        "Transparencia democrática (por el uso de la vía de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Laboral y Administrativa",
+    "banderas_rojas": [
+      "Abuso del Real Decreto-ley para reformas de calado estructural",
+      "Ausencia de memoria económica detallada en la resolución de convalidación",
+      "Posible agravio comparativo entre comunidades autónomas por el plus de insularidad",
+      "Opacidad en los criterios de acceso a la jubilación parcial del personal laboral"
+    ]
+  },
+  "tweeted": false
+}
