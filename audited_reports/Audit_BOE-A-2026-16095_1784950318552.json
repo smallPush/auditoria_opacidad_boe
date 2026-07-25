@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16095",
+  "timestamp": "2026-07-25T03:31:58.552Z",
+  "title": "Decreto 105/2026, de 3 de julio, del Consell, por el que se aprueban los Estatutos de la Universidad de Alicante.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Decreto 105/2026 formaliza la estructura de la Universidad de Alicante bajo la LOSU. Aunque se presenta como una modernización inclusiva, detectamos una centralización del poder mediante la sustitución de claustros de centro por consejos de facultad con composición delegada a reglamentación interna. La Disposición Adicional Segunda sobre 'incidencia presupuestaria' es una falacia de gestión: obliga a la creación de nuevas estructuras (Unidades de Igualdad, Diversidad, Escuela de Doctorado) sin aportar financiación adicional, lo que derivará en 'Gastos Fantasma' o detracción de recursos de la docencia directa para alimentar la burocracia administrativa.",
+    "resumen_ciudadano": "La Universidad de Alicante actualiza sus reglas internas. Introduce obligatoriamente el voto electrónico y crea oficinas de igualdad y diversidad. Sin embargo, lo hace sin recibir más dinero del Gobierno Valenciano, lo que obligará a la universidad a recortar de otros sitios para cumplir con la nueva ley.",
+    "resumen_tweet": "🚩 Nueva estructura en la Univ. de Alicante #BOE: más burocracia, pero con 'impacto presupuestario CERO' 💸 ¿Quién paga las nuevas unidades de Diversidad e Igualdad? La propia universidad con sus mermados recursos. #Opacidad #Transparencia 🎓🏛️",
+    "banderas_red_flags": [
+      "Cláusula de incidencia presupuestaria nula frente a nuevas obligaciones orgánicas",
+      "Ajuste de resultados electorales según participación (potencial manipulación)",
+      "Eliminación de los claustros de facultad sustituidos por consejos reducidos",
+      "Generalización del voto electrónico sin especificar garantías de auditoría externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura administrativa central (Rectorado)",
+        "Empresas de software de voto electrónico",
+        "Nuevos cargos en Unidades de Igualdad y Diversidad"
+      ],
+      "perdedores": [
+        "Presupuesto operativo de facultades",
+        "Democracia de base (sustitución de claustros por consejos)",
+        "Contribuyente (por la opacidad en el coste real de la transición estructural)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Estatutos Universitarios",
+    "banderas_rojas": [
+      "Cláusula de incidencia presupuestaria nula frente a nuevas obligaciones orgánicas",
+      "Ajuste de resultados electorales según participación (potencial manipulación)",
+      "Eliminación de los claustros de facultad sustituidos por consejos reducidos",
+      "Generalización del voto electrónico sin especificar garantías de auditoría externa"
+    ]
+  },
+  "tweeted": false
+}
