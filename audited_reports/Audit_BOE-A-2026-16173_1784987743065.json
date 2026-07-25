@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16173",
+  "timestamp": "2026-07-25T13:55:43.065Z",
+  "title": "Real Decreto 607/2026, de 22 de julio, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El Real Decreto 607/2026 moderniza un marco normativo de 1985 que resultaba anacronico ante la economia digital. Destaca la inclusion del personal tecnico y auxiliar en el regimen especial, un colectivo historicamente precarizado. Sin embargo, la declaracion de 'no incremento del gasto publico' en la disposicion adicional tercera resulta contradictoria: la creacion de nuevas comisiones de trabajo y la gestion de autorizaciones estatales para menores requieren inevitablemente recursos administrativos. La norma intenta equilibrar la 'intermitencia' estructural del sector con la estabilidad, pero mantiene una 'excepcionalidad' que podria ser explotada si no se refuerza la Inspeccion de Trabajo. Se observa una fuerte carga ideologica en la proteccion de menores y la figura del coordinador de intimidad, alineada con estandares post-#MeToo.",
+    "resumen_ciudadano": "Se aprueban nuevas reglas para el trabajo en el sector artistico y cultural. Los tecnicos (iluminacion, sonido, etc.) pasan a tener la misma proteccion que los artistas. Se prohibe que los menores de 16 años trabajen como autonomos en el sector, obligando a contratos por cuenta ajena para proteger sus derechos. Ademas, se crean protocolos obligatorios contra el acoso y se introduce la figura del 'coordinador de intimidad' para escenas de contenido sexual o intimo.",
+    "resumen_tweet": "🎭 Nuevo Estatuto del Artista en el #BOE: Mas proteccion para tecnicos y menores de 16 años. Se regula la figura del coordinador de intimidad para evitar acoso. 🛡️ ¿Realidad o papel mojado? El gasto publico se declara 'cero'. #Transparencia #Cultura",
+    "banderas_red_flags": [
+      "Clausula de 'no incremento de gasto' para nuevas funciones administrativas",
+      "Exclusion del tiempo de casting como tiempo de trabajo efectivo",
+      "Remision excesiva a convenios colectivos en dietas y desplazamientos",
+      "Posible ambiguedad en la definicion de personal 'auxiliar imprescindible'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal tecnico y auxiliar",
+        "Menores de edad artistas",
+        "Sindicatos del sector cultural"
+      ],
+      "perdedores": [
+        "Pymes productoras con estructuras pequeñas",
+        "Modelos de contratacion autonomos para menores",
+        "Plataformas de casting no remunerado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / España",
+    "tipologia": "Real Decreto / Laboral Especial",
+    "banderas_rojas": [
+      "Clausula de 'no incremento de gasto' para nuevas funciones administrativas",
+      "Exclusion del tiempo de casting como tiempo de trabajo efectivo",
+      "Remision excesiva a convenios colectivos en dietas y desplazamientos",
+      "Posible ambiguedad en la definicion de personal 'auxiliar imprescindible'"
+    ]
+  },
+  "tweeted": false
+}
