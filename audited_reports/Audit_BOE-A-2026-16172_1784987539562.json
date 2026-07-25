@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-16172",
+  "timestamp": "2026-07-25T13:52:19.562Z",
+  "title": "Real Decreto 606/2026, de 22 de julio, por el que se aprueba el Estatuto de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, A.A.I.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 606/2026 establece una macroestructura administrativa con rango de Subsecretaría bajo la etiqueta de 'Autoridad Independiente'. Sin embargo, la independencia es cuestionable al estar vinculada orgánicamente al Ministerio de Igualdad y ser financiada inicialmente por este. Se detecta una 'Incongruencia Ideológica' respecto a la descentralización: se fuerza la sede en Madrid mediante una excepción legal (RD 209/2022), alegando urgencia por retrasos legislativos propios del Estado. El texto carece de una memoria económica detallada en el cuerpo del estatuto, remitiendo los 'Gastos Fantasma' a futuros presupuestos o convenios, lo que dificulta el control ciudadano sobre el coste de las nuevas direcciones y departamentos creados.",
+    "resumen_ciudadano": "Se aprueba el Estatuto de la nueva Autoridad Independiente para la Igualdad de Trato. Este órgano recibirá quejas por discriminación, mediará en conflictos y podrá llevar casos a la justicia. Aunque se llama independiente, su dirección tiene rango de alto cargo del Gobierno y se ubica obligatoriamente en Madrid, ignorando los planes de descentralización estatal.",
+    "resumen_tweet": "🚨 Nueva macroestructura en el #BOE: Se crea la Autoridad Independiente de Igualdad con rango de Subsecretaría. 🏛️ Se queda en Madrid usando 'excepciones' legales y bajo el ala del Ministerio. ¿Independencia real o más burocracia? 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Excepción discrecional de descentralización de sede",
+      "Dependencia económica directa del Ministerio de Igualdad",
+      "Ambigüedad en la cuantía de las retribuciones del personal laboral internacional",
+      "Rango de alto cargo para la presidencia (nombramiento político)",
+      "Duplicidad potencial de funciones con el Defensor del Pueblo y el CEDRE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos (rango de Subsecretaría)",
+        "Cuerpo de funcionarios estatales",
+        "Colectivos amparados por la Ley 15/2022"
+      ],
+      "perdedores": [
+        "Contribuyentes (aumento de gasto estructural)",
+        "Regiones de la 'España Vaciada' (por centralismo de sede)",
+        "Eficiencia administrativa (por posible solapamiento de competencias)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estatuto Orgánico / Autoridad Administrativa Independiente",
+    "banderas_rojas": [
+      "Excepción discrecional de descentralización de sede",
+      "Dependencia económica directa del Ministerio de Igualdad",
+      "Ambigüedad en la cuantía de las retribuciones del personal laboral internacional",
+      "Rango de alto cargo para la presidencia (nombramiento político)",
+      "Duplicidad potencial de funciones con el Defensor del Pueblo y el CEDRE"
+    ]
+  },
+  "tweeted": false
+}
