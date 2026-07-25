@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16186",
+  "timestamp": "2026-07-25T14:00:27.900Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Sevilla, por la que se nombra Catedrática de Universidad a doña María José Mora Sena.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento refleja un nombramiento estándar de personal funcionario docente de carrera bajo la Ley Orgánica 2/2023 (LOSU). Presenta una transparencia procedimental alta en cuanto a la base legal, pero una opacidad técnica en el proceso de selección real, que se remite a comisiones de juicio externas a este extracto. No se detalla el impacto presupuestario de la plaza ni la concurrencia de aspirantes, lo que invisibiliza el nivel de competitividad real del acceso.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha oficializado el nombramiento de María José Mora Sena como Catedrática de Filología Inglesa. Este es el paso final de un proceso de concurso iniciado en febrero de 2026. El texto establece los mecanismos legales para que otros posibles interesados puedan reclamar contra esta decisión si lo consideran oportuno.",
+    "resumen_tweet": "🎓 Nueva cátedra en la Universidad de Sevilla. María José Mora Sena es nombrada Catedrática de Filología Inglesa. Procedimiento estándar, pero bajo el habitual blindaje burocrático del sistema universitario. 🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Remisión a resoluciones previas no adjuntas para verificar méritos",
+      "Obligatoriedad estricta de trámites electrónicos para recursos administrativos",
+      "Invisibilización de la dotación económica específica de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María José Mora Sena (consolidación de carrera funcionarial)",
+        "Universidad de Sevilla (estabilización de su estructura docente)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (el sistema de concursos suele favorecer la promoción interna)",
+        "Contribuyentes (falta de desglose del coste total de la plaza vitalicia)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Remisión a resoluciones previas no adjuntas para verificar méritos",
+      "Obligatoriedad estricta de trámites electrónicos para recursos administrativos",
+      "Invisibilización de la dotación económica específica de la plaza"
+    ]
+  },
+  "tweeted": false
+}
