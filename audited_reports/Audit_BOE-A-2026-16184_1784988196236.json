@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16184",
+  "timestamp": "2026-07-25T14:03:16.236Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Fernando Pablos Romo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en el nivel más alto de la escala docente universitaria (Catedrático). Aunque cumple la legalidad formal, el documento es opaco respecto a los criterios de selección específicos y la composición de la comisión que 'juzgó' el concurso. La plaza G064G/D06413 implica un gasto público estructural y vitalicio sin que se detallen los méritos que justifican la elección frente a otros posibles candidatos, un rasgo típico de la endogamia administrativa universitaria.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a un nuevo catedrático de Álgebra. Este es un puesto permanente financiado con fondos públicos. El proceso se basa en una resolución interna previa, pero el anuncio actual solo ratifica el nombre del beneficiario sin explicar el proceso de evaluación.",
+    "resumen_tweet": "🚨 Nueva cátedra vitalicia en la @usal. Fernando Pablos Romo accede al máximo nivel en Álgebra. 🎓 ¿Son estos procesos realmente abiertos o pura burocracia interna? El #BOE publica el nombre, pero no el mérito. 📉 #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de información sobre la composición de la comisión evaluadora",
+      "Ausencia de puntuaciones o baremos comparativos en la publicación",
+      "Endogamia potencial: El sistema de provisión suele favorecer a candidatos internos bajo apariencia de concurso público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Pablos Romo (obtiene plaza vitalicia y estatus máximo)",
+        "Universidad de Salamanca (consolida su estructura de profesorado)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de acceso a plazas consolidadas)",
+        "Contribuyente (asunción de gastos de personal a largo plazo sin desglose de excelencia)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de información sobre la composición de la comisión evaluadora",
+      "Ausencia de puntuaciones o baremos comparativos en la publicación",
+      "Endogamia potencial: El sistema de provisión suele favorecer a candidatos internos bajo apariencia de concurso público"
+    ]
+  },
+  "tweeted": false
+}
