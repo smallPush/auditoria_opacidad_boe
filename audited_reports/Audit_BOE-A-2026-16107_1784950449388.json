@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16107",
+  "timestamp": "2026-07-25T03:34:09.388Z",
+  "title": "Resolución de 13 de julio de 2026, de la Universidad de Valladolid, por la que se nombra Profesor Titular de Universidad a don Álvaro Díez Revuelta.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento estándar de funcionario de carrera en el ámbito universitario. Aunque se citan escrupulosamente las bases legales (LOSU 2/2023 y estatutos de la UVa) y el código de plaza (K055K05/RP01025), el documento no ofrece visibilidad sobre el proceso selectivo previo ni los criterios de mérito comparativo. El área de Psiquiatría se inserta en un macro-departamento que agrupa disciplinas muy heterogéneas (desde Nutrición hasta Historia de la Ciencia), lo que refleja la complejidad burocrática y la concentración administrativa de la facultad.",
+    "resumen_ciudadano": "La Universidad de Valladolid ha formalizado el nombramiento de Álvaro Díez Revuelta como Profesor Titular de Universidad en el área de Psiquiatría. Este es un puesto de funcionario permanente que implica estabilidad laboral total y un compromiso presupuestario a largo plazo para las arcas públicas.",
+    "resumen_tweet": "🎓 Nueva plaza de por vida en la Univ. de Valladolid: Álvaro Díez Revuelta nombrado Profesor Titular de Psiquiatría. Proceso bajo la LOSU, pero la opacidad sobre los méritos frente a otros candidatos persiste. #BOE #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Riesgo de endogamia universitaria (común en plazas de titularidad)",
+      "Falta de desglose del impacto presupuestario de la plaza",
+      "Alta concentración de áreas en un solo departamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Álvaro Díez Revuelta (obtiene plaza fija/funcionario)",
+        "Universidad de Valladolid (cubre cuota de profesorado)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos local",
+        "Contribuyentes (compromiso de gasto público vitalicio sin evaluación de desempeño pública)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Riesgo de endogamia universitaria (común en plazas de titularidad)",
+      "Falta de desglose del impacto presupuestario de la plaza",
+      "Alta concentración de áreas en un solo departamento"
+    ]
+  },
+  "tweeted": false
+}
