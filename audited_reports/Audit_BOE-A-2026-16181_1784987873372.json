@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16181",
+  "timestamp": "2026-07-25T13:57:53.372Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Huelva, por la que se nombra Catedrático de Universidad a don Pablo José Hidalgo Fernández.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento refleja un nombramiento estandarizado bajo la Ley Orgánica 2/2023 (LOSU). La principal crítica radica en la modalidad de 'promoción interna', un mecanismo que, aunque legal, suele ser señalado por la Comisión Europea y diversos observadores por limitar la competitividad y favorecer la endogamia en la universidad pública española, al no abrir la plaza a talento externo internacional o nacional en igualdad de condiciones de acceso abierto.",
+    "resumen_ciudadano": "La Universidad de Huelva ha nombrado a un nuevo Catedrático en el área de Botánica. Este proceso se ha realizado mediante promoción interna, lo que significa que el beneficiario ya formaba parte de la institución y ha ascendido de categoría tras un concurso de méritos.",
+    "resumen_tweet": "🎓 Nuevo catedrático en Huelva por promoción interna. El #BOE publica un ascenso que, aunque legal, reabre el debate sobre la endogamia universitaria y la falta de plazas abiertas a talento externo. 🏛️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Promoción interna restringida",
+      "Ausencia de datos sobre la composición de la comisión evaluadora en este extracto",
+      "Falta de información sobre el impacto presupuestario de la nueva plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pablo José Hidalgo Fernández (estabilidad y ascenso)",
+        "Universidad de Huelva (consolidación de estructura interna)"
+      ],
+      "perdedores": [
+        "Investigadores externos (excluidos por la vía de promoción interna)",
+        "Sistema de competitividad académica abierta"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Promoción interna restringida",
+      "Ausencia de datos sobre la composición de la comisión evaluadora en este extracto",
+      "Falta de información sobre el impacto presupuestario de la nueva plaza"
+    ]
+  },
+  "tweeted": false
+}
