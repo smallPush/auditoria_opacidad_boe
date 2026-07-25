@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-16189",
+  "timestamp": "2026-07-25T14:02:08.760Z",
+  "title": "Resolución de 15 de julio de 2026, de la Universidad de Cádiz, por la que se nombra Profesora Titular de Universidad a doña María Teresa Gómez Prieto.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de personal docente tras un concurso de méritos. El texto es técnicamente preciso pero incurre en la habitual opacidad salarial de la administración pública al remitirse a 'emolumentos vigentes' sin especificar la carga presupuestaria anual que supone la plaza. La descentralización hacia la sede de Algeciras es un punto positivo para la cohesión territorial, aunque la firma por delegación (P.D.) sigue siendo una práctica que diluye la asunción de responsabilidad directa por parte de los máximos responsables institucionales.",
+    "resumen_ciudadano": "La Universidad de Cádiz ha nombrado oficialmente a María Teresa Gómez Prieto como Profesora Titular de Derecho Mercantil en Algeciras tras superar el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nueva plaza de Profesora Titular en la Universidad de Cádiz. María Teresa Gómez Prieto se incorpora a Derecho Mercantil en Algeciras. Proceso estándar, pero el #BOE sigue ocultando el coste real bajo fórmulas genéricas. 🏛️📉 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Firma por delegación",
+      "Remisión genérica a emolumentos sin cifra exacta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Gómez Prieto",
+        "Sede UCA Algeciras"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados",
+        "Contribuyentes (por falta de desglose de costes en el anuncio)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Firma por delegación",
+      "Remisión genérica a emolumentos sin cifra exacta"
+    ]
+  },
+  "tweeted": false
+}
