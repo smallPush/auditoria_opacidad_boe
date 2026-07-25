@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-16183",
+  "timestamp": "2026-07-25T13:58:40.918Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Salamanca, por la que se nombra Catedrática de Universidad a doña Noelia Morales Romo.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Catedrática de Universidad en Sociología. El texto es estándar y cumple con la Ley Orgánica 2/2023 (LOSU). La opacidad es mínima en el nombramiento, pero sistémica en el proceso de 'concurso' previo, cuyos detalles de méritos y baremación no son públicos en este extracto del BOE, limitándose a la resolución final. No se detectan gastos fantasma directos, más allá de la consolidación de la masa salarial funcionarial.",
+    "resumen_ciudadano": "La Universidad de Salamanca formaliza el cargo de Catedrática de Sociología para Noelia Morales Romo tras superar el proceso de concurso. Es un trámite habitual de promoción en la carrera docente universitaria pública.",
+    "resumen_tweet": "🎓 Nueva Catedrática de Sociología en la @usal: Noelia Morales Romo. Trámite administrativo estándar tras superar concurso público. La meritocracia académica bajo el paraguas de la LOSU. 🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de publicidad de la baremación del concurso en el extracto",
+      "Endogamia universitaria potencial (común en concursos de plazas de promoción interna)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Noelia Morales Romo",
+        "Universidad de Salamanca (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema universitario regional o local",
+        "Contribuyente (incremento de gasto estructural en nómina pública sin desglose de productividad)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Falta de publicidad de la baremación del concurso en el extracto",
+      "Endogamia universitaria potencial (común en concursos de plazas de promoción interna)"
+    ]
+  },
+  "tweeted": false
+}
