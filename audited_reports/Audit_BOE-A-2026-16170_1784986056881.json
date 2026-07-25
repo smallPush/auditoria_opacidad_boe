@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16170",
+  "timestamp": "2026-07-25T13:27:36.881Z",
+  "title": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La convalidación del Real Decreto-ley 18/2026 mediante el artículo 86.2 de la Constitución Española evidencia el uso recurrente del mecanismo de urgencia para gestionar planes de gran envergadura como el 'Plan Integral de Respuesta a la Crisis en Oriente Medio'. Este método limita la capacidad de enmienda de los grupos parlamentarios y suele ocultar 'gastos fantasma' bajo conceptos genéricos de ayuda humanitaria o seguridad. La opacidad radica en la falta de desglose de las cuantías y los adjudicatarios directos de los contratos derivados de este plan en el texto de la resolución.",
+    "resumen_ciudadano": "El Congreso ha validado una ley de urgencia para responder a la crisis en Oriente Medio. Esto permite al Gobierno gastar fondos y tomar medidas sin el control parlamentario habitual que requiere una ley ordinaria, alegando necesidad extrema.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Convalidado por vía rápida el RD-ley 18/2026 para la crisis en Oriente Medio. La 'urgencia' elude el debate profundo sobre el destino del dinero público. ¿Transparencia o cheque en blanco? 💸📉 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Uso de la figura de Real Decreto-ley para evitar el trámite parlamentario largo",
+      "Ambigüedad terminológica en 'Plan Integral'",
+      "Ausencia de límites presupuestarios definidos en la publicación",
+      "Posible uso de fondos de contingencia sin fiscalización previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Contratistas del sector defensa y logística",
+        "Ministerio de Asuntos Exteriores (mayor discrecionalidad)",
+        "Grandes ONGs con adjudicaciones directas"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de fiscalización del gasto)",
+        "Debate parlamentario de la oposición",
+        "Sectores sociales con partidas presupuestarias congeladas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Legislativa (Convalidación de Decreto-ley)",
+    "banderas_rojas": [
+      "Uso de la figura de Real Decreto-ley para evitar el trámite parlamentario largo",
+      "Ambigüedad terminológica en 'Plan Integral'",
+      "Ausencia de límites presupuestarios definidos en la publicación",
+      "Posible uso de fondos de contingencia sin fiscalización previa"
+    ]
+  },
+  "tweeted": false
+}
