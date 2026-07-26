@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16185",
+  "timestamp": "2026-07-26T03:51:21.895Z",
+  "title": "Resolución de 14 de julio de 2026, de la Universidad de Salamanca, por la que se nombran Catedráticas de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de funcionarias de carrera (Catedráticas). El documento es transparente en cuanto a nombres y plazas, cumpliendo con la Ley Orgánica 2/2023 (LOSU). Sin embargo, desde la perspectiva de inteligencia cívica, este tipo de publicaciones omiten sistemáticamente el compromiso presupuestario a largo plazo que suponen estos puestos vitalicios y la composición de los tribunales que decidieron los nombramientos. Destaca positivamente la visibilización del género femenino en el título del rango ('Catedráticas').",
+    "resumen_ciudadano": "La Universidad de Salamanca formaliza el nombramiento de tres nuevas catedráticas en las áreas de Ecología, Nutrición y Bromatología, y Filología Francesa. Las beneficiarias tienen 20 días para tomar posesión de sus plazas permanentes en la administración pública.",
+    "resumen_tweet": "🎓 La Universidad de Salamanca suma 3 nuevas Catedráticas en Biología, Nutrición y Filología. ✅ Transparencia en nombres y plazas, pero 😶 silencio sobre el coste salarial de por vida para el contribuyente. #BOE #Opacidad #Transparencia #USAL",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del coste de las plazas",
+      "Opacidad sobre la identidad de las comisiones evaluadoras en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernández Santos, María Belén",
+        "González Paramás, Ana María",
+        "Llamas Pombo, Elena",
+        "Universidad de Salamanca (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso de acceso",
+        "Contribuyentes (por la falta de desglose del impacto presupuestario en el BOE)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del coste de las plazas",
+      "Opacidad sobre la identidad de las comisiones evaluadoras en este extracto"
+    ]
+  },
+  "tweeted": false
+}
