@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16187",
+  "timestamp": "2026-07-26T03:57:04.351Z",
+  "title": "Resolución de 15 de julio de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Santos Rojo Velasco.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un acto administrativo estandarizado para el nombramiento de un catedrático. La opacidad no reside en el nombramiento en sí, sino en el sistema de 'plaza interna' (DF03233) cuyo coste presupuestario a largo plazo y desglose de méritos evaluados por la comisión no son públicos en el anuncio. Se utiliza la Ley Orgánica 2/2023 (LOSU) como paraguas legal para consolidar una estructura de profesorado que, aunque necesaria, carece de una auditoría de rendimiento accesible al ciudadano que financia la plaza.",
+    "resumen_ciudadano": "La Universidad de Alicante ha nombrado oficialmente a Santos Rojo Velasco como Catedrático de Zoología tras un proceso iniciado en marzo de 2026. Es un ascenso de rango funcionarial dentro del Departamento de Ciencias Ambientales.",
+    "resumen_tweet": "📢 Nuevo catedrático de Zoología en la Univ. de Alicante. Adjudicada la plaza DF03233. 🏛️ Otro ascenso vitalicio consolidado sin desglose de costes reales en el texto oficial. ¿Transparencia o burocracia? 🧬 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Identificador de plaza DF03233 sin transparencia en coste salarial",
+      "Falta de mención a la concurrencia competitiva real",
+      "Opacidad en los criterios de la Comisión de juzgado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santos Rojo Velasco (estabilidad vitalicia y ascenso salarial)",
+        "Rectorado de la Universidad de Alicante (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de información sobre el impacto presupuestario de la plaza)",
+        "Investigadores jóvenes sin plazas de acceso directo frente a la promoción interna"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Identificador de plaza DF03233 sin transparencia en coste salarial",
+      "Falta de mención a la concurrencia competitiva real",
+      "Opacidad en los criterios de la Comisión de juzgado"
+    ]
+  },
+  "tweeted": false
+}
