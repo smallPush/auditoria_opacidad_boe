@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16247",
+  "timestamp": "2026-07-26T13:23:34.446Z",
+  "title": "Orden INT/762/2026, de 25 de julio, por la que se amplía a la provincia de Toledo el ámbito territorial de la declaración de emergencia de interés nacional declarada por la Orden INT/748/2026, de 23 de julio, por la que se declara la emergencia de interés nacional en el territorio de la Comunidad de Madrid y en la provincia de Ávila como consecuencia de los incendios forestales.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden INT/762/2026 amplía el mando centralizado del Ministerio del Interior sobre los incendios forestales en Toledo bajo el amparo de la Situación Operativa 3. Si bien es un procedimiento legal, la orden carece de un desglose financiero inmediato, lo que genera 'Gastos Fantasma' potenciales al movilizar recursos estatales sin una fiscalización previa pública de costes. La centralización puede leerse como una desconfianza en la gestión autonómica de Castilla-La Mancha o una necesidad técnica no detallada en el texto.",
+    "resumen_ciudadano": "El Gobierno central asume el control total de la gestión de incendios en Toledo, retirando competencias operativas a la comunidad autónoma. Esta declaración de 'interés nacional' permite movilizar todos los recursos del Estado, pero no especifica cuánto dinero se gastará ni cómo llegará a los afectados directos.",
+    "resumen_tweet": "🚨 El Gobierno centraliza el mando en Toledo por incendios forestales. Se activa el nivel 3 de emergencia nacional 🚒, pero el #BOE no aclara ni un euro de las ayudas. Mucha jerarquía, poca transparencia económica. 💸❌ #Opacidad #Incendios #Toledo",
+    "banderas_red_flags": [
+      "Ausencia de presupuesto detallado para la intervención",
+      "Opacidad en los criterios técnicos de escalada operativa",
+      "Posible conflicto de competencias encubierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (mayor control político)",
+        "Fuerzas Armadas/UME"
+      ],
+      "perdedores": [
+        "Autonomía de Castilla-La Mancha",
+        "Población rural de Toledo (incertidumbre sobre indemnizaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Protección Civil y Emergencias",
+    "banderas_rojas": [
+      "Ausencia de presupuesto detallado para la intervención",
+      "Opacidad en los criterios técnicos de escalada operativa",
+      "Posible conflicto de competencias encubierto"
+    ]
+  },
+  "tweeted": false
+}
