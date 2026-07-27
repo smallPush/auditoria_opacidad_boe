@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-16249",
+  "timestamp": "2026-07-27T14:54:50.387Z",
+  "title": "Acuerdo de 14 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María Esperanza Pérez Espino.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilacion forzosa por edad de una magistrada de la Audiencia Provincial de Jaen. Aunque el texto es escueto y puramente legalista, no oculta informacion relevante fuera de la omision sistematica de la cuantia de la pension (derechos pasivos) que percibira la interesada, la cual queda sujeta a la Ley de Clases Pasivas del Estado. No se observa incongruencia ideologica al ser un proceso automatico por ley.",
+    "resumen_ciudadano": "Publicacion oficial de la jubilacion de la magistrada Maria Esperanza Perez Espino tras alcanzar la edad legal de retiro. Este acto administrativo libera su plaza en la Audiencia Provincial de Jaen y formaliza su derecho a pension segun el regimen del sector publico.",
+    "resumen_tweet": "⚖️ Jubilacion forzosa en la justicia: la magistrada Perez Espino deja la Audiencia de Jaen por edad. Un tramite estandar que activa pensiones de elite judicial con cargo al contribuyente. 🏛️ #BOE #Transparencia #Justicia #Jaen",
+    "banderas_red_flags": [
+      "Falta de desglose economico de la carga pasiva futura",
+      "Automatismo burocratico sin evaluacion de rendimiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada (acceso a pension de jubilacion)",
+        "Aspirantes a cubrir la vacante judicial en Jaen"
+      ],
+      "perdedores": [
+        "Presupuestos del Estado (incremento de clases pasivas)",
+        "Sistema judicial (perdida de experiencia acumulada)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Falta de desglose economico de la carga pasiva futura",
+      "Automatismo burocratico sin evaluacion de rendimiento"
+    ]
+  },
+  "tweeted": false
+}
