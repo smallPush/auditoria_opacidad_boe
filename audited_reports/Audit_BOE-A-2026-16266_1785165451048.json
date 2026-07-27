@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16266",
+  "timestamp": "2026-07-27T15:17:31.048Z",
+  "title": "Resolución de 15 de julio de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Olatz Grijalba Aseguinolaza.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento refleja un acto administrativo estándar de nombramiento de personal funcionario docente tras un proceso selectivo iniciado en noviembre de 2025. Aunque el acto cumple con la legalidad vigente (LOSU 2/2023), destaca el dilatado cronograma administrativo: ocho meses para formalizar un concurso ya resuelto. No hay evidencia de 'gastos fantasma' directos, pero la opacidad reside en el sistema de baremación de méritos, el cual no es visible en el extracto del BOE, limitándose a la validación del resultado final por parte del Rectorado.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de una nueva Profesora Titular en la Escuela Técnica Superior de Arquitectura de la UPV/EHU en el área de Urbanismo. Es un trámite final que otorga una plaza permanente tras superar una oposición o concurso de acceso.",
+    "resumen_tweet": "🧐 Nueva plaza fija en la UPV/EHU. Olatz Grijalba es nombrada Prof. Titular en Urbanismo. Transparencia alta en el trámite, pero evidencia lentitud: 8 meses para resolver un concurso. 🏛️📜 #BOE #Universidad #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva entre convocatoria y nombramiento",
+      "Falta de visibilidad de las puntuaciones de los otros aspirantes",
+      "Referencia a resoluciones de delegación de firma que alejan la responsabilidad directa del Rector"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Olatz Grijalba Aseguinolaza (estabilización laboral)",
+        "Universidad del País Vasco (cobertura de plaza)",
+        "Departamento de Arquitectura"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Agilidad burocrática del sistema universitario"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva entre convocatoria y nombramiento",
+      "Falta de visibilidad de las puntuaciones de los otros aspirantes",
+      "Referencia a resoluciones de delegación de firma que alejan la responsabilidad directa del Rector"
+    ]
+  },
+  "tweeted": false
+}
