@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16251",
+  "timestamp": "2026-07-27T14:56:19.364Z",
+  "title": "Orden EFD/764/2026, de 20 de julio, por la que, a propuesta del Departamento de Educación y Formación Profesional de la Comunidad Autónoma de Cataluña, se nombran funcionarias de carrera del Cuerpo de Maestros, a aspirantes seleccionadas en los procedimientos selectivos convocados por Resolución EDU/1/2019, de 2 de enero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento revela una patología sistémica en la gestión de recursos humanos de la Generalitat de Cataluña: la judicialización extrema del acceso a la función pública. El proceso se originó en 2019, pero el nombramiento llega en 2026, siete años después, y solo tras sentencias del Tribunal Superior de Justicia (2021 y 2022). Aunque los efectos son retroactivos a 2021, el coste emocional y los recursos públicos invertidos en litigios representan una ineficiencia administrativa grave que no se desglosa presupuestariamente.",
+    "resumen_ciudadano": "Reconocimiento oficial de dos maestras en Cataluña como funcionarias de carrera tras un largo proceso judicial. La administración inicialmente les denegó la plaza en 2019, y han necesitado siete años para que el BOE oficialice su estatus tras ganar en los tribunales.",
+    "resumen_tweet": "⚖️ ¡7 años para ser funcionaria! Dos maestras en Cataluña logran su plaza tras ganar en los tribunales lo que la administración les negó en 2019. Justicia tardía y burocracia judicializada. 🏫📉 #BOE #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (7 años de demora)",
+      "Corrección de errores vía sentencia judicial",
+      "Costes ocultos en litigiosidad administrativa",
+      "Retroactividad forzada por ineficacia inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Anna Albalat Gras",
+        "Susana Carmen de la Jara Castillo",
+        "Abogados especialistas en derecho administrativo"
+      ],
+      "perdedores": [
+        "Ciudadanía (pago de costas judiciales)",
+        "Eficiencia del sistema educativo",
+        "Confianza en los procesos selectivos de la Generalitat"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos por ejecución de sentencia",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (7 años de demora)",
+      "Corrección de errores vía sentencia judicial",
+      "Costes ocultos en litigiosidad administrativa",
+      "Retroactividad forzada por ineficacia inicial"
+    ]
+  },
+  "tweeted": false
+}
