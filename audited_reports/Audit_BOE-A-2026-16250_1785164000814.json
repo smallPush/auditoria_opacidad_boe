@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16250",
+  "timestamp": "2026-07-27T14:53:20.814Z",
+  "title": "Orden EFD/763/2026, de 16 de julio, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, en ejecución de sentencia, se nombra funcionaria de carrera del Cuerpo de Maestros a doña Beatriz Peña Miguel.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja una corrección forzada por el Poder Judicial ante una mala gestión administrativa previa en Castilla y León. Aunque el BOE es transparente al citar la sentencia 1014/2025, la existencia de este acto administrativo revela que la Administración denegó inicialmente de forma indebida el acceso a la función pública a una ciudadana. La retroactividad de los efectos a 2023 implica un desajuste en la planificación de recursos humanos y posibles costes financieros adicionales por salarios atrasados o intereses de demora que recaen sobre el erario público debido a errores en la baremación de 2022.",
+    "resumen_ciudadano": "El Ministerio de Educación oficializa el nombramiento de doña Beatriz Peña Miguel como funcionaria de carrera tras una orden judicial. El Tribunal Superior de Justicia de Castilla y León determinó que la docente tenía derecho a su plaza desde el proceso selectivo de 2022, obligando a la administración a rectificar su exclusión y reconocerle la antigüedad desde septiembre de 2023.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Una maestra en Castilla y León logra su plaza tras ganar en los tribunales lo que la Administración le negó en 2022. La ineficiencia pública nos cuesta dinero a todos. 📉 #Transparencia #CastillayLeón #Oposiciones #Justicia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Efectos retroactivos desde 2023",
+      "Litigiosidad en procesos selectivos públicos",
+      "Modificación de expedientes cerrados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Beatriz Peña Miguel (recupera su derecho legítimo)",
+        "Sistema Judicial (actúa como garante de transparencia)"
+      ],
+      "perdedores": [
+        "Consejería de Educación de Castilla y León (error de gestión)",
+        "Contribuyentes (costes derivados del litigio judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Recursos Humanos / Ejecución de Sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Efectos retroactivos desde 2023",
+      "Litigiosidad en procesos selectivos públicos",
+      "Modificación de expedientes cerrados"
+    ]
+  },
+  "tweeted": false
+}
