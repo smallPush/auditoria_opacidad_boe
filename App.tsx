@@ -170,11 +170,26 @@ const App: React.FC = () => {
 
   const handleLogin = async () => {
     if (requiredPasswordHash) {
-      // Hashing for secure comparison
+      // PBKDF2 hashing for secure comparison
       const encoder = new TextEncoder();
-      const data = encoder.encode(password);
-      const hashBuffer = await crypto.subtle.digest('SHA-256', data);
-      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      const passwordKey = await crypto.subtle.importKey(
+        'raw',
+        encoder.encode(password),
+        { name: 'PBKDF2' },
+        false,
+        ['deriveBits']
+      );
+      const derivedBits = await crypto.subtle.deriveBits(
+        {
+          name: 'PBKDF2',
+          salt: encoder.encode('boe-audit-salt-2026'),
+          iterations: 100000,
+          hash: 'SHA-256'
+        },
+        passwordKey,
+        256
+      );
+      const hashArray = Array.from(new Uint8Array(derivedBits));
       const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
 
       if (hashHex === requiredPasswordHash) {
