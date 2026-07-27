@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16264",
+  "timestamp": "2026-07-27T15:12:24.978Z",
+  "title": "Resolución de 15 de julio de 2026, de la Universidad de Huelva, por la que se nombra Catedrático de Universidad a don José Andrés Domínguez Gómez.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento detalla un nombramiento por promoción interna en la Universidad de Huelva. Aunque legalmente ajustado a la LOSU, el mecanismo de promoción interna suele ser una herramienta que perpetúa la endogamia universitaria al limitar la competencia a personal ya perteneciente a la institución. No existe transparencia sobre el incremento salarial específico ni sobre si esta plaza responde a una necesidad docente real o a la progresión inercial de la carrera administrativa.",
+    "resumen_ciudadano": "Se oficializa el ascenso de un docente al grado de Catedrático en el Área de Sociología de la Universidad de Huelva. Es un proceso de carrera profesional interna que consolida una posición de alto nivel en la jerarquía pública universitaria.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de Huelva. El #BOE publica el ascenso por 'promoción interna' en Sociología. Un paso más en la carrera académica que consolida plazas públicas pero restringe el acceso a talento externo. 🧐🔍 #Transparencia #Huelva",
+    "banderas_red_flags": [
+      "Endogamia académica potencial por vía de promoción interna",
+      "Falta de detalle sobre el impacto presupuestario de la nueva plaza",
+      "Ausencia de justificación de necesidad de la cátedra"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docente nombrado (consolidación de estatus y sueldo)",
+        "Departamento de Sociología y Trabajo Social"
+      ],
+      "perdedores": [
+        "Investigadores externos (excluidos por promoción interna)",
+        "Ciudadanía (aumento de gasto público estructural sin métricas de retorno)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Endogamia académica potencial por vía de promoción interna",
+      "Falta de detalle sobre el impacto presupuestario de la nueva plaza",
+      "Ausencia de justificación de necesidad de la cátedra"
+    ]
+  },
+  "tweeted": false
+}
