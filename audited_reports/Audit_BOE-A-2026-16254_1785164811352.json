@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16254",
+  "timestamp": "2026-07-27T15:06:51.352Z",
+  "title": "Resolución de 20 de julio de 2026, de la Subsecretaría, por la que, en ejecución de sentencia, se adjudica puesto de trabajo del concurso específico, convocado por Resolución de 25 de agosto de 2021, en la Tesorería General de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un caso de alta litigiosidad en la función pública donde un proceso iniciado en 2021 culmina en 2026. Lo más llamativo es que, tras una sentencia judicial que estima el recurso de una candidata (Enma Abia Llera), la nueva valoración de la Comisión vuelve a otorgar la plaza a la adjudicataria original (María Avello Luiña). Esto sugiere una posible 'resistencia administrativa' al cumplimiento material de sentencias, donde se corrigen aspectos formales pero no el resultado final, perpetuando la opacidad en los criterios de puntuación del concurso específico.",
+    "resumen_ciudadano": "Cinco años después de convocarse una plaza de Jefe de Área de Recaudación en Gijón, el BOE publica la adjudicación definitiva forzada por los tribunales. A pesar de que la justicia dio la razón a la recurrente, tras reevaluar los méritos, el Ministerio mantiene a la misma persona en el puesto. Este proceso evidencia la extrema lentitud de la justicia administrativa y el coste público de defender valoraciones de méritos cuestionadas legalmente.",
+    "resumen_tweet": "Justicia lenta y procesos opacos: 5 años para adjudicar una plaza en la Seguridad Social. Tras perder en tribunales, la Administración vuelve a dar el puesto a la misma persona. ¿Error o blindaje? ⚖️🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación excesiva: 5 años para resolver una adjudicación de personal",
+      "Sentencia judicial que no altera el resultado final tras reevaluación",
+      "Costes procesales derivados de la mala gestión administrativa original",
+      "Potencial arbitrariedad en la Comisión de Valoración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Avello Luiña (mantiene su puesto pese a la sentencia adversa)",
+        "Burocracia estatal (mantiene su decisión original tras años de litigio)"
+      ],
+      "perdedores": [
+        "Enma Abia Llera (gana el juicio pero no obtiene la plaza)",
+        "Contribuyentes (asumen el coste de la defensa jurídica y retraso administrativo)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilación excesiva: 5 años para resolver una adjudicación de personal",
+      "Sentencia judicial que no altera el resultado final tras reevaluación",
+      "Costes procesales derivados de la mala gestión administrativa original",
+      "Potencial arbitrariedad en la Comisión de Valoración"
+    ]
+  },
+  "tweeted": false
+}
