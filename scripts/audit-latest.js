@@ -209,24 +209,35 @@ async function run() {
     console.log(`🚀 Processing ${itemsToProcess.length} newest legislative items.`);
 
     const files = await readdir(AUDITED_REPORTS_DIR);
-    const auditedMap = new Map(); // boe_id -> { filePath, tweeted }
-    for (const file of files) {
+
+    const fileProcessingPromises = files.map(async (file) => {
       const match = file.match(/Audit_(BOE-A-\d+-\d+)_/);
-      if (match) {
-        const boeId = match[1];
-        const filePath = path.join(AUDITED_REPORTS_DIR, file);
-        try {
-          const content = JSON.parse(await readFile(filePath, 'utf8'));
-          // Keep the latest file if there are duplicates
-          if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
-            auditedMap.set(boeId, {
-              filePath,
-              tweeted: !!content.tweeted,
-              report: content.report,
-              timestamp: content.timestamp
-            });
-          }
-        } catch (e) { }
+      if (!match) return null;
+
+      const boeId = match[1];
+      const filePath = path.join(AUDITED_REPORTS_DIR, file);
+      try {
+        const content = JSON.parse(await readFile(filePath, 'utf8'));
+        return { boeId, filePath, content };
+      } catch (e) {
+        return null;
+      }
+    });
+
+    const results = await Promise.all(fileProcessingPromises);
+    const auditedMap = new Map(); // boe_id -> { filePath, tweeted }
+
+    for (const result of results) {
+      if (!result) continue;
+      const { boeId, filePath, content } = result;
+      // Keep the latest file if there are duplicates
+      if (!auditedMap.has(boeId) || content.timestamp > auditedMap.get(boeId).timestamp) {
+        auditedMap.set(boeId, {
+          filePath,
+          tweeted: !!content.tweeted,
+          report: content.report,
+          timestamp: content.timestamp
+        });
       }
     }
 
