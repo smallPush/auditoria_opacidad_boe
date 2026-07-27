@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16267",
+  "timestamp": "2026-07-27T15:14:19.485Z",
+  "title": "Resolución 16 de julio de 2026, de la Universidad Politécnica de Madrid, por la que se nombra Catedrático de Universidad a don Juan Luis Cabrera Fernández.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un nombramiento de catedrático de universidad que, aunque cumple escrupulosamente con la legalidad administrativa (LOSU 2/2023), adolece de la opacidad presupuestaria típica del sector público español. No se detalla el impacto económico del ascenso en la masa salarial de la Universidad Politécnica de Madrid ni se justifican los méritos específicos que llevaron a la comisión a seleccionar a este candidato frente a otros, manteniendo la tradición de 'caja negra' en los concursos de acceso.",
+    "resumen_ciudadano": "La Universidad Politécnica de Madrid nombra oficialmente a Juan Luis Cabrera Fernández como Catedrático de Universidad en el área de Física Aplicada. Este es un trámite necesario para que el profesor asuma su plaza tras superar el concurso convocado en 2025.",
+    "resumen_tweet": "🎓 Nuevo catedrático de Física en la UPM. El #BOE publica el nombramiento, pero sigue la #Opacidad: ni rastro del coste salarial ni de los méritos específicos en el texto oficial. ¿Transparencia real o trámite burocrático? 🧐🏛️ #Transparencia #UPM",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste presupuestario",
+      "Falta de transparencia en los méritos evaluados",
+      "Dilación temporal entre convocatoria (2025) y resolución (2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Luis Cabrera Fernández (consolidación de carrera y aumento salarial)",
+        "Universidad Politécnica de Madrid (cobertura de plazas estructurales)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (dificultad de acceso a cátedras)",
+        "Contribuyentes (desconocen el coste real de la estructura funcionarial docente)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste presupuestario",
+      "Falta de transparencia en los méritos evaluados",
+      "Dilación temporal entre convocatoria (2025) y resolución (2026)"
+    ]
+  },
+  "tweeted": false
+}
