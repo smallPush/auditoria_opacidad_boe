@@ -5,6 +5,7 @@ import { Search, Loader2, Lock, User, Radio, History, BookmarkCheck, Database, Z
 import { BOE_SOURCES, STORAGE_KEYS } from './constants';
 import { AnalysisState, ScrapedLaw, AuditHistoryItem, BOEAuditResponse, ImportDataPayload } from './types';
 import { analyzeBOE } from './services/geminiService';
+import { fetchBoeXml } from './services/boeService';
 import { translations, Language } from './translations';
 import { getAuditHistory, saveAuditToDB, clearLocalHistory } from './services/supabaseService';
 import AuditDashboard from './components/AuditDashboard';
@@ -232,20 +233,8 @@ const App: React.FC = () => {
     setSearchId(boeId);
     setState(prev => ({ ...prev, loading: true, error: null, result: null, scrapingResults: undefined }));
     try {
-      let xmlText = "";
-      let docTitle = customTitle || (lang === 'es' ? "Documento BOE" : "Gazette Document");
-
-      try {
-        const response = await fetch(`https://www.boe.es/diario_boe/xml.php?id=${boeId}`);
-        if (!response.ok) throw new Error("CORS Blocked");
-        xmlText = await response.text();
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, "text/xml");
-        const titleNode = xmlDoc.querySelector("titulo");
-        if (titleNode) docTitle = titleNode.textContent || docTitle;
-      } catch (e) {
-        xmlText = `<boe><diario id="BOE-S-2024"><titulo>BOE</titulo><item id="${boeId}"><titulo>${docTitle}</titulo><texto>Contenido simulado para auditoría...</texto></item></diario></boe>`;
-      }
+      const initialTitle = customTitle || (lang === 'es' ? "Documento BOE" : "Gazette Document");
+      const { xmlText, docTitle } = await fetchBoeXml(boeId, initialTitle);
 
       const audit = await analyzeBOE(xmlText, lang, userApiKey);
       await saveAuditToDB(boeId, docTitle, audit);
