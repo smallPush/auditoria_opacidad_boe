@@ -34,14 +34,19 @@ Analiza el BOE buscando:
 Tu respuesta debe ser un objeto JSON válido.
 `;
 
-if (!GEMINI_API_KEY) {
-  console.error("❌ GEMINI_API_KEY not found in environment.");
-  process.exit(1);
+let ai = null;
+
+function getAi() {
+  if (ai) return ai;
+  const key = process.env.GEMINI_API_KEY;
+  if (!key) {
+    throw new Error("GEMINI_API_KEY not found in environment.");
+  }
+  ai = new GoogleGenAI({ apiKey: key });
+  return ai;
 }
 
-const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
-
-async function shortenUrl(url) {
+export async function shortenUrl(url) {
   try {
     const response = await fetch(`https://is.gd/create.php?format=simple&url=${encodeURIComponent(url)}`);
     if (!response.ok) return url;
@@ -51,9 +56,10 @@ async function shortenUrl(url) {
   }
 }
 
-async function analyzeBOE(xmlContent) {
+export async function analyzeBOE(xmlContent) {
+  const aiInstance = getAi();
   // Using the same pattern as geminiService.ts
-  const response = await ai.models.generateContent({
+  const response = await aiInstance.models.generateContent({
     model: 'gemini-3-flash-preview', // Using the same model as in the UI service
     contents: `AUDITA ESTA LEY DEL BOE (XML):
 
@@ -102,7 +108,7 @@ async function analyzeBOE(xmlContent) {
   }
 }
 
-async function fetchWithHeaders(url) {
+export async function fetchWithHeaders(url) {
   return fetch(url, {
     headers: {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -112,7 +118,7 @@ async function fetchWithHeaders(url) {
   });
 }
 
-function parseItemsFromXml(text) {
+export function parseItemsFromXml(text) {
   const items = [];
   const itemRegex = /<item>[\s\S]*?<identificador>([\s\S]*?)<\/identificador>[\s\S]*?<titulo>([\s\S]*?)<\/titulo>/g;
   let match;
@@ -134,7 +140,7 @@ function parseItemsFromXml(text) {
   return items;
 }
 
-async function fetchLatestBOE(targetDate) {
+export async function fetchLatestBOE(targetDate) {
   let urls = [];
 
   if (targetDate) {
@@ -176,7 +182,7 @@ async function fetchLatestBOE(targetDate) {
   return [];
 }
 
-async function run() {
+export async function run() {
   try {
     // Parse arguments
     const args = process.argv.slice(2);
@@ -352,4 +358,6 @@ async function run() {
   }
 }
 
-run();
+if (import.meta.main) {
+  run();
+}
