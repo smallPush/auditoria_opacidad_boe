@@ -127,9 +127,15 @@ export const saveAuditToDB = async (boeId: string, title: string, audit: BOEAudi
   // Save to Local File System (Bridge) if in development
   if (import.meta.env.DEV) {
     try {
+      const headers: Record<string, string> = { 'Content-Type': 'application/json' };
+      const bridgeSecret = import.meta.env.VITE_BRIDGE_SECRET;
+      if (bridgeSecret) {
+        headers['X-Bridge-Secret'] = bridgeSecret;
+      }
+
       await fetch('/api/save-audit', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers,
         body: JSON.stringify({ boeId, title, audit })
       });
     } catch (err) {

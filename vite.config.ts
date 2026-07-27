@@ -14,6 +14,7 @@ export default defineConfig(({ mode }) => {
   };
 
   const gaId = getValidGaId();
+  const bridgeSecret = env.VITE_BRIDGE_SECRET || env.BRIDGE_SECRET || '';
 
   return {
     base: mode === 'production' ? './' : '/',
@@ -48,6 +49,13 @@ export default defineConfig(({ mode }) => {
         configureServer(server) {
           server.middlewares.use(async (req, res, next) => {
             if (req.url === '/api/post-tweet' && req.method === 'POST') {
+              // Authentication check
+              if (bridgeSecret && req.headers['x-bridge-secret'] !== bridgeSecret) {
+                res.statusCode = 401;
+                res.end(JSON.stringify({ error: 'Unauthorized: Missing or invalid X-Bridge-Secret header' }));
+                return;
+              }
+
               let body = '';
               req.on('data', chunk => { body += chunk; });
               req.on('end', async () => {
@@ -77,6 +85,13 @@ export default defineConfig(({ mode }) => {
         configureServer(server) {
           server.middlewares.use(async (req, res, next) => {
             if (req.url === '/api/save-audit' && req.method === 'POST') {
+              // Authentication check
+              if (bridgeSecret && req.headers['x-bridge-secret'] !== bridgeSecret) {
+                res.statusCode = 401;
+                res.end(JSON.stringify({ error: 'Unauthorized: Missing or invalid X-Bridge-Secret header' }));
+                return;
+              }
+
               let body = '';
               req.on('data', chunk => { body += chunk; });
               req.on('end', async () => {
@@ -159,7 +174,8 @@ export default defineConfig(({ mode }) => {
       ),
       'import.meta.env.VITE_SUPABASE_URL': JSON.stringify(env.SUPABASE_URL || env.VITE_SUPABASE_URL || ""),
       'import.meta.env.VITE_SUPABASE_ANON_KEY': JSON.stringify(env.SUPABASE_ANON_KEY || env.VITE_SUPABASE_ANON_KEY || ""),
-      'import.meta.env.VITE_GOOGLE_ANALYTICS_ID': JSON.stringify(gaId)
+      'import.meta.env.VITE_GOOGLE_ANALYTICS_ID': JSON.stringify(gaId),
+      'import.meta.env.VITE_BRIDGE_SECRET': JSON.stringify(bridgeSecret)
     },
     resolve: {
       alias: {

@@ -43,6 +43,39 @@ describe("twitterService", () => {
     });
   });
 
+  it("should call fetch with X-Bridge-Secret header when VITE_BRIDGE_SECRET is defined", async () => {
+    const bridgeSecret = "test-secret";
+    // Mock import.meta.env.VITE_BRIDGE_SECRET
+    // Since we are using bun:test and vite-plugin-react might not be fully active here,
+    // we need to be careful how we mock import.meta.env.
+    // However, the current code in twitterService.ts uses import.meta.env.VITE_BRIDGE_SECRET.
+
+    // @ts-ignore
+    import.meta.env.VITE_BRIDGE_SECRET = bridgeSecret;
+
+    mockFetch.mockResolvedValueOnce({
+      ok: true,
+      json: async () => ({ success: true })
+    });
+
+    await postTweet(mockAuditData);
+
+    expect(mockFetch).toHaveBeenCalledWith('/api/post-tweet', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'X-Bridge-Secret': bridgeSecret
+      },
+      body: JSON.stringify({
+        text: mockAuditData.resumen_tweet
+      })
+    });
+
+    // Clean up
+    // @ts-ignore
+    import.meta.env.VITE_BRIDGE_SECRET = undefined;
+  });
+
   it("should call fetch with correct parameters with boeUrl", async () => {
     const boeUrl = "https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-1234";
     mockFetch.mockResolvedValueOnce({
