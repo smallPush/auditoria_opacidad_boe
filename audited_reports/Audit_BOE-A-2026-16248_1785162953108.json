@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16248",
+  "timestamp": "2026-07-27T14:35:53.108Z",
+  "title": "Resolución de 20 de julio de 2026, de la Junta Electoral Central, por la que se crea el sello electrónico «Secretaría Técnica de la Junta Electoral Central».",
+  "report": {
+    "nivel_transparencia": 0.65,
+    "analisis_critico": "La resolucion formaliza la automatizacion de la fe publica en el ambito electoral mediante el sello electronico de la Secretaria Tecnica de la JEC. Aunque se justifica en la Ley 40/2015, el riesgo reside en la delegacion de la voluntad administrativa a algoritmos de 'actuacion automatizada' en procesos tan sensibles como los electorales. El articulo 3 incluye una clausula abierta ('cualquier otra tramitacion') que permite expandir este poder sin nuevas resoluciones, lo que podria diluir la responsabilidad humana en decisiones administrativas criticas. No se detalla el coste de implementacion ni el mantenimiento tecnico de este sistema de sellado.",
+    "resumen_ciudadano": "La Junta Electoral Central ha creado un sello digital para que las maquinas firmen documentos y notificaciones automaticamente. Esto busca rapidez en las comunicaciones con partidos y administraciones, pero reduce la intervencion humana directa en la validacion de documentos oficiales durante las elecciones.",
+    "resumen_tweet": "🗳️ ¿Quien firma las actas? La Junta Electoral Central automatiza sus comunicaciones con un nuevo sello electronico. 🤖 Cuidado con la 'burocracia algoritmica' en procesos electorales y las clausulas abiertas. #BOE #Opacidad #Transparencia #JEC",
+    "banderas_red_flags": [
+      "Clausula abierta de uso para cualquier tramitacion futura",
+      "Falta de desglose de costes de implementacion digital",
+      "Riesgo de opacidad en la logica de la actuacion automatizada",
+      "Dependencia total de la FNMT sin alternativas de contingencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura administrativa de la JEC (menor carga de trabajo manual)",
+        "FNMT (consolidacion como proveedor unico)",
+        "Grandes partidos (comunicaciones mas agiles)"
+      ],
+      "perdedores": [
+        "Ciudadania (mayor dificultad para impugnar procesos automatizados)",
+        "Transparencia procesal (algoritmos vs decision humana)",
+        "Colectivos con brecha digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa/Electoral",
+    "banderas_rojas": [
+      "Clausula abierta de uso para cualquier tramitacion futura",
+      "Falta de desglose de costes de implementacion digital",
+      "Riesgo de opacidad en la logica de la actuacion automatizada",
+      "Dependencia total de la FNMT sin alternativas de contingencia"
+    ]
+  },
+  "tweeted": false
+}
