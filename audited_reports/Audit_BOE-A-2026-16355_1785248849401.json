@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16355",
+  "timestamp": "2026-07-28T14:27:29.401Z",
+  "title": "Corrección de errores de la Ley 2/2026, de 12 de marzo, para la Gestión Ambiental de Andalucía.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque el documento se presenta como una simple corrección de errores, la rectificación del artículo 188.1.d) —referente presumiblemente a procedimientos sancionadores o de inspección— cuatro meses después de la entrada en vigor de la Ley 2/2026 denota una técnica legislativa descuidada. La modificación de una referencia interna (del apartado 3.c al 4.c) en un área crítica como la gestión ambiental sugiere que la ley original contenía incoherencias que podrían haber provocado la anulación de actos administrativos o sanciones por defectos de forma. Esta 'opacidad por error' es una constante en normativas complejas tramitadas por vía de urgencia.",
+    "resumen_ciudadano": "Se corrige un error técnico en la Ley de Gestión Ambiental de Andalucía de 2026. Se trataba de una referencia errónea a un apartado en el artículo que regula aspectos de control ambiental, asegurando que el texto legal sea coherente para su aplicación práctica y judicial.",
+    "resumen_tweet": "📝 ¡Ojo al #BOE! Andalucía corrige 'erratas' en su Ley de Gestión Ambiental 4 meses después. Un cambio de referencia en el régimen sancionador para evitar que las multas se caigan por fallos de forma. ¿Legislación con prisas? 🧐⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Corrección técnica tardía",
+      "Posible inseguridad jurídica previa",
+      "Deficiencia en la calidad legislativa original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración pública (blindaje de sanciones ante recursos por errores de forma)",
+        "Grandes empresas con departamentos jurídicos (que explotan estas erratas mientras duran)"
+      ],
+      "perdedores": [
+        "Seguridad jurídica del ciudadano",
+        "Pequeños productores (que enfrentan un marco normativo inestable y propenso a parches)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Medio Ambiente",
+    "banderas_rojas": [
+      "Corrección técnica tardía",
+      "Posible inseguridad jurídica previa",
+      "Deficiencia en la calidad legislativa original"
+    ]
+  },
+  "tweeted": false
+}
