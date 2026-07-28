@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16369",
+  "timestamp": "2026-07-28T14:34:56.254Z",
+  "title": "Resolución 430/38335/2026, de 22 de julio, de la Subsecretaría, por la que se nombra personal estatutario fijo en la categoría de Celador/a en la Red Hospitalaria de la Defensa.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución es el resultado directo de una derrota judicial del Ministerio de Defensa (Sentencia 202/2025 del TSJ de Aragón), lo que evidencia una mala gestión inicial en el proceso de selección de 2021. El punto más crítico es la retroactividad de los efectos económicos hasta octubre de 2022; esto implica que el Estado deberá abonar casi cuatro años de salarios atrasados por una plaza que no fue ocupada en su momento debido a errores administrativos, suponiendo un 'gasto fantasma' generado por la ineficiencia institucional.",
+    "resumen_ciudadano": "Tras acudir a los tribunales, una aspirante a celadora en el Hospital de la Defensa en Zaragoza ha logrado que se le reconozca su plaza después de 5 años de espera desde la convocatoria original. El Ministerio de Defensa se ve obligado a nombrarla y a pagarle todos los sueldos devengados desde el año 2022 como si hubiera estado trabajando todo este tiempo.",
+    "resumen_tweet": "⚖️ ¡Justicia contra la opacidad! Una celadora gana al Ministerio de Defensa tras 5 años de pleito. El #BOE publica su plaza con efectos económicos desde 2022. El error administrativo nos cuesta sueldos atrasados sin servicio prestado. 📉💸 #Transparencia",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error en valoración",
+      "Retroactividad económica de casi 4 años",
+      "Dilación excesiva: proceso iniciado en 2021 y resuelto en 2026",
+      "Gasto público derivado de ineficiencia administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sonia Ester Domingo Lázaro (recupera plaza y salarios)",
+        "Poder Judicial (corrige la arbitrariedad administrativa)"
+      ],
+      "perdedores": [
+        "Contribuyentes (pagan atrasos por una gestión deficiente)",
+        "Ministerio de Defensa (reputación y eficiencia en RRHH)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Sentencia Judicial",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error en valoración",
+      "Retroactividad económica de casi 4 años",
+      "Dilación excesiva: proceso iniciado en 2021 y resuelto en 2026",
+      "Gasto público derivado de ineficiencia administrativa"
+    ]
+  },
+  "tweeted": false
+}
