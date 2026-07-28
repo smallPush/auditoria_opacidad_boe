@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16259",
+  "timestamp": "2026-07-28T03:29:26.814Z",
+  "title": "Resolución de 20 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, promoción interna, y para el cambio de régimen jurídico del personal laboral fijo incluido en el Anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, del Cuerpo Facultativo de Archiveros, Bibliotecarios y Arqueólogos.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es transparente en cuanto a identidades y salarios específicos (niveles 24 y 26), pero revela un síntoma crónico de la administración central: el Madrid-centrismo. De los 17 nombramientos detallados en el primer anexo, 14 se ubican en Madrid, perpetuando la brecha de servicios culturales entre la capital y el resto del país. Además, se utiliza el Real Decreto-ley 6/2023 de medidas urgentes para gestionar plazos de toma de posesión, una técnica legislativa que 'normaliza la urgencia' en procesos ordinarios.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de personal funcionario para archivos, bibliotecas y museos estatales. El documento especifica quiénes son, dónde trabajarán y cuánto cobrarán de complemento específico (entre 7.500 y 13.800 euros anuales extra según el puesto).",
+    "resumen_tweet": "📑 Nuevos nombramientos de archiveros y bibliotecarios en el #BOE. Transparencia en sueldos (complementos hasta 13.829€), pero persiste el centralismo: el 80% de plazas se quedan en Madrid. ¿Y la España vaciada? 🤔 #Transparencia #Cultura #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Concentración geográfica excesiva en Madrid (82% de plazas)",
+      "Uso de decretos de urgencia para regular trámites de toma de posesión ordinaria",
+      "Opacidad sobre el impacto presupuestario total de la nueva masa salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal nombrado (estabilidad laboral vitalicia)",
+        "Ministerio de Cultura (refuerzo de plantilla)",
+        "Ciudad de Madrid (concentración de talento)"
+      ],
+      "perdedores": [
+        "Provincias periféricas (infrainversión en personal técnico cultural)",
+        "Contribuyentes (falta de memoria económica agregada del proceso)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Principalmente Madrid)",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Concentración geográfica excesiva en Madrid (82% de plazas)",
+      "Uso de decretos de urgencia para regular trámites de toma de posesión ordinaria",
+      "Opacidad sobre el impacto presupuestario total de la nueva masa salarial"
+    ]
+  },
+  "tweeted": false
+}
