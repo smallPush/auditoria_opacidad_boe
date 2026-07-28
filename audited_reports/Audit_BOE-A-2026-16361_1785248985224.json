@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16361",
+  "timestamp": "2026-07-28T14:29:45.224Z",
+  "title": "Real Decreto 630/2026, de 22 de julio, por el que se nombra Presidente del Tribunal de Instancia de Huelva al Magistrado don Javier Pérez Minaya.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 630/2026 oficializa un nombramiento basado en una votación interna de la Junta de Jueces. Aunque formalmente cumple la ley, el proceso de 'elección' interna por pares carece de luz y taquígrafos para el ciudadano medio. Se observa la implementación de los Tribunales de Instancia, una reestructuración que busca eficiencia pero que centraliza el poder administrativo en figuras presidenciales designadas mediante acuerdos de la Comisión Permanente del CGPJ, un órgano cuya renovación ha sido históricamente objeto de pugna política.",
+    "resumen_ciudadano": "Javier Pérez Minaya ha sido nombrado Presidente del Tribunal de Instancia de Huelva. Este cargo es fundamental para la organización de la justicia en la provincia y surge de una votación realizada por los propios jueces locales en abril de 2026, validada posteriormente por el Consejo General del Poder Judicial.",
+    "resumen_tweet": "⚖️ Nuevo mando en la justicia de Huelva: Javier Pérez Minaya presidirá el Tribunal de Instancia. Elección interna entre jueces con validación del CGPJ. ¿Criterios de mérito públicos? La opacidad sigue en los procesos internos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Elección interna no auditada por observadores externos",
+      "Falta de exposición de motivos sobre los méritos del candidato frente a otros aspirantes",
+      "Estructura de 'Tribunal de Instancia' que sustituye modelos previos con impacto organizativo incierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Pérez Minaya (ascenso jerárquico)",
+        "CGPJ (control de nombramientos territoriales)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento del proceso selectivo real)",
+        "Paridad de género (nombramiento masculino en cúpula judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Elección interna no auditada por observadores externos",
+      "Falta de exposición de motivos sobre los méritos del candidato frente a otros aspirantes",
+      "Estructura de 'Tribunal de Instancia' que sustituye modelos previos con impacto organizativo incierto"
+    ]
+  },
+  "tweeted": false
+}
