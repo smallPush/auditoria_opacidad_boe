@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16256",
+  "timestamp": "2026-07-28T03:27:57.169Z",
+  "title": "Orden TDF/766/2026, de 22 de julio, por la que se nombra personal funcionario de carrera, en el marco de la estabilización de empleo temporal, de la Escala de funcionarios de administración local con habilitación de carácter nacional, Subescala de Secretaría-Intervención, y se asigna primer destino.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden formaliza la estabilización de personal interino mediante el sistema de concurso (valoración de méritos sin examen previo), amparado en la Ley 20/2021. Si bien busca reducir la precariedad, este método suele ser criticado como un 'blindaje' que dificulta el acceso a nuevos aspirantes sin experiencia previa en la administración. Se observa un despliegue masivo hacia municipios de la 'España Vaciada', donde la obligatoriedad de permanencia de 2 años sugiere una solución temporal a la falta de personal estructural en zonas rurales.",
+    "resumen_ciudadano": "El Gobierno nombra como funcionarios de carrera a 29 personas (25 cupo general y 4 de discapacidad) para puestos de Secretaría-Intervención en pequeños ayuntamientos. Estos nuevos funcionarios, que ya trabajaban temporalmente, obtienen su plaza fija principalmente por años de servicio. Esto implica el cese automático de los interinos que ocupaban esas plazas actualmente.",
+    "resumen_tweet": "⚖️ Nuevo blindaje de interinos en el #BOE. 29 plazas de Secretaría local pasan a ser fijas por méritos, no por oposición pura. El destino: la #EspañaVaciada. Ganadores: interinos estabilizados. Perdedores: nuevos opositores. 🏘️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Acceso por sistema de concurso (ausencia de examen tradicional)",
+      "Puntuaciones detalladas delegadas a un enlace externo (posible opacidad en el tiempo)",
+      "Adjudicación de plazas de oficio para quienes no solicitaron suficientes destinos",
+      "Cese inmediato de interinos actuales tras la toma de posesión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino de larga duración (ahora funcionarios de carrera)",
+        "Ministerio para la Transformación Digital (cumplimiento de cuotas de reducción de temporalidad)",
+        "Ayuntamientos rurales de 3ª clase (obtienen titular oficial)"
+      ],
+      "perdedores": [
+        "Opositores por turno libre sin experiencia previa",
+        "Interinos actuales que son desplazados por los nuevos titulares",
+        "Dinámica de meritocracia tradicional (sustituida por antigüedad)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (principalmente Castilla y León, Aragón y La Rioja)",
+    "tipologia": "Nombramientos y Estabilización de Empleo",
+    "banderas_rojas": [
+      "Acceso por sistema de concurso (ausencia de examen tradicional)",
+      "Puntuaciones detalladas delegadas a un enlace externo (posible opacidad en el tiempo)",
+      "Adjudicación de plazas de oficio para quienes no solicitaron suficientes destinos",
+      "Cese inmediato de interinos actuales tras la toma de posesión"
+    ]
+  },
+  "tweeted": false
+}
