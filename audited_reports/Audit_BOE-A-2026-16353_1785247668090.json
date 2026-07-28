@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16353",
+  "timestamp": "2026-07-28T14:07:48.090Z",
+  "title": "Reforma del Reglamento del Congreso.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La reforma del Artículo 23 busca flexibilizar la formación de Grupos Parlamentarios bajo la premisa del pluralismo. Sin embargo, esta 'flexibilidad' suele ser una moneda de cambio política para otorgar beneficios económicos y de visibilidad a partidos minoritarios a cambio de apoyos en investiduras o leyes. Aunque el lenguaje es claro, la intención subyacente es habilitar el acceso a recursos públicos (subvenciones por grupo) y tiempos de intervención a formaciones que no alcanzan el umbral estándar, fragmentando más el debate y aumentando el coste de la estructura parlamentaria.",
+    "resumen_ciudadano": "Se han modificado las reglas del Congreso para que sea más fácil que los partidos pequeños tengan su propio grupo. Esto les permite tener más dinero, más asesores y más tiempo para hablar en los debates, lo que beneficia a los partidos regionales o minoritarios pero aumenta el gasto público.",
+    "resumen_tweet": "🏛️ El Congreso cambia las reglas para que partidos pequeños formen grupo propio más fácil. Más subvenciones, asesores y tiempo de voz. ¿Pluralismo o pago por apoyos políticos? La factura la paga el ciudadano. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Aumento indirecto del gasto público en asesores y subvenciones",
+      "Arbitrariedad en los umbrales porcentuales (3% nacional vs 10% local)",
+      "Posible uso de la reforma como herramienta de negociación política extraparlamentaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partidos nacionalistas y regionales",
+        "Formaciones minoritarias con representación dispersa",
+        "Estructuras de partido (más recursos económicos directos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (mayor coste de mantenimiento del Congreso)",
+        "Agilidad legislativa (debates más atomizados)",
+        "Transparencia en el uso de fondos públicos para grupos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Reforma Reglamentaria / Organización Política",
+    "banderas_rojas": [
+      "Aumento indirecto del gasto público en asesores y subvenciones",
+      "Arbitrariedad en los umbrales porcentuales (3% nacional vs 10% local)",
+      "Posible uso de la reforma como herramienta de negociación política extraparlamentaria"
+    ]
+  },
+  "tweeted": false
+}
