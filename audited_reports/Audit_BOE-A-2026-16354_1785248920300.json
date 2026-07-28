@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16354",
+  "timestamp": "2026-07-28T14:28:40.300Z",
+  "title": "Entrada en vigor del Acuerdo sobre Transporte Aéreo entre el Reino de España y la República de Chile, hecho en Montreal el 1 de octubre de 2022, cuya aplicación provisional fue publicada en el Boletín Oficial del Estado núm. 58, de 6 de marzo de 2024.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento es una resolución administrativa que formaliza la entrada en vigor de un acuerdo firmado hace casi cuatro años (octubre de 2022). La opacidad no reside en lo que dice, sino en la fragmentación de la información: este texto es un simple aviso de fecha, obligando al ciudadano a buscar en archivos de 2024 para entender las cláusulas comerciales. Este retraso burocrático de años entre la firma y la vigencia definitiva refleja una lentitud institucional que dificulta la fiscalización en tiempo real de los compromisos adquiridos en foros internacionales como Montreal.",
+    "resumen_ciudadano": "Se establece el 10 de agosto de 2026 como la fecha oficial y definitiva para el acuerdo de transporte aéreo entre España y Chile. Este tratado regula cómo las aerolíneas de ambos países pueden operar rutas, frecuencias y condiciones comerciales, sustituyendo la aplicación provisional que funcionaba desde marzo de 2024.",
+    "resumen_tweet": "✈️ ¿4 años para un papel? El acuerdo aéreo España-Chile entra en vigor definitiva en agosto de 2026. Más facilidades para aerolíneas, pero la burocracia vuela lento. Poca claridad sobre el impacto climático real. 🇨🇱🇪🇸 #BOE #Opacidad #Chile",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva (4 años desde la firma)",
+      "Información fragmentada (remite a publicaciones de 2024)",
+      "Ausencia de memoria de impacto socioeconómico en la resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aerolíneas comerciales transcontinentales",
+        "Grandes operadores turísticos",
+        "Sector logístico de carga aérea"
+      ],
+      "perdedores": [
+        "Plataformas de defensa climática (fomento de emisiones)",
+        "Ciudadano medio (sin información sobre impacto en precios de billetes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Tratado Internacional / Transporte Aéreo",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva (4 años desde la firma)",
+      "Información fragmentada (remite a publicaciones de 2024)",
+      "Ausencia de memoria de impacto socioeconómico en la resolución"
+    ]
+  },
+  "tweeted": false
+}
