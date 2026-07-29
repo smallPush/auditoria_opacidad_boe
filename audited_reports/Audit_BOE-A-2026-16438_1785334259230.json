@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16438",
+  "timestamp": "2026-07-29T14:10:59.230Z",
+  "title": "Resolución de 21 de julio de 2026, de la Secretaría General de Financiación Autonómica y Local, por la que se da cumplimiento al artículo 41.1.a) del Real Decreto-ley 17/2014, de 26 de diciembre, de medidas de sostenibilidad financiera de las comunidades autónomas y entidades locales y otras de carácter económico.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución utiliza el artículo 46 de la Ley 39/2015 como escudo para ocultar la lista de municipios en situación de 'riesgo financiero'. Al alegar una supuesta lesión de intereses legítimos, Hacienda evita que el ciudadano conozca qué ayuntamientos han superado el límite del 110% de deuda sobre ingresos. Esto crea un sistema de rescate opaco donde el mal gestor es auxiliado sin el estigma público de aparecer en el BOE, impidiendo el control social y la rendición de cuentas sobre la salud de las haciendas locales.",
+    "resumen_ciudadano": "El Gobierno ha abierto el plazo para que los ayuntamientos en situación de quiebra técnica (deuda superior al 110%) soliciten préstamos del Fondo de Ordenación. No obstante, la lista de estos municipios se mantiene en secreto bajo una plataforma privada del Ministerio de Hacienda, impidiendo que los vecinos sepan si su ayuntamiento está siendo rescatado con fondos públicos por una gestión deficiente.",
+    "resumen_tweet": "🕵️‍♂️ ¿Tu ayuntamiento está en quiebra? Hacienda activa el rescate para municipios con deuda >110%, ¡pero oculta la lista de beneficiarios para 'no perjudicarles'! 💸 ¿Y el derecho de los vecinos a saber? #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Ocultación de la lista de municipios afectados mediante acceso privado",
+      "Uso discrecional del art. 46 de la Ley 39/2015 para evitar transparencia",
+      "Niveles de deuda viva superiores al 110% de ingresos corrientes",
+      "Ampliación de plazos administrativa sin causa externa de fuerza mayor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos con gestión financiera deficiente (rescate sin exposición pública)",
+        "Entidades bancarias (cobro de intereses de deuda local garantizado por el Estado)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el riesgo del fondo de rescate)",
+        "Ciudadanos (desconocen la insolvencia de sus administraciones locales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiación Local / Sostenibilidad Financiera",
+    "banderas_rojas": [
+      "Ocultación de la lista de municipios afectados mediante acceso privado",
+      "Uso discrecional del art. 46 de la Ley 39/2015 para evitar transparencia",
+      "Niveles de deuda viva superiores al 110% de ingresos corrientes",
+      "Ampliación de plazos administrativa sin causa externa de fuerza mayor"
+    ]
+  },
+  "tweeted": false
+}
