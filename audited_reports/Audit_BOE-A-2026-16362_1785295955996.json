@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16362",
+  "timestamp": "2026-07-29T03:32:35.996Z",
+  "title": "Real Decreto 631/2026, de 22 de julio, por el que se nombra Presidente del Tribunal de Instancia de Vigo al Magistrado don Manuel Ángel Pereira Costas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de alto rango judicial bajo la apariencia de una eleccion democratica interna (Junta de Jueces). Sin embargo, la publicacion en el BOE es meramente formalista y no detalla los meritos comparativos frente a otros candidatos ni el impacto presupuestario exacto del cambio de categoria del magistrado. La estructura del 'Tribunal de Instancia' sugiere una reorganizacion administrativa que podria centralizar mas el poder judicial local.",
+    "resumen_ciudadano": "El magistrado Manuel Angel Pereira Costas ha sido nombrado Presidente del Tribunal de Instancia de Vigo. Este cargo es el resultado de una votacion entre sus companeros jueces y la ratificacion del CGPJ y el Gobierno. Representa un ascenso en la jerarquia judicial de Galicia.",
+    "resumen_tweet": "⚖️ Nuevo jefe en los juzgados de Vigo. El magistrado Pereira Costas asume la presidencia por eleccion interna. ¿Democracia judicial o corporativismo? Sin detalles de merito ni sueldo. 🏛️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Endogamia en la eleccion (jueces eligen a su jefe)",
+      "Opacidad en la retribucion especifica del cargo",
+      "Falta de memoria de meritos en el extracto publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Angel Pereira Costas",
+        "CGPJ",
+        "Elite judicial de Vigo"
+      ],
+      "perdedores": [
+        "Ciudadania (sin voz en la cupula judicial)",
+        "Transparencia meritocratica publica"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Endogamia en la eleccion (jueces eligen a su jefe)",
+      "Opacidad en la retribucion especifica del cargo",
+      "Falta de memoria de meritos en el extracto publico"
+    ]
+  },
+  "tweeted": false
+}
