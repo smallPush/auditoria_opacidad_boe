@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16366",
+  "timestamp": "2026-07-29T03:33:56.165Z",
+  "title": "Resolución de 17 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion detalla la adjudicacion de dos puestos de nivel 30, el maximo escalafon en la administracion, mediante el sistema de 'libre designacion'. Este mecanismo, aunque legal, es la antitesis de la meritocracia pura, permitiendo la discrecionalidad politica en la eleccion de altos cargos. Se observa una endogamia administrativa clara, donde los adjudicatarios ya pertenecian a la estructura del mismo Ministerio, lo que refuerza la percepcion de un 'circuito cerrado' de poder inaccesible para el funcionario medio sin conexiones en la cupula.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado a dedo a dos Subdirectores Generales para puestos de alta responsabilidad y sueldo (Nivel 30). No se explican los motivos tecnicos de la eleccion, mas alla de que cumplen los requisitos legales mínimos, consolidando la elite administrativa en Madrid.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el Ministerio de Exteriores. Adjudicados puestos de Nivel 30 (el maximo) mediante libre designacion. La discrecionalidad vuelve a ganarle la partida a la transparencia y la meritocracia. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designacion (nombramiento discrecional)",
+      "Nivel 30 (maximo nivel de complemento de destino)",
+      "Adjudicacion interna (posible endogamia)",
+      "Opacidad en criterios de idoneidad especificos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Angel Paredes Freire",
+        "Pedro Luis Sosa Torres",
+        "Cupula del Ministerio de Asuntos Exteriores"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin afinidad politica",
+        "Principio de meritocracia publica",
+        "Ciudadania (por falta de justificacion del gasto en altos cargos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designacion (nombramiento discrecional)",
+      "Nivel 30 (maximo nivel de complemento de destino)",
+      "Adjudicacion interna (posible endogamia)",
+      "Opacidad en criterios de idoneidad especificos"
+    ]
+  },
+  "tweeted": false
+}
