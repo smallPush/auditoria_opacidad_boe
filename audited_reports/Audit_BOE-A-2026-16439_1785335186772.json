@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-16439",
+  "timestamp": "2026-07-29T14:26:26.772Z",
+  "title": "Orden INT/777/2026, de 28 de julio, por la que se declara el cese de los efectos de la Orden INT/762/2026, de 25 de julio, por la que se amplía a la provincia de Toledo el ámbito territorial de la declaración de emergencia de interés nacional declarada por la Orden INT/748/2026, de 23 de julio.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "La orden refleja un proceso de desescalada administrativa tras una crisis de incendios forestales. Se observa una transferencia de la responsabilidad operativa y política desde el Ministerio del Interior (Estado) de vuelta a la Junta de Comunidades de Castilla-La Mancha. Aunque el lenguaje es técnico-administrativo, la rapidez del cese (apenas 3 días después de la ampliación) sugiere una gestión de crisis altamente dinámica o una presión política regional para recuperar las competencias de gestión de emergencias y evitar la tutela estatal prolongada bajo el estatus de 'Interés Nacional'.",
+    "resumen_ciudadano": "Se da por finalizada la situación de emergencia extrema en la provincia de Toledo provocada por los incendios. La gestión de los trabajos restantes vuelve a manos del gobierno regional de Castilla-La Mancha, ya que el riesgo ha disminuido y los vecinos desalojados han podido regresar a sus casas.",
+    "resumen_tweet": "🚒 Se desactiva la 'Emergencia de Interés Nacional' en Toledo. El control vuelve a la Junta de Castilla-La Mancha tras remitir los incendios. La gestión operativa baja de nivel 3 a 2. ¿Normalidad recuperada o traspaso de costes? 🤔 #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Cese de efectos en un plazo muy breve (3 días)",
+      "Opacidad sobre el coste económico total del despliegue estatal durante la emergencia",
+      "Traspaso de la responsabilidad de mando sin detalle público de los riesgos residuales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de Castilla-La Mancha (recupera mando operativo y autonomía)",
+        "Población civil (regreso a viviendas)"
+      ],
+      "perdedores": [
+        "Presupuesto regional (asume de nuevo los costes ordinarios tras el repliegue del apoyo estatal directo de Nivel 3)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Protección Civil y Gestión de Emergencias",
+    "banderas_rojas": [
+      "Cese de efectos en un plazo muy breve (3 días)",
+      "Opacidad sobre el coste económico total del despliegue estatal durante la emergencia",
+      "Traspaso de la responsabilidad de mando sin detalle público de los riesgos residuales"
+    ]
+  },
+  "tweeted": false
+}
