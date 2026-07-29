@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16456",
+  "timestamp": "2026-07-29T14:38:15.629Z",
+  "title": "Resolución 430/38336/2026, de 22 de julio, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38282/2026, de 8 de junio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución de 'libre designación', un mecanismo legal que permite la elección discrecional de personal ('a dedo') para puestos de confianza. Aunque es un procedimiento estándar en la administración española, su uso para niveles administrativos medios (Nivel 17) suele ser una forma de eludir el concurso de méritos tradicional, reduciendo la igualdad de oportunidades entre funcionarios.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha adjudicado de forma discrecional un puesto de Secretaria en el Ejército del Aire a una funcionaria que ya pertenecía al ministerio. El cambio supone un ascenso del nivel 16 al 17, bajo un sistema que prioriza la confianza personal sobre la competición por méritos.",
+    "resumen_tweet": "🚩 Nuevo puesto 'a dedo' en el Ministerio de Defensa. Se resuelve la libre designación para una secretaría en el Ejército del Aire. Aunque legal, la discrecionalidad sigue primando sobre el concurso de méritos. 🏛️🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Falta de justificación de méritos específicos en el texto",
+      "Opacidad en el criterio de selección final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M.ª Esther Mallón Tosar (ascenso de nivel)",
+        "Cúpula del Ejército del Aire (personal de confianza seleccionado)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor antigüedad/méritos sin acceso a concurso",
+        "Transparencia institucional (procedimiento no competitivo)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Adjudicaciones",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Falta de justificación de méritos específicos en el texto",
+      "Opacidad en el criterio de selección final"
+    ]
+  },
+  "tweeted": false
+}
