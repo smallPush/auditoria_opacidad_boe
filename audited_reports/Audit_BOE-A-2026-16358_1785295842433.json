@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16358",
+  "timestamp": "2026-07-29T03:30:42.433Z",
+  "title": "Ley Foral 13/2026, de 2 de julio, por la que se modifica la Ley Foral 21/2005, de 29 de diciembre, de evaluación de las políticas públicas y de la calidad de los servicios públicos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley Foral 13/2026 realiza un movimiento estratégico de centralización administrativa bajo el pretexto de la 'transversalidad'. Al trasladar la Comisión de Evaluación del Instituto Navarro de Administración Pública (un ente técnico de formación) al Departamento de Presidencia e Igualdad (núcleo político), se corre el riesgo de que la evaluación de las políticas deje de ser un ejercicio independiente para convertirse en un mecanismo de autocalificación gubernamental. La apelación a la 'potestad de autoorganización' es un recurso semántico común para justificar la absorción de competencias de control por parte de los órganos ejecutivos.",
+    "resumen_ciudadano": "Navarra cambia las reglas sobre quién evalúa si el Gobierno lo está haciendo bien. Antes, esta tarea dependía de un instituto técnico (INAP); ahora, dependerá directamente del Departamento de Presidencia. Aunque se justifica por eficacia, en la práctica supone que el propio Gobierno tiene un control más directo sobre los informes que miden su éxito o fracaso.",
+    "resumen_tweet": "🧐 ¿Quién vigila al vigilante? Navarra traslada la evaluación de sus políticas públicas del ámbito técnico al núcleo político (Presidencia). Menos independencia, más control interno. ¿Transparencia o maquillaje? 📉 #BOE #Opacidad #Transparencia #Navarra",
+    "banderas_red_flags": [
+      "Centralización del control evaluador en el núcleo político",
+      "Pérdida de autonomía técnica del INAP",
+      "Uso de términos vagos como 'potestad de autoorganización'",
+      "Criterios de designación del Presidente a discreción del Gobierno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Departamento de Presidencia e Igualdad (más poder de control)",
+        "Gobierno de Navarra (control sobre su propia evaluación)",
+        "Sindicatos con más del 10% de representación (asiento asegurado)"
+      ],
+      "perdedores": [
+        "Instituto Navarro de Administración Pública (pierde competencias)",
+        "Ciudadanía (posible pérdida de objetividad en la fiscalización de servicios)",
+        "Sindicatos minoritarios (excluidos de la comisión)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Modificación Legislativa / Reorganización Administrativa",
+    "banderas_rojas": [
+      "Centralización del control evaluador en el núcleo político",
+      "Pérdida de autonomía técnica del INAP",
+      "Uso de términos vagos como 'potestad de autoorganización'",
+      "Criterios de designación del Presidente a discreción del Gobierno"
+    ]
+  },
+  "tweeted": false
+}
