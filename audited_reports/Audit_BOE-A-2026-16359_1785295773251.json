@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16359",
+  "timestamp": "2026-07-29T03:29:33.251Z",
+  "title": "Ley Foral 14/2026, de 2 de julio, de modificación de la Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Esta ley foral representa un giro radical hacia la desmercantilización de la vivienda protegida en Navarra. Al eliminar el artículo 7.10, el legislador clausura de forma definitiva la 'puerta de salida' que permitía a promotores privados vender viviendas protegidas tras 21 años. El punto más disruptivo es la retroactividad de la protección indefinida para parques de alquiler ya existentes, lo que impacta directamente en las previsiones de rentabilidad de fondos y grandes propietarios. La inclusión del derecho de tanteo sobre viviendas ya 'descalificadas' en zonas tensionadas busca frenar la gentrificación, aunque traslada la carga financiera de la adquisición al presupuesto público sin detallar partidas específicas para este fin.",
+    "resumen_ciudadano": "La reforma blinda el parque de vivienda protegida (VPO) en Navarra para que nunca pase al mercado libre. Las casas calificadas para alquiler seguirán siendo protegidas de forma indefinida, sin importar cuándo se construyeron. Además, si un gran propietario intenta vender una vivienda que ya perdió su protección en una zona con precios disparados, el Gobierno de Navarra tendrá prioridad para comprarla durante un plazo de 10 años, asegurando que siga sirviendo a fines sociales.",
+    "resumen_tweet": "🏠 ¡Navarra blinda el alquiler social! 🛡️ La Ley Foral 14/2026 prohíbe que las VPO pasen al mercado libre: protección INDEFINIDA y retroactiva. Además, tanteo contra grandes tenedores en zonas tensionadas. ¡Stop especulación! 🛑 #BOE #Vivienda #Navarra #Transparencia",
+    "banderas_red_flags": [
+      "Retroactividad legal: La norma afecta a contratos y calificaciones previas, lo que podría generar demandas por inseguridad jurídica.",
+      "Falta de memoria económica específica: No se detalla el coste de ejercer el derecho de tanteo y retracto en zonas tensionadas.",
+      "Conceptos jurídicos indeterminados: La efectividad depende de la declaración de 'Zona de Mercado Residencial Tensionado', un proceso administrativo complejo."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inquilinos actuales de VPO (evitan subidas a precio de mercado)",
+        "Administración Foral (consolida parque público sin construir de cero)",
+        "Clases trabajadoras con acceso a vivienda asequible"
+      ],
+      "perdedores": [
+        "Grandes Tenedores y fondos inmobiliarios (pierden la plusvalía de la venta libre)",
+        "Promotoras privadas que contaban con la descalificación a los 21 años",
+        "Inversores en activos inmobiliarios protegidos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Modificación Legislativa / Vivienda",
+    "banderas_rojas": [
+      "Retroactividad legal: La norma afecta a contratos y calificaciones previas, lo que podría generar demandas por inseguridad jurídica.",
+      "Falta de memoria económica específica: No se detalla el coste de ejercer el derecho de tanteo y retracto en zonas tensionadas.",
+      "Conceptos jurídicos indeterminados: La efectividad depende de la declaración de 'Zona de Mercado Residencial Tensionado', un proceso administrativo complejo."
+    ]
+  },
+  "tweeted": false
+}
