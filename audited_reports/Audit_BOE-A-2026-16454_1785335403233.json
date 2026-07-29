@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16454",
+  "timestamp": "2026-07-29T14:30:03.233Z",
+  "title": "Real Decreto 655/2026, de 28 de julio, por el que se adjudica plaza vacante de segunda categoría de la Fiscalía Provincial de Madrid a doña María García Macías.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento refleja un nombramiento estandarizado bajo el Reglamento del Ministerio Fiscal. No obstante, la opacidad reside en la naturaleza de la 'propuesta' de la Fiscalía General del Estado, un proceso interno que no detalla los méritos comparativos de la adjudicataria frente a otros posibles aspirantes. La celeridad entre la adscripción previa (14 de julio) y el Real Decreto (28 de julio) sugiere un proceso de consolidación de plazas ya preasignadas en la práctica.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de María García Macías como fiscal de segunda categoría en la Fiscalía Provincial de Madrid. Es un trámite administrativo que cubre una vacante de nivel medio-alto en la jerarquía judicial madrileña.",
+    "resumen_tweet": "⚖️ Nuevo movimiento en la cúpula fiscal: María García Macías adjudicada a la Fiscalía de Madrid. El BOE publica el nombre, pero la transparencia sobre los méritos del proceso sigue bajo llave. 🏛️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la propuesta de la Fiscalía General",
+      "Falta de exposición de méritos en el extracto",
+      "Consolidación exprés de plaza adscrita"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María García Macías",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+      ],
+      "perdedores": [
+        "Candidatos alternativos omitidos",
+        "Ciudadanía (por falta de detalle en criterios de mérito)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Discrecionalidad en la propuesta de la Fiscalía General",
+      "Falta de exposición de méritos en el extracto",
+      "Consolidación exprés de plaza adscrita"
+    ]
+  },
+  "tweeted": false
+}
