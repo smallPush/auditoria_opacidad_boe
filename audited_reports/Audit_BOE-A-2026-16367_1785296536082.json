@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16367",
+  "timestamp": "2026-07-29T03:42:16.082Z",
+  "title": "Resolución de 17 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una adjudicación de puesto por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite el nombramiento discrecional ('a dedo') para puestos de alta responsabilidad (Nivel 30). Aunque se cita el Real Decreto-ley 6/2023 del Plan de Recuperación como marco normativo, no existe una justificación pública de los méritos específicos que han hecho a la candidata superior a otros posibles aspirantes. Este sistema perpetúa una estructura de 'gestión profesional' que en la práctica favorece la confianza política o personal sobre la meritocracia pura.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado a una nueva Subdirectora General de Protección y Asistencia Consular. El puesto es de nivel 30, el más alto en la escala funcionarial, y se ha otorgado de forma discrecional. La persona elegida escala desde un nivel 28 en la embajada de Jordania a un puesto clave en la estructura central del Ministerio en Madrid.",
+    "resumen_tweet": "🚩 ¡Otro puesto de Nivel 30 adjudicado 'a dedo' en el @MAECgob! Se resuelve la libre designación para la Subdirección de Asistencia Consular. Menos meritocracia abierta y más confianza discrecional. 🕵️‍♂️ #BOE #Opacidad #Transparencia #FuncionarioPúblico",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial y de responsabilidad)",
+      "Uso del Plan de Recuperación como paraguas procedimental",
+      "Ausencia de baremación pública de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estibaliz Lopez de Goicoechea Rodriguez (ascenso de nivel 28 a 30)",
+        "Cuerpo de Carrera Diplomática (mantenimiento de cuotas internas)",
+        "Poder ejecutivo (capacidad de elección discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos sin red de confianza",
+        "Ciudadanía (incertidumbre sobre la idoneidad técnica frente a la personal)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial y de responsabilidad)",
+      "Uso del Plan de Recuperación como paraguas procedimental",
+      "Ausencia de baremación pública de méritos"
+    ]
+  },
+  "tweeted": false
+}
