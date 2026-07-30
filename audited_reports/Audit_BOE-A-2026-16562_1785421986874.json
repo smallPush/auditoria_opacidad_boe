@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16562",
+  "timestamp": "2026-07-30T14:33:06.874Z",
+  "title": "Resolución de 23 de julio de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 6 de mayo de 2026, en los Servicios Periféricos de la Secretaría General de Instituciones Penitenciarias.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolucion utiliza una tecnica de opacidad clasica al remitir los resultados detallados (nombres y destinos) a tablones de anuncios fisicos en centros penitenciarios y en una oficina central en Madrid, en lugar de publicarlos en el BOE digital. Esto impide el escrutinio publico inmediato y dificulta la fiscalizacion contra posibles arbitrariedades en la adjudicacion de plazas del Cuerpo Facultativo de Sanidad Penitenciaria.",
+    "resumen_ciudadano": "Se han asignado nuevos puestos de salud en las carceles espanolas, pero el Gobierno ha decidido no publicar quienes han ganado las plazas ni en que hospitales penitenciarios estaran en este documento. Para conocer los detalles, el ciudadano debe desplazarse fisicamente a los tablones de las prisiones o a la sede de Madrid, dificultando la transparencia en el empleo publico.",
+    "resumen_tweet": "🕵️‍♂️ ¿Transparencia? Interior resuelve el concurso de Sanidad Penitenciaria pero OCULTA nombres y destinos. Solo disponibles en tablones fisicos. ¡Opacidad administrativa en 2026! 🏛️🚫 #BOE #Opacidad #Transparencia #Sanidad #Prisiones",
+    "banderas_red_flags": [
+      "Informacion fragmentada",
+      "Remision a soportes fisicos en era digital",
+      "Falta de anexos con adjudicatarios",
+      "Dificultad de acceso geografico a los resultados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administracion (evita el escrutinio publico de las adjudicaciones)",
+        "Sindicatos con acceso directo a la informacion interna"
+      ],
+      "perdedores": [
+        "Ciudadania (imposibilidad de verificar merito y capacidad)",
+        "Candidatos en zonas remotas (barrera fisica para consultar listas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Sanidad",
+    "banderas_rojas": [
+      "Informacion fragmentada",
+      "Remision a soportes fisicos en era digital",
+      "Falta de anexos con adjudicatarios",
+      "Dificultad de acceso geografico a los resultados"
+    ]
+  },
+  "tweeted": false
+}
