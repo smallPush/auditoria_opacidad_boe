@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16441",
+  "timestamp": "2026-07-30T03:17:15.993Z",
+  "title": "Real Decreto 644/2026, de 28 de julio, por el que se modifica el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la cláusula de 'especialización técnica' para sortear el requisito de que un Director General sea funcionario de carrera (A1). Si bien se justifica por la complejidad de la gestión de deuda y prevención de blanqueo, en la práctica reduce el control de neutralidad que ofrece la carrera administrativa. Esta maniobra facilita la entrada de perfiles procedentes del sector privado o entes supervisores, lo cual es un arma de doble filo: aporta pericia pero incrementa el riesgo de conflictos de interés y el fenómeno de las 'puertas giratorias' en el corazón financiero del Estado.",
+    "resumen_ciudadano": "El Gobierno ha modificado la ley para permitir que la Dirección General del Tesoro y Política Financiera sea ocupada por alguien que no sea funcionario de carrera. Esto significa que un puesto clave que maneja la deuda pública y la regulación bancaria podrá ser ocupado por personas designadas con mayor discrecionalidad, bajo el argumento de que se necesita experiencia técnica externa.",
+    "resumen_tweet": "🚨 El Gobierno elimina el requisito de ser funcionario para dirigir el Tesoro Público. Se abre la puerta a perfiles externos en la gestión de la deuda y banca. ¿Especialización técnica o riesgo de puertas giratorias? 💸🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Excepción al requisito de funcionario de carrera",
+      "Aumento de la discrecionalidad en nombramientos de alto nivel",
+      "Potencial conflicto de intereses con el sector financiero",
+      "Debilitamiento de la jerarquía basada en mérito y capacidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Perfiles externos del sector financiero",
+        "Cargos de confianza política",
+        "Expertos de entidades supervisoras con ambición política"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera del subgrupo A1",
+        "Sistema de meritocracia administrativa",
+        "Ciudadanía (por menor neutralidad burocrática)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Estructural de la Administración",
+    "banderas_rojas": [
+      "Excepción al requisito de funcionario de carrera",
+      "Aumento de la discrecionalidad en nombramientos de alto nivel",
+      "Potencial conflicto de intereses con el sector financiero",
+      "Debilitamiento de la jerarquía basada en mérito y capacidad"
+    ]
+  },
+  "tweeted": false
+}
