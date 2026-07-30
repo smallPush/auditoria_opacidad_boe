@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16550",
+  "timestamp": "2026-07-30T14:27:43.740Z",
+  "title": "Real Decreto 634/2026, de 29 de julio, por el que se aprueban los Estatutos del Instituto de las Mujeres, O.A.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 634/2026 formaliza la estructura del Instituto de las Mujeres para cumplir con directivas europeas de 2024. Aunque se enfatiza la 'independencia' y 'suficiencia de recursos', el texto mantiene una ambigüedad calculada sobre el proceso exacto de selección de la Presidencia, que sigue vinculado al poder ejecutivo. Se observa una expansión de competencias hacia la vigilancia de algoritmos de Inteligencia Artificial (IA), lo cual es positivo, pero genera dudas sobre la capacidad técnica real del organismo para auditar sistemas de alto riesgo sin un presupuesto detallado especificado en esta norma. Existe un riesgo de duplicidad burocrática con la Autoridad Independiente para la Igualdad de Trato.",
+    "resumen_ciudadano": "Se aprueban los nuevos estatutos del Instituto de las Mujeres para adaptarlo a las exigencias de la Unión Europea. Sus nuevas funciones incluyen luchar contra la discriminación en el trabajo, la seguridad social y supervisar que la Inteligencia Artificial no tenga sesgos de género. También podrá denunciar publicidad sexista y asistir a víctimas de discriminación.",
+    "resumen_tweet": "🚨 Nueva reforma del @InstMujeres: más poder para vigilar sesgos en la #IA y discriminación laboral. 🏛️ Se promete independencia, pero el control político en los nombramientos genera dudas. ¿Avance real o más burocracia? ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ambigüedad en el presupuesto específico para las nuevas funciones de auditoría de IA",
+      "Posible solapamiento de funciones con la Autoridad Independiente para la Igualdad de Trato",
+      "Mecanismos de independencia de la Presidencia condicionados por la designación política",
+      "Uso de conceptos jurídicos indeterminados en la 'separación funcional' de actividades"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la administración (nuevas estructuras de dirección)",
+        "Víctimas de discriminación (mayor marco de asistencia jurídica)",
+        "Consultoras de género (nuevas necesidades de estudios y estadísticas)"
+      ],
+      "perdedores": [
+        "Contribuyentes (posible aumento del gasto estructural por duplicidad)",
+        "Empresas tecnológicas (nueva supervisión de algoritmos de IA de alto riesgo)",
+        "Sector publicitario (mayor rigor en acciones de cesación por publicidad ilícita)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Estructura Orgánica",
+    "banderas_rojas": [
+      "Ambigüedad en el presupuesto específico para las nuevas funciones de auditoría de IA",
+      "Posible solapamiento de funciones con la Autoridad Independiente para la Igualdad de Trato",
+      "Mecanismos de independencia de la Presidencia condicionados por la designación política",
+      "Uso de conceptos jurídicos indeterminados en la 'separación funcional' de actividades"
+    ]
+  },
+  "tweeted": false
+}
