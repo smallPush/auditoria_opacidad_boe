@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://smallpush.github.io/auditoria_opacidad_boe';
+const BASE_URL = process.env.SITE_URL || 'https://radarboe.es';
 const AUDITED_REPORTS_DIR = path.join(__dirname, '../audited_reports');
 const OUTPUT_FILE = path.join(__dirname, '../public/sitemap.xml'); // Assuming public folder exists for Vite, or root if not.
 
@@ -16,9 +16,9 @@ const targetFile = fs.existsSync(publicDir) ? OUTPUT_FILE : path.join(__dirname,
 
 const staticRoutes = [
   '',
-  '/history',
-  '/tags',
-  '/related-tags'
+  '/#/history',
+  '/#/tags',
+  '/#/related-tags'
 ];
 
 function getAuditIds() {
@@ -57,7 +57,7 @@ function generateSitemap() {
   // Dynamic audit routes
   auditIds.forEach(id => {
     xml += `  <url>
-    <loc>${BASE_URL}/audit/${id}</loc>
+    <loc>${BASE_URL}/#/audit/${id}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

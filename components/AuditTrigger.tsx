@@ -90,12 +90,14 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
     return (
       <div className="space-y-6">
         <SEO
-          title={`Auditoría ${searchId} - ${title}`}
+          title={`Auditoría ${boeId || searchId} - ${title}`}
           description={
             state.result.resumen_tweet ||
             state.result.resumen_ciudadano.substring(0, 160)
           }
           keywords={keywords}
+          canonicalPath={`/#/audit/${boeId || searchId}`}
+          type="article"
         />
         <button
           onClick={() => navigate("/")}

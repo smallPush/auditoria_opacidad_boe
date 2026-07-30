@@ -5,52 +5,68 @@ interface SEOProps {
   description: string;
   keywords?: string[];
   image?: string;
+  canonicalPath?: string;
+  type?: string;
 }
 
-const SEO: React.FC<SEOProps> = ({ title, description, keywords = [], image }) => {
+const SEO: React.FC<SEOProps> = ({
+  title,
+  description,
+  keywords = [],
+  image = 'https://radarboe.es/favicon.svg',
+  canonicalPath = '',
+  type = 'website'
+}) => {
   useEffect(() => {
-    // Update Title
+    // 1. Update Title
     document.title = title + " | Auditoría BOE";
 
-    // Helper to update meta tags
-    const updateMeta = (name: string, content: string) => {
-      let meta = document.querySelector(`meta[name="${name}"]`);
+    // Helper to update or create meta tags by name or property
+    const updateMeta = (key: 'name' | 'property', attrValue: string, content: string) => {
+      let meta = document.querySelector(`meta[${key}="${attrValue}"]`);
       if (!meta) {
         meta = document.createElement('meta');
-        meta.setAttribute('name', name);
+        meta.setAttribute(key, attrValue);
         document.head.appendChild(meta);
       }
       meta.setAttribute('content', content);
     };
 
-    // Update Description
-    updateMeta('description', description);
-
-    // Update Keywords
+    // 2. Standard Meta Tags
+    updateMeta('name', 'description', description);
     if (keywords.length > 0) {
-      updateMeta('keywords', keywords.join(', '));
+      updateMeta('name', 'keywords', keywords.join(', '));
     }
 
-    // Optional: Add Open Graph tags for better social sharing
-    const updateOG = (property: string, content: string) => {
-      let meta = document.querySelector(`meta[property="${property}"]`);
-      if (!meta) {
-        meta = document.createElement('meta');
-        meta.setAttribute('property', property);
-        document.head.appendChild(meta);
-      }
-      meta.setAttribute('content', content);
-    };
+    // 3. Open Graph Tags
+    const baseUrl = 'https://radarboe.es';
+    const currentCanonicalUrl = `${baseUrl}${canonicalPath || (typeof window !== 'undefined' && window.location.hash ? `/#${window.location.hash.substring(1)}` : '')}`;
 
-    updateOG('og:title', title);
-    updateOG('og:description', description);
+    updateMeta('property', 'og:title', title);
+    updateMeta('property', 'og:description', description);
+    updateMeta('property', 'og:type', type);
+    updateMeta('property', 'og:url', currentCanonicalUrl);
+    updateMeta('property', 'og:image', image);
+    updateMeta('property', 'og:site_name', 'Radar BOE - Auditoría de Opacidad');
+    updateMeta('property', 'og:locale', 'es_ES');
 
-    if (image) {
-      updateOG('og:image', image);
-      updateOG('twitter:image', image);
+    // 4. Twitter Card Tags
+    updateMeta('name', 'twitter:card', 'summary');
+    updateMeta('name', 'twitter:title', title);
+    updateMeta('name', 'twitter:description', description);
+    updateMeta('name', 'twitter:image', image);
+    updateMeta('property', 'twitter:image', image);
+
+    // 5. Canonical Link
+    let canonicalLink = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
     }
+    canonicalLink.setAttribute('href', currentCanonicalUrl);
 
-  }, [title, description, keywords, image]);
+  }, [title, description, keywords, image, canonicalPath, type]);
 
   return null;
 };
