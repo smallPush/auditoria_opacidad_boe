@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16555",
+  "timestamp": "2026-07-30T14:29:16.955Z",
+  "title": "Resolución de 28 de julio de 2026, de la Subsecretaría, por la que se publica el Acuerdo del Consejo de Ministros de 28 de julio de 2026, por el que se aprueba la Adenda de cierre al Plan de Recuperación, Transformación y Resiliencia.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Adenda de Cierre se presenta como una 'adaptación técnica', pero oculta una flexibilización de criterios ante la imposibilidad de cumplir los plazos originales. La modificación de 121 hitos y 101 medidas busca 'dar claridad al proceso evaluador', lo que en lenguaje burocrático suele significar rebajar la exigencia para no perder los fondos del sexto desembolso. Llama la atención la renuncia a préstamos europeos debido a la desaparición de la ventaja financiera, derivando fondos hacia el ICO (Fondo España Crece), lo que centraliza más de 10.000 millones de euros bajo control estatal con menor supervisión directa de Bruselas.",
+    "resumen_ciudadano": "El Gobierno cierra el Plan de Recuperación 'Next Generation' ajustando las metas a última hora. Ante la cercanía del fin del plazo (agosto 2026), se han simplificado los requisitos de más de 100 objetivos para asegurar que el dinero llegue, y se ha inyectado una cifra millonaria en el ICO para que el Estado gestione los préstamos que antes venían directamente de Europa.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Gobierno 'simplifica' 121 hitos y 101 medidas del Plan de Recuperación a meses del cierre. ¿Transparencia o rebaja de objetivos para cobrar? 💸 10.000M€ pasan al ICO bajo control directo. #Opacidad #Transparencia #NextGenEU 🇪🇸",
+    "banderas_red_flags": [
+      "Simplificación de 121 hitos y 101 medidas por 'dificultades de verificación'",
+      "Renegociación de hitos pendientes del 6º desembolso (301, 322, 346) para asegurar evaluación positiva",
+      "Traspaso masivo de fondos (9.504,5M€ en préstamos) al ICO para gestión indirecta",
+      "Uso de términos vagos como 'optimizar la utilización de recursos' para justificar cambios de destino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector financiero (ICO)",
+        "Grandes empresas con capacidad de lobby",
+        "Consultoras de gestión de fondos públicos"
+      ],
+      "perdedores": [
+        "Ciudadanía (menor rigor en el cumplimiento de reformas originales)",
+        "Mecanismos de control e inspección (reducidos por la 'simplificación')",
+        "Pequeñas empresas sin acceso a instrumentos financieros complejos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Económica y Fondos Europeos",
+    "banderas_rojas": [
+      "Simplificación de 121 hitos y 101 medidas por 'dificultades de verificación'",
+      "Renegociación de hitos pendientes del 6º desembolso (301, 322, 346) para asegurar evaluación positiva",
+      "Traspaso masivo de fondos (9.504,5M€ en préstamos) al ICO para gestión indirecta",
+      "Uso de términos vagos como 'optimizar la utilización de recursos' para justificar cambios de destino"
+    ]
+  },
+  "tweeted": false
+}
