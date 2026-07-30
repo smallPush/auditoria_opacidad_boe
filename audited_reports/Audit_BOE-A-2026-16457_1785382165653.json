@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-16457",
+  "timestamp": "2026-07-30T03:29:25.653Z",
+  "title": "Resolución de 22 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para un puesto de Nivel 29 vinculado a la gestión de Fondos Europeos (PRTR) representa un punto ciego en la meritocracia administrativa. Aunque se menciona la existencia de un 'informe motivado', este no es público, lo que convierte la selección en un proceso de confianza política bajo apariencia técnica. La 'Unidad Temporal' añade una capa de excepcionalidad que facilita nombramientos discrecionales en áreas estratégicas de inversión.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha adjudicado 'a dedo' (libre designación) un puesto de alta dirección (Coordinador, Nivel 29) para supervisar el Plan de Recuperación y Resiliencia. El elegido es un funcionario del cuerpo de Ingenieros de Caminos que ya ocupaba un nivel idéntico en la misma unidad, lo que sugiere una consolidación de poder interno en la gestión de fondos europeos sin una competencia abierta y pública.",
+    "resumen_tweet": "🚨 Alerta #BOE: Adjudicado 'a dedo' un puesto Nivel 29 para gestionar Fondos Europeos en Transportes. La 'libre designación' sigue siendo la herramienta para el control político de los fondos #PRTR. ¿Transparencia o dedocracia? 🕵️‍♂️ #Opacidad #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel salarial máximo (29)",
+      "Gestión de Fondos Europeos (PRTR)",
+      "Informe motivado no accesible al público",
+      "Unidad de carácter temporal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Enrique Pérez Rodríguez-Carmona (adjudicatario)",
+        "Ministerio de Transportes (mantiene control discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin perfil político",
+        "Transparencia pública en la gestión de fondos PRTR",
+        "Sistema de concurso de méritos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel salarial máximo (29)",
+      "Gestión de Fondos Europeos (PRTR)",
+      "Informe motivado no accesible al público",
+      "Unidad de carácter temporal"
+    ]
+  },
+  "tweeted": false
+}
