@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16543",
+  "timestamp": "2026-07-30T14:03:11.715Z",
+  "title": "Real Decreto-ley 20/2026, de 29 de julio, por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto-ley 20/2026 utiliza una retórica de 'extrema urgencia' para implementar una nueva 'prestación extraordinaria por emergencia extrema' cuyas cuantías y origen presupuestario exacto no quedan detallados en el cuerpo del texto, lo que genera un gasto fantasma potencial hasta su desarrollo reglamentario. Si bien se justifica en la crisis climática, la norma centraliza el control de la emergencia en el Ministerio del Interior, desplazando competencias autonómicas bajo la figura de 'interés nacional'. Se detecta una incongruencia en la gestión de plazos: mientras se suspenden términos judiciales para proteger el sistema, la carga de la prueba para los trabajadores afectados por evacuaciones sigue siendo ambigua.",
+    "resumen_ciudadano": "Esta ley crea ayudas urgentes para trabajadores y autónomos afectados por los incendios en Madrid, Ávila y Toledo en julio de 2026. Permite faltar al trabajo para evacuar casas o cuidar familiares sin perder el sueldo (mediante una nueva prestación) y perdona temporalmente las cuotas de la Seguridad Social a las empresas de las zonas quemadas. También se detienen los plazos legales en juzgados y registros de las áreas más golpeadas.",
+    "resumen_tweet": "🌲 El Gobierno activa el RDL 20/2026 tras incendios históricos. Crea una 'prestación por emergencia extrema' pero sin detallar el coste total. 🚩 Se perdonan cuotas a empresas y suspenden plazos judiciales. #BOE #Opacidad #Transparencia #Incendios2026",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica detallada para la nueva prestación extraordinaria",
+      "Uso del Real Decreto-ley para evitar el debate parlamentario previo en medidas de largo alcance laboral",
+      "Delegación excesiva de la letra pequeña a 'facultades de desarrollo' posteriores",
+      "Ampliación discrecional del ámbito territorial mediante Orden Ministerial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas en zonas de incendio (exenciones de cotización)",
+        "Autónomos (acceso a prestación sin periodo mínimo de cotización)",
+        "Titulares de notarías y registros (suspensión de plazos por imposibilidad técnica)"
+      ],
+      "perdedores": [
+        "Contribuyentes generales (financiación de gasto no presupuestado)",
+        "Trabajadores de la economía informal (excluidos de las protecciones de Seguridad Social)",
+        "Administraciones autonómicas (pérdida de control ante la 'emergencia de interés nacional')"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Madrid, Castilla y León, Castilla-La Mancha, Comunidad Valenciana)",
+    "tipologia": "Emergencia Climática y Protección Social",
+    "banderas_rojas": [
+      "Ausencia de memoria económica detallada para la nueva prestación extraordinaria",
+      "Uso del Real Decreto-ley para evitar el debate parlamentario previo en medidas de largo alcance laboral",
+      "Delegación excesiva de la letra pequeña a 'facultades de desarrollo' posteriores",
+      "Ampliación discrecional del ámbito territorial mediante Orden Ministerial"
+    ]
+  },
+  "tweeted": false
+}
