@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16440",
+  "timestamp": "2026-07-30T02:56:52.928Z",
+  "title": "Orden ECM/778/2026, de 27 de julio, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección «Campeones de la Copa Mundial de la FIFA 2026™».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la apariencia de un homenaje deportivo nacional, esta orden ministerial oculta una operacion comercial de alto margen para el Estado. El desequilibrio entre el valor nominal (5 euros) y el precio de venta (60,33 euros mas IVA) supone un recargo superior al 1100%, convirtiendo un hito publico en un producto de lujo. La normativa utiliza terminologia tecnica (ley de plata, milisimas, grila de perlas) para blindar un negocio donde la Fabrica Nacional de Moneda y Timbre actua como una entidad comercial, aprovechando el sentimiento patriotico para la recaudacion extra-presupuestaria.",
+    "resumen_ciudadano": "El Gobierno emitira 50.000 monedas de plata para celebrar la victoria de España en el Mundial 2026. Aunque la moneda dice valer 5 euros, el ciudadano tendra que pagar mas de 73 euros (con IVA) para adquirirla. El beneficio de esta venta va directamente al Tesoro Publico tras cubrir costes de fabricacion.",
+    "resumen_tweet": "⚽️💰 ¿Homenaje o negocio? El Gobierno acuña 50.000 monedas del Mundial 2026. Valor facial: 5€. Precio de venta: +60€ (+IVA). El Estado convierte el exito deportivo en un producto de lujo con un margen del 1100%. #BOE #Opacidad #Transparencia #FIFA2026",
+    "banderas_red_flags": [
+      "Discrepancia extrema entre valor nominal (5€) y precio de venta (60,33€)",
+      "Uso de logotipos privados (FIFA™) en acuñacion nacional, sugiriendo posibles pagos de royalties no especificados",
+      "Discrecionalidad de la Direccion General del Tesoro para modificar precios segun el mercado de metales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tesoro Publico (recaudacion neta)",
+        "FNMT (gastos de gestion y comercializacion)",
+        "FIFA (posicionamiento de marca y posibles derechos)",
+        "Coleccionistas e inversores de alto nivel"
+      ],
+      "perdedores": [
+        "Aficionado medio (excluido por el elevado precio de venta)",
+        "Transparencia presupuestaria (los beneficios de acuñacion operan fuera del control parlamentario directo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Monetaria y Numismatica",
+    "banderas_rojas": [
+      "Discrepancia extrema entre valor nominal (5€) y precio de venta (60,33€)",
+      "Uso de logotipos privados (FIFA™) en acuñacion nacional, sugiriendo posibles pagos de royalties no especificados",
+      "Discrecionalidad de la Direccion General del Tesoro para modificar precios segun el mercado de metales"
+    ]
+  },
+  "tweeted": false
+}
