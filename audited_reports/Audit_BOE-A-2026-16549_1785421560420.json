@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16549",
+  "timestamp": "2026-07-30T14:26:00.420Z",
+  "title": "Real Decreto 633/2026, de 29 de julio, por el que se modifica el Real Decreto 1463/2018, de 21 de diciembre, por el que se desarrollan las obligaciones del servicio público de noticias de titularidad estatal encomendado a la Agencia EFE, S.M.E., S.A.U., y su compensación económica.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 633/2026 utiliza una arquitectura contable de 'hipótesis de contraste' para legitimar un aumento en la compensación estatal a la Agencia EFE. Al establecer una plantilla ficticia de 147 efectivos como base de cálculo, se crea un mecanismo para inflar la transferencia de fondos públicos sin necesidad de demostrar eficiencia operativa real. La declaración del Área de Documentación como coste 100% evitado y la inclusión discrecional de Brasil y EE.UU. en la zona de 'afinidad' para justificar el 53% de ingresos evitados son maniobras para rescatar financieramente a la entidad bajo el pretexto de la Ley Europea de Libertad de Medios. No se detalla el montante total del incremento, solo la fórmula matemática, lo que dificulta la fiscalización ciudadana.",
+    "resumen_ciudadano": "El Gobierno ha cambiado las reglas matemáticas para enviar más dinero público a la Agencia EFE. Han creado un escenario imaginario donde la agencia es más pequeña para que el Estado pague la diferencia de coste de la actual. Además, el Estado asume ahora el 100% del coste de los archivos y compensa las pérdidas comerciales en EE.UU. y Brasil. Estos cambios se aplicarán con efectos retroactivos desde enero de 2026.",
+    "resumen_tweet": "📢 ¡Artificio contable en el #BOE! El Gobierno cambia el cálculo para inyectar más dinero a la Agencia EFE usando plantillas 'imaginarias' y asumiendo pérdidas en EE.UU./Brasil. 💸 Menos mercado, más subvención retroactiva. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cálculo basado en escenarios hipotéticos (plantilla de 147 efectivos)",
+      "Retroactividad de los efectos económicos al 1 de enero",
+      "Opacidad en la cifra total de la compensación económica",
+      "Uso de conceptos vagos como afinidad lingüística para justificar subsidios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia EFE (mayor flujo de caja)",
+        "Estructura directiva de medios públicos",
+        "Corresponsalías en EE.UU. y Brasil"
+      ],
+      "perdedores": [
+        "Contribuyentes (mayor carga presupuestaria)",
+        "Agencias de noticias privadas (competencia desleal subvencionada)"
+      ]
+    },
+    "comunidad_autonoma": "España",
+    "tipologia": "Finanzas Públicas / Medios de Comunicación",
+    "banderas_rojas": [
+      "Cálculo basado en escenarios hipotéticos (plantilla de 147 efectivos)",
+      "Retroactividad de los efectos económicos al 1 de enero",
+      "Opacidad en la cifra total de la compensación económica",
+      "Uso de conceptos vagos como afinidad lingüística para justificar subsidios"
+    ]
+  },
+  "tweeted": false
+}
