@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16668",
+  "timestamp": "2026-07-31T14:33:43.616Z",
+  "title": "Real Decreto 672/2026, de 29 de julio, por el que se nombra Presidente del Tribunal de Instancia de Denia (Alicante) al Magistrado don José María Zaragoza Campos.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "El nombramiento responde a una estructura jerárquica interna donde prevalece la decisión de la propia Junta de Jueces y el CGPJ. Aunque se cita la base legal (LOPJ), el documento carece de una justificación de méritos comparativa o de una explicación sobre la idoneidad del candidato frente a otros posibles aspirantes, perpetuando un sistema de cooptación cerrado al escrutinio público. No se detallan recursos económicos adicionales asociados a este nuevo rango de 'Presidente de Tribunal de Instancia', ocultando el impacto presupuestario real de la reestructuración judicial.",
+    "resumen_ciudadano": "Se oficializa el cargo de José María Zaragoza Campos como Presidente del Tribunal de Instancia de Denia. Es un movimiento de piezas dentro de la administración de justicia valenciana que consolida la estructura de mando local sin ofrecer detalles sobre el proceso de selección o las mejoras que supondrá para el ciudadano.",
+    "resumen_tweet": "⚖️ Nuevo mando en la justicia de Denia: José María Zaragoza Campos es nombrado Presidente. ¿Criterios de mérito o inercia de pasillos? Un proceso cerrado entre jueces que sigue alejando la justicia del control ciudadano. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia en procesos de elección interna",
+      "Ausencia de desglose de méritos y capacidad",
+      "Falta de memoria económica del puesto",
+      "Opacidad en el acta de la Junta de Jueces"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Zaragoza Campos",
+        "CGPJ (control de nombramientos)",
+        "Jerarquía judicial tradicional"
+      ],
+      "perdedores": [
+        "Principio de paridad (cargo masculino)",
+        "Transparencia pública",
+        "Candidatos excluidos sin publicidad de méritos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Autoridades",
+    "banderas_rojas": [
+      "Endogamia en procesos de elección interna",
+      "Ausencia de desglose de méritos y capacidad",
+      "Falta de memoria económica del puesto",
+      "Opacidad en el acta de la Junta de Jueces"
+    ]
+  },
+  "tweeted": false
+}
