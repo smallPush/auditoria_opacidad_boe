@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16667",
+  "timestamp": "2026-07-31T14:31:21.089Z",
+  "title": "Real Decreto 671/2026, de 29 de julio, por el que se nombra Presidenta del Tribunal de Instancia de Zamora a la Magistrada doña Mercedes Parra Martín.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja un nombramiento discrecional basado en una eleccion interna de la Junta de Jueces. Aunque se citan los preceptos legales (LOPJ), existe una opacidad intrinseca en el proceso: no se detallan los meritos ni la motivacion de la eleccion de esta magistrada frente a otros posibles candidatos. Se perpetua la estructura de cooptacion en la cupula judicial donde la transparencia ciudadana es secundaria frente a los acuerdos internos del CGPJ.",
+    "resumen_ciudadano": "La Magistrada Mercedes Parra Martin ha sido nombrada Presidenta del Tribunal de Instancia de Zamora. Este nombramiento es el resultado de una votacion interna de los jueces locales y la ratificacion oficial por parte del Consejo General del Poder Judicial y el Ministerio de Justicia.",
+    "resumen_tweet": "⚖️ Mercedes Parra Martín, nueva Presidenta del Tribunal de Instancia de Zamora. Un nombramiento que surge de acuerdos internos del CGPJ y la Junta de Jueces. ¿Y los criterios de mérito? La justicia sigue su curso administrativo. #BOE #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Falta de exposicion de motivos sobre la idoneidad del perfil",
+      "Opacidad en el acta de la Junta de Jueces mencionada",
+      "Procedimiento de democracia interna judicial sin escrutinio publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mercedes Parra Martin",
+        "Elite judicial de Zamora",
+        "CGPJ"
+      ],
+      "perdedores": [
+        "Candidatos alternativos sin visibilidad",
+        "Ciudadania (por falta de acceso a los criterios de eleccion)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Nombramientos y Situaciones Institucionales",
+    "banderas_rojas": [
+      "Falta de exposicion de motivos sobre la idoneidad del perfil",
+      "Opacidad en el acta de la Junta de Jueces mencionada",
+      "Procedimiento de democracia interna judicial sin escrutinio publico"
+    ]
+  },
+  "tweeted": false
+}
