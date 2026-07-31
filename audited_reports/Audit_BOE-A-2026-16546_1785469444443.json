@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16546",
+  "timestamp": "2026-07-31T03:44:04.443Z",
+  "title": "Conflicto entre órganos constitucionales n.º 4716-2026, en relación con el Acuerdo por el que el Gobierno expresa su disconformidad respecto a la tramitación de las enmiendas números 8 y 10, aprobadas por el Pleno del Senado, por las que se incorporan, respectivamente, una disposición final primera bis (nueva) y una disposición final primera ter (nueva) a la Proposición de Ley Orgánica en materia de multirreincidencia, por la que se modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, la Ley de Enjuiciamiento Criminal, aprobada por Real Decreto de 14 de septiembre de 1882, y la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Estamos ante un choque de trenes institucional entre el Senado y el Gobierno bajo la apariencia de un mero trámite administrativo. El Gobierno ha utilizado su capacidad de veto para bloquear enmiendas clave (8 y 10) que afectaban a la Ley de Multirreincidencia y la Ley de Extranjería. El texto en el BOE es deliberadamente opaco: cita numeros de enmiendas sin explicar su contenido, ocultando al ciudadano que el conflicto real versa sobre el endurecimiento de penas y el control migratorio. Es un uso del Tribunal Constitucional como árbitro de una parálisis legislativa por motivos ideológicos y de control de gasto, privando a la ciudadanía de conocer el fondo de la disputa.",
+    "resumen_ciudadano": "El Senado ha llevado al Gobierno ante el Tribunal Constitucional. El motivo es que el Gobierno bloqueó dos cambios importantes que el Senado quería introducir en las leyes contra la delincuencia reincidente y sobre extranjería. Mientras los políticos se pelean por las competencias y el presupuesto, las reformas que afectan a la seguridad y a los derechos de los extranjeros quedan en el aire.",
+    "resumen_tweet": "🏛️ Guerra total en el #BOE: El Senado demanda al Gobierno ante el Constitucional por vetar enmiendas sobre multirreincidencia y extranjería. Poca luz y mucho tecnicismo para ocultar un bloqueo político de alto nivel. ⚖️🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Veto gubernamental a la potestad legislativa del Senado",
+      "Opacidad absoluta sobre el contenido material de las enmiendas 8 y 10",
+      "Judicialización de la discrepancia política legislativa",
+      "Uso de la 'disconformidad' del Gobierno como herramienta de bloqueo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de la Nación (por el bloqueo temporal de la tramitación)",
+        "Abogados y altos funcionarios del Estado (por la dilatación del proceso judicial)"
+      ],
+      "perdedores": [
+        "Ciudadanía (por la incertidumbre en materia de seguridad ciudadana)",
+        "Población extranjera (por la parálisis en la definición de sus derechos y deberes)",
+        "Transparencia democrática (por el uso de códigos numéricos en lugar de explicaciones claras)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Conflicto de Competencias Constitucionales",
+    "banderas_rojas": [
+      "Veto gubernamental a la potestad legislativa del Senado",
+      "Opacidad absoluta sobre el contenido material de las enmiendas 8 y 10",
+      "Judicialización de la discrepancia política legislativa",
+      "Uso de la 'disconformidad' del Gobierno como herramienta de bloqueo"
+    ]
+  },
+  "tweeted": false
+}
