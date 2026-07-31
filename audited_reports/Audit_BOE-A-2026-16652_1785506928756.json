@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16652",
+  "timestamp": "2026-07-31T14:08:48.756Z",
+  "title": "Ley Orgánica 3/2026, de 29 de julio, de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La Ley Orgánica 3/2026 actúa como un cascarón jurídico que transfiere la titularidad de la AP-9 a Galicia pero posterga los detalles financieros críticos a una futura Comisión Mixta. El punto más opaco es el Artículo 1.3, que blinda a la concesionaria y al Estado: el Estado asume 'obligaciones con repercusiones económicas' previas, mientras que Galicia debe pagar cualquier rebaja de peajes futura. Es una técnica de 'patada hacia adelante' donde el ciudadano no conoce el coste real del rescate o mantenimiento, mientras se mantiene el régimen económico de la concesionaria intacto.",
+    "resumen_ciudadano": "Se transfiere la gestión de la autopista AP-9 (del Atlántico) del Estado a la Xunta de Galicia. Aunque Galicia ahora mandará sobre la vía, el Estado seguirá pagando las deudas y compromisos antiguos, y Galicia tendrá que pagar de su bolsillo si decide bajar los peajes o hacer obras nuevas. La letra pequeña protege los beneficios de la empresa concesionaria ante cualquier cambio.",
+    "resumen_tweet": "🚗 ¡Galicia recibe la titularidad de la AP-9! Pero ojo: el Estado se queda con las deudas previas y la Xunta pagará si quiere bajar peajes. Mucha burocracia y poca claridad en el coste real para el ciudadano. 💸 #BOE #Opacidad #AP9 #Galicia",
+    "banderas_red_flags": [
+      "Cláusula de blindaje de gastos previos del Estado sin cuantificar",
+      "Externalización de detalles financieros a una Comisión Mixta no pública",
+      "Ausencia de memoria económica vinculada en el texto de la Ley",
+      "Transferencia condicionada a la disponibilidad presupuestaria futura"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Xunta de Galicia (obtienen rédito político y control administrativo)",
+        "Empresa Concesionaria (sus beneficios y compensaciones previas quedan blindados por el Estado)"
+      ],
+      "perdedores": [
+        "Contribuyentes estatales (seguirán pagando deudas de una vía que ya no gestionan)",
+        "Usuarios de la AP-9 (la ley no garantiza una bajada de peajes inmediata ni automática)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Transferencia de Competencias",
+    "banderas_rojas": [
+      "Cláusula de blindaje de gastos previos del Estado sin cuantificar",
+      "Externalización de detalles financieros a una Comisión Mixta no pública",
+      "Ausencia de memoria económica vinculada en el texto de la Ley",
+      "Transferencia condicionada a la disponibilidad presupuestaria futura"
+    ]
+  },
+  "tweeted": false
+}
