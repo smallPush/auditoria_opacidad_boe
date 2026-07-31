@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16653",
+  "timestamp": "2026-07-31T14:27:01.156Z",
+  "title": "Ley 2/2026, de 29 de julio, de modificación del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social en relación con las mutualidades alternativas reguladas en sus disposiciones adicionales 18.ª y 19.ª.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 2/2026 es un reconocimiento implícito del fracaso del modelo de capitalización individual en las mutualidades profesionales. Tras décadas de desregulación, el Estado se ve obligado a crear una 'pasarela' al sistema público (RETA) para evitar la precariedad de miles de profesionales liberales cuyas pensiones privadas son inferiores a las mínimas públicas. Aunque se vende como un derecho, es un rescate de un modelo privado fallido mediante la absorción de sus activos por el sector público, asumiendo este último el riesgo de longevidad y el posible déficit actuarial futuro.",
+    "resumen_ciudadano": "Si eres profesional colegiado (abogado, arquitecto, etc.) y cotizas en una mutualidad privada, esta ley te permite pasar tus ahorros a la Seguridad Social pública para jubilarte por el sistema estatal. Además, obliga a las mutualidades a que sus pensiones sean al menos iguales a las mínimas públicas, lo que implicará una subida obligatoria de tus cuotas mensuales hasta igualarlas con las de los autónomos en 2028.",
+    "resumen_tweet": "⚠️ Rescate de pensiones privadas en el #BOE. La Ley 2/2026 admite el fracaso de las mutualidades y abre la 'pasarela' al sistema público. ¿El coste? Subida de cuotas para profesionales y riesgos a largo plazo para el Estado. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Delegación excesiva: Los coeficientes de conversión de capital privado a años cotizados se decidirán por reglamento posterior, no en la ley.",
+      "Riesgo de insolvencia diferida: No se detalla el impacto presupuestario de absorber miles de nuevas pensiones públicas con capitales privados posiblemente insuficientes.",
+      "Coeficientes correctores: El uso de coeficientes entre 0,67 y 0,87 para el cálculo de años cotizados es discrecional y puede perjudicar al trabajador.",
+      "Obligación de incremento de cuotas: Subida forzada de costes para mutualistas activos del 100% en apenas tres años."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mutualistas veteranos con fondos privados insuficientes que podrán acceder a la pensión mínima pública.",
+        "Gestores de mutualidades que se libran de la presión social de pensionistas con rentas de miseria.",
+        "Estado (a corto plazo) por la entrada inmediata de capitales de las mutualidades."
+      ],
+      "perdedores": [
+        "Profesionales jóvenes que verán sus cuotas aumentar drásticamente hasta 2028.",
+        "Sistema Público de Seguridad Social (a largo plazo) por asumir compromisos de pago futuros inciertos.",
+        "Contribuyentes generales que podrían terminar financiando el déficit si los fondos transferidos no cubren las pensiones."
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Modificación Legislativa / Seguridad Social",
+    "banderas_rojas": [
+      "Delegación excesiva: Los coeficientes de conversión de capital privado a años cotizados se decidirán por reglamento posterior, no en la ley.",
+      "Riesgo de insolvencia diferida: No se detalla el impacto presupuestario de absorber miles de nuevas pensiones públicas con capitales privados posiblemente insuficientes.",
+      "Coeficientes correctores: El uso de coeficientes entre 0,67 y 0,87 para el cálculo de años cotizados es discrecional y puede perjudicar al trabajador.",
+      "Obligación de incremento de cuotas: Subida forzada de costes para mutualistas activos del 100% en apenas tres años."
+    ]
+  },
+  "tweeted": false
+}
