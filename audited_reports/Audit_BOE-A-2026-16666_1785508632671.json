@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16666",
+  "timestamp": "2026-07-31T14:37:12.671Z",
+  "title": "Ley 4/2026, de 13 de julio, por la que se modifica la Ley 2/2022, de 6 de octubre, de medidas extraordinarias dirigidas a impulsar la provisión de puestos de difícil cobertura de determinado personal estatutario con título de especialista en ciencias de la salud del Servicio Gallego de Salud.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Ley 4/2026 de Galicia utiliza el mecanismo de 'medidas extraordinarias' para sortear el sistema ordinario de acceso a la función pública (concurso-oposición). Bajo el pretexto de la 'difícil cobertura' en el Servicio de Urgencias de Ourense (CHUO), se consolida una tendencia de acceso a la fijeza mediante concurso de méritos (sin examen), lo cual erosiona el sistema de oposición tradicional. Aunque se justifica por la necesidad asistencial, el hecho de que una norma de 2022, diseñada como temporal y excepcional, siga ampliándose y prorrogándose (vía Ley 5/2025) sugiere una incapacidad estructural para gestionar recursos humanos sin recurrir a atajos legales que podrían vulnerar la igualdad de acceso.",
+    "resumen_ciudadano": "La Xunta de Galicia ha aprobado que los médicos de urgencias del Hospital de Ourense puedan obtener una plaza fija sin necesidad de realizar el examen de oposición, basándose solo en sus méritos (experiencia y formación). Esta medida busca cubrir urgentemente las vacantes en un servicio al borde del colapso, admitiendo implícitamente que las condiciones de trabajo actuales no atraen a profesionales mediante las vías normales.",
+    "resumen_tweet": "🚨 Galicia elimina el examen de oposición para médicos de urgencias en Ourense para frenar la falta de personal. Lo que nació como 'excepcional' en 2022 ya es la norma: parches legales para un sistema sanitario en crisis. 🏥 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Conversión de medidas excepcionales en permanentes",
+      "Eliminación de la fase de oposición para el acceso a plaza fija",
+      "Reconocimiento explícito del fracaso de los sistemas ordinarios de selección",
+      "Uso de leyes de acompañamiento para prorrogar medidas de urgencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Médicos especialistas (acceso directo a plaza fija)",
+        "Gestores del SERGAS (alivio temporal de la presión asistencial en Ourense)"
+      ],
+      "perdedores": [
+        "Opositores tradicionales (agravio comparativo en el sistema de acceso)",
+        "Sistema de mérito y capacidad (debilitamiento del examen como filtro)",
+        "Ciudadanía de Ourense (reciben un parche en lugar de una mejora estructural de condiciones)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Legislación de Función Pública y Sanidad",
+    "banderas_rojas": [
+      "Conversión de medidas excepcionales en permanentes",
+      "Eliminación de la fase de oposición para el acceso a plaza fija",
+      "Reconocimiento explícito del fracaso de los sistemas ordinarios de selección",
+      "Uso de leyes de acompañamiento para prorrogar medidas de urgencia"
+    ]
+  },
+  "tweeted": false
+}
