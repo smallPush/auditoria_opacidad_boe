@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-16556",
+  "timestamp": "2026-07-31T03:47:05.490Z",
+  "title": "Real Decreto 642/2026, de 29 de julio, por el que se regula la concesión directa de subvenciones del Ministerio de Derechos Sociales, Consumo y Agenda 2030 a diversas entidades.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' para eludir la concurrencia competitiva, amparándose en razones de 'interés público' vagamente definidas. Este mecanismo consolida un oligopolio del Tercer Sector, donde las grandes entidades (Cruz Roja, Cáritas, ONCE) reciben fondos recurrentes para mantener sus estructuras burocráticas centrales, dificultando la entrada de nuevas organizaciones o iniciativas innovadoras. Existe una notable amalgama ideológica que busca contentar a todos los espectros: desde organizaciones vinculadas a la Iglesia hasta fundaciones de defensa animal y plataformas de la Agenda 2030, lo que sugiere un reparto de cuotas de influencia política más que una asignación basada en eficiencia técnica.",
+    "resumen_ciudadano": "El Gobierno ha aprobado un paquete de ayudas millonarias 'a dedo' para grandes ONGs, asociaciones de familias y gobiernos regionales. Al no haber concurso público, no se ha permitido que otras asociaciones presenten mejores proyectos, beneficiando sistemáticamente a las organizaciones que ya tienen convenios previos con el Estado bajo el pretexto de que son 'insustituibles'.",
+    "resumen_tweet": "🚨 ¡Alerta de dedazos en el #BOE! El Gobierno reparte millones en subvenciones directas sin concurso público. Se benefician los de siempre bajo la excusa de la 'excepcionalidad'. ¿Dónde queda la competencia y la meritocracia? 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Abuso de la concesión directa (Art 22.2.c Ley de Subvenciones)",
+      "Financiación recurrente de estructuras centrales en lugar de proyectos específicos",
+      "Falta de métricas de impacto comparativas entre beneficiarios",
+      "Inclusión de entidades con fines ideológicos opuestos para equilibrar balanzas políticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cruz Roja Española",
+        "Cáritas Española",
+        "CERMI",
+        "Fundación ONCE",
+        "FEMP (Federación Española de Municipios y Provincias)",
+        "Canarias, Ceuta y Melilla"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones de barrio",
+        "Nuevos movimientos sociales sin estructura estatal",
+        "Contribuyentes (por la ausencia de licitación competitiva que reduzca costes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Abuso de la concesión directa (Art 22.2.c Ley de Subvenciones)",
+      "Financiación recurrente de estructuras centrales en lugar de proyectos específicos",
+      "Falta de métricas de impacto comparativas entre beneficiarios",
+      "Inclusión de entidades con fines ideológicos opuestos para equilibrar balanzas políticas"
+    ]
+  },
+  "tweeted": false
+}
