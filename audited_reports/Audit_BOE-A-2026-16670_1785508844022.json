@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-16670",
+  "timestamp": "2026-07-31T14:40:44.022Z",
+  "title": "Acuerdo de 5 de mayo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Manuel Ignacio Centeno Campoy.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento representa un acto administrativo reglado de jubilación por edad, amparado en la Ley Orgánica del Poder Judicial. Aunque el procedimiento es legalmente nítido, persiste la opacidad estructural respecto a los 'derechos pasivos' (pensiones de alto rango) que se derivan de estos acuerdos. El lenguaje técnico oculta el coste actuarial de estas jubilaciones de élite frente al régimen general de la Seguridad Social, manteniendo una desconexión informativa entre el nombramiento/cese y el impacto presupuestario real.",
+    "resumen_ciudadano": "Se oficializa la jubilación forzosa del Magistrado Manuel Ignacio Centeno Campoy en Sevilla al alcanzar la edad legal. Se le reconocen sus derechos económicos de jubilación como alto funcionario del Estado.",
+    "resumen_tweet": "⚖️ Jubilación en la alta magistratura de Sevilla. Manuel Centeno deja su plaza con 'derechos pasivos' garantizados. ¿Sabemos cuánto nos cuestan estas pensiones de élite? El BOE sigue ocultando el impacto económico real. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de derechos pasivos",
+      "Falta de desglose del coste para el erario público",
+      "Inercia en el lenguaje administrativo de privilegios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (asegura pensión de clase pasiva de alto nivel)",
+        "CGPJ (procede al relevo de plaza)"
+      ],
+      "perdedores": [
+        "Contribuyente (soporta el coste de pensiones especiales sin transparencia en el dato)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Situaciones Personales del Poder Judicial",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de derechos pasivos",
+      "Falta de desglose del coste para el erario público",
+      "Inercia en el lenguaje administrativo de privilegios"
+    ]
+  },
+  "tweeted": false
+}
