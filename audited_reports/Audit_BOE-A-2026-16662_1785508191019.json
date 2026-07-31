@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16662",
+  "timestamp": "2026-07-31T14:29:51.019Z",
+  "title": "Real Decreto 641/2026, de 29 de julio, por el que se modifican el Real Decreto 1125/2021, de 21 de diciembre, por el que se regula la concesión de subvenciones directas a las empresas distribuidoras de energía eléctrica para la realización de inversiones de digitalización de redes de distribución de energía eléctrica y en infraestructuras para la recarga del vehículo eléctrico con cargo a los fondos del Plan de Recuperación, Transformación y Resiliencia, y el Real Decreto 534/2025, de 24 de junio, por el que se regula la concesión directa de subvenciones con cargo a los fondos del Plan de Recuperación, Transformación y Resiliencia para la realización de inversiones en la red de transporte de energía eléctrica destinadas a proyectos estratégicos de descarbonización.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 641/2026 introduce un mecanismo de recuperación de fondos del Plan de Recuperación (PRTR) no comprometidos por las eléctricas. Aunque se presenta bajo el principio de 'eficiencia', el texto genera una zona de sombra: no especifica el destino final de los remanentes recuperados, limitándose a mencionar una 'reordenación' para 'optimizar' el plan. Esto permite al Ejecutivo reasignar cantidades millonarias (hasta 762M€ para 2025-2026) con discrecionalidad técnica pero sin transparencia política sobre las nuevas prioridades. Además, se detecta una 'Incongruencia Ideológica' al mantener el esquema de concesión directa a grandes distribuidoras en lugar de abrir el mercado a comunidades energéticas o PYMES del sector.",
+    "resumen_ciudadano": "El Gobierno modifica las normas para obligar a las empresas eléctricas a devolver el dinero de los fondos europeos que no hayan gastado o comprometido en proyectos de digitalización y descarbonización. Se busca recuperar sobrantes de ayudas directas concedidas anteriormente, incluyendo los intereses generados por una cuenta de 525 millones de euros. Sin embargo, no se explica en qué nuevos proyectos se invertirá ese dinero recuperado.",
+    "resumen_tweet": "🚨 El #BOE publica el RD 641/2026: el Gobierno podrá reclamar a las eléctricas los fondos europeos no usados. 💸 El problema: no se aclara el destino final de esos millones 'recuperados'. ¿Optimización o parche presupuestario? 🧐 #Opacidad #Transparencia #PRTR",
+    "banderas_red_flags": [
+      "Destino incierto de los remanentes recuperados",
+      "Falta de concurrencia competitiva en las subvenciones originales",
+      "Gestión de intereses financieros (525M€) sin detalle de beneficiario final",
+      "Uso de la 'vía de urgencia' para modificar repartos presupuestarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración General del Estado (recupera control de fondos no ejecutados)",
+        "Grandes corporaciones eléctricas (por el mantenimiento del modelo de subvención directa)"
+      ],
+      "perdedores": [
+        "Consumidores finales (sin impacto directo en la factura eléctrica)",
+        "Transparencia pública (al desconocerse el nuevo destino de los fondos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Subvenciones y Energía",
+    "banderas_rojas": [
+      "Destino incierto de los remanentes recuperados",
+      "Falta de concurrencia competitiva en las subvenciones originales",
+      "Gestión de intereses financieros (525M€) sin detalle de beneficiario final",
+      "Uso de la 'vía de urgencia' para modificar repartos presupuestarios"
+    ]
+  },
+  "tweeted": false
+}
