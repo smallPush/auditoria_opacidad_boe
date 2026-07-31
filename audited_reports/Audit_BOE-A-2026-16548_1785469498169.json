@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16548",
+  "timestamp": "2026-07-31T03:44:58.169Z",
+  "title": "Real Decreto 632/2026, de 29 de julio, por el que se modifica el anexo del Real Decreto 1851/2009, de 4 de diciembre, por el que se desarrolla el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en cuanto a la anticipación de la jubilación de las personas trabajadoras con discapacidad en grado igual o superior al 45 por ciento.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El Real Decreto 632/2026 realiza una actualización necesaria del catálogo de patologías para la jubilación anticipada, corrigiendo una rigidez histórica. La norma es técnicamente sólida al basarse en criterios de esperanza de vida contrastados por una Comisión Técnica. Sin embargo, la 'opacidad' reside en el proceso de selección: aunque se mencionan informes médicos, el ciudadano no tiene acceso directo a por qué unas enfermedades entran y otras son 'inadmitidas' por la Dirección General. Además, no se incluye una memoria de impacto económico sobre la sostenibilidad de la Seguridad Social a largo plazo por estas nuevas jubilaciones.",
+    "resumen_ciudadano": "Se amplía el listado de enfermedades que permiten jubilarse antes a trabajadores con una discapacidad del 45% o más. Entre las nuevas patologías se incluyen el Parkinson, la enfermedad de Huntington, la espina bífida y la enfermedad renal crónica avanzada. También se reconoce la jubilación anticipada para lesiones medulares no causadas por accidentes (etiología no traumática).",
+    "resumen_tweet": "📢 ¡Avance en derechos! El #BOE amplía las patologías para la jubilación anticipada con 45% de discapacidad. Se suman Parkinson, Huntington y más. ♿️ Justicia para quienes ven reducida su esperanza de vida. ⚖️ #SeguridadSocial #Discapacidad #Transparencia",
+    "banderas_red_flags": [
+      "Criterios de inadmisión de patologías no detallados en el texto",
+      "Ausencia de desglose presupuestario del impacto en las pensiones",
+      "Dependencia de la agilidad administrativa para reconocer grados de discapacidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores con enfermedades neurodegenerativas",
+        "Personas con enfermedad renal grado G5",
+        "Colectivos de espina bífida",
+        "CERMI (como grupo de presión)"
+      ],
+      "perdedores": [
+        "Presupuesto de la Seguridad Social (mayor gasto pasivo)",
+        "Trabajadores con patologías graves aún no catalogadas por la Comisión Técnica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto",
+    "banderas_rojas": [
+      "Criterios de inadmisión de patologías no detallados en el texto",
+      "Ausencia de desglose presupuestario del impacto en las pensiones",
+      "Dependencia de la agilidad administrativa para reconocer grados de discapacidad"
+    ]
+  },
+  "tweeted": false
+}
