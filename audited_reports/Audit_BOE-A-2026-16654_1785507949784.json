@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16654",
+  "timestamp": "2026-07-31T14:25:49.784Z",
+  "title": "Ley 3/2026, de 29 de julio, de modificación de normas sobre el programa de cribado neonatal del Sistema Nacional de Salud y de otra normativa.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Ley 3/2026 presenta una dualidad contradictoria. Mientras avanza en la equidad sanitaria al homogeneizar el cribado neonatal (prueba del talón) en toda España, introduce una reforma de opacidad sistémica en el sector farmacéutico. El Artículo Tercero blinda por ley la confidencialidad de los precios de los medicamentos y los acuerdos de financiación. Esto significa que el Estado legaliza el secreto sobre el uso de fondos públicos en la compra de fármacos, limitando el acceso a la información incluso si hay fondos públicos o filantrópicos involucrados en la investigación de dichos productos. Es un caso claro de 'lavado de transparencia' donde una mejora social se usa como vehículo para una restricción de derechos de fiscalización.",
+    "resumen_ciudadano": "Se mejora la prueba del talón para recién nacidos, asegurando que todos los bebés en España tengan acceso a las mismas detecciones de enfermedades independientemente de su región. No obstante, la ley incluye una 'trampa' de opacidad: a partir de ahora, los contratos y los precios reales que el Gobierno paga a las farmacéuticas por los medicamentos serán secretos por ley, impidiendo que los ciudadanos sepamos si se está pagando un precio justo o excesivo.",
+    "resumen_tweet": "Nueva Ley 3/2026: Mejora el cribado neonatal para bebés 👶, PERO blinda el secreto sobre cuánto pagamos por los medicamentos 💊. Sanidad prohíbe revelar precios reales de fármacos. ¡Más salud, menos transparencia! 🕵️‍♂️ #BOE #Opacidad #Transparencia #Salud",
+    "banderas_red_flags": [
+      "Blindaje legal de la confidencialidad de precios de fármacos",
+      "Restricción de acceso a contratos de suministro público",
+      "Sustitución de datos reales por 'información agregada' para el público",
+      "Ausencia de memoria económica específica para la ampliación de cribados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria Farmacéutica (protección de márgenes de beneficio)",
+        "Familias en comunidades autónomas con servicios de cribado antes deficientes"
+      ],
+      "perdedores": [
+        "Contribuyentes (imposibilidad de auditar el gasto farmacéutico)",
+        "Organizaciones pro-transparencia",
+        "Sostenibilidad del sistema por falta de comparativa pública de precios"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Sanidad y Opacidad Administrativa",
+    "banderas_rojas": [
+      "Blindaje legal de la confidencialidad de precios de fármacos",
+      "Restricción de acceso a contratos de suministro público",
+      "Sustitución de datos reales por 'información agregada' para el público",
+      "Ausencia de memoria económica específica para la ampliación de cribados"
+    ]
+  },
+  "tweeted": false
+}
