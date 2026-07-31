@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16655",
+  "timestamp": "2026-07-31T14:28:26.015Z",
+  "title": "Orden DEF/787/2026, de 23 de julio, por la que se modifica la Orden DEF/253/2015, de 9 de febrero, por la que se regula el régimen de vacaciones, permisos, reducciones de jornada y licencias de los miembros de las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La norma adapta el régimen militar al civil (TREBEP) y a directivas europeas. Destaca la ampliación a 19 semanas por nacimiento (32 para familias monoparentales) y la inclusión de víctimas de violencia sexual. No obstante, el 'permiso parental' de 8 semanas se establece como NO retribuido, lo que genera una barrera de clase: solo militares con ahorros podrán conciliar realmente. Además, se mantiene la cláusula de 'necesidades del servicio' y la potestad de los Jefes de UCO para aplazar permisos, lo que permite una opacidad interpretativa y discrecionalidad que puede anular los derechos sobre el papel.",
+    "resumen_ciudadano": "El Ministerio de Defensa actualiza los permisos para militares: 19 semanas por hijo (32 si es solo un progenitor), protección a víctimas de violencia sexual y permisos para donantes de órganos. Se aclara que no se descontará sueldo tras guardias o maniobras en jornadas reducidas.",
+    "resumen_tweet": "🚨 Nuevo #BOE: Defensa amplía permisos por hijo a 19 semanas (32 para monoparentales) y protege a víctimas de violencia sexual. 🤱 Pero ¡CUIDADO!: el permiso parental de 8 semanas NO es pagado. ¿Conciliación o postureo económico? 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Permiso parental no retribuido (barrera socioeconómica)",
+      "Cláusula de 'necesidades del servicio' como limitador discrecional",
+      "Potestad del Jefe de UCO para aplazar permisos por 'funcionamiento de la unidad'",
+      "Ambigüedad en el régimen de jornada a tiempo parcial bajo criterio reglamentario futuro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias monoparentales (32 semanas de permiso)",
+        "Víctimas de violencia sexual (equiparación de derechos)",
+        "Donantes de órganos (permiso para actos preparatorios)"
+      ],
+      "perdedores": [
+        "Militares de baja escala salarial (no pueden permitirse permisos sin sueldo)",
+        "Personal en unidades operativas críticas (sujetos a discrecionalidad del mando)",
+        "Conciliación real efectiva (supeditada a la disponibilidad presupuestaria del individuo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Derechos Laborales / Defensa",
+    "banderas_rojas": [
+      "Permiso parental no retribuido (barrera socioeconómica)",
+      "Cláusula de 'necesidades del servicio' como limitador discrecional",
+      "Potestad del Jefe de UCO para aplazar permisos por 'funcionamiento de la unidad'",
+      "Ambigüedad en el régimen de jornada a tiempo parcial bajo criterio reglamentario futuro"
+    ]
+  },
+  "tweeted": false
+}
