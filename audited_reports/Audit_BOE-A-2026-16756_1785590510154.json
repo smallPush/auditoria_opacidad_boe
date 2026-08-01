@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16756",
+  "timestamp": "2026-08-01T13:21:50.154Z",
+  "title": "Resolución de 31 de julio de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución actúa como un mero tablón de anuncios para los intereses de la industria tabaquera bajo el amparo de la Ley 13/1998. Aunque los precios son explícitos, el proceso de fijación ('propuestos por fabricantes e importadores') es opaco y carece de una justificación sanitaria o social. Se observa una contradicción entre la retórica de salud pública estatal y la facilitación administrativa de un mercado de lujo (cigarros de 60€/unidad) y un mercado de bajo coste en territorios de régimen especial (Ceuta/Melilla), donde los precios son hasta un 42% menores que en la península.",
+    "resumen_ciudadano": "Actualización oficial de los precios de venta al público para diversas marcas de tabaco, puros y picadura. Los precios varían significativamente según la ubicación geográfica, manteniendo a Ceuta y Melilla con impuestos y precios mucho más bajos que el resto de España.",
+    "resumen_tweet": "🚬 Nueva subida/fijación de precios del tabaco en el #BOE. Mientras la salud pública se promociona, el Estado gestiona un mercado con puros de 60€ y cajetillas a mitad de precio en Ceuta y Melilla. ¿Recaudación o salud? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fijación de precios delegada en propuestas de fabricantes",
+      "Inexistencia de mención a objetivos de salud pública",
+      "Brecha de precios geográfica extrema (Península vs Ceuta/Melilla)",
+      "Fomento de un monopolio estatal anacrónico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes tabaqueras (Big Chief, Philip Morris, Eiroa)",
+        "Ministerio de Hacienda (vía impuestos especiales)",
+        "Consumidores de lujo (acceso a labores exclusivas)"
+      ],
+      "perdedores": [
+        "Sistema Público de Salud (externalidades negativas del tabaquismo)",
+        "Ciudadanos de la Península (mayor carga impositiva en comparación con territorios extrapeninsulares)",
+        "Lógica de coherencia antitabaco del Gobierno"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Fijación de precios delegada en propuestas de fabricantes",
+      "Inexistencia de mención a objetivos de salud pública",
+      "Brecha de precios geográfica extrema (Península vs Ceuta/Melilla)",
+      "Fomento de un monopolio estatal anacrónico"
+    ]
+  },
+  "tweeted": false
+}
