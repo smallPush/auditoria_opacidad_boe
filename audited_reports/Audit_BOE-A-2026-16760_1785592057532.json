@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16760",
+  "timestamp": "2026-08-01T13:47:37.532Z",
+  "title": "Resolución de 28 de julio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 4 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oficializa el uso del sistema de 'libre designación' para cubrir puestos técnicos (Nivel 22) en el Departamento de Seguridad Nacional, un área crítica bajo la Presidencia del Gobierno. Aunque legal, este procedimiento permite la discrecionalidad en la selección, alejándose de los principios de concurso público basados estrictamente en méritos competitivos. Se observa una adjudicación parcial, lo que fragmenta el control de los nombramientos en el tiempo.",
+    "resumen_ciudadano": "El Gobierno ha seleccionado a tres técnicos de comunicaciones para el Departamento de Seguridad Nacional mediante el sistema de libre designación (a dedo). Los puestos, con sede en Madrid y nivel 22, han sido asignados a tres hombres, reforzando la estructura técnica del Gabinete de Presidencia sin un proceso de oposición tradicional.",
+    "resumen_tweet": "🚩 El Gabinete de Presidencia adjudica 'a dedo' puestos técnicos en Seguridad Nacional. Tres nombramientos por libre designación, todos hombres. ¿Mérito o confianza política en áreas críticas de comunicaciones? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos técnicos de nivel medio",
+      "Adjudicación parcial que dificulta la fiscalización total",
+      "Ausencia de mujeres en esta tanda de nombramientos técnicos",
+      "Concentración de poder en la Secretaría General de la Presidencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adjudicatarios seleccionados por discrecionalidad",
+        "Gabinete de la Presidencia (refuerza control interno)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran por concurso",
+        "Transparencia en el acceso a la función pública",
+        "Paridad de género en puestos de seguridad técnica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos técnicos de nivel medio",
+      "Adjudicación parcial que dificulta la fiscalización total",
+      "Ausencia de mujeres en esta tanda de nombramientos técnicos",
+      "Concentración de poder en la Secretaría General de la Presidencia"
+    ]
+  },
+  "tweeted": false
+}
