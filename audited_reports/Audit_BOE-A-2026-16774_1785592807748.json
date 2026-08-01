@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16774",
+  "timestamp": "2026-08-01T14:00:07.748Z",
+  "title": "Orden TDF/807/2026, de 28 de julio, por la que se publica la relación de personas aprobadas en las pruebas selectivas para el acceso, por el sistema general de acceso libre, en la Subescala de Intervención-Tesorería, categoría de Entrada, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Orden TDF/568/2025, de 2 de junio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es una resolución estándar de aprobados para la Subescala de Intervención-Tesorería. Aunque cumple con la publicidad de notas, la opacidad reside en la barrera de entrada: estas oposiciones de élite requieren años de preparación privada, lo que supone un sesgo de clase. Destaca que, a pesar de existir un cupo de reserva para discapacidad (CRD), ninguna de las 52 plazas publicadas en esta lista parece haber sido asignada bajo este criterio, lo que pone en duda la efectividad de las políticas de inclusión en los altos cuerpos de la administración. Asimismo, la exigencia de copias físicas para títulos anteriores a 1996 contradice el espíritu de 'Transformación Digital' del propio ministerio.",
+    "resumen_ciudadano": "Se publica la lista definitiva de los 52 nuevos funcionarios que vigilarán las cuentas de los ayuntamientos (Interventores y Tesoreros). Se abre ahora un plazo de 20 días para que presenten su documentación y sean nombrados funcionarios en prácticas. Estos profesionales son cruciales para el control del gasto público local.",
+    "resumen_tweet": "📜 Publicada la lista de los nuevos guardianes de las cuentas municipales (Intervención-Tesorería). 52 plazas que controlarán el dinero local. 🛑 Ojo: el cupo de discapacidad parece vacío. ¿Inclusión real o fachada? #BOE #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia de aspirantes en el cupo de reserva de discapacidad (CRD) en los resultados publicados",
+      "Incoherencia tecnológica: exigencia de títulos en papel para graduados pre-1996",
+      "Alta concentración de apellidos que sugieren endogamia o sesgo socioeconómico en cuerpos de élite"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Val Marcén (n.º 1 de la promoción)",
+        "Ministerio para la Transformación Digital (refuerza el control sobre las entidades locales)",
+        "Academias de preparación de oposiciones de alto nivel"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad (sin representación visible en esta lista)",
+        "Clases trabajadoras (barrera de entrada por tiempo y coste de preparación de la oposición)",
+        "Administración Local (dependencia de habilitados nacionales seleccionados por el Estado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Ausencia de aspirantes en el cupo de reserva de discapacidad (CRD) en los resultados publicados",
+      "Incoherencia tecnológica: exigencia de títulos en papel para graduados pre-1996",
+      "Alta concentración de apellidos que sugieren endogamia o sesgo socioeconómico en cuerpos de élite"
+    ]
+  },
+  "tweeted": false
+}
