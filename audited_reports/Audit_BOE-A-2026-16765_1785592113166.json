@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16765",
+  "timestamp": "2026-08-01T13:48:33.166Z",
+  "title": "Resolución de 21 de julio de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la estabilización de personal docente e investigador bajo la LOSU. Aunque cumple la legalidad, el documento es opaco respecto a los criterios de selección aplicados por las comisiones y los costes asociados al proceso de concurso. Se observa un impacto de género positivo en un área tradicionalmente masculinizada (Informática), con un 66% de mujeres nombradas.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha formalizado el nombramiento de tres nuevos Profesores Titulares en el área de Lenguajes y Sistemas Informáticos tras superar un concurso de acceso. Este trámite otorga la condición de funcionario de carrera a los docentes seleccionados.",
+    "resumen_tweet": "🎓 La Universidad de Sevilla nombra 3 titulares en Informática. 2 de 3 son mujeres: avance real en STEM 💻. Sin embargo, la opacidad en los baremos de las comisiones de selección persiste. #BOE #Opacidad #Transparencia #Universidad #Sevilla 🏛️",
+    "banderas_red_flags": [
+      "Falta de publicidad de las actas de baremación en el extracto",
+      "Inexistencia de desglose presupuestario del coste del proceso administrativo",
+      "Mención genérica a comisiones sin identificar a sus miembros en este anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (obtención de plaza fija)",
+        "Área de Lenguajes y Sistemas Informáticos (estabilidad de plantilla)",
+        "Representación femenina en disciplinas tecnológicas"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada por posible endogamia)",
+        "Personal interino o sustituto desplazado",
+        "Transparencia pública (por falta de detalle en los méritos comparativos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Falta de publicidad de las actas de baremación en el extracto",
+      "Inexistencia de desglose presupuestario del coste del proceso administrativo",
+      "Mención genérica a comisiones sin identificar a sus miembros en este anuncio"
+    ]
+  },
+  "tweeted": false
+}
