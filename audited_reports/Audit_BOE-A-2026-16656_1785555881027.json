@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-16656",
+  "timestamp": "2026-08-01T03:44:41.027Z",
+  "title": "Real Decreto 635/2026, de 29 de julio, por el que se regula la concesión directa de subvenciones en determinados ámbitos de actuación del Ministerio del Interior.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 635/2026 perpetúa la práctica de 'concesión directa' de subvenciones, una vía excepcional que se ha convertido en norma para eludir la concurrencia competitiva. Bajo el paraguas del 'interés público', el Ministerio del Interior financia una red de entidades que ya forman parte del tejido institucional, incluyendo fundaciones propias de los cuerpos de seguridad y organizaciones religiosas. Esta estructura crea una dependencia financiera que dificulta la auditoría externa y bloquea la entrada de nuevas organizaciones civiles con posibles mejores ratios de eficiencia.",
+    "resumen_ciudadano": "El Gobierno ha aprobado ayudas directas (sin concurso público) para diversas organizaciones. Entre los beneficiarios están la Cruz Roja, la Iglesia Católica y la Comisión Islámica para asistencia en cárceles, así como fundaciones vinculadas directamente a la Policía Nacional y la Guardia Civil para gastos sociales, deportivos y de huérfanos. También se financia a la Fundación ANAR para el teléfono de niños desaparecidos y a la UNED para la educación de presos.",
+    "resumen_tweet": "🚨 El Gobierno reparte fondos 'a dedo' mediante el RD 635/2026. Se elude la competencia pública para financiar fundaciones policiales, entidades religiosas y Cruz Roja. ¿Interés público o red de favores institucionalizada? 🕵️‍♂️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva (dedazo)",
+      "Financiación de fundaciones internas ligadas al propio Ministerio",
+      "Subvenciones nominativas recurrentes que deberían ser presupuestarias",
+      "Externalización de servicios básicos de seguridad y reinserción en entidades religiosas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Conferencia Episcopal Española",
+        "Comisión Islámica de España",
+        "Fundación Guardia Civil",
+        "Cruz Roja Española",
+        "Fundación Huérfanos de la Policía Nacional",
+        "UNED"
+      ],
+      "perdedores": [
+        "Pequeñas ONGs sin convenios históricos",
+        "Sectores sociales laicos",
+        "Contribuyentes (por falta de optimización de costes mediante licitación)",
+        "Transparencia en la gestión de fondos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva (dedazo)",
+      "Financiación de fundaciones internas ligadas al propio Ministerio",
+      "Subvenciones nominativas recurrentes que deberían ser presupuestarias",
+      "Externalización de servicios básicos de seguridad y reinserción en entidades religiosas"
+    ]
+  },
+  "tweeted": false
+}
