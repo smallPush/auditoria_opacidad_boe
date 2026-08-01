@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16669",
+  "timestamp": "2026-08-01T03:52:20.469Z",
+  "title": "Real Decreto 680/2026, de 29 de julio, por el que se adjudica en propiedad la plaza de Magistrada de la Sala de lo Social del Tribunal Superior de Justicia del País Vasco a doña Garbiñe Biurrun Mancisidor.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 680/2026 utiliza una redacción técnica que oculta privilegios corporativos bajo la apariencia de un trámite ordinario. Aunque se basa en la LOPJ, la concesión de una 'preferencia' durante dos años para cualquier otra plaza en concurso voluntario crea una ventaja competitiva blindada frente a otros profesionales del sector. No se especifican los méritos concretos en el extracto, solo el acuerdo de la Comisión Permanente, lo que mantiene la opacidad sobre los criterios de idoneidad frente a otros candidatos.",
+    "resumen_ciudadano": "Se otorga la plaza definitiva como Magistrada de la Sala de lo Social en el País Vasco a Garbiñe Biurrun Mancisidor. El nombramiento incluye una cláusula especial: tendrá prioridad absoluta sobre otros jueces para elegir nuevas plazas durante los próximos dos años, una ventaja de movilidad que no existe en el mercado laboral común.",
+    "resumen_tweet": "⚖️ Adjudicada plaza de magistrada en el TSJ del País Vasco. Lo llamativo: se le otorga un 'blindaje' de preferencia para futuros traslados durante 2 años. Beneficios de élite judicial en el #BOE. 🚩 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Cláusula de preferencia de 2 años (ventaja competitiva interna)",
+      "Dependencia de la toma de posesión de un tercero para la efectividad",
+      "Falta de desglose de méritos en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Garbiñe Biurrun Mancisidor (obtiene plaza en propiedad y derecho preferente)",
+        "Juan Carlos Benito-Butrón Ochoa (consolida su presidencia de sala)"
+      ],
+      "perdedores": [
+        "Magistrados de carrera sin derechos de preferencia especiales",
+        "Principio de igualdad total en el acceso a vacantes por concurso"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de la Judicatura",
+    "banderas_rojas": [
+      "Cláusula de preferencia de 2 años (ventaja competitiva interna)",
+      "Dependencia de la toma de posesión de un tercero para la efectividad",
+      "Falta de desglose de méritos en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
