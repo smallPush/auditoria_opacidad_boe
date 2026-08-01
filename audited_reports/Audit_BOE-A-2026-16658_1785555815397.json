@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16658",
+  "timestamp": "2026-08-01T03:43:35.397Z",
+  "title": "Orden TRM/789/2026, de 20 de julio, por la que se modifican las tarifas de referencia de las obligaciones de servicio público establecidas en el Acuerdo del Consejo de Ministros de 2 de junio de 2006, por el que se declaran obligaciones de servicio público en rutas aéreas entre las Islas Canarias.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden TRM/789/2026 incrementa las tarifas de referencia en las rutas aéreas interinsulares de Canarias bajo una justificación genérica de 'incremento de costes operativos'. No se adjunta ni se hace referencia a un informe técnico desglosado que cuantifique dichos costes ni por qué se han disparado específicamente en este periodo. Al subir la tarifa de referencia, se aumenta automáticamente el techo del gasto público, ya que el Estado subvenciona el 75% del billete a residentes. Esto constituye una transferencia de fondos públicos a aerolíneas privadas sin una fiscalización ciudadana clara del coste real por asiento.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha subido los precios de referencia para los vuelos entre las islas Canarias (por ejemplo, Gran Canaria-El Hierro sube a 133€). El argumento es que a las aerolíneas les sale más caro operar. Esta subida afecta directamente a quienes no son residentes (que pagan el precio íntegro) y de forma indirecta a todos los contribuyentes, ya que la subvención del 75% para residentes se calculará ahora sobre una base más cara.",
+    "resumen_tweet": "🚨 Subida de PRECIOS en vuelos de Canarias. El @transportesgob eleva tarifas citando 'costes' sin mostrar la auditoría. Más dinero público para las aerolíneas vía subvenciones. 💸✈️ #BOE #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Falta de desglose de costes operativos reales de las aerolíneas",
+      "Recurrencia de modificaciones tarifarias (tercera actualización en pocos años)",
+      "Uso de conceptos económicos vagos como 'situación económica general'",
+      "Aumento del gasto público implícito sin debate presupuestario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Compañías aéreas (aseguran margen de beneficio)",
+        "Ministerio de Transportes (evita huelgas o cancelaciones de rutas)"
+      ],
+      "perdedores": [
+        "Viajeros no residentes (pagan el precio total inflado)",
+        "Contribuyentes (mayor gasto en la partida de subvenciones al transporte)",
+        "Pequeñas empresas canarias con movilidad interinsular"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Regulación de Precios y Transporte",
+    "banderas_rojas": [
+      "Falta de desglose de costes operativos reales de las aerolíneas",
+      "Recurrencia de modificaciones tarifarias (tercera actualización en pocos años)",
+      "Uso de conceptos económicos vagos como 'situación económica general'",
+      "Aumento del gasto público implícito sin debate presupuestario"
+    ]
+  },
+  "tweeted": false
+}
