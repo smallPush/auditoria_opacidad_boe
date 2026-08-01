@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16758",
+  "timestamp": "2026-08-01T13:44:27.212Z",
+  "title": "Resolución ISP/1933/2026, de 15 de junio, de modificación de la Resolución ISP/300/2026, de 6 de febrero, por la que se establecen las restricciones a la circulación durante el año 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se presenta como una corrección técnica de seguridad vial, pero actúa como un manual de logística a medida para el polo petroquímico de Tarragona. Bajo un lenguaje de 'restricciones', se establecen itinerarios preferentes que priorizan la operatividad de grandes corporaciones (citando explícitamente a BASF) por encima de la movilidad ciudadana general. La opacidad reside en el uso masivo de puntos kilométricos y códigos de carreteras que impiden al ciudadano de a pie comprender qué municipios soportarán el tráfico de mercancías peligrosas debido a las 'obras provisionales' mencionadas sin presupuesto ni plazos claros.",
+    "resumen_ciudadano": "Cataluña modifica las rutas y horarios para camiones de mercancías peligrosas en 2026. Se han diseñado trayectos específicos para facilitar la entrada y salida de camiones a la empresa BASF y la refinería de La Pobla de Mafumet, incluyendo desvíos provisionales por obras en carreteras secundarias de Tarragona y cambios en las horas permitidas para circular por la AP-7.",
+    "resumen_tweet": "🚦 Cataluña ajusta el tráfico 2026: rutas a medida para químicas como BASF y desvíos por obras en Tarragona. ¿Seguridad vial o logística industrial privilegiada? 🚛 La opacidad de los puntos kilométricos oculta el impacto vecinal. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Mención explícita de beneficios logísticos a una empresa privada (BASF)",
+      "Uso de tecnicismos geográficos para enmascarar el impacto en núcleos urbanos",
+      "Establecimiento de rutas 'provisionales' sin fecha de finalización de obras",
+      "Modificación de horarios de restricción sin estudio de impacto de movilidad previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gran industria química (BASF, Refinería de La Pobla de Mafumet)",
+        "Operadores logísticos de mercancías peligrosas",
+        "Puerto de Tarragona"
+      ],
+      "perdedores": [
+        "Vecinos de La Canonja y Vila-seca (mayor exposición a tráfico pesado)",
+        "Conductores particulares en la AP-7 y C-31B (nuevas restricciones horarias)",
+        "Municipios afectados por rutas provisionales no consultadas"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Tráfico / Logística Industrial",
+    "banderas_rojas": [
+      "Mención explícita de beneficios logísticos a una empresa privada (BASF)",
+      "Uso de tecnicismos geográficos para enmascarar el impacto en núcleos urbanos",
+      "Establecimiento de rutas 'provisionales' sin fecha de finalización de obras",
+      "Modificación de horarios de restricción sin estudio de impacto de movilidad previo"
+    ]
+  },
+  "tweeted": false
+}
