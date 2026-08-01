@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16757",
+  "timestamp": "2026-08-01T13:45:24.909Z",
+  "title": "Orden TES/804/2026, de 23 de julio, por la que se aprueba la Política de Seguridad de la Información y de los Servicios en el ámbito de la administración digital del Ministerio de Trabajo y Economía Social y se crea el Comité de Seguridad de las Tecnologías de la Información y las Comunicaciones del departamento.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden TES/804/2026 establece una estructura de mando rígida y centralizada bajo la Subsecretaría de Trabajo. Aunque justifica su existencia en el cumplimiento del Esquema Nacional de Seguridad (ENS), destaca la exención de consulta pública bajo el pretexto de ser una norma 'puramente organizativa'. Esto limita la capacidad de expertos independientes para auditar la robustez de la política antes de su implementación. El Comité (COSTIC) actúa como juez y parte: propone, elabora y aprueba sus propias revisiones, lo que genera un riesgo de complacencia operativa. Además, la mención a 'dotación presupuestaria' para planes de mejora sin límites ni desglose previo en el texto abre la puerta a gastos en consultoría tecnológica difícilmente rastreables por la ciudadanía.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha creado un nuevo 'supercomité' de seguridad informática (COSTIC) para gestionar la protección de tus datos y sistemas. Aunque definen claramente quién es responsable de qué, lo hacen a puerta cerrada sin consulta pública. Se otorgan el poder de aprobar sus propios presupuestos y planes de mejora tecnológica, lo que concentra el control de los contratos de ciberseguridad en unos pocos altos cargos del ministerio.",
+    "resumen_tweet": "🛡️ Nueva Política de Seguridad en Trabajo. Crean el comité COSTIC pero ¡ojo! 👁️ se saltan la consulta pública por ser 'organizativo'. Mucho jefe, poca fiscalización externa y presupuestos por definir. ¿Seguridad o burocracia? 🔒 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Autosupervisión: El comité aprueba sus propias normas y revisiones sin auditoría externa obligatoria mencionada.",
+      "Omisión de consulta pública: Uso de la excepción por 'norma organizativa' para evitar el escrutinio ciudadano.",
+      "Gasto fantasma potencial: El Artículo 7.d menciona dotación presupuestaria para planes de mejora sin especificar cuantías ni criterios de adjudicación.",
+      "Ambigüedad en el 'mínimo privilegio': Se menciona como principio pero la estructura orgánica es altamente jerárquica."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (nuevas competencias y control sobre fondos TIC)",
+        "Empresas de consultoría de ciberseguridad (futuros beneficiarios de los planes de mejora estratégica)"
+      ],
+      "perdedores": [
+        "Ciudadanía (excluida del proceso de consulta)",
+        "Expertos en seguridad independientes (sin cauce de auditoría social sobre la política implementada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Organizativa y Seguridad Digital",
+    "banderas_rojas": [
+      "Autosupervisión: El comité aprueba sus propias normas y revisiones sin auditoría externa obligatoria mencionada.",
+      "Omisión de consulta pública: Uso de la excepción por 'norma organizativa' para evitar el escrutinio ciudadano.",
+      "Gasto fantasma potencial: El Artículo 7.d menciona dotación presupuestaria para planes de mejora sin especificar cuantías ni criterios de adjudicación.",
+      "Ambigüedad en el 'mínimo privilegio': Se menciona como principio pero la estructura orgánica es altamente jerárquica."
+    ]
+  },
+  "tweeted": false
+}
