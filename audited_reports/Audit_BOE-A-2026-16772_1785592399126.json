@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16772",
+  "timestamp": "2026-08-01T13:53:19.126Z",
+  "title": "Orden TDF/805/2026, de 28 de julio, por la que se publica la relación de personas aprobadas en las pruebas selectivas para el acceso, por el sistema general de acceso libre, a la Subescala de Secretaría-Intervención, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Orden TDF/569/2025, de 2 de junio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden publica la lista de aprobados para un cuerpo de élite municipal: Secretarios-Interventores. Aunque el proceso es formalmente transparente, se observa una dilatación temporal significativa (convocatoria en 2025, resolución en 2026), lo que supone una barrera de clase, ya que solo quienes tienen sustento económico pueden dedicar años al estudio sin ingresos. Existe una 'barrera analógica' selectiva: quienes tienen títulos anteriores a 1996 son obligados a aportar copias físicas o electrónicas adicionales, presumiendo una falta de digitalización en registros antiguos. La figura del 'Habilitado Nacional' es clave para el control del gasto local, pero su proceso de selección sigue siendo críptico para el ciudadano de a pie.",
+    "resumen_ciudadano": "Se ha publicado la lista definitiva de las personas que han ganado plaza como secretarios e interventores en ayuntamientos. Estos funcionarios son los encargados de vigilar que el dinero de tu municipio se gaste legalmente. El documento incluye sus notas y los pasos que deben dar ahora para empezar a trabajar como funcionarios en prácticas.",
+    "resumen_tweet": "📢 Publicada la lista de los nuevos 'guardianes' de las cuentas municipales. 🏦 Tras más de un año de proceso, estos funcionarios controlarán la legalidad del gasto en tus ayuntamientos. ¿Sabes quién vigila tu dinero local? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva entre convocatoria (2025) y resolución (2026)",
+      "Uso de acrónimos no explicados en el texto (CRD) que dificultan la comprensión ciudadana",
+      "Trato diferenciado y carga burocrática extra para titulados anteriores a 1996"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "96 nuevos funcionarios (estabilidad laboral de por vida)",
+        "Academias de preparación de oposiciones",
+        "Perfiles con alto capital socioeconómico capaces de costear años de estudio"
+      ],
+      "perdedores": [
+        "Aspirantes con menos recursos económicos para sostener una oposición larga",
+        "Municipios pequeños que sufren la rotación de estos funcionarios de élite",
+        "Transparencia digital (por la exclusión de títulos antiguos del cruce de datos automático)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva entre convocatoria (2025) y resolución (2026)",
+      "Uso de acrónimos no explicados en el texto (CRD) que dificultan la comprensión ciudadana",
+      "Trato diferenciado y carga burocrática extra para titulados anteriores a 1996"
+    ]
+  },
+  "tweeted": false
+}
