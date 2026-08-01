@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16759",
+  "timestamp": "2026-08-01T13:46:39.977Z",
+  "title": "Acuerdo de 7 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Piedad Marín Sánchez.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Aunque se trata de un procedimiento administrativo estándar, el documento adolece de una opacidad estructural característica en la administración pública: la falta de transparencia en el impacto presupuestario. Se menciona la concesión de 'derechos pasivos' (pensión) bajo el régimen de Clases Pasivas del Estado, pero no se desglosa el coste actuarial o mensual para el erario público. Este tipo de jubilaciones voluntarias en la élite judicial subrayan la persistencia de un régimen previsional privilegiado y diferenciado del de la mayoría de los ciudadanos.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial formaliza la jubilación voluntaria de una magistrada destinada en Palma. El trámite es legalmente correcto, pero oculta la información económica relevante para el contribuyente: el importe de la pensión vitalicia que se financiará con fondos públicos.",
+    "resumen_tweet": "⚖️ El #BOE publica la jubilación voluntaria de una magistrada en Palma. Trámite legal pero con #Opacidad económica: ¿Cuál es el coste real para las arcas públicas? El sistema de Clases Pasivas sigue siendo una caja negra. 💸 #Transparencia #CGPJ",
+    "banderas_red_flags": [
+      "Carencia de desglose económico de la pensión",
+      "Uso de terminología técnica para enmascarar costes públicos",
+      "Falta de justificación del impacto presupuestario de la vacante"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a jubilación voluntaria con derechos de élite)",
+        "Nueva promoción de jueces (posibilidad de ascenso a plaza vacante)"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostienen el régimen especial de Clases Pasivas)",
+        "Sistema de transparencia (ausencia de datos fiscales en el nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Islas Baleares",
+    "tipologia": "Recursos Humanos Judiciales",
+    "banderas_rojas": [
+      "Carencia de desglose económico de la pensión",
+      "Uso de terminología técnica para enmascarar costes públicos",
+      "Falta de justificación del impacto presupuestario de la vacante"
+    ]
+  },
+  "tweeted": false
+}
