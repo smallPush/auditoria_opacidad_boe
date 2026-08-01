@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16775",
+  "timestamp": "2026-08-01T13:55:44.020Z",
+  "title": "Resolución de 27 de julio de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución convoca un puesto de trabajo en la CNMC mediante el sistema de 'libre designación', un mecanismo que permite la selección discrecional por parte de los superiores. Aunque se requiere que los aspirantes sean funcionarios, este método es frecuentemente criticado por eludir los principios de mérito y capacidad en favor de la 'confianza personal', facilitando posibles casos de clientelismo dentro de la administración pública.",
+    "resumen_ciudadano": "La CNMC ofrece un puesto de secretario/a en Madrid para funcionarios con un complemento de 8.831,48 euros. Al ser una plaza de libre designación, el proceso de selección es subjetivo: el jefe elige directamente al candidato que prefiere de entre los que se presenten, sin un examen o baremo de puntos público y rígido.",
+    "resumen_tweet": "🧐 ¿Mérito o confianza? La CNMC convoca una plaza de Secretaría en Madrid por 'Libre Designación'. El sistema permite elegir 'a dedo' entre funcionarios, reduciendo la transparencia en el acceso a puestos clave. 📉 #BOE #Opacidad #Transparencia #CNMC",
+    "banderas_red_flags": [
+      "Libre designación (Adjudicación discrecional)",
+      "Posible arbitrariedad en la selección",
+      "Uso de cargos de confianza en organismos reguladores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con vínculos de confianza con la dirección de la CNMC",
+        "Altos cargos (mayor control sobre su equipo cercano)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayor mérito pero sin contactos",
+        "Sistema de mérito y capacidad",
+        "Cultura de transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de Puestos de Trabajo",
+    "banderas_rojas": [
+      "Libre designación (Adjudicación discrecional)",
+      "Posible arbitrariedad en la selección",
+      "Uso de cargos de confianza en organismos reguladores"
+    ]
+  },
+  "tweeted": false
+}
