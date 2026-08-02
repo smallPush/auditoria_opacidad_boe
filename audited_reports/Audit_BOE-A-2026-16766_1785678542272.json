@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16766",
+  "timestamp": "2026-08-02T13:49:02.272Z",
+  "title": "Resolución de 22 de julio de 2026, la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Edorta Santos Vizcaino.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en la escala docente universitaria. Aunque el proceso sigue la normativa de la LOSU (Ley Orgánica 2/2023), el BOE solo publica el resultado final y no el desglose de méritos ni la baremación de la comisión, ocultando la trazabilidad del proceso selectivo frente a la ciudadanía. Se observa un código de plaza específico (TUC8/1-D00101-36) que, si bien individualiza el puesto, no ofrece información sobre el coste salarial anual total que asumirá el erario público por esta plaza vitalicia.",
+    "resumen_ciudadano": "La Universidad del País Vasco nombra a Edorta Santos Vizcaino como Profesor Titular en el área de Farmacia y Tecnología Farmacéutica. Este es un cargo permanente con dedicación completa en la Facultad de Farmacia tras superar un concurso de acceso convocado en 2025.",
+    "resumen_tweet": "🎓 Nuevo profesor titular vitalicio en la UPV/EHU: Edorta Santos Vizcaino se hace con la plaza de Farmacia. El #BOE publica el nombre pero no el sueldo ni los méritos detallados. ¿Transparencia o simple burocracia? 🏛️⚖️ #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de información presupuestaria sobre el coste de la plaza",
+      "Falta de publicación de las actas de baremación en el extracto",
+      "Riesgo estructural de endogamia académica común en procesos internos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Edorta Santos Vizcaino (estabilidad laboral vitalicia)",
+        "Universidad del País Vasco (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información de plazas específicas",
+        "Contribuyentes (por opacidad en la eficiencia del gasto de personal docente)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de información presupuestaria sobre el coste de la plaza",
+      "Falta de publicación de las actas de baremación en el extracto",
+      "Riesgo estructural de endogamia académica común en procesos internos"
+    ]
+  },
+  "tweeted": false
+}
