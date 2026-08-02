@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16771",
+  "timestamp": "2026-08-02T03:48:53.740Z",
+  "title": "Resolución de 28 de julio de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite el nombramiento discrecional ('a dedo') de funcionarios. Es especialmente llamativo que en el Anexo I, la columna de 'Méritos a valorar' para un puesto de Nivel 30 (el máximo en la administración) y un Nivel 16 esté completamente vacía, lo que imposibilita cualquier control ciudadano o técnico sobre la idoneidad de los candidatos frente a la mera afinidad personal o política.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial convoca dos puestos de trabajo en Córdoba y Oviedo (un Secretario General y una Secretaría de Subdelegado) donde el factor determinante no será un examen o méritos puntuables objetivos, sino la elección directa por parte de los superiores. Se ofrecen complementos específicos de hasta 30.436 euros anuales en el caso del puesto de Oviedo.",
+    "resumen_tweet": "Nuevo reparto de puestos 'a dedo' en el #BOE. Libre designación para un Nivel 30 en Oviedo y una secretaría en Córdoba. Sin méritos específicos detallados: la confianza política prima sobre la transparencia. 🕵️‍♂️🇪🇸 #Opacidad #Transparencia #Administración",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos de alta remuneración",
+      "Ausencia total de criterios de mérito específicos en la tabla anexa",
+      "Convocatoria en periodo estival (agosto) para procesos de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con perfiles de confianza política",
+        "Estructuras de libre designación del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera basados exclusivamente en el mérito y capacidad",
+        "Transparencia en la gestión de fondos públicos",
+        "Ciudadanía que exige una administración despolitizada"
+      ]
+    },
+    "comunidad_autonoma": "Multiregional (Andalucía y Asturias)",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos de alta remuneración",
+      "Ausencia total de criterios de mérito específicos en la tabla anexa",
+      "Convocatoria en periodo estival (agosto) para procesos de selección"
+    ]
+  },
+  "tweeted": false
+}
