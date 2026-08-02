@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16768",
+  "timestamp": "2026-08-02T13:51:20.875Z",
+  "title": "Resolución de 23 de julio de 2026, de la Universidad de León, por la que se nombra Profesora Titular de Universidad a doña Inés Casado Verdejo.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para consolidar una plaza de funcionaria de carrera en la Universidad de León. Aunque cumple estrictamente con la Ley Orgánica 2/2023 (LOSU), la publicación en el mes de agosto y la falta de detalle sobre los méritos competitivos de la candidata frente a otros posibles aspirantes subraya la naturaleza endogámica que históricamente afecta a la universidad española. No se detectan gastos fantasma directos, pero sí la perpetuación de una estructura de funcionariado que a menudo prioriza la promoción interna sobre la captación de talento externo.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado oficialmente a una nueva Profesora Titular en el área de Enfermería tras superar el concurso correspondiente. Este es el paso final para que la docente tome posesión de su plaza permanente en el sector público.",
+    "resumen_tweet": "🏥 Nueva plaza fija en la Universidad de León. Inés Casado Verdejo es nombrada Profesora Titular de Enfermería. Un trámite estándar que consolida empleo público, pero ¿favorece el sistema la movilidad real? 🎓 #BOE #Opacidad #Transparencia #León",
+    "banderas_red_flags": [
+      "Publicación en periodo estival (agosto) para reducir visibilidad",
+      "Posible riesgo de endogamia académica estructural",
+      "Falta de desglose presupuestario asociado a la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inés Casado Verdejo (estabilidad laboral)",
+        "Universidad de León (consolidación de plantilla)",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Aspirantes externos a la institución",
+        "Movilidad académica entre comunidades autónomas",
+        "Transparencia en la meritocracia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Publicación en periodo estival (agosto) para reducir visibilidad",
+      "Posible riesgo de endogamia académica estructural",
+      "Falta de desglose presupuestario asociado a la plaza"
+    ]
+  },
+  "tweeted": false
+}
