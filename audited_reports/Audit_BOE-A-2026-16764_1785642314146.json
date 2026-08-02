@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-16764",
+  "timestamp": "2026-08-02T03:45:14.146Z",
+  "title": "Resolución de 21 de julio de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de funcionarias de carrera en la Universidad de Sevilla. La transparencia es alta en cuanto a identidad y base legal, pero nula respecto al impacto presupuestario plurianual que suponen estas plazas vitalicias. Se observa una barrera de acceso digital ('relación electrónica') que puede suponer un obstáculo burocrático para la impugnación de procesos.",
+    "resumen_ciudadano": "La Universidad de Sevilla nombra a dos nuevas Profesoras Titulares en el área de Fisiología Médica tras superar un concurso de acceso. Es un trámite de estabilización de personal docente e investigador bajo la nueva Ley Orgánica del Sistema Universitario (LOSU).",
+    "resumen_tweet": "👩‍🏫 Nuevos nombramientos en la Univ. de Sevilla: 2 plazas de Fisiología consolidadas. Aunque el proceso es estándar, la obligatoriedad digital y la falta de datos sobre coste público total mantienen la opacidad académica. 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Obligatoriedad de relación electrónica para recursos (brecha digital administrativa)",
+      "Inexistencia de memoria económica adjunta al nombramiento",
+      "Remisión a estatutos internos que complican la fiscalización ciudadana"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Muñoz Cabello",
+        "Aída Platero Luengo",
+        "Universidad de Sevilla (estabilización de estructura)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de acceso a plazas de promoción interna)",
+        "Contribuyente (falta de transparencia en el coste de personal a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Obligatoriedad de relación electrónica para recursos (brecha digital administrativa)",
+      "Inexistencia de memoria económica adjunta al nombramiento",
+      "Remisión a estatutos internos que complican la fiscalización ciudadana"
+    ]
+  },
+  "tweeted": false
+}
