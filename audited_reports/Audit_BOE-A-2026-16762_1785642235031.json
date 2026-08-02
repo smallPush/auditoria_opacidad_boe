@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16762",
+  "timestamp": "2026-08-02T03:43:55.031Z",
+  "title": "Resolución de 21 de julio de 2026, de la Universidad de La Laguna, por la que se nombra Catedrático de Universidad don Manuel Jesús Rodríguez Valido.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento de funcionario de carrera (Catedrático). Si bien cumple con la legalidad vigente bajo la LOSU, el BOE solo actúa como tablón de anuncios de una decisión ya tomada. La opacidad reside en el proceso previo: no se detalla si hubo concurrencia competitiva real o si se trata de una promoción interna diseñada a medida. En el ámbito de 'Tecnología Electrónica', el nombramiento de un varón refuerza el techo de cristal en las áreas STEM de alta jerarquía académica.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha nombrado oficialmente a Manuel Jesús Rodríguez Valido como Catedrático en el área de Tecnología Electrónica. Este es el grado más alto en la carrera docente universitaria española y conlleva estabilidad laboral de por vida y un aumento en la escala salarial pública.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Universidad de La Laguna. Manuel J. Rodríguez Valido asume en Tecnología Electrónica. La jerarquía académica STEM sigue dominada por hombres mientras el proceso de selección queda lejos del escrutinio ciudadano. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de información sobre el número de aspirantes en el concurso",
+      "Opacidad en el coste salarial total anual para el contribuyente",
+      "Refuerzo de la brecha de género en cátedras de ingeniería"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Jesús Rodríguez Valido (Estabilidad y estatus)",
+        "Departamento de Ingeniería Industrial (Consolidación de plaza)"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (Persistencia de infrarrepresentación en STEM)",
+        "Transparencia meritocrática (No se publican méritos ni puntuaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Situaciones e Incidencias de Personal",
+    "banderas_rojas": [
+      "Falta de información sobre el número de aspirantes en el concurso",
+      "Opacidad en el coste salarial total anual para el contribuyente",
+      "Refuerzo de la brecha de género en cátedras de ingeniería"
+    ]
+  },
+  "tweeted": false
+}
