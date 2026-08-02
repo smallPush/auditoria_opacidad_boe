@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16761",
+  "timestamp": "2026-08-02T13:47:46.850Z",
+  "title": "Resolución de 21 de julio de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don José Antonio Padilla García.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento representa un tramite administrativo estandar de promocion interna o acceso a la catedra. La opacidad no radica en la ilegalidad, sino en el sistema de plazas 'ad hoc' que suelen caracterizar a la universidad española (endogamia). No se detalla el coste anual total para el erario publico ni la composicion de la comision que evaluo la plaza DF03234, limitando el escrutinio sobre la meritocracia del proceso.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Jose Antonio Padilla Garcia como Catedratico de Lengua Española en la Universidad de Alicante, una posicion vitalicia de alto nivel en el funcionariado docente universitario.",
+    "resumen_tweet": "🎓 Nuevo catedratico en la Univ. de Alicante. El #BOE publica el nombramiento de Jose Antonio Padilla. ¿Meritocracia o endogamia? La falta de detalles sobre los tribunales evaluadores mantiene la sombra en la universidad. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de publicacion de la composicion del tribunal en el extracto",
+      "Ausencia de memoria de costes salariales",
+      "Riesgo estructural de endogamia academica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Antonio Padilla Garcia",
+        "Universidad de Alicante (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos de otras universidades",
+        "Contribuyente (por falta de transparencia en la productividad asociada)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Funcionario de Carrera",
+    "banderas_rojas": [
+      "Falta de publicacion de la composicion del tribunal en el extracto",
+      "Ausencia de memoria de costes salariales",
+      "Riesgo estructural de endogamia academica"
+    ]
+  },
+  "tweeted": false
+}
