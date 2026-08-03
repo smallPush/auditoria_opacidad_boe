@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-16847",
+  "timestamp": "2026-08-03T15:10:16.792Z",
+  "title": "Orden EFD/814/2026, de 22 de julio, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se retrotraen los efectos del nombramiento como funcionaria de carrera del Cuerpo de Maestros a doña Esther García Ibáñez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento expone una rectificación forzosa por vía judicial. Aunque el lenguaje es técnicamente transparente, revela una falla en la gestión de recursos humanos de la Comunidad de Madrid: la necesidad de que una profesional acuda al Tribunal Superior de Justicia (Sentencia 77/2026) para que se le reconozcan méritos en un proceso de estabilización docente. Esto implica una 'opacidad operativa' donde la administración inicialmente deniega derechos legítimos, obligando a judicializar la función pública, lo que genera costes indirectos para el contribuyente y una carga burocrática evitable.",
+    "resumen_ciudadano": "Una maestra de Madrid recupera por orden judicial su antigüedad y derechos desde septiembre de 2023. El Ministerio de Educación se ha visto obligado a corregir su nombramiento tras perder un juicio en el que se reconoció que la docente debía haber sido seleccionada en el concurso de méritos de 2022.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! El TSJ de Madrid obliga a reconocer la antigüedad de una docente desde 2023 tras un error administrativo en el concurso de méritos. La mala gestión obliga a judicializar la educación. #Opacidad #Transparencia #Madrid 🏛️",
+    "banderas_red_flags": [
+      "Judicialización de la estabilización docente",
+      "Retroactividad por error administrativo",
+      "Coste de oportunidad en la gestión de RRHH"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Esther García Ibáñez (recupera antigüedad y escalafón)"
+      ],
+      "perdedores": [
+        "Consejería de Educación de Madrid (reprimenda judicial)",
+        "Ciudadanía (pago de costes administrativos derivados del litigio)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal funcionario / Ejecución de sentencia",
+    "banderas_rojas": [
+      "Judicialización de la estabilización docente",
+      "Retroactividad por error administrativo",
+      "Coste de oportunidad en la gestión de RRHH"
+    ]
+  },
+  "tweeted": false
+}
