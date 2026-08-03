@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16856",
+  "timestamp": "2026-08-03T15:13:15.251Z",
+  "title": "Resolución de 24 de julio de 2026, de la Subsecretaría, por la que se publica la relación de personas aprobadas en la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Astrónomos, convocado por Resolución de 21 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla de forma clara el listado de aprobados para el Cuerpo de Astrónomos. No obstante, desde una perspectiva de inteligencia cívica, destaca la reducida oferta de plazas (5) para un cuerpo estatal técnico de alta especialización. La ubicación de estos funcionarios bajo el Ministerio de Transportes responde a la estructura del Instituto Geográfico Nacional, pero evidencia una fragmentación de la gestión científica en España. Se observa un cumplimiento estricto de la protección de datos y agilidad administrativa al no requerir documentos ya en poder del Estado. El sesgo de clase es inherente: la preparación para este cuerpo exige años de estudio sin ingresos, limitando el acceso a élites académicas con respaldo económico.",
+    "resumen_ciudadano": "Se ha publicado la lista de las 5 personas que han aprobado los exámenes para convertirse en Astrónomos del Estado. Tras superar esta fase, serán nombrados funcionarios en prácticas y deberán realizar un curso selectivo obligatorio antes de ser funcionarios de carrera definitivos. El proceso ha sido gestionado por el Ministerio de Transportes y Movilidad Sostenible.",
+    "resumen_tweet": "🔭 ¿Solo 5 astrónomos nuevos para todo el país? El @transportesgob publica los aprobados del Cuerpo de Astrónomos. Un proceso transparente pero que refleja la mínima inversión en alta escala científica. #BOE #Opacidad #Transparencia #Ciencia #Oposiciones",
+    "banderas_red_flags": [
+      "Baja tasa de reposición (solo 5 plazas)",
+      "Sesgo de clase por alta especialización requerida",
+      "Fragmentación administrativa de la ciencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 5 aspirantes seleccionados",
+        "Ministerio de Transportes (cobertura mínima de puestos)"
+      ],
+      "perdedores": [
+        "Candidatos sin recursos para estudios prolongados",
+        "Soberanía científica nacional por escasa oferta de empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Oposiciones",
+    "banderas_rojas": [
+      "Baja tasa de reposición (solo 5 plazas)",
+      "Sesgo de clase por alta especialización requerida",
+      "Fragmentación administrativa de la ciencia"
+    ]
+  },
+  "tweeted": false
+}
