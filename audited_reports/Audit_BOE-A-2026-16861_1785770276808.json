@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16861",
+  "timestamp": "2026-08-03T15:17:56.808Z",
+  "title": "Resolución de 23 de julio de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en la Intervención General de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el proceso se ajusta a la normativa de función pública, presenta elementos de opacidad técnica. La segunda fase de 'méritos específicos' permite una discrecionalidad que suele favorecer la endogamia administrativa. Además, la validación de cursos queda restringida a un listado interno del Ministerio, limitando la competencia de funcionarios de otros departamentos. La cláusula de conciliación es restrictiva al exigir residencia en el mismo municipio que el puesto de origen, ignorando la realidad de las áreas metropolitanas.",
+    "resumen_ciudadano": "Se convocan 10 plazas de interventores en la Seguridad Social. El sistema de puntos está diseñado para premiar la permanencia y la formación interna controlada por el propio Ministerio, dificultando que personal externo o con perfiles diversos acceda a estos puestos de control financiero.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: 10 plazas en la Seguridad Social. ¿Mérito o endogamia? Reglas de conciliación rígidas y cursos 'a dedo' limitan la competencia real. La élite burocrática se protege. 🚩 #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Segunda fase de méritos específicos con alta carga de subjetividad",
+      "Limitación de cursos baremables a una lista propia del Departamento",
+      "Exigencia de residencia municipal previa para puntos de conciliación",
+      "Uso de 'plazas a resultas' que genera incertidumbre sobre el número final de vacantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con grado personal consolidado alto",
+        "Personal interno del Ministerio de Inclusión",
+        "Sindicatos firmantes de la Mesa General de Negociación"
+      ],
+      "perdedores": [
+        "Funcionarios de otros Ministerios con formación externa",
+        "Personal que necesita conciliar pero vive en municipios periféricos",
+        "Candidatos sin acceso a los planes de formación interna específicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Segunda fase de méritos específicos con alta carga de subjetividad",
+      "Limitación de cursos baremables a una lista propia del Departamento",
+      "Exigencia de residencia municipal previa para puntos de conciliación",
+      "Uso de 'plazas a resultas' que genera incertidumbre sobre el número final de vacantes"
+    ]
+  },
+  "tweeted": false
+}
