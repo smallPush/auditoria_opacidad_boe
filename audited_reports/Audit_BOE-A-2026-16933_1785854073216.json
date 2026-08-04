@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-16933",
+  "timestamp": "2026-08-04T14:34:33.216Z",
+  "title": "Orden PJC/817/2026, de 23 de julio, por la que se nombra personal funcionario de carrera del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, turno libre, por el ámbito de Andalucía, a las personas que superaron el proceso selectivo convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 0.75,
+    "analisis_critico": "La orden formaliza la estabilización de empleo público en Andalucía bajo la Ley 20/2021. Se detecta una incongruencia temporal: los efectos se retrotraen al 9 de febrero de 2026 para igualar a Andalucía con el resto de comunidades, lo que evidencia un retraso administrativo previo en la gestión regional. El proceso, aunque legal, no genera 'empleo nuevo', sino que consolida plazas de interinidad de larga duración, afectando principalmente a mujeres (claro sesgo de género en el listado de aprobados), quienes han sostenido el sistema judicial en condiciones de temporalidad.",
+    "resumen_ciudadano": "Publicación del listado definitivo de personas que pasan a ser funcionarios de carrera en la Administración de Justicia en Andalucía. Este proceso busca reducir la precariedad laboral (interinos) tras años de espera. Incluye una lista de excluidos y una cláusula para compensar económicamente a los nombrados por el retraso en su nombramiento respecto a otras regiones de España.",
+    "resumen_tweet": "⚖️ ¡Justicia para los interinos! El #BOE publica los nuevos funcionarios en Andalucía. Se aplica retroactividad por el retraso frente a otras CCAA. Estabilización necesaria, pero ¿por qué Andalucía siempre llega tarde? #Transparencia #Andalucía",
+    "banderas_red_flags": [
+      "Retraso administrativo regional (Andalucía vs Resto de España)",
+      "Uso de retroactividad para corregir asimetrías territoriales",
+      "Exclusión nominativa de aspirantes por requisitos técnicos",
+      "Proceso de estabilización que no crea empleo neto, solo consolida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos de larga duración (mayoría mujeres)",
+        "Administración de Justicia (reducción de tasa de temporalidad)",
+        "Sindicatos de la función pública"
+      ],
+      "perdedores": [
+        "Aspirantes jóvenes sin méritos previos (dificultad de acceso por concurso)",
+        "Candidatos excluidos (5 personas mencionadas)",
+        "Eficiencia administrativa regional por el retraso detectado"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Retraso administrativo regional (Andalucía vs Resto de España)",
+      "Uso de retroactividad para corregir asimetrías territoriales",
+      "Exclusión nominativa de aspirantes por requisitos técnicos",
+      "Proceso de estabilización que no crea empleo neto, solo consolida"
+    ]
+  },
+  "tweeted": false
+}
