@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-16950",
+  "timestamp": "2026-08-04T14:43:18.048Z",
+  "title": "Resolución 452/38347/2026, de 28 de julio, de la Dirección General de Reclutamiento y Enseñanza Militar, por la que se publica la relación definitiva de personas propuestas para ser nombradas alumnos y alumnas para el ingreso en los centros docentes militares de formación para la incorporación, como militar de carrera o adscripción como militar de complemento, a las Escalas de Oficiales y Escalas Técnicas de los Cuerpos de Ingenieros.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución detalla los seleccionados para el ingreso en las Escalas de Oficiales y Técnicas de Ingenieros de la Defensa. Si bien el proceso de puntuación es público, existe una opacidad intrínseca en la ponderación de méritos específicos y en la gestión de las 'plazas condicionadas' mencionadas en las observaciones. Se observa una persistente mayoría masculina en las especialidades de armamento y mecánica, lo que indica que las políticas de captación de talento femenino en áreas STEM militares aún no logran un equilibrio real. El uso de códigos de plaza y referencias a resoluciones previas dificulta el seguimiento ciudadano de la equidad en el acceso.",
+    "resumen_ciudadano": "Publicación oficial de los nuevos alumnos de ingeniería militar para el Ejército de Tierra, la Armada y el Ejército del Aire. Se establecen las fechas de incorporación en agosto de 2026 y se listan las calificaciones finales. Destaca la inclusión de una plaza condicionada a pruebas adicionales por motivos reglamentarios.",
+    "resumen_tweet": "🎖️ Nuevos ingenieros para la defensa en el #BOE. Publicada la lista de oficiales y técnicos. Vigilamos la 'plaza condicionada' y la brecha de género en cuerpos de armamento. ¿Transparencia total o burocracia militar? 🔧🇪🇸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plaza condicionada por el artículo 18 del RD 309/2021 (posible situación de embarazo o baja no detallada)",
+      "Diferencia notable de puntuaciones mínimas entre especialidades",
+      "Alta concentración de plazas en acceso directo frente a promoción interna en ciertas escalas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes seleccionados (garantía de empleo público de por vida)",
+        "Ministerio de Defensa (captación de perfiles técnicos especializados)",
+        "Academias de preparación de oposiciones militares"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos (cuya puntuación de corte no se detalla en este documento)",
+        "Sector privado de ingeniería (fuga de talento hacia el sector público militar)",
+        "Representación paritaria (presencia femenina aún minoritaria en ingeniería de armamento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Concursos",
+    "banderas_rojas": [
+      "Plaza condicionada por el artículo 18 del RD 309/2021 (posible situación de embarazo o baja no detallada)",
+      "Diferencia notable de puntuaciones mínimas entre especialidades",
+      "Alta concentración de plazas en acceso directo frente a promoción interna en ciertas escalas"
+    ]
+  },
+  "tweeted": false
+}
