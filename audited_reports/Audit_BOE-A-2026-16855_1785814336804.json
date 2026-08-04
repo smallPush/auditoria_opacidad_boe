@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16855",
+  "timestamp": "2026-08-04T03:32:16.804Z",
+  "title": "Resolución de 20 de julio de 2026, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas del proceso selectivo para ingreso como personal laboral fijo de la Administración General del Estado, con la categoría de Farmacéutico/a Hospitalario/a y Farmacéutico/a, fuera de Convenio, en la Secretaría General de Instituciones Penitenciarias, convocado por Resolución de 13 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución oficializa plazas de personal laboral fijo bajo la categoría 'fuera de convenio', una figura que genera opacidad en las condiciones retributivas y laborales respecto al resto de la Función Pública. Existe una 'opacidad por redirección', ya que el BOE solo publica la lista de excluidos, obligando al ciudadano a navegar por webs ministeriales para conocer a los admitidos. Además, se observa un sesgo administrativo punitivo: la mayoría de las exclusiones (Causa 4) se deben a la incapacidad de demostrar niveles de renta para la exención de tasas, lo que penaliza la precariedad económica de los aspirantes.",
+    "resumen_ciudadano": "El Ministerio del Interior publica la lista definitiva de quiénes pueden optar a plazas de farmacia en prisiones. Lo relevante es que estas plazas están 'fuera de convenio' (condiciones especiales) y que varios aspirantes han quedado fuera por no poder acreditar correctamente que no tienen ingresos suficientes para pagar las tasas de examen.",
+    "resumen_tweet": "💊 ¿Farmacéuticos en prisiones 'fuera de convenio'? El #BOE publica admitidos pero oculta los listados completos tras links externos. La mayoría de excluidos lo son por fallos al acreditar su nivel de renta. ¿Barreras al empleo público? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Contratación fuera de convenio colectivo",
+      "Opacidad en listados de admitidos (no publicados en el BOE)",
+      "Barreras burocráticas por exención de tasas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con solvencia económica para pagar tasas",
+        "Candidatos a plazas 'fuera de convenio' con condiciones potencialmente superiores"
+      ],
+      "perdedores": [
+        "Aspirantes en desempleo con dificultades para demostrar carencia de rentas",
+        "Personas con discapacidad excluidas por fallos en la acreditación del grado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Sanidad Penitenciaria",
+    "banderas_rojas": [
+      "Contratación fuera de convenio colectivo",
+      "Opacidad en listados de admitidos (no publicados en el BOE)",
+      "Barreras burocráticas por exención de tasas"
+    ]
+  },
+  "tweeted": false
+}
