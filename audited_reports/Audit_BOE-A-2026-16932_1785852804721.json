@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16932",
+  "timestamp": "2026-08-04T14:13:24.721Z",
+  "title": "Acuerdo de 21 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don Leandro Martínez Puertas a la Audiencia Provincial de Madrid, orden penal.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo del CGPJ utiliza la figura de adscripción del artículo 355 bis 2 de la LOPJ para colocar a un magistrado en la Audiencia Provincial de Madrid antes de que exista una vacante real y efectiva en una sección concreta. Este mecanismo de 'reserva de plaza' en el orden penal de la capital, una de las plazas más sensibles políticamente, carece de una justificación de mérito pública frente a otros posibles candidatos, operando bajo una lógica de reubicación interna opaca para la ciudadanía.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha asignado al magistrado Leandro Martínez Puertas a la Audiencia Provincial de Madrid (área penal). No ocupará una silla específica de inmediato, sino que se le 'asegura' la primera vacante que quede libre. Esto ocurre porque el anterior titular de su puesto actual regresa a su plaza original, generando un movimiento de sillas internas en la alta magistratura madrileña.",
+    "resumen_tweet": "⚖️ El CGPJ asegura silla 'a futuro' en la Audiencia Provincial de Madrid para un magistrado mediante adscripción directa. ¿Cómo se eligen estas prioridades en las plazas más sensibles? Menos competencia, más opacidad judicial. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Adjudicación de vacante no especificada",
+      "Uso de figuras de adscripción para control de plazas en Madrid",
+      "Falta de desglose de méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Leandro Martínez Puertas (asegura posición en la estratégica Audiencia Provincial de Madrid)",
+        "Juan Francisco López Sarabia (recupera su plaza reservada)"
+      ],
+      "perdedores": [
+        "Magistrados de carrera que podrían haber optado a futuras vacantes en Madrid mediante concurso abierto",
+        "Transparencia en la meritocracia judicial"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Adjudicación de vacante no especificada",
+      "Uso de figuras de adscripción para control de plazas en Madrid",
+      "Falta de desglose de méritos comparativos"
+    ]
+  },
+  "tweeted": false
+}
