@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-16934",
+  "timestamp": "2026-08-04T14:33:26.913Z",
+  "title": "Resolución de 28 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución oficializa un nombramiento de Nivel 29 (el segundo más alto en la escala funcionarial) mediante el sistema de 'libre designación'. Este mecanismo, aunque legal, permite la elección discrecional por parte de los cargos políticos, eludiendo el concurso de méritos tradicional. Al tratarse de la Subdirección General de Recursos y Relaciones con los Tribunales en el Ministerio de la Presidencia, el puesto se sitúa en un nodo crítico donde la justicia y el poder ejecutivo se entrelazan, aumentando el riesgo de politización de la administración pública.",
+    "resumen_ciudadano": "Se ha asignado a Raquel María Ureña Lizana el cargo de Subdirectora Adjunta en el Ministerio de la Presidencia. Este puesto es de alta responsabilidad y ha sido otorgado 'a dedo' (libre designación), un método común para colocar personal de confianza en puestos estratégicos del Estado sin una comparativa pública de capacidades.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el corazón del Gobierno. Se adjudica un puesto de Nivel 29 por libre designación en el Ministerio de Presidencia. ¿Mérito técnico o confianza política en la relación con los tribunales? ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Nivel de complemento de destino máximo (Nivel 29)",
+      "Ubicación en el núcleo de poder (Presidencia y Justicia)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Raquel María Ureña Lizana",
+        "Cúpula del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos pero sin perfil político",
+        "Ciudadanía que demanda meritocracia objetiva en la alta administración"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Libre Designación",
+    "banderas_rojas": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Nivel de complemento de destino máximo (Nivel 29)",
+      "Ubicación en el núcleo de poder (Presidencia y Justicia)"
+    ]
+  },
+  "tweeted": false
+}
