@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17003",
+  "timestamp": "2026-08-05T14:10:41.255Z",
+  "title": "Corrección de errores de la Orden PJC/678/2026, de 6 de julio, por la que se modifican los anexos I, II y III del Real Decreto 309/2022, de 3 de mayo, por el que se establece el mecanismo de compensación de costes indirectos para los sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de fuga de carbono durante el periodo 2021-2030.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este documento es una corrección de errores de una orden previa que ya modificaba un Real Decreto de 2022. La técnica legislativa de 'corrección sobre corrección' aumenta la opacidad y dificulta el seguimiento ciudadano de las ayudas. El fondo del asunto es el 'mecanismo de compensación de costes indirectos', un eufemismo para subvenciones a la gran industria electrointensiva con el pretexto de evitar que trasladen su producción fuera de la UE (fuga de carbono). Se observa una falta de rigor inicial en la traducción de términos técnicos (Ferro-silicio) y en la redacción de cláusulas de 'interés general'.",
+    "resumen_ciudadano": "El Gobierno corrige errores de redacción en la normativa que regula las ayudas económicas destinadas a grandes industrias (como las del zinc o el silicio) para compensar sus costes eléctricos. Estos pagos buscan evitar que las empresas cierren o se muden a países con leyes ambientales más laxas.",
+    "resumen_tweet": "🚨 Nueva corrección en el #BOE sobre las ayudas millonarias a la gran industria por 'fuga de carbono'. Erratas en términos clave como el Zinc y Ferro-silicio. ¿Rigor o parches para agilizar pagos? 🏛️💸 #Opacidad #Transparencia #Industria",
+    "banderas_red_flags": [
+      "Legislación mediante parches sucesivos",
+      "Traducción deficiente de términos industriales en el texto original",
+      "Uso de conceptos abstractos como 'interés general' para justificar transferencias de capital",
+      "Complejidad burocrática que favorece a grandes corporaciones con asesoría legal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sectores industriales del Zinc",
+        "Productores de Ferro-silicio",
+        "Grandes empresas electrointensivas"
+      ],
+      "perdedores": [
+        "Contribuyentes (que financian las compensaciones)",
+        "Pymes (excluidas de estos mecanismos de compensación complejos)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Corrección de errores / Subvenciones Industriales",
+    "banderas_rojas": [
+      "Legislación mediante parches sucesivos",
+      "Traducción deficiente de términos industriales en el texto original",
+      "Uso de conceptos abstractos como 'interés general' para justificar transferencias de capital",
+      "Complejidad burocrática que favorece a grandes corporaciones con asesoría legal"
+    ]
+  },
+  "tweeted": false
+}
