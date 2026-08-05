@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-16948",
+  "timestamp": "2026-08-05T03:30:52.283Z",
+  "title": "Decreto de 23 de julio de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de la Jurisdicción Civil de la Fiscalía de la Comunidad Autónoma de Cantabria a doña Felicidad Andrés Puerto.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El decreto aborda directamente un potencial conflicto de intereses: la candidata es la esposa del Fiscal Superior de Cantabria. Se utiliza una ingeniería jurídica basada en el artículo 58.2 del EOMF para argumentar que, al existir un 'Fiscal Decano' como mando intermedio, no hay dependencia jerárquica directa, eludiendo así la incompatibilidad legal. Llama la atención que Felicidad Andrés Puerto fuera la única peticionaria del cargo, lo que en un entorno de alta jerarquía podría sugerir un proceso de selección 'ad hoc' o desincentivación de otros candidatos ante el peso del entorno familiar.",
+    "resumen_ciudadano": "Se nombra a la mujer del Fiscal Jefe de Cantabria para un cargo de Fiscal Delegada. Aunque la ley prohíbe trabajar bajo mando directo de un cónyuge, el Ministerio Fiscal valida el nombramiento alegando que hay un jefe intermedio que 'filtra' la relación, evitando así la ilegalidad formal. Ella fue la única que solicitó el puesto.",
+    "resumen_tweet": "🚨 ¿Endogamia en la Justicia? Nombran a la mujer del Fiscal Superior de Cantabria como Fiscal Delegada. El BOE admite el matrimonio pero usa un 'mando intermedio' como truco legal para evitar la incompatibilidad. 1 sola candidata. ⚖️🧐 #BOE #Opacidad #Cantabria",
+    "banderas_red_flags": [
+      "Vínculo matrimonial con el máximo superior regional",
+      "Única candidata en el proceso de selección",
+      "Uso de recovecos reglamentarios para evitar incompatibilidad por parentesco",
+      "Nombramiento condicionado a que no cambie la estructura de la sección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Felicidad Andrés Puerto (ascenso profesional)",
+        "Entorno familiar del Fiscal Superior de Cantabria"
+      ],
+      "perdedores": [
+        "Percepción ciudadana de imparcialidad",
+        "Meritocracia real",
+        "Principio de transparencia y estética institucional"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de Personal / Fiscalía",
+    "banderas_rojas": [
+      "Vínculo matrimonial con el máximo superior regional",
+      "Única candidata en el proceso de selección",
+      "Uso de recovecos reglamentarios para evitar incompatibilidad por parentesco",
+      "Nombramiento condicionado a que no cambie la estructura de la sección"
+    ]
+  },
+  "tweeted": false
+}
