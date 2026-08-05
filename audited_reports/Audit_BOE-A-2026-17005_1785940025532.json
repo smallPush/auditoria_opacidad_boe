@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17005",
+  "timestamp": "2026-08-05T14:27:05.532Z",
+  "title": "Resolución de 30 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de Nivel 30 (el máximo en la administración) representa una legalización de la discrecionalidad técnica. Aunque el documento cita el Real Decreto-ley 6/2023 de personal directivo profesional, no se detalla la motivación de la elección ni se exponen los méritos comparados de otros candidatos. Se perpetúa el modelo de 'confianza' sobre la meritocracia pura en puestos clave del Ministerio de Hacienda.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha adjudicado a dedo una Subdirección General (puesto de máximo nivel salarial y responsabilidad) a una funcionaria que ya pertenecía al ministerio. Este método de selección no requiere un concurso público de méritos, permitiendo que la cúpula elija directamente a sus cargos directivos.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en Hacienda. Adjudican una Subdirección General (Nivel 30) por Libre Designación. ¿Méritos o confianza política? La alta administración sigue blindada a la meritocracia transparente. 💸📉 #BOE #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Libre designación (Nombramiento discrecional)",
+      "Nivel 30 (Máximo complemento de destino)",
+      "Ausencia de criterios de selección publicados",
+      "Endogamia institucional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Carmen Santamaría Barceló (ascenso a Nivel 30)",
+        "Subsecretaría de Hacienda (mantiene control sobre cargos directivos)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de carrera por méritos)",
+        "Ciudadanía (opacidad en la gestión de recursos humanos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal Directivo",
+    "banderas_rojas": [
+      "Libre designación (Nombramiento discrecional)",
+      "Nivel 30 (Máximo complemento de destino)",
+      "Ausencia de criterios de selección publicados",
+      "Endogamia institucional"
+    ]
+  },
+  "tweeted": false
+}
