@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17022",
+  "timestamp": "2026-08-05T14:34:03.373Z",
+  "title": "Resolución de 29 de julio de 2026, de la Subsecretaría, por la que se declara desierto puesto de trabajo de libre designación, convocado por Resolución de 26 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolución declara desierto un puesto de secretario/a mediante el sistema de 'libre designación', un eufemismo legal para nombramientos discrecionales. Aunque formalmente se cumple la ley, este mecanismo erosiona el principio de mérito y capacidad. El complemento específico de 8.831,48 euros para un nivel 16 (Grupo C1/C2) es inusualmente atractivo para funciones administrativas, lo que suele indicar una compensación por disponibilidad o cercanía política más que por complejidad técnica. Que quede desierto sugiere o una falta de perfiles afines en el momento o un filtrado previo informal que desincentivó candidaturas.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial no ha encontrado candidato para el puesto de secretario/a del Subdelegado del Gobierno en Tarragona. Se trata de un cargo de confianza (elegido a dedo) con un sueldo extra anual de casi 9.000 euros por encima del salario base.",
+    "resumen_tweet": "🚨 ¿Nadie quiere ser secretario/a 'a dedo' en Tarragona? El puesto queda desierto tras buscar un perfil de libre designación. Nivel 16 con un plus de +8.800€. ¿Falta de candidatos o filtros internos? 🧐💼 #BOE #Opacidad #Transparencia #Dedocracia",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Complemento específico elevado para el nivel",
+      "Ausencia de solicitudes en un puesto de confianza",
+      "Opacidad en los criterios de idoneidad exigidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos futuros con vínculos de confianza política",
+        "Administración (al mantener la discrecionalidad del puesto)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera por méritos",
+        "Transparencia institucional",
+        "Ciudadanía (que sufraga puestos de estructura política)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Complemento específico elevado para el nivel",
+      "Ausencia de solicitudes en un puesto de confianza",
+      "Opacidad en los criterios de idoneidad exigidos"
+    ]
+  },
+  "tweeted": false
+}
