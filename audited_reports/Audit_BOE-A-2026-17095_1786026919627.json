@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17095",
+  "timestamp": "2026-08-06T14:35:19.627Z",
+  "title": "Resolución de 7 de julio de 2026, del Ayuntamiento de Santa Elena (Jaén), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una opacidad operativa al derivar los detalles sustantivos (las bases) al Boletín Oficial de la Provincia, técnica común que dificulta el escrutinio ciudadano masivo. Resulta técnicamente incongruente clasificar una plaza de 'Ordenanza-Notificador/a' dentro de la 'subescala Gestión' de la Administración Especial; habitualmente estas plazas pertenecen a Servicios Especiales o Personal de Oficios. Esta elevación de categoría técnica podría ocultar requisitos de titulación específicos no habituales para un conserje, limitando el acceso de las clases populares a favor de perfiles pre-seleccionados.",
+    "resumen_ciudadano": "El Ayuntamiento de Santa Elena convoca una plaza de conserje-mensajero. Aunque es acceso libre, para saber qué estudiará el candidato hay que buscar otro documento en el boletín de Jaén. La terminología usada para el puesto es más compleja de lo normal para este tipo de empleos.",
+    "resumen_tweet": "🚩 Auditoría #BOE: Santa Elena (Jaén) convoca plaza de Ordenanza con terminología inflada ('Gestión'). ¿Burocracia técnica o barrera de entrada? Info clave delegada a boletines provinciales. 🧐📜 #Opacidad #Transparencia #Jaén",
+    "banderas_red_flags": [
+      "Fragmentación de la información (bases no incluidas)",
+      "Clasificación administrativa atípica para el puesto",
+      "Falta de desglose de méritos en el anuncio principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos locales con acceso directo a la información municipal",
+        "Aspirantes con conocimiento previo del sistema de Gestión local"
+      ],
+      "perdedores": [
+        "Clase trabajadora sin tiempo para navegación burocrática entre boletines",
+        "Candidatos externos a la provincia de Jaén"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación de la información (bases no incluidas)",
+      "Clasificación administrativa atípica para el puesto",
+      "Falta de desglose de méritos en el anuncio principal"
+    ]
+  },
+  "tweeted": false
+}
