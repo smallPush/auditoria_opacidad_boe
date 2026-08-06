@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17009",
+  "timestamp": "2026-08-06T03:28:18.750Z",
+  "title": "Resolución de 29 de julio de 2026, de la Secretaría de Estado de Comercio, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 16 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion consolida el uso de la libre designacion para puestos de Nivel 30, el maximo en la escala funcionarial. Aunque legal, este sistema permite una discrecionalidad que bordea el clientelismo tecnico. Los adjudicatarios pertenecen al Cuerpo Superior de Tecnicos Comerciales y Economistas del Estado, una elite administrativa (tecos). Se observa un fenomeno de 'puerta giratoria interna' donde cargos de confianza en el extranjero (Bruselas) regresan a puestos de mando en Madrid sin una explicacion detallada de por que son los candidatos mas aptos frente a otros.",
+    "resumen_ciudadano": "El Ministerio de Economia ha nombrado 'a dedo' (libre designacion) a tres nuevos Subdirectores Generales. Estos puestos tienen los sueldos mas altos de la administracion y se otorgan por confianza politica y personal, no por un examen de oposicion especifico para el cargo. Los tres elegidos ya formaban parte de los niveles mas altos de la jerarquia economica del Estado.",
+    "resumen_tweet": "🚨 Mas puestos de confianza en el Ministerio de Economia. Se adjudican 3 Subdirecciones Generales (Nivel 30) mediante libre designacion. La elite de los 'tecos' refuerza su control en puestos clave. ¿Donde queda el merito? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designacion en puestos de alta direccion",
+      "Concentracion de poder en un unico cuerpo de elite",
+      "Adjudicacion de nivel maximo salarial sin motivacion publica de meritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo Superior de Tecnicos Comerciales y Economistas del Estado",
+        "Marta Bardon Fernandez-Pacheco",
+        "Alberto Sanz Serrano",
+        "Santiago Conde Lara"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin perfil politico",
+        "Cuerpos administrativos de niveles inferiores",
+        "Transparencia en la gestion de RRHH publicos"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos por Libre Designacion",
+    "banderas_rojas": [
+      "Sistema de libre designacion en puestos de alta direccion",
+      "Concentracion de poder en un unico cuerpo de elite",
+      "Adjudicacion de nivel maximo salarial sin motivacion publica de meritos"
+    ]
+  },
+  "tweeted": false
+}
