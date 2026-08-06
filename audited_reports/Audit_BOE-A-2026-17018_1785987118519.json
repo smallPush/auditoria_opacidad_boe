@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-17018",
+  "timestamp": "2026-08-06T03:31:58.519Z",
+  "title": "Resolución de 24 de julio de 2026, de la Universidad de La Laguna, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para el nombramiento de funcionarios de carrera en el ambito universitario. Aunque cumple con la normativa legal (LOSU y RD 678/2023), el documento presenta la opacidad habitual sobre la carga presupuestaria que suponen estas plazas vitalicias para las arcas publicas. No hay desglose de complementos salariales ni de la partida especifica que financia estos puestos. En terminos de genero, se observa una paridad simbolica (un hombre y una mujer), lo cual parece alinearse con los objetivos de igualdad institucional, aunque no permite evaluar la brecha de clase en el acceso a la catedra.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha nombrado oficialmente a dos nuevos catedraticos: Antonio Cano Gines en Filologia y Emma Carmelo Pascual en Parasitologia. Estas personas tienen 20 dias para tomar posesion de sus cargos permanentes.",
+    "resumen_tweet": "🎓 Nuevos catedraticos en la Univ. de La Laguna: Antonio Cano (Lengua) y Emma Carmelo (Parasitologia). Tramite oficial sin mencion al coste presupuestario de estas plazas vitalicias. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la carga presupuestaria real de las plazas",
+      "Falta de informacion sobre los criterios de merito especificos en el resumen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal docente nombrado (consolidacion de estatus y salario vitalicio)",
+        "Estructura jerarquica universitaria"
+      ],
+      "perdedores": [
+        "Investigadores precarios fuera del sistema de catedras",
+        "Contribuyentes (por falta de transparencia en el coste salarial total)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Cuerpos Docentes Universitarios",
+    "banderas_rojas": [
+      "Opacidad en la carga presupuestaria real de las plazas",
+      "Falta de informacion sobre los criterios de merito especificos en el resumen"
+    ]
+  },
+  "tweeted": false
+}
