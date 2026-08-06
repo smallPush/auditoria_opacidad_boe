@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17078",
+  "timestamp": "2026-08-06T14:29:15.180Z",
+  "title": "Resolución de 3 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una adjudicación por el sistema de 'libre designación' (discrecional), para un puesto de altísima sensibilidad política y social: la Subdirección General de la oficina para los abusos sexuales en la Iglesia católica. Aunque el procedimiento es legal bajo la Ley 30/1984, este sistema permite el 'dedazo' técnico, donde la idoneidad es valorada subjetivamente por el órgano convocante en lugar de mediante un concurso de méritos ciego. El adjudicatario escala de un nivel 28 a un nivel 30 (máximo en la administración pública), consolidando su posición en la cúpula del Ministerio.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha nombrado directamente al nuevo Subdirector General para la oficina que gestiona la reparación de abusos en la Iglesia. Es un puesto de libre designación, lo que significa que el perfil ha sido elegido por confianza y no por estricta competencia entre candidatos en un concurso abierto.",
+    "resumen_tweet": "⚠️ ¿Independencia o confianza política? El Gobierno nombra 'a dedo' al Subdirector de la oficina para abusos en la Iglesia ⛪️. Un nivel 30 por libre designación en un área de máxima sensibilidad social. 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de máxima categoría administrativa (Nivel 30)",
+      "Cargo en área de alta sensibilidad política y religiosa",
+      "Uso de decretos de urgencia (RD-ley 6/2023) para marco regulatorio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Arturo de Frutos Jericó (promoción a nivel 30)",
+        "Ministerio de la Presidencia (control sobre un área sensible)"
+      ],
+      "perdedores": [
+        "Candidatos por méritos objetivos (excluidos por sistema discrecional)",
+        "Sociedad civil (percepción de falta de independencia en la oficina de abusos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de máxima categoría administrativa (Nivel 30)",
+      "Cargo en área de alta sensibilidad política y religiosa",
+      "Uso de decretos de urgencia (RD-ley 6/2023) para marco regulatorio"
+    ]
+  },
+  "tweeted": false
+}
