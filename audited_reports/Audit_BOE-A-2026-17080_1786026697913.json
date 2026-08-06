@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17080",
+  "timestamp": "2026-08-06T14:31:37.913Z",
+  "title": "Orden EFD/828/2026, de 29 de julio, por la que, a propuesta del Departamento de Educación y Formación Profesional de la Comunidad Autónoma de Cataluña, se nombra funcionaria de carrera del Cuerpo de Maestros a doña Núria Finestra Mascarella.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Este documento no es un nombramiento rutinario, sino el resultado de una derrota judicial de la Administración. La docente Núria Finestra Mascarella tuvo que acudir al Tribunal Superior de Justicia de Cataluña para que se le reconocieran sus méritos tras una desestimación administrativa previa. El BOE aquí actúa como acta de rendición burocrática, revelando que los procesos de 'estabilización' docente presentan fallos de valoración que solo se corrigen mediante litigio. La retroactividad de los efectos al 1 de septiembre de 2023 implica que el Estado deberá abonar atrasos salariales y cotizaciones, un coste derivado de la mala gestión inicial del Departamento de Educación de Cataluña.",
+    "resumen_ciudadano": "Tras una sentencia del TSJ de Cataluña, se nombra funcionaria de carrera a una docente de Geografía e Historia que había sido excluida o mal valorada en el concurso de méritos de 2022. El nombramiento tiene efectos retroactivos desde 2023, reconociendo su derecho tras años de disputa legal frente a la administración autonómica.",
+    "resumen_tweet": "⚖️ ¡Justicia en las aulas! El #BOE publica el nombramiento de una docente tras ganar al sistema en los tribunales. El proceso de estabilización falló y el TSJ de Cataluña obliga a rectificar con efectos desde 2023. 👩‍🏫📉 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial firme",
+      "Retroactividad de efectos económicos y administrativos",
+      "Corrección de actos administrativos previos desestimatorios",
+      "Litigiosidad en procesos de estabilización docente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Núria Finestra Mascarella (recupera su plaza y derechos)",
+        "Poder Judicial (como garante frente a errores administrativos)"
+      ],
+      "perdedores": [
+        "Departamento de Educación de Cataluña (por error en valoración inicial)",
+        "Erario público (asume posibles costas e intereses de demora por el retraso de 3 años)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de funcionario por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial firme",
+      "Retroactividad de efectos económicos y administrativos",
+      "Corrección de actos administrativos previos desestimatorios",
+      "Litigiosidad en procesos de estabilización docente"
+    ]
+  },
+  "tweeted": false
+}
