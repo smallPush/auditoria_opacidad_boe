@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17077",
+  "timestamp": "2026-08-06T14:30:06.392Z",
+  "title": "Orden PJC/826/2026, de 29 de julio, por la que se nombran Abogados Fiscales sustitutos para el año 2026-2027.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una estructura de nombramientos masivos para cubrir deficiencias estructurales mediante la figura del 'sustituto'. Se observa una dependencia crítica de la 'disponibilidad presupuestaria', una cláusula que permite al Estado activar o desactivar estos refuerzos sin una partida fija transparente. Existe una clara feminización de estos puestos temporales según los listados del Anexo I, lo que podría indicar una brecha de precariedad en el acceso a la carrera fiscal.",
+    "resumen_ciudadano": "Se han nombrado los abogados fiscales sustitutos para el periodo 2026-2027 en diversas comunidades. Estos profesionales actuarán como refuerzos en las fiscalías, pero su incorporación real y su sueldo dependen de que exista presupuesto en el momento del llamamiento. El sistema penaliza a quienes renuncien dos veces seguidas, dificultando la conciliación si las condiciones ofrecidas no son dignas.",
+    "resumen_tweet": "⚖️ ¿Justicia en precario? El #BOE nombra fiscales sustitutos para 2026-27, pero todo queda condicionado a la 'disponibilidad presupuestaria'. Menos plazas fijas y más parches temporales para el sistema judicial. #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Cláusula de disponibilidad presupuestaria indeterminada",
+      "Régimen sancionador por renuncia que limita la libertad profesional",
+      "Uso de personal temporal para funciones que deberían ser estructurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Justicia (flexibilidad de plantilla a bajo coste)",
+        "Profesionales del derecho que buscan méritos para el acceso a la carrera fiscal"
+      ],
+      "perdedores": [
+        "Opositores de carrera (desplazados por figuras de refuerzo)",
+        "Sistema judicial (falta de estabilidad en las plantillas fiscales)",
+        "Ciudadanía (dependencia de la caja estatal para agilizar procesos)"
+      ]
+    },
+    "comunidad_autonoma": "España (Multicomunidad)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Cláusula de disponibilidad presupuestaria indeterminada",
+      "Régimen sancionador por renuncia que limita la libertad profesional",
+      "Uso de personal temporal para funciones que deberían ser estructurales"
+    ]
+  },
+  "tweeted": false
+}
