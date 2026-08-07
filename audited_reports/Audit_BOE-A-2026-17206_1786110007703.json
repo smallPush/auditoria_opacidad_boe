@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17206",
+  "timestamp": "2026-08-07T13:40:07.703Z",
+  "title": "Resolución de 29 de julio de 2026, del Ayuntamiento de Melilla, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta una transparencia administrativa estándar pero limitada al remitir la informacion crucial (las bases) al Boletin Oficial de Melilla. Se observa una plaza de 'Celador de Captaciones', una nomenclatura que, sin las bases detalladas, resulta opaca para el ciudadano comun y sugiere una funcion altamente especifica o de nicho que podria estar sujeta a una definicion de perfil muy dirigida.",
+    "resumen_ciudadano": "El Ayuntamiento de Melilla abre una convocatoria para contratar a dos nuevos funcionarios: un enfermero/a y un celador de captaciones. Las personas interesadas tienen 20 dias para presentar su solicitud tras la publicacion en el BOE. El proceso se realizara mediante el sistema de oposicion libre.",
+    "resumen_tweet": "📍 Melilla convoca plazas de funcionario en el #BOE: 1 de Enfermería y 1 de 'Celador de Captaciones'. Cuidado con la opacidad: los detalles clave están ocultos en el boletín local. ¿Qué hace realmente un celador de captaciones? 🤔 #Opacidad #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Opacidad en la definicion de funciones del Celador de Captaciones",
+      "Externalizacion de la informacion relevante a boletines regionales",
+      "Bajo volumen de plazas para el despliegue administrativo realizado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con acceso directo al Boletin de la Ciudad Autonoma de Melilla",
+        "Profesionales de enfermeria titulados"
+      ],
+      "perdedores": [
+        "Opositores externos con dificultad para rastrear bases locales",
+        "Ciudadanos que exigen una descripcion clara de puestos publicos especificos"
+      ]
+    },
+    "comunidad_autonoma": "Melilla",
+    "tipologia": "Empleo Publico / Oposiciones",
+    "banderas_rojas": [
+      "Opacidad en la definicion de funciones del Celador de Captaciones",
+      "Externalizacion de la informacion relevante a boletines regionales",
+      "Bajo volumen de plazas para el despliegue administrativo realizado"
+    ]
+  },
+  "tweeted": false
+}
