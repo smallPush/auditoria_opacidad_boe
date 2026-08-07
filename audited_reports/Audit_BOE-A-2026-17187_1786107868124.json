@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17187",
+  "timestamp": "2026-08-07T13:04:28.124Z",
+  "title": "Ley 1/2026, de 28 de abril, de modificación de la Ley 7/1995, de 6 de abril, de ordenación del turismo de Canarias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley aborda una demanda histórica de las camareras de piso (colectivo altamente feminizado y precarizado) para reducir lesiones musculoesqueléticas. Sin embargo, la obligatoriedad se apoya en una financiación pública incierta; se mencionan 'subvenciones' y 'estudios de viabilidad' para reducciones fiscales (IGIC) sin blindar partidas presupuestarias concretas en el texto. Existe un riesgo de opacidad en la concesión de ayudas y una potencial brecha de clase/seguridad: las trabajadoras de establecimientos en edificios históricos (<30 habitaciones) podrían quedar excluidas de estas mejoras ergonómicas por criterios estéticos o patrimoniales, primando la conservación del inmueble sobre la salud física de la empleada.",
+    "resumen_ciudadano": "Canarias modifica su ley de turismo para obligar a los hoteles a instalar camas elevables mecánicamente y carros motorizados. El objetivo es reducir los accidentes laborales de las camareras de piso. La ley promete ayudas públicas y posibles rebajas de impuestos para las empresas que se adapten, aunque permite que hoteles pequeños situados en edificios históricos soliciten no cumplir con estas medidas.",
+    "resumen_tweet": "🏨 Canarias obliga a hoteles a usar camas elevables para proteger a las camareras de piso. ¿Justicia social o promesa al aire? 💸 Subvenciones sin presupuesto blindado y exenciones para hoteles 'históricos'. ¡Vigilamos! #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Indeterminación presupuestaria en las subvenciones prometidas",
+      "Exenciones por 'significación patrimonial' que supeditan la salud laboral a la estética",
+      "Uso de conceptos vagos como 'estudio de viabilidad presupuestaria' para incentivos fiscales",
+      "Externalización de la validación de riesgos a comités de empresa que pueden sufrir presiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Camareras de piso (en grandes cadenas)",
+        "Empresas fabricantes de mobiliario ergonómico y motorizado",
+        "Propietarios de hoteles boutique en cascos históricos (por exenciones)"
+      ],
+      "perdedores": [
+        "Pequeñas y medianas empresas hoteleras (PYMES) con márgenes estrechos",
+        "Trabajadoras de hoteles históricos que no recibirán el equipamiento",
+        "Hacienda Pública (por la potencial reducción del IGIC)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Modificación de Ordenación Turística y Salud Laboral",
+    "banderas_rojas": [
+      "Indeterminación presupuestaria en las subvenciones prometidas",
+      "Exenciones por 'significación patrimonial' que supeditan la salud laboral a la estética",
+      "Uso de conceptos vagos como 'estudio de viabilidad presupuestaria' para incentivos fiscales",
+      "Externalización de la validación de riesgos a comités de empresa que pueden sufrir presiones"
+    ]
+  },
+  "tweeted": false
+}
