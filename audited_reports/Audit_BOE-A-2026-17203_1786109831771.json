@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17203",
+  "timestamp": "2026-08-07T13:37:11.771Z",
+  "title": "Resolución de 31 de julio de 2026, del Ayuntamiento de Seseña (Toledo), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso', lo cual permite una mayor discrecionalidad en la valoración de méritos frente a la 'oposición' pura. Al tratarse de un puesto de Técnico de Contratación, figura clave en la fiscalización de licitaciones y gasto público municipal, la elección de este sistema puede facilitar la consolidación de perfiles afines o la endogamia administrativa. La falta de detalle sobre los baremos de puntuación en el extracto del BOE obliga al ciudadano a rastrear el Boletín Provincial, dificultando el escrutinio público inmediato.",
+    "resumen_ciudadano": "El Ayuntamiento de Seseña abre el proceso para contratar a un técnico que gestionará los contratos públicos del municipio. El proceso se hará evaluando méritos previos en lugar de un examen abierto, lo que suele favorecer a personas que ya trabajan en la administración local.",
+    "resumen_tweet": "🚨 ¡Ojo al control de contratos en Seseña! El @aytseseña busca Técnico de Contratación mediante 'concurso'. ¿Mérito real o traje a medida para internos? 🧐 Menos transparencia al remitir los detalles al boletín provincial. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de sistema de concurso para puestos técnicos estratégicos",
+      "Opacidad en la descripción de funciones específicas",
+      "Externalización de las bases detalladas a boletines de menor jerarquía"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados",
+        "Funcionarios con red de contactos local",
+        "Candidatos con experiencia administrativa específica en la zona"
+      ],
+      "perdedores": [
+        "Nuevos graduados sin experiencia previa",
+        "Talento externo del sector privado",
+        "Ciudadanos que buscan la máxima competitividad en la gestión de sus impuestos"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público y Administración Local",
+    "banderas_rojas": [
+      "Uso de sistema de concurso para puestos técnicos estratégicos",
+      "Opacidad en la descripción de funciones específicas",
+      "Externalización de las bases detalladas a boletines de menor jerarquía"
+    ]
+  },
+  "tweeted": false
+}
