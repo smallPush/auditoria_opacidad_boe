@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17190",
+  "timestamp": "2026-08-07T13:22:57.501Z",
+  "title": "Resolución de 29 de julio de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento formaliza un proceso de 'libre designación', un mecanismo legal que permite el nombramiento discrecional de altos cargos. Aunque se cita el cumplimiento de requisitos, el sistema de 'dedazo' institucionalizado oculta los criterios técnicos reales de selección frente a otros candidatos. La promoción de Nivel 27 (Ávila) a Nivel 29 (Madrid) implica un incremento salarial y de poder administrativo gestionado bajo una valoración de idoneidad subjetiva por el centro directivo, sin una comparativa pública de méritos.",
+    "resumen_ciudadano": "Se ha nombrado a dedo a la nueva Directora Provincial del SEPE en Madrid. Este puesto de alta responsabilidad (Nivel 29) ha sido adjudicado a una funcionaria que procedía de Ávila mediante un sistema que permite al político elegir directamente a quién quiere, en lugar de realizar un concurso público basado estrictamente en las mejores notas o méritos.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo 'dedazo' legal en el SEPE. Se adjudica por libre designación la Dirección Provincial de Madrid (Nivel 29). De Ávila a la capital sin concurso de méritos abierto. ¿Transparencia o favores? 🏛️🔎 #BOE #Opacidad #Transparencia #Empleo",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento a dedo)",
+      "Salto de nivel administrativo (27 a 29)",
+      "Criterios de idoneidad no detallados",
+      "Ausencia de comparativa con otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Isabel Pellón Esteban (promoción y traslado)",
+        "Ministerio de Trabajo (colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de la meritocracia)",
+        "Ciudadanía (falta de transparencia en la gestión de altos cargos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento Discrecional",
+    "banderas_rojas": [
+      "Libre designación (nombramiento a dedo)",
+      "Salto de nivel administrativo (27 a 29)",
+      "Criterios de idoneidad no detallados",
+      "Ausencia de comparativa con otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
