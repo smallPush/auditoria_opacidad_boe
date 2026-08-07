@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17205",
+  "timestamp": "2026-08-07T13:42:25.514Z",
+  "title": "Resolución de 29 de julio de 2026, del Ayuntamiento de Arona (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una convocatoria para una única plaza de Auxiliar Administrativo mediante el sistema de concurso-oposición. Este método, aunque legal, suele ser utilizado en la administración local para la consolidación de personal interino existente, ya que la fase de 'concurso' otorga puntos por experiencia previa que un opositor libre no posee. La opacidad reside en la fragmentación de la información, remitiendo al Boletín Provincial para los criterios de baremación específicos, lo que dificulta el escrutinio público inmediato sobre si la plaza está 'teledirigida'.",
+    "resumen_ciudadano": "El Ayuntamiento de Arona abre el proceso para contratar a un auxiliar administrativo como personal laboral fijo. Se usará un sistema mixto de examen y méritos (experiencia previa). Los interesados tienen 20 días hábiles para apuntarse tras la publicación en el BOE.",
+    "resumen_tweet": "🧐 ¿Plaza única y concurso-oposición? El Ayto. de Arona convoca 1 puesto de Auxiliar Administrativo. El sistema de méritos suele beneficiar a quienes ya están dentro. ¡Ojo a las bases en el BOP! 🏛️⚖️ #BOE #Opacidad #Transparencia #Arona",
+    "banderas_red_flags": [
+      "Plaza única",
+      "Sistema de concurso-oposición para nivel básico",
+      "Personal laboral fijo en lugar de funcionario de carrera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento de Arona",
+        "Sindicatos locales"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin experiencia previa",
+        "Candidatos externos al municipio"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Plaza única",
+      "Sistema de concurso-oposición para nivel básico",
+      "Personal laboral fijo en lugar de funcionario de carrera"
+    ]
+  },
+  "tweeted": false
+}
