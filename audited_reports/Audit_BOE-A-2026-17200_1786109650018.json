@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17200",
+  "timestamp": "2026-08-07T13:34:10.018Z",
+  "title": "Orden TDF/833/2026, de 28 de julio, por la que, en ejecución de sentencia, se nombra Tribunal calificador de las pruebas selectivas para acceso, por promoción interna, a la Subescala de Secretaría, categoría de entrada, de la Escala de funcionarios de administración local con habilitación de carácter nacional, convocadas por Orden TDF/779/2024, de 21 de julio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento es una confesión implícita de irregularidades en el acceso a la función pública. La publicación de un nuevo tribunal en 'ejecución de sentencia' evidencia que el proceso selectivo previo fue viciado, vulnerando los principios de mérito y capacidad. Aunque el BOE cumple con la legalidad de publicar el nombramiento, oculta los detalles de la mala praxis administrativa original que obligó a un ciudadano a recurrir a los tribunales para obtener justicia. No hay mención al coste económico derivado de la repetición o revisión de estas pruebas ni de las costas procesales que recaen sobre el erario público.",
+    "resumen_ciudadano": "Tras una derrota judicial, el Ministerio se ve obligado a nombrar un nuevo tribunal examinador para las oposiciones de secretarios de administración local. Un juez anuló parte del proceso anterior por no ajustarse a derecho, dando la razón a un aspirante que denunció irregularidades en las notas.",
+    "resumen_tweet": "⚠️ ¡Justicia en las oposiciones! El #BOE publica un nuevo tribunal tras una sentencia que anuló el proceso anterior por no ser conforme a Derecho. La opacidad administrativa derrotada en los tribunales. #Transparencia #Oposiciones #CorrupciónCero ⚖️",
+    "banderas_red_flags": [
+      "Anulación por no ser conforme a Derecho",
+      "Ejecución de sentencia judicial",
+      "Nombramiento reactivo por irregularidades",
+      "Falta de detalle sobre el error administrativo original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José María Cánovas Aráez (recurso estimado)",
+        "Transparencia judicial"
+      ],
+      "perdedores": [
+        "Ministerio para la Transformación Digital (por mala gestión)",
+        "Candidatos cuyo aprobado queda en el aire por la anulación",
+        "Contribuyentes (costes del proceso judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Justicia",
+    "banderas_rojas": [
+      "Anulación por no ser conforme a Derecho",
+      "Ejecución de sentencia judicial",
+      "Nombramiento reactivo por irregularidades",
+      "Falta de detalle sobre el error administrativo original"
+    ]
+  },
+  "tweeted": false
+}
