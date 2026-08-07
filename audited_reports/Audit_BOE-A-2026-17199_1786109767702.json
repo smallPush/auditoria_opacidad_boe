@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17199",
+  "timestamp": "2026-08-07T13:36:07.702Z",
+  "title": "Orden TES/832/2026, de 29 de julio, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para un puesto de alto nivel técnico (Subdirector de Estadística) en el SEPE. Aunque legal, este sistema permite una discrecionalidad que roza la arbitrariedad al no basarse estrictamente en un concurso de méritos. El plazo de 10 días naturales es sospechosamente corto, una táctica común cuando se busca limitar la concurrencia y favorecer a candidatos ya preseleccionados internamente. Además, el cuestionario de autoevaluación del Anexo III es puramente subjetivo, permitiendo al candidato inflar su puntuación en competencias blandas que luego son validadas en una entrevista personal no grabada ni auditada externamente.",
+    "resumen_ciudadano": "El Ministerio de Trabajo publica una plaza de alto mando para gestionar las estadísticas del paro y empleo con un complemento salarial de 35.952€ anuales. Sin embargo, el puesto se dará 'a dedo' (libre designación) y los interesados solo tienen 10 días para apuntarse. Se prioriza la confianza política sobre la capacidad técnica objetiva en un cargo que maneja datos sensibles para la opinión pública.",
+    "resumen_tweet": "🚨 ¿Meritocracia o 'dedocracia'? Trabajo convoca un puesto Nivel 30 en el SEPE mediante Libre Designación. Solo 10 días para solicitarlo y con una 'autoevaluación' subjetiva. Sueldo base +35k€ en complementos. 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puesto técnico",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Cuestionario de autoevaluación sin verificación objetiva",
+      "Entrevista personal discrecional como filtro final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con afinidad política o personal con la cúpula del Ministerio",
+        "Funcionarios de carrera con perfil institucional"
+      ],
+      "perdedores": [
+        "Funcionarios técnicos sin conexiones políticas",
+        "Sistema de mérito y capacidad",
+        "Transparencia en la gestión de datos de empleo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación en puesto técnico",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Cuestionario de autoevaluación sin verificación objetiva",
+      "Entrevista personal discrecional como filtro final"
+    ]
+  },
+  "tweeted": false
+}
