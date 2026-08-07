@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17079",
+  "timestamp": "2026-08-07T03:12:43.852Z",
+  "title": "Orden EFD/827/2026, de 29 de julio, por la que, a propuesta de la Consejería de Educación, Ciencia, Universidades y Formación Profesional de la Comunidad Autónoma de Galicia, se nombra funcionario de carrera del Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional a don Daniel Cajoto Otero.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento representa un acto administrativo estándar de nombramiento de funcionario de carrera, pero evidencia la lentitud crónica de la administración española. Una convocatoria de enero de 2024 no se resuelve definitivamente hasta julio de 2026, con efectos retroactivos a septiembre de 2025. Esta 'burocracia del retardo' genera una laguna de certidumbre para el trabajador. La terminología de 'Sectores Singulares' oculta bajo un tecnicismo lo que en la práctica es formación técnica especializada (Mantenimiento de Vehículos), manteniendo una barrera de lenguaje entre el Estado y el ciudadano común.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de Daniel Cajoto Otero como funcionario de carrera en la especialidad de Mantenimiento de Vehículos en Galicia. Aunque el proceso comenzó en 2024, su estatus oficial se consolida ahora, reconociéndole antigüedad desde septiembre de 2025.",
+    "resumen_tweet": "🚨 El #BOE publica el nombramiento de un docente en Galicia tras 2 años de espera administrativa. Convocatoria de 2024, resuelta en 2026 con efectos en 2025. ¿Por qué es tan lenta la maquinaria educativa? ⏳ #Opacidad #Transparencia #Educación #Galicia",
+    "banderas_red_flags": [
+      "Dilación administrativa (proceso 2024-2026)",
+      "Efectos retroactivos de un año",
+      "Complejidad terminológica ('Sectores Singulares')"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Daniel Cajoto Otero (obtiene estabilidad laboral definitiva)",
+        "Consellería de Educación de Galicia (cubre plaza estructural)"
+      ],
+      "perdedores": [
+        "Agilidad administrativa (proceso burocrático de más de 24 meses)",
+        "Eficiencia en la gestión de recursos humanos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa (proceso 2024-2026)",
+      "Efectos retroactivos de un año",
+      "Complejidad terminológica ('Sectores Singulares')"
+    ]
+  },
+  "tweeted": false
+}
