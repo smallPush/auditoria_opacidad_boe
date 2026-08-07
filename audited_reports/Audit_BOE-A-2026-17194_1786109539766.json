@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17194",
+  "timestamp": "2026-08-07T13:32:19.766Z",
+  "title": "Resolución de 28 de julio de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Jorge Pérez Martín.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento estandar de profesor titular bajo la nueva LOSU. Aunque formalmente correcto, este tipo de resoluciones ocultan la realidad de la endogamia universitaria española: los concursos suelen estar diseñados para candidatos internos previos. El gasto no es fantasma pero es opaco, ya que el BOE no detalla el coste total anual (sueldo mas complementos) que supone este funcionario vitalicio para las arcas publicas. En el area de IA, la falta de competencia internacional en estos procesos es una red flag estructural del sistema.",
+    "resumen_ciudadano": "La UNED ha nombrado a un nuevo profesor titular vitalicio en el area de Inteligencia Artificial. Este proceso consolida a un docente como funcionario del Estado, garantizando su plaza de forma permanente tras superar un concurso interno evaluado por una comision universitaria.",
+    "resumen_tweet": "🔍 Auditoria BOE: Nuevo profesor vitalicio de IA en la UNED. ¿Meritocracia real o endogamia academica? 🎓 El sistema sigue blindando plazas sin detallar el coste publico total ni la competencia real. 💸 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de baremacion de la comision",
+      "Inexistencia de desglose salarial en la publicacion",
+      "Riesgo de endogamia institucional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Perez Martin (estabilidad laboral vitalicia)",
+        "UNED (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada al sistema)",
+        "Contribuyente (falta de detalle en el coste publico de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (UNED)",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Opacidad en los criterios de baremacion de la comision",
+      "Inexistencia de desglose salarial en la publicacion",
+      "Riesgo de endogamia institucional"
+    ]
+  },
+  "tweeted": false
+}
