@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17287",
+  "timestamp": "2026-08-08T12:49:04.334Z",
+  "title": "Ley de Cantabria 9/2026, de 23 de julio, de Control Ambiental.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La ley opera una transición del paradigma de control preventivo hacia uno de 'responsabilidad diferida'. Al suprimir el término 'integrado' y potenciar la 'Declaración Ambiental Responsable', la Administración de Cantabria traslada la carga de la prueba y la responsabilidad técnica al promotor privado. Si bien se alinea con directivas europeas, el texto introduce mecanismos de opacidad potencial como los 'bancos de conservación y compensación', que pueden derivar en un mercado de activos ambientales donde el daño en una zona se 'paga' con una mejora en otra, diluyendo el impacto local real. La simplificación administrativa para materias primas fundamentales y actividades extractivas sugiere una priorización del desarrollo industrial sobre la fiscalización previa minuciosa.",
+    "resumen_ciudadano": "Cantabria deroga su ley de 2006 para agilizar licencias. El cambio principal es que muchas actividades ya no necesitarán permiso previo, sino una 'declaración responsable' del empresario. Se crean figuras para compensar daños ambientales y se da más peso a entidades privadas de certificación. Aunque promete mayor transparencia digital, reduce la intervención pública antes de que comiencen los proyectos potencialmente contaminantes.",
+    "resumen_tweet": "🚨 Nueva Ley de Control Ambiental en Cantabria: se agilizan trámites mediante 'declaraciones responsables', reduciendo la fiscalización previa. ¿Simplificación o desprotección? Ojo a los nuevos bancos de compensación. 🌿🏗️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso extensivo de la Declaración Ambiental Responsable en sectores sensibles",
+      "Creación de Bancos de Conservación (posible 'greenwashing' financiero)",
+      "Modificación de la Ley de Patrimonio Cultural vía disposición final",
+      "Externalización de funciones de vigilancia en 'entidades colaboradoras'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industrias extractivas y transformadoras",
+        "Consultoras ambientales y entidades de certificación",
+        "Promotores de energías renovables (parques eólicos)"
+      ],
+      "perdedores": [
+        "Colectivos vecinales (menos margen de alegación previa)",
+        "Pequeños ayuntamientos con menos recursos de inspección post-declaración",
+        "Patrimonio arqueológico y cultural regional"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Reforma del Marco Regulador Ambiental",
+    "banderas_rojas": [
+      "Uso extensivo de la Declaración Ambiental Responsable en sectores sensibles",
+      "Creación de Bancos de Conservación (posible 'greenwashing' financiero)",
+      "Modificación de la Ley de Patrimonio Cultural vía disposición final",
+      "Externalización de funciones de vigilancia en 'entidades colaboradoras'"
+    ]
+  },
+  "tweeted": false
+}
