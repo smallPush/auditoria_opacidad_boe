@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17305",
+  "timestamp": "2026-08-08T13:15:35.980Z",
+  "title": "Resolución de 31 de julio de 2026, del Ayuntamiento de Sotillo de la Adrada (Ávila), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria para una plaza de alta escala (A1/TAG) en un municipio de menos de 5.000 habitantes. Aunque el sistema es de 'oposición libre', lo que sobre el papel garantiza igualdad, el uso de 'días naturales' para el plazo de presentación de instancias es una táctica común para reducir la ventana de respuesta efectiva de aspirantes externos, beneficiando a quienes ya conocen la dinámica interna del consistorio. No se detalla la partida presupuestaria asociada al salario de este alto funcionario local.",
+    "resumen_ciudadano": "El Ayuntamiento de Sotillo de la Adrada (Ávila) busca cubrir una plaza permanente de Técnico de Administración General. Es un puesto de alta responsabilidad administrativa. El plazo para apuntarse es muy corto (20 días naturales), por lo que los interesados deben actuar rápido.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Sotillo de la Adrada (Ávila) convoca plaza de Técnico A1. ¡Atención! Solo 20 días NATURALES para inscribirse. 🏃‍♂️💨 ¿Oportunidad real o burocracia acelerada? #Opacidad #Transparencia #EmpleoPúblico #Ávila",
+    "banderas_red_flags": [
+      "Plazo de inscripción en días naturales (reduce tiempo real)",
+      "Falta de mención al coste salarial anual",
+      "Publicación en periodo estival (agosto)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores profesionales con formación jurídica",
+        "Candidatos con acceso previo a la información municipal"
+      ],
+      "perdedores": [
+        "Aspirantes con poco tiempo de reacción",
+        "Clases populares sin recursos para preparar oposiciones A1"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Plazo de inscripción en días naturales (reduce tiempo real)",
+      "Falta de mención al coste salarial anual",
+      "Publicación en periodo estival (agosto)"
+    ]
+  },
+  "tweeted": false
+}
