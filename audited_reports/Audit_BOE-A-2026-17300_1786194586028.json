@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17300",
+  "timestamp": "2026-08-08T13:09:46.028Z",
+  "title": "Resolución de 27 de julio de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria para una plaza de abogado en Móstoles presenta una anomalía administrativa significativa: las bases publicadas en octubre de 2025 han sido rectificadas en tres ocasiones distintas (febrero, junio y julio de 2026) antes de llegar al BOE. Esta inestabilidad normativa genera una opacidad estructural que dificulta la igualdad de oportunidades, sugiriendo un posible ajuste de los requisitos a perfiles específicos ('trajes a medida'). El uso del sistema de concurso-oposición para personal laboral fijo tiende a favorecer la consolidación de interinos actuales sobre el talento externo.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles abre el plazo para contratar a un abogado fijo, pero lo hace tras cambiar las reglas del juego tres veces en menos de un año. Este desorden en las bases legales puede confundir a los aspirantes y plantea dudas sobre la imparcialidad del proceso.",
+    "resumen_tweet": "⚠️ ¿Plaza con 'nombre y apellidos'? En Móstoles convocan 1 plaza de abogado tras rectificar las bases 3 VECES. 📑 El caos administrativo favorece la opacidad en el empleo público. ¡Ojo a las bases! 🧐 #BOE #Opacidad #Transparencia #Móstoles #Corrupción",
+    "banderas_red_flags": [
+      "Triple rectificación de bases en 9 meses",
+      "Dilación excesiva entre publicación de bases y convocatoria BOE",
+      "Riesgo de 'baremación creativa' en la fase de concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados",
+        "Candidatos que conocen los cambios internos de las bases"
+      ],
+      "perdedores": [
+        "Abogados jóvenes sin experiencia previa en administración",
+        "Candidatos externos confundidos por las sucesivas rectificaciones"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público / Recursos Humanos",
+    "banderas_rojas": [
+      "Triple rectificación de bases en 9 meses",
+      "Dilación excesiva entre publicación de bases y convocatoria BOE",
+      "Riesgo de 'baremación creativa' en la fase de concurso"
+    ]
+  },
+  "tweeted": false
+}
