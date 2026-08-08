@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17293",
+  "timestamp": "2026-08-08T13:06:02.590Z",
+  "title": "Resolución de 30 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 8 de julio de 2026, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, y para el cambio de régimen jurídico del personal laboral fijo incluido en el anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, en el Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se presenta como una 'corrección de errores' técnica, una práctica habitual que a menudo oculta fallos en la tramitación administrativa inicial. Aunque los datos salariales y de destino son públicos (Nivel 22, Complemento Específico de 5.720,82€), la opacidad reside en la naturaleza del error corregido. Se observa una consolidación de plazas mediante promoción interna y cambio de régimen jurídico, lo que favorece la estabilidad del personal ya vinculado a la administración frente al acceso libre ciudadano. Destaca el refuerzo de personal en la 'División de Exhumaciones' de Memoria Democrática, un área de alta carga política.",
+    "resumen_ciudadano": "El Gobierno rectifica formalmente los nombramientos de seis funcionarios en el Cuerpo de Ayudantes de Archivos, Bibliotecas y Museos. Los afectados ocuparán puestos de Jefatura de Sección y Técnicos en ministerios como Cultura, Trabajo y Memoria Democrática, principalmente en Madrid y Sevilla, con un nivel administrativo 22.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El Estado rectifica errores en el nombramiento de nuevos funcionarios de Archivos y Bibliotecas. 6 plazas blindadas con Nivel 22 y 5.720€ de complemento. ¿Eficiencia o burocracia lenta? 📂🏛️ #Transparencia #Opacidad #Funcionarios",
+    "banderas_red_flags": [
+      "Corrección de errores un mes después de la resolución original",
+      "Falta de detalle sobre la causa del error administrativo",
+      "Alta concentración de destinos en Servicios Centrales de Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral que consolida plaza como funcionario de carrera",
+        "Ministerio de Política Territorial y Memoria Democrática (refuerzo en exhumaciones)",
+        "Promoción interna"
+      ],
+      "perdedores": [
+        "Aspirantes por turno libre (menor oferta frente a promoción interna)",
+        "Administración Pública (coste de ineficiencia por errores de registro)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Corrección de errores un mes después de la resolución original",
+      "Falta de detalle sobre la causa del error administrativo",
+      "Alta concentración de destinos en Servicios Centrales de Madrid"
+    ]
+  },
+  "tweeted": false
+}
