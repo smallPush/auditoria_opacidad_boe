@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17292",
+  "timestamp": "2026-08-08T13:07:08.920Z",
+  "title": "Resolución de 30 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se corrigen errores en la de 8 de julio de 2026, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Ingenieros de Caminos, Canales y Puertos del Estado.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una corrección de errores de una resolución previa de nombramiento de funcionarios de carrera en un cuerpo técnico de élite (Ingenieros de Caminos). Aunque el desglose de salarios complementarios y destinos es público, la resolución no especifica qué tipo de 'error' se está subsanando (si es de identificación, de destino o económico), lo que genera una zona de sombra sobre la gestión administrativa inicial. Se observa una tendencia clara al centralismo, con el 80% de los puestos localizados en Madrid.",
+    "resumen_ciudadano": "La Secretaría de Estado de Función Pública modifica el listado de nombramientos de ingenieros del Estado para corregir fallos previos. Se detallan los nombres, sus nuevos ministerios, el nivel de responsabilidad (Nivel 26) y el complemento específico salarial de 13.829,34 euros anuales que recibirán estos funcionarios.",
+    "resumen_tweet": "🛠️ El #BOE corrige 'errores' en el nombramiento de Ingenieros de Caminos. Destaca la concentración de plazas en Madrid (80%) y complementos de 13.829€. ¿Fallo administrativo o falta de rigor inicial? #Transparencia #Opacidad #GestiónPública 🏛️🏗️",
+    "banderas_red_flags": [
+      "Opacidad en la naturaleza del error corregido",
+      "Fuerte centralismo administrativo (Madrid)",
+      "Asignación de complementos específicos elevados sin desglose de funciones extra"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos funcionarios de carrera (Nivel 26)",
+        "Madrid (concentración de puestos)",
+        "Ministerio de Transportes y Movilidad Sostenible"
+      ],
+      "perdedores": [
+        "España periférica (baja representación de destinos fuera de la capital)",
+        "Rigor administrativo (por la necesidad de corrección de errores)",
+        "Contribuyente (opacidad sobre el motivo del cambio)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en la naturaleza del error corregido",
+      "Fuerte centralismo administrativo (Madrid)",
+      "Asignación de complementos específicos elevados sin desglose de funciones extra"
+    ]
+  },
+  "tweeted": false
+}
