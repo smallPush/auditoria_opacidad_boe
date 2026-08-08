@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17288",
+  "timestamp": "2026-08-08T13:04:54.552Z",
+  "title": "Decreto-ley 1/2026, de 10 de junio, del Gobierno de Aragón, por el que se concede un suplemento de crédito para atender las necesidades adicionales de financiación derivadas del funcionamiento de los servicios públicos esenciales y se adoptan medidas urgentes en relación con determinadas subvenciones de interés público.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este Decreto-ley actúa como un parche financiero ante la incapacidad política de aprobar unos presupuestos para 2026. Se recurre a la figura de 'urgente necesidad' para autorizar 134 millones de euros en nueva deuda pública destinada a cubrir gastos corrientes y estructurales (nóminas y funcionamiento). Lo más alarmante es el Artículo 4, que utiliza la técnica de la 'concesión directa' para blindar subvenciones a sindicatos, patronales y cámaras de comercio, eludiendo la concurrencia competitiva y la fiscalización ordinaria bajo el pretexto de que la prórroga presupuestaria les haría perder su estatus nominativo. Es un mecanismo de 'paz social' financiado con deuda.",
+    "resumen_ciudadano": "Aragón no tiene presupuestos nuevos y funciona con los de 2024. Para pagar las subidas salariales de médicos y profesores, y para mantener servicios básicos, el Gobierno autonómico ha aprobado un suplemento de 619 millones de euros. Para conseguir este dinero, se endeudará en 134 millones adicionales. Además, aprovecha la ley para dar subvenciones directas (a dedo) a organizaciones empresariales, sindicatos y otras entidades, evitando que tengan que competir con otros colectivos por esas ayudas.",
+    "resumen_tweet": "🚨 #BOE | Aragón recurre al 'decretazo' para inyectar 619M€ ante la falta de presupuestos. Más deuda (134M€) y subvenciones directas a sindicatos y patronal sin concurso público. ¿Urgencia o mala gestión? 📉💸 #Aragón #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Financiación de gasto corriente mediante deuda pública",
+      "Uso de decretos-ley para evitar el debate parlamentario presupuestario",
+      "Subvenciones directas masivas sin concurrencia competitiva (Art. 4)",
+      "Opacidad terminológica en códigos presupuestarios del Artículo 1"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sindicatos y organizaciones empresariales (subvenciones garantizadas)",
+        "Personal público docente y sanitario (actualización retributiva)",
+        "Cámaras de Comercio e Industria"
+      ],
+      "perdedores": [
+        "Contribuyentes aragoneses (mayor carga de deuda pública)",
+        "Pequeñas asociaciones y ONGs (excluidas del reparto directo)",
+        "Transparencia democrática por elusión de la Ley de Presupuestos ordinaria"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Decreto-ley / Suplemento de Crédito",
+    "banderas_rojas": [
+      "Financiación de gasto corriente mediante deuda pública",
+      "Uso de decretos-ley para evitar el debate parlamentario presupuestario",
+      "Subvenciones directas masivas sin concurrencia competitiva (Art. 4)",
+      "Opacidad terminológica en códigos presupuestarios del Artículo 1"
+    ]
+  },
+  "tweeted": false
+}
