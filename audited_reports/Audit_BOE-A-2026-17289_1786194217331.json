@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17289",
+  "timestamp": "2026-08-08T13:03:37.331Z",
+  "title": "Orden AUC/841/2026, de 6 de agosto, por la que se resuelve la convocatoria de libre designación, efectuada por Orden AUC/532/2026, de 21 de mayo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento de alto nivel (Nivel 30) mediante el sistema de 'libre designación', un mecanismo que permite la elección discrecional por parte de la jerarquía política, eludiendo el concurso de méritos tradicional. El adjudicatario proviene de un puesto clave en el Ministerio de Hacienda relacionado con los Fondos Europeos, lo que sugiere un movimiento estratégico de la élite administrativa (Cuerpo Superior de Estadísticos) hacia puestos de diplomacia económica. No se detallan las razones específicas de idoneidad, limitándose a cumplir la formalidad legal del sistema de 'dedazo' institucionalizado.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha colocado a un nuevo Subdirector General de Relaciones Económicas mediante designación directa. El puesto, con el nivel salarial más alto de la administración civil (Nivel 30), ha sido otorgado a un funcionario que ya ocupaba cargos de responsabilidad en Hacienda, reforzando la endogamia en las cúpulas del Estado.",
+    "resumen_tweet": "🚩 Nueva 'Libre Designación' en Exteriores. Adjudicado un puesto Nivel 30 (Subdirector) sin concurso de méritos. El sistema permite elegir 'a dedo' a la élite administrativa. ¿Transparencia? Cero criterios publicados. 🕵️‍♂️🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección a dedo)",
+      "Puesto de máxima categoría administrativa (Nivel 30)",
+      "Falta de justificación técnica sobre la idoneidad del candidato",
+      "Opacidad en los criterios de selección frente a otros posibles candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Salvador Salvador (mantiene estatus Nivel 30)",
+        "Cuerpo Superior de Estadísticos del Estado (presencia en Exteriores)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Principio de mérito y capacidad",
+        "Transparencia en la gestión de recursos humanos públicos"
+      ]
+    },
+    "comunidad_autonoma": "No aplica (Ámbito Estatal)",
+    "tipologia": "Nombramientos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección a dedo)",
+      "Puesto de máxima categoría administrativa (Nivel 30)",
+      "Falta de justificación técnica sobre la idoneidad del candidato",
+      "Opacidad en los criterios de selección frente a otros posibles candidatos"
+    ]
+  },
+  "tweeted": false
+}
