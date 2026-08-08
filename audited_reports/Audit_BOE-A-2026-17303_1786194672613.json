@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17303",
+  "timestamp": "2026-08-08T13:11:12.613Z",
+  "title": "Resolución de 31 de julio de 2026, del Ayuntamiento de Leganés (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'promoción interna' para puestos clave de fiscalización (Inspector/a Fiscal), lo que reduce la competencia efectiva y blinda el ascenso a personal ya insertado en la estructura municipal. La clasificación bajo 'cometidos especiales' suele ser un cajón de sastre administrativo que permite una mayor discrecionalidad en la definición de funciones y requisitos, dificultando la fiscalización externa de la idoneidad del perfil seleccionado para la vigilancia de las arcas públicas.",
+    "resumen_ciudadano": "El Ayuntamiento de Leganés convoca dos plazas para inspectores de Hacienda, pero con un matiz restrictivo: solo pueden optar personas que ya trabajen dentro del ayuntamiento. Esto cierra la puerta a profesionales externos y perpetúa la endogamia administrativa en puestos de control financiero.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Leganés reserva 2 plazas de Inspector Fiscal solo para 'promoción interna'. Un círculo cerrado que impide el acceso a profesionales externos en puestos de control financiero. ¿Transparencia o blindaje? 🏛️💸 #Opacidad #Leganés",
+    "banderas_red_flags": [
+      "Acceso restringido por promoción interna",
+      "Clasificación ambigua como 'Cometidos Especiales'",
+      "Fragmentación informativa entre BOCM y BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empleados municipales actuales",
+        "Estructura política local"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Profesionales del sector privado",
+        "Ciudadanía (menor diversidad de perfiles técnicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Resolución de Empleo Público / Fiscalidad",
+    "banderas_rojas": [
+      "Acceso restringido por promoción interna",
+      "Clasificación ambigua como 'Cometidos Especiales'",
+      "Fragmentación informativa entre BOCM y BOE"
+    ]
+  },
+  "tweeted": false
+}
