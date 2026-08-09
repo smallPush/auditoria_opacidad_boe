@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17301",
+  "timestamp": "2026-08-09T02:30:19.175Z",
+  "title": "Resolución de 30 de julio de 2026, del Ayuntamiento de Casas de Ves (Albacete), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolución del Ayuntamiento de Casas de Ves incurre en una opacidad operativa mediante la técnica de 'remisión externa'. Aunque cumple con el requisito formal de publicar en el BOE, el contenido sustancial (los criterios de selección) se oculta en el Boletín de la Provincia de Albacete. El sistema de concurso-oposición en el ámbito laboral fijo de una administración local pequeña suele ser una señal de 'consolidación encubierta', donde la fase de concurso puntúa méritos previos que suelen beneficiar al personal interino que ya ocupa el puesto, dificultando el acceso real en igualdad de condiciones a nuevos opositores.",
+    "resumen_ciudadano": "Se busca cubrir una plaza de Auxiliar Administrativo de forma fija en Casas de Ves (Albacete). El proceso es un concurso-oposición, lo que significa que además de aprobar exámenes se valorará la experiencia previa. Tienes 20 días hábiles para presentar tu solicitud tras la última publicación oficial.",
+    "resumen_tweet": "🧐 ¿Transparencia o laberinto? Casas de Ves convoca plaza de Auxiliar. Las bases reales están ocultas en boletines provinciales. El sistema de 'concurso-oposición' podría favorecer el clientelismo. 🏛️💼 #BOE #Opacidad #Transparencia #Albacete",
+    "banderas_red_flags": [
+      "Opacidad por remisión a boletines externos",
+      "Potencial sesgo hacia personal interino (concurso-oposición)",
+      "Falta de mención al coste presupuestario de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el municipio",
+        "Candidatos locales con acceso a boletines provinciales"
+      ],
+      "perdedores": [
+        "Opositores noveles sin puntos por méritos",
+        "Candidatos de fuera de la provincia",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Opacidad por remisión a boletines externos",
+      "Potencial sesgo hacia personal interino (concurso-oposición)",
+      "Falta de mención al coste presupuestario de la plaza"
+    ]
+  },
+  "tweeted": false
+}
