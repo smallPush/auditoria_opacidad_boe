@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17290",
+  "timestamp": "2026-08-09T02:22:22.230Z",
+  "title": "Orden EFD/842/2026, de 30 de julio, por la que, a propuesta de la Consejería de Educación, Ciencia, Universidades y Formación Profesional de la Comunidad Autónoma de Galicia, se nombra personal funcionario de carrera de los Cuerpos de Inspectores de Educación, Profesores de Enseñanza Secundaria, Profesores Especialistas en Sectores Singulares de la Formación Profesional y Maestros, a las personas seleccionadas en los procedimientos selectivos convocados por Orden de 14 de febrero de 2025.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de empleo público en Galicia. Aunque el documento es transparente en cuanto a la identidad (parcial) y méritos de los seleccionados, existe una 'opacidad estructural' en este tipo de publicaciones: no se detalla el impacto presupuestario plurianual que suponen estos nombramientos vitalicios ni el coste de las pensiones futuras asociadas. El lenguaje es puramente procedimental, lo que oculta el trasfondo de la gestión de recursos humanos bajo una capa de burocracia técnica. Se aprecia una clara mayoría femenina en las especialidades de Lengua y Filosofía.",
+    "resumen_ciudadano": "El Gobierno oficializa el nombramiento de nuevos profesores e inspectores de carrera en Galicia tras superar las pruebas de 2025. Estos profesionales adquieren la condición de funcionarios fijos con efectos desde el 1 de septiembre de 2026, garantizándoles estabilidad laboral permanente.",
+    "resumen_tweet": "🎓 Galicia suma nuevos funcionarios en Educación. El #BOE publica el listado de aprobados de las oposiciones de 2025. Estabilidad laboral garantizada, pero sin datos sobre el coste total para las arcas públicas. 📝💸 #Transparencia #Galicia #Oposiciones",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica adjunta",
+      "Falta de datos sobre el coste total de la masa salarial creada",
+      "Invisibilización de las plazas interinas que se amortizan"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores seleccionados (estabilidad vitalicia)",
+        "Xunta de Galicia (reducción de tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado",
+        "Contribuyentes (por la falta de transparencia en el compromiso de gasto a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Ausencia de memoria económica adjunta",
+      "Falta de datos sobre el coste total de la masa salarial creada",
+      "Invisibilización de las plazas interinas que se amortizan"
+    ]
+  },
+  "tweeted": false
+}
