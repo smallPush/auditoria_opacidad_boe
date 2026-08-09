@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-17375",
+  "timestamp": "2026-08-09T12:51:22.408Z",
+  "title": "Orden INT/846/2026, de 7 de agosto, sobre el restablecimiento temporal de los controles fronterizos en las fronteras interiores aéreas y marítimas españolas con respecto a los vuelos y enlaces marítimos de pasajeros procedentes de la República Italiana.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden INT/846/2026 instrumentaliza el Código de fronteras Schengen para ejercer presión política sobre la República Italiana, señalando explícitamente su 'deficiente cumplimiento' de las normas de asilo europeas. Aunque se justifica en la seguridad nacional y el control migratorio, la medida fragmenta el principio de libre circulación. Existe una opacidad operativa significativa: el Artículo 2.4 delega la lista de aeropuertos y puertos afectados a 'instrucciones' internas de la Secretaría de Estado de Seguridad, lo que sustrae del escrutinio público los puntos exactos de control y los criterios de riesgo aplicados, permitiendo una discrecionalidad policial elevada bajo una capa de legalidad técnica.",
+    "resumen_ciudadano": "El Gobierno de España suspende temporalmente la libre circulación de personas (espacio Schengen) para vuelos y barcos procedentes de Italia durante 30 días (agosto-septiembre 2026). Se restablecen los controles de identidad en puertos y aeropuertos justificándolo por el aumento de la migración irregular y la supuesta falta de colaboración de Italia en la gestión de refugiados. Esta medida afectará a todos los pasajeros que viajen desde Italia, quienes deberán pasar controles policiales adicionales a su llegada a España.",
+    "resumen_tweet": "🚨 ¡Adiós a Schengen! España restablece controles fronterizos con Italia 🇮🇹✈️. Interior alega 'presión migratoria' y falta de cooperación de Roma. ¿Seguridad o erosión de derechos? El control queda a discreción policial. #BOE #Opacidad #Transparencia 🛡️📉",
+    "banderas_red_flags": [
+      "Externalización de la responsabilidad hacia otro Estado miembro (Italia)",
+      "Uso del terrorismo como justificación genérica sin datos específicos de amenaza",
+      "Opacidad en la selección de puertos y aeropuertos (delegado a instrucciones no publicadas)",
+      "Potencial riesgo de perfiles raciales en controles 'flexibles' basados en análisis de riesgo",
+      "Gastos operativos policiales no cuantificados en la orden"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (mayor control jurisdiccional)",
+        "Unidades de extranjería y fronteras (recursos adicionales)",
+        "Discurso político de 'fronteras seguras'"
+      ],
+      "perdedores": [
+        "Turistas y viajeros frecuentes entre Italia y España (retrasos)",
+        "Solicitantes de protección internacional (mayores trabas en frontera)",
+        "El concepto de Espacio Schengen como zona de libre tránsito"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Control de Fronteras y Seguridad Pública",
+    "banderas_rojas": [
+      "Externalización de la responsabilidad hacia otro Estado miembro (Italia)",
+      "Uso del terrorismo como justificación genérica sin datos específicos de amenaza",
+      "Opacidad en la selección de puertos y aeropuertos (delegado a instrucciones no publicadas)",
+      "Potencial riesgo de perfiles raciales en controles 'flexibles' basados en análisis de riesgo",
+      "Gastos operativos policiales no cuantificados en la orden"
+    ]
+  },
+  "tweeted": false
+}
