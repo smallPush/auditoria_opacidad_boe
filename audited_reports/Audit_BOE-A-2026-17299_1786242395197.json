@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17299",
+  "timestamp": "2026-08-09T02:26:35.197Z",
+  "title": "Resolución de 16 de julio de 2026, del Ayuntamiento de Alovera (Guadalajara), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para plazas de Grupo A1 (el más alto nivel funcionarial) en turno libre. Este método, aunque legal, suele ser un mecanismo para estabilizar a personal interino previo, ya que la fase de concurso (méritos) penaliza a los aspirantes que no han trabajado anteriormente en la administración, dificultando el acceso por mérito y capacidad pura en comparación con una oposición directa. La remisión al Boletín Provincial obliga al ciudadano a un rastreo documental extra, aumentando la fricción en la fiscalización.",
+    "resumen_ciudadano": "El Ayuntamiento de Alovera (Guadalajara) abre proceso para contratar a dos Técnicos de Administración de alto nivel. El proceso no será solo por examen, sino que se valorarán méritos previos, lo que habitualmente beneficia a quienes ya están dentro de la institución.",
+    "resumen_tweet": "🚨 ¡Ojo en Alovera! 2 plazas de alto nivel (A1) convocadas por concurso-oposición. ¿Mérito o consolidación encubierta? El sistema de puntos suele favorecer a interinos frente a nuevos aspirantes. 🧐📑 #BOE #Opacidad #Transparencia #Alovera",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición en turno libre para Grupo A1",
+      "Externalización de las bases detalladas a boletines provinciales",
+      "Posible consolidación de puestos interinos bajo apariencia de libre acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con experiencia previa en el Ayuntamiento",
+        "Candidatos con amplia trayectoria en administración local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Graduados recientes con alta capacidad técnica pero sin puntos por méritos",
+        "Transparencia en el acceso igualitario a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso de concurso-oposición en turno libre para Grupo A1",
+      "Externalización de las bases detalladas a boletines provinciales",
+      "Posible consolidación de puestos interinos bajo apariencia de libre acceso"
+    ]
+  },
+  "tweeted": false
+}
