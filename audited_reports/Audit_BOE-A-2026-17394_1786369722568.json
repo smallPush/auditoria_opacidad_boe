@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17394",
+  "timestamp": "2026-08-10T13:48:42.568Z",
+  "title": "Resolución de 29 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por promoción interna, de la Escala de Personal Investigador Científico de los Organismos Públicos de Investigación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento revela una parálisis administrativa preocupante: un proceso de promoción interna iniciado en marzo de 2023 no culmina para este aspirante hasta agosto de 2026. Se observan hasta seis resoluciones de corrección o modificación previas, lo que indica una gestión técnica deficiente. El uso del artículo 61.8 del EBEP para rescatar una plaza 'complementaria' tres años después evidencia una planificación de recursos humanos reactiva y no estratégica.",
+    "resumen_ciudadano": "Nombramiento de un funcionario de carrera en la escala científica tras un proceso burocrático que ha durado más de tres años y ha requerido múltiples correcciones oficiales. El beneficiario se incorporará al CIEMAT en Madrid con un nivel 28.",
+    "resumen_tweet": "🐢 3 AÑOS para una promoción interna en ciencia. El #BOE de hoy muestra la lentitud de la burocracia: un proceso de 2023 que termina en 2026 tras infinitas correcciones. ¿Es esta la eficiencia digital prometida? 📉 #Opacidad #Transparencia #Ciencia",
+    "banderas_red_flags": [
+      "Dilación temporal extrema (3 años para resolución)",
+      "Sexta iteración/corrección del proceso original",
+      "Fragmentación de nombramientos mediante listas complementarias",
+      "Opacidad en los motivos de la demora entre mayo 2025 y julio 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal promocionado (estabilidad y mejora salarial Nivel 28)",
+        "Estructura administrativa (justifica su existencia mediante procesos circulares)"
+      ],
+      "perdedores": [
+        "Eficiencia del sistema de I+D+i (talento bloqueado en burocracia)",
+        "Contribuyentes (coste de gestión de un proceso de 3 años con múltiples publicaciones en BOE)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Destino en Madrid)",
+    "tipologia": "Nombramientos y Función Pública",
+    "banderas_rojas": [
+      "Dilación temporal extrema (3 años para resolución)",
+      "Sexta iteración/corrección del proceso original",
+      "Fragmentación de nombramientos mediante listas complementarias",
+      "Opacidad en los motivos de la demora entre mayo 2025 y julio 2026"
+    ]
+  },
+  "tweeted": false
+}
