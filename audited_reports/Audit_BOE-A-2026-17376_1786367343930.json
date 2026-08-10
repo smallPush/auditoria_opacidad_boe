@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17376",
+  "timestamp": "2026-08-10T13:09:03.930Z",
+  "title": "Resolución de 31 de julio de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento es un ejemplo clásico del sistema de 'libre designación', un mecanismo legal que permite la adjudicación de puestos de alto nivel basándose en la confianza y no estrictamente en el concurso de méritos. El nombramiento de un funcionario de la Agencia Tributaria (AEAT) para el puesto de Canciller en la Embajada de Quito (Ecuador) evidencia la porosidad de la administración para colocar perfiles en destinos internacionales 'deseables' bajo criterios subjetivos. No se especifican los motivos de la idoneidad frente a otros candidatos, lo que perpetúa la opacidad en el servicio exterior.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha asignado 'a dedo' (libre designación) el puesto de Canciller en la Embajada de España en Ecuador. El adjudicatario, procedente de la Agencia Tributaria en Barcelona, ocupa ahora un nivel 24 en el extranjero. Este sistema permite que los altos cargos elijan directamente a quién enviar a destinos diplomáticos sin explicar públicamente por qué esa persona es la mejor para el cargo.",
+    "resumen_tweet": "🚨 ¡Nuevo dedazo en el exterior! 🇪🇨 Adjudican plaza de Canciller en Quito mediante 'libre designación'. De la Agencia Tributaria en Barcelona a la embajada sin concurso de méritos transparente. ¿Confianza o mérito? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Falta de justificación técnica del perfil seleccionado",
+      "Trasvase de personal de Hacienda a Exteriores en puestos de confianza",
+      "Resolución parcial que fragmenta la visibilidad del proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Charlin Menéndez (ascenso a nivel 24 y destino internacional)",
+        "Élites administrativas con acceso a redes de confianza"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor mérito técnico sin red de contactos",
+        "Criterios de igualdad y capacidad",
+        "Contribuyentes que financian la opacidad diplomática"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Servicio Exterior)",
+    "tipologia": "Nombramiento de Personal / Discrecionalidad Administrativa",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Falta de justificación técnica del perfil seleccionado",
+      "Trasvase de personal de Hacienda a Exteriores en puestos de confianza",
+      "Resolución parcial que fragmenta la visibilidad del proceso"
+    ]
+  },
+  "tweeted": false
+}
