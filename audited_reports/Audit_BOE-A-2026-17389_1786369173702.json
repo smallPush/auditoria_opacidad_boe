@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17389",
+  "timestamp": "2026-08-10T13:39:33.702Z",
+  "title": "Resolución de 3 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 6 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se resuelve una convocatoria de libre designación para un puesto de Subdirector General en el Fondo Español de Garantía Agraria (FEGA), organismo que gestiona millones de euros en fondos de la PAC. El sistema de 'libre designación' es legalmente equivalente a un nombramiento discrecional ('a dedo'), lo que en cargos que manejan subvenciones críticas genera un riesgo de politización de la gestión técnica. No se detallan los méritos específicos que hicieron al candidato superior a otros aspirantes.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha nombrado a un nuevo Subdirector General para el organismo que reparte las ayudas agrarias. El proceso no ha sido un concurso de méritos abierto, sino una elección directa por confianza, una práctica común en la alta administración que dificulta la fiscalización ciudadana sobre quién gestiona el dinero público.",
+    "resumen_tweet": "🧐 Nueva 'libre designación' en el FEGA. El Ministerio elige a dedo al Subdirector General que gestionará fondos agrarios. ¿Meritocracia o confianza política? La opacidad del sistema A1 sigue intacta. #BOE #Opacidad #Transparencia #EnchufismoElite",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Falta de justificación de méritos en el extracto",
+      "Gestión de fondos sensibles por personal elegido por confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sánchez Rodríguez, Ignacio (ascenso a nivel 30)",
+        "Cúpula política del Ministerio de Agricultura (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios con méritos técnicos sin afinidad política",
+        "Transparencia en la gestión de fondos agrarios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de personal directivo",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Falta de justificación de méritos en el extracto",
+      "Gestión de fondos sensibles por personal elegido por confianza"
+    ]
+  },
+  "tweeted": false
+}
