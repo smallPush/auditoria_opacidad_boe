@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17514",
+  "timestamp": "2026-08-11T13:25:18.176Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 26 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'Libre Designacion', un sistema de nombramiento discrecional que permite a la administracion elegir personal sin un concurso de meritos publico y transparente. Aunque legal bajo el RD 364/1995, este metodo es criticado frecuentemente por ser una via para la 'dedocracia' o el clientelismo politico, especialmente en niveles altos como el Nivel 28 asignado al Alto Inspector en La Rioja. No se detallan los motivos especificos por los cuales estos candidatos son mas aptos que otros, mas alla del cumplimiento formal de requisitos.",
+    "resumen_ciudadano": "El Ministerio de Politica Territorial ha adjudicado dos puestos de trabajo mediante designacion directa (a dedo). Se ha nombrado a una secretaria para la Subdelegacion del Gobierno en Huelva y a un Alto Inspector de Educacion en La Rioja. Al ser libre designacion, no ha habido una competicion publica basada puramente en meritos.",
+    "resumen_tweet": "🚩 Mas puestos asignados 'a dedo' en el #BOE. El Ministerio de Politica Territorial resuelve vacantes por Libre Designacion en Huelva y La Rioja. ¿Meritocracia o confianza politica? La opacidad del sistema sigue vigente. 🧐🏛️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso del procedimiento de Libre Designacion (discrecionalidad)",
+      "Salto de nivel administrativo (de 24 a 28) sin concurso de meritos",
+      "Falta de publicacion de los criterios de seleccion especificos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Calvo Martinez (ascenso a Nivel 28)",
+        "Rocio Mendez Perez",
+        "Cargos politicos que aseguran personal de su confianza"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores meritos no seleccionados",
+        "Transparencia publica",
+        "Ciudadania (por el potencial uso partidista de la administracion)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con efectos en Andalucia y La Rioja)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del procedimiento de Libre Designacion (discrecionalidad)",
+      "Salto de nivel administrativo (de 24 a 28) sin concurso de meritos",
+      "Falta de publicacion de los criterios de seleccion especificos"
+    ]
+  },
+  "tweeted": false
+}
