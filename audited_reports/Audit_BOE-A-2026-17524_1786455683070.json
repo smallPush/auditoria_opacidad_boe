@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17524",
+  "timestamp": "2026-08-11T13:41:23.070Z",
+  "title": "Resolución 452/38356/2026, de 6 de agosto, de la Dirección General de Reclutamiento y Enseñanza Militar, por la que se publica la relación definitiva de personas propuestas para ser nombradas alumnos y alumnas para el ingreso en los centros docentes militares de formación, mediante las formas de ingreso directo y promoción, para la incorporación como militar de carrera o la adscripción como militar de complemento a las Escalas de Oficiales de los Cuerpos de Intendencia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura meritocrática clara al publicar nombres, DNI parciales y puntuaciones exactas. Sin embargo, existe una opacidad económica significativa en el punto Segundo.2, donde se autoriza la expedición de pasaportes, títulos de viaje y dietas con cargo a los presupuestos de cada Ejército sin especificar límites de gasto ni cuantía total estimada. Esta 'chequera abierta' para traslados logísticos es un gasto que el ciudadano no puede fiscalizar. Además, la nota al pie sobre la 'acumulación de plazas' sugiere una redistribución discrecional de vacantes que no siempre es intuitiva para el opositor externo.",
+    "resumen_ciudadano": "Se ha publicado la lista definitiva de los nuevos alumnos que ingresarán en las academias militares para convertirse en oficiales de Intendencia (gestión económica y logística). Los seleccionados deben presentarse en Zaragoza, Marín o San Javier en agosto de 2026. Aquellos que ya eran militares recibirán dietas y gastos de viaje pagados por el Estado.",
+    "resumen_tweet": "🪖 Publicada la lista de futuros oficiales de Intendencia. Notas claras, pero ¿y el gasto? El #BOE autoriza dietas y viajes sin desglosar el coste total para el contribuyente. Transparencia a medias en Defensa. 🧐 #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Gasto discrecional en dietas y viajes sin techo presupuestario especificado",
+      "Opacidad en la lógica de acumulación de plazas (redistribución de vacantes)",
+      "Falta de datos sobre el número total de aspirantes que quedaron fuera del proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Las 48 personas seleccionadas por ingreso directo",
+        "Militares de carrera que logran cambio de cuerpo",
+        "Academias privadas de preparación de oposiciones militares"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados (sin información sobre el ratio de éxito)",
+        "Contribuyentes (por la falta de transparencia en el coste total de la movilización de alumnos)",
+        "Zonas rurales (la formación se centraliza exclusivamente en grandes centros de Zaragoza, Pontevedra y Murcia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Nombramientos de Personal",
+    "banderas_rojas": [
+      "Gasto discrecional en dietas y viajes sin techo presupuestario especificado",
+      "Opacidad en la lógica de acumulación de plazas (redistribución de vacantes)",
+      "Falta de datos sobre el número total de aspirantes que quedaron fuera del proceso"
+    ]
+  },
+  "tweeted": false
+}
