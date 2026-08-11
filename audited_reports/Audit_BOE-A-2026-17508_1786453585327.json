@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17508",
+  "timestamp": "2026-08-11T13:06:25.327Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Secretaría de Estado para Iberoamérica y el Caribe y el Español en el Mundo, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 21 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una adjudicación de puesto de alto nivel (Nivel 30) mediante el sistema de 'libre designación', lo que en la práctica administrativa española suele traducirse como un nombramiento discrecional basado en la confianza política más que en una concurrencia competitiva pura. Aunque el texto se ampara en el Real Decreto-ley 6/2023 para la modernización de la función pública, la estructura de 'libre designación' para puestos de Subdirector General en el Ministerio de Asuntos Exteriores sigue blindando el acceso a la élite de la Carrera Diplomática, dificultando el acceso de otros cuerpos técnicos del Estado con méritos equivalentes.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado a Jose Maria Davo Cabra como Subdirector General de Fomento del Español en el Mundo. Este puesto es de libre designación (elección directa) y supone el nivel salarial más alto para un funcionario (Nivel 30).",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' legal en el @MAECgob. Se adjudica una Subdirección General de Nivel 30 mediante libre designación. La élite diplomática blinda sus puestos de poder bajo el paraguas de la discrecionalidad. 🏛️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Resolución parcial de convocatoria",
+      "Adjudicación a miembro de la Carrera Diplomática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Maria Davo Cabra",
+        "Cuerpo de la Carrera Diplomática",
+        "Ministerio de Asuntos Exteriores"
+      ],
+      "perdedores": [
+        "Cuerpos técnicos de la administración no diplomáticos",
+        "Transparencia meritocrática",
+        "Ciudadanía (por falta de justificación de idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel administrativo)",
+      "Resolución parcial de convocatoria",
+      "Adjudicación a miembro de la Carrera Diplomática"
+    ]
+  },
+  "tweeted": false
+}
