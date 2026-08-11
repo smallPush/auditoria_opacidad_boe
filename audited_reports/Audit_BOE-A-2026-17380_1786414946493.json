@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17380",
+  "timestamp": "2026-08-11T02:22:26.493Z",
+  "title": "Orden PJC/849/2026, de 31 de julio, por la que se nombra personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, por promoción interna, a las personas que superaron el proceso selectivo convocado por Orden PJC/150/2024, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un ejercicio de transparencia administrativa estándar al publicar nombres y calificaciones, pero revela una 'lentitud burocrática sistémica': el proceso se convocó en febrero de 2024 y no se resuelve hasta agosto de 2026. Esta dilatación de dos años supone una barrera invisible para la eficiencia judicial. Además, el sistema de promoción interna, aunque legítimo, limita el acceso de talento joven externo a estas plazas, favoreciendo la endogamia corporativa dentro del Ministerio. La opacidad se mantiene en el Anexo II, donde las exclusiones se limitan a códigos normativos (Base 8.3) sin explicar al ciudadano el motivo real del rechazo.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha hecho oficial el nombramiento de los nuevos funcionarios que han ascendido al Cuerpo de Tramitación Procesal. Se publican sus notas finales y sus destinos en diferentes comunidades autónomas.",
+    "resumen_tweet": "⚖️ El #BOE publica los ascensos en Justicia tras 2 años de espera. Un proceso lento que consolida la estructura interna pero evidencia la tortuga burocrática 🐢. Transparencia en notas, opacidad en los motivos de exclusión. #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva: 2 años para resolver un concurso-oposición",
+      "Opacidad en motivos de exclusión remitidos a bases técnicas",
+      "Alta dependencia de la discrecionalidad en la fase de concurso (méritos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (promoción interna)",
+        "Ministerio de Justicia (estabilización de plazas)",
+        "Mujeres en la administración (hegemonía femenina en el listado)"
+      ],
+      "perdedores": [
+        "Opositores libres (plazas no disponibles para acceso general)",
+        "Eficiencia administrativa (proceso de 2024 a 2026)",
+        "Candidatos excluidos por criterios técnicos del Anexo II"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones Personales",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva: 2 años para resolver un concurso-oposición",
+      "Opacidad en motivos de exclusión remitidos a bases técnicas",
+      "Alta dependencia de la discrecionalidad en la fase de concurso (méritos)"
+    ]
+  },
+  "tweeted": false
+}
