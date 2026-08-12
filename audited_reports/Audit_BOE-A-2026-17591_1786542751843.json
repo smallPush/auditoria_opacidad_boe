@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17591",
+  "timestamp": "2026-08-12T13:52:31.843Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Tazacorte (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 0.75,
+    "analisis_critico": "Aunque la convocatoria es pública, el sistema de concurso-oposición para plazas de personal laboral fijo en municipios pequeños suele ser una herramienta de consolidación para personal que ya desempeña el cargo de forma interina. La opacidad reside en el peso de la fase de concurso (méritos), que no se detalla en el BOE sino que remite a un boletín provincial previo, dificultando la fiscalización ciudadana inmediata sobre la igualdad de oportunidades.",
+    "resumen_ciudadano": "El Ayuntamiento de Tazacorte (La Palma) convoca dos plazas de personal fijo: un cocinero/a y un socorrista. El proceso de selección incluye examen y valoración de méritos. Los interesados tienen 20 días hábiles para presentar su solicitud a partir del día siguiente a la publicación.",
+    "resumen_tweet": "📢 ¡Atención Tazacorte! 🌴 El Ayuntamiento convoca plazas fijas de Cocinero/a y Socorrista. 🧐 El sistema de concurso-oposición podría beneficiar a quienes ya están dentro. ¡20 días para apuntarse! ⏳ #BOE #Tazacorte #EmpleoPúblico #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición (posible ventaja para interinos)",
+      "Remisión de bases a boletín de menor rango (BOP)",
+      "Plazas de personal laboral fijo vs funcionario de carrera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal con experiencia previa en el ayuntamiento",
+        "Candidatos con méritos acumulados por antigüedad"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Ciudadanos sin acceso al BOP de Santa Cruz de Tenerife"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición (posible ventaja para interinos)",
+      "Remisión de bases a boletín de menor rango (BOP)",
+      "Plazas de personal laboral fijo vs funcionario de carrera"
+    ]
+  },
+  "tweeted": false
+}
