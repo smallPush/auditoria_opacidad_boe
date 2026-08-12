@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17592",
+  "timestamp": "2026-08-12T13:47:58.918Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Trillo (Guadalajara), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se identifica una convocatoria para una sola plaza de operario/a de limpieza bajo el sistema de concurso-oposición. Este formato, aunque legal, es frecuentemente utilizado por la administración local para la consolidación de personal interino específico, lo que reduce la igualdad de oportunidades efectiva para ciudadanos externos. La opacidad reside en la fragmentación de la información: el BOE actúa como mero trámite, remitiendo al BOP de Guadalajara para las bases reales, dificultando el acceso directo a los criterios de baremación que suelen estar diseñados a medida.",
+    "resumen_ciudadano": "El Ayuntamiento de Trillo convoca una plaza fija de limpieza. El proceso de selección incluye méritos previos (concurso), lo que sugiere que podría estar destinada a regularizar a alguien que ya ocupa el puesto de forma temporal.",
+    "resumen_tweet": "🔍 Auditoría BOE: El Ayto de Trillo lanza 1 plaza de limpieza vía concurso-oposición. ¿Mérito real o consolidación encubierta? 🧹 La fragmentación de bases dificulta el acceso ciudadano. #BOE #Opacidad #Transparencia #Guadalajara",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para plaza única",
+      "Remisión a boletines provinciales para criterios de selección",
+      "Potencial barrera de acceso para candidatos sin experiencia previa en el municipio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del ayuntamiento",
+        "Candidatos con puntos por antigüedad municipal"
+      ],
+      "perdedores": [
+        "Desempleados sin experiencia previa en la administración",
+        "Jóvenes locales sin red de contactos institucionales"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Convocatoria de Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para plaza única",
+      "Remisión a boletines provinciales para criterios de selección",
+      "Potencial barrera de acceso para candidatos sin experiencia previa en el municipio"
+    ]
+  },
+  "tweeted": false
+}
