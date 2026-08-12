@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17585",
+  "timestamp": "2026-08-12T13:42:38.680Z",
+  "title": "Resolución de 5 de agosto de 2026, del Ayuntamiento de Muros (A Coruña), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición en turno de promoción interna para una única plaza, una mecánica recurrente que a menudo oculta la consolidación de puestos específicos para personal ya integrado en la estructura municipal. El plazo de diez días hábiles es legal pero extremadamente reducido, lo que minimiza la capacidad de reacción o fiscalización por parte de terceros o sindicatos externos. La transparencia se cumple en la forma (publicación en BOE y BOP) pero se diluye en el fondo al restringir el acceso a la carrera profesional exclusivamente a los de dentro.",
+    "resumen_ciudadano": "El Ayuntamiento de Muros ha publicado una oferta de trabajo para una plaza de administrativo que solo está disponible para personas que ya trabajan allí. El plazo para presentar la documentación es de apenas 10 días, lo que hace el proceso muy cerrado y difícil de seguir para quien no esté ya en el círculo administrativo municipal.",
+    "resumen_tweet": "🔎 ¡Ojo en Muros! 1 plaza de administrativo por promoción interna. Solo 10 días para solicitar. ¿Transparencia o trámite a medida para los de siempre? Lo público debe ser para todos, no solo para los de dentro. 🏛️💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plazo de solicitud extremadamente corto (10 días)",
+      "Promoción interna de plaza única",
+      "Limitación de acceso a la ciudadanía general"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno del Ayuntamiento de Muros",
+        "Endogamia administrativa"
+      ],
+      "perdedores": [
+        "Opositores externos cualificados",
+        "Ciudadanos sin cargos previos",
+        "Principios de mérito y capacidad universal"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público / Promoción Interna",
+    "banderas_rojas": [
+      "Plazo de solicitud extremadamente corto (10 días)",
+      "Promoción interna de plaza única",
+      "Limitación de acceso a la ciudadanía general"
+    ]
+  },
+  "tweeted": false
+}
