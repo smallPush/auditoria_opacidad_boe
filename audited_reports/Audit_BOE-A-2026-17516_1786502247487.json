@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17516",
+  "timestamp": "2026-08-12T02:37:27.487Z",
+  "title": "Resolución de 29 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y para el cambio de régimen jurídico del personal laboral fijo incluido en el anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, del Cuerpo de Farmacéuticos Titulares.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento detalla el nombramiento de personal funcionario de carrera en el Cuerpo de Farmacéuticos Titulares. Se observa una fuerte centralización administrativa en Madrid (66% de las plazas analizadas). Existe una disparidad significativa en el 'Complemento Específico' para puestos del mismo nivel (Nivel 26), oscilando entre los 7.591€ en la AEMPS y los 13.234€ en MUFACE, sin que el texto justifique técnicamente esta brecha salarial del 74% entre puestos de igual rango.",
+    "resumen_ciudadano": "Nombramiento oficial de nuevos farmacéuticos del Estado. La mayoría de los puestos se concentran en Madrid, con funciones de inspección de drogas y control de medicamentos. Se detectan diferencias de sueldo notables según el ministerio de destino, a pesar de tener la misma categoría profesional.",
+    "resumen_tweet": "💊 Nuevos farmacéuticos funcionarios en el #BOE. Detectamos brechas salariales: ¿Por qué un Nivel 26 en MUFACE cobra el doble de complemento que en Sanidad? 🤔 Madrid centraliza los puestos mientras la periferia queda en pausa. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Disparidad salarial injustificada en complementos específicos para el mismo nivel (26)",
+      "Alta concentración de plazas en servicios centrales (Madrid) frente a la periferia",
+      "Opacidad en los criterios de adjudicación de los complementos de destino más elevados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio para la Transformación Digital (ofrece el complemento más alto)",
+        "Madrid (concentración de recursos humanos)",
+        "Sector farmacéutico estatal (estabilización de plazas)"
+      ],
+      "perdedores": [
+        "Provincias con menor dotación (Ceuta, Algeciras, Las Palmas con solo una plaza)",
+        "Transparencia retributiva (falta de desglose del valor de los puestos)",
+        "Equidad salarial interministerial"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Principalmente Madrid, con presencia en Andalucía, Cataluña, C. Valenciana, Canarias y Ceuta)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Disparidad salarial injustificada en complementos específicos para el mismo nivel (26)",
+      "Alta concentración de plazas en servicios centrales (Madrid) frente a la periferia",
+      "Opacidad en los criterios de adjudicación de los complementos de destino más elevados"
+    ]
+  },
+  "tweeted": false
+}
