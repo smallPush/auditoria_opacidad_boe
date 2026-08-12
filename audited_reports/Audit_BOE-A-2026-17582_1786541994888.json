@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17582",
+  "timestamp": "2026-08-12T13:39:54.888Z",
+  "title": "Resolución de 29 de julio de 2026, del Ayuntamiento de Torrevieja (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria se disfraza de oferta de empleo público pero es en realidad un proceso de blindaje interno. Al ser exclusivamente por 'promoción interna' y mediante 'concurso-oposición', se prioriza la antigüedad y los méritos subjetivos sobre la capacidad abierta, limitando la regeneración de la administración local. La remisión a las bases en un boletín provincial (BOP) fragmenta la información y dificulta la fiscalización ciudadana sobre los criterios de baremación.",
+    "resumen_ciudadano": "El Ayuntamiento de Torrevieja reserva 24 plazas de administrativo y auxiliar únicamente para personas que ya trabajan allí. No se permite la entrada de nuevos profesionales externos ni desempleados, convirtiendo la administración en un circuito cerrado de ascenso para el personal actual.",
+    "resumen_tweet": "⚠️ ¡Alerta en Torrevieja! 24 plazas de funcionario anunciadas en el #BOE, pero cerradas bajo llave: solo para 'promoción interna'. El sistema de concurso-oposición blinda los privilegios de los de dentro. ¿Y el empleo libre? 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusividad de promoción interna",
+      "Sistema de concurso-oposición (permite alta discrecionalidad en méritos)",
+      "Opacidad por remisión a boletines provinciales externos",
+      "Falta de desglose presupuestario del impacto salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o funcionario actual del Ayto. de Torrevieja",
+        "Sindicatos con acuerdos de promoción interna"
+      ],
+      "perdedores": [
+        "Opositores libres",
+        "Jóvenes cualificados sin antigüedad previa",
+        "Contribuyentes (por falta de competencia en el acceso al puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Resolución de Empleo Público / Promoción Interna",
+    "banderas_rojas": [
+      "Exclusividad de promoción interna",
+      "Sistema de concurso-oposición (permite alta discrecionalidad en méritos)",
+      "Opacidad por remisión a boletines provinciales externos",
+      "Falta de desglose presupuestario del impacto salarial"
+    ]
+  },
+  "tweeted": false
+}
