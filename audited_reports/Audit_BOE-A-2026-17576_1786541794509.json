@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17576",
+  "timestamp": "2026-08-12T13:36:34.509Z",
+  "title": "Resolución de 30 de julio de 2026, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad a doña Elena Granda Fernández.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento de personal funcionario docente bajo la Ley Orgánica 2/2023 (LOSU). El documento cumple con la legalidad administrativa al citar los artículos 69 y 71, pero perpetúa la opacidad del sistema de méritos: el ciudadano no puede verificar por qué esta candidata fue superior a otros, ya que la resolución solo publica el resultado final y no la baremación. La mención a la 'Comisión nombrada' es un cheque en blanco a la autonomía universitaria sin fiscalización pública directa del proceso de selección.",
+    "resumen_ciudadano": "La Universidad de Alcalá formaliza el nombramiento de Elena Granda Fernández como Profesora Titular en el área de Ecología. Este es un puesto de funcionaria pública tras haber superado una fase de oposición/concurso.",
+    "resumen_tweet": "🎓 Nueva plaza de Ecología en la Univ. de Alcalá. Se nombra Profesora Titular a Elena Granda Fernández. Aunque es legal, el proceso de selección sigue siendo una 'caja negra' para el contribuyente. 🏛️🔍 #BOE #Transparencia #Universidad #Opacidad",
+    "banderas_red_flags": [
+      "Criterios de baremación no expuestos",
+      "Falta de desglose del coste salarial para las arcas públicas",
+      "Opacidad en la composición de la comisión evaluadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Granda Fernández (estabilidad laboral vitalicia)",
+        "Universidad de Alcalá (cobertura de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (sin visibilidad de sus méritos)",
+        "Ciudadanía (paga el sueldo sin acceso a los criterios de excelencia)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Criterios de baremación no expuestos",
+      "Falta de desglose del coste salarial para las arcas públicas",
+      "Opacidad en la composición de la comisión evaluadora"
+    ]
+  },
+  "tweeted": false
+}
