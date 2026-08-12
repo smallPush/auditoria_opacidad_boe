@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17573",
+  "timestamp": "2026-08-12T13:09:54.211Z",
+  "title": "Resolución de 10 de agosto de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resoluci3n utiliza un lenguaje t3cnico-financiero que act4a como barrera de entrada para el ciudadano medio. Bajo el t3rmino de 'prudencia financiera', el Estado centraliza el control sobre el coste de la deuda de Comunidades Aut3nomas y Entidades Locales. Se observa una asimetr3a informativa: las administraciones con 'asesoramiento externo independiente' pueden usar metodolog3as propias, lo que favorece a las entidades con m1s recursos sobre los peque1os municipios. No hay rastro de an1lisis de impacto social, tratando la deuda como una magnitud abstracta ajena a los servicios p4blicos que financia.",
+    "resumen_ciudadano": "El Gobierno ha fijado el l3mite m1ximo de intereses que tu ayuntamiento o regi3n puede pagar al pedir pr3stamos. Si bien esto evita que acepten ofertas abusivas de los bancos, tambi3n limita su libertad para gestionar su dinero. Los tipos fijados van desde el 2,26% a corto plazo hasta el 4,26% para pr3stamos a 30 a1os.",
+    "resumen_tweet": "&#128184; &#191;Sabes cu1nto paga tu ayuntamiento por su deuda? El Estado publica los nuevos topes de intereses para CCAA y municipios. Lenguaje ultra-t3cnico para ocultar que los bancos siguen ganando con lo p4blico. &#128269; #BOE #Opacidad #Transparencia #DeudaP4blica",
+    "banderas_red_flags": [
+      "Uso de lenguaje financiero altamente complejo para desincentivar el escrutinio p4blico",
+      "Ventaja operativa para administraciones que pueden costear 'asesoramiento externo'",
+      "Falta de justificaci3n sobre por qu3 se eligen ciertos diferenciales sobre el Eur3bor",
+      "Riesgo de centralismo financiero encubierto bajo 'prudencia'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades financieras (aseguran m1rgenes sobre el Eur3bor)",
+        "Grandes consultoras de asesoramiento financiero",
+        "Ministerio de Econom3a (mayor control sobre entes locales)"
+      ],
+      "perdedores": [
+        "Peque1os municipios (sin herramientas de valoraci3n propias)",
+        "Ciudadanos (dificultad para auditar el coste real de la deuda de su localidad)",
+        "Autonom3a financiera local"
+      ]
+    },
+    "comunidad_autonoma": "Espa1a (Afecta a todas las CCAA y Entidades Locales)",
+    "tipologia": "Regulaci3n del Endeudamiento P4blico",
+    "banderas_rojas": [
+      "Uso de lenguaje financiero altamente complejo para desincentivar el escrutinio p4blico",
+      "Ventaja operativa para administraciones que pueden costear 'asesoramiento externo'",
+      "Falta de justificaci3n sobre por qu3 se eligen ciertos diferenciales sobre el Eur3bor",
+      "Riesgo de centralismo financiero encubierto bajo 'prudencia'"
+    ]
+  },
+  "tweeted": false
+}
