@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17517",
+  "timestamp": "2026-08-12T02:39:35.931Z",
+  "title": "Resolución de 30 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, para la estabilización de empleo temporal, por el sistema de concurso, para el cupo de reserva de personas con discapacidad, en Cuerpos y Escalas de la Administración General del Estado.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución formaliza la estabilización de empleo temporal para el cupo de personas con discapacidad, un avance social necesario. Sin embargo, se observa una tensión administrativa significativa en el apartado segundo: la Administración rechaza la mayoría de las solicitudes de alteración de orden de prelación para elegir destino por motivos de dependencia o discapacidad, alegando que no han sido 'debidamente acreditadas', sin detallar los criterios de suficiencia. Esto genera una sombra de discrecionalidad técnica. Además, el proceso ha requerido modificaciones previas por recursos de reposición, lo que indica fricciones en la gestión de los destinos.",
+    "resumen_ciudadano": "Se nombra oficialmente como personal funcionario de carrera a un grupo de personas dentro del cupo de reserva para discapacidad en cuerpos de gestión del Estado. Este proceso busca reducir la precariedad laboral (interinidad) en la administración pública. Los nuevos funcionarios ocuparán puestos en organismos como el SEPE o el FOGASA, con niveles salariales de complemento entre el 20 y el 26.",
+    "resumen_tweet": "📄 Nuevo #BOE: Estabilización de empleo para personas con discapacidad en la Administración General del Estado. 💼 Se consolidan plazas fijas, pero la Administración RECHAZA la mayoría de cambios de destino por dependencia. ⚠️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Rechazo sistemático de solicitudes de preferencia de destino por discapacidad/dependencia",
+      "Modificación de ofertas de destino tras recursos de reposición previos",
+      "Opacidad en los criterios de acreditación para las necesidades especiales de desplazamiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes seleccionados (estabilidad laboral definitiva)",
+        "Ministerio de Trabajo y Economía Social (refuerza personal en el SEPE)",
+        "Florentino Castellanos Quinteiro (logró modificar destinos mediante recurso)"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad cuyas necesidades de destino cercano no fueron 'acreditadas' según la Administración",
+        "Personal interino que no superó el proceso de estabilización"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Rechazo sistemático de solicitudes de preferencia de destino por discapacidad/dependencia",
+      "Modificación de ofertas de destino tras recursos de reposición previos",
+      "Opacidad en los criterios de acreditación para las necesidades especiales de desplazamiento"
+    ]
+  },
+  "tweeted": false
+}
