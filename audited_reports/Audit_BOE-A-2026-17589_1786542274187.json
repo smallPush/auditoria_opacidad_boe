@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17589",
+  "timestamp": "2026-08-12T13:44:34.187Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Fuengirola (Málaga), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una convocatoria de empleo público bajo el sistema de oposición pura en turno libre. Aunque cumple con la legalidad, el BOE actúa como un simple tablón de anuncios vacío de contenido real, obligando al ciudadano a rastrear el Boletín Provincial para conocer los requisitos de acceso. La denominación 'Auxiliar Técnico de Inspección' es ambigua: no especifica si la labor es urbanística, tributaria o sanitaria, lo cual difumina la rendición de cuentas sobre qué se va a vigilar exactamente en el municipio.",
+    "resumen_ciudadano": "El Ayuntamiento de Fuengirola (Málaga) ofrece 4 puestos de trabajo fijos como Auxiliar Técnico de Inspección. El proceso de selección será mediante examen (oposición). El plazo para presentar la solicitud es de 20 días hábiles a partir de mañana. Los detalles específicos sobre el examen y los estudios necesarios están en el Boletín Oficial de la Provincia de Málaga.",
+    "resumen_tweet": "🧐 ¿Qué inspeccionarán exactamente? El Ayto de Fuengirola convoca 4 plazas de Auxiliar Técnico de Inspección. Sistema de oposición libre: oportunidad para unos, barrera para otros sin tiempo de estudio. ¡20 días para solicitar! 📑⚖️ #BOE #Transparencia #Fuengirola",
+    "banderas_red_flags": [
+      "Opacidad funcional: No se definen las tareas de inspección",
+      "Externalización de la información: Remisión obligatoria al BOP para conocer las bases",
+      "Barrera de acceso por sistema de oposición: Favorece a quien tiene recursos para estudiar sin trabajar"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con capacidad económica para estudio intensivo",
+        "Administración Local de Fuengirola por refuerzo de plantilla"
+      ],
+      "perdedores": [
+        "Trabajadores precarios con falta de tiempo para preparar oposiciones",
+        "Ciudadanos ajenos a la provincia de Málaga por dificultad de acceso a bases locales"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Opacidad funcional: No se definen las tareas de inspección",
+      "Externalización de la información: Remisión obligatoria al BOP para conocer las bases",
+      "Barrera de acceso por sistema de oposición: Favorece a quien tiene recursos para estudiar sin trabajar"
+    ]
+  },
+  "tweeted": false
+}
