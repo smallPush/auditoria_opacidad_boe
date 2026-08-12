@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17586",
+  "timestamp": "2026-08-12T13:41:18.841Z",
+  "title": "Resolución de 5 de agosto de 2026, del Consorcio de Servicio de Atención Ciudadana (Albacete), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se ampara en el sistema de 'concurso-oposición' para una plaza de Auxiliar Administrativo, lo cual suele ser una estrategia para consolidar personal interino ya existente bajo el pretexto de una convocatoria libre. El uso de la figura de 'personal laboral fijo' en lugar de funcionario de carrera en un Consorcio Público de Atención Ciudadana permite una mayor flexibilidad en la contratación, pero a menudo a costa de la independencia funcionarial. El BOE actúa aquí como un mero tablón de anuncios que remite al BOP de Albacete, obligando al ciudadano a un rastreo documental que dificulta la fiscalización inmediata de las bases.",
+    "resumen_ciudadano": "Se ha publicado una convocatoria para cubrir una única plaza de Auxiliar Administrativo en el Consorcio de Servicio de Atención Ciudadana de Albacete. El sistema de selección es mixto (examen y méritos), y los interesados tienen 20 días hábiles para presentar su solicitud tras la publicación oficial.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! Una sola plaza de Auxiliar en Albacete bajo sistema de concurso-oposición. ¿Mérito real o consolidación encubierta de interinos? 🧐 El diablo está en los detalles del BOP. #Opacidad #Transparencia #Albacete #EmpleoPúblico 📑",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para puestos de nivel básico",
+      "Convocatoria de una única plaza (posible 'traje a medida')",
+      "Opacidad por remisión a boletines provinciales para las bases"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos del Consorcio con puntos acumulados",
+        "Administración local (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Candidatos externos con mejores notas pero sin méritos",
+        "Transparencia administrativa directa"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para puestos de nivel básico",
+      "Convocatoria de una única plaza (posible 'traje a medida')",
+      "Opacidad por remisión a boletines provinciales para las bases"
+    ]
+  },
+  "tweeted": false
+}
