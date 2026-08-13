@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17642",
+  "timestamp": "2026-08-13T13:45:35.471Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Barx (Valencia/València), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta la estructura minimalista estandar de la administracion local. Sin embargo, al remitir integramente a las bases publicadas en el Boletin Oficial de la Provincia (BOP) de Valencia de junio, obliga al ciudadano a un rastreo documental adicional. En municipios de baja poblacion como Barx, la creacion de plazas de 'cometidos especiales' requiere vigilancia ciudadana para evitar la consolidacion de perfiles tecnicos con criterios de seleccion ad hoc. El uso del sistema de oposicion pura es positivo, pero la vaguedad en la definicion de funciones en este extracto es una barrera para la fiscalizacion inmediata.",
+    "resumen_ciudadano": "El Ayuntamiento de Barx (Valencia) ha convocado una plaza de funcionario de carrera para un Arquitecto Tecnico mediante el sistema de oposicion libre. Los interesados tienen 20 dias habiles para presentarse. Los criterios detallados de evaluacion no aparecen aqui, sino en un documento provincial anterior.",
+    "resumen_tweet": "🧐 ¿Fichaje tecnico o estrategia urbana? Barx convoca plaza de Arquitecto/a Tecnico/a por oposicion libre. El detalle clave esta en el BOP del 29/06. ¡Ojo a los criterios de seleccion en municipios pequeños! 🏗️📜 #BOE #Opacidad #Transparencia #Barx",
+    "banderas_red_flags": [
+      "Externalizacion de bases al BOP de meses anteriores",
+      "Definicion generica de 'cometidos especiales'",
+      "Posible sesgo en la definicion de meritos en el documento de origen no adjunto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Profesionales tecnicos del sector construccion/urbanismo",
+        "Gobierno local (estabilizacion de plantilla tecnica)"
+      ],
+      "perdedores": [
+        "Opositores externos que no sigan el boletin provincial de Valencia",
+        "Ciudadanos de Barx ajenos a la burocracia legislativa"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico / Urbanismo",
+    "banderas_rojas": [
+      "Externalizacion de bases al BOP de meses anteriores",
+      "Definicion generica de 'cometidos especiales'",
+      "Posible sesgo en la definicion de meritos en el documento de origen no adjunto"
+    ]
+  },
+  "tweeted": false
+}
