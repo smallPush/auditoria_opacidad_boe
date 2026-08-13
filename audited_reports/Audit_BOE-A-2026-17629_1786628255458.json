@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17629",
+  "timestamp": "2026-08-13T13:37:35.458Z",
+  "title": "Resolución de 31 de julio de 2026, de la Universidad de La Rioja, por la que se nombra Profesor Titular de Universidad a don Javier Rico Azagra.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un Profesor Titular tras un proceso de concurso-oposición. La transparencia es alta en cuanto a la identificación del beneficiario y la base legal (LOSU y Estatutos), pero el documento omite los costes salariales plurianuales asociados y la composición del tribunal que tomó la decisión, elementos clave para auditar la meritocracia y evitar la endogamia universitaria.",
+    "resumen_ciudadano": "La Universidad de La Rioja formaliza el nombramiento de Javier Rico Azagra como Profesor Titular en el área de Ingeniería de Sistemas y Automática. Este es un puesto permanente de funcionario tras superar un proceso selectivo público.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Universidad de La Rioja. Javier Rico Azagra obtiene plaza fija en Ingeniería de Sistemas. Un paso más en la carrera académica, pero ¿se vigila siempre la objetividad en estos concursos? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de información sobre el coste presupuestario de la plaza",
+      "Opacidad sobre los méritos específicos evaluados en este extracto",
+      "Ausencia de nombres de los miembros de la Comisión evaluadora en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Rico Azagra",
+        "Departamento de Ingeniería Eléctrica de la Universidad de La Rioja",
+        "Área de Ingeniería de Sistemas y Automática"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Presupuesto público (compromiso de gasto a largo plazo sin desglose)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramiento de funcionario docente",
+    "banderas_rojas": [
+      "Falta de información sobre el coste presupuestario de la plaza",
+      "Opacidad sobre los méritos específicos evaluados en este extracto",
+      "Ausencia de nombres de los miembros de la Comisión evaluadora en el texto"
+    ]
+  },
+  "tweeted": false
+}
