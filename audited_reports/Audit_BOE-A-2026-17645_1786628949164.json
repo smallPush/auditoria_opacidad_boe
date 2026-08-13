@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-17645",
+  "timestamp": "2026-08-13T13:49:09.164Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Pol (Lugo), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se ampara en el proceso de estabilización mediante el sistema de concurso (sin examen), lo que habitualmente reduce la competencia real. Aunque se etiqueta como 'turno libre', la ponderación de méritos por servicios prestados suele estar diseñada para consolidar al personal interino que ya ocupa la plaza, limitando el acceso efectivo a nuevos aspirantes bajo el paraguas de una normativa de urgencia. La remisión a las bases en el boletín provincial (BOP de Lugo) añade una capa de fricción administrativa para el ciudadano medio.",
+    "resumen_ciudadano": "El Ayuntamiento de Pol (Lugo) convoca una plaza de Auxiliar Administrativo para estabilizar empleo temporal. El proceso se realizará exclusivamente por méritos, sin necesidad de realizar exámenes, lo que en la práctica suele asegurar el puesto a la persona que ya lo ocupa actualmente de forma interina.",
+    "resumen_tweet": "🧐 ¿Plaza libre o con nombre y apellidos? El Ayto de Pol (Lugo) convoca plaza de Auxiliar vía 'estabilización' por concurso (sin examen). El sistema de méritos suele blindar al interino actual. #BOE #Opacidad #Transparencia #Lugo #EmpleoPúblico 🏛️",
+    "banderas_red_flags": [
+      "Sistema de concurso exclusivo sin fase de oposición",
+      "Proceso de estabilización de plazas estructurales",
+      "Fragmentación de la información (remisión a boletín provincial)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento de Pol"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Ciudadanos sin experiencia previa en la administración local específica"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso exclusivo sin fase de oposición",
+      "Proceso de estabilización de plazas estructurales",
+      "Fragmentación de la información (remisión a boletín provincial)"
+    ]
+  },
+  "tweeted": false
+}
