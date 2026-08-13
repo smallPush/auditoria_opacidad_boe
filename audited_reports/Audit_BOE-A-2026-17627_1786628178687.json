@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17627",
+  "timestamp": "2026-08-13T13:36:18.687Z",
+  "title": "Resolución de 29 de julio de 2026, de la Universidad de A Coruña, por la que se nombra Profesora Titular de Universidad a doña Lara Varela Garrote.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento estandarizado de funcionaria de carrera en el ambito universitario. Aunque cumple con la legalidad vigente (LOSU 2/2023), este tipo de resoluciones ocultan el coste real a largo plazo para el erario publico que supone una plaza vitalicia. Existe una opacidad estructural en los procesos de seleccion de las comisiones evaluadoras, que no se detallan en el extracto, perpetuando un sistema de cooptacion interna tipico de la academia española.",
+    "resumen_ciudadano": "La Universidad de A Coruña formaliza el nombramiento de Lara Varela Garrote como Profesora Titular en el area de Didactica de la Expresion Corporal. Esto otorga estabilidad laboral permanente a la candidata tras un proceso de concurso-oposicion iniciado en febrero de 2026.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la Universidad de A Coruña. Nombrada Profesora Titular de Expresión Corporal. ¿Es eficiente el sistema de acceso o seguimos premiando la inercia administrativa? 🏛️ #BOE #Opacidad #Transparencia #Universidades",
+    "banderas_red_flags": [
+      "Compromiso de gasto publico permanente sin desglose presupuestario adjunto",
+      "Referencia a una comision de seleccion cuyos criterios de evaluacion no son publicos en este extracto",
+      "Ausencia de datos sobre la concurrencia competitiva (numero de aspirantes reales)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Lara Varela Garrote (estabilidad laboral vitalicia)",
+        "Universidad de A Coruña (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (acceso limitado a plazas fijas)",
+        "Contribuyentes (falta de claridad sobre el coste total de la plaza funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Compromiso de gasto publico permanente sin desglose presupuestario adjunto",
+      "Referencia a una comision de seleccion cuyos criterios de evaluacion no son publicos en este extracto",
+      "Ausencia de datos sobre la concurrencia competitiva (numero de aspirantes reales)"
+    ]
+  },
+  "tweeted": false
+}
