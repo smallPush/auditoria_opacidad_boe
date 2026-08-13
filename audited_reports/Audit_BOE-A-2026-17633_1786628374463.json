@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17633",
+  "timestamp": "2026-08-13T13:39:34.463Z",
+  "title": "Resolución de 6 de agosto de 2026, de la Dirección General de la Policía, por la que se publica la relación de personas admitidas y excluidas a la oposición libre para cubrir plazas de alumnos/as de la Escuela Nacional de Policía, de la División de Formación y Perfeccionamiento, aspirantes a ingreso en la Escala Ejecutiva, categoría de Inspector/a, del Cuerpo Nacional de Policía, convocada por Resolución de 7 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion presenta una transparencia parcial. Si bien se detallan las causas de exclusion, el acceso a la lista de admitidos se deriva a un portal privado, impidiendo el escrutinio publico total. Se observa un sesgo tecnocratico: la gran mayoria de las exclusiones (causas A y F) se deben a la falta de firma digital o errores en el pago telematico. Esto actua como una barrera de entrada no aptitudo-profesional, sino de competencia digital o recursos tecnicos, penalizando desproporcionadamente a quienes no dominan la administracion electronica.",
+    "resumen_ciudadano": "El Ministerio del Interior ha publicado el listado de personas admitidas y excluidas para las oposiciones a Inspector de Policia. Si te presentaste, debes revisar si estas en el anexo de excluidos; muchos han quedado fuera por errores con la firma digital o el pago de las tasas. Tienes 10 dias habiles para subsanar errores a traves del portal del aspirante.",
+    "resumen_tweet": "⚠️ Barreras digitales en la Policia Nacional: cientos de aspirantes excluidos por fallos en firma digital y pagos telematicos. ¿Filtro de capacidad o brecha digital? 🧐 La opacidad crece al derivar listas a portales privados. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalizacion de listas de admitidos a portales de acceso restringido",
+      "Alta incidencia de exclusion por motivos burocratico-digitales",
+      "Carga administrativa excesiva para acreditar situaciones de desempleo o rentas bajas (Causas I, J)",
+      "Plazo de subsanacion breve (10 dias) considerando la complejidad de ciertos tramites de acreditacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administracion (reduce el volumen de examenes mediante cribado burocratico)",
+        "Aspirantes con alto dominio de herramientas digitales y certificado digital vigente"
+      ],
+      "perdedores": [
+        "Aspirantes con dificultades tecnicas o falta de soporte digital",
+        "Personas en situacion de desempleo con dificultades para acreditar periodos de inscripcion en el SEPE",
+        "Candidatos con errores formales minimos en la firma digital de la instancia"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estatal)",
+    "tipologia": "Recursos Humanos / Empleo Publico",
+    "banderas_rojas": [
+      "Externalizacion de listas de admitidos a portales de acceso restringido",
+      "Alta incidencia de exclusion por motivos burocratico-digitales",
+      "Carga administrativa excesiva para acreditar situaciones de desempleo o rentas bajas (Causas I, J)",
+      "Plazo de subsanacion breve (10 dias) considerando la complejidad de ciertos tramites de acreditacion"
+    ]
+  },
+  "tweeted": false
+}
