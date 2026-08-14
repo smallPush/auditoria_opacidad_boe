@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17741",
+  "timestamp": "2026-08-14T13:45:32.986Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Nava (Asturias), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso-oposición' para una sola plaza de personal laboral fijo (Oficial de Primera). Este formato es frecuentemente utilizado en administraciones locales para la consolidación de puestos ya ocupados de forma interina, donde la fase de concurso (méritos) actúa como barrera de entrada para ciudadanos externos, favoreciendo al personal que ya está 'dentro'. La falta de desglose salarial y de funciones específicas en el extracto del BOE obliga al ciudadano a un rastreo adicional en el BOPA, diluyendo la transparencia directa.",
+    "resumen_ciudadano": "El Ayuntamiento de Nava (Asturias) busca cubrir una plaza permanente de Oficial de Primera. El proceso de selección incluye valoración de méritos y examen, con un plazo de 20 días hábiles para presentar solicitudes. Es una oportunidad de empleo público fijo en el ámbito local.",
+    "resumen_tweet": "🧐 ¿Oposición o consolidación? El Ayto de Nava convoca una plaza de Oficial de Primera por concurso-oposición. Este sistema mixto suele beneficiar a quienes ya ocupan el puesto temporalmente. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Asturias #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para plaza única (típico de consolidación)",
+      "Opacidad salarial en el anuncio del BOE",
+      "Brevedad excesiva que redirige a boletines regionales para detalles críticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento de Nava",
+        "Sindicatos locales"
+      ],
+      "perdedores": [
+        "Opositores libres sin experiencia previa en esta administración",
+        "Transparencia presupuestaria (se desconocen los costes totales de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para plaza única (típico de consolidación)",
+      "Opacidad salarial en el anuncio del BOE",
+      "Brevedad excesiva que redirige a boletines regionales para detalles críticos"
+    ]
+  },
+  "tweeted": false
+}
