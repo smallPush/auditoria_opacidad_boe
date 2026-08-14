@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17724",
+  "timestamp": "2026-08-14T13:06:51.365Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' en el Ministerio de Asuntos Exteriores sigue siendo un mecanismo legal pero opaco que permite el nombramiento discrecional en puestos de relevancia internacional como cancillerías en París o Quito. Aunque se publica el adjudicatario, no existe una justificación técnica o de mérito comparativo accesible al ciudadano, lo que fomenta una cultura de 'puestos de confianza' sobre la meritocracia pura. Especial atención al caso de reingreso desde excedencia voluntaria directamente a un puesto nivel 24 en la UNESCO.",
+    "resumen_ciudadano": "El Gobierno ha adjudicado a dedo varios puestos diplomáticos en el extranjero, incluyendo destinos en Francia, Ecuador, Mauritania y Tanzania. Estos cargos, denominados de 'libre designación', permiten que el ministerio elija a las personas sin explicar públicamente por qué son las más aptas frente a otros candidatos, lo que dificulta el control sobre el posible favoritismo en la carrera diplomática.",
+    "resumen_tweet": "Nuevos 'dedazos' diplomáticos en el #BOE. Exteriores adjudica puestos en París, Quito y Tanzania mediante libre designación. Sin criterios públicos de mérito, solo la 'confianza' del superior. ¿Transparencia? Escasa. 🕵️‍♂️🇪🇸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistemático de libre designación en puestos técnicos",
+      "Adjudicación de puesto nivel 24 a funcionario en excedencia voluntaria",
+      "Falta de memoria justificativa del mérito de los elegidos",
+      "Resolución parcial que fragmenta el control de la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios seleccionados para destinos internacionales (altas indemnizaciones por residencia)",
+        "Cúpula del Ministerio (mantiene control discrecional del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos pero sin perfil político/confianza",
+        "Ciudadanía (desconoce si los representantes en el exterior son los mejores preparados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Uso sistemático de libre designación en puestos técnicos",
+      "Adjudicación de puesto nivel 24 a funcionario en excedencia voluntaria",
+      "Falta de memoria justificativa del mérito de los elegidos",
+      "Resolución parcial que fragmenta el control de la convocatoria"
+    ]
+  },
+  "tweeted": false
+}
