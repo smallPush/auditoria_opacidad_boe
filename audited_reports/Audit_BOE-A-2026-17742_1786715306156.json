@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17742",
+  "timestamp": "2026-08-14T13:48:26.156Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Arnedo (La Rioja), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución del Ayuntamiento de Arnedo para proveer dos plazas de peón de jardinería utiliza el sistema de concurso-oposición en turno libre. Aunque formalmente abierto, este método suele ser una vía de consolidación para personal interino, ya que la fase de concurso premia la experiencia previa en la administración, dificultando la entrada de nuevos perfiles sin historial en el sector público local. La transparencia es aceptable, pero obliga al ciudadano a recurrir al Boletín Oficial de La Rioja para conocer los criterios de puntuación detallados.",
+    "resumen_ciudadano": "El Ayuntamiento de Arnedo convoca 2 plazas para peones de jardinería. El proceso de selección incluye un examen y una valoración de méritos (experiencia y formación). El plazo para inscribirse es de 20 días hábiles tras la publicación en el BOE.",
+    "resumen_tweet": "🌿 Arnedo convoca 2 plazas de peón de jardinería. El sistema es concurso-oposición: ¡cuidado! Los puntos por experiencia previa suelen favorecer a quienes ya están dentro. Consulta las bases en el BOR. 🧤📑 #BOE #Opacidad #Transparencia #LaRioja",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para puestos de nivel básico",
+      "Riesgo de 'consolidación encubierta' de interinos",
+      "Dependencia de boletines autonómicos para bases críticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del ayuntamiento",
+        "Trabajadores con experiencia previa en administración local"
+      ],
+      "perdedores": [
+        "Jóvenes sin experiencia laboral previa",
+        "Candidatos procedentes exclusivamente del sector privado",
+        "Nuevos aspirantes sin puntos por antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para puestos de nivel básico",
+      "Riesgo de 'consolidación encubierta' de interinos",
+      "Dependencia de boletines autonómicos para bases críticas"
+    ]
+  },
+  "tweeted": false
+}
