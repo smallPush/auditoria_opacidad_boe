@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17726",
+  "timestamp": "2026-08-14T13:23:10.079Z",
+  "title": "Resolución de 6 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El documento oficializa un nombramiento mediante el sistema de 'libre designación', un mecanismo legal pero discrecional que permite a la administración elegir candidatos basándose en la confianza política o personal en lugar de un concurso de méritos puro. El puesto adjudicado es un Nivel 29, uno de los escalafones más altos de la Administración General del Estado (Cuerpo Superior de Sistemas y Tecnologías de la Información). Se observa una rotación interna en el mismo Ministerio, lo que sugiere una estructura de endogamia administrativa donde los puestos de élite circulan entre un círculo cerrado de funcionarios de confianza.",
+    "resumen_ciudadano": "Se ha nombrado a Francisco Javier Elena Dominguez como Coordinador de Área en el Ministerio para la Transformación Digital. La elección se ha realizado 'a dedo' (libre designación), un método que resta transparencia al proceso y favorece la politización de los cargos técnicos de alto nivel. El puesto es de nivel 29, lo que implica una alta responsabilidad y un sueldo financiado con dinero público en la escala más alta del funcionariado.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' de alto nivel en el @min_digital_es. Se adjudica un puesto de Nivel 29 mediante libre designación. ¿Meritocracia o red de confianza? La élite administrativa sigue rotando en círculos cerrados. 🧐💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (elección discrecional)",
+      "Puesto de élite Nivel 29",
+      "Endogamia institucional (mismo ministerio y departamento)",
+      "Opacidad en los criterios específicos de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Elena Dominguez",
+        "Ministerio para la Transformación Digital (mantiene red de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin contactos políticos",
+        "Transparencia administrativa",
+        "Principio de mérito y capacidad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Libre designación (elección discrecional)",
+      "Puesto de élite Nivel 29",
+      "Endogamia institucional (mismo ministerio y departamento)",
+      "Opacidad en los criterios específicos de selección"
+    ]
+  },
+  "tweeted": false
+}
