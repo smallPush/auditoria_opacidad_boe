@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17731",
+  "timestamp": "2026-08-14T13:35:20.498Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Santa Cruz de Tenerife, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolucion emplea el metodo de remision a otro diario oficial (BOP) para las bases detalladas lo que genera una barrera de acceso a la informacion directa. El sistema de concurso en lugar de oposicion libre suele favorecer la promocion interna o la consolidacion de puestos ya ocupados interinamente limitando el acceso igualitario a la escala de Administracion Especial Tecnica Superior. No se especifican las retribuciones ni el presupuesto asignado a la jefatura de seccion.",
+    "resumen_ciudadano": "Se convoca una plaza de Jefe de Seccion para Proteccion Civil y Emergencias en el Ayuntamiento de Santa Cruz de Tenerife. El proceso es por concurso (valoracion de meritos previos) y los interesados tienen 15 dias habiles para inscribirse tras la publicacion en el BOE.",
+    "resumen_tweet": "🚨 Nueva plaza de Jefe de Seccion en Proteccion Civil (Tenerife). El #BOE remite al BOP para las bases, dificultando el escrutinio directo. ¿Merito real o gestion interna? 🧐 ¡Ojo a los plazos de 15 dias! #Transparencia #Opacidad #SantaCruzDeTenerife",
+    "banderas_red_flags": [
+      "Remision externa de bases (opacidad indirecta)",
+      "Sistema de concurso (potencial endogamia)",
+      "Escasa publicidad de los criterios de baremacion en el texto principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con antiguedad en la administracion local",
+        "Perfiles tecnicos con meritos acumulados"
+      ],
+      "perdedores": [
+        "Candidatos externos del sector privado",
+        "Nuevos titulados sin experiencia previa en el sector publico"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Publico / Seguridad Ciudadana",
+    "banderas_rojas": [
+      "Remision externa de bases (opacidad indirecta)",
+      "Sistema de concurso (potencial endogamia)",
+      "Escasa publicidad de los criterios de baremacion en el texto principal"
+    ]
+  },
+  "tweeted": false
+}
