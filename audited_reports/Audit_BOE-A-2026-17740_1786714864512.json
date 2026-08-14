@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17740",
+  "timestamp": "2026-08-14T13:41:04.512Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Sevilla, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se detecta una alarmante dilación administrativa: las bases se publicaron originalmente en febrero de 2025 y la convocatoria llega al BOE en agosto de 2026, un desfase de 18 meses para puestos de peonaje que sugiere ineficiencia o una estrategia de tiempos electorales/presupuestarios. El uso del sistema de 'concurso-oposición' para plazas de baja cualificación técnica suele ser un mecanismo para blindar a personal interino ya presente en el consistorio, dificultando el acceso real en igualdad de condiciones a ciudadanos externos.",
+    "resumen_ciudadano": "El Ayuntamiento de Sevilla convoca 106 plazas de peón (personal laboral fijo). Del total, 95 son de turno libre y 11 reservadas para personas con discapacidad. El proceso incluye examen y valoración de méritos previos. El plazo para inscribirse es de 20 días hábiles tras esta publicación.",
+    "resumen_tweet": "🚨 ¿18 meses para convocar 106 peones en Sevilla? El #BOE publica hoy una oferta que arrastra rectificaciones desde 2025. El sistema de concurso-oposición suele favorecer a interinos frente al ciudadano de a pie. 🧐🛠️ #Sevilla #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Retraso de 1.5 años entre bases y convocatoria oficial",
+      "Múltiples rectificaciones de bases (abril y julio 2025) que generan inseguridad jurídica",
+      "Sistema de puntos por méritos en puestos de peonaje que puede encubrir 'dedazos' encubiertos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Academias de preparación de oposiciones locales"
+      ],
+      "perdedores": [
+        "Candidatos libres sin experiencia previa en la administración",
+        "Parados de larga duración que no puntúan en la fase de concurso"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Retraso de 1.5 años entre bases y convocatoria oficial",
+      "Múltiples rectificaciones de bases (abril y julio 2025) que generan inseguridad jurídica",
+      "Sistema de puntos por méritos en puestos de peonaje que puede encubrir 'dedazos' encubiertos"
+    ]
+  },
+  "tweeted": false
+}
