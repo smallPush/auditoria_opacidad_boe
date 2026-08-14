@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17737",
+  "timestamp": "2026-08-14T13:36:49.036Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Plasencia (Cáceres), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion presenta una estructura administrativa estandar pero delegada. Al remitir las bases completas al Boletin Oficial de la Provincia (BOP) de Caceres, se crea una barrera de acceso a la informacion directa. Destaca la plaza de Tecnico de Cultura reservada exclusivamente para promocion interna mediante concurso-oposicion, lo que limita la renovacion del talento externo y consolida la estructura burocratica existente. El sistema de libre oposicion para los administrativos garantiza cierta igualdad, pero la fragmentacion documental entre BOE, DOE y BOP dificulta la fiscalizacion ciudadana.",
+    "resumen_ciudadano": "El Ayuntamiento de Plasencia convoca tres plazas: dos de administrativo abiertas a cualquier ciudadano que cumpla los requisitos y una de tecnico de cultura reservada para empleados que ya forman parte del ayuntamiento. El plazo para inscribirse es de 20 dias habiles desde el 15 de agosto de 2026.",
+    "resumen_tweet": "📢 ¡Atencion! El Ayto. de Plasencia lanza convocatoria de empleo. 🏢 2 plazas libres de administrativo vs 1 de tecnico de cultura blindada para promocion interna. La transparencia se pierde entre boletines. 🧐 #BOE #Opacidad #Transparencia #Plasencia",
+    "banderas_red_flags": [
+      "Informacion fragmentada entre tres diarios oficiales",
+      "Reserva de plaza tecnica para personal interno",
+      "Opacidad en los criterios de valoracion del concurso-oposicion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral interno del Ayuntamiento de Plasencia",
+        "Opositores de la escala de administracion general"
+      ],
+      "perdedores": [
+        "Profesionales externos del sector cultural",
+        "Ciudadanos con dificultades para navegar burocracia digital/provincial"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Resolucion de Empleo Publico",
+    "banderas_rojas": [
+      "Informacion fragmentada entre tres diarios oficiales",
+      "Reserva de plaza tecnica para personal interno",
+      "Opacidad en los criterios de valoracion del concurso-oposicion"
+    ]
+  },
+  "tweeted": false
+}
