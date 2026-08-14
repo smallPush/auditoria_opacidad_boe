@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17636",
+  "timestamp": "2026-08-14T02:40:07.179Z",
+  "title": "Resolución de 7 de agosto de 2026, de la Entidad Local Menor de Rocallaura (Lleida), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria de una plaza de nivel Tecnico Superior en una Entidad Local Menor mediante el sistema de concurso es una señal de alerta recurrente. Al prescindir de la fase de oposicion (examen), se priorizan los meritos acumulados, lo cual en estructuras administrativas tan pequeñas suele estar diseñado para consolidar personal interino ya presente o perfiles con vinculacion previa. La fragmentacion de la informacion entre el BOE y el Boletin Provincial de Lleida dificulta el escrutinio publico inmediato de los requisitos especificos.",
+    "resumen_ciudadano": "La pequeña entidad de Rocallaura busca cubrir un puesto de funcionario de alta cualificacion basandose unicamente en meritos pasados y no en pruebas de conocimiento. Este metodo de seleccion en municipios de escasa poblacion suele reducir la competencia real y favorecer a candidatos ya conocidos por la administracion local.",
+    "resumen_tweet": "🚩 Alerta en el #BOE: Rocallaura (Lleida) convoca plaza de Tecnico Superior por 'concurso' (sin examen). En entidades pequeñas, esto suele ser un 'traje a medida' para consolidar interinos. Menos meritocracia, mas opacidad. 🧐📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso exclusivo sin fase de examen",
+      "Entidad local con bajo control administrativo",
+      "Acceso limitado por valoracion de meritos especificos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual de la entidad",
+        "Candidatos con experiencia previa en administraciones locales catalanas"
+      ],
+      "perdedores": [
+        "Opositores jovenes sin experiencia",
+        "Principio de igualdad y capacidad en el acceso publico"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso exclusivo sin fase de examen",
+      "Entidad local con bajo control administrativo",
+      "Acceso limitado por valoracion de meritos especificos"
+    ]
+  },
+  "tweeted": false
+}
