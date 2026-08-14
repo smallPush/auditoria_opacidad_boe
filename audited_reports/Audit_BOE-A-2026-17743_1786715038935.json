@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17743",
+  "timestamp": "2026-08-14T13:43:58.935Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Celrà (Girona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición en lugar de oposición libre, lo que habitualmente sugiere un proceso de consolidación de personal interino bajo apariencia de libre concurrencia. Existe una amalgama de funciones sospechosa en la plaza de 'Técnico/a de Educación' al añadirle 'soporte acción social y personas mayores'; esta hibridación de competencias suele utilizarse para diseñar perfiles que encajen específicamente con alguien que ya desempeña esas tareas de forma temporal. Además, la dispersión normativa entre el BOP de Girona, el DOGC y el BOE obliga al ciudadano a una triangulación de documentos que desincentiva la participación externa.",
+    "resumen_ciudadano": "El Ayuntamiento de Celrà (Girona) ha abierto el plazo para dos plazas técnicas en cultura y educación/social. El proceso no es una oposición limpia, sino un concurso-oposición, donde los puntos por experiencia previa cuentan significativamente, dificultando el acceso a nuevos aspirantes sin red previa en la administración local.",
+    "resumen_tweet": "⚠️ ¿Oposición o 'traje a medida'? El Ayto. de Celrà lanza plazas técnicas mediante concurso-oposición 🧐. Mezclar Educación y Acción Social en un solo puesto huele a consolidación de interinos. ¡Fiscalicemos el empleo público! #BOE #Opacidad #Girona 🏛️",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición que prima la antigüedad sobre el mérito puro",
+      "Hibridación de funciones técnicas (Educación + Acción Social) poco clara",
+      "Publicación de bases completas en boletín provincial pero extracto mínimo en el estatal",
+      "Convocatoria en periodo estival (agosto) para plazos de solicitud"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Celrà",
+        "Candidatos con puntos por servicios prestados en la administración local catalana"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Graduados en Educación que no poseen formación o experiencia en 'personas mayores'",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición que prima la antigüedad sobre el mérito puro",
+      "Hibridación de funciones técnicas (Educación + Acción Social) poco clara",
+      "Publicación de bases completas en boletín provincial pero extracto mínimo en el estatal",
+      "Convocatoria en periodo estival (agosto) para plazos de solicitud"
+    ]
+  },
+  "tweeted": false
+}
