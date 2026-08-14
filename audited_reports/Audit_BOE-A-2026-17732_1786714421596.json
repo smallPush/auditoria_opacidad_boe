@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17732",
+  "timestamp": "2026-08-14T13:33:41.596Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Diputación Provincial de Granada, Organismo Autónomo Agencia Provincial de Extinción de Incendios, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una rectificación de bases tras la publicación original, lo cual es un síntoma recurrente de inseguridad jurídica o de ajustes 'ad hoc' en procesos selectivos. La apertura de un plazo de tan solo diez días hábiles para nuevas instancias, tras haber modificado las bases, dificulta la concurrencia competitiva real. Este tipo de maniobras administrativas suelen beneficiar a quienes ya están siguiendo el proceso de cerca, limitando el acceso a nuevos aspirantes externos.",
+    "resumen_ciudadano": "La Agencia Provincial de Extinción de Incendios de Granada ha modificado las reglas de su convocatoria de empleo y ha abierto un nuevo plazo de inscripción de apenas 10 días. Si no estás atento al boletín hoy mismo, pierdes la oportunidad de participar en estas plazas de bombero.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en Granada! La Agencia de Incendios rectifica bases y da solo 10 DÍAS para inscribirse. ¿Error administrativo o barrera para nuevos aspirantes? La transparencia brilla por su ausencia. 🚒💨 #BOE #Opacidad #Transparencia #Granada",
+    "banderas_red_flags": [
+      "Plazo de inscripción extremadamente reducido (10 días)",
+      "Rectificación de bases post-publicación original",
+      "Dispersión informativa entre BOP, BOJA y BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos actuales con información interna",
+        "Opositores con servicios de alerta premium",
+        "Aspirantes con acceso directo a la administración local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin red de contactos",
+        "Ciudadanos de otras provincias con menor acceso al BOJA/BOP",
+        "Principio de igualdad y concurrencia pública"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público y Oposiciones",
+    "banderas_rojas": [
+      "Plazo de inscripción extremadamente reducido (10 días)",
+      "Rectificación de bases post-publicación original",
+      "Dispersión informativa entre BOP, BOJA y BOE"
+    ]
+  },
+  "tweeted": false
+}
