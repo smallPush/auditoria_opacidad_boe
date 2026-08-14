@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-17727",
+  "timestamp": "2026-08-14T13:25:38.112Z",
+  "title": "Resolución 370/2026, de 21 de julio, de la Dirección General de Justicia, del Departamento de Interior, Función Pública y Justicia, por la que se corrigen errores en la Resolución 357/2026, de 8 de julio, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo para ingreso, por el sistema general de acceso libre, convocado por Orden JUS/1288/2022, de 22 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque el acto administrativo es una correccion técnica estandar bajo el articulo 109.2 de la Ley 39/2015, revela una preocupante falta de rigor inicial en la gestion de datos sensibles. El hecho de que se publique erróneamente un DNI en un documento oficial del BOE no solo es un fallo administrativo, sino un riesgo para la seguridad juridica de la empleada afectada. No se detectan gastos fantasma, pero si una ineficiencia en la cadena de validacion de datos de la Direccion General de Justicia de Navarra.",
+    "resumen_ciudadano": "La Direccion General de Justicia de Navarra ha tenido que rectificar publicamente errores en la asignacion de plazas para nuevos funcionarios de Auxilio Judicial. Los fallos incluian una descripcion incorrecta de las funciones de un puesto en Pamplona y un error en el DNI de una de las opositoras seleccionadas en Ansoain.",
+    "resumen_tweet": "⚖️ ¡Cuidado con los datos! El #BOE publica una correccion de errores de Justicia en Navarra: se equivocaron hasta en el DNI de una nueva funcionaria. 🤦‍♂️ Menos burocracia y mas rigor en la gestion publica. #Justicia #Navarra #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Error en dato identificativo critico (DNI)",
+      "Falta de control de calidad previo en resoluciones de personal",
+      "Dependencia de la fe de erratas para subsanar negligencias de captura"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario (seguridad juridica recuperada)"
+      ],
+      "perdedores": [
+        "Administracion Publica de Navarra (reputacion de precision)",
+        "Ciudadania (coste indirecto de tramites de correccion)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Recursos Humanos / Funcion Publica",
+    "banderas_rojas": [
+      "Error en dato identificativo critico (DNI)",
+      "Falta de control de calidad previo en resoluciones de personal",
+      "Dependencia de la fe de erratas para subsanar negligencias de captura"
+    ]
+  },
+  "tweeted": false
+}
