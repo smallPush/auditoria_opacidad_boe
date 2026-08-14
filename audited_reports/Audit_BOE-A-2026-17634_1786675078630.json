@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17634",
+  "timestamp": "2026-08-14T02:37:58.630Z",
+  "title": "Resolución de 28 de julio de 2026, de la Agencia Estatal Agencia Espacial Española, por la que se publica la relación definitiva de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración de los ejercicios del proceso selectivo para la provisión de plazas de personal laboral fijo, fuera de convenio, convocado por Resolución de 26 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución de la Agencia Espacial Española (AEE) presenta una estructura administrativa estándar, pero destaca la tipología de plazas: 'personal laboral fijo, fuera de convenio'. Esto implica que las condiciones retributivas y laborales no están sujetas a las tablas salariales estándar del funcionariado, permitiendo una mayor discrecionalidad en la fijación de sueldos. Existe una notable tasa de exclusión (Anexo II) bajo códigos como E1, E4, E5 y E8, lo que sugiere un proceso de inscripción complejo o poco intuitivo para el ciudadano medio, resultando en una 'barrera de entrada' técnica.",
+    "resumen_ciudadano": "Se han publicado las listas definitivas de quiénes pueden y quiénes no pueden optar a las plazas de la Agencia Espacial Española en Sevilla. Si estás en la lista, el examen es en la calle José Galán Merino. Lo más relevante es que estos puestos son 'fuera de convenio', es decir, puestos con sueldos y condiciones especiales fuera de la norma común de la administración.",
+    "resumen_tweet": "🚀 La Agencia Espacial Española publica listas definitivas para plazas 'fuera de convenio'. ¿Sueldos a medida? 💸 Muchos candidatos han quedado fuera por errores de formulario. ¡La burocracia es la primera frontera espacial! 🌌 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Personal fuera de convenio (opacidad salarial)",
+      "Alta tasa de exclusión por defectos de forma en la solicitud",
+      "Concentración de candidatos admitidos en múltiples plazas simultáneamente",
+      "Falta de descripción de las funciones específicas de cada plaza en este documento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos admitidos con perfiles técnicos especializados",
+        "Ciudad de Sevilla (consolidación de la sede de la AEE)",
+        "Altos cargos de la Agencia (discrecionalidad en contratación fuera de convenio)"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos por errores administrativos (posible mala usabilidad del sistema)",
+        "Transparencia pública (al no conocerse las tablas salariales de estos puestos)",
+        "Candidatos sin movilidad geográfica a Andalucía"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Personal fuera de convenio (opacidad salarial)",
+      "Alta tasa de exclusión por defectos de forma en la solicitud",
+      "Concentración de candidatos admitidos en múltiples plazas simultáneamente",
+      "Falta de descripción de las funciones específicas de cada plaza en este documento"
+    ]
+  },
+  "tweeted": false
+}
