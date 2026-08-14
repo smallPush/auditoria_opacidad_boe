@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17736",
+  "timestamp": "2026-08-14T13:38:33.287Z",
+  "title": "Resolución de 7 de agosto de 2026, del Ayuntamiento de Castelldefels (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de una rectificación de bases para una convocatoria de empleo público iniciada originalmente en febrero de 2026. La demora de seis meses para corregir errores u omitir detalles técnicos genera una inseguridad jurídica evidente. Este tipo de maniobras suelen ocultar ajustes de última hora en los requisitos ('plazas a medida') o fallos graves de planificación que retrasan el acceso al empleo público. La remisión a otros boletines (BOPB y DOGC) sin explicar la naturaleza de la rectificación en el BOE fragmenta la información, dificultando la fiscalización ciudadana.",
+    "resumen_ciudadano": "El Ayuntamiento de Castelldefels ha cambiado las reglas de juego para varias plazas de funcionario que ya habían sido convocadas hace medio año. Debido a estos cambios, se vuelve a abrir el plazo de inscripción durante 20 días, pero solo para los puestos que han sido modificados.",
+    "resumen_tweet": "⚠️ Opacidad en Castelldefels: Rectifican bases de empleo 6 meses después de la convocatoria original. Se abre nuevo plazo, pero la falta de detalle en el BOE oculta el motivo real del cambio. 🧐📉 #BOE #Opacidad #Transparencia #Castelldefels",
+    "banderas_red_flags": [
+      "Rectificación tardía (6 meses después)",
+      "Falta de descripción del cambio en el extracto del BOE",
+      "Fragmentación de información entre administraciones",
+      "Incertidumbre en los criterios de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes que no cumplían requisitos originales",
+        "Posibles perfiles beneficiados por el nuevo ajuste técnico",
+        "Administración que gana tiempo ante una posible mala gestión previa"
+      ],
+      "perdedores": [
+        "Aspirantes de febrero que sufren el retraso del proceso",
+        "Ciudadanos que pagan el coste de la ineficiencia administrativa",
+        "Transparencia pública por la opacidad del cambio"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Rectificación tardía (6 meses después)",
+      "Falta de descripción del cambio en el extracto del BOE",
+      "Fragmentación de información entre administraciones",
+      "Incertidumbre en los criterios de selección"
+    ]
+  },
+  "tweeted": false
+}
