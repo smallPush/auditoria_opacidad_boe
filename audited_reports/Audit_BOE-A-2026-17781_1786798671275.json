@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17781",
+  "timestamp": "2026-08-15T12:57:51.275Z",
+  "title": "Resolución de 10 de julio de 2026, de la Diputación Provincial de Almería, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolucion presenta una fragmentacion informativa tipica de la administracion local: publica la convocatoria en el BOE pero remite las bases detalladas al BOP de Almeria, lo que dificulta el acceso directo al ciudadano. Se observa una mezcla de sistemas de seleccion: mientras los puestos administrativos basicos van por oposicion libre, otros de mayor calado como 'Agente de Recaudacion' o 'Auxiliar de Enfermeria' se rigen por concurso-oposicion, un modelo que suele favorecer al personal interino mediante la valoracion de meritos previos. Llama la atencion el uso del sistema de 'concurso' (sin examen) para puestos de peonaje y ayuda de cocina, lo que puede ser un foco de discrecionalidad. La promocion interna acapara puestos clave como Psicologia y Gestion Audiovisual, limitando el acceso de talento externo a la cupula tecnica.",
+    "resumen_ciudadano": "La Diputacion de Almeria convoca mas de 50 plazas para diversos perfiles que van desde administrativos y enfermeros hasta conductores y psicologos. El sistema de seleccion varia segun el puesto, combinando examenes puros, concursos de meritos y promocion interna para quienes ya trabajan en la institucion. Los interesados tienen 20 dias habiles desde mañana para presentar su solicitud.",
+    "resumen_tweet": "📢 ¡Ojo a las plazas en Almeria! 50+ vacantes en la Diputacion. 🧐 Mezcla de oposicion y concurso-oposicion: ¿favorece a interinos? 🏛️ Puestos clave blindados para promocion interna. ¡Tienes 20 dias! #BOE #Opacidad #Transparencia #Almeria #EmpleoPublico",
+    "banderas_red_flags": [
+      "Fragmentacion de la informacion (bases en BOP, no BOE)",
+      "Uso del sistema de concurso puro para puestos laborales",
+      "Elevada reserva para promocion interna en puestos tecnicos superiores",
+      "Criterios de seleccion heterogeneos segun la categoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados",
+        "Trabajadores de la propia Diputacion (promocion interna)",
+        "Aspirantes con discapacidad (cupos reservados)"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa en la administracion",
+        "Talento externo para puestos tecnicos y de gestion",
+        "Ciudadanos con dificultad de acceso a boletines provinciales"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Oferta de Empleo Publico Local",
+    "banderas_rojas": [
+      "Fragmentacion de la informacion (bases en BOP, no BOE)",
+      "Uso del sistema de concurso puro para puestos laborales",
+      "Elevada reserva para promocion interna en puestos tecnicos superiores",
+      "Criterios de seleccion heterogeneos segun la categoria"
+    ]
+  },
+  "tweeted": false
+}
