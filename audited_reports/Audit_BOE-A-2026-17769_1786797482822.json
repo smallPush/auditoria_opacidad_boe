@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17769",
+  "timestamp": "2026-08-15T12:38:02.822Z",
+  "title": "Resolución 452/38358/2026, de 10 de agosto, de la Dirección General de Reclutamiento y Enseñanza Militar, por la que se publica la relación definitiva de personas propuestas para ser nombradas alumnos y alumnas para el ingreso en los centros docentes militares de formación para la incorporación, como militar de carrera, a la Escala de Oficiales y Escala de Oficiales Enfermeros del Cuerpo Militar de Sanidad de las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura estándar de nombramientos, pero destaca la opacidad en la gestión de las 'plazas acumuladas' (cláusula *), donde vacantes destinadas a especialistas o militares de carrera se derivan a otros cupos sin un desglose de costes de oportunidad. Además, se menciona la emisión de 'pasaportes de incorporación' con cargo a presupuestos de los Ejércitos para luego solicitar compensación, un mecanismo de transferencia interna que dificulta el rastreo del gasto real en desplazamientos y dietas de formación inicial.",
+    "resumen_ciudadano": "Publicada la lista definitiva de admitidos para la Escala de Oficiales y Enfermería del Cuerpo Militar de Sanidad. Los seleccionados deben presentarse en la Academia General Militar de Zaragoza en apenas 7 días (17 de agosto), lo que impone una logística de urgencia. Se observa una notable presencia femenina en las especialidades de Psicología, Veterinaria y Enfermería.",
+    "resumen_tweet": "🩺 Publicada la lista de nuevos sanitarios militares. ¿Transparencia? Plazas 'acumuladas' por falta de especialistas y gastos de viaje gestionados internamente sin cifras claras. ¡7 días para estar en Zaragoza! 🏃‍♂️💨 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Plazas acumuladas por falta de especialistas",
+      "Opacidad en la cuantía de dietas y pasaportes de viaje",
+      "Plazo de incorporación extremadamente reducido (7 días naturales)",
+      "Compensación presupuestaria inter-ejércitos no detallada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes de ingreso directo (especialmente en Psicología y Enfermería)",
+        "Academia General Militar de Zaragoza",
+        "Sector sanitario femenino (alta representación en los listados)"
+      ],
+      "perdedores": [
+        "Especialistas médicos y farmacéuticos (plazas desiertas que obligan a acumular en otros cupos)",
+        "Transparencia presupuestaria en dietas de traslado",
+        "Conciliación familiar ante traslados con aviso de una semana"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Defensa",
+    "banderas_rojas": [
+      "Plazas acumuladas por falta de especialistas",
+      "Opacidad en la cuantía de dietas y pasaportes de viaje",
+      "Plazo de incorporación extremadamente reducido (7 días naturales)",
+      "Compensación presupuestaria inter-ejércitos no detallada"
+    ]
+  },
+  "tweeted": false
+}
