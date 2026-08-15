@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17775",
+  "timestamp": "2026-08-15T12:54:29.101Z",
+  "title": "Resolución de 5 de agosto de 2026, del Cabildo Insular de Tenerife (Santa Cruz de Tenerife), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'libre designación' para un puesto clave: la Dirección de la Oficina de Proyectos con Financiación Europea. Aunque legal, este método permite el nombramiento discrecional ('a dedo') en lugar de basarse estrictamente en la concurrencia competitiva y el mérito técnico. Es alarmante que la gestión de fondos internacionales quede sujeta a la confianza política del Cabildo de Tenerife, lo que aumenta el riesgo de clientelismo y reduce la fiscalización técnica objetiva.",
+    "resumen_ciudadano": "El Cabildo de Tenerife convoca una plaza de Director para gestionar los fondos que llegan de Europa. Sin embargo, no se elegirá necesariamente al más preparado mediante examen, sino que se hará por designación libre del político de turno. El elegido controlará millones de euros públicos en proyectos estratégicos para la isla.",
+    "resumen_tweet": "🚨 ¡Alerta de dedazo en Tenerife! 🏝️ El Cabildo busca director para gestionar Fondos Europeos mediante 'libre designación'. Menos transparencia y más control político sobre el dinero de todos. ¿Mérito o confianza? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación para puesto técnico",
+      "Gestión de fondos millonarios europeos bajo criterio discrecional",
+      "Plazo de solicitud de solo 10 días para un puesto de alta dirección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cargos de confianza política",
+        "Élites administrativas locales"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayor mérito",
+        "Ciudadanos (por riesgo de gestión partidista de fondos)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento Discrecional / Empleo Público",
+    "banderas_rojas": [
+      "Sistema de libre designación para puesto técnico",
+      "Gestión de fondos millonarios europeos bajo criterio discrecional",
+      "Plazo de solicitud de solo 10 días para un puesto de alta dirección"
+    ]
+  },
+  "tweeted": false
+}
