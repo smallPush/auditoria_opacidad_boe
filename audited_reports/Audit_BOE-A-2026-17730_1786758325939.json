@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17730",
+  "timestamp": "2026-08-15T01:45:25.939Z",
+  "title": "Resolución 452/38361/2026, de 13 de agosto, de la Dirección General de Reclutamiento y Enseñanza Militar, por la que se publica la relación provisional de personas propuestas para ser nombradas alumnos y alumnas para el ingreso en los centros docentes militares de formación, mediante la forma de ingreso directo, con y sin exigencia Titulación de Técnico Superior, para la incorporación como militar de carrera a las escalas de suboficiales de los Cuerpos Generales y del Cuerpo de Infantería de Marina.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una transparencia procedimental estándar al publicar nombres y calificaciones, pero incurre en una 'opacidad logística' severa. Publicar una relación de admitidos el 14 de agosto para una incorporación presencial el 17 de agosto a las 10:00 horas (apenas 72 horas después, incluyendo un fin de semana de agosto) supone una barrera de clase. Aquellos aspirantes sin recursos económicos para costear desplazamientos transpeninsulares de urgencia o sin red de apoyo logística se ven penalizados frente a quienes poseen mayor solvencia o cercanía geográfica a las academias de Talarn, San Fernando o León.",
+    "resumen_ciudadano": "Se publica la lista provisional de aprobados para las escalas de suboficiales del Ejército. Los seleccionados deben presentarse en sus respectivas academias militares antes de tres días desde la publicación. Aunque la lista es pública, los plazos tan cortos dificultan la igualdad de oportunidades para personas con pocos recursos o que vivan lejos de los centros de formación.",
+    "resumen_tweet": "🚨 ¡El #BOE no descansa ni en agosto! Publicada la lista de futuros suboficiales. ¿El problema? Dan solo 3 días para presentarse en la academia. Plazos exprés que dificultan la conciliación y la movilidad. 🧳🎖️ #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Plazo de incorporación extremadamente breve (72 horas)",
+      "Publicación en pleno puente de agosto, dificultando trámites administrativos",
+      "Falta de desglose sobre las ayudas de transporte para personal no militar previo",
+      "Ambigüedad en la justificación de causas de ausencia para evitar la renuncia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Defensa (cubrimiento rápido de vacantes)",
+        "Aspirantes con alta movilidad geográfica y solvencia económica inmediata",
+        "Centros de formación militar en Cataluña, Andalucía y Castilla y León"
+      ],
+      "perdedores": [
+        "Aspirantes de entornos socioeconómicos vulnerables",
+        "Candidatos de territorios insulares o remotos (Canarias/Baleares/Ceuta/Melilla) por falta de tiempo logístico",
+        "Principio de igualdad de oportunidades por la premura del llamamiento"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Formación Militar",
+    "banderas_rojas": [
+      "Plazo de incorporación extremadamente breve (72 horas)",
+      "Publicación en pleno puente de agosto, dificultando trámites administrativos",
+      "Falta de desglose sobre las ayudas de transporte para personal no militar previo",
+      "Ambigüedad en la justificación de causas de ausencia para evitar la renuncia"
+    ]
+  },
+  "tweeted": false
+}
