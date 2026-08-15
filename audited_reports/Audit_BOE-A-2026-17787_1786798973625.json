@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17787",
+  "timestamp": "2026-08-15T13:02:53.625Z",
+  "title": "Resolución de 7 de agosto de 2026, del Ayuntamiento de Majadahonda (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se limita exclusivamente a la promoción interna, lo que restringe el acceso a la función pública y blinda la estructura jerárquica actual del Ayuntamiento de Majadahonda. Es altamente sospechosa la rectificación de bases realizada apenas días antes de la publicación en el BOE (5 de agosto frente al 7 de agosto), una práctica recurrente en la administración local para ajustar requisitos a perfiles específicos o 'trajes a medida'. El uso del sistema de concurso-oposición en lugar de oposición pura aumenta la subjetividad en la fase de méritos.",
+    "resumen_ciudadano": "El Ayuntamiento de Majadahonda convoca dos plazas de Inspector de Policía únicamente para personal que ya pertenece a su plantilla. Se han modificado las reglas de la convocatoria justo antes de este anuncio oficial, un movimiento que suele ocultar cambios en la puntuación o requisitos para favorecer a ciertos candidatos internos.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en Majadahonda! 2 plazas de Inspector de Policía por promoción interna con 'rectificación' de bases exprés justo antes de salir en el #BOE. ¿Transparencia o traje a medida? 🏛️⚖️ #Opacidad #Madrid #Transparencia",
+    "banderas_red_flags": [
+      "Rectificación de bases inmediata previa a la publicación nacional",
+      "Restricción total a promoción interna (exclusión de competencia externa)",
+      "Publicación en el mes de agosto, tradicionalmente usado para reducir la vigilancia pública",
+      "Falta de detalle en el BOE sobre los criterios de rectificación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agentes internos preseleccionados",
+        "Concejalía de Seguridad (mantenimiento del statu quo)"
+      ],
+      "perdedores": [
+        "Opositores externos cualificados",
+        "Cuerpos de policía de otros municipios (limitación de movilidad)",
+        "Contribuyentes (menor competitividad en la selección de mandos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Oferta de Empleo Público / Seguridad Ciudadana",
+    "banderas_rojas": [
+      "Rectificación de bases inmediata previa a la publicación nacional",
+      "Restricción total a promoción interna (exclusión de competencia externa)",
+      "Publicación en el mes de agosto, tradicionalmente usado para reducir la vigilancia pública",
+      "Falta de detalle en el BOE sobre los criterios de rectificación"
+    ]
+  },
+  "tweeted": false
+}
