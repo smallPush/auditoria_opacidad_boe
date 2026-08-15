@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17788",
+  "timestamp": "2026-08-15T13:00:05.749Z",
+  "title": "Resolución de 7 de agosto de 2026, del Ayuntamiento de Friol (Lugo), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria de plaza única bajo la modalidad de concurso-oposición en un municipio de baja población. Este formato, aunque legal, suele ser el mecanismo estándar para la 'funcionarización' o consolidación de personal interino que ya ocupa el puesto, reduciendo las posibilidades reales de candidatos externos. La publicación de las bases completas en un boletín provincial (BOP Lugo) y no en el BOE obliga al ciudadano a un rastreo adicional de información.",
+    "resumen_ciudadano": "El Ayuntamiento de Friol (Lugo) convoca una plaza de administrativo. El sistema elegido permite que la experiencia previa sume puntos, lo que otorga una ventaja competitiva decisiva a quienes ya prestan servicios en la administración local frente a nuevos opositores.",
+    "resumen_tweet": "🧐 ¿Oportunidad real o plaza con nombre? El Ayto de Friol (Lugo) lanza 1 plaza de administrativo vía concurso-oposición. Publicado en agosto 🏖️ y con un sistema que beneficia al personal de la casa. #BOE #Opacidad #Transparencia #Friol #Lugo",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición en plaza única de acceso libre",
+      "Publicación en periodo vacacional (agosto) para reducir visibilidad",
+      "Falta de desglose de méritos en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Friol",
+        "Candidatos con antigüedad en la administración local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin méritos previos",
+        "Ciudadanos que esperan igualdad de oportunidades en el acceso público"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Resolución de Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición en plaza única de acceso libre",
+      "Publicación en periodo vacacional (agosto) para reducir visibilidad",
+      "Falta de desglose de méritos en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
