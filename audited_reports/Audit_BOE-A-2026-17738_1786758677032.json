@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17738",
+  "timestamp": "2026-08-15T01:51:17.032Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Sevilla, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria se limita exclusivamente a la promoción interna, lo que restringe el acceso a la escala de mando a personal ya existente, limitando la entrada de nuevas perspectivas o perfiles externos. Se detecta una dilación administrativa notable: las bases se publicaron en julio de 2025 y la resolución del BOE llega en agosto de 2026, lo que genera una ventana de opacidad temporal de un año. El sistema de concurso-oposición en promociones internas a menudo permite que la fase de 'concurso' (méritos) sea determinante, pudiendo favorecer perfiles preseleccionados por la propia estructura orgánica.",
+    "resumen_ciudadano": "El Ayuntamiento de Sevilla abre proceso para ascender a 5 oficiales a la categoría de Inspector de Policía Local. No son puestos para nuevos empleados, sino ascensos internos basados en méritos y exámenes previos.",
+    "resumen_tweet": "🚨 ¡Ojo en Sevilla! 5 plazas de Inspector de Policía Local solo para promoción interna vía concurso-oposición. Proceso lento (bases de 2025) que limita el acceso externo y consolida la jerarquía actual. 👮‍♂️🏛️ #BOE #Opacidad #Transparencia #Sevilla",
+    "banderas_red_flags": [
+      "Endogamia corporativa",
+      "Dilación temporal excesiva (12 meses)",
+      "Opacidad en la fase de valoración de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agentes de la Policía Local de Sevilla con antigüedad",
+        "Estructura jerárquica establecida"
+      ],
+      "perdedores": [
+        "Ciudadanos titulados fuera del cuerpo",
+        "Renovación generacional externa",
+        "Transparencia ágil"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público - Seguridad",
+    "banderas_rojas": [
+      "Endogamia corporativa",
+      "Dilación temporal excesiva (12 meses)",
+      "Opacidad en la fase de valoración de méritos"
+    ]
+  },
+  "tweeted": false
+}
