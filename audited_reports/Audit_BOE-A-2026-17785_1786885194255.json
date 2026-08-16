@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17785",
+  "timestamp": "2026-08-16T12:59:54.255Z",
+  "title": "Resolución de 6 de agosto de 2026, del Ayuntamiento de Majadahonda (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria para una única plaza de Subinspector de Policía en Majadahonda mediante promoción interna. La publicación en el BOE llega tras una 'rectificación de bases' en el BOCM apenas 10 días antes, una maniobra común para ajustar requisitos técnicos a perfiles específicos. Al ser promoción interna, el acceso queda blindado para la ciudadanía general, limitando la regeneración y meritocracia abierta. El sistema de concurso-oposición en estas escalas suele favorecer la antigüedad y méritos subjetivos sobre la capacidad técnica pura.",
+    "resumen_ciudadano": "El Ayuntamiento de Majadahonda convoca una plaza de Subinspector de Policía. El proceso es de promoción interna, lo que significa que solo pueden optar quienes ya trabajan en el cuerpo. Se han modificado las reglas del juego (las bases) justo antes de esta publicación oficial.",
+    "resumen_tweet": "🚨 ¡Alerta en Majadahonda! 1 plaza de Subinspector de Policía vía 'promoción interna' con rectificación de bases de última hora. 📉 Transparencia limitada al restringir acceso externo. ¿Traje a medida? 👔 #BOE #Opacidad #Transparencia #Majadahonda",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única",
+      "Rectificación de bases inmediata previa a la publicación",
+      "Acceso restringido (Promoción Interna)",
+      "Uso de concurso-oposición para mandos intermedios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antigüedad",
+        "Estructura política local (control de mandos)"
+      ],
+      "perdedores": [
+        "Candidatos externos cualificados",
+        "Contribuyentes (falta de competencia por el puesto)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público - Seguridad",
+    "banderas_rojas": [
+      "Convocatoria de plaza única",
+      "Rectificación de bases inmediata previa a la publicación",
+      "Acceso restringido (Promoción Interna)",
+      "Uso de concurso-oposición para mandos intermedios"
+    ]
+  },
+  "tweeted": false
+}
