@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17780",
+  "timestamp": "2026-08-16T12:58:06.034Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Mijas (Málaga), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La convocatoria para el puesto de Jefe de Informática en el Ayuntamiento de Mijas utiliza el sistema de 'libre designación', un mecanismo legal pero inherentemente discrecional que permite la elección directa por parte de los responsables políticos. Al tratarse de un puesto de naturaleza técnica (Administración Especial), la elección a dedo en lugar de un concurso de méritos objetivo genera sospechas sobre la politización de la gestión tecnológica y de datos del municipio.",
+    "resumen_ciudadano": "El Ayuntamiento de Mijas ha publicado una oferta para ocupar el puesto de Jefe/a de Informática. Sin embargo, en lugar de realizar un examen o concurso abierto para asegurar que se elige al más preparado, se utilizará el método de libre designación, lo que permite a la administración elegir a quien desee basándose en criterios de confianza personal o política.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El Ayto. de Mijas convoca la Jefatura de Informática por 'libre designación'. Un puesto técnico clave elegido a discreción. ¿Dónde queda la meritocracia real? 🧐💻 #BOE #Opacidad #Transparencia #Mijas #Málaga",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puesto técnico",
+      "Opacidad en los criterios de selección finales",
+      "Riesgo de clientelismo en la gestión de infraestructuras críticas de datos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con redes de contacto político",
+        "Cargos de confianza de la administración actual",
+        "Estructuras de poder local"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera altamente cualificados sin afinidad política",
+        "Contribuyentes (por riesgo de gestión ineficiente)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación en puesto técnico",
+      "Opacidad en los criterios de selección finales",
+      "Riesgo de clientelismo en la gestión de infraestructuras críticas de datos"
+    ]
+  },
+  "tweeted": false
+}
