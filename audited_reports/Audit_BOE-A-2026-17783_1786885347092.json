@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17783",
+  "timestamp": "2026-08-16T13:02:27.092Z",
+  "title": "Resolución de 28 de julio de 2026, del Ayuntamiento de Majadahonda (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una convocatoria para una sola plaza de personal laboral fijo (psicólogo clínico) mediante sistema de oposición. La principal señal de alerta es la rectificación de las bases publicada apenas unas semanas después de la original y justo antes de la publicación en el BOE. Este patrón suele asociarse a la corrección de requisitos técnicos para ajustarlos a perfiles específicos o para subsanar errores que podrían invalidar un proceso 'dirigido'. Al ser una única plaza, el coste de gestión administrativa frente al beneficio social es ineficiente, sugiriendo una posible consolidación de personal interino encubierta bajo la apariencia de turno libre.",
+    "resumen_ciudadano": "El Ayuntamiento de Majadahonda convoca una plaza fija de Psicólogo Clínico. Se advierte que las reglas del examen fueron modificadas poco después de publicarse inicialmente. Los interesados tienen 20 días hábiles para inscribirse, pero deben consultar el Boletín de la Comunidad de Madrid para entender los cambios de última hora en los requisitos.",
+    "resumen_tweet": "🔎 ¡Ojo al #BOE! Majadahonda busca 1 psicólogo clínico. ¿El truco? Rectificaron las bases justo antes de lanzarlas a nivel nacional. ¿Transparencia o traje a medida? El plazo de 20 días ya corre. ⚖️ #Opacidad #Transparencia #Madrid #EmpleoPublico",
+    "banderas_red_flags": [
+      "Rectificación de bases previa a publicación en BOE",
+      "Convocatoria de plaza única",
+      "Fragmentación de la información entre BOCM y BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos internos con conocimiento de la rectificación de las bases",
+        "Personal interino que ya ocupa la posición"
+      ],
+      "perdedores": [
+        "Opositores libres sin acceso a la 'letra pequeña' del BOCM",
+        "Candidatos externos con poco tiempo de reacción ante cambios técnicos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Rectificación de bases previa a publicación en BOE",
+      "Convocatoria de plaza única",
+      "Fragmentación de la información entre BOCM y BOE"
+    ]
+  },
+  "tweeted": false
+}
