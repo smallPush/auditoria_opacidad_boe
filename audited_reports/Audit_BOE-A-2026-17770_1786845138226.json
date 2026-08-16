@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17770",
+  "timestamp": "2026-08-16T01:52:18.226Z",
+  "title": "Resolución de 5 de agosto de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación', un mecanismo que, bajo la apariencia de legalidad, permite el nombramiento discrecional o 'a dedo' de funcionarios. El puesto de Nivel 28 en Almería para el Área de Trabajo e Inmigración es especialmente sensible; su alta remuneración específica (19.667,48 € adicionales al sueldo base) y el método de elección sugieren una priorización de la confianza política sobre la competencia técnica pura en un área crítica de gestión social.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial busca cubrir dos puestos de trabajo en Almería y Soria. A diferencia de las oposiciones comunes, estos puestos se eligen de forma discrecional entre funcionarios que ya pertenecen a la administración. Destaca una jefatura en Almería con un complemento salarial muy elevado, destinada a la élite burocrática (Clase A1).",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El Gobierno convoca puestos de 'libre designación' en Almería y Soria. El nivel 28 en Almería incluye un jugoso complemento de +19.600€. La discrecionalidad sigue ganando al concurso abierto. 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Elevado complemento específico en el nivel 28",
+      "Convocatoria en periodo estival (agosto) reduce la visibilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del subgrupo A1 con afinidad política",
+        "Estructuras de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin conexiones",
+        "Ciudadanía que financia puestos de alta dirección sin procesos competitivos transparentes"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía y Castilla y León",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Elevado complemento específico en el nivel 28",
+      "Convocatoria en periodo estival (agosto) reduce la visibilidad"
+    ]
+  },
+  "tweeted": false
+}
