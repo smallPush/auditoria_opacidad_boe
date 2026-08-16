@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17772",
+  "timestamp": "2026-08-16T12:56:09.562Z",
+  "title": "Resolución de 28 de julio de 2026, del Ayuntamiento de Mijas (Málaga), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para un puesto técnico de alta jerarquía (Dirección de Recursos Humanos). Este mecanismo, aunque legal bajo el amparo de la normativa de función pública, es frecuentemente criticado por permitir el nombramiento discrecional ('a dedo') de cargos que deberían ser estrictamente profesionales. La falta de baremación objetiva de méritos en el extracto del BOE delega el control del personal municipal a la voluntad política del equipo de gobierno de turno.",
+    "resumen_ciudadano": "El Ayuntamiento de Mijas busca cubrir la jefatura de sus Recursos Humanos. El problema radica en que no se hará mediante un concurso de méritos abierto y ciego, sino por elección directa de los responsables políticos. Esto permite que quien gestione las nóminas, contrataciones y sanciones de todo el ayuntamiento sea alguien de confianza política y no necesariamente el técnico más cualificado.",
+    "resumen_tweet": "🚩 ¡Alerta de 'dedazo' en Mijas! El Ayuntamiento convoca la Dirección de RRHH por libre designación. ¿Gestión profesional o control político del personal? 📉 La transparencia brilla por su ausencia en puestos clave. #BOE #Opacidad #Transparencia #Mijas",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puesto técnico",
+      "Puesto sensible (RRHH) bajo control discrecional",
+      "Falta de criterios objetivos de selección en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cargos políticos (mayor control sobre la plantilla)",
+        "Candidato con afinidad ideológica o personal"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos técnicos",
+        "Ciudadanía (riesgo de clientelismo)",
+        "Neutralidad de la administración pública"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación en puesto técnico",
+      "Puesto sensible (RRHH) bajo control discrecional",
+      "Falta de criterios objetivos de selección en el extracto"
+    ]
+  },
+  "tweeted": false
+}
