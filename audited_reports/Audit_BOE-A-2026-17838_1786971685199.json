@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17838",
+  "timestamp": "2026-08-17T13:01:25.199Z",
+  "title": "Decreto Foral Legislativo 2/2026, de 29 de julio, de Armonización Tributaria, por el que se modifica el Impuesto sobre el Valor Añadido y el Impuesto sobre el Valor de la Producción de la Energía Eléctrica.",
+  "report": {
+    "nivel_transparencia": 60,
+    "analisis_critico": "El decreto emplea una arquitectura de condicionalidad que genera incertidumbre en el contribuyente. Al supeditar la rebaja del IVA al 10% a que el IPC supere un umbral extremo del 15%, se crea una barrera técnica que podría dejar fuera a millones de ciudadanos sufriendo una inflación alta pero 'insuficiente' según el BOE. Por otro lado, la reducción progresiva del IVPEE hasta su eliminación total en 2028 (0%) supone una transferencia de rentas masiva hacia las eléctricas, confiando ciegamente en que el mercado trasladará esa bajada al consumidor final sin mecanismos de control ni sanciones por no hacerlo.",
+    "resumen_ciudadano": "Navarra ajusta los impuestos de la energía por la crisis en Oriente Medio. La rebaja del IVA al 10% para luz y gas solo se activará en agosto y septiembre de 2026 si los precios se disparan más de un 15%. Paralelamente, el impuesto que pagan las empresas eléctricas por producir energía se reducirá paulatinamente hasta desaparecer por completo en 2028, con el objetivo teórico de abaratar la factura a largo plazo.",
+    "resumen_tweet": "💡 Navarra ajusta impuestos energéticos, ¡pero con truco! La rebaja del IVA solo llega si el IPC sube más del 15%. Mientras, las eléctricas verán su impuesto bajar al 0% para 2028. ¿Llegará el ahorro al ciudadano? 🤔 #BOE #Opacidad #Transparencia #Navarra ⚡💸",
+    "banderas_red_flags": [
+      "Cláusula de barrera del 15% del IPC para activar el IVA reducido",
+      "Eliminación total de impuestos a la producción eléctrica para 2028 sin auditoría de precios",
+      "Limitación de la ayuda al consumo a solo dos meses (agosto y septiembre)",
+      "Asimetría de beneficios: el alivio empresarial es estructural y el ciudadano es eventual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones energéticas (eliminación del IVPEE)",
+        "Consumidores con bonos de vulnerabilidad severa (siempre que el IPC explote)"
+      ],
+      "perdedores": [
+        "Clase media (hogares con potencia >10kW)",
+        "Pequeños comercios excluidos de las bonificaciones",
+        "Administración pública (pérdida de recaudación sin garantía de bajada de precios)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Decreto Foral Legislativo de Armonización Tributaria",
+    "banderas_rojas": [
+      "Cláusula de barrera del 15% del IPC para activar el IVA reducido",
+      "Eliminación total de impuestos a la producción eléctrica para 2028 sin auditoría de precios",
+      "Limitación de la ayuda al consumo a solo dos meses (agosto y septiembre)",
+      "Asimetría de beneficios: el alivio empresarial es estructural y el ciudadano es eventual"
+    ]
+  },
+  "tweeted": false
+}
