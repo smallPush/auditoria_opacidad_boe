@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17835",
+  "timestamp": "2026-08-17T12:44:17.143Z",
+  "title": "Resolución de 7 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución perpetúa un sistema de determinación automática de precios que, si bien se basa en variables objetivas de mercado (cotización internacional y flete), traslada toda la volatilidad del mercado de hidrocarburos directamente al consumidor final. La opacidad reside en los 'costes de comercialización', que se revisan anualmente de forma discrecional bajo fórmulas complejas, funcionando como una 'caja negra' para el ciudadano. Además, al estar los precios denominados en dólares, el consumidor español queda expuesto al riesgo de tipo de cambio sin mecanismos de protección estatal visibles.",
+    "resumen_ciudadano": "El Gobierno actualiza los precios del gas canalizado (propano/butano). A partir del 18 de agosto de 2026, pagarás una cuota fija de 1,60 € al mes y un precio variable de aproximadamente 0,90 € por kilo consumido. Estos precios no incluyen el IVA ni otros impuestos, por lo que la factura final será significativamente más alta. El precio se ajusta según lo que dicte el mercado internacional y el valor del dólar.",
+    "resumen_tweet": "📉 Nuevos precios del gas por canalización en el #BOE. Cuota fija de 1,60€/mes + consumo ligado al mercado internacional y al dólar. El consumidor asume toda la volatilidad 💸. ¿Dónde quedan los costes de comercialización? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Indexación directa a mercados internacionales sin amortiguadores sociales",
+      "Costes de comercialización calculados bajo fórmulas de difícil acceso ciudadano",
+      "Exposición total al riesgo de cambio Dólar/Euro",
+      "Precios publicados sin impuestos, ocultando el impacto real en el bolsillo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas distribuidoras (aseguran el cobro de costes de comercialización)",
+        "Estado (mantiene la recaudación proporcional mediante impuestos sobre el precio base)"
+      ],
+      "perdedores": [
+        "Consumidores finales en zonas rurales o sin acceso a gas natural",
+        "Clase trabajadora (el gas por canalización suele ser la única opción en ciertos núcleos urbanos)",
+        "Economías domésticas (vulnerabilidad ante la fluctuación del dólar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios de Hidrocarburos",
+    "banderas_rojas": [
+      "Indexación directa a mercados internacionales sin amortiguadores sociales",
+      "Costes de comercialización calculados bajo fórmulas de difícil acceso ciudadano",
+      "Exposición total al riesgo de cambio Dólar/Euro",
+      "Precios publicados sin impuestos, ocultando el impacto real en el bolsillo"
+    ]
+  },
+  "tweeted": false
+}
