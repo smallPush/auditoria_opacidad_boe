@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-17853",
+  "timestamp": "2026-08-17T13:11:19.284Z",
+  "title": "Resolución de 10 de agosto de 2026, del Ayuntamiento de Socuéllamos (Ciudad Real), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una convocatoria de empleo público estándar para dos plazas de Policía Local en Socuéllamos. El uso del sistema de oposición en turno libre es un indicador de meritocracia técnica frente a la discrecionalidad, lo cual es positivo. No obstante, la opacidad reside en la fragmentación de la información: el ciudadano debe acudir al Boletín Provincial para conocer los requisitos específicos y temarios, una técnica de dispersión administrativa que dificulta el escrutinio ciudadano directo desde el BOE. No se declaran los costes de tribunal ni el impacto presupuestario de estas nuevas nóminas en el medio plazo.",
+    "resumen_ciudadano": "El Ayuntamiento de Socuéllamos busca incorporar dos nuevos agentes de Policía Local. El proceso se realizará mediante oposición libre (exámenes), lo que permite que cualquier persona que cumpla los requisitos compita en igualdad. El plazo para inscribirse es de 20 días hábiles tras la publicación oficial.",
+    "resumen_tweet": "🚓 El Ayto. de Socuéllamos convoca 2 plazas de Policía Local. Sistema de oposición libre para favorecer la meritocracia, pero con la información clave oculta en el boletín provincial. ¡Atentos a los plazos! ⏱️ #BOE #Socuéllamos #Oposiciones #Transparencia",
+    "banderas_red_flags": [
+      "Información fragmentada (remisión al BOP)",
+      "Ausencia de desglose presupuestario del proceso selectivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes jóvenes con tiempo para estudiar",
+        "Academias privadas de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Personal interino sin puntos por experiencia",
+        "Ciudadanos que exigen transparencia presupuestaria total en un solo documento"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público / Seguridad",
+    "banderas_rojas": [
+      "Información fragmentada (remisión al BOP)",
+      "Ausencia de desglose presupuestario del proceso selectivo"
+    ]
+  },
+  "tweeted": false
+}
