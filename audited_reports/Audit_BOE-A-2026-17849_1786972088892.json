@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17849",
+  "timestamp": "2026-08-17T13:08:08.892Z",
+  "title": "Resolución de 4 de agosto de 2026, del Ayuntamiento de Jaén, Centro Especial de Empleo, Municipal Jardines y Naturaleza, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Se observa una fragmentación temporal administrativa que dificulta el acceso equitativo. Entre la publicación de las bases (mayo de 2026) y el anuncio en el BOE (agosto de 2026) han transcurrido tres meses, lo que genera una ventaja informativa para quienes siguen boletines locales. El sistema de 'concurso-oposición' en lugar de oposición libre tiende a favorecer la consolidación de personal interino ya presente en el Centro Especial de Empleo, limitando la movilidad social ascendente de nuevos aspirantes.",
+    "resumen_ciudadano": "El Ayuntamiento de Jaén convoca 8 plazas fijas de operarios de jardinería reservadas exclusivamente para personas con discapacidad. El plazo de inscripción es de 20 días hábiles desde el 18 de agosto de 2026. Es fundamental consultar las bases en el Boletín de la Provincia de Jaén del 13 de mayo para conocer los méritos puntuables.",
+    "resumen_tweet": "🌿 El Ayuntamiento de Jaén convoca 8 plazas de jardinería para personas con discapacidad. Ojo a la demora: bases de mayo, convocatoria en agosto. ¿Consolidación encubierta o inclusión real? 🧐 #BOE #Opacidad #Transparencia #Jaén #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Desfase temporal de 3 meses entre bases locales y publicación estatal",
+      "Rectificación de bases previa a la convocatoria",
+      "Uso del sistema concurso-oposición que prima la antigüedad sobre el examen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Centro Especial de Empleo",
+        "Aspirantes con red de contactos local"
+      ],
+      "perdedores": [
+        "Nuevos demandantes de empleo con discapacidad sin experiencia previa en la administración",
+        "Ciudadanos de otras provincias con menor acceso a información local"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Desfase temporal de 3 meses entre bases locales y publicación estatal",
+      "Rectificación de bases previa a la convocatoria",
+      "Uso del sistema concurso-oposición que prima la antigüedad sobre el examen"
+    ]
+  },
+  "tweeted": false
+}
