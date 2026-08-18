@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17901",
+  "timestamp": "2026-08-18T13:07:13.405Z",
+  "title": "Resolución de 11 de agosto de 2026, de la Mancomunidad El Záncara (Cuenca), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion presenta un esquema clasico de opacidad administrativa mediante la remision a boletines provinciales. El uso del sistema de concurso-oposicion para puestos de peon-conductor sugiere un proceso de estabilizacion de personal interino mas que una busqueda de talento basada puramente en la capacidad. Este mecanismo suele otorgar una ventaja competitiva determinante a quienes ya prestan servicios en la Mancomunidad, desincentivando la participacion ciudadana externa y perpetuando redes clientelares locales bajo el amparo de la legalidad vigente.",
+    "resumen_ciudadano": "Se buscan dos peones-conductores fijos para la Mancomunidad El Zancara en Cuenca. El proceso no es solo un examen, sino que tambien cuenta la experiencia previa (meritos), lo cual suele favorecer a personas que ya estan trabajando alli de forma temporal.",
+    "resumen_tweet": "⚠️ ¡Alerta Oposicion! La Mancomunidad El Zancara (Cuenca) lanza 2 plazas de peon-conductor. El sistema concurso-oposicion puede beneficiar a 'conocidos'. ¿Meritocracia o consolidacion encubierta? 🧐📉 #BOE #Opacidad #Transparencia #EmpleoPublico",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposicion para puestos de baja cualificacion",
+      "Remision de bases a boletines de menor difusion",
+      "Falta de detalle sobre el baremo de meritos en el anuncio principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual de la Mancomunidad",
+        "Candidatos con red de contactos local"
+      ],
+      "perdedores": [
+        "Jovenes desempleados sin experiencia previa",
+        "Candidatos externos a la region de Cuenca"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposicion para puestos de baja cualificacion",
+      "Remision de bases a boletines de menor difusion",
+      "Falta de detalle sobre el baremo de meritos en el anuncio principal"
+    ]
+  },
+  "tweeted": false
+}
