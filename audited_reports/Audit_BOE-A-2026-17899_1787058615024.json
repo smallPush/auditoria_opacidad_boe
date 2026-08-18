@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17899",
+  "timestamp": "2026-08-18T13:10:15.024Z",
+  "title": "Resolución de 11 de agosto de 2026, del Ayuntamiento de Chozas de Abajo (León), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El anuncio cumple con la legalidad formal pero incurre en la fragmentación informativa clásica del sistema español. Al remitir las bases completas al Boletín de la Provincia (BOP) y un extracto al de la Comunidad (BOCyL), el ciudadano se ve obligado a realizar una triangulación documental para entender los requisitos reales. Este sistema de 'migajas de pan' burocráticas favorece a quienes ya conocen el funcionamiento de la administración o tienen recursos para asesoría, dificultando el acceso al opositor novel o sin tiempo para la investigación administrativa. No hay mención a la dotación presupuestaria ni al salario base en este extracto.",
+    "resumen_ciudadano": "Se abre el plazo de 20 días hábiles para solicitar una plaza de Administrativo (turno libre) en el Ayuntamiento de Chozas de Abajo (León). El proceso es por oposición pura, lo que significa que la nota del examen es el factor determinante.",
+    "resumen_tweet": "📢 ¿Quieres ser administrativo en Chozas de Abajo (León)? Se convoca 1 plaza por oposición libre. Pero ojo: las reglas completas están 'escondidas' en el boletín provincial de hace semanas. ¡Transparencia a plazos! 🧐💼 #BOE #Opacidad #Transparencia #León",
+    "banderas_red_flags": [
+      "Dispersión normativa",
+      "Falta de transparencia retributiva inmediata",
+      "Burocracia multinivel"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con dedicación exclusiva",
+        "Academias de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Trabajadores en activo con poco tiempo para trámites",
+        "Ciudadanos con baja competencia digital o administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Dispersión normativa",
+      "Falta de transparencia retributiva inmediata",
+      "Burocracia multinivel"
+    ]
+  },
+  "tweeted": false
+}
