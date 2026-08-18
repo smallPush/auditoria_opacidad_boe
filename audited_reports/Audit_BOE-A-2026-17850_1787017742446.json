@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17850",
+  "timestamp": "2026-08-18T01:49:02.446Z",
+  "title": "Resolución de 7 de agosto de 2026, del Cabildo Insular de Gran Canaria, Instituto Insular de Deportes de Gran Canaria (Las Palmas), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para plazas de rango básico (Auxiliar y Subalterno). Históricamente, este sistema en la administración local española se ha utilizado para blindar a personal interino existente, ya que los puntos por 'experiencia previa' en la fase de concurso suelen ser determinantes frente a la nota del examen puro. Aunque es legal, genera una barrera de entrada para ciudadanos sin vínculos previos con la institución. Además, la remisión a un boletín de distinto nivel (BOP de Las Palmas) añade un paso extra de complejidad para el acceso a la información completa por parte del ciudadano de a pie.",
+    "resumen_ciudadano": "El Instituto Insular de Deportes de Gran Canaria abre el proceso para contratar 4 empleados fijos (3 auxiliares administrativos y 1 subalterno). El proceso no será una oposición limpia (solo examen), sino que se valorarán méritos anteriores, lo que suele favorecer a quienes ya están trabajando dentro de la casa. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El Instituto de Deportes de Gran Canaria convoca 4 plazas por concurso-oposición. ⚠️ Este sistema puede favorecer la consolidación de interinos, dificultando el acceso a nuevos aspirantes. ¿Oportunidad real o blindaje? #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Sistema de valoración mixto (concurso-oposición) en puestos de baja cualificación",
+      "Potencial consolidación de empleo temporal encubierta",
+      "Dependencia de bases publicadas en boletín provincial de difícil seguimiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Cabildo de Gran Canaria",
+        "Candidatos con experiencia previa en administración local canaria"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Jóvenes titulados en busca de su primer empleo público",
+        "Candidatos de otras regiones con menor facilidad para computar méritos"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Convocatoria de Empleo Público",
+    "banderas_rojas": [
+      "Sistema de valoración mixto (concurso-oposición) en puestos de baja cualificación",
+      "Potencial consolidación de empleo temporal encubierta",
+      "Dependencia de bases publicadas en boletín provincial de difícil seguimiento"
+    ]
+  },
+  "tweeted": false
+}
