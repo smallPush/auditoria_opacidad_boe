@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17903",
+  "timestamp": "2026-08-18T13:13:01.487Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Ballesteros de Calatrava (Ciudad Real), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de una convocatoria de plaza única mediante el sistema de concurso-oposición restringido a promoción interna. Este mecanismo, habitual en la administración local, suele utilizarse para la consolidación de personal específico, limitando la entrada de talento externo y la movilidad social. La opacidad no radica en el anuncio en sí, sino en la fragmentación de la información, obligando al ciudadano a consultar el Boletín Provincial para conocer los baremos de puntuación, que suelen estar fuertemente sesgados hacia la antigüedad en el puesto actual.",
+    "resumen_ciudadano": "El Ayuntamiento de Ballesteros de Calatrava ha abierto el proceso para cubrir una plaza de administrativo, pero solo pueden optar a ella personas que ya formen parte de la plantilla municipal. El sistema incluye valoración de méritos previos, lo que favorece el ascenso del personal ya contratado.",
+    "resumen_tweet": "📢 ¿Oportunidad o 'traje a medida'? El Ayto. de Ballesteros de Calatrava convoca una plaza de administrativo solo para promoción interna 🛑. La transparencia real se diluye al remitir a bases provinciales externas. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plaza única",
+      "Promoción interna exclusiva",
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Fragmentación de la información legal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o de carrera ya presente en el ayuntamiento",
+        "Sindicatos locales"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Jóvenes titulados sin experiencia previa en este ayuntamiento",
+        "Movilidad social meritocrática"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Plaza única",
+      "Promoción interna exclusiva",
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Fragmentación de la información legal"
+    ]
+  },
+  "tweeted": false
+}
