@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17843",
+  "timestamp": "2026-08-18T01:46:39.679Z",
+  "title": "Resolución de 24 de julio de 2026, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña Purificación López Muñoz.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en el ámbito universitario. Aunque el procedimiento sigue la normativa estándar (LOSU), destaca la publicación en pleno agosto con una advertencia explícita sobre el cierre de las instalaciones universitarias. Esta práctica, aunque legal, genera una barrera administrativa real para la interposición de recursos o trámites presenciales, limitando la accesibilidad efectiva del ciudadano al procedimiento administrativo justo en el momento del inicio de los plazos legales.",
+    "resumen_ciudadano": "La Universidad de Castilla-La Mancha nombra formalmente a doña Purificación López Muñoz como Profesora Titular en el área de Fisioterapia tras un proceso selectivo iniciado en 2025. Se detallan los plazos para tomar posesión del cargo y los recursos legales disponibles.",
+    "resumen_tweet": "🎓 Nueva plaza de profesora titular en la @uclm_es. Publicado en agosto con la universidad cerrada por vacaciones 🏖️. Aunque es legal, los plazos de recurso no se detienen. ¡Ojo a la burocracia estival! #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Publicación en periodo vacacional (agosto)",
+      "Cierre físico de la institución coincidente con plazos de recurso",
+      "Falta de desglose presupuestario asociado a la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Purificación López Muñoz (obtiene plaza fija)",
+        "UCLM (consolida estructura docente)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados (dificultad para trámites presenciales por cierre estival)",
+        "Transparencia presupuestaria (no se especifica el coste anual para las arcas públicas)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Publicación en periodo vacacional (agosto)",
+      "Cierre físico de la institución coincidente con plazos de recurso",
+      "Falta de desglose presupuestario asociado a la plaza"
+    ]
+  },
+  "tweeted": false
+}
