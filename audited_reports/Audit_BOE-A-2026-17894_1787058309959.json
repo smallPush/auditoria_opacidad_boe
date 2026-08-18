@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17894",
+  "timestamp": "2026-08-18T13:05:09.959Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Bilbao (Bizkaia), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La convocatoria para 4 puestos de Jefatura de Grupo en el Ayuntamiento de Bilbao bajo el sistema de concurso (méritos) en lugar de oposición libre reduce la competitividad objetiva. La rectificación de las bases el mismo día de la firma de la resolución (12 de agosto) tras meses de la publicación inicial en el Boletín de Bizkaia (abril) es una señal de alerta de posibles 'trajes a medida' para consolidar personal interno. El lenguaje técnico de 'Cometidos especiales' y 'Subescala Técnica Auxiliar' para puestos de jefatura añade una capa de opacidad sobre las funciones reales y los requisitos específicos.",
+    "resumen_ciudadano": "El Ayuntamiento de Bilbao abre el proceso para cubrir 4 puestos de mando intermedio en áreas como obras, comunicaciones e inspección. Se hará mediante valoración de méritos (concurso), no por examen. Llama la atención que las normas de la convocatoria se cambiaran justo antes de publicarse en el BOE, lo que puede beneficiar a quienes ya conocen el funcionamiento interno frente a nuevos aspirantes.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! Bilbao convoca 4 Jefaturas de Grupo por concurso de méritos. Las bases se rectificaron a última hora, una práctica común para ajustar perfiles. ¿Transparencia o consolidación interna? 🧐 #Opacidad #Transparencia #AytoBilbao",
+    "banderas_red_flags": [
+      "Rectificación tardía de las bases de la convocatoria",
+      "Sistema de concurso frente a oposición libre",
+      "Uso de terminología vaga como 'Cometidos especiales'",
+      "Posible sesgo pro-endogamia administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antigüedad acumulada",
+        "Candidatos con méritos específicos pre-definidos en la rectificación",
+        "Aparato administrativo municipal"
+      ],
+      "perdedores": [
+        "Opositores externos sin experiencia previa en la administración local",
+        "Principio de igualdad y concurrencia competitiva",
+        "Transparencia en la gestión de recursos humanos"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Rectificación tardía de las bases de la convocatoria",
+      "Sistema de concurso frente a oposición libre",
+      "Uso de terminología vaga como 'Cometidos especiales'",
+      "Posible sesgo pro-endogamia administrativa"
+    ]
+  },
+  "tweeted": false
+}
