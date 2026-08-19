@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17931",
+  "timestamp": "2026-08-19T13:09:10.771Z",
+  "title": "Resolución de 13 de agosto de 2026, del Ayuntamiento de Viladecans (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La convocatoria del Ayuntamiento de Viladecans presenta un sesgo administrativo pesado, destinando 7 de las 15 plazas exclusivamente a licenciados en Derecho para asesoramiento y gestión. El uso del sistema 'concurso-oposición' en turno libre suele ser un mecanismo de consolidación encubierta para personal interino, donde los méritos previos (difíciles de obtener fuera de la institución) inclinan la balanza frente a la capacidad técnica pura. No se detalla el desglose presupuestario que estas nuevas plazas de alta escala supondrán para el erario público local.",
+    "resumen_ciudadano": "Se convocan 15 plazas de empleo público en Viladecans (Barcelona). La mayoría son puestos de alta cualificación jurídica (abogados para el ayuntamiento) y servicios sociales. El sistema de selección valora la experiencia previa, lo que dificulta el acceso a nuevos aspirantes sin trayectoria en la administración pública.",
+    "resumen_tweet": "📢 Viladecans lanza 15 plazas, pero ¡ojo! 👁️ El sistema de concurso-oposición suele beneficiar a quienes ya están dentro. Mucho asesor jurídico y poca transparencia en el peso de los méritos. ¿Es para todos? 🤔 #BOE #Opacidad #Transparencia #Viladecans",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para turno libre (posible estabilización encubierta)",
+      "Alta concentración de puestos jurídicos (7 plazas de derecho)",
+      "Remisión a bases externas para detalles críticos de evaluación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Viladecans",
+        "Licenciados en Derecho con experiencia administrativa previa",
+        "Sindicatos del sector público"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia acumulada",
+        "Sector privado (fuga de talento hacia burocracia)",
+        "Contribuyentes (incremento del gasto estructural en asesoría jurídica)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para turno libre (posible estabilización encubierta)",
+      "Alta concentración de puestos jurídicos (7 plazas de derecho)",
+      "Remisión a bases externas para detalles críticos de evaluación"
+    ]
+  },
+  "tweeted": false
+}
