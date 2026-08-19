@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17904",
+  "timestamp": "2026-08-19T01:54:48.540Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Elx/Elche (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion del Ayuntamiento de Elche presenta una convocatoria estandar pero restrictiva para puestos de alta jerarquia policial. De las 4 plazas de Inspector, solo el 50 por ciento se abre a la competicion meritocratica pura (turno libre), mientras que el resto se reserva para promocion interna y movilidad, lo que puede interpretarse como un blindaje de la estructura de mando actual. El uso de la escala de Administracion Especial Subescala Tecnica implica requisitos de titulacion superior que, sumados a la preparacion de oposiciones, consolidan una barrera de clase socioeconomica. Ademas, la remision de las bases completas al Boletin de la Provincia (BOP) en lugar de su inclusion integra en el BOE genera una fragmentacion informativa que dificulta el escrutinio ciudadano inmediato.",
+    "resumen_ciudadano": "Se buscan 4 nuevos Inspectores de Policia Local en Elche. No todos entran por examen libre: 2 plazas son abiertas, 1 es para que asciendan los que ya estan dentro y 1 es para policias de otros municipios. Tienes 20 dias habiles desde mañana para presentar papeles. Las reglas del juego detalladas no estan aqui, sino en el boletin de la provincia de Alicante.",
+    "resumen_tweet": "🚨 ¡Atencion Elche! Se buscan 4 Inspectores de Policia 👮‍♂️. Pero ojo: solo el 50% son plazas libres. El resto es promocion interna y movilidad. ¿Meritocracia o blindaje de mandos? Las bases estan en el BOP, no en el BOE. 🧐 #BOE #Opacidad #Transparencia #Elche",
+    "banderas_red_flags": [
+      "Reserva del 50% para acceso no libre",
+      "Fragmentacion documental (Bases en BOP)",
+      "Ausencia de desglose presupuestario por plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agentes internos del cuerpo",
+        "Policias de otros ayuntamientos con red de contactos",
+        "Opositores con alto nivel de estudios"
+      ],
+      "perdedores": [
+        "Nuevos aspirantes sin experiencia previa",
+        "Ciudadanos con menos recursos para oposiciones largas",
+        "Transparencia directa por fragmentacion informativa"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico - Seguridad",
+    "banderas_rojas": [
+      "Reserva del 50% para acceso no libre",
+      "Fragmentacion documental (Bases en BOP)",
+      "Ausencia de desglose presupuestario por plaza"
+    ]
+  },
+  "tweeted": false
+}
