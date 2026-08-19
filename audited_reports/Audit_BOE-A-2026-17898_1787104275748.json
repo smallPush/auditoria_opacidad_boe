@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17898",
+  "timestamp": "2026-08-19T01:51:15.748Z",
+  "title": "Resolución de 11 de agosto de 2026, del Ayuntamiento de Ciempozuelos (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria de plazas mediante promocion interna y sistema de concurso-oposicion. Aunque legal, este metodo limita el acceso a la funcion publica a personas externas, consolidando estructuras internas existentes. La parte de 'concurso' suele ser un punto ciego donde la discrecionalidad en la valoracion de meritos previos puede favorecer a perfiles especificos dentro de la administracion, reduciendo la meritocracia pura frente a la antiguedad o vinculos internos.",
+    "resumen_ciudadano": "El Ayuntamiento de Ciempozuelos (Madrid) convoca 2 plazas de Auxiliar Administrativo. Sin embargo, estas plazas no son para el publico general, sino exclusivas para empleados que ya trabajan en el ayuntamiento (promocion interna), bajo un sistema que valora tanto un examen como meritos previos.",
+    "resumen_tweet": "🚨 ¡Atencion Ciempozuelos! Publicadas 2 plazas de Auxiliar Administrativo en el #BOE, pero... ¡CUIDADO! 🛑 Es promocion interna: acceso restringido solo para los que ya estan dentro. ¿Donde queda la igualdad de oportunidades? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Acceso restringido por promocion interna",
+      "Sistema de concurso-oposicion con peso de meritos subjetivos",
+      "Falta de detalle de los criterios de baremacion en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral o funcionario interno del Ayuntamiento de Ciempozuelos"
+      ],
+      "perdedores": [
+        "Ciudadanos desempleados",
+        "Opositores externos sin puntos por servicios previos",
+        "Jovenes titulados buscando primer empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Oferta de Empleo Publico",
+    "banderas_rojas": [
+      "Acceso restringido por promocion interna",
+      "Sistema de concurso-oposicion con peso de meritos subjetivos",
+      "Falta de detalle de los criterios de baremacion en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
