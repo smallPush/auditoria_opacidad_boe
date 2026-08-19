@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17915",
+  "timestamp": "2026-08-19T12:48:10.413Z",
+  "title": "Acuerdo de 7 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Ángeles Paredes Prieto.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja un procedimiento administrativo estándar para la carrera judicial, pero evidencia la opacidad estructural en la cuantificación de los 'derechos pasivos'. La magistrada se jubila voluntariamente desde una situación de excedencia, lo que permite el acceso a una pensión del régimen de Clases Pasivas sin que el ciudadano pueda conocer el impacto económico real ni la base de cotización de estos cargos de alta jerarquía.",
+    "resumen_ciudadano": "Se formaliza la jubilación por voluntad propia de la magistrada María Ángeles Paredes Prieto. Aunque ya no estaba en servicio activo (estaba en excedencia), este acuerdo le garantiza el cobro de su pensión vitalicia como miembro de la carrera judicial, gestionada bajo un régimen especial distinto al de la mayoría de trabajadores.",
+    "resumen_tweet": "⚖️ El CGPJ formaliza la jubilación de la magistrada Paredes Prieto. De la excedencia a la pensión vitalicia por Clases Pasivas. ¿Conocemos el coste total de estos retiros de élite? 💸 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de memoria económica sobre el coste de la pensión",
+      "Uso del régimen de Clases Pasivas (privilegiado frente al general)",
+      "Jubilación desde situación de excedencia voluntaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada Paredes Prieto (asegura pensión de alto nivel)",
+        "Cuerpo de la Judicatura (mantenimiento de privilegios de retiro)"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostienen regímenes de pensiones especiales)",
+        "Sistema de Seguridad Social General (infrafinanciado en comparación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Pensiones de Alto Nivel",
+    "banderas_rojas": [
+      "Falta de memoria económica sobre el coste de la pensión",
+      "Uso del régimen de Clases Pasivas (privilegiado frente al general)",
+      "Jubilación desde situación de excedencia voluntaria"
+    ]
+  },
+  "tweeted": false
+}
