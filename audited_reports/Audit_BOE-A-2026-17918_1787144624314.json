@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17918",
+  "timestamp": "2026-08-19T13:03:44.314Z",
+  "title": "Resolución de 30 de julio de 2026, del Ayuntamiento de Logrosán (Cáceres), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria para una plaza de personal laboral fijo bajo el sistema de concurso-oposición en el Ayuntamiento de Logrosán presenta un riesgo moderado de opacidad. El uso del sistema de 'concurso' permite que la valoración de méritos previos, a menudo subjetivos o diseñados para perfiles específicos, influya decisivamente en el resultado final. Además, el plazo de solicitud de solo diez días hábiles es extremadamente ajustado, lo que dificulta la libre concurrencia de candidatos que no estén ya en el entorno cercano o avisados previamente de la publicación.",
+    "resumen_ciudadano": "El Ayuntamiento de Logrosán (Cáceres) busca cubrir una plaza fija de Monitor/a-Informador/a-Guía Turístico mediante concurso-oposición. Los interesados tienen solo 10 días para presentar su documentación tras la publicación en el BOE.",
+    "resumen_tweet": "🚨 ¡Ojo al dato! El Ayto de Logrosán convoca plaza de Guía Turístico con solo 10 días de plazo. ¿Prisas o perfilado? El sistema de concurso-oposición reduce la igualdad de oportunidades. 🧐🏛️ #BOE #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Plazo de solicitud inusualmente corto (10 días)",
+      "Sistema de concurso-oposición para plaza fija (riesgo de subjetividad)",
+      "Publicación en pleno agosto (periodo de baja vigilancia ciudadana)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos locales",
+        "Personal interino con méritos acumulados",
+        "Personas con información privilegiada sobre los plazos"
+      ],
+      "perdedores": [
+        "Candidatos externos al municipio",
+        "Jóvenes licenciados sin experiencia previa puntuable",
+        "Principio de libre concurrencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Plazo de solicitud inusualmente corto (10 días)",
+      "Sistema de concurso-oposición para plaza fija (riesgo de subjetividad)",
+      "Publicación en pleno agosto (periodo de baja vigilancia ciudadana)"
+    ]
+  },
+  "tweeted": false
+}
