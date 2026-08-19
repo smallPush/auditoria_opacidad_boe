@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17933",
+  "timestamp": "2026-08-19T13:15:50.295Z",
+  "title": "Resolución de 13 de agosto de 2026, del Ayuntamiento de A Pobra do Caramiñal (A Coruña), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de 'concurso' en 'turno de movilidad'. Aunque legal, este sistema de selección basado exclusivamente en méritos previos y restringido a personas que ya poseen la condición de funcionario en otras administraciones suele limitar la entrada de talento externo y puede ser utilizado para facilitar el traslado de perfiles previamente seleccionados de manera informal. La falta de un examen de oposición abierto al público general reduce la competitividad y la igualdad de oportunidades para ciudadanos altamente cualificados fuera del sistema público actual.",
+    "resumen_ciudadano": "El Ayuntamiento de A Pobra do Caramiñal busca un Técnico de Administración Financiera de alto rango. Sin embargo, no es una oferta de empleo para cualquier ciudadano: solo pueden optar personas que ya sean funcionarias en otros lugares. Se elegirá por méritos (currículum) y no mediante examen, lo que restringe el acceso al sector público de nuevos profesionales.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el #BOE: A Pobra do Caramiñal convoca plaza de Técnico Financiero. ⚠️ Ojo: Solo para quienes ya son funcionarios (movilidad) y por concurso (sin examen). ¿Transparencia o 'sillas musicales' entre administraciones? #Opacidad #Galicia ⚖️",
+    "banderas_red_flags": [
+      "Sistema de concurso (sin examen de oposición)",
+      "Restricción exclusiva a turno de movilidad",
+      "Alta jerarquía técnica (Clase Superior) con barreras de acceso al ciudadano de a pie"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con red de contactos en la administración local",
+        "Perfiles técnicos que buscan traslado sin someterse a nuevas pruebas de conocimiento"
+      ],
+      "perdedores": [
+        "Opositores libres sin plaza previa",
+        "Talento joven del sector financiero privado",
+        "Sociedad civil que ve limitada la renovación del cuerpo técnico municipal"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso (sin examen de oposición)",
+      "Restricción exclusiva a turno de movilidad",
+      "Alta jerarquía técnica (Clase Superior) con barreras de acceso al ciudadano de a pie"
+    ]
+  },
+  "tweeted": false
+}
