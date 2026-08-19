@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17922",
+  "timestamp": "2026-08-19T13:05:57.286Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Coslada (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolucion presenta una dualidad administrativa sospechosa: se convocan dos plazas de pintor para la misma categoria (Oficial de Primera) pero bajo regimenes juridicos distintos (una funcionarial y otra laboral). El uso del sistema de concurso-oposicion en lugar de oposicion libre suele beneficiar a personal interino previo mediante la valoracion de meritos especificos, lo que puede suponer una barrera de entrada para ciudadanos sin experiencia en la administracion local. La falta de detalle sobre los baremos de puntuacion en este extracto obliga al ciudadano a un rastreo adicional en el boletin autonomico.",
+    "resumen_ciudadano": "El Ayuntamiento de Coslada busca dos pintores de primera. Una de las plazas ofrece la condicion de funcionario de carrera y la otra de personal laboral fijo. El proceso se realizara mediante examen y valoracion de experiencia previa. Los interesados disponen de 20 dias naturales desde hoy para inscribirse.",
+    "resumen_tweet": "⚠️ ¿Dos plazas iguales con distinto contrato? Coslada convoca 2 pintores: uno funcionario y otro laboral. El sistema de concurso-oposicion podria favorecer a quienes ya estan dentro. ¡Solo 20 dias para apuntarse! 🎨🛠️ #BOE #Opacidad #Transparencia #Coslada",
+    "banderas_red_flags": [
+      "Dualidad contractual para identicas funciones",
+      "Uso de concurso-oposicion en turno libre",
+      "Remision de informacion critica a boletines secundarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antiguedad en el Ayuntamiento de Coslada",
+        "Candidatos con experiencia previa en administracion local"
+      ],
+      "perdedores": [
+        "Pintores del sector privado sin experiencia en administracion",
+        "Jovenes profesionales sin meritos acumulados"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Dualidad contractual para identicas funciones",
+      "Uso de concurso-oposicion en turno libre",
+      "Remision de informacion critica a boletines secundarios"
+    ]
+  },
+  "tweeted": false
+}
