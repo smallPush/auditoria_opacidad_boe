@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17890",
+  "timestamp": "2026-08-19T01:49:12.007Z",
+  "title": "Resolución de 11 de agosto de 2026, de la Subsecretaría, por la que se publica la relación de aspirantes que han superado las fases de oposición y concurso del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en la Escala de Titulados de Escuelas Técnicas de Grado Medio de Organismos Autónomos del Ministerio de Agricultura, Pesca y Alimentación, programas específicos Agroalimentario y Pesquero, Laboratorios Agroalimentarios, Laboratorios de Sanidad y Genética Animal y Laboratorio de Sanidad e Higiene Vegetal, convocado por Resolución de 17 de noviembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento es un reflejo de la inercia administrativa en la gestion de recursos humanos del Estado. Aunque la publicacion de puntuaciones garantiza una transparencia procedimental basica, se observa una falta de claridad respecto al impacto presupuestario real que estas incorporaciones suponen para el erario publico. Destaca una notable feminizacion de las escalas tecnicas de laboratorios de sanidad animal y vegetal, lo que sugiere un cambio de tendencia demografica en estos sectores especializados. La exigencia de firma electronica como unico medio para la solicitud de destinos impone una barrera digital que, aunque legal, no considera posibles incidencias tecnicas en un plazo tan estrecho.",
+    "resumen_ciudadano": "Se ha publicado la lista definitiva de personas que han aprobado las oposiciones para ser tecnicos en el Ministerio de Agricultura. Los seleccionados pasaran ahora a ser funcionarios en practicas y tienen un plazo de 20 dias para presentar su documentacion y elegir destino. El listado cubre areas clave como sanidad animal, pesca y laboratorios agroalimentarios.",
+    "resumen_tweet": "¡Nuevos tecnicos en el @mapagob! 👩‍🔬 Analizamos el #BOE: destaca la alta presencia femenina en laboratorios de sanidad animal y vegetal. Se activan 20 dias para tramites clave. ¿Transparencia real o solo burocracia? #Oposiciones #Transparencia #España",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial total de las nuevas plazas",
+      "Barrera digital obligatoria (firma electronica) para destinos",
+      "Ausencia de informacion sobre plazas desiertas o tasas de exito por genero"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres profesionales en el sector cientifico-tecnico (mayoria en la lista)",
+        "Ministerio de Agricultura (refuerzo de cuadros tecnicos)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin feedback de mejora)",
+        "Ciudadanos con brecha digital (dependencia total de tramites electronicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Publico",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial total de las nuevas plazas",
+      "Barrera digital obligatoria (firma electronica) para destinos",
+      "Ausencia de informacion sobre plazas desiertas o tasas de exito por genero"
+    ]
+  },
+  "tweeted": false
+}
