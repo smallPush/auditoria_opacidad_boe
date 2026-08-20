@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17921",
+  "timestamp": "2026-08-20T01:45:47.188Z",
+  "title": "Resolución de 12 de agosto de 2026, del Ayuntamiento de Zalla (Bizkaia), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolucion utiliza un formato de extracto que obliga al ciudadano a realizar una busqueda secundaria en el Boletin Oficial de Bizkaia para conocer los requisitos reales. El uso del sistema 'concurso-oposicion' para una plaza de Tecnico de Deporte suele ser una señal de procesos de consolidacion de empleo temporal, donde los meritos previos (puntos por tiempo trabajado) pesan significativamente, dificultando el acceso real en igualdad de condiciones a nuevos opositores sin experiencia previa en la administracion local.",
+    "resumen_ciudadano": "El Ayuntamiento de Zalla convoca una plaza de Tecnico de Deporte. El proceso no es una oposicion pura, sino un concurso-oposicion, lo que implica que la experiencia previa contara para la nota final. El plazo para apuntarse es de 20 dias habiles desde el 20 de agosto de 2026.",
+    "resumen_tweet": "📢 ¿Oportunidad o 'traje a medida' en Zalla? Convocada plaza de Tecnico de Deporte. Al ser concurso-oposicion, los meritos previos pueden blindar la plaza para quien ya esta dentro. ¡Ojo a la letra pequeña del BOB! 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de seleccion por concurso-oposicion (potencial sesgo hacia interinos)",
+      "Remision externa para las bases completas",
+      "Falta de desglose de la valoracion de meritos en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento",
+        "Candidatos con experiencia previa en administracion local"
+      ],
+      "perdedores": [
+        "Opositores noveles sin puntos por experiencia",
+        "Candidatos de fuera del territorio historico de Bizkaia",
+        "Meritocracia pura"
+      ]
+    },
+    "comunidad_autonoma": "Pais Vasco",
+    "tipologia": "Empleo Publico Local",
+    "banderas_rojas": [
+      "Sistema de seleccion por concurso-oposicion (potencial sesgo hacia interinos)",
+      "Remision externa para las bases completas",
+      "Falta de desglose de la valoracion de meritos en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
