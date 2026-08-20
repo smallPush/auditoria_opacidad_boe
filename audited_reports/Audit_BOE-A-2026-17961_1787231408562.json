@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-17961",
+  "timestamp": "2026-08-20T13:10:08.562Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de León, referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion presenta una opacidad estructural tipica de la administracion local. Al publicar solo un extracto y remitir al BOCyL para las bases especificas, se crea una barrera de acceso a la informacion. El uso del sistema de 'concurso' (solo meritos, sin examen) para una Jefatura de Negociado suele favorecer la consolidacion de plazas para personal que ya esta dentro del sistema, limitando la competencia real y la meritocracia abierta. La mencion a 'varias subescalas' es deliberadamente ambigua, permitiendo un encaje de perfiles muy especifico que podria estar predeterminado.",
+    "resumen_ciudadano": "El Ayuntamiento de Leon busca un Jefe de Negociado, pero no te cuenta los requisitos aqui. Tienes que ir a buscar el Boletin de Castilla y Leon. Es un proceso de 'concurso', lo que significa que se eligen por puntos acumulados (antigüedad y cursos), no por examen, lo que suele estar diseñado para empleados que ya trabajan alli.",
+    "resumen_tweet": "🧐 ¿Transparencia o laberinto? El Ayto de Leon convoca plaza de Jefe/a de Negociado. Las reglas reales estan ocultas en el boletin regional (BOCyL). Sistema de 'concurso' que suele blindar la endogamia administrativa. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentacion de la informacion (remision a otro boletin)",
+      "Sistema de seleccion por concurso (riesgo de 'plaza con nombre')",
+      "Ambigüedad en la definicion de subescalas admitidas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno del Ayuntamiento de Leon",
+        "Funcionarios con alta antigüedad acumulada"
+      ],
+      "perdedores": [
+        "Opositores libres",
+        "Jovenes profesionales sin puntos previos",
+        "Ciudadania que exige procesos abiertos y claros"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Empleo Publico - Provisio de Puestos",
+    "banderas_rojas": [
+      "Fragmentacion de la informacion (remision a otro boletin)",
+      "Sistema de seleccion por concurso (riesgo de 'plaza con nombre')",
+      "Ambigüedad en la definicion de subescalas admitidas"
+    ]
+  },
+  "tweeted": false
+}
