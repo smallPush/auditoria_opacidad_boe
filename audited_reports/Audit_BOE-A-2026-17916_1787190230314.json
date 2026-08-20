@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-17916",
+  "timestamp": "2026-08-20T01:43:50.314Z",
+  "title": "Resolución de 13 de agosto de 2026, de la Dirección General de Justicia, del Departamento de Presidencia, Justicia, Cultura y Deporte, por la que se corrigen errores en la de 31 de julio de 2026, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo para acceso por promoción interna y sistema de concurso-oposición, convocado por Orden PJC/150/2024, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Esta resolución es una fe de erratas técnica que evidencia una preocupante falta de rigor administrativo en la Dirección General de Justicia de Aragón. Al modificar códigos de la Relación de Puestos de Trabajo (RPT) e incluso el nombre de una adjudicataria apenas nueve días después de la publicación original, se pone de manifiesto una cadena de supervisión deficiente. Aunque no se detectan gastos fantasma directos, la ineficiencia administrativa genera costes indirectos por el re-procesamiento de datos y la potencial inseguridad jurídica de los funcionarios afectados.",
+    "resumen_ciudadano": "La administración de Aragón ha tenido que rectificar errores en la lista de destinos para funcionarios de Justicia. Se han corregido nombres de personas y números identificativos de los puestos de trabajo que fueron publicados incorrectamente la semana anterior. Es un trámite de limpieza de datos tras un proceso de oposiciones y promoción interna.",
+    "resumen_tweet": "🔍 Nueva corrección en el #BOE. Errores en nombres y puestos de funcionarios de Justicia en Aragón. ¿Falta de rigor administrativo o simples despistes? La precisión en lo público no debería ser opcional. #Opacidad #Transparencia #Aragón ⚖️",
+    "banderas_red_flags": [
+      "Errata en identificación de personal",
+      "Modificación de códigos RPT post-adjudicación",
+      "Falta de control de calidad previo a la publicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario (que ahora tiene su destino legal correcto)"
+      ],
+      "perdedores": [
+        "Administración Pública (por falta de rigor)",
+        "Ciudadanos (que financian la burocracia de corrección)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Resolución de Corrección de Errores (Recursos Humanos)",
+    "banderas_rojas": [
+      "Errata en identificación de personal",
+      "Modificación de códigos RPT post-adjudicación",
+      "Falta de control de calidad previo a la publicación"
+    ]
+  },
+  "tweeted": false
+}
