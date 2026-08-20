@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17964",
+  "timestamp": "2026-08-20T13:11:48.115Z",
+  "title": "Resolución de 28 de julio de 2026, del Ayuntamiento de Arrasate/Mondragón (Gipuzkoa), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion sigue el patron estandar de opacidad administrativa al remitir las bases integras a un boletin provincial (BOG), lo que fragmenta la informacion para el ciudadano medio. El sistema de 'concurso-oposicion' en turno libre es una bandera roja habitual: aunque tecnicamente abierto a todos, la fase de concurso suele estar diseñada para consolidar a personal interino mediante la valoracion de experiencia previa en la misma administracion, dificultando el acceso real a candidatos externos cualificados pero sin trienios en el sector publico.",
+    "resumen_ciudadano": "El Ayuntamiento de Arrasate/Mondragon convoca tres plazas tecnicas: dos para Urbanismo y una para Obras y Mantenimiento. El proceso se realizara mediante concurso-oposicion, lo que significa que se valoraran tanto los examenes como los meritos previos. Los interesados tienen 20 dias habiles para presentar solicitudes tras la publicacion en el BOE.",
+    "resumen_tweet": "📢 ¿Buscas empleo en Arrasate? 3 plazas de tecnico (Urbanismo y Obras) por concurso-oposicion. 🚩 Ojo: el sistema de meritos puede beneficiar a internos frente a nuevos aspirantes. ¡20 dias para inscribirse! 🏛️🏗️ #BOE #Opacidad #Transparencia #Empleo",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposicion en turno libre (posible ventaja para interinos)",
+      "Remision externa para consultar las bases detalladas",
+      "Opacidad en la ponderacion real de los meritos en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con experiencia previa en el ayuntamiento",
+        "Candidatos con red de contactos local para acceso a informacion provincial"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa en la administracion",
+        "Profesionales del sector privado con alta cualificacion pero sin puntos por servicios prestados"
+      ]
+    },
+    "comunidad_autonoma": "Pais Vasco",
+    "tipologia": "Oferta de Empleo Publico Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposicion en turno libre (posible ventaja para interinos)",
+      "Remision externa para consultar las bases detalladas",
+      "Opacidad en la ponderacion real de los meritos en este extracto"
+    ]
+  },
+  "tweeted": false
+}
