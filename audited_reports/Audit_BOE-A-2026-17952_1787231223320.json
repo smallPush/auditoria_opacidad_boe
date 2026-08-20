@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-17952",
+  "timestamp": "2026-08-20T13:07:03.320Z",
+  "title": "Resolución de 31 de julio de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de funcionarias de carrera tras superar un proceso selectivo. Si bien el documento es transparente en cuanto a los nombres y áreas de conocimiento, incurre en la 'opacidad presupuestaria' típica de estos nombramientos: no se especifica la dotación económica de la plaza ni el impacto en el gasto público a largo plazo. Es notable la presencia de mujeres en áreas STEM (Ingeniería Química), lo que sugiere un impacto positivo en la brecha de género académica, aunque el proceso previo de selección permanece en la opacidad de los tribunales universitarios.",
+    "resumen_ciudadano": "La Universidad de Sevilla nombra oficialmente a dos nuevas profesoras titulares en las áreas de Ingeniería Química y Botánica tras haber superado las pruebas correspondientes.",
+    "resumen_tweet": "🔍 Auditoría BOE: La @unisevilla nombra 2 nuevas Profesoras Titulares en Ingeniería y Botánica. ✅ Transparencia formal alta, pero sin detalle del coste público total de estas plazas vitalicias. #BOE #Opacidad #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial o dotación presupuestaria de las plazas",
+      "Remisión a reglamentos internos de difícil acceso para el ciudadano común"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Bárbara María Tomadoni",
+        "Violeta Irene Simón Porcar",
+        "Universidad de Sevilla (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el proceso selectivo",
+        "Contribuyente (por falta de transparencia en el compromiso de gasto futuro)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Funcionario Docente",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial o dotación presupuestaria de las plazas",
+      "Remisión a reglamentos internos de difícil acceso para el ciudadano común"
+    ]
+  },
+  "tweeted": false
+}
