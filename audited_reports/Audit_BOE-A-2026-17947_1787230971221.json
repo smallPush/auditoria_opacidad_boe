@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17947",
+  "timestamp": "2026-08-20T13:02:51.221Z",
+  "title": "Orden TDF/871/2026, de 18 de agosto, por la que se corrigen errores en la Orden TDF/822/2026, de 28 de julio, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, de la Escala de funcionarios de administración local con habilitación de carácter nacional, Subescala de Intervención-Tesorería, categoría de Entrada, y se asigna primer destino.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una corrección de errores en la asignación de plazas para funcionarios de la Subescala de Intervención-Tesorería. Aunque el acto es transparente al publicar los nombres y destinos rectificados, el uso del término 'error material' es un cliché administrativo que oculta fallos en los sistemas de gestión de preferencias o algoritmos de adjudicación. La relevancia radica en que estos funcionarios son los encargados de fiscalizar el dinero público en los ayuntamientos; cualquier retraso o error en su nombramiento afecta directamente a la vigilancia de las cuentas locales en Punta Umbría e Isla Cristina.",
+    "resumen_ciudadano": "El Ministerio ha corregido la asignación de destinos de dos nuevos funcionarios que trabajarán como tesoreros/interventores en ayuntamientos de Huelva. Debido a un error previo en la gestión de sus preferencias, se han reasignado sus puestos definitivos en Punta Umbría e Isla Cristina, reabriendo el plazo para que tomen posesión de sus cargos.",
+    "resumen_tweet": "⚖️ Rectificación en el #BOE: El Ministerio corrige 'errores materiales' en la asignación de destinos para Interventores-Tesoreros en Huelva. La fiscalización local no admite fallos administrativos. #Transparencia #Huelva #Funcionarios #Opacidad 🏛️🔍",
+    "banderas_red_flags": [
+      "Uso de 'error material' sin especificar la causa técnica del fallo",
+      "Reapertura de plazos de toma de posesión por errores internos",
+      "Falta de detalle sobre el impacto en los municipios afectados por el retraso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Susana Basanta Seijas (obtiene su destino preferente)",
+        "Daniel Palma Macias (obtiene su destino preferente)"
+      ],
+      "perdedores": [
+        "Ayuntamientos de Punta Umbría e Isla Cristina (retraso administrativo en la incorporación de sus fiscalizadores)",
+        "Confianza ciudadana en los procesos automatizados de asignación de plazas"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso de 'error material' sin especificar la causa técnica del fallo",
+      "Reapertura de plazos de toma de posesión por errores internos",
+      "Falta de detalle sobre el impacto en los municipios afectados por el retraso"
+    ]
+  },
+  "tweeted": false
+}
