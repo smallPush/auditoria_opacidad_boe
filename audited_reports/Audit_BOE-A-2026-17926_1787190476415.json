@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-17926",
+  "timestamp": "2026-08-20T01:47:56.415Z",
+  "title": "Resolución de 13 de agosto de 2026, de la Diputación Provincial de Huelva, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La convocatoria de la Diputación de Huelva para 5 plazas de Psicólogo/a utiliza el sistema de 'concurso-oposición', un formato que históricamente ha permitido favorecer al personal interino mediante la valoración de méritos frente a la capacidad técnica pura. Destaca la demora administrativa: las bases se aprobaron en diciembre de 2025, se rectificaron en abril de 2026 y no llegan al BOE hasta agosto de 2026. Esta dilatación y la rectificación de bases a mitad del proceso son indicadores de una gestión burocrática pesada o de ajustes técnicos de última hora que podrían comprometer la igualdad de oportunidades.",
+    "resumen_ciudadano": "Se buscan 5 psicólogos para la Diputación de Huelva (3 generales y 2 especialistas). El proceso será por concurso-oposición, lo que significa que la experiencia previa puntuará significativamente. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "🚨 Huelva convoca 5 plazas de Psicología por concurso-oposición. Tras meses de rectificaciones y esperas, el proceso llega al #BOE. El sistema favorece la veteranía sobre el mérito joven. ¿Eficiencia o burocracia? 🧠💼 #Opacidad #Transparencia #Huelva",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición (riesgo de consolidación de interinos)",
+      "Rectificación de bases previa a la convocatoria oficial",
+      "Dilación temporal extrema (8 meses desde la publicación original)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados",
+        "Burocracia local"
+      ],
+      "perdedores": [
+        "Nuevos graduados sin méritos previos",
+        "Ciudadanos que esperan servicios de salud mental ágiles"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público / Oposiciones",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición (riesgo de consolidación de interinos)",
+      "Rectificación de bases previa a la convocatoria oficial",
+      "Dilación temporal extrema (8 meses desde la publicación original)"
+    ]
+  },
+  "tweeted": false
+}
