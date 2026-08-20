@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-17963",
+  "timestamp": "2026-08-20T13:15:17.199Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Collado Villalba (Madrid), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La publicación de una convocatoria de plazas de alta responsabilidad (Ingresos, Obras, Comunicación e Igualdad) en pleno mes de agosto es una táctica clásica de 'enterramiento administrativo'. El uso del sistema de 'concurso' en lugar de 'oposición libre' sugiere un proceso diseñado para la consolidación de personal interno o perfiles ya vinculados a la administración local, limitando la competencia real. Además, la fragmentación de la información (remitiendo al BOCM para las bases) dificulta el escrutinio público inmediato.",
+    "resumen_ciudadano": "El Ayuntamiento de Collado Villalba abre el proceso para cubrir cinco puestos clave de jefatura y coordinación. Los interesados tienen 15 días hábiles para presentar solicitudes, aunque las reglas detalladas no figuran en este anuncio, sino en el boletín regional previo.",
+    "resumen_tweet": "🚨 ¡Ojo en agosto! Collado Villalba convoca 5 plazas de Jefatura y Coordinación mediante 'concurso'. 🕵️‍♂️ Menos transparencia al remitir a bases externas en plenas vacaciones. ¿Plazas con nombre? 📉 #BOE #Opacidad #Transparencia #ColladoVillalba 🇪🇸",
+    "banderas_red_flags": [
+      "Publicación en periodo vacacional (agosto)",
+      "Sistema de concurso (prioriza méritos subjetivos o antigüedad sobre examen)",
+      "Opacidad por remisión a bases en otros boletines",
+      "Concentración de puestos de confianza técnica (Comunicación e Igualdad)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antigüedad",
+        "Estructura política local (control de áreas de Comunicación e Ingresos)",
+        "Candidatos con acceso a información privilegiada"
+      ],
+      "perdedores": [
+        "Profesionales externos cualificados",
+        "Ciudadanos (riesgo de clientelismo en gestión de obras y comunicación)",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Publicación en periodo vacacional (agosto)",
+      "Sistema de concurso (prioriza méritos subjetivos o antigüedad sobre examen)",
+      "Opacidad por remisión a bases en otros boletines",
+      "Concentración de puestos de confianza técnica (Comunicación e Igualdad)"
+    ]
+  },
+  "tweeted": false
+}
