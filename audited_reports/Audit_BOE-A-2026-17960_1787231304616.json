@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17960",
+  "timestamp": "2026-08-20T13:08:24.616Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion presenta un patron clasico de opacidad administrativa al publicarse en pleno mes de agosto, periodo de baja actividad y vigilancia ciudadana reducida. El cargo 'Jefe/a Seccion Gestion de Presencia' es un eufemismo para el control horario, una funcion que hoy dia deberia estar automatizada. El uso del sistema de 'concurso' en lugar de oposicion libre sugiere un blindaje para favorecer la promocion interna o la consolidacion de personal afin, limitando el acceso real a la ciudadania externa. La remision a un boletin provincial (BOP) para consultar las bases añade una barrera de acceso a la informacion.",
+    "resumen_ciudadano": "El Ayuntamiento de Motril convoca una plaza de mando para controlar el fichaje y la asistencia de los empleados. La convocatoria se hace publica en vacaciones y oculta los detalles economicos y los requisitos reales tras una red de boletines oficiales distintos, dificultando que profesionales cualificados ajenos al ayuntamiento puedan competir por el puesto.",
+    "resumen_tweet": "🚩 El Ayto. de Motril convoca en agosto plaza de 'Jefe de Gestion de Presencia'. ¿Burocracia necesaria o chiringuito de control horario? 🕵️‍♂️ Mas opacidad al remitir a boletines provinciales. #BOE #Opacidad #Transparencia #Motril",
+    "banderas_red_flags": [
+      "Publicacion en periodo estival para minimizar concurrencia",
+      "Sistema de seleccion por concurso (meritocracia subjetiva)",
+      "Falta de detalle sobre complementos salariales en el extracto",
+      "Eufemismo en la denominacion del puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antiguedad",
+        "Candidatos con acceso a informacion privilegiada"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Contribuyentes (incremento de masa salarial en puestos de control)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Resolucion de Empleo Publico Local",
+    "banderas_rojas": [
+      "Publicacion en periodo estival para minimizar concurrencia",
+      "Sistema de seleccion por concurso (meritocracia subjetiva)",
+      "Falta de detalle sobre complementos salariales en el extracto",
+      "Eufemismo en la denominacion del puesto"
+    ]
+  },
+  "tweeted": false
+}
