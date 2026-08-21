@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-17997",
+  "timestamp": "2026-08-21T13:02:10.872Z",
+  "title": "Corrección de errores de la Orden SND/854/2026, de 4 de agosto, por la que se aprueba la oferta de plazas y la convocatoria de pruebas selectivas 2026 para el acceso en el año 2027 a plazas de formación sanitaria especializada para las titulaciones universitarias de grado/licenciatura/diplomatura de Medicina, Farmacia, Enfermería y del ámbito de la Psicología, la Química, la Biología y la Física.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Esta 'corrección de errores' no es técnica, sino sustancial. Al añadir la frase 'y lo que se indique en las instrucciones', el Ministerio de Sanidad abre una ventana de discrecionalidad administrativa. Permite cambiar las reglas del material permitido en el examen sin necesidad de nuevas publicaciones en el BOE, reduciendo la seguridad jurídica de los opositores. Se mantiene la lógica de que el coste de los materiales específicos (bolígrafos transparentes) recaiga sobre el ciudadano.",
+    "resumen_ciudadano": "Sanidad modifica las normas de conducta y material para los exámenes de Formación Sanitaria Especializada (MIR, EIR, etc.). Aunque parece un cambio menor sobre botellas de agua y bolígrafos, se introduce una cláusula abierta que permite a la Administración dictar normas adicionales fuera del texto legal principal, lo que genera incertidumbre sobre qué se puede o no llevar al examen.",
+    "resumen_tweet": "⚠️ Ojo al #BOE: Sanidad 'corrige' las normas de examen FSE 2027. Introducen ambigüedad: se podrá llevar 'lo que indiquen las instrucciones', abriendo la puerta a cambios de última hora sin transparencia. 🖋️💧 #MIR #EIR #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de corrección de errores para introducir cambios normativos",
+      "Ambigüedad en la lista de materiales permitidos",
+      "Desplazamiento del coste de materiales específicos al opositor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dirección General de Ordenación Profesional (mayor control discrecional)"
+      ],
+      "perdedores": [
+        "Opositores a plazas sanitarias (MIR, EIR, FIR, PIR)",
+        "Estudiantes con menos recursos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Sanidad",
+    "banderas_rojas": [
+      "Uso de corrección de errores para introducir cambios normativos",
+      "Ambigüedad en la lista de materiales permitidos",
+      "Desplazamiento del coste de materiales específicos al opositor"
+    ]
+  },
+  "tweeted": false
+}
