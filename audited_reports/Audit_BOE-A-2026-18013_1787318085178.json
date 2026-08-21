@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-18013",
+  "timestamp": "2026-08-21T13:14:45.178Z",
+  "title": "Resolución de 20 de agosto de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 20 de agosto de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+  "report": {
+    "nivel_transparencia": 9.5,
+    "analisis_critico": "Se trata de una resolución puramente técnica y procedimental del Banco de España. No hay partidas presupuestarias discrecionales ni 'gastos fantasma'. La opacidad aquí es sistémica: la transformación de datos de mercado en norma jurídica, lo que refleja la hiper-regulación financiera. La incongruencia ideológica es mínima, ya que cumple con la Ley 46/1998, aunque subraya la pérdida de soberanía monetaria nacional frente al Banco Central Europeo.",
+    "resumen_ciudadano": "Publicación diaria de los tipos de cambio oficiales del euro frente a otras divisas (dólar, libra, yen, etc.). Estos valores son los que se utilizan para cálculos oficiales, impuestos y contabilidad en España.",
+    "resumen_tweet": "📉 El #BOE publica los cambios oficiales del Euro. Sin gastos ocultos, pura burocracia financiera necesaria para el comercio exterior. 💶 La transparencia técnica es alta, pero la utilidad para el ciudadano común es nula. #Transparencia #BCE #Finanzas",
+    "banderas_red_flags": [
+      "Automatización legislativa",
+      "Dependencia absoluta de organismos externos (BCE)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes exportadores e importadores",
+        "Entidades bancarias",
+        "Administración Tributaria (para liquidaciones en divisas)"
+      ],
+      "perdedores": [
+        "Pequeños ahorradores sin cobertura cambiaria",
+        "Consumidores afectados por la volatilidad de divisas como la lira turca"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Financiera / Administrativa",
+    "banderas_rojas": [
+      "Automatización legislativa",
+      "Dependencia absoluta de organismos externos (BCE)"
+    ]
+  },
+  "tweeted": false
+}
