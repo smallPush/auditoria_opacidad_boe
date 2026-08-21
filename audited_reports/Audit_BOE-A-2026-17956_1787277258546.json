@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17956",
+  "timestamp": "2026-08-21T01:54:18.546Z",
+  "title": "Orden PJC/874/2026, de 10 de agosto, por la que se corrigen errores en la Orden PJC/796/2026, de 22 de julio, por la que se modifica la Orden PJC/93/2025, de 24 de enero, por la que se publica la relación de personas aprobadas en el proceso selectivo extraordinario para acceso, por el turno libre, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, por el sistema de concurso oposición, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Estamos ante un ejemplo de 'burocracia recursiva'. El documento es una corrección de errores de una orden previa que ya modificaba otra orden de 2025 sobre una convocatoria de 2022. Esta cadena de rectificaciones (parche sobre parche) oculta la ineficiencia administrativa bajo un lenguaje técnico. Aunque no hay 'gastos fantasma' directos, el coste en horas de personal para gestionar errores en listados de opositores durante 4 años supone un gasto indirecto derivado de la mala gestión.",
+    "resumen_ciudadano": "El Ministerio de Justicia publica la lista definitiva corregida de aprobados para el Cuerpo de Tramitación Procesal en Asturias y Cataluña. Si eres opositor de la convocatoria de 2022, revisa tu nota y posición, ya que los errores previos han sido subsanados y se abre un nuevo plazo de recurso.",
+    "resumen_tweet": "⚖️ ¡Atención opositores! El #BOE publica una corrección (de otra corrección) para las listas de Justicia en Asturias y Cataluña. 4 años después de la convocatoria seguimos con parches administrativos. #Transparencia #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva (proceso de 2022 resuelto en 2026)",
+      "Bucle administrativo (corrección de una modificación previa)",
+      "Falta de detalle sobre el error material específico cometido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes que ven rectificada su nota al alza",
+        "Sánchez Tamargo, Tatiana (N.º 1 en Asturias)",
+        "Baez Girela, María del Carmen (N.º 1 en Cataluña)"
+      ],
+      "perdedores": [
+        "Ciudadanía (que sufre una administración lenta y errática)",
+        "Aspirantes que pudieran perder su plaza por el recalculo de notas",
+        "Eficiencia del gasto público en procesos selectivos"
+      ]
+    },
+    "comunidad_autonoma": "Asturias y Cataluña",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva (proceso de 2022 resuelto en 2026)",
+      "Bucle administrativo (corrección de una modificación previa)",
+      "Falta de detalle sobre el error material específico cometido"
+    ]
+  },
+  "tweeted": false
+}
