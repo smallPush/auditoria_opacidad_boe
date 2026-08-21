@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18010",
+  "timestamp": "2026-08-21T13:07:51.303Z",
+  "title": "Resolución de 5 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento formulado por Arena Power Solar 35, SLU, de la solicitud de autorización administrativa de construcción para la instalación fotovoltaica Campos del Condado VI, de 57,535 MW de potencia instalada, y su infraestructura de evacuación en Beas, Trigueros y Gibraleón (Huelva).",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento expone una falta de sincronización cronológica entre departamentos gubernamentales. Mientras el Ministerio para la Transición Ecológica tramitaba la planta solar desde 2021, el Ministerio de Transportes avanzaba con el estudio del AVE Sevilla-Huelva en la misma ubicación. Este conflicto de planificación resultó en el abandono del proyecto energético tras 4 años de trámites, evidenciando que la 'mano derecha' del Estado no sabía qué hacía la 'izquierda'. El promotor solicita la devolución de avales debido a que el impedimento es un acto de la propia administración pública.",
+    "resumen_ciudadano": "La planta fotovoltaica 'Campos del Condado VI' en Huelva no se construirá. El promotor ha desistido del proyecto porque la ubicación de su subestación eléctrica coincide con el trazado previsto para el nuevo tren de Alta Velocidad (AVE) Sevilla-Huelva. Al ser un bloqueo causado por informes estatales contradictorios, la empresa solicita que no se le confisque la garantía económica depositada inicialmente.",
+    "resumen_tweet": "🚄☀️ ¡Descoordinación total en el #BOE! Se cancela una planta solar en Huelva porque el Gobierno planeó el AVE por el mismo sitio. 4 años de burocracia a la basura por falta de comunicación ministerial. #Opacidad #Transparencia #Renovables",
+    "banderas_red_flags": [
+      "Incoordinación ministerial (Energía vs Transportes)",
+      "Bloqueo de inversión privada por planificación pública sobrevenida",
+      "Garantías económicas en vilo por errores de ubicación estatal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "ADIF (prevalece la infraestructura ferroviaria)",
+        "Promotor (evita la pérdida de la fianza por causa justificada)"
+      ],
+      "perdedores": [
+        "Transición Energética (pérdida de 57MW renovables)",
+        "Eficiencia Administrativa (recursos públicos gastados en 4 años de trámites nulos)",
+        "Vecinos de Huelva"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Energía",
+    "banderas_rojas": [
+      "Incoordinación ministerial (Energía vs Transportes)",
+      "Bloqueo de inversión privada por planificación pública sobrevenida",
+      "Garantías económicas en vilo por errores de ubicación estatal"
+    ]
+  },
+  "tweeted": false
+}
