@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18000",
+  "timestamp": "2026-08-21T13:05:10.403Z",
+  "title": "Resolución de 17 de agosto de 2026, del Ayuntamiento de Plasencia (Cáceres), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución del Ayuntamiento de Plasencia representa un caso clásico de corrección sobre la marcha en procesos de empleo público. La rectificación de bases cuatro meses después de la convocatoria original (abril vs agosto) sugiere una falta de diligencia técnica inicial o la necesidad de ajustar perfiles específicos tras detectar fallos que podrían impugnar el proceso. La apertura de un plazo de inscripción 'exclusivo' para las plazas rectificadas genera una asimetría de información y tiempo entre diferentes grupos de aspirantes, lo que puede interpretarse como un intento de facilitar la entrada a perfiles que no encajaban en la redacción original.",
+    "resumen_ciudadano": "El Ayuntamiento de Plasencia ha modificado las reglas de un examen de oposición que ya estaba convocado. Debido a este cambio, se permite que nuevas personas se apunten durante 20 días, pero solo para los puestos que han sido modificados. Esto causa confusión y falta de igualdad entre los que se apuntaron al principio y los que se apunten ahora con las nuevas reglas.",
+    "resumen_tweet": "🚩 ¡Alerta en el #BOE! El Ayto de Plasencia rectifica las bases de su oposición 4 meses después. Se abre nuevo plazo solo para plazas 'retocadas'. ¿Error técnico o traje a medida? 🧐 Inseguridad jurídica para los opositores. #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Rectificación de bases a mitad del proceso selectivo",
+      "Fragmentación de plazos de inscripción según la plaza",
+      "Opacidad sobre el contenido real de la rectificación en el extracto del BOE",
+      "Dilatación temporal excesiva entre la convocatoria y la corrección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes que cumplen los nuevos requisitos rectificados",
+        "Gestoría administrativa municipal al evitar una posible nulidad total"
+      ],
+      "perdedores": [
+        "Opositores originales que enfrentan inseguridad jurídica",
+        "Ciudadanos que sufragan la ineficiencia de convocar con bases erróneas"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Rectificación de bases a mitad del proceso selectivo",
+      "Fragmentación de plazos de inscripción según la plaza",
+      "Opacidad sobre el contenido real de la rectificación en el extracto del BOE",
+      "Dilatación temporal excesiva entre la convocatoria y la corrección"
+    ]
+  },
+  "tweeted": false
+}
