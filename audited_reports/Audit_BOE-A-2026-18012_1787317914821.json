@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18012",
+  "timestamp": "2026-08-21T13:11:54.821Z",
+  "title": "Orden CNU/880/2026, de 17 de agosto, por la que se aprueban las bases reguladoras de la concesión de ayudas del programa de movilidad de estudiantes universitarios «Luisa de Medrano».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El programa 'Luisa de Medrano' se presenta como una herramienta de equidad para el programa SICUE, pero su diseño revela contradicciones. Aunque el preámbulo enfatiza la eliminación de barreras económicas, los criterios de adjudicación otorgan un 70% de peso al expediente académico (7/10 puntos), lo que favorece sistemáticamente a alumnos de entornos socioeconómicos más estables. Además, el texto admite que el programa no está integrado en el Plan Estratégico Sectorial (PES) por haber sido diseñado 'con posterioridad', una anomalía en la planificación presupuestaria que dificulta el control previo de eficiencia.",
+    "resumen_ciudadano": "Se crean nuevas becas de hasta 900€ mensuales para estudiantes universitarios que quieran estudiar en otra ciudad de España (programa SICUE). Se dará prioridad a quienes tengan mejores notas y a quienes se muden a provincias pequeñas o a más de 300km de su casa. Hay un extra de 500€ para desplazamientos desde o hacia islas, Ceuta y Melilla.",
+    "resumen_tweet": "🕵️‍♀️ Auditamos el programa 'Luisa de Medrano' en el #BOE. Mucha retórica de igualdad, pero el 70% de la nota es por expediente, beneficiando a quienes ya tienen ventaja. 🚩¡Excluido del Plan Estratégico por 'improvisación'! #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "No inclusión en el Plan Estratégico Sectorial (PES)",
+      "Sesgo de mérito sobre necesidad: el expediente académico pesa 7 puntos frente a criterios de distancia o población",
+      "Exclusión explícita de universidades no presenciales",
+      "Ambigüedad en la partida presupuestaria de origen fuera del plan ordinario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estudiantes con expedientes brillantes (70% del peso)",
+        "Provincias de baja densidad poblacional (menos de 1M habitantes)",
+        "Territorios insulares, Ceuta y Melilla"
+      ],
+      "perdedores": [
+        "Estudiantes de universidades no presenciales (excluidos)",
+        "Estudiantes con recursos limitados pero notas medias (el criterio económico es secundario al académico)",
+        "Transparencia presupuestaria por falta de integración en el PES"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Ayudas y Subvenciones de Educación",
+    "banderas_rojas": [
+      "No inclusión en el Plan Estratégico Sectorial (PES)",
+      "Sesgo de mérito sobre necesidad: el expediente académico pesa 7 puntos frente a criterios de distancia o población",
+      "Exclusión explícita de universidades no presenciales",
+      "Ambigüedad en la partida presupuestaria de origen fuera del plan ordinario"
+    ]
+  },
+  "tweeted": false
+}
