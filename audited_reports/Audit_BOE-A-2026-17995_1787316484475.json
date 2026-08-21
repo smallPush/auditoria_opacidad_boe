@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-17995",
+  "timestamp": "2026-08-21T12:48:04.475Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion emplea el sistema de libre designacion para puestos de seguridad en el Consejo de Administracion del Patrimonio Nacional, un mecanismo que permite la eleccion discrecional por parte de la administracion en lugar de un concurso de meritos puro. Es notable el trasvase de efectivos desde el Ministerio del Interior (Policia y Guardia Civil) hacia la Presidencia del Gobierno. La declaracion de desierto del puesto de mayor nivel (Jefe de Seccion, Nivel 24) genera dudas sobre si los candidatos no cumplian el perfil de confianza o si se reserva para una futura convocatoria mas dirigida.",
+    "resumen_ciudadano": "Se han adjudicado tres puestos de seguridad en Patrimonio Nacional mediante el sistema de eleccion directa (a dedo). Los seleccionados provienen de la Policia Nacional y la Guardia Civil para trabajar en Madrid, Tordesillas y Segovia. Un cuarto puesto de mayor rango ha quedado sin cubrir.",
+    "resumen_tweet": "🚨 Nueva adjudicacion a dedo en el #BOE. Patrimonio Nacional ficha a 3 efectivos de Interior por libre designacion para tareas de seguridad. El puesto de Jefe de Seccion queda desierto. ¿Meritocracia o confianza? #Opacidad #Transparencia #Seguridad 🇪🇸",
+    "banderas_red_flags": [
+      "Uso de libre designacion en puestos tecnicos",
+      "Puesto de alto nivel declarado desierto",
+      "Procedencia exclusiva de un mismo ministerio (Interior)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ivan Lopez Muñoz",
+        "Gonzalo Marin Tijeras",
+        "Norberto Garcia Vega",
+        "Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Cuerpo general de funcionarios",
+        "Transparencia en el acceso al empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Uso de libre designacion en puestos tecnicos",
+      "Puesto de alto nivel declarado desierto",
+      "Procedencia exclusiva de un mismo ministerio (Interior)"
+    ]
+  },
+  "tweeted": false
+}
