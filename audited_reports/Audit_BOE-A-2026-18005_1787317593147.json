@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18005",
+  "timestamp": "2026-08-21T13:06:33.147Z",
+  "title": "Orden APA/878/2026, de 12 de agosto, por la que se definen los bienes y rendimientos asegurables, las condiciones técnicas mínimas de cultivo, el ámbito de aplicación, los periodos de garantía, las fechas de suscripción y los precios unitarios del seguro base con garantías adicionales para uva de vinificación en la Península y en la Comunidad Autónoma de las Illes Balears, comprendido en el Cuadragésimo Séptimo Plan de Seguros Agrarios Combinados.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden APA/878/2026 perpetúa un modelo de gestión agrícola altamente tecnocrático y centralizado. Aunque detalla condiciones técnicas, la verdadera 'caja negra' reside en la base de datos de rendimientos individualizados de ENESA y el MAPA, cuyos criterios de asignación no son transparentes para el ciudadano medio. Se observa una clara discriminación hacia modelos agrícolas no industriales: se excluyen explícitamente los huertos familiares de autoconsumo y las parcelas experimentales. Además, se otorga a Agroseguro (un pool privado) un poder discrecional significativo para reducir indemnizaciones basándose en interpretaciones subjetivas de 'buen hacer' o 'deficiencias técnicas', lo que genera una asimetría de poder frente al agricultor.",
+    "resumen_ciudadano": "El Gobierno ha publicado las reglas para asegurar la uva de vino en 2026. Define qué se puede asegurar, cuánto dinero te darían y qué cuidados mínimos debes dar a las viñas. Sin embargo, si tienes un huerto pequeño para consumo propio o haces experimentos con nuevas técnicas, te quedas fuera del seguro. El precio y la producción permitida los decide el Ministerio mediante una base de datos compleja.",
+    "resumen_tweet": "🍷 El nuevo seguro para uva de vinificación protege al sector industrial pero castiga al pequeño productor. Se excluye el autoconsumo y la innovación experimental. 🛑 Mucha técnica y poca claridad en las bases de datos de ENESA. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión explícita de huertos familiares y autoconsumo",
+      "Exclusión de parcelas de experimentación o ensayo",
+      "Poder discrecional de la aseguradora para reducir pagos por 'falta de adecuación'",
+      "Opacidad en los criterios de la base de datos de rendimientos individualizados",
+      "Complejidad lingüística que actúa como barrera de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes bodegas y explotaciones profesionales",
+        "Agroseguro (entidades aseguradoras)",
+        "Propietarios de Denominaciones de Origen (D.O.)"
+      ],
+      "perdedores": [
+        "Pequeños agricultores de subsistencia",
+        "Investigadores y centros de experimentación agraria",
+        "Agricultores en zonas de 'abandono' o baja rentabilidad comercial"
+      ]
+    },
+    "comunidad_autonoma": "Multicomunidad (Península e Illes Balears)",
+    "tipologia": "Regulación de Seguros Agrarios",
+    "banderas_rojas": [
+      "Exclusión explícita de huertos familiares y autoconsumo",
+      "Exclusión de parcelas de experimentación o ensayo",
+      "Poder discrecional de la aseguradora para reducir pagos por 'falta de adecuación'",
+      "Opacidad en los criterios de la base de datos de rendimientos individualizados",
+      "Complejidad lingüística que actúa como barrera de acceso"
+    ]
+  },
+  "tweeted": false
+}
