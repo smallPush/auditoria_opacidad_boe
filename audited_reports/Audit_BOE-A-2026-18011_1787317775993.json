@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18011",
+  "timestamp": "2026-08-21T13:09:35.993Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Secretaría de Estado de Derechos Sociales, por la que se publica el Convenio con la Comunidad de Castilla y León, para establecer las condiciones de la ayuda correspondiente a operaciones en el marco del Programa de Inclusión Social, Garantía Infantil y Lucha contra la Pobreza, cofinanciado con el Fondo Social Europeo Plus (FSE+).",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una cesión de responsabilidad financiera total por parte del Ministerio, que actúa como mero gestor (Organismo Intermedio) sin aportar fondos propios (0 euros), delegando el 40% del coste a la Comunidad Autónoma y el 60% a la UE. El uso de 'costes simplificados' y reembolsos basados en microdatos de destinatarios genera una capa de complejidad técnica que dificulta el rastreo del euro final. El enfoque en 'formación de profesionales' en lugar de ayuda directa a familias en exclusión sugiere una priorización de la estructura administrativa sobre la intervención inmediata en pobreza infantil.",
+    "resumen_ciudadano": "Convenio entre el Gobierno central y Castilla y León para financiar cursos de formación para trabajadores sociales. El Estado no pone dinero propio; se paga con fondos europeos y dinero de la Junta de Castilla y León. El programa busca mejorar la atención temprana a niños, pero el dinero se gasta en capacitar profesionales, no en ayudas directas a los menores.",
+    "resumen_tweet": "⚠️ El Ministerio de Derechos Sociales firma convenio con Castilla y León para formación contra la pobreza infantil: ¡El Estado aporta 0€ de fondos propios! 💸 Todo recae en fondos UE y la Comunidad. ¿Ayuda directa o burocracia? 📉 #BOE #Opacidad #FSE",
+    "banderas_red_flags": [
+      "Aportación estatal de cero euros",
+      "Uso de opciones de costes simplificados que ocultan facturación real",
+      "Externalización de la formación a través de medios propios no delegables pero vagamente definidos",
+      "Riesgo de doble financiación mencionado pero difícil de auditar externamente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de formación y consultoría",
+        "Estructuras burocráticas de la Gerencia de Servicios Sociales",
+        "Ministerio (mejora sus indicadores de gestión sin gasto corriente)"
+      ],
+      "perdedores": [
+        "Familias en exclusión (la ayuda es indirecta)",
+        "Contribuyentes de Castilla y León (asumen el 40% del coste)",
+        "Transparencia pública (datos protegidos por sistemas de microdatos inaccesibles)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Convenio de Gestión de Fondos Europeos",
+    "banderas_rojas": [
+      "Aportación estatal de cero euros",
+      "Uso de opciones de costes simplificados que ocultan facturación real",
+      "Externalización de la formación a través de medios propios no delegables pero vagamente definidos",
+      "Riesgo de doble financiación mencionado pero difícil de auditar externamente"
+    ]
+  },
+  "tweeted": false
+}
