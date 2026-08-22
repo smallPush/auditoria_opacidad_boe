@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18028",
+  "timestamp": "2026-08-22T13:02:19.983Z",
+  "title": "Resolución de 12 de agosto de 2026, de la Dirección General de Trabajo, por la que se registra y publica el III Convenio colectivo de tripulantes de cabina de pasajeros de EasyJet Airline Spain, Sucursal en España.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El convenio presenta una estructura formal estándar pero introduce mecanismos de flexibilidad que favorecen la operativa empresarial sobre la estabilidad del trabajador. La 'interoperabilidad' (Art. 11b) permite a la empresa utilizar al personal en cualquier Certificado de Operador Aéreo (AOC) del grupo, lo que diluye la especificidad de las condiciones de trabajo locales. Asimismo, se observa una desconexión flagrante entre los costes de vida actuales y las compensaciones: el límite de 10€ para gastos de desplazamiento por exámenes médicos es insuficiente en el contexto económico actual. La inclusión del Art. 8 bis sobre catástrofes es una respuesta reactiva (posiblemente post-DANA), pero su efectividad queda suspendida a una negociación futura de tres meses, dejando un vacío legal inmediato.",
+    "resumen_ciudadano": "Se publica el III Convenio Colectivo para tripulantes de cabina de EasyJet en España con vigencia hasta 2028. Regula aspectos como salud laboral, uniformes mediante sistema de puntos y formación. Aunque incluye protecciones ante fenómenos meteorológicos adversos, el convenio otorga a la aerolínea gran libertad para mover a sus empleados entre sus distintas filiales internacionales y establece límites muy bajos para el reembolso de ciertos gastos de los trabajadores.",
+    "resumen_tweet": "✈️ Auditamos el convenio de @EasyJet en el #BOE. 🛡️ Nueva cláusula ante catástrofes, pero con letra pequeña: ayudas de solo 10€ para traslados médicos y movilidad total entre filiales internacionales. ¿Protección o precariedad? #Opacidad #Transparencia #TCP",
+    "banderas_red_flags": [
+      "Cuantía máxima de 10€ para desplazamientos médicos (insuficiente)",
+      "Interoperabilidad forzosa entre diferentes certificados aéreos (AOC)",
+      "Diferimiento de protocolos de emergencia a negociaciones futuras",
+      "Sistema de puntos para renovación de uniformes bajo control empresarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dirección de EasyJet (obtiene flexibilidad para mover tripulaciones entre filiales)",
+        "Secciones sindicales USO y SITCPLA (consolidan su posición negociadora)"
+      ],
+      "perdedores": [
+        "Tripulantes de Cabina (enfrentan techos de gastos bajos y movilidad geográfica técnica)",
+        "Transparencia económica (costes reales de formación y salud no detallados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Convenio Colectivo / Resolución Laboral",
+    "banderas_rojas": [
+      "Cuantía máxima de 10€ para desplazamientos médicos (insuficiente)",
+      "Interoperabilidad forzosa entre diferentes certificados aéreos (AOC)",
+      "Diferimiento de protocolos de emergencia a negociaciones futuras",
+      "Sistema de puntos para renovación de uniformes bajo control empresarial"
+    ]
+  },
+  "tweeted": false
+}
