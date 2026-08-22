@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18001",
+  "timestamp": "2026-08-22T01:44:33.330Z",
+  "title": "Resolución de 27 de julio de 2026, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema general de acceso libre y promoción interna, a la Escala de Técnico/a de Gestión Sistemas y Tecnología de la Información.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La convocatoria de la UPV presenta una estructura de acceso dual que, aunque legal, favorece significativamente la endogamia institucional al reservar el 50% de las plazas (4 de 8) a promoción interna. Se observa una barrera de entrada económica mediante una tasa de 20,38 euros que no especifica el destino del gasto ni el coste real de gestión del examen. Además, la obligatoriedad del trámite electrónico es estricta, permitiendo el formato físico solo bajo una 'excepcionalidad técnica' que debe ser validada por un informe del jefe de Servicio de Aplicaciones, lo que otorga un poder discrecional excesivo a la administración sobre el derecho de inscripción del ciudadano.",
+    "resumen_ciudadano": "La Universitat Politècnica de València convoca 8 plazas para técnicos de sistemas informáticos. Cuatro plazas son para empleados actuales y cuatro para acceso libre (dos de ellas reservadas para personas con discapacidad). El plazo de inscripción es del 7 al 18 de septiembre de 2026. Los aspirantes deben pagar una tasa de 20,38 euros y realizar los trámites casi exclusivamente por internet.",
+    "resumen_tweet": "⚠️ ¿Oportunidad o blindaje? La UPV convoca 8 plazas de IT: ¡el 50% reservadas para internos! 🛑 Barreras: tasa de 20,38€ y trabas al registro físico bajo 'permiso' técnico. ¿Acceso libre o consolidación encubierta? 💻🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de reserva para promoción interna (50%)",
+      "Poder discrecional en la validación de fallos técnicos para registro físico",
+      "Tasa de examen sin desglose de costes operativos",
+      "Plazo de subsanación de errores relativamente corto (10 días)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario del subgrupo C1 de la UPV",
+        "Candidatos con alta competencia digital",
+        "Personas con discapacidad reconocida (25% de reserva total)"
+      ],
+      "perdedores": [
+        "Candidatos externos sin vinculación previa (solo 2 plazas en turno libre general)",
+        "Personas con brecha digital o bajos recursos económicos para tasas"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público / Sector Universitario",
+    "banderas_rojas": [
+      "Alta tasa de reserva para promoción interna (50%)",
+      "Poder discrecional en la validación de fallos técnicos para registro físico",
+      "Tasa de examen sin desglose de costes operativos",
+      "Plazo de subsanación de errores relativamente corto (10 días)"
+    ]
+  },
+  "tweeted": false
+}
