@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18024",
+  "timestamp": "2026-08-22T12:57:07.699Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Singapur y Amadeus GDS Singapore, Pte. Ltd., para la celebración de la Fiesta Nacional de España.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se utiliza la Ley de Mecenazgo 49/2002 para financiar la Fiesta Nacional de España en Singapur mediante una empresa privada (Amadeus). Aunque el coste directo para la Embajada es cero, el Estado deja de percibir ingresos mediante deducciones fiscales a la empresa. La aportación de 2.000 SGD (aprox. 1.400 EUR) resulta irrisoria a cambio del retorno en imagen y estatus diplomático que recibe la multinacional. Al ser una 'aportación en especie' mediante contratación directa de la empresa, se eluden los procesos de licitación y transparencia en la elección de proveedores que regirían si el gasto fuera público.",
+    "resumen_ciudadano": "La Embajada de España en Singapur ha firmado un acuerdo con la empresa tecnológica Amadeus para que esta pague 2.000 dólares locales en suministros para la fiesta nacional de 2026. A cambio, la empresa recibirá publicidad en los actos oficiales, redes sociales y podrá desgravar impuestos en España por su 'generosidad'.",
+    "resumen_tweet": "🥂 ¿Fiesta Nacional a precio de saldo? La Embajada en Singapur firma con Amadeus por solo 2.000 SGD. A cambio: logos en invitaciones, redes y beneficios fiscales para la empresa. ¿Mecenazgo o marketing VIP low-cost? 📉 #BOE #Opacidad #Transparencia #MarcaEspaña",
+    "banderas_red_flags": [
+      "Aportación en especie sin desglose de suministros",
+      "Cuantía mínima para acceso a beneficios fiscales",
+      "Externalización de la selección de proveedores de un acto oficial",
+      "Uso de recursos públicos (imagen de la Embajada) para promoción privada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Amadeus GDS Singapore (branding diplomático, beneficios fiscales)",
+        "Invitados VIP (catering y servicios financiados)"
+      ],
+      "perdedores": [
+        "Erario público (pérdida por deducción fiscal)",
+        "PYMES locales (sin acceso a estos escaparates institucionales)"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Singapur)",
+    "tipologia": "Convenio de Mecenazgo",
+    "banderas_rojas": [
+      "Aportación en especie sin desglose de suministros",
+      "Cuantía mínima para acceso a beneficios fiscales",
+      "Externalización de la selección de proveedores de un acto oficial",
+      "Uso de recursos públicos (imagen de la Embajada) para promoción privada"
+    ]
+  },
+  "tweeted": false
+}
