@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18033",
+  "timestamp": "2026-08-22T13:01:13.981Z",
+  "title": "Resolución de 6 de agosto de 2026, de la Dirección General de Artes Escénicas y Música, por la que se publica el Convenio con la Comunidad de Madrid, para la realización de la fase de formación en empresa u organismo equiparado de los alumnos de los grados D y E de formación profesional de centros públicos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El convenio se presenta como una colaboración técnica estándar, pero bajo la etiqueta de 'naturaleza formativa' se establece un sistema donde el Ministerio de Cultura (DGAEM) obtiene mano de obra sin coste alguno, ni siquiera asumiendo los gastos de Seguridad Social, los cuales son derivados íntegramente a la Consejería de Educación de la Comunidad de Madrid. Existe una red flag potencial en la mención al 'teletrabajo' para alumnos de FP de artes escénicas y música, un sector eminentemente presencial, lo que podría sugerir un uso de los alumnos para tareas administrativas de baja cualificación en lugar de formación técnica real.",
+    "resumen_ciudadano": "El Ministerio de Cultura y la Comunidad de Madrid acuerdan que alumnos de Formación Profesional pública realicen prácticas en unidades de artes escénicas. El Ministerio no pagará nada por estos alumnos, y será la Comunidad de Madrid quien asuma los costes de su Seguridad Social. Las prácticas no son remuneradas y no pueden sustituir puestos de trabajo reales.",
+    "resumen_tweet": "🎭 ¿Prácticas 'gratis' en el Ministerio de Cultura? El nuevo convenio con la Comunidad de Madrid para alumnos de FP no incluye remuneración y carga los costes de Seguridad Social a la CAM. ¿Formación real o gestión administrativa? 🧐 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Ausencia total de remuneración para el alumno",
+      "Externalización de costes de Seguridad Social a la administración educativa",
+      "Mención de teletrabajo en formación de artes escénicas (posible desvirtuación técnica)",
+      "Falta de compromiso de inserción laboral post-prácticas",
+      "Indeterminación del número de plazas ofertadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Cultura (obtiene apoyo en gestión a coste cero)",
+        "Unidades de Artes Escénicas (disponibilidad de personal de apoyo sin carga presupuestaria)"
+      ],
+      "perdedores": [
+        "Alumnos de FP (realizan jornada laboral de hasta 8h sin compensación económica)",
+        "Presupuesto de Educación de la CAM (asume la factura de la Seguridad Social del Estado)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Convenio de Formación Profesional",
+    "banderas_rojas": [
+      "Ausencia total de remuneración para el alumno",
+      "Externalización de costes de Seguridad Social a la administración educativa",
+      "Mención de teletrabajo en formación de artes escénicas (posible desvirtuación técnica)",
+      "Falta de compromiso de inserción laboral post-prácticas",
+      "Indeterminación del número de plazas ofertadas"
+    ]
+  },
+  "tweeted": false
+}
