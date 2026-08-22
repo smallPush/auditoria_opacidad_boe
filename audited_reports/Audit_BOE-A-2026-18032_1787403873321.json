@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18032",
+  "timestamp": "2026-08-22T13:04:33.321Z",
+  "title": "Resolución de 5 de agosto de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento formulado por Savanna Power Solar 10, SLU, de la solicitud de autorización administrativa de construcción para la instalación fotovoltaica Ciudad de Tartessos II, de 60,569 MW de potencia instalada, y su infraestructura de evacuación, en Trigueros (Huelva).",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento expone una falta de coordinación flagrante entre el Ministerio para la Transición Ecológica y el Ministerio de Transportes. Tras un proceso administrativo que comenzó en 2021, el proyecto fotovoltaico 'Ciudad de Tartessos II' colapsa en 2026 debido a que su ubicación interfiere con el trazado del AVE Sevilla-Huelva. El análisis revela una 'Incongruencia Ideológica' de planificación: el Estado promueve activamente la energía solar mientras sus propios planes de infraestructura ferroviaria la bloquean. Además, es reseñable la presión del promotor (Savanna Power Solar 10, SLU) para que la resolución declare explícitamente la no ejecución de sus avales (unos 2,4 millones de euros), evidenciando que el riesgo de este choque administrativo lo asume inicialmente la inversión privada, aunque finalmente se le exima por causas ajenas.",
+    "resumen_ciudadano": "Se cancela la construcción de la planta solar 'Ciudad de Tartessos II' en Huelva porque el terreno será utilizado para el futuro tren de alta velocidad (AVE). El promotor del proyecto se retira tras 5 años de gestiones al confirmarse que la infraestructura ferroviaria es incompatible con la eléctrica. La administración acepta el desistimiento y se compromete a devolver las fianzas depositadas por la empresa, ya que la cancelación es fruto de un cambio en la planificación estatal y no de un incumplimiento del promotor.",
+    "resumen_tweet": "🚄 vs ☀️ Choque de infraestructuras en el #BOE: El AVE Sevilla-Huelva tumba un megaproyecto solar tras 5 años de burocracia. ¿Quién paga el coste de la mala coordinación ministerial? La empresa logra salvar sus avales millonarios. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Incompatibilidad de infraestructuras detectada con años de retraso",
+      "Presión del promotor para modificar la redacción y asegurar la devolución de avales",
+      "Cinco años de tramitación administrativa baldía",
+      "Falta de coordinación previa entre ADIF y el área de Energía"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Transportes (prioridad del AVE)",
+        "ADIF",
+        "Savanna Power Solar 10, SLU (recupera sus garantías financieras)"
+      ],
+      "perdedores": [
+        "Transición Energética (60 MW menos de potencia instalada)",
+        "Eficiencia Administrativa (recursos públicos gastados en 5 años de trámites nulos)",
+        "Sector energético local en Huelva"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Energía y Transportes",
+    "banderas_rojas": [
+      "Incompatibilidad de infraestructuras detectada con años de retraso",
+      "Presión del promotor para modificar la redacción y asegurar la devolución de avales",
+      "Cinco años de tramitación administrativa baldía",
+      "Falta de coordinación previa entre ADIF y el área de Energía"
+    ]
+  },
+  "tweeted": false
+}
