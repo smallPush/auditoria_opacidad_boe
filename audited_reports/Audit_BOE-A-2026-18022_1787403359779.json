@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18022",
+  "timestamp": "2026-08-22T12:55:59.779Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Croacia y Escribano Mechanical &amp; Engineering, SLU, para la celebración de la Fiesta Nacional de España.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un convenio de mecenazgo donde una empresa privada del sector defensa (Escribano Mechanical & Engineering) financia la Fiesta Nacional en la Embajada de España en Croacia con una cuantía de 1.200€. Bajo la apariencia de 'cooperación mutua', el Estado otorga visibilidad publicitaria y beneficios fiscales a una empresa de armamento en un entorno diplomático. Este tipo de acuerdos permite a intereses privados comprar 'espacio de influencia' y cercanía con altos cargos por importes simbólicos, diluyendo la neutralidad de las instituciones públicas.",
+    "resumen_ciudadano": "La Embajada de España en Zagreb ha firmado un acuerdo con la empresa Escribano Mechanical & Engineering para que esta pague 1.200 euros de la fiesta del 12 de octubre. A cambio, la Embajada pondrá el logo de la empresa en invitaciones, redes sociales y carteles, dándole además entradas de cortesía y ventajas fiscales. Básicamente, una empresa de tecnología militar paga la fiesta a cambio de publicidad y acceso diplomático.",
+    "resumen_tweet": "🚨 ¿Influencia por 1.200€? El #BOE publica que una empresa de defensa patrocina la Fiesta Nacional en la Embajada de Croacia. A cambio: logos, publicidad y beneficios fiscales. ¿Diplomacia o escaparate comercial? 🇪🇸🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Patrocinio de empresa de defensa en eventos diplomáticos",
+      "Compra de visibilidad institucional por cuantía mínima",
+      "Uso de la Ley de Mecenazgo para fines de marketing corporativo",
+      "Posible conflicto de intereses por la naturaleza de la empresa (contratista del Estado)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Escribano Mechanical & Engineering (logran branding diplomático y deducciones fiscales)",
+        "Embajada de España en Zagreb (obtienen fondos extra-presupuestarios para eventos sociales)"
+      ],
+      "perdedores": [
+        "Contribuyentes (el Estado deja de recaudar impuestos vía deducciones de mecenazgo)",
+        "Imagen de neutralidad del Servicio Exterior español"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Croacia)",
+    "tipologia": "Convenio de Colaboración / Mecenazgo",
+    "banderas_rojas": [
+      "Patrocinio de empresa de defensa en eventos diplomáticos",
+      "Compra de visibilidad institucional por cuantía mínima",
+      "Uso de la Ley de Mecenazgo para fines de marketing corporativo",
+      "Posible conflicto de intereses por la naturaleza de la empresa (contratista del Estado)"
+    ]
+  },
+  "tweeted": false
+}
