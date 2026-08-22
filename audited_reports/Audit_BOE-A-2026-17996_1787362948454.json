@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-17996",
+  "timestamp": "2026-08-22T01:42:28.454Z",
+  "title": "Resolución de 19 de agosto de 2026, de la Subsecretaría, por la que, en ejecución de Auto, se abre nuevo plazo de presentación de solicitudes para determinadas titulaciones en el proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo en el Grupo Profesional M2, especialidad Conservación y Restauración de Bienes Culturales, convocado por Resolución de 7 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion evidencia un fallo previo de la administracion al excluir de forma restrictiva y posiblemente arbitraria a licenciados en Bellas Artes de un proceso selectivo de restauracion. Ha sido necesaria la intervencion judicial mediante una medida cautelarísima para forzar al Ministerio de Cultura a cumplir con los principios de igualdad, merito y capacidad. Aunque el documento actual es transparente al citar el auto judicial, revela una opacidad inicial en los criterios de titulacion que buscaba limitar el acceso a la funcion publica a favor de titulaciones mas recientes (Grados), perjudicando a profesionales con titulaciones superiores de planes antiguos.",
+    "resumen_ciudadano": "El Ministerio de Cultura se ve obligado por un juez a reabrir durante 20 dias el plazo de inscripcion para las oposiciones de Conservacion y Restauracion de Bienes Culturales. Originalmente, el Ministerio habia excluido a quienes tenian la Licenciatura en Bellas Artes con esa especialidad, aceptando solo Grados o Diplomaturas. Si tienes esta licenciatura, ahora puedes inscribirte legalmente.",
+    "resumen_tweet": "⚖️ ¡Varapalo judicial al Ministerio de Cultura! Un juez le obliga a reabrir las oposiciones de restauracion tras excluir injustamente a Licenciados en Bellas Artes. 🎨 Tienes 20 dias para inscribirte. #BOE #Oposiciones #Transparencia #Cultura",
+    "banderas_red_flags": [
+      "Exclusion previa de titulaciones superiores validas",
+      "Correccion obligada por via judicial",
+      "Sesgo burocratico contra licenciaturas de planes antiguos",
+      "Gasto administrativo extra por rectificacion de convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Licenciados en Bellas Artes con especialidad en Conservacion",
+        "Estado de Derecho frente a arbitrariedad administrativa",
+        "Aspirantes con titulaciones de planes de estudio antiguos"
+      ],
+      "perdedores": [
+        "Subsecretaria de Cultura (por gestion negligente de la convocatoria)",
+        "Candidatos que ya estaban en proceso y veran retrasos o mayor competencia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolucion de Ejecucion Judicial",
+    "banderas_rojas": [
+      "Exclusion previa de titulaciones superiores validas",
+      "Correccion obligada por via judicial",
+      "Sesgo burocratico contra licenciaturas de planes antiguos",
+      "Gasto administrativo extra por rectificacion de convocatoria"
+    ]
+  },
+  "tweeted": false
+}
