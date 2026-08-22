@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18030",
+  "timestamp": "2026-08-22T12:59:23.705Z",
+  "title": "Resolución de 3 de junio de 2025, de la Dirección General de Política Energética y Minas, por la que se otorga a Naturgy Vento, SAU, autorización administrativa previa para el parque solar fotovoltaico Hibridación Casa del Aire l, de 49,35 MW de potencia instalada, para su hibridación con el parque eólico Casa del Aire I, de 50,4 MW, y para su infraestructura de evacuación, en El Bonillo (Albacete).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución técnica oculta tras un lenguaje administrativo estándar una operación de consolidación del oligopolio energético. Se observa una transferencia de titularidad de una SLU (Energías Alternativas Castilla La Mancha) a una gran corporación (Naturgy Vento, SAU) justo antes de la autorización definitiva, una práctica común para externalizar riesgos de tramitación inicial. Es preocupante el uso recurrente del 'silencio administrativo positivo' (Art. 127.2 del RD 1955/2000) por parte de organismos críticos como la Confederación Hidrográfica del Guadiana y la Agencia del Agua, lo que implica que infraestructuras de gran impacto hídrico y ambiental avanzan sin un 'sí' explícito y motivado, sino por omisión de funciones de la administración.",
+    "resumen_ciudadano": "El Gobierno autoriza a Naturgy a construir una planta solar masiva de 49,35 MW en El Bonillo (Albacete) para 'hibridarla' con un parque eólico existente. Aunque se imponen numerosas medidas para proteger aves esteparias y murciélagos, el proyecto ha avanzado gracias a que varios organismos públicos no respondieron a tiempo a las consultas, dándose su conformidad por supuesta. La planta ocupará 72 hectáreas, lo que supone una pérdida de hábitat significativo para especies protegidas como el sisón o la avutarda.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Autorizada megaplanta solar de Naturgy en Albacete ☀️🦅 El proyecto avanza pese al SILENCIO de organismos hídricos y ambientales. ¿Quién vigila realmente el impacto en el territorio? #Opacidad #Transparencia #Renovables #Albacete",
+    "banderas_red_flags": [
+      "Transferencia de titularidad previa a la autorización",
+      "Conformidad por silencio administrativo de la Confederación Hidrográfica",
+      "Informe erróneo de la Junta de Comunidades sobre ubicación física",
+      "Hibridación técnica para superar el umbral de 50MW y centralizar la competencia en el Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Naturgy Vento SAU (consolidación de activos)",
+        "Sector de infraestructuras eléctricas",
+        "Administración Central (toma de competencia sobre la autonómica)"
+      ],
+      "perdedores": [
+        "Biodiversidad local (aves esteparias como sisón y avutarda)",
+        "Paisaje natural de El Bonillo",
+        "Transparencia administrativa (decisiones por omisión de informes)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Energía y Minas",
+    "banderas_rojas": [
+      "Transferencia de titularidad previa a la autorización",
+      "Conformidad por silencio administrativo de la Confederación Hidrográfica",
+      "Informe erróneo de la Junta de Comunidades sobre ubicación física",
+      "Hibridación técnica para superar el umbral de 50MW y centralizar la competencia en el Estado"
+    ]
+  },
+  "tweeted": false
+}
