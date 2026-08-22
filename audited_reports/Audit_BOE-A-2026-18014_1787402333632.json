@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18014",
+  "timestamp": "2026-08-22T12:38:53.632Z",
+  "title": "Resolución de 19 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 22 de enero de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución analizada ejemplifica el uso sistemático del mecanismo de 'libre designación' para puestos en el servicio exterior (Canciller en la Embajada en Nigeria). Este sistema es legalmente válido pero democráticamente opaco, ya que permite el nombramiento discrecional basado en la 'confianza' del superior en lugar de una comparativa pública de méritos y capacidad. La transición de un funcionario desde la Agencia Tributaria en Cataluña a la diplomacia en Abuja se realiza sin una sola línea que justifique la idoneidad técnica del candidato frente a otros posibles aspirantes, blindando la decisión tras la burocracia administrativa.",
+    "resumen_ciudadano": "Se ha designado a dedo a un nuevo Canciller para la Embajada de España en Nigeria. Aunque el puesto es de nivel 22, el sistema utilizado (libre designación) evita que sepamos por qué esta persona es mejor que otras para el cargo. Es un ejemplo de cómo puestos técnicos en el extranjero se cubren por criterios de confianza política o personal en lugar de un concurso abierto de méritos.",
+    "resumen_tweet": "🔍 Nueva adjudicación 'a dedo' en Exteriores: Destino Embajada en Nigeria. El sistema de Libre Designación permite elegir cargos sin explicar los méritos reales. ¿Dónde queda la meritocracia en nuestra diplomacia? 🏛️👤 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (Adjudicación discrecional)",
+      "Ausencia de motivación en la elección del candidato",
+      "Opacidad en los criterios de idoneidad técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctor Martínez Hortelano (obtiene plaza internacional)",
+        "Ministerio de Asuntos Exteriores (mantiene control discrecional sobre el personal)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (excluidos de un concurso de méritos real)",
+        "Ciudadanía (pérdida de transparencia en el servicio exterior)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación (Adjudicación discrecional)",
+      "Ausencia de motivación en la elección del candidato",
+      "Opacidad en los criterios de idoneidad técnica"
+    ]
+  },
+  "tweeted": false
+}
