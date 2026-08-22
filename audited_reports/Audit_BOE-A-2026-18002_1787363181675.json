@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18002",
+  "timestamp": "2026-08-22T01:46:21.675Z",
+  "title": "Resolución de 7 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Polonia y Acciona Energy Poland Global Sp, Z O.O., para la celebración de la Fiesta Nacional de España.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El convenio revela una práctica común de externalización de costes de representación estatal a cambio de capital simbólico. Acciona Energy Poland aporta 6.500 PLN (aprox. 1.500 EUR), una cifra irrisoria para una multinacional, a cambio de una plataforma de marketing diplomático de primer nivel. La opacidad reside en la 'aportación en especie': no se detallan qué suministros o servicios se contratan, lo que dificulta la fiscalización real del valor recibido. Se utiliza una institución pública (la Embajada) como soporte publicitario para una entidad privada bajo el paraguas de la Ley de Mecenazgo, desvirtuando el propósito de la Fiesta Nacional para convertirla en un evento de networking corporativo.",
+    "resumen_ciudadano": "La Embajada de España en Polonia ha firmado un acuerdo con Acciona para que esta pague parte de la fiesta del 12 de octubre en Varsovia. A cambio de unos 1.500 euros en servicios no especificados, la empresa podrá poner su logo en las invitaciones, redes sociales de la embajada y tener presencia física en el evento, además de recibir entradas de cortesía.",
+    "resumen_tweet": "🥂 ¿Cuánto vale la marca España? En Varsovia, solo 6.500 PLN (1.500€). El @MAECgob permite a Acciona patrocinar la Fiesta Nacional a cambio de visibilidad institucional. ¿Mecenazgo real o marketing de bajo coste? 📉🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Valoración económica extremadamente baja para los beneficios de imagen obtenidos",
+      "Falta de desglose de los servicios 'en especie' contratados",
+      "Uso de recursos diplomáticos para la promoción de marcas privadas",
+      "Riesgo de clientelismo en la selección de la empresa colaboradora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Acciona Energy Poland (publicidad institucional premium a precio de saldo)",
+        "Cargos diplomáticos (acceso a eventos financiados externamente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (dilución del carácter público de la representación estatal)",
+        "Pequeñas empresas (incapaces de competir por este nivel de visibilidad institucional)"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Polonia)",
+    "tipologia": "Convenio de Colaboración / Mecenazgo",
+    "banderas_rojas": [
+      "Valoración económica extremadamente baja para los beneficios de imagen obtenidos",
+      "Falta de desglose de los servicios 'en especie' contratados",
+      "Uso de recursos diplomáticos para la promoción de marcas privadas",
+      "Riesgo de clientelismo en la selección de la empresa colaboradora"
+    ]
+  },
+  "tweeted": false
+}
