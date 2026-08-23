@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-18029",
+  "timestamp": "2026-08-23T12:59:30.696Z",
+  "title": "Resolución de 27 de julio de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula informe de impacto ambiental del proyecto «Enlace LAT entre CS Pandela y CT Busqueimado, Ayuntamiento de A Fonsagrada (Lugo) y Santa Eulalia de Oscos (Asturias)».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta un caso típico de 'salami slicing' o fragmentación de proyectos, ya que menciona que el Centro de Seccionamiento Pandela será objeto de un proyecto independiente, lo que impide evaluar el impacto ambiental total y acumulativo de la infraestructura. Inicialmente, el promotor (Viesgo) pretendía cruzar la Reserva de la Biosfera 'Río Eo, Oscos y Terras de Burón' con una línea aérea, y solo tras la presión de los servicios técnicos de Asturias aceptó el soterramiento parcial. Llama la atención que la caracterización faunística sea puramente bibliográfica, sin trabajo de campo real para proteger especies vulnerables como el aguilucho cenizo. El impacto de clase es evidente: el coste ambiental lo asumen zonas rurales despobladas para mejorar la eficiencia de una distribuidora privada bajo el pretexto del suministro público.",
+    "resumen_ciudadano": "Se aprueba el informe de impacto ambiental para una línea eléctrica de 20kV que conectará Lugo y Asturias. El proyecto inicial tuvo que ser modificado para evitar daños directos a una Reserva de la Biosfera, obligando a la empresa Viesgo a soterrar parte del trazado. Aunque se justifica por la mejora del suministro, la obra implica la tala de árboles, apertura de nuevos caminos en el monte y una huella de carbono de casi 270 toneladas de CO2 que solo se compensará parcialmente.",
+    "resumen_tweet": "⚡️¡Ojo al #BOE! Viesgo proyecta una línea de alta tensión entre Lugo y Asturias afectando a una Reserva de la Biosfera. 🌲Tras presión técnica, soterrarán un tramo, pero la fauna se estudió solo en libros. ¿Progreso o parche privado? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentación de proyecto (proyecto colindante tramitado por separado)",
+      "Estudio de fauna basado exclusivamente en bibliografía, sin trabajo de campo",
+      "Intento inicial de cruzar Reserva de la Biosfera con línea aérea",
+      "Huella de carbono significativa (269,59 t CO2e) con compensación incierta",
+      "Apertura de 524 metros de nuevos viales en zona montañosa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Viesgo Distribución Eléctrica SL (expansión de activos y red)",
+        "Empresas de construcción de infraestructuras eléctricas"
+      ],
+      "perdedores": [
+        "Ecosistema de la Reserva de la Biosfera Río Eo",
+        "Aguilucho cenizo (especie vulnerable)",
+        "Residentes de A Sendiña y Busqueimado (afección visual y de obra)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia y Principado de Asturias",
+    "tipologia": "Evaluación de Impacto Ambiental",
+    "banderas_rojas": [
+      "Fragmentación de proyecto (proyecto colindante tramitado por separado)",
+      "Estudio de fauna basado exclusivamente en bibliografía, sin trabajo de campo",
+      "Intento inicial de cruzar Reserva de la Biosfera con línea aérea",
+      "Huella de carbono significativa (269,59 t CO2e) con compensación incierta",
+      "Apertura de 524 metros de nuevos viales en zona montañosa"
+    ]
+  },
+  "tweeted": false
+}
