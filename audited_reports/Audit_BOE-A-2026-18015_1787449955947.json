@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18015",
+  "timestamp": "2026-08-23T01:52:35.947Z",
+  "title": "Resolución de 12 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 18 de mayo de 2026, en la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento mediante el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional (a dedo) para puestos de alta responsabilidad. Lo más llamativo es que el adjudicatario ya ocupaba exactamente el mismo puesto en 'comisión de servicios', lo que sugiere que la convocatoria pública fue un mero trámite administrativo para consolidar una situación preexistente, eliminando la competencia real.",
+    "resumen_ciudadano": "El Ministerio del Interior ha formalizado el cargo de Jefe de Área de Producción en la entidad que gestiona el trabajo de los presos. El elegido, David Sánchez Castillo, ya desempeñaba el cargo de forma temporal. El puesto conlleva un Nivel 28 y un complemento específico de 23.666,72 euros anuales adicionales al sueldo base.",
+    "resumen_tweet": "🕵️‍♂️ Nueva 'libre designación' en el #BOE. Nivel 28 con +23.600€ de complemento para gestionar trabajo penitenciario. El elegido ya ocupaba el puesto 'en funciones'. ¿Meritocracia o traje a medida? 👔 #Opacidad #Transparencia #Fiscalización",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad técnica)",
+      "Puesto adjudicado a quien ya lo ocupaba en comisión de servicios",
+      "Alta remuneración por complementos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Sánchez Castillo (consolida plaza y salario)",
+        "Estructura directiva de Interior (mantiene personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (barreras en la promoción por mérito objetivo)",
+        "Ciudadanía (opacidad en la gestión de recursos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad técnica)",
+      "Puesto adjudicado a quien ya lo ocupaba en comisión de servicios",
+      "Alta remuneración por complementos específicos"
+    ]
+  },
+  "tweeted": false
+}
