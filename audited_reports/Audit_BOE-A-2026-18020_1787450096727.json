@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18020",
+  "timestamp": "2026-08-23T01:54:56.727Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Perú y Andino Inversiones Global, SA, para la celebración de la Fiesta Nacional de España.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El convenio utiliza la figura del mecenazgo (Ley 49/2002) para sufragar eventos diplomáticos, lo que permite a empresas privadas obtener beneficios fiscales y posicionamiento de marca a cambio de financiar actos oficiales. La aportación se define como 'en especie' por un 'valor estimado', una fórmula que dificulta la auditoría real de los costes y servicios contratados, eludiendo el control presupuestario directo que tendría una partida monetaria pública.",
+    "resumen_ciudadano": "La Embajada de España en Perú ha firmado un acuerdo con la empresa Andino Inversiones Global para que esta pague 8.000 soles peruanos en suministros para la celebración del 12 de octubre. A cambio, la empresa recibirá publicidad oficial, uso de su logotipo en materiales de la embajada y entradas de cortesía para el evento, además de las deducciones fiscales correspondientes por mecenazgo.",
+    "resumen_tweet": "🚩 ¿Quién paga la fiesta nacional? La Embajada en Perú firma con una constructora para financiar el 12 de octubre. 8.000 soles 'en especie' a cambio de publicidad y beneficios fiscales. ¿Mecenazgo o compra de influencia? 🧐🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Aportación económica en especie difícil de auditar",
+      "Valoración solo estimada del coste de los servicios",
+      "Intercambio de recursos públicos (imagen institucional) por financiación privada",
+      "Entrega de entradas de cortesía como contraprestación implícita",
+      "Uso de beneficios fiscales para financiar eventos sociales de la élite diplomática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Andino Inversiones Global, SA (Branding institucional, deducciones fiscales, networking de alto nivel)",
+        "Ministerio de Asuntos Exteriores (Ahorro presupuestario aparente en eventos sociales)"
+      ],
+      "perdedores": [
+        "Contribuyente español (Pérdida de recaudación vía incentivos fiscales al mecenazgo)",
+        "Transparencia pública (Externalización de gastos oficiales hacia proveedores privados sin licitación)"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Perú)",
+    "tipologia": "Convenio de Colaboración / Mecenazgo",
+    "banderas_rojas": [
+      "Aportación económica en especie difícil de auditar",
+      "Valoración solo estimada del coste de los servicios",
+      "Intercambio de recursos públicos (imagen institucional) por financiación privada",
+      "Entrega de entradas de cortesía como contraprestación implícita",
+      "Uso de beneficios fiscales para financiar eventos sociales de la élite diplomática"
+    ]
+  },
+  "tweeted": false
+}
