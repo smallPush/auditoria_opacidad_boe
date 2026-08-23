@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18019",
+  "timestamp": "2026-08-23T12:57:25.001Z",
+  "title": "Resolución de 29 de julio de 2026, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema general de acceso libre, a la Escala de Técnico Superior de Laboratorio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria de una única plaza de nivel A1 (máxima categoría) mediante concurso-oposición en turno libre suele ser un mecanismo de consolidación de personal interino encubierto. Aunque las bases son detalladas, la barrera económica de la tasa de examen (30,57€) y la ventaja procesal de los certificados internos de la UPV para la fase de concurso generan una desigualdad competitiva sustancial para candidatos externos.",
+    "resumen_ciudadano": "La Universitat Politècnica de València convoca una plaza de Técnico Superior de Laboratorio para el Área de Dibujo. Es un puesto de alto nivel funcional. El proceso incluye exámenes eliminatorios y una valoración de méritos donde la experiencia previa en la propia institución es fácilmente certificable mediante su intranet, lo que facilita el camino a quienes ya trabajan allí.",
+    "resumen_tweet": "🕵️‍♂️ ¿Plaza libre o consolidación encubierta? La UPV lanza convocatoria para Técnico Superior de Laboratorio (A1). 30,57€ de tasa y una sola plaza en juego. El sistema de méritos beneficia claramente al personal interno. 💸🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única para un subgrupo A1",
+      "Tasa de participación elevada (30,57€)",
+      "Diferencia de plazos: publicación en agosto para trámites en septiembre",
+      "Mecanismos de acreditación de méritos simplificados para personal interno frente a externos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con servicios previos en la UPV",
+        "Administración universitaria (recaudación por tasas)"
+      ],
+      "perdedores": [
+        "Licenciados noveles sin red de contactos previa",
+        "Candidatos externos con dificultades económicas para costear tasas y desplazamientos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público Universitaria",
+    "banderas_rojas": [
+      "Convocatoria de plaza única para un subgrupo A1",
+      "Tasa de participación elevada (30,57€)",
+      "Diferencia de plazos: publicación en agosto para trámites en septiembre",
+      "Mecanismos de acreditación de méritos simplificados para personal interno frente a externos"
+    ]
+  },
+  "tweeted": false
+}
