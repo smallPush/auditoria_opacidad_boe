@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18031",
+  "timestamp": "2026-08-23T13:03:30.823Z",
+  "title": "Resolución de 3 de junio de 2025, de la Dirección General de Política Energética y Minas, por la que se otorga a Naturgy Vento, SAU, autorización administrativa previa para el parque solar fotovoltaico Hibridación Casa del Aire II, de 54,6 MW de potencia instalada, para su hibridación con el parque eólico Casa del Aire II, de 51 MW, y para su infraestructura de evacuación, en El Bonillo (Albacete).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución revela una dinámica común de concentración energética: el proyecto nace en una SLU para acabar en manos de un gigante (Naturgy Vento, SAU). Se detecta una alarmante dependencia del 'silencio administrativo' (Art. 127.2 RD 1955/2000) por parte de organismos críticos como la Confederación Hidrográfica del Guadiana y empresas competidoras (Acciona, Iberdrola), lo que implica que decisiones de calado ambiental se toman por omisión de respuesta. Existe una incongruencia administrativa notable donde la Consejería regional confundió el municipio del proyecto (El Bonillo vs. Bonete), lo que resta rigor al proceso de supervisión inicial.",
+    "resumen_ciudadano": "Se autoriza a Naturgy a construir una planta solar de 54,6 MW en El Bonillo (Albacete) para hibridarla con un parque eólico existente. El proyecto ha tenido que reducir su tamaño original para proteger la fauna y deberá gestionar 185 hectáreas adicionales de terreno como compensación por el impacto en aves protegidas como el sisón y la avutarda. La planta contará con más de 90.000 paneles solares.",
+    "resumen_tweet": "📢 Naturgy se queda con el megaproyecto solar de El Bonillo (Albacete). 54,6 MW extra en hábitat de aves protegidas 🦅. Organismos clave callan y se aplica el 'silencio administrativo'. ¿Rigor o trámite al por mayor? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cambio de titularidad de SLU a Gran Empresa durante el proceso",
+      "Silencio administrativo de la Confederación Hidrográfica del Guadiana",
+      "Error de ubicación geográfica en informes oficiales (Bonete vs El Bonillo)",
+      "Ausencia de alegaciones ciudadanas en un proyecto de 105 MW totales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Naturgy Vento, SAU (expansión de activos y consolidación de hibridación)",
+        "Sector de infraestructuras eléctricas"
+      ],
+      "perdedores": [
+        "Biodiversidad local (pérdida neta de hábitat estepario)",
+        "Paisaje rural de Albacete (industrialización del suelo)",
+        "Transparencia institucional (decisiones basadas en la no-respuesta de organismos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Autorización de Instalaciones de Generación Eléctrica",
+    "banderas_rojas": [
+      "Cambio de titularidad de SLU a Gran Empresa durante el proceso",
+      "Silencio administrativo de la Confederación Hidrográfica del Guadiana",
+      "Error de ubicación geográfica en informes oficiales (Bonete vs El Bonillo)",
+      "Ausencia de alegaciones ciudadanas en un proyecto de 105 MW totales"
+    ]
+  },
+  "tweeted": false
+}
