@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-18018",
+  "timestamp": "2026-08-23T01:56:23.182Z",
+  "title": "Resolución de 29 de julio de 2026, de la Universitat Politècnica de València, por la que se convocan pruebas selectivas de acceso, por el sistema general de acceso libre, a la Escala de Técnico Superior de Laboratorio.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "La convocatoria presenta rasgos clásicos de un proceso de consolidación encubierta bajo la apariencia de acceso libre. Convocar una sola plaza del subgrupo A1 (el más alto de la administración) mediante el sistema de concurso-oposición sugiere que el perfil está orientado a regularizar a un interino actual. La fase de concurso otorga una ventaja competitiva determinante a quienes ya poseen experiencia previa en la propia Universitat Politècnica de València (UPV), dificultando el acceso real a candidatos externos. Además, la tasa de examen de 30,57 euros resulta desproporcionada para una convocatoria de plaza única, funcionando como una barrera económica de entrada.",
+    "resumen_ciudadano": "La Universitat Politècnica de València busca cubrir una única plaza de Técnico Superior de Laboratorio. Aunque el proceso es abierto, el sistema de puntuación favorece enormemente a las personas que ya trabajan allí. El plazo para apuntarse es de solo 10 días hábiles y el examen cuesta más de 30 euros. Es un ejemplo de cómo la burocracia puede favorecer la endogamia institucional.",
+    "resumen_tweet": "🚨 ¡Alerta de plaza 'con nombre'! La UPV convoca UNA única plaza A1 de Técnico de Laboratorio. 30€ de tasa y sistema de concurso que premia a los de casa. ¿Transparencia o consolidación encubierta? 🧐 #BOE #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Plaza única (típico de plazas 'ad hoc')",
+      "Sistema de concurso-oposición (el concurso otorga ventaja a interinos)",
+      "Plazo de inscripción extremadamente corto (10 días)",
+      "Tasa de examen elevada (30,57€) para una sola vacante",
+      "Confusión de plazos entre el BOE y el DOGV"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que ya ocupa el puesto",
+        "Administración universitaria (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos sin experiencia previa en la UPV",
+        "Desempleados (barrera económica por la tasa)",
+        "Principios de igualdad y mérito (sesgo por experiencia interna)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Oferta de Empleo Público / Personal Técnico y de Administración",
+    "banderas_rojas": [
+      "Plaza única (típico de plazas 'ad hoc')",
+      "Sistema de concurso-oposición (el concurso otorga ventaja a interinos)",
+      "Plazo de inscripción extremadamente corto (10 días)",
+      "Tasa de examen elevada (30,57€) para una sola vacante",
+      "Confusión de plazos entre el BOE y el DOGV"
+    ]
+  },
+  "tweeted": false
+}
