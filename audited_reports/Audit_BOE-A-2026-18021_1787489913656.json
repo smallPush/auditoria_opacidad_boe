@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18021",
+  "timestamp": "2026-08-23T12:58:33.656Z",
+  "title": "Resolución de 17 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre la Embajada de España en Bélgica y Pérez-Llorca Abogados, SLP, para la celebración de la Fiesta Nacional de España.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un convenio de mecenazgo donde la Embajada de España en Bruselas cede espacio publicitario y prestigio institucional a un despacho de abogados privado (Pérez-Llorca) a cambio de una aportación simbólica de 1.500 euros. El análisis revela una mercantilización de la diplomacia española: por el precio de una cena corporativa, el bufete obtiene visibilidad en redes sociales oficiales, presencia física con logos y acceso VIP a través de 'entradas de cortesía'. Esta práctica permite que intereses privados se filtren en espacios de influencia diplomática bajo el paraguas del 'mecenazgo', difuminando la frontera entre la representación pública y el marketing empresarial.",
+    "resumen_ciudadano": "La Embajada de España en Bélgica ha firmado un acuerdo con el bufete Pérez-Llorca para que este pague 1.500€ en servicios para la Fiesta Nacional. A cambio, el Estado promocionará la marca del despacho en sus invitaciones, redes sociales y durante el evento, otorgándoles además entradas VIP para sus invitados. Es una forma de patrocinio privado de actos oficiales del Estado.",
+    "resumen_tweet": "🇪🇸 ¿Cuánto cuesta 'alquilar' el prestigio de una Embajada? Por solo 1.500€, el bufete Pérez-Llorca patrocina la Fiesta Nacional en Bruselas. A cambio: logo oficial, publicidad y pases VIP. ¿Diplomacia o escaparate? 🥂💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cuantía irrisoria (1.500€) para el impacto publicitario obtenido",
+      "Pago 'en especie' que dificulta el control contable exacto",
+      "Uso de 'entradas de cortesía' como moneda de cambio para networking privado",
+      "Falta de detalle sobre qué suministros específicos se contratan"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pérez-Llorca Abogados (Publicidad institucional a bajo coste y acceso a redes diplomáticas)",
+        "Cargos diplomáticos (Externalizan costes del evento)"
+      ],
+      "perdedores": [
+        "Contribuyentes (Pérdida de neutralidad de las instituciones públicas)",
+        "Pequeñas empresas (Sin capacidad de 'comprar' presencia en eventos de Estado)"
+      ]
+    },
+    "comunidad_autonoma": "Exterior (Bruselas, Bélgica)",
+    "tipologia": "Convenio de Colaboración / Mecenazgo",
+    "banderas_rojas": [
+      "Cuantía irrisoria (1.500€) para el impacto publicitario obtenido",
+      "Pago 'en especie' que dificulta el control contable exacto",
+      "Uso de 'entradas de cortesía' como moneda de cambio para networking privado",
+      "Falta de detalle sobre qué suministros específicos se contratan"
+    ]
+  },
+  "tweeted": false
+}
