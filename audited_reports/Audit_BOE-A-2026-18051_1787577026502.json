@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18051",
+  "timestamp": "2026-08-24T13:10:26.502Z",
+  "title": "Corrección de errores de la Resolución de 31 de julio de 2026, de la Dirección General de Justicia, de la Consellería de Presidencia, Justicia y Deportes, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo para acceso por promoción interna y sistema de concurso-oposición, convocado por Orden PJC/150/2024, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre códigos de identificación de puestos de trabajo (códigos alfanuméricos) en la Administración de Justicia de Galicia. Aunque es un trámite formal necesario, la utilización de nomenclaturas puramente administrativas (XG92...) sin traducción a términos geográficos o funcionales reales oculta el destino final de los trabajadores al escrutinio público. Este tipo de fe de erratas refleja una falta de cuidado inicial en procesos que afectan directamente a la vida laboral de los funcionarios.",
+    "resumen_ciudadano": "La Xunta de Galicia corrige fallos en la asignación de plazas para funcionarios de justicia que aprobaron promociones internas. Básicamente, se han cambiado los códigos de las plazas asignadas por otros diferentes, sin explicar si esto supone un cambio de ciudad o de oficina para los afectados.",
+    "resumen_tweet": "⚖️ ¡Fe de erratas en el #BOE! La Xunta de Galicia corrige códigos de plazas para funcionarios de Justicia. Entre códigos alfanuméricos se decide el futuro de los trabajadores. ¿Por qué tanta opacidad técnica? 🧐 #Transparencia #Justicia #Galicia",
+    "banderas_red_flags": [
+      "Opacidad en la nomenclatura de plazas",
+      "Errores administrativos en procesos selectivos críticos",
+      "Falta de transparencia geográfica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Burocracia autonómica (al corregir errores propios)",
+        "Funcionarios beneficiados por la nueva codificación"
+      ],
+      "perdedores": [
+        "Transparencia pública (lenguaje críptico)",
+        "Candidatos que dependan de la claridad en la asignación de destinos"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Opacidad en la nomenclatura de plazas",
+      "Errores administrativos en procesos selectivos críticos",
+      "Falta de transparencia geográfica"
+    ]
+  },
+  "tweeted": false
+}
