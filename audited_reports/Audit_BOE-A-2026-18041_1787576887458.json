@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18041",
+  "timestamp": "2026-08-24T13:08:07.458Z",
+  "title": "Orden PJC/884/2026, de 31 de julio, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es un acto administrativo de recursos humanos que culmina un proceso de estabilización de empleo temporal (concurso-oposición extraordinario). Si bien cumple con la legalidad, el punto quinto revela la cara amarga de la administración: el cese fulminante de interinos sin planes de reubicación explícitos. Se impone además un 'candado' de dos años (punto séptimo) que impide la movilidad geográfica de los nuevos funcionarios, limitando su derecho a la conciliación familiar a corto plazo bajo una lógica puramente organizativa.",
+    "resumen_ciudadano": "El Gobierno asigna plazas definitivas a los aprobados de las oposiciones de Auxilio Judicial de 2022. Los nuevos funcionarios deben incorporarse en septiembre de 2026. Este movimiento implica el despido automático de los trabajadores interinos que ocupaban esos puestos hasta ahora y prohíbe a los nuevos empleados pedir un traslado de ciudad durante sus primeros dos años de servicio.",
+    "resumen_tweet": "⚖️ ¡Nuevos destinos en Auxilio Judicial! El #BOE publica la adjudicación de plazas tras el proceso extraordinario. ✅ Ganadores: aprobados con plaza fija. ❌ Perdedores: interinos que cesan hoy mismo. Ojo al bloqueo de 2 años para traslados. #Justicia",
+    "banderas_red_flags": [
+      "Cese automático de personal interino sin indemnización mencionada",
+      "Prohibición de participación en concursos de traslados durante 24 meses",
+      "Adjudicación forzosa por orden de calificación en plazas no preferentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores que logran plaza fija de funcionario de carrera",
+        "Administración del Estado (reducción de tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado de sus puestos actuales",
+        "Funcionarios noveles que necesiten movilidad inmediata por razones personales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (con destinos en Madrid, Murcia, Extremadura, Castilla-La Mancha, Castilla y León, Baleares y Cataluña)",
+    "tipologia": "Nombramientos y Destinos de Función Pública",
+    "banderas_rojas": [
+      "Cese automático de personal interino sin indemnización mencionada",
+      "Prohibición de participación en concursos de traslados durante 24 meses",
+      "Adjudicación forzosa por orden de calificación en plazas no preferentes"
+    ]
+  },
+  "tweeted": false
+}
