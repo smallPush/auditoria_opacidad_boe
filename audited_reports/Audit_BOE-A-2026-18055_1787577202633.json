@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18055",
+  "timestamp": "2026-08-24T13:13:22.633Z",
+  "title": "Resolución de 31 de julio de 2026, de la Consejería de Hacienda, Justicia y Asuntos Europeos, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque la resolución cumple con los estándares de publicidad de nombres y destinos, se detecta una opacidad técnica en el adjudicatario número 4, cuyo 'Id_puesto' aparece vacío, impidiendo el rastreo presupuestario exacto de esa vacante. El texto confirma la paradoja de la 'estabilización': para dar fijeza a unos, se ejecuta el cese inmediato de personal interino (punto Quinto), lo que genera un impacto de clase dentro del propio funcionariado. Además, el carácter 'forzoso' de los destinos y la prohibición de traslado por dos años limita la conciliación familiar, un factor que suele penalizar más a las mujeres en un cuerpo mayoritariamente femenino.",
+    "resumen_ciudadano": "El Principado de Asturias asigna oficialmente los juzgados de destino a 16 nuevos funcionarios del Cuerpo de Auxilio Judicial. Los seleccionados deberán incorporarse en septiembre de 2026. Esta medida implica que los trabajadores interinos que ocupan esos puestos actualmente serán despedidos en el momento de la toma de posesión de los nuevos titulares.",
+    "resumen_tweet": "⚖️ Asturias asigna plazas de Auxilio Judicial. Ojo: un puesto aparece sin ID claro y los interinos actuales serán cesados de inmediato. La justicia se estabiliza, pero a costa de la movilidad y el empleo temporal previo. #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Falta de Id_puesto en adjudicación número 4",
+      "Cese fulminante de personal interino sin periodo de transición",
+      "Restricción de movilidad geográfica por periodo de 2 años",
+      "Existencia de plazas desiertas tras un proceso extraordinario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "16 nuevos funcionarios de carrera (estabilidad laboral)",
+        "Consejería de Hacienda y Justicia (reducción de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado (despido inmediato)",
+        "Funcionarios con deseos de traslado (plazas bloqueadas por 2 años)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Falta de Id_puesto en adjudicación número 4",
+      "Cese fulminante de personal interino sin periodo de transición",
+      "Restricción de movilidad geográfica por periodo de 2 años",
+      "Existencia de plazas desiertas tras un proceso extraordinario"
+    ]
+  },
+  "tweeted": false
+}
