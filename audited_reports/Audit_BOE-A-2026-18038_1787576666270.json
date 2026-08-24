@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18038",
+  "timestamp": "2026-08-24T13:04:26.270Z",
+  "title": "Orden PJC/881/2026, de 31 de julio, por la que se nombra personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, a las personas que superaron el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden PJC/881/2026 revela una patología burocrática crónica: una convocatoria de diciembre de 2022 se resuelve definitivamente en agosto de 2026. Esta dilación de casi cuatro años supone una barrera de clase invisible, ya que solo aquellos con pulmón financiero pueden sostener la incertidumbre de un proceso selectivo tan extendido en el tiempo. Aunque el desglose de notas es detallado, el sistema de 'concurso-oposición' extraordinario tiende a favorecer la consolidación de interinos, limitando el acceso real por mérito puro a nuevos aspirantes sin red de seguridad económica.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de los nuevos funcionarios del Cuerpo de Auxilio Judicial (el nivel básico operativo de los juzgados) tras superar un proceso que comenzó hace cuatro años. Se publican las listas definitivas por ámbitos territoriales, incluyendo valoraciones de lenguas cooficiales y méritos acumulados.",
+    "resumen_tweet": "⚖️ ¡4 años para resolver una oposición! El #BOE publica los nombramientos de Auxilio Judicial de una convocatoria de 2022. La lentitud administrativa es una barrera de clase que castiga al opositor. 🐌 #Justicia #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación temporal extrema (44 meses desde la convocatoria)",
+      "Complejidad en la baremación que dificulta la fiscalización externa",
+      "Alta dependencia del apartado 'concurso' para la nota final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con años de servicio (consolidación)",
+        "Opositores con estabilidad económica para resistir la espera",
+        "Administraciones con lenguas cooficiales (mantenimiento de requisitos lingüísticos)"
+      ],
+      "perdedores": [
+        "Nuevos aspirantes sin puntos por experiencia previa",
+        "Ciudadanos que sufren la carencia de personal en juzgados colapsados",
+        "Candidatos con pocos recursos económicos para periodos de espera largos"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Andalucía, Aragón, Asturias, Canarias y ámbito estatal)",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Dilación temporal extrema (44 meses desde la convocatoria)",
+      "Complejidad en la baremación que dificulta la fiscalización externa",
+      "Alta dependencia del apartado 'concurso' para la nota final"
+    ]
+  },
+  "tweeted": false
+}
