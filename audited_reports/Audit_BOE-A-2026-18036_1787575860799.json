@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18036",
+  "timestamp": "2026-08-24T12:51:00.799Z",
+  "title": "Resolución de 14 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolución adjudica tres puestos de 'Jefe de Sección' mediante el sistema de 'libre designación' en el Ministerio de Asuntos Exteriores. Aunque legal, este método es el grado más bajo de meritocracia competitiva, permitiendo la elección discrecional ('a dedo') para funciones que, por su nivel (20 y 24) y naturaleza técnica (personal y contratos de seguridad), deberían regirse por concurso de méritos. El uso de la libre designación en puestos intermedios de la Administración General del Estado es una red flag histórica de colonización política de la estructura técnica.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ha cubierto tres plazas de nivel medio-alto sin un concurso público de méritos, utilizando la libre elección directa. Los seleccionados gestionarán áreas críticas como la seguridad y el personal de la Escuela Diplomática y los servicios exteriores.",
+    "resumen_tweet": "🚨 ¡Dedo detectado en el @MAECgob! Tres puestos de gestión técnica (niveles 20-24) adjudicados por libre designación. ¿Meritocracia o confianza política? La opacidad de la 'libre elección' sigue en el #BOE. #Transparencia #Opacidad #España 🇪🇸⚖️",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos técnicos no directivos",
+      "Falta de desglose de méritos específicos de los candidatos en el documento",
+      "Adjudicación de gestión de contratos de seguridad bajo criterio discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los tres funcionarios seleccionados directamente",
+        "La cúpula del Ministerio por asegurar personal de absoluta confianza en áreas de gestión interna"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos bloqueados por el sistema de libre designación",
+        "Ciudadanía, por la reducción de la neutralidad administrativa en la gestión de fondos y seguridad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos técnicos no directivos",
+      "Falta de desglose de méritos específicos de los candidatos en el documento",
+      "Adjudicación de gestión de contratos de seguridad bajo criterio discrecional"
+    ]
+  },
+  "tweeted": false
+}
