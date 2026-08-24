@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18039",
+  "timestamp": "2026-08-24T13:06:48.733Z",
+  "title": "Orden PJC/882/2026, de 31 de julio, por la que se nombra personal funcionario de carrera del Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, a las personas que superaron el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La orden formaliza el acceso a la función pública de carrera mediante un proceso 'extraordinario'. Este término suele encubrir procesos de estabilización para reducir la temporalidad abusiva en la administración. Aunque se detallan puntuaciones, el peso de la 'fase de concurso' (méritos) frente a la 'oposición' (examen) puede actuar como una barrera de entrada para nuevos aspirantes sin experiencia previa, favoreciendo a quienes ya estaban dentro del sistema de forma interina.",
+    "resumen_ciudadano": "Se nombra oficialmente a los nuevos funcionarios del Cuerpo de Gestión Procesal y Administrativa en varias comunidades. Es el cierre de una convocatoria de 2022 diseñada para convertir trabajadores temporales en fijos. Los listados muestran una clara mayoría de mujeres accediendo a estos puestos de nivel medio en la justicia española.",
+    "resumen_tweet": "⚖️ El #BOE publica nuevos funcionarios de Justicia. Tras el término 'extraordinario' se esconde la estabilización de interinos. Ganadores: la veteranía y la feminización de la base judicial. ¿Mérito puro o premio a la permanencia? #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Proceso selectivo extraordinario (posible trato de favor a interinos)",
+      "Diferencia significativa de peso entre fase concurso y oposición en algunos candidatos",
+      "Opacidad sobre el coste salarial total a largo plazo para el Estado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres (clara mayoría en los listados)",
+        "Personal interino con años de experiencia",
+        "Sindicatos de la administración pública"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin puntos por experiencia previa",
+        "Contribuyentes (compromiso de gasto estructural de por vida)",
+        "Principios de igualdad y mérito en su estado puro"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Andalucía, Asturias, Canarias, Cataluña)",
+    "tipologia": "Nombramiento de personal funcionario de carrera",
+    "banderas_rojas": [
+      "Proceso selectivo extraordinario (posible trato de favor a interinos)",
+      "Diferencia significativa de peso entre fase concurso y oposición en algunos candidatos",
+      "Opacidad sobre el coste salarial total a largo plazo para el Estado"
+    ]
+  },
+  "tweeted": false
+}
