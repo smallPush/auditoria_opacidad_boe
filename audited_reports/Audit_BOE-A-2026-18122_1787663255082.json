@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18122",
+  "timestamp": "2026-08-25T13:07:35.082Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de L'Eliana (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa un proceso de promocion interna para la Policia Local con caracteristicas de alta opacidad administrativa. Primero, la existencia de una rectificacion de las bases meses despues de su publicacion original sugiere posibles ajustes ad hoc. Segundo, el plazo de presentacion de solicitudes se reduce a solo 10 dias habiles, la mitad del estandar habitual de 20 dias, lo que dificulta la preparacion de documentos para aspirantes que no esten prevenidos. Este diseño administrativo suele favorecer a perfiles ya seleccionados extraoficialmente.",
+    "resumen_ciudadano": "El Ayuntamiento de L'Eliana convoca dos plazas de Oficial de Policia Local exclusivamente para quienes ya estan dentro (promocion interna). El proceso es sospechoso debido a que cambiaron las reglas a mitad de camino (rectificacion de bases) y dan un plazo extremadamente corto de 10 dias para apuntarse.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en L'Eliana! 👮‍♂️ 2 plazas de Oficial de Policia con bases rectificadas y solo 10 dias para solicitar. ¿Proceso abierto o traje a medida? La administracion local sigue bajo la lupa. 🧐 #BOE #Opacidad #Transparencia #LEliana",
+    "banderas_red_flags": [
+      "Plazo de inscripcion reducido a 10 dias",
+      "Rectificacion de bases previa a la convocatoria",
+      "Sistema de concurso-oposicion en promocion interna (discrecionalidad)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con informacion previa",
+        "Beneficiarios de la rectificacion de bases"
+      ],
+      "perdedores": [
+        "Agentes sin circulo de influencia local",
+        "Transparencia institucional",
+        "Ciudadania que financia procesos potencialmente dirigidos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico Local",
+    "banderas_rojas": [
+      "Plazo de inscripcion reducido a 10 dias",
+      "Rectificacion de bases previa a la convocatoria",
+      "Sistema de concurso-oposicion en promocion interna (discrecionalidad)"
+    ]
+  },
+  "tweeted": false
+}
