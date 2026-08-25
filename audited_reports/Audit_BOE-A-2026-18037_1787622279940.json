@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18037",
+  "timestamp": "2026-08-25T01:44:39.940Z",
+  "title": "Resolución de 19 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 20 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion', una figura legal que permite la adjudicacion discrecional de puestos basada en la confianza y no estrictamente en el merito competitivo. Este sistema es una via comun para la 'dedocracia' institucional en el Ministerio de Asuntos Exteriores, donde destinos internacionales (Jamaica y Letonia) con altos complementos salariales y beneficios se asignan sin exponer publicamente la baremacion comparativa entre candidatos.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado a dos nuevos cancilleres para las embajadas de Jamaica y Letonia mediante el sistema de libre designacion. Esto significa que los puestos han sido elegidos directamente por la administracion en lugar de mediante un concurso de meritos puro, lo que dificulta saber si los elegidos eran realmente los mas capacitados o simplemente los de mayor confianza politica.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' diplomático en el #BOE. Plazas de canciller en Jamaica y Letonia adjudicadas por libre designación. ¿Meritocracia o confianza política? La opacidad de la 'libre designación' sigue imperando en Exteriores. 🕵️‍♂️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designacion (discrecionalidad)",
+      "Puestos en el extranjero con opacidad en los beneficios adicionales",
+      "Resolucion parcial de convocatoria (fragmentacion de adjudicaciones)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Izquierdo Dominguez (puesto en Kingston)",
+        "Ariadna Pellitero Sanchez (puesto en Riga)",
+        "Cúpula del Ministerio (mantiene control discrecional sobre el personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores meritos no seleccionados",
+        "Ciudadania (por la falta de transparencia en la gestion de personal diplomatico)",
+        "Sistema de meritocracia publica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del sistema de libre designacion (discrecionalidad)",
+      "Puestos en el extranjero con opacidad en los beneficios adicionales",
+      "Resolucion parcial de convocatoria (fragmentacion de adjudicaciones)"
+    ]
+  },
+  "tweeted": false
+}
