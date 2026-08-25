@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18128",
+  "timestamp": "2026-08-25T13:14:04.963Z",
+  "title": "Resolución de 18 de agosto de 2026, de la Diputación Provincial de Granada, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria de la Diputación de Granada para gestión del agua utiliza la técnica de la remisión externa: el anuncio en el BOE es un mero esqueleto que redirige al Boletín Provincial publicado con dos meses de anterioridad (junio de 2026). Esta fragmentación informativa dificulta la fiscalización ciudadana sobre los criterios de selección. Aunque se tramita bajo la Delegación de Transparencia, la demora entre la publicación provincial y la nacional puede favorecer a candidatos locales que ya conocían las bases, contraviniendo el espíritu de igualdad de oportunidades del turno libre.",
+    "resumen_ciudadano": "Se convocan 4 plazas de Auxiliar Técnico Superior para la gestión del agua en Granada. El proceso es por oposición libre. Los interesados tienen 20 días para inscribirse, pero deben consultar las bases detalladas en el Boletín Oficial de la Provincia de Granada del 16 de junio para conocer los requisitos específicos y el temario.",
+    "resumen_tweet": "🔍 Granada convoca 4 plazas de gestión de agua. Pese a firmarlo la delegada de 'Transparencia', la info clave se queda en un boletín de hace 2 meses. ¿Acceso real o burocracia selectiva? 💧💼 #BOE #Opacidad #Transparencia #Granada #Oposiciones2026",
+    "banderas_red_flags": [
+      "Remisión a bases publicadas 70 días antes del anuncio en el BOE",
+      "Falta de detalle sobre el coste presupuestario de las nuevas plazas",
+      "Opacidad en la descripción de las funciones específicas de 'cometidos especiales'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores locales con acceso previo al BOP de Granada",
+        "Academias especializadas en oposiciones de la administración local",
+        "Estructura técnica de gestión hídrica provincial"
+      ],
+      "perdedores": [
+        "Opositores de otras provincias por menor tiempo de reacción",
+        "Ciudadanos que buscan transparencia directa en el gasto de personal",
+        "Candidatos sin formación técnica superior específica"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Remisión a bases publicadas 70 días antes del anuncio en el BOE",
+      "Falta de detalle sobre el coste presupuestario de las nuevas plazas",
+      "Opacidad en la descripción de las funciones específicas de 'cometidos especiales'"
+    ]
+  },
+  "tweeted": false
+}
