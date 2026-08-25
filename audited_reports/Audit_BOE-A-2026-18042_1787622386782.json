@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18042",
+  "timestamp": "2026-08-25T01:46:26.782Z",
+  "title": "Orden PJC/885/2026, de 31 de julio, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Esta orden representa la culminación de un proceso selectivo extraordinario de estabilización, una respuesta tardía al abuso de la interinidad en la Administración de Justicia española. El uso del término 'extraordinario' encubre una gestión de recursos humanos que ha dependido de personal precario durante años. Existe un impacto de género evidente, con una mayoría de mujeres en el listado de adjudicatarios, lo que refleja la feminización de los cuerpos de tramitación. La rigidez del sistema se manifiesta en el apartado séptimo, que prohíbe la movilidad geográfica por concurso de traslados durante dos años, limitando la conciliación de los nuevos funcionarios. El sistema de 'concurso-oposición' en estos procesos suele favorecer a quienes ya están dentro del sistema (interinos), cerrando la puerta a talento externo sin experiencia previa en la administración pública.",
+    "resumen_ciudadano": "Se asignan oficialmente los puestos de trabajo a 28 nuevos funcionarios de carrera del Cuerpo de Tramitación Procesal tras superar sus exámenes. El documento detalla los plazos de incorporación (20 días desde el 1 de septiembre) y las reglas para aquellos que ya tenían plaza en otros cuerpos judiciales. Se confirma el despido de los interinos que ocupaban estas plazas actualmente.",
+    "resumen_tweet": "🏛️ Nuevos destinos en Justicia: El #BOE adjudica plazas fijas tras un proceso 'extraordinario'. ⚖️ Estabilidad para 28 personas, pero cese inmediato para los interinos actuales. La administración intenta sanear su precariedad. #Justicia #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Cese automático de personal interino por toma de posesión del titular",
+      "Restricción de movilidad geográfica (concursos de traslados) durante 2 años",
+      "Uso de procesos selectivos extraordinarios para corregir retrasos estructurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "28 nuevos funcionarios de carrera (estabilidad laboral)",
+        "Ministerio de Justicia (reducción estadística de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino cesado sin indemnización clara en este texto",
+        "Aspirantes libres sin experiencia previa en la administración (barrera por concurso-oposición)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (Illes Balears, Castilla-La Mancha, Castilla y León, Murcia, Extremadura)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Cese automático de personal interino por toma de posesión del titular",
+      "Restricción de movilidad geográfica (concursos de traslados) durante 2 años",
+      "Uso de procesos selectivos extraordinarios para corregir retrasos estructurales"
+    ]
+  },
+  "tweeted": false
+}
