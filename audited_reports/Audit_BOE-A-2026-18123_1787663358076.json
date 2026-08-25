@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18123",
+  "timestamp": "2026-08-25T13:09:18.076Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de El Espinar (Segovia), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución se ampara en la promoción interna para restringir el acceso a la función pública de gestión, utilizando el sistema de concurso-oposición que pondera méritos previos, lo cual suele blindar las plazas para personal que ya desempeña funciones similares. Aunque legal, esta práctica en municipios de tamaño medio puede fomentar la endogamia administrativa y limitar la entrada de perfiles externos con nuevas capacidades técnicas. La opacidad reside en la fragmentación de la información, obligando al ciudadano a consultar el BOP de Segovia para conocer los criterios de baremación reales.",
+    "resumen_ciudadano": "El Ayuntamiento de El Espinar convoca dos plazas de técnico de gestión reservadas exclusivamente para sus actuales trabajadores. Al ser promoción interna y concurso-oposición, el proceso está diseñado para que empleados de menor rango asciendan, cerrando la puerta a cualquier ciudadano externo interesado en trabajar para el municipio.",
+    "resumen_tweet": "🚨 ¡Ojo en El Espinar! 2 plazas de gestión convocadas SOLO para promoción interna. El sistema de concurso-oposición suele blindar puestos para los de siempre. ¿Transparencia o endogamia administrativa? 🧐📉 #BOE #Opacidad #Transparencia #Segovia",
+    "banderas_red_flags": [
+      "Acceso restringido por promoción interna",
+      "Falta de desglose presupuestario en el extracto",
+      "Sistema de concurso-oposición (subjetividad en méritos)",
+      "Fragmentación informativa (remisión a boletín provincial)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral o funcionario actual del Ayuntamiento",
+        "Estructuras sindicales locales",
+        "Administración municipal (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores externos de gestión administrativa",
+        "Jóvenes graduados sin experiencia previa en la administración",
+        "Parados de larga duración del sector administrativo"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Acceso restringido por promoción interna",
+      "Falta de desglose presupuestario en el extracto",
+      "Sistema de concurso-oposición (subjetividad en méritos)",
+      "Fragmentación informativa (remisión a boletín provincial)"
+    ]
+  },
+  "tweeted": false
+}
