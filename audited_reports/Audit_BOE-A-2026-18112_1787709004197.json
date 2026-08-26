@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18112",
+  "timestamp": "2026-08-26T01:50:04.197Z",
+  "title": "Resolución de 15 de julio de 2026, de la Secretaría de Estado de Seguridad, por la que se declara la pérdida de la condición de funcionario del Subinspector de la Policía Nacional don Diego Arias García.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion expone un caso de corrupcion sistematica dentro de las fuerzas de seguridad. Se trata de un Subinspector involucrado en el narcotrafico a gran escala y crimen organizado. Llama la atencion el desfase temporal: la sentencia firme es de octubre de 2025 y la perdida de condicion de funcionario no se publica hasta agosto de 2026, lo que indica una lentitud administrativa en la purga de elementos criminales del cuerpo. La cuantía de la multa (3,3 millones de euros) sugiere una operacion de gran envergadura donde el funcionario uso informacion privilegiada (revelacion de secretos) para lucrarse.",
+    "resumen_ciudadano": "Se oficializa la expulsion de la Policia Nacional de Diego Arias Garcia, Subinspector en San Sebastian, tras ser condenado por pertenencia a organizacion criminal, trafico de drogas, cohecho y revelacion de secretos. Las penas suman mas de 12 años de prision y una multa millonaria.",
+    "resumen_tweet": "🚨 Alerta de Corrupción en el #BOE: Expulsado un Subinspector de Policía por pertenencia a banda criminal, cohecho y narcotráfico. Condena de 9 años y multa de 3,3M€. ¿Quién vigila a los vigilantes? #Opacidad #Transparencia #Seguridad 👮‍♂️🛑",
+    "banderas_red_flags": [
+      "Retraso de casi un año en la ejecucion administrativa de la expulsion",
+      "Gravedad extrema de los delitos: Narcotrafico y Organizacion Criminal",
+      "Uso de cargo publico para delinquir (Cohecho y Secretos)",
+      "Multa economica excepcionalmente alta (3.325.000€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado de Derecho (por la condena final)",
+        "Seguridad Ciudadana (al eliminar un agente corrupto)"
+      ],
+      "perdedores": [
+        "Imagen institucional de la Policia Nacional",
+        "Contribuyentes (por el coste de formacion y salario de un agente criminal)",
+        "Confianza ciudadana en las instituciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ministerio del Interior)",
+    "tipologia": "Personal / Disciplinaria",
+    "banderas_rojas": [
+      "Retraso de casi un año en la ejecucion administrativa de la expulsion",
+      "Gravedad extrema de los delitos: Narcotrafico y Organizacion Criminal",
+      "Uso de cargo publico para delinquir (Cohecho y Secretos)",
+      "Multa economica excepcionalmente alta (3.325.000€)"
+    ]
+  },
+  "tweeted": false
+}
