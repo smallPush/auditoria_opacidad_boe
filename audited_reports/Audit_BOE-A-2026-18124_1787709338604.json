@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18124",
+  "timestamp": "2026-08-26T01:55:38.604Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Xàbia/Jávea (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion del Ayuntamiento de Xabia para 17 plazas de administrativo se blinda bajo el sistema de promocion interna y concurso-oposicion. Este mecanismo, aunque legal, actua habitualmente como una barrera de entrada para el talento externo, priorizando la consolidacion de la plantilla actual. La brevedad del anuncio en el BOE y la remision a las bases en el boletin provincial (BOP) dificulta el escrutinio publico inmediato sobre los baremos de meritos, los cuales suelen ser el punto ciego donde se premia la antiguedad sobre la capacidad tecnica. No hay rastro de plazas de acceso libre, lo que indica una gestion cerrada de la funcion publica local.",
+    "resumen_ciudadano": "El Ayuntamiento de Xabia ha convocado 17 plazas de administrativo exclusivamente para empleados que ya forman parte del personal municipal (promocion interna). No se permiten candidatos externos. Se utilizara el sistema de puntos por experiencia y examen, lo que refuerza la posicion de quienes ya estan dentro de la administracion, cerrando la puerta a jovenes opositores o profesionales externos de la comarca.",
+    "resumen_tweet": "🚨 El Ayuntamiento de Xabia convoca 17 plazas de administrativo, pero ¡OJO! Solo para promocion interna 🛑. El sistema de concurso-oposicion limita el acceso al talento externo y refuerza el hermetismo institucional. #BOE #Opacidad #Transparencia 🏛️🔎",
+    "banderas_red_flags": [
+      "Exclusividad de promocion interna",
+      "Uso de concurso-oposicion como barrera de entrada",
+      "Opacidad en el desglose de meritos en el anuncio principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal administrativo actual del Ayuntamiento de Xabia",
+        "Interinos con antiguedad"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Jovenes graduados en Alicante",
+        "Ciudadanos en busca de primer empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Empleo Publico / Administracion Local",
+    "banderas_rojas": [
+      "Exclusividad de promocion interna",
+      "Uso de concurso-oposicion como barrera de entrada",
+      "Opacidad en el desglose de meritos en el anuncio principal"
+    ]
+  },
+  "tweeted": false
+}
