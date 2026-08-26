@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18118",
+  "timestamp": "2026-08-26T01:53:57.490Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Llíria (Valencia/València), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La convocatoria para una plaza de Alguacil/a en Llíria utiliza el sistema de 'concurso-oposición', lo que permite que la experiencia previa (fase de concurso) puntúe significativamente, favoreciendo potencialmente a personal interino que ya presta servicios en el consistorio. Lo más alarmante es el plazo de presentación de tan solo diez días hábiles, una ventana temporal muy reducida que dificulta la libre concurrencia y la preparación de documentación para aspirantes externos. Además, la resolución se firma y publica en agosto, periodo de menor vigilancia ciudadana.",
+    "resumen_ciudadano": "El Ayuntamiento de Llíria convoca una plaza de Alguacil. El proceso no será solo por examen, sino que también contará la experiencia previa. Los interesados tienen un plazo muy corto, de solo 10 días hábiles desde mañana, para inscribirse.",
+    "resumen_tweet": "📢 ¡Ojo en Llíria! Solo 10 días para optar a plaza de Alguacil/a. El sistema de concurso-oposición y el plazo exprés en pleno agosto suelen favorecer a los de 'casa'. ¿Transparencia real o trámite a medida? 🧐 #BOE #Opacidad #Transparencia #Llíria",
+    "banderas_red_flags": [
+      "Plazo de solicitud reducido (10 días hábiles)",
+      "Fase de concurso para puesto de nivel básico",
+      "Tramitación en periodo estival (agosto)",
+      "Opacidad en el desglose de méritos en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Llíria",
+        "Candidatos con información privilegiada previa"
+      ],
+      "perdedores": [
+        "Opositores externos de turno libre",
+        "Ciudadanos que requieren más de 10 días para trámites burocráticos"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Plazo de solicitud reducido (10 días hábiles)",
+      "Fase de concurso para puesto de nivel básico",
+      "Tramitación en periodo estival (agosto)",
+      "Opacidad en el desglose de méritos en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
