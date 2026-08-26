@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18113",
+  "timestamp": "2026-08-26T01:48:58.869Z",
+  "title": "Resolución de 14 de agosto de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en la Dirección General de la Policía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza la modalidad de 'concurso específico' para 94 plazas, lo cual otorga a la administración un margen de discrecionalidad superior al concurso ordinario. Aunque se invoca el IV Plan de Igualdad de Género, la barrera real se encuentra en la Segunda Fase de valoración, donde los 'méritos específicos' y perfiles formativos alojados en servidores externos (fuera del texto del BOE) pueden actuar como filtros de opacidad para beneficiar a candidatos preseleccionados internamente.",
+    "resumen_ciudadano": "El Ministerio del Interior convoca 94 puestos en la Policía Nacional para funcionarios. Aunque el proceso parece regirse por méritos, la división en dos fases con puntuaciones mínimas y la dependencia de cursos de formación internos muy específicos dificulta que funcionarios de otros departamentos puedan competir en igualdad de condiciones, favoreciendo el endogamisno institucional.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Interior convoca 94 plazas en la Policía. El uso de 'méritos específicos' y cursos solo consultables en su web externa dificulta el control social y la movilidad real. ¿Mérito o dedazo encubierto? 🤔💼 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de concurso específico en lugar de ordinario",
+      "Remisión a listados de cursos en URL externa no estática en el documento",
+      "Fase II con carácter eliminatorio basada en méritos técnicos subjetivos",
+      "Restricción de movilidad para personal de la AEAT"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios ya integrados en la estructura de la Dirección General de la Policía",
+        "Personal con acceso privilegiado a la formación interna del Ministerio del Interior"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera de otros Ministerios con formación generalista",
+        "Personal de la Agencia Tributaria (movilidad restringida)",
+        "Candidatos externos al círculo de confianza del departamento"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Función Pública",
+    "banderas_rojas": [
+      "Uso de concurso específico en lugar de ordinario",
+      "Remisión a listados de cursos en URL externa no estática en el documento",
+      "Fase II con carácter eliminatorio basada en méritos técnicos subjetivos",
+      "Restricción de movilidad para personal de la AEAT"
+    ]
+  },
+  "tweeted": false
+}
