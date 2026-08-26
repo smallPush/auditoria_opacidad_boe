@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18203",
+  "timestamp": "2026-08-26T12:56:03.836Z",
+  "title": "Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la Ley de Seguridad Nacional para centralizar recursos sin especificar cuantías económicas ni límites temporales claros. Se observa una 'militarización' de la gestión migratoria al invocar la Seguridad Nacional para lo que esencialmente es una crisis de servicios sociales y acogida. La vaguedad en términos como 'recursos necesarios' o 'capacidades ordinarias' del Ministerio de Hacienda y Economía abre la puerta a gastos discrecionales bajo el paraguas de la seguridad del Estado, dificultando la fiscalización ciudadana inmediata sobre el coste real de estas operaciones.",
+    "resumen_ciudadano": "El Gobierno ha declarado formalmente que la situación migratoria en Ceuta es un asunto de Seguridad Nacional. Esto le permite movilizar de forma exprés recursos de todos los ministerios, incluyendo terrenos militares, centros deportivos públicos y fondos de diversos departamentos para controlar la frontera, gestionar el retorno de migrantes y mantener el orden público en la ciudad autónoma.",
+    "resumen_tweet": "🚨 El Gobierno activa la Ley de Seguridad Nacional en Ceuta. Se autoriza el uso de terrenos militares y polideportivos para la crisis migratoria. Mucho despliegue pero CERO detalle sobre el coste total para el contribuyente. #BOE #Opacidad #Ceuta",
+    "banderas_red_flags": [
+      "Ausencia total de memoria económica o presupuesto estimado",
+      "Uso de términos genéricos como 'recursos necesarios' que permiten discrecionalidad presupuestaria",
+      "Conversión de espacios civiles (polideportivos) en centros de gestión de crisis",
+      "Supeditación de la atención humanitaria a la autoridad funcional de Seguridad Nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior y Defensa (mayor mando y control)",
+        "Estructuras de seguridad del Estado",
+        "Administración central (centralización de competencias)"
+      ],
+      "perdedores": [
+        "Ciudadanos de Ceuta (pérdida de uso de infraestructuras deportivas)",
+        "Menores migrantes (gestión bajo óptica de seguridad y no puramente social)",
+        "Transparencia pública (gastos sin desglosar)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Seguridad Nacional / Migración",
+    "banderas_rojas": [
+      "Ausencia total de memoria económica o presupuesto estimado",
+      "Uso de términos genéricos como 'recursos necesarios' que permiten discrecionalidad presupuestaria",
+      "Conversión de espacios civiles (polideportivos) en centros de gestión de crisis",
+      "Supeditación de la atención humanitaria a la autoridad funcional de Seguridad Nacional"
+    ]
+  },
+  "tweeted": false
+}
