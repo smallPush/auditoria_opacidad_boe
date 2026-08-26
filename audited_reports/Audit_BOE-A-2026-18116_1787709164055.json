@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18116",
+  "timestamp": "2026-08-26T01:52:44.055Z",
+  "title": "Resolución de 18 de agosto de 2026, del Consorcio de Prevención y Extinción de Incendios en la Provincia de Badajoz, de la Diputación de Badajoz (Badajoz), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una convocatoria masiva (58 plazas) para el rango de Cabo Bombero/a mediante el sistema de 'concurso'. Este método, a diferencia de la oposición, prioriza los méritos previos y la antigüedad sobre el examen de conocimientos, lo que suele ser un indicativo de procesos de estabilización de personal interino ya presente en la administración. La transparencia es parcial, ya que el BOE actúa meramente como tablón de anuncios, obligando al ciudadano a acudir al Boletín Provincial para conocer los criterios de baremación reales.",
+    "resumen_ciudadano": "La Diputación de Badajoz abre el plazo para cubrir 58 puestos de Cabo de Bomberos. El proceso se realizará por concurso de méritos, lo que favorece a quienes ya tienen experiencia en el consorcio. Los interesados tienen 15 días hábiles para presentar solicitudes tras esta publicación.",
+    "resumen_tweet": "🚒 58 plazas de Cabo Bombero/a en #Badajoz vía concurso. El sistema de méritos suele blindar a quienes ya están dentro. ¿Oportunidad real o proceso de estabilización encubierto? 🔍 Consulta el BOP para ver las bases. #BOE #Extremadura #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso (sin examen eliminatorio)",
+      "Falta de desglose de criterios en el anuncio nacional",
+      "Concentración elevada de plazas para un mando intermedio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Consorcio de Badajoz",
+        "Sindicatos con acuerdos de estabilización",
+        "Mandos intermedios actuales"
+      ],
+      "perdedores": [
+        "Opositores externos con alta cualificación pero poca antigüedad",
+        "Bomberos de otras regiones sin puntos por servicios prestados en Badajoz"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de selección por concurso (sin examen eliminatorio)",
+      "Falta de desglose de criterios en el anuncio nacional",
+      "Concentración elevada de plazas para un mando intermedio"
+    ]
+  },
+  "tweeted": false
+}
