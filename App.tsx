@@ -124,9 +124,15 @@ const App: React.FC = () => {
   };
 
   const loadHistory = async () => {
-    const data = await getAuditHistory();
-    setHistory(data);
-    setIsHistoryLoaded(true);
+    try {
+      const data = await getAuditHistory();
+      setHistory(data);
+    } catch (err) {
+      console.error("Failed to load history:", err);
+      setHistory([]);
+    } finally {
+      setIsHistoryLoaded(true);
+    }
   };
 
   const toggleLang = () => setLang((l) => (l === "es" ? "en" : "es"));

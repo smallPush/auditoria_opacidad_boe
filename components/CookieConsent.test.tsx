@@ -1,4 +1,4 @@
-import { expect, test, describe, mock, afterEach, beforeEach } from "bun:test";
+import { expect, test, describe, spyOn, afterEach, beforeEach } from "bun:test";
 
 import { render, screen, fireEvent, cleanup } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
@@ -6,22 +6,24 @@ import CookieConsent from "./CookieConsent";
 import { translations } from "../translations";
 import { STORAGE_KEYS } from "../constants";
 
-// Mock localStorage
-const localStorageMock = (() => {
-  let store: Record<string, string> = {};
-  return {
-    getItem: mock((key: string) => store[key] || null),
-    setItem: mock((key: string, value: string) => {
-      store[key] = value.toString();
-    }),
-    removeItem: mock((key: string) => {
-      delete store[key];
-    }),
-    clear: mock(() => {
-      store = {};
-    }),
-  };
-})();
+// Storage mock without destroying functions on mock.restore()
+const store: Record<string, string> = {};
+const localStorageMock = {
+  getItem: (key: string) => store[key] || null,
+  setItem: (key: string, value: string) => {
+    store[key] = value.toString();
+  },
+  removeItem: (key: string) => {
+    delete store[key];
+  },
+  clear: () => {
+    for (const key in store) delete store[key];
+  },
+  get length() {
+    return Object.keys(store).length;
+  },
+  key: (index: number) => Object.keys(store)[index] || null,
+};
 
 Object.defineProperty(global, 'localStorage', {
   value: localStorageMock,
@@ -38,8 +40,6 @@ describe("CookieConsent Component", () => {
 
   beforeEach(() => {
     localStorageMock.clear();
-    localStorageMock.getItem.mockClear();
-    localStorageMock.setItem.mockClear();
   });
 
   afterEach(() => {
@@ -47,13 +47,15 @@ describe("CookieConsent Component", () => {
   });
 
   test("renders correctly when no consent is in localStorage", () => {
+    const getItemSpy = spyOn(localStorageMock, "getItem");
     render(
       <MemoryRouter>
         <CookieConsent t={t} />
       </MemoryRouter>
     );
 
-    expect(localStorageMock.getItem).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    expect(getItemSpy).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    getItemSpy.mockRestore();
 
     // Check if texts are rendered
     expect(screen.getByText(t.cookieTitle)).toBeTruthy();
@@ -66,6 +68,7 @@ describe("CookieConsent Component", () => {
   });
 
   test("does not render when consent is already granted", () => {
+    const getItemSpy = spyOn(localStorageMock, "getItem");
     localStorageMock.setItem(STORAGE_KEYS.COOKIE_CONSENT, 'true');
 
     const { container } = render(
@@ -74,11 +77,13 @@ describe("CookieConsent Component", () => {
       </MemoryRouter>
     );
 
-    expect(localStorageMock.getItem).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    expect(getItemSpy).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    getItemSpy.mockRestore();
     expect(container.firstChild).toBeNull();
   });
 
   test("does not render when consent is already rejected", () => {
+    const getItemSpy = spyOn(localStorageMock, "getItem");
     localStorageMock.setItem(STORAGE_KEYS.COOKIE_CONSENT, 'false');
 
     const { container } = render(
@@ -87,11 +92,13 @@ describe("CookieConsent Component", () => {
       </MemoryRouter>
     );
 
-    expect(localStorageMock.getItem).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    expect(getItemSpy).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT);
+    getItemSpy.mockRestore();
     expect(container.firstChild).toBeNull();
   });
 
   test("sets localStorage and hides when accept is clicked", () => {
+    const setItemSpy = spyOn(localStorageMock, "setItem");
     render(
       <MemoryRouter>
         <CookieConsent t={t} />
@@ -101,13 +108,15 @@ describe("CookieConsent Component", () => {
     const acceptButton = screen.getByText(t.cookieAccept);
     fireEvent.click(acceptButton);
 
-    expect(localStorageMock.setItem).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT, 'true');
+    expect(setItemSpy).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT, 'true');
+    setItemSpy.mockRestore();
 
     // Component should be hidden after click
     expect(screen.queryByText(t.cookieTitle)).toBeNull();
   });
 
   test("sets localStorage and hides when reject is clicked", () => {
+    const setItemSpy = spyOn(localStorageMock, "setItem");
     render(
       <MemoryRouter>
         <CookieConsent t={t} />
@@ -117,7 +126,8 @@ describe("CookieConsent Component", () => {
     const rejectButton = screen.getByText(t.cookieReject);
     fireEvent.click(rejectButton);
 
-    expect(localStorageMock.setItem).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT, 'false');
+    expect(setItemSpy).toHaveBeenCalledWith(STORAGE_KEYS.COOKIE_CONSENT, 'false');
+    setItemSpy.mockRestore();
 
     // Component should be hidden after click
     expect(screen.queryByText(t.cookieTitle)).toBeNull();

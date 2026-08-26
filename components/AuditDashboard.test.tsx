@@ -1,20 +1,11 @@
-import { expect, test, describe, mock, beforeEach, afterEach } from "bun:test";
+import { expect, test, describe, spyOn, mock, beforeEach, afterEach } from "bun:test";
 import React from "react";
 import { render, screen, fireEvent, waitFor } from "@testing-library/react";
 import AuditDashboard from "./AuditDashboard";
 import { translations } from "../translations";
 import { BOEAuditResponse } from "../types";
-
-// Mock services
-const mockPostTweet = mock();
-mock.module("../services/twitterService", () => ({
-  postTweet: mockPostTweet,
-}));
-
-const mockSaveAuditToDB = mock();
-mock.module("../services/supabaseService", () => ({
-  saveAuditToDB: mockSaveAuditToDB,
-}));
+import * as twitterService from "../services/twitterService";
+import * as supabaseService from "../services/supabaseService";
 
 // Mock recharts
 mock.module("recharts", () => ({
@@ -34,9 +25,6 @@ describe("AuditDashboard Component - Error Paths", () => {
     alertMock = mock();
     global.console.error = consoleErrorMock;
     global.alert = alertMock;
-
-    mockPostTweet.mockClear();
-    mockSaveAuditToDB.mockClear();
   });
 
   afterEach(() => {
@@ -59,7 +47,10 @@ describe("AuditDashboard Component - Error Paths", () => {
       tweet_sent: false,
     };
 
-    mockPostTweet.mockRejectedValueOnce(new Error("Network failure"));
+    const postTweetSpy = spyOn(twitterService, "postTweet").mockRejectedValueOnce(
+      new Error("Network failure")
+    );
+    const saveAuditSpy = spyOn(supabaseService, "saveAuditToDB");
 
     render(
       <AuditDashboard
@@ -75,11 +66,14 @@ describe("AuditDashboard Component - Error Paths", () => {
     fireEvent.click(postTweetButton);
 
     await waitFor(() => {
-      expect(mockPostTweet).toHaveBeenCalled();
+      expect(postTweetSpy).toHaveBeenCalled();
     });
 
     expect(consoleErrorMock).toHaveBeenCalled();
     expect(alertMock).toHaveBeenCalledWith("Error posting tweet: Network failure");
-    expect(mockSaveAuditToDB).not.toHaveBeenCalled();
+    expect(saveAuditSpy).not.toHaveBeenCalled();
+
+    postTweetSpy.mockRestore();
+    saveAuditSpy.mockRestore();
   });
 });

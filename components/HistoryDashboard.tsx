@@ -42,17 +42,13 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
 
   React.useEffect(() => {
     const tagsFromUrl = searchParams.get('tags');
-    if (tagsFromUrl) {
-      setSelectedTags(tagsFromUrl.split(',').filter(Boolean));
-    } else {
-      setSelectedTags([]);
-    }
+    setSelectedTags(tagsFromUrl ? tagsFromUrl.split(',').filter(Boolean) : []);
 
     const minFromUrl = searchParams.get('min');
-    if (minFromUrl) setMinTransparency(parseInt(minFromUrl));
+    setMinTransparency(minFromUrl !== null ? (parseInt(minFromUrl, 10) || 0) : 0);
 
     const maxFromUrl = searchParams.get('max');
-    if (maxFromUrl) setMaxTransparency(parseInt(maxFromUrl));
+    setMaxTransparency(maxFromUrl !== null ? (parseInt(maxFromUrl, 10) ?? 100) : 100);
   }, [searchParams]);
 
   const handleFilterChange = (updates: { tags?: string[], min?: number, max?: number }) => {
@@ -87,24 +83,31 @@ const HistoryDashboard: React.FC<Props> = ({ history, onImport, lang, isLoggedIn
   const allTags = React.useMemo(() => {
     const tags = new Set<string>();
     history.forEach(item => {
-      if (item.audit.comunidad_autonoma) tags.add(item.audit.comunidad_autonoma);
-      if (item.audit.tipologia) tags.add(item.audit.tipologia);
-      // We could add flags too, but let's stick to categories for now to keep list manageable
+      if (item?.audit?.comunidad_autonoma) tags.add(item.audit.comunidad_autonoma);
+      if (item?.audit?.tipologia) tags.add(item.audit.tipologia);
     });
     return Array.from(tags).sort();
   }, [history]);
 
   const filteredHistory = React.useMemo(() => {
     return history.filter(item => {
-      const matchesSearch = item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        item.boeId.toLowerCase().includes(searchTerm.toLowerCase());
-      const matchesTransparency = item.audit.nivel_transparencia >= minTransparency &&
-        item.audit.nivel_transparencia <= maxTransparency;
+      if (!item || !item.audit) return false;
+      const title = (item.title || '').toLowerCase();
+      const boeId = (item.boeId || '').toLowerCase();
+      const term = searchTerm.toLowerCase();
+      const matchesSearch = title.includes(term) || boeId.includes(term);
+
+      const nivel = typeof item.audit.nivel_transparencia === 'number' ? item.audit.nivel_transparencia : 0;
+      const matchesTransparency = nivel >= minTransparency && nivel <= maxTransparency;
       
+      const ca = item.audit.comunidad_autonoma;
+      const tipologia = item.audit.tipologia;
+      const banderas = Array.isArray(item.audit.banderas_rojas) ? item.audit.banderas_rojas : [];
+
       const matchesTag = selectedTags.length === 0 ||
-        (item.audit.comunidad_autonoma && selectedTags.includes(item.audit.comunidad_autonoma)) ||
-        (item.audit.tipologia && selectedTags.includes(item.audit.tipologia)) ||
-        (item.audit.banderas_rojas && item.audit.banderas_rojas.some(flag => selectedTags.includes(flag)));
+        (ca && selectedTags.includes(ca)) ||
+        (tipologia && selectedTags.includes(tipologia)) ||
+        banderas.some(flag => typeof flag === 'string' && selectedTags.includes(flag));
 
       return matchesSearch && matchesTransparency && matchesTag;
     });
