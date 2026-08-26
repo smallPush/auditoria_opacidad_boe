@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18148",
+  "timestamp": "2026-08-26T13:07:54.130Z",
+  "title": "Real Decreto-ley 21/2026, de 25 de agosto, de transparencia e integridad de las actividades de los grupos de interés.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la norma se presenta como un hito de regeneración democrática bajo el Plan de Acción por la Democracia, su tramitación mediante Real Decreto-ley hurta el debate parlamentario profundo sobre un tema estructural: el lobby. El texto esconde una 'Disposición Final Tercera' que modifica de forma sorpresiva el RD 611/2026 sobre descarbonización del transporte, una técnica de 'ley ómnibus' que diluye la pureza del objetivo de transparencia. La creación de la huella normativa es un avance, pero el control recae en un Consejo de Transparencia cuya independencia financiera y de recursos suele estar asfixiada por el propio Ejecutivo que debe supervisar.",
+    "resumen_ciudadano": "Se crea un registro obligatorio para empresas y asociaciones que quieran influir en leyes estatales. Deberán declarar sus finanzas y con quién se reúnen (huella normativa). Sin embargo, la ley se aprueba por vía de urgencia para asegurar fondos europeos y aprovecha para cambiar normas de transporte ajenas al tema principal.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! El RDL 21/2026 vende 'transparencia' en lobbies pero cuelan cambios en descarbonización y transporte en las disposiciones finales. 🧐 ¿Regeneración real o trámite para cobrar fondos europeos? 💸 #Opacidad #Transparencia #Lobbies",
+    "banderas_red_flags": [
+      "Uso del Real Decreto-ley para evitar el trámite legislativo ordinario en materia de integridad pública",
+      "Inclusión de modificaciones sobre transporte y descarbonización (DF 3ª) no relacionadas con el objeto de la ley",
+      "Dependencia orgánica del Consejo de Transparencia respecto al presupuesto estatal que supervisa",
+      "Ambigüedad en la fiscalización de las 'fuentes de financiación' de los grupos de interés"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes consultoras de asuntos públicos (con capacidad para gestionar la burocracia del registro)",
+        "Gobierno (cumple hitos CID 432 para recibir fondos NextGen)",
+        "Sector del transporte favorecido por la Disposición Final Tercera"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones y ONGs (mayor carga administrativa)",
+        "Transparencia parlamentaria (al usarse un decreto-ley)",
+        "Ciudadanía (por la opacidad de los parches normativos al final del texto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Transparencia y Buen Gobierno",
+    "banderas_rojas": [
+      "Uso del Real Decreto-ley para evitar el trámite legislativo ordinario en materia de integridad pública",
+      "Inclusión de modificaciones sobre transporte y descarbonización (DF 3ª) no relacionadas con el objeto de la ley",
+      "Dependencia orgánica del Consejo de Transparencia respecto al presupuesto estatal que supervisa",
+      "Ambigüedad en la fiscalización de las 'fuentes de financiación' de los grupos de interés"
+    ]
+  },
+  "tweeted": false
+}
