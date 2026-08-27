@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18206",
+  "timestamp": "2026-08-27T08:54:58.434Z",
+  "title": "Real Decreto 685/2026, de 26 de agosto, por el que se regula la concesión directa de una subvención a la Federación Española de Municipios y Provincias para la financiación de los gastos de funcionamiento de su actividad.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se instrumenta una subvención directa de 2.625.000 euros bajo la figura de 'excepcionalidad' (Art. 22.2.c LGS) para financiar la estructura burocrática de la FEMP. Aunque se justifica por su representatividad, el uso de fondos públicos para sufragar 'gastos de funcionamiento' ordinarios —incluyendo sueldos, alquileres y servicios bancarios— elude los principios de concurrencia y eficiencia. La ambigüedad en conceptos como 'otros servicios exteriores' y la ausencia de objetivos finalistas concretos permiten que la subvención funcione como una transferencia de mantenimiento político-administrativo más que como una inversión en servicios locales reales.",
+    "resumen_ciudadano": "El Gobierno ha otorgado una ayuda directa de 2,6 millones de euros a la FEMP para pagar sus gastos diarios de 2026 (nóminas, luz, alquileres y viajes). En lugar de competir con otros proyectos por estos fondos, se le entrega el dinero 'a dedo' argumentando que es la entidad más representativa. El control del gasto se basará en certificados contables globales, lo que dificulta saber exactamente en qué se gasta cada euro de los ciudadanos dentro de la organización.",
+    "resumen_tweet": "🚨 ¡2,6 MILLONES A DEDO! El Gobierno concede subvención directa a la FEMP para pagar sus nóminas y facturas de 2026. Sin concurso público y bajo conceptos de gasto muy genéricos. ¿Financiación institucional u opacidad? 💸🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes y nóminas con subvención",
+      "Conceptos de gasto vagos como 'otros servicios exteriores'",
+      "Exoneración de constitución de garantías financieras",
+      "Fraccionamiento de pagos mensual automatizado previo a justificación detallada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cúpula administrativa y directiva de la FEMP",
+        "Estructuras burocráticas de los grandes partidos representados en la federación",
+        "Proveedores de servicios externos contratados por la asociación"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones locales sin acceso a fondos directos",
+        "Contribuyentes por la falta de fiscalización mediante concurrencia",
+        "Independencia política de los entes locales frente al Estado"
+      ]
+    },
+    "comunidad_autonoma": "España (Nacional)",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes y nóminas con subvención",
+      "Conceptos de gasto vagos como 'otros servicios exteriores'",
+      "Exoneración de constitución de garantías financieras",
+      "Fraccionamiento de pagos mensual automatizado previo a justificación detallada"
+    ]
+  },
+  "tweeted": false
+}
