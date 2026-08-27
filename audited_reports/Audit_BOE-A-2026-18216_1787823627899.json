@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18216",
+  "timestamp": "2026-08-27T09:40:27.899Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion documenta un proceso de 'libre designacion', un mecanismo legal pero intrinsecamente opaco que permite la seleccion discrecional de funcionarios para puestos de alta responsabilidad. En este caso, se observa un salto administrativo notable: el adjudicatario pasa de un Nivel 26 en el Ministerio de Hacienda a un Nivel 29 en el Ministerio de Vivienda. Aunque se menciona un informe de la unidad proponente, los criterios especificos que justifican que este candidato sea el mas apto frente a otros no son publicos ni auditables, perpetuando una estructura de 'confianza' sobre la meritocracia pura.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector Adjunto en el Ministerio de Vivienda mediante el sistema de 'libre designacion' (a dedo). El funcionario elegido proviene del Catastro (Hacienda) y asciende de un nivel 26 a un nivel 29, lo que implica una mayor retribucion y poder de decision en politicas urbanas, sin que se hayan detallado publicamente sus meritos comparativos.",
+    "resumen_tweet": "🚨 Nuevo dedazo en el Ministerio de Vivienda. Un Nivel 29 adjudicado por 'libre designacion'. Del Catastro a la Agenda Urbana con un salto de nivel salarial. ¿Donde queda la meritocracia real? 🕵️‍♂️📉 #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Libre designacion (nombramiento discrecional)",
+      "Salto significativo de nivel (de 26 a 29)",
+      "Opacidad en la motivacion del informe proponente",
+      "Falta de concurrencia competitiva publica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alejandro Rodriguez Frias (ascenso profesional y salarial)",
+        "Ministerio de Vivienda (control discrecional de puestos clave)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor antiguedad o merito sin red de confianza",
+        "Transparencia publica (ausencia de baremos objetivos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Libre designacion (nombramiento discrecional)",
+      "Salto significativo de nivel (de 26 a 29)",
+      "Opacidad en la motivacion del informe proponente",
+      "Falta de concurrencia competitiva publica"
+    ]
+  },
+  "tweeted": false
+}
