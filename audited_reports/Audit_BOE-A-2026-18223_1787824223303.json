@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18223",
+  "timestamp": "2026-08-27T09:50:23.303Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Narón (A Coruña), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se observa una dilatación temporal significativa en el proceso administrativo: las bases se publicaron en abril, el extracto en julio y el anuncio definitivo en el BOE a finales de agosto. Este 'goteo' de información entre tres boletines distintos (BOP, DOG y BOE) crea una barrera de acceso para el ciudadano medio, favoreciendo a quienes tienen servicios de alerta o conocimientos avanzados de la administración local. El sistema de 'oposición' pura es el más transparente, pero la movilización de toda la maquinaria estatal para tan solo dos plazas evidencia una baja eficiencia operativa.",
+    "resumen_ciudadano": "El Ayuntamiento de Narón (A Coruña) convoca dos plazas de empleo público mediante oposición libre: una de administrativo y otra de conserje. El plazo para inscribirse es de 20 días naturales a partir del día siguiente a la publicación en el BOE.",
+    "resumen_tweet": "📢 El Ayuntamiento de Narón convoca 2 plazas (Administrativo y Conserje). Aunque el sistema de oposición es limpio, la demora de 4 meses entre boletines dificulta el acceso al opositor de a pie. ⚖️ #BOE #Opacidad #Transparencia #Narón #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Fragmentación informativa (BOP, DOG, BOE)",
+      "Dilación de 4 meses entre publicación de bases y convocatoria real",
+      "Baja eficiencia (2 plazas para un proceso administrativo completo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores locales con acceso previo al BOP de abril",
+        "Academias que monitorizan boletines provinciales"
+      ],
+      "perdedores": [
+        "Opositores externos que dependen del BOE para enterarse",
+        "Ciudadanos que sufren la lentitud de la burocracia local"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación informativa (BOP, DOG, BOE)",
+      "Dilación de 4 meses entre publicación de bases y convocatoria real",
+      "Baja eficiencia (2 plazas para un proceso administrativo completo)"
+    ]
+  },
+  "tweeted": false
+}
