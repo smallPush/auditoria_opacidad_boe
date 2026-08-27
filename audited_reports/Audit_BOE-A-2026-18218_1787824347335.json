@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-18218",
+  "timestamp": "2026-08-27T09:52:27.335Z",
+  "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para cubrir puestos técnicos y administrativos en el exterior, un mecanismo que permite el nombramiento discrecional ('a dedo') bajo la apariencia de un proceso reglado. Se detectan anomalías salariales significativas: los puestos de Secretario en Rabat y Moscú (Nivel 17) cuentan con un Complemento Específico de 8.079,54 euros, superior al de un Canciller en Brasilia (Nivel 24, 7.205,80 euros), lo que sugiere una estructura de incentivos opaca o compensaciones por peligrosidad no detalladas explícitamente. La exigencia de 'Habilitación Personal de Seguridad' actúa como un filtro adicional que limita el acceso a un círculo ya restringido.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha abierto una convocatoria para ocupar 9 puestos en embajadas y consulados de países como Brasil, Rusia, Alemania y Marruecos. Aunque se especifican requisitos de idiomas y experiencia, la elección final no se basa en un examen, sino en la decisión discrecional de los superiores. Los sueldos en estos destinos incluyen complementos muy elevados, especialmente en plazas estratégicas o de difícil cobertura.",
+    "resumen_tweet": "🚨 ¿Mérito o 'dedazo'? Exteriores convoca plazas en embajadas (Moscú, Brasilia, Rabat) mediante LIBRE DESIGNACIÓN. Secretarios que cobran más que directivos. 💸 La opacidad del servicio exterior bajo la lupa. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación en puestos de carácter técnico",
+      "Incongruencia salarial entre niveles de responsabilidad",
+      "Alta discrecionalidad en la selección final",
+      "Uso de complementos específicos desproporcionados",
+      "Requisito de habilitación de seguridad como barrera de entrada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con vínculos de confianza política o personal",
+        "Cuerpo diplomático con acceso a información clasificada"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos pero sin contactos",
+        "Transparencia pública en la gestión de recursos del Estado",
+        "Contribuyentes que financian salarios discrecionales en el exterior"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Servicio Exterior",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Libre designación en puestos de carácter técnico",
+      "Incongruencia salarial entre niveles de responsabilidad",
+      "Alta discrecionalidad en la selección final",
+      "Uso de complementos específicos desproporcionados",
+      "Requisito de habilitación de seguridad como barrera de entrada"
+    ]
+  },
+  "tweeted": false
+}
