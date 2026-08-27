@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18222",
+  "timestamp": "2026-08-27T09:58:10.064Z",
+  "title": "Resolución de 3 de agosto de 2026, del Ayuntamiento de Moaña (Pontevedra), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una fragmentación administrativa que obliga al ciudadano a navegar por tres diarios oficiales (BOP, DOG y BOE) para obtener la información completa. La resolución en el BOE llega con 48 días de retraso respecto a la publicación de las bases en el boletín provincial, un letargo burocrático que penaliza la agilidad del mercado laboral público. Aunque se oferta por turno libre, la falta de transparencia sobre los baremos específicos en este extracto puede ocultar criterios de selección 'ad hoc' detallados solo en el boletín provincial.",
+    "resumen_ciudadano": "El Ayuntamiento de Moaña abre convocatoria para una plaza de jardinero/a oficial de primera. Los interesados disponen de 20 días naturales para presentar solicitudes a partir del 28 de agosto de 2026. Es necesario consultar el Boletín Oficial de la Provincia de Pontevedra del 10 de julio para conocer los requisitos detallados y el sistema de examen.",
+    "resumen_tweet": "⚠️ ¡Atención Moaña! Publicada plaza de Jardinero/a tras casi 2 meses de trámites entre boletines. La burocracia fragmentada dilata el acceso al empleo público. ¿Transparencia o laberinto de papel? 🧐 #BOE #Moaña #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Fragmentación informativa entre boletines",
+      "Retraso excesivo en publicación nacional (48 días)",
+      "Remisión a bases externas no digitalizadas en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral fijo (futuro adjudicatario)",
+        "Administración Local (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores externos (por dispersión de información)",
+        "Ciudadanos (debido a la lentitud en la cobertura de servicios públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público / Oposiciones",
+    "banderas_rojas": [
+      "Fragmentación informativa entre boletines",
+      "Retraso excesivo en publicación nacional (48 días)",
+      "Remisión a bases externas no digitalizadas en el extracto"
+    ]
+  },
+  "tweeted": false
+}
