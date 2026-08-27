@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18220",
+  "timestamp": "2026-08-27T09:44:59.487Z",
+  "title": "Resolución de 20 de agosto de 2026, del Ayuntamiento de San Pedro del Pinatar (Murcia), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para Técnico de Contratación en San Pedro del Pinatar presenta una red flag operativa: las bases fueron rectificadas el mismo día de la disposición oficial (20 de agosto), lo que sugiere falta de rigor técnico o ajustes de última hora en los criterios de selección. Al ser un sistema de concurso, se priorizan los méritos y antigüedad sobre la capacidad técnica pura en un puesto sensible que gestiona el dinero público local.",
+    "resumen_ciudadano": "El Ayuntamiento busca cubrir una plaza clave para gestionar contratos y compras públicas. El proceso se realiza por concurso, lo que suele favorecer a quienes ya están dentro de la administración. Se han modificado las reglas del juego (las bases) justo antes de publicarse en el BOE, un movimiento habitual para ajustar el perfil a candidatos específicos.",
+    "resumen_tweet": "🚩 ¿Cambio de reglas a última hora? San Pedro del Pinatar rectifica las bases de su plaza de Técnico de Contratación justo antes de publicarlas en el #BOE. Puesto clave para el control del gasto público bajo lupa. 🔍 #Transparencia #Murcia #Opacidad",
+    "banderas_red_flags": [
+      "Rectificación de bases previa a la publicación nacional",
+      "Uso de sistema de concurso para puestos de gestión técnica",
+      "Remisión a boletín regional para ocultar requisitos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad en la administración local",
+        "Sindicatos con acuerdos de consolidación interna"
+      ],
+      "perdedores": [
+        "Jóvenes profesionales cualificados sin experiencia administrativa",
+        "Sector privado (menor competencia en la gestión de contratas públicas)",
+        "Transparencia en la selección de perfiles técnicos"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Empleo Público / Recursos Humanos",
+    "banderas_rojas": [
+      "Rectificación de bases previa a la publicación nacional",
+      "Uso de sistema de concurso para puestos de gestión técnica",
+      "Remisión a boletín regional para ocultar requisitos específicos"
+    ]
+  },
+  "tweeted": false
+}
