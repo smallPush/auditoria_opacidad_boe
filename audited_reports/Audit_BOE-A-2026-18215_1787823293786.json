@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18215",
+  "timestamp": "2026-08-27T09:34:53.786Z",
+  "title": "Real Decreto 699/2026, de 26 de agosto, por el que se nombra Fiscal Jefa de la Fiscalía Provincial de Lugo a doña María Olga Serrano Pedrós.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento representa un nombramiento discrecional de alto nivel dentro de la estructura jerárquica del Ministerio Fiscal. Aunque cita los preceptos legales del Estatuto Orgánico, la opacidad reside en la ausencia de exposición de motivos o comparativa de méritos frente a otros candidatos. La cadena de mando se inicia en el Ministro de Justicia y la Fiscal General (nombrada por el Gobierno), lo que refuerza el control ejecutivo sobre la cúpula fiscal provincial. No hay mención a costes asociados ni a la terna de aspirantes descartados.",
+    "resumen_ciudadano": "Se ha nombrado oficialmente a María Olga Serrano Pedrós como la nueva jefa de los fiscales en la provincia de Lugo. Este cargo es vital para la persecución de delitos y la legalidad en la zona. El proceso es legalmente correcto pero se realiza 'a dedo' dentro de la carrera fiscal, siguiendo la propuesta del Gobierno y la Fiscalía General del Estado.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la justicia: María Olga Serrano Pedrós ya es Fiscal Jefa de Lugo. Procedimiento legal pero con la opacidad habitual de los cargos de confianza en la cúpula judicial. ¿Mérito o conveniencia? 🕵️‍♂️ #BOE #Lugo #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional por el Ejecutivo",
+      "Ausencia de justificación de méritos específicos en el anuncio",
+      "Centralismo en la toma de decisiones judiciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Olga Serrano Pedrós",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+        "Fiscalía General del Estado"
+      ],
+      "perdedores": [
+        "Otros aspirantes a la plaza (invisibilizados)",
+        "Ciudadanía (por falta de acceso a los criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de personal",
+    "banderas_rojas": [
+      "Nombramiento discrecional por el Ejecutivo",
+      "Ausencia de justificación de méritos específicos en el anuncio",
+      "Centralismo en la toma de decisiones judiciales"
+    ]
+  },
+  "tweeted": false
+}
