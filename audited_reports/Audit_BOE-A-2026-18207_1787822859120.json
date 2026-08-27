@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18207",
+  "timestamp": "2026-08-27T09:27:39.120Z",
+  "title": "Real Decreto 686/2026, de 26 de agosto, por el que se regula la concesión directa de subvenciones para la financiación de iniciativas locales que contribuyan a la consecución de las actuaciones de prevención, sensibilización y divulgación destinadas a la población de origen extranjero recogidas en los objetivos del Marco de actuaciones para el desarrollo territorial sostenible del área de influencia del Espacio Natural de Doñana.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto utiliza el 'Marco de actuaciones de Doñana' —originalmente una estrategia ambiental y territorial— para canalizar subvenciones de concesión directa (sin concurso público) hacia fines de sensibilización migratoria. Aunque se definen criterios porcentuales (40% población, 45% peso migratorio, 15% asentamientos), la naturaleza de los 'gastos de sensibilización y divulgación' es intrínsecamente difícil de auditar y propensa a convertirse en 'gastos fantasma' donde el dinero se diluye en folletos, jornadas y asesorías externas sin impacto material en las condiciones de vida de los temporeros. La justificación de 'interés público' se usa para evitar la concurrencia competitiva, blindando a ayuntamientos específicos de la fiscalización habitual de las subvenciones estatales.",
+    "resumen_ciudadano": "El Gobierno entrega dinero directamente a 14 ayuntamientos de Huelva, Sevilla y Cádiz (zona Doñana) para realizar campañas informativas y de sensibilización destinadas a la población inmigrante. El objetivo oficial es ayudar en la regularización de papeles y combatir el racismo, pero se hace mediante 'dedazo' administrativo, evitando que otras organizaciones puedan competir por estos fondos o proponer proyectos alternativos.",
+    "resumen_tweet": "🚨 ¿Dinero para Doñana o para propaganda? El #BOE reparte subvenciones a dedo para 'sensibilización' bajo el paraguas del Espacio Natural. Sin concurso público y con criterios de gasto difícilmente auditables. 📉 #Opacidad #Transparencia #Doñana",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de conceptos vagos como 'sensibilización' y 'divulgación'",
+      "Vínculo indirecto entre la protección ambiental de Doñana y la gestión administrativa de extranjería",
+      "Posible duplicidad de funciones con servicios sociales ya existentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos seleccionados (Almonte, Moguer, Lucena del Puerto, etc.)",
+        "Empresas de consultoría y comunicación que ejecutarán las campañas de sensibilización"
+      ],
+      "perdedores": [
+        "Población de los asentamientos que requiere mejoras habitacionales reales (luz, agua, vivienda) en lugar de folletos informativos",
+        "ONGs y entidades sociales excluidas del reparto por la vía de la concesión directa",
+        "Contribuyentes (por la falta de métricas de éxito objetivas)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Subvenciones y Ayudas Públicas",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de conceptos vagos como 'sensibilización' y 'divulgación'",
+      "Vínculo indirecto entre la protección ambiental de Doñana y la gestión administrativa de extranjería",
+      "Posible duplicidad de funciones con servicios sociales ya existentes"
+    ]
+  },
+  "tweeted": false
+}
