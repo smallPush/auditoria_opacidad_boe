@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18204",
+  "timestamp": "2026-08-27T07:54:57.303Z",
+  "title": "Real Decreto 683/2026, de 26 de agosto, por el que se modifican el Real Decreto 956/2017, de 3 de noviembre, por el que se establece el marco regulador de ayudas a las organizaciones profesionales del sector de la pesca y de la acuicultura, cofinanciadas por el Fondo Europeo Marítimo y de Pesca, y sus bases reguladoras de ámbito estatal, y por el que se modifican el Real Decreto 418/2015, de 29 de mayo, por el que se regula la primera venta de productos pesqueros, y el Real Decreto 277/2016, de 24 de junio, por el que se regulan las organizaciones profesionales en el sector de los productos de la pesca y de la acuicultura; el Real Decreto 1044/2022, de 27 de diciembre, de ordenación de la flota pesquera; y el Real Decreto 1046/2022, de 27 de diciembre, por el que se regula la gobernanza del Plan Estratégico de la Política Agrícola Común en España y de los fondos europeos agrícolas FEAGA y Feader.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 683/2026 opera bajo el pretexto de la 'simplificación administrativa' para reducir la fiscalización efectiva de los fondos de la PAC. Al eliminar el procedimiento de liquidación del rendimiento alegando 'carga desproporcionada', se debilita el control basado en resultados y se retorna a una verificación meramente formal. Destaca la inclusión de las cuotas de pertenencia a organismos internacionales como gasto subvencionable (hasta 20.000€), lo que supone un trasvase de fondos públicos directamente a la estructura burocrática y de lobby de las organizaciones profesionales, partida que antes estaba prohibida. Además, la flexibilización en la gestión de la capacidad de la flota aumenta la discrecionalidad de la Secretaría General de Pesca en las convocatorias, restando previsibilidad normativa.",
+    "resumen_ciudadano": "Esta norma cambia las reglas para recibir ayudas en agricultura y pesca. Por un lado, se reduce la obligación de justificar anualmente los resultados reales de las ayudas de la PAC para evitar trámites al Estado. Por otro, en el sector pesquero, se permitirá usar dinero público para pagar las cuotas de las asociaciones pesqueras en organismos internacionales y se da más flexibilidad para sustituir barcos viejos por nuevos, dejando los detalles específicos para decisiones posteriores del Ministerio.",
+    "resumen_tweet": "🚨 Nuevo #BOE: El RD 683/2026 reduce el control de resultados en la PAC alegando 'carga administrativa'. Además, ¡sorpresa! Se usarán fondos públicos para pagar hasta 20.000€ en cuotas de lobbies pesqueros. 📉💸 #Opacidad #Transparencia #Pesca",
+    "banderas_red_flags": [
+      "Eliminación del procedimiento de liquidación del rendimiento",
+      "Conversión de gastos previamente no subvencionables (cuotas) en subvencionables",
+      "Aumento de la discrecionalidad administrativa en la asignación de capacidad pesquera",
+      "Uso recurrente del concepto 'simplificación' para reducir la rendición de cuentas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Organizaciones de Productores Pesqueros (acceso a financiación para representación)",
+        "Grandes armadores (mayor flexibilidad en la gestión de capacidad de flota)",
+        "Administración Pública (menor carga de fiscalización de informes de rendimiento)"
+      ],
+      "perdedores": [
+        "Contribuyentes (menor transparencia sobre el impacto real de los fondos europeos)",
+        "Pequeña pesca artesanal (menor capacidad de lobby frente a las grandes organizaciones)",
+        "Mecanismos de control de la UE (debilitamiento de la vigilancia por rendimiento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación Normativa y Gestión de Fondos Europeos",
+    "banderas_rojas": [
+      "Eliminación del procedimiento de liquidación del rendimiento",
+      "Conversión de gastos previamente no subvencionables (cuotas) en subvencionables",
+      "Aumento de la discrecionalidad administrativa en la asignación de capacidad pesquera",
+      "Uso recurrente del concepto 'simplificación' para reducir la rendición de cuentas"
+    ]
+  },
+  "tweeted": false
+}
