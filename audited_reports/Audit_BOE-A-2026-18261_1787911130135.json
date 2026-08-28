@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18261",
+  "timestamp": "2026-08-28T09:58:50.135Z",
+  "title": "Orden PJC/903/2026, de 26 de agosto, por la que se modifica el anexo II del Real Decreto 1205/2011, de 26 de agosto, sobre la seguridad de los juguetes.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de una transposición de la Directiva (UE) 2026/192 que gestiona excepciones para el uso de cobalto en juguetes, una sustancia clasificada como CMR 1B (carcinógena, mutágena o tóxica para la reproducción). El análisis revela una tensión entre la seguridad infantil y la viabilidad técnica industrial: se permite el uso de materiales potencialmente tóxicos bajo el argumento de que no hay alternativas o de que su exposición es mínima (acero inoxidable, componentes eléctricos e imanes de neodimio). La redacción es técnica y precisa, pero la 'seguridad' de que un niño no inhale o trague un imán de neodimio recae en el diseño del fabricante, lo que históricamente ha sido un punto de fallo crítico.",
+    "resumen_ciudadano": "El Gobierno actualiza las normas de seguridad de los juguetes para permitir el uso específico de cobalto en imanes, piezas eléctricas y acero inoxidable. Aunque el cobalto es una sustancia peligrosa, la ley considera que en estas formas concretas no representa un riesgo para la salud de los niños, siempre que los imanes no puedan ser ingeridos o inhalados.",
+    "resumen_tweet": "🛡️ ¿Seguridad o industria? El #BOE regula el uso de cobalto (sustancia tóxica CMR 1B) en juguetes. Se autoriza en imanes y acero bajo 'estrictas' condiciones. Vigilancia máxima para que lo rentable no comprometa la salud infantil. 🧸🚫 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Autorización de sustancias CMR 1B en contacto con menores",
+      "Excepción para imanes de neodimio, conocidos por riesgos de ingesta",
+      "Transposición normativa con escaso margen de tiempo para la industria (publicado el 28, vigente el 29)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria juguetera metalúrgica",
+        "Fabricantes de componentes electrónicos para juegos",
+        "Productores de imanes de neodimio"
+      ],
+      "perdedores": [
+        "Principio de precaución extrema en salud infantil",
+        "Consumidores con menos acceso a información técnica sobre riesgos químicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Seguridad de los Productos y Sanidad",
+    "banderas_rojas": [
+      "Autorización de sustancias CMR 1B en contacto con menores",
+      "Excepción para imanes de neodimio, conocidos por riesgos de ingesta",
+      "Transposición normativa con escaso margen de tiempo para la industria (publicado el 28, vigente el 29)"
+    ]
+  },
+  "tweeted": false
+}
