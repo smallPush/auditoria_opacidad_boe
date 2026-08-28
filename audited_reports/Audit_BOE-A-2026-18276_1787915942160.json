@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18276",
+  "timestamp": "2026-08-28T11:19:02.160Z",
+  "title": "Resolución de 26 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Comunidad Autónoma de Andalucía, para el funcionamiento del Centro Andaluz de Formación Integral de las Industrias del Ocio de Mijas como Centro de Referencia Nacional en las áreas profesionales de Alojamiento, Restauración y Juegos de azar de la familia profesional de Hostelería y Turismo en el ámbito de la formación profesional.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El convenio presenta una estructura de opacidad técnica habitual en la administración periférica. Aunque el preámbulo afirma que el texto 'carece de contenido económico' para eludir controles de estabilidad presupuestaria, la Cláusula Cuarta establece explícitamente que el Ministerio financiará las actividades mediante subvenciones de concesión directa, evitando la concurrencia competitiva. Es altamente cuestionable desde una lógica de impacto social que un Centro de Referencia Nacional financiado con dinero público priorice los 'Juegos de azar' como área profesional, lo que supone un respaldo institucional a un sector con externalidades sociales negativas. Además, el convenio asegura puestos de libre designación y dietas para un Consejo Social paritario que perpetúa el modelo de gestión mediante agentes sociales tradicionales.",
+    "resumen_ciudadano": "El Gobierno de España y la Junta de Andalucía firman un acuerdo para gestionar un centro de formación en Mijas (Málaga) especializado en hostelería y casinos. El acuerdo permite dar subvenciones directas (sin concurso público) para formar a personas en el sector del juego y el alojamiento. Aunque el documento dice que no tiene coste inmediato, compromete fondos públicos anuales para mantener una estructura de directivos y departamentos de investigación en un sector de bajo valor añadido y salarios precarios.",
+    "resumen_tweet": "🚨 ¿Formación pública en Juegos de Azar? El #BOE publica el convenio para el Centro de Referencia de Mijas. Subvenciones 'a dedo' y foco en hostelería y casinos. ¿Es este el modelo productivo que queremos? 🎰🏨 #Opacidad #Transparencia #Mijas",
+    "banderas_red_flags": [
+      "Financiación mediante subvenciones de concesión directa",
+      "Contradicción legal sobre el contenido económico del convenio",
+      "Inclusión de juegos de azar en formación profesional pública",
+      "Falta de cuantía económica detallada en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de hostelería y patronales del juego",
+        "Cargos administrativos del Servicio Andaluz de Empleo",
+        "Sindicatos y organizaciones empresariales (vía Consejo Social)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de formación en sectores extractivos)",
+        "Jóvenes (orientación hacia sectores de baja cualificación y riesgo social)",
+        "Transparencia pública (gastos diferidos a planes anuales opacos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Convenio de Colaboración Interadministrativa",
+    "banderas_rojas": [
+      "Financiación mediante subvenciones de concesión directa",
+      "Contradicción legal sobre el contenido económico del convenio",
+      "Inclusión de juegos de azar en formación profesional pública",
+      "Falta de cuantía económica detallada en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
