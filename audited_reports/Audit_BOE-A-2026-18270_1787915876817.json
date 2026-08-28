@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18270",
+  "timestamp": "2026-08-28T11:17:56.817Z",
+  "title": "Resolución de 18 de agosto de 2026, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas en el proceso selectivo para ingreso, como personal laboral fijo fuera de convenio, con la categoría de Médico de Sanidad Marítima en el Instituto Social de la Marina, convocado por Resolución de 24 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un proceso selectivo para 'personal laboral fijo fuera de convenio', una categoría que históricamente permite mayor flexibilidad salarial y de condiciones que el funcionariado estándar, lo que suele ser un foco de opacidad. La resolución presenta una desproporción alarmante entre admitidos (17) y excluidos (más de 45), utilizando códigos de exclusión (EX1, EX2, EX4) que no se explican en el cuerpo del texto, dificultando la fiscalización pública inmediata. Además, la remisión a una página web externa para ver las 'listas completas' diluye el valor informativo del propio BOE.",
+    "resumen_ciudadano": "Publicación de admitidos y excluidos para plazas de Médico de Sanidad Marítima. Se convoca a examen el 23 de septiembre de 2026 en Madrid. Los excluidos tienen 10 días para subsanar errores antes de que la lista sea definitiva.",
+    "resumen_tweet": "🚨 Alerta #BOE: Proceso para médicos de Sanidad Marítima con más excluidos que admitidos. ¿Qué significan realmente los códigos EX2 y EX4? La transparencia exige claridad, no solo listas. 🩺⚓ #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Cripticismo en causas de exclusión (códigos sin leyenda)",
+      "Contratación 'fuera de convenio'",
+      "Elevado ratio de exclusión inicial",
+      "Derivación de información crítica a webs externas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 17 aspirantes admitidos provisionalmente",
+        "Ministerio de Inclusión (por el uso de figuras laborales fuera de convenio)"
+      ],
+      "perdedores": [
+        "Docenas de aspirantes excluidos por motivos técnicos no explicados",
+        "Ciudadanía (por la dificultad de auditar los criterios de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Recursos Humanos",
+    "banderas_rojas": [
+      "Cripticismo en causas de exclusión (códigos sin leyenda)",
+      "Contratación 'fuera de convenio'",
+      "Elevado ratio de exclusión inicial",
+      "Derivación de información crítica a webs externas"
+    ]
+  },
+  "tweeted": false
+}
