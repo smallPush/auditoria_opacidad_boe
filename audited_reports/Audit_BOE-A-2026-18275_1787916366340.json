@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18275",
+  "timestamp": "2026-08-28T11:26:06.340Z",
+  "title": "Resolución de 26 de agosto de 2026, de la Subsecretaría, por la que se publica el Convenio marco de colaboración entre el Ministerio de Industria y Turismo y la Comisión de Intercambio Cultural, Educativo y Científico entre España y los Estados Unidos de América, para la convocatoria de becas de formación en los Estados Unidos de América.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El convenio presenta una estructura formal correcta pero perpetúa un sistema de formación de élite restringido exclusivamente a empleados públicos del Ministerio de Industria y Turismo. Se observa una opacidad presupuestaria al no definir las cuantías exactas por beca, remitiéndolas a convocatorias futuras. Es especialmente llamativo el porcentaje de 'costes indirectos' de gestión asignados a la Comisión Fulbright, que se sitúa en un 14% inicial con posibilidad de elevarse al 16%, una cifra elevada para la administración de fondos públicos. Además, la inclusión de 'ayudas familiares' supone un beneficio excepcional que no suele estar presente en las convocatorias de becas para la ciudadanía general.",
+    "resumen_ciudadano": "Convenio entre el Ministerio de Industria y la Comisión Fulbright para financiar hasta 5 becas anuales en EE.UU. destinadas únicamente a funcionarios y personal del Ministerio. El Estado cubre manutención, matrícula, viaje, instalación y gastos familiares, mientras que la Comisión Fulbright cobra una comisión de hasta el 16% por la gestión administrativa.",
+    "resumen_tweet": "🇺🇸 ¿Becas para todos? No, solo para el Ministerio. El #BOE publica el convenio Fulbright: 5 plazas anuales para empleados públicos con gastos pagados y ayudas familiares. Ojo al 16% en 'costes de gestión'. 💸 #Transparencia #Opacidad #Privilegios",
+    "banderas_red_flags": [
+      "Costes indirectos de gestión de hasta el 16%",
+      "Restricción exclusiva a empleados públicos (endogamia formativa)",
+      "Inclusión de ayudas familiares no estandarizadas en becas públicas",
+      "Ausencia de techo de gasto total explícito en el texto del convenio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empleados públicos del Ministerio de Industria y Turismo",
+        "Comisión Fulbright (comisiones de gestión garantizadas)",
+        "Instituciones educativas estadounidenses"
+      ],
+      "perdedores": [
+        "Estudiantes de postgrado sin plaza en la función pública",
+        "Contribuyentes (financian formación exclusiva con altos costes de intermediación)",
+        "Pymes del sector turístico/industrial sin acceso a este nivel de especialización"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Convenio de Formación y Subvenciones",
+    "banderas_rojas": [
+      "Costes indirectos de gestión de hasta el 16%",
+      "Restricción exclusiva a empleados públicos (endogamia formativa)",
+      "Inclusión de ayudas familiares no estandarizadas en becas públicas",
+      "Ausencia de techo de gasto total explícito en el texto del convenio"
+    ]
+  },
+  "tweeted": false
+}
