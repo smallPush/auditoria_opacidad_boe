@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18271",
+  "timestamp": "2026-08-28T22:14:03.150Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para 4 plazas de Psicólogo/a bajo el régimen de 'personal laboral fijo' mediante 'concurso-oposición' presenta una opacidad latente. El sistema de concurso-oposición, a diferencia de la oposición libre, suele ser el mecanismo utilizado para la consolidación de interinos, permitiendo que la experiencia previa (méritos) sea determinante. Además, la mención de una 'rectificación de bases' publicada apenas 16 días antes de la resolución del BOE sugiere ajustes técnicos de última hora que podrían alterar los requisitos de acceso para favorecer perfiles específicos ya presentes en la administración.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles abre el plazo de 20 días para optar a 4 plazas fijas de Psicólogo. El proceso no se basa solo en un examen, sino que también evaluará méritos previos, y las reglas del juego fueron modificadas recientemente justo antes de esta publicación oficial.",
+    "resumen_tweet": "📢 ¡Ojo en Móstoles! 4 plazas de Psicólogo/a con sistema de concurso-oposición. 🕵️‍♂️ Las bases fueron rectificadas a última hora. ¿Consolidación encubierta o transparencia real? Tienes 20 días para solicitar. 🏛️💼 #BOE #Opacidad #Transparencia #Móstoles",
+    "banderas_red_flags": [
+      "Rectificación de bases a pocos días de la convocatoria",
+      "Uso del sistema concurso-oposición para personal laboral",
+      "Posible sesgo hacia la consolidación de interinos locales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento de Móstoles",
+        "Candidatos con amplia experiencia previa en administración local"
+      ],
+      "perdedores": [
+        "Graduados recientes sin puntos por experiencia",
+        "Candidatos externos sin vínculos previos con el consistorio"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Rectificación de bases a pocos días de la convocatoria",
+      "Uso del sistema concurso-oposición para personal laboral",
+      "Posible sesgo hacia la consolidación de interinos locales"
+    ]
+  },
+  "tweeted": false
+}
