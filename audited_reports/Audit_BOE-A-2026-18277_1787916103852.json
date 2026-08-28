@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18277",
+  "timestamp": "2026-08-28T11:21:43.852Z",
+  "title": "Resolución de 19 de junio de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Maracaibo Solar, SL, de autorización administrativa previa del parque eólico «Satrebares», de 125 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Lugo y A Coruña.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución presenta una estructura clara donde la protección ambiental prevalece sobre el desarrollo industrial energético. El punto crítico radica en la latencia administrativa: un proyecto solicitado en junio de 2023 se resuelve en junio de 2026, tras la caducidad de los permisos de Red Eléctrica (REE). Existe una opacidad táctica en la gestión de las 'garantías económicas' (40€/kW, un total de 5 millones de euros para este proyecto); aunque la ley permite no ejecutarlas si el fallo es ambiental, la decisión final queda bajo discreción administrativa, lo que genera incertidumbre jurídica sobre quién asume el coste del riesgo regulatorio.",
+    "resumen_ciudadano": "El Gobierno ha rechazado oficialmente la creación del parque eólico 'Satrebares' en las provincias de Lugo y A Coruña. El proyecto, que pretendía instalar 125 MW de potencia, ha sido frenado porque sus planes no garantizaban la protección del medio ambiente y porque sus permisos para conectarse a la red eléctrica nacional ya habían caducado durante el largo proceso de revisión.",
+    "resumen_tweet": "🚫🌬️ El Gobierno tumba el parque eólico 'Satrebares' en #Galicia. El impacto ambiental negativo y la lentitud burocrática (3 años de espera) dejan fuera 125MW. Se salvan los montes, pero la gestión de tiempos es crítica. 🛑📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desconexión temporal: Los permisos de acceso caducaron meses antes de la resolución final del Ministerio.",
+      "Discrecionalidad en garantías: El reembolso de los 5 millones de euros en avales depende de la interpretación de 'causas no imputables' al promotor.",
+      "Nombre societario genérico: 'Maracaibo Solar, SL' para un proyecto eólico en Galicia sugiere el uso de vehículos de inversión (SPV) que dificultan rastrear la propiedad real última.",
+      "Tramitación extendida: Un ciclo de 3 años para una desestimación ambiental."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Medio ambiente local y biodiversidad de las comarcas coruñesas y lucenses.",
+        "Colectivos de protección del paisaje y patrimonio cultural de Monfero y Aranga.",
+        "Administración General del Estado (al demostrar rigor frente a la presión de las renovables)."
+      ],
+      "perdedores": [
+        "Maracaibo Solar, SL (pérdida de inversión en estudios técnicos y riesgo de pérdida de avales).",
+        "Plan Nacional Integrado de Energía y Clima (PNIEC) al restar 125 MW de la meta de descarbonización.",
+        "Inversores del sector energético que enfrentan procesos de autorización de más de 36 meses."
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Resolución de Desestimación de Instalación Eléctrica",
+    "banderas_rojas": [
+      "Desconexión temporal: Los permisos de acceso caducaron meses antes de la resolución final del Ministerio.",
+      "Discrecionalidad en garantías: El reembolso de los 5 millones de euros en avales depende de la interpretación de 'causas no imputables' al promotor.",
+      "Nombre societario genérico: 'Maracaibo Solar, SL' para un proyecto eólico en Galicia sugiere el uso de vehículos de inversión (SPV) que dificultan rastrear la propiedad real última.",
+      "Tramitación extendida: Un ciclo de 3 años para una desestimación ambiental."
+    ]
+  },
+  "tweeted": false
+}
