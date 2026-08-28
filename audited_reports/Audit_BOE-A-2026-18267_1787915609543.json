@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18267",
+  "timestamp": "2026-08-28T11:13:29.543Z",
+  "title": "Resolución de 20 de agosto de 2026, del Instituto Nacional de Gestión Sanitaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de abril de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución BOE-A-2026-18267 utiliza el mecanismo de 'libre designación' para cubrir la Gerencia de Ceuta (Nivel 29), el escalafón más alto del funcionariado. Aunque se ampara en la Ley 30/1984, este sistema es el vehículo legal para el nombramiento discrecional o 'dedazo', donde la 'idoneidad' es un criterio subjetivo evaluado por el propio órgano que nombra. La falta de un concurso de méritos abierto y comparable en un puesto de alta responsabilidad sanitaria en un territorio de gestión directa del Estado (INGESA) refleja una persistencia de la política de confianza sobre la independencia técnica.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha nombrado al nuevo Director Gerente del Hospital Universitario de Ceuta mediante elección directa. A diferencia de un concurso público donde se comparan méritos de forma abierta, la 'libre designación' permite al directivo de turno elegir a la persona basándose en su propia valoración de confianza, limitando la fiscalización de la capacidad real del elegido frente a otros candidatos.",
+    "resumen_tweet": "🔴 Nuevo 'dedazo' legal en el #BOE. El INGESA adjudica la Gerencia de Ceuta (Nivel 29) por libre designación. ¿Sigue pesando más la confianza política que el mérito técnico en nuestra sanidad? 🏥 La transparencia vuelve a perder. #Opacidad #Sanidad",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Puesto de alta dirección (Nivel 29)",
+      "Subjetividad en la valoración de idoneidad",
+      "Ausencia de comparativa de méritos pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mohamedi Abdelkader Maanam (ascenso a Nivel 29)",
+        "Dirección del INGESA (control político de la gerencia)"
+      ],
+      "perdedores": [
+        "Sistema de mérito y capacidad",
+        "Profesionales sanitarios sin vínculos de confianza política",
+        "Ciudadanía de Ceuta (gestión supeditada a designación directa)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Nombramiento de Alto Cargo / Libre Designación",
+    "banderas_rojas": [
+      "Libre designación",
+      "Puesto de alta dirección (Nivel 29)",
+      "Subjetividad en la valoración de idoneidad",
+      "Ausencia de comparativa de méritos pública"
+    ]
+  },
+  "tweeted": false
+}
