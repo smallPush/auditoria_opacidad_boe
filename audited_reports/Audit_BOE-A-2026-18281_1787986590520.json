@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-18281",
+  "timestamp": "2026-08-29T06:56:30.520Z",
+  "title": "Orden PJC/904/2026, de 26 de agosto, por la que se modifica, en lo que respecta al uso de plomo en pastas de soldadura de alta temperatura de fusión, en componentes en vidrio o cerámica y como elemento de aleación en acero, aluminio y cobre, el anexo III del Real Decreto 219/2013, de 22 de marzo, sobre restricciones a la utilización de determinadas sustancias peligrosas en aparatos eléctricos y electrónicos.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Bajo la apariencia de una actualizacion técnica por 'progreso científico', esta Orden en realidad legaliza la continuidad del uso de plomo —un metal pesado altamente neurotóxico— en la industria electrónica y metalúrgica española. El texto fragmenta las exenciones en subapartados técnicos (6.a, 6.b, 7.c) que dificultan el seguimiento ciudadano del fin real de estas sustancias. Aunque invoca la protección de la salud, la norma admite que se sigue usando plomo en productos accesibles a niños siempre que no superen una tasa de liberación arbitraria. Se observa una claudicación ante la industria al prorrogar plazos bajo el argumento de que los sustitutos 'no son suficientemente fiables', anteponiendo la eficiencia industrial a la salud pública y ambiental.",
+    "resumen_ciudadano": "El Gobierno amplía el permiso para que los fabricantes de aparatos eléctricos y metales (acero, aluminio, cobre) sigan utilizando plomo en sus procesos hasta finales de 2026 y 2027. Aunque el plomo está prohibido en general, esta norma establece una lista de excepciones técnicas para soldaduras y aleaciones alegando que no existen alternativas seguras todavía. Esto significa que seguiremos conviviendo con este tóxico en dispositivos cotidianos.",
+    "resumen_tweet": "🚨 El #BOE prorroga el uso de plomo tóxico en electrónica y metales hasta 2027. 🏭 ¿Avance técnico o favor a la industria? El plomo seguirá en soldaduras y acero pese a su toxicidad. ¡La salud pública espera! 🕵️‍♂️ #Opacidad #Transparencia #RoHS",
+    "banderas_red_flags": [
+      "Prórrogas sistemáticas de sustancias prohibidas",
+      "Fragmentación de exenciones para ocultar el impacto global",
+      "Uso permitido de plomo en objetos accesibles a niños bajo 'condiciones de uso normales'",
+      "Justificación de excepciones basada en intereses de la industria del reciclaje (chatarra con plomo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gran industria metalúrgica",
+        "Fabricantes de componentes electrónicos",
+        "Empresas de tratamiento de chatarra de aluminio",
+        "Lobbies industriales que evitan costes de sustitución de materiales"
+      ],
+      "perdedores": [
+        "Salud pública (exposición crónica a metales pesados)",
+        "Medio ambiente (acumulación de plomo en suelos y agua)",
+        "Economía circular limpia (se permite que el plomo siga circulando en materiales reciclados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación Técnica de Restricción de Sustancias Peligrosas",
+    "banderas_rojas": [
+      "Prórrogas sistemáticas de sustancias prohibidas",
+      "Fragmentación de exenciones para ocultar el impacto global",
+      "Uso permitido de plomo en objetos accesibles a niños bajo 'condiciones de uso normales'",
+      "Justificación de excepciones basada en intereses de la industria del reciclaje (chatarra con plomo)"
+    ]
+  },
+  "tweeted": false
+}
