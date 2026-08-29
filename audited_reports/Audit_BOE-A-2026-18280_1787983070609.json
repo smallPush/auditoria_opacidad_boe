@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18280",
+  "timestamp": "2026-08-29T05:57:50.609Z",
+  "title": "Aplicación provisional del Acuerdo de sede entre el Reino de España y el Programa de las Naciones Unidas para el Desarrollo, hecho en Nueva York y Madrid el 13 y 16 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo establece un régimen de extraterritorialidad fiscal y legal absoluta para el PNUD en suelo español. Bajo un lenguaje de 'cooperación amistosa', se oculta una transferencia masiva de costes hacia el contribuyente español: España cede locales gratis, asume los gastos de mantenimiento, seguridad y suministros, y renuncia a recaudar IVA, IRPF y otros impuestos especiales. La mayor opacidad reside en los 'Acuerdos Administrativos' mencionados en el Artículo III, que son los que realmente definirán el coste económico real, pero que no se detallan en este documento público.",
+    "resumen_ciudadano": "España firma un acuerdo con la ONU (PNUD) para ponerle una oficina de lujo sin coste alguno para la organización. El Estado español paga el edificio, el mantenimiento y la seguridad. Además, los empleados de esta organización no pagarán IVA, ni impuesto de matriculación, ni IRPF sobre sus sueldos, y tendrán inmunidad diplomática incluso tras dejar el cargo. Básicamente, se crea un 'paraíso fiscal' administrativo en Madrid financiado por los ciudadanos.",
+    "resumen_tweet": "🚩 El #BOE de hoy: Alfombra roja al PNUD. Sede GRATIS, mantenimiento pagado por el Estado y funcionarios exentos de IVA, IRPF y multas. Una burbuja de privilegios para la élite burocrática mientras tú pagas todo. 💸📉 #Opacidad #Transparencia #Privilegios",
+    "banderas_red_flags": [
+      "Locales a título gratuito (Art. III.2)",
+      "Exención total de IVA e impuestos indirectos (Art. IX)",
+      "España asume gastos de mantenimiento y funcionamiento (Art. III.2)",
+      "Inmunidad judicial incluso tras cesar en el cargo (Art. XVI.1.a)",
+      "Exención de impuestos sobre sucesiones y donaciones para funcionarios (Art. XVI.1.f)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios internacionales (viven sin impuestos)",
+        "PNUD (coste de operación cero)",
+        "Empresas de seguridad y servicios contratadas por el Estado para la sede"
+      ],
+      "perdedores": [
+        "Contribuyentes españoles (subvencionan el 100% de la operativa)",
+        "Agencia Tributaria (pérdida de recaudación por IVA y suministros)",
+        "Competencia local (desigualdad ante las cargas fiscales)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional / Madrid",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Locales a título gratuito (Art. III.2)",
+      "Exención total de IVA e impuestos indirectos (Art. IX)",
+      "España asume gastos de mantenimiento y funcionamiento (Art. III.2)",
+      "Inmunidad judicial incluso tras cesar en el cargo (Art. XVI.1.a)",
+      "Exención de impuestos sobre sucesiones y donaciones para funcionarios (Art. XVI.1.f)"
+    ]
+  },
+  "tweeted": false
+}
