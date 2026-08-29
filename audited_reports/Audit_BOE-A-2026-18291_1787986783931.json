@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18291",
+  "timestamp": "2026-08-29T06:59:43.931Z",
+  "title": "Orden de 31 de julio de 2026, del Departamento de Justicia y Derechos Humanos, por la que se otorga destino al personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque el documento cumple con la formalidad de publicar destinos, el análisis revela una demora burocrática significativa: un proceso de 'estabilización' convocado en 2022 que no se resuelve hasta finales de 2026. Esta lentitud administrativa de 4 años contradice los principios de eficiencia. Además, se observa el uso de plazas 'desiertas' para colocar al personal nuevo, lo que indica una falta de atractivo previo de estos puestos o una gestión deficiente de las plantillas orgánicas. El texto es críptico sobre el coste total de estas incorporaciones y la reubicación de los cesados.",
+    "resumen_ciudadano": "El Gobierno Vasco ha asignado plazas fijas a 9 nuevos funcionarios del Cuerpo de Auxilio Judicial en Bilbao y Vitoria tras superar una oposición de estabilización iniciada hace 4 años. Los nuevos empleados deben tomar posesión en septiembre de 2026, mientras que los trabajadores interinos que ocupaban esos puestos serán despedidos inmediatamente para dejar espacio a los titulares.",
+    "resumen_tweet": "⚖️ Tras 4 años de espera, el #BOE publica los destinos de Auxilio Judicial en Euskadi. ✅ 9 nuevos funcionarios fijos, pero ❌ cese inmediato para los interinos que ocupaban las plazas. ¿Estabilización o lentitud burocrática? #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Dilación excesiva: Proceso de 2022 resuelto en 2026",
+      "Opacidad en costes de indemnización por cese de interinos",
+      "Restricción de movilidad geográfica impuesta por 2 años"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera nombrados (seguridad laboral)",
+        "Administración Pública (cumplimiento de cuotas de fijeza)"
+      ],
+      "perdedores": [
+        "Personal interino (cese automático sin periodo de transición)",
+        "Ciudadanos (retraso sistémico en la resolución de procesos selectivos)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Recursos Humanos y Administración de Justicia",
+    "banderas_rojas": [
+      "Dilación excesiva: Proceso de 2022 resuelto en 2026",
+      "Opacidad en costes de indemnización por cese de interinos",
+      "Restricción de movilidad geográfica impuesta por 2 años"
+    ]
+  },
+  "tweeted": false
+}
