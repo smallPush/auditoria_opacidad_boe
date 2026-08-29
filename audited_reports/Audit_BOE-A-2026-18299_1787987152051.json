@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18299",
+  "timestamp": "2026-08-29T07:05:52.051Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Villavieja del Lozoya (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se presenta bajo el marco de 'estabilización' (Ley 20/2021), una práctica habitual para regularizar personal interino. No obstante, en municipios de muy baja población como Villavieja del Lozoya, la creación de una plaza de 'Técnico de Gestión de Asuntos Generales' mediante concurso-oposición genera dudas sobre la verdadera competitividad del proceso, ya que la fase de concurso suele favorecer desproporcionadamente a quien ya ocupa el puesto. Se observa una opacidad operativa al no detallar los criterios de baremación en el BOE, remitiendo al boletín autonómico.",
+    "resumen_ciudadano": "El Ayuntamiento de Villavieja del Lozoya convoca una plaza de gestión técnica. Aunque parece una oportunidad de empleo público, el sistema de 'estabilización' indica que el objetivo principal es convertir a un trabajador temporal actual en fijo. Los ciudadanos externos tienen pocas posibilidades de éxito frente a quienes ya tienen experiencia previa en este ayuntamiento específico.",
+    "resumen_tweet": "🏛️ ¿Plaza con nombre y apellidos? Villavieja del Lozoya convoca técnico de gestión por 'estabilización'. Un mecanismo legal que suele blindar a interinos, dificultando el acceso a jóvenes opositores. #BOE #Opacidad #Transparencia #Madrid 🧐",
+    "banderas_red_flags": [
+      "Uso del sistema concurso-oposición en turno de estabilización",
+      "Falta de detalle de las bases en el anuncio del BOE",
+      "Estructura administrativa potencialmente sobredimensionada para el tamaño del municipio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual (consolidación de puesto)",
+        "Estructura administrativa municipal"
+      ],
+      "perdedores": [
+        "Opositores libres sin puntos por experiencia previa",
+        "Criterio de meritocracia pura",
+        "Presupuesto municipal comprometido a largo plazo"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público / Estabilización",
+    "banderas_rojas": [
+      "Uso del sistema concurso-oposición en turno de estabilización",
+      "Falta de detalle de las bases en el anuncio del BOE",
+      "Estructura administrativa potencialmente sobredimensionada para el tamaño del municipio"
+    ]
+  },
+  "tweeted": false
+}
