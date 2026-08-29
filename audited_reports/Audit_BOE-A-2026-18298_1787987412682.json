@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18298",
+  "timestamp": "2026-08-29T07:10:12.682Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso-oposición', lo que habitualmente actúa como un mecanismo de estabilización encubierta para personal interino ya presente en la institución, penalizando a los nuevos aspirantes sin experiencia previa en la administración. Destaca la mínima proporción de plazas de funcionario de carrera (1) frente a las de personal laboral fijo (29), una tendencia de 'laboralización' que puede buscar una gestión de recursos humanos menos rígida pero también más sujeta a convenios colectivos variables.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles abre el proceso para contratar a 30 operarios de servicios (oficios, deporte y cultura). Se distribuyen en 1 plaza de funcionario, 23 plazas de personal laboral y 6 plazas reservadas para personas con discapacidad. El acceso será mediante examen y valoración de méritos, con un plazo de 20 días para inscribirse.",
+    "resumen_tweet": "📢 Móstoles lanza 30 plazas de operario. El sistema de 'concurso-oposición' suele beneficiar a quienes ya están dentro, dificultando el acceso real a nuevos aspirantes. ¿Transparencia o estabilización encubierta? 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición que favorece la endogamia administrativa",
+      "Fuerte desequilibrio entre personal funcionario y laboral fijo",
+      "Remisión a bases en boletín regional (BOCM) para conocer los criterios de puntuación detallados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Estructuras sindicales locales"
+      ],
+      "perdedores": [
+        "Jóvenes opositores sin experiencia previa",
+        "Candidatos externos al municipio con mayor mérito académico"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición que favorece la endogamia administrativa",
+      "Fuerte desequilibrio entre personal funcionario y laboral fijo",
+      "Remisión a bases en boletín regional (BOCM) para conocer los criterios de puntuación detallados"
+    ]
+  },
+  "tweeted": false
+}
