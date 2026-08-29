@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18295",
+  "timestamp": "2026-08-29T16:41:20.268Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Gijón (Asturias), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa una dilación temporal injustificada de 18 meses entre la publicación de las bases (enero 2025) y la convocatoria en el BOE (agosto 2026). Esta brecha temporal favorece a aspirantes con información privilegiada o interinos que ya ocupan las plazas. El uso de 'concurso-oposición' para personal laboral fijo suele ser una vía de consolidación encubierta que penaliza el acceso por mérito puro. La denominación 'Técnico de Programas' es excesivamente genérica, dificultando la fiscalización de las funciones reales a desempeñar.",
+    "resumen_ciudadano": "El Ayuntamiento de Gijón abre el plazo para 3 plazas de técnicos tras año y medio de espera desde que se definieron las reglas. Al ser un concurso-oposición, los puntos por experiencia previa son clave, lo que facilita que se queden en el puesto quienes ya están trabajando allí.",
+    "resumen_tweet": "🧐 ¡Ojo en Gijón! Bases de 2025 y convocatoria en 2026. ¿Por qué 18 meses de espera para 3 plazas de 'Técnico de Programas'? El concurso-oposición suele beneficiar a los de dentro. ¡Vigilancia activa! ⚖️ #BOE #Opacidad #Transparencia #Gijón",
+    "banderas_red_flags": [
+      "Brecha temporal excesiva entre bases y convocatoria",
+      "Ambigüedad funcional en la denominación del puesto",
+      "Sistema de selección que prima la antigüedad sobre el examen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Aspirantes con acceso a información interna sobre tiempos administrativos"
+      ],
+      "perdedores": [
+        "Opositores externos sin méritos previos por experiencia",
+        "Ciudadanía afectada por la lentitud de la gestión administrativa local"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Brecha temporal excesiva entre bases y convocatoria",
+      "Ambigüedad funcional en la denominación del puesto",
+      "Sistema de selección que prima la antigüedad sobre el examen"
+    ]
+  },
+  "tweeted": false
+}
