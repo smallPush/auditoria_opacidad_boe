@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18296",
+  "timestamp": "2026-08-29T07:02:39.277Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una convocatoria para una única plaza de personal laboral fijo mediante el sistema de concurso-oposición. La principal señal de alerta radica en las sucesivas rectificaciones de las bases (BOCM nº 153 y nº 191) en un periodo de apenas dos meses, lo cual sugiere una falta de rigor inicial o una posible 'adaptación' de los requisitos. El modelo de concurso-oposición, a diferencia de la oposición libre, permite ponderar méritos que a menudo favorecen a personal interino ya presente en la institución, limitando la igualdad de oportunidades efectiva para aspirantes externos.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles abre el proceso para contratar a un Técnico/a Medio de Juventud con discapacidad. Aunque es una plaza reservada, el proceso ha sufrido dos correcciones en sus normas de selección antes de publicarse oficialmente, lo que complica el seguimiento para los ciudadanos interesados.",
+    "resumen_tweet": "🧐 El Ayto. de Móstoles convoca 1 plaza de Técnico de Juventud tras RECTIFICAR las bases 2 veces. El sistema de concurso-oposición y los cambios constantes generan dudas sobre la planificación. ¿Transparencia o 'traje a medida'? 📉 #BOE #Opacidad #Móstoles",
+    "banderas_red_flags": [
+      "Rectificación múltiple de bases previas",
+      "Uso del sistema concurso-oposición frente a oposición libre",
+      "Alta discrecionalidad potencial en la valoración de méritos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos con experiencia previa en el Ayuntamiento",
+        "Estructura administrativa municipal (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores externos sin puntos por experiencia previa",
+        "Eficiencia administrativa (debido a errores en bases originales)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Rectificación múltiple de bases previas",
+      "Uso del sistema concurso-oposición frente a oposición libre",
+      "Alta discrecionalidad potencial en la valoración de méritos específicos"
+    ]
+  },
+  "tweeted": false
+}
