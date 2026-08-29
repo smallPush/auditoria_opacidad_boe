@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18294",
+  "timestamp": "2026-08-29T16:44:41.981Z",
+  "title": "Resolución de 14 de agosto de 2026, del Ayuntamiento de Gijón (Asturias), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se detecta un desfase temporal significativo entre la publicación de las bases en el boletín autonómico (octubre 2024) y la resolución en el BOE (agosto 2026). Este retraso de casi dos años en la ejecución de la convocatoria de personal laboral fijo para puestos de 'Director de Programas' sugiere una gestión administrativa lenta o estratégicamente dilatada. El uso del sistema de concurso-oposición para plazas de dirección suele favorecer la consolidación de personal interino ya presente en la institución, limitando el acceso efectivo del talento externo a pesar de ser un 'turno libre'. La falta de especificidad sobre qué programas dirigirán estos seis nuevos directores crea una opacidad sobre la necesidad estructural real.",
+    "resumen_ciudadano": "El Ayuntamiento de Gijón convoca 6 plazas fijas para directores de programas. El proceso se activa con dos años de demora respecto a la normativa original, lo que genera dudas sobre la planificación de recursos humanos y el uso de la figura de concurso-oposición para cargos de responsabilidad directiva.",
+    "resumen_tweet": "🚨 ¿6 nuevos Directores en Gijón? 🏗️ Convocatoria publicada con 2 años de retraso respecto a sus bases (2024 vs 2026). El 'concurso-oposición' en puestos directivos huele a blindaje de interinos. ¡Ojo a la opacidad! 🧐 #BOE #Opacidad #Transparencia #Gijón",
+    "banderas_red_flags": [
+      "Desfase de 22 meses entre las bases y la convocatoria oficial",
+      "Denominación genérica de puestos de alta responsabilidad",
+      "Posible consolidación de interinos mediante concurso-oposición en cargos directivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral interino con antigüedad en el Ayuntamiento de Gijón",
+        "Estructura política con capacidad de asignar programas específicos a dedo"
+      ],
+      "perdedores": [
+        "Candidatos externos sin méritos previos en la administración local",
+        "Transparencia administrativa por la falta de definición de los 'programas' a dirigir"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Empleo Público / Personal Laboral",
+    "banderas_rojas": [
+      "Desfase de 22 meses entre las bases y la convocatoria oficial",
+      "Denominación genérica de puestos de alta responsabilidad",
+      "Posible consolidación de interinos mediante concurso-oposición en cargos directivos"
+    ]
+  },
+  "tweeted": false
+}
