@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18297",
+  "timestamp": "2026-08-29T07:07:06.223Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La convocatoria se publica bajo la técnica de 'agostidad', aprovechando el periodo estival para minimizar el eco público de 6 plazas fijas. El sistema de 'concurso-oposición' en lugar de 'oposición libre' sugiere un diseño para consolidar personal interino previo, ya que la fase de concurso permite puntuar méritos arbitrarios o experiencia interna. La remisión a las bases en el BOCM dificulta el acceso directo a la información desde el BOE, fragmentando la transparencia.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles convoca 6 plazas fijas de monitor deportivo. El proceso se anuncia en agosto y utiliza un sistema que beneficia a quienes ya tienen experiencia previa en la administración, dificultando el acceso a nuevos aspirantes sin contactos previos en el sector público local.",
+    "resumen_tweet": "⚠️ ¡Ojo en Móstoles! 6 plazas fijas de monitor deportivo convocadas en pleno agosto 🏖️. El sistema de concurso-oposición suele favorecer a 'los de dentro'. ¿Transparencia o burocracia de verano? #BOE #Opacidad #Móstoles #EmpleoPúblico 🧐",
+    "banderas_red_flags": [
+      "Agostidad legislativa",
+      "Ventaja para interinos (Concurso-Oposición)",
+      "Fragmentación de información (BOCM vs BOE)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del ayuntamiento",
+        "Sindicatos con acuerdos de consolidación"
+      ],
+      "perdedores": [
+        "Jóvenes graduados en CC. del Deporte",
+        "Opositores externos sin puntos por experiencia",
+        "Contribuyentes (por posible falta de competitividad en la selección)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Agostidad legislativa",
+      "Ventaja para interinos (Concurso-Oposición)",
+      "Fragmentación de información (BOCM vs BOE)"
+    ]
+  },
+  "tweeted": false
+}
