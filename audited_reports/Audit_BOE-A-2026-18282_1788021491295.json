@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18282",
+  "timestamp": "2026-08-29T16:38:11.295Z",
+  "title": "Ley 4/2026, de 2 de julio, de Caza y Pesca de la Comunidad de Madrid.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Ley 4/2026 de la Comunidad de Madrid consolida un modelo de gestión mercantilista de los recursos naturales. Bajo una apariencia técnica, la norma delega funciones de vigilancia pública en el sector privado (Art. 80 y 171) y crea un 'Fondo de Mejoras' (Art. 190) cuya gestión y criterios de asignación carecen de mecanismos de control ciudadano directo. Se observa una incongruencia ideológica al presentar la caza comercial e intensiva (Art. 73) como herramienta de sostenibilidad, cuando en realidad prioriza el beneficio de grandes propietarios y explotaciones cinegéticas sobre la biodiversidad pública.",
+    "resumen_ciudadano": "Esta ley regula la caza y pesca en Madrid, facilitando la creación de cotos privados, la vigilancia por guardas particulares y la gestión de fondos económicos para mejoras ambientales que serán manejados con escasa fiscalización pública. Favorece la explotación comercial de la naturaleza frente al uso recreativo tradicional o la conservación estricta.",
+    "resumen_tweet": "🚨 Nueva Ley de Caza en Madrid: se privatiza la vigilancia de los montes y nace un 'Fondo de Mejoras' sin destino claro. Ganan los grandes cotos, pierde el control público de la naturaleza. 🦆💰 #BOE #Opacidad #Transparencia #Madrid",
+    "banderas_red_flags": [
+      "Fondo de Mejoras (Art. 190): Posible partida de gasto fantasma sin auditoría externa detallada.",
+      "Vigilancia privada (Art. 80): Transferencia de competencias de autoridad pública a entidades particulares.",
+      "Autorizaciones excepcionales (Art. 52): Discrecionalidad administrativa para saltarse prohibiciones generales.",
+      "Caza intensiva (Art. 73): Fomento de la mercantilización extrema del medio ambiente."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes propietarios de cotos",
+        "Empresas de seguridad privada",
+        "Explotaciones cinegéticas comerciales",
+        "Federaciones deportivas colaboradoras"
+      ],
+      "perdedores": [
+        "Agentes forestales (pérdida de peso público)",
+        "Colectivos ecologistas",
+        "Ciudadanía de rentas bajas (mercantilización de espacios naturales)",
+        "Biodiversidad no cinegética"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Legislación Medioambiental y Gestión de Recursos Naturales",
+    "banderas_rojas": [
+      "Fondo de Mejoras (Art. 190): Posible partida de gasto fantasma sin auditoría externa detallada.",
+      "Vigilancia privada (Art. 80): Transferencia de competencias de autoridad pública a entidades particulares.",
+      "Autorizaciones excepcionales (Art. 52): Discrecionalidad administrativa para saltarse prohibiciones generales.",
+      "Caza intensiva (Art. 73): Fomento de la mercantilización extrema del medio ambiente."
+    ]
+  },
+  "tweeted": false
+}
