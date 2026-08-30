@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18290",
+  "timestamp": "2026-08-30T16:37:10.340Z",
+  "title": "Resolución de 26 de agosto de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Técnico de Hacienda.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque el acto administrativo es una formalidad de nombramiento, el texto revela una rigidez burocrática preocupante en su punto segundo, donde se deniega la alteración de destino a una persona con discapacidad por no considerar 'debidamente acreditada' su necesidad, sin detallar los criterios de suficiencia exigidos. Además, se observa una marcada centralización de los recursos de inspección y gestión en Madrid y Barcelona, perpetuando la brecha de vigilancia fiscal respecto a la España periférica. Los complementos específicos asignados (7.340€ vs 9.898€) presentan variaciones que, aunque regladas, no se explican en términos de carga de trabajo real para el ciudadano.",
+    "resumen_ciudadano": "El Gobierno nombra formalmente a los nuevos técnicos de la Agencia Tributaria. El proceso destaca por la denegación de una solicitud de adaptación de plaza para una persona con discapacidad y por confirmar que la mayoría de los nuevos inspectores y gestores se quedarán en las grandes capitales, reforzando el músculo fiscal en el centro pero manteniéndolo débil en zonas rurales.",
+    "resumen_tweet": "💼 Nuevos técnicos en la Agencia Tributaria. 🧐 El #BOE revela la denegación de traslado a una persona con discapacidad por 'falta de acreditación'. ¿Inclusión real o barrera burocrática? 🏛️ Madrid y BCN concentran el poder fiscal. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Denegación de medidas de conciliación por discapacidad",
+      "Alta concentración territorial de efectivos",
+      "Disparidad en complementos específicos sin desglose de funciones",
+      "Uso de terminología técnica para validar exclusiones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Estatal de Administración Tributaria (AEAT)",
+        "Delegaciones de Madrid y Barcelona",
+        "Nuevos funcionarios del Cuerpo Técnico"
+      ],
+      "perdedores": [
+        "Aspirantes con discapacidad (barreras de acreditación)",
+        "Zonas rurales con baja densidad de inspectores",
+        "Transparencia sobre la distribución de cargas de trabajo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Denegación de medidas de conciliación por discapacidad",
+      "Alta concentración territorial de efectivos",
+      "Disparidad en complementos específicos sin desglose de funciones",
+      "Uso de terminología técnica para validar exclusiones"
+    ]
+  },
+  "tweeted": false
+}
