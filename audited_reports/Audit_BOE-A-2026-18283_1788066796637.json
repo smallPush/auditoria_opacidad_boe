@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18283",
+  "timestamp": "2026-08-30T05:13:16.637Z",
+  "title": "Ley 5/2026, de 7 de julio, de reconocimiento del concebido en la aplicación de las medidas de apoyo a la familia en la Comunidad de Madrid.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La ley establece una ficción jurídica al otorgar derechos de nacido a un concebido no nacido para fines administrativos y fiscales. Aunque se presenta como apoyo a la natalidad, introduce una carga burocrática significativa y criterios de difícil cumplimiento para quienes dependen de la sanidad pública, debido al requisito de presentar un informe médico emitido en un plazo máximo de 5 días hábiles. Además, la cláusula de no devolución de beneficios si el nacimiento no se produce abre una zona gris de 'gasto fantasma' difícil de auditar a posteriori. Es una maniobra que utiliza competencias autonómicas para blindar una agenda ideológica frente a la legislación básica estatal de familias numerosas.",
+    "resumen_ciudadano": "La Comunidad de Madrid permitirá que los embarazos cuenten como hijos ya nacidos para obtener el título de familia numerosa, puntos en colegios, becas de comedor y deducciones fiscales. Se exige un certificado médico muy reciente (5 días) y, curiosamente, si el bebé finalmente no nace, la familia no tendrá que devolver el dinero o los beneficios recibidos durante ese periodo.",
+    "resumen_tweet": "🤰 Madrid asimila el feto a nacido para beneficios de familia numerosa. 🛑 Ojo: exige informe médico de menos de 5 días (barrera para sanidad pública). 💸 Si no nace, no se devuelven las ayudas. ¿Estrategia u opacidad? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Requisito de informe médico con antigüedad máxima de 5 días (inaccesible para citas en sanidad pública)",
+      "Cláusula de no retorno de ayudas si el embarazo no llega a término (riesgo de fraude/gasto ineficiente)",
+      "Creación de una categoría 'asimilada' paralela a la ley estatal para eludir el marco básico nacional",
+      "Habilitación genérica al Consejo de Gobierno para modificar condiciones de acceso mediante decretos",
+      "Silencio administrativo positivo en la concesión del certificado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias gestantes con acceso a sanidad privada (para obtener certificados rápidos)",
+        "Unidades familiares que pasan de 2 a 3 miembros ficticios para saltar de categoría de ayuda",
+        "Centros educativos concertados/privados (por la gestión de puntos de acceso)"
+      ],
+      "perdedores": [
+        "Familias de rentas bajas con dificultades para tramitar informes en 5 días",
+        "Modelos de familia no tradicionales",
+        "Contribuyentes generales (por la posible falta de control en ayudas no devueltas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Política de Natalidad y Fiscalidad Regional",
+    "banderas_rojas": [
+      "Requisito de informe médico con antigüedad máxima de 5 días (inaccesible para citas en sanidad pública)",
+      "Cláusula de no retorno de ayudas si el embarazo no llega a término (riesgo de fraude/gasto ineficiente)",
+      "Creación de una categoría 'asimilada' paralela a la ley estatal para eludir el marco básico nacional",
+      "Habilitación genérica al Consejo de Gobierno para modificar condiciones de acceso mediante decretos",
+      "Silencio administrativo positivo en la concesión del certificado"
+    ]
+  },
+  "tweeted": false
+}
