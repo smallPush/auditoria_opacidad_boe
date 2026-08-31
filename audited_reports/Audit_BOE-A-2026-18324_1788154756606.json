@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18324",
+  "timestamp": "2026-08-31T05:39:16.606Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Oleiros (A Coruña), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria para un puesto de Coordinador de Urbanismo mediante el sistema de 'concurso' (meramente méritos, sin examen de oposición) en un municipio con alta actividad urbanística como Oleiros, genera sospechas de consolidación de plazas 'ad hoc'. La falta de detalle sobre los baremos de puntuación en el extracto del BOE obliga al ciudadano a un rastreo por boletines provinciales, dificultando la fiscalización externa de los criterios de selección.",
+    "resumen_ciudadano": "El Ayuntamiento de Oleiros busca un jefe para su área de Urbanismo. En lugar de un examen abierto, se evaluarán méritos previos, un método que habitualmente favorece a personas que ya están dentro de la administración local. Es un puesto estratégico que decide sobre el suelo y la ordenación del territorio.",
+    "resumen_tweet": "🚩 ¡Alerta en Oleiros! Plaza de Coordinador de Urbanismo por 'concurso' (sin examen). Puesto clave para el ladrillo que suele favorecer a internos. La transparencia brilla por su ausencia en el #BOE. #Opacidad #Transparencia #Urbanismo",
+    "banderas_red_flags": [
+      "Sistema de selección por concurso de méritos sin fase de oposición",
+      "Puesto de alta sensibilidad técnica y política en gestión de suelo",
+      "Remisión a bases en boletines de menor rango para ocultar baremos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos internos con antigüedad acumulada",
+        "Estructura política local con control sobre el área de urbanismo"
+      ],
+      "perdedores": [
+        "Técnicos externos altamente cualificados sin red de contactos previa",
+        "Ciudadanía que demanda procesos de selección competitivos y meritocráticos"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Recursos Humanos y Urbanismo",
+    "banderas_rojas": [
+      "Sistema de selección por concurso de méritos sin fase de oposición",
+      "Puesto de alta sensibilidad técnica y política en gestión de suelo",
+      "Remisión a bases en boletines de menor rango para ocultar baremos"
+    ]
+  },
+  "tweeted": false
+}
