@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18309",
+  "timestamp": "2026-08-31T19:05:02.686Z",
+  "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolucion utiliza el mecanismo de 'libre designacion' para un puesto de Canciller en Dinamarca. Aunque legal bajo la Ley 30/1984, este sistema es la antitesis de la meritocracia pura, permitiendo el nombramiento discrecional ('a dedo') de funcionarios en puestos estrategicos y bien remunerados en el extranjero. No se detallan los motivos especificos que hacen a este candidato mas apto que otros, perpetuando la cultura de la confianza politica sobre la capacidad tecnica.",
+    "resumen_ciudadano": "El Ministerio de Exteriores ha asignado un cargo en la Embajada de Copenhague sin realizar un concurso de meritos abierto. Se ha utilizado el sistema de libre designacion, donde la administracion elige arbitrariamente entre candidatos que cumplan requisitos minimos, un metodo comun para otorgar destinos codiciados en el extranjero a personal afin.",
+    "resumen_tweet": "🚨 ¡Puesto a dedo en Dinamarca! 🇩🇰 Adjudicada plaza de Canciller en Copenhague mediante 'libre designacion'. Un sistema que premia la confianza sobre el merito en el @MAECgob. ¿Transparencia? Brilla por su ausencia. 💼📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designacion para puestos en el extranjero",
+      "Falta de motivacion en la eleccion del adjudicatario",
+      "Opacidad en los criterios de seleccion finales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alvaro Ruiz del Arbol Garcia (obtiene destino internacional nivel 24)",
+        "Ministerio de Asuntos Exteriores (consolida personal de confianza en el servicio exterior)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitacion de carrera basada exclusivamente en merito y capacidad)",
+        "Contribuyentes (pago de complementos de expatriacion sin garantia de seleccion competitiva)"
+      ]
+    },
+    "comunidad_autonoma": "Extranjero (Dinamarca)",
+    "tipologia": "Nombramiento por Libre Designacion",
+    "banderas_rojas": [
+      "Uso de libre designacion para puestos en el extranjero",
+      "Falta de motivacion en la eleccion del adjudicatario",
+      "Opacidad en los criterios de seleccion finales"
+    ]
+  },
+  "tweeted": false
+}
