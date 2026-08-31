@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18319",
+  "timestamp": "2026-08-31T19:07:27.319Z",
+  "title": "Resolución de 21 de agosto de 2026, de la Secretaría de Estado de Función Pública, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una contradiccion sistemica: se utiliza el procedimiento de 'libre designacion' (discrecional) para proveer un puesto en la Oficina de Conflictos de Intereses. Es paradojico que quien debe supervisar la etica y las incompatibilidades sea elegido mediante un sistema que prioriza la confianza politica sobre el concurso de meritos puro. La Base Sexta exime de informes preceptivos, reduciendo la fiscalizacion, mientras que la Base Quinta introduce entrevistas subjetivas basadas en el 'juicio' de asesores designados, lo que facilita el clientelismo dentro de la Administracion General del Estado.",
+    "resumen_ciudadano": "El Ministerio convoca un puesto de alto nivel (Subdirector General, Nivel 30) para controlar las incompatibilidades de los empleados publicos. A pesar de la importancia del cargo para la transparencia, el proceso de seleccion es por libre designacion, es decir, a dedo entre funcionarios de alto rango, con entrevistas personales no baremadas objetivamente y un plazo de respuesta muy breve de solo 10 dias.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién vigila al vigilante? El Gobierno convoca 'a dedo' la Subdirección de Incompatibilidades. Un puesto clave para la ética pública elegido mediante libre designación y entrevistas subjetivas. #BOE #Opacidad #Transparencia #Corrupción",
+    "banderas_red_flags": [
+      "Libre designacion en organo de control",
+      "Plazo de solicitud de solo 10 dias naturales",
+      "Exencion de informes de reforma de la Funcion Publica",
+      "Entrevistas basadas en criterios subjetivos de asesores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios con afinidad politica",
+        "Cuerpo A1 con redes de confianza en el Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios con merito pero sin conexiones",
+        "Transparencia institucional",
+        "Ciudadania que demanda independencia en el control de incompatibilidades"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provision de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designacion en organo de control",
+      "Plazo de solicitud de solo 10 dias naturales",
+      "Exencion de informes de reforma de la Funcion Publica",
+      "Entrevistas basadas en criterios subjetivos de asesores"
+    ]
+  },
+  "tweeted": false
+}
