@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18325",
+  "timestamp": "2026-08-31T05:45:27.345Z",
+  "title": "Resolución de 24 de agosto de 2026, de la Diputación Provincial de León, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolucion presenta una transparencia tecnica fragmentada. Al remitir las bases al Boletin Oficial de la Provincia de Leon numero 150, se dificulta el escrutinio publico directo desde el BOE. El uso del sistema de concurso para puestos de Coordinacion y Jefatura de Intervencion, sin mencion a examenes de oposicion, suele favorecer la promocion interna opaca o el blindaje de puestos para personal ya posicionado dentro de la estructura politica de la Diputacion. La falta de detalle sobre los requisitos especificos en este documento nacional impide una fiscalizacion ciudadana inmediata sobre posibles 'plazas a medida'.",
+    "resumen_ciudadano": "La Diputacion de Leon convoca 6 puestos de alta responsabilidad: 5 coordinadores administrativos y un Jefe de Intervencion (quien controla el dinero publico). El proceso se hara por concurso de meritos, pero los detalles sobre que meritos se valoran no aparecen aqui, sino en el boletin provincial, obligando al ciudadano a investigar en multiples fuentes.",
+    "resumen_tweet": "🕵️‍♂️ Opacidad en la Diputacion de Leon. Se convocan 6 plazas clave, incluida Intervencion 💰, pero las reglas del juego estan escondidas en el boletin provincial. ¿Meritocracia real o trajes a medida? #BOE #Opacidad #Transparencia #Leon",
+    "banderas_red_flags": [
+      "Informacion fragmentada (remision a BOP)",
+      "Seleccion por concurso sin oposicion en puestos clave",
+      "Ausencia de desglose salarial",
+      "Falta de criterios de valoracion en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno con antiguedad",
+        "Perfiles tecnicos con vinculos previos en la administracion local"
+      ],
+      "perdedores": [
+        "Opositores externos sin red de contactos",
+        "Ciudadania (por la dificultad de auditar los criterios de seleccion)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Oferta de Empleo Publico / Seleccion de Personal",
+    "banderas_rojas": [
+      "Informacion fragmentada (remision a BOP)",
+      "Seleccion por concurso sin oposicion en puestos clave",
+      "Ausencia de desglose salarial",
+      "Falta de criterios de valoracion en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
