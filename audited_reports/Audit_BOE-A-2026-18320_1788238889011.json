@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18320",
+  "timestamp": "2026-09-01T05:01:29.011Z",
+  "title": "Resolución de 25 de agosto de 2026, del Consejo de Seguridad Nuclear, por la que se modifica la de 25 de junio de 2026, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion muestra una modificacion estructural de las retribuciones de puestos de trabajo del Consejo de Seguridad Nuclear (CSN) una vez ya iniciado el proceso de concurso. Se observan incrementos en el Complemento Especifico (CE) que alcanzan hasta el 46% (de 6.906 a 10.128 euros) en varios puestos. Alegar una adecuacion de la RPT aprobada por el Pleno el 23 de julio de 2026 para modificar una convocatoria de junio sugiere una falta de coordinacion administrativa o una reevaluacion de las plazas para ajustarlas a perfiles especificos tras el cierre inicial de solicitudes. La amortizacion (eliminacion) de la plaza numero 6 en mitad del proceso es un indicador de inestabilidad en la planificacion de recursos humanos.",
+    "resumen_ciudadano": "El Consejo de Seguridad Nuclear ha decidido elevar el sueldo de casi todos los puestos que habia sacado a concurso hace apenas dos meses. Algunos puestos pasan de cobrar un complemento de 6.900 euros a mas de 10.100 euros anuales. Ademas, han eliminado una de las plazas que se ofrecian y han vuelto a abrir el plazo de 15 dias para que mas gente pueda apuntarse ahora que el sueldo es mayor.",
+    "resumen_tweet": "☢️ ¡Subidón de sueldos de última hora en el CSN! Modifican un concurso de empleo para inflar complementos específicos hasta un 46% en plena convocatoria. ¿Mala planificación o trajes a medida? 💸 #BOE #Opacidad #Transparencia #CSN",
+    "banderas_red_flags": [
+      "Incrementos salariales de hasta el 46% post-convocatoria",
+      "Modificacion de condiciones economicas con el proceso ya iniciado",
+      "Amortizacion de plazas durante el concurso",
+      "Opacidad en la causa tecnica de la subida salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Futuros ocupantes de los puestos 1, 2, 4, 5 y 8 (subida de ~3.200 euros anuales)",
+        "Personal tecnico de alto nivel del CSN"
+      ],
+      "perdedores": [
+        "Erario publico (aumento del gasto corriente)",
+        "Aspirantes que desistieron inicialmente por la retribucion mas baja"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Funcion Publica",
+    "banderas_rojas": [
+      "Incrementos salariales de hasta el 46% post-convocatoria",
+      "Modificacion de condiciones economicas con el proceso ya iniciado",
+      "Amortizacion de plazas durante el concurso",
+      "Opacidad en la causa tecnica de la subida salarial"
+    ]
+  },
+  "tweeted": false
+}
