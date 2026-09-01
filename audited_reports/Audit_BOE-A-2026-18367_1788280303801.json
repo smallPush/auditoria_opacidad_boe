@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18367",
+  "timestamp": "2026-09-01T16:31:43.801Z",
+  "title": "Resolución de 28 de julio de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, promoción interna y para el cambio de régimen jurídico del personal laboral fijo incluido en el Anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, en el Cuerpo Facultativo de Conservadores de Museos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento detalla el nombramiento de personal funcionario para el Cuerpo Facultativo de Conservadores de Museos. Aunque la publicación de nombres y destinos es un ejercicio de transparencia, el análisis revela una preocupante centralización administrativa: el 85% de las plazas (24 de 28 analizadas) se ubican en Madrid, contradiciendo los discursos oficiales sobre descentralización y cohesión territorial. El proceso ha demorado casi dos años desde su convocatoria (diciembre 2024 hasta septiembre 2026), lo que sugiere una burocracia lenta que afecta la operatividad de las instituciones culturales. Se observa una feminización del sector, pero con una estructura salarial que depende de complementos específicos de 7.591,50 euros, los cuales, aunque públicos, no detallan la productividad real exigida en destinos de alta responsabilidad como el Museo Reina Sofía o Patrimonio Nacional.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de nuevos conservadores de museos tras dos años de oposiciones. La mayoría trabajará en Madrid en puestos de nivel 24. Solo unos pocos han sido destinados a provincias como Soria, Cantabria o La Rioja, reforzando la concentración de la gestión cultural en la capital.",
+    "resumen_tweet": "📢 Nuevos Conservadores de Museos en el #BOE. 🏛️ De 28 plazas analizadas, ¡24 se quedan en Madrid! ¿Y la descentralización? 🧐 Un proceso de 2 años para cubrir puestos clave. #Opacidad #Transparencia #Cultura #Centralismo",
+    "banderas_red_flags": [
+      "Centralismo excesivo (Madrid-centrismo)",
+      "Dilación del proceso administrativo (2024-2026)",
+      "Escasa dotación en la 'España Vaciada'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos aprobados",
+        "Ministerio de Cultura (Servicios Centrales)",
+        "Instituciones con sede en Madrid"
+      ],
+      "perdedores": [
+        "Patrimonio regional periférico",
+        "Territorios fuera del eje madrileño",
+        "Eficiencia administrativa por lentitud del proceso"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica (Predominio Madrid)",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Centralismo excesivo (Madrid-centrismo)",
+      "Dilación del proceso administrativo (2024-2026)",
+      "Escasa dotación en la 'España Vaciada'"
+    ]
+  },
+  "tweeted": false
+}
