@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18376",
+  "timestamp": "2026-09-01T16:36:55.227Z",
+  "title": "Resolución de 24 de agosto de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución se ampara en el IV Plan para la igualdad de género (2025), el proceso sigue anclado en una estructura burocrática de 1984 que favorece el inmovilismo. Se detecta una barrera de acceso digital significativa: la obligatoriedad del Portal Funciona bajo amenaza de exclusión si no se justifica 'imposibilidad técnica', lo cual es una ambigüedad administrativa que puede usarse de forma arbitraria. Además, la resolución menciona que las plazas están 'dotadas presupuestariamente' pero omite el impacto económico total de las mismas para el erario público en este extracto.",
+    "resumen_ciudadano": "El Ministerio de la Presidencia convoca 16 plazas internas. Es un proceso de 'movilidad' donde funcionarios de carrera compiten por mejores puestos usando puntos por antigüedad y méritos. Aunque dicen promover la conciliación, las reglas son tan rígidas que castigan a quienes no tengan ya una plaza definitiva o lleven menos de dos años en su puesto actual.",
+    "resumen_tweet": "🚨 Nueva auditoría #BOE: El Ministerio de Presidencia convoca 16 plazas. Mucho lenguaje de 'igualdad', pero las mismas trabas de 1984. 🛑 Barreras digitales y opacidad en el gasto real. ¿Transparencia o burocracia? #Opacidad #Transparencia ⚖️🏛️",
+    "banderas_red_flags": [
+      "Obligatoriedad de certificado electrónico con cláusula de exclusión ambigua",
+      "Falta de desglose presupuestario por plaza en el texto principal",
+      "Exclusiones por pertenencia a cuerpos específicos supeditadas a autorizaciones discrecionales",
+      "Valoración de méritos basada en leyes de hace más de 40 años (1984)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con alta antigüedad",
+        "Personal con grado consolidado en la misma área funcional",
+        "Funcionarios con situaciones familiares que encajen estrictamente en los baremos de puntuación"
+      ],
+      "perdedores": [
+        "Personal interino (excluido)",
+        "Nuevos funcionarios con menos de 2 años de servicio",
+        "Personal con dificultades de acceso digital para la tramitación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Concurso de méritos",
+    "banderas_rojas": [
+      "Obligatoriedad de certificado electrónico con cláusula de exclusión ambigua",
+      "Falta de desglose presupuestario por plaza en el texto principal",
+      "Exclusiones por pertenencia a cuerpos específicos supeditadas a autorizaciones discrecionales",
+      "Valoración de méritos basada en leyes de hace más de 40 años (1984)"
+    ]
+  },
+  "tweeted": false
+}
