@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18383",
+  "timestamp": "2026-09-01T16:41:45.876Z",
+  "title": "Resolución de 21 de agosto de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en la Dirección General de la Guardia Civil.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una resolución estándar de provisión de puestos que, bajo una apariencia de objetividad técnica, mantiene barreras de entrada significativas. La dependencia de autorizaciones previas de la CECIR y las restricciones para personal de la AEAT o cuerpos 'exclusivos' crean una red de micro-decisiones opacas. Aunque se menciona la igualdad de género, el sistema de puntuación premia masivamente la antigüedad (25 puntos) y el grado consolidado (10 puntos), lo que favorece el inmovilismo frente al mérito o la formación reciente.",
+    "resumen_ciudadano": "El Ministerio del Interior convoca 91 plazas para trabajar en la Guardia Civil. El concurso está abierto a funcionarios de carrera. Se valoran años de servicio, cursos y situaciones familiares (conciliación). Sin embargo, ciertos funcionarios (como los de Hacienda o cuerpos especiales) tienen prohibido o restringido el movimiento si sus jefes no les dan permiso previo, limitando su libertad profesional.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Interior convoca 91 plazas en la Guardia Civil. Mucha burocracia y filtros 'fantasma' de la CECIR. La antigüedad (25 pts) sigue aplastando al talento joven. 📉 Transparencia justa. #Opacidad #Transparencia #GuardiaCivil 🚔",
+    "banderas_red_flags": [
+      "Autorizaciones discrecionales previas para movilidad de ciertos cuerpos",
+      "Falta de desglose económico de las partidas 'dotadas presupuestariamente'",
+      "Dependencia de acuerdos CECIR no detallados en el texto",
+      "Criterios de exclusión por pertenencia a sectores específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad (máximo 25 puntos)",
+        "Personal con grado consolidado alto",
+        "Familias numerosas o monoparentales"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con formación reciente pero poca antigüedad",
+        "Personal de la AEAT (sujeto a vetos de movilidad)",
+        "Cuerpos con puestos en exclusiva con movilidad restringida"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo / Recursos Humanos",
+    "banderas_rojas": [
+      "Autorizaciones discrecionales previas para movilidad de ciertos cuerpos",
+      "Falta de desglose económico de las partidas 'dotadas presupuestariamente'",
+      "Dependencia de acuerdos CECIR no detallados en el texto",
+      "Criterios de exclusión por pertenencia a sectores específicos"
+    ]
+  },
+  "tweeted": false
+}
