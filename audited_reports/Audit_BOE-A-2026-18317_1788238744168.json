@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18317",
+  "timestamp": "2026-09-01T04:59:04.168Z",
+  "title": "Resolución de 23 de julio de 2026, conjunta de la Universidad Complutense de Madrid y de la Consejería de Sanidad de la Comunidad de Madrid, por la que se nombran Profesoras y Profesores Titulares de Universidad con plaza vinculada.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolucion formaliza el sistema de plazas vinculadas entre la Universidad Complutense de Madrid y el Servicio Madrileño de Salud. Aunque cumple con la normativa de transparencia administrativa al identificar nombres y codigos de plaza, el modelo de plaza vinculada genera una zona gris de financiacion donde los costes salariales se reparten entre educacion y sanidad, dificultando la fiscalizacion ciudadana del gasto real por facultativo. El proceso se basa en una convocatoria de abril de 2026, mostrando una gestion de tiempos estandar en la administracion publica.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de dos profesionales medicos como Profesores Titulares en la Universidad Complutense, manteniendo simultaneamente sus puestos asistenciales en los hospitales publicos Gregorio Marañon y 12 de Octubre. Se trata de un refuerzo en el area de Cirugia y Radiologia que une la labor docente con la practica clinica real.",
+    "resumen_tweet": "🏥🎓 Nuevos docentes-medicos en Madrid: Pablo Sanz y Ana Ramos obtienen plazas vinculadas en el Marañon y el 12 de Octubre. Nombramientos clave para la Facultad de Medicina, aunque persiste el reto de fiscalizar el gasto dual. #BOE #Transparencia #Madrid",
+    "banderas_red_flags": [
+      "Opacidad en la distribucion presupuestaria entre Sanidad y Universidad",
+      "Dificultad de seguimiento del coste total por puesto hibrido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pablo Sanz Ruiz",
+        "Ana Ramos Gonzalez",
+        "Universidad Complutense de Madrid",
+        "Hospital General Universitario Gregorio Marañon",
+        "Hospital Universitario 12 de Octubre"
+      ],
+      "perdedores": [
+        "Candidatos en lista de espera",
+        "Contribuyentes que no pueden desglosar el gasto compartido Sanidad-Educacion"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en la distribucion presupuestaria entre Sanidad y Universidad",
+      "Dificultad de seguimiento del coste total por puesto hibrido"
+    ]
+  },
+  "tweeted": false
+}
