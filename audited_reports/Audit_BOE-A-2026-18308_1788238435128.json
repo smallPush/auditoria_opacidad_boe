@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18308",
+  "timestamp": "2026-09-01T04:53:55.128Z",
+  "title": "Resolución de 20 de agosto de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'libre designación' para un puesto de nivel 17 en la Secretaría de Estado de Cooperación Internacional. Aunque legal según la Ley 30/1984, este sistema permite la adjudicación de puestos basada en la confianza personal y no estrictamente en la concurrencia competitiva de méritos. El uso de este sistema en unidades de apoyo técnico-administrativo suele ocultar el pago de favores internos o la creación de estructuras de lealtad política dentro de la Administración General del Estado, alejándose de los principios de meritocracia y capacidad.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado 'a dedo' a un funcionario para un puesto de secretario/a en la Dirección General de Políticas de Desarrollo Sostenible. Bajo la etiqueta técnica de 'libre designación', la administración elige directamente a la persona sin necesidad de justificar por qué es más apta que otros candidatos, lo que limita el acceso igualitario a puestos de responsabilidad.",
+    "resumen_tweet": "🚩 ¿Mérito o dedazo? El Ministerio de Exteriores resuelve un puesto mediante 'Libre Designación'. El sistema permite elegir a dedo bajo el pretexto de confianza, minando la meritocracia en la función pública. #BOE #Opacidad #Transparencia 🕵️‍♂️⚖️",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (elección arbitraria)",
+      "Puesto en Unidad de Apoyo (típico para personal de confianza)",
+      "Opacidad en la motivación de la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Martínez López (adjudicatario)",
+        "Altos cargos del Ministerio (aseguran personal de su confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos sin perfil político",
+        "Ciudadanía (pérdida de imparcialidad en la gestión pública)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal / Libre Designación",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (elección arbitraria)",
+      "Puesto en Unidad de Apoyo (típico para personal de confianza)",
+      "Opacidad en la motivación de la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
