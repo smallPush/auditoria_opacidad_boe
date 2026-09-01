@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18312",
+  "timestamp": "2026-09-01T04:57:29.215Z",
+  "title": "Orden EFD/905/2026, de 31 de julio, por la que se dispone el cese y nombramiento de miembros del Consejo Escolar del Estado por el grupo de representantes de la Administración Educativa del Estado.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden EFD/905/2026 ejemplifica el uso de la potestad discrecional para la configuracion de organos consultivos clave como el Consejo Escolar del Estado. El texto se ampara en la 'revocacion del mandato' prevista en el RD 694/2007, lo cual permite ceses y nombramientos sin necesidad de motivar la decision ni exponer una evaluacion de desempeño. Esta opacidad administrativa impide conocer si el relevo responde a criterios de idoneidad tecnica o a un reajuste de confianza politica interna. No se detalla el impacto presupuestario de estos cambios en concepto de dietas o indemnizaciones por cese.",
+    "resumen_ciudadano": "La Ministra de Educacion ha sustituido a Violeta Paz Roel por Paula Vila Gisbert en el Consejo Escolar del Estado. El cambio se realiza de forma directa y sin explicar los motivos, utilizando la capacidad legal de la ministra para nombrar y cesar a sus representantes 'a dedo'. Es un tramite administrativo habitual que oculta la falta de procesos publicos de seleccion basados en el merito para estos cargos de influencia educativa.",
+    "resumen_tweet": "🔄 Relevos sin explicaciones en el Consejo Escolar del Estado. La Ministra cambia piezas mediante revocacion directa de mandato. ¿Criterio tecnico o confianza politica? Mas opacidad en la cupula educativa. 🧐📉 #BOE #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Cese por revocacion discrecional de mandato",
+      "Ausencia de motivacion de la idoneidad del perfil",
+      "Falta de memoria economica sobre dietas asociadas",
+      "Publicacion con un mes de retraso respecto a la firma"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Paula Vila Gisbert (obtiene puesto de consejera titular)",
+        "Ministerio de Educacion (mantiene control absoluto sobre los perfiles del consejo)"
+      ],
+      "perdedores": [
+        "Violeta Paz Roel (cesa sin reconocimiento publico de causas)",
+        "Criterios de meritocracia (sustituidos por designacion digital)",
+        "Ciudadania (exclusion del proceso de seleccion en organos publicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses (Administracion Educativa)",
+    "banderas_rojas": [
+      "Cese por revocacion discrecional de mandato",
+      "Ausencia de motivacion de la idoneidad del perfil",
+      "Falta de memoria economica sobre dietas asociadas",
+      "Publicacion con un mes de retraso respecto a la firma"
+    ]
+  },
+  "tweeted": false
+}
