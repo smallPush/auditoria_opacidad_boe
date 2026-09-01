@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18310",
+  "timestamp": "2026-09-01T04:55:47.821Z",
+  "title": "Resolución de 24 de agosto de 2026, de la Dirección General de la Policía, por la que se nombran policías alumnos y alumnas a las personas aprobadas en la fase de oposición para ingreso en la Escala Básica, categoría de Policía, de la Policía Nacional, convocada por Resolución de 15 de noviembre de 2022.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución expone una patología recurrente en los procesos selectivos de la Policía Nacional: el uso de criterios subjetivos (entrevistas y reconocimientos médicos) para excluir candidatos, decisiones que posteriormente son sistemáticamente anuladas por los Tribunales Superiores de Justicia. La administración es condenada en costas de forma reiterada, lo que supone un gasto público evitable derivado de una mala praxis administrativa. El hecho de que se estén ejecutando sentencias de convocatorias que datan de 2017 evidencia una lentitud judicial y administrativa que vulnera el derecho a una tutela judicial efectiva.",
+    "resumen_ciudadano": "Un grupo de aspirantes a la Policía Nacional ha logrado su nombramiento tras años de litigio judicial. Los tribunales han anulado sus exclusiones en la fase de entrevista y reconocimiento médico por no ajustarse a derecho. El Estado ha sido condenado a pagar los gastos del juicio (costas), lo que implica que el ciudadano paga por los errores de evaluación del Ministerio del Interior.",
+    "resumen_tweet": "⚖️ ¡Justicia frente a la arbitrariedad! El #BOE publica nombramientos de policías que ganaron en los tribunales tras ser rechazados injustamente. El Estado, condenado en costas por procesos mal ejecutados desde 2017. 💸 ¿Quién paga el error? Tú. #Transparencia",
+    "banderas_red_flags": [
+      "Anulación de actos administrativos por ilegalidad",
+      "Condena en costas sistemática a la Administración",
+      "Uso de criterios subjetivos excluyentes en oposiciones",
+      "Dilación de 9 años en la resolución definitiva de plazas (2017-2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con recursos para litigar",
+        "Despachos de abogados especializados en procesos selectivos"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de costas judiciales)",
+        "Candidatos excluidos sin recursos para demandar",
+        "Seguridad jurídica del sistema de oposiciones"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Personal / Ejecución de Sentencia",
+    "banderas_rojas": [
+      "Anulación de actos administrativos por ilegalidad",
+      "Condena en costas sistemática a la Administración",
+      "Uso de criterios subjetivos excluyentes en oposiciones",
+      "Dilación de 9 años en la resolución definitiva de plazas (2017-2026)"
+    ]
+  },
+  "tweeted": false
+}
