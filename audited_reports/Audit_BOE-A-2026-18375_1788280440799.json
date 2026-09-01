@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18375",
+  "timestamp": "2026-09-01T16:34:00.799Z",
+  "title": "Orden PJC/908/2026, de 25 de agosto, por la que se convocan para su provisión destinos vacantes en la Carrera Fiscal.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La orden utiliza el mecanismo de 'nombramiento discrecional' para plazas de altísima relevancia como la Fiscalía de Sala de Menores y la Jefatura de lo Contencioso-Administrativo en el Tribunal Supremo. Aunque se mencionan méritos, la decisión final depende de la propuesta de la Fiscal General del Estado, lo que consolida una estructura jerárquica vertical y políticamente sensible. El requisito de 20 años de servicio para fiscales de segunda categoría blinda el acceso a las élites ya establecidas, dificultando la renovación generacional.",
+    "resumen_ciudadano": "Se convocan tres puestos de alto nivel en la cúpula fiscal (Madrid y Baleares). A diferencia de una oposición pura, estos cargos se eligen 'a dedo' legalmente bajo el criterio de la Fiscalía General y el Ministerio de Justicia. Se exige una antigüedad mínima muy alta, lo que limita los candidatos a un círculo reducido de veteranos.",
+    "resumen_tweet": "🚨 ¡Dedo a la vista! El Ministerio convoca plazas clave en la Carrera Fiscal mediante 'nombramiento discrecional'. La Fiscalía General propone y el Gobierno dispone. ¿Meritocracia o control jerárquico? ⚖️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (arbitrariedad potencial)",
+      "Propuesta vinculada a la Fiscal General del Estado",
+      "Plazo de presentación extremadamente corto (10 días naturales)",
+      "Barrera de entrada de 20 años de servicio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fiscales veteranos con alineación jerárquica",
+        "Fiscal General del Estado (capacidad de influencia)",
+        "Ministerio de Justicia (ratificación final)"
+      ],
+      "perdedores": [
+        "Fiscales jóvenes con currículum sobresaliente pero sin antigüedad",
+        "Independencia judicial (por el sistema de provisión discrecional)",
+        "Ciudadanía (opacidad en la elección de defensores del interés público)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Nombramiento discrecional (arbitrariedad potencial)",
+      "Propuesta vinculada a la Fiscal General del Estado",
+      "Plazo de presentación extremadamente corto (10 días naturales)",
+      "Barrera de entrada de 20 años de servicio"
+    ]
+  },
+  "tweeted": false
+}
