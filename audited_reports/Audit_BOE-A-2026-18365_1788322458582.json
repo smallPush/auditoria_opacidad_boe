@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18365",
+  "timestamp": "2026-09-02T04:14:18.582Z",
+  "title": "Orden PJC/907/2026, de 31 de julio, por la que se resuelve la convocatoria de libre designación, efectuada por Orden PJC/591/2026, de 9 de junio, para el Cuerpo de Letrados de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos en órganos sensibles como el Tribunal Supremo es un mecanismo legal pero intrínsecamente opaco. Aunque se menciona el cumplimiento de requisitos, no se publican los méritos comparativos ni la motivación específica de la elección sobre otros candidatos. Esto fomenta una estructura de 'confianza' política sobre la meritocracia técnica pura, permitiendo al Ejecutivo influir indirectamente en la composición técnica de las altas esferas judiciales. La falta de un desglose de los candidatos descartados oculta posibles sesgos en la selección.",
+    "resumen_ciudadano": "Se ha formalizado el nombramiento de un Letrado para la Sala de lo Social del Tribunal Supremo mediante el sistema de libre designación (elección discrecional). Este método permite al Ministerio elegir personal para puestos clave sin un concurso público basado exclusivamente en puntos, lo que reduce la fiscalización ciudadana sobre la independencia de los cargos técnicos en la cúpula judicial.",
+    "resumen_tweet": "⚖️ ¡Ojo al #BOE! Nuevo nombramiento a dedo (libre designación) para la Sala de lo Social del Tribunal Supremo. La discrecionalidad política sigue ocupando puestos clave en la Justicia. ¿Dónde queda la meritocracia pura? 🧐🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Falta de baremación pública de méritos",
+      "Puesto de alta sensibilidad en el Tribunal Supremo",
+      "Inexistencia de justificación técnica comparativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Máximo Javier Herreros Ventosa (ascenso a puesto clave)",
+        "Ministerio de Justicia (capacidad de colocar perfiles de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos con méritos técnicos no valorados públicamente",
+        "Transparencia institucional",
+        "Ciudadanía (por la percepción de politización judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (nombramiento discrecional)",
+      "Falta de baremación pública de méritos",
+      "Puesto de alta sensibilidad en el Tribunal Supremo",
+      "Inexistencia de justificación técnica comparativa"
+    ]
+  },
+  "tweeted": false
+}
