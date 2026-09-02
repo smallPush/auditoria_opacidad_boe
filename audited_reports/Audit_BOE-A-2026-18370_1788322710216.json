@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18370",
+  "timestamp": "2026-09-02T04:18:30.216Z",
+  "title": "Resolución de 4 de agosto de 2026, de la Universidad de Las Palmas de Gran Canaria, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento formaliza el acceso a la funcionariado de carrera de nueve academicos en la Universidad de Las Palmas de Gran Canaria. Aunque se citan las bases legales y los nombres son publicos, existe una opacidad estructural sobre el impacto economico directo; el uso de la formula 'emolumentos que correspondan' impide al ciudadano conocer el compromiso de gasto publico a largo plazo que suponen estas plazas vitalicias. Se observa una notable presencia femenina (66%) en este bloque de nombramientos, lo que indica un avance en la escala de mando academica.",
+    "resumen_ciudadano": "La ULPGC ha nombrado oficialmente a 9 nuevos profesores titulares en diversas areas como Ingenieria, Morfologia y Economia. Estos profesionales pasan a ser funcionarios con plaza fija tras superar los concursos de acceso establecidos en la normativa de 2024.",
+    "resumen_tweet": "🎓 La @ULPGC nombra 9 nuevos Profesores Titulares. Destaca un 66% de mujeres en áreas técnicas y científicas. Transparencia alta en nombres, pero opacidad en el coste real de estas plazas fijas para el contribuyente. 🏛️ #BOE #Transparencia #ULPGC",
+    "banderas_red_flags": [
+      "Opacidad en la cuantia de los emolumentos publicos",
+      "Brecha de 28 dias entre la firma de la resolucion y su publicacion oficial",
+      "Falta de enlace directo a las actas de las comisiones evaluadoras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo docente (estabilidad laboral vitalicia)",
+        "Representacion femenina en la academia (6 de 9 plazas)",
+        "Departamentos de Morfologia e Ingenieria"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin visibilidad de baremacion)",
+        "Contribuyentes (desconocimiento del impacto presupuestario de las nominas)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos Universitarios",
+    "banderas_rojas": [
+      "Opacidad en la cuantia de los emolumentos publicos",
+      "Brecha de 28 dias entre la firma de la resolucion y su publicacion oficial",
+      "Falta de enlace directo a las actas de las comisiones evaluadoras"
+    ]
+  },
+  "tweeted": false
+}
