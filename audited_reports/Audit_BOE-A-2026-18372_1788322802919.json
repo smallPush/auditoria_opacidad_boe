@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18372",
+  "timestamp": "2026-09-02T04:20:02.919Z",
+  "title": "Acuerdo de 28 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de puesto de trabajo en la Escuela Judicial.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria para una plaza de profesor en la Escuela Judicial destaca por un complemento específico extremadamente elevado de 55.804,28 euros anuales, que se suma al sueldo base del subgrupo A1. Aunque se detallan funciones técnicas, el sistema de selección se basa en una 'apreciación conjunta de méritos' por el Pleno del CGPJ y una entrevista personal opcional, lo que otorga un margen de discrecionalidad técnica que bordea la libre designación encubierta. La duración de hasta 10 años en situación de servicios especiales permite blindar la carrera administrativa del elegido mientras percibe remuneraciones de alta dirección.",
+    "resumen_ciudadano": "Se busca un profesor de Derecho Penal para la Escuela Judicial en Barcelona. El puesto ofrece un plus salarial de más de 55.000 euros al año. El proceso de selección es subjetivo, permitiendo al CGPJ elegir al candidato basándose en criterios generales y entrevistas, lo que dificulta el control de la imparcialidad en la elección de la élite judicial.",
+    "resumen_tweet": "🚨 El CGPJ convoca plaza de profesor en Barcelona con un plus de 55.804€/año 💰. Selección basada en 'valoración conjunta' y entrevista, aumentando el riesgo de dedazo en la élite judicial. #BOE #Opacidad #Transparencia #Justicia ⚖️",
+    "banderas_red_flags": [
+      "Elevado complemento específico (55.804€) adicional al sueldo base",
+      "Criterios de selección subjetivos (valoración conjunta)",
+      "Entrevista personal con alto peso decisorio",
+      "Posibilidad de declarar la convocatoria desierta de forma discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de la carrera judicial con conexiones en el CGPJ",
+        "Funcionarios del subgrupo A1 con perfil académico",
+        "Perfiles con capacidad de movilidad a Barcelona"
+      ],
+      "perdedores": [
+        "Candidatos con méritos técnicos pero sin red de contactos",
+        "Transparencia en el acceso a puestos de alta remuneración",
+        "Contribuyentes que financian complementos salariales de élite sin baremos ciegos"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Convocatoria de personal de alta dirección judicial",
+    "banderas_rojas": [
+      "Elevado complemento específico (55.804€) adicional al sueldo base",
+      "Criterios de selección subjetivos (valoración conjunta)",
+      "Entrevista personal con alto peso decisorio",
+      "Posibilidad de declarar la convocatoria desierta de forma discrecional"
+    ]
+  },
+  "tweeted": false
+}
