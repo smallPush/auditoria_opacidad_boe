@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18364",
+  "timestamp": "2026-09-02T03:16:14.475Z",
+  "title": "Convenio entre el Centre National de la Recherche Scientifique y el Consorcio Instituto de Astrofísica de Canarias, del Reino de España relativo a la renovación del laboratorio internacional de investigación laboratorio franco-español de astrofísica en Canarias («FSLAC»), hecho en París y San Cristóbal de La Laguna el 9 y 20 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El convenio se presenta como una renovación técnica de cooperación científica, blindada bajo la figura de 'Acuerdo Internacional Administrativo'. Si bien los objetivos científicos son explícitos, existe una opacidad financiera al remitir las cuantías presupuestarias exactas a anexos de gestión interna, dificultando el seguimiento ciudadano del gasto público real. No se mencionan criterios de paridad de género en la selección de personal investigador ni mecanismos de retorno social directo para la población canaria, más allá de la 'divulgación'.",
+    "resumen_ciudadano": "España y Francia renuevan por 5 años (2026-2030) su colaboración en los observatorios de Canarias. El acuerdo regula el funcionamiento del Laboratorio Franco-Español de Astrofísica (FSLAC), permitiendo que científicos franceses trabajen en Tenerife y La Palma utilizando infraestructuras españolas a cambio de recursos compartidos.",
+    "resumen_tweet": "🔭 España y Francia renuevan su idilio astrofísico en Canarias hasta 2030. Mucha ciencia, pero el dinero real se queda en los anexos fuera del texto principal. ¿Quién gana? La élite científica. ¿Impacto social? No se menciona. 🌌 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cifras presupuestarias delegadas a anexos no publicados en el cuerpo principal",
+      "Cláusula de indemnización por daños y perjuicios de cuantía indeterminada",
+      "Ambigüedad en la naturaleza de las 'normas internas' de funcionamiento",
+      "Ausencia total de mención al impacto de género o diversidad social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidad científica internacional (CNRS e IAC)",
+        "Sector de instrumentación de alta tecnología",
+        "Personal investigador de élite con acceso a los observatorios"
+      ],
+      "perdedores": [
+        "Ciudadanía local canaria (sin beneficios socioeconómicos directos tangibles)",
+        "Transparencia presupuestaria inmediata (por uso de anexos)",
+        "Criterios de igualdad social y de género (ausentes en el texto)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Acuerdo Internacional Administrativo / Cooperación Científica",
+    "banderas_rojas": [
+      "Cifras presupuestarias delegadas a anexos no publicados en el cuerpo principal",
+      "Cláusula de indemnización por daños y perjuicios de cuantía indeterminada",
+      "Ambigüedad en la naturaleza de las 'normas internas' de funcionamiento",
+      "Ausencia total de mención al impacto de género o diversidad social"
+    ]
+  },
+  "tweeted": false
+}
