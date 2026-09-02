@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18441",
+  "timestamp": "2026-09-02T16:32:32.388Z",
+  "title": "Orden EFD/916/2026, de 7 de agosto, por la que, a propuesta de la Consejería de Educación, Ciencia, Universidades y Formación Profesional de la Comunidad Autónoma de Galicia, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria y Maestros a personas seleccionadas en los procedimientos selectivos convocados por Orden de 31 de enero de 2024.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento formaliza el nombramiento de personal funcionario de carrera tras un proceso que se ha extendido durante dos años desde su convocatoria en 2024. Aunque es un acto reglado y transparente, evidencia la lentitud de la maquinaria administrativa para resolver situaciones excepcionales como el aplazamiento de la fase de prácticas. Se observa una clara feminización de las plazas obtenidas en este anexo, reflejando la demografía del sector educativo. No se detallan los costes salariales derivados de estas incorporaciones, los cuales pasan a ser gastos estructurales consolidados.",
+    "resumen_ciudadano": "Se publica el listado definitivo de profesores y maestros en Galicia que, tras superar las oposiciones de 2024 y completar sus prácticas (algunas aplazadas), adquieren la condición de funcionarios de carrera con efectos desde el 1 de septiembre de 2026. Esto les otorga estabilidad laboral definitiva y plaza fija en el sistema público.",
+    "resumen_tweet": "⚖️ El #BOE oficializa nuevos funcionarios de carrera en #Galicia. Tras 2 años desde la convocatoria, docentes de secundaria y maestros logran su plaza fija. 👩‍🏫 Estabilidad laboral frente a la interinidad. #Transparencia #Educación #Oposiciones",
+    "banderas_red_flags": [
+      "Dilatación temporal del proceso (2024-2026)",
+      "Uso de firma por delegación (P.D.)",
+      "Falta de desglose presupuestario del impacto en nóminas públicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal nombrado (obtención de plaza fija y derechos pasivos)",
+        "Consellería de Educación de Galicia (reducción de tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino (que pierde prioridad ante los nuevos funcionarios)",
+        "Candidatos de la convocatoria 2024 que no obtuvieron plaza"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y personal",
+    "banderas_rojas": [
+      "Dilatación temporal del proceso (2024-2026)",
+      "Uso de firma por delegación (P.D.)",
+      "Falta de desglose presupuestario del impacto en nóminas públicas"
+    ]
+  },
+  "tweeted": false
+}
