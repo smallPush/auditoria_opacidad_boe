@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18508",
+  "timestamp": "2026-09-02T16:10:06.555Z",
+  "title": "Real Decreto 718/2026, de 2 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso de la Ley de Seguridad Nacional (36/2015) permite al Ejecutivo actuar con una discrecionalidad técnica que bordea la opacidad democrática. Al invocar el 'interés para la Seguridad Nacional', se activan mecanismos de movilización de recursos sin un desglose presupuestario detallado en el texto. La modificación busca calmar el descontento social en Ceuta desplazando la atención humanitaria de polideportivos a instalaciones militares y portuarias, lo que sugiere una gestión de crisis basada en la invisibilización y el control perimetral más que en una integración de recursos civiles transparentes. La 'flexibilidad' mencionada suele ser un eufemismo para la adjudicación directa de contratos de emergencia.",
+    "resumen_ciudadano": "El Gobierno modifica los recursos destinados a la crisis migratoria en Ceuta. En lugar de usar polideportivos públicos, utilizará terrenos militares (como el Acuartelamiento K8) y parcelas del Puerto de Ceuta para alojar y gestionar a las personas migrantes. Esta medida busca reducir el impacto en la vida diaria de los ciudadanos ceutíes, pero centraliza toda la gestión bajo el control de diversos ministerios sin especificar el coste económico de estas operaciones.",
+    "resumen_tweet": "🚨 El Gobierno activa la Ley de Seguridad Nacional en #Ceuta. Se retira el uso de polideportivos y se militarizan espacios para la gestión migratoria. ¿Control o solución? 💸 Sin presupuesto claro ni transparencia total. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia total de memoria económica o límite de gasto",
+      "Uso de conceptos jurídicos indeterminados como 'capacidades ordinarias necesarias'",
+      "Desplazamiento de la gestión civil a infraestructuras de defensa y portuarias",
+      "Invocación de la Ley de Seguridad Nacional para agilizar trámites sin control parlamentario previo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Población local de Ceuta (recuperan el uso de instalaciones deportivas)",
+        "Ministerio del Interior y Defensa (mayor control sobre el espacio y flujo)",
+        "Empresas de logística y servicios con contratos de emergencia"
+      ],
+      "perdedores": [
+        "Personas migrantes (confinamiento en zonas portuarias o militares alejadas del núcleo urbano)",
+        "Transparencia pública (imposibilidad de fiscalizar el gasto real inmediato)",
+        "Contribuyentes (falta de desglose de partidas presupuestarias)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Seguridad Nacional y Migraciones",
+    "banderas_rojas": [
+      "Ausencia total de memoria económica o límite de gasto",
+      "Uso de conceptos jurídicos indeterminados como 'capacidades ordinarias necesarias'",
+      "Desplazamiento de la gestión civil a infraestructuras de defensa y portuarias",
+      "Invocación de la Ley de Seguridad Nacional para agilizar trámites sin control parlamentario previo"
+    ]
+  },
+  "tweeted": false
+}
