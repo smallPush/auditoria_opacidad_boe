@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18429",
+  "timestamp": "2026-09-03T04:09:58.035Z",
+  "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto-ley 22/2026 utiliza una crisis migratoria puntual como percha legislativa para introducir cambios estructurales en el IRPF, Impuesto de Sociedades y el sistema de bonificaciones a la Seguridad Social que van más allá de la emergencia social. Se detecta una 'Incongruencia Ideológica' al blindar fiscalmente a empresas y sectores turísticos bajo una narrativa de 'seguridad nacional'. La movilización de créditos extraordinarios para ministerios diversos (Interior, Defensa, Sanidad, Infancia) sin un desglose de fiscalización externa previa sugiere una gestión de 'Gastos Fantasma' amparada en la urgencia. El impacto de clase es desigual: se prioriza el auxilio al capital local y el refuerzo policial sobre la integración estructural o la protección de derechos de los menores afectados.",
+    "resumen_ciudadano": "Decreto de urgencia para Ceuta que inyecta fondos tras los saltos de valla de julio de 2026. Aunque se anuncia como ayuda social, el texto es un cajón de sastre que modifica impuestos para empresas, refuerza la vigilancia fronteriza y agiliza expulsiones, mezclando partidas de agua y sanidad con gastos militares y policiales.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad! El RDL 22/2026 usa la crisis de Ceuta para colar cambios fiscales y créditos extra sin control parlamentario. Mucha seguridad y beneficios a empresas, pero poca claridad en el gasto real. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del procedimiento de urgencia para reformas tributarias de largo alcance",
+      "Inclusión de partidas para turismo y comercio en un decreto de crisis migratoria",
+      "Ambigüedad en el destino de los 'Créditos Extraordinarios' repartidos entre múltiples ministerios",
+      "Mención a procedimientos de retorno 'expeditos' que podrían vulnerar garantías procesales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior y Defensa (presupuesto)",
+        "Empresas locales (beneficios fiscales)",
+        "Sector turístico ceutí"
+      ],
+      "perdedores": [
+        "Colectivos migrantes (retornos rápidos)",
+        "Contribuyentes (falta de desglose de gastos)",
+        "Transparencia democrática (salto del debate parlamentario)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Real Decreto-ley de medidas urgentes",
+    "banderas_rojas": [
+      "Uso del procedimiento de urgencia para reformas tributarias de largo alcance",
+      "Inclusión de partidas para turismo y comercio en un decreto de crisis migratoria",
+      "Ambigüedad en el destino de los 'Créditos Extraordinarios' repartidos entre múltiples ministerios",
+      "Mención a procedimientos de retorno 'expeditos' que podrían vulnerar garantías procesales"
+    ]
+  },
+  "tweeted": false
+}
