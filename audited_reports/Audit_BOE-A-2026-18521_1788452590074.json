@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18521",
+  "timestamp": "2026-09-03T16:23:10.074Z",
+  "title": "Resolución de 25 de agosto de 2026, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución oficializa plazas de Catedráticos, el escalafón más alto de la carrera funcionarial universitaria, sin desglosar el impacto presupuestario anual que suponen estos sueldos vitalicios. Se observa una perpetuación de la estructura de poder masculina (100% de los nombramientos son hombres), lo que sugiere una brecha de género persistente en los niveles de élite académica de la URJC.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos ha nombrado a dos nuevos catedráticos en Economía Aplicada y Fisioterapia. Estos puestos son permanentes y financiados con dinero público, pero el documento no especifica el coste salarial ni ofrece detalles sobre los méritos que les hicieron superar a otros posibles candidatos.",
+    "resumen_tweet": "🏛️ Más catedráticos en la URJC: 2 hombres nombrados en plazas vitalicias. Sin rastro del coste real para el ciudadano ni criterios de paridad. La élite académica sigue siendo un club cerrado. 📉 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de mujeres en los nombramientos",
+      "Falta de desglose económico de las plazas",
+      "Identificación de plazas mediante códigos internos opacos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Cuerdo Mir",
+        "José Luis Arias Buría",
+        "Jerarquía académica tradicional"
+      ],
+      "perdedores": [
+        "Mujeres en la carrera investigadora",
+        "Transparencia presupuestaria",
+        "Personal docente no fijo"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de mujeres en los nombramientos",
+      "Falta de desglose económico de las plazas",
+      "Identificación de plazas mediante códigos internos opacos"
+    ]
+  },
+  "tweeted": false
+}
