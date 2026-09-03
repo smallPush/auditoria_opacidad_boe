@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18513",
+  "timestamp": "2026-09-03T16:21:11.620Z",
+  "title": "Real Decreto 711/2026, de 2 de septiembre, por el que se regula la concesión directa de subvenciones para la financiación de iniciativas locales destinadas a la consecución de los objetivos del Marco de actuaciones para el desarrollo territorial sostenible del área de influencia del Espacio Natural de Doñana, en el ámbito de la inclusión social en el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El decreto utiliza una densa cortina de datos demográficos y socioeconómicos para justificar una 'concesión directa' de subvenciones, eludiendo el procedimiento ordinario de concurrencia competitiva. Bajo el paraguas del 'Marco de actuaciones para Doñana', se produce una transferencia de fondos desde el MITECO hacia el Ministerio de Inclusión para financiar 'iniciativas locales'. El riesgo reside en la opacidad del destino final de los fondos a nivel municipal y en si estas ayudas de 'inclusión social' realmente mitigan la presión sobre el acuífero o actúan como compensaciones políticas por las restricciones agrícolas.",
+    "resumen_ciudadano": "El Gobierno entrega dinero directamente a 14 ayuntamientos del entorno de Doñana (Huelva, Sevilla y Cádiz) para programas de inclusión social y apoyo a temporeros. Lo hace de forma 'extraordinaria', es decir, sin que los ayuntamientos tengan que competir entre sí con proyectos evaluables, justificándolo por la situación de pobreza y baja formación de la zona en comparación con la media nacional.",
+    "resumen_tweet": "🚨 ¿Ayuda real o parche político? El Gobierno otorga subvenciones directas (sin concurso) a 14 ayuntamientos de #Doñana. El motivo: 'inclusión social', pero se elude la libre competencia. ¿Transparencia o clientelismo local? 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de 'razones de interés público' para evitar licitación abierta",
+      "Posible duplicidad en gastos de acompañamiento social",
+      "Ambigüedad en la fiscalización de los objetivos de inclusión frente a los ambientales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos seleccionados (recepción de fondos directos)",
+        "Colectivos de temporeros agrícolas (beneficiarios potenciales de programas)",
+        "Ministerio de Inclusión (gestión de fondos antes destinados a transición ecológica)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de optimización de recursos vía concurso)",
+        "Otros municipios andaluces con similar vulnerabilidad pero fuera del área de Doñana",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Subvenciones de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de 'razones de interés público' para evitar licitación abierta",
+      "Posible duplicidad en gastos de acompañamiento social",
+      "Ambigüedad en la fiscalización de los objetivos de inclusión frente a los ambientales"
+    ]
+  },
+  "tweeted": false
+}
