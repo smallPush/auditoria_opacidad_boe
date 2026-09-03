@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18510",
+  "timestamp": "2026-09-03T16:19:38.242Z",
+  "title": "Real Decreto 708/2026, de 2 de septiembre, por el que se regula la concesión directa de subvenciones para realizar actuaciones de interés general en las ciudades de Ceuta y Melilla.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la 'concesión directa' amparada en el artículo 22.2.c de la Ley General de Subvenciones, lo cual supone una excepción a la concurrencia competitiva. Si bien la singularidad de Ceuta y Melilla es innegable, el texto emplea 'conceptos jurídicos indeterminados' como 'interés general' para cubrir gastos corrientes que deberían ser estructurales. La mayor opacidad reside en la autorización para que las ciudades concedan estas ayudas a terceros (asociaciones y ONGs) sin detallar procesos de selección, lo que abre la puerta al clientelismo local bajo la apariencia de emergencia social.",
+    "resumen_ciudadano": "El Estado entrega fondos directamente a los gobiernos de Ceuta y Melilla para pagar el agua de las desaladoras, la limpieza y servicios sociales. Se justifica por su aislamiento y pobreza, pero al evitar el concurso público, no hay garantía de que el dinero se use de la forma más eficiente posible.",
+    "resumen_tweet": "🚨 ¡Alerta BOE! El Gobierno adjudica a dedo subvenciones para Ceuta y Melilla bajo el sello de 'interés general'. Sin concurso público y con riesgo de gasto fantasma en ayudas a terceros. ¿Control real o caja B regional? 🧐💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes de funcionamiento bajo etiqueta de excepcionalidad",
+      "Subvenciones a terceros (ONGs/Asociaciones) con criterios de selección vagos",
+      "Uso de la 'situación geoestratégica' como cheque en blanco presupuestario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobiernos locales de Ceuta y Melilla",
+        "Gestoras de plantas desalinizadoras",
+        "Asociaciones y ONGs locales con acceso directo a la administración"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de optimización de precios vía concurso)",
+        "Otras regiones con indicadores de pobreza similares que deben competir por fondos",
+        "Rigor en la fiscalización del gasto público"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes de funcionamiento bajo etiqueta de excepcionalidad",
+      "Subvenciones a terceros (ONGs/Asociaciones) con criterios de selección vagos",
+      "Uso de la 'situación geoestratégica' como cheque en blanco presupuestario"
+    ]
+  },
+  "tweeted": false
+}
