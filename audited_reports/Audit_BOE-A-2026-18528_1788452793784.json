@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18528",
+  "timestamp": "2026-09-03T16:26:33.784Z",
+  "title": "Resolución de 26 de agosto de 2026, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de libre designación para un puesto de control técnico como la Secretaría-Intervención en la Diputación de A Coruña es una práctica legal pero éticamente cuestionable. Este sistema permite la elección discrecional por parte de los cargos políticos de aquellos funcionarios que, precisamente, tienen la función de fiscalizar su gestión. Esto erosiona la independencia del funcionario con habilitación de carácter nacional y debilita los contrapesos administrativos frente al poder político provincial.",
+    "resumen_ciudadano": "Se publica la convocatoria para cubrir a 'dedo' (libre designación) la plaza de Secretario-Interventor de la Diputación de A Coruña. El puesto cuenta con un complemento específico de 45.511,83 euros anuales, que se suma al sueldo base del funcionario. Aunque el puesto requiere una alta cualificación técnica, el método de selección permite que el cargo político elija directamente a la persona que supervisará la legalidad de sus actos.",
+    "resumen_tweet": "🚩 ¡Alerta de Dedazo Legal! La Diputación de A Coruña busca Secretario-Interventor por Libre Designación. ¿Quién vigila al vigilante si lo elige el político? 🕵️‍♂️ 45.511€ de complemento extra en juego. #BOE #Opacidad #Transparencia #Galicia",
+    "banderas_red_flags": [
+      "Libre designación en puestos de control financiero y legal",
+      "Alta discrecionalidad en el nombramiento",
+      "Barrera lingüística eliminatoria para una escala de funcionarios nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cargos políticos de la Diputación de A Coruña (eligen a su propio fiscalizador)",
+        "Funcionarios con perfil afín a la dirección política provincial"
+      ],
+      "perdedores": [
+        "Independencia de la función pública",
+        "Ciudadanía (menor garantía de control objetivo)",
+        "Candidatos por mérito técnico sin conexiones políticas"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación en puestos de control financiero y legal",
+      "Alta discrecionalidad en el nombramiento",
+      "Barrera lingüística eliminatoria para una escala de funcionarios nacional"
+    ]
+  },
+  "tweeted": false
+}
