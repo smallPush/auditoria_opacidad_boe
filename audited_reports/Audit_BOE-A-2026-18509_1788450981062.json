@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18509",
+  "timestamp": "2026-09-03T15:56:21.062Z",
+  "title": "Real Decreto 707/2026, de 2 de septiembre, por el que se aprueba el Reglamento de las condiciones básicas de accesibilidad cognitiva.",
+  "report": {
+    "nivel_transparencia": 7.2,
+    "analisis_critico": "Aunque el decreto es un avance histórico en derechos civiles al amparo del nuevo artículo 49 de la Constitución, presenta la clásica 'cláusula de inanición': la Disposición Adicional Quinta vincula la efectividad de las medidas a las disponibilidades presupuestarias ordinarias, lo que suele traducirse en una implementación lenta o nula. Se observa una 'Incongruencia Ideológica' al promover el uso de Inteligencia Artificial para la accesibilidad sin definir salvaguardas contra sesgos algorítmicos que podrían excluir precisamente a los colectivos que busca proteger. La derogación del RD 1414/2006 centraliza el reconocimiento de la discapacidad, pero deja en el aire la transición operativa para las CC.AA.",
+    "resumen_ciudadano": "Esta nueva norma obliga a que los documentos públicos (como sentencias o diagnósticos), el voto en elecciones y el diseño de las ciudades sean fáciles de entender para personas con dificultades de comprensión. Introduce el uso de pictogramas oficiales, lenguaje claro y lectura fácil, además de tecnología asistida para eliminar las barreras invisibles de la mente.",
+    "resumen_tweet": "🧠 ¡Adiós a la opacidad! El #BOE regula la accesibilidad cognitiva: lectura fácil y pictogramas para que todos entendamos leyes y juicios. ⚠️ Pero ojo: la financiación es ambigua y depende de presupuestos futuros. #Transparencia #Discapacidad 🇪🇸",
+    "banderas_red_flags": [
+      "Financiación condicionada (Disposición adicional quinta) sin partidas nuevas",
+      "Uso de IA sin marco ético específico de supervisión humana",
+      "Delegación excesiva en un 'catálogo consensuado de pictogramas' aún no creado",
+      "Posible brecha de implementación entre el entorno rural y urbano por falta de medios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas con discapacidad cognitiva y TEA",
+        "Empresas de consultoría en accesibilidad y lectura fácil",
+        "Desarrolladores de software de accesibilidad e IA"
+      ],
+      "perdedores": [
+        "Ayuntamientos pequeños con presupuestos limitados para reformas urbanas",
+        "Administraciones con sistemas informáticos obsoletos",
+        "Ciudadanos en zonas rurales con brecha digital persistente"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Derechos Sociales y Accesibilidad",
+    "banderas_rojas": [
+      "Financiación condicionada (Disposición adicional quinta) sin partidas nuevas",
+      "Uso de IA sin marco ético específico de supervisión humana",
+      "Delegación excesiva en un 'catálogo consensuado de pictogramas' aún no creado",
+      "Posible brecha de implementación entre el entorno rural y urbano por falta de medios"
+    ]
+  },
+  "tweeted": false
+}
