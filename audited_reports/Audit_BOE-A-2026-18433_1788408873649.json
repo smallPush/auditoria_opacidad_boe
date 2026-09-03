@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-18433",
+  "timestamp": "2026-09-03T04:14:33.649Z",
+  "title": "Orden DEF/912/2026, de 27 de agosto, por la que se promueve al empleo de Guardia Civil de la Escala de Cabos y Guardias de la Guardia Civil a un alumno.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento refleja un acto administrativo rutinario de promoción en la Guardia Civil. La opacidad no reside en el nombramiento en sí, sino en la ineficiencia de emitir una Orden Ministerial individualizada para un solo alumno, lo que sugiere una gestión administrativa fragmentada o un retraso burocrático específico. No se detallan los costes asociados a la formación ni la partida presupuestaria exacta del salario consolidado del nuevo efectivo.",
+    "resumen_ciudadano": "Se formaliza el ascenso de un alumno al empleo de Guardia Civil dentro de la Escala de Cabos y Guardias tras superar su plan de estudios. Este trámite le otorga antigüedad oficial y lo posiciona en el escalafón de seguridad del Estado.",
+    "resumen_tweet": "⚖️ Publicado en el #BOE el ascenso de un nuevo Guardia Civil. Aunque es un trámite estándar, la publicación individualizada plantea dudas sobre la eficiencia administrativa. ¿Burocracia necesaria o exceso de celo? 👮‍♂️ #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Fragmentación administrativa por publicación individualizada",
+      "Ausencia de desglose presupuestario del coste de formación",
+      "Uso de recursos ministeriales para un único beneficiario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David García González (obtención de plaza fija y sueldo público)",
+        "Ministerio de Defensa (cobertura de vacantes)"
+      ],
+      "perdedores": [
+        "Ciudadanía (coste de la gestión burocrática y publicación en BOE para un solo individuo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal",
+    "banderas_rojas": [
+      "Fragmentación administrativa por publicación individualizada",
+      "Ausencia de desglose presupuestario del coste de formación",
+      "Uso de recursos ministeriales para un único beneficiario"
+    ]
+  },
+  "tweeted": false
+}
