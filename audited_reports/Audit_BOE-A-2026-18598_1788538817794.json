@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18598",
+  "timestamp": "2026-09-04T16:20:17.794Z",
+  "title": "Resolución de 26 de agosto de 2026, del Ayuntamiento de Silla (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa un desfase temporal significativo entre la publicación de las bases en el Boletín Provincial (diciembre de 2025) y la publicación en el BOE (septiembre de 2026). Este retraso de casi nueve meses para abrir el plazo de solicitudes genera una barrera de acceso para el ciudadano de a pie que no monitoriza diariamente múltiples boletines. Además, la plaza de informático se rige por 'concurso-oposición', un sistema que, a diferencia de la 'oposición' pura de los administrativos, tiende a favorecer a personal interino que ya ocupa el puesto mediante la valoración de méritos previos, lo que podría limitar la meritocracia real frente a la endogamia administrativa.",
+    "resumen_ciudadano": "El Ayuntamiento de Silla (Valencia) convoca tres plazas de empleo público: dos para administrativos y una para informático. El plazo para presentar instancias es de veinte días hábiles a partir del día siguiente a esta publicación. Los interesados deben remitirse a las bases publicadas en el Boletín de la Provincia de Valencia de diciembre de 2025 para conocer los requisitos detallados.",
+    "resumen_tweet": "🚨 El Ayto. de Silla abre plazas con 9 meses de retraso desde sus bases iniciales. ¿Eficiencia o burocracia lenta? 🕒 2 Administrativos y 1 Informático (vía concurso-oposición). El tiempo vuela, la administración no. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación excesiva entre publicación de bases y convocatoria oficial",
+      "Diferencia de criterios de selección: Oposición vs Concurso-Oposición",
+      "Opacidad en la dispersión de anuncios entre BOP, DOGV y BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino (en la plaza de informático por el sistema de concurso)",
+        "Gestores de academias de oposiciones por la dilatación de plazos"
+      ],
+      "perdedores": [
+        "Opositores externos sin puntos por experiencia previa",
+        "Ciudadanos de Silla que sufren la lentitud administrativa en la gestión de RRHH"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Dilación excesiva entre publicación de bases y convocatoria oficial",
+      "Diferencia de criterios de selección: Oposición vs Concurso-Oposición",
+      "Opacidad en la dispersión de anuncios entre BOP, DOGV y BOE"
+    ]
+  },
+  "tweeted": false
+}
