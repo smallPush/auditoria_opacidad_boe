@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18582",
+  "timestamp": "2026-09-04T15:53:38.508Z",
+  "title": "Acuerdo de 24 de marzo de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria del Magistrado don Juan Carlos Aparicio Tobaruela.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento refleja un procedimiento administrativo estándar para la jubilación de la élite judicial. La opacidad no reside en el acto en sí, sino en la remisión genérica a los 'derechos pasivos' sin desglosar el impacto económico real para el erario público. Existe una brecha entre la fecha del acuerdo (marzo) y su efectividad (septiembre), lo que sugiere una planificación de salida blindada. La mención a Clases Pasivas subraya un régimen de retiro diferenciado del ciudadano común.",
+    "resumen_ciudadano": "Se formaliza la jubilación voluntaria de un magistrado de la Sección de lo Social en Almería. El Estado garantiza su pensión bajo un régimen especial, liberando una plaza en un área crítica (social) que suele sufrir grandes retrasos judiciales.",
+    "resumen_tweet": "⚖️ El #BOE anuncia la jubilación de un magistrado en Almería. Se activan derechos pasivos sin transparencia sobre el coste público real. Mientras, la justicia de calle sufre esperas. ¿Privilegios o gestión? 📉 #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Falta de cuantificación de la pensión generada",
+      "Decalaje de seis meses entre el acuerdo y la publicación efectiva",
+      "Uso de regímenes de retiro (Clases Pasivas) distintos al sistema general"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Carlos Aparicio Tobaruela (acceso a jubilación con derechos pasivos)",
+        "Sistema de Clases Pasivas (mantenimiento de privilegios de clase)"
+      ],
+      "perdedores": [
+        "Contribuyentes (pago de pensiones de alta escala sin desglose)",
+        "Justiciables de Almería (posible vacante en juzgado social)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Gestión de Personal del Poder Judicial",
+    "banderas_rojas": [
+      "Falta de cuantificación de la pensión generada",
+      "Decalaje de seis meses entre el acuerdo y la publicación efectiva",
+      "Uso de regímenes de retiro (Clases Pasivas) distintos al sistema general"
+    ]
+  },
+  "tweeted": false
+}
