@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18596",
+  "timestamp": "2026-09-04T16:23:44.681Z",
+  "title": "Resolución de 26 de agosto de 2026, del Ayuntamiento de Santa Pola (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria estándar para funcionarios de carrera (Grupo A1), pero con una bandera roja administrativa: las bases publicadas en abril de 2026 sufrieron una rectificación en agosto de 2026, justo antes de su publicación en el BOE. Este desfase de cuatro meses y la modificación de las reglas del juego sugieren posibles errores de diseño o ajustes técnicos que pueden comprometer la seguridad jurídica de los aspirantes. El sistema de 'oposición pura' en turno libre favorece teóricamente la meritocracia, pero en la práctica consolida una barrera de clase, ya que estas plazas requieren años de preparación privada no remunerada.",
+    "resumen_ciudadano": "El Ayuntamiento de Santa Pola abre el proceso para contratar a dos Técnicos de Administración General. El plazo de inscripción es de 20 días hábiles. Es crucial revisar la rectificación de las bases publicada en agosto, ya que el texto original de abril fue modificado. Estas plazas son de alto nivel (A1) y gestionarán la burocracia municipal.",
+    "resumen_tweet": "🔍 Santa Pola lanza 2 plazas de Técnico (A1). Ojo: las bases se rectificaron 4 meses después de su creación. ¿Errores o ajustes a medida? La alta administración sigue siendo un embudo de clase. 📉 #BOE #Opacidad #Transparencia #SantaPola",
+    "banderas_red_flags": [
+      "Rectificación tardía de bases",
+      "Intervalo de 4 meses entre publicación provincial y nacional",
+      "Alta discrecionalidad técnica en puestos A1"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con alto capital económico para preparación de larga duración",
+        "Academias de formación",
+        "Cargos técnicos municipales"
+      ],
+      "perdedores": [
+        "Aspirantes con menos recursos económicos",
+        "Candidatos que no sigan el rastro de las rectificaciones en boletines provinciales"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Rectificación tardía de bases",
+      "Intervalo de 4 meses entre publicación provincial y nacional",
+      "Alta discrecionalidad técnica en puestos A1"
+    ]
+  },
+  "tweeted": false
+}
