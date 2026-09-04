@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18597",
+  "timestamp": "2026-09-04T16:18:18.215Z",
+  "title": "Resolución de 26 de agosto de 2026, del Ayuntamiento de Bétera (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria del Ayuntamiento de B&eacute;tera para plazas de servicios sociales presenta indicadores de opacidad administrativa. El uso del sistema de concurso-oposici&oacute;n en el &aacute;mbito local suele priorizar la antig&uuml;edad de los interinos actuales sobre la capacidad de nuevos aspirantes. Adem&aacute;s, el plazo de presentaci&oacute;n de solicitudes se ha reducido a tan solo diez d&iacute;as h&aacute;biles, la mitad del est&aacute;ndar habitual de veinte, lo que supone una barrera de acceso para candidatos externos que no sigan diariamente el Bolet&iacute;n de la Provincia. La rectificaci&oacute;n de bases apenas dos semanas antes de la publicaci&oacute;n en el BOE sugiere una falta de rigor t&eacute;cnico o ajustes de &uacute;ltima hora en los baremos.",
+    "resumen_ciudadano": "Se convocan 4 plazas (2 Trabajadores Sociales y 2 Educadores Sociales) en B&eacute;tera mediante un sistema que mezcla examen y m&eacute;ritos. El tiempo para inscribirse es extremadamente corto (10 d&iacute;as), lo que limita la competencia y favorece a quienes ya conocen el funcionamiento interno del consistorio.",
+    "resumen_tweet": "&iexcl;Alerta en B&eacute;tera! 4 plazas de Servicios Sociales convocadas con solo 10 D&Iacute;AS para inscribirse &bull; El sistema de concurso-oposici&oacute;n y plazos expr&eacute;s dificultan el acceso a nuevos candidatos. &iquest;Transparencia o traje a medida? &eth; #BOE #Opacidad #EmpleoP&uacute;blico",
+    "banderas_red_flags": [
+      "Plazo de inscripci&oacute;n inusualmente corto (10 d&iacute;as)",
+      "Rectificaci&oacute;n de bases previa a la convocatoria",
+      "Sistema de concurso-oposici&oacute;n que favorece el inmovilismo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de B&eacute;tera",
+        "Candidatos con red de contactos local"
+      ],
+      "perdedores": [
+        "Opositores libres",
+        "Nuevos graduados sin puntos por experiencia",
+        "Movilidad laboral interterritorial"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo P&uacute;blico Local",
+    "banderas_rojas": [
+      "Plazo de inscripci&oacute;n inusualmente corto (10 d&iacute;as)",
+      "Rectificaci&oacute;n de bases previa a la convocatoria",
+      "Sistema de concurso-oposici&oacute;n que favorece el inmovilismo"
+    ]
+  },
+  "tweeted": false
+}
