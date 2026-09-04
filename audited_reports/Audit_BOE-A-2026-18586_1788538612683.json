@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18586",
+  "timestamp": "2026-09-04T16:16:52.683Z",
+  "title": "Resolución de 7 de agosto de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve el concurso específico, convocado por Resolución de 12 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución de la CNMC bajo apariencia de concurso competitivo es, en la práctica, un proceso de consolidación interna. Al analizar las tablas de adjudicación, se detecta que en la mayoría de los casos el 'puesto de cese' y el 'puesto adjudicado' son idénticos en denominación y código, lo que indica que el personal ya desempeñaba esas funciones. Este mecanismo administrativo genera una falsa sensación de movilidad y apertura, cuando en realidad actúa como un blindaje de la estructura burocrática existente. Además, la declaración de plazas desiertas en niveles técnicos y de secretaría (C1/C2) sugiere una desconexión entre la oferta de plazas base y el interés o capacidad de acceso de los niveles inferiores frente a la élite de niveles 26-28.",
+    "resumen_ciudadano": "La Comisión Nacional de los Mercados y la Competencia ha finalizado el reparto de 21 puestos de trabajo de alta responsabilidad en Madrid. Aunque se convoca como un concurso, la mayoría de los seleccionados (niveles 28 y 26) ya estaban ocupando esos mismos despachos. Se observa que los puestos de apoyo, como analistas programadores y secretarios, han quedado vacantes, lo que debilita la estructura operativa mientras se refuerza la jerarquía superior.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos la @CNMC_ES: Adjudicadas 21 plazas de alto nivel en Madrid. ¿La sorpresa? La mayoría ya ocupaba el puesto. Un trámite que consolida a la élite burocrática mientras los puestos técnicos quedan vacíos. #BOE #Opacidad #Transparencia ⚖️🏛️",
+    "banderas_red_flags": [
+      "Endogamia administrativa",
+      "Puestos espejo (mismo puesto antes y después)",
+      "Falta de rotación real en cargos de alta dirección",
+      "Plazas de apoyo técnico declaradas desiertas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de niveles 26 y 28 (A1/A2)",
+        "Personal ya asentado en la CNMC",
+        "Burocracia centralizada en Madrid"
+      ],
+      "perdedores": [
+        "Aspirantes externos a la institución",
+        "Cuerpos técnicos de niveles C1/C2",
+        "Transparencia en la movilidad funcionarial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Endogamia administrativa",
+      "Puestos espejo (mismo puesto antes y después)",
+      "Falta de rotación real en cargos de alta dirección",
+      "Plazas de apoyo técnico declaradas desiertas"
+    ]
+  },
+  "tweeted": false
+}
