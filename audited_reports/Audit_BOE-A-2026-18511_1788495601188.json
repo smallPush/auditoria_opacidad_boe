@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18511",
+  "timestamp": "2026-09-04T04:20:01.188Z",
+  "title": "Real Decreto 709/2026, de 2 de septiembre, por el que se modifica el Real Decreto 485/2025, de 17 de junio, por el que se modifican el Real Decreto 874/2017, de 29 de septiembre, por el que se regula el apoyo oficial en forma de subvención al tipo de interés de los créditos para la construcción de buques, y el Real Decreto 1071/2021, de 7 de diciembre, por el que se regula la concesión de ayudas al sector de construcción naval en materia de investigación, desarrollo e innovación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Estamos ante un caso de 'legislación de muñecas rusas': un Real Decreto que modifica otro Real Decreto que, a su vez, modificaba otros dos anteriores. Esta técnica legislativa diluye la fiscalización ciudadana. La norma admite una 'omisión del legislador' previa para permitir que proyectos navales con subvenciones ya concedidas puedan renegociar sus condiciones si hay 'alteraciones sustanciales'. Esto abre la puerta a que ayudas públicas se adapten a cambios en contratos privados de construcción de buques, flexibilizando el control sobre el destino final de los fondos bajo el pretexto de corregir un error técnico.",
+    "resumen_ciudadano": "El Gobierno ha aprobado un cambio legal para que los astilleros y armadores que ya tenían concedidas ayudas para construir barcos puedan modificar las condiciones de esas subvenciones si sus contratos cambian. Básicamente, se 'arregla' un olvido en la ley anterior que impedía a ciertos buques (aún no entregados) beneficiarse de una mayor flexibilidad en las ayudas recibidas por intereses bancarios e innovación.",
+    "resumen_tweet": "🚢 El Gobierno parchea la ley para que las subvenciones navales ya concedidas sean 'flexibles'. Una 'omisión legislativa' permite ahora renegociar ayudas a buques no entregados. ¿Más facilidades para el sector o menos control? #BOE #Opacidad #Naval 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Modificación de una modificación previa (complejidad técnica)",
+      "Reconocimiento explícito de 'omisión del legislador'",
+      "Retroactividad encubierta en la modificación de resoluciones ya emitidas",
+      "Conceptos vagos como 'alteraciones sustanciales' del contrato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes astilleros",
+        "Armadores con buques en proceso de construcción",
+        "Ministerio de Industria y Turismo (mayor discrecionalidad)"
+      ],
+      "perdedores": [
+        "Contribuyentes (posible aumento del coste de las subvenciones)",
+        "Transparencia pública (dificultad de seguimiento del gasto real)",
+        "Pymes del sector (que no manejan estos volúmenes de financiación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Subvenciones Industriales",
+    "banderas_rojas": [
+      "Modificación de una modificación previa (complejidad técnica)",
+      "Reconocimiento explícito de 'omisión del legislador'",
+      "Retroactividad encubierta en la modificación de resoluciones ya emitidas",
+      "Conceptos vagos como 'alteraciones sustanciales' del contrato"
+    ]
+  },
+  "tweeted": false
+}
