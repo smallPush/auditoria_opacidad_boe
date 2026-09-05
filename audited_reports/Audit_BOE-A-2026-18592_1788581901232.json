@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18592",
+  "timestamp": "2026-09-05T04:18:21.232Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de La Pobla de Farnals (Valencia/València), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de concurso-oposición para el acceso libre, una técnica habitual en la administración local que, bajo la apariencia de igualdad, suele favorecer la consolidación de personal interino ya presente en la institución mediante la valoración de méritos previos. La figura de 'Técnico/a de Subvenciones' es especialmente sensible, ya que gestiona el flujo de capital externo hacia el municipio; la falta de detalle sobre los baremos de puntuación en este extracto del BOE obliga al ciudadano a un rastreo documental en boletines de menor jerarquía (BOP), dificultando el control social sobre la imparcialidad del proceso.",
+    "resumen_ciudadano": "El Ayuntamiento de La Pobla de Farnals abre el plazo para contratar a un Técnico de Subvenciones y a un Informático. El proceso no es un examen puro, sino que también contará la experiencia previa y títulos, lo cual beneficia a quienes ya tienen trayectoria en el sector público. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "⚠️ ¿Oportunidad real o consolidación encubierta? La Pobla de Farnals convoca plazas de informática y subvenciones mediante concurso-oposición. El peso de los méritos puede dificultar el acceso al talento joven externo. 🧐🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en turno libre que prima la antigüedad",
+      "Opacidad en la remuneración prevista para los puestos",
+      "Necesidad de consultar boletines provinciales externos para conocer los criterios de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del propio ayuntamiento",
+        "Candidatos con experiencia previa en la administración local"
+      ],
+      "perdedores": [
+        "Licenciados recién graduados sin puntos por experiencia",
+        "Candidatos procedentes del sector privado sin experiencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en turno libre que prima la antigüedad",
+      "Opacidad en la remuneración prevista para los puestos",
+      "Necesidad de consultar boletines provinciales externos para conocer los criterios de selección"
+    ]
+  },
+  "tweeted": false
+}
