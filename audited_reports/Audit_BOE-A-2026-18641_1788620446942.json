@@ -1,0 +1,30 @@
+{
+  "boe_id": "BOE-A-2026-18641",
+  "timestamp": "2026-09-05T15:00:46.942Z",
+  "title": "Acuerdo de 2 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María del Carmen Casado Guijarro.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de jubilación forzosa por cumplimiento de edad legal de una Magistrada. Aunque el lenguaje es puramente técnico-jurídico, la opacidad reside en la falta de mención al impacto presupuestario que suponen las 'clases pasivas' para altos funcionarios frente al sistema de Seguridad Social ordinario. No existen gastos fantasma directos en el texto, pero sí un compromiso de gasto futuro automático e indeterminado para el erario público.",
+    "resumen_ciudadano": "La Magistrada María del Carmen Casado Guijarro cesa en sus funciones en el Tribunal de Instancia de Madrid debido a que ha alcanzado la edad máxima permitida por ley. Este trámite le otorga el derecho a cobrar su pensión bajo el régimen especial de Clases Pasivas del Estado.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la cúpula judicial de Madrid. Se activa la pensión por 'Clases Pasivas' para una Magistrada. Un trámite automático que recuerda los privilegios de los altos funcionarios frente al trabajador medio. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Indeterminación del coste de la pensión",
+      "Régimen especial de Clases Pasivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del Poder Judicial (acceso a pensiones máximas garantizadas)"
+      ],
+      "perdedores": [
+        "Sistema público de pensiones general (por mantenimiento de regímenes de privilegio)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal y nombramientos",
+    "banderas_rojas": [
+      "Indeterminación del coste de la pensión",
+      "Régimen especial de Clases Pasivas"
+    ]
+  },
+  "tweeted": false
+}
