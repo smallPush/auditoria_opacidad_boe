@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18655",
+  "timestamp": "2026-09-05T15:11:41.626Z",
+  "title": "Resolución de 27 de agosto de 2026, del Ayuntamiento de Camas (Sevilla), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "Se detecta una anomalía temporal significativa: las bases se publicaron en enero de 2025, se rectificaron en mayo de 2026 y no se abren a nivel nacional hasta septiembre de 2026. Esta dilatación de 20 meses entre el anuncio inicial y la convocatoria real genera una asimetría de información grave, favoreciendo a quienes hayan seguido el proceso localmente frente al ciudadano general. El sistema de 'concurso-oposición' para una sola plaza técnica en el ámbito local es frecuentemente utilizado para la consolidación de interinos, limitando la movilidad social ascendente de nuevos profesionales.",
+    "resumen_ciudadano": "El Ayuntamiento de Camas (Sevilla) convoca una plaza de delineante por el sistema de concurso-oposición. Tras casi dos años de trámites y rectificaciones en las bases, se abre por fin el plazo de 20 días hábiles para presentar solicitudes. Al ser concurso-oposición, la experiencia previa en la administración pública será determinante para obtener el puesto.",
+    "resumen_tweet": "⚠️ ¿Transparencia o burocracia infinita? El Ayto de Camas publica en el #BOE una plaza de delineante con bases de 2025. 🕒 20 meses de espera y cambios en las bases. El concurso-oposición para 1 sola plaza dificulta el acceso libre. #Opacidad #Sevilla",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva (20 meses de proceso)",
+      "Rectificación de bases a mitad de procedimiento",
+      "Sistema de concurso-oposición para vacante única",
+      "Posible barrera de entrada para opositores externos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos por antigüedad",
+        "Aspirantes locales con acceso previo a las rectificaciones de mayo"
+      ],
+      "perdedores": [
+        "Delineantes titulados sin experiencia previa en administración",
+        "Candidatos externos penalizados por la fragmentación de anuncios (BOP, BOJA, BOE)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva (20 meses de proceso)",
+      "Rectificación de bases a mitad de procedimiento",
+      "Sistema de concurso-oposición para vacante única",
+      "Posible barrera de entrada para opositores externos"
+    ]
+  },
+  "tweeted": false
+}
