@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18657",
+  "timestamp": "2026-09-05T15:19:39.794Z",
+  "title": "Resolución de 27 de agosto de 2026, de la Ciudad Autónoma de Ceuta, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion presenta un modelo de gestion de recursos humanos basado exclusivamente en la promocion interna, lo que blinda la administracion frente a la entrada de talento externo. El uso del sistema de concurso-oposicion para una plaza de ingeniero y otra de sepulturero bajo este regimen sugiere una consolidacion de personal existente mas que una busqueda de eficiencia. No se especifica el coste salarial ni el impacto presupuestario de estos cambios de escala.",
+    "resumen_ciudadano": "La Ciudad de Ceuta convoca dos puestos de trabajo (un ingeniero y un sepulturero) pero solo pueden optar a ellos personas que ya trabajan en el ayuntamiento. Los ciudadanos de a pie estan excluidos de esta convocatoria.",
+    "resumen_tweet": "🚨 ¡Atencion en Ceuta! Plazas de empleo publico blindadas: Ingeniero y Sepulturero reservados solo para los que ya estan dentro. 🛑 Sin acceso libre para el resto de ciudadanos. ¿Puerta cerrada al talento externo? #BOE #Opacidad #Transparencia #Ceuta",
+    "banderas_red_flags": [
+      "Acceso restringido por promocion interna",
+      "Opacidad en el gasto estructural derivado",
+      "Ausencia de convocatoria de turno libre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interno de la Ciudad Autonoma de Ceuta",
+        "Estructuras sindicales de la administracion local"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Ingenieros de telecomunicacion desempleados",
+        "Ciudadanos en busca de empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Ciudad Autonoma de Ceuta",
+    "tipologia": "Resolucion de Empleo Publico",
+    "banderas_rojas": [
+      "Acceso restringido por promocion interna",
+      "Opacidad en el gasto estructural derivado",
+      "Ausencia de convocatoria de turno libre"
+    ]
+  },
+  "tweeted": false
+}
