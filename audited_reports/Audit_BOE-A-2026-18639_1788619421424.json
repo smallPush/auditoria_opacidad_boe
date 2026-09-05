@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18639",
+  "timestamp": "2026-09-05T14:43:41.424Z",
+  "title": "Resolución de 4 de septiembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque la resolución cumple con la transparencia formal al listar precios, oculta la carga impositiva real detrás de cada producto. Se observa una disparidad extrema de precios que refleja una segmentación de clase: desde cigarros de 90 euros la unidad hasta picadura de liar para economías precarias. Es llamativa la validación oficial de nombres de productos que podrían considerarse ofensivos o de dudoso gusto ('Anda Mongolo'), lo que sugiere un proceso de revisión meramente burocrático y falto de sensibilidad social.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios oficiales del tabaco en España. Esta resolución detalla cuánto costarán a partir de ahora diversas marcas de puros, cigarrillos, picadura de liar y de pipa tanto en la península como en Ceuta y Melilla. Los precios son propuestos por fabricantes e importadores y el Estado actúa como validador de este monopolio.",
+    "resumen_tweet": "🚬 Nueva subida y ajuste de precios del tabaco en el #BOE. De puros de lujo a 90€ hasta picaduras de liar. El Estado mantiene el control del monopolio recaudatorio mientras valida nombres de marcas cuestionables. 💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Nombres de productos potencialmente ofensivos validados por el Comisionado",
+      "Extrema dispersión de precios (lujo vs. consumo popular)",
+      "Falta de desglose del componente tributario en el precio final",
+      "Procedimiento de fijación de precios dictado por fabricantes/importadores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (mantenimiento de ingresos vía Impuestos Especiales)",
+        "Marcas de lujo (Montecristo, H. Upmann)",
+        "Grandes importadores de tabaco"
+      ],
+      "perdedores": [
+        "Clases populares (consumidores de picadura con menor renta)",
+        "Salud pública (fomento del consumo mediante segmentación)",
+        "Sensibilidad social (por nombres de productos degradantes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Regulación de Precios",
+    "banderas_rojas": [
+      "Nombres de productos potencialmente ofensivos validados por el Comisionado",
+      "Extrema dispersión de precios (lujo vs. consumo popular)",
+      "Falta de desglose del componente tributario en el precio final",
+      "Procedimiento de fijación de precios dictado por fabricantes/importadores"
+    ]
+  },
+  "tweeted": false
+}
