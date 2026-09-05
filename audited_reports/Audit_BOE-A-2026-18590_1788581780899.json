@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18590",
+  "timestamp": "2026-09-05T04:16:20.899Z",
+  "title": "Resolución de 31 de agosto de 2026, de la Diputación Provincial de León, de corrección de errores de la de 24 de agosto de 2026, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución de la Diputación de León presenta una rectificación estructural bajo la apariencia de un simple error material. Cambiar la clasificación de cinco plazas de 'Administración Especial' a 'Administración General, subescala Técnica' altera radicalmente los requisitos de titulación y las competencias exigidas a los aspirantes. Este tipo de 'correcciones' en procesos de concurso suelen indicar una planificación deficiente o un intento de ajustar el perfil de la plaza a candidatos específicos tras detectar que la clasificación inicial no encajaba con el objetivo deseado. La reapertura parcial del plazo de instancias confirma la profundidad del cambio.",
+    "resumen_ciudadano": "Se ha modificado la clasificación profesional de 5 puestos de Coordinador Administrativo en la Diputación de León. Lo que antes era 'Administración Especial' ahora es 'Administración General'. Esto abre un nuevo plazo de 15 días para presentar solicitudes únicamente para estos puestos, afectando a quiénes pueden optar a ellos según su titulación.",
+    "resumen_tweet": "⚠️ ¡Atención León! La Diputación rectifica la clasificación de 5 plazas de Coordinador Administrativo. De 'Especial' a 'General'. ¿Error técnico o ajuste de perfiles? Se reabre plazo de 15 días. 🧐 #BOE #Opacidad #Transparencia #León",
+    "banderas_red_flags": [
+      "Cambio sustancial de requisitos mediante corrección de errores",
+      "Reapertura de plazos selectivos ad hoc",
+      "Opacidad en la justificación del cambio de subescala"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con perfiles de Administración General/Técnica",
+        "Responsables de RRHH que ajustan la convocatoria"
+      ],
+      "perdedores": [
+        "Aspirantes de la escala de Administración Especial inicialmente previstos",
+        "Contribuyentes por el retraso y coste administrativo del proceso"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Cambio sustancial de requisitos mediante corrección de errores",
+      "Reapertura de plazos selectivos ad hoc",
+      "Opacidad en la justificación del cambio de subescala"
+    ]
+  },
+  "tweeted": false
+}
