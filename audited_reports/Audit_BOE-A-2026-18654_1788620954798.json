@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18654",
+  "timestamp": "2026-09-05T15:09:14.798Z",
+  "title": "Resolución de 27 de agosto de 2026, de la Entidad Local Autónoma de Bobadilla Estación (Málaga), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria para una única plaza de administrativo en una Entidad Local Autónoma mediante el sistema de concurso-oposición. Este método, a diferencia de la oposición pura, permite ponderar méritos previos, lo que frecuentemente se traduce en una ventaja competitiva para personal interino ya vinculado a la institución. Destaca la rectificación de las bases efectuada meses después de su publicación inicial, un cambio que podría alterar las reglas del juego para los aspirantes externos y que suele indicar falta de previsión o ajustes técnicos de última hora que afectan a la seguridad jurídica.",
+    "resumen_ciudadano": "Bobadilla Estación (Málaga) abre el proceso para contratar a un administrativo de forma fija. El proceso combina examen y valoración de experiencia previa (méritos). Los interesados tienen 20 días hábiles para inscribirse tras esta publicación. Es vital revisar las bases corregidas en mayo de 2026 para entender los criterios exactos de puntuación.",
+    "resumen_tweet": "🚨 ¡Atención Málaga! Bobadilla Estación busca administrativo. El sistema es concurso-oposición (ojo a los méritos 🧐) y las bases fueron rectificadas previamente. ¡Vigilancia ciudadana para que no haya favoritismos! #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para una sola plaza libre",
+      "Rectificación de bases meses después de la publicación original",
+      "Falta de detalle sobre el contenido de la rectificación en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en la Entidad Local",
+        "Candidatos con red de contactos local que conocieran la rectificación de mayo"
+      ],
+      "perdedores": [
+        "Opositores por turno libre sin experiencia previa",
+        "Ciudadanos que esperan procesos de selección basados exclusivamente en capacidad y examen"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para una sola plaza libre",
+      "Rectificación de bases meses después de la publicación original",
+      "Falta de detalle sobre el contenido de la rectificación en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
