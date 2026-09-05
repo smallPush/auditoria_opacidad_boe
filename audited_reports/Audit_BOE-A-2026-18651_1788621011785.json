@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18651",
+  "timestamp": "2026-09-05T15:10:11.785Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Garafía (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria para la dirección de una residencia de mayores en el Ayuntamiento de Garafía muestra una anomalía procedimental: las bases fueron rectificadas en tres ocasiones consecutivas (27 de julio, 7 de agosto y 24 de agosto de 2026) antes de su publicación definitiva en el BOE. Esta inestabilidad en las reglas del juego antes de abrir el plazo de inscripción es una práctica que suele ocultar el 'ajuste' de requisitos para perfiles específicos, reduciendo la igualdad de oportunidades. El sistema de concurso-oposición, al incluir valoración de méritos subjetivos, sumado a las constantes correcciones, arroja sombras sobre la imparcialidad del proceso.",
+    "resumen_ciudadano": "El Ayuntamiento de Garafía busca un Director/a para su residencia de mayores. El proceso es de acceso libre, pero las bases que regulan quién puede conseguir el puesto han sido modificadas tres veces en apenas dos meses, lo que genera dudas sobre la claridad del proceso selectivo. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "🚨 ¿Plaza a medida? El Ayto. de Garafía convoca plaza de Director/a de Residencia tras RECTIFICAR las bases 3 veces en un mes. 🧐 La inestabilidad en las reglas del proceso genera dudas sobre la igualdad de condiciones. #BOE #Opacidad #Transparencia 🏛️🔍",
+    "banderas_red_flags": [
+      "Triple rectificación de bases en menos de 60 días",
+      "Posible diseño de plaza 'ad hoc'",
+      "Opacidad en el contenido de las rectificaciones desde el anuncio del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos con perfiles alineados con las rectificaciones de última hora",
+        "Personal interno con información sobre los cambios de criterio"
+      ],
+      "perdedores": [
+        "Opositores externos sin acceso a la intrahistoria de los cambios",
+        "La transparencia en la gestión del empleo público local"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Triple rectificación de bases en menos de 60 días",
+      "Posible diseño de plaza 'ad hoc'",
+      "Opacidad en el contenido de las rectificaciones desde el anuncio del BOE"
+    ]
+  },
+  "tweeted": false
+}
