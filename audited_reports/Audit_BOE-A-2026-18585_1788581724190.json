@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18585",
+  "timestamp": "2026-09-05T04:15:24.190Z",
+  "title": "Orden PJC/929/2026, de 27 de agosto, por la que se corrigen errores en la Orden PJC/849/2026, de 31 de julio, por la que se nombra personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, por promoción interna, a las personas que superaron el proceso selectivo convocado por Orden JUS/150/2024, de 19 de febrero.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una corrección de errores técnica amparada en el artículo 109.2 de la Ley 39/2015. Aunque es un procedimiento estándar para garantizar la seguridad jurídica, subraya la ineficiencia del sistema administrativo que requiere una nueva publicación oficial en el BOE para subsanar un error de inclusión en anexos. No se detectan 'Gastos Fantasma', pero el coste operativo de movilizar la maquinaria del Estado para rectificar un solo nombre refleja una burocracia aún muy rígida y poco automatizada.",
+    "resumen_ciudadano": "Se corrige un error en el nombramiento de una funcionaria del Cuerpo de Tramitación Procesal y Administrativa en Andalucía. Doña Luz María Soria Porras, que había sido mal ubicada en los listados previos de promoción interna, queda ahora formalmente nombrada tras alcanzar una puntuación total de 108,5 puntos.",
+    "resumen_tweet": "📝 Nueva corrección de errores en el #BOE: el Ministerio de Justicia rectifica el nombramiento de una funcionaria en Andalucía tras un fallo en los anexos. ¿Es necesaria tanta burocracia para un error de transcripción? ⚖️ #Transparencia #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Error administrativo en la publicación original PJC/849/2026",
+      "Carga administrativa innecesaria por fallos de revisión",
+      "Procedimiento de rectificación manual lento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luz María Soria Porras (regulariza su situación administrativa)",
+        "Funcionarios de promoción interna"
+      ],
+      "perdedores": [
+        "Eficiencia de la administración pública (coste de oportunidad)",
+        "Agilidad en la gestión de recursos humanos del Ministerio"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Administrativa / Recursos Humanos",
+    "banderas_rojas": [
+      "Error administrativo en la publicación original PJC/849/2026",
+      "Carga administrativa innecesaria por fallos de revisión",
+      "Procedimiento de rectificación manual lento"
+    ]
+  },
+  "tweeted": false
+}
