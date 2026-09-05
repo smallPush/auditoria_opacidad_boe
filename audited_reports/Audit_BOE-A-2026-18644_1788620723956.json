@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-18644",
+  "timestamp": "2026-09-05T15:05:23.956Z",
+  "title": "Orden EFD/934/2026, de 28 de agosto, por la que, a propuesta de la Consejería de Educación y Universidades de la Comunidad Autónoma de las Illes Balears, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Maestros y Profesores Especialistas en Sectores Singulares de la Formación Profesional, a las personas seleccionadas en los procedimientos selectivos convocados por la Resolución de 26 de marzo de 2024.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de funcionarios de carrera tras superar procesos selectivos convocados en 2024. El documento es transparente en cuanto a la identidad y puntuación de los seleccionados, pero evidencia la lentitud burocrática del sistema educativo, donde la resolución definitiva de plazas con situaciones especiales (como aplazamientos de prácticas) demora más de dos años desde la convocatoria inicial.",
+    "resumen_ciudadano": "El Gobierno oficializa el nombramiento definitivo como funcionarios de carrera para profesores y maestros en las Illes Balears que habían superado las oposiciones de 2024 pero tenían pendiente su evaluación. Esto les otorga estabilidad laboral total y derechos de carrera administrativa.",
+    "resumen_tweet": "⚖️ Estabilidad docente en Baleares: El BOE oficializa a nuevos funcionarios de carrera tras procesos iniciados en 2024. Un paso clave para reducir la temporalidad, aunque con tiempos de espera administrativos elevados. 🍎 #BOE #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Dilación administrativa (2024-2026) para resolver expedientes con aplazamiento",
+      "Opacidad colateral en el número total de vacantes remanentes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal docente nombrado (Aina Llompart, Abel Mateu, Antonio Tur)",
+        "Estabilidad del sistema educativo balear"
+      ],
+      "perdedores": [
+        "Aspirantes en lista de espera que no obtuvieron plaza",
+        "Interinos desplazados por la consolidación de estas plazas"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos de personal funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa (2024-2026) para resolver expedientes con aplazamiento",
+      "Opacidad colateral en el número total de vacantes remanentes"
+    ]
+  },
+  "tweeted": false
+}
