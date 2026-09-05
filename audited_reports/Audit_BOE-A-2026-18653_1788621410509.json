@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18653",
+  "timestamp": "2026-09-05T15:16:50.509Z",
+  "title": "Resolución de 25 de agosto de 2026, del Ayuntamiento de El Barraco (Ávila), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución utiliza el sistema de 'concurso-oposición' para plazas de turno libre en un municipio pequeño, lo cual frecuentemente encubre procesos de estabilización de personal interino bajo una apariencia de libre concurrencia. La opacidad reside en la remisión a las bases publicadas en el Boletín Provincial, obligando al ciudadano a un rastreo adicional para conocer los baremos de méritos que suelen decidir estas plazas antes del examen.",
+    "resumen_ciudadano": "El Ayuntamiento de El Barraco (Ávila) convoca dos plazas de administrativo. El proceso se realizará mediante examen y valoración de méritos. Los interesados tienen 20 días hábiles desde mañana para presentar su solicitud tras la publicación en el BOE.",
+    "resumen_tweet": "🏛️ ¿Plazas libres o con nombre? El Barraco (#Ávila) convoca 2 administrativos por concurso-oposición. El sistema de méritos en pueblos pequeños a menudo dificulta el acceso a quienes no están ya dentro. ¡Vigilemos las bases! 🧐 #BOE #Transparencia #Empleo",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en turno libre",
+      "Remisión de bases a boletín provincial para ocultar baremos",
+      "Posible consolidación de interinos encubierta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del Ayuntamiento (por puntos de experiencia)",
+        "Candidatos locales con red de información previa"
+      ],
+      "perdedores": [
+        "Opositores jóvenes sin experiencia previa en administración",
+        "Candidatos externos al municipio con mejores notas pero sin méritos por servicios prestados"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en turno libre",
+      "Remisión de bases a boletín provincial para ocultar baremos",
+      "Posible consolidación de interinos encubierta"
+    ]
+  },
+  "tweeted": false
+}
