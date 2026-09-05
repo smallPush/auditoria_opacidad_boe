@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18642",
+  "timestamp": "2026-09-05T15:04:27.884Z",
+  "title": "Acuerdo de 2 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Juan Ramón Berdugo Gómez de la Torre.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque se trata de un acto administrativo reglado, el documento ejemplifica la opacidad sobre el coste real para el erario público de las jubilaciones de la cúpula judicial. Se menciona el derecho a 'clases pasivas' sin especificar la cuantía, un régimen de privilegio comparado con el sistema general. Además, la vacante en la Sala de lo Penal del Supremo abre la puerta a nombramientos discrecionales en un órgano clave para la política nacional.",
+    "resumen_ciudadano": "Se formaliza la jubilación forzosa por edad de Juan Ramón Berdugo, magistrado del Tribunal Supremo. Esto implica su salida de la actividad judicial y el inicio de su percepción de una pensión de jubilación bajo un régimen especial del Estado.",
+    "resumen_tweet": "⚖️ Jubilación en la cúspide: El Magistrado Berdugo deja la Sala de lo Penal del Supremo. Se activa el régimen de 'clases pasivas' sin transparencia sobre su coste total. ¿Quién ocupará esta silla clave? #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de detalle en la cuantía de los derechos pasivos",
+      "Régimen de pensiones de privilegio (Clases Pasivas)",
+      "Impacto en la composición ideológica de la Sala de lo Penal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado jubilado (pensionado de alta gama)",
+        "Candidatos a la vacante en el Tribunal Supremo",
+        "Poder político con influencia en el CGPJ"
+      ],
+      "perdedores": [
+        "Contribuyente (sostenimiento de regímenes especiales)",
+        "Sistema de seguridad social general (desigualdad de trato)",
+        "Ciudadanía (incertidumbre sobre la renovación judicial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Falta de detalle en la cuantía de los derechos pasivos",
+      "Régimen de pensiones de privilegio (Clases Pasivas)",
+      "Impacto en la composición ideológica de la Sala de lo Penal"
+    ]
+  },
+  "tweeted": false
+}
