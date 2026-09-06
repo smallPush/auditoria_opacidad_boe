@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18649",
+  "timestamp": "2026-09-06T04:29:11.135Z",
+  "title": "Resolución de 26 de agosto de 2026, del Ayuntamiento de Albacete, Gerencia Municipal de Urbanismo y Vivienda, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución se ampara en el sistema de 'concurso' para proveer puestos técnicos de alta responsabilidad (Arquitectos, Jefaturas de Urbanismo). Aunque es legal, el sistema de concurso prioriza méritos preexistentes sobre la capacidad demostrada en examen abierto, lo que a menudo blinda la permanencia de personal interino o facilita promociones internas precocinadas. La remisión de las bases detalladas al Boletín Provincial (BOP) y no su inclusión en el BOE genera una barrera de acceso a la información para el ciudadano común, dificultando la fiscalización de los baremos de puntuación.",
+    "resumen_ciudadano": "El Ayuntamiento de Albacete abre un proceso para cubrir 21 plazas en su Gerencia de Urbanismo. Se buscan desde auxiliares hasta arquitectos e inspectores. El proceso se hará por méritos (concurso), lo que suele favorecer a quienes ya están dentro de la administración, limitando las oportunidades para nuevos aspirantes sin experiencia en el sector público.",
+    "resumen_tweet": "🏛️ Albacete convoca 21 plazas en Urbanismo vía concurso de méritos. ¿Transparencia o consolidación de interinos? 🧐 El sistema de puntos suele favorecer a los de 'casa'. Las bases no están en el BOE, hay que ir al BOP. 🔍 #BOE #Opacidad #Albacete",
+    "banderas_red_flags": [
+      "Sistema de concurso exclusivo para puestos de alta dirección y técnicos",
+      "Fragmentación de la información (bases fuera del BOE)",
+      "Concentración de plazas en áreas sensibles como Urbanismo y Vivienda"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad",
+        "Sindicatos con acuerdos de consolidación",
+        "Técnicos municipales actuales"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Talento externo del sector privado",
+        "Transparencia administrativa directa"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Recursos Humanos y Urbanismo",
+    "banderas_rojas": [
+      "Sistema de concurso exclusivo para puestos de alta dirección y técnicos",
+      "Fragmentación de la información (bases fuera del BOE)",
+      "Concentración de plazas en áreas sensibles como Urbanismo y Vivienda"
+    ]
+  },
+  "tweeted": false
+}
