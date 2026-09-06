@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18652",
+  "timestamp": "2026-09-06T15:25:12.781Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Garafía (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución para una plaza de Fisioterapeuta en Garafía muestra una gestión administrativa previa inestable, evidenciada por tres rectificaciones sucesivas de las bases en el Boletín Provincial antes de su publicación en el BOE. El uso del sistema de concurso-oposición en turno libre suele actuar como un mecanismo de consolidación encubierta de personal interino, donde los méritos por experiencia previa en la misma administración pesan más que la excelencia en el examen, dificultando el acceso a nuevos profesionales. La opacidad reside en la falta de justificación de las múltiples modificaciones previas a las bases.",
+    "resumen_ciudadano": "El Ayuntamiento de Garafía convoca una plaza fija de Fisioterapeuta para sus centros de mayores. El proceso se realizará mediante concurso-oposición y el plazo para presentar solicitudes es de 20 días hábiles. Se advierte a los candidatos que deben consultar las bases modificadas en los boletines provinciales de julio y agosto de 2026 para conocer los criterios exactos.",
+    "resumen_tweet": "🩺 Garafía convoca plaza de Fisioterapeuta, pero tras 3 rectificaciones previas en el boletín provincial. ¿Error de gestión o ajuste de criterios? El concurso-oposición suele favorecer la endogamia laboral. #BOE #Opacidad #Transparencia #Canarias 🇮🇨",
+    "banderas_red_flags": [
+      "Múltiples rectificaciones de bases en menos de dos meses",
+      "Uso del sistema concurso-oposición para personal laboral fijo",
+      "Dependencia de publicaciones provinciales previas para entender la convocatoria actual"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con experiencia previa en el municipio",
+        "Usuarios de los centros de mayores por la continuidad del servicio"
+      ],
+      "perdedores": [
+        "Candidatos externos sin puntos por antigüedad",
+        "Fisioterapeutas recién graduados con alta calificación pero sin méritos de concurso"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Múltiples rectificaciones de bases en menos de dos meses",
+      "Uso del sistema concurso-oposición para personal laboral fijo",
+      "Dependencia de publicaciones provinciales previas para entender la convocatoria actual"
+    ]
+  },
+  "tweeted": false
+}
