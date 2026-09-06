@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18656",
+  "timestamp": "2026-09-06T15:30:12.031Z",
+  "title": "Resolución de 27 de agosto de 2026, del Ayuntamiento de Fuenlabrada (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de una convocatoria blindada bajo la modalidad de 'promoción interna', lo que excluye por completo al talento externo y a la ciudadanía general. El sistema de 'concurso-oposición' en promociones internas tiende a ser un mecanismo de consolidación de personal ya existente, donde la fase de concurso suele estar diseñada para puntuar méritos que solo los actuales trabajadores poseen, limitando la competitividad real y la meritocracia pura.",
+    "resumen_ciudadano": "El Ayuntamiento de Fuenlabrada ha convocado 10 plazas de Técnico de Gestión, pero no para cualquier ciudadano. Solo podrán optar a ellas personas que ya trabajan en el ayuntamiento y busquen un ascenso. Esto supone una mejora salarial y de estatus para empleados públicos actuales, sin que se genere empleo nuevo para personas en paro o recién graduadas.",
+    "resumen_tweet": "⚠️ ¿Oportunidad o blindaje? Fuenlabrada convoca 10 plazas de Gestión técnica pero SOLO para promoción interna 🛑. El acceso queda cerrado al ciudadano de a pie. ¿Meritocracia o consolidación de estructuras? 🤔 #BOE #Opacidad #Transparencia #Fuenlabrada",
+    "banderas_red_flags": [
+      "Exclusividad para promoción interna",
+      "Uso de concurso-oposición para ascensos",
+      "Falta de detalle de las bases en el extracto del BOE",
+      "Potencial aumento de masa salarial sin renovación de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales del Ayuntamiento de Fuenlabrada",
+        "Sindicatos de la Administración Pública"
+      ],
+      "perdedores": [
+        "Opositores externos",
+        "Jóvenes profesionales sin experiencia previa en la administración",
+        "Contribuyentes (aumento de costes por nivel jerárquico)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Resolución de Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Exclusividad para promoción interna",
+      "Uso de concurso-oposición para ascensos",
+      "Falta de detalle de las bases en el extracto del BOE",
+      "Potencial aumento de masa salarial sin renovación de personal"
+    ]
+  },
+  "tweeted": false
+}
