@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18643",
+  "timestamp": "2026-09-06T04:27:42.369Z",
+  "title": "Orden EFD/933/2026, de 28 de agosto, por la que, a propuesta de la Consejería de Educación y Universidades de la Comunidad Autónoma de las Illes Balears, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, Maestros y de Profesores Especialistas en Sectores Singulares de la Formación Profesional, a las personas seleccionadas en los procedimientos selectivos convocados por la Resolución de 10 de marzo de 2025.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla el nombramiento final de funcionarios de carrera en el sector educativo de las Illes Balears tras un proceso iniciado en marzo de 2025. Aunque la transparencia técnica es alta al incluir puntuaciones y especialidades, el análisis de opacidad se centra en la dilatación temporal del proceso administrativo (más de un año y medio para la formalización) y la dependencia de la firma estatal para procesos de competencia autonómica, lo que añade capas de burocracia innecesaria.",
+    "resumen_ciudadano": "Publicación oficial del listado de personas que han superado las oposiciones y el periodo de prácticas en Baleares, adquiriendo su plaza definitiva como profesores y maestros con efectos desde el 1 de septiembre de 2026.",
+    "resumen_tweet": "🎓 ¡Nuevos funcionarios en las Illes Balears! El #BOE publica el nombramiento de docentes tras las oposiciones de 2025. Proceso transparente pero lento. ¿Es eficiente tardar 1.5 años en consolidar una plaza? 🏛️⚖️ #Transparencia #Educación #Opacidad",
+    "banderas_red_flags": [
+      "Dilatación excesiva del proceso administrativo (marzo 2025 a septiembre 2026)",
+      "Complejidad burocrática por duplicidad de boletines (BOIB y BOE)",
+      "Dependencia estatal para nombramientos de competencia autonómica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes seleccionados (estabilidad laboral y fin de la interinidad)",
+        "Administración autonómica (reducción de tasa de temporalidad)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados",
+        "Agilidad administrativa (el sistema tarda 18 meses en finalizar el ciclo de contratación)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos y personal",
+    "banderas_rojas": [
+      "Dilatación excesiva del proceso administrativo (marzo 2025 a septiembre 2026)",
+      "Complejidad burocrática por duplicidad de boletines (BOIB y BOE)",
+      "Dependencia estatal para nombramientos de competencia autonómica"
+    ]
+  },
+  "tweeted": false
+}
