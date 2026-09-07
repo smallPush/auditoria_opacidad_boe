@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18706",
+  "timestamp": "2026-09-07T17:43:50.118Z",
+  "title": "Real Decreto 678/2026, de 29 de julio, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Barcelona correspondiente al orden penal a doña Neus Codina Mendoza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento representa un acto administrativo discrecional dentro de la carrera judicial. Aunque cita la base legal (Art. 355 bis.2 LOPJ), carece de cualquier desglose sobre los meritos, puntuación o idoneidad de la candidata frente a otros posibles aspirantes. Se utiliza un lenguaje de propiedad ('adjudicar en propiedad') que refuerza la percepcion de la judicatura como un estamento cerrado. La opacidad reside en lo que no se dice: el proceso de seleccion interno del CGPJ que lleva a esta firma ministerial.",
+    "resumen_ciudadano": "Se ha nombrado oficialmente a Neus Codina Mendoza como nueva Magistrada de la Audiencia Provincial de Barcelona en el area penal. Este nombramiento es definitivo y cubre la vacante dejada por la anterior magistrada, Natalia Fernandez Suarez. Es un movimiento interno de la cupula judicial catalana bajo supervision del Gobierno central.",
+    "resumen_tweet": "⚖️ Nueva magistrada en la Audiencia de Barcelona. El #BOE adjudica plaza a Neus Codina Mendoza sin detallar meritos ni proceso de seleccion. La justicia se gestiona entre despachos, lejos del escrutinio ciudadano. 🖋️ #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Ausencia de memoria de meritos comparativa",
+      "Falta de transparencia en el proceso de seleccion previo",
+      "Uso de terminologia que sugiere propiedad estamental"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Neus Codina Mendoza (estabilidad laboral en la elite judicial)",
+        "Consejo General del Poder Judicial (mantenimiento de su potestad de nombramiento)"
+      ],
+      "perdedores": [
+        "Ciudadania (por falta de informacion sobre la excelencia del juez)",
+        "Candidatos descartados (invisibilizados en el proceso publico)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Situaciones Jurisdiccionales",
+    "banderas_rojas": [
+      "Ausencia de memoria de meritos comparativa",
+      "Falta de transparencia en el proceso de seleccion previo",
+      "Uso de terminologia que sugiere propiedad estamental"
+    ]
+  },
+  "tweeted": false
+}
