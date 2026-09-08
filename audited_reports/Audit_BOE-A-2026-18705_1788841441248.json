@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18705",
+  "timestamp": "2026-09-08T04:24:01.248Z",
+  "title": "Real Decreto 677/2026, de 29 de julio, por el que se adjudica en propiedad la plaza número 3 de la Sección de Instrucción del Tribunal de Instancia de Santiago de Compostela a la Magistrada doña María Paz Filgueira Paz.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto formaliza el nombramiento de una magistrada en una plaza de instrucción clave en Santiago de Compostela. Aunque cumple con la legalidad (Art. 355.bis.2 de la LOPJ), el documento es puramente administrativo y oculta los criterios de mérito, capacidad o la posible concurrencia de otros candidatos que justifican la elección de esta persona específica sobre otras. No hay 'gastos fantasma' directos, pero la opacidad reside en el proceso de selección del CGPJ, que se presenta como un hecho consumado ante el ciudadano.",
+    "resumen_ciudadano": "Se adjudica de forma definitiva la plaza número 3 de la Sección de Instrucción en Santiago de Compostela a la magistrada María Paz Filgueira Paz, sustituyendo al anterior magistrado Andrés Lago Louro tras su cese.",
+    "resumen_tweet": "⚖️ Adjudicada plaza definitiva en la Instrucción de Santiago de Compostela para María Paz Filgueira Paz. Un movimiento clave en la judicatura gallega que llega sin detalles sobre el proceso de selección previo. #BOE #Justicia #Transparencia 🏛️🔎",
+    "banderas_red_flags": [
+      "Falta de transparencia en los méritos comparativos",
+      "Adjudicación sin mención a otros posibles aspirantes",
+      "Dependencia de acuerdos internos del CGPJ no desglosados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Paz Filgueira Paz (obtiene plaza en propiedad)",
+        "CGPJ (ejerce su poder de nombramiento)"
+      ],
+      "perdedores": [
+        "Magistrados aspirantes no seleccionados",
+        "Ciudadanía (desconoce los criterios de idoneidad para una plaza de instrucción)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Falta de transparencia en los méritos comparativos",
+      "Adjudicación sin mención a otros posibles aspirantes",
+      "Dependencia de acuerdos internos del CGPJ no desglosados"
+    ]
+  },
+  "tweeted": false
+}
