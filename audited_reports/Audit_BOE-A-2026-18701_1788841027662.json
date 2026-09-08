@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18701",
+  "timestamp": "2026-09-08T04:17:07.662Z",
+  "title": "Real Decreto 673/2026, de 29 de julio, por el que se destina a los Magistrados y Magistradas que se relaciona, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+  "report": {
+    "nivel_transparencia": 55,
+    "analisis_critico": "El documento refleja la consolidación de las 'puertas giratorias' internas en la judicatura española. Se observa un alto número de magistrados que obtienen plazas de gran relevancia (Audiencia Nacional, Tribunales Superiores) mientras se encuentran en situación de 'servicios especiales'. Esto significa que jueces que actualmente ocupan cargos políticos o administrativos están reservando puestos clave en el escalafón judicial, lo que plantea dudas sobre la futura independencia judicial cuando estos regresen a sus puestos. El lenguaje técnico oculta una estructura de interinidad donde las plazas son ocupadas por sustitutos mientras los titulares ejercen el poder fuera de los tribunales.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha repartido nuevas plazas entre magistrados. Sin embargo, muchos de los que han recibido estos puestos (incluyendo plazas en la Audiencia Nacional) no irán a trabajar a ellas todavía porque están ocupando cargos políticos. Esto crea una red de plazas 'reservadas' por la élite judicial con conexiones políticas, dejando el sistema real en manos de sustitutos temporales.",
+    "resumen_tweet": "⚖️ ¡Sillas musicales en el #BOE! El CGPJ reparte plazas clave, pero muchos jueces las reciben estando en 'servicios especiales' (cargos políticos). Reservan sitio en la Audiencia Nacional mientras mandan en Ministerios. 🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reserva de plazas para magistrados en cargos políticos (Servicios Especiales)",
+      "Nombramientos para plazas que el titular no ocupará de forma inmediata",
+      "Alta concentración de movimientos hacia Madrid y la Audiencia Nacional",
+      "Opacidad en los criterios de mérito frente a la antigüedad en la situación de servicios especiales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados en situación de servicios especiales (cargos políticos)",
+        "Élite judicial con destino en Madrid y Audiencia Nacional",
+        "Perfiles con doble carrera judicial-política"
+      ],
+      "perdedores": [
+        "Justicia de base (tribunales de instancia)",
+        "Ciudadanos (por la interinidad de las plazas titulares)",
+        "Independencia judicial percibida"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y traslados de la Carrera Judicial",
+    "banderas_rojas": [
+      "Reserva de plazas para magistrados en cargos políticos (Servicios Especiales)",
+      "Nombramientos para plazas que el titular no ocupará de forma inmediata",
+      "Alta concentración de movimientos hacia Madrid y la Audiencia Nacional",
+      "Opacidad en los criterios de mérito frente a la antigüedad en la situación de servicios especiales"
+    ]
+  },
+  "tweeted": false
+}
