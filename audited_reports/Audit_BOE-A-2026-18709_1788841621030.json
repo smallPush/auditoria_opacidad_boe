@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18709",
+  "timestamp": "2026-09-08T04:27:01.030Z",
+  "title": "Acuerdo de 21 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Rosa Olarte Madero.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque el documento cumple con la legalidad administrativa para la jubilación voluntaria de una magistrada, persiste la opacidad estructural sobre el impacto económico real. Se mencionan los 'derechos pasivos' conforme a la Ley de Clases Pasivas del Estado, un régimen que permite condiciones de retiro sustancialmente distintas al régimen general de la Seguridad Social. No hay desglose del coste actuarial ni de la cuantía que percibirá la funcionaria, ocultando el gasto público real que supone el retiro de la élite judicial.",
+    "resumen_ciudadano": "Se formaliza la jubilación a petición propia de la magistrada María Rosa Olarte Madero, destinada en Valencia. El Estado garantiza su pensión bajo un régimen especial (Clases Pasivas) sin especificar el importe, lo que dificulta el control ciudadano sobre el gasto en pensiones de altos cargos del Poder Judicial.",
+    "resumen_tweet": "⚖️ Jubilación 'a la carta' en la cúpula judicial. Se aprueba el retiro voluntario de una magistrada en Valencia. ¿El coste? Un misterio bajo el régimen de Clases Pasivas. Transparencia real ya sobre el gasto en pensiones de élite. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Régimen de jubilación privilegiado (Clases Pasivas)",
+      "Brecha entre fecha de acuerdo y publicación efectiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo de la Judicatura (mantenimiento de privilegios de retiro)",
+        "Doña María Rosa Olarte Madero"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de información sobre el gasto)",
+        "Sostenibilidad del sistema general de pensiones"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Régimen de jubilación privilegiado (Clases Pasivas)",
+      "Brecha entre fecha de acuerdo y publicación efectiva"
+    ]
+  },
+  "tweeted": false
+}
