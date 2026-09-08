@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18783",
+  "timestamp": "2026-09-08T16:36:06.404Z",
+  "title": "Resolución de 3 de septiembre de 2026, de la Secretaría de Estado de Digitalización e Inteligencia Artificial, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La convocatoria utiliza el mecanismo de 'libre designación' para un puesto de máxima responsabilidad técnica y sancionadora en el ámbito digital. El elemento más crítico es la base sexta, que exime explícitamente de solicitar los informes de procedimiento habituales, eliminando capas de fiscalización administrativa. Aunque se solicita un funcionario A1, el sistema de selección mediante entrevistas subjetivas y 'asesores' designados discrecionalmente permite que la afinidad política prevalezca sobre la competencia técnica objetiva en un área estratégica como la gobernanza del dato y la IA.",
+    "resumen_ciudadano": "El Gobierno busca un Subdirector General para gestionar las leyes de internet, datos y multas a plataformas digitales. El puesto, con el salario más alto del funcionariado (Nivel 30), no se otorgará por examen o concurso de méritos transparente, sino por elección directa (dedazo) bajo el pretexto de confianza. Se han eliminado controles internos habituales para agilizar el nombramiento.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo 'dedazo' en el #BOE. Convocado puesto de Subdirector para Sociedad Digital por libre designación. Se eliminan informes de control previos. ¿Transparencia o control político de tus datos y la IA? 📉 #Opacidad #Transparencia #FunciónPública",
+    "banderas_red_flags": [
+      "Uso de libre designación para funciones de inspección y sanción",
+      "Exención de informes preceptivos de la Ley 30/1984",
+      "Criterios de evaluación basados en entrevistas subjetivas",
+      "Ambigüedad en la composición del comité asesor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con perfil político-estratégico",
+        "Ministerio para la Transformación Digital (mayor control discrecional)",
+        "Redes de confianza institucional"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera por mérito y capacidad",
+        "Independencia de los órganos reguladores digitales",
+        "Ciudadanía (menor neutralidad en la gestión de datos públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Sede en Madrid)",
+    "tipologia": "Provisión de puestos de trabajo por libre designación",
+    "banderas_rojas": [
+      "Uso de libre designación para funciones de inspección y sanción",
+      "Exención de informes preceptivos de la Ley 30/1984",
+      "Criterios de evaluación basados en entrevistas subjetivas",
+      "Ambigüedad en la composición del comité asesor"
+    ]
+  },
+  "tweeted": false
+}
