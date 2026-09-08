@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18703",
+  "timestamp": "2026-09-08T04:25:58.294Z",
+  "title": "Real Decreto 675/2026, de 29 de julio, por el que se adjudica en propiedad la plaza número 5 de la Sección Civil y de Instrucción del Tribunal de Instancia de Leganés a la Magistrada doña María Galán Flores.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa un uso recurrente de la adjudicacion en propiedad sin una exposicion de motivos que detalle la ponderacion de meritos o la terna de candidatos. Aunque cita el articulo 355 bis.2 de la LOPJ, el documento funciona como una caja negra administrativa donde el ciudadano solo percibe el resultado final, no el proceso. La terminologia 'en propiedad' refleja una estructura de castas funcionariales donde el cargo se patrimonializa. No hay mencion a la transparencia en la seleccion, lo que alimenta la percepcion de endogamia en la cupula judicial.",
+    "resumen_ciudadano": "El Gobierno y el CGPJ han asignado de forma permanente la plaza numero 5 del Tribunal de Instancia de Leganés a la Magistrada María Galán Flores. Este cambio ocurre tras el cese del anterior magistrado, Daniel González Uriel. Es un tramite estandar que consolida una posicion vitalicia en el sistema judicial de Madrid sin explicar los meritos especificos para este puesto.",
+    "resumen_tweet": "⚖️ ¿Como se eligen nuestros jueces? El #BOE adjudica 'en propiedad' una plaza en Leganés a la magistrada Galán Flores. Sin detalles de méritos ni otros candidatos. Transparencia bajo mínimos en el CGPJ. 🕵️‍♂️🇪🇸 #Opacidad #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de baremacion publica de meritos",
+      "Opacidad en el proceso de seleccion competitiva",
+      "Uso de lenguaje que denota propiedad sobre cargos publicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Galán Flores (seguridad laboral vitalicia)",
+        "CGPJ (mantenimiento de discrecionalidad)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos no mencionados",
+        "Ciudadania (falta de informacion sobre la idoneidad de la jueza)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos Judiciales",
+    "banderas_rojas": [
+      "Ausencia de baremacion publica de meritos",
+      "Opacidad en el proceso de seleccion competitiva",
+      "Uso de lenguaje que denota propiedad sobre cargos publicos"
+    ]
+  },
+  "tweeted": false
+}
