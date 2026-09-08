@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-18771",
+  "timestamp": "2026-09-08T16:08:18.620Z",
+  "title": "Resolución de 20 de agosto de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se declara la jubilación del notario de Madrid don Miguel Vicente-Almazán Pérez de Petinto.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de jubilación forzosa tras agotar la prórroga de servicio activo hasta los 72 años. Aunque el texto es claro en su base legal, refleja la disparidad de condiciones de jubilación entre las élites funcionariales (Cuerpo de Notarios) y el ciudadano común. No se especifica el coste del expediente ni el impacto de la vacante en la disponibilidad de servicios en la zona de Madrid.",
+    "resumen_ciudadano": "La Dirección General de Seguridad Jurídica comunica la jubilación de un notario en Madrid al cumplir la edad máxima permitida de 72 años. Este cese es efectivo el 17 de septiembre de 2026, cerrando su ciclo tras una extensión de servicio.",
+    "resumen_tweet": "📜 Jubilación en la élite: El #BOE oficializa el cese de un notario de Madrid a los 72 años. Un recordatorio de las prórrogas laborales inaccesibles para el trabajador medio. 🖋️ ¿Quién ocupará esa plaza? La transparencia es parcial. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Prórroga de permanencia hasta los 72 años",
+      "Falta de información sobre la sucesión de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Próximos aspirantes en el escalafón notarial",
+        "Administración Pública (renovación de plazas)"
+      ],
+      "perdedores": [
+        "Ciudadanos con trámites pendientes con dicho fedatario",
+        "Clase trabajadora (contraste de edad de jubilación real vs funcional)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos - Seguridad Jurídica y Fe Pública",
+    "banderas_rojas": [
+      "Prórroga de permanencia hasta los 72 años",
+      "Falta de información sobre la sucesión de la plaza"
+    ]
+  },
+  "tweeted": false
+}
