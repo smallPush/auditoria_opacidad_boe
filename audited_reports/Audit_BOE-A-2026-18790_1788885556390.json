@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18790",
+  "timestamp": "2026-09-08T16:39:16.390Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Albarracín (Teruel), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de promoción interna, lo que restringe el acceso a la función pública exclusivamente a personal ya vinculado al Ayuntamiento de Albarracín. Aunque legalmente permitido, el uso del sistema de concurso-oposición en procesos internos suele blindar plazas para perfiles específicos mediante la valoración de méritos 'ad hoc'. Destaca la brevedad del plazo de solicitud (10 días hábiles), significativamente menor a los 20 días habituales en convocatorias abiertas, lo que reduce la capacidad de preparación de cualquier aspirante que no esté en el círculo inmediato de la administración local.",
+    "resumen_ciudadano": "El Ayuntamiento de Albarracín convoca una plaza de administrativo pero cierra las puertas al ciudadano de a pie: es un proceso reservado únicamente para quienes ya trabajan en la institución (promoción interna). Además, dan un margen de tiempo muy escaso para presentar los papeles, lo que hace que el proceso parezca un trámite interno más que una oferta de empleo transparente.",
+    "resumen_tweet": "🧐 ¿Oportunidad o traje a medida? El Ayto. de Albarracín lanza 1 plaza de administrativo. PERO ojo: solo promoción interna y con apenas 10 días para solicitar. El acceso al empleo público se cierra al ciudadano de a pie. 🚪🚫 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Plazo de solicitud extremadamente reducido (10 días)",
+      "Acceso restringido (Promoción interna)",
+      "Externalización de las bases a boletines provinciales para reducir visibilidad",
+      "Opacidad en la valoración de méritos del concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o funcionario con plaza previa en el Ayuntamiento",
+        "Sindicatos con acuerdos de promoción interna cerrada"
+      ],
+      "perdedores": [
+        "Ciudadanos desempleados de la zona",
+        "Jóvenes profesionales sin vinculación previa con la administración",
+        "Criterios de igualdad y libre concurrencia"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Oferta de Empleo Público - Promoción Interna",
+    "banderas_rojas": [
+      "Plazo de solicitud extremadamente reducido (10 días)",
+      "Acceso restringido (Promoción interna)",
+      "Externalización de las bases a boletines provinciales para reducir visibilidad",
+      "Opacidad en la valoración de méritos del concurso"
+    ]
+  },
+  "tweeted": false
+}
