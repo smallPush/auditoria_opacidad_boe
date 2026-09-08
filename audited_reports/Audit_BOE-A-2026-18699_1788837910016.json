@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18699",
+  "timestamp": "2026-09-08T03:25:10.016Z",
+  "title": "Orden HAC/936/2026, de 14 de agosto, por la que se aprueban los modelos de autoliquidación de las tasas establecidas en la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, y el modelo de liquidación del canon concesional de las expendedurías de tabaco y timbre del Estado, establecido en la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, y se regula el criterio para la medición de distancias en los procedimientos ante el Comisionado para el Mercado de Tabacos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden HAC/936/2026 destaca por una formalización extrema del proceso recaudatorio del Comisionado para el Mercado de Tabacos. Si bien se presenta bajo el manto de la 'simplificación normativa' y la 'eficiencia', la obligatoriedad del uso de medios electrónicos para todos los trámites (Art. 6) puede constituir una barrera de acceso para concesionarios de edad avanzada o con escasa infraestructura digital. El cambio en la medición de distancias a 'línea recta' (Disposición adicional única) es un ajuste técnico que puede alterar drásticamente el valor de mercado de ciertas licencias, favoreciendo o perjudicando a establecimientos según la orografía urbana, sin una justificación de impacto socioeconómico detallada.",
+    "resumen_ciudadano": "Hacienda actualiza los formularios y el sistema de pago de tasas para los estancos y puntos de venta de tabaco. La principal novedad es que todos los trámites deberán hacerse obligatoriamente por internet. Además, se establece un nuevo criterio para medir la distancia entre estancos: ahora se hará en línea recta (de puerta a puerta), lo cual puede afectar a quién puede abrir un negocio y dónde.",
+    "resumen_tweet": "🚬 Hacienda digitaliza al 100% los trámites de estancos. Se imponen nuevos modelos de tasas y se cambia la medición de distancias a 'línea recta'. ¿Modernización o barrera para el pequeño comercio? 📑🚫 #BOE #Opacidad #Transparencia #Tabaco",
+    "banderas_red_flags": [
+      "Exclusión de trámites no electrónicos (Brecha digital)",
+      "Financiación del Organismo Autónomo mediante sus propias tasas de inspección",
+      "Cambio técnico en medición de distancias que afecta a la competencia local"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (optimización de la recaudación y gestión)",
+        "Gestorías administrativas digitales",
+        "Grandes concesionarios con capacidad técnica"
+      ],
+      "perdedores": [
+        "Pequeños estanqueros con brecha digital",
+        "Solicitantes en zonas con barreras físicas donde la línea recta no refleja el acceso real"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Tributaria y Administrativa",
+    "banderas_rojas": [
+      "Exclusión de trámites no electrónicos (Brecha digital)",
+      "Financiación del Organismo Autónomo mediante sus propias tasas de inspección",
+      "Cambio técnico en medición de distancias que afecta a la competencia local"
+    ]
+  },
+  "tweeted": false
+}
