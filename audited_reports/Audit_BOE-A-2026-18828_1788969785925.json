@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18828",
+  "timestamp": "2026-09-09T16:03:05.925Z",
+  "title": "Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El texto utiliza la reconstrucción de La Palma como catalizador para introducir reformas en la gestión financiera autonómica. Se observa una 'técnica de arrastre': bajo la urgencia humanitaria, se habilita a comunidades con deuda inferior al 12,4% del PIB para eludir el artículo 32 de la Ley de Estabilidad Presupuestaria. Esto premia a regiones con mayor salud fiscal mientras mantiene la rigidez para el resto. La prórroga de beneficios fiscales para 2026 mediante un decreto de urgencia en 2026 sugiere una falta de planificación en los Presupuestos Generales del Estado, recurriendo a la excepcionalidad como norma.",
+    "resumen_ciudadano": "Se prorroga la deducción especial de IRPF para residentes en La Palma en 2026. Además, se inyectan 100 millones de euros a Canarias para ayudas directas y se permite que las autonomías con superávit y baja deuda gasten sus ahorros en inversiones hasta 2028. Los agricultores de los municipios más afectados por el volcán podrán suspender sus pagos de préstamos y los autónomos tendrán más facilidades para acceder a la prestación por cese de actividad.",
+    "resumen_tweet": "🌋 El Gobierno usa la ayuda a La Palma para flexibilizar el gasto en CCAA con superávit. Beneficios en IRPF y 100M€ adicionales para Canarias, pero se sortean leyes de estabilidad financiera mediante decretos de urgencia. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del Real Decreto-ley para medidas fiscales con meses de antelación",
+      "Exención del cumplimiento de la Ley de Estabilidad Presupuestaria para partidas específicas",
+      "Vinculación de acuerdos bilaterales (Comisión Mixta Concierto Económico) en una norma de reconstrucción de catástrofes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes de La Palma (Deducción IRPF)",
+        "CCAA con deuda inferior al 12,4% del PIB",
+        "Sector agrario de El Paso, Los Llanos y Tazacorte",
+        "Gobierno de Canarias (Gestión de 100M€ extra)"
+      ],
+      "perdedores": [
+        "CCAA con alta deuda (sin acceso a flexibilidad de superávit)",
+        "Caja común del Estado por la merma en recaudación de IRPF",
+        "Principio de transparencia en la planificación presupuestaria ordinaria"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Real Decreto-ley de medidas fiscales y financieras",
+    "banderas_rojas": [
+      "Uso del Real Decreto-ley para medidas fiscales con meses de antelación",
+      "Exención del cumplimiento de la Ley de Estabilidad Presupuestaria para partidas específicas",
+      "Vinculación de acuerdos bilaterales (Comisión Mixta Concierto Económico) en una norma de reconstrucción de catástrofes"
+    ]
+  },
+  "tweeted": false
+}
