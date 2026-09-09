@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18841",
+  "timestamp": "2026-09-09T16:35:04.399Z",
+  "title": "Resolución 1723/2026, de 8 de junio, de la Dirección Gerencia de la Organización Sanitaria Integrada Barrualde-Galdakao, por la que se convoca concurso para la provisión de puesto de trabajo de Jefe/a de Sección Sanitaria de Alergología.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria presenta un desequilibrio notable entre la experiencia profesional (13 puntos) y el proyecto de gestión con su defensa oral (30 puntos). Al otorgar la misma puntuación al proyecto subjetivo que a todos los méritos curriculares juntos (formación, experiencia y docencia suman 30), se abre una ventana a la discrecionalidad técnica de la Comisión de Valoración. Además, la Comisión está compuesta mayoritariamente por cargos internos de la propia organización sanitaria, lo que podría favorecer el endogamia administrativa.",
+    "resumen_ciudadano": "Se convoca una plaza de Jefe de Sección de Alergología en Galdakao. Aunque el proceso es público, la clave para ganar la plaza no es solo ser el médico con más años de experiencia, sino convencer a un tribunal interno con un 'proyecto de gestión'. El conocimiento de Euskera suma 6 puntos adicionales, lo que puede ser determinante frente a candidatos de otras comunidades.",
+    "resumen_tweet": "🔍 ¡Ojo al #BOE! Osakidetza busca jefe de Alergología. El 'proyecto' subjetivo vale tanto como toda la carrera profesional (30 pts). ¿Meritocracia o discrecionalidad? El Euskera suma 6 pts clave. 🏥 #Opacidad #Transparencia #Euskadi",
+    "banderas_red_flags": [
+      "Peso excesivo de la valoración subjetiva del proyecto (50% de la puntuación técnica)",
+      "Tribunal compuesto por cargos de libre designación de la propia OSI",
+      "La experiencia profesional máxima (13 pts) es inferior a la puntuación del proyecto (30 pts)",
+      "Plazo de 15 días para presentar un proyecto de gestión complejo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos internos con sintonía con la gerencia actual",
+        "Perfiles con alta competencia lingüística en Euskera",
+        "Facultativos con menor experiencia pero gran capacidad de oratoria/defensa de proyectos"
+      ],
+      "perdedores": [
+        "Especialistas con décadas de experiencia pero sin perfil gestor/político",
+        "Candidatos externos al sistema vasco de salud (Osakidetza)",
+        "Personal sin titulación oficial de Euskera"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Empleo Público Sanitario",
+    "banderas_rojas": [
+      "Peso excesivo de la valoración subjetiva del proyecto (50% de la puntuación técnica)",
+      "Tribunal compuesto por cargos de libre designación de la propia OSI",
+      "La experiencia profesional máxima (13 pts) es inferior a la puntuación del proyecto (30 pts)",
+      "Plazo de 15 días para presentar un proyecto de gestión complejo"
+    ]
+  },
+  "tweeted": false
+}
