@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18847",
+  "timestamp": "2026-09-09T16:40:35.470Z",
+  "title": "Resolución de 24 de agosto de 2026, del Ayuntamiento de Garafía (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para una plaza de Enfermero/a en Garafía presenta una opacidad procedimental típica de la administración local. Aunque el anuncio es público, la existencia de tres rectificaciones previas en el BOP (números 81, 89 y 94) antes de su llegada al BOE sugiere una falta de rigor en la redacción original o ajustes sobre la marcha que dificultan el seguimiento al opositor externo. El sistema de concurso-oposición suele beneficiar al personal interino que ya desempeña el cargo, limitando la igualdad de oportunidades real frente al turno libre puro.",
+    "resumen_ciudadano": "Se busca cubrir una plaza fija de enfermería para la Residencia de Mayores de Garafía (Santa Cruz de Tenerife). El proceso se realizará mediante concurso-oposición, lo que significa que se valorarán tanto exámenes como experiencia previa. Es fundamental consultar las bases en el Boletín Provincial de Santa Cruz de Tenerife, teniendo en cuenta que han sido modificadas en varias ocasiones.",
+    "resumen_tweet": "🩺 ¿Buscas plaza de enfermería en La Palma? Garafía convoca vacante, pero ¡cuidado! 🚩 Las bases se han rectificado 3 veces antes de llegar al #BOE. El laberinto burocrático dificulta el acceso limpio. #Opacidad #Transparencia #Canarias #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Múltiples rectificaciones de las bases (BOP 81, 89 y 94)",
+      "Fragmentación de la información entre boletines provinciales y estatales",
+      "Uso del sistema concurso-oposición que pondera méritos subjetivos o antigüedad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con puntos acumulados por antigüedad",
+        "Administración local por cerrar procesos de estabilización"
+      ],
+      "perdedores": [
+        "Enfermeros recién graduados sin puntos de experiencia",
+        "Opositores de fuera de la isla por la complejidad de seguimiento de las rectificaciones"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Múltiples rectificaciones de las bases (BOP 81, 89 y 94)",
+      "Fragmentación de la información entre boletines provinciales y estatales",
+      "Uso del sistema concurso-oposición que pondera méritos subjetivos o antigüedad"
+    ]
+  },
+  "tweeted": false
+}
