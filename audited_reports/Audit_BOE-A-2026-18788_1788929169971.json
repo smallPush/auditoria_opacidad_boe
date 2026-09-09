@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18788",
+  "timestamp": "2026-09-09T04:46:09.971Z",
+  "title": "Resolución de 20 de agosto de 2026, del Ayuntamiento de Garafía (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de una convocatoria para personal laboral fijo mediante el sistema de concurso-oposición. Este método, aunque legal, suele presentar una barrera de entrada para ciudadanos sin experiencia previa en la administración convocante, ya que la fase de 'concurso' permite puntuar méritos específicos que benefician a interinos actuales. La opacidad es técnica: el BOE actúa meramente como un enlace publicitario, obligando al interesado a recurrir al boletín provincial para conocer los criterios de baremación reales.",
+    "resumen_ciudadano": "El Ayuntamiento de Garafía (La Palma) abre una plaza fija de cocina para su residencia de mayores. El proceso selectivo valorará tanto un examen como la experiencia previa (méritos). El plazo de inscripción es de 20 días hábiles tras la publicación.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El Ayto. de Garafía busca cocinero/a para su residencia 🍲. Sistema de concurso-oposición: ¿oportunidad real o ventaja para los de casa? 🧐 La información clave se esconde en el boletín provincial. #Garafía #EmpleoPúblico #Opacidad",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición (potencial sesgo hacia internos)",
+      "Información fragmentada entre BOE y BOP",
+      "Ausencia de desglose presupuestario de la plaza en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el Ayuntamiento",
+        "Administración local (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos altamente cualificados pero sin puntos por méritos",
+        "Ciudadanos que buscan procesos de oposición pura bajo principios de igualdad estricta"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición (potencial sesgo hacia internos)",
+      "Información fragmentada entre BOE y BOP",
+      "Ausencia de desglose presupuestario de la plaza en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
