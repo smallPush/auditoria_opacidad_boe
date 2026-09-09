@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18838",
+  "timestamp": "2026-09-09T16:33:45.182Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 7.2,
+    "analisis_critico": "Se observa una convocatoria técnica estándar pero con la inclusión de puestos de vigencia temporal (V.T.) bajo el amparo del Real Decreto-ley 36/2020. Esta figura, diseñada para la gestión de fondos europeos, introduce una precariedad técnica en la carrera administrativa. El sistema de dos fases con mínimos excluyentes de 10 puntos en méritos específicos permite un filtrado subjetivo que puede favorecer la endogamia departamental bajo la apariencia de objetividad técnica. No hay indicios de 'Gastos Fantasma' directos, pero la temporalidad de las plazas sugiere una gestión de recursos humanos a corto plazo supeditada a fondos externos.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial convoca concurso para 18 plazas de funcionario. Se valoran la antigüedad, el grado consolidado y cursos de formación (especialmente en igualdad). Atención: algunas plazas son temporales vinculadas al Plan de Recuperación y Transformación, lo que significa que el puesto podría desaparecer una vez finalicen los proyectos asociados.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! El Ministerio de Política Territorial convoca 18 plazas. 🚩 Alerta: incluyen puestos temporales (V.T.) vinculados a fondos europeos. ¿Estabilidad real o parches administrativos? #Opacidad #Funcionarios #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Puestos de vigencia temporal (V.T.) con futuro incierto",
+      "Mínimos de puntuación en fase específica que pueden facilitar la 'dedocracia' técnica",
+      "Exclusiones de participación para ciertos cuerpos sin autorización discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con cursos de igualdad de +15 horas",
+        "Personal ya destinado en el Ministerio (fase específica)",
+        "Funcionarios con cónyuge en la misma localidad"
+      ],
+      "perdedores": [
+        "Funcionarios de la Agencia Tributaria (requieren permiso previo)",
+        "Candidatos externos al departamento con pocos cursos específicos",
+        "Personal que busque estabilidad definitiva en plazas marcadas como V.T."
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convocatoria de Puestos de Trabajo",
+    "banderas_rojas": [
+      "Puestos de vigencia temporal (V.T.) con futuro incierto",
+      "Mínimos de puntuación en fase específica que pueden facilitar la 'dedocracia' técnica",
+      "Exclusiones de participación para ciertos cuerpos sin autorización discrecional"
+    ]
+  },
+  "tweeted": false
+}
