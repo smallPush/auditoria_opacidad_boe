@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-18787",
+  "timestamp": "2026-09-09T04:39:19.128Z",
+  "title": "Resolución de 31 de julio de 2026, de la Diputación Provincial de Zaragoza, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una convocatoria de empleo público estándar que, aunque cumple la legalidad, fomenta la micro-opacidad administrativa al remitir las bases completas al Boletín Oficial de la Provincia de Zaragoza (BOPZ). Esta práctica obliga al ciudadano a realizar una búsqueda secundaria, dificultando el acceso rápido a la información. La creación de puestos de 'personal laboral fijo' en lugar de funcionarios de carrera en áreas técnicas y de infraestructuras sugiere una tendencia a la flexibilización de la plantilla pública provincial.",
+    "resumen_ciudadano": "La Diputación de Zaragoza ha abierto el proceso para contratar a 4 trabajadores fijos: 3 conductores de maquinaria para obras rurales y 1 informático. El proceso se realizará mediante examen (oposición) y el plazo de inscripción es de 20 días hábiles tras la publicación.",
+    "resumen_tweet": "📢 ¡Nuevas plazas en Zaragoza! 🏗️ La Diputación convoca 3 puestos de maquinista rural y 1 de informática como personal fijo. El plazo es de 20 días. ¡Ojo! Las bases completas no están en el #BOE, sino en el boletín provincial. #Zaragoza #EmpleoPúblico 🇪🇸",
+    "banderas_red_flags": [
+      "Fragmentación de información (remisión al BOPZ)",
+      "Uso de personal laboral para funciones estructurales",
+      "Opacidad en los criterios específicos de evaluación en el extracto del BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Especialistas en maquinaria de obra pública",
+        "Técnicos informáticos en búsqueda de estabilidad",
+        "Municipios rurales de Zaragoza (mejora de infraestructuras)"
+      ],
+      "perdedores": [
+        "Opositores externos que no consulten boletines locales",
+        "Empresas de servicios externos (externalización de mantenimiento rural)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Fragmentación de información (remisión al BOPZ)",
+      "Uso de personal laboral para funciones estructurales",
+      "Opacidad en los criterios específicos de evaluación en el extracto del BOE"
+    ]
+  },
+  "tweeted": false
+}
