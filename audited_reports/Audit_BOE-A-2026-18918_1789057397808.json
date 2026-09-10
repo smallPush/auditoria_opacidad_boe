@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18918",
+  "timestamp": "2026-09-10T16:23:17.808Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad de Salamanca, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento cumple con la formalidad de publicar nombramientos de funcionarios de carrera en la escala docente universitaria. No obstante, presenta la opacidad habitual de la administracion: se mencionan codigos de plaza (ej. G080/D18032) que son indescifrables para el ciudadano comun, ocultando la dotacion economica real y el impacto presupuestario a largo plazo de estos cargos vitalicios. La mencion a la Ley Organica 2/2023 (LOSU) sugiere una adaptacion al nuevo marco legal, pero no se ofrece transparencia sobre si estas plazas responden a una necesidad estrategica o a una inercia de reposicion burocratica.",
+    "resumen_ciudadano": "La Universidad de Salamanca formaliza el contrato fijo de siete nuevos profesores titulares en diversas areas como Fisiologia, Fisica Teorica y Trabajo Social. Estos profesionales pasan a ser personal funcionario tras superar un concurso de acceso, obteniendo estabilidad laboral plena bajo el amparo de la nueva Ley del Sistema Universitario.",
+    "resumen_tweet": "🎓 La Universidad de Salamanca nombra 7 nuevos Profesores Titulares. Plazas blindadas con codigos crípticos pero sin detalle del coste publico real. ¿Modernización o inercia administrativa? 🏛️⚖️ #BOE #Opacidad #Transparencia #Universidad #USAL",
+    "banderas_red_flags": [
+      "Codificación interna de plazas sin equivalencia presupuestaria publica",
+      "Ausencia de detalle sobre la cuantía de los complementos especificos",
+      "Inexistencia de justificacion sobre la prioridad de estas areas frente a otras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 7 docentes nombrados (estabilidad laboral vitalicia)",
+        "La estructura administrativa de la Universidad de Salamanca"
+      ],
+      "perdedores": [
+        "Personal investigador precario (postdocs) sin acceso a estas plazas",
+        "Ciudadania (por la falta de transparencia en el coste total de la masa salarial funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Codificación interna de plazas sin equivalencia presupuestaria publica",
+      "Ausencia de detalle sobre la cuantía de los complementos especificos",
+      "Inexistencia de justificacion sobre la prioridad de estas areas frente a otras"
+    ]
+  },
+  "tweeted": false
+}
