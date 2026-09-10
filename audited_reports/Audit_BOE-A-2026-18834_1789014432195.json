@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18834",
+  "timestamp": "2026-09-10T04:27:12.195Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 22 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un proceso de 'libre designación', un mecanismo legal que, bajo la apariencia de procedimiento administrativo reglado, permite el nombramiento discrecional ('a dedo') de altos cargos. Aunque se cita un 'informe motivado', estos criterios suelen ser subjetivos y no comparativos con otros candidatos. La adjudicación de un Nivel 29 (el segundo más alto en la escala funcionarial) en Relaciones Internacionales sin una oposición abierta limita la meritocracia real en el Ministerio de Transportes.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Subdirector Adjunto en la Secretaría General de Relaciones Internacionales del Ministerio de Transportes. El sistema utilizado ha sido la libre designación, lo que significa que el ministerio elige directamente a la persona de entre los funcionarios que cumplen los requisitos mínimos, en lugar de realizar un concurso basado estrictamente en puntos por méritos.",
+    "resumen_tweet": "🚨 Nuevo cargo 'a dedo' en el Ministerio de Transportes. Adjudican una Subdirección Adjunta (Nivel 29) mediante libre designación. ¿Mérito real o confianza política? La administración sigue usando el dedazo legal. 🕵️‍♂️🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación para cargos de alta remuneración",
+      "Falta de publicación de los méritos específicos comparados",
+      "Concentración de poder en la Subsecretaría para nombramientos clave"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Hernandez Diaz",
+        "Cuerpo Superior de Administradores Civiles del Estado",
+        "Ministerio de Transportes y Movilidad Sostenible (control político-técnico)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza",
+        "Transparencia pública",
+        "Sistema de mérito y capacidad abierto"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal / Cargos de confianza",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación para cargos de alta remuneración",
+      "Falta de publicación de los méritos específicos comparados",
+      "Concentración de poder en la Subsecretaría para nombramientos clave"
+    ]
+  },
+  "tweeted": false
+}
