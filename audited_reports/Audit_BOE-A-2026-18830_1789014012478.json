@@ -1,0 +1,29 @@
+{
+  "boe_id": "BOE-A-2026-18830",
+  "timestamp": "2026-09-10T04:20:12.478Z",
+  "title": "Resolución de 29 de julio de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de doña María Isabel Carballido González, Fiscal con destino en la Fiscalía Provincial de Madrid.",
+  "report": {
+    "nivel_transparencia": 95,
+    "analisis_critico": "El documento refleja un acto administrativo estándar de gestión de recursos humanos dentro del Ministerio Fiscal. No se detectan 'gastos fantasma' ni desviaciones presupuestarias, ya que se limita a la aplicación de la Ley Orgánica 6/1985 y el Estatuto Orgánico del Ministerio Fiscal. Existe una demora de 42 días entre la firma (29 de julio) y la publicación (9 de septiembre), lo cual es una ineficiencia administrativa común pero no indica opacidad malintencionada.",
+    "resumen_ciudadano": "Se oficializa la jubilación voluntaria de María Isabel Carballido González, quien ejercía como Fiscal en Madrid. Este trámite le permite acceder a su pensión bajo el régimen de Clases Pasivas del Estado tras su carrera en la justicia.",
+    "resumen_tweet": "⚖️ Trámite ordinario en el #BOE: Se jubila voluntariamente una Fiscal de Madrid. Proceso transparente siguiendo el Estatuto del Ministerio Fiscal. Sin rastro de gastos ocultos, solo gestión de personal. #Justicia #Transparencia #Madrid 🏛️",
+    "banderas_red_flags": [
+      "Latencia de publicación de más de un mes desde la resolución hasta el boletín"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Isabel Carballido González (acceso a derechos pasivos)"
+      ],
+      "perdedores": [
+        "Sistema Judicial (pérdida de veteranía profesional)",
+        "Erario Público (coste de la pensión pública)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Personal y Recursos Humanos",
+    "banderas_rojas": [
+      "Latencia de publicación de más de un mes desde la resolución hasta el boletín"
+    ]
+  },
+  "tweeted": false
+}
