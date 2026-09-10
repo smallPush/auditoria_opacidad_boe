@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18920",
+  "timestamp": "2026-09-10T16:30:48.837Z",
+  "title": "Resolución de 31 de agosto de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en el Instituto Nacional de Estadística.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución presenta una estructura técnica estándar pero con mecanismos de control discrecional. Destaca la 'cláusula de veto' para el personal de la AEAT, cuya movilidad queda supeditada a una autorización previa denegable por 'necesidades del servicio', un concepto jurídico indeterminado que limita la libertad de movimiento del trabajador. Existe una barrera de entrada en la formación: solo son puntuables los cursos en listas cerradas del propio organismo, lo que puede favorecer el endogamia y castigar a quienes se forman externamente. La inclusión de méritos por igualdad de género cumple con el IV Plan de Igualdad, aunque se aplica como un baremo genérico (1 punto) que no garantiza una competencia técnica superior.",
+    "resumen_ciudadano": "El Instituto Nacional de Estadística (INE) busca cubrir 38 puestos mediante concurso de méritos. El proceso favorece fuertemente la antigüedad y el grado ya consolidado sobre la capacitación técnica reciente. Se imponen trabas burocráticas para la presentación no telemática y se permite a la Agencia Tributaria bloquear la salida de sus funcionarios hacia estos puestos.",
+    "resumen_tweet": "📊 ¿Quieres trabajar en el INE? El #BOE convoca 38 plazas, pero ojo: movilidad blindada si vienes de la AEAT 🛑 y solo valen los cursos que el organismo decida. La veteranía manda sobre el talento nuevo. #Opacidad #Transparencia #Funcionarios 🏛️",
+    "banderas_red_flags": [
+      "Veto a la movilidad del personal de la AEAT bajo criterios subjetivos.",
+      "Limitación de méritos formativos a listas cerradas de cursos oficiales.",
+      "Exigencia de justificación técnica para evitar el trámite digital, dificultando el acceso a ciertos perfiles.",
+      "Puntuación mínima de 25 puntos que podría dejar desiertas plazas si no se favorece a los candidatos internos."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios veteranos con grado consolidado",
+        "Personal con hijos menores de 12 años (puntuación extra por conciliación)",
+        "Funcionarios que ya pertenecen al INE (acceso facilitado a cursos oficiales)"
+      ],
+      "perdedores": [
+        "Funcionarios de la Agencia Tributaria (posible veto de salida)",
+        "Funcionarios jóvenes con poca antigüedad",
+        "Candidatos con formación externa no reglada por el ministerio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Veto a la movilidad del personal de la AEAT bajo criterios subjetivos.",
+      "Limitación de méritos formativos a listas cerradas de cursos oficiales.",
+      "Exigencia de justificación técnica para evitar el trámite digital, dificultando el acceso a ciertos perfiles.",
+      "Puntuación mínima de 25 puntos que podría dejar desiertas plazas si no se favorece a los candidatos internos."
+    ]
+  },
+  "tweeted": false
+}
