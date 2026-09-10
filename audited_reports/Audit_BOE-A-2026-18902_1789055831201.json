@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-18902",
+  "timestamp": "2026-09-10T15:57:11.201Z",
+  "title": "Real Decreto 724/2026, de 9 de septiembre, por el que se regula la concesión directa de subvenciones en materia de industria durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' (Art. 22.2.c de la Ley General de Subvenciones) para evitar la concurrencia competitiva, alegando una supuesta singularidad de los beneficiarios. Se observa un 'capitalismo de amiguismo técnico' donde entidades como la FFII reciben fondos desde 1994 sin pasar por concursos públicos, consolidando un monopolio en la vigilancia de mercado y normalización. Aunque se justifica bajo el interés de las PYMES, el dinero fluye hacia estructuras burocráticas y fundaciones privadas/estatales, no hacia el tejido productivo directo.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la entrega de subvenciones directas (sin concurso público) a tres entidades específicas: la Asociación Española de Normalización, la Entidad Nacional de Acreditación (ENAC) y la Fundación para el Fomento de la Innovación Industrial. El motivo alegado es que estas instituciones son las únicas capacitadas para realizar tareas de seguridad y calidad industrial, lo que en la práctica supone blindar su financiación anual con dinero público sin permitir que otras empresas o centros de investigación compitan por esos fondos.",
+    "resumen_tweet": "🚨 ¡Más dedazos en el #BOE! El Gobierno adjudica subvenciones DIRECTAS a AENOR, ENAC y FFII saltándose el concurso público. ¿Razones? 'Interés público' y que son 'únicos'. Opacidad en el reparto de fondos industriales. 💸📉 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso recurrente de la concesión directa para evitar licitaciones",
+      "Justificación de 'entidad única' para limitar la competencia",
+      "Financiación perpetuada por inercia (FFII colabora desde 1994)",
+      "Ausencia de cuantías específicas en el extracto del decreto",
+      "Ambigüedad en el impacto real para las PYMES"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Española de Normalización (AENOR/UNE)",
+        "Entidad Nacional de Acreditación (ENAC)",
+        "Fundación para el Fomento de la Innovación Industrial (FFII)"
+      ],
+      "perdedores": [
+        "Startups tecnológicas de certificación",
+        "Consultoras industriales independientes",
+        "Contribuyentes (por falta de optimización de costes mediante competencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones",
+    "banderas_rojas": [
+      "Uso recurrente de la concesión directa para evitar licitaciones",
+      "Justificación de 'entidad única' para limitar la competencia",
+      "Financiación perpetuada por inercia (FFII colabora desde 1994)",
+      "Ausencia de cuantías específicas en el extracto del decreto",
+      "Ambigüedad en el impacto real para las PYMES"
+    ]
+  },
+  "tweeted": false
+}
