@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18903",
+  "timestamp": "2026-09-10T16:18:11.107Z",
+  "title": "Real Decreto 725/2026, de 9 de septiembre, por el que se regula la concesión directa de subvenciones en materia de propiedad industrial durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la vía de la 'concesión directa' amparándose en el artículo 22.2.c de la Ley General de Subvenciones, una figura diseñada para casos de emergencia o interés público excepcional que aquí se emplea para financiar actividades recurrentes de asociaciones privadas (ANDEMA y FMRE). Se detecta una falta de concurrencia competitiva, lo que impide que otras organizaciones del sector puedan optar a estos fondos. El desglose de gastos permite conceptos vagos como 'catering institucional' y 'merchandising', que suelen actuar como partidas de gasto difícilmente auditables en su impacto real sobre la ciudadanía.",
+    "resumen_ciudadano": "El Gobierno ha otorgado 275.000 euros de forma directa (sin concurso público) a dos entidades: la Asociación Nacional para la Defensa de la Marca y la Fundación Foro de Marcas Renombradas. El dinero se destinará a campañas, eventos y estudios sobre propiedad industrial, permitiendo el pago de gastos de personal, catering y material promocional.",
+    "resumen_tweet": "🚨 El #BOE reparte 275.000€ A DEDO a asociaciones de marcas. Se evita el concurso público alegando 'interés social' para financiar catering, merchandising y eventos. ¿Fomento industrial o privilegios para lobbies? 💸 #Opacidad #Transparencia #Industria",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Inclusión de gastos en catering y merchandising",
+      "Justificación de excepcionalidad genérica",
+      "Financiación mediante presupuestos prorrogados de 2023 para el ejercicio 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Nacional para la Defensa de la Marca (ANDEMA)",
+        "Fundación Foro de Marcas Renombradas Españolas (FMRE)",
+        "Grandes corporaciones con marcas registradas"
+      ],
+      "perdedores": [
+        "PYMES innovadoras sin acceso a subvenciones directas",
+        "Contribuyentes (por ausencia de licitación competitiva)",
+        "Nuevos emprendedores fuera de los circuitos de influencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Inclusión de gastos en catering y merchandising",
+      "Justificación de excepcionalidad genérica",
+      "Financiación mediante presupuestos prorrogados de 2023 para el ejercicio 2026"
+    ]
+  },
+  "tweeted": false
+}
