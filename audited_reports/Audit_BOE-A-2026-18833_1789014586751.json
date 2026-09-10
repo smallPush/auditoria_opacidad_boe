@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18833",
+  "timestamp": "2026-09-10T04:29:46.751Z",
+  "title": "Resolución 430/38378/2026, de 1 de septiembre, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38306/2026, de 29 de junio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento mediante el sistema de 'libre designación', un mecanismo que permite la elección discrecional de cargos bajo el paraguas de la 'confianza'. Este método, aunque legal, es un punto ciego para la meritocracia pura, ya que no se basa exclusivamente en un baremo de puntos objetivo. Resulta llamativo que uno de los dos puestos convocados se declare desierto, lo que suele indicar o bien una falta de perfiles idóneos o un control estricto sobre quién accede a puestos sensibles relacionados con la OTAN y tecnologías de información en Defensa.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha otorgado un puesto de responsabilidad técnica en comunicaciones de la OTAN a una funcionaria elegida a dedo (libre designación). El nombramiento supone un ascenso del nivel 16 al 20 para la adjudicataria. Se ha decidido dejar la otra plaza vacante por el momento.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en Defensa: adjudicado por libre designación un puesto técnico para la OTAN. Sube el nivel del cargo de 16 a 20 discrecionalmente, mientras otra plaza queda desierta. ¿Mérito o confianza? #BOE #Opacidad #Transparencia 🛡️⚖️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto declarado desierto sin justificación técnica detallada",
+      "Área de alta sensibilidad (OTAN/Sistemas de Información) sin criterios públicos de selección"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La persona adjudicataria (ascenso de nivel salarial y estatus)",
+        "Cargos políticos/directivos que mantienen el control sobre puestos de confianza"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos objetivos sin red de confianza",
+        "Transparencia pública en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto declarado desierto sin justificación técnica detallada",
+      "Área de alta sensibilidad (OTAN/Sistemas de Información) sin criterios públicos de selección"
+    ]
+  },
+  "tweeted": false
+}
