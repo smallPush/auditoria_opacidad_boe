@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18907",
+  "timestamp": "2026-09-10T16:19:09.636Z",
+  "title": "Real Decreto 729/2026, de 9 de septiembre, por el que se regula la concesión directa de una subvención a la sociedad de garantía recíproca Audiovisual Fianzas SGR.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 729/2026 perpetúa una dinámica de 'excepcionalidad rutinaria'. Se justifica la concesión directa basándose en el artículo 22.2.c de la Ley General de Subvenciones, alegando razones de interés público y la inexistencia de competidores para CREA SGR. Sin embargo, el texto admite que esta es la cuarta vez (tras 2023, 2024 y 2025) que se utiliza este mecanismo 'singular'. La prórroga presupuestaria por tercer año consecutivo se usa como palanca para evitar la concurrencia competitiva, consolidando un monopolio de facto en la gestión de avales públicos para el sector audiovisual mediante una entidad privada. Existe un riesgo de 'captura del regulador' donde el Estado se vuelve dependiente de una única SGR para ejecutar su política industrial.",
+    "resumen_ciudadano": "El Gobierno ha vuelto a entregar dinero público directamente a una entidad privada (CREA SGR) para que actúe como avalista de empresas de cine y cultura. Aunque se presenta como una medida urgente para ayudar a pymes que no consiguen créditos bancarios, se ha convertido en una ayuda anual a dedo que evita que otras entidades puedan competir o que el Estado busque alternativas más transparentes.",
+    "resumen_tweet": "🚨 ¡Subvención 'a dedo' por 4º año consecutivo! El Gobierno usa la prórroga presupuestaria para evitar la competencia y financiar directamente a CREA SGR. ¿Ayuda estratégica o privilegio estructural? 💸🎬 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa recurrente (2023-2026)",
+      "Uso de presupuestos prorrogados para eludir licitaciones",
+      "Falta de concurrencia competitiva",
+      "Ausencia de indicadores de impacto de género en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CREA SGR (entidad privada beneficiaria)",
+        "Grandes productoras audiovisuales con acceso a avales",
+        "Ministerio para la Transformación Digital (mantiene ejecución de planes sin licitar)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de eficiencia en la asignación competitiva)",
+        "Nuevas entidades financieras que podrían ofrecer garantías",
+        "Pymes culturales sin red de contactos en la SGR beneficiaria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvención de concesión directa",
+    "banderas_rojas": [
+      "Concesión directa recurrente (2023-2026)",
+      "Uso de presupuestos prorrogados para eludir licitaciones",
+      "Falta de concurrencia competitiva",
+      "Ausencia de indicadores de impacto de género en el texto"
+    ]
+  },
+  "tweeted": false
+}
