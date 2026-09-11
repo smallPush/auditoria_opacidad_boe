@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19008",
+  "timestamp": "2026-09-11T16:30:40.215Z",
+  "title": "Resolución de 3 de septiembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria emplea el sistema de 'libre designación' para puestos de alta responsabilidad en seguridad dentro de Patrimonio Nacional. Este mecanismo, aunque legal, permite una selección discrecional por parte de la autoridad convocante, lo que tradicionalmente se asocia con el 'nombramiento a dedo' en la administración pública. Llama la atención la exclusividad (A7) para miembros de las Fuerzas y Cuerpos de Seguridad del Estado, creando un circuito cerrado de acceso a puestos con complementos específicos que oscilan entre los 4.800€ y 6.500€ anuales adicionales, fuera del alcance del funcionariado civil general.",
+    "resumen_ciudadano": "El Ministerio de la Presidencia convoca 7 puestos de jefe y ayudante de seguridad para lugares como El Pardo, El Escorial y San Ildefonso. El proceso no es una oposición abierta, sino una elección basada en el currículum donde el mando decide quién ocupa la plaza. Solo pueden optar policías o militares. Se publican los sueldos extra, pero no los criterios objetivos de puntuación para evitar el favoritismo.",
+    "resumen_tweet": "🚨 7 plazas de seguridad en Sitios Reales por 'Libre Designación'. Sueldos extra de hasta 6.500€ 💸 Solo para miembros de las FCSE. ¿Mérito u oportunidad política? La discrecionalidad vuelve al #BOE. #Opacidad #Transparencia #PatrimonioNacional",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Adscripción exclusiva A7 (Cuerpo cerrado)",
+      "Falta de baremo de puntuación objetiva en las bases"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miembros de las Fuerzas y Cuerpos de Seguridad del Estado con perfil de mando",
+        "Personal con red de contactos en la Subsecretaría de la Presidencia"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera de cuerpos civiles",
+        "Candidatos externos que buscan procesos basados en concurrencia competitiva pura"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Adscripción exclusiva A7 (Cuerpo cerrado)",
+      "Falta de baremo de puntuación objetiva en las bases"
+    ]
+  },
+  "tweeted": false
+}
