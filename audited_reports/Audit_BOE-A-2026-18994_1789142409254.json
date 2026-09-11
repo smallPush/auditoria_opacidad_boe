@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18994",
+  "timestamp": "2026-09-11T16:00:09.254Z",
+  "title": "Resolución de 9 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 20/2026, de 29 de julio, por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución convalida un Real Decreto-ley (RDL) mediante el procedimiento de urgencia del artículo 86.2 CE. Se detecta una amalgama de materias: desde protección laboral hasta la intervención de notarías y registros de la propiedad. Esta técnica de 'leyes ómnibus' bajo el pretexto de emergencia climática dificulta el rastreo de partidas presupuestarias específicas y diluye la responsabilidad fiscal. El uso del RDL para regular materias de seguridad social y laboral limita el debate parlamentario previo.",
+    "resumen_ciudadano": "El Congreso confirma definitivamente las ayudas y cambios legales anunciados en julio para afectados por incendios. Esto incluye beneficios en las cotizaciones a la Seguridad Social y trámites simplificados en notarías. Sin embargo, este documento es meramente formal y no detalla las cuantías económicas asignadas ni los criterios exactos para acceder a las ayudas.",
+    "resumen_tweet": "🚨 El Congreso convalida el RDL de ayudas por incendios. 🔥 Entre medidas sociales, aparecen notarías y registros. ¿Gestión de crisis o paraguas para burocracia? Poca claridad en el gasto real. 🧐📉 #BOE #Opacidad #Transparencia #Incendios",
+    "banderas_red_flags": [
+      "Uso sistemático del Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Inclusión de materias notariales y registrales en una ley de 'emergencia social'",
+      "Ausencia de desglose presupuestario en el acto de convalidación",
+      "Referencia a una 'protección social' que depende de desarrollos reglamentarios posteriores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (centralización de la gestión de crisis)",
+        "Cuerpos de Registradores y Notarios (mantenimiento de su rol en trámites de emergencia)",
+        "Grandes empresas con contratos de extinción (marco de estabilidad laboral)"
+      ],
+      "perdedores": [
+        "Ciudadanos afectados (incertidumbre sobre el presupuesto real asignado)",
+        "Autónomos rurales (dependencia de una burocracia compleja para recibir ayudas)",
+        "Transparencia democrática (proceso de aprobación acelerado sin enmiendas profundas)"
+      ]
+    },
+    "comunidad_autonoma": "España",
+    "tipologia": "Resolución de Convalidación Legislativa",
+    "banderas_rojas": [
+      "Uso sistemático del Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Inclusión de materias notariales y registrales en una ley de 'emergencia social'",
+      "Ausencia de desglose presupuestario en el acto de convalidación",
+      "Referencia a una 'protección social' que depende de desarrollos reglamentarios posteriores"
+    ]
+  },
+  "tweeted": false
+}
