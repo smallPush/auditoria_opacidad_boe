@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-18917",
+  "timestamp": "2026-09-11T04:32:31.646Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Fernando Sancho de Salas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento de catedrático bajo la LOSU 2/2023. Aunque el procedimiento es legalmente estándar, la publicación en el BOE es meramente administrativa y no detalla los méritos ni la puntuación frente a otros candidatos. Este tipo de actos perpetúa una estructura de poder vertical en la universidad donde los procesos de selección ('concursos') suelen ser opacos para el ciudadano común, limitándose a publicar el ganador sin justificar la excelencia sobre la competencia.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a un nuevo catedrático de Geometría y Topología tras superar un concurso interno. El elegido, Fernando Sancho de Salas, asume una plaza fija de máximo nivel docente y sueldo público en la Facultad de Ciencias.",
+    "resumen_tweet": "🎓 Nuevo Catedrático en la @usal. El BOE oficializa a Fernando Sancho de Salas en Geometría. ¿Transparencia real en el proceso? Solo vemos el resultado final, no los méritos. La élite académica se consolida bajo procesos de difícil escrutinio. 🏛️ #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la baremación del concurso",
+      "Falta de información sobre otros candidatos",
+      "Endogamia académica potencial sistémica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Sancho de Salas (nombramiento)",
+        "Universidad de Salamanca (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados (invisibilizados)",
+        "Equidad de género en áreas STEM (nombramiento masculino en área tradicionalmente masculinizada)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal / Funcionariado",
+    "banderas_rojas": [
+      "Opacidad en la baremación del concurso",
+      "Falta de información sobre otros candidatos",
+      "Endogamia académica potencial sistémica"
+    ]
+  },
+  "tweeted": false
+}
