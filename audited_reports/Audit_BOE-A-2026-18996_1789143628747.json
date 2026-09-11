@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18996",
+  "timestamp": "2026-09-11T16:20:28.747Z",
+  "title": "Orden PJC/947/2026, de 7 de septiembre, por la que se crea la Comisión Calificadora de Documentos Administrativos del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes y de sus organismos públicos, y se regulan sus funciones, composición y funcionamiento y el procedimiento de acceso a los archivos central y general del Departamento.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden PJC/947/2026 consolida un órgano de control documental bajo una estructura estrictamente jerárquica y endogámica. Al fusionar las competencias de Presidencia y Justicia, se crea un 'superfiltro' administrativo compuesto exclusivamente por funcionarios de alto nivel (Subgrupo A1), sin presencia de observadores externos, asociaciones de archiveros independientes o sociedad civil. El riesgo principal reside en la potestad de la Comisión para dictaminar la 'inutilidad administrativa' y proceder a la eliminación de documentos, lo que en la práctica permite una purga legal del rastro documental de decisiones políticas bajo criterios de eficiencia de espacio o gestión electrónica.",
+    "resumen_ciudadano": "Se crea un nuevo comité de altos cargos del Ministerio de la Presidencia y Justicia que decidirá qué documentos oficiales se guardan para la historia, cuáles se destruyen y cómo pueden los ciudadanos acceder a los archivos. Aunque se justifica por la reorganización del Gobierno, centraliza el poder de decidir qué información pública deja de existir.",
+    "resumen_tweet": "🕵️‍♂️ ¿Quién decide qué se borra en el Ministerio de Justicia y Presidencia? Se crea una Comisión de altos cargos para 'calificar' y eliminar documentos. Mucho control interno y nula supervisión ciudadana sobre nuestra memoria. #BOE #Opacidad #Transparencia 📜⚖️",
+    "banderas_red_flags": [
+      "Composición exclusiva por cargos de libre designación o niveles altos (A1)",
+      "Ambigüedad en los criterios de 'inutilidad administrativa' para destruir documentos",
+      "Ausencia de mecanismos de apelación externa ante decisiones de eliminación",
+      "Control centralizado de la 'política de gestión de documentos electrónicos' bajo el mando político"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (control de la narrativa institucional)",
+        "Subsecretaría de la Presidencia (centralización de poder)",
+        "Gestores de administración digital (prioridad a la eliminación por espacio)"
+      ],
+      "perdedores": [
+        "Investigadores y periodistas (posible pérdida de fuentes)",
+        "Ciudadanía (barreras burocráticas para el acceso real)",
+        "Memoria democrática (riesgo de eliminación de expedientes sensibles)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Creación de Órgano Colegiado / Gestión Documental",
+    "banderas_rojas": [
+      "Composición exclusiva por cargos de libre designación o niveles altos (A1)",
+      "Ambigüedad en los criterios de 'inutilidad administrativa' para destruir documentos",
+      "Ausencia de mecanismos de apelación externa ante decisiones de eliminación",
+      "Control centralizado de la 'política de gestión de documentos electrónicos' bajo el mando político"
+    ]
+  },
+  "tweeted": false
+}
