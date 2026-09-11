@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19010",
+  "timestamp": "2026-09-11T16:27:00.028Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria para un puesto de libre designación (Secretaría General en la Consejería de Educación en Andorra). Aunque legal, este sistema es el más opaco de la Administración Pública, ya que permite el nombramiento discrecional ('a dedo') bajo la apariencia de una convocatoria abierta. El puesto es de nivel 24 con un complemento específico relevante, situado en el extranjero, lo que conlleva beneficios adicionales por residencia y coste de vida que no se detallan en el anuncio. La descripción de méritos es lo suficientemente genérica como para permitir una elección subjetiva del candidato preseleccionado.",
+    "resumen_ciudadano": "El Ministerio de Educación busca cubrir una plaza de alta dirección en Andorra. A diferencia de las oposiciones normales, este puesto se otorga por 'libre designación', lo que significa que los responsables elegirán a quien consideren más oportuno de forma discrecional, sin una tabla de puntos pública y estricta. Es un puesto goloso en el extranjero que suele estar reservado a funcionarios con buenos contactos en la cúpula del Ministerio.",
+    "resumen_tweet": "🚨 Nueva 'libre designación' en el #BOE: puesto de nivel 24 en Andorra (Educación). Un cargo en el extranjero elegido de forma discrecional. ¿Meritocracia o conveniencia política? La opacidad del dedo sigue vigente. 🧐📉 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto en el extranjero con beneficios no cuantificados en el extracto",
+      "Méritos genéricos que facilitan el ajuste a un perfil predeterminado",
+      "Falta de desglose de las indemnizaciones por residencia en el extranjero"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionario con perfil político o contactos en la Subsecretaría",
+        "Candidatos que ya conocen la estructura interna del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin 'padrinos' que confían en la meritocracia pura",
+        "Ciudadanía, por la dificultad de fiscalizar la idoneidad del cargo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto en el extranjero con beneficios no cuantificados en el extracto",
+      "Méritos genéricos que facilitan el ajuste a un perfil predeterminado",
+      "Falta de desglose de las indemnizaciones por residencia en el extranjero"
+    ]
+  },
+  "tweeted": false
+}
