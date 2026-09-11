@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-18995",
+  "timestamp": "2026-09-11T16:22:33.521Z",
+  "title": "Acuerdo internacional administrativo entre el Reino de España-Ministerio del Interior y la Oficina en España del Alto Comisionado de las Naciones Unidas para los refugiados (ACNUR), hecho en Madrid el 3 y 4 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo externaliza funciones críticas de la Dirección General de Protección Internacional bajo el paraguas de la 'cooperación'. Aunque el importe (290.850€) no es masivo, destaca la transferencia de fondos públicos para financiar 5 puestos de trabajo externos al funcionariado para tareas de asesoramiento y formación. Existe un riesgo de opacidad en la cláusula de 'costes indirectos' (6,5%), un canon administrativo de 17.751€ que se detrae de la ayuda directa sin una justificación de gasto granular más allá de la normativa interna de la ONU. El uso de un tipo de cambio fijo de 2025 para el ejercicio 2026 también introduce una rigidez contable que podría ocultar discrepancias en el valor real de la transferencia.",
+    "resumen_ciudadano": "El Ministerio del Interior paga 290.850 euros a ACNUR para que cinco especialistas externos asesoren en la tramitación de asilo y refugio en España. Este dinero cubre salarios, intérpretes y un 6,5% de gastos de gestión administrativa de la ONU. Se paga de una sola vez tras la firma del acuerdo.",
+    "resumen_tweet": "🚨 ¡290.850€ del Interior para ACNUR! Se financian 5 puestos externos para tareas de asilo que debería cubrir el Estado. Ojo al 6,5% en 'costes indirectos' 💸 y al pago por adelantado. ¿Falta de medios propios o gestión externa? ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Costes indirectos del 6,5% sin desglose detallado",
+      "Pago de la contribución de una sola vez",
+      "Justificación de gastos mediante certificación genérica custodiada en la oficina, no publicada",
+      "Externalización de funciones de instrucción de expedientes públicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "ACNUR (financiación de estructura y personal)",
+        "Los 5 especialistas contratados externamente",
+        "Ministerio del Interior (descarga de carga de trabajo técnica)"
+      ],
+      "perdedores": [
+        "Contribuyente (paga por servicios que ya deberían cubrir las estructuras del Estado)",
+        "Cuerpo de funcionarios (sustitución de funciones por personal de organismos internacionales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Costes indirectos del 6,5% sin desglose detallado",
+      "Pago de la contribución de una sola vez",
+      "Justificación de gastos mediante certificación genérica custodiada en la oficina, no publicada",
+      "Externalización de funciones de instrucción de expedientes públicos"
+    ]
+  },
+  "tweeted": false
+}
