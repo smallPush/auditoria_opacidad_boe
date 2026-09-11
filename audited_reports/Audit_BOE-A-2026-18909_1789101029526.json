@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-18909",
+  "timestamp": "2026-09-11T04:30:29.526Z",
+  "title": "Acuerdo de 2 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Jesús María Huerta Garicano.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado y procedimentalmente estándar del CGPJ. La transparencia es alta en cuanto al fundamento legal (LOPJ y Ley de Clases Pasivas), aunque el documento no especifica el impacto económico exacto de los 'derechos pasivos' (pensión de jubilación) que se activan. Se observa el habitual desfase temporal entre el acuerdo (junio) y la efectividad/publicación (septiembre), propio de la burocracia judicial.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial formaliza la jubilación obligatoria de un magistrado de la Audiencia Provincial de Valencia al alcanzar la edad máxima legal. Este trámite garantiza que el juez deje sus funciones y comience a percibir su pensión como funcionario del Estado.",
+    "resumen_tweet": "⚖️ Trámite en el #BOE: Jubilación forzosa por edad del Magistrado Jesús Mª Huerta en la Audiencia de Valencia. Un relevo natural en la judicatura que activa su pensión del Estado. 🏛️ #Justicia #Transparencia #ComunidadValenciana",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Dilación entre la toma del acuerdo y su publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado (acceso a jubilación legalmente protegida)",
+        "Candidatos en el escalafón (vacante disponible)"
+      ],
+      "perdedores": [
+        "Erario público (sostenibilidad de pensiones de alta escala)",
+        "Ciudadanía (pérdida de experiencia técnica acumulada)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de los derechos pasivos",
+      "Dilación entre la toma del acuerdo y su publicación oficial"
+    ]
+  },
+  "tweeted": false
+}
