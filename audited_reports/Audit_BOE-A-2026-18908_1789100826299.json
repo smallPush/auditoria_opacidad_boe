@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-18908",
+  "timestamp": "2026-09-11T04:27:06.299Z",
+  "title": "Sentencia de 20 de julio de 2026, de la Sala Tercera del Tribunal Supremo, que estima parcialmente el recurso contencioso-administrativo interpuesto por la representación de la Comisión Nacional de los Mercados y la Competencia contra el Real Decreto 1010/2023, de 5 de diciembre, por el que se modifican el Reglamento regulador de las escuelas particulares de conductores, aprobado por el Real Decreto 1295/2003, de 17 de octubre; y el Reglamento General de Conductores, aprobado por el Real Decreto 818/2009, de 8 de mayo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Tribunal Supremo, a instancias de la CNMC, desmantela un mecanismo de control administrativo que limitaba artificialmente la entrada de nuevos profesionales al sector de las autoescuelas. Al declarar nulo el inciso que extinguía la validez de las autorizaciones al finalizar la formación reglada, se elimina una barrera de entrada que favorecía el inmovilismo. No se detectan gastos fantasma directos al ser una sentencia, pero la norma original implicaba un coste de oportunidad y una carga administrativa injustificada para los aspirantes. Existe una clara incongruencia entre el discurso de fomento del empleo y la redacción del Real Decreto anulado, que buscaba restringir el ejercicio profesional a periodos temporales estrechos.",
+    "resumen_ciudadano": "La justicia ha dado la razón a la Comisión de la Competencia frente al Gobierno. Se anula la regla que hacía que el permiso para enseñar a conducir caducara justo al terminar las prácticas. Esto significa que los nuevos profesores de autoescuela tendrán menos trabas para empezar a trabajar y no dependerán de calendarios administrativos rígidos, lo que debería facilitar la formación de nuevos conductores.",
+    "resumen_tweet": "⚖️ ¡Vitoria para la competencia! El Supremo tumba parte del decreto que limitaba el trabajo de profesores de autoescuela tras denuncia de la @CNMC_ES. Menos barreras administrativas, más libertad profesional. 🚗💨 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Proteccionismo encubierto en normativa técnica",
+      "Limitación temporal arbitraria de autorizaciones profesionales",
+      "Intento de restricción de mercado mediante Real Decreto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes a profesores de autoescuela",
+        "Centros de formación profesional",
+        "Consumidores (por mayor oferta de instructores)",
+        "CNMC"
+      ],
+      "perdedores": [
+        "Ministerio del Interior (DGT)",
+        "Lobbies de autoescuelas tradicionales que se benefician de la escasez de instructores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sentencia de nulidad parcial",
+    "banderas_rojas": [
+      "Proteccionismo encubierto en normativa técnica",
+      "Limitación temporal arbitraria de autorizaciones profesionales",
+      "Intento de restricción de mercado mediante Real Decreto"
+    ]
+  },
+  "tweeted": false
+}
