@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19001",
+  "timestamp": "2026-09-11T16:24:13.922Z",
+  "title": "Orden PJC/948/2026, de 8 de septiembre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden PJC/797/2026, de 29 de julio.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla un nombramiento de 'libre designación', un eufemismo legal para designaciones discrecionales ('a dedo') en la alta administración. Aunque se menciona el cumplimiento de requisitos de 'idoneidad', no se publican los baremos ni las puntuaciones de otros posibles candidatos. Es especialmente sensible que este puesto sea la Dirección del Departamento de Tecnologías de la Información en el CIS, un organismo bajo constante escrutinio por su imparcialidad. La vinculación del nombramiento con el Plan de Recuperación, Transformación y Resiliencia sugiere el uso de marcos normativos de urgencia para consolidar puestos directivos de alta confianza política con Nivel 30 (el máximo en la administración).",
+    "resumen_ciudadano": "Se ha adjudicado el puesto de Directora de Informática del Centro de Investigaciones Sociológicas (CIS) a Cristina Álvarez Fontecha. El proceso no ha sido un concurso de méritos abierto y competitivo, sino una elección directa del Presidente del CIS. El puesto es de nivel 30, el rango más alto y mejor remunerado para funcionarios de carrera.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El #CIS adjudica por 'libre designación' la Dirección de Informática (Nivel 30) a propuesta directa de su Presidente. La opacidad en los nombramientos de alto nivel sigue siendo la norma. 🏛️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máxima remuneración funcionarial)",
+      "Nombramiento condicionado a propuesta del Presidente del CIS",
+      "Uso de normativa de urgencia (RD-ley 6/2023) para gestión de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cristina Álvarez Fontecha (consolida puesto Nivel 30)",
+        "Presidencia del CIS (asegura personal de confianza en área tecnológica)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos superiores sin afinidad política",
+        "Ciudadanía (por la falta de transparencia en la selección de cargos críticos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de Nivel 30 (máxima remuneración funcionarial)",
+      "Nombramiento condicionado a propuesta del Presidente del CIS",
+      "Uso de normativa de urgencia (RD-ley 6/2023) para gestión de personal"
+    ]
+  },
+  "tweeted": false
+}
