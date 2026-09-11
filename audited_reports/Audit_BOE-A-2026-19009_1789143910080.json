@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19009",
+  "timestamp": "2026-09-11T16:25:10.080Z",
+  "title": "Resolución 430/38379/2026, de 2 de septiembre, de la Subsecretaría, por la que se publica la relación de personas aprobadas en el proceso selectivo para acceso, por el sistema de promoción interna, al Cuerpo de Maestros de Arsenales de la Armada, convocado por Resolución 430/38508/2025, de 27 de noviembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un proceso de promoción interna para personal técnico de la Armada. Aunque la resolución es detallada en cuanto a nombres y puntuaciones, destaca que el 95% de los aprobados (20 de 21) ya han aceptado destinos propuestos 'previamente' de forma interna, dejando solo una vacante para el proceso público de elección. Esto indica un sistema de asignación muy dirigido que, si bien es eficiente administrativamente, reduce la competencia efectiva por las plazas más deseadas una vez finalizado el examen.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha publicado la lista de los 21 trabajadores que han ascendido al Cuerpo de Maestros de Arsenales de la Armada. Estos profesionales se especializan en áreas clave como mecánica, electrónica y mantenimiento naval. La mayoría ya conoce su nuevo destino tras un acuerdo previo con el Ministerio.",
+    "resumen_tweet": "🎖️ El Ministerio de Defensa asciende a 21 técnicos en los Arsenales de la Armada. El 95% de los destinos se asignaron por 'conformidad previa', dejando poco margen a la elección pública. ⚓ #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Asignación previa de destinos para 20 de 21 aprobados",
+      "Acumulación de plazas de reserva por discapacidad al cupo general",
+      "Uso de delegación de firma (P.D.) en la resolución final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 21 funcionarios promocionados",
+        "Ministerio de Defensa (estabilización de plantillas técnicas)"
+      ],
+      "perdedores": [
+        "Personal con discapacidad (plazas no cubiertas por su cupo)",
+        "Aspirantes externos (acceso limitado solo a quienes ya están dentro)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Asignación previa de destinos para 20 de 21 aprobados",
+      "Acumulación de plazas de reserva por discapacidad al cupo general",
+      "Uso de delegación de firma (P.D.) en la resolución final"
+    ]
+  },
+  "tweeted": false
+}
