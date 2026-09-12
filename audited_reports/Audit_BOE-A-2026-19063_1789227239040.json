@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19063",
+  "timestamp": "2026-09-12T15:33:59.040Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad, con plaza vinculada, a don Victoriano Soria Aledo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento formaliza un nombramiento de 'plaza vinculada', una figura que permite la bicefalia administrativa entre la Universidad de Murcia y el Servicio Murciano de Salud. Aunque el proceso cita normativas vigentes (LOSU 2/2023), se observa el uso de subvenciones finalistas destinadas al 'incremento y mantenimiento de plazas del Grado de Medicina' para consolidar puestos de la élite clínica. Esta estructura dificulta la fiscalización del tiempo efectivo dedicado a la docencia frente a la práctica asistencial, y perpetúa un modelo de financiación híbrida que a menudo oculta el coste real por alumno.",
+    "resumen_ciudadano": "Se ha nombrado a Victoriano Soria Aledo como Profesor Titular de Cirugía en la Universidad de Murcia, con funciones simultáneas como cirujano en el Hospital Morales Meseguer. Este puesto se financia a través de fondos especiales para potenciar la carrera de Medicina, uniendo el sueldo universitario con el sanitario.",
+    "resumen_tweet": "🔍 Nuevo nombramiento en la Univ. de Murcia. Victoriano Soria Aledo asume plaza vinculada en Cirugía 🏥. Fondos públicos para 'reforzar' Medicina consolidan estructuras de doble cargo. ¿Eficiencia o acumulación? #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Doble financiación Educación-Sanidad",
+      "Uso de subvenciones genéricas para plazas específicas",
+      "Opacidad en la distribución de carga horaria docente/asistencial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Victoriano Soria Aledo",
+        "Universidad de Murcia",
+        "Servicio Murciano de Salud"
+      ],
+      "perdedores": [
+        "Personal investigador joven sin plazas vinculadas",
+        "Médicos asistenciales sin acceso a carrera docente",
+        "Contribuyentes (por falta de desglose de costes mixtos)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Académico-Sanitario",
+    "banderas_rojas": [
+      "Doble financiación Educación-Sanidad",
+      "Uso de subvenciones genéricas para plazas específicas",
+      "Opacidad en la distribución de carga horaria docente/asistencial"
+    ]
+  },
+  "tweeted": false
+}
