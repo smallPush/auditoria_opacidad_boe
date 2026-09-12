@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-18999",
+  "timestamp": "2026-09-12T04:25:53.833Z",
+  "title": "Resolución de 8 de septiembre de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion establece los techos maximos de interes que las Administraciones locales y autonomicas pueden pagar por su deuda. Aunque se etiqueta como 'prudencia financiera', actua como un mecanismo de control centralizado que limita la autonomia politica para financiar servicios publicos. El uso de terminos como 'derivados' y 'diferenciales sobre euribor' oculta que una decima de variacion en estas tablas supone millones de euros en intereses que fluyen del contribuyente hacia el sector bancario. Ademas, se incentiva la contratacion de 'asesoramiento externo independiente', lo que abre la puerta a la influencia de grandes consultoras privadas en la gestion del dinero publico.",
+    "resumen_ciudadano": "El Estado ha publicado la lista de precios maximos (intereses) que los ayuntamientos y las comunidades autonomas pueden aceptar al pedir prestamos o creditos. El objetivo oficial es evitar que estas instituciones paguen de mas a los bancos, pero en la practica, estos limites tambien determinan cuanto dinero publico se destinara a pagar deuda en lugar de a inversion social o infraestructuras.",
+    "resumen_tweet": "📉 El Tesoro fija los limites de interes para la deuda de Ayuntamientos y CCAA. ¿Prudencia financiera o blindaje del beneficio bancario? Lo que parece tecnico es, en realidad, dinero que vuela de lo publico a la banca. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de derivados financieros complejos",
+      "Dependencia de consultoria externa privada",
+      "Centralizacion del control de gasto local",
+      "Metodologia de calculo opaca para el no experto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades bancarias (beneficiarias de los intereses)",
+        "Consultoras financieras externas",
+        "Ministerio de Economia (control central)"
+      ],
+      "perdedores": [
+        "Autonomia municipal",
+        "Ciudadanos dependientes de servicios publicos locales",
+        "Presupuestos de inversion social"
+      ]
+    },
+    "comunidad_autonoma": "Todas",
+    "tipologia": "Regulacion Financiera y Deuda",
+    "banderas_rojas": [
+      "Uso de derivados financieros complejos",
+      "Dependencia de consultoria externa privada",
+      "Centralizacion del control de gasto local",
+      "Metodologia de calculo opaca para el no experto"
+    ]
+  },
+  "tweeted": false
+}
