@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19049",
+  "timestamp": "2026-09-12T15:08:09.814Z",
+  "title": "Corrección de errores del Real Decreto 606/2026, de 22 de julio, por el que se aprueba el Estatuto de la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, A.A.I.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una corrección de errores masiva que evidencia una redacción original negligente del Estatuto de la Autoridad Independiente para la Igualdad de Trato. Se han detectado más de 20 erratas que van desde simples comas hasta fechas erróneas en Directivas Europeas y el Reglamento de Inteligencia Artificial. Lo más grave es la actualización de la norma UNE de accesibilidad (de la versión 2004 a la 2012), lo que implica que el texto original nació con estándares de inclusión digital obsoletos por una década. Esta 'limpieza' formal busca evitar la impugnación de una autoridad clave, pero revela una preocupante prisa legislativa.",
+    "resumen_ciudadano": "El Gobierno publica una larga lista de correcciones para el Estatuto de la nueva Autoridad contra la Discriminación. Se corrigen fallos en nombres de departamentos, fechas de leyes europeas y, sobre todo, se actualizan los requisitos de accesibilidad para asegurar que la web y documentos de esta oficina sean utilizables por personas con discapacidad según estándares modernos.",
+    "resumen_tweet": "⚠️ Aluvión de erratas en el Estatuto de la Autoridad para la Igualdad. Errores en fechas de Directivas UE y normas de accesibilidad web desfasadas por 8 años. ¿Prisa legislativa o falta de rigor? La transparencia empieza por escribir bien. 🧐🏛️ #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Volumen excesivo de correcciones en un solo estatuto",
+      "Referencia a normativa técnica de accesibilidad obsoleta (2004)",
+      "Errores en citas de Directivas Europeas fundamentales (2024/1499)",
+      "Falta de revisión gramatical en la estructura jerárquica del organismo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Expertos en accesibilidad (al actualizarse la norma técnica)",
+        "La propia A.A.I. (al blindarse jurídicamente contra defectos de forma)"
+      ],
+      "perdedores": [
+        "Seguridad jurídica (por la baja calidad de la redacción inicial)",
+        "Ciudadanía (que recibe textos legales descuidados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Derechos Sociales y Administración Pública",
+    "banderas_rojas": [
+      "Volumen excesivo de correcciones en un solo estatuto",
+      "Referencia a normativa técnica de accesibilidad obsoleta (2004)",
+      "Errores en citas de Directivas Europeas fundamentales (2024/1499)",
+      "Falta de revisión gramatical en la estructura jerárquica del organismo"
+    ]
+  },
+  "tweeted": false
+}
