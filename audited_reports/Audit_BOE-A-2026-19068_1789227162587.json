@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-19068",
+  "timestamp": "2026-09-12T15:32:42.587Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Universidad Autónoma de Barcelona, por la que se nombra Profesora Titular de Universidad a doña Laura Cappuccio.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de una Profesora Titular tras un concurso-oposición. Aunque el procedimiento es legalmente estándar, el BOE solo muestra el resultado final, ocultando los detalles de la baremación y la puntuación de otros aspirantes, lo que dificulta la auditoría externa contra la endogamia universitaria. El puesto es en Derecho Constitucional, un área de alta influencia ideológica en la formación de futuros juristas.",
+    "resumen_ciudadano": "La Universidad Autónoma de Barcelona formaliza el nombramiento de Laura Cappuccio como profesora con plaza fija (funcionaria) en el área de Derecho Constitucional, tras finalizar el proceso selectivo iniciado en mayo de 2026.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la UAB: Laura Cappuccio ya es Profa. Titular de Derecho Constitucional. Un sueldo público consolidado de por vida. ¿Son estos procesos realmente abiertos o pura burocracia? 🏛️⚖️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Opacidad en la puntuación detallada de los méritos en este extracto",
+      "Gasto público estructural consolidado a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Cappuccio (estabilidad laboral vitalicia)",
+        "UAB (Departamento de Ciencia Política y Derecho Público)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Contribuyentes (asunción de gasto salarial de por vida sin evaluación de desempeño pública posterior)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Funcionarios de Carrera",
+    "banderas_rojas": [
+      "Opacidad en la puntuación detallada de los méritos en este extracto",
+      "Gasto público estructural consolidado a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
