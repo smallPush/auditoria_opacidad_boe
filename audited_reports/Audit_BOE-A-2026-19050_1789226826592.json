@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19050",
+  "timestamp": "2026-09-12T15:27:06.592Z",
+  "title": "Resolución de 11 de septiembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Esta resolución es un ejemplo de regulación técnica en un mercado bajo monopolio estatal. Aunque los precios son públicos, el proceso de 'propuesta' por parte de fabricantes e importadores carece de transparencia sobre los márgenes comerciales y el peso real de los lobbies tabacaleros en la fijación de precios. Se observa una proliferación de productos como el tabaco de shisha con sabores atractivos (Starbuzz), lo que contrasta con las políticas de salud pública, priorizando la recaudación fiscal sobre la prevención.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios oficiales de venta al público para diversas marcas de cigarrillos, puros y tabaco de pipa (shisha). Los nuevos precios entran en vigor de forma inmediata en todos los estancos de la Península, Baleares, Ceuta y Melilla.",
+    "resumen_tweet": "📉 Hacienda actualiza los precios del tabaco. De Lucky Strike a tabaco de sabores para shisha, la industria propone y el Estado valida. ¿Recaudación sobre salud? El bolsillo del ciudadano vuelve a temblar. 🚬💸 #BOE #Opacidad #Transparencia #Salud",
+    "banderas_red_flags": [
+      "Precios fijados por propuesta directa del fabricante (opacidad en la negociación)",
+      "Fomento de labores de tabaco con nombres comerciales atractivos para perfiles jóvenes",
+      "Falta de desglose entre carga impositiva y beneficio empresarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales tabacaleras (British American Tobacco, Starbuzz)",
+        "Ministerio de Hacienda (mantenimiento de ingresos tributarios)"
+      ],
+      "perdedores": [
+        "Consumidores (clase trabajadora con mayor prevalencia de tabaquismo)",
+        "Salud pública (fomento indirecto de nuevos modos de consumo)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Regulación de Precios y Fiscalidad",
+    "banderas_rojas": [
+      "Precios fijados por propuesta directa del fabricante (opacidad en la negociación)",
+      "Fomento de labores de tabaco con nombres comerciales atractivos para perfiles jóvenes",
+      "Falta de desglose entre carga impositiva y beneficio empresarial"
+    ]
+  },
+  "tweeted": false
+}
