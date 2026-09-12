@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19061",
+  "timestamp": "2026-09-12T15:29:34.357Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad a don Juan Manuel Cebrián González.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento estandarizado bajo la LOSU 2/2023. Aunque el proceso es legalmente riguroso, la publicacion en el BOE actua como un simple tramite burocratico que oculta los detalles de la competicion por la plaza. No existen gastos fantasma directos fuera de la asignacion salarial funcionarial, pero la estructura de acceso a la titularidad en España sigue siendo criticada por su opacidad externa y potencial endogamia.",
+    "resumen_ciudadano": "Nombramiento oficial de un nuevo Profesor Titular en el area de Arquitectura y Tecnologia de Computadores en la Universidad de Murcia. El candidato ha superado el concurso de acceso iniciado en mayo de 2026.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Univ. de Murcia: Profesor Titular en Tecnologia de Computadores. Aunque cumple la ley, el proceso de seleccion real queda fuera del escrutinio publico directo. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de transparencia en los meritos especificos puntuados",
+      "Procedimiento de acceso tradicionalmente propenso a la endogamia",
+      "Ausencia de desglose salarial asociado a la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Manuel Cebrián González",
+        "Universidad de Murcia"
+      ],
+      "perdedores": [
+        "Otros candidatos al concurso (invisibilizados)",
+        "Sociedad civil (por la opacidad en los criterios de excelencia aplicados)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos / Educación Superior",
+    "banderas_rojas": [
+      "Falta de transparencia en los meritos especificos puntuados",
+      "Procedimiento de acceso tradicionalmente propenso a la endogamia",
+      "Ausencia de desglose salarial asociado a la plaza"
+    ]
+  },
+  "tweeted": false
+}
