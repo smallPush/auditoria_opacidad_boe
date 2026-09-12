@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19007",
+  "timestamp": "2026-09-12T04:29:00.549Z",
+  "title": "Orden PJC/951/2026, de 8 de septiembre, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Bajo la apariencia de modernización administrativa y 'liderazgo transformador', esta orden utiliza el sistema de 'libre designación', el eufemismo legal para el nombramiento discrecional o 'dedazo'. Se convoca la dirección del Banco de Datos del CIS, un puesto clave para la gestión de la percepción pública, con un nivel 30 y un complemento específico de 30.436 euros. El proceso incluye entrevistas con 'expertos' designados por el propio órgano de nombramiento y un cuestionario de autoevaluación altamente subjetivo, lo que permite blindar decisiones políticas bajo una capa de tecnocracia. El plazo de 10 días naturales es inusualmente corto, dificultando la concurrencia real de candidatos no preavisados.",
+    "resumen_ciudadano": "Se convoca un puesto de Director/a en el CIS para gestionar su banco de datos con un sueldo extra anual de 30.436 euros. El sistema de elección es la 'libre designación', lo que significa que el responsable puede elegir a quien quiera entre los que cumplan los requisitos mínimos, sin un examen objetivo de méritos comparativos. Se valora la autoevaluación del propio candidato, lo cual es poco riguroso para un cargo de tal relevancia técnica y económica.",
+    "resumen_tweet": "🚨 ¿Transparencia o 'dedazo'? El CIS busca Director de Banco de Datos por 'libre designación' (a dedo). 💰 Nivel 30 + 30.436€ de complemento extra. Controlar los datos nunca fue tan rentable para la élite administrativa. #BOE #Opacidad #Transparencia #CIS",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad técnica)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Comité de expertos designado por el propio órgano selector",
+      "Uso de cuestionario de autoevaluación subjetiva para medir competencias directivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del grupo A1 con conexiones políticas",
+        "Élite administrativa del Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin perfil político",
+        "Transparencia en la gestión de datos públicos",
+        "Ciudadanos que financian puestos de alta dirección sin procesos competitivos reales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad técnica)",
+      "Plazo de presentación de solo 10 días naturales",
+      "Comité de expertos designado por el propio órgano selector",
+      "Uso de cuestionario de autoevaluación subjetiva para medir competencias directivas"
+    ]
+  },
+  "tweeted": false
+}
