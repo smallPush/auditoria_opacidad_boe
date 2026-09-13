@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19052",
+  "timestamp": "2026-09-13T16:08:29.809Z",
+  "title": "Corrección de errores del Real Decreto 592/2026, de 15 de julio, por el que se regula el régimen jurídico de las entidades del Tercer Sector de Acción Social colaboradoras con la Administración General del Estado.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre el Real Decreto 592/2026. Aunque los cambios parecen puramente ortográficos y sintácticos (como cambiar 'Familias' por 'Familiar' y añadir el verbo 'corresponde'), este tipo de subsanaciones evidencian una falta de rigor en la fase de revisión previa a la publicación original. La omisión de un verbo en el artículo 23 sobre competencias ministeriales podría haber generado inseguridad jurídica sobre quién asume las responsabilidades ante las entidades del Tercer Sector.",
+    "resumen_ciudadano": "El Gobierno corrige errores de redacción en la norma que regula la relación entre el Estado y las ONG o entidades sociales. Los ajustes aseguran que el nombre de la Dirección General sea el correcto y que se entienda claramente qué ministerios tienen las competencias en cada caso.",
+    "resumen_tweet": "📝 El @MSocialGob arregla 'despistes' en la regulación del Tercer Sector. Un Real Decreto que salió con fallos de redacción y nombres de departamentos mal escritos. El rigor legislativo brilla por su ausencia. #BOE #Opacidad #Transparencia #ONG",
+    "banderas_red_flags": [
+      "Falta de revisión técnica previa",
+      "Ambigüedad sintáctica en competencias ministeriales",
+      "Corrección de denominación de órganos administrativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios públicos (obtienen mayor claridad procedimental)",
+        "Entidades del Tercer Sector (mejor definición de interlocutores)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el coste de procesos de corrección evitables)",
+        "Rigor legislativo (imagen de improvisación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Corrección de errores técnicos",
+    "banderas_rojas": [
+      "Falta de revisión técnica previa",
+      "Ambigüedad sintáctica en competencias ministeriales",
+      "Corrección de denominación de órganos administrativos"
+    ]
+  },
+  "tweeted": false
+}
