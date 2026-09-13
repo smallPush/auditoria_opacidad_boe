@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19056",
+  "timestamp": "2026-09-13T04:39:13.878Z",
+  "title": "Resolución de 3 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 9 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución detalla nombramientos mediante el sistema de 'Libre Designación', un procedimiento legal pero criticado por permitir la selección discrecional de personal en puestos estratégicos. Se destaca la adjudicación de una Jefatura de Dependencia de Nivel 28, uno de los rangos más altos de la Administración, en el área de Sanidad y Política Social. Al no ser un concurso de méritos puro, la idoneidad técnica queda supeditada a la confianza política, lo que debilita la independencia de la función pública en áreas sensibles de bienestar social.",
+    "resumen_ciudadano": "El Gobierno ha asignado a dedo dos cargos en la Subdelegación de Alicante. El puesto más relevante se encargará de coordinar la Sanidad y la Política Social en la provincia. Aunque el proceso es legal, se basa en la 'libre elección' y no en un examen de méritos abierto a todos los funcionarios, lo que dificulta saber si se ha elegido al mejor perfil profesional o al más cercano al poder.",
+    "resumen_tweet": "🕵️‍♂️ Más nombramientos 'a dedo' en el Ministerio de Política Territorial. Cargos clave en Alicante (Nivel 28) asignados por Libre Designación en Sanidad y Política Social. ¿Mérito o confianza? 🏛️🔍 #BOE #Opacidad #Transparencia #Alicante",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad política)",
+      "Nivel de alta dirección administrativa (Nivel 28)",
+      "Falta de justificación de méritos específicos en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatas seleccionadas (Coves Pujante y Zofío López)",
+        "Ministerio de Política Territorial (asegura personal de confianza en territorio)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios que no pueden competir por méritos objetivos",
+        "Transparencia institucional",
+        "Ciudadanía (gestión de sanidad sujeta a discrecionalidad)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos / Libre Designación",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad política)",
+      "Nivel de alta dirección administrativa (Nivel 28)",
+      "Falta de justificación de méritos específicos en el texto"
+    ]
+  },
+  "tweeted": false
+}
