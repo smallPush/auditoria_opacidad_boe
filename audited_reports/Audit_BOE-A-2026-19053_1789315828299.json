@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19053",
+  "timestamp": "2026-09-13T16:10:28.299Z",
+  "title": "Circular 3/2026, de 8 de septiembre, de la Comisión Nacional de los Mercados y la Competencia, por la que se modifica la Circular 1/2026, de 18 de marzo, por la que se regula el Registro de Alias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La circular 3/2026 de la CNMC es una confesión de incapacidad administrativa. Al admitir una 'imposibilidad material' para validar los miles de alias de SMS solicitados a última hora, el organismo crea una figura jurídica 'ad hoc': la preinscripción transitoria. Esta medida prioriza evitar la caída de servicios críticos empresariales sobre la seguridad inmediata del ciudadano, permitiendo que alias no verificados operen durante un periodo de hasta tres meses. Se observa una clara falta de previsión en la fase de implementación de la Orden TDF/149/2025, generando un limbo regulatorio donde la validación real queda postergada por el colapso burocrático.",
+    "resumen_ciudadano": "La CNMC ha tenido que improvisar un 'aprobado provisional' para los nombres (alias) que usan las empresas en sus SMS. Como no han tenido tiempo de revisar todas las solicitudes antes de la fecha límite (15 de septiembre), permitirán que cualquier empresa que lo haya pedido a tiempo siga operando hasta tres meses más sin haber comprobado si su identidad es real o fraudulenta. Esto se hace para evitar que dejen de funcionar mensajes importantes de bancos o administraciones, pero debilita el control contra estafas a corto plazo.",
+    "resumen_tweet": "⚠️ Colapso en la CNMC: ante la avalancha de solicitudes, se permite el uso de 'alias' de SMS sin validar hasta por 3 meses. Un 'parche' legal por falta de previsión que debilita la seguridad ciudadana. 🛡️❌ #BOE #Opacidad #Transparencia #FraudeSMS",
+    "banderas_red_flags": [
+      "Reconocimiento explícito de imposibilidad material de resolver",
+      "Creación de habilitación provisional sin validación previa",
+      "Retraso de tres meses en la limpieza real del registro",
+      "Riesgo de validación de identidades fraudulentas por silencio o demora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas que demoraron sus trámites",
+        "Proveedores de servicios de mensajería (PRO)",
+        "CNMC (evita el caos operativo de bloqueos masivos)"
+      ],
+      "perdedores": [
+        "Usuarios finales (continúan expuestos a alias no verificados)",
+        "Sistema de lucha contra el fraude (se debilita temporalmente)",
+        "Pequeñas empresas que sí cumplieron los plazos originales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Circular Regulatoria / Telecomunicaciones",
+    "banderas_rojas": [
+      "Reconocimiento explícito de imposibilidad material de resolver",
+      "Creación de habilitación provisional sin validación previa",
+      "Retraso de tres meses en la limpieza real del registro",
+      "Riesgo de validación de identidades fraudulentas por silencio o demora"
+    ]
+  },
+  "tweeted": false
+}
