@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19055",
+  "timestamp": "2026-09-13T04:37:11.704Z",
+  "title": "Resolución de 8 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla la cobertura de un puesto mediante el sistema de 'libre designación', un eufemismo legal para el nombramiento discrecional o 'a dedo' dentro de la administración pública. Aunque se cita el cumplimiento de la normativa (Ley 30/1984), este mecanismo permite que los criterios subjetivos de confianza primen sobre la meritocracia pura, lo que suele generar opacidad en la selección de funcionarios para puestos de apoyo directo a altos cargos. El puesto adjudicado es de nivel 17, un rango administrativo intermedio, pero el uso de la libre designación para secretarías de directores generales consolida estructuras de lealtad personal en lugar de independencia técnica.",
+    "resumen_ciudadano": "Se ha nombrado a una secretaria para la Dirección General de Libertad Religiosa usando el método de libre designación. Esto significa que la persona ha sido elegida directamente por la dirección basándose en criterios de confianza, en lugar de un concurso de méritos abierto y puntuable. Es una práctica legal pero criticada por su falta de objetividad.",
+    "resumen_tweet": "📢 Nueva 'Libre Designación' en el Ministerio de Justicia. El sistema de selección discrecional sigue siendo el estándar para puestos clave de apoyo. ¿Meritocracia o confianza personal? 🧐 #BOE #Opacidad #Transparencia #Funcionarado",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación",
+      "Selección basada en propuesta directa de alto cargo",
+      "Falta de detalle en los criterios de valoración aplicados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Antonia Pavón Román (adjudicataria)",
+        "Directora General de Libertad Religiosa (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor antigüedad o méritos no seleccionados",
+        "Transparencia administrativa basada en competencia abierta"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación",
+      "Selección basada en propuesta directa de alto cargo",
+      "Falta de detalle en los criterios de valoración aplicados"
+    ]
+  },
+  "tweeted": false
+}
