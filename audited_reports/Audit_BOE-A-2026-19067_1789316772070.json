@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19067",
+  "timestamp": "2026-09-13T16:26:12.070Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Universidad Autónoma de Barcelona, por la que se nombra Profesor Titular de Universidad a don Rafael Montiel Duarte.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento representa un acto administrativo estándar de consolidación de plazas en el sistema universitario español. Aunque formalmente correcto, ejemplifica la opacidad sobre el coste real para las arcas públicas, ya que el BOE se limita a publicar el nombramiento sin adjuntar el desglose salarial o los complementos específicos asociados a la plaza de Profesor Titular. Existe una falta de transparencia en la exposición de méritos del candidato en el cuerpo del texto, remitiendo a un proceso previo que el ciudadano medio difícilmente rastreará.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Rafael Montiel Duarte como Profesor Titular en la Universidad Autónoma de Barcelona (UAB) dentro del Departamento de Biología Animal, tras superar un concurso público. Es un movimiento burocrático que otorga estatus de funcionario al beneficiario en el área de Antropología Física.",
+    "resumen_tweet": "🎓 La UAB nombra nuevo Profesor Titular en Antropología Física. Trámite legal cumplido, pero persiste la falta de información sobre el impacto presupuestario de esta plaza permanente. ¿Mérito real o inercia burocrática? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ocultación del coste salarial anual",
+      "Opacidad en los criterios de baremación final",
+      "Remisión a bases externas no integradas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Montiel Duarte (estabilidad funcionarial)",
+        "UAB (cubrimiento de plazas docentes)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (anonimato total)",
+        "Ciudadanía (desconocimiento del coste público)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Docente",
+    "banderas_rojas": [
+      "Ocultación del coste salarial anual",
+      "Opacidad en los criterios de baremación final",
+      "Remisión a bases externas no integradas"
+    ]
+  },
+  "tweeted": false
+}
