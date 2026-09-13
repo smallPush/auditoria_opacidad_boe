@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-19064",
+  "timestamp": "2026-09-13T16:13:02.880Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Carlos Shahin Shahbazi Alonso.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera tras un concurso de acceso. El documento cita correctamente la Ley Orgánica 2/2023 (LOSU) y el Real Decreto 678/2023. No se detectan 'gastos fantasma', ya que la plaza corresponde a una dotación presupuestaria estructural de la UNED. Sin embargo, la resolución es parca en detalles sobre la baremación de méritos, una opacidad habitual en la burocracia académica española que dificulta el escrutinio público de la excelencia frente a la veteranía.",
+    "resumen_ciudadano": "La Universidad Nacional de Educación a Distancia (UNED) ha formalizado el nombramiento de un nuevo Profesor Titular en el área de Geometría y Topología. Este paso culmina un proceso iniciado en abril de 2026 y otorga al candidato la condición de funcionario de carrera, con su correspondiente sueldo a cargo de los presupuestos públicos del Estado.",
+    "resumen_tweet": "🎓 Nueva plaza de funcionario en la @UNED: Carlos Shahin Shahbazi ya es Profesor Titular de Geometría. Un proceso legal bajo la #LOSU, pero cuya baremación de méritos sigue siendo invisible para el ciudadano. #BOE #Transparencia #Universidad 🏛️",
+    "banderas_red_flags": [
+      "Opacidad en la puntuación final de los méritos",
+      "Invisibilidad de la composición de la comisión evaluadora en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Carlos Shahin Shahbazi Alonso",
+        "Departamento de Matemáticas Fundamentales de la UNED"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el concurso de abril de 2026",
+        "Personal docente e investigador en situación de precariedad (PDI no funcionario)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (UNED)",
+    "tipologia": "Personal Académico y Nombramientos",
+    "banderas_rojas": [
+      "Opacidad en la puntuación final de los méritos",
+      "Invisibilidad de la composición de la comisión evaluadora en el extracto"
+    ]
+  },
+  "tweeted": false
+}
