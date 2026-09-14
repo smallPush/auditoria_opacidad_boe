@@ -103,17 +103,46 @@ const AuditDashboard: React.FC<Props> = ({
     setTweetSent(data.tweet_sent || false);
   }, [data.tweet_sent]);
 
+  useEffect(() => {
+    try {
+      const savedVote =
+        typeof window !== "undefined" && window.localStorage
+          ? window.localStorage.getItem(`boe_vote_${boeId}`)
+          : null;
+      setFeedbackGiven(savedVote);
+    } catch {
+      setFeedbackGiven(null);
+    }
+  }, [boeId]);
+
   const relatedAudits = React.useMemo(() => {
     if (!history || history.length === 0) return [];
-    const others = history.filter((h) => h.boeId !== boeId);
-    return [...others]
-      .sort(
-        (a, b) =>
-          (a.audit?.nivel_transparencia ?? 100) -
-          (b.audit?.nivel_transparencia ?? 100),
-      )
+    const valid = history.filter(
+      (h) =>
+        h &&
+        h.boeId !== boeId &&
+        h.audit &&
+        typeof h.audit.nivel_transparencia === "number"
+    );
+    return [...valid]
+      .sort((a, b) => {
+        const aMatch =
+          (data.comunidad_autonoma &&
+            a.audit.comunidad_autonoma === data.comunidad_autonoma) ||
+          (data.tipologia && a.audit.tipologia === data.tipologia);
+        const bMatch =
+          (data.comunidad_autonoma &&
+            b.audit.comunidad_autonoma === data.comunidad_autonoma) ||
+          (data.tipologia && b.audit.tipologia === data.tipologia);
+        if (aMatch && !bMatch) return -1;
+        if (!aMatch && bMatch) return 1;
+        return (
+          (a.audit.nivel_transparencia ?? 100) -
+          (b.audit.nivel_transparencia ?? 100)
+        );
+      })
       .slice(0, 3);
-  }, [history, boeId]);
+  }, [history, boeId, data.comunidad_autonoma, data.tipologia]);
 
   const chartData = [
     { name: t.transparencyLevel, value: data.nivel_transparencia },
@@ -124,8 +153,40 @@ const AuditDashboard: React.FC<Props> = ({
   const boeUrl = `https://www.boe.es/buscar/doc.php?id=${boeId}`;
   const radarUrl = `https://radarboe.es/audit/${boeId}`;
 
+  const safeCopy = async (text: string): Promise<boolean> => {
+    try {
+      if (
+        typeof navigator !== "undefined" &&
+        navigator.clipboard &&
+        navigator.clipboard.writeText
+      ) {
+        await navigator.clipboard.writeText(text);
+        return true;
+      }
+    } catch {
+      // Fallback
+    }
+    try {
+      if (typeof document !== "undefined") {
+        const textArea = document.createElement("textarea");
+        textArea.value = text;
+        textArea.style.position = "fixed";
+        textArea.style.opacity = "0";
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        const successful = document.execCommand("copy");
+        document.body.removeChild(textArea);
+        return successful;
+      }
+    } catch {
+      // Ignore
+    }
+    return false;
+  };
+
   const handleCopyDirectLink = () => {
-    navigator.clipboard.writeText(radarUrl);
+    safeCopy(radarUrl);
     setCopiedDirectLink(true);
     setTimeout(() => setCopiedDirectLink(false), 2000);
   };
@@ -159,7 +220,7 @@ const AuditDashboard: React.FC<Props> = ({
   };
 
   const handleCopyTweet = () => {
-    navigator.clipboard.writeText(`${data.resumen_tweet}\n\n${radarUrl}`);
+    safeCopy(`${data.resumen_tweet}\n\n${radarUrl}`);
     setCopiedTweet(true);
     setTimeout(() => setCopiedTweet(false), 2000);
   };
@@ -182,7 +243,7 @@ const AuditDashboard: React.FC<Props> = ({
   };
 
   const handleCopyJson = () => {
-    navigator.clipboard.writeText(JSON.stringify(data, null, 2));
+    safeCopy(JSON.stringify(data, null, 2));
     setCopiedJson(true);
     setTimeout(() => setCopiedJson(false), 2000);
   };

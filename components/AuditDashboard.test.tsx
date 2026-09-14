@@ -172,13 +172,13 @@ describe("AuditDashboard Component - Error Paths", () => {
       {
         boeId: "BOE-ENGAGE-3",
         title: "Current doc",
-        date: "2026-09-01",
+        timestamp: Date.now(),
         audit: mockData,
       },
       {
         boeId: "BOE-RELATED-1",
         title: "Relacionada Ley Sanidad",
-        date: "2026-09-02",
+        timestamp: Date.now(),
         audit: { ...mockData, nivel_transparencia: 15 },
       },
     ];
@@ -196,4 +196,49 @@ describe("AuditDashboard Component - Error Paths", () => {
     expect(screen.getByText(translations.es.relatedAudits)).toBeDefined();
     expect(screen.getByText("Relacionada Ley Sanidad")).toBeDefined();
   });
+
+  test("resets citizen feedback when navigating to another boeId", () => {
+    const mockData: BOEAuditResponse = {
+      nivel_transparencia: 40,
+      resumen_ciudadano: "Resumen test",
+      analisis_critico: "Analisis test",
+      resumen_tweet: "Tweet test",
+      banderas_rojas: ["Bandera 1"],
+      vencedores_vencidos: {
+        ganadores: ["Ganador"],
+        perdedores: ["Perdedor"],
+      },
+      comunidad_autonoma: "Madrid",
+      tipologia: "Decreto",
+      tweet_sent: false,
+    };
+
+    const { rerender } = render(
+      <AuditDashboard
+        data={mockData}
+        boeId="BOE-VOTE-A"
+        title="Doc A"
+        lang="es"
+      />
+    );
+
+    // Vote on Doc A
+    fireEvent.click(screen.getByText(translations.es.feedbackClear));
+    expect(screen.getByText(translations.es.feedbackThanks)).toBeDefined();
+
+    // Rerender with Doc B (which has no vote yet)
+    rerender(
+      <AuditDashboard
+        data={mockData}
+        boeId="BOE-VOTE-B"
+        title="Doc B"
+        lang="es"
+      />
+    );
+
+    // Should show voting buttons again for Doc B
+    expect(screen.getByText(translations.es.citizenFeedback)).toBeDefined();
+    expect(screen.getByText(translations.es.feedbackClear)).toBeDefined();
+  });
 });
+

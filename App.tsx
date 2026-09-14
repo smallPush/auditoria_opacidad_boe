@@ -469,52 +469,8 @@ const App: React.FC = () => {
               />
               {t.useApiKeyBtn}
             </button>
-                 </div>
-
-                 <section className="max-w-4xl mx-auto pt-4" aria-labelledby="about-radar-boe">
-                   <div className="bg-slate-900/40 border border-slate-800 rounded-3xl p-6 md:p-10">
-                     <p className="text-blue-400 text-xs font-bold uppercase tracking-[0.2em] mb-3">Inteligencia cívica</p>
-                     <h2 id="about-radar-boe" className="text-2xl md:text-3xl font-black text-white mb-4">
-                       Entender el BOE también es participar
-                     </h2>
-                     <p className="text-slate-400 leading-relaxed mb-8">
-                       Radar BOE convierte publicaciones oficiales complejas en información útil para la ciudadanía. Cada auditoría resume la norma, estima su nivel de transparencia, detecta posibles banderas rojas y muestra quién puede verse afectado.
-                     </p>
-                     <div className="grid gap-6 md:grid-cols-3 text-sm">
-                       <div>
-                         <h3 className="font-bold text-white mb-2">Transparencia</h3>
-                         <p className="text-slate-500">Una puntuación orientativa para comparar la claridad y accesibilidad de los documentos.</p>
-                       </div>
-                       <div>
-                         <h3 className="font-bold text-white mb-2">Impacto social</h3>
-                         <p className="text-slate-500">Identificación de grupos potencialmente beneficiados y perjudicados.</p>
-                       </div>
-                       <div>
-                         <h3 className="font-bold text-white mb-2">Fuente oficial</h3>
-                         <p className="text-slate-500">Cada resultado enlaza con el documento original publicado por el BOE.</p>
-                       </div>
-                     </div>
-                   </div>
-                 </section>
-
-                 <section className="max-w-4xl mx-auto" aria-labelledby="faq-title">
-                   <h2 id="faq-title" className="text-2xl font-black text-white mb-5">Preguntas frecuentes sobre el BOE</h2>
-                   <div className="space-y-3">
-                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
-                       <summary className="cursor-pointer font-bold text-slate-200">¿Qué es Radar BOE?</summary>
-                       <p className="text-slate-400 mt-3 leading-relaxed">Es una herramienta de inteligencia cívica que analiza documentos del Boletín Oficial del Estado para hacer más comprensibles su transparencia, impacto y lenguaje.</p>
-                     </details>
-                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
-                       <summary className="cursor-pointer font-bold text-slate-200">¿Qué mide una auditoría del BOE?</summary>
-                       <p className="text-slate-400 mt-3 leading-relaxed">Estima un nivel de transparencia, resume el contenido, identifica posibles banderas rojas y describe a quién puede beneficiar o perjudicar una norma.</p>
-                     </details>
-                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
-                       <summary className="cursor-pointer font-bold text-slate-200">¿Cuál es la fuente de los documentos?</summary>
-                       <p className="text-slate-400 mt-3 leading-relaxed">Los documentos proceden del BOE. Puedes abrir la publicación oficial desde cada resultado y contrastar el análisis.</p>
-                     </details>
-                   </div>
-                 </section>
-               </div>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -660,48 +616,57 @@ const App: React.FC = () => {
                           onClick={() => navigate("/history?min=0&max=33")}
                           className="text-xs font-bold text-red-400 hover:text-red-300 flex items-center gap-1 self-start sm:self-auto bg-red-950/40 border border-red-900/50 py-1.5 px-3 rounded-xl transition-all"
                         >
-                          Ver todas las críticas ({opacityCounts.critical}) →
+                          {t.viewAllCritical} ({opacityCounts.critical}) →
                         </button>
                       </div>
 
                       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                        {topAlerts.map((item) => (
-                          <div
-                            key={item.boeId}
-                            onClick={() => handleAudit(item.boeId)}
-                            className="cursor-pointer bg-slate-950/60 hover:bg-slate-900/80 border border-red-900/20 hover:border-red-500/40 p-4 rounded-2xl transition-all flex flex-col justify-between group"
-                          >
-                            <div>
-                              <div className="flex items-center justify-between gap-2 mb-2">
-                                <span className="font-mono text-[10px] text-slate-400">
-                                  {item.boeId}
-                                </span>
-                                <span className="text-xs font-black px-2 py-0.5 rounded-md bg-red-950/60 text-red-400 border border-red-900/50">
-                                  {item.audit.nivel_transparencia}%{" "}
-                                  {t.transparencyLevel}
-                                </span>
-                              </div>
-                              <h4 className="text-sm font-bold text-slate-200 line-clamp-2 group-hover:text-white leading-snug mb-2">
-                                {item.title}
-                              </h4>
-                              {item.audit.banderas_rojas &&
-                                item.audit.banderas_rojas.length > 0 && (
+                        {topAlerts.map((item) => {
+                          const flag =
+                            item.audit.banderas_rojas?.[0] ||
+                            (item.audit as any).banderas_red_flags?.[0];
+                          const formattedDate = item.timestamp
+                            ? new Date(item.timestamp).toLocaleDateString(
+                                lang === "es" ? "es-ES" : "en-US",
+                              )
+                            : "";
+                          return (
+                            <Link
+                              key={item.boeId}
+                              to={`/audit/${item.boeId}`}
+                              className="bg-slate-950/60 hover:bg-slate-900/80 border border-red-900/20 hover:border-red-500/40 p-4 rounded-2xl transition-all flex flex-col justify-between group block"
+                            >
+                              <div>
+                                <div className="flex items-center justify-between gap-2 mb-2">
+                                  <span className="font-mono text-[10px] text-slate-400">
+                                    {item.boeId}
+                                  </span>
+                                  <span className="text-xs font-black px-2 py-0.5 rounded-md bg-red-950/60 text-red-400 border border-red-900/50">
+                                    {item.audit.nivel_transparencia}%{" "}
+                                    {t.transparencyLevel}
+                                  </span>
+                                </div>
+                                <h4 className="text-sm font-bold text-slate-200 line-clamp-2 group-hover:text-white leading-snug mb-2">
+                                  {item.title}
+                                </h4>
+                                {flag && (
                                   <p className="text-[11px] text-red-300/80 line-clamp-1 flex items-center gap-1">
-                                    <span className="w-1.5 h-1.5 rounded-full bg-red-500 inline-block"></span>
-                                    {item.audit.banderas_rojas[0]}
+                                    <span className="w-1.5 h-1.5 rounded-full bg-red-500 inline-block flex-shrink-0"></span>
+                                    {flag}
                                   </p>
                                 )}
-                            </div>
-                            <div className="pt-3 mt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
-                              <span className="text-[10px] text-slate-500 font-mono">
-                                {item.date}
-                              </span>
-                              <span className="font-bold text-blue-400 group-hover:translate-x-0.5 transition-transform flex items-center gap-1">
-                                {t.viewAudit} →
-                              </span>
-                            </div>
-                          </div>
-                        ))}
+                              </div>
+                              <div className="pt-3 mt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+                                <span className="text-[10px] text-slate-500 font-mono">
+                                  {formattedDate}
+                                </span>
+                                <span className="font-bold text-blue-400 group-hover:translate-x-0.5 transition-transform flex items-center gap-1">
+                                  {t.viewAudit} →
+                                </span>
+                              </div>
+                            </Link>
+                          );
+                        })}
                       </div>
                     </div>
                   </section>
@@ -876,6 +841,68 @@ const App: React.FC = () => {
                     )}
                   </div>
                 </div>
+
+                {/* SECTION 3: CIVIC EDUCATION */}
+                <section className="w-full max-w-4xl mx-auto pt-4" aria-labelledby="about-radar-boe">
+                  <div className="bg-slate-900/40 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-2xl">
+                    <p className="text-blue-400 text-xs font-bold uppercase tracking-[0.2em] mb-3">
+                      {t.aboutBadge}
+                    </p>
+                    <h2 id="about-radar-boe" className="text-2xl md:text-3xl font-black text-white mb-4">
+                      {t.aboutTitle}
+                    </h2>
+                    <p className="text-slate-400 leading-relaxed mb-8">
+                      {t.aboutDesc}
+                    </p>
+                    <div className="grid gap-6 md:grid-cols-3 text-sm">
+                      <div className="bg-slate-950/40 border border-slate-800/80 p-4 rounded-2xl">
+                        <h3 className="font-bold text-white mb-2">{t.aboutTransparencyTitle}</h3>
+                        <p className="text-slate-500 text-xs leading-relaxed">{t.aboutTransparencyDesc}</p>
+                      </div>
+                      <div className="bg-slate-950/40 border border-slate-800/80 p-4 rounded-2xl">
+                        <h3 className="font-bold text-white mb-2">{t.aboutImpactTitle}</h3>
+                        <p className="text-slate-500 text-xs leading-relaxed">{t.aboutImpactDesc}</p>
+                      </div>
+                      <div className="bg-slate-950/40 border border-slate-800/80 p-4 rounded-2xl">
+                        <h3 className="font-bold text-white mb-2">{t.aboutSourceTitle}</h3>
+                        <p className="text-slate-500 text-xs leading-relaxed">{t.aboutSourceDesc}</p>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+
+                {/* SECTION 4: FREQUENTLY ASKED QUESTIONS */}
+                <section className="w-full max-w-4xl mx-auto" aria-labelledby="faq-title">
+                  <h2 id="faq-title" className="text-2xl font-black text-white mb-5">
+                    {t.faqTitle}
+                  </h2>
+                  <div className="space-y-3">
+                    <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5 cursor-pointer">
+                      <summary className="cursor-pointer font-bold text-slate-200 group-hover:text-blue-400 transition-colors">
+                        {t.faqQ1}
+                      </summary>
+                      <p className="text-slate-400 mt-3 leading-relaxed text-sm">
+                        {t.faqA1}
+                      </p>
+                    </details>
+                    <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5 cursor-pointer">
+                      <summary className="cursor-pointer font-bold text-slate-200 group-hover:text-blue-400 transition-colors">
+                        {t.faqQ2}
+                      </summary>
+                      <p className="text-slate-400 mt-3 leading-relaxed text-sm">
+                        {t.faqA2}
+                      </p>
+                    </details>
+                    <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5 cursor-pointer">
+                      <summary className="cursor-pointer font-bold text-slate-200 group-hover:text-blue-400 transition-colors">
+                        {t.faqQ3}
+                      </summary>
+                      <p className="text-slate-400 mt-3 leading-relaxed text-sm">
+                        {t.faqA3}
+                      </p>
+                    </details>
+                  </div>
+                </section>
               </div>
             }
           />

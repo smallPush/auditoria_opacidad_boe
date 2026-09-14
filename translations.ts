@@ -159,7 +159,24 @@ export const translations = {
     feedbackClear: "Comprensible",
     feedbackConfusing: "Opaca o Confusa",
     feedbackAlarming: "Preocupante",
-    feedbackThanks: "¡Gracias por tu valoración cívica!"
+    feedbackThanks: "¡Gracias por tu valoración cívica!",
+    aboutTitle: "Entender el BOE también es participar",
+    aboutBadge: "Inteligencia cívica",
+    aboutDesc: "Radar BOE convierte publicaciones oficiales complejas en información útil para la ciudadanía. Cada auditoría resume la norma, estima su nivel de transparencia, detecta posibles banderas rojas y muestra quién puede verse afectado.",
+    aboutTransparencyTitle: "Transparencia",
+    aboutTransparencyDesc: "Una puntuación orientativa para comparar la claridad y accesibilidad de los documentos.",
+    aboutImpactTitle: "Impacto social",
+    aboutImpactDesc: "Identificación de grupos potencialmente beneficiados y perjudicados.",
+    aboutSourceTitle: "Fuente oficial",
+    aboutSourceDesc: "Cada resultado enlaza con el documento original publicado por el BOE.",
+    faqTitle: "Preguntas frecuentes sobre el BOE",
+    faqQ1: "¿Qué es Radar BOE?",
+    faqA1: "Es una herramienta de inteligencia cívica que analiza documentos del Boletín Oficial del Estado para hacer más comprensibles su transparencia, impacto y lenguaje.",
+    faqQ2: "¿Qué mide una auditoría del BOE?",
+    faqA2: "Estima un nivel de transparencia, resume el contenido, identifica posibles banderas rojas y describe a quién puede beneficiar o perjudicar una norma.",
+    faqQ3: "¿Cuál es la fuente de los documentos?",
+    faqA3: "Los documentos proceden del BOE. Puedes abrir la publicación oficial desde cada resultado y contrastar el análisis.",
+    viewAllCritical: "Ver todas las críticas"
   },
   en: {
     badge: "Elite Civic Intelligence Agent",
@@ -317,7 +334,24 @@ export const translations = {
     feedbackClear: "Clear",
     feedbackConfusing: "Opaque or Confusing",
     feedbackAlarming: "Concerning",
-    feedbackThanks: "Thanks for your civic feedback!"
+    feedbackThanks: "Thanks for your civic feedback!",
+    aboutTitle: "Understanding the BOE is also participating",
+    aboutBadge: "Civic intelligence",
+    aboutDesc: "Radar BOE transforms complex official gazette publications into actionable citizen insight. Each audit summarizes the law, evaluates transparency, detects red flags, and highlights who benefits or loses.",
+    aboutTransparencyTitle: "Transparency",
+    aboutTransparencyDesc: "An indicative score to compare the clarity and accessibility of documents.",
+    aboutImpactTitle: "Social impact",
+    aboutImpactDesc: "Identification of potential beneficiary and disadvantaged groups.",
+    aboutSourceTitle: "Official source",
+    aboutSourceDesc: "Every audit links directly to the official BOE publication for verification.",
+    faqTitle: "Frequently Asked Questions about the BOE",
+    faqQ1: "What is Radar BOE?",
+    faqA1: "It is a civic intelligence tool analyzing Official State Gazette documents to make transparency, impact, and language accessible to all.",
+    faqQ2: "What does a BOE audit measure?",
+    faqA2: "It estimates transparency scores, summarizes contents, identifies potential red flags, and highlights who benefits or loses.",
+    faqQ3: "Where do analyzed documents come from?",
+    faqA3: "Documents are retrieved directly from the BOE, linking to original gazette files for citizen review.",
+    viewAllCritical: "View all critical alerts"
   }
 };
 

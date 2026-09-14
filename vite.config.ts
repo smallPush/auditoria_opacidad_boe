@@ -33,10 +33,28 @@ export default defineConfig(({ mode }) => {
           const reportsDir = path.resolve(__dirname, 'audited_reports');
           const indexHtml = await fs.readFile(path.join(outputDir, 'index.html'), 'utf8');
           const files = await fs.readdir(reportsDir);
-          const auditIds = [...new Set(files.flatMap(file => {
+
+          const auditMetaMap = new Map<string, { title: string; score: number; summary: string }>();
+          for (const file of files) {
             const match = file.match(/^Audit_(BOE-[A-Z]-\d+-\d+)_/);
-            return match ? [match[1]] : [];
-          }))];
+            if (match && !auditMetaMap.has(match[1])) {
+              try {
+                const raw = await fs.readFile(path.join(reportsDir, file), 'utf8');
+                const parsed = JSON.parse(raw);
+                if (parsed?.report) {
+                  auditMetaMap.set(match[1], {
+                    title: parsed.title || match[1],
+                    score: parsed.report.nivel_transparencia ?? 50,
+                    summary: (parsed.report.resumen_ciudadano || '').slice(0, 200),
+                  });
+                }
+              } catch {
+                // Ignore parse errors on individual files
+              }
+            }
+          }
+
+          const auditIds = Array.from(auditMetaMap.keys());
           const routes = [
             'history',
             'tags',
@@ -48,10 +66,28 @@ export default defineConfig(({ mode }) => {
           await Promise.all(routes.map(async route => {
             const routeDir = path.join(outputDir, route);
             const canonicalUrl = `https://radarboe.es/${route}`;
-            const routeHtml = indexHtml
+            let routeHtml = indexHtml
               .replace('<link rel="canonical" href="https://radarboe.es/">', `<link rel="canonical" href="${canonicalUrl}">`)
               .replace('<meta property="og:url" content="https://radarboe.es/">', `<meta property="og:url" content="${canonicalUrl}">`)
               .replace(/\s*<script id="homepage-faq-schema" type="application\/ld\+json">[\s\S]*?<\/script>/, '');
+
+            const auditIdMatch = route.match(/^(?:audit|a)\/(BOE-[A-Z]-\d+-\d+)$/);
+            if (auditIdMatch) {
+              const meta = auditMetaMap.get(auditIdMatch[1]);
+              if (meta) {
+                const escapeAttr = (str: string) => str.replace(/"/g, '&quot;');
+                const pageTitle = `Auditoría ${auditIdMatch[1]} (${meta.score}% transparencia) | Radar BOE`;
+                const pageDesc = escapeAttr(meta.summary || meta.title);
+                routeHtml = routeHtml
+                  .replace(/<title>.*?<\/title>/, `<title>${pageTitle}</title>`)
+                  .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${pageDesc}">`)
+                  .replace(/<meta property="og:title" content=".*?">/, `<meta property="og:title" content="${escapeAttr(pageTitle)}">`)
+                  .replace(/<meta property="og:description" content=".*?">/, `<meta property="og:description" content="${pageDesc}">`)
+                  .replace(/<meta name="twitter:title" content=".*?">/, `<meta name="twitter:title" content="${escapeAttr(pageTitle)}">`)
+                  .replace(/<meta name="twitter:description" content=".*?">/, `<meta name="twitter:description" content="${pageDesc}">`);
+              }
+            }
+
             await fs.mkdir(routeDir, { recursive: true });
             await fs.writeFile(path.join(routeDir, 'index.html'), routeHtml);
           }));
