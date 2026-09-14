@@ -1,15 +1,13 @@
-import { expect, test, describe, mock, afterEach } from "bun:test";
+import { expect, test, describe, mock, afterEach, spyOn } from "bun:test";
 import React from "react";
 import { render, screen, fireEvent, cleanup } from "@testing-library/react";
+import * as router from "react-router-dom";
 import PrivacyPolicy from "./PrivacyPolicy";
 import { translations } from "../translations";
 
-// Mock react-router-dom
+// Mock useNavigate without wiping out react-router-dom exports
 const mockNavigate = mock();
-
-mock.module("react-router-dom", () => ({
-  useNavigate: () => mockNavigate,
-}));
+spyOn(router, "useNavigate").mockReturnValue(mockNavigate);
 
 describe("PrivacyPolicy Component", () => {
   const t = translations.es;

@@ -4,6 +4,7 @@ const window = new GlobalWindow();
 global.window = window as any;
 global.document = window.document as any;
 global.navigator = window.navigator as any;
+global.screen = ((window as any).screen || { width: 1920, height: 1080, orientation: { type: 'landscape-primary', angle: 0 } }) as any;
 global.HTMLElement = window.HTMLElement as any;
 global.Node = window.Node as any;
 global.Element = window.Element as any;
