@@ -243,7 +243,7 @@ async function run() {
       if (existing && !existing.tweeted) {
         console.log(`🐦 Audit exists for ${item.id} but not tweeted yet. Attempting tweet...`);
         if (existing.report && existing.report.resumen_tweet) {
-          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
+          const shortUrl = await shortenUrl(`https://radarboe.es/a/${item.id}`);
           const tweetText = `${existing.report.resumen_tweet}\n\n${shortUrl}`;
           try {
             await sendTweet(tweetText);
@@ -277,7 +277,7 @@ async function run() {
 
         let tweeted = false;
         if (audit.resumen_tweet) {
-          const shortUrl = await shortenUrl(`https://radarboe.es/#/a/${item.id}`);
+          const shortUrl = await shortenUrl(`https://radarboe.es/a/${item.id}`);
           const tweetText = `${audit.resumen_tweet}\n\n${shortUrl}`;
           console.log(`\n--- ENVIANDO TWEET PARA ${item.id} ---`);
           console.log(tweetText);

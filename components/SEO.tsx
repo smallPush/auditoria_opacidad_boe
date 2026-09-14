@@ -13,7 +13,7 @@ const SEO: React.FC<SEOProps> = ({
   title,
   description,
   keywords = [],
-  image = 'https://radarboe.es/favicon.svg',
+  image = 'https://radarboe.es/og-image.svg',
   canonicalPath = '',
   type = 'website'
 }) => {
@@ -40,7 +40,7 @@ const SEO: React.FC<SEOProps> = ({
 
     // 3. Open Graph Tags
     const baseUrl = 'https://radarboe.es';
-    const currentCanonicalUrl = `${baseUrl}${canonicalPath || (typeof window !== 'undefined' && window.location.hash ? `/#${window.location.hash.substring(1)}` : '')}`;
+    const currentCanonicalUrl = `${baseUrl}${canonicalPath || (typeof window !== 'undefined' ? window.location.pathname : '/')}`;
 
     updateMeta('property', 'og:title', title);
     updateMeta('property', 'og:description', description);
@@ -51,7 +51,7 @@ const SEO: React.FC<SEOProps> = ({
     updateMeta('property', 'og:locale', 'es_ES');
 
     // 4. Twitter Card Tags
-    updateMeta('name', 'twitter:card', 'summary');
+    updateMeta('name', 'twitter:card', 'summary_large_image');
     updateMeta('name', 'twitter:title', title);
     updateMeta('name', 'twitter:description', description);
     updateMeta('name', 'twitter:image', image);

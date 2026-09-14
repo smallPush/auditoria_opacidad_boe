@@ -96,7 +96,7 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
             state.result.resumen_ciudadano.substring(0, 160)
           }
           keywords={keywords}
-          canonicalPath={`/#/audit/${boeId || searchId}`}
+          canonicalPath={`/audit/${boeId || searchId}`}
           type="article"
         />
         <button
@@ -111,6 +111,8 @@ const AuditTrigger: React.FC<AuditTriggerProps> = ({
           title={title}
           lang={lang}
           isLoggedIn={isLoggedIn}
+          history={history}
+          onSelectAudit={(id) => navigate(`/audit/${id}`)}
         />
       </div>
     );

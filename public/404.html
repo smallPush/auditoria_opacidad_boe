@@ -3,12 +3,13 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Civic Intelligence BOE Auditor</title>
+  <meta name="robots" content="noindex">
+  <title>Redirigiendo a Radar BOE</title>
   <script type="text/javascript">
     // Single Page Apps for GitHub Pages
     // https://github.com/rafgraph/spa-github-pages
     // License: MIT
-    var pathSegmentsToKeep = 1;
+    var pathSegmentsToKeep = /\.github\.io$/.test(window.location.hostname) ? 1 : 0;
 
     var l = window.location;
     l.replace(

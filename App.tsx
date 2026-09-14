@@ -20,6 +20,7 @@ import {
   ShieldCheck,
   KeyRound,
   ExternalLink,
+  AlertTriangle,
 } from "lucide-react";
 import { BOE_SOURCES, STORAGE_KEYS } from "./constants";
 import {
@@ -346,6 +347,17 @@ const App: React.FC = () => {
     );
   }, [history]);
 
+  const topAlerts = useMemo(() => {
+    return [...history]
+      .filter((h) => h.audit && typeof h.audit.nivel_transparencia === "number")
+      .sort(
+        (a, b) =>
+          (a.audit.nivel_transparencia ?? 100) -
+          (b.audit.nivel_transparencia ?? 100),
+      )
+      .slice(0, 3);
+  }, [history]);
+
   const LoginOverlay = () => (
     <div className="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-slate-950/80 backdrop-blur-sm animate-in fade-in duration-300">
       <div className="w-full max-w-md bg-slate-900 border border-slate-800 p-8 md:p-12 rounded-[2.5rem] shadow-2xl text-center space-y-8 relative animate-in zoom-in duration-300">
@@ -457,8 +469,52 @@ const App: React.FC = () => {
               />
               {t.useApiKeyBtn}
             </button>
-          </div>
-        </div>
+                 </div>
+
+                 <section className="max-w-4xl mx-auto pt-4" aria-labelledby="about-radar-boe">
+                   <div className="bg-slate-900/40 border border-slate-800 rounded-3xl p-6 md:p-10">
+                     <p className="text-blue-400 text-xs font-bold uppercase tracking-[0.2em] mb-3">Inteligencia cívica</p>
+                     <h2 id="about-radar-boe" className="text-2xl md:text-3xl font-black text-white mb-4">
+                       Entender el BOE también es participar
+                     </h2>
+                     <p className="text-slate-400 leading-relaxed mb-8">
+                       Radar BOE convierte publicaciones oficiales complejas en información útil para la ciudadanía. Cada auditoría resume la norma, estima su nivel de transparencia, detecta posibles banderas rojas y muestra quién puede verse afectado.
+                     </p>
+                     <div className="grid gap-6 md:grid-cols-3 text-sm">
+                       <div>
+                         <h3 className="font-bold text-white mb-2">Transparencia</h3>
+                         <p className="text-slate-500">Una puntuación orientativa para comparar la claridad y accesibilidad de los documentos.</p>
+                       </div>
+                       <div>
+                         <h3 className="font-bold text-white mb-2">Impacto social</h3>
+                         <p className="text-slate-500">Identificación de grupos potencialmente beneficiados y perjudicados.</p>
+                       </div>
+                       <div>
+                         <h3 className="font-bold text-white mb-2">Fuente oficial</h3>
+                         <p className="text-slate-500">Cada resultado enlaza con el documento original publicado por el BOE.</p>
+                       </div>
+                     </div>
+                   </div>
+                 </section>
+
+                 <section className="max-w-4xl mx-auto" aria-labelledby="faq-title">
+                   <h2 id="faq-title" className="text-2xl font-black text-white mb-5">Preguntas frecuentes sobre el BOE</h2>
+                   <div className="space-y-3">
+                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
+                       <summary className="cursor-pointer font-bold text-slate-200">¿Qué es Radar BOE?</summary>
+                       <p className="text-slate-400 mt-3 leading-relaxed">Es una herramienta de inteligencia cívica que analiza documentos del Boletín Oficial del Estado para hacer más comprensibles su transparencia, impacto y lenguaje.</p>
+                     </details>
+                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
+                       <summary className="cursor-pointer font-bold text-slate-200">¿Qué mide una auditoría del BOE?</summary>
+                       <p className="text-slate-400 mt-3 leading-relaxed">Estima un nivel de transparencia, resume el contenido, identifica posibles banderas rojas y describe a quién puede beneficiar o perjudicar una norma.</p>
+                     </details>
+                     <details className="group bg-slate-900/40 border border-slate-800 rounded-2xl p-5">
+                       <summary className="cursor-pointer font-bold text-slate-200">¿Cuál es la fuente de los documentos?</summary>
+                       <p className="text-slate-400 mt-3 leading-relaxed">Los documentos proceden del BOE. Puedes abrir la publicación oficial desde cada resultado y contrastar el análisis.</p>
+                     </details>
+                   </div>
+                 </section>
+               </div>
       </div>
     </div>
   );
@@ -501,9 +557,10 @@ const App: React.FC = () => {
             path="/"
             element={
               <div className="space-y-12 animate-in fade-in duration-500">
-                <SEO
-                  title={t.title + " - " + t.subtitle}
-                  description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
+                 <SEO
+                   title={t.title + " - " + t.subtitle}
+                   description="Plataforma de auditoría ciudadana del BOE utilizando inteligencia artificial para detectar opacidad y red flags."
+                   canonicalPath="/"
                   keywords={[
                     "BOE",
                     "Auditoría",
@@ -547,9 +604,108 @@ const App: React.FC = () => {
                       >
                         {t.analyzeBtn}
                       </button>
+
+                      {/* Quick filter pills */}
+                      <div className="flex flex-wrap items-center justify-center gap-2 pt-2">
+                        <span className="text-[11px] font-bold text-slate-500 uppercase tracking-wider">
+                          {t.popularFilters}:
+                        </span>
+                        {[
+                          { label: "💰 Subvenciones", q: "subvenci" },
+                          {
+                            label: "🚨 Menor transparencia",
+                            action: () => navigate("/history?min=0&max=33"),
+                          },
+                          { label: "🏛️ Decretos", q: "decreto" },
+                          { label: "⚖️ Contratación", q: "contrat" },
+                          { label: "🏥 Sanidad", q: "salud" },
+                        ].map((pill, i) => (
+                          <button
+                            key={i}
+                            type="button"
+                            onClick={() => {
+                              if (pill.action) {
+                                pill.action();
+                              } else if (pill.q) {
+                                navigate(
+                                  `/history?q=${encodeURIComponent(pill.q)}`,
+                                );
+                              }
+                            }}
+                            className="text-xs bg-slate-800/80 hover:bg-slate-700/80 text-slate-300 hover:text-white px-3 py-1.5 rounded-full border border-slate-700/60 transition-all active:scale-95"
+                          >
+                            {pill.label}
+                          </button>
+                        ))}
+                      </div>
                     </div>
                   </div>
                 </section>
+
+                {/* SECTION: FEATURED CIVIC ALERTS */}
+                {topAlerts.length > 0 && (
+                  <section className="w-full max-w-4xl mx-auto">
+                    <div className="bg-gradient-to-r from-red-950/20 via-slate-900/50 to-slate-900/50 border border-red-900/30 rounded-3xl p-6 md:p-8 shadow-2xl">
+                      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-6">
+                        <div>
+                          <h3 className="text-xl font-black text-white flex items-center gap-2">
+                            <AlertTriangle className="text-red-400" size={22} />
+                            {t.featuredAlerts}
+                          </h3>
+                          <p className="text-xs text-slate-400 mt-1">
+                            {t.featuredAlertsDesc}
+                          </p>
+                        </div>
+                        <button
+                          onClick={() => navigate("/history?min=0&max=33")}
+                          className="text-xs font-bold text-red-400 hover:text-red-300 flex items-center gap-1 self-start sm:self-auto bg-red-950/40 border border-red-900/50 py-1.5 px-3 rounded-xl transition-all"
+                        >
+                          Ver todas las críticas ({opacityCounts.critical}) →
+                        </button>
+                      </div>
+
+                      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                        {topAlerts.map((item) => (
+                          <div
+                            key={item.boeId}
+                            onClick={() => handleAudit(item.boeId)}
+                            className="cursor-pointer bg-slate-950/60 hover:bg-slate-900/80 border border-red-900/20 hover:border-red-500/40 p-4 rounded-2xl transition-all flex flex-col justify-between group"
+                          >
+                            <div>
+                              <div className="flex items-center justify-between gap-2 mb-2">
+                                <span className="font-mono text-[10px] text-slate-400">
+                                  {item.boeId}
+                                </span>
+                                <span className="text-xs font-black px-2 py-0.5 rounded-md bg-red-950/60 text-red-400 border border-red-900/50">
+                                  {item.audit.nivel_transparencia}%{" "}
+                                  {t.transparencyLevel}
+                                </span>
+                              </div>
+                              <h4 className="text-sm font-bold text-slate-200 line-clamp-2 group-hover:text-white leading-snug mb-2">
+                                {item.title}
+                              </h4>
+                              {item.audit.banderas_rojas &&
+                                item.audit.banderas_rojas.length > 0 && (
+                                  <p className="text-[11px] text-red-300/80 line-clamp-1 flex items-center gap-1">
+                                    <span className="w-1.5 h-1.5 rounded-full bg-red-500 inline-block"></span>
+                                    {item.audit.banderas_rojas[0]}
+                                  </p>
+                                )}
+                            </div>
+                            <div className="pt-3 mt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+                              <span className="text-[10px] text-slate-500 font-mono">
+                                {item.date}
+                              </span>
+                              <span className="font-bold text-blue-400 group-hover:translate-x-0.5 transition-transform flex items-center gap-1">
+                                {t.viewAudit} →
+                              </span>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  </section>
+                )}
 
                 {/* SECTION 2: CONTENT GRID */}
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
@@ -728,9 +884,10 @@ const App: React.FC = () => {
             path="/history"
             element={
               <div className="space-y-8 animate-in slide-in-from-bottom-4 duration-500">
-                <SEO
-                  title={`${t.historyTitle} - ${t.title}`}
-                  description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
+                 <SEO
+                   title={`${t.historyTitle} - ${t.title}`}
+                   description="Historial de auditorías y análisis de transparencia de documentos del Boletín Oficial del Estado (BOE)."
+                   canonicalPath="/history"
                   keywords={[
                     "BOE",
                     "Historial",
@@ -773,9 +930,10 @@ const App: React.FC = () => {
             path="/tags"
             element={
               <div className="space-y-8 animate-in fade-in duration-500">
-                <SEO
-                  title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
-                  description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
+                 <SEO
+                   title={`${t.tagsTitle || "Universo 3D"} - ${t.title}`}
+                   description="Visualización 3D interactiva de los conceptos y banderas rojas detectados en el BOE."
+                   canonicalPath="/tags"
                   keywords={[
                     "BOE",
                     "3D",
@@ -793,9 +951,10 @@ const App: React.FC = () => {
             path="/related-tags"
             element={
               <div className="space-y-8 animate-in fade-in duration-500">
-                <SEO
-                  title={`Red de Conceptos - ${t.title}`}
-                  description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
+                 <SEO
+                   title={`Red de Conceptos - ${t.title}`}
+                   description="Grafo 3D de relaciones entre etiquetas y conceptos detectados en las auditorías."
+                   canonicalPath="/related-tags"
                   keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
                 />
                 <RelatedTags3D history={history} lang={lang} />

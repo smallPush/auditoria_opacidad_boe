@@ -16,9 +16,6 @@ const targetFile = fs.existsSync(publicDir) ? OUTPUT_FILE : path.join(__dirname,
 
 const staticRoutes = [
   '',
-  '/#/history',
-  '/#/tags',
-  '/#/related-tags'
 ];
 
 function getAuditIds() {
@@ -57,7 +54,7 @@ function generateSitemap() {
   // Dynamic audit routes
   auditIds.forEach(id => {
     xml += `  <url>
-    <loc>${BASE_URL}/#/audit/${id}</loc>
+    <loc>${BASE_URL}/audit/${id}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

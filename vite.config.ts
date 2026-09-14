@@ -17,13 +17,46 @@ export default defineConfig(({ mode }) => {
   const bridgeSecret = env.VITE_BRIDGE_SECRET || 'fallback_secret_for_dev_bridge';
 
   return {
-    base: mode === 'production' ? './' : '/',
+    base: '/',
     server: {
       port: 3000,
       host: '0.0.0.0',
     },
     plugins: [
       react(),
+      {
+        name: 'generate-clean-route-pages',
+        apply: 'build',
+        async closeBundle() {
+          const fs = await import('node:fs/promises');
+          const outputDir = path.resolve(__dirname, 'dist');
+          const reportsDir = path.resolve(__dirname, 'audited_reports');
+          const indexHtml = await fs.readFile(path.join(outputDir, 'index.html'), 'utf8');
+          const files = await fs.readdir(reportsDir);
+          const auditIds = [...new Set(files.flatMap(file => {
+            const match = file.match(/^Audit_(BOE-[A-Z]-\d+-\d+)_/);
+            return match ? [match[1]] : [];
+          }))];
+          const routes = [
+            'history',
+            'tags',
+            'related-tags',
+            'privacy',
+            ...auditIds.flatMap(id => [`audit/${id}`, `a/${id}`]),
+          ];
+
+          await Promise.all(routes.map(async route => {
+            const routeDir = path.join(outputDir, route);
+            const canonicalUrl = `https://radarboe.es/${route}`;
+            const routeHtml = indexHtml
+              .replace('<link rel="canonical" href="https://radarboe.es/">', `<link rel="canonical" href="${canonicalUrl}">`)
+              .replace('<meta property="og:url" content="https://radarboe.es/">', `<meta property="og:url" content="${canonicalUrl}">`)
+              .replace(/\s*<script id="homepage-faq-schema" type="application\/ld\+json">[\s\S]*?<\/script>/, '');
+            await fs.mkdir(routeDir, { recursive: true });
+            await fs.writeFile(path.join(routeDir, 'index.html'), routeHtml);
+          }));
+        },
+      },
       {
         name: 'google-analytics',
         transformIndexHtml(html) {

@@ -2,6 +2,7 @@ import React from 'react';
 import { Shield, Lock, Eye, Database, ArrowLeft } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { Translations } from '../translations';
+import SEO from './SEO';
 
 interface PrivacyPolicyProps {
   t: Translations;
@@ -12,6 +13,11 @@ const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ t }) => {
 
   return (
     <div className="max-w-4xl mx-auto py-12 px-4 animate-in fade-in duration-500">
+      <SEO
+        title={t.privacyTitle}
+        description="Política de privacidad, cookies y tratamiento de datos de Radar BOE."
+        canonicalPath="/privacy"
+      />
       <button
         onClick={() => navigate(-1)}
         className="mb-8 flex items-center gap-2 text-slate-500 hover:text-white transition-colors group"

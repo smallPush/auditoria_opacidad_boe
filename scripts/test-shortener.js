@@ -13,6 +13,6 @@ async function shortenUrl(url) {
   }
 }
 
-const testUrl = "https://radarboe.es/#/audit/BOE-A-2026-1484";
+const testUrl = "https://radarboe.es/audit/BOE-A-2026-1484";
 console.log("Original URL:", testUrl);
 shortenUrl(testUrl).then(short => console.log("Shortened URL:", short));
