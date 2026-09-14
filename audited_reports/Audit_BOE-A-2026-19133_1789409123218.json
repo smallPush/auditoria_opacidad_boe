@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19133",
+  "timestamp": "2026-09-14T18:05:23.218Z",
+  "title": "Resolución de 8 de septiembre de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se convoca concurso ordinario n.º 325, para proveer Registros de la Propiedad, Mercantiles y de Bienes Muebles.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución convoca el concurso ordinario n.º 325 para proveer 61 plazas de Registradores. Si bien el proceso administrativo es procedimentalmente transparente, el sistema de Registros en España sigue siendo un reducto de opacidad en cuanto a la retribución real de cada plaza, basada en aranceles pagados por el ciudadano y no en presupuestos públicos directos. Se observa una coordinación ejecutiva con Cataluña para evitar duplicidades, pero el acceso a estas plazas está blindado por un sistema de escalafón que favorece la inercia de una élite administrativa preexistente. No hay mención al impacto económico privado que estas adjudicaciones suponen para los ganadores.",
+    "resumen_ciudadano": "Se abre el proceso para que los registradores de la propiedad y mercantiles cambien de destino u ocupen las 61 plazas vacantes en toda España. El proceso es puramente interno para quienes ya pertenecen al cuerpo, gestionado por el Ministerio de Justicia y, en el caso de Cataluña, de forma coordinada con la Generalitat. Las solicitudes son exclusivamente electrónicas.",
+    "resumen_tweet": "📢 El #BOE convoca 61 plazas para Registradores de la Propiedad. Un proceso de 'sillas musicales' para una de las élites administrativas más potentes de España. Mucho procedimiento, pero poca luz sobre los ingresos por aranceles de cada plaza. 🧐🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de acceso basado en un escalafón cerrado",
+      "Ausencia de transparencia en los ingresos reales derivados de cada registro",
+      "Sesgo de clase implícito por la barrera de entrada a la carrera registral"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Registradores con mayor antigüedad (escalafón)",
+        "Ministerio de la Presidencia (mantiene el control del cuerpo)"
+      ],
+      "perdedores": [
+        "Nuevos licenciados (sin posibilidad de acceso directo a estas vacantes)",
+        "Ciudadanía (ajena al conocimiento de los beneficios privados de estas funciones públicas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Convocatoria de personal público",
+    "banderas_rojas": [
+      "Sistema de acceso basado en un escalafón cerrado",
+      "Ausencia de transparencia en los ingresos reales derivados de cada registro",
+      "Sesgo de clase implícito por la barrera de entrada a la carrera registral"
+    ]
+  },
+  "tweeted": false
+}
