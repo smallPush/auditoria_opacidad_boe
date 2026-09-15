@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19203",
+  "timestamp": "2026-09-15T16:52:16.774Z",
+  "title": "Resolución de 7 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 10 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento utiliza el mecanismo de 'libre designación', una fórmula legal que permite la elección discrecional de cargos de alta responsabilidad (Nivel 28) bajo el pretexto de la 'confianza'. Aunque se menciona un 'informe motivado', este no es público, lo que oculta los criterios reales de selección frente a otros posibles candidatos. Se perpetúa una estructura burocrática de élite donde la cercanía política o personal puede prevalecer sobre la concurrencia competitiva pura.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha nombrado a dedo a un nuevo Jefe de Área en la Dirección General de Aviación Civil. Este puesto es de alto nivel administrativo (A1/Nivel 28) y se ha resuelto mediante libre designación, un método que evita el examen público de méritos comparativos entre aspirantes.",
+    "resumen_tweet": "🚩 Nueva 'libre designación' en Transportes: Jefe de Área (Nivel 28) en Aviación Civil asignado discrecionalmente. ¿Mérito o confianza? La opacidad de estos cargos de alta dirección sigue bajo mínimos. 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 28 (puesto de alta dirección)",
+      "Informe motivado no vinculante y de acceso restringido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Octavio Palus Acin (adjudicatario)",
+        "Ministerio de Transportes (control político-técnico)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin red de confianza",
+        "Transparencia pública en procesos de selección"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 28 (puesto de alta dirección)",
+      "Informe motivado no vinculante y de acceso restringido"
+    ]
+  },
+  "tweeted": false
+}
