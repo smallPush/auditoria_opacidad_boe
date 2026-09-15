@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19115",
+  "timestamp": "2026-09-15T04:43:07.886Z",
+  "title": "Resolución de 8 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución utiliza una estructura técnica compleja para ocultar que el consumidor final está rescatando los márgenes de beneficio de las distribuidoras. El concepto de 'desajuste unitario' (Xb-1) actúa como una deuda diferida que se carga al ciudadano por variaciones de mercado pasadas. Es especialmente sangrante que el coste de comercialización (60,80 cts/kg) sea superior al coste de la propia materia prima (56,00 cts/kg), lo que evidencia un sistema diseñado para blindar la rentabilidad corporativa frente a la volatilidad del crudo.",
+    "resumen_ciudadano": "El Gobierno ha fijado el nuevo precio del butano para septiembre de 2026. El precio que pagas incluye el coste del gas, pero también un recargo para compensar a las empresas por lo que no ganaron en meses anteriores y una cuota para el Fondo de Eficiencia Energética. El transporte y la gestión de la bombona ya cuestan más que el gas que contiene.",
+    "resumen_tweet": "⚠️ ¡Sube la bombona! El nuevo precio del #BOE para el butano incluye 'desajustes' pasados que pagas TÚ. El coste de distribución ya supera al de la materia prima. 📉 Golpe a los hogares más vulnerables y zonas rurales. #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Recuperación retroactiva de pérdidas empresariales mediante el desajuste unitario",
+      "Costes de comercialización inflados (superan el valor del producto)",
+      "Inclusión del canon del Fondo Nacional de Eficiencia Energética en el precio básico",
+      "Opacidad en la determinación de los fletes y cotizaciones internacionales aplicadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes distribuidoras de GLP (Repsol, Cepsa)",
+        "Fondo Nacional de Eficiencia Energética",
+        "Hacienda Pública (mayor base imponible para el IVA)"
+      ],
+      "perdedores": [
+        "Clase trabajadora y pensionistas dependientes del butano",
+        "Hogares en zonas rurales sin acceso a gas natural",
+        "Familias en situación de pobreza energética"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios Energéticos",
+    "banderas_rojas": [
+      "Recuperación retroactiva de pérdidas empresariales mediante el desajuste unitario",
+      "Costes de comercialización inflados (superan el valor del producto)",
+      "Inclusión del canon del Fondo Nacional de Eficiencia Energética en el precio básico",
+      "Opacidad en la determinación de los fletes y cotizaciones internacionales aplicadas"
+    ]
+  },
+  "tweeted": false
+}
