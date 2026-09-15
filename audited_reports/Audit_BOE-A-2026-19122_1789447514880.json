@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19122",
+  "timestamp": "2026-09-15T04:45:14.880Z",
+  "title": "Resolución de 7 de septiembre de 2026, de la Agencia Estatal de Seguridad Ferroviaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 22 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de Nivel 30 en una agencia técnica como la de Seguridad Ferroviaria es un mecanismo legal pero intrínsecamente opaco. Aunque los perfiles seleccionados pertenecen a cuerpos de élite (Ingenieros de Caminos), la elección final es discrecional, lo que impide verificar si fueron realmente los mejores candidatos o los más cercanos a la dirección. Se observa una endogamia técnica clara: tres de los cuatro nombramientos pertenecen al mismo cuerpo de ingenieros.",
+    "resumen_ciudadano": "El Gobierno ha nombrado a dedo a cuatro subdirectores generales para la Agencia Estatal de Seguridad Ferroviaria. Se trata de los puestos más altos en la jerarquía funcionarial (Nivel 30), seleccionados mediante un proceso donde la confianza personal prevalece sobre el concurso de méritos tradicional.",
+    "resumen_tweet": "🚨 ¿Dedo o mérito? El Ministerio de Transportes coloca a 4 Subdirectores en la Agencia de Seguridad Ferroviaria por 'libre designación'. Nivel 30 para la élite técnica en procesos de selección opacos. 🚂🏗️ #BOE #Opacidad #Transparencia #Ferrocarril",
+    "banderas_red_flags": [
+      "Libre designación en puestos de alta sensibilidad técnica",
+      "Concentración de poder en el Cuerpo de Ingenieros de Caminos",
+      "Nivel salarial máximo (30) adjudicado discrecionalmente",
+      "Falta de publicación de las puntuaciones de los expertos mencionados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cuerpo de Ingenieros de Caminos, Canales y Puertos del Estado",
+        "Altos funcionarios promocionados al nivel máximo",
+        "Estructuras de confianza del Ministerio de Transportes"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin perfil político o de confianza",
+        "Principios de mérito y capacidad en el acceso a la función pública",
+        "Ciudadanía, por la falta de transparencia en criterios de selección"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación en puestos de alta sensibilidad técnica",
+      "Concentración de poder en el Cuerpo de Ingenieros de Caminos",
+      "Nivel salarial máximo (30) adjudicado discrecionalmente",
+      "Falta de publicación de las puntuaciones de los expertos mencionados"
+    ]
+  },
+  "tweeted": false
+}
