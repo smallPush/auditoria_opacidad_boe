@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19202",
+  "timestamp": "2026-09-15T16:50:41.615Z",
+  "title": "Acuerdo de 28 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de servicios especiales en la Carrera Judicial al Magistrado don Julián Cabrero López.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se autoriza el traslado de un magistrado de una sección civil saturada en Málaga a un puesto técnico en Marruecos bajo el paraguas de un proyecto de la Comisión Europea. El uso de la figura de 'servicios especiales' (art. 351.b LOPJ) garantiza al magistrado la reserva de su plaza y la continuidad de su carrera, pero genera un vacío operativo en el sistema judicial español que suele ser cubierto con parches presupuestarios o sobrecarga de los compañeros restantes. La opacidad reside en el coste real de mantener esa plaza 'bloqueada' y en la falta de transparencia sobre si las dietas internacionales se solapan con beneficios de la carrera judicial en España.",
+    "resumen_ciudadano": "Un juez titular de Málaga deja su puesto temporalmente para trabajar como experto en Rabat (Marruecos) en un programa de hermanamiento judicial de la UE. Mientras tanto, mantiene sus derechos en España, dejando su plaza en el Tribunal de Instancia de Málaga a la espera de su regreso.",
+    "resumen_tweet": "⚖️ Un magistrado de Málaga se marcha a Rabat con plaza reservada y privilegios de carrera. Mientras la justicia civil se colapsa, las élites judiciales rotan a puestos internacionales de la UE. ¿Quién paga el retraso? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Reserva de plaza en sección civil saturada",
+      "Falta de detalle en la compensación económica dual (España-UE)",
+      "Impacto en el retraso judicial de la plaza de origen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Julián Cabrero López (Magistrado)",
+        "Comisión Europea",
+        "Administración de Justicia de Marruecos"
+      ],
+      "perdedores": [
+        "Ciudadanos malagueños con procesos civiles pendientes",
+        "Eficiencia del Tribunal de Instancia de Málaga"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Situación administrativa de la carrera judicial",
+    "banderas_rojas": [
+      "Reserva de plaza en sección civil saturada",
+      "Falta de detalle en la compensación económica dual (España-UE)",
+      "Impacto en el retraso judicial de la plaza de origen"
+    ]
+  },
+  "tweeted": false
+}
