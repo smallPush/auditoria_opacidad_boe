@@ -984,7 +984,11 @@ const App: React.FC = () => {
                    canonicalPath="/related-tags"
                   keywords={["BOE", "Grafo", "3D", "Relaciones", "Datos"]}
                 />
-                <RelatedTags3D history={history} lang={lang} />
+                <RelatedTags3D
+                  history={history}
+                  lang={lang}
+                  isHistoryLoaded={isHistoryLoaded}
+                />
               </div>
             }
           />

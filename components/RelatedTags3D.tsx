@@ -23,7 +23,7 @@ import {
   ArrowRight,
   ChevronDown,
   ChevronUp,
-  Info
+  Loader2
 } from 'lucide-react';
 import { AuditHistoryItem } from '../types';
 import { translations, Language } from '../translations';
@@ -31,6 +31,7 @@ import { translations, Language } from '../translations';
 export interface RelatedTags3DProps {
   history: AuditHistoryItem[];
   lang: Language;
+  isHistoryLoaded?: boolean;
 }
 
 export type TagCategory = 'all' | 'flag' | 'tipologia' | 'comunidad';
@@ -101,35 +102,26 @@ export const getCategoryBadge = (category: string, lang: Language) => {
   }
 };
 
-// Memory-managed buffer-based link segments
+// Declarative line links using native R3F buffer management to avoid manual disposal lifecycle bugs
 const NetworkLinksMesh: React.FC<{
   links: LinkData[];
   nodesMap: Map<string, GraphNode>;
   activeFocusId: string | null;
 }> = ({ links, nodesMap, activeFocusId }) => {
-  const baseGeometry = useMemo(() => {
+  const baseCoords = useMemo(() => {
     const coords: number[] = [];
     for (let i = 0; i < links.length; i++) {
       const l = links[i];
       const s = nodesMap.get(l.source);
       const t = nodesMap.get(l.target);
-      if (s && t) {
+      if (s && t && Number.isFinite(s.x) && Number.isFinite(t.x)) {
         coords.push(s.x, s.y, s.z, t.x, t.y, t.z);
       }
     }
-    const geom = new THREE.BufferGeometry();
-    geom.setAttribute('position', new THREE.Float32BufferAttribute(coords, 3));
-    return geom;
+    return coords.length > 0 ? new Float32Array(coords) : null;
   }, [links, nodesMap]);
 
-  // Clean up GPU buffer on update or unmount
-  useEffect(() => {
-    return () => {
-      baseGeometry.dispose();
-    };
-  }, [baseGeometry]);
-
-  const highlightedGeometry = useMemo(() => {
+  const highlightedCoords = useMemo(() => {
     if (!activeFocusId) return null;
     const coords: number[] = [];
     for (let i = 0; i < links.length; i++) {
@@ -137,38 +129,44 @@ const NetworkLinksMesh: React.FC<{
       if (l.source === activeFocusId || l.target === activeFocusId) {
         const s = nodesMap.get(l.source);
         const t = nodesMap.get(l.target);
-        if (s && t) {
+        if (s && t && Number.isFinite(s.x) && Number.isFinite(t.x)) {
           coords.push(s.x, s.y, s.z, t.x, t.y, t.z);
         }
       }
     }
-    if (coords.length === 0) return null;
-    const geom = new THREE.BufferGeometry();
-    geom.setAttribute('position', new THREE.Float32BufferAttribute(coords, 3));
-    return geom;
+    return coords.length > 0 ? new Float32Array(coords) : null;
   }, [links, nodesMap, activeFocusId]);
-
-  // Clean up highlighted GPU buffer on update or unmount
-  useEffect(() => {
-    return () => {
-      if (highlightedGeometry) {
-        highlightedGeometry.dispose();
-      }
-    };
-  }, [highlightedGeometry]);
 
   return (
     <group>
-      <lineSegments geometry={baseGeometry}>
-        <lineBasicMaterial
-          color="#334155"
-          transparent
-          opacity={activeFocusId ? 0.12 : 0.35}
-          depthWrite={false}
-        />
-      </lineSegments>
-      {highlightedGeometry && (
-        <lineSegments geometry={highlightedGeometry}>
+      {baseCoords && (
+        <lineSegments key={`base-${baseCoords.length}`}>
+          <bufferGeometry>
+            <bufferAttribute
+              attach="attributes-position"
+              count={baseCoords.length / 3}
+              array={baseCoords}
+              itemSize={3}
+            />
+          </bufferGeometry>
+          <lineBasicMaterial
+            color="#334155"
+            transparent
+            opacity={activeFocusId ? 0.12 : 0.35}
+            depthWrite={false}
+          />
+        </lineSegments>
+      )}
+      {highlightedCoords && (
+        <lineSegments key={`hl-${activeFocusId}-${highlightedCoords.length}`}>
+          <bufferGeometry>
+            <bufferAttribute
+              attach="attributes-position"
+              count={highlightedCoords.length / 3}
+              array={highlightedCoords}
+              itemSize={3}
+            />
+          </bufferGeometry>
           <lineBasicMaterial
             color="#38bdf8"
             transparent
@@ -180,6 +178,10 @@ const NetworkLinksMesh: React.FC<{
     </group>
   );
 };
+
+// Shared geometries to drastically reduce GPU memory allocations
+const SHARED_SPHERE_GEOM = new THREE.SphereGeometry(1, 14, 14);
+const SHARED_RING_GEOM = new THREE.RingGeometry(1.35, 1.6, 32);
 
 // Memoized Single Node 3D Mesh
 const NetworkNodeItem = React.memo<{
@@ -204,10 +206,13 @@ const NetworkNodeItem = React.memo<{
   const size = Math.max(0.35, Math.min(1.25, 0.35 + Math.log2(node.count + 1) * 0.15));
   const color = getTransparencyColor(node.avgTransparency);
   const scale = isHovered ? 1.35 : isSelected ? 1.25 : 1.0;
+  const meshScale = size * scale;
 
   return (
-    <group position={[node.x, node.y, node.z]} scale={scale}>
+    <group position={[node.x, node.y, node.z]}>
       <mesh
+        geometry={SHARED_SPHERE_GEOM}
+        scale={[meshScale, meshScale, meshScale]}
         onClick={(e) => {
           e.stopPropagation();
           onSelect(node);
@@ -227,7 +232,6 @@ const NetworkNodeItem = React.memo<{
           onHover(null);
         }}
       >
-        <sphereGeometry args={[size, 16, 16]} />
         <meshStandardMaterial
           color={color}
           emissive={color}
@@ -241,15 +245,18 @@ const NetworkNodeItem = React.memo<{
 
       {/* Glowing targeting ring for selected node */}
       {isSelected && (
-        <mesh rotation={[Math.PI / 2, 0, 0]}>
-          <ringGeometry args={[size * 1.35, size * 1.6, 32]} />
+        <mesh
+          geometry={SHARED_RING_GEOM}
+          scale={[size, size, size]}
+          rotation={[Math.PI / 2, 0, 0]}
+        >
           <meshBasicMaterial color="#38bdf8" side={THREE.DoubleSide} transparent opacity={0.85} />
         </mesh>
       )}
 
       {/* Billboard text label */}
       {showLabel && !isDimmed && (
-        <Billboard position={[0, size + 0.35, 0]}>
+        <Billboard position={[0, size * scale + 0.35, 0]}>
           <Text
             fontSize={Math.max(0.3, size * 0.52)}
             color={isSelected ? '#38bdf8' : isHovered ? '#ffffff' : '#cbd5e1'}
@@ -305,11 +312,23 @@ const SceneController: React.FC<{
     return ids;
   }, [activeFocusId, links]);
 
-  // Set of top 15 hub nodes to always show landmarks
+  // Set of top 8 landmark hub nodes to always show landmarks (keeps text count low for high FPS)
   const landmarkHubIds = useMemo(() => {
     const sorted = [...nodes].sort((a, b) => b.degree - a.degree || b.count - a.count);
-    return new Set(sorted.slice(0, 16).map((n) => n.id));
+    return new Set(sorted.slice(0, 8).map((n) => n.id));
   }, [nodes]);
+
+  // Top 6 connected neighbor IDs of the focused node to show labels for (prevents 40 text spikes)
+  const connectedLabelIds = useMemo(() => {
+    if (!activeFocusId) return new Set<string>();
+    const node = nodesMap.get(activeFocusId);
+    if (!node || !node.connectedNeighbors) return new Set<string>();
+    const ids = new Set<string>();
+    node.connectedNeighbors.slice(0, 6).forEach((nb) => {
+      ids.add(nb.name);
+    });
+    return ids;
+  }, [activeFocusId, nodesMap]);
 
   // Frame tick: smooth camera lerp with snap threshold to avoid unbounded continuous render loops
   useFrame(() => {
@@ -374,10 +393,9 @@ const SceneController: React.FC<{
           const showLabel =
             isSelected ||
             isHovered ||
-            isConnected ||
+            connectedLabelIds.has(node.id) ||
             matchesSearch ||
-            nodes.length <= 35 ||
-            landmarkHubIds.has(node.id);
+            (activeFocusId === null && landmarkHubIds.has(node.id));
 
           return (
             <NetworkNodeItem
@@ -398,7 +416,11 @@ const SceneController: React.FC<{
   );
 };
 
-export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) => {
+export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({
+  history,
+  lang,
+  isHistoryLoaded
+}) => {
   const navigate = useNavigate();
   const t = translations[lang] || translations.es;
 
@@ -435,9 +457,10 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
     const isTagValid = (tag: string, title?: string) => {
       if (!tag || typeof tag !== 'string') return false;
       const trimmed = tag.trim();
-      if (trimmed.length < 2 || trimmed.length > 55) return false;
+      if (trimmed.length < 2 || trimmed.length > 75) return false;
       if (title && trimmed === title.trim()) return false;
-      if (trimmed.split(/\s+/).length > 5) return false;
+      if (trimmed.split(/\s+/).length > 8) return false;
+      if (trimmed.startsWith('Resolución de ') || trimmed.startsWith('Orden de ')) return false;
       return true;
     };
 
@@ -498,7 +521,8 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
         for (let j = i + 1; j < uniqueTags.length; j++) {
           const t1 = uniqueTags[i][0];
           const t2 = uniqueTags[j][0];
-          const key = [t1, t2].sort().join('|');
+          // Optimized key generation without array allocations
+          const key = t1 < t2 ? `${t1}|${t2}` : `${t2}|${t1}`;
           const curr = coOccurMap.get(key) || { strength: 0, totalTrans: 0 };
           curr.strength += 1;
           curr.totalTrans += score;
@@ -510,7 +534,7 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
     return { tagStats, coOccurMap, maxCountFound };
   }, [history]);
 
-  // Filter and Layout Calculation (Synchronous, zero-allocation pre-settled force layout)
+  // Filter and Layout Calculation (Synchronous, high-performance force layout)
   const { nodes, links, topPairs, avgNetworkTransparency } = useMemo(() => {
     const { tagStats, coOccurMap } = rawGraphData;
     if (tagStats.size === 0) {
@@ -526,6 +550,11 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
       }
       return true;
     });
+
+    // Fallback: If minFrequency filtered out everything but there are matching tags with count >= 1
+    if (candidateTags.length === 0 && minFrequency > 1 && searchQuery.trim() === '' && selectedCategory === 'all') {
+      candidateTags = Array.from(tagStats.entries()).filter(([_, stat]) => stat.count >= 1);
+    }
 
     // Sort by count descending and apply nodeLimitPreset
     candidateTags.sort((a, b) => b[1].count - a[1].count);
@@ -544,7 +573,9 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
     >();
 
     coOccurMap.forEach((data, key) => {
-      const [source, target] = key.split('|');
+      const sepIndex = key.indexOf('|');
+      const source = key.slice(0, sepIndex);
+      const target = key.slice(sepIndex + 1);
       if (activeNodeIds.has(source) && activeNodeIds.has(target)) {
         const avgTrans = data.strength > 0 ? data.totalTrans / data.strength : 50;
         filteredLinks.push({
@@ -603,27 +634,37 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
       };
     });
 
-    // 4. Synchronous zero-allocation force relaxation
+    // 4. Synchronous high-performance force relaxation
     const nodeMap = new Map(initialNodes.map((n) => [n.id, n]));
-    const steps = Math.min(45, Math.max(25, 55 - Math.floor(initialNodes.length / 5)));
+    const resolvedLinks = filteredLinks
+      .map((l) => ({
+        a: nodeMap.get(l.source),
+        b: nodeMap.get(l.target),
+        strength: l.strength
+      }))
+      .filter((l): l is { a: GraphNode; b: GraphNode; strength: number } => Boolean(l.a && l.b));
+
+    const totalNodes = initialNodes.length;
+    const steps = Math.min(45, Math.max(25, 55 - Math.floor(totalNodes / 5)));
 
     for (let step = 0; step < steps; step++) {
       const alpha = Math.pow(1 - step / steps, 1.5) * 0.45;
 
       // Pairwise repulsion
-      for (let i = 0; i < initialNodes.length; i++) {
+      for (let i = 0; i < totalNodes; i++) {
         const a = initialNodes[i];
-        for (let j = i + 1; j < initialNodes.length; j++) {
+        for (let j = i + 1; j < totalNodes; j++) {
           const b = initialNodes[j];
           const dx = a.x - b.x;
           const dy = a.y - b.y;
           const dz = a.z - b.z;
           const distSq = dx * dx + dy * dy + dz * dz || 0.1;
-          const dist = Math.sqrt(distSq);
+          const invDist = 1 / Math.sqrt(distSq);
           const force = (4.5 / distSq) * alpha;
-          const fx = (dx / dist) * force;
-          const fy = (dy / dist) * force;
-          const fz = (dz / dist) * force;
+          const factor = invDist * force;
+          const fx = dx * factor;
+          const fy = dy * factor;
+          const fz = dz * factor;
           a.vx += fx;
           a.vy += fy;
           a.vz += fz;
@@ -634,21 +675,18 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
       }
 
       // Spring attraction along links
-      for (let i = 0; i < filteredLinks.length; i++) {
-        const l = filteredLinks[i];
-        const a = nodeMap.get(l.source);
-        const b = nodeMap.get(l.target);
-        if (!a || !b) continue;
-
+      for (let i = 0; i < resolvedLinks.length; i++) {
+        const { a, b, strength } = resolvedLinks[i];
         const dx = b.x - a.x;
         const dy = b.y - a.y;
         const dz = b.z - a.z;
         const dist = Math.sqrt(dx * dx + dy * dy + dz * dz) || 0.1;
         const targetLen = 6.0;
-        const force = (dist - targetLen) * 0.045 * Math.min(l.strength, 4) * alpha;
-        const fx = (dx / dist) * force;
-        const fy = (dy / dist) * force;
-        const fz = (dz / dist) * force;
+        const force = (dist - targetLen) * 0.045 * Math.min(strength, 4) * alpha;
+        const invDist = 1 / dist;
+        const fx = dx * invDist * force;
+        const fy = dy * invDist * force;
+        const fz = dz * invDist * force;
         a.vx += fx;
         a.vy += fy;
         a.vz += fz;
@@ -657,8 +695,8 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
         b.vz -= fz;
       }
 
-      // Apply damping and update positions
-      for (let i = 0; i < initialNodes.length; i++) {
+      // Apply damping and update positions safely
+      for (let i = 0; i < totalNodes; i++) {
         const n = initialNodes[i];
         n.vx -= n.x * 0.003 * alpha;
         n.vy -= n.y * 0.003 * alpha;
@@ -671,13 +709,14 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
         // Clamp speed
         const speed = Math.sqrt(n.vx * n.vx + n.vy * n.vy + n.vz * n.vz);
         if (speed > 0.3) {
-          n.vx = (n.vx / speed) * 0.3;
-          n.vy = (n.vy / speed) * 0.3;
-          n.vz = (n.vz / speed) * 0.3;
+          const invSpeed = 0.3 / speed;
+          n.vx *= invSpeed;
+          n.vy *= invSpeed;
+          n.vz *= invSpeed;
         }
 
         n.x += n.vx;
-        n.y += n.y + n.vy;
+        n.y += n.vy;
         n.z += n.vz;
       }
     }
@@ -723,6 +762,22 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
     setIsFullscreen((prev) => !prev);
   }, []);
 
+  // Show loading skeleton when history is being fetched
+  if (isHistoryLoaded === false) {
+    return (
+      <div className="h-[650px] flex flex-col items-center justify-center text-slate-400 bg-slate-950/80 rounded-3xl border border-slate-800 p-8 text-center space-y-4 shadow-2xl">
+        <div className="p-4 bg-indigo-500/10 rounded-2xl border border-indigo-500/20 text-indigo-400 animate-spin">
+          <Loader2 size={36} />
+        </div>
+        <div>
+          <h3 className="text-xl font-bold text-white mb-1">{t.conceptNetworkTitle}</h3>
+          <p className="text-sm text-slate-400 max-w-md">{t.loadingNetwork}</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Empty state when no history exists
   if (history.length === 0) {
     return (
       <div className="h-[650px] flex flex-col items-center justify-center text-slate-400 bg-slate-950/80 rounded-3xl border border-slate-800 p-8 text-center space-y-4 shadow-2xl">
@@ -858,7 +913,7 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
       </div>
 
       {/* Main Content Area */}
-      <div className="relative flex-1 w-full h-full overflow-hidden">
+      <div className="relative flex-1 w-full min-h-0 overflow-hidden">
         {/* Floating Controls HUD (Available in 3D and 2D mode) */}
         <div className="absolute top-3 left-3 z-20 max-w-xs w-[calc(100%-24px)] md:w-80 pointer-events-none transition-all duration-300">
           <div className="bg-slate-900/90 backdrop-blur-xl border border-slate-700/60 rounded-2xl p-3 shadow-2xl space-y-2.5 pointer-events-auto">
@@ -963,7 +1018,7 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
                   <input
                     type="range"
                     min="1"
-                    max={Math.min(25, rawGraphData.maxCountFound)}
+                    max={Math.max(2, Math.min(25, rawGraphData.maxCountFound))}
                     step="1"
                     value={minFrequency}
                     onChange={(e) => setMinFrequency(parseInt(e.target.value) || 1)}
@@ -1150,6 +1205,35 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
 
         {viewMode === '3d' ? (
           <>
+            {/* Overlay if 0 nodes match filter */}
+            {nodes.length === 0 && (
+              <div className="absolute inset-0 flex flex-col items-center justify-center pointer-events-none z-10 p-6 text-center">
+                <div className="bg-slate-900/90 backdrop-blur-md border border-slate-800 rounded-2xl p-6 max-w-sm pointer-events-auto shadow-2xl space-y-3">
+                  <div className="w-10 h-10 mx-auto rounded-xl bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center text-indigo-400">
+                    <Filter size={20} />
+                  </div>
+                  <h4 className="text-sm font-bold text-white">{t.noConceptsFound}</h4>
+                  <p className="text-xs text-slate-400">
+                    {lang === 'es'
+                      ? 'Ningún concepto coincide con los filtros actuales o la frecuencia mínima.'
+                      : 'No concepts match the current filters or minimum frequency.'}
+                  </p>
+                  {(selectedCategory !== 'all' || searchQuery || minFrequency > 1) && (
+                    <button
+                      onClick={() => {
+                        setSelectedCategory('all');
+                        setSearchQuery('');
+                        setMinFrequency(1);
+                      }}
+                      className="px-3.5 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold transition-colors"
+                    >
+                      {t.resetFilters}
+                    </button>
+                  )}
+                </div>
+              </div>
+            )}
+
             {/* Bottom Interaction Guide */}
             <div className="absolute bottom-3 left-1/2 -translate-x-1/2 z-10 pointer-events-none hidden md:block">
               <div className="px-3.5 py-1.5 bg-slate-900/80 backdrop-blur-md rounded-full border border-slate-800 text-[11px] text-slate-400 shadow-xl flex items-center gap-2">
@@ -1163,7 +1247,7 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
             <Canvas
               camera={{ position: [0, 0, 32], fov: 48 }}
               gl={{ antialias: true, alpha: false, powerPreference: 'high-performance' }}
-              dpr={[1, 2]}
+              dpr={[1, 1.5]}
             >
               <color attach="background" args={['#020617']} />
               <fog attach="fog" args={['#020617', 15, 80]} />
@@ -1174,11 +1258,11 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
               <Stars
                 radius={90}
                 depth={45}
-                count={700}
+                count={350}
                 factor={3}
                 saturation={0}
                 fade
-                speed={0.4}
+                speed={0.2}
               />
 
               <SceneController
@@ -1212,8 +1296,20 @@ export const RelatedTags3D: React.FC<RelatedTags3DProps> = ({ history, lang }) =
               </div>
 
               {nodes.length === 0 ? (
-                <div className="p-8 text-center bg-slate-900/40 rounded-2xl border border-slate-800 text-slate-400 text-sm">
-                  {t.noConceptsFound}
+                <div className="p-8 text-center bg-slate-900/40 rounded-2xl border border-slate-800 text-slate-400 text-sm space-y-2">
+                  <p>{t.noConceptsFound}</p>
+                  {(selectedCategory !== 'all' || searchQuery || minFrequency > 1) && (
+                    <button
+                      onClick={() => {
+                        setSelectedCategory('all');
+                        setSearchQuery('');
+                        setMinFrequency(1);
+                      }}
+                      className="px-3.5 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold transition-colors"
+                    >
+                      {t.resetFilters}
+                    </button>
+                  )}
                 </div>
               ) : (
                 <>

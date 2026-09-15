@@ -214,4 +214,32 @@ describe('RelatedTags3D Component', () => {
     expect(screen.getByText(/3D Graph/i)).toBeTruthy();
     expect(screen.getByText(/Relationships & Hubs/i)).toBeTruthy();
   });
+
+  it('renders loading state when isHistoryLoaded is false', () => {
+    render(
+      <MemoryRouter>
+        <RelatedTags3D history={[]} lang="es" isHistoryLoaded={false} />
+      </MemoryRouter>
+    );
+
+    expect(screen.getByText(/Cargando red de conceptos/i)).toBeTruthy();
+  });
+
+  it('shows no concepts overlay and resets filters when search has no matches', () => {
+    render(
+      <MemoryRouter>
+        <RelatedTags3D history={mockHistory} lang="es" />
+      </MemoryRouter>
+    );
+
+    const searchInput = screen.getByPlaceholderText(/Buscar concepto/i);
+    fireEvent.change(searchInput, { target: { value: 'NonExistentConceptXYZ' } });
+
+    expect(screen.getByText(/No se encontraron conceptos/i)).toBeTruthy();
+    const resetBtn = screen.getByRole('button', { name: /Restablecer filtros/i });
+    expect(resetBtn).toBeTruthy();
+
+    fireEvent.click(resetBtn);
+    expect((searchInput as HTMLInputElement).value).toBe('');
+  });
 });
