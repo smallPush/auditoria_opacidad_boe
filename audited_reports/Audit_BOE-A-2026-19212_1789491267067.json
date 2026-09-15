@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19212",
+  "timestamp": "2026-09-15T16:54:27.067Z",
+  "title": "Resolución de 4 de septiembre de 2026, de la Universidad de Murcia, por la que se integra en el Cuerpo de Profesoras y Profesores Titulares de Universidad a doña Carmen Marín Martínez.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento refleja un proceso de promocion interna automatica amparado por la disposicion adicional undecima de la Ley Organica 2/2023 (LOSU). Aunque legalmente pulcro, este tipo de resoluciones individuales oculta el impacto presupuestario agregado de la reclassification del profesorado de Escuelas Universitarias a Titulares de Universidad. Se observa una tendencia a la consolidacion de plazas que, si bien beneficia la estabilidad, limita el acceso a nuevos doctores externos y no detalla el incremento del gasto publico en la partida de personal.",
+    "resumen_ciudadano": "La Universidad de Murcia ha ascendido a una profesora del antiguo cuerpo de Escuelas Universitarias al de Profesores Titulares de Universidad. Este es un tramite administrativo estandar para actualizar la jerarquia docente segun la nueva ley de universidades, lo que conlleva una mejora de estatus y previsiblemente salarial.",
+    "resumen_tweet": "🎓 Ascenso automatico en la Universidad de Murcia bajo la LOSU. Se integra profesorado en el cuerpo de Titulares, pero el BOE sigue sin detallar el impacto economico de estas promociones internas. ¿Transparencia o burocracia? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de memoria economica adjunta al nombramiento",
+      "Consolidacion de plazas sin concurso abierto",
+      "Opacidad en el incremento salarial real derivado del cambio de cuerpo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carmen Marin Martinez (mejora de estatus laboral y salarial)",
+        "Universidad de Murcia (estabilizacion interna de plantilla)"
+      ],
+      "perdedores": [
+        "Nuevos investigadores (reduccion de movilidad externa por consolidacion interna)",
+        "Contribuyente (desconocimiento del coste total de la reestructuracion docente)"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Gestion de Personal y Funcion Publica",
+    "banderas_rojas": [
+      "Falta de memoria economica adjunta al nombramiento",
+      "Consolidacion de plazas sin concurso abierto",
+      "Opacidad en el incremento salarial real derivado del cambio de cuerpo"
+    ]
+  },
+  "tweeted": false
+}
