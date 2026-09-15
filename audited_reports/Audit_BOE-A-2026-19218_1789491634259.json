@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-19218",
+  "timestamp": "2026-09-15T17:00:34.259Z",
+  "title": "Orden ISM/960/2026, de 11 de septiembre, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "La convocatoria para la Dirección del Instituto Social de la Marina (ISM) bajo el sistema de 'libre designación' presenta rasgos clásicos de un 'traje a medida' administrativo. Aunque se enumeran 22 méritos, la hiper-especificidad de estos (como haber sido profesor en un Máster concreto de la Complutense o haber participado en comisiones muy específicas de seguimiento de convenios) sugiere que el perfil ya tiene nombre y apellidos. El plazo de solo 10 días naturales para la presentación de solicitudes restringe significativamente la concurrencia competitiva, favoreciendo a quien ya conocía la vacante. Además, la discrecionalidad se blinda mediante entrevistas subjetivas realizadas por asesores designados por el propio órgano que nombra, diluyendo la objetividad del proceso técnico.",
+    "resumen_ciudadano": "Se busca director para el Instituto Social de la Marina, pero las reglas del juego están diseñadas para que solo gane alguien muy específico. Se piden 22 requisitos tan detallados que parecen describir la biografía de una sola persona en lugar de un perfil profesional abierto. Es un puesto de máximo nivel (Nivel 30) elegido 'a dedo' bajo una apariencia de proceso reglado.",
+    "resumen_tweet": "🕵️‍♂️ ¿Puesto de trabajo o biografía por encargo? El @inclusiongob convoca la dirección del ISM con 22 méritos tan específicos que parecen un traje a medida. Plazo de solo 10 días. Otra 'libre designación' bajo la lupa. 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Lista de 22 méritos hiper-específicos y acumulativos",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Requisito de experiencia docente en una universidad y máster específicos",
+      "Entrevistas de selección sin baremación de puntos publicada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Técnicos de la Seguridad Social con perfil político-académico previo",
+        "Candidatos pre-seleccionados en entornos de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos equivalentes pero fuera del círculo de influencia",
+        "Transparencia administrativa",
+        "Igualdad de oportunidades en el acceso a puestos directivos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de Puestos de Trabajo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Lista de 22 méritos hiper-específicos y acumulativos",
+      "Plazo de solicitud de solo 10 días naturales",
+      "Requisito de experiencia docente en una universidad y máster específicos",
+      "Entrevistas de selección sin baremación de puntos publicada"
+    ]
+  },
+  "tweeted": false
+}
