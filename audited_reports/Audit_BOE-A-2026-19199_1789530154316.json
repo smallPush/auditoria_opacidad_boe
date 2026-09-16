@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-19199",
+  "timestamp": "2026-09-16T03:42:34.316Z",
+  "title": "Aplicación provisional del Acuerdo entre el Reino de España y el Banco Internacional de Reconstrucción y Fomento, la Asociación Internacional de Fomento, la Corporación Financiera Internacional, el Centro Internacional de Arreglo de Diferencias Relativas a Inversiones y el Organismo Multilateral de Garantía de Inversiones relativo al establecimiento y puesta en marcha de oficinas en el Reino de España (El «Acuerdo»), hecho en Madrid y Washington el 29 de junio, 13, 14 y 15 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El acuerdo establece un régimen de extraterritorialidad técnica para las organizaciones del Grupo Banco Mundial en suelo español. Bajo la apariencia de cooperación técnica, se otorga una inmunidad casi absoluta que blindará no solo a los activos, sino también a las comunicaciones (archivos digitales y metadatos) y al personal frente a la jurisdicción española. Destaca la cesión de soberanía en materia laboral, donde los trabajadores locales no podrán recurrir a los tribunales españoles, y la concesión de permisos de armas para personal de seguridad privada, lo cual es altamente inusual para entidades financieras.",
+    "resumen_ciudadano": "España concede privilegios diplomáticos extremos al Banco Mundial: sus oficinas serán inviolables, su personal no pagará impuestos locales ni podrá ser juzgado por tribunales laborales españoles, y se les permite portar armas. Además, el Estado español se compromete a facilitar y proteger estas instalaciones con recursos públicos.",
+    "resumen_tweet": "🏢 El #BOE revela alfombra roja al Banco Mundial: inmunidad judicial total, privilegios fiscales y ¡derecho a portar armas! 🔫 Se crea un 'estado dentro del estado' blindado ante la justicia española. 💸 #Opacidad #Transparencia #Soberanía",
+    "banderas_red_flags": [
+      "Inviolabilidad de archivos digitales y metadatos sin control judicial",
+      "Inmunidad jurisdiccional en conflictos laborales",
+      "Permisos automáticos para portar armas de fuego",
+      "Aplicación provisional previa a la ratificación parlamentaria completa",
+      "Exención de responsabilidad frente a acciones legales de ciudadanos españoles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios internacionales (inmunidad fiscal y legal)",
+        "Lobbies financieros globales",
+        "Empresas de seguridad privada con licencia de armas"
+      ],
+      "perdedores": [
+        "Sistema judicial español (pérdida de competencia)",
+        "Trabajadores contratados (sin protección del Estatuto de los Trabajadores)",
+        "Contribuyentes (costes de seguridad y mantenimiento de privilegios)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Inmunidades",
+    "banderas_rojas": [
+      "Inviolabilidad de archivos digitales y metadatos sin control judicial",
+      "Inmunidad jurisdiccional en conflictos laborales",
+      "Permisos automáticos para portar armas de fuego",
+      "Aplicación provisional previa a la ratificación parlamentaria completa",
+      "Exención de responsabilidad frente a acciones legales de ciudadanos españoles"
+    ]
+  },
+  "tweeted": false
+}
