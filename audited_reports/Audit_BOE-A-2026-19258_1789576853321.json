@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19258",
+  "timestamp": "2026-09-16T16:40:53.321Z",
+  "title": "Resolución de 9 de septiembre de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja un nombramiento mediante el sistema de 'libre designación', una fórmula legal que permite la discrecionalidad total en la elección de cargos. Esta modalidad es el epicentro de la opacidad en la función pública, ya que no se especifican los méritos concretos que elevan al candidato sobre otros. Además, el traslado a la Embajada en Australia conlleva una estructura de gastos 'fantasma' en forma de módulos de equiparación de poder adquisitivo e indemnizaciones por residencia que no aparecen en el BOE, pero que multiplican el coste real de la plaza para el erario público. El adjudicatario desciende de un nivel 26 en Madrid a un nivel 24 en Camberra, una anomalía que suele compensarse con los cuantiosos beneficios económicos de la vida diplomática.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha adjudicado de forma discrecional (a dedo) la plaza de Canciller en la Embajada de Australia. El sistema de libre designación permite elegir al candidato sin publicar un baremo de méritos comparativo, ocultando además el coste real que supondrá para el Estado mantener a este funcionario en el extranjero, donde los complementos salariales son significativamente superiores a los nacionales.",
+    "resumen_tweet": "🚨 Nuevo dedazo en el @MAECgob: Adjudicada la plaza de Canciller en Australia por 'libre designación'. ¿Méritos? No se explican. ¿Gastos en el extranjero? Opacos. La transparencia brilla por su ausencia en destinos dorados. 🇦🇺💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad absoluta)",
+      "Falta de justificación técnica del nombramiento",
+      "Opacidad en el gasto real de la indemnización por destino",
+      "Posible incongruencia de nivel administrativo (baja de 26 a 24)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pedro Rodriguez Mancebo (obtiene destino internacional premium)",
+        "Cúpula del MAEC (refuerza control discrecional)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos superiores sin afinidad política",
+        "Contribuyentes (por el coste opaco del servicio exterior)",
+        "Transparencia pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad absoluta)",
+      "Falta de justificación técnica del nombramiento",
+      "Opacidad en el gasto real de la indemnización por destino",
+      "Posible incongruencia de nivel administrativo (baja de 26 a 24)"
+    ]
+  },
+  "tweeted": false
+}
