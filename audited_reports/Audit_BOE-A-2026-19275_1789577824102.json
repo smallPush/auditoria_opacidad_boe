@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19275",
+  "timestamp": "2026-09-16T16:57:04.102Z",
+  "title": "Orden PJC/962/2026, de 11 de septiembre, por la que se convoca concurso de traslados para la cobertura de plazas en el Ministerio Fiscal.",
+  "report": {
+    "nivel_transparencia": 7.2,
+    "analisis_critico": "La Orden PJC/962/2026 regula la movilidad interna de la Carrera Fiscal. Aunque el procedimiento es reglado mediante el escalafón, se detectan mecanismos de control discrecional por parte de la Fiscalía General del Estado, como la capacidad de aplazar traslados hasta seis meses por 'necesidades del servicio'. El sistema de 'resultas' (plazas que quedan vacantes durante el propio proceso) añade una capa de complejidad técnica que dificulta el seguimiento ciudadano sobre la ocupación real de los puestos de justicia.",
+    "resumen_ciudadano": "Se abre el proceso para que los fiscales en España cambien de destino o ciudad. Los criterios principales son la antigüedad y el conocimiento de idiomas cooficiales o derecho civil propio. Algunos fiscales están obligados a participar, y la cúpula fiscal puede retrasar los cambios de puesto alegando exceso de trabajo en las oficinas de origen.",
+    "resumen_tweet": "⚖️ ¿Cómo se mueven los fiscales en España? Nueva convocatoria en el #BOE. Puntos clave: antigüedad, méritos de lengua y el poder de la Fiscalía para retrasar traslados. ¿Eficiencia o control? 📉 #Transparencia #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Aplacamiento discrecional del traslado por 6 meses",
+      "Opacidad en el sistema de resultas para el observador externo",
+      "Obligación de concursar para perfiles en expectativa de destino",
+      "Pérdida de destino ganado si no se resuelven retrasos en 3 meses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fiscales con alta antigüedad en el escalafón",
+        "Fiscales que acreditan méritos de lengua cooficial (A2) en comunidades bilingües",
+        "Personas con necesidades de conciliación familiar/escolar (derecho a diferir cese)"
+      ],
+      "perdedores": [
+        "Abogados Fiscales en expectativa de destino (movilidad forzosa)",
+        "Fiscales en destinos con alta carga de trabajo (riesgo de aplazamiento de traslado)",
+        "Candidatos junior con poco tiempo de permanencia mínima"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Aplacamiento discrecional del traslado por 6 meses",
+      "Opacidad en el sistema de resultas para el observador externo",
+      "Obligación de concursar para perfiles en expectativa de destino",
+      "Pérdida de destino ganado si no se resuelven retrasos en 3 meses"
+    ]
+  },
+  "tweeted": false
+}
