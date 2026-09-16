@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-19262",
+  "timestamp": "2026-09-16T16:44:27.602Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrática de Universidad a doña Olatz López Fernández.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario docente tras un proceso de concurso-oposición. Aunque el documento cumple con la legalidad formal (LOSU 2/2023 y RD 678/2023), existe una opacidad intrínseca en el BOE sobre los méritos específicos y la puntuación comparativa de la candidata frente a otros aspirantes, que no son públicos en este extracto. El gasto asociado (sueldo de Catedrática) es un compromiso presupuestario a largo plazo no detallado aquí.",
+    "resumen_ciudadano": "La UNED ha nombrado oficialmente a Olatz López Fernández como Catedrática de Universidad en el área de Metodología de las Ciencias del Comportamiento. Este es el paso final de un proceso selectivo iniciado en abril de 2026.",
+    "resumen_tweet": "👩‍🏫 Nueva Catedrática en la UNED: Olatz López Fernández accede a la máxima categoría docente en Metodología de las Ciencias del Comportamiento. Un nombramiento bajo la nueva ley LOSU que consolida plazas en la universidad pública. #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de información sobre el coste salarial anual para el erario público",
+      "Falta de visibilidad de las actas de baremación del concurso en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Olatz López Fernández",
+        "UNED",
+        "Cuerpo de Catedráticos de Universidad"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el proceso previo",
+        "Investigadores con contratos precarios fuera de la carrera funcionarial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (UNED)",
+    "tipologia": "Nombramiento de funcionario",
+    "banderas_rojas": [
+      "Ausencia de información sobre el coste salarial anual para el erario público",
+      "Falta de visibilidad de las actas de baremación del concurso en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
