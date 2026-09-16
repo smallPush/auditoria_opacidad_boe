@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19263",
+  "timestamp": "2026-09-16T16:46:47.519Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Jesús Fernández Rodríguez.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de profesorado funcionario. Aunque cita correctamente la Ley Organica 2/2023 (LOSU), el texto es puramente procedimental y no ofrece visibilidad sobre el proceso competitivo previo, el numero de aspirantes o los criterios de baremacion finales, manteniendo la habitual opacidad en la meritocracia academica.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Jesus Fernandez Rodriguez como Profesor Titular de Universidad en la UNED, especificamente en el area de Trabajo Social y Servicios Sociales, tras superar el proceso de concurso iniciado en abril de 2026.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la UNED: Jesus Fernandez Rodriguez nombrado Profesor Titular en Trabajo Social. Proceso legal estandar, pero la burocracia sigue ocultando los detalles de competitividad del concurso. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de datos sobre la participacion de otros candidatos",
+      "Falta de publicacion de puntuaciones en el extracto",
+      "Uso de lenguaje administrativo blindado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jesus Fernandez Rodriguez (estabilidad laboral vitalicia)",
+        "UNED (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados (invisibilizados en el extracto)",
+        "Ciudadania (por falta de detalle sobre la excelencia del proceso)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de datos sobre la participacion de otros candidatos",
+      "Falta de publicacion de puntuaciones en el extracto",
+      "Uso de lenguaje administrativo blindado"
+    ]
+  },
+  "tweeted": false
+}
