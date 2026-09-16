@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-19201",
+  "timestamp": "2026-09-16T04:33:28.146Z",
+  "title": "Acuerdo de 2 de junio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña Purificación Elisa Romero Paredes.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de jubilación forzosa por edad. Aunque es un trámite estándar, la opacidad reside en la falta de información sobre el coste para el erario público de los 'derechos pasivos' (pensiones de alta escala) y el tiempo que la plaza n.º 37 permanecerá vacante, afectando a la saturación judicial. Se observa una demora de tres meses entre el acuerdo (junio) y su publicación (septiembre).",
+    "resumen_ciudadano": "La Magistrada Purificación Elisa Romero Paredes cesa en sus funciones en el Tribunal de Instancia de Madrid por alcanzar la edad máxima legal. Se le reconocen sus derechos de pensión conforme al régimen de Clases Pasivas del Estado.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial: la Magistrada Romero Paredes deja su plaza en Madrid por edad legal. Trámite estándar pero con 3 meses de retraso en publicarse. ¿Cuánto nos cuestan estas pensiones de alta escala? #BOE #Opacidad #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la pensión vitalicia",
+      "Retraso de 90 días entre firma y publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos a ocupar la plaza vacante n.º 37",
+        "La magistrada saliente (acceso a jubilación de Clases Pasivas)"
+      ],
+      "perdedores": [
+        "Contribuyentes (sostenimiento del sistema de pensiones privilegiadas)",
+        "Ciudadanos (posible retraso en procesos de la Sección de Instrucción)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Administrativo / Personal Judicial",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la pensión vitalicia",
+      "Retraso de 90 días entre firma y publicación oficial"
+    ]
+  },
+  "tweeted": false
+}
