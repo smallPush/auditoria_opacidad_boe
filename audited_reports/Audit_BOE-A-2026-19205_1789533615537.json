@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-19205",
+  "timestamp": "2026-09-16T04:40:15.537Z",
+  "title": "Orden TMD/959/2026, de 11 de septiembre, por la que se resuelve el proceso de selección para la designación de vocalías del Pleno del Consejo Superior de Fundaciones en representación de las fundaciones y se dispone su nombramiento.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Bajo la apariencia de un procedimiento administrativo reglado y abierto, se observa la consolidación de un 'núcleo duro' de influencia en el sector fundacional. Aunque se citan bases y convocatorias, la Orden no aporta transparencia sobre las puntuaciones obtenidas ni los méritos específicos que han priorizado a estas entidades sobre otras. Se detecta una clara hegemonía de fundaciones con enorme capacidad financiera y de lobby (como Rafael del Pino, ONCE o ESADE), lo que garantiza que el asesoramiento al Ministerio emane de las élites del sector, dejando fuera a fundaciones pequeñas o de carácter puramente comunitario.",
+    "resumen_ciudadano": "El Ministerio ha designado oficialmente a las personas que representarán al sector de las fundaciones en su principal órgano consultivo. Estos vocales tendrán voz en las decisiones y normativas que afectan a las fundaciones en España. Los elegidos pertenecen mayoritariamente a grandes instituciones y asociaciones consolidadas, lo que asegura su influencia directa en la política territorial y la memoria democrática durante los próximos cuatro años.",
+    "resumen_tweet": "🚨 ¿Quién influye en el Consejo de Fundaciones? El #BOE publica los nuevos vocales: un club selecto de grandes entidades (ONCE, Rafael del Pino, ESADE). Poca luz sobre por qué fueron elegidos ellos y no otros. 🧐🏛️ #Opacidad #Transparencia #Lobby",
+    "banderas_red_flags": [
+      "Concentración de poder en grandes patrimonios",
+      "Falta de desglose de baremación de candidaturas",
+      "Sobrerrepresentación de asociaciones estatales frente a locales",
+      "Riesgo de sesgo corporativista en el asesoramiento público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación ONCE",
+        "Fundación Rafael del Pino",
+        "Asociación Española de Fundaciones",
+        "Fundación ESADE",
+        "Fundación Cajasol"
+      ],
+      "perdedores": [
+        "Fundaciones de pequeño tamaño",
+        "Asociaciones civiles sin estructura estatal",
+        "Criterios de mérito técnico auditable por la ciudadanía"
+      ]
+    },
+    "comunidad_autonoma": "España",
+    "tipologia": "Nombramientos y Sector Fundacional",
+    "banderas_rojas": [
+      "Concentración de poder en grandes patrimonios",
+      "Falta de desglose de baremación de candidaturas",
+      "Sobrerrepresentación de asociaciones estatales frente a locales",
+      "Riesgo de sesgo corporativista en el asesoramiento público"
+    ]
+  },
+  "tweeted": false
+}
