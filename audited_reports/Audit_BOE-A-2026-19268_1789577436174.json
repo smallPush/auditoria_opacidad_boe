@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-19268",
+  "timestamp": "2026-09-16T16:50:36.174Z",
+  "title": "Resolución de 7 de septiembre de 2026, de la Universidad de Córdoba, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario tras un concurso-oposición. La opacidad no reside en el nombramiento per se, sino en la ausencia de información sobre el coste presupuestario anual que estas plazas suponen para el erario público en esta resolución. Se cita la Ley Orgánica 2/2023 (LOSU), que busca mayor estabilidad, pero el BOE sigue funcionando como un mero tablón de anuncios sin conectar el gasto con el servicio público prestado.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a dos nuevos profesores titulares en las áreas de Derecho Civil y Educación. Estos nombramientos son el paso final de procesos selectivos realizados a mediados de 2026.",
+    "resumen_tweet": "🎓 La Univ. de Córdoba nombra nuevos profesores titulares en Derecho y Educación. El #BOE cumple el trámite, pero seguimos sin ver el coste real de estas plazas fijas en las cuentas públicas. 💸 ¿Transparencia o simple burocracia? #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario de las plazas",
+      "Falta de información sobre la ratio de candidatos por plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Espejo Ruiz (Estabilidad laboral/Funcionario)",
+        "María Dolores Hidalgo Ariza (Estabilidad laboral/Funcionario)",
+        "Universidad de Córdoba (Consolidación de áreas de conocimiento)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada a la carrera académica)",
+        "Contribuyentes (falta de transparencia en la eficiencia del gasto de personal)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario de las plazas",
+      "Falta de información sobre la ratio de candidatos por plaza"
+    ]
+  },
+  "tweeted": false
+}
