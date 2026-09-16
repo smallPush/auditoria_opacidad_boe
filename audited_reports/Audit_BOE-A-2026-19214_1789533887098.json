@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19214",
+  "timestamp": "2026-09-16T04:44:47.098Z",
+  "title": "Resolución de 9 de septiembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para puestos de los niveles más altos de la administración (29 y 30), lo que permite una elección discrecional por parte de los cargos políticos. Aunque se enumeran méritos, la naturaleza del procedimiento esquiva el concurso de méritos tradicional, favoreciendo el 'dedazo' legalizado. Es especialmente irónico que el puesto de Vocal Asesor requiera experiencia en 'buen gobierno' y 'transparencia' cuando su sistema de provisión es el menos transparente posible.",
+    "resumen_ciudadano": "Hacienda ha publicado la búsqueda de dos altos directivos para la Inspección General y la Secretaría General Técnica. Los elegidos cobrarán complementos específicos superiores a los 24.000 euros anuales (más sueldo base de Nivel 30). No se trata de un examen abierto, sino de una selección a dedo entre funcionarios de alto rango para puestos de asesoría y gestión de documentos electrónicos.",
+    "resumen_tweet": "🚩 ¡Alerta de #Opacidad en el #BOE! Hacienda convoca puestos de Nivel 30 por libre designación (a dedo). 💶 Sueldos de élite para asesores elegidos sin concurso público. ¿Transparencia o colocación de confianza? #Hacienda #Transparencia 🧐🚫",
+    "banderas_red_flags": [
+      "Libre designación en niveles máximos",
+      "Decisión discrecional sin tribunal independiente",
+      "Puestos de asesoría con perfiles ideológicos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del subgrupo A1 con perfil político",
+        "Círculos de confianza del Ministerio de Hacienda"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos pero sin conexiones",
+        "Sistema de mérito y capacidad",
+        "Contribuyente que financia estructuras de confianza"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Libre designación en niveles máximos",
+      "Decisión discrecional sin tribunal independiente",
+      "Puestos de asesoría con perfiles ideológicos específicos"
+    ]
+  },
+  "tweeted": false
+}
