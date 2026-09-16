@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19273",
+  "timestamp": "2026-09-16T16:59:56.711Z",
+  "title": "Resolución de 7 de septiembre de 2026, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad, con plaza vinculada, a doña Catalina de Paco Matallana.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque el nombramiento cumple con la legalidad técnica, el uso de fondos destinados genéricamente al 'incremento y mantenimiento de plazas del Grado de Medicina' es una fórmula recurrente que dificulta el rastreo exacto de la eficiencia del gasto público. La estructura de 'plaza vinculada' entre Universidad y Servicio de Salud (SMS) genera una duplicidad administrativa que, si bien es funcional para la docencia clínica, fragmenta la rendición de cuentas sobre qué parte del presupuesto corresponde a la labor asistencial y cuál a la puramente académica.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado formalmente a una Profesora Titular en el área de Obstetricia y Ginecología. Esta plaza no es solo académica, sino que está vinculada directamente al Hospital Clínico Universitario Virgen de la Arrixaca, integrando la labor docente con la sanitaria en el Servicio Murciano de Salud.",
+    "resumen_tweet": "📑 Nuevo nombramiento en el #BOE: La Univ. de Murcia adjudica plaza de Obstetricia vinculada al Hospital de la Arrixaca 🏥. Se justifica con fondos para 'mantenimiento de plazas' de Medicina. ¿Gestión clara o inercia burocrática? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Financiación bajo epígrafe genérico de 'incremento y mantenimiento'",
+      "Complejidad en la rendición de cuentas por vinculación dual (Educación/Sanidad)",
+      "Falta de desglose presupuestario específico de la subvención citada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Catalina de Paco Matallana (estabilidad laboral y funcionariado)",
+        "Universidad de Murcia (cobertura de plazas docentes)",
+        "Hospital Virgen de la Arrixaca (personal especializado vinculado)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras en procesos de plazas vinculadas)",
+        "Contribuyente (opacidad en el coste real de la bicefalia docente-asistencial)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de personal funcionario docente",
+    "banderas_rojas": [
+      "Financiación bajo epígrafe genérico de 'incremento y mantenimiento'",
+      "Complejidad en la rendición de cuentas por vinculación dual (Educación/Sanidad)",
+      "Falta de desglose presupuestario específico de la subvención citada"
+    ]
+  },
+  "tweeted": false
+}
