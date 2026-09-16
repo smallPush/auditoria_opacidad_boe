@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19261",
+  "timestamp": "2026-09-16T16:45:35.692Z",
+  "title": "Resolución de 8 de septiembre de 2026, del Departamento de Justicia y Calidad Democrática, por la que se modifica la de 31 de julio de 2026, por la que se otorga destino al personal funcionario del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso oposición, turno libre, convocado por la Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Estamos ante una fe de erratas administrativa que evidencia la 'cultura del corta y pega' en la gestión de personal judicial. Se corrigen las funciones asignadas a dos funcionarios (Jordi Lleal y Marina Garrido) tras un error en la resolución original de julio de 2026. Lo más llamativo es el caso de Marina Garrido, cuya función pasa de ser 'Penal' a un híbrido de 'Civil/Social/Contencioso-Administrativo', lo que sugiere una falta de rigor inicial en la clasificación de puestos de un proceso selectivo extraordinario. Aunque el documento es transparente en su corrección, subraya la ineficiencia burocrática de tener que publicar en el BOE ajustes de funciones básicas por errores de tramitación previa.",
+    "resumen_ciudadano": "La Generalitat de Cataluña corrige los destinos y funciones de dos trabajadores del cuerpo de tramitación procesal que ganaron su plaza en las oposiciones recientes. Se ajustan sus tareas específicas en los juzgados de Barcelona y Girona para que coincidan con la realidad del puesto asignado.",
+    "resumen_tweet": "⚖️ ¡Cuidado con el 'corta y pega' en la justicia! El #BOE corrige errores en las funciones asignadas a nuevos funcionarios en Cataluña. De Penal a Civil por un fallo de gestión. ¿Falta de rigor en el Departamento de Justicia? 🧐 #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Fe de erratas en proceso selectivo",
+      "Inexactitud en la asignación de funciones jurisdiccionales",
+      "Burocracia reactiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jordi Lleal Barriga (obtención de seguridad jurídica en su cargo)",
+        "Marina Garrido Ventura (clarificación de sus funciones reales)"
+      ],
+      "perdedores": [
+        "Departamento de Justicia (por falta de diligencia inicial)",
+        "Administración Pública (coste de oportunidad por gestión de errores)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Personal / Corrección de Errores",
+    "banderas_rojas": [
+      "Fe de erratas en proceso selectivo",
+      "Inexactitud en la asignación de funciones jurisdiccionales",
+      "Burocracia reactiva"
+    ]
+  },
+  "tweeted": false
+}
