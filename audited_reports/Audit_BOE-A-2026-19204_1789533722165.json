@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19204",
+  "timestamp": "2026-09-16T04:42:02.165Z",
+  "title": "Resolución de 7 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se basa en el sistema de 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite la selección discrecional de personal. Los puestos de Nivel 29 (Coordinador de Área y Subdirector Adjunto) representan la cúspide de la escala funcionarial y su adjudicación no detalla los méritos específicos que superen a otros candidatos, lo que fomenta el clientelismo interno. Es notable que los tres adjudicatarios ya pertenecían al mismo centro directivo, lo que sugiere una 'promoción de confianza' en lugar de una apertura competitiva real.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha nombrado a dedo a tres altos cargos en la Secretaría General de Pesca. Dos de estos puestos alcanzan el Nivel 29, el máximo escalafón administrativo, con sueldos elevados y gran poder de decisión. Aunque los nombres son públicos, los motivos de su elección permanecen ocultos tras la etiqueta de 'libre designación'.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el Ministerio de Agricultura. Puestos de Nivel 29 repartidos mediante libre designación en la Secretaría Gral. de Pesca. ¿Mérito o confianza? La transparencia administrativa bajo mínimos. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles 29",
+      "Endogamia administrativa: todos los adjudicatarios proceden del mismo centro",
+      "Ausencia de baremos de puntuación en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juan Acacio Mañas (Nivel 29)",
+        "Lucia Sarricolea Balufo (Nivel 29)",
+        "Aurea Ana Marcos Morata"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Ciudadanía (por falta de meritocracia demostrable)",
+        "Candidatos externos al Ministerio de Agricultura"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles 29",
+      "Endogamia administrativa: todos los adjudicatarios proceden del mismo centro",
+      "Ausencia de baremos de puntuación en el texto"
+    ]
+  },
+  "tweeted": false
+}
