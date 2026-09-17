@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19259",
+  "timestamp": "2026-09-17T04:43:52.595Z",
+  "title": "Orden EFD/961/2026, de 7 de septiembre, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se nombra funcionaria de carrera del Cuerpo de Profesores de Enseñanza Secundaria a doña Gloria Roldán Roldán.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela una rectificación forzada por el Tribunal Superior de Justicia de Madrid (Sentencia 79/2025). Lo que parece un simple nombramiento es en realidad el final de un conflicto legal iniciado por un error administrativo en la baremación de puntos de 2020. La administración pública muestra una resistencia sistemática a corregir errores de oficio, obligando a los ciudadanos a recurrir a la vía judicial para garantizar la meritocracia. El hecho de que los efectos sean retroactivos a 2022 implica un desajuste administrativo y financiero acumulado.",
+    "resumen_ciudadano": "Una profesora de Biología y Geología ha logrado ser nombrada funcionaria de carrera tras ganar un recurso judicial contra la Comunidad de Madrid. El tribunal ordenó modificar su puntuación en la fase de concurso del proceso selectivo convocado originalmente en 2020. Aunque el nombramiento se publica en 2026, sus derechos como funcionaria se reconocen con efectos desde septiembre de 2022.",
+    "resumen_tweet": "⚖️ Justicia tras 4 años: Una docente logra su plaza de funcionaria en el #BOE solo después de que los tribunales corrigieran un error de puntos de 2020. La administración solo rectifica bajo mandato judicial. #Transparencia #Educación #Opacidad 🏛️",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error en baremación",
+      "Dilación administrativa de 6 años desde la convocatoria original",
+      "Efectos retroactivos con impacto presupuestario diferido",
+      "Fallo en la fase de concurso-oposición inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña Gloria Roldán Roldán (recupera su plaza y antigüedad)",
+        "Poder Judicial (actuando como supervisor de la administración)"
+      ],
+      "perdedores": [
+        "Administración Pública (por costes de litigiosidad y falta de eficiencia)",
+        "Contribuyentes (que asumen los costes del proceso judicial y ajustes retroactivos)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error en baremación",
+      "Dilación administrativa de 6 años desde la convocatoria original",
+      "Efectos retroactivos con impacto presupuestario diferido",
+      "Fallo en la fase de concurso-oposición inicial"
+    ]
+  },
+  "tweeted": false
+}
