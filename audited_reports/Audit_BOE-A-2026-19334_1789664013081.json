@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19334",
+  "timestamp": "2026-09-17T16:53:33.081Z",
+  "title": "Resolución de 10 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento detalla un proceso de 'libre designación', un mecanismo que, aunque legal según el EBEP, es el eufemismo institucional para el nombramiento discrecional o 'dedazo'. No se especifican méritos competitivos ni puntuaciones, simplemente la voluntad del órgano superior. Este tipo de adjudicaciones en secretarías ministeriales perpetúa redes de confianza personal por encima de la carrera administrativa basada puramente en el mérito y la capacidad.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha nombrado a una nueva Ayudante de Secretaría para el Ministro mediante el sistema de libre designación. Esto significa que la persona ha sido elegida directamente por criterios de confianza y no a través de un concurso de méritos abierto donde se compita por puntuación objetiva.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo 'dedazo' legal en el Ministerio de Agricultura. Se adjudica puesto de Ayudante de Secretaría de Ministro vía Libre Designación. ¿Mérito o confianza personal? La opacidad sigue en las altas esferas. #BOE #Opacidad #Transparencia 🏛️🚩",
+    "banderas_red_flags": [
+      "Libre designación (adjudicación discrecional)",
+      "Ausencia de baremos de puntuación",
+      "Puesto de confianza directa en la cúpula política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cristina Ojeda Moral (adjudicataria del puesto)",
+        "El Ministro (obtiene personal de su confianza directa)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de promoción por mérito real)",
+        "Ciudadanía (opacidad en los criterios de selección de personal público)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (adjudicación discrecional)",
+      "Ausencia de baremos de puntuación",
+      "Puesto de confianza directa en la cúpula política"
+    ]
+  },
+  "tweeted": false
+}
