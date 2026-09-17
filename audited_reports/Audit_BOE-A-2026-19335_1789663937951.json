@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19335",
+  "timestamp": "2026-09-17T16:52:17.951Z",
+  "title": "Resolución de 8 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 19 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oficializa el nombramiento de altos cargos (niveles 27 al 30) mediante el sistema de 'libre designación', un eufemismo legal para la selección discrecional o 'a dedo'. El análisis de los datos revela un fenómeno de inmovilismo burocrático: todos los adjudicatarios ya ocupaban puestos de idéntico nivel y ubicación en su procedencia, lo que sugiere que estas convocatorias son meros trámites administrativos para consolidar situaciones preexistentes en lugar de procesos competitivos reales basados en el mérito abierto.",
+    "resumen_ciudadano": "Se han confirmado los nombramientos de varios interventores y asesores de alto nivel en el Ministerio de Inclusión y Seguridad Social. Estos puestos, que controlan las cuentas de la Seguridad Social en diversas provincias, han sido asignados por confianza directa de la administración y no por un concurso de méritos tradicional.",
+    "resumen_tweet": "El Ministerio de Inclusión reparte puestos de 'libre designación' (a dedo ☝️) para interventores y asesores de alto nivel (27-30). Curiosamente, ¡todos se quedan donde estaban! 🔄 ¿Mérito o burocracia circular? #BOE #Opacidad #Transparencia 🧐💼",
+    "banderas_red_flags": [
+      "Uso del procedimiento de libre designación para puestos de control financiero",
+      "Ausencia de movilidad real: los adjudicatarios ya estaban en los mismos puestos/niveles",
+      "Falta de justificación individualizada de la idoneidad frente a otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Interventores y Auditores (Grupo A1)",
+        "Cargos de confianza con niveles salariales máximos (30)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin acceso a redes de confianza política",
+        "El principio de mérito y capacidad en el acceso a puestos directivos",
+        "Transparencia en la gestión del gasto público"
+      ]
+    },
+    "comunidad_autonoma": "Multiprovincial",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del procedimiento de libre designación para puestos de control financiero",
+      "Ausencia de movilidad real: los adjudicatarios ya estaban en los mismos puestos/niveles",
+      "Falta de justificación individualizada de la idoneidad frente a otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
