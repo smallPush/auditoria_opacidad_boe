@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19328",
+  "timestamp": "2026-09-17T16:49:39.776Z",
+  "title": "Real Decreto 732/2026, de 16 de septiembre, por el que se regula la concesión directa de subvenciones para la financiación de inversiones realizadas en los municipios de la comarca del Campo de Gibraltar.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto utiliza la figura de 'concesión directa' (Art. 22.2.c de la Ley General de Subvenciones) para eludir el proceso ordinario de concurrencia competitiva, amparándose en una 'excepcional problemática geoestratégica' que, si bien es real, se utiliza como cheque en blanco. Las partidas para 'equipamientos municipales' y 'digitalización' carecen de desglose técnico en el texto, operando como gastos genéricos que facilitan la discrecionalidad política en el año 2026. La financiación mediante presupuestos prorrogados añade una capa de opacidad sobre la planificación real a largo plazo.",
+    "resumen_ciudadano": "El Gobierno asigna 7,3 millones de euros directamente a la Mancomunidad del Campo de Gibraltar sin permitir que otros proyectos compitan por esos fondos. El dinero se reparte entre 8 municipios, con Algeciras y La Línea como principales beneficiarios, para temas de agua, basuras y tecnología. Aunque se justifica por la sequía y su ubicación fronteriza, no se detallan qué obras específicas se realizarán, dejando la puerta abierta a gastos poco claros.",
+    "resumen_tweet": "🚨 El Gobierno reparte 7,3M€ 'a dedo' en el Campo de Gibraltar. Sin concurso público y bajo conceptos vagos como 'infraestructuras corporativas'. ¿Inversión estratégica o discrecionalidad presupuestaria? 🧐💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Definición de gasto excesivamente genérica",
+      "Justificación de excepcionalidad por factores permanentes",
+      "Uso de presupuesto prorrogado para inversiones nominativas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamiento de Algeciras (2,03M€)",
+        "Ayuntamiento de La Línea (1,61M€)",
+        "Mancomunidad de Municipios del Campo de Gibraltar"
+      ],
+      "perdedores": [
+        "Empresas de ingeniería fuera de la comarca (excluidas de licitación estatal)",
+        "Contribuyentes (falta de optimización de costes por falta de competencia)",
+        "Otras comarcas andaluzas con crisis hídrica similar"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Subvenciones de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Definición de gasto excesivamente genérica",
+      "Justificación de excepcionalidad por factores permanentes",
+      "Uso de presupuesto prorrogado para inversiones nominativas"
+    ]
+  },
+  "tweeted": false
+}
