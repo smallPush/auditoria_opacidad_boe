@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19329",
+  "timestamp": "2026-09-17T16:47:47.087Z",
+  "title": "Orden TED/966/2026, de 15 de septiembre, por la que se crea un mercado de capacidad en el sistema eléctrico peninsular español.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Orden TED/966/2026 introduce el concepto de 'mercado de capacidad', un eufemismo técnico para subvencionar a grandes eléctricas simplemente por tener centrales disponibles, produzcan o no energía. Se justifica mediante el fenómeno del 'missing money', que admite implícitamente que el mercado eléctrico actual no es rentable para las inversiones necesarias, trasladando ese riesgo financiero directamente al consumidor. Aunque se viste de 'transición verde', el mecanismo permite que centrales de ciclo combinado (gas) sigan recibiendo ingresos públicos. La opacidad reside en la discrecionalidad para fijar los 'coeficientes de firmeza' y los precios de reserva, lo que podría derivar en un rescate encubierto de activos fósiles obsoletos bajo el pretexto de la seguridad de suministro.",
+    "resumen_ciudadano": "El Gobierno crea un nuevo sistema de pagos para que las centrales eléctricas cobren por estar 'en guardia'. Este coste se reflejará en tu factura de la luz como un cargo adicional. Aunque dicen que es para evitar apagones y ayudar a las renovables, en la práctica asegura beneficios a las grandes energéticas por instalaciones que ya existen, mientras los ciudadanos asumen el coste de las nuevas inversiones privadas.",
+    "resumen_tweet": "🚨 ¡Ojo a tu factura! El #BOE crea el 'Mercado de Capacidad'. Pagaremos a las eléctricas solo por 'estar ahí'. ¿Transición verde o rescate encubierto a las de siempre? 💸🔌 #Opacidad #Transparencia #Luz #Energía",
+    "banderas_red_flags": [
+      "Eufemismo de 'missing money' para justificar subvenciones",
+      "Subastas 'pay-as-bid' que incentivan ofertas al alza",
+      "Fijación de precios de reserva opacos para instalaciones existentes",
+      "Riesgo de sobrecapacidad pagada por el consumidor"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas eléctricas (propietarias de ciclos combinados)",
+        "Operador del Sistema (Red Eléctrica)",
+        "Inversores en nuevos proyectos de almacenamiento a gran escala"
+      ],
+      "perdedores": [
+        "Consumidores domésticos (aumento de costes regulados)",
+        "Pequeñas comercializadoras sin activos de generación",
+        "Hogares en situación de pobreza energética por impacto en cargos fijos"
+      ]
+    },
+    "comunidad_autonoma": "Sistema Eléctrico Peninsular (Nacional)",
+    "tipologia": "Regulación del Mercado Energético",
+    "banderas_rojas": [
+      "Eufemismo de 'missing money' para justificar subvenciones",
+      "Subastas 'pay-as-bid' que incentivan ofertas al alza",
+      "Fijación de precios de reserva opacos para instalaciones existentes",
+      "Riesgo de sobrecapacidad pagada por el consumidor"
+    ]
+  },
+  "tweeted": false
+}
