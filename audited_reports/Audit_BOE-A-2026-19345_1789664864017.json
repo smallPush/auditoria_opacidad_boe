@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19345",
+  "timestamp": "2026-09-17T17:07:44.017Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Universidad de Vigo, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución oficializa la consolidación de 17 plazas de funcionarios de carrera en la Universidad de Vigo. Bajo el amparo de la LOSU (Ley Orgánica 2/2023), se detecta una clara segregación horizontal: en el área de Ingeniería (Expresión Gráfica, Mecánica, Térmica) el 100% de los nombramientos son varones (5 de 5), mientras que la paridad se sostiene únicamente por las áreas de Educación y Ciencias Sociales. Aunque el proceso cumple la legalidad, el BOE omite el impacto presupuestario real de estas plazas fijas a largo plazo, manteniendo la opacidad sobre el coste total para el erario público gallego.",
+    "resumen_ciudadano": "La Universidad de Vigo ha nombrado a 17 nuevos Profesores Titulares en áreas que van desde la Ingeniería hasta la Didáctica de la Matemática. Estos puestos son de carácter permanente y funcionario. La lista muestra una brecha de género significativa en las disciplinas técnicas y una consolidación de la estructura administrativa universitaria actual.",
+    "resumen_tweet": "📢 Auditoría #BOE: La Univ. de Vigo nombra 17 nuevos profesores titulares. Paridad total en Educación, pero 0% mujeres en las áreas de Ingeniería. ¿Consolidación o perpetuación de brechas? Poca claridad en el coste presupuestario. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Segregación de género absoluta en las áreas de Ingeniería Industrial",
+      "Ausencia de memoria económica vinculada a los nombramientos",
+      "Opacidad en los criterios de las comisiones de selección en el extracto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 17 profesores nombrados (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Vigo (reducción de interinidad teórica)",
+        "Cuerpo de funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Mujeres en carreras STEM (nula representación en este bloque de ingeniería)",
+        "Investigadores externos (barreras de entrada frente a promoción interna)",
+        "Contribuyentes (desconocimiento del impacto salarial acumulado)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Funcionarios - Sector Universitario",
+    "banderas_rojas": [
+      "Segregación de género absoluta en las áreas de Ingeniería Industrial",
+      "Ausencia de memoria económica vinculada a los nombramientos",
+      "Opacidad en los criterios de las comisiones de selección en el extracto publicado"
+    ]
+  },
+  "tweeted": false
+}
