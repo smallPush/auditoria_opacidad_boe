@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-19330",
+  "timestamp": "2026-09-17T16:51:04.891Z",
+  "title": "Ley 4/2026, de 22 de julio, de presupuestos de la Generalitat para el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La Ley de Presupuestos 2026 de la Comunitat Valenciana presenta una estructura clásica de opacidad técnica bajo un manto de excepcionalidad por la DANA y la inestabilidad geopolítica. Destaca el uso recurrente del 'Fondo de Contingencia' (Art. 9) y la 'concesión directa de subvenciones' (Disp. Adicional 5.ª), mecanismos que eluden la concurrencia competitiva bajo justificaciones genéricas de 'interés público'. La asunción de deudas de entes instrumentales como FGV y la Corporación Audiovisual (Art. 54 y 56) revela un saneamiento de empresas públicas con cargo al contribuyente sin planes de eficiencia claros. El preámbulo utiliza un escenario macroeconómico casi apocalíptico para blindar la discrecionalidad en la gestión de créditos.",
+    "resumen_ciudadano": "Los presupuestos de 2026 priorizan la recuperación post-DANA y el pago de deuda pública. Se mantienen las estructuras de gasto en personal y se faculta al Consell para otorgar subvenciones a dedo por 'razones humanitarias o sociales'. Se suben o mantienen tasas como el canon de saneamiento, mientras que la gestión de universidades y centros concertados queda sujeta a controles financieros que a menudo resultan insuficientes para el ciudadano de a pie.",
+    "resumen_tweet": "⚠️ ¡Alerta de Opacidad! El #BOE publica los presupuestos de la CV para 2026. Más subvenciones 'a dedo' y rescate de empresas públicas con tu dinero. La excusa: crisis global y DANA. ¿Dónde queda la #Transparencia? 💸📉 #ComunitatValenciana #GastoPúblico",
+    "banderas_red_flags": [
+      "Concesión directa de subvenciones sin concurso (Disp. Adicional 5.ª)",
+      "Asunción de deuda de la Corporación Audiovisual por 'obligaciones sobrevenidas' (Art. 56)",
+      "Ampliaciones de crédito con criterios de interpretación laxa (Art. 25)",
+      "Uso del Fondo de Contingencia para gastos no previstos de forma discrecional",
+      "Falta de detalle en los 'módulos económicos' para centros concertados (Art. 11)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sector público instrumental (empresas y fundaciones rescatadas)",
+        "Entidades beneficiarias de subvenciones directas",
+        "Personal directivo del sector público (blindaje retributivo)"
+      ],
+      "perdedores": [
+        "Contribuyentes (mantenimiento del canon de saneamiento y tasas)",
+        "Pymes (excluidas de las líneas de subvención directa)",
+        "Usuarios de servicios sociales sujetos a tasas por copago (Disp. Adicional 12.ª)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Ley de Presupuestos Generales",
+    "banderas_rojas": [
+      "Concesión directa de subvenciones sin concurso (Disp. Adicional 5.ª)",
+      "Asunción de deuda de la Corporación Audiovisual por 'obligaciones sobrevenidas' (Art. 56)",
+      "Ampliaciones de crédito con criterios de interpretación laxa (Art. 25)",
+      "Uso del Fondo de Contingencia para gastos no previstos de forma discrecional",
+      "Falta de detalle en los 'módulos económicos' para centros concertados (Art. 11)"
+    ]
+  },
+  "tweeted": false
+}
