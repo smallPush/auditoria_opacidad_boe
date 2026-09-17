@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19343",
+  "timestamp": "2026-09-17T16:58:47.285Z",
+  "title": "Resolución de 1 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Álvaro Rodríguez Prieto.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera en el ámbito universitario. Aunque el proceso sigue la Ley Orgánica 2/2023 (LOSU), el anuncio peca de la opacidad habitual: no se detalla la dotación presupuestaria anual que supondrá esta plaza vitalicia ni se facilita el acceso directo a la baremación de méritos que justificó la elección. Es un ejemplo de la 'endogamia legalizada' donde la administración cumple la forma pero no el fondo de la transparencia financiera hacia el ciudadano.",
+    "resumen_ciudadano": "La UNED ha nombrado oficialmente a un nuevo Profesor Titular de por vida para el área de Ingeniería de los Procesos de Fabricación tras un concurso de oposición.",
+    "resumen_tweet": "🧐 Nuevo nombramiento en la UNED vía #BOE. Una plaza fija más en ingeniería sin desglose presupuestario claro. ¿Y la paridad en STEM? La transparencia administrativa aprueba raspado, pero la claridad ciudadana suspende. #Opacidad #Transparencia #UNED 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de coste salarial detallado",
+      "Persistencia de brecha de género en áreas técnicas",
+      "Lenguaje administrativo altamente codificado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Álvaro Rodríguez Prieto (estabilidad laboral vitalicia)",
+        "Burocracia universitaria"
+      ],
+      "perdedores": [
+        "Contribuyentes (sin acceso a datos de coste)",
+        "Candidatas femeninas (área masculinizada)",
+        "Transparencia directa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Ausencia de coste salarial detallado",
+      "Persistencia de brecha de género en áreas técnicas",
+      "Lenguaje administrativo altamente codificado"
+    ]
+  },
+  "tweeted": false
+}
