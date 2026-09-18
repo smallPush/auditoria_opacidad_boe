@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19421",
+  "timestamp": "2026-09-18T16:16:25.153Z",
+  "title": "Orden PJC/972/2026, de 14 de septiembre, por la que se regulan el Comité Asesor para la Valoración de Tratamientos con Hormona de Crecimiento y Sustancias relacionadas y el Comité Interdisciplinar de Valoración de Tratamientos de Protonterapia para el colectivo de mutualistas adscrito a entidades de seguro concertadas y se establecen su composición y funciones dentro del organismo autónomo Mutualidad General Judicial.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden PJC/972/2026 externaliza la evaluación de tratamientos de alto coste (Hormona de Crecimiento y Protonterapia) de los cauces generales del Ministerio de Sanidad para crear comités específicos dentro de la Mutualidad General Judicial (MUGEJU). Este movimiento fragmenta los criterios clínicos del Sistema Nacional de Salud. Se detecta una 'partida fantasma' en el Artículo 6.4, donde se establece que los vocales percibirán cantidades determinadas en 'acuerdos de designación' internos, sin especificar baremos públicos en el BOE, lo que permite una discrecionalidad presupuestaria en el pago de dietas.",
+    "resumen_ciudadano": "La Mutualidad de la Justicia (MUGEJU) crea sus propios tribunales médicos para autorizar tratamientos costosos como la protonterapia contra el cáncer y hormonas de crecimiento, separándose del control directo del Ministerio de Sanidad. Aunque se justifica como 'uso racional', establece un sistema de salud paralelo para jueces y funcionarios con procesos de decisión internos y pagos a expertos cuyos importes exactos no se detallan en la norma.",
+    "resumen_tweet": "🏛️ ¿Salud a dos velocidades? MUGEJU crea comités propios para autorizar tratamientos de lujo como la Protonterapia, fuera del control general de Sanidad. Además, fija dietas para expertos en acuerdos privados. 💸 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retribuciones de vocales no cuantificadas en la orden (Art. 6.4)",
+      "Riesgo de falta de independencia al ser los vocales nombrados directamente por la Gerencia de la Mutualidad",
+      "Fragmentación de la autoridad sanitaria nacional en beneficio de un colectivo específico",
+      "Uso de conceptos indeterminados como 'disponibilidades presupuestarias' para pagos extraoficiales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Colectivo de mutualistas judiciales (acceso a circuitos de evaluación rápidos y específicos)",
+        "Vocales de los comités (nuevas fuentes de ingresos por dietas no baremadas públicamente)",
+        "Entidades de seguro concertadas (mayor claridad en la interlocución con comités ad hoc)"
+      ],
+      "perdedores": [
+        "Ciudadano medio del SNS (que asume la fragmentación de recursos públicos)",
+        "Transparencia presupuestaria (al ocultarse las cuantías de las indemnizaciones por servicio)",
+        "Ministerio de Sanidad (pierde centralización en la evaluación de tratamientos especiales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa/Sanitaria",
+    "banderas_rojas": [
+      "Retribuciones de vocales no cuantificadas en la orden (Art. 6.4)",
+      "Riesgo de falta de independencia al ser los vocales nombrados directamente por la Gerencia de la Mutualidad",
+      "Fragmentación de la autoridad sanitaria nacional en beneficio de un colectivo específico",
+      "Uso de conceptos indeterminados como 'disponibilidades presupuestarias' para pagos extraoficiales"
+    ]
+  },
+  "tweeted": false
+}
