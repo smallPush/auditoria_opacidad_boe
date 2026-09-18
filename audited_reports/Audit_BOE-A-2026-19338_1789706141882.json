@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19338",
+  "timestamp": "2026-09-18T04:35:41.882Z",
+  "title": "Resolución de 11 de septiembre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo de Agentes del Servicio de Vigilancia Aduanera, especialidades de Investigación y Marítima.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionarios de carrera. La transparencia es elevada al detallar nombres, destinos y retribuciones base (Nivel 16). No obstante, existe opacidad en el caso de la candidata con aplazamiento por 'fuerza mayor' (punto segundo) sin especificar causas, y se destaca la disparidad en los complementos específicos entre las especialidades de Investigación (aprox. 8.725€) y Marítima (aprox. 9.732€), una brecha salarial interna significativa para el mismo nivel de entrada.",
+    "resumen_ciudadano": "Publicación oficial de los nuevos agentes de Vigilancia Aduanera que han superado las oposiciones y el curso selectivo. Se detallan sus puestos de trabajo en diversas delegaciones de la Agencia Tributaria, sus salarios base (Nivel 16) y sus destinos finales, principalmente en zonas costeras y fronterizas.",
+    "resumen_tweet": "🚨 Nuevos agentes de Vigilancia Aduanera en el #BOE. Salarios de Nivel 16 y destinos clave en Algeciras, Valencia y Vigo. ⚓️ Un aspirante queda fuera tras no superar el curso. ¡Ojo a los pluses marítimos! 💼🔍 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Diferencia de complemento específico de 1.000€ entre especialidades del mismo nivel",
+      "Falta de detalle en el aplazamiento por fuerza mayor de una candidata",
+      "Exclusión definitiva de un aspirante tras haber sido nombrado funcionario en prácticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "24 nuevos funcionarios de carrera",
+        "Agencia Tributaria (refuerzo contra el contrabando)",
+        "Sector marítimo (mayor remuneración específica)"
+      ],
+      "perdedores": [
+        "Alejandro Tato Arregui (decaído en su derecho)",
+        "Candidatos de investigación (menor sueldo que sus pares de marítima)",
+        "Aspirantes que no obtuvieron plaza en su localidad de origen"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Diferencia de complemento específico de 1.000€ entre especialidades del mismo nivel",
+      "Falta de detalle en el aplazamiento por fuerza mayor de una candidata",
+      "Exclusión definitiva de un aspirante tras haber sido nombrado funcionario en prácticas"
+    ]
+  },
+  "tweeted": false
+}
