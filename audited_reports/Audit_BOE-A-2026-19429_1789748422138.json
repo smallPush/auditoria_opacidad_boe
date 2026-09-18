@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-19429",
+  "timestamp": "2026-09-18T16:20:22.138Z",
+  "title": "Decreto-ley 4/2026, de 28 de julio, de actuaciones urgentes en materia de urbanismo para la agilización de la aprobación del planeamiento y su ejecución para el impulso a la promoción de vivienda.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Decreto-ley utiliza la 'emergencia habitacional' como un caballo de Troya para desregular el urbanismo en Extremadura. Bajo la apariencia de fomentar la vivienda protegida, la norma recorta los periodos de información pública (reduciendo la capacidad de alegación ciudadana) y permite la mutación de suelos destinados a equipamientos y servicios hacia uso residencial sin necesidad de modificar los planes generales. Destaca la 'prima de edificabilidad' y la exclusión de terrazas del cómputo de metros construidos, una medida técnica que beneficia directamente los márgenes de las promotoras al permitir mayor densidad bajo el pretexto de la 'calidad residencial'. La creación de Proyectos Estratégicos (PEVA) centraliza la gestión y reduce los controles municipales clásicos.",
+    "resumen_ciudadano": "La Junta de Extremadura facilita que se construyan viviendas en terrenos que antes estaban reservados para parques, hospitales o comercios, sin tener que cambiar el plan de la ciudad. Además, reduce el tiempo que los vecinos tienen para revisar y protestar contra estas obras. Se permitirá a las constructoras hacer casas más grandes o más numerosas al no contar las terrazas como superficie construida, agilizando licencias mediante declaraciones responsables que evitan la inspección previa del ayuntamiento.",
+    "resumen_tweet": "🏠 Extremadura acelera el urbanismo con el Decreto-ley 4/2026. Menos tiempo para alegaciones y viviendas en suelos de parques o servicios. ¡Más densidad y menos control vecinal bajo la excusa de la urgencia! 📉 #BOE #Opacidad #Transparencia #Extremadura",
+    "banderas_red_flags": [
+      "Reducción del periodo de información pública para modificaciones de planes generales.",
+      "Uso de la figura del Decreto-ley para cambios estructurales en la legislación de suelo.",
+      "Conversión de suelo dotacional público en residencial sin modificación de planeamiento.",
+      "Exclusión de terrazas cubiertas del cómputo de edificabilidad (aumento encubierto de densidad).",
+      "Uso extensivo de la declaración responsable para la primera ocupación."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Promotoras inmobiliarias",
+        "Grandes constructoras",
+        "Administraciones Públicas (agilidad política)",
+        "Inversores en Proyectos Estratégicos (PEVA)"
+      ],
+      "perdedores": [
+        "Vecinos de zonas sobredotadas (pérdida potencial de suelo para parques/servicios)",
+        "Colectivos de participación ciudadana (menos tiempo de reacción)",
+        "Ayuntamientos con menor capacidad de control previo"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Urbanismo y Vivienda",
+    "banderas_rojas": [
+      "Reducción del periodo de información pública para modificaciones de planes generales.",
+      "Uso de la figura del Decreto-ley para cambios estructurales en la legislación de suelo.",
+      "Conversión de suelo dotacional público en residencial sin modificación de planeamiento.",
+      "Exclusión de terrazas cubiertas del cómputo de edificabilidad (aumento encubierto de densidad).",
+      "Uso extensivo de la declaración responsable para la primera ocupación."
+    ]
+  },
+  "tweeted": false
+}
