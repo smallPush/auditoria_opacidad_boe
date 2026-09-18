@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19438",
+  "timestamp": "2026-09-18T16:25:24.027Z",
+  "title": "Resolución de 2 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesora Titular de Universidad a doña Sara García Herranz.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolución estándar de nombramiento de personal funcionario docente. Aunque cumple con la legalidad de la Ley Orgánica 2/2023 (LOSU), el sistema de publicación individualizada en el BOE genera una fragmentación de la información que dificulta al ciudadano auditar el crecimiento total de la masa salarial universitaria. No se especifica la dotación presupuestaria ni el coste a largo plazo de la plaza consolidada, manteniendo la opacidad financiera típica de la administración pública en sus procesos de personal.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de doña Sara García Herranz como Profesora Titular de Universidad en el área de Psicología Básica de la UNED. Este es el paso final tras un concurso convocado en abril de 2026 para otorgar una plaza fija de funcionario en la educación pública superior.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la UNED: Sara García Herranz es nombrada Profesora Titular (#Psicología). Trámite administrativo que consolida empleo público pero sin detallar el impacto presupuestario real a largo plazo. 💸 #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Fragmentación de información presupuestaria",
+      "Ausencia de datos sobre el coste salarial del puesto",
+      "Consolidación de gasto estructural sin informe de eficiencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sara García Herranz (estabilidad laboral)",
+        "UNED (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asunción de gasto fijo sin desglose de costes)",
+        "Opositores no seleccionados"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Fragmentación de información presupuestaria",
+      "Ausencia de datos sobre el coste salarial del puesto",
+      "Consolidación de gasto estructural sin informe de eficiencia"
+    ]
+  },
+  "tweeted": false
+}
