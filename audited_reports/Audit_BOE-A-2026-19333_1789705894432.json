@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19333",
+  "timestamp": "2026-09-18T04:31:34.432Z",
+  "title": "Orden EFD/967/2026, de 10 de septiembre, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunidad Valenciana, se nombra personal funcionario de carrera del Cuerpo de Maestros, a personas seleccionadas en el procedimiento selectivo convocado por Orden 11/2023, de 19 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se formaliza el nombramiento de funcionarios de carrera del Cuerpo de Maestros tras un ciclo administrativo de casi tres años (2023-2026). El documento expone una segregación de género horizontal extrema: de las plazas analizadas en el anexo, la presencia femenina es abrumadoramente mayoritaria, especialmente en Educación Infantil y Pedagogía Terapéutica, reflejando la persistente feminización de los sectores de cuidados y educación básica. No se detectan 'gastos fantasma' directos, pero sí una lentitud burocrática que obliga a los aspirantes a periodos de prácticas o aplazamientos que extienden la precariedad hasta la consolidación definitiva.",
+    "resumen_ciudadano": "Publicación oficial de los nuevos maestros con plaza fija en la Comunidad Valenciana tras superar las oposiciones y el periodo de prácticas. El listado incluye nombres, especialidades y puntuaciones obtenidas en el proceso iniciado a finales de 2023.",
+    "resumen_tweet": "📝 ¡Habemus maestros! El #BOE publica los nombramientos definitivos en la C. Valenciana tras 3 años de espera. Notable brecha de género en las aulas: la educación infantil sigue en manos femeninas. 👩‍🏫📜 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Dilación administrativa de 33 meses entre convocatoria y nombramiento",
+      "Segregación ocupacional por género muy marcada",
+      "Ausencia de desglose sobre el impacto presupuestario de las nuevas plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes seleccionados (estabilidad laboral blindada)",
+        "Generalitat Valenciana (reducción de tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Aspirantes que sufrieron aplazamientos en prácticas",
+        "Diversidad de género en el sector educativo infantil",
+        "Interinos que pierden su plaza ante los nuevos funcionarios"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Dilación administrativa de 33 meses entre convocatoria y nombramiento",
+      "Segregación ocupacional por género muy marcada",
+      "Ausencia de desglose sobre el impacto presupuestario de las nuevas plazas"
+    ]
+  },
+  "tweeted": false
+}
