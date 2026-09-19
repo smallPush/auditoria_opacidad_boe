@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19484",
+  "timestamp": "2026-09-19T15:29:58.625Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Esta resolución del Ministerio de Hacienda perpetúa el control estatal sobre el mercado del tabaco mediante la fijación administrativa de precios. Aunque los precios son propuestos por fabricantes, su validación oficial actúa como un mecanismo de ajuste fiscal encubierto. Se detecta una brecha de transparencia en los criterios de aprobación y un mantenimiento anacrónico del concepto de 'Área del Monopolio' en pleno 2026. La disparidad de precios entre la Península y las ciudades autónomas de Ceuta y Melilla (donde productos como la picadura Dozaj Mangolia cuestan casi un 40% menos) genera fronteras fiscales internas poco justificadas por criterios de salud pública y muy ligadas a la presión recaudatoria diferenciada.",
+    "resumen_ciudadano": "Hacienda ha publicado la lista actualizada de precios para cigarrillos, puros, picaduras de liar y de pipa. Estos nuevos costes entran en vigor inmediatamente en todos los estancos (expendedurías) de España. Los precios varían significativamente dependiendo de si la compra se realiza en la Península, Baleares o en Ceuta y Melilla debido a los diferentes impuestos aplicados.",
+    "resumen_tweet": "📉 Hacienda actualiza los precios del tabaco. Se mantiene el férreo control estatal sobre los 'estancos' y una disparidad fiscal alarmante entre territorios. El bolsillo del ciudadano, el único perdedor constante. 🚬💰 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en los márgenes de beneficio del Comisionado",
+      "Discriminación de precios por código postal (Territorios)",
+      "Mantenimiento de estructuras de monopolio comercial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hacienda (mantenimiento de ingresos fiscales)",
+        "Grandes tabacaleras (ajuste de márgenes)"
+      ],
+      "perdedores": [
+        "Consumidores finales (menor poder adquisitivo)",
+        "Igualdad territorial (brecha fiscal entre comunidades)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Fiscal y Control de Precios",
+    "banderas_rojas": [
+      "Opacidad en los márgenes de beneficio del Comisionado",
+      "Discriminación de precios por código postal (Territorios)",
+      "Mantenimiento de estructuras de monopolio comercial"
+    ]
+  },
+  "tweeted": false
+}
