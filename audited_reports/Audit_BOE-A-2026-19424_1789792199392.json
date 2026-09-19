@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19424",
+  "timestamp": "2026-09-19T04:29:59.392Z",
+  "title": "Orden ECM/974/2026, de 9 de septiembre, por la que se modifica la Orden ECM/271/2025, de 27 de febrero, por la que se aprueban los modelos de información cuantitativa a efectos de supervisión, estadísticos y contables de las entidades aseguradoras y reaseguradoras y los modelos de información cuantitativa a efectos estadísticos y contables de los grupos de entidades aseguradoras y reaseguradoras.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La orden destaca por una elevada opacidad técnica, propia del sector financiero, que enmascara realidades sociales crudas bajo 'modelos cuantitativos'. Es alarmante la inclusión de campos de datos específicos para el 'rescate por ejecución de la vivienda habitual', lo que indica que el sistema ya integra el desahucio como una variable estadística normalizada en la previsión social. Además, la ampliación de tramos de edad hasta los 70 años refleja un ajuste sistémico a la precariedad en la jubilación. Aunque se justifica en la 'seguridad jurídica', la complejidad de los anexos y la remisión telemática obligatoria levanta barreras de escrutinio para el ciudadano de a pie.",
+    "resumen_ciudadano": "El Gobierno modifica cómo las aseguradoras deben informar sobre los planes de pensiones y seguros. A partir de ahora, deberán dar detalles sobre cuánta gente retira su dinero para evitar perder su casa (desahucios) y desglosar mejor los datos de mayores de 65 años. Es una reforma técnica que facilita el control del Estado pero complica la comprensión pública de dónde va el dinero de la previsión social.",
+    "resumen_tweet": "🕵️ El #BOE normaliza el drama: las aseguradoras informarán sobre rescates de pensiones por desahucio 🏠. Más control técnico, menos claridad para el ciudadano. ¿Transparencia o burocracia opaca? 📑💸 #Opacidad #Transparencia #Seguros",
+    "banderas_red_flags": [
+      "Normalización estadística del rescate por ejecución de vivienda habitual",
+      "Alta dependencia de directivas europeas delegadas (Solvencia II) de difícil acceso",
+      "Ampliación de tramos de edad para capturar datos de población envejecida y activa económicamente",
+      "Costes de cumplimiento para pequeñas mutualidades de previsión social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dirección General de Seguros y Fondos de Pensiones (mayor control de datos)",
+        "Grandes corporaciones de seguros (capacidad de automatización)",
+        "Consultoras de cumplimiento normativo"
+      ],
+      "perdedores": [
+        "Mutualidades de previsión social pequeñas (mayor carga administrativa)",
+        "Ciudadanos (dificultad para auditar el destino real de las inversiones)",
+        "Asegurados en situación de vulnerabilidad (monitorizados estadísticamente)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Financiera y Seguros",
+    "banderas_rojas": [
+      "Normalización estadística del rescate por ejecución de vivienda habitual",
+      "Alta dependencia de directivas europeas delegadas (Solvencia II) de difícil acceso",
+      "Ampliación de tramos de edad para capturar datos de población envejecida y activa económicamente",
+      "Costes de cumplimiento para pequeñas mutualidades de previsión social"
+    ]
+  },
+  "tweeted": false
+}
