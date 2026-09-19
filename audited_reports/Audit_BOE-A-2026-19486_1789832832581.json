@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19486",
+  "timestamp": "2026-09-19T15:47:12.581Z",
+  "title": "Orden EFD/978/2026, de 14 de septiembre, por la que se crea y se regula la Comisión Ministerial de Administración Digital del Ministerio de Educación, Formación Profesional y Deportes.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden EFD/978/2026 establece una estructura de gobernanza digital que, bajo la apariencia de eficiencia y modernización, añade capas de burocracia interna mediante la creación de un Pleno, una Comisión Permanente y potenciales grupos de trabajo. El texto utiliza la técnica de 'dilución de responsabilidad' al entrelazar competencias de la Agencia Estatal de Administración Digital con cargos departamentales. Se detecta una falta de mecanismos de rendición de cuentas hacia la ciudadanía: la comisión se comunica con la Agencia, pero no se establece ningún canal de transparencia pública sobre las decisiones de inversión tecnológica o el impacto real en la comunidad educativa. La cláusula de 'no incremento del gasto' es una falacia administrativa clásica, ya que el coste de oportunidad del tiempo de los altos cargos (niveles 30 y 29) dedicados a estas reuniones constituye un gasto indirecto no cuantificado.",
+    "resumen_ciudadano": "El Ministerio de Educación ha creado una nueva comisión interna para gestionar su transformación digital. Este grupo, compuesto exclusivamente por altos cargos y directivos, decidirá sobre la tecnología y los recursos del ministerio. Aunque el Gobierno afirma que no supone un gasto extra, la norma crea una estructura compleja de reuniones y subgrupos que aleja la gestión tecnológica del escrutinio ciudadano, centralizando el poder en la cúpula administrativa.",
+    "resumen_tweet": "🚨 Nueva capa de burocracia en Educación: se crea la Comisión de Administración Digital. Muchos sillones para altos cargos 💺, poca claridad sobre el impacto real y 0 participación ciudadana. ¿Eficiencia o control? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso recurrente de la cláusula 'no incremento del gasto público' para ocultar costes de oportunidad.",
+      "Creación de múltiples sub-órganos (Ponencias técnicas y Grupos de trabajo) con composición discrecional.",
+      "Endogamia administrativa: composición limitada a perfiles jerárquicos sin presencia de expertos independientes o usuarios finales.",
+      "Ambigüedad en la 'identificación de medios económicos' susceptibles de ser reasignados."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos ministeriales (consolidación de control sobre presupuestos TIC)",
+        "Agencia Estatal de Administración Digital (mayor centralización funcional)",
+        "Grandes consultoras tecnológicas (interlocución centralizada y jerárquica)"
+      ],
+      "perdedores": [
+        "Ciudadanos (ausencia de mecanismos de control social en la digitalización)",
+        "Personal técnico de base (incremento de la jerarquía y procesos de aprobación)",
+        "Pequeñas empresas de software (barreras de entrada ante una gobernanza tan centralizada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Organización Administrativa y Transformación Digital",
+    "banderas_rojas": [
+      "Uso recurrente de la cláusula 'no incremento del gasto público' para ocultar costes de oportunidad.",
+      "Creación de múltiples sub-órganos (Ponencias técnicas y Grupos de trabajo) con composición discrecional.",
+      "Endogamia administrativa: composición limitada a perfiles jerárquicos sin presencia de expertos independientes o usuarios finales.",
+      "Ambigüedad en la 'identificación de medios económicos' susceptibles de ser reasignados."
+    ]
+  },
+  "tweeted": false
+}
