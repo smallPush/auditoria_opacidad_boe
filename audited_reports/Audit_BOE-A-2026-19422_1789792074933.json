@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19422",
+  "timestamp": "2026-09-19T04:27:54.933Z",
+  "title": "Real Decreto 733/2026, de 16 de septiembre, por el que se regula la concesión directa de una subvención a la Comunidad Autónoma de Canarias para abaratar a los agricultores el sobrecoste de la desalación y de la extracción de agua de pozos y de galerías para el riego agrícola, y se modifica el Real Decreto 1159/2020, de 22 de diciembre, por el que se regula la concesión directa de una subvención a la Agencia del Agua de Castilla-La Mancha, O.A., para la ejecución de diversas obras y actuaciones de mejora del entorno socioeconómico de los núcleos colindantes con los embalses de Entrepeñas y Buendía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto utiliza la figura de 'concesión directa' alegando razones de interés público, lo que evita la libre concurrencia y limita el control sobre la eficiencia del gasto. Aunque el objetivo es abaratar el agua de riego en Canarias, resulta crítico que se incluyan como 'gastos subvencionables' los costes de personal de la propia administración canaria y los gastos financieros de transferencias bancarias. Además, se utiliza el texto para modificar discretamente plazos de ejecución de obras en Castilla-La Mancha, una técnica legislativa de 'ajuste' que suele pasar desapercibida.",
+    "resumen_ciudadano": "Se conceden 8 millones de euros a la Comunidad Autónoma de Canarias para reducir el coste de desalar agua y extraerla de pozos para agricultores. El dinero se podrá usar no solo para la factura eléctrica, sino también para pagar el sueldo del personal que gestione estas ayudas y las comisiones de los bancos.",
+    "resumen_tweet": "🚨 ¡8M€ en adjudicación directa! El #BOE publica ayudas para el agua en Canarias, pero ¡ojo! 👁️ se permite usar fondos públicos para pagar sueldos de gestores y comisiones bancarias. ¿Más agua o más burocracia? #Opacidad #Agricultura #Transparencia 💧🚜",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva inicial",
+      "Subvención de gastos de personal administrativo propio",
+      "Inclusión de gastos financieros (comisiones bancarias) como subvencionables",
+      "Modificación de plazos de obras en otra CC.AA. (Castilla-La Mancha) dentro del mismo decreto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública de Canarias (cubre costes de gestión)",
+        "Grandes propietarios de pozos y galerías",
+        "Empresas de desalación"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de licitación pública)",
+        "Pequeños agricultores (con barreras de auditoría externa)",
+        "Modelo de eficiencia energética (se subsidia el consumo sin incentivar renovables)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias y Castilla-La Mancha",
+    "tipologia": "Subvención de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva inicial",
+      "Subvención de gastos de personal administrativo propio",
+      "Inclusión de gastos financieros (comisiones bancarias) como subvencionables",
+      "Modificación de plazos de obras en otra CC.AA. (Castilla-La Mancha) dentro del mismo decreto"
+    ]
+  },
+  "tweeted": false
+}
