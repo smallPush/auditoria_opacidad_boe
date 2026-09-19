@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19500",
+  "timestamp": "2026-09-19T15:52:10.112Z",
+  "title": "Resolución de 14 de septiembre de 2026, del Ayuntamiento de Valencina de la Concepción (Sevilla), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución del Ayuntamiento de Valencina de la Concepción para una plaza fija de 'Técnico/a Deportivo especialista en Kárate' presenta rasgos de opacidad administrativa. El uso del sistema de 'concurso' en lugar de 'concurso-oposición' para una plaza laboral fija elimina la fase de examen, permitiendo que la valoración de méritos (frecuentemente ligada a la experiencia previa en la misma administración) sea determinante. Además, el plazo de diez días naturales es inusualmente corto, limitando la libre concurrencia y sugiriendo un proceso diseñado para candidatos ya vinculados a la entidad.",
+    "resumen_ciudadano": "Se convoca una plaza fija de instructor de Kárate en Valencina de la Concepción (Sevilla). No habrá examen, solo valoración de méritos, y el plazo para apuntarse es de solo 10 días. Este formato suele favorecer a quienes ya ocupan el puesto de forma temporal.",
+    "resumen_tweet": "🚨 ¿Plaza fija de Kárate por concurso y solo 10 días para inscribirse? El Ayuntamiento de Valencina de la Concepción lanza una convocatoria que huele a traje a medida. 🥋🔍 #BOE #Opacidad #Transparencia #Sevilla #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Plazo de inscripción extremadamente breve (10 días naturales)",
+      "Acceso por sistema de concurso puro para plaza fija",
+      "Alta especificidad del puesto (Kárate) para plantilla estructural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o con antigüedad previa en el ayuntamiento",
+        "Perfiles con experiencia acumulada difícil de igualar por externos"
+      ],
+      "perdedores": [
+        "Nuevos opositores sin experiencia previa en la administración local",
+        "Principio de mérito y capacidad en el acceso al empleo público",
+        "Transparencia en la gestión de recursos humanos locales"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Plazo de inscripción extremadamente breve (10 días naturales)",
+      "Acceso por sistema de concurso puro para plaza fija",
+      "Alta especificidad del puesto (Kárate) para plantilla estructural"
+    ]
+  },
+  "tweeted": false
+}
