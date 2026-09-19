@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19502",
+  "timestamp": "2026-09-19T15:57:09.630Z",
+  "title": "Resolución de 14 de septiembre de 2026, del Ayuntamiento de Oliva (Valencia/València), de corrección de errores de la de 4 de septiembre de 2026, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 45,
+    "analisis_critico": "La resolucion del Ayuntamiento de Oliva muestra una falta de precision tecnica inicial al confundir 'oficial de oficios' con 'oficial de mantenimiento'. Aunque se presenta como una simple correccion, este cambio altera el perfil competencial requerido para el puesto. Lo mas critico es la reapertura selectiva del plazo de inscripcion solo para estas plazas, lo que rompe la unidad del proceso selectivo original y podria facilitar la entrada de perfiles especificos que no concurrieron en la primera fase. El coste administrativo de republicar y retrasar el proceso recae sobre el erario publico bajo la excusa de un error de insercion.",
+    "resumen_ciudadano": "El Ayuntamiento de Oliva ha modificado el nombre de dos puestos de trabajo en su convocatoria de empleo: pasan de ser 'oficial de oficios' a 'oficial de mantenimiento'. Esto ha provocado que se abra un nuevo plazo de 20 dias para que la gente se apunte, pero solo para esos dos puestos especificos, retrasando el proceso general.",
+    "resumen_tweet": "⚠️ ¡Ojo en Oliva! El Ayuntamiento corrige 'errores' en su oferta de empleo: de oficial de oficios a mantenimiento. 📉 La burocracia se retrasa y se reabren plazos solo para estas plazas. ¿Error real o ajuste a medida? #BOE #Opacidad #Transparencia 🧐",
+    "banderas_red_flags": [
+      "Correccion de denominacion de puesto ex-post",
+      "Reapertura asincrona de plazos de inscripcion",
+      "Falta de rigor en la redaccion tecnica original"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos que no llegaron al primer plazo",
+        "Perfiles tecnicos especificos de mantenimiento"
+      ],
+      "perdedores": [
+        "Eficiencia administrativa municipal",
+        "Candidatos originales que sufren el retraso del proceso"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Resolucion de Recursos Humanos / Administracion Local",
+    "banderas_rojas": [
+      "Correccion de denominacion de puesto ex-post",
+      "Reapertura asincrona de plazos de inscripcion",
+      "Falta de rigor en la redaccion tecnica original"
+    ]
+  },
+  "tweeted": false
+}
