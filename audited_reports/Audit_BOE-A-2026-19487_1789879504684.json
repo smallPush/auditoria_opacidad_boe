@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19487",
+  "timestamp": "2026-09-20T04:45:04.684Z",
+  "title": "Resolución de 17 de septiembre de 2026, de la Dirección General de Función Pública, por la que se modifica la de 11 de septiembre de 2026, por la que se resuelve el concurso ordinario para la provisión de puestos de trabajo reservados a personal funcionario de administración local con habilitación de carácter nacional.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una resolución técnica que corrige errores materiales en la adjudicación de plazas de habilitación nacional. Aunque el contenido es puramente administrativo, la 'fe de erratas' en los DNI anonimizados evidencia un fallo de supervisión en la publicación original de septiembre de 2026. Lo más relevante jurídicamente es el punto Segundo, que reinicia el cómputo de plazos para recursos, lo cual puede interpretarse como una garantía para el funcionario, pero también como un retraso en la estabilización de los puestos de control (interventores y secretarios) en los ayuntamientos afectados.",
+    "resumen_ciudadano": "El Ministerio ha corregido una lista de funcionarios (secretarios, interventores y tesoreros) destinados a diversos ayuntamientos de toda España porque se equivocaron al poner sus números de identificación (DNI). Esta corrección es importante porque de ella depende quién controla legalmente las cuentas y la legalidad en los municipios, y además permite que los afectados tengan más tiempo para reclamar si no están de acuerdo con su destino.",
+    "resumen_tweet": "⚖️ El #BOE rectifica errores en la adjudicación de puestos clave (Secretarios e Interventores) en Ayuntamientos de toda España. Un fallo en los DNI obligó a reiniciar plazos legales. La precisión es vital para la fe pública. #Opacidad #Transparencia 📑",
+    "banderas_red_flags": [
+      "Error en datos de identificación de personal de control",
+      "Reinicio de plazos administrativos por fallo ministerial",
+      "Posible retraso en la toma de posesión de puestos de fiscalización"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con habilitación nacional (recuperan plazo de recurso)",
+        "Municipios pequeños que aseguran la identidad de su nuevo personal técnico"
+      ],
+      "perdedores": [
+        "Eficiencia del Ministerio (fallo en control de calidad)",
+        "Ciudadanía (retraso administrativo en puestos de supervisión económica local)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica (Estatal)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Error en datos de identificación de personal de control",
+      "Reinicio de plazos administrativos por fallo ministerial",
+      "Posible retraso en la toma de posesión de puestos de fiscalización"
+    ]
+  },
+  "tweeted": false
+}
