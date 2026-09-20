@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19492",
+  "timestamp": "2026-09-20T04:46:09.812Z",
+  "title": "Resolución de 10 de septiembre de 2026, de la Universidad de León, por la que se nombra Catedrático de Universidad a don Hugo Mélida Martínez.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El documento representa un acto administrativo estándar de consolidación de carrera académica. Aunque cumple la legalidad bajo la LOSU, el BOE actúa meramente como un boletín de resultados de una 'caja negra' universitaria: no se detallan los méritos, la concurrencia de otros candidatos ni el impacto económico real en las arcas públicas de una plaza vitalicia de nivel A1. La opacidad reside en el proceso de selección previo, no en el nombramiento en sí.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado a Hugo Mélida Martínez como Catedrático en Fisiología Vegetal. Este es el rango más alto en la jerarquía docente e investigadora, con carácter de funcionario de carrera y sueldo a cargo de presupuestos públicos.",
+    "resumen_tweet": "🎓 Nueva cátedra vitalicia en la Univ. de León. Hugo Mélida Martínez accede al máximo escalafón en Fisiología Vegetal. ¿Transparencia? Vemos el resultado, pero no el coste real ni los detalles del proceso. #BOE #Opacidad #Universidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Gasto público estructural vitalicio sin cuantificar",
+      "Opacidad en la concurrencia competitiva",
+      "Potencial endogamia académica estructural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hugo Mélida Martínez (estabilidad y rango)",
+        "Universidad de León (consolidación de área)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos o externos",
+        "Contribuyentes (por falta de desglose de costes)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Gasto público estructural vitalicio sin cuantificar",
+      "Opacidad en la concurrencia competitiva",
+      "Potencial endogamia académica estructural"
+    ]
+  },
+  "tweeted": false
+}
