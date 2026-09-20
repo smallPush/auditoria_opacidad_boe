@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19495",
+  "timestamp": "2026-09-20T04:48:42.393Z",
+  "title": "Orden TMD/979/2026, de 16 de septiembre, por la que se convoca el proceso selectivo para la designación de vocales del Consejo Superior de Fundaciones, en representación de las fundaciones.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden TMD/979/2026 establece un proceso de seleccion para vocalías del Consejo Superior de Fundaciones donde impera una logica plutocratica. El criterio principal de seleccion, segun el articulo Cuarto, es el 'mayor patrimonio neto'. Esta disposicion asegura que las fundaciones con mas capital tengan prioridad de representacion sobre aquellas con mayor impacto social o despliegue territorial, contradiciendo la naturaleza supuestamente participativa del organo.",
+    "resumen_ciudadano": "Se abre una convocatoria urgente para cubrir tres puestos vacantes en el Consejo Superior de Fundaciones. El proceso esta diseñado para fundaciones que no pertenecen a asociaciones. El filtro de seleccion no es la labor social, sino la riqueza: a igualdad de condiciones, ganara la fundacion que mas dinero tenga en su patrimonio neto.",
+    "resumen_tweet": "⚠️ ¿Democracia o Billetera? El Ministerio de Política Territorial convoca plazas para el Consejo de Fundaciones. El criterio principal de selección es el patrimonio neto: cuanto más dinero tienes, más decides. 💸🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Criterio de seleccion basado exclusivamente en riqueza (patrimonio neto)",
+      "Plazo de inscripcion muy reducido de solo 10 dias habiles",
+      "Persistencia de vacantes tras un proceso selectivo previo fallido",
+      "Ausencia de criterios de merito social, territorial o de genero"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundaciones bancarias o de grandes corporaciones",
+        "Entidades con grandes activos financieros",
+        "Estructuras administrativas profesionalizadas capaces de responder en 10 dias"
+      ],
+      "perdedores": [
+        "Pequeñas fundaciones de barrio o de impacto local",
+        "Entidades de accion social con presupuestos ajustados",
+        "Fundaciones con escaso patrimonio pero gran base de voluntarios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Procesos Selectivos",
+    "banderas_rojas": [
+      "Criterio de seleccion basado exclusivamente en riqueza (patrimonio neto)",
+      "Plazo de inscripcion muy reducido de solo 10 dias habiles",
+      "Persistencia de vacantes tras un proceso selectivo previo fallido",
+      "Ausencia de criterios de merito social, territorial o de genero"
+    ]
+  },
+  "tweeted": false
+}
