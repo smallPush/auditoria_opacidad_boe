@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19491",
+  "timestamp": "2026-09-20T15:59:25.320Z",
+  "title": "Resolución de 9 de septiembre de 2026, de la Universidad Complutense de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento es una resoluci#n administrativa est!ndar para el nombramiento de personal funcionario de carrera en la UCM. Aunque detalla nombres, !reas y departamentos, omite por completo el impacto presupuestario de estas plazas vitalicias. La opacidad reside en la desconexi#n entre el nombramiento y el coste real para el contribuyente, as# como en la falta de informaci#n sobre los criterios de selecci#n final en este extracto.",
+    "resumen_ciudadano": "La Universidad Complutense de Madrid ha nombrado a 16 nuevos profesores funcionarios (Catedr!ticos y Profesores Titulares) en !reas que van desde la Pintura hasta la F#sica Te#rica y la Gen!tica. Estos puestos son permanentes y pagados con fondos p#blicos.",
+    "resumen_tweet": "#BOE | 🎓 16 nuevos funcionarios en la @unicomplutense. Se consolidan plazas vitalicias en diversas facultades. Mucha lista de nombres, pero POCA informaci#n sobre el coste presupuestario total. #Transparencia #Universidad #Opacidad 🧐⚖️",
+    "banderas_red_flags": [
+      "Ausencia de memoria econ#mica adjunta",
+      "Falta de menci#n a la tasa de reposici#n aplicada",
+      "Consolidaci#n de puestos en !reas con baja demanda laboral externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal nombrado (estabilidad laboral absoluta)",
+        "Departamentos universitarios (consolidaci#n de estructura)"
+      ],
+      "perdedores": [
+        "Personal docente e investigador en precario (profesores asociados/ayudantes sin plaza)",
+        "Contribuyentes (falta de detalle en la inversi#n a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de memoria econ#mica adjunta",
+      "Falta de menci#n a la tasa de reposici#n aplicada",
+      "Consolidaci#n de puestos en !reas con baja demanda laboral externa"
+    ]
+  },
+  "tweeted": false
+}
