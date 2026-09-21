@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19529",
+  "timestamp": "2026-09-21T18:11:23.651Z",
+  "title": "Resolución de 24 de agosto de 2026, de la Secretaría de Estado de Justicia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 10 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del procedimiento de libre designación para puestos de Nivel 28 (Consejero Técnico) en el área de Transformación Digital refleja la persistencia de mecanismos discrecionales en la alta administración. Aunque amparado en la Ley 30/1984, este sistema permite el ascenso de funcionarios (en este caso de un nivel 26 a un 28) basándose en criterios de 'confianza' no explicitados, lo que dificulta la auditoría de mérito real frente a otros candidatos potenciales.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha nombrado a una nueva Consejera Técnica para su división digital mediante el sistema de 'libre designación'. Este método permite elegir a dedo a funcionarios para puestos de alta responsabilidad y sueldo, sin necesidad de un concurso de méritos abierto y comparable para la ciudadanía.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el Ministerio de Justicia. Una plaza de nivel 28 adjudicada por libre designación en Transformación Digital. ¿Mérito o confianza política? La opacidad de estos procesos limita la meritocracia. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Procedimiento de Libre Designación",
+      "Falta de justificación técnica del perfil seleccionado",
+      "Ascenso jerárquico discrecional de Nivel 26 a 28"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel Chaya Romero (ascenso y mejora salarial)",
+        "Ministerio de Justicia (control sobre puestos estratégicos)"
+      ],
+      "perdedores": [
+        "Funcionariado de carrera (exclusión de procesos competitivos)",
+        "Transparencia institucional (falta de baremación pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Procedimiento de Libre Designación",
+      "Falta de justificación técnica del perfil seleccionado",
+      "Ascenso jerárquico discrecional de Nivel 26 a 28"
+    ]
+  },
+  "tweeted": false
+}
