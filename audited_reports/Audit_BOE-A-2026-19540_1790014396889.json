@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19540",
+  "timestamp": "2026-09-21T18:13:16.889Z",
+  "title": "Resolución de 15 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 6 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion bajo analisis utiliza el mecanismo de 'libre designacion' amparado en la Ley 30/1984, un sistema que permite la discrecionalidad en el nombramiento de funcionarios para puestos de confianza. Aunque el texto cita el cumplimiento del articulo 54 del Reglamento General, los 'criterios de interes general' y los 'meritos' especificos que motivaron la eleccion no son explicitados, quedando ocultos tras una formula retorica estandarizada. La existencia de un puesto desierto sugiere o bien un perfil excesivamente especifico para un puesto de secretaria, o la falta de candidatos que cumplieran con el criterio de confianza politica requerido. El hecho de que las adjudicatarias ya pertenecieran al mismo ministerio refuerza la endogamia administrativa en los organos superiores.",
+    "resumen_ciudadano": "El Ministerio de Juventud e Infancia ha asignado dos puestos de secretaria para el Secretario de Estado de forma discrecional (a dedo). Aunque legal, este sistema de 'libre designacion' prioriza la confianza personal sobre la competicion abierta de meritos. Se han cubierto dos plazas de nivel 17 y 18 con personal interno del propio ministerio, dejando una tercera vacante sin explicar los motivos tecnicos de tal decision.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: El Ministerio de Juventud otorga puestos de secretaria por 'Libre Designación' (discrecionalidad). Menos mérito, más confianza política. ¿Dónde están los criterios de selección? 🏛️📉 #Opacidad #Transparencia #Juventud",
+    "banderas_red_flags": [
+      "Sistema de libre designacion (discrecionalidad)",
+      "Criterios de motivacion no publicados",
+      "Posible endogamia administrativa (adjudicatarias del mismo ministerio)",
+      "Puesto desierto sin justificacion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Nieves Garcia Guijarro (Jefa Adjunta)",
+        "Cristina Crespo Moro (Ayudante)",
+        "Secretario de Estado (personal de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos externos por merito y capacidad",
+        "Transparencia administrativa",
+        "Funcionarios sin vinculos de confianza en el departamento"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designacion (discrecionalidad)",
+      "Criterios de motivacion no publicados",
+      "Posible endogamia administrativa (adjudicatarias del mismo ministerio)",
+      "Puesto desierto sin justificacion"
+    ]
+  },
+  "tweeted": false
+}
