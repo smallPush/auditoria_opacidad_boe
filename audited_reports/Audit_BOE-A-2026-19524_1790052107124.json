@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19524",
+  "timestamp": "2026-09-22T04:41:47.124Z",
+  "title": "Resolución de 15 de septiembre de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se regula la duración de la jornada general de trabajo en cómputo anual y las de las jornadas especiales en régimen de dedicación especial para el personal al servicio de la Administración de Justicia.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución formaliza la jornada de 35 horas semanales bajo el paraguas de una Dirección General cuya denominación incluye la palabra 'Eficiencia', generando una disonancia cognitiva: se reduce el tiempo de trabajo efectivo en una administración crónicamente colapsada sin proponer medidas de optimización técnica. El sistema de compensaciones es especialmente opaco en términos de coste: computar 1 hora nocturna o festiva como 2.5 horas efectivas es un gasto indirecto que no aparece en ninguna memoria económica anexa. No hay rastro de cómo se evitará que esta reducción aumente los retrasos judiciales.",
+    "resumen_ciudadano": "Se establece oficialmente la jornada laboral de 35 horas semanales para los funcionarios de Justicia. Durante el verano, esta se reduce a 32,5 horas. Las horas trabajadas fuera de horario (tardes, noches o festivos) se compensarán con creces, llegando a valer cada hora nocturna como dos horas y media de libranza. Se permite además reducir la jornada al 75% por interés particular, lo que impacta en el sueldo pero facilita la conciliación.",
+    "resumen_tweet": "⚖️ Nueva jornada de 35h en Justicia: 1h nocturna valdrá por 2.5h de descanso. Mucha 'Eficiencia' en el nombre del decreto, pero ¿quién paga el tiempo perdido en juicios? El ciudadano espera, el BOE compensa. 📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de estudio de impacto en la mora judicial",
+      "Gasto fantasma derivado de las compensaciones horarias multiplicadas",
+      "Incongruencia entre reducción de jornada y el objetivo declarado de eficiencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de Justicia (mejoras de conciliación y jornada)",
+        "Sindicatos de la función pública"
+      ],
+      "perdedores": [
+        "Ciudadanos con procesos judiciales abiertos",
+        "Justiciables que dependen de la presencialidad para trámites urgentes",
+        "Contribuyentes"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Laboral / Función Pública",
+    "banderas_rojas": [
+      "Falta de estudio de impacto en la mora judicial",
+      "Gasto fantasma derivado de las compensaciones horarias multiplicadas",
+      "Incongruencia entre reducción de jornada y el objetivo declarado de eficiencia"
+    ]
+  },
+  "tweeted": false
+}
