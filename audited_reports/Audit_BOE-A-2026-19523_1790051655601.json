@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19523",
+  "timestamp": "2026-09-22T04:34:15.601Z",
+  "title": "Resolución de 9 de septiembre de 2026, de la Presidencia de la Autoridad Independiente de Protección del Informante, A.A.I., por la que se modifica la dirección electrónica de la sede electrónica de la Autoridad Independiente de Protección del Informante, A.A.I.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Estamos ante una resolución de carácter técnico-administrativo que, bajo la apariencia de una mejora en la identidad digital, refleja la pesadez burocrática del sistema español: se requiere una publicación oficial en el BOE simplemente para mover la palabra 'sede' de posición en una URL. Aunque se justifica por 'homogeneización', no se desglosan los costes informáticos derivados de esta transición ni el impacto en el posicionamiento de motores de búsqueda para un organismo tan crítico como el de protección del informante. Es un ejemplo de micromanagement legislativo.",
+    "resumen_ciudadano": "La Autoridad Independiente de Protección del Informante (AIPI) ha modificado su dirección web oficial. La nueva sede electrónica será https://proteccioninformante.sede.gob.es, sustituyendo a la anterior. Se mantiene el acceso antiguo de forma temporal para evitar que las personas que deseen denunciar irregularidades se pierdan en el proceso.",
+    "resumen_tweet": "📢 ¿Burocracia o eficiencia? La Autoridad de Protección del Informante cambia su URL en el #BOE: de 'sede.proteccioninformante' a 'proteccioninformante.sede'. Una resolución entera para mover una palabra. 🖱️📄 #Transparencia #Opacidad #España",
+    "banderas_red_flags": [
+      "Uso del BOE para cambios técnicos menores",
+      "Falta de memoria económica sobre el cambio de infraestructura digital",
+      "Posible confusión temporal para informantes que busquen el canal de denuncias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de mantenimiento IT (contratos de actualización)",
+        "Gestores administrativos (justificación de actividad)"
+      ],
+      "perdedores": [
+        "Ciudadanía (pago de tasas de publicación por cambios triviales)",
+        "Informantes (riesgo de enlaces rotos en guías externas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa",
+    "banderas_rojas": [
+      "Uso del BOE para cambios técnicos menores",
+      "Falta de memoria económica sobre el cambio de infraestructura digital",
+      "Posible confusión temporal para informantes que busquen el canal de denuncias"
+    ]
+  },
+  "tweeted": false
+}
