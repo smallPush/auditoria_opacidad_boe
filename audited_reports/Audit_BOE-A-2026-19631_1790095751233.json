@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19631",
+  "timestamp": "2026-09-22T16:49:11.233Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 15 de septiembre de 2026, por el que se establece el carácter oficial de determinados títulos de Doctor o Doctora y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque la resolución cumple con la formalidad de publicar los títulos oficiales, mantiene una opacidad técnica sobre los criterios de verificación del Consejo de Universidades. Se observa una creciente legitimación de programas en universidades privadas y de la Iglesia Católica (IE, Comillas, UNIE), lo que sugiere un desplazamiento del prestigio académico hacia el sector privado. Además, los programas internacionales conjuntos con entidades de Italia y Portugal plantean dudas sobre la homogeneidad de los estándares de calidad exigidos respecto a la universidad pública nacional.",
+    "resumen_ciudadano": "El Gobierno ha validado oficialmente nuevos programas de doctorado en diversas universidades españolas (públicas y privadas) y extranjeras. Estos títulos ahora tienen plena validez legal, efectos académicos y habilitan para profesiones reguladas. Entre los nuevos doctorados destacan áreas como Enfermería, Ciencia Política, Bienestar Psicológico y sistemas complejos para la transición social.",
+    "resumen_tweet": "🎓 El #BOE oficializa nuevos doctorados. Se expande la oferta en universidades privadas y religiosas junto a las públicas. ¿Calidad académica o inflación de títulos? Analizamos la transparencia del sistema universitario. 🏛️📜 #Opacidad #Universidad #Ciencia",
+    "banderas_red_flags": [
+      "Externalización de la formación doctoral a universidades privadas",
+      "Validación de títulos conjuntos con entidades internacionales con procesos de auditoría inciertos",
+      "Falta de mención a la financiación pública o becas asociadas a estos nuevos programas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "IE Universidad",
+        "Universidad Internacional de la Empresa (UNIE)",
+        "Universidad Pontificia Comillas",
+        "Gestores de universidades privadas por la captación de tasas de doctorado"
+      ],
+      "perdedores": [
+        "Universidad Pública (por mayor competencia y dispersión de fondos)",
+        "Candidatos a doctorado sin recursos para acceder a los nuevos programas privados oficializados"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Educación Superior",
+    "banderas_rojas": [
+      "Externalización de la formación doctoral a universidades privadas",
+      "Validación de títulos conjuntos con entidades internacionales con procesos de auditoría inciertos",
+      "Falta de mención a la financiación pública o becas asociadas a estos nuevos programas"
+    ]
+  },
+  "tweeted": false
+}
