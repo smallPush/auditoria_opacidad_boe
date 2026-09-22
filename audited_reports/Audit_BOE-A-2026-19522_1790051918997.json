@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19522",
+  "timestamp": "2026-09-22T04:38:38.997Z",
+  "title": "Recurso de inconstitucionalidad n.º 5465-2026, en relación con la Ley 1/2026, de 15 de abril, por la que se habilita a la Comunidad de Madrid para el ejercicio de la acción popular en determinados ámbitos.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una providencia del Tribunal Constitucional que admite a trámite el recurso del Gobierno Central contra una ley madrileña. La ley impugnada habilitaba a la Comunidad de Madrid para ejercer la 'acción popular' en ámbitos no detallados (determinados ámbitos), lo que sugiere una posible instrumentalización política de la justicia con recursos públicos. El uso del artículo 161.2 de la Constitución para suspender la ley de forma inmediata revela una guerra de competencias y una desconfianza profunda entre administraciones sobre quién tiene el poder de personarse en procesos judiciales.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha paralizado temporalmente una ley de la Comunidad de Madrid que permitía al gobierno regional actuar como acusación en ciertos juicios. El Gobierno de España ha bloqueado esta norma al considerarla posiblemente inconstitucional, lo que significa que Madrid no podrá usar sus servicios jurídicos para este fin hasta que haya una sentencia definitiva.",
+    "resumen_tweet": "⚖️ ¡Frenazo en el #BOE! El TC suspende la ley que permitía a Madrid personarse como acusación popular. ¿Uso político de la justicia con fondos públicos? El Gobierno bloquea la norma. 🛡️🚫 #Opacidad #Transparencia #Madrid #Justicia",
+    "banderas_red_flags": [
+      "Ambigüedad en el término 'determinados ámbitos'",
+      "Conflicto competencial Estado-Autonomía",
+      "Suspensión automática de la vigencia normativa",
+      "Posible uso de fondos públicos para fines de parte en litigios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno Central (logra la suspensión cautelar)",
+        "Ministerio Fiscal (mantiene el monopolio de la acción pública sin interferencias autonómicas)"
+      ],
+      "perdedores": [
+        "Gobierno de la Comunidad de Madrid (pierde capacidad de intervención judicial)",
+        "Ciudadanía (ante la inseguridad jurídica de una ley suspendida a los pocos meses de nacer)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recurso de Inconstitucionalidad / Suspensión Normativa",
+    "banderas_rojas": [
+      "Ambigüedad en el término 'determinados ámbitos'",
+      "Conflicto competencial Estado-Autonomía",
+      "Suspensión automática de la vigencia normativa",
+      "Posible uso de fondos públicos para fines de parte en litigios"
+    ]
+  },
+  "tweeted": false
+}
