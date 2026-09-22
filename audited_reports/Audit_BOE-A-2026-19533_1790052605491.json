@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19533",
+  "timestamp": "2026-09-22T04:50:05.491Z",
+  "title": "Resolución de 14 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se trata de una adjudicación por el sistema de 'Libre Designación', eufemismo legal para la designación discrecional o 'a dedo'. Llama la atención que un puesto de Coordinador de Área en el Ministerio de Sanidad (Nivel 29, el segundo más alto en la escala funcionarial) sea asignado a un miembro del Cuerpo de Ingenieros de Caminos, Canales y Puertos. Aunque legalmente posible, la desconexión entre la formación técnica y el ámbito sanitario sugiere una prioridad basada en la confianza política o personal sobre la especialización técnica en salud pública.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha cubierto un puesto de alta dirección mediante libre elección en lugar de un concurso de méritos abierto. El adjudicatario es un Ingeniero de Caminos que ocupará un puesto de Nivel 29, percibiendo uno de los complementos salariales más altos de la administración estatal.",
+    "resumen_tweet": "🚩 ¿Dedocracia en Sanidad? Adjudicado un puesto de Nivel 29 por 'Libre Designación' a un Ingeniero de Caminos. Menos mérito público y más confianza política en los altos cargos del Estado. 🕵️‍♂️📉 #BOE #Opacidad #Transparencia #Sanidad",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (sin concurso de méritos)",
+      "Incongruencia entre perfil técnico (Ingeniero) y departamento (Sanidad)",
+      "Nivel salarial 29 (máximo nivel de responsabilidad y sueldo)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Emilio de la Torre Sánchez",
+        "Élite funcionarial de libre designación"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con perfil sanitario",
+        "Ciudadanía (por falta de meritocracia en puestos clave)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos Discrecionales",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (sin concurso de méritos)",
+      "Incongruencia entre perfil técnico (Ingeniero) y departamento (Sanidad)",
+      "Nivel salarial 29 (máximo nivel de responsabilidad y sueldo)"
+    ]
+  },
+  "tweeted": false
+}
