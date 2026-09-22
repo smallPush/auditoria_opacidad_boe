@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19526",
+  "timestamp": "2026-09-22T04:44:11.595Z",
+  "title": "Orden DEF/980/2026, de 15 de septiembre, por la que se modifica el currículo de la enseñanza de formación de oficiales para la integración en la escala de oficiales del Cuerpo General del Ejército de Tierra, mediante la forma de ingreso con titulación, aprobado por Orden DEF/1663/2015, de 29 de julio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden DEF/980/2026 actúa como un parche curricular para integrar la especialidad de Aviación del Ejército de Tierra (AVIET) en la escala de oficiales con titulación previa. Aunque técnicamente detallada en créditos ECTS y materias (como IFR y Teoría Táctica), la norma adolece de una desconexión financiera total: no se menciona el impacto presupuestario de implementar estas nuevas horas de instrucción, simuladores o mantenimiento de aeronaves. Se observa una burocratización del ascenso: se valida la aptitud técnica de suboficiales pero se les somete a una carga lectiva adicional cuya eficiencia frente a la experiencia previa no se justifica en el texto.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha actualizado el plan de estudios para los oficiales del Ejército de Tierra que ya tienen una carrera universitaria y quieren especializarse como pilotos (Aviación). Se han añadido asignaturas específicas sobre vuelo instrumental, táctica de combate y derecho aeronáutico para que estos oficiales puedan integrarse plenamente en las unidades de helicópteros y otras aeronaves del ejército.",
+    "resumen_tweet": "🚁 Defensa actualiza el currículo para oficiales de Aviación del Ejército de Tierra. Mucha teoría de vuelo y créditos ECTS, pero ni rastro del coste de estas nuevas horas de instrucción y simulador. 💸 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada a la implementación de los nuevos módulos",
+      "Ambigüedad en el coste por hora de las 'Prácticas Externas'",
+      "Desfase temporal: la especialidad se creó hace años pero el currículo para titulados llega con retraso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Suboficiales de Aviación (AVIET) que buscan promoción interna",
+        "Empresas de formación externa (mencionadas en prácticas)",
+        "Academias Militares (refuerzan su carga docente)"
+      ],
+      "perdedores": [
+        "Contribuyente (desconoce el coste de la formación técnica especializada)",
+        "Aspirantes sin titulación previa (aumento de la brecha de especialización respecto a los titulados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación Militar y Defensa",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada a la implementación de los nuevos módulos",
+      "Ambigüedad en el coste por hora de las 'Prácticas Externas'",
+      "Desfase temporal: la especialidad se creó hace años pero el currículo para titulados llega con retraso"
+    ]
+  },
+  "tweeted": false
+}
