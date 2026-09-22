@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19645",
+  "timestamp": "2026-09-22T16:59:38.236Z",
+  "title": "Resolución de 11 de septiembre de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Javier Pérez Rodríguez.",
+  "report": {
+    "nivel_transparencia": 0.85,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionario de carrera. Aunque cumple con la normativa legal vigente (LOSU 2/2023), este tipo de publicaciones adolece de una falta de transparencia sobre el coste salarial específico y la memoria económica que sustenta la plaza. Destaca el área de conocimiento (Inteligencia Artificial), un sector estratégico donde la inversión pública suele ser opaca respecto a incentivos adicionales o acuerdos de transferencia tecnológica asociados a la plaza.",
+    "resumen_ciudadano": "Nombramiento oficial de Javier Pérez Rodríguez como Profesor Titular de Universidad en el área de Ciencia de la Computación e Inteligencia Artificial en la Universidad de Córdoba. Este es un cargo vitalicio dentro del cuerpo de funcionarios del Estado.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en el #BOE: La Univ. de Córdoba consolida una plaza de Profesor Titular en Inteligencia Artificial. Pese al cumplimiento legal, falta detalle sobre el coste público real de estas plazas permanentes. 💻⚖️ #Transparencia #UCO #IA",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de datos sobre el proceso selectivo y competidores en el extracto",
+      "Opacidad sobre complementos específicos por área estratégica (IA)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Pérez Rodríguez (estabilidad laboral vitalicia)",
+        "Universidad de Córdoba (fortalecimiento de área tecnológica)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (anonimato total)",
+        "Sector privado (fuga de talento especializado hacia el funcionariado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Personal Docente e Investigador (Nombramiento)",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de datos sobre el proceso selectivo y competidores en el extracto",
+      "Opacidad sobre complementos específicos por área estratégica (IA)"
+    ]
+  },
+  "tweeted": false
+}
