@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-19630",
+  "timestamp": "2026-09-23T04:30:39.014Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 15 de septiembre de 2026, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución valida una explosión de nuevos títulos oficiales, con un sesgo notable hacia la educación privada y confesional en áreas estratégicas como Medicina, Inteligencia Artificial y Negocios. Se observa una tendencia a la 'titulitis' digital, donde universidades privadas (como Hespérides o VIU) capitalizan la formación en tecnologías emergentes, mientras que la universidad pública parece fragmentarse en grados conjuntos para competir. La opacidad reside en el proceso de verificación previo, que no se detalla, dejando dudas sobre si la proliferación de títulos responde a una necesidad social real o a la rentabilidad del mercado educativo.",
+    "resumen_ciudadano": "El Gobierno ha oficializado una larga lista de nuevos grados universitarios en toda España. Esto incluye desde carreras tradicionales como Medicina e Historia hasta nuevas especialidades en IA, Videojuegos y Sostenibilidad. Los estudiantes ahora pueden matricularse en estos títulos con la garantía de que son oficiales y válidos en todo el país.",
+    "resumen_tweet": "🎓 El #BOE publica nuevos títulos de Grado. Gran avance en IA y Tecnología, pero la oferta privada y de la Iglesia domina los sectores más rentables. ¿Educación para todos o mercado de élites? 🤔📉 #Opacidad #Transparencia #Universidad #Educación",
+    "banderas_red_flags": [
+      "Predominio de centros privados en grados de alta demanda tecnológica",
+      "Posible saturación del mercado laboral con títulos de denominación similar",
+      "Barrera económica en el acceso a grados de Medicina en universidades privadas",
+      "Externalización encubierta de la formación en IA y Bioinformática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (especialmente Nebrija, CEU y VIU)",
+        "Sector tecnológico (nuevos perfiles en IA y Robótica)",
+        "Universidad de las Hespérides (consolidación de su modelo)",
+        "Instituciones eclesiásticas"
+      ],
+      "perdedores": [
+        "Sistema de educación pública (presión competitiva)",
+        "Estudiantes de rentas bajas (excluidos de grados de élite privados)",
+        "Humanidades tradicionales (desplazadas por títulos híbridos de gestión)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Títulos Universitarios",
+    "banderas_rojas": [
+      "Predominio de centros privados en grados de alta demanda tecnológica",
+      "Posible saturación del mercado laboral con títulos de denominación similar",
+      "Barrera económica en el acceso a grados de Medicina en universidades privadas",
+      "Externalización encubierta de la formación en IA y Bioinformática"
+    ]
+  },
+  "tweeted": false
+}
