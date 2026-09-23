@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19708",
+  "timestamp": "2026-09-23T16:52:23.054Z",
+  "title": "Resolución de 14 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Pedro Romero Aroca.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento detalla un nombramiento de cátedra mediante promoción interna bajo la nueva LOSU. La opacidad reside en la naturaleza de la 'plaza vinculada' (asistencial y docente), que fragmenta el gasto público entre el presupuesto de educación y el de salud, dificultando el rastreo del coste total por contribuyente. Existe una continuidad en el patrón de género: las cátedras de medicina siguen siendo un bastión predominantemente masculino, reflejando el 'techo de cristal' académico.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de un nuevo Catedrático de Oftalmología en la Universidad Rovira i Virgili. Este puesto combina la enseñanza universitaria con el trabajo especializado en el hospital. Aunque el proceso es legal, la publicación no informa sobre el salario ni los recursos públicos totales que consumirá esta plaza de alta jerarquía.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Nuevo catedrático en la Univ. Rovira i Virgili 🎓. Plaza vinculada a sanidad pública 🏥. ¿Transparencia salarial? Ausente. Analizamos el blindaje de la alta jerarquía médica y la brecha de género en la academia. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial total",
+      "Dualidad presupuestaria (Salud/Educación)",
+      "Sesgo de género en puestos de alta dirección académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pedro Romero Aroca",
+        "Cuerpo de Catedráticos de Universidad",
+        "Universitat Rovira i Virgili"
+      ],
+      "perdedores": [
+        "Candidatas mujeres (infrarepresentación en cátedras)",
+        "Contribuyentes (falta de desglose de costes)",
+        "Personal docente no fijo (barreras de acceso)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial total",
+      "Dualidad presupuestaria (Salud/Educación)",
+      "Sesgo de género en puestos de alta dirección académica"
+    ]
+  },
+  "tweeted": false
+}
