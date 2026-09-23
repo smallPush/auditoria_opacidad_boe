@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19628",
+  "timestamp": "2026-09-23T03:40:38.708Z",
+  "title": "Acuerdo administrativo para la aplicación del Convenio de Seguridad Social entre el Reino de España y la República de Filipinas, hecho en Madrid el 11 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es un manual de procedimiento técnico para un convenio firmado originalmente en 2002. La principal anomalía no es financiera, sino temporal: el 'letargo burocrático'. Han pasado 24 años desde la firma del convenio original hasta este acuerdo administrativo de aplicación. Aunque el lenguaje es claro en cuanto a responsabilidades (INSS, TGSS, SSS), la opacidad reside en la gestión de los tiempos de la administración pública, que posterga derechos ciudadanos durante décadas. Se observa un control estricto sobre el intercambio de datos personales y reembolsos de gastos médicos, lo que indica una prioridad en la protección del erario frente a la agilidad del servicio.",
+    "resumen_ciudadano": "Este acuerdo establece las reglas prácticas para que los trabajadores que hayan cotizado tanto en España como en Filipinas puedan cobrar sus pensiones de jubilación, incapacidad o prestaciones por maternidad y accidentes. Designa qué oficinas gestionan los papeles y cómo se comunicarán los dos países para sumar los años trabajados en ambos sitios. También regula cómo se pagarán los gastos de los reconocimientos médicos entre instituciones.",
+    "resumen_tweet": "🐢 24 años después del convenio original, llega el acuerdo para pensiones entre España y Filipinas 🇵🇭🇪🇸. Vital para trabajadores migrantes, pero ¿por qué décadas de espera burocrática? La justicia lenta no es justicia. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Anacronismo administrativo: convenio de 2002 aplicado en detalle en 2026",
+      "Cláusula de reembolso de gastos médicos (Art 13.3) sin baremos públicos",
+      "Complejidad en la determinación de la legislación aplicable para desplazados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores migrantes del sector privado y público",
+        "Trabajadores del Mar (Régimen Especial)",
+        "Instituciones de enlace (centralización de datos)"
+      ],
+      "perdedores": [
+        "Pensionistas que fallecieron esperando la ratificación operativa del convenio",
+        "Solicitantes de pensiones no contributivas (mayor dificultad de acreditación)",
+        "Contribuyentes (por los costes de gestión de una burocracia dilatada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional de Seguridad Social",
+    "banderas_rojas": [
+      "Anacronismo administrativo: convenio de 2002 aplicado en detalle en 2026",
+      "Cláusula de reembolso de gastos médicos (Art 13.3) sin baremos públicos",
+      "Complejidad en la determinación de la legislación aplicable para desplazados"
+    ]
+  },
+  "tweeted": false
+}
