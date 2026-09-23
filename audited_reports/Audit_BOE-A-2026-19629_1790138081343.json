@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19629",
+  "timestamp": "2026-09-23T04:34:41.343Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 15 de septiembre de 2026, por el que se establece el carácter oficial de determinados títulos de Máster y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución oficializa una amplia gama de másteres, destacando una fuerte inclinación hacia sectores tecnocráticos (IA, FinTech, Ciberseguridad) y la consolidación de la oferta en universidades privadas y de la Iglesia. Se observa la persistencia de 'procedimientos especiales' para las universidades católicas basados en acuerdos pre-constitucionales (1962 y 1979), lo que genera una asimetría regulatoria frente a las universidades civiles. Aunque el listado es público, existe opacidad respecto a la financiación pública indirecta que estas titulaciones oficiales podrían recibir a través de becas estatales en centros privados.",
+    "resumen_ciudadano": "El Gobierno valida oficialmente nuevos títulos de máster en diversas universidades españolas. Esto garantiza que estos estudios tengan validez legal, académica y profesional en todo el país. La lista incluye desde especialidades médicas y tecnológicas hasta programas de cine y derechos humanos en centros públicos, privados y religiosos.",
+    "resumen_tweet": "🎓 Nuevos másteres en el #BOE. Se mantiene el 'procedimiento especial' para la Iglesia Católica y crecen los títulos privados en IA y FinTech. ¿Educación como derecho o mercado de élites? 📉 #Opacidad #Transparencia #Universidades",
+    "banderas_red_flags": [
+      "Privilegios históricos: Procedimientos especiales para la Iglesia Católica basados en convenios de 1962.",
+      "Mercantilización: Alta concentración de nuevos títulos en universidades privadas con enfoque puramente comercial.",
+      "Barreras de clase: Predominio de másteres habilitantes en centros privados con matrículas de alto coste."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (IE, CEU, UAX) que ganan prestigio oficial",
+        "Universidades de la Iglesia",
+        "Perfiles tecnológicos de élite (IA/FinTech)"
+      ],
+      "perdedores": [
+        "Estudiantes de rentas bajas (barrera económica en centros privados)",
+        "Defensores del laicismo administrativo",
+        "Sistema público de becas (posible drenaje de fondos a privada)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Educación Superior",
+    "banderas_rojas": [
+      "Privilegios históricos: Procedimientos especiales para la Iglesia Católica basados en convenios de 1962.",
+      "Mercantilización: Alta concentración de nuevos títulos en universidades privadas con enfoque puramente comercial.",
+      "Barreras de clase: Predominio de másteres habilitantes en centros privados con matrículas de alto coste."
+    ]
+  },
+  "tweeted": false
+}
