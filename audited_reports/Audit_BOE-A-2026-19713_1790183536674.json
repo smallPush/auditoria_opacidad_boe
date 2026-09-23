@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19713",
+  "timestamp": "2026-09-23T17:12:16.674Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria se realiza bajo el sistema de 'libre designación', un mecanismo que, aunque legal, permite la elección discrecional de altos cargos (Nivel 29) basándose en criterios de confianza y no estrictamente en méritos objetivos evaluables. Se trata de un puesto de Subdirector Adjunto en la Agenda 2030, con un complemento específico de 24.549,84 euros anuales, donde la ausencia de criterios de selección detallados en el anexo (méritos y funciones en blanco) sugiere una plaza ya pre-asignada o de marcado carácter político dentro de la estructura funcionarial.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales convoca una plaza de alto nivel para la Agenda 2030. La selección se hará 'a dedo' (libre designación) entre funcionarios del grupo A1. El elegido cobrará un plus de 24.500 euros anuales por encima de su sueldo base. El proceso es opaco al no detallar qué méritos específicos se valorarán más allá de la confianza del superior.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza? El @DSocialesGob convoca un puesto de Nivel 29 para la Agenda 2030 por libre designación. 24.500€ de plus anual en una plaza 'a dedo' que esquiva el concurso público tradicional. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Agenda2030",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel jerárquico máximo (29)",
+      "Ausencia de descripción de méritos específicos en el anexo",
+      "Ausencia de descripción de funciones concretas en la tabla"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Grupo A1 con afinidad política",
+        "Estructuras de confianza del Ministerio"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Principio de mérito y capacidad",
+        "Contribuyentes que financian puestos de alta dirección sin baremos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nivel jerárquico máximo (29)",
+      "Ausencia de descripción de méritos específicos en el anexo",
+      "Ausencia de descripción de funciones concretas en la tabla"
+    ]
+  },
+  "tweeted": false
+}
