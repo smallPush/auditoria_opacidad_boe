@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19711",
+  "timestamp": "2026-09-23T16:56:01.406Z",
+  "title": "Resolución de 17 de septiembre de 2026, de la Dirección de la Agencia Estatal Boletín Oficial del Estado, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una convocatoria para un puesto de Subdirector Adjunto (Nivel 29) bajo el sistema de 'libre designación', un mecanismo que permite la selección discrecional por parte de la jerarquía política, bordeando los principios de mérito y capacidad competitiva. Aunque se detallan funciones técnicas, el complemento específico de 24.549,84€ anuales, sumado al control de la seguridad física y lógica de la Agencia, otorga a este puesto un poder operativo y económico significativo. La exigencia de una habilitación de 'Director de Seguridad' por el Ministerio del Interior para un puesto TIC sugiere una militarización o endurecimiento de los perfiles de control interno bajo la apariencia de gestión tecnológica.",
+    "resumen_ciudadano": "La Agencia Estatal del BOE busca un alto cargo para su departamento de informática y seguridad. El puesto es de 'libre designación', lo que significa que el director elige 'a dedo' entre los funcionarios que cumplan los requisitos. El elegido cobrará un complemento sustancial y gestionará desde la sede electrónica hasta la seguridad privada del organismo.",
+    "resumen_tweet": "🚨 ¡Dedocracia en el #BOE! Convocado puesto de Subdirector TIC (Nivel 29) por libre designación. Gestión de seguridad y datos críticos en manos de quien elija la dirección. ¿Mérito o confianza? 24.500€ de complemento extra. 💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Elevado complemento específico para funciones técnicas",
+      "Acumulación de poder: TIC + Seguridad Privada + Infraestructuras lógicas",
+      "Requisito muy específico de habilitación por el Ministerio del Interior"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo Superior de Sistemas (A1) con afinidad a la dirección",
+        "Empresas de seguridad privada (bajo supervisión del nuevo cargo)"
+      ],
+      "perdedores": [
+        "Funcionarios sin conexiones políticas que aspiran a la carrera basada en méritos",
+        "Contribuyentes (financiación de puestos de alta dirección con criterios de confianza personal)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Elevado complemento específico para funciones técnicas",
+      "Acumulación de poder: TIC + Seguridad Privada + Infraestructuras lógicas",
+      "Requisito muy específico de habilitación por el Ministerio del Interior"
+    ]
+  },
+  "tweeted": false
+}
