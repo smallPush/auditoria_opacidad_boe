@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19709",
+  "timestamp": "2026-09-23T17:04:05.118Z",
+  "title": "Resolución de 14 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion formaliza la consolidacion de cinco plazas de Catedratico de Universidad en la URV mediante el sistema de promocion interna. Aunque se citan las leyes LOSU y la normativa catalana, el documento es opaco respecto al incremento en la masa salarial y el impacto presupuestario a largo plazo de estos nombramientos vitalicios. La mencion a la promocion interna resalta una estructura academica cerrada que prioriza la estabilidad de su propia plantilla sobre la competencia abierta, una practica comun que dificulta el acceso de talento externo al sistema universitario.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili ha nombrado a cinco nuevos catedraticos tras un proceso de seleccion interno. Las areas afectadas incluyen Ingenieria, Comunicacion Audiovisual y Sociologia. Los nombrados pasan a ser funcionarios de carrera a tiempo completo, con un plazo de 20 dias para tomar posesion.",
+    "resumen_tweet": "🎓 Mas catedraticos en la URV via #BOE. 5 nombramientos de promocion interna que consolidan plazas vitalicias. ¿Coste real para el ciudadano? No se detalla. 🏛️ La universidad sigue blindando su estructura interna. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica sobre el incremento salarial",
+      "Sistema de promocion interna que limita la competencia externa",
+      "Dilatacion de 5 meses entre la convocatoria inicial y el nombramiento final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Calvente Calvo",
+        "Ramon Leyva Grasa",
+        "Yolanda Tortajada Gimenez",
+        "Angel Gabriel Belzunegui Eraso",
+        "Maria Inmaculada Pastor Gosalbez"
+      ],
+      "perdedores": [
+        "Aspirantes externos de fuera de la URV",
+        "Presupuesto publico (por falta de desglose de costes asociados)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente Universitario",
+    "banderas_rojas": [
+      "Ausencia de memoria economica sobre el incremento salarial",
+      "Sistema de promocion interna que limita la competencia externa",
+      "Dilatacion de 5 meses entre la convocatoria inicial y el nombramiento final"
+    ]
+  },
+  "tweeted": false
+}
