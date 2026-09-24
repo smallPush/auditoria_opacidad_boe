@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-19706",
+  "timestamp": "2026-09-24T04:39:31.423Z",
+  "title": "Resolución de 11 de septiembre de 2026, de la Universidad de Vigo, por la que se nombra Catedrático de Universidad a don Diego Moldes Moreira.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento mediante el sistema de 'promoción interna', un mecanismo legal bajo la Ley Orgánica 2/2023 (LOSU) que, si bien garantiza la carrera administrativa, a menudo es criticado por blindar la endogamia universitaria al dificultar el acceso de talento externo a las cátedras. La resolución es transparente en cuanto a la base legal, pero omite el impacto económico que supone el incremento salarial asociado al cambio de cuerpo docente para los presupuestos públicos de la Universidad de Vigo.",
+    "resumen_ciudadano": "La Universidad de Vigo ha formalizado el ascenso de Diego Moldes Moreira al rango de Catedrático de Universidad en el área de Ingeniería Química. El proceso se ha realizado siguiendo los trámites de promoción interna, lo que significa que el beneficiario ya formaba parte de la institución y ha superado un concurso específico para consolidar su posición en el escalafón más alto de la docencia pública.",
+    "resumen_tweet": "🎓 Nuevo Catedrático en la @uvigo: Diego Moldes Moreira asciende vía promoción interna en Ingeniería Química. ¿Es este sistema un premio al mérito o un muro contra el talento externo? 🏛️ El #BOE consolida carreras, pero la opacidad salarial sigue. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Promoción interna exclusiva para personal de la propia universidad",
+      "Ausencia de desglose del coste presupuestario del nuevo puesto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Diego Moldes Moreira (ascenso y mejora salarial)",
+        "Universidad de Vigo (consolidación de su plantilla fija)"
+      ],
+      "perdedores": [
+        "Investigadores externos (excluidos por la modalidad de promoción interna)",
+        "Contribuyente (desconoce el impacto fiscal a largo plazo de estos ascensos automáticos)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Promoción interna exclusiva para personal de la propia universidad",
+      "Ausencia de desglose del coste presupuestario del nuevo puesto"
+    ]
+  },
+  "tweeted": false
+}
