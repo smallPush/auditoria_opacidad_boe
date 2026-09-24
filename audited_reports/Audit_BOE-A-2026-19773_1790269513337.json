@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19773",
+  "timestamp": "2026-09-24T17:05:13.337Z",
+  "title": "Orden de 16 de septiembre de 2026, del Departamento de Justicia y Derechos Humanos, por la que se adjudica destino al personal funcionario del Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, que superó el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque el documento cumple con la formalidad de adjudicar plazas obtenidas por oposicion, el uso del termino 'proceso selectivo extraordinario' delata la correccion tardia de una anomalia estructural: la excesiva interinidad en la Administracion de Justicia. Se ampara en leyes de estabilizacion para regularizar puestos que debieron ser fijos hace años. La normativa impone una 'condena' de dos años de inmovilidad forzosa (punto sexto) y el cese fulminante de interinos (punto cuarto) sin mencionar compensaciones en este texto.",
+    "resumen_ciudadano": "La Consejeria de Justicia del Pais Vasco ha asignado plazas fijas a los nuevos funcionarios del Cuerpo de Gestion Procesal que superaron las oposiciones de estabilizacion. Los beneficiarios tienen 20 dias para tomar posesion. Como consecuencia directa, los trabajadores interinos que ocupaban estas plazas seran despedidos el mismo dia que lleguen los nuevos titulares.",
+    "resumen_tweet": "⚖️ El País Vasco adjudica plazas fijas en Justicia tras procesos de 'estabilización'. Un alivio para los aprobados, pero recordamos que esto llega tras años de abuso de interinidad. Los interinos actuales van a la calle 🚪💼 #BOE #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Cese automatico de personal interino sin mencion de reubicacion",
+      "Limitacion de movilidad geografica (2 años) para los nuevos funcionarios",
+      "Uso de procesos extraordinarios para corregir negligencias de planificacion previas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario de carrera (ej. Adrian Martinez Fernandez, Maria Jose Batuecas Garcia)",
+        "Administracion de Justicia (reduce tasa de interinidad obligada por la UE)"
+      ],
+      "perdedores": [
+        "Personal interino desplazado",
+        "Funcionarios con deseos de movilidad inmediata (bloqueados 2 años)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Cese automatico de personal interino sin mencion de reubicacion",
+      "Limitacion de movilidad geografica (2 años) para los nuevos funcionarios",
+      "Uso de procesos extraordinarios para corregir negligencias de planificacion previas"
+    ]
+  },
+  "tweeted": false
+}
