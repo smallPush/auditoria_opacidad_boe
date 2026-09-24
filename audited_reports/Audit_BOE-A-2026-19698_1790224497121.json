@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19698",
+  "timestamp": "2026-09-24T04:34:57.121Z",
+  "title": "Resolución de 1 de septiembre de 2026, del Consorcio de la Zona Especial Canaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 29 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del procedimiento de 'libre designación' para un cargo clave en el Consorcio de la Zona Especial Canaria (ZEC) es un mecanismo legal pero intrínsecamente opaco que prioriza la confianza política sobre el mérito competitivo. Llama poderosamente la atención que, tras el análisis de la documentación, 'únicamente' una candidata poseía el perfil requerido, lo que suele ser indicativo de convocatorias diseñadas 'ad hoc'. El lenguaje utilizado para justificar la idoneidad ('inteligencia contextual', 'serenidad', 'persuasión') es puramente subjetivo y literario, carente de métricas técnicas cuantificables, lo que dificulta cualquier fiscalización externa de la decisión.",
+    "resumen_ciudadano": "Se ha nombrado a la nueva Secretaria General del Consorcio de la Zona Especial Canaria mediante un proceso de elección directa (dedazo legal). A pesar de ser una convocatoria pública, los asesores determinaron que solo una persona en todo el proceso era apta, blindando así la elección de la candidata frente a posibles competidores.",
+    "resumen_tweet": "🕵️‍♂️ ¿Transparencia o dedazo en Canarias? El Consorcio de la ZEC elige Secretaria General por 'libre designación'. Curiosamente, solo una candidata resultó 'apta' entre todos los aspirantes. Adjetivos vagos para un puesto clave. 🇮🇨 #BOE #Opacidad #ZEC",
+    "banderas_red_flags": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Existencia de una única candidata apta según el informe",
+      "Uso de terminología subjetiva y emocional en la valoración técnica",
+      "Concentración de poder en un ente con beneficios fiscales especiales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María del Carmen Gonzálvez Casanova (adjudicataria del puesto)",
+        "Cúpula directiva del Consorcio de la ZEC (refuerza su red de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de la carrera administrativa por mérito)",
+        "Transparencia pública (procesos con resultados aparentemente predeterminados)",
+        "Otros aspirantes descartados por criterios de idoneidad no métricos"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Alto Cargo / Libre Designación",
+    "banderas_rojas": [
+      "Procedimiento de libre designación (discrecionalidad)",
+      "Existencia de una única candidata apta según el informe",
+      "Uso de terminología subjetiva y emocional en la valoración técnica",
+      "Concentración de poder en un ente con beneficios fiscales especiales"
+    ]
+  },
+  "tweeted": false
+}
