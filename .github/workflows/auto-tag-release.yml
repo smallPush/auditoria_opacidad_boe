@@ -16,30 +16,36 @@ permissions:
 jobs:
   auto-tag-release:
     runs-on: ubuntu-latest
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    if: |
+      (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success') &&
+      (github.event_name != 'workflow_run' || github.event.workflow_run.head_branch == 'main' || github.event.workflow_run.head_branch == 'master') &&
+      (github.event_name == 'workflow_run' || github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Check Branch 🛑
-        run: |
-          if [ "${{ github.event_name }}" == "workflow_run" ]; then
-            if [ "${{ github.event.workflow_run.head_branch }}" != "main" ] && [ "${{ github.event.workflow_run.head_branch }}" != "master" ]; then
-              echo "Workflow triggered from branch ${{ github.event.workflow_run.head_branch }}, which is not main/master. Skipping."
-              exit 0
-            fi
-          elif [ "${{ github.ref }}" != "refs/heads/main" ] && [ "${{ github.ref }}" != "refs/heads/master" ]; then
-            echo "Not on main branch. Skipping."
-            exit 0
-          fi
-
       - name: Calculate next tag 🏷️
         id: calc_tag
         run: |
-          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+          git fetch --tags origin
+
+          LATEST_TAG=$(git tag -l "v*.*.*" --sort=-v:refname | head -n 1)
+          if [ -z "$LATEST_TAG" ]; then
+            LATEST_TAG="v0.0.0"
+          fi
           echo "Latest tag: $LATEST_TAG"
+
+          if [ "$LATEST_TAG" != "v0.0.0" ]; then
+            COMMITS_SINCE=$(git rev-list "${LATEST_TAG}..HEAD" --count)
+            echo "Commits since $LATEST_TAG: $COMMITS_SINCE"
+            if [ "$COMMITS_SINCE" -eq 0 ]; then
+              echo "No new commits since $LATEST_TAG. Skipping release."
+              echo "skip_release=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
 
           if [[ $LATEST_TAG =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
             MAJOR="${BASH_REMATCH[1]}"
@@ -54,8 +60,10 @@ jobs:
 
           echo "Next tag: $NEXT_TAG"
           echo "next_tag=$NEXT_TAG" >> "$GITHUB_OUTPUT"
+          echo "skip_release=false" >> "$GITHUB_OUTPUT"
 
       - name: Create Tag and Release 🚀
+        if: steps.calc_tag.outputs.skip_release != 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
