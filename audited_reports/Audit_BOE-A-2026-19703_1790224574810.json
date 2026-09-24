@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19703",
+  "timestamp": "2026-09-24T04:36:14.810Z",
+  "title": "Resolución de 15 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 24 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento oficializa un nombramiento mediante el sistema de 'libre designación', un mecanismo que, aunque legal bajo la Ley 30/1984, representa una de las mayores sombras de la administración pública española. Este procedimiento permite la elección discrecional de personal, priorizando la confianza política o personal sobre los principios de mérito, capacidad y publicidad que deberían regir la función pública. El puesto afectado es una Secretaría de Director General (Nivel 17), un eslabón clave en la filtración de información y acceso a la alta dirección del Ministerio de Inclusión, Seguridad Social y Migraciones.",
+    "resumen_ciudadano": "Se ha cubierto un puesto de secretaría para la Dirección General de Ciudadanía Española en el Exterior a través de una adjudicación a dedo (libre designación). No ha habido un concurso abierto basado únicamente en méritos técnicos, sino una elección directa por parte de la Subsecretaría para un puesto en la Unidad de Apoyo.",
+    "resumen_tweet": "🚩 Nueva 'libre designación' en el Ministerio de Inclusión. Se adjudica un puesto de confianza (Nivel 17) mediante el sistema de elección discrecional. Menos competencia, más cercanía política. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Discrecionalidad en la adjudicación",
+      "Puesto de confianza estratégica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laura Lucia López Ruiz",
+        "Cargos de confianza política"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Resolución de nombramiento de personal",
+    "banderas_rojas": [
+      "Libre designación",
+      "Discrecionalidad en la adjudicación",
+      "Puesto de confianza estratégica"
+    ]
+  },
+  "tweeted": false
+}
