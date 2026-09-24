@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19765",
+  "timestamp": "2026-09-24T17:03:18.178Z",
+  "title": "Orden EFD/991/2026, de 16 de septiembre, por la que, a propuesta de la Consejería de Educación, Cultura y Universidades de la Comunitat Valenciana, se nombra funcionaria de carrera del Cuerpo de Catedráticos de Música y Artes Escénicas a doña Alicia María Giner Sanz.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento revela una corrección judicial (Sentencia 284/2026 del TSJ de la Comunidad Valenciana) en un proceso de estabilización docente. La administración cometió un error original en la baremación de méritos que ha tardado casi tres años en subsanarse (efectos desde septiembre de 2023). Este tipo de fallos administrativos generan un 'gasto fantasma' derivado de las costas judiciales y la gestión burocrática redundante. Se observa una incongruencia entre la agilidad prometida en la estabilización del empleo público y la realidad de los tribunales corrigiendo listas de admitidos años después.",
+    "resumen_ciudadano": "Nombramiento de una Catedrática de Música en la Comunidad Valenciana tras una orden judicial que obligó a corregir las puntuaciones del concurso de méritos. El proceso se remonta a 2022 y tiene efectos retroactivos desde 2023.",
+    "resumen_tweet": "🎻 Nueva corrección judicial en el #BOE. Tras años de espera y una sentencia del TSJ, se nombra Catedrática de Música en la C. Valenciana. La justicia enmienda los errores de baremación de la administración. ⚖️ #Transparencia #Oposiciones #Opacidad",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial",
+      "Corrección de baremación de méritos",
+      "Efectos retroactivos económicos y administrativos",
+      "Demora de 3 años en la resolución definitiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alicia María Giner Sanz (recupera su plaza y derechos desde 2023)",
+        "Sistema judicial (actúa como garante frente a errores administrativos)"
+      ],
+      "perdedores": [
+        "Manuel Santapau Calvo (pierde puntuación y posición tras la sentencia)",
+        "Contribuyentes (costes de litigiosidad y administración ineficiente)",
+        "Administración Pública (evidencia falta de rigor en la baremación inicial)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramiento de funcionario de carrera por estabilización",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial",
+      "Corrección de baremación de méritos",
+      "Efectos retroactivos económicos y administrativos",
+      "Demora de 3 años en la resolución definitiva"
+    ]
+  },
+  "tweeted": false
+}
