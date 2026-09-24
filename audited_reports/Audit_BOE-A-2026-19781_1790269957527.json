@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-19781",
+  "timestamp": "2026-09-24T17:12:37.527Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra personal funcionario de carrera, por el sistema de promoción interna, en la Escala Administrativa.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un proceso de promocion interna en la UNED para la Escala Administrativa. Aunque el proceso es transparente al listar nombres y DNI parciales, destaca el uso del Real Decreto-ley 6/2023 vinculado al Plan de Recuperacion, Transformacion y Resiliencia para justificar los plazos de toma de posesion, lo que sugiere una instrumentalizacion de fondos europeos para procesos administrativos de rutina. La brecha temporal entre la convocatoria (junio 2025) y el nombramiento (septiembre 2026) indica una lentitud burocratica persistente en la administracion universitaria.",
+    "resumen_ciudadano": "La UNED ha nombrado oficialmente a 15 nuevos funcionarios de carrera por promocion interna. Estos trabajadores ya formaban parte de la institucion y ascienden ahora a la Escala Administrativa tras superar las pruebas selectivas iniciadas en 2025.",
+    "resumen_tweet": "📝 15 ascensos en la #UNED: se formaliza el nombramiento de personal administrativo por promocion interna. Un proceso que ha tardado mas de un año en resolverse. ¿Eficiencia o lentitud burocratica? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilatacion temporal (15 meses para resolver)",
+      "Vinculacion con el Plan de Recuperacion (PRTR) para tramites ordinarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "15 empleados publicos (mayoria mujeres)",
+        "Sindicatos de la UNED (consolidacion de carrera)"
+      ],
+      "perdedores": [
+        "Candidatos externos (proceso cerrado solo a internos)",
+        "Agilidad administrativa (proceso lento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilatacion temporal (15 meses para resolver)",
+      "Vinculacion con el Plan de Recuperacion (PRTR) para tramites ordinarios"
+    ]
+  },
+  "tweeted": false
+}
