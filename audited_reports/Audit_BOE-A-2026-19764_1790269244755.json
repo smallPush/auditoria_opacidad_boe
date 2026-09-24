@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19764",
+  "timestamp": "2026-09-24T17:00:44.755Z",
+  "title": "Orden EFD/990/2026, de 16 de septiembre, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, en ejecución de sentencia, se anula el nombramiento como funcionaria de carrera del Cuerpo de Profesores de Enseñanza Secundaria de doña Rosalba Acosta Corporán.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela un fallo sistémico en los procesos de verificación de la administración de Castilla y León. Se nombró funcionaria de carrera a una persona que no cumplía con los requisitos de formación pedagógica básica. La opacidad reside en cómo un expediente puede superar todas las fases de baremación y prácticas sin detectar una carencia de título habilitante. La transparencia es reactiva (impuesta por sentencia judicial) y no proactiva. Este caso demuestra una negligencia en la custodia del acceso a la función pública, corregida únicamente por la persistencia legal de una tercera afectada.",
+    "resumen_ciudadano": "El Ministerio de Educación anula el nombramiento de una profesora de secundaria en Castilla y León debido a una sentencia judicial. La afectada no contaba con la formación pedagógica necesaria para el puesto. La plaza será ocupada por María Victoria Gómez Montes, quien interpuso el recurso legal tras ser injustamente excluida en favor de alguien que no cumplía los requisitos.",
+    "resumen_tweet": "⚖️ El #BOE anula el nombramiento de una funcionaria por no tener la formación obligatoria. Un fallo administrativo en CyL que ha necesitado años de juicio para corregirse. ¿Quién supervisa los requisitos? 🧐 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Error en la verificación de requisitos obligatorios",
+      "Negligencia administrativa en fase de baremación",
+      "Ejecución forzosa por sentencia judicial",
+      "Nombramiento indebido de funcionario de carrera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Victoria Gómez Montes (recupera su plaza legítima)",
+        "El sistema judicial (como corrector del error administrativo)"
+      ],
+      "perdedores": [
+        "Rosalba Acosta Corporán (pierde su estatus de funcionaria)",
+        "Consejería de Educación de Castilla y León (imagen de ineficacia)",
+        "Contribuyentes (costes del proceso judicial y administrativo)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Función Pública / Ejecución de Sentencia",
+    "banderas_rojas": [
+      "Error en la verificación de requisitos obligatorios",
+      "Negligencia administrativa en fase de baremación",
+      "Ejecución forzosa por sentencia judicial",
+      "Nombramiento indebido de funcionario de carrera"
+    ]
+  },
+  "tweeted": false
+}
