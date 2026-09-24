@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-19710",
+  "timestamp": "2026-09-24T04:42:32.742Z",
+  "title": "Orden PJC/986/2026, de 10 de septiembre, por la que se publica la relación de plazas correspondientes al ámbito del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, que se ofrecen a las personas aprobadas en el proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Auxilio Judicial de la Administración de Justicia, convocada por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el documento cumple formalmente con la publicidad de plazas y adjudicatarios, revela una preocupante inercia burocrática: el proceso selectivo comenzó en 2022 y las plazas se asignan en 2026. Esta demora de 4 años para un cuerpo técnico de auxilio evidencia una justicia lenta desde su propia gestión de RRHH. Además, la tabla del Anexo I presenta celdas de 'ID Puesto' vacías para órganos sensibles como el Tribunal Supremo y la Fiscalía General, dificultando el rastreo técnico individualizado de dichas vacantes.",
+    "resumen_ciudadano": "El Ministerio de Justicia publica las plazas disponibles para los nuevos funcionarios del Cuerpo de Auxilio Judicial que aprobaron la oposición de 2022. Los aprobados tienen solo 5 días para elegir destino, principalmente en Madrid (Tribunal Supremo y Fiscalía). Si no eligen suficientes plazas, se les asignará un destino a la fuerza por orden alfabético.",
+    "resumen_tweet": "⚖️ ¡4 años para resolver una oposición! El #BOE publica las plazas de Auxilio Judicial de la convocatoria 2022. Lentitud extrema que lastra la eficiencia pública. Madrid centraliza los puestos en el Supremo y Fiscalía. #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (convocatoria 2022, resolución 2026)",
+      "Opacidad en identificadores técnicos: 'ID Puesto' inexistente en plazas del Tribunal Supremo",
+      "Mecanismo de adjudicación forzosa por criterio alfabético de localidad",
+      "Plazo de elección extremadamente corto (5 días) tras años de espera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores que finalmente obtienen plaza tras 4 años de incertidumbre",
+        "Órganos centrales en Madrid (Tribunal Supremo y Fiscalía) que cubren vacantes"
+      ],
+      "perdedores": [
+        "La ciudadanía, que sufre una administración de justicia con ritmos de contratación del siglo pasado",
+        "Candidatos con menor puntuación que se enfrentan a traslados forzosos por criterios arbitrarios (alfabético)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid (Órganos Centrales)",
+    "tipologia": "Empleo Público y Administración de Justicia",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (convocatoria 2022, resolución 2026)",
+      "Opacidad en identificadores técnicos: 'ID Puesto' inexistente en plazas del Tribunal Supremo",
+      "Mecanismo de adjudicación forzosa por criterio alfabético de localidad",
+      "Plazo de elección extremadamente corto (5 días) tras años de espera"
+    ]
+  },
+  "tweeted": false
+}
