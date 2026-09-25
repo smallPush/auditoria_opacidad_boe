@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19859",
+  "timestamp": "2026-09-25T17:14:40.587Z",
+  "title": "Resolución de 15 de septiembre de 2026, de la Universidad de Córdoba, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de personal docente tras concurso-oposición. Aunque el documento cumple con la legalidad vigente (LOSU 2/2023), incurre en la opacidad presupuestaria sistémica: no se desglosa el coste salarial anual ni la partida presupuestaria específica asignada a estas plazas. Existe una clara apuesta por áreas estratégicas como la Inteligencia Artificial y la Salud (Enfermería), lo que refleja prioridades de inversión en capital humano técnico sobre humanidades.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a dos nuevos Profesores Titulares en las áreas de Inteligencia Artificial y Enfermería tras superar sus respectivos concursos públicos.",
+    "resumen_tweet": "🎓 La Univ. de Córdoba incorpora titulares en IA y Enfermería. Procedimiento claro pero con la habitual #opacidad sobre el coste real para el contribuyente. ¿Inversión o gasto? El #BOE sigue sin detallar cifras. 🏛️⚖️ #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial individualizado",
+      "Falta de referencia a la puntuación obtenida en el concurso",
+      "Referencia genérica a la partida presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Guijo Rubio (IA)",
+        "Silvia Portero de la Cruz (Enfermería)",
+        "Universidad de Córdoba (refuerzo de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (sin datos de baremación pública)",
+        "Contribuyentes (por falta de transparencia en el impacto económico directo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Funcionarios de Carrera",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial individualizado",
+      "Falta de referencia a la puntuación obtenida en el concurso",
+      "Referencia genérica a la partida presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
