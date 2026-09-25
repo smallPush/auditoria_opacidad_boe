@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19851",
+  "timestamp": "2026-09-25T17:04:05.884Z",
+  "title": "Acuerdo de 15 de septiembre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe a la Magistrada doña Emma Benavides Costa a la Presidenta del Tribunal Superior de Justicia de Cataluña.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo utiliza el artículo 355 bis 2 de la LOPJ para gestionar una situación de interinidad técnica. Aunque el procedimiento es legal, la 'adscripción' funciona como un mecanismo de espera pagada que asegura un destino específico (Barcelona) antes de que la vacante exista realmente. Esto revela una gestión de RRHH judicial que prioriza la estabilidad de los altos cargos sobre la publicidad de plazas vacantes para el resto de la carrera judicial. La redacción es técnica y aséptica, ocultando la discrecionalidad administrativa tras la cita legal.",
+    "resumen_ciudadano": "Se ha acordado que la magistrada Emma Benavides Costa trabaje provisionalmente bajo la presidencia del Tribunal Superior de Justicia de Cataluña. Se le garantiza que, en cuanto quede libre una plaza de lo penal en Barcelona, será para ella. Esto sucede porque el anterior ocupante de una plaza ha regresado a su puesto original.",
+    "resumen_tweet": "⚖️ El CGPJ asegura una plaza futura en Barcelona a una magistrada mediante la figura de 'adscripción'. ¿Garantía de servicio o reserva de puestos a medida? La burocracia judicial sigue siendo un laberinto. 🧐 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Adjudicación anticipada de vacante no producida",
+      "Discrecionalidad en la adscripción territorial",
+      "Falta de detalle sobre funciones durante la interinidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Emma Benavides Costa (estabilidad y destino garantizado)",
+        "Estructura administrativa del CGPJ"
+      ],
+      "perdedores": [
+        "Magistrados con mayor antigüedad que aspiren a plazas en Barcelona por concurso",
+        "Contribuyentes (coste de la adscripción sin plaza fija)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Situaciones Administrativas",
+    "banderas_rojas": [
+      "Adjudicación anticipada de vacante no producida",
+      "Discrecionalidad en la adscripción territorial",
+      "Falta de detalle sobre funciones durante la interinidad"
+    ]
+  },
+  "tweeted": false
+}
