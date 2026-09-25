@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19845",
+  "timestamp": "2026-09-25T16:44:01.339Z",
+  "title": "Resolución de 23 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Estamos ante una 'norma escoba' clásica. El legislador utiliza la urgencia humanitaria y social de la reconstrucción de La Palma como un 'caballo de Troya' para introducir medidas financieras complejas sobre superávits autonómicos y excesos de financiación de años anteriores. Esta técnica dificulta la fiscalización ciudadana al mezclar ayuda ante catástrofes con ingeniería contable presupuestaria. La inclusión de materias tan diversas como el IRPF, el IMSERSO y el País Vasco en un decreto de urgencia para La Palma sugiere una negociación política de 'ajuste de cuentas' pendientes bajo el paraguas de la emergencia.",
+    "resumen_ciudadano": "El Congreso ha dado el visto bueno a un paquete de medidas que, aunque dice centrarse en ayudar a La Palma, en realidad sirve para autorizar a las Comunidades Autónomas a gastar dinero que les sobró de años pasados. Se mezclan ayudas por el volcán con cambios en los impuestos (IRPF) y créditos extraordinarios para servicios sociales e inversiones financieras que no tienen relación directa con la catástrofe.",
+    "resumen_tweet": "🚨 El BOE mezcla ayudas urgentes para #LaPalma con ajustes contables de superávits autonómicos. Usan la tragedia como 'norma escoba' para colar medidas financieras sin el debate parlamentario debido. 💸🧐 #BOE #Opacidad #Transparencia #Fiscalidad",
+    "banderas_red_flags": [
+      "Legislación ómnibus (mezcla temas inconexos)",
+      "Uso de emergencia climática para ajustes financieros",
+      "Opacidad en el destino de los excesos de financiación",
+      "Tramitación por Real Decreto-ley para evitar debate profundo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobiernos autonómicos con superávit (obtienen flexibilidad de gasto)",
+        "País Vasco (mencionado específicamente en materias)",
+        "Administración Central (agiliza trámites contables bloqueados)"
+      ],
+      "perdedores": [
+        "Afectados de La Palma (su ayuda se condiciona a la aprobación de un paquete macroeconómico)",
+        "Contribuyentes (falta de claridad en el destino de créditos extraordinarios)",
+        "Control Parlamentario (se valida un texto complejo en bloque)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias y País Vasco",
+    "tipologia": "Decreto-ley de Convalidación",
+    "banderas_rojas": [
+      "Legislación ómnibus (mezcla temas inconexos)",
+      "Uso de emergencia climática para ajustes financieros",
+      "Opacidad en el destino de los excesos de financiación",
+      "Tramitación por Real Decreto-ley para evitar debate profundo"
+    ]
+  },
+  "tweeted": false
+}
