@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19861",
+  "timestamp": "2026-09-25T17:09:07.399Z",
+  "title": "Resolución de 15 de septiembre de 2026, de la Universidad de Salamanca, por la que se nombra Profesor Titular de Universidad a don Rubén Delgado Álvarez.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Nombramiento estándar de funcionario de carrera bajo la Ley Orgánica 2/2023 (LOSU). Aunque el proceso es legalmente impecable en forma, el documento adolece de la opacidad típica universitaria: no se detallan los méritos del candidato ni la concurrencia del concurso. El código de plaza G022B/D12230 es opaco para el ciudadano, ocultando el coste real para el erario público y la estructura de gasto de la Universidad de Salamanca. Se perpetúa un sistema de cooptación técnica que, aunque legal, es difícil de auditar socialmente.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a don Rubén Delgado Álvarez como Profesor Titular en el área de Didáctica de las Ciencias Sociales. Este acto consolida su puesto como funcionario público tras un proceso selectivo interno iniciado en mayo de 2026.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Universidad de Salamanca: Rubén Delgado Álvarez ya es Profesor Titular de Ciencias Sociales. Trámite estándar bajo la #LOSU, pero ¿hay transparencia real en la meritocracia universitaria? 🤔🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la retribución económica asociada al código de plaza",
+      "Ausencia de información sobre el número de aspirantes en el concurso",
+      "Falta de desglose de la puntuación obtenida por el candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Rubén Delgado Álvarez (obtiene plaza vitalicia y estatus de funcionario)",
+        "Universidad de Salamanca (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (posible barrera por endogamia académica)",
+        "Contribuyente (falta de información sobre la eficiencia del gasto en profesorado)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Opacidad en la retribución económica asociada al código de plaza",
+      "Ausencia de información sobre el número de aspirantes en el concurso",
+      "Falta de desglose de la puntuación obtenida por el candidato"
+    ]
+  },
+  "tweeted": false
+}
