@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-19766",
+  "timestamp": "2026-09-25T04:47:53.385Z",
+  "title": "Orden EFD/992/2026, de 17 de septiembre, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, en ejecución de sentencia, se anula el nombramiento como funcionaria de carrera del Cuerpo de Profesores de Enseñanza Secundaria de doña María Guadalupe Carrasco Romero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja una corrección administrativa forzada por la justicia, evidenciando un fallo en la fase de baremación o admisión del proceso selectivo de 2020. Existe una notable opacidad sobre la causa raíz: el texto indica que la aspirante 'había decaído en el derecho a seguir participando', pero no especifica si fue un error de la administración o una falsedad documental. La dilatación temporal es crítica: se anula en 2026 un nombramiento de 2022 derivado de una convocatoria de 2020, lo que demuestra una ineficiencia sistémica que genera inseguridad jurídica.",
+    "resumen_ciudadano": "Tras una batalla judicial iniciada por otra candidata (Esther Ruiz Abad), el Ministerio de Educación se ha visto obligado a retirar la condición de funcionaria de carrera a una profesora de secundaria en Madrid. El Tribunal Superior de Justicia dictaminó que la persona nombrada no debía haber seguido en el proceso selectivo. Esto implica que la afectada pierde su plaza cuatro años después de empezar a trabajar debido a errores en la revisión de los requisitos originales por parte de la Comunidad de Madrid.",
+    "resumen_tweet": "⚠️ El #BOE anula el nombramiento de una funcionaria tras 4 años de servicio por errores en las oposiciones de 2020. La justicia llega tarde, evidenciando fallos en el control administrativo inicial. ⚖️📉 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Ejecución de sentencia por error administrativo previo",
+      "Dilatación temporal extrema (6 años desde la convocatoria)",
+      "Falta de detalle en el motivo de la exclusión",
+      "Inseguridad jurídica para los empleados públicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Esther Ruiz Abad (demandante)",
+        "Sistema Judicial (por corrección de actos nulos)"
+      ],
+      "perdedores": [
+        "María Guadalupe Carrasco Romero (pierde plaza y años de carrera)",
+        "Administración Pública (daño reputacional y costes procesales)",
+        "Alumnado (afectado por la rotación inesperada)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Ejecución de sentencia por error administrativo previo",
+      "Dilatación temporal extrema (6 años desde la convocatoria)",
+      "Falta de detalle en el motivo de la exclusión",
+      "Inseguridad jurídica para los empleados públicos"
+    ]
+  },
+  "tweeted": false
+}
