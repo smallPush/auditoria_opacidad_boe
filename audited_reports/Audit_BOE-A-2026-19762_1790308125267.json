@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19762",
+  "timestamp": "2026-09-25T03:48:45.267Z",
+  "title": "Orden HAC/988/2026, de 16 de septiembre, por la que se modifica la Orden EHA/3947/2006, de 21 de diciembre, por la que se aprueban los modelos, plazos, requisitos y condiciones para la presentación e ingreso de la declaración-liquidación y de la declaración resumen anual de operaciones del Impuesto Especial sobre el Carbón y se modifica la Orden de 15 de junio de 1995, en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden HAC/988/2026 introduce la 'autoliquidación rectificativa' para el Impuesto sobre el Carbón, eliminando el sistema dual previo. Aunque se vende bajo los principios de 'eficiencia' y 'proporcionalidad', la norma traslada la responsabilidad de la corrección de errores íntegramente al obligado tributario, simplificando la carga administrativa de la Agencia Tributaria. Llama la atención la dilación en su aplicación (enero de 2027), lo que sugiere una adaptación tecnológica pesada de los sistemas de Hacienda bajo una apariencia de mera 'mejora procedimental'. La opacidad reside en la complejidad de los nuevos Códigos de Actividad del Carbón (CAC), que blindan técnicamente la gestión tributaria frente al escrutinio ciudadano no especializado.",
+    "resumen_ciudadano": "Hacienda cambia las reglas para las empresas que pagan impuestos por el carbón. A partir de 2027, si una empresa comete un error al declarar, podrá corregirlo directamente con un nuevo formulario (Modelo 595) sin tener que esperar a que la administración le dé permiso. Esto acelera las devoluciones de dinero para las grandes energéticas pero mantiene un sistema de códigos (CAC) muy complejo que dificulta entender quién paga cuánto por contaminar.",
+    "resumen_tweet": "🏦 Hacienda facilita el trámite del Impuesto al Carbón para 2027. Las empresas podrán rectificar sus pifias sin esperar al visto bueno oficial. ¿Agilidad o menos control estatal? El carbón sigue teniendo alfombra roja burocrática. 💨 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Diferimiento de la vigencia hasta 2027 (posible falta de preparación técnica)",
+      "Transferencia de la carga de corrección al contribuyente",
+      "Alta complejidad técnica en los nuevos anexos de códigos CAC",
+      "Uso de terminología de 'colaboración social' para justificar digitalización forzosa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas energéticas (recuperan liquidez más rápido)",
+        "Gestores tributarios y consultoras",
+        "Agencia Tributaria (ahorro en tramitación administrativa)"
+      ],
+      "perdedores": [
+        "Pequeños operadores sin capacidad tecnológica",
+        "Transparencia medioambiental (el foco es recaudatorio, no climático)",
+        "Ciudadanía (costes indirectos de la gestión burocrática de combustibles fósiles)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Fiscalidad",
+    "banderas_rojas": [
+      "Diferimiento de la vigencia hasta 2027 (posible falta de preparación técnica)",
+      "Transferencia de la carga de corrección al contribuyente",
+      "Alta complejidad técnica en los nuevos anexos de códigos CAC",
+      "Uso de terminología de 'colaboración social' para justificar digitalización forzosa"
+    ]
+  },
+  "tweeted": false
+}
