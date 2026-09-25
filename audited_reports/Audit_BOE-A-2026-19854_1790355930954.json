@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19854",
+  "timestamp": "2026-09-25T17:05:30.954Z",
+  "title": "Orden INT/997/2026, de 17 de septiembre, por la que se nombra para el Mando de la 17.ª Zona de la Guardia Civil, Comunidad Autónoma de Illes Balears (Palma de Mallorca), al General de Brigada don Alejandro Hernández Mosquera.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por libre designación ('a dedo') amparado en el artículo 79 de la Ley 29/2014. El texto carece de cualquier mención a los méritos específicos, experiencia o capacidades técnicas del General nombrado que justifiquen su idoneidad frente a otros candidatos. La estructura legal permite esta opacidad, convirtiendo la cúpula de seguridad en un espacio de confianza política más que de excelencia técnica auditable.",
+    "resumen_ciudadano": "El Ministro del Interior nombra al General de Brigada Alejandro Hernández Mosquera como nuevo Jefe de la Guardia Civil en las Islas Baleares. El proceso es discrecional, lo que significa que el Gobierno elige directamente a la persona sin necesidad de un concurso público transparente basado únicamente en méritos.",
+    "resumen_tweet": "🚔 El Ministerio del Interior nombra a dedo al General Hernández Mosquera para mandar en Baleares. Sin detalles de méritos ni competencia abierta. La jerarquía militar sigue blindada al escrutinio público. #BOE #Opacidad #Transparencia 🚩",
+    "banderas_red_flags": [
+      "Libre designación sin motivación técnica",
+      "Falta de concurrencia competitiva",
+      "Discrecionalidad ministerial en mandos de seguridad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alejandro Hernández Mosquera (ascenso/mando)",
+        "Ministerio del Interior (control jerárquico)"
+      ],
+      "perdedores": [
+        "Sistema de mérito y capacidad",
+        "Transparencia institucional",
+        "Otros mandos de igual rango sin conexiones políticas"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramiento de Personal / Alto Mando",
+    "banderas_rojas": [
+      "Libre designación sin motivación técnica",
+      "Falta de concurrencia competitiva",
+      "Discrecionalidad ministerial en mandos de seguridad"
+    ]
+  },
+  "tweeted": false
+}
