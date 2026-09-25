@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-19864",
+  "timestamp": "2026-09-25T17:12:46.928Z",
+  "title": "Resolución de 21 de septiembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se corrigen errores en la de 11 de septiembre de 2026, por la que se nombra Profesor Titular de Universidad a don José David Núñez González.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una negligencia administrativa notable al confundir áreas de conocimiento radicalmente distintas: Farmacia y Tecnología Farmacéutica con Matemática Aplicada. Este tipo de 'errores' en el BOE sugieren una cadena de validación burocrática débil, donde el contenido sustantivo del nombramiento no es revisado con rigor antes de su publicación oficial. Aunque se corrige, la distancia académica entre ambas disciplinas pone en duda la precisión de los procesos internos de gestión de personal en la UPV/EHU.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha corregido oficialmente el nombramiento de un profesor titular. Por un error administrativo, se le asignó originalmente al área de Farmacia cuando su especialidad real es la Matemática Aplicada. El documento sirve para legalizar su situación en el departamento correcto.",
+    "resumen_tweet": "🔍 ¿Matemáticas o Farmacia? La UPV rectifica un error de bulto en el #BOE. Confundir algoritmos con fármacos denota falta de rigor en la gestión universitaria. 📉 ¡Ojo a los nombramientos! #Transparencia #Opacidad #PaísVasco #Educación",
+    "banderas_red_flags": [
+      "Discrepancia técnica extrema entre el error y la corrección",
+      "Fallo en la cadena de supervisión de nombramientos públicos",
+      "Vulnerabilidad en la integridad de los datos de funcionarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José David Núñez González (regulariza su plaza en el área correcta)"
+      ],
+      "perdedores": [
+        "Departamento de Recursos Humanos de la UPV/EHU (evidencia falta de rigor)",
+        "Imagen de eficiencia de la administración pública universitaria"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Corrección de errores en nombramientos",
+    "banderas_rojas": [
+      "Discrepancia técnica extrema entre el error y la corrección",
+      "Fallo en la cadena de supervisión de nombramientos públicos",
+      "Vulnerabilidad en la integridad de los datos de funcionarios"
+    ]
+  },
+  "tweeted": false
+}
