@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-19763",
+  "timestamp": "2026-09-25T04:43:31.045Z",
+  "title": "Orden PJC/989/2026, de 10 de septiembre, por la que se corrigen errores en la Orden PJC/796/2026, de 22 de julio, por la que se modifica la Orden PJC/93/2025, de 24 de enero, por la que se publica la relación de personas aprobadas en el proceso selectivo extraordinario para acceso, por el turno libre, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, por el sistema de concurso oposición; y en la Orden PJC/883/2026, de 31 de julio, por la que se nombra personal funcionario de carrera del Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, a las personas que superaron el proceso selectivo extraordinario para acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una corrección de errores técnica que subsana la exclusión indebida de una aspirante en el proceso selectivo extraordinario de Justicia. Aunque la transparencia formal es alta al publicarse en el BOE, el hecho de que se requieran tres órdenes distintas para consolidar un solo nombramiento revela fallos en la cadena de control de la gestión de recursos humanos del Ministerio. No se detectan gastos fantasma, pero sí una ineficiencia administrativa que obliga a reabrir procesos cerrados meses atrás.",
+    "resumen_ciudadano": "El Ministerio de Justicia corrige un error administrativo para incluir a María Teresa Santamaría Morate como funcionaria de carrera en el Cuerpo de Tramitación Procesal en el País Vasco, tras haber sido omitida en las listas originales de aprobados y nombramientos de julio de 2026.",
+    "resumen_tweet": "⚠️ Fallo en la burocracia de Justicia: se 'olvidan' de una aprobada en las listas oficiales. El #BOE publica hoy la corrección para nombrar a la funcionaria omitida en el País Vasco. ⚖️ ¿Eficiencia o parche administrativo? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Omisión de personal aprobado en listados definitivos",
+      "Corrección tardía de actos administrativos firmes",
+      "Reiteración de errores en anexos de diferentes órdenes (PJC/796 y PJC/883)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Teresa Santamaría Morate (recupera su derecho legítimo al nombramiento)"
+      ],
+      "perdedores": [
+        "Administración de Justicia (exhibe falta de rigor en la gestión de oposiciones)",
+        "Seguridad jurídica (por la modificación de listados que deberían ser definitivos)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Corrección de errores / Personal Funcionario",
+    "banderas_rojas": [
+      "Omisión de personal aprobado en listados definitivos",
+      "Corrección tardía de actos administrativos firmes",
+      "Reiteración de errores en anexos de diferentes órdenes (PJC/796 y PJC/883)"
+    ]
+  },
+  "tweeted": false
+}
