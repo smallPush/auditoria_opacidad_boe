@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19846",
+  "timestamp": "2026-09-26T04:45:59.794Z",
+  "title": "Real Decreto 737/2026, de 23 de septiembre, sobre reconocimiento como cotizados a la Seguridad Social de los periodos de actividad ejercidos como ministros de culto de las iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España con anterioridad a su integración en el Régimen General de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 737/2026 intenta subsanar una discriminación histórica detectada por el TEDH en 2012 y el Tribunal Supremo en 2017. Sin embargo, la solución técnica impone el pago de un 'capital coste' a cargo de los propios interesados para reconocer periodos de actividad previos a 1999 (o 1987). Esta carga financiera traslada la responsabilidad del retraso legislativo estatal al bolsillo del ministro de culto, creando una barrera económica para acceder a una jubilación digna. Existe opacidad en el cálculo de este capital coste, que depende de variables técnicas de la Seguridad Social no detalladas en el texto para el ciudadano de a pie.",
+    "resumen_ciudadano": "Se permite por fin que los pastores evangélicos computen sus años trabajados antes de 1999 para su jubilación, tras décadas de discriminación frente a la Iglesia Católica. La 'trampa' es que para que esos años cuenten, el interesado debe pagar a la Seguridad Social el coste de esa cotización antigua (capital coste), lo que puede ser inasumible para muchos.",
+    "resumen_tweet": "⚖️ Tras años de retraso y sentencias, se reconoce la cotización de ministros evangélicos. ¡Pero ojo! Deben pagar un 'capital coste' para jubilarse. ¿Reparación o negocio? 💸 #BOE #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Requisito de pago de capital coste para validar derechos",
+      "Retraso de 14 años en cumplir la sentencia del TEDH",
+      "Complejidad extrema en el cálculo de la base reguladora para el usuario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (recauda capitales coste de golpe)",
+        "FEREDE (estatus legal reforzado)"
+      ],
+      "perdedores": [
+        "Pastores con pocos ahorros (no pueden costear el reconocimiento)",
+        "Pensionistas evangélicos fallecidos durante la espera legislativa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Seguridad Social",
+    "banderas_rojas": [
+      "Requisito de pago de capital coste para validar derechos",
+      "Retraso de 14 años en cumplir la sentencia del TEDH",
+      "Complejidad extrema en el cálculo de la base reguladora para el usuario"
+    ]
+  },
+  "tweeted": false
+}
