@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19850",
+  "timestamp": "2026-09-26T04:47:45.589Z",
+  "title": "Acuerdo de 8 de septiembre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe al Magistrado don David Losada Durán a la Audiencia Provincial de La Rioja.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El acuerdo utiliza el mecanismo del artículo 355 bis 2 de la LOPJ para realizar una adscripción que, en la práctica, hipoteca la próxima vacante en la Audiencia Provincial de La Rioja. Al adjudicarle de forma automática la primera vacante que se produzca, se anula la posibilidad de un concurso abierto basado puramente en méritos actualizados para esa futura plaza. Es un ejemplo de la 'gestión de pasillos' legalizada que prioriza la reubicación interna sobre la transparencia en la ocupación de puestos de alta jerarquía judicial.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha colocado a un magistrado en la Audiencia Provincial de La Rioja con una garantía inusual: se le ha asignado por adelantado cualquier plaza fija que quede libre en el futuro en ese tribunal, cerrando la puerta a otros candidatos que pudieran optar a ella.",
+    "resumen_tweet": "⚖️ El CGPJ asegura plaza en La Rioja para un magistrado antes de que exista la vacante. Adjudicaciones automáticas que limitan la meritocracia y el acceso abierto a la carrera judicial. 🏛️🔍 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Adjudicación automática de vacante futura",
+      "Bloqueo de libre concurrencia en el sistema judicial",
+      "Ausencia de motivación técnica sobre la idoneidad del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado David Losada Durán (obtiene reserva de plaza fija)",
+        "Sistema de adscripciones discrecionales del CGPJ"
+      ],
+      "perdedores": [
+        "Otros magistrados que desearan competir por una vacante en La Rioja",
+        "Ciudadanía (por la reducción de competitividad en la selección judicial)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Nombramientos y Adscripciones Judiciales",
+    "banderas_rojas": [
+      "Adjudicación automática de vacante futura",
+      "Bloqueo de libre concurrencia en el sistema judicial",
+      "Ausencia de motivación técnica sobre la idoneidad del candidato"
+    ]
+  },
+  "tweeted": false
+}
