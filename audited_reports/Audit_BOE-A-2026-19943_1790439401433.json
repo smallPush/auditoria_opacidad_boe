@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19943",
+  "timestamp": "2026-09-26T16:16:41.433Z",
+  "title": "Orden ECM/1002/2026, de 9 de septiembre, por la que se modifica el anexo de la Orden PRE/3026/2003, de 30 de octubre, por la que se dictan normas de inspección y control para las Direcciones Regionales y Territoriales de Comercio.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden técnica actualiza los anexos de inspección comercial para alinearse con reglamentos europeos de 2023. Aunque se presenta como una simplificación, introduce una fragmentación del control en 5 partes (A-E), lo que aumenta la complejidad administrativa. Destaca la inclusión de productos que antes no tenían control de origen, como las alcaparras y diversos frutos secos. Sin embargo, el lenguaje basado exclusivamente en códigos de Nomenclatura Combinada (NC) actúa como una barrera de opacidad para el ciudadano no experto, dificultando saber qué se está gravando o inspeccionando realmente sin un manual aduanero.",
+    "resumen_ciudadano": "El Gobierno modifica la lista de alimentos que deben pasar inspecciones de calidad al entrar o salir de España. Ahora será obligatorio detallar el país de origen en productos como setas, frutos secos (almendras, pistachos, nueces), azafrán y frutas secas. También se ajustan los controles para los huevos de gallina y se clasifica formalmente al pimiento de Padrón dentro de los controles de pimientos dulces, a pesar de su potencial picante.",
+    "resumen_tweet": "🕵️‍♂️ Nueva auditoría del #BOE: Más controles de origen para frutos secos, setas y huevos. La burocracia se vuelve más técnica con 5 nuevos niveles de inspección. ¿Protección al consumidor o laberinto administrativo? #Transparencia #Alimentación #Comercio",
+    "banderas_red_flags": [
+      "Opacidad por uso excesivo de códigos técnicos de Nomenclatura Combinada",
+      "Ambigüedad en la reclasificación del pimiento de Padrón como pimiento dulce",
+      "Carga administrativa incremental para pequeños importadores de productos secos",
+      "Fragmentación normativa en cinco categorías de control diferenciadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes cadenas de distribución (mejor trazabilidad de origen)",
+        "Administración General del Estado (mayor control aduanero y de datos)",
+        "Sector del Plátano de Canarias (protección de su código específico)"
+      ],
+      "perdedores": [
+        "Pequeños importadores de frutos secos (nuevas obligaciones de etiquetado)",
+        "Consumidor final (posible traslado de costes de inspección al precio)",
+        "Transparencia pública (debido al lenguaje hiper-técnico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa de Comercio Exterior y Control de Calidad",
+    "banderas_rojas": [
+      "Opacidad por uso excesivo de códigos técnicos de Nomenclatura Combinada",
+      "Ambigüedad en la reclasificación del pimiento de Padrón como pimiento dulce",
+      "Carga administrativa incremental para pequeños importadores de productos secos",
+      "Fragmentación normativa en cinco categorías de control diferenciadas"
+    ]
+  },
+  "tweeted": false
+}
