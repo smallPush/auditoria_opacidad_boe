@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19958",
+  "timestamp": "2026-09-26T16:22:12.744Z",
+  "title": "Resolución de 4 de agosto de 2026, del Ayuntamiento de Villena (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion presenta una convocatoria para una plaza de tecnico en eficiencia energetica limitada exclusivamente a promocion interna, lo cual restringe la entrada de talento externo en una materia critica para la sostenibilidad. El plazo de presentacion de tan solo diez dias habiles es inusualmente breve, lo que reduce la capacidad de reaccion de los candidatos y suele ser indicativo de procesos diseñados para perfiles ya identificados dentro de la administracion. La combinacion de promocion interna y plazo corto genera una barrera de acceso significativa para la transparencia competitiva.",
+    "resumen_ciudadano": "El Ayuntamiento de Villena ha convocado una plaza de tecnico de mantenimiento y eficiencia energetica, pero solo podran optar a ella personas que ya trabajen en dicho ayuntamiento. Ademas, el tiempo para presentar los papeles es de solo diez dias, lo que dificulta mucho el proceso.",
+    "resumen_tweet": "🧐 ¿Eficiencia energetica o endogamia? El Ayto. de Villena convoca plaza tecnica pero SOLO para promocion interna y con solo 10 dias de plazo. Se cierra la puerta al talento externo en un area clave. 🚪🚫 #BOE #Opacidad #Transparencia #Villena",
+    "banderas_red_flags": [
+      "Acceso restringido por promocion interna",
+      "Plazo de solicitud extremadamente corto (10 dias)",
+      "Falta de detalle en los criterios de valoracion del concurso en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal funcionario actual del Ayuntamiento de Villena",
+        "Candidatos internos con informacion privilegiada"
+      ],
+      "perdedores": [
+        "Profesionales externos cualificados en eficiencia energetica",
+        "Jovenes titulados tecnicos",
+        "Transparencia en el empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Publico Local",
+    "banderas_rojas": [
+      "Acceso restringido por promocion interna",
+      "Plazo de solicitud extremadamente corto (10 dias)",
+      "Falta de detalle en los criterios de valoracion del concurso en el extracto"
+    ]
+  },
+  "tweeted": false
+}
