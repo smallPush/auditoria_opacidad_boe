@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-19961",
+  "timestamp": "2026-09-26T16:25:25.633Z",
+  "title": "Resolución de 21 de septiembre de 2026, del Ayuntamiento de Serón (Almería), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de una convocatoria estándar de empleo público para la Policía Local. La transparencia es aceptable pero mejorable: el BOE actúa meramente como un enlace publicitario, obligando al ciudadano a consultar el BOP de Almería para conocer las bases reales (requisitos, sueldo, temario). Esta fragmentación informativa es una forma sutil de opacidad administrativa que favorece a quienes ya están integrados en los canales de información local o tienen recursos para pagar academias de preparación.",
+    "resumen_ciudadano": "El Ayuntamiento de Serón (Almería) abre el proceso de selección para 2 plazas fijas de Policía Local mediante el sistema de oposición libre. El plazo para inscribirse es de 20 días hábiles a partir de hoy. Las condiciones detalladas no aparecen aquí, sino en el Boletín Provincial de Almería número 182 del 21 de septiembre de 2026.",
+    "resumen_tweet": "🚨 El Ayto. de Serón abre 2 plazas de Policía Local. Ojo a la fragmentación informativa: el #BOE solo anuncia, las bases están en el BOP de Almería. La estabilidad laboral no debe tener barreras de acceso. 👮‍♂️⚖️ #Transparencia #Almería #Opacidad",
+    "banderas_red_flags": [
+      "Fragmentación documental entre BOE y BOP",
+      "Ausencia de desglose presupuestario en la resolución",
+      "Posible barrera de acceso socioeconómica por sistema de oposición libre sin becas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con solvencia económica para academias y preparadores",
+        "Gobierno municipal de Serón por refuerzo de plantilla"
+      ],
+      "perdedores": [
+        "Candidatos de rentas bajas sin tiempo o recursos para estudio intensivo",
+        "Ciudadanos que buscan información centralizada sin tener que navegar por múltiples boletines"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Oferta de Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación documental entre BOE y BOP",
+      "Ausencia de desglose presupuestario en la resolución",
+      "Posible barrera de acceso socioeconómica por sistema de oposición libre sin becas"
+    ]
+  },
+  "tweeted": false
+}
