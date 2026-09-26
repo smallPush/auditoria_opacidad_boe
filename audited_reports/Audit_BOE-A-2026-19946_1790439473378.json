@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-19946",
+  "timestamp": "2026-09-26T16:17:53.378Z",
+  "title": "Resolución de 21 de septiembre de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 27 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un mecanismo que permite la discrecionalidad en la elección del personal. Aunque legalmente fundamentado en la Ley 30/1984, este sistema es la antítesis de la meritocracia pura, ya que no se basa en una puntuación objetiva sino en la confianza del órgano convocante. En un organismo como la CNMC, encargado de velar por la competencia, el uso de este sistema para puestos administrativos proyecta una sombra de politización en la estructura interna.",
+    "resumen_ciudadano": "La Comisión Nacional de los Mercados y la Competencia ha asignado un puesto de secretaría a una funcionaria proveniente del Ministerio del Interior. El proceso se ha realizado 'a dedo' (libre designación), lo que significa que la dirección elige directamente a la persona sin necesidad de justificar que sea la mejor capacitada entre otros aspirantes.",
+    "resumen_tweet": "🚨 Nuevo dedazo en la CNMC. Se adjudica un puesto de Secretaría por 'libre designación'. Menos mérito y más confianza política en el organismo que debería vigilar la competencia. ¿Transparencia o amiguismo? 🌫️ #BOE #Opacidad #Transparencia #CNMC",
+    "banderas_red_flags": [
+      "Sistema de libre designación sin baremación objetiva",
+      "Ausencia de justificación de idoneidad en el texto",
+      "Uso de un sistema discrecional en un ente regulador crítico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Lorena García Cuesta (adjudicataria)",
+        "Cargos directivos de la CNMC (capacidad de elegir personal afín)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Meritocracia administrativa",
+        "Transparencia en el sector público"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación sin baremación objetiva",
+      "Ausencia de justificación de idoneidad en el texto",
+      "Uso de un sistema discrecional en un ente regulador crítico"
+    ]
+  },
+  "tweeted": false
+}
