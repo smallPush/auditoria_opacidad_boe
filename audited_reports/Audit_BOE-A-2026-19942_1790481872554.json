@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-19942",
+  "timestamp": "2026-09-27T04:04:32.554Z",
+  "title": "Resolución de 25 de septiembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución se presenta como un acto meramente administrativo, pero encubre la simbiosis entre el Estado y el oligopolio tabaquero. El Comisionado actúa como un validador de los intereses comerciales de fabricantes e importadores, publicando precios 'propuestos' por estos últimos. No existe rastro de criterios de salud pública ni justificación del impacto fiscal en el texto, limitándose a ser un tablón de anuncios para el ajuste de márgenes de beneficio privado bajo el paraguas del Ministerio de Hacienda.",
+    "resumen_ciudadano": "Actualización oficial de los precios de venta de diversas marcas de tabaco (cigarros, picaduras de pipa, etc.) para la Península y Baleares. Los precios son establecidos por las marcas y validados por el Estado.",
+    "resumen_tweet": "📌 Nueva actualización de precios del tabaco en el #BOE. Hacienda publica las tarifas 'propuestas' por las multinacionales. El Estado sigue actuando como gestor de precios de un mercado cautivo. 🚬💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Fijación de precios por entes privados validados por el sector público",
+      "Ausencia de desglose impositivo por unidad",
+      "Nula referencia a políticas de desincentivación del consumo por salud",
+      "Diferenciación geográfica que excluye a Canarias, Ceuta y Melilla sin explicar el impacto fiscal comparativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantenimiento de recaudación por impuestos especiales)",
+        "Fabricantes de tabaco (capacidad de fijar precios de mercado)",
+        "Marcas de lujo (productos como Joya de Nicaragua a 25.65€/unidad)"
+      ],
+      "perdedores": [
+        "Consumidores (clase trabajadora con adicciones)",
+        "Sistema Público de Salud (el texto ignora el coste sanitario de estos productos)",
+        "Transparencia democrática (proceso de propuesta de precios opaco al ciudadano)"
+      ]
+    },
+    "comunidad_autonoma": "Península y Baleares",
+    "tipologia": "Regulación de Precios / Fiscalidad Indirecta",
+    "banderas_rojas": [
+      "Fijación de precios por entes privados validados por el sector público",
+      "Ausencia de desglose impositivo por unidad",
+      "Nula referencia a políticas de desincentivación del consumo por salud",
+      "Diferenciación geográfica que excluye a Canarias, Ceuta y Melilla sin explicar el impacto fiscal comparativo"
+    ]
+  },
+  "tweeted": false
+}
