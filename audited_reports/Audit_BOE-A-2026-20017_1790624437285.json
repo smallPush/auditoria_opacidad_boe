@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20017",
+  "timestamp": "2026-09-28T19:40:37.285Z",
+  "title": "Resolución de 22 de septiembre de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 4 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento formaliza un nombramiento de alto nivel (Nivel 29) bajo el sistema de 'libre designación'. Este mecanismo, aunque legal bajo la Ley 30/1984, es intrínsecamente opaco ya que no detalla los méritos específicos ni la comparativa con otros candidatos, basándose en la 'confianza' política. Se observa un trasvase de personal entre ministerios (Inclusión hacia Política Territorial) en puestos clave de inspección, lo que permite al Ejecutivo asegurar el control interno con perfiles afines.",
+    "resumen_ciudadano": "Se ha asignado un puesto de Coordinador de Inspección en el Ministerio de Política Territorial a Marc Cornado Cami. El proceso es de libre designación, lo que significa que el ministerio elige directamente al candidato. El puesto es de nivel 29, uno de los más altos y mejor remunerados de la Administración General del Estado.",
+    "resumen_tweet": "Nivel 29 adjudicado 'a dedo' en el Ministerio de Política Territorial. 📑 El sistema de libre designación sigue blindando los puestos altos de la administración a la discrecionalidad política. ¿Confianza o mérito? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nombramiento de alto rango (Nivel 29)",
+      "Resolución parcial (fragmentación de nombramientos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marc Cornado Cami (ascenso de nivel 28 a 29)",
+        "Ministerio de Política Territorial (colocación de perfil de confianza en inspección)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin vínculos de confianza política",
+        "Transparencia administrativa (por falta de justificación de méritos comparados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal de Alta Dirección",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Nombramiento de alto rango (Nivel 29)",
+      "Resolución parcial (fragmentación de nombramientos)"
+    ]
+  },
+  "tweeted": false
+}
