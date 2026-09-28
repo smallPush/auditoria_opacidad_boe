@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20006",
+  "timestamp": "2026-09-28T19:37:21.500Z",
+  "title": "Acuerdo de 28 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María del Carmen Conesa Sánchez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Aunque se presenta como un trámite administrativo estándar de jubilación forzosa por edad, el documento subraya la estructura de privilegios del Estado. La referencia al Real Decreto Legislativo 670/1987 de Clases Pasivas del Estado recuerda la existencia de un sistema de pensiones paralelo y más beneficioso que el régimen general de la Seguridad Social para la élite funcionarial. Además, la situación de 'servicios especiales' indica que la magistrada desempeñaba funciones fuera de la judicatura estricta pero manteniendo todos sus privilegios de carrera, una práctica común que facilita el tránsito entre la administración y la justicia.",
+    "resumen_ciudadano": "Se formaliza la jubilación obligatoria por cumplimiento de edad de la Magistrada María del Carmen Conesa Sánchez, quien ejercía en el Registro Civil de Barcelona. Este acto le otorga el derecho a percibir su pensión bajo el régimen especial de funcionarios de alto rango.",
+    "resumen_tweet": "⚖️ Jubilación en la cúpula judicial: Doña María del Carmen Conesa deja su puesto en Barcelona. Detrás del trámite, el sistema de #ClasesPasivas mantiene privilegios de pensión ajenos al ciudadano común. 📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso del régimen de Clases Pasivas (sistema de pensión preferente)",
+      "Diferencia de dos meses entre el acuerdo (julio) y su publicación (septiembre)",
+      "Opacidad sobre la cuantía de los derechos pasivos generados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Estado (por blindaje de pensiones)",
+        "Siguiente en el escalafón judicial (por vacante generada)"
+      ],
+      "perdedores": [
+        "Régimen General de la Seguridad Social (por desigualdad de trato)",
+        "Ciudadanía (por la brecha de clase en el sistema de jubilaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Uso del régimen de Clases Pasivas (sistema de pensión preferente)",
+      "Diferencia de dos meses entre el acuerdo (julio) y su publicación (septiembre)",
+      "Opacidad sobre la cuantía de los derechos pasivos generados"
+    ]
+  },
+  "tweeted": false
+}
