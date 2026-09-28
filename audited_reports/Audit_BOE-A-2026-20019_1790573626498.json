@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20019",
+  "timestamp": "2026-09-28T05:33:46.498Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución de 'libre designación', una figura legal que permite la elección discrecional de cargos dentro de la administración. Aunque se cita el cumplimiento de la normativa, la naturaleza de este sistema elude el escrutinio público sobre los méritos específicos frente a otros candidatos. La adjudicataria promociona de un nivel 24 a un nivel 27, un salto salarial y de responsabilidad significativo realizado sin un concurso de méritos abierto y comparable. La opacidad reside en la falta de motivación de por qué esta persona es la idónea frente a la base técnica de funcionarios.",
+    "resumen_ciudadano": "El Ministerio ha nombrado a la nueva Directora Provincial de MUFACE en Guadalajara mediante un proceso de elección directa (libre designación). La persona seleccionada proviene de la Jefatura de Tráfico y sube tres niveles en la escala administrativa. Este método de selección es criticado habitualmente por favorecer la confianza política sobre la capacidad técnica objetiva.",
+    "resumen_tweet": "🚩 Nueva 'libre designación' en el #BOE. La dirección de MUFACE Guadalajara se adjudica 'a dedo' (nivel 27). ¿Mérito o confianza política? La opacidad de estos nombramientos sigue blindada en la administración. 🕵️‍♂️ #Transparencia #Opacidad #España",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Salto jerárquico de nivel 24 a 27",
+      "Ausencia de justificación pública de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Noelia Pérez Mayoral (ascenso profesional y salarial)",
+        "Ministerio para la Transformación Digital (discrecionalidad en el cargo)"
+      ],
+      "perdedores": [
+        "Candidatos técnicos con mayores méritos no valorados públicamente",
+        "Ciudadanía (por falta de transparencia en la elección de gestores públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Salto jerárquico de nivel 24 a 27",
+      "Ausencia de justificación pública de méritos"
+    ]
+  },
+  "tweeted": false
+}
