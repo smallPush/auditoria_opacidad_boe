@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20014",
+  "timestamp": "2026-09-28T19:39:08.607Z",
+  "title": "Orden EFD/1005/2026, de 18 de septiembre, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se nombra funcionaria de carrera del Cuerpo de Maestros a doña Sonia Álvarez Rodríguez.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento revela la persistente judicialización de los procesos de estabilización docente en la Comunidad de Madrid. Lo que debería ser un proceso administrativo fluido de concurso de méritos (iniciado en 2022) terminó en el Tribunal Superior de Justicia de Madrid. La corrección del nombramiento mediante sentencia firme evidencia fallos en la baremación inicial o en la gestión de las listas de seleccionados, obligando a la ciudadana a litigar durante tres años para obtener su plaza. La retroactividad de efectos al 1 de septiembre de 2023 implica que la administración deberá abonar atrasos salariales, lo que supone un coste extra por mala gestión inicial.",
+    "resumen_ciudadano": "Se nombra formalmente a una funcionaria del Cuerpo de Maestros tras una sentencia judicial que corrigió su exclusión inicial del proceso de 2022. Se le reconoce la plaza con efectos desde 2023, lo que demuestra que el proceso de selección original fue defectuoso para esta candidata.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Una maestra logra su plaza 3 años después tras ganar en los tribunales a la Comunidad de Madrid. La lentitud y los errores administrativos obligan a judicializar el empleo público. #Transparencia #Educación #Opacidad 👩‍🏫✨",
+    "banderas_red_flags": [
+      "Judicialización de procesos selectivos",
+      "Ejecución de sentencia firme tras 3 años",
+      "Efectos económicos retroactivos",
+      "Opacidad en la baremación de méritos inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sonia Álvarez Rodríguez (recupera su derecho)",
+        "Servicios jurídicos"
+      ],
+      "perdedores": [
+        "Administración Pública (costes procesales y atrasos)",
+        "Contribuyentes (gestión ineficiente)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento por ejecución de sentencia",
+    "banderas_rojas": [
+      "Judicialización de procesos selectivos",
+      "Ejecución de sentencia firme tras 3 años",
+      "Efectos económicos retroactivos",
+      "Opacidad en la baremación de méritos inicial"
+    ]
+  },
+  "tweeted": false
+}
