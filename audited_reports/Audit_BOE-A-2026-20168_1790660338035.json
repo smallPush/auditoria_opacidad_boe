@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20168",
+  "timestamp": "2026-09-29T05:38:58.035Z",
+  "title": "Resolución de 22 de septiembre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una estructura técnica estándar pero mantiene la inercia de la burocracia tradicional. Aunque menciona el IV Plan para la Igualdad de Género, establece una paradoja en la conciliación: los puntos por cuidado de hijos o familiares solo se otorgan si el puesto solicitado es de nivel igual o inferior al actual, castigando de facto la promoción profesional de quienes tienen cargas de cuidados. Además, la movilidad externa (especialmente desde la AEAT) queda supeditada a autorizaciones discrecionales basadas en 'necesidades del servicio', un concepto jurídico indeterminado que suele usarse para bloquear la salida de talento.",
+    "resumen_ciudadano": "El Ministerio de Agricultura convoca un concurso para cubrir puestos de trabajo reservados a funcionarios de carrera. Se valorará la antigüedad, el grado consolidado y cursos específicos. El proceso es mayoritariamente telemático a través del portal Funciona, y exige una puntuación mínima en dos fases para obtener plaza. Se incluyen cláusulas para la conciliación familiar, aunque con limitaciones si se aspira a puestos de mayor rango.",
+    "resumen_tweet": "📢 El Ministerio de Agricultura lanza concurso de traslados 🚜. ¿Conciliación real o maquillaje? Solo puntúa si no asciendes de nivel 🛑. Además, la movilidad externa sigue bajo el control discrecional del jefe. #BOE #Opacidad #Transparencia ⚖️🧐",
+    "banderas_red_flags": [
+      "Limitación de puntos de conciliación a puestos de nivel igual o inferior",
+      "Poder discrecional de la AEAT para denegar movilidad",
+      "Obligatoriedad de certificado electrónico sin alternativas claras para todos los casos",
+      "Cómputo de antigüedad que favorece el inmovilismo frente a la capacitación específica",
+      "Opacidad sobre el listado de cursos valorables, alojado en una URL externa y no en el propio documento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad en el Ministerio",
+        "Candidatos con grado consolidado máximo",
+        "Funcionarios sin necesidad de movilidad interprovincial"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con poco tiempo de servicio",
+        "Personal de la AEAT (bloqueo potencial de movilidad)",
+        "Personas cuidadoras que busquen promoción a niveles superiores"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Limitación de puntos de conciliación a puestos de nivel igual o inferior",
+      "Poder discrecional de la AEAT para denegar movilidad",
+      "Obligatoriedad de certificado electrónico sin alternativas claras para todos los casos",
+      "Cómputo de antigüedad que favorece el inmovilismo frente a la capacitación específica",
+      "Opacidad sobre el listado de cursos valorables, alojado en una URL externa y no en el propio documento"
+    ]
+  },
+  "tweeted": false
+}
