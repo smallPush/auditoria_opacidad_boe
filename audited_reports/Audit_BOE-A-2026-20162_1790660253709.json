@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20162",
+  "timestamp": "2026-09-29T05:37:33.709Z",
+  "title": "Acuerdo de 16 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se convoca la provisión de plaza de Magistrado/a de la Sala Segunda del Tribunal Supremo, turno general.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo convoca una plaza de magistrado en la Sala Segunda del Tribunal Supremo (Penal), la más sensible políticamente. Aunque se reviste de formalidad técnica, el término clave es 'nombramiento discrecional'. El uso de conceptos abstractos como 'ponderación de conjunto' y 'aptitudes de excelencia' permite un margen de subjetividad alto. Llama la atención que una plaza de tal relevancia se despache con una comparecencia de apenas 10 minutos. La plaza es de 'nueva creación', lo que implica un aumento de la estructura del Tribunal Supremo bajo un Real Decreto previo, sugiriendo una expansión de la cúpula judicial sin una justificación de carga de trabajo explícita en este texto.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial busca un nuevo juez para la sala que juzga a políticos y casos penales graves. El proceso permite que el CGPJ elija con cierta libertad ('a dedo' regulado) entre jueces con más de 20 años de carrera. Se valorarán sus sentencias previas y libros publicados, pero la decisión final depende de una evaluación subjetiva de la comisión tras una brevísima entrevista por videoconferencia.",
+    "resumen_tweet": "⚖️ ¡Alerta #BOE! Se busca magistrado para la Sala Segunda del Supremo. Nombramiento 'discrecional' y una entrevista de solo 10 minutos para una plaza vitalicia en la cima del Poder Judicial. ¿Garantiza esto la máxima meritocracia? 🤔 #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (libre designación encubierta)",
+      "Comparecencia de solo 10 minutos para un cargo de máxima responsabilidad",
+      "Plaza de 'nueva creación' sin desglose de coste presupuestario",
+      "Criterios de ponderación basados en conceptos subjetivos como 'excelencia'",
+      "Uso de términos como 'especial consideración' que permiten arbitrariedad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados de larga trayectoria (mínimo 20 años)",
+        "El Pleno del CGPJ (mantiene el poder de elección discrecional)",
+        "Perfiles con alta producción editorial o académica"
+      ],
+      "perdedores": [
+        "Jueces jóvenes con alta capacidad pero menor antigüedad",
+        "Ciudadanía (por la opacidad en el peso real de cada mérito)",
+        "Transparencia absoluta (la discrecionalidad prima sobre el baremo numérico)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de alta magistratura",
+    "banderas_rojas": [
+      "Nombramiento discrecional (libre designación encubierta)",
+      "Comparecencia de solo 10 minutos para un cargo de máxima responsabilidad",
+      "Plaza de 'nueva creación' sin desglose de coste presupuestario",
+      "Criterios de ponderación basados en conceptos subjetivos como 'excelencia'",
+      "Uso de términos como 'especial consideración' que permiten arbitrariedad"
+    ]
+  },
+  "tweeted": false
+}
