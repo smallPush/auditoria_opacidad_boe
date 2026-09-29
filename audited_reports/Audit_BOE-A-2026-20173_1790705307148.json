@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20173",
+  "timestamp": "2026-09-29T18:08:27.148Z",
+  "title": "Resolución de 22 de septiembre de 2026, de la Diputación Provincial de Cáceres, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolucion de la Diputacion de Caceres utiliza el BOE meramente como un tramite publicitario obligatorio pero vacio de contenido esencial. Al remitir las bases completas al Boletin Oficial de la Provincia (BOP), se crea una barrera de acceso para el ciudadano de a pie. El plazo de 10 dias habiles es extremadamente reducido para puestos de alta responsabilidad (Jefaturas y Tesoreria), lo que suele favorecer a candidatos internos que ya conocen la convocatoria de antemano. La concentracion de poder en areas como Contratacion y Tesoreria mediante este sistema de 'concurso' sin desglosar criterios en el BOE es un indicador de opacidad administrativa.",
+    "resumen_ciudadano": "Se convocan cuatro puestos de jefatura y alta gestion en Caceres (Igualdad, Contratacion, Tesoreria). Sin embargo, no explican los requisitos ni como se puntuara a los candidatos en este documento, obligando a buscar en el boletin provincial. El plazo para apuntarse es de solo 10 dias, lo cual dificulta que alguien ajeno a la institucion pueda prepararse.",
+    "resumen_tweet": "🚨 ¿Transparencia o puertas giratorias internas en Cáceres? Convocan jefaturas clave en Tesorería y Contratación con solo 10 días para solicitar. Las bases reales están ocultas en el boletín provincial. 🧐💼 #BOE #Opacidad #Transparencia #Cáceres",
+    "banderas_red_flags": [
+      "Remision a bases externas (BOP)",
+      "Plazo de inscripcion muy corto (10 dias)",
+      "Puestos clave de control economico (Tesoreria/Contratacion)",
+      "Falta de criterios de valoracion en el texto nacional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con informacion privilegiada",
+        "Estructuras de mando de la Diputacion",
+        "Candidatos pre-seleccionados de facto"
+      ],
+      "perdedores": [
+        "Profesionales externos cualificados",
+        "Transparencia administrativa",
+        "Ciudadania que busca igualdad de oportunidades"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Empleo Publico Local",
+    "banderas_rojas": [
+      "Remision a bases externas (BOP)",
+      "Plazo de inscripcion muy corto (10 dias)",
+      "Puestos clave de control economico (Tesoreria/Contratacion)",
+      "Falta de criterios de valoracion en el texto nacional"
+    ]
+  },
+  "tweeted": false
+}
