@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20158",
+  "timestamp": "2026-09-29T18:02:09.517Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Dirección General de Justicia, de la Conselleria de Presidencia, Justicia y Deportes, por la que se resuelve el concurso específico, convocado por Resolución de 10 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución adjudica una Jefatura de Equipo en el SCG de Lugo mediante un 'concurso específico'. Aunque se basa en méritos, este sistema permite una mayor discrecionalidad que el concurso ordinario al valorar competencias singulares del puesto. El documento cumple formalmente pero carece de la tabla de puntuaciones detallada que justifique por qué la adjudicataria superó al resto de candidatos.",
+    "resumen_ciudadano": "La Dirección General de Justicia de Galicia ha nombrado a María Celia Lobeiras Sánchez como Jefa de Equipo de Actos de Comunicación en Lugo. Este es un trámite administrativo estándar para cubrir puestos de responsabilidad intermedia en la administración de justicia gallega.",
+    "resumen_tweet": "📢 El #BOE publica nueva jefatura de Auxilio Judicial en Lugo. Se resuelve el 'concurso específico' otorgando el puesto a una funcionaria. ¿Son estos procesos 100% objetivos o trajes a medida? 🧐⚖️ #Transparencia #Galicia #Justicia",
+    "banderas_red_flags": [
+      "Uso de concurso específico en lugar de ordinario",
+      "Ausencia de desglose de puntuaciones en la resolución",
+      "Potencial opacidad en la valoración de méritos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Lobeiras Sánchez, María Celia",
+        "Consellería de Presidencia (por cubrir la vacante)"
+      ],
+      "perdedores": [
+        "Resto de candidatos no seleccionados",
+        "Ciudadanía (por falta de detalle en los criterios de puntuación finales)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de concurso específico en lugar de ordinario",
+      "Ausencia de desglose de puntuaciones en la resolución",
+      "Potencial opacidad en la valoración de méritos específicos"
+    ]
+  },
+  "tweeted": false
+}
