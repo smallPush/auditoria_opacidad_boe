@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-20155",
+  "timestamp": "2026-09-29T17:47:10.665Z",
+  "title": "Corrección de errores del Acuerdo de 15 de septiembre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara en la situación administrativa de servicios especiales en la Carrera Judicial al Magistrado don Iñigo Herrero Elejalde.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "Aunque formalmente es una corrección de errores tipográficos en un apellido (de Errejalde a Elejalde), el fondo revela la transición de un magistrado a la situación de 'servicios especiales'. Este estatus permite a los jueces ocupar cargos políticos o en organismos internacionales manteniendo su plaza, lo que suele ser un indicador de la porosidad entre el poder judicial y el ejecutivo. El error inicial denota falta de rigor en la gestión de expedientes de alto nivel en el CGPJ.",
+    "resumen_ciudadano": "Se corrige formalmente el nombre del magistrado Iñigo Herrero Elejalde en el acuerdo que le permite dejar temporalmente sus funciones judiciales para ocupar otros cargos (servicios especiales). Es un trámite administrativo para evitar nulidades legales por un error ortográfico.",
+    "resumen_tweet": "🔍 El CGPJ rectifica el apellido del magistrado Iñigo Herrero en su paso a 'servicios especiales'. Un error técnico que oculta la normalización de jueces en cargos políticos. ¡La lupa en la justicia! ⚖️📉 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Fe de erratas en nombramientos de alto rango",
+      "Uso de la figura de servicios especiales",
+      "Falta de detalle sobre el destino del magistrado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Iñigo Herrero Elejalde (por la subsanación de su expediente personal)"
+      ],
+      "perdedores": [
+        "Administración de Justicia (por el descuido administrativo inicial)",
+        "Ciudadanía (por la opacidad sobre el cargo político/administrativo que motivó la excedencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administración de Justicia / Carrera Judicial",
+    "banderas_rojas": [
+      "Fe de erratas en nombramientos de alto rango",
+      "Uso de la figura de servicios especiales",
+      "Falta de detalle sobre el destino del magistrado"
+    ]
+  },
+  "tweeted": false
+}
