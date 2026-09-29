@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20167",
+  "timestamp": "2026-09-29T18:03:51.039Z",
+  "title": "Resolución de 24 de septiembre de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y por promoción interna horizontal, en el grupo profesional I2, sujetos al V Convenio Colectivo del personal laboral de la Agencia Estatal de Administración Tributaria.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La resolución presenta una opacidad estratégica bajo el concepto de 'distribución orientativa'. Al declarar que el reparto geográfico de las 197 plazas es meramente ilustrativo y modificable unilateralmente por la Agencia Tributaria, se genera una inseguridad jurídica para los opositores, quienes no pueden tener certeza sobre su futuro destino vital. Además, se observa un marcado centralismo administrativo: Madrid acapara el 31,4% de las plazas totales (62 de 197), mientras que provincias como Córdoba, Granada o La Rioja reciben una oferta testimonial de una sola plaza, profundizando la brecha territorial y el vaciamiento de servicios en la periferia.",
+    "resumen_ciudadano": "La Agencia Tributaria convoca 197 plazas de personal laboral. Aunque se publica una lista de provincias, la administración se reserva el derecho de cambiar los destinos según sus necesidades, lo que resta garantías a los aspirantes. El proceso requiere el pago de tasas de examen y la presentación telemática en 20 días hábiles.",
+    "resumen_tweet": "🏢 Hacienda convoca 197 plazas pero ¡atención! ⚠️ La ubicación es 'orientativa' y el BOE advierte que pueden cambiarla a su antojo. Centralismo extremo: Madrid se lleva 62 puestos mientras media España queda con 1. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Distribución geográfica no vinculante",
+      "Alta concentración de plazas en la capital (centralismo)",
+      "Cláusula de modificación discrecional de destinos post-examen",
+      "Falta de desglose presupuestario del coste total del proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Central (por flexibilidad operativa discrecional)",
+        "Candidatos residentes en Madrid (mayor ratio de éxito local)",
+        "Sistema de recaudación estatal"
+      ],
+      "perdedores": [
+        "Opositores de provincias con 1 sola plaza (incertidumbre total)",
+        "Zonas rurales y ciudades pequeñas (infrainversión de personal)",
+        "Conciliación familiar (por la movilidad forzosa implícita)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Empleo Público / Hacienda",
+    "banderas_rojas": [
+      "Distribución geográfica no vinculante",
+      "Alta concentración de plazas en la capital (centralismo)",
+      "Cláusula de modificación discrecional de destinos post-examen",
+      "Falta de desglose presupuestario del coste total del proceso"
+    ]
+  },
+  "tweeted": false
+}
