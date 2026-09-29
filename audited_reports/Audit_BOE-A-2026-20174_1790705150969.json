@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20174",
+  "timestamp": "2026-09-29T18:05:50.969Z",
+  "title": "Resolución de 18 de agosto de 2026, del Ayuntamiento de Móstoles (Madrid), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso-oposición' para el turno libre, una práctica legal pero ambivalente que a menudo actúa como un mecanismo de consolidación encubierta para personal interino, dificultando el acceso real a ciudadanos sin experiencia previa en la administración. La fragmentación informativa (remitir al BOCM para las bases) genera una barrera de entrada para el opositor de a pie, obligándole a un rastreo documental que debilita la transparencia directa del BOE.",
+    "resumen_ciudadano": "El Ayuntamiento de Móstoles busca cubrir 14 puestos de trabajo fijo en oficios como albañilería, carpintería y fontanería. El proceso de selección valorará tanto los exámenes como la experiencia anterior (méritos). El plazo para inscribirse es de 20 días naturales tras la publicación.",
+    "resumen_tweet": "🛠️ Móstoles convoca 14 plazas de oficial (albañilería, pintura, etc.). El uso de concurso-oposición en turno libre sugiere una posible vía de consolidación para interinos. ¿Oportunidad real o proceso a medida? 🧐 #BOE #Móstoles #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en turno libre (favorece experiencia previa sobre mérito puro)",
+      "Falta de publicación íntegra de las bases en el BOE",
+      "Alta concentración de plazas de personal laboral fijo frente a funcionarios de carrera"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino actual del ayuntamiento",
+        "Sindicatos que negocian la consolidación de empleo temporal"
+      ],
+      "perdedores": [
+        "Nuevos aspirantes sin puntos por experiencia previa",
+        "Mujeres (sectores de albañilería/fontanería con alta segregación de género histórica)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público / Recursos Humanos",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en turno libre (favorece experiencia previa sobre mérito puro)",
+      "Falta de publicación íntegra de las bases en el BOE",
+      "Alta concentración de plazas de personal laboral fijo frente a funcionarios de carrera"
+    ]
+  },
+  "tweeted": false
+}
