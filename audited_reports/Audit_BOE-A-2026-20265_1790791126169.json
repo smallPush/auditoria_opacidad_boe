@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20265",
+  "timestamp": "2026-09-30T17:58:46.169Z",
+  "title": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto-ley 25/2026 utiliza una narrativa de emergencia bélica para instaurar un modelo de 'déficit de tarifa' encubierto en el sector gasista. Aunque se vende como proteccionismo social al limitar las subidas de la TUR al 15-35%, el texto legal garantiza a las grandes comercializadoras la recuperación total de la diferencia más costes financieros a cargo del consumidor futuro, perpetuando una deuda ilegítima. Se detectan 'gastos fantasma' potenciales en la apertura del Fondo Nacional de Eficiencia Energética (FNEE) para financiar 'iniciativas' ministeriales genéricas, eliminando la trazabilidad directa del ahorro real. Finalmente, el uso de la vía de urgencia para trasponer directivas de blanqueo de capitales funciona como un 'caballo de Troya' legislativo ajeno a la crisis energética declarada.",
+    "resumen_ciudadano": "El Gobierno pone un tope al precio del gas y el butano este invierno, pero es una trampa financiera: la diferencia de precio se convertirá en una deuda que pagarás con intereses en tu factura desde 2027. Además, se habilita a los ministerios para usar fondos destinados a eficiencia energética en sus propios proyectos, reduciendo el control sobre ese dinero.",
+    "resumen_tweet": "📢 ¡Cuidado con el #BOE! El RDL 25/2026 vende 'protección' pero es un préstamo: el tope al gas lo pagaremos con intereses desde 2027. 💸 Además, abren el grifo de fondos energéticos para gastos ministeriales opacos. 🚩 #Opacidad #Transparencia #Deuda",
+    "banderas_red_flags": [
+      "Mecanismo de recuperación de costes con intereses financieros cargados al consumidor",
+      "Uso discrecional del Fondo de Eficiencia Energética por departamentos ministeriales",
+      "Traspuesta de directivas de blanqueo de capitales oculta en decreto energético",
+      "Metodología de cálculo de deuda futura sin techo presupuestario definido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes comercializadoras de gas (beneficio futuro garantizado)",
+        "Ministerios (acceso a fondos del FNEE sin auditoría externa previa)",
+        "Transportistas profesionales (mantenimiento de rebajas en hidrocarburos)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos (pagan la deuda del tope en 2027)",
+        "Futuras generaciones de contribuyentes",
+        "Hogares con calefacción de gas (asumen el coste financiero del aplazamiento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de Urgencia",
+    "banderas_rojas": [
+      "Mecanismo de recuperación de costes con intereses financieros cargados al consumidor",
+      "Uso discrecional del Fondo de Eficiencia Energética por departamentos ministeriales",
+      "Traspuesta de directivas de blanqueo de capitales oculta en decreto energético",
+      "Metodología de cálculo de deuda futura sin techo presupuestario definido"
+    ]
+  },
+  "tweeted": false
+}
