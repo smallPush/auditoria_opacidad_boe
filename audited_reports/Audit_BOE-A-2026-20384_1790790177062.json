@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20384",
+  "timestamp": "2026-09-30T17:42:57.062Z",
+  "title": "Real Decreto 795/2026, de 30 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "Este Real Decreto utiliza el marco de la Ley de Seguridad Nacional para centralizar recursos sin especificar partidas presupuestarias concretas, facilitando la opacidad en el gasto. La inclusión de una parcela del Centro Penitenciario de Ceuta como recurso para la gestión migratoria es una señal de alarma sobre la posible criminalización de la acogida humanitaria. Se observa una militarización del lenguaje ('capacidades de defensa', 'vigilancia', 'control') para gestionar un fenómeno social, lo que permite al Gobierno actuar con un control parlamentario reducido bajo el pretexto de la 'Seguridad Nacional'.",
+    "resumen_ciudadano": "El Gobierno ha modificado la lista de recursos públicos disponibles para gestionar la crisis migratoria en Ceuta. Se movilizan terrenos militares, del puerto y, de forma destacada, una parcela de la cárcel de Ceuta para alojar o gestionar a personas migrantes. Esta medida afecta a casi todos los ministerios, permitiéndoles usar sus medios de forma directa bajo un régimen excepcional de seguridad nacional.",
+    "resumen_tweet": "🚨 El Gobierno activa la Ley de Seguridad Nacional en Ceuta para usar terrenos de la PRISIÓN en la gestión migratoria. Opacidad presupuestaria y militarización de la acogida bajo una 'situación de interés'. 👮‍♂️🛑 #BOE #Opacidad #Transparencia #Ceuta",
+    "banderas_red_flags": [
+      "Uso de terrenos penitenciarios para fines de acogida migratoria",
+      "Ausencia total de desglose de costes económicos en el decreto",
+      "Ambigüedad en el término 'capacidades humanas y logísticas'",
+      "Invocación de la Ley de Seguridad Nacional para evitar trámites administrativos ordinarios",
+      "Falta de mecanismos de supervisión ciudadana en el uso de los recursos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior",
+        "Ministerio de Defensa",
+        "Contratistas de servicios de seguridad y logística"
+      ],
+      "perdedores": [
+        "Transparencia pública",
+        "Derechos de las personas migrantes (riesgo de internamiento)",
+        "Ciudadanía (desconocimiento del destino real de los fondos)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Seguridad Nacional / Gestión Migratoria",
+    "banderas_rojas": [
+      "Uso de terrenos penitenciarios para fines de acogida migratoria",
+      "Ausencia total de desglose de costes económicos en el decreto",
+      "Ambigüedad en el término 'capacidades humanas y logísticas'",
+      "Invocación de la Ley de Seguridad Nacional para evitar trámites administrativos ordinarios",
+      "Falta de mecanismos de supervisión ciudadana en el uso de los recursos"
+    ]
+  },
+  "tweeted": false
+}
