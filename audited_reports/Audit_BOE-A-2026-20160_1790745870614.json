@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20160",
+  "timestamp": "2026-09-30T05:24:30.614Z",
+  "title": "Acuerdo de 16 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se convoca la provisión de plaza de Magistrado/a de la Sala Cuarta del Tribunal Supremo, turno de especialistas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento articula formalmente la provisión de una vacante en la Sala Cuarta del Tribunal Supremo bajo el eufemismo de 'nombramiento discrecional'. Aunque se enumeran méritos y se exige una antigüedad mínima (20 años en la carrera), la estructura de la convocatoria permite una subjetividad extrema. La 'comparecencia' de apenas 10 minutos para un cargo vitalicio de tal magnitud es una barrera de transparencia puramente cosmética. El uso recurrente de términos como 'mejor o mayor consideración' sin baremos numéricos específicos abre la puerta a la discrecionalidad política del CGPJ, disfrazada de evaluación técnica.",
+    "resumen_ciudadano": "Se busca un nuevo juez para la Sala de lo Social del Tribunal Supremo debido a una jubilación. El proceso está diseñado para magistrados con más de 20 años de experiencia. A pesar de que se pide un currículum detallado y se realizará una entrevista pública por videoconferencia, la decisión final es 'discrecional', lo que significa que el Consejo General del Poder Judicial tiene libertad para elegir al candidato que prefiera sin seguir una puntuación rígida.",
+    "resumen_tweet": "⚖️ ¿Meritocracia o 'a dedo'? El #BOE convoca plaza vitalicia en el Tribunal Supremo. El proceso se admite como 'discrecional' y la entrevista clave solo dura 10 minutos. ¿Es esta la transparencia que merece nuestra justicia? 🤔 #Justicia #Opacidad #CGPJ",
+    "banderas_red_flags": [
+      "Nombramiento discrecional",
+      "Duración de comparecencia insuficiente (10 min)",
+      "Criterios de ponderación subjetivos ('mejor o mayor consideración')",
+      "Inexistencia de baremo numérico de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados con alta antigüedad (+20 años)",
+        "Especialistas con conexiones en el Gabinete Técnico del Supremo",
+        "Perfiles con experiencia en cargos gubernativos del Poder Judicial"
+      ],
+      "perdedores": [
+        "Magistrados jóvenes con excelencia técnica pero sin red de contactos",
+        "Ciudadanía (por el riesgo de politización de la cúpula judicial)",
+        "Principios de igualdad, mérito y capacidad puristas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento Discrecional de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Nombramiento discrecional",
+      "Duración de comparecencia insuficiente (10 min)",
+      "Criterios de ponderación subjetivos ('mejor o mayor consideración')",
+      "Inexistencia de baremo numérico de méritos"
+    ]
+  },
+  "tweeted": false
+}
