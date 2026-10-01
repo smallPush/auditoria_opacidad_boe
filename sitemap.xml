@@ -8755,6 +8755,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://radarboe.es/audit/BOE-A-2026-20385</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://radarboe.es/audit/BOE-A-2026-20386</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -8780,6 +8786,18 @@
   </url>
   <url>
     <loc>https://radarboe.es/audit/BOE-A-2026-20393</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://radarboe.es/audit/BOE-A-2026-20395</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://radarboe.es/audit/BOE-A-2026-20399</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
