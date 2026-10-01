@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20387",
+  "timestamp": "2026-10-01T05:32:25.509Z",
+  "title": "Real Decreto 763/2026, de 30 de septiembre, por el que se regula la concesión directa de una subvención a la Fundación Princesa de Asturias para la celebración de la convocatoria 2026 de los Premios Princesa de Asturias.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto utiliza la técnica de la 'concesión directa' para eludir la concurrencia competitiva, amparándose en la singularidad del beneficiario y el prestigio de los premios. Se detecta un uso recurrente de la prórroga presupuestaria como pretexto legal para transformar una subvención nominativa en una adjudicación excepcional. El texto permite financiar 'gastos de personal propio' (Art. 4.2.e), lo que diluye la trazabilidad del dinero público, pudiendo derivar en un sustento estructural de la fundación más que en una ayuda al evento. La justificación de 'interés público' es puramente retórica y centrada en la proyección exterior de la élite, obviando el impacto social real de destinar 300.000€ a una entidad ya fuertemente respaldada por el sector privado.",
+    "resumen_ciudadano": "El Gobierno ha adjudicado directamente 300.000 euros a la Fundación Princesa de Asturias para su ceremonia de 2026. Al no haber nuevos presupuestos, se ha usado un mecanismo de urgencia para evitar que otras entidades puedan optar a esos fondos. El dinero pagará desde los premios y la gala hasta los sueldos del personal de la propia fundación y sus campañas de publicidad.",
+    "resumen_tweet": "💰 300.000€ 'a dedo' para los Premios Princesa de Asturias. El Gobierno usa la prórroga presupuestaria para evitar el concurso público. Se pagarán hasta sueldos internos con dinero de todos. ¿Prioridad cultural o blindaje de élites? 👑📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de la prórroga presupuestaria para legitimar excepcionalidad",
+      "Financiación de gastos de personal propio de la entidad",
+      "Ambigüedad en 'gastos de promoción y publicidad nacional e internacional'",
+      "Justificación basada en conceptos subjetivos como 'prestigio'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación Princesa de Asturias",
+        "Empresas de producción y retransmisión audiovisual",
+        "Élite institucional y diplomática"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de optimización de recursos)",
+        "Otras fundaciones culturales sin acceso a financiación directa",
+        "Transparencia en la gestión de subvenciones públicas"
+      ]
+    },
+    "comunidad_autonoma": "Asturias / Estatal",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de la prórroga presupuestaria para legitimar excepcionalidad",
+      "Financiación de gastos de personal propio de la entidad",
+      "Ambigüedad en 'gastos de promoción y publicidad nacional e internacional'",
+      "Justificación basada en conceptos subjetivos como 'prestigio'"
+    ]
+  },
+  "tweeted": false
+}
