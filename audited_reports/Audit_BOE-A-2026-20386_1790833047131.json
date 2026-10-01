@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20386",
+  "timestamp": "2026-10-01T05:37:27.131Z",
+  "title": "Real Decreto 762/2026, de 30 de septiembre, por el que se regula la concesión directa de una subvención al Obispado de Plasencia para el mantenimiento de la actividad de la comunidad religiosa que reside en el Monasterio de San Jerónimo de Yuste.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Estamos ante una 'Excepcionalidad Recurrente'. El texto justifica la adjudicación directa (sin concurso) basándose en razones de interés público y cultural, pero admite que esta práctica se repite desde 2011. Se utiliza el mecanismo de subvención para cubrir gastos de carácter estrictamente privado y doméstico bajo la etiqueta de 'preservación del patrimonio'. La redacción es un ejercicio de equilibrismo legal para evitar la concurrencia pública en una partida que, en la práctica, funciona como una asignación fija anual a una entidad religiosa específica.",
+    "resumen_ciudadano": "El Gobierno otorga 70.000€ de forma directa al Obispado de Plasencia para pagar los gastos de vida diaria de los Monjes Paulinos en el Monasterio de Yuste. Aunque se justifica como conservación del patrimonio, el dinero pagará desde comida, ropa y bebidas hasta seguros médicos, electrodomésticos y gastos de sepelio de los religiosos. Al ser una concesión directa, ninguna otra entidad ha podido optar a estos fondos.",
+    "resumen_tweet": "70.000€ del #BOE directos al Obispado para pagar comida, ropa y gastos médicos de monjes en Yuste ⛪️💸. Sin concurso público y bajo el sello de 'interés cultural'. ¿Patrimonio o mantenimiento de una comunidad privada? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin publicidad ni concurrencia",
+      "Uso de fondos públicos para gastos personales (comida, ropa, seguros médicos)",
+      "Abuso del artículo 22.2.c de la Ley General de Subvenciones para gastos estructurales",
+      "Justificación de 'urgencia' en una subvención que se otorga desde 2011"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Obispado de Plasencia (financiación garantizada)",
+        "Orden de San Pablo Primer Eremita (gastos de vida cubiertos por el Estado)",
+        "Patrimonio Nacional (mantiene el status quo del servicio de culto)"
+      ],
+      "perdedores": [
+        "Contribuyentes (financiación de cultos y gastos privados)",
+        "Sector cultural (imposibilidad de competir por esos fondos en convocatoria pública)",
+        "Principio de aconfesionalidad del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin publicidad ni concurrencia",
+      "Uso de fondos públicos para gastos personales (comida, ropa, seguros médicos)",
+      "Abuso del artículo 22.2.c de la Ley General de Subvenciones para gastos estructurales",
+      "Justificación de 'urgencia' en una subvención que se otorga desde 2011"
+    ]
+  },
+  "tweeted": false
+}
