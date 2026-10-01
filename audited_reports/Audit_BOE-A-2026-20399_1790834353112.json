@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-20399",
+  "timestamp": "2026-10-01T05:59:13.112Z",
+  "title": "Resolución de 21 de septiembre de 2026, de la Universidad de Salamanca, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para el nombramiento de funcionarios de carrera en la Universidad de Salamanca. El proceso se ampara en la Ley Orgánica 2/2023 (LOSU). Aunque la transparencia procedimental es alta al identificar plazas y candidatos, existe una 'opacidad estructural' común en estos documentos: no se desglosa el impacto presupuestario plurianual (masa salarial y costes de seguridad social) que supone la consolidación de estos tres funcionarios. En términos de género, hay una ligera mayoría femenina (66%), lo que refleja la tendencia en facultades de Humanidades y Artes, aunque no se especifica si hubo criterios de acción positiva en el proceso.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a tres nuevos profesores titulares permanentes en la Facultad de Bellas Artes (Pintura, Escultura y Dibujo). Los seleccionados deben tomar posesión en un máximo de 20 días. Este acto cierra el proceso de oposición iniciado en abril de 2026.",
+    "resumen_tweet": "🎓 La Univ. de Salamanca adjudica 3 plazas fijas de profesorado en Bellas Artes. Proceso legal completado, pero ¿cuánto le cuesta al ciudadano esta consolidación de plantilla? El #BOE sigue ocultando el impacto económico real. 🎨🏛️ #Transparencia #Opacidad #USAL",
+    "banderas_red_flags": [
+      "Ausencia de desglose de coste salarial asociado a la plaza",
+      "Invisibilidad del gasto público estructural a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombrados (obtienen estabilidad laboral de por vida)",
+        "Universidad de Salamanca (consolida su cuadro docente en artes)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el concurso",
+        "Investigadores y docentes precarios con contratos temporales"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de desglose de coste salarial asociado a la plaza",
+      "Invisibilidad del gasto público estructural a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
