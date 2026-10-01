@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20385",
+  "timestamp": "2026-10-01T18:08:32.556Z",
+  "title": "Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto-ley 27/2026 transforma de facto los contratos temporales en modelos de duración indefinida al penalizar económicamente la extinción del contrato al vencimiento. La introducción de una indemnización obligatoria (mínimo 12 mensualidades) para que el propietario recupere su vivienda supone una transferencia de costes de relocalización del arrendatario al arrendador. Aunque se justifica bajo la 'función social', la medida erosiona la libertad contractual y el derecho de propiedad, utilizando un 'Sistema Estatal de Referencia' que otorga al Estado el control indirecto sobre las compensaciones privadas. La urgencia del decreto evita el debate parlamentario sobre una reforma que altera profundamente el mercado inmobiliario.",
+    "resumen_ciudadano": "Si tu casero no quiere renovarte el contrato después de los 5 o 7 años obligatorios, ahora deberá avisarte con 6 meses de antelación y pagarte una indemnización de al menos un año de alquiler (calculado según precios de mercado estatales). Esta medida busca que las familias no tengan que asumir solas los gastos de mudanza y búsqueda de piso cuando el casero decide no prorrogar el contrato para subir el precio a un nuevo inquilino. Existen excepciones si el dueño necesita el piso para él mismo o si el inquilino ya tiene otra casa en el mismo municipio.",
+    "resumen_tweet": "🚨 Nueva traba al alquiler: Si el casero no renueva el contrato, ¡deberá INDEMNIZAR al inquilino con 12 meses de renta! 💸 El #BOE impone preavisos de 6 meses y multas por no prorrogar. ¿Protección social o fin del mercado libre? 🏠⚖️ #Opacidad #Alquiler",
+    "banderas_red_flags": [
+      "Indemnización obligatoria por ejercicio de derecho de no prórroga",
+      "Uso del Sistema Estatal de Referencia para cuantificar compensaciones privadas",
+      "Aplicación de la norma a contratos vigentes (retroactividad encubierta)",
+      "Ampliación del preaviso del arrendador a 6 meses sin reciprocidad proporcional para el inquilino"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inquilinos de larga duración (especialmente jóvenes y rentas bajas)",
+        "Plataformas de defensa del derecho a la vivienda",
+        "Hogares con arraigo que evitan costes de mudanza"
+      ],
+      "perdedores": [
+        "Pequeños propietarios (rentistas) que pierden liquidez y disponibilidad de su bien",
+        "Grandes tenedores (sociedades) con bloqueos de 7 años más indemnización",
+        "Seguridad jurídica contractual"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de Arrendamientos Urbanos",
+    "banderas_rojas": [
+      "Indemnización obligatoria por ejercicio de derecho de no prórroga",
+      "Uso del Sistema Estatal de Referencia para cuantificar compensaciones privadas",
+      "Aplicación de la norma a contratos vigentes (retroactividad encubierta)",
+      "Ampliación del preaviso del arrendador a 6 meses sin reciprocidad proporcional para el inquilino"
+    ]
+  },
+  "tweeted": false
+}
