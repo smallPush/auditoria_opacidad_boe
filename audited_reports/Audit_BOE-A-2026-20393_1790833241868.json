@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20393",
+  "timestamp": "2026-10-01T05:40:41.868Z",
+  "title": "Real Decreto 789/2026, de 30 de septiembre, por el que se adjudica plaza vacante de segunda categoría de la Fiscalía Provincial de Sevilla a don Arturo Jesús Nicas Caballero.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento representa un acto administrativo estándar de la carrera fiscal bajo el marco del Real Decreto 305/2022. Sin embargo, desde una perspectiva de vigilancia cívica, la adjudicación de plazas de segunda categoría mediante Real Decreto a propuesta del Ministro carece de un desglose de méritos competitivos que justifiquen la elección frente a otros posibles candidatos. Se observa la formalización de una situación de adscripción que ya existía desde agosto de 2026, lo que indica un 'periodo de prueba' o transición no publicitado previamente en términos de concurrencia pública.",
+    "resumen_ciudadano": "Se ha oficializado el nombramiento de Arturo Jesús Nicas Caballero como fiscal de segunda categoría en Sevilla. Este movimiento consolida su posición en la estructura judicial tras haber estado adscrito a dicha fiscalía durante los meses previos. Es un trámite burocrático de rango real para cubrir vacantes en el Ministerio Fiscal.",
+    "resumen_tweet": "⚖️ Adjudicada plaza de 2ª categoría en la Fiscalía de Sevilla vía Real Decreto. Se formaliza la posición de un fiscal ya adscrito, pero el BOE no detalla los méritos del proceso selectivo. 🏛️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Adscripción previa no explicada",
+      "Falta de desglose de méritos y capacidad",
+      "Ausencia de transparencia presupuestaria sobre el salario del cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Arturo Jesús Nicas Caballero (consolidación de plaza)",
+        "Fiscalía Provincial de Sevilla (cobertura de vacante)"
+      ],
+      "perdedores": [
+        "Otros aspirantes a la carrera fiscal (opacidad en la comparativa de méritos)",
+        "Ciudadanía (por la naturaleza hermética de la progresión en el Ministerio Fiscal)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Adscripción previa no explicada",
+      "Falta de desglose de méritos y capacidad",
+      "Ausencia de transparencia presupuestaria sobre el salario del cargo"
+    ]
+  },
+  "tweeted": false
+}
