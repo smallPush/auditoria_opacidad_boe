@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-20389",
+  "timestamp": "2026-10-01T05:42:32.479Z",
+  "title": "Resolución de 30 de septiembre de 2026, de la Dirección General de Política Energética y Minas, por la que se publica la tarifa de último recurso de gas natural.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución presenta una estructura de 'opacidad técnica deliberada'. Bajo el pretexto de proteger al consumidor limitando el incremento de la materia prima al 35%, se oculta la creación de una deuda sistémica. El punto quinto establece una 'deuda media unitaria acumulada' de 2,051412 cent/kWh que el ciudadano no paga hoy, pero que queda vinculada a su consumo. Lo más alarmante es la cláusula de 'rescate' o salida: si un consumidor intenta abandonar la Tarifa de Último Recurso (TUR) para buscar mejores ofertas, se le penaliza cobrándole esa deuda acumulada más costes financieros. Esto crea un efecto de 'cliente cautivo' incompatible con la libre competencia y la transparencia de mercado.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios del gas, limitando la subida inmediata para evitar el impacto político. Sin embargo, este ahorro es ficticio: se genera una deuda de 2 céntimos por cada kWh que consumes. Si decides cambiar de compañía, te pasarán la factura de toda esa deuda acumulada con intereses. Es pan para hoy y deuda para mañana, camuflada en fórmulas matemáticas de difícil comprensión para el usuario medio.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Gobierno maquilla la subida del gas pero crea una 'deuda fantasma' de 2,05 cts/kWh que pagarás tarde o temprano. Si intentas cambiar de compañía, te penalizan. 📉 Menos #Transparencia y más deuda oculta. #Opacidad #Gas",
+    "banderas_red_flags": [
+      "Creación de deuda acumulada no visible en el precio final",
+      "Penalización financiera por abandono de la tarifa regulada",
+      "Uso de fórmulas de cálculo basadas en órdenes ministeriales de años distintos (2025 y 2026) que dificultan la auditoría",
+      "Exención parcial de cánones de almacenamiento que distorsiona el coste real"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comercializadoras de Último Recurso (aseguran la permanencia de clientes)",
+        "Administración Pública (retrasa el impacto inflacionario en las estadísticas oficiales)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos (acumulan deuda sin saberlo)",
+        "Pymes en tarifa TUR.4 y superiores",
+        "Libre mercado (bloqueado por cláusulas de salida onerosas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Precios Energéticos",
+    "banderas_rojas": [
+      "Creación de deuda acumulada no visible en el precio final",
+      "Penalización financiera por abandono de la tarifa regulada",
+      "Uso de fórmulas de cálculo basadas en órdenes ministeriales de años distintos (2025 y 2026) que dificultan la auditoría",
+      "Exención parcial de cánones de almacenamiento que distorsiona el coste real"
+    ]
+  },
+  "tweeted": false
+}
