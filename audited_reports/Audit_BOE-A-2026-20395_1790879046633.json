@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20395",
+  "timestamp": "2026-10-01T18:24:06.633Z",
+  "title": "Resolución de 16 de septiembre de 2026, de la Universidad Pública de Navarra, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo de nombramiento masivo de catedráticos (17 plazas) mediante promoción interna. Aunque la transparencia en la identificación de los sujetos es alta, el documento omite el impacto presupuestario consolidado que supone el ascenso de nivel funcionarial. El uso sistemático de la 'promoción interna' puede leerse como un mecanismo de blindaje de la estructura docente actual, limitando la competitividad frente a talento externo. Destaca una presencia mayoritaria de mujeres (9 de 17), lo cual refleja una tendencia de corrección en la brecha de género en la alta jerarquía académica, aunque persisten áreas masculinizadas en ingeniería.",
+    "resumen_ciudadano": "La Universidad Pública de Navarra ha oficializado el ascenso de 17 profesores a la categoría de catedráticos en diversas áreas como Salud, Derecho, Economía e Ingeniería. Este proceso es de carácter interno, lo que garantiza estabilidad a los docentes seleccionados.",
+    "resumen_tweet": "🎓 Ascensos en la UPNA: 17 nuevos catedráticos por promoción interna. Se consolida el gasto pero ¿se abre la universidad al exterior? 🕵️‍♂️ Más mujeres en la cima académica, pero persiste la opacidad en el coste real. #BOE #Opacidad #Transparencia #Navarra",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial total para el erario público",
+      "Prevalencia de la promoción interna sobre el acceso libre competitivo",
+      "Falta de justificación individual de méritos en el extracto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "17 docentes nombrados (estabilidad y aumento salarial)",
+        "Universidad Pública de Navarra (consolidación de estructura)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos por el formato de promoción interna)",
+        "Investigadores jóvenes (menor rotación en la cúspide jerárquica)",
+        "Contribuyentes (por falta de información sobre el impacto en deuda pública)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial total para el erario público",
+      "Prevalencia de la promoción interna sobre el acceso libre competitivo",
+      "Falta de justificación individual de méritos en el extracto publicado"
+    ]
+  },
+  "tweeted": false
+}
