@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-20486",
+  "timestamp": "2026-10-02T17:53:23.764Z",
+  "title": "Resolución de 28 de septiembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para un puesto de 'Técnico Especialista' en el Departamento de Seguridad Nacional (Presidencia del Gobierno) es una práctica que, aunque legal, bordea la opacidad administrativa. Se trata de un mecanismo de elección discrecional ('a dedo') que elude el concurso de méritos tradicional. Resulta llamativo que para un Nivel 22 con un complemento específico de 6.450,92€ en un área tan crítica como Seguridad Nacional, los requisitos técnicos destacados sean el manejo de Microsoft Outlook y Excel avanzado, competencias que podrían considerarse genéricas para el nivel de responsabilidad y la exclusividad del puesto.",
+    "resumen_ciudadano": "Presidencia del Gobierno convoca una plaza de técnico para el Departamento de Seguridad Nacional en La Moncloa. La selección no será por examen ni méritos competitivos abiertos, sino por libre designación (elección directa). A pesar de la importancia del departamento, las especificaciones se centran en tareas de archivo, manejo de correo electrónico y organización de grupos, lo que sugiere un perfil de asistente administrativo de alta confianza con acceso a información clasificada.",
+    "resumen_tweet": "🚩 Alerta de 'dedazo' en Moncloa. Convocan un puesto en Seguridad Nacional por Libre Designación. ¿Los requisitos técnicos? Excel y Outlook. Un nivel 22 elegido a discreción. Menos mérito y más 'confianza'. #BOE #Opacidad #Transparencia 🕵️‍♂️💸",
+    "banderas_red_flags": [
+      "Sistema de provisión por Libre Designación (discrecionalidad)",
+      "Requisitos técnicos básicos (Excel/Outlook) para un nivel salarial 22",
+      "Ubicación en el Complejo de la Moncloa bajo dependencia directa de Presidencia",
+      "Necesidad de habilitación personal de seguridad discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El candidato seleccionado por criterios de confianza política/personal",
+        "Estructura directiva de la Presidencia del Gobierno"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que aspiran a la promoción por mérito y capacidad",
+        "Contribuyentes (falta de competencia real por el puesto)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Sistema de provisión por Libre Designación (discrecionalidad)",
+      "Requisitos técnicos básicos (Excel/Outlook) para un nivel salarial 22",
+      "Ubicación en el Complejo de la Moncloa bajo dependencia directa de Presidencia",
+      "Necesidad de habilitación personal de seguridad discrecional"
+    ]
+  },
+  "tweeted": false
+}
