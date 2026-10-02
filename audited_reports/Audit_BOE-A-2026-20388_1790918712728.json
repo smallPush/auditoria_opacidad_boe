@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20388",
+  "timestamp": "2026-10-02T05:25:12.728Z",
+  "title": "Real Decreto 764/2026, de 30 de septiembre, por el que se regula el Registro de producción y gestión de residuos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 764/2026 establece la arquitectura técnica para el control de residuos, pero mantiene una 'zona gris' de opacidad democrática. Al remitir la determinación del contenido público del registro a una futura orden ministerial (Artículo 9), el Gobierno se reserva el derecho de decidir qué datos serán visibles para la ciudadanía y cuáles no. Se detecta una carga burocrática asimétrica: las grandes corporaciones con sistemas informáticos avanzados integrarán fácilmente el estándar XML 'E3L', mientras que los pequeños productores afrontan una mayor complejidad administrativa sin beneficios directos claros. No se especifican partidas presupuestarias directas para el mantenimiento del sistema eSIR, lo que podría derivar en 'gastos fantasma' bajo el epígrafe de mantenimiento de sistemas informáticos ministeriales.",
+    "resumen_ciudadano": "Se oficializa un registro nacional para vigilar quién produce y quién gestiona basura en España. Aunque suena bien para el medio ambiente, la ley permite que el Ministerio decida más tarde qué información será pública, lo que podría ocultar tratos de favor o mala gestión. Las empresas pequeñas tendrán que dedicar más tiempo al papeleo digital para cumplir con el nuevo formato técnico.",
+    "resumen_tweet": "🚮 El nuevo Registro de Residuos #BOE promete control pero esconde la clave: ¡El contenido público se decidirá 'a dedo' mediante orden ministerial posterior! 🕵️‍♂️ Más burocracia para pymes y dudas sobre transparencia real. #Opacidad #Transparencia ♻️",
+    "banderas_red_flags": [
+      "Diferimiento de transparencia (Art. 9): El contenido público es incierto.",
+      "Uso de estándares técnicos cerrados (E3L) que dificulta la auditoría ciudadana independiente.",
+      "Ambigüedad en la interconexión con el Registro PRTR de emisiones contaminantes."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio para la Transición Ecológica (mayor control centralizado)",
+        "Grandes gestoras de residuos (infraestructura digital ya preparada)",
+        "Consultoras tecnológicas ambientales"
+      ],
+      "perdedores": [
+        "PYMES y autónomos (coste de adaptación al sistema eSIR)",
+        "Transparencia pública (acceso condicionado a decisión ministerial)",
+        "Pequeños productores de residuos no peligrosos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (con impacto en todas las CCAA)",
+    "tipologia": "Regulación de Control Ambiental y Gestión Administrativa",
+    "banderas_rojas": [
+      "Diferimiento de transparencia (Art. 9): El contenido público es incierto.",
+      "Uso de estándares técnicos cerrados (E3L) que dificulta la auditoría ciudadana independiente.",
+      "Ambigüedad en la interconexión con el Registro PRTR de emisiones contaminantes."
+    ]
+  },
+  "tweeted": false
+}
