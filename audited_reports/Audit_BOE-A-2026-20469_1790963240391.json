@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20469",
+  "timestamp": "2026-10-02T17:47:20.391Z",
+  "title": "Enmiendas adoptadas en Ginebra el 27 de octubre de 2023 y el 1 de noviembre de 2024 a los anejos y al Acuerdo sobre transportes internacionales de mercancías perecederas y sobre las unidades especiales utilizadas en estos transportes (ATP), hecho en Ginebra el 1 de septiembre de 1970. Texto consolidado del Acuerdo ATP.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento presenta una transparencia técnica elevada pero una opacidad funcional para el ciudadano común. Se enfoca en la estandarización semiótica (cambio de símbolos de multiplicación) y técnica de los equipos de transporte de mercancías perecederas. No se detectan 'gastos fantasma' directos, pero sí una carga burocrática incremental en certificaciones y actas de ensayo que favorece a las grandes flotas con capacidad de auditoría constante frente al transportista autónomo. La incongruencia reside en la enorme atención al detalle matemático mientras se omite el impacto económico de estas renovaciones de equipo en el sector primario.",
+    "resumen_ciudadano": "Se actualizan las reglas técnicas para los camiones y vagones que transportan alimentos congelados o frescos entre países. El cambio principal es cómo se miden y certifican los vehículos con varios compartimentos de temperatura. Esto busca que la cadena de frío sea más fiable, aunque obliga a los transportistas a cumplir con formularios y pruebas técnicas mucho más detalladas sobre sus motores y aislamiento.",
+    "resumen_tweet": "🚚 ¿Cómo llega tu comida congelada? El #BOE actualiza el acuerdo ATP: más control técnico en camiones multitemperatura y nuevas reglas de certificación. Menos opacidad matemática, más burocracia para el transporte. ❄️🥩 #Transparencia #Logística",
+    "banderas_red_flags": [
+      "Micro-gestión burocrática (cambio manual de signos matemáticos en todo el texto)",
+      "Carga administrativa en la actualización de modelos de actas de ensayo",
+      "Posible exclusión de unidades fabricadas antes de 2018 en ciertos estándares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones de logística internacional",
+        "Fabricantes de unidades de refrigeración multitemperatura",
+        "Empresas de inspección y certificación técnica"
+      ],
+      "perdedores": [
+        "Pequeños transportistas autónomos (por costes de cumplimiento)",
+        "Sector de transporte de mercancías de corta distancia con equipos antiguos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Micro-gestión burocrática (cambio manual de signos matemáticos en todo el texto)",
+      "Carga administrativa en la actualización de modelos de actas de ensayo",
+      "Posible exclusión de unidades fabricadas antes de 2018 en ciertos estándares"
+    ]
+  },
+  "tweeted": false
+}
