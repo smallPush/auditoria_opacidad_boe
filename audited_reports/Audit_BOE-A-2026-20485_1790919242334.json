@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20485",
+  "timestamp": "2026-10-02T05:34:02.334Z",
+  "title": "Resolución de 23 de septiembre de 2026, de la Universidad de León, por la que se nombra Profesor Titular de Universidad a don Alberto González Martínez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de un funcionario de carrera. Si bien cumple con la legalidad vigente (LOSU 2/2023), la opacidad reside en la naturaleza endogamica del sistema universitario: no se detallan los meritos especificos ni el coste presupuestario anual que supone esta plaza vitalicia bajo el codigo DF001256. Es una consolidacion de gasto publico a largo plazo sin desglose financiero directo en el anuncio.",
+    "resumen_ciudadano": "La Universidad de Leon ha nombrado oficialmente a Alberto Gonzalez Martinez como Profesor Titular de Ingenieria Electrica tras superar un concurso publico. Este es un tramite habitual para formalizar plazas de profesorado funcionario.",
+    "resumen_tweet": "🎓 La Universidad de Leon suma un nuevo Profesor Titular en Ingenieria Electrica. Aunque el proceso cumple la ley, el #BOE sigue sin detallar el coste real de estas plazas vitalicias. ⚡ #Transparencia #Universidad #CastillayLeon",
+    "banderas_red_flags": [
+      "Falta de desglose salarial asociado a la plaza",
+      "Opacidad en los criterios de seleccion de la comision",
+      "Consolidacion de gasto publico estructural sin memoria economica adjunta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alberto Gonzalez Martinez (estabilidad laboral vitalicia)",
+        "Universidad de Leon (cobertura de plaza de area tecnica)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados en el proceso previo",
+        "Ciudadania (por la falta de transparencia en la ejecucion presupuestaria detallada de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Falta de desglose salarial asociado a la plaza",
+      "Opacidad en los criterios de seleccion de la comision",
+      "Consolidacion de gasto publico estructural sin memoria economica adjunta"
+    ]
+  },
+  "tweeted": false
+}
