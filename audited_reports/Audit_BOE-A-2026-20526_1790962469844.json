@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20526",
+  "timestamp": "2026-10-02T17:34:29.844Z",
+  "title": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Estamos ante un caso de 'latigazo legislativo'. El Real Decreto-ley 26/2026, que pretendía una reforma estructural del mercado de vivienda, ha sido derogado por el Congreso apenas 72 horas después de su publicación. Esta resolución es el acta de defunción de una norma que alteraba desde el IRPF y el IVA hasta la Ley de Enjuiciamiento Civil y la Ley de Vivienda. La brevedad del texto oculta una crisis política o un fallo de consenso masivo que genera una inseguridad jurídica extrema, dejando a ciudadanos y mercados en un limbo normativo tras haber anunciado medidas de 'función social' que desaparecen sin explicación en este documento.",
+    "resumen_ciudadano": "El Congreso ha anulado por completo el decreto de vivienda urgente aprobado hace solo tres días. Esto significa que todas las nuevas protecciones para el alquiler, cambios en desahucios y beneficios fiscales para vivienda asequible que se habían anunciado quedan sin efecto de inmediato. Volvemos a la situación legal anterior a septiembre de 2026.",
+    "resumen_tweet": "🚨 ¡Visto y no visto! El Congreso fulmina en 72h el macrodecreto de vivienda 26/2026. Un caos legislativo que borra de un plumazo cambios en alquileres e impuestos. ¿Quién gana con esta inestabilidad? 🏚️📉 #BOE #Opacidad #Vivienda #Transparencia",
+    "banderas_red_flags": [
+      "Derogación exprés (menos de una semana de vigencia)",
+      "Inseguridad jurídica masiva por reversión de múltiples leyes",
+      "Falta de memoria económica o justificación política en la resolución",
+      "Impacto en la transposición de directivas europeas (2021/2167) que queda suspendida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes tenedores de vivienda",
+        "Sociedades de Inversión Inmobiliaria (SOCIMI)",
+        "Fondos de inversión (se libran de las nuevas restricciones fiscales)"
+      ],
+      "perdedores": [
+        "Inquilinos en situación de vulnerabilidad",
+        "Demandantes de vivienda asequible",
+        "Seguridad jurídica del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Derogación",
+    "banderas_rojas": [
+      "Derogación exprés (menos de una semana de vigencia)",
+      "Inseguridad jurídica masiva por reversión de múltiples leyes",
+      "Falta de memoria económica o justificación política en la resolución",
+      "Impacto en la transposición de directivas europeas (2021/2167) que queda suspendida"
+    ]
+  },
+  "tweeted": false
+}
