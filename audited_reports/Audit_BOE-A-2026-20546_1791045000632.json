@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20546",
+  "timestamp": "2026-10-03T16:30:00.632Z",
+  "title": "Resolución 430/38403/2026, de 25 de septiembre, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer y segundo ejercicio o ejercicio único de la fase de oposición del proceso selectivo para ingreso, por el sistema de acceso libre y promoción interna, como personal laboral fijo en los grupos profesionales M3, M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución 430/38310/2026, de 1 de julio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el documento cumple con la legalidad administrativa, presenta una barrera de opacidad técnica: el uso de códigos de exclusión (0I, 1P, 0K) sin su correspondiente leyenda en el mismo texto, obligando al ciudadano a recurrir a documentos previos. Existe un sesgo geográfico evidente al centralizar los exámenes en Madrid para los niveles superiores (M3, M2), lo que impone un impuesto indirecto (viaje y alojamiento) a los candidatos de la periferia, contraviniendo principios de igualdad y cohesión territorial.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha publicado la lista de personas que pueden seguir en el proceso para conseguir una plaza de personal laboral fijo. Si te han excluido, tienes 10 días para corregir errores. Los exámenes más cualificados se harán exclusivamente en Madrid, lo que supone un gasto extra para quienes no vivan allí.",
+    "resumen_tweet": "🚀 Defensa publica listas para personal laboral, pero la transparencia cojea: códigos de exclusión crípticos y exámenes centralizados en Madrid. ¿Igualdad de oportunidades o barrera económica para la periferia? 🏛️📉 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Uso de códigos de exclusión alfanuméricos sin leyenda explicativa inmediata",
+      "Centralización de pruebas selectivas en la provincia de Madrid",
+      "Falta de transparencia en los costes asociados al funcionamiento del Tribunal Calificador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos residentes en la Comunidad de Madrid (ahorro en costes de desplazamiento)",
+        "Administración General del Estado (centralización logística)"
+      ],
+      "perdedores": [
+        "Candidatos de regiones periféricas o insulares",
+        "Aspirantes excluidos por errores burocráticos no detallados claramente en el texto"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Madrid",
+    "tipologia": "Procesos Selectivos y Empleo Público",
+    "banderas_rojas": [
+      "Uso de códigos de exclusión alfanuméricos sin leyenda explicativa inmediata",
+      "Centralización de pruebas selectivas en la provincia de Madrid",
+      "Falta de transparencia en los costes asociados al funcionamiento del Tribunal Calificador"
+    ]
+  },
+  "tweeted": false
+}
