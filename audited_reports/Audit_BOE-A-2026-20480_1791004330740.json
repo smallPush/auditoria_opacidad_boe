@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-20480",
+  "timestamp": "2026-10-03T05:12:10.740Z",
+  "title": "Resolución de 22 de septiembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Eva Epelde Bejerano.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento refleja un proceso administrativo estándar de estabilización de personal docente e investigador. Se cumple con la Ley Orgánica 2/2023 (LOSU). No se detectan gastos fantasma, ya que la plaza corresponde a un código de catálogo preexistente. La exigencia de un perfil trilingüe (eus/ing/cas) asegura la capacitación en una región bilingüe y competitiva internacionalmente, aunque representa una barrera de acceso significativa para académicos externos. Existe una clara promoción de género en un área STEM (Ingeniería Química).",
+    "resumen_ciudadano": "La Universidad del País Vasco nombra oficialmente a Eva Epelde Bejerano como Profesora Titular de Ingeniería Química tras ganar un concurso público. La plaza es de dedicación completa en la Facultad de Ciencia y Tecnología.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la UPV/EHU. Eva Epelde Bejerano se incorpora a Ingeniería Química con perfil trilingüe. Un avance en la estabilización de talento STEM femenino en la universidad pública. 👩‍🔬 #BOE #Transparencia #Universidad #Euskadi",
+    "banderas_red_flags": [
+      "Barrera lingüística trilingüe de alta exigencia",
+      "Falta de desglose presupuestario asociado a la plaza en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eva Epelde Bejerano",
+        "UPV/EHU",
+        "Área de Ingeniería Química"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el concurso de acceso",
+        "Investigadores sin acreditación trilingüe"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Barrera lingüística trilingüe de alta exigencia",
+      "Falta de desglose presupuestario asociado a la plaza en el texto"
+    ]
+  },
+  "tweeted": false
+}
