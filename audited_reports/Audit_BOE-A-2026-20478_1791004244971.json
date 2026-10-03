@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20478",
+  "timestamp": "2026-10-03T05:10:44.971Z",
+  "title": "Resolución de 24 de septiembre de 2026, de la Agencia Estatal Agencia Espacial Española, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 26 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El documento formaliza el nombramiento de un alto cargo en la Agencia Espacial Española mediante el sistema de 'libre designación', un eufemismo legal para la selección discrecional o 'a dedo'. A pesar de citar normativas de personal directivo profesional, la decisión final recae en la propuesta de la Dirección y el Ministerio de Defensa, lo que sugiere una estructura de poder cerrada. La opacidad reside en la imposibilidad de que el ciudadano evalúe si el candidato era realmente el mejor cualificado, ya que no se publican los méritos de los aspirantes descartados ni el paquete retributivo total del puesto.",
+    "resumen_ciudadano": "La Agencia Espacial Española ha nombrado a Enrique Fernández Ambel como nuevo Director de Seguridad y Planificación. El puesto ha sido asignado por confianza directa de los directivos y Defensa, no por un concurso de méritos abierto y puramente competitivo. Este tipo de nombramientos en agencias estratégicas suele consolidar redes de influencia técnica y política en Sevilla.",
+    "resumen_tweet": "🚀 ¿Mérito o confianza? La Agencia Espacial nombra Director de Seguridad 'a dedo' mediante libre designación. Sin datos sobre sueldo ni comparativa de candidatos. La opacidad sigue orbitando nuestras instituciones. 🌌 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Propuesta directa vinculada al Ministerio de Defensa",
+      "Ausencia de desglose salarial o incentivos",
+      "Falta de transparencia en la comparativa de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Enrique Fernández Ambel (acceso a puesto de alta dirección)",
+        "Ministerio de Defensa (mantiene influencia en la agencia)",
+        "Cúpula de la Agencia Espacial (asegura perfiles de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo técnico de la administración (limitación de carrera por mérito)",
+        "Transparencia pública (imposibilidad de fiscalizar la elección)",
+        "Ciudadanía (desconocimiento del coste real del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía (Sevilla)",
+    "tipologia": "Nombramiento de Personal Directivo",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Propuesta directa vinculada al Ministerio de Defensa",
+      "Ausencia de desglose salarial o incentivos",
+      "Falta de transparencia en la comparativa de méritos"
+    ]
+  },
+  "tweeted": false
+}
