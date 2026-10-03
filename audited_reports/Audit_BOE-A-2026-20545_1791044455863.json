@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20545",
+  "timestamp": "2026-10-03T16:20:55.863Z",
+  "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que, en estimación de recurso, se modifica el Acuerdo de 9 de junio de 2026, de la Comisión Permanente, por el que se convoca proceso selectivo para la provisión de plazas, entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias del orden jurisdiccional social, para el acceso a la Carrera Judicial, categoría de Magistrado/a.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El cambio de 'exclusivamente' a 'expresamente' en los requisitos de acceso a la magistratura por el turno de juristas de reconocida competencia no es un mero error tipográfico. Esta modificación semántica amplía el espectro de funcionarios de élite que pueden computar su tiempo de servicio para acceder a plazas de Magistrado/a sin oposición tradicional. Al eliminar la exclusividad, se permite que cuerpos donde el Grado en Derecho es un requisito entre otros (pero no el único) puedan entrar en el proceso, lo que sugiere una corrección tras presiones o recursos de colectivos específicos de la alta administración.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha corregido las bases para acceder directamente a puestos de Magistrado/a (sin pasar por la oposición de jueces). La corrección permite que más funcionarios de alto rango computen su experiencia previa. Debido a este cambio en las reglas del juego, se han visto obligados a reabrir el plazo de solicitudes por 20 días adicionales para que nuevos candidatos se presenten.",
+    "resumen_tweet": "⚖️ ¿Ajuste técnico o a medida? El CGPJ cambia 'exclusivamente' por 'expresamente' en el acceso a la Carrera Judicial para juristas. Un matiz que abre la puerta a más altos funcionarios y reabre plazos. 🔍 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Opacidad semántica en requisitos de méritos",
+      "Reapertura de plazos por defecto de forma en la convocatoria original",
+      "Potencial beneficio a cuerpos de élite específicos mediante el cambio de redactado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Letrados y funcionarios de alto nivel cuyos requisitos de ingreso no eran 'exclusivamente' jurídicos",
+        "Candidatos que no llegaron a la primera convocatoria"
+      ],
+      "perdedores": [
+        "Opositores por vía libre que ven facilitado el acceso lateral a la cúpula",
+        "Transparencia administrativa por la sutileza del cambio legal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acceso a la Función Pública / Poder Judicial",
+    "banderas_rojas": [
+      "Opacidad semántica en requisitos de méritos",
+      "Reapertura de plazos por defecto de forma en la convocatoria original",
+      "Potencial beneficio a cuerpos de élite específicos mediante el cambio de redactado"
+    ]
+  },
+  "tweeted": false
+}
