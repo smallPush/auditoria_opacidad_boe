@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20544",
+  "timestamp": "2026-10-03T16:16:21.896Z",
+  "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que, en estimación de recurso, se modifica el Acuerdo de 9 de junio de 2026, de la Comisión Permanente, por el que se convoca proceso selectivo para la provisión de plazas, entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias del orden jurisdiccional penal, para el acceso a la Carrera Judicial, categoría de Magistrado/a.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una rectificación técnica tras un recurso de reposición que sustituye el término 'exclusivamente' por 'expresamente' en los requisitos de titulación para el acceso a la Carrera Judicial por el turno de juristas de reconocida competencia. Este cambio semántico, aunque sutil, amplía el espectro de funcionarios de carrera que pueden acceder a la judicatura, sugiriendo que la redacción anterior era restrictiva o legalmente vulnerable. La reapertura del plazo de 20 días indica que la opacidad o error en la base original excluyó a candidatos válidos, obligando a reiniciar parte del proceso administrativo con el consiguiente gasto en recursos públicos y tiempo.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha tenido que corregir las bases de una oposición para jueces de prestigio tras una reclamación. El cambio de una sola palabra ('exclusivamente' por 'expresamente') sobre los títulos de Derecho requeridos obliga a reabrir el plazo de inscripción durante 20 días. Esto significa que el proceso anterior estaba mal diseñado y ahora se permite que más funcionarios de alto rango puedan optar a ser magistrados.",
+    "resumen_tweet": "⚖️ ¡Rectificación en el #BOE! El CGPJ cambia una palabra clave en el acceso a la Carrera Judicial tras un recurso. Se reabre el plazo de 20 días para candidatos. ¿Error de redacción o diseño excluyente? 🧐 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Modificación de bases tras recurso",
+      "Ambigüedad léxica en requisitos de acceso",
+      "Reapertura de plazos por error administrativo",
+      "Tratamiento de élites burocráticas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de alto rango cuyos cuerpos no exigen 'exclusivamente' Derecho",
+        "Candidatos que no llegaron al primer plazo",
+        "Juristas del sector público con perfiles transversales"
+      ],
+      "perdedores": [
+        "Candidatos que ya se habían presentado (mayor competencia)",
+        "Eficiencia del sistema judicial (retraso en el proceso)",
+        "Contribuyentes (coste de la re-gestión del proceso selectivo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Concursos",
+    "banderas_rojas": [
+      "Modificación de bases tras recurso",
+      "Ambigüedad léxica en requisitos de acceso",
+      "Reapertura de plazos por error administrativo",
+      "Tratamiento de élites burocráticas"
+    ]
+  },
+  "tweeted": false
+}
