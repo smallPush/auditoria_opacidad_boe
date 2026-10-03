@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20530",
+  "timestamp": "2026-10-03T16:06:59.070Z",
+  "title": "Orden TED/1024/2026, de 30 de septiembre, por la que se determina la información pública del Registro de producción y gestión de residuos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden TED/1024/2026 establece un marco de transparencia para el Registro de Residuos, pero introduce el concepto de 'secreto comercial' como un límite difuso que puede ser utilizado por las corporaciones para ocultar datos de impacto ambiental real. Aunque el uso del estándar XML 'E3L' busca la eficiencia técnica, crea una barrera de entrada para la fiscalización ciudadana no experta. No se detectan gastos fantasma directos en este texto, pero el mantenimiento de los sistemas eSIR y E3L conlleva una inversión pública opaca en esta norma.",
+    "resumen_ciudadano": "Esta norma define qué datos sobre la gestión de residuos en España serán públicos. Los ciudadanos podrán consultar quién gestiona los residuos, dónde se ubican los centros y qué tipo de materiales tratan. Sin embargo, las empresas pueden solicitar que cierta información no se publique si consideran que afecta a su secreto comercial, lo que limita el control social sobre la contaminación.",
+    "resumen_tweet": "⚠️ El nuevo registro de residuos de la Orden TED/1024/2026 promete transparencia, pero blinda el 'secreto comercial' de las grandes empresas. ¿Qué se oculta tras la economía circular? 🔄 La trazabilidad tiene letra pequeña. #BOE #Opacidad #Transparencia 🌍",
+    "banderas_red_flags": [
+      "Cláusulas de secreto comercial que limitan el acceso a la información ambiental",
+      "Complejidad técnica del estándar E3L que aleja al ciudadano común",
+      "Interconexión de registros (PRTR-España) con umbrales mínimos que pueden excluir focos contaminantes menores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes gestores de residuos (protección de datos estratégicos)",
+        "Ministerio para la Transición Ecológica (centralización de información)"
+      ],
+      "perdedores": [
+        "Plataformas vecinales y ONG (dificultad para acceder a datos sensibles por el filtro del secreto comercial)",
+        "Pequeñas empresas (carga técnica para cumplir con el estándar E3L)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Medioambiental y de Transparencia",
+    "banderas_rojas": [
+      "Cláusulas de secreto comercial que limitan el acceso a la información ambiental",
+      "Complejidad técnica del estándar E3L que aleja al ciudadano común",
+      "Interconexión de registros (PRTR-España) con umbrales mínimos que pueden excluir focos contaminantes menores"
+    ]
+  },
+  "tweeted": false
+}
