@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20540",
+  "timestamp": "2026-10-03T16:14:29.957Z",
+  "title": "Resolución de 24 de septiembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Catedrático de Universidad a don Iñigo Pombo Rodilla.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento representa un trámite burocrático estándar de consolidación de la élite académica. Aunque cumple con la legalidad, destaca la opacidad del código de plaza 'CUC8/1-D00145-23', que impide al ciudadano conocer el coste real para las arcas públicas. Existe una clara perpetuación del predominio masculino en las cátedras de áreas STEM (Ingeniería Mecánica), lo que subraya la ineficacia de los planes de igualdad para romper el techo de cristal en los niveles más altos del funcionariado universitario.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de un nuevo Catedrático de Ingeniería Mecánica en la Universidad del País Vasco (Bilbao). El proceso se basa en una convocatoria de marzo de 2026 y otorga una plaza de dedicación completa con perfil bilingüe.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la @upvehu. Se consolida el techo de cristal en Ingeniería: más hombres en la cúspide académica mientras el gasto real se oculta tras códigos burocráticos. #BOE #Opacidad #Transparencia #BrechaGénero 🏛️",
+    "banderas_red_flags": [
+      "Codificación de plaza ininteligible (CUC8/1-D00145-23)",
+      "Ausencia de desglose presupuestario asociado al rango",
+      "Sesgo de género estructural en el área de Ingeniería"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iñigo Pombo Rodilla",
+        "Cuerpo de Catedráticos de Universidad",
+        "Escuela de Ingeniería de Bilbao"
+      ],
+      "perdedores": [
+        "Paridad de género en la alta academia",
+        "Investigadores jóvenes en precariedad",
+        "Transparencia de costes salariales reales"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Codificación de plaza ininteligible (CUC8/1-D00145-23)",
+      "Ausencia de desglose presupuestario asociado al rango",
+      "Sesgo de género estructural en el área de Ingeniería"
+    ]
+  },
+  "tweeted": false
+}
