@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20541",
+  "timestamp": "2026-10-03T16:13:01.981Z",
+  "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que, en estimación de recurso, se modifica el Acuerdo de 9 de junio de 2026, de la Comisión Permanente, por el que se convoca proceso selectivo para la provisión de plazas, entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias del orden jurisdiccional contencioso-administrativo, para el acceso a la Carrera Judicial, categoría de Magistrado/a.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento refleja una rectificacion tecnica tras una serie de recursos de reposicion. El cambio de 'exclusivamente' por 'expresamente' en los requisitos de titulacion para acceder a la Carrera Judicial (Magistrados de prestigio) sugiere una redaccion original defectuosa o excesivamente restrictiva que podria haber excluido a candidatos validos de cuerpos tecnicos superiores. Esta modificacion obliga a reiniciar el plazo de solicitudes, lo que implica un retraso en la provision de plazas judiciales y evidencia una falta de precision inicial en el Consejo General del Poder Judicial.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha tenido que corregir las reglas para que juristas con mas de 10 años de experiencia puedan ser nombrados magistrados. Debido a un error en el lenguaje de la convocatoria (confundir 'exclusivamente' con 'expresamente' respecto al titulo de Derecho), se ha abierto un nuevo plazo de 20 dias para que mas personas puedan presentarse. Esto beneficia a funcionarios de alto nivel que podrian haber sido rechazados injustamente por la redaccion anterior.",
+    "resumen_tweet": "⚖️ El CGPJ rectifica: un cambio de palabras en el #BOE reabre el plazo para ser Magistrado por el turno de juristas. La precision en el lenguaje legal es clave para evitar la exclusion de candidatos. #Justicia #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Modificacion de bases post-convocatoria",
+      "Admision de recursos por redaccion ambigua",
+      "Reapertura extemporanea de plazos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Juristas de cuerpos publicos cuya titulacion de Derecho no era la unica exigida pero si expresa",
+        "Nuevos aspirantes que perdieron el primer plazo"
+      ],
+      "perdedores": [
+        "Aspirantes que ya se habian presentado (retraso en el proceso)",
+        "Eficiencia administrativa del CGPJ"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Carrera Judicial",
+    "banderas_rojas": [
+      "Modificacion de bases post-convocatoria",
+      "Admision de recursos por redaccion ambigua",
+      "Reapertura extemporanea de plazos"
+    ]
+  },
+  "tweeted": false
+}
