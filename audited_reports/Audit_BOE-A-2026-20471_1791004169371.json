@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20471",
+  "timestamp": "2026-10-03T05:09:29.371Z",
+  "title": "Real Decreto 765/2026, de 30 de septiembre, por el que se regula la concesión directa de subvenciones en materia de vivienda para la financiación de iniciativas locales que contribuyan a la consecución de los objetivos de la línea 13.4 del Marco de actuaciones para el desarrollo territorial sostenible del área de influencia del Espacio Natural de Doñana en 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto utiliza una narrativa de 'vivienda como quinto pilar del bienestar' para blindar ideológicamente una concesión directa de subvenciones, evitando la concurrencia competitiva bajo el pretexto de urgencia humanitaria en Doñana. Aunque el fin es legítimo (alojamiento de temporeros), la discrecionalidad es alta. Se observa un 'Gasto Fantasma' potencial en la partida de 'capacidades técnicas', un concepto vago que suele ocultar consultorías externas. La renuncia de Lucena del Puerto a los fondos de 2026 tras no ejecutar los de 2025 revela una preocupante falta de capacidad administrativa o de supervisión real sobre el terreno.",
+    "resumen_ciudadano": "El Gobierno entrega fondos directos a los ayuntamientos de Moguer y Palos de la Frontera para construir y rehabilitar alojamientos para trabajadores temporeros en la zona de Doñana. El objetivo es sustituir asentamientos precarios por viviendas permanentes municipales, aunque se hace sin concurso público, otorgando el dinero directamente a estos ayuntamientos específicos para que gestionen las obras.",
+    "resumen_tweet": "🏗️ ¿Vivienda digna o parche administrativo? El #BOE aprueba ayudas a dedo para temporeros en #Doñana. Se evita el concurso público por 'urgencia', pero un municipio ya ha renunciado por no poder ejecutarlas. ¿Control real o gasto opaco? 🧐 #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Inclusión de gastos vagos en 'capacidades técnicas'",
+      "Precedente de renuncia por incapacidad de ejecución en municipios colindantes",
+      "Justificación de urgencia para planes que se extienden hasta 2027"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ayuntamientos de Moguer y Palos de la Frontera (gestión directa de fondos)",
+        "Empresas locales de construcción y rehabilitación",
+        "Colectivo de temporeros agrícolas (si se ejecutan las obras correctamente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por posible sobrecoste al no haber licitación abierta)",
+        "Municipio de Lucena del Puerto (excluido por fallos de gestión previa)",
+        "Otros municipios de la corona forestal con necesidades similares pero sin convenio directo"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Subvención de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Inclusión de gastos vagos en 'capacidades técnicas'",
+      "Precedente de renuncia por incapacidad de ejecución en municipios colindantes",
+      "Justificación de urgencia para planes que se extienden hasta 2027"
+    ]
+  },
+  "tweeted": false
+}
