@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20529",
+  "timestamp": "2026-10-03T16:08:22.991Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque la resolución cumple con la obligación legal de publicar precios, el sistema subyacente es un vestigio de control estatal donde el Gobierno valida los márgenes de beneficio de grandes tabaqueras bajo la etiqueta de 'monopolio'. No existe una justificación sanitaria en el texto; es un mero trámite administrativo-financiero. Se observa una clara segmentación de mercado: desde cigarrillos de 4.60€ hasta puros de lujo de 34.90€, evidenciando que el Estado gestiona un vicio con alta elasticidad de precio según la clase social.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios del tabaco. Fuma sale más caro en la Península y Baleares que en Ceuta y Melilla. Los nuevos precios incluyen cigarrillos comunes (como Ducados o B.N.) y puros de lujo (como Arturo Fuente). Estos cambios entran en vigor de forma inmediata.",
+    "resumen_tweet": "📉 El #BOE actualiza los precios del tabaco. El Estado sigue gestionando el monopolio con disparidad territorial (más barato en Ceuta/Melilla). ¿Salud pública o caja recaudatoria? 🚬💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Precios propuestos por fabricantes (influencia de lobbies)",
+      "Opacidad en el destino de la recaudación tributaria integrada",
+      "Falta de mención a objetivos de salud pública",
+      "Disparidad fiscal territorial extrema"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (recaudación vía impuestos especiales)",
+        "Grandes fabricantes (ajuste de márgenes de beneficio)",
+        "Expendedurías de tabaco (mantenimiento del monopolio)"
+      ],
+      "perdedores": [
+        "Clases socioeconómicas bajas (gasto regresivo en tabaco)",
+        "Sistema de salud pública (el texto prioriza la ordenación del mercado sobre el impacto sanitario)",
+        "Consumidores de la Península (frente a beneficios fiscales en Ceuta/Melilla)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Precios propuestos por fabricantes (influencia de lobbies)",
+      "Opacidad en el destino de la recaudación tributaria integrada",
+      "Falta de mención a objetivos de salud pública",
+      "Disparidad fiscal territorial extrema"
+    ]
+  },
+  "tweeted": false
+}
