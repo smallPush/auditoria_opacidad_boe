@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20547",
+  "timestamp": "2026-10-03T16:19:07.150Z",
+  "title": "Resolución de 28 de septiembre de 2026, de la Presidencia del Consejo Superior de Deportes, por la que se publica la relación de personas que han superado el proceso selectivo para ingreso, por el sistema general de acceso libre, como personal laboral fijo fuera de convenio, en la categoría de Director del Centro de Medicina del Deporte, convocado por Resolución de 26 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución oficializa el nombramiento del Director del Centro de Medicina del Deporte bajo la modalidad de 'personal laboral fijo fuera de convenio'. Esta figura es una de las mayores zonas grises de la administración, ya que permite negociar condiciones salariales y beneficios que no están sujetos a las tablas públicas de los convenios colectivos. Aunque el proceso se describe como de 'acceso libre', la discrecionalidad en la configuración del contrato final supone un riesgo de opacidad financiera.",
+    "resumen_ciudadano": "El Consejo Superior de Deportes ha seleccionado a Zigor Montalvo Zenarruzabeitia como nuevo Director del Centro de Medicina del Deporte. El puesto se ha adjudicado tras un proceso que comenzó a finales de 2025. Lo relevante es que su contrato es 'fuera de convenio', lo que impide al ciudadano conocer el sueldo exacto o las prebendas asociadas al cargo de alta dirección.",
+    "resumen_tweet": "🚨 Nuevo Director en el Centro de Medicina del Deporte. Zigor Montalvo gana la plaza pero como personal 'fuera de convenio': sueldo y condiciones blindados a la transparencia estándar. 🧐 ¿Por qué estos cargos escapan al control común? #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Contrato fuera de convenio (opacidad salarial)",
+      "Cargo de alta dirección con discrecionalidad contractual",
+      "Proceso de selección dilatado durante 9 meses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Zigor Montalvo Zenarruzabeitia (obtiene plaza fija blindada)",
+        "Ministerio de Educación, Formación Profesional y Deportes"
+      ],
+      "perdedores": [
+        "Transparencia presupuestaria (desconocimiento del coste real)",
+        "Personal sujeto a convenio (desigualdad de condiciones laborales)",
+        "Aspirantes en lista de espera"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Contrato fuera de convenio (opacidad salarial)",
+      "Cargo de alta dirección con discrecionalidad contractual",
+      "Proceso de selección dilatado durante 9 meses"
+    ]
+  },
+  "tweeted": false
+}
