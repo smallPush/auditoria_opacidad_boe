@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20534",
+  "timestamp": "2026-10-03T16:09:44.580Z",
+  "title": "Resolución de 25 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 4 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla un nombramiento de alto nivel (Nivel 30) mediante el sistema de 'libre designación'. Aunque el marco legal invoca el Real Decreto-ley 6/2023 de 'personal directivo público profesional', la realidad administrativa sigue permitiendo la elección discrecional sin una comparativa de méritos pública. Se observa una opacidad intrínseca en el proceso, ya que no se justifican las razones específicas por las que el candidato seleccionado es idóneo frente a otros aspirantes, limitándose a un acto administrativo de publicación de resultado.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha nombrado 'a dedo' a un nuevo Vicesecretario General Técnico. Este puesto es de rango máximo en la escala funcionarial (Nivel 30). Aunque es legal, el proceso de libre designación evita el concurso de méritos tradicional, favoreciendo la confianza política sobre la competencia técnica pura.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el @mapagob. Se adjudica un puesto de Nivel 30 (máximo salarial) por libre designación. Menos meritocracia y más confianza política en la alta administración. ¿Transparencia? Brilla por su ausencia. 🕵️‍♂️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Puesto de máxima jerarquía administrativa (Nivel 30)",
+      "Ausencia de exposición de méritos comparados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Hurtado Valadés (promoción a Nivel 30)",
+        "Subsecretaría de Agricultura (asegura personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones políticas",
+        "Meritocracia administrativa",
+        "Ciudadanía (por opacidad en la selección)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Madrid)",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (discrecionalidad)",
+      "Puesto de máxima jerarquía administrativa (Nivel 30)",
+      "Ausencia de exposición de méritos comparados"
+    ]
+  },
+  "tweeted": false
+}
