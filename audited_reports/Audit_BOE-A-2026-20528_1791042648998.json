@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-20528",
+  "timestamp": "2026-10-03T15:50:48.998Z",
+  "title": "Ley 4/2026, de 1 de octubre, por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La ley 4/2026 marca un cambio de paradigma del modelo médico-asistencial al de derechos humanos, alineándose con la reforma del art. 49 CE. No obstante, introduce una 'zona gris' mediante los 'espacios de exención regulatoria' para innovación, lo que podría debilitar la seguridad jurídica bajo el pretexto de la experimentación tecnológica. La asimilación automática de grados de dependencia a discapacidad (33% y 65%) simplifica la burocracia, pero podría ocultar necesidades específicas individuales en el proceso. La descentralización de los criterios de copago hacia el Consejo Territorial deja abierta la puerta a una desigualdad territorial significativa en el acceso a servicios básicos.",
+    "resumen_ciudadano": "Esta ley moderniza los derechos de las personas con discapacidad y dependientes en España. Entre los cambios principales: se prohíben las sujeciones físicas y químicas, la teleasistencia se convierte en un derecho para todos, y se facilitan nuevos modelos de convivencia como el cohousing. También se reconoce el valor económico de los cuidados (especialmente para mujeres) y se integra la inteligencia artificial para personalizar apoyos. Se crea un Programa Estatal de Accesibilidad, aunque su financiación real queda pendiente de concretar en los presupuestos.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Nueva Ley 4/2026 de Discapacidad. ✅ Adiós a las sujeciones físicas y teleasistencia para todos. 🚩 Ojo a los 'espacios de exención regulatoria' y el copago pendiente de definir. ¿Derechos o incertidumbre? #Opacidad #Transparencia ♿️",
+    "banderas_red_flags": [
+      "Creación de 'espacios de exención regulatoria' (sandboxes) que pueden eludir garantías legales estándar",
+      "Gastos fantasma: El Programa Estatal de Accesibilidad carece de una dotación presupuestaria blindada en el texto",
+      "Ambigüedad en el copago: Se delega la cuantía al Consejo Territorial, pudiendo generar barreras económicas según la región",
+      "Riesgo ético en el uso de IA para 'identificar factores de riesgo' sin especificar mecanismos de control humano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres cuidadoras (reconocimiento de corresponsabilidad e impacto de género)",
+        "Personas con gran dependencia (acceso a asistencia personal y vida independiente)",
+        "Empresas de tecnología e IA (nuevos mercados de innovación social)",
+        "Sector del cohousing y viviendas colaborativas"
+      ],
+      "perdedores": [
+        "Residencias tradicionales (obligadas a una costosa transición hacia modelos hogareños)",
+        "Usuarios en CC.AA. con alta presión fiscal (incertidumbre sobre los mínimos exentos de copago)",
+        "Seguridad jurídica (debido a los espacios de exención regulatoria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Derechos Sociales y Autonomía Personal",
+    "banderas_rojas": [
+      "Creación de 'espacios de exención regulatoria' (sandboxes) que pueden eludir garantías legales estándar",
+      "Gastos fantasma: El Programa Estatal de Accesibilidad carece de una dotación presupuestaria blindada en el texto",
+      "Ambigüedad en el copago: Se delega la cuantía al Consejo Territorial, pudiendo generar barreras económicas según la región",
+      "Riesgo ético en el uso de IA para 'identificar factores de riesgo' sin especificar mecanismos de control humano"
+    ]
+  },
+  "tweeted": false
+}
