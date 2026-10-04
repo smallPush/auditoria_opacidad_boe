@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20543",
+  "timestamp": "2026-10-04T16:51:59.763Z",
+  "title": "Acuerdo de 30 de septiembre de 2026, del Pleno del Consejo General del Poder Judicial, por el que, en estimación de recurso, se modifica el Acuerdo de 9 de junio de 2026, de la Comisión Permanente, por el que se convoca proceso selectivo para la provisión de plazas, entre juristas de reconocida competencia con más de diez años de ejercicio profesional en las materias propias de los órganos con competencias compartidas en los órdenes jurisdiccionales civil y penal, para el acceso a la Carrera Judicial, categoría de Magistrado/a.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El cambio de 'exclusivamente' por 'expresamente' no es una mera corrección semántica, sino una ampliación técnica del espectro de candidatos elegibles para el acceso a la Carrera Judicial por el turno de juristas de reconocida competencia. Al haber sido motivado por un recurso de reposición, se evidencia que la redacción original era restrictiva y posiblemente ilegal, excluyendo a cuerpos de la administración donde el Grado en Derecho es un requisito necesario pero compartido con otras titulaciones. Esta modificación obliga a reabrir el plazo de solicitudes, retrasando el proceso y evidenciando una planificación deficiente en la Comisión Permanente del CGPJ.",
+    "resumen_ciudadano": "El CGPJ se ha visto obligado a corregir las bases para acceder a plazas de Magistrado tras un recurso. Han cambiado una palabra clave que impedía que ciertos funcionarios de alto nivel pudieran presentarse. Debido a este error en las reglas originales, se abre un nuevo plazo de 20 días para que cualquier jurista con más de 10 años de experiencia que cumpla los nuevos requisitos pueda solicitar la plaza.",
+    "resumen_tweet": "⚖️ ¡Alerta en el #BOE! El CGPJ rectifica tras un recurso y cambia 'exclusivamente' por 'expresamente' para acceder a plazas de Magistrado. Una palabra que lo cambia todo y reabre el plazo de 20 días. ¿Error o diseño a medida? #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Rectificación de bases tras recurso administrativo",
+      "Cambio semántico con alto impacto jurídico",
+      "Reapertura de plazos en proceso selectivo ya iniciado",
+      "Opacidad en la motivación del recurso estimado parcialmente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios A1 cuya oposición exige Derecho pero no de forma única",
+        "Juristas que no se presentaron en el primer plazo",
+        "Candidatos que buscaban mayor flexibilidad en la interpretación de méritos"
+      ],
+      "perdedores": [
+        "Candidatos que ya se habían presentado (aumenta la competencia)",
+        "Agilidad de la administración de justicia (retraso en el nombramiento de magistrados)",
+        "Seguridad jurídica (cambio de reglas a mitad de juego)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acceso a la Carrera Judicial",
+    "banderas_rojas": [
+      "Rectificación de bases tras recurso administrativo",
+      "Cambio semántico con alto impacto jurídico",
+      "Reapertura de plazos en proceso selectivo ya iniciado",
+      "Opacidad en la motivación del recurso estimado parcialmente"
+    ]
+  },
+  "tweeted": false
+}
