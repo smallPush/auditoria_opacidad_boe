@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20536",
+  "timestamp": "2026-10-04T16:49:20.178Z",
+  "title": "Resolución de 24 de septiembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de la resolución de puestos por 'Libre Designación', un sistema que, aunque legal, permite la adjudicación de cargos por criterios de confianza en lugar de estricto mérito y capacidad. Es especialmente sensible el nombramiento de una Subdirectora Adjunta (Nivel 29) en la Oficina Presupuestaria y Gestión Económica, un área donde la neutralidad técnica debería primar sobre la discrecionalidad política para garantizar la fiscalización del gasto. La opacidad reside en la falta de justificación pública sobre por qué estos candidatos son idóneos frente a otros.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha asignado dos puestos de trabajo mediante el sistema de 'libre designación' (elección directa). Uno de los cargos es de alto nivel (Nivel 29) y se encargará de la gestión económica y presupuestaria del ministerio. Estos procesos suelen ser criticados por favorecer el clientelismo dentro de la administración pública.",
+    "resumen_tweet": "🧐 El @MSocialGob adjudica a dedo puestos clave. Destaca una Subdirección Adjunta (Nivel 29) en la Oficina Presupuestaria. ¿Mérito o confianza? La gestión del dinero público debe ser técnica, no discrecional. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta responsabilidad en gestión económica (Nivel 29)",
+      "Falta de memoria justificativa de la idoneidad de los elegidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Valentina García Carrasco (promoción a Nivel 29)",
+        "El ministerio (asegura personal de confianza en la caja del departamento)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos técnicos sin perfil político",
+        "Ciudadanía (por la politización de la gestión presupuestaria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Puesto de alta responsabilidad en gestión económica (Nivel 29)",
+      "Falta de memoria justificativa de la idoneidad de los elegidos"
+    ]
+  },
+  "tweeted": false
+}
