@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20535",
+  "timestamp": "2026-10-04T05:43:41.038Z",
+  "title": "Resolución de 28 de septiembre de 2026, de la Subsecretaría, por la que se corrigen errores en la de 7 de septiembre de 2026, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 10 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se audita una corrección de errores sobre una resolución de libre designación. El cambio del departamento de origen (de Justicia y Calidad Democrática en Barcelona a Igualdad y Feminismo en Lleida) de un funcionario transferido a la administración estatal revela un descuido administrativo en procesos de alta dirección. La libre designación es un mecanismo que permite la discrecionalidad política por encima del concurso de méritos, y el error en la procedencia sugiere una tramitación acelerada o falta de rigor en la verificación de los perfiles captados de la Generalitat de Catalunya.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial ha tenido que rectificar los datos de un funcionario nombrado 'a dedo'. Inicialmente se dijo que venía del área de Justicia en Barcelona, pero en realidad procedía de la Consejería de Igualdad y Feminismo en Lleida. Este trámite, aunque parezca menor, refleja cómo se gestionan los puestos de confianza entre diferentes administraciones sin la transparencia de un concurso público abierto.",
+    "resumen_tweet": "🚨 Nueva corrección en el #BOE: Error en el origen de un cargo nombrado por libre designación. De Justicia a Igualdad. La discrecionalidad política sigue necesitando fe de erratas. ¿Falta de rigor o descuido? 🧐 #Opacidad #Transparencia #Política",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Error administrativo en nombramiento de alto nivel",
+      "Trasvase de cargos entre administraciones autonómica y estatal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El cargo nombrado (mantiene su puesto de libre designación)",
+        "Ministerio de Política Territorial (ajuste de perfil afín)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (excluidos por el sistema de libre designación)",
+        "Ciudadanía (por el coste administrativo de corregir errores de gestión básica)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña / Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Error administrativo en nombramiento de alto nivel",
+      "Trasvase de cargos entre administraciones autonómica y estatal"
+    ]
+  },
+  "tweeted": false
+}
