@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20537",
+  "timestamp": "2026-10-04T16:50:32.450Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una resolucion administrativa de nombramiento de personal funcionario docente tras un proceso de concurso oposicion. Aunque identifica claramente a las personas beneficiarias y las areas de conocimiento, carece de informacion sobre el impacto presupuestario real de estas plazas de catedraticas. El lenguaje es excesivamente burocratico y se apoya en normativas de promocion interna, lo que a menudo limita la transparencia en la competicion abierta por los fondos publicos destinados a educacion superior.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili ha nombrado formalmente a dos nuevas catedraticas en las areas de Enfermeria (Etica y Bioetica) y Gestion de Empresas (Matematicas Financieras). Ambas pasan a ocupar plazas fijas a tiempo completo tras superar los procesos de acreditacion y concurso establecidos.",
+    "resumen_tweet": "🔍 Nueva resolucion en el #BOE: Nombramiento de catedraticas en la @universitatURV. Aunque se detallan plazas y perfiles, persiste la opacidad sobre el coste salarial publico exacto. 🎓💼 #Transparencia #Universidad #Opacidad #GastoPublico",
+    "banderas_red_flags": [
+      "Opacidad en el coste economico individual de las plazas",
+      "Focalizacion en promocion interna que reduce el acceso a nuevos talentos externos",
+      "Ausencia de indicadores de merito especificos en el resumen del nombramiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Francisca Jimenez Herrera",
+        "Maria Gloria Barbera Marine",
+        "Universidad Rovira i Virgili (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos al sistema de promocion interna",
+        "Ciudadania (por falta de visibilidad sobre el uso de recursos publicos en salarios publicos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Opacidad en el coste economico individual de las plazas",
+      "Focalizacion en promocion interna que reduce el acceso a nuevos talentos externos",
+      "Ausencia de indicadores de merito especificos en el resumen del nombramiento"
+    ]
+  },
+  "tweeted": false
+}
