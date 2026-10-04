@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20531",
+  "timestamp": "2026-10-04T05:41:20.721Z",
+  "title": "Acuerdo de 7 de abril de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña María Paz González-Tascón Suárez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Aunque se trata de un procedimiento administrativo estándar de jubilación, destaca el decalaje temporal de seis meses entre la firma del acuerdo (7 de abril) y su publicación en el BOE (3 de octubre). Este retraso administrativo es una forma de opacidad funcional que dificulta el seguimiento en tiempo real de las vacantes judiciales. El uso del régimen de 'Clases Pasivas' evidencia la brecha de privilegios jubilatorios entre la élite judicial y el trabajador común sujeto al régimen general.",
+    "resumen_ciudadano": "Se oficializa la jubilación voluntaria de una Magistrada del Tribunal de Instancia de Oviedo. Esto implica que la plaza queda vacante y se activa el cobro de su pensión a cargo del Estado bajo un régimen especial diferenciado del de la mayoría de los ciudadanos.",
+    "resumen_tweet": "⚖️ ¿6 meses para publicar una jubilación? El #BOE refleja la lentitud del CGPJ. Una magistrada de Oviedo se acoge a los privilegios de las Clases Pasivas. Más vacantes en la justicia mientras el contribuyente paga. #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Retraso excesivo en publicación (6 meses)",
+      "Falta de desglose de la cuantía de derechos pasivos",
+      "Opacidad en la reposición inmediata de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada (acceso a jubilación anticipada con privilegios)",
+        "CGPJ (discrecionalidad en tiempos de publicación)"
+      ],
+      "perdedores": [
+        "Ciudadanía (retraso en la administración de justicia)",
+        "Sistema público de pensiones (carga de Clases Pasivas)"
+      ]
+    },
+    "comunidad_autonoma": "Asturias",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Retraso excesivo en publicación (6 meses)",
+      "Falta de desglose de la cuantía de derechos pasivos",
+      "Opacidad en la reposición inmediata de la plaza"
+    ]
+  },
+  "tweeted": false
+}
