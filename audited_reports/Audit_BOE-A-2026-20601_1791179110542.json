@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20601",
+  "timestamp": "2026-10-05T05:45:10.542Z",
+  "title": "Decreto de 18 de septiembre de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de lo Contencioso-Administrativo de la Fiscalía de la Comunidad Autónoma de Cantabria a doña Sandra Fernández Gutiérrez.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El decreto de nombramiento cumple con la formalidad legal del Reglamento del Ministerio Fiscal, pero incurre en la habitual opacidad sobre la comparativa de meritos. Se menciona la 'idoneidad' y 'compromiso' como factores determinantes, terminos juridicos indeterminados que permiten una alta discrecionalidad tecnica. Aunque se cita una convocatoria interna, no se detalla el numero de aspirantes ni la puntuacion desglosada, manteniendo la tradicion de 'nombramientos de confianza' bajo una apariencia de concurrencia competitiva.",
+    "resumen_ciudadano": "Se ha nombrado a Sandra Fernandez Gutierrez como nueva Fiscal Delegada para casos de pleitos contra la Administracion en Cantabria. El proceso ha seguido los pasos reglamentarios, incluyendo la propuesta del Fiscal Superior y el visto bueno de la Fiscal General, basandose en su experiencia previa.",
+    "resumen_tweet": "⚖️ Nuevo nombramiento en la Fiscalia de Cantabria: Sandra Fernandez Gutierrez asume lo Contencioso-Administrativo. Aunque el proceso es legal, la 'idoneidad' sigue siendo un criterio subjetivo que escapa al control ciudadano. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Criterios de idoneidad subjetivos",
+      "Falta de detalle en la comparativa de meritos de otros candidatos",
+      "Discrecionalidad en la seleccion de especialistas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sandra Fernandez Gutierrez (promocion profesional)",
+        "Fiscalia General del Estado (consolidacion de estructura)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (anonimato y exclusion)",
+        "Ciudadania (por falta de indicadores de merito publicos)"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de Personal / Justicia",
+    "banderas_rojas": [
+      "Criterios de idoneidad subjetivos",
+      "Falta de detalle en la comparativa de meritos de otros candidatos",
+      "Discrecionalidad en la seleccion de especialistas"
+    ]
+  },
+  "tweeted": false
+}
