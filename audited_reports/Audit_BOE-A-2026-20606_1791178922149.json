@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20606",
+  "timestamp": "2026-10-05T05:42:02.149Z",
+  "title": "Resolución de 25 de septiembre de 2026, de la Universidad de Granada, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para el nombramiento de personal funcionario de carrera. Aunque el proceso cumple con la Ley Organica 2/2023 (LOSU), la publicacion es opaca en cuanto al coste economico real para el erario publico que suponen estos trece contratos vitalicios. Existe una clara tendencia a la consolidacion de plazas internas, una practica comun en la universidad española que a menudo dificulta la entrada de talento externo. Destaca positivamente una representacion femenina superior al 60 por ciento en este listado.",
+    "resumen_ciudadano": "La Universidad de Granada ha oficializado el nombramiento de 13 nuevos Profesores Titulares en diversas areas como Genetica, Quimica e Historia de la Educacion. Estos profesionales pasan a ser funcionarios con plaza fija tras haber superado procesos de concurso publico convocados a mediados de 2026.",
+    "resumen_tweet": "🎓 La Universidad de Granada nombra 13 nuevos Profesores Titulares. Mas del 60% son mujeres. 🏛️ Aunque se cumple la ley, el #BOE sigue ocultando el impacto economico total de estas plazas fijas. #Transparencia #UGR #Opacidad #Universidades",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica asociada a los nombramientos",
+      "Opacidad sobre el numero de candidatos descartados en el proceso",
+      "Consolidacion de gasto publico estructural sin desglose de partidas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ester Bailon Garcia",
+        "Lara Maria Bossini Castillo",
+        "Luis Candaudap Guinea",
+        "Universidad de Granada (estabilizacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Ciudadania (por falta de datos sobre el coste salarial a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Ausencia de memoria economica asociada a los nombramientos",
+      "Opacidad sobre el numero de candidatos descartados en el proceso",
+      "Consolidacion de gasto publico estructural sin desglose de partidas"
+    ]
+  },
+  "tweeted": false
+}
