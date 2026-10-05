@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20605",
+  "timestamp": "2026-10-05T05:52:04.437Z",
+  "title": "Resolución de 25 de septiembre de 2026, de la Universidad de Granada, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario de carrera. Aunque el proceso es publico, el documento oculta el impacto presupuestario real a largo plazo de estos puestos vitalicios. No se detalla la cuantía de los complementos específicos ni el coste total de la estructura de estas plazas. Existe un equilibrio de genero aparente (4 mujeres, 3 hombres), lo cual cumple formalmente con las politicas de igualdad, pero el documento no aporta datos sobre la transparencia de los tribunales de seleccion.",
+    "resumen_ciudadano": "La Universidad de Granada ha nombrado a siete nuevos catedráticos en diversas áreas como Sociología, Botánica y Matemáticas. Estos nombramientos son el resultado de un concurso de acceso convocado meses atrás y otorgan a estos profesores plazas permanentes de alto nivel en la escala académica.",
+    "resumen_tweet": "🎓 La Universidad de Granada suma 7 nuevos catedráticos. Paridad en los nombres, pero opacidad en las cifras: ¿Cuál es el coste total vitalicio de estos nombramientos para el contribuyente? 🤔📉 #BOE #Opacidad #Transparencia #Granada",
+    "banderas_red_flags": [
+      "Opacidad en el coste salarial total",
+      "Potencial endogamia universitaria",
+      "Falta de desglose de partidas presupuestarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 7 académicos nombrados (estabilidad laboral y aumento salarial)",
+        "Estructura administrativa de la Universidad de Granada"
+      ],
+      "perdedores": [
+        "Personal investigador precario (sin acceso a plazas)",
+        "Contribuyentes (por falta de información sobre el gasto público detallado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Opacidad en el coste salarial total",
+      "Potencial endogamia universitaria",
+      "Falta de desglose de partidas presupuestarias"
+    ]
+  },
+  "tweeted": false
+}
