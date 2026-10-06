@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20587",
+  "timestamp": "2026-10-06T05:15:01.095Z",
+  "title": "Orden HAC/1028/2026, de 2 de octubre, por la que se regula la solución pública de facturación electrónica, de acuerdo con lo dispuesto en la disposición final tercera del Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la bandera de la lucha contra la morosidad comercial (Ley 18/2022), esta Orden Ministerial consolida un sistema de vigilancia financiera masiva. La creación de una 'solución pública' por parte de la AEAT no es solo un servicio gratuito para pymes, sino un mecanismo para que el Estado actúe como repositorio universal y obligatorio de todas las transacciones privadas B2B. La exigencia de enviar una 'copia fiel' de cada factura incluso si se usan plataformas privadas elimina de facto el secreto comercial frente a la administración. La complejidad técnica de las sintaxis UBL y el control de 'estados de factura' suponen una carga administrativa que, aunque digitalizada, aumenta la trazabilidad punitiva sobre el pequeño contribuyente.",
+    "resumen_ciudadano": "A partir de 2026, todas las facturas entre autónomos y empresas deberán ser electrónicas. La Agencia Tributaria (Hacienda) ha diseñado un sistema donde recibirá copia de cada factura en tiempo real, supuestamente para controlar que se pague a tiempo, pero permitiéndole un acceso total a los detalles comerciales de cualquier negocio.",
+    "resumen_tweet": "👁️ Hacienda se convierte en el 'Gran Hermano' de tus facturas. El #BOE publica el control total de transacciones B2B: copia fiel obligatoria a la AEAT, incluso usando plataformas privadas. ¿Adiós al secreto comercial? 🧾📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Obligatoriedad de 'copia fiel' a la AEAT para usuarios de plataformas privadas (duplicidad de datos).",
+      "Centralización de datos comerciales sensibles en un repositorio único estatal.",
+      "Riesgo de exclusión para autónomos con baja alfabetización digital ante requerimientos técnicos de sintaxis UBL.",
+      "Uso del pretexto de 'morosidad' para ampliar el control fiscal preventivo."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Estatal de Administración Tributaria (AEAT) por el acceso masivo a datos.",
+        "Empresas de software y consultoras tecnológicas.",
+        "Grandes empresas con sistemas ya digitalizados."
+      ],
+      "perdedores": [
+        "Pequeños autónomos y micro-pymes (coste de adaptación y gestión).",
+        "Privacidad comercial de las relaciones entre proveedores y clientes.",
+        "Plataformas privadas de facturación (quedan supeditadas a la infraestructura pública)."
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Fiscal/Digitalización",
+    "banderas_rojas": [
+      "Obligatoriedad de 'copia fiel' a la AEAT para usuarios de plataformas privadas (duplicidad de datos).",
+      "Centralización de datos comerciales sensibles en un repositorio único estatal.",
+      "Riesgo de exclusión para autónomos con baja alfabetización digital ante requerimientos técnicos de sintaxis UBL.",
+      "Uso del pretexto de 'morosidad' para ampliar el control fiscal preventivo."
+    ]
+  },
+  "tweeted": false
+}
