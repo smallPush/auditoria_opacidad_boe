@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-20745",
+  "timestamp": "2026-10-06T06:09:37.182Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Dirección General de Ordenación del Juego, por la que se aprueban y establecen las especificaciones técnicas del mensaje relativo a los efectos dañinos derivados de la ludopatía o de un comportamiento de riesgo de la persona usuaria y del mensaje relativo a la prohibición de participación a menores de edad en las comunicaciones comerciales de las actividades de juego.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución supone un giro de 180 grados en la comunicación del riesgo: se abandona el paradigma de la 'responsabilidad individual' (juega con responsabilidad) por uno de 'advertencia sanitaria' similar al tabaco. La norma es extremadamente minuciosa en los aspectos técnicos (proporción del 15%, colores CMYK específicos, fuentes tipográficas) para evitar que la industria utilice el diseño gráfico como herramienta de ocultación. No obstante, se detectan dos debilidades: 1) La falta de justificación estadística directa en el texto sobre la cifra del '75% de probabilidad de pérdida'. 2) Una carencia de 3 meses para contratos vigentes que permite una prórroga de la opacidad comercial durante la temporada alta de publicidad.",
+    "resumen_ciudadano": "El Gobierno obliga a las casas de apuestas a cambiar sus mensajes publicitarios. Se prohíbe el lema 'Juega con responsabilidad' y se sustituye por avisos reales sobre el riesgo de ruina, como que el 75% de los jugadores pierden dinero. La ley regula el tamaño exacto de la letra y el tiempo que deben durar los avisos en radio y televisión para que no pasen desapercibidos.",
+    "resumen_tweet": "🚨 El #BOE endurece la publicidad del juego. Adiós al tibio 'juega con responsabilidad'; ahora deberán admitir que el 75% de los usuarios pierde dinero. Control total sobre el diseño para evitar trampas visuales. 🎰📉 #Opacidad #Transparencia #Ludopatía",
+    "banderas_red_flags": [
+      "Cifra del 75% de pérdidas sin citar estudio de referencia en el texto",
+      "Excepción para concursos radiofónicos",
+      "Periodo de gracia de 3 meses para contratos publicitarios ya firmados",
+      "Falta de mención a sanciones específicas por incumplimiento de las métricas de diseño"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Salud Pública",
+        "Menores de edad",
+        "Asociaciones de ludopatía",
+        "Ministerio de Derechos Sociales (cumplimiento de agenda)"
+      ],
+      "perdedores": [
+        "Operadores de juego (costes de adaptación y menor eficacia publicitaria)",
+        "Agencias de marketing (restricción creativa extrema)",
+        "Medios de comunicación (posible reducción de inversión publicitaria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Publicidad y Protección al Consumidor",
+    "banderas_rojas": [
+      "Cifra del 75% de pérdidas sin citar estudio de referencia en el texto",
+      "Excepción para concursos radiofónicos",
+      "Periodo de gracia de 3 meses para contratos publicitarios ya firmados",
+      "Falta de mención a sanciones específicas por incumplimiento de las métricas de diseño"
+    ]
+  },
+  "tweeted": false
+}
