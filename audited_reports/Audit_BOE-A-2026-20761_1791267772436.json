@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20761",
+  "timestamp": "2026-10-06T06:22:52.436Z",
+  "title": "Resolución de 1 de octubre de 2026, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer ejercicio o ejercicio único de la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo en los grupos profesionales M3, M1, E2 y E1, sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 6 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta una transparencia procedimental estándar pero deficiente en términos de accesibilidad ciudadana. El uso de códigos numéricos (6, 7, 11, 15) para justificar la exclusión de aspirantes sin incluir una leyenda explicativa en el mismo documento obliga al ciudadano a una 'arqueología normativa' en boletines anteriores. Además, la centralización del examen exclusivamente en Madrid supone una barrera económica y de clase, penalizando a los opositores de la periferia frente a los residentes en la capital.",
+    "resumen_ciudadano": "Se publican las listas provisionales de admitidos y excluidos para plazas de personal laboral (desde sociólogos hasta técnicos de artes gráficas y obra civil) en el Ministerio de la Presidencia. Los excluidos tienen 10 días hábiles para corregir fallos. El examen será el 21 de noviembre de 2026 en la Politécnica de Madrid.",
+    "resumen_tweet": "🚨 ¡Atención opositores! Publicadas listas en el #BOE para personal laboral del Estado. Examen centralizado en Madrid el 21 de noviembre. ⚠️ Códigos de exclusión opacos y barreras geográficas para la periferia. #Opacidad #Transparencia #EmpleoPúblico",
+    "banderas_red_flags": [
+      "Causas de exclusión mediante códigos numéricos sin leyenda explicativa",
+      "Centralización total de las pruebas selectivas en Madrid",
+      "Obligatoriedad de subsanación exclusivamente telemática",
+      "Opacidad en la composición del órgano de selección (remisión a web externa)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Residentes en la Comunidad de Madrid (ahorro en desplazamientos)",
+        "Gestorías y academias de oposiciones",
+        "Perfiles con alta competencia digital para trámites de subsanación"
+      ],
+      "perdedores": [
+        "Opositores de provincias (coste de viaje y alojamiento)",
+        "Aspirantes con brecha digital",
+        "Candidatos excluidos por errores burocráticos no detallados en el texto"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Sede en Madrid",
+    "tipologia": "Gestión de Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Causas de exclusión mediante códigos numéricos sin leyenda explicativa",
+      "Centralización total de las pruebas selectivas en Madrid",
+      "Obligatoriedad de subsanación exclusivamente telemática",
+      "Opacidad en la composición del órgano de selección (remisión a web externa)"
+    ]
+  },
+  "tweeted": false
+}
