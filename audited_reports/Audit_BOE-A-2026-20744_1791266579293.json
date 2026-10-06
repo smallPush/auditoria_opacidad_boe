@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20744",
+  "timestamp": "2026-10-06T06:02:59.293Z",
+  "title": "Orden TRM/1034/2026, de 1 de octubre, por la que se establecen adaptaciones y concreciones relativas a las ayudas a los sectores del transporte terrestre por ferrocarril contempladas en el artículo 3 del Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en materia de transporte, y en el artículo 28 del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio, en materia de adecuación al régimen de ayudas de Estado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden TRM/1034/2026 articula un sistema de compensación de costes energéticos que, bajo una apariencia técnica impecable, diluye la responsabilidad de control inmediato en la figura de la 'declaración responsable'. Al permitir que la administración verifique solo una 'muestra de beneficiarios' a posteriori, se asume un riesgo de sobrecompensación inicial. Además, la maraña de referencias cruzadas entre el Real Decreto-ley 7/2026, 9/2026 y 18/2026 dificulta el rastreo ciudadano de cuánto dinero público total está recibiendo una sola empresa por diferentes conceptos de crisis energética.",
+    "resumen_ciudadano": "Esta norma detalla cómo las empresas de transporte de mercancías por tren pueden solicitar ayudas para cubrir los altos precios del combustible en 2026. El Gobierno pagará hasta el 70% del sobrecoste comparado con los precios de principios de año. Las empresas solo tienen que presentar una declaración firmada diciendo cuánto gastaron, y el Ministerio revisará si es cierto más adelante y solo a algunos de ellos.",
+    "resumen_tweet": "🚂 El Gobierno compensará el 70% del sobrecoste de combustible al transporte ferroviario. Se fía de la 'declaración responsable' de las empresas con controles solo aleatorios a posteriori. ¿Eficiencia o falta de rigor? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Control posterior por muestreo (no exhaustivo)",
+      "Solapamiento de múltiples ayudas de diferentes decretos-leyes",
+      "Dependencia de declaraciones responsables para el pago inicial",
+      "Complejidad en la fórmula de cálculo del sobrecoste que oculta el desembolso total"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas operadoras de transporte ferroviario de mercancías",
+        "ADIF (como suministrador de referencia)",
+        "Grandes flotas con alta intensidad de consumo energético"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el 70% del riesgo de mercado de empresas privadas)",
+        "Pequeños transportistas con menor capacidad de gestión administrativa",
+        "Sectores no estratégicos que sufren la misma inflación energética sin ayudas directas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Ayudas y Subvenciones por Crisis Geopolítica",
+    "banderas_rojas": [
+      "Control posterior por muestreo (no exhaustivo)",
+      "Solapamiento de múltiples ayudas de diferentes decretos-leyes",
+      "Dependencia de declaraciones responsables para el pago inicial",
+      "Complejidad en la fórmula de cálculo del sobrecoste que oculta el desembolso total"
+    ]
+  },
+  "tweeted": false
+}
