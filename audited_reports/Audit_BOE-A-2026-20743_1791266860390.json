@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20743",
+  "timestamp": "2026-10-06T06:07:40.390Z",
+  "title": "Orden INT/1033/2026, de 1 de octubre, por la que se prorroga el restablecimiento temporal de los controles fronterizos en las fronteras interiores aéreas y marítimas españolas con respecto a los vuelos y enlaces marítimos de pasajeros procedentes de la República Italiana.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La Orden INT/1033/2026 utiliza un lenguaje jurídico estandarizado para ocultar la verdadera naturaleza de la 'amenaza grave' mencionada. Se observa una normalización de la excepcionalidad mediante el encadenamiento de prórrogas de 15 días, una técnica legislativa que evita debates parlamentarios más profundos sobre la suspensión de derechos fundamentales de circulación en el espacio Schengen. No se detalla el coste económico de movilizar efectivos adicionales de seguridad ni se especifica el incidente origen de la supuesta crisis de seguridad interior.",
+    "resumen_ciudadano": "El Gobierno prorroga por tercera vez el cierre parcial de fronteras con Italia (vuelos y barcos), exigiendo controles policiales que limitan el movimiento libre de ciudadanos. La medida se justifica en una supuesta amenaza de seguridad que el Ministerio del Interior no explica detalladamente al público.",
+    "resumen_tweet": "⚠️ El Ministerio del Interior prorroga el control fronterizo con Italia alegando 'amenazas graves' sin especificar cuáles. 🛂 ¿Seguridad o normalización de la excepción? La libre circulación en Schengen vuelve a suspenderse. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la causa fáctica de la amenaza",
+      "Uso de prórrogas sucesivas de corta duración para prolongar una medida excepcional",
+      "Falta de memoria económica sobre el despliegue policial",
+      "Referencia genérica a la seguridad interior sin datos objetivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructuras de control estatal",
+        "Cuerpos y Fuerzas de Seguridad (mayor presupuesto operativo)"
+      ],
+      "perdedores": [
+        "Turistas",
+        "Trabajadores del sector transporte",
+        "Ciudadanos procedentes de Italia",
+        "Libertad de movimiento comunitaria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Seguridad Interior y Fronteras",
+    "banderas_rojas": [
+      "Opacidad en la causa fáctica de la amenaza",
+      "Uso de prórrogas sucesivas de corta duración para prolongar una medida excepcional",
+      "Falta de memoria económica sobre el despliegue policial",
+      "Referencia genérica a la seguridad interior sin datos objetivos"
+    ]
+  },
+  "tweeted": false
+}
