@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20837",
+  "timestamp": "2026-10-07T18:55:11.894Z",
+  "title": "Resolución de 25 de septiembre de 2026, de la Universidad de Zaragoza, por la que se nombra Profesor Titular de Universidad a don Miguel Ángel Puente Ajovín.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera tras un concurso de acceso. Aunque el proceso es legalmente impecable bajo la LOSU y los estatutos de la Universidad de Zaragoza, la opacidad reside en la naturaleza de los 'concursos' universitarios en España, a menudo percibidos como procesos de baja competitividad externa. No se detallan los méritos ni la composición de la comisión evaluadora en este extracto, lo que impide una fiscalización ciudadana real sobre la idoneidad del candidato para un puesto vitalicio financiado con fondos públicos.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha nombrado formalmente a Miguel Ángel Puente Ajovín como Profesor Titular de Universidad en el área de Análisis Económico. Este nombramiento le otorga la condición de funcionario de carrera, con un sueldo y plaza asegurados de forma permanente tras haber superado el proceso selectivo correspondiente.",
+    "resumen_tweet": "🎓 Nueva plaza vitalicia en la @unizar. Miguel Ángel Puente Ajovín nombrado Profesor Titular de Economía. El BOE publica el blindaje de otra plaza de funcionario de carrera sin detalle de méritos. #BOE #Opacidad #Transparencia #Universidad 🏛️📉",
+    "banderas_red_flags": [
+      "Gasto consolidado a largo plazo (sueldo vitalicio)",
+      "Falta de visibilidad de los méritos específicos en el anuncio",
+      "Sistema de acceso docente con históricas críticas por falta de movilidad externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Miguel Ángel Puente Ajovín (obtiene plaza fija)",
+        "Universidad de Zaragoza (consolida su plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información del concurso",
+        "Contribuyentes (compromiso de gasto público sin evaluación de desempeño pública)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramiento de personal docente funcionario",
+    "banderas_rojas": [
+      "Gasto consolidado a largo plazo (sueldo vitalicio)",
+      "Falta de visibilidad de los méritos específicos en el anuncio",
+      "Sistema de acceso docente con históricas críticas por falta de movilidad externa"
+    ]
+  },
+  "tweeted": false
+}
