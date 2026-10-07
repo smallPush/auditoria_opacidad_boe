@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20825",
+  "timestamp": "2026-10-07T05:44:46.022Z",
+  "title": "Orden SND/1053/2026, de 1 de octubre, por la que se procede a la actualización en 2026 del sistema de precios de referencia de medicamentos en el Sistema Nacional de Salud.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden SND/1053/2026 presenta una dualidad técnica. Por un lado, cumple con la rutina administrativa de ajustar precios mediante el sistema de agrupaciones ATC5. Sin embargo, la inclusión de la nueva normativa (Ley 7/2025) introduce una opacidad significativa: la facultad de eximir fármacos de las bajadas de precio o incluso revisarlos 'al alza' bajo conceptos subjetivos como 'medicamentos estratégicos'. Esta discrecionalidad, aunque justificada para evitar desabastecimientos, abre una puerta trasera a la presión de los lobbies farmacéuticos sobre la Comisión Interministerial de Precios, diluyendo el ahorro que tradicionalmente aportaban los genéricos al Sistema Nacional de Salud.",
+    "resumen_ciudadano": "El Gobierno actualiza el catálogo de precios de los medicamentos para 2026. Aunque esto suele significar que algunos fármacos bajan de precio, la nueva normativa permite que Sanidad suba el precio o perdone las bajadas a ciertos medicamentos considerados 'estratégicos' para que las farmacéuticas no dejen de fabricarlos. Esto busca evitar la falta de suministros en farmacias, pero a costa de un mayor gasto público.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Sanidad actualiza los precios de los medicamentos para 2026. Ojo: la nueva ley permite SUBIDAS de precio en fármacos 'estratégicos'. ¿Garantía de suministro o concesión a las farmacéuticas? 💊📈 #Opacidad #Transparencia #SaludPública",
+    "banderas_red_flags": [
+      "Revisión al alza de precios de forma motivada por la Comisión Interministerial",
+      "Exenciones al sistema de precios de referencia para fármacos específicos",
+      "Uso de coeficientes que incrementan el precio de referencia",
+      "Mantenimiento de exclusiones para 'innovaciones galénicas' previas a 2012"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria farmacéutica (fabricantes de fármacos estratégicos y biosimilares)",
+        "Grandes laboratorios con innovaciones galénicas protegidas",
+        "Empresas de distribución por el mantenimiento de márgenes en productos exentos de bajada"
+      ],
+      "perdedores": [
+        "Contribuyentes (potencial aumento del gasto farmacéutico público)",
+        "Pacientes crónicos (si el incremento del precio industrial se traslada al copago)",
+        "Sostenibilidad a largo plazo del Sistema Nacional de Salud ante la discrecionalidad de precios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Económica Sanitaria / Farmacéutica",
+    "banderas_rojas": [
+      "Revisión al alza de precios de forma motivada por la Comisión Interministerial",
+      "Exenciones al sistema de precios de referencia para fármacos específicos",
+      "Uso de coeficientes que incrementan el precio de referencia",
+      "Mantenimiento de exclusiones para 'innovaciones galénicas' previas a 2012"
+    ]
+  },
+  "tweeted": false
+}
