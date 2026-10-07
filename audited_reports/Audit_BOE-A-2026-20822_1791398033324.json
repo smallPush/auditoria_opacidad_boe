@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20822",
+  "timestamp": "2026-10-07T18:33:53.324Z",
+  "title": "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El texto presenta un caso extremo de 'legislacion de urgencia' motivado por la disolucion de las Cortes. El uso del Real Decreto-ley para reinstaurar una norma previamente derogada por el Congreso el 29 de septiembre de 2026 es una maniobra que bordea el fraude de ley parlamentario. La introduccion de una 'indemnización por no renovacion' basada en el 'valor de referencia' traslada un coste economico al sector privado sin un analisis de impacto presupuestario claro, utilizando conceptos tributarios opacos para regular relaciones civiles. La exposicion de motivos admite que la medida busca calmar protestas sociales especificas antes de unas elecciones, lo que sugiere una instrumentalizacion del BOE con fines electoralistas.",
+    "resumen_ciudadano": "El Gobierno aprueba por decreto una ley que obliga a prorrogar los alquileres de vivienda habitual de forma automatica tras los 5 o 7 años iniciales. Si el casero no quiere renovar, debera avisar con 6 meses de antelacion y pagar una indemnización economica al inquilino basada en el valor de la vivienda y los años que lleve viviendo alli, salvo si necesita el piso para si mismo. Esta norma se publica justo tras disolverse el Parlamento y convocarse elecciones.",
+    "resumen_tweet": "🚨 ¡Alerta democrática! El Gobierno resucita por Decreto-ley una norma tumbada en el Congreso tras disolver las Cámaras. Prórrogas de alquiler forzosas e indemnizaciones opacas basadas en valores catastrales. ¿Estabilidad o campaña? 🗳️🏠 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Reiteracion de normativa derogada por el poder legislativo",
+      "Uso de conceptos fiscalmente opacos (valor de referencia) para indemnizaciones civiles",
+      "Aprobacion en periodo de disolucion de camaras y convocatoria electoral",
+      "Falta de informes de impacto economico sobre la oferta de alquiler",
+      "Incongruencia entre la urgencia alegada y la demora en los efectos transitorios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inquilinos actuales con contratos proximos a vencer (ganan tiempo e indemnizaciones)",
+        "Partidos del Gobierno (rentabilizacion electoral de la indignacion social)",
+        "Administracion (traslada la carga de proteccion social al propietario privado)"
+      ],
+      "perdedores": [
+        "Pequeños propietarios (asumen costes de salida y perdida de disponibilidad de su bien)",
+        "Futuros inquilinos (previsible contraccion de la oferta y endurecimiento de requisitos)",
+        "Seguridad juridica (uso abusivo de la figura del Real Decreto-ley)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Vivienda y Arrendamientos",
+    "banderas_rojas": [
+      "Reiteracion de normativa derogada por el poder legislativo",
+      "Uso de conceptos fiscalmente opacos (valor de referencia) para indemnizaciones civiles",
+      "Aprobacion en periodo de disolucion de camaras y convocatoria electoral",
+      "Falta de informes de impacto economico sobre la oferta de alquiler",
+      "Incongruencia entre la urgencia alegada y la demora en los efectos transitorios"
+    ]
+  },
+  "tweeted": false
+}
