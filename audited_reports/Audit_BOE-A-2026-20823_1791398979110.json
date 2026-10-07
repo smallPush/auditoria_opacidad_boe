@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20823",
+  "timestamp": "2026-10-07T18:49:39.110Z",
+  "title": "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El texto utiliza la figura del Real Decreto-ley para implementar cambios estructurales profundos en materia de vivienda y fiscalidad, lo que reduce el margen de debate parlamentario. Destaca el uso de una retórica inusualmente emocional y populista para un texto legislativo, mencionando casos individuales para legitimar medidas técnicas de alta complejidad. Existe una clara incongruencia ideológica al prometer seguridad jurídica para pequeños propietarios mientras se imponen restricciones de precios y se dilatan los procesos judiciales de recuperación de inmuebles. Se detectan 'gastos fantasma' potenciales en la financiación de la nueva entidad CASA 47 y el Plan Estatal 2026-2030, cuyos detalles operativos quedan postergados a desarrollos reglamentarios posteriores.",
+    "resumen_ciudadano": "Esta norma impone una intervención directa en el mercado inmobiliario mediante la congelación de alquileres en zonas de alta demanda y la persecución de viviendas turísticas ilegales. Crea una nueva empresa pública de vivienda (CASA 47) y modifica leyes clave para dificultar los desahucios de personas vulnerables, ofreciendo a cambio incentivos fiscales en el IRPF e IVA para quienes fomenten el alquiler asequible.",
+    "resumen_tweet": "🏠 El nuevo RDL 29/2026 busca blindar la función social de la vivienda: alquileres congelados, cerco a pisos turísticos y protección ante desahucios. 🛑 ¿Intervención necesaria o parche electoralista sin debate? #BOE #Vivienda #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de vía de urgencia para reformas fiscales (IVA/IRPF) permanentes",
+      "Falta de concreción presupuestaria inmediata para la entidad CASA 47",
+      "Inseguridad jurídica derivada de la prórroga extraordinaria de contratos",
+      "Lenguaje legislativo con carga subjetiva y emocional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inquilinos en zonas tensionadas",
+        "Administración General del Estado (mayor control centralizado)",
+        "Colectivos en situación de vulnerabilidad residencial"
+      ],
+      "perdedores": [
+        "Plataformas de alquiler turístico",
+        "Grandes inversores inmobiliarios",
+        "Pequeños propietarios con rentas por encima de índice"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Vivienda y Urbanismo / Fiscal",
+    "banderas_rojas": [
+      "Uso de vía de urgencia para reformas fiscales (IVA/IRPF) permanentes",
+      "Falta de concreción presupuestaria inmediata para la entidad CASA 47",
+      "Inseguridad jurídica derivada de la prórroga extraordinaria de contratos",
+      "Lenguaje legislativo con carga subjetiva y emocional"
+    ]
+  },
+  "tweeted": false
+}
