@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20824",
+  "timestamp": "2026-10-07T05:38:09.872Z",
+  "title": "Instrucción de 29 de septiembre de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en relación con la Instrucción de 11 de septiembre de 2000, de la Dirección General de los Registros y del Notariado, sobre la forma de acreditar ante Notario y Registrador la constitución de las garantías a que se refiere el artículo 20.1 de la Ley de Ordenación de la Edificación.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La instruccion moderniza un procedimiento de 2000 para validar el uso de firmas electronicas cualificadas y codigos CSV en los seguros decenales obligatorios. Aunque parece un avance tecnico neutro, traslada la responsabilidad de la verificacion de autenticidad a plataformas privadas de las aseguradoras. No se detectan 'gastos fantasma' directos, ya que regula la interaccion entre privados y fedatarios, pero consolida el poder de certificacion de las grandes aseguradoras frente al usuario final.",
+    "resumen_ciudadano": "Esta norma permite que los certificados del seguro de 10 anos de las viviendas nuevas (seguro decenal) se firmen digitalmente. Los notarios y registradores podran usar codigos QR o firmas electronicas para comprobar que el seguro es valido, agilizando el tramite de escriturar y registrar casas nuevas.",
+    "resumen_tweet": "🏦 El #BOE digitaliza el seguro decenal. Notarios y Registradores aceptaran firmas electronicas y QR para las garantias de tu vivienda. Agiliza tramites, pero ¿quien vigila la ciberseguridad de estos certificados privados? 🏘️💻 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Verificacion de autenticidad delegada en servidores web de empresas privadas de seguros",
+      "Ausencia de un registro publico centralizado de polizas decenales para consulta ciudadana directa",
+      "Posible brecha digital para pequenos promotores o autoconstructores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes companias aseguradoras (agilidad procesal)",
+        "Promotoras inmobiliarias (reduccion de tiempos en fin de obra)",
+        "Notarios y Registradores (claridad en la recepcion de documentos digitales)"
+      ],
+      "perdedores": [
+        "Ciudadanos compradores (no se mejora la cobertura, solo el tramite)",
+        "Pequeños constructores con dificultades para implementar firmas cualificadas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modernizacion Administrativa y Seguridad Juridica",
+    "banderas_rojas": [
+      "Verificacion de autenticidad delegada en servidores web de empresas privadas de seguros",
+      "Ausencia de un registro publico centralizado de polizas decenales para consulta ciudadana directa",
+      "Posible brecha digital para pequenos promotores o autoconstructores"
+    ]
+  },
+  "tweeted": false
+}
