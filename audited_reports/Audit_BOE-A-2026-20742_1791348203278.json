@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20742",
+  "timestamp": "2026-10-07T04:43:23.278Z",
+  "title": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Aunque el decreto cumple estrictamente con el formalismo legal de la LOREG, existe una opacidad intrínseca sobre el coste real de la convocatoria. Se activa una maquinaria administrativa y publicitaria masiva sin especificar una memoria económica adjunta en el BOE. La disolución implica la paralización de toda la actividad legislativa en curso, lo que supone un coste de oportunidad ignorado en el texto. La brevedad del periodo entre la publicación y la constitución (apenas 2 meses) beneficia a las estructuras de partidos ya consolidadas frente a nuevas opciones ciudadanas.",
+    "resumen_ciudadano": "El Gobierno disuelve oficialmente el Congreso y el Senado. Se convocan elecciones generales para el domingo 29 de noviembre de 2026. La campaña electoral durará dos semanas (del 13 al 27 de noviembre) y las nuevas cámaras se formarán el 23 de diciembre, en vísperas de Navidad.",
+    "resumen_tweet": "🚨 ¡A las urnas! El #BOE publica la disolución de las Cortes para el 29-N. 🗳️ Mucha fecha oficial, pero ni rastro del coste total que pagaremos todos por este proceso. ¿Y la transparencia económica? #Elecciones2026 #Opacidad #Transparencia 💸",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del proceso electoral",
+      "Paralización de la actividad legislativa vigente",
+      "Gasto en publicidad institucional no desglosado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de marketing y publicidad política",
+        "Estructuras de partidos mayoritarios",
+        "Consultoras de comunicación"
+      ],
+      "perdedores": [
+        "Contribuyentes (coste del proceso)",
+        "Iniciativas legislativas populares estancadas",
+        "Estabilidad administrativa a corto plazo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (España)",
+    "tipologia": "Real Decreto de Convocatoria Electoral",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del proceso electoral",
+      "Paralización de la actividad legislativa vigente",
+      "Gasto en publicidad institucional no desglosado"
+    ]
+  },
+  "tweeted": false
+}
