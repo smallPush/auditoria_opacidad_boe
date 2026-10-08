@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20909",
+  "timestamp": "2026-10-08T05:50:32.500Z",
+  "title": "Corrección de errores de la Aplicación provisional del Acuerdo de Sede entre el Reino de España y el Fondo de las Naciones Unidas para la Infancia relativo al establecimiento de una Oficina Global de UNICEF, hecho en Nueva York y Madrid el 25 de agosto y 11 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Aunque se presenta como una simple corrección de ubicación (Nueva York por Washington), el texto subyacente regula la 'Aplicación provisional' de un Acuerdo de Sede. Esta figura jurídica permite al Gobierno otorgar privilegios, inmunidades y exenciones fiscales a organismos internacionales antes de que el Parlamento ratifique formalmente el tratado. La opacidad reside en que los costes de mantenimiento, seguridad y cesión de inmuebles de estas 'Oficinas Globales' suelen diluirse en partidas genéricas del Ministerio de Asuntos Exteriores sin un desglose directo para el ciudadano.",
+    "resumen_ciudadano": "España formaliza la sede de una nueva oficina global de UNICEF. El BOE corrige un error de forma sobre el lugar de firma del acuerdo. En la práctica, esto supone que España asumirá responsabilidades financieras y legales para albergar a este organismo, otorgándole beneficios especiales en suelo nacional.",
+    "resumen_tweet": "🕵️‍♂️ Nueva 'Oficina Global' de UNICEF en España. Detrás de una simple corrección de errores en el #BOE se esconden 'Acuerdos de Sede' que implican privilegios diplomáticos y costes públicos no detallados. ¿Transparencia? Escasa. 💸 #Opacidad #España",
+    "banderas_red_flags": [
+      "Aplicación provisional: ejecución antes de ratificación parlamentaria completa",
+      "Acuerdo de Sede: sinónimo de exenciones fiscales y gasto en infraestructura estatal",
+      "Falta de memoria económica adjunta en la publicación de la corrección",
+      "Error en datos básicos (sede de firma) indica supervisión administrativa laxa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "UNICEF (obtiene estatus diplomático y oficina financiada)",
+        "Ministerio de Asuntos Exteriores (capital político internacional)",
+        "Personal diplomático (inmunidades y beneficios fiscales)"
+      ],
+      "perdedores": [
+        "Contribuyente medio (financiación de infraestructura sin retorno directo)",
+        "PYMES locales (que no disfrutan de las exenciones fiscales de los acuerdos de sede)",
+        "Soberanía fiscal (por la creación de zonas de exclusión impositiva)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Tratado Internacional / Corrección de Errores",
+    "banderas_rojas": [
+      "Aplicación provisional: ejecución antes de ratificación parlamentaria completa",
+      "Acuerdo de Sede: sinónimo de exenciones fiscales y gasto en infraestructura estatal",
+      "Falta de memoria económica adjunta en la publicación de la corrección",
+      "Error en datos básicos (sede de firma) indica supervisión administrativa laxa"
+    ]
+  },
+  "tweeted": false
+}
