@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20910",
+  "timestamp": "2026-10-08T05:46:20.241Z",
+  "title": "Real Decreto 807/2026, de 7 de octubre, por el que se regula el Banco Estatal de ADN de Víctimas de la Guerra y la Dictadura.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 807/2026 formaliza la centralización de datos biogenéticos de víctimas de la Guerra y Dictadura bajo el control del INTCF. Aunque el texto presume transparencia y eficiencia al unificar bases de datos dispersas, existe una ambigüedad financiera en la Disposición Adicional Primera, que supedita los gastos a las 'normas básicas de gasto de personal' sin asignar una partida presupuestaria nueva y específica. Esto podría derivar en 'Gastos Fantasma' donde el coste de las exhumaciones y análisis se diluye en presupuestos ordinarios de Justicia, dificultando su fiscalización. Además, la dependencia de un 'manual técnico' y protocolos aún no redactados (Art. 7.4) mantiene una zona de opacidad sobre los criterios técnicos de exclusión de laboratorios.",
+    "resumen_ciudadano": "Se establece un Banco Estatal de ADN para centralizar y comparar los perfiles genéticos de desaparecidos durante la Guerra Civil, la Dictadura y casos de bebés robados. El objetivo es que las familias puedan identificar a sus parientes de forma gratuita y voluntaria, integrando la información de laboratorios regionales y privados en un único sistema nacional gestionado por el Ministerio de Justicia.",
+    "resumen_tweet": "🧬 El Gobierno crea el Banco Estatal de ADN para víctimas de la Guerra y bebés robados. Se centralizan datos para facilitar identificaciones, pero 🚩 ojo a la falta de presupuesto específico y protocolos pendientes de redactar. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Indeterminación presupuestaria específica en la Disposición Adicional Primera",
+      "Remisión de protocolos técnicos a manuales futuros no publicados",
+      "Potencial embudo burocrático en la acreditación de laboratorios por la CNUFADN"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias de víctimas (mayor capacidad de cotejo nacional)",
+        "Instituto Nacional de Toxicología (centralización de poder forense)",
+        "Grandes laboratorios con certificación ISO 17025"
+      ],
+      "perdedores": [
+        "Pequeños laboratorios forenses sin recursos para la acreditación exigida",
+        "Administraciones Autonómicas que pierden la exclusividad de sus bases de datos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Memoria Democrática y Justicia",
+    "banderas_rojas": [
+      "Indeterminación presupuestaria específica en la Disposición Adicional Primera",
+      "Remisión de protocolos técnicos a manuales futuros no publicados",
+      "Potencial embudo burocrático en la acreditación de laboratorios por la CNUFADN"
+    ]
+  },
+  "tweeted": false
+}
