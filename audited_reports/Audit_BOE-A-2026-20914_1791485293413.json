@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20914",
+  "timestamp": "2026-10-08T18:48:13.413Z",
+  "title": "Real Decreto 812/2026, de 7 de octubre, por el que se regula la concesión directa de una subvención a la Fundación para Estudios Parlamentarios y del Estado Autonómico «Manuel Giménez Abad» para la realización de actividades para el estudio del modelo territorial español.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 812/2026 utiliza la figura de la 'concesión directa' amparándose en el artículo 22.2.c de la Ley General de Subvenciones, una excepción legal que permite evitar el concurso público. El texto justifica esta dedocracia alegando que la Fundación Manuel Giménez Abad es una 'entidad idónea y única', un argumento recurrente para blindar partidas frente a la libre concurrencia de otras instituciones académicas o centros de investigación. Aunque la cuantía es moderada (30.000€), la opacidad reside en la discrecionalidad del procedimiento y en la declaración de 'insustituible' de una entidad privada-pública ligada a estructuras parlamentarias específicas, perpetuando redes de influencia académica financiadas con fondos estatales prorrogados.",
+    "resumen_ciudadano": "El Gobierno ha otorgado directamente 30.000 euros a la Fundación Manuel Giménez Abad para realizar estudios y seminarios sobre el modelo territorial de España. En lugar de abrir una convocatoria para que diferentes universidades o centros de estudio compitan por estos fondos presentando las mejores propuestas, el Ministerio de Política Territorial ha decidido que solo esta fundación puede realizar el trabajo, alegando razones de 'interés público' y 'especialización única'. El dinero proviene de presupuestos de 2023 que han sido prorrogados hasta 2026.",
+    "resumen_tweet": "💸 30.000€ adjudicados A DEDO a una fundación específica para estudiar el modelo autonómico. El #BOE usa la 'excepcionalidad' para evitar que otras universidades compitan. ¿Ciencia o red de favores? 🧐🏛️ #Opacidad #Transparencia #GastosFantasma",
+    "banderas_red_flags": [
+      "Concesión directa sin concurso público",
+      "Uso de cláusula de excepcionalidad genérica",
+      "Justificación de beneficiario único/insustituible",
+      "Financiación mediante presupuestos prorrogados",
+      "Subvención nominativa encubierta"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación Manuel Giménez Abad",
+        "Élites académicas de Derecho Constitucional vinculadas a la fundación",
+        "Ministerio de Política Territorial (mantenimiento de cuotas de influencia)"
+      ],
+      "perdedores": [
+        "Departamentos de Derecho de Universidades Públicas (excluidos de competir)",
+        "Contribuyentes (por falta de optimización del gasto mediante concurrencia)",
+        "Think-tanks independientes"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Subvención de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurso público",
+      "Uso de cláusula de excepcionalidad genérica",
+      "Justificación de beneficiario único/insustituible",
+      "Financiación mediante presupuestos prorrogados",
+      "Subvención nominativa encubierta"
+    ]
+  },
+  "tweeted": false
+}
