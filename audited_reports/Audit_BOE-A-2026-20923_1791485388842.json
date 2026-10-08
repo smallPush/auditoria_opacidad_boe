@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20923",
+  "timestamp": "2026-10-08T18:49:48.842Z",
+  "title": "Orden PJC/1061/2026, de 29 de septiembre, por la que se modifica la Orden PJC/742/2026, de 30 de junio, y se nombra personal funcionario de carrera y se adjudican destinos en el Cuerpo Especial de Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden revela una falla en la fase de verificación previa del proceso selectivo. Se excluye a dos personas que ya figuraban como 'aprobadas' en una orden anterior (PJC/742/2026), lo que indica que el control de requisitos se realizó a posteriori de la publicación de resultados. Esto genera inseguridad jurídica para los aspirantes y demuestra una gestión administrativa reactiva en lugar de preventiva. Si bien se aplica la norma de 'lista complementaria', el hecho de que se detecten incumplimientos de bases comunes meses después de la evaluación sugiere una fiscalización laxa en las etapas intermedias del concurso-oposición.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha modificado el listado de nuevos funcionarios del Cuerpo de Ayudantes de Laboratorio de Toxicología. Dos personas que inicialmente habían aprobado han sido expulsadas por no cumplir con los requisitos legales exigidos en las bases. En su lugar, se ha nombrado a las dos siguientes personas con mejor nota de la lista de reserva y se han asignado las plazas definitivas en Madrid, Barcelona y Valencia.",
+    "resumen_tweet": "🔍 El Ministerio de Justicia rectifica: expulsa a 2 aspirantes ya 'aprobados' por fallos en los requisitos y nombra a sus sustitutos en Toxicología. ¿Falta de control previo en los procesos? 🧬🏛️ #BOE #Opacidad #Transparencia #Justicia #Oposiciones",
+    "banderas_red_flags": [
+      "Exclusión de aspirantes tras publicación oficial de aprobados",
+      "Fallo en la verificación inicial de requisitos de participación",
+      "Uso de lista complementaria por decaimiento de derechos de terceros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gema del Río Gil (accede por lista complementaria)",
+        "María Luisa Carbellido Rodríguez (accede por lista complementaria)",
+        "Administración de Justicia (cubre vacantes técnicas)"
+      ],
+      "perdedores": [
+        "Marta Boleko Esteves-García (excluida del proceso)",
+        "José Antonio Navarro Sánchez (excluido del proceso)",
+        "Eficiencia administrativa (por errores en el filtrado inicial de candidatos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Exclusión de aspirantes tras publicación oficial de aprobados",
+      "Fallo en la verificación inicial de requisitos de participación",
+      "Uso de lista complementaria por decaimiento de derechos de terceros"
+    ]
+  },
+  "tweeted": false
+}
