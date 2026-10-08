@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20908",
+  "timestamp": "2026-10-08T18:32:10.949Z",
+  "title": "Acuerdo Individual de Cofinanciación entre el Fondo Internacional de Desarrollo Agrícola y el Reino de España, hecho en Madrid y Roma el 14 y 15 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa una desproporción flagrante en la cofinanciación: España aporta 96 millones de euros (92M en crédito y 4M en donación), mientras que el FIDA solo aporta 8 millones. A pesar de que España es el principal financiador, se externaliza la supervisión al FIDA pagando una 'Comisión de Servicio' adicional de 445.000 USD. Este modelo de ayuda al desarrollo mediante créditos (endeudamiento) en lugar de subvenciones directas, junto con el pago de jugosas comisiones de gestión a organismos internacionales, plantea dudas sobre la eficiencia real del gasto público y la soberanía en la gestión de los fondos de cooperación.",
+    "resumen_ciudadano": "España financia con 96 millones de euros un proyecto de desarrollo rural en el estado brasileño de Ceará. Lo llamativo es que, aunque España pone casi todo el dinero, le pagamos medio millón de dólares adicionales al Fondo Internacional de Desarrollo Agrícola (FIDA) solo para que vigilen cómo se gasta. Además, la mayor parte de la ayuda española no es un regalo, sino un préstamo que Brasil deberá devolver.",
+    "resumen_tweet": "🚨 ¿Ayuda o negocio? España pone 96M€ para desarrollo en Brasil 🇧🇷 pero le paga al FIDA 445.000$ extra solo por 'gestionar' nuestro dinero. Financiamos el 70% del proyecto y encima pagamos comisión. ¡Ojo a los créditos disfrazados de ayuda! 💸 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Comisión de servicio de 445.000 USD por supervisión",
+      "Aportación española 12 veces superior a la del organismo gestor",
+      "Uso predominante de créditos (92M€) frente a donaciones (4M€)",
+      "Externalización de la auditoría y seguimiento a un ente tercero remunerado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "FIDA (cobra comisiones por gestionar fondos ajenos)",
+        "Estado de Ceará (recibe financiación masiva)",
+        "Empresas de consultoría y gestión de proyectos internacionales"
+      ],
+      "perdedores": [
+        "Contribuyentes españoles (asumen el riesgo del crédito)",
+        "Beneficiarios locales (deben aportar 10 millones de euros de su propio bolsillo)",
+        "Transparencia pública (la gestión se diluye en organismos internacionales)"
+      ]
+    },
+    "comunidad_autonoma": "No aplica (Ámbito Internacional)",
+    "tipologia": "Acuerdo Internacional de Cooperación",
+    "banderas_rojas": [
+      "Comisión de servicio de 445.000 USD por supervisión",
+      "Aportación española 12 veces superior a la del organismo gestor",
+      "Uso predominante de créditos (92M€) frente a donaciones (4M€)",
+      "Externalización de la auditoría y seguimiento a un ente tercero remunerado"
+    ]
+  },
+  "tweeted": false
+}
