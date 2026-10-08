@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-20911",
+  "timestamp": "2026-10-08T05:51:54.199Z",
+  "title": "Real Decreto 808/2026, de 7 de octubre, por el que se modifica el Real Decreto 760/2021, de 31 de agosto, por el que se aprueba la norma de calidad de los aceites de oliva y de orujo de oliva.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 808/2026 busca cerrar brechas de trazabilidad en el sector del aceite de oliva, un sector estratégico propenso al fraude por mezcla. Aunque se presenta como una mejora técnica, introduce el concepto ambiguo de 'documento asimilado' al boletín de análisis, lo que genera una zona gris de cumplimiento donde la veracidad de la calidad queda bajo la responsabilidad del operador hasta que la autoridad decida inspeccionar. La norma incrementa la vigilancia sobre el granel y las importaciones, intentando evitar que movimientos de aceite 'desaparezcan' del sistema informático al no notificarse su recepción. Sin embargo, no especifica los costes de implementación para pequeños productores ante esta mayor digitalización.",
+    "resumen_ciudadano": "El Gobierno actualiza las reglas del aceite de oliva para controlar mejor su transporte y origen. A partir de ahora, todas las empresas deben confirmar por internet cuando reciben un cargamento de aceite y adjuntar los análisis de calidad obligatoriamente. Se busca vigilar especialmente el aceite que viene del extranjero y asegurar que lo que compramos es realmente lo que dice la etiqueta, evitando fraudes en el transporte a granel.",
+    "resumen_tweet": "🫒 ¡Más control al 'oro líquido'! El #BOE refuerza la trazabilidad del aceite de oliva para evitar fraudes en el transporte a granel y vigilar importaciones. Menos margen para aceites fantasma, más burocracia digital. 🇪🇸 #Transparencia #AceiteDeOliva",
+    "banderas_red_flags": [
+      "Ambigüedad en el término 'documento asimilado' frente al boletín de análisis oficial.",
+      "Discrecionalidad en la valoración de riesgos por parte de las autoridades al aceptar documentos no normalizados.",
+      "Aumento de la carga administrativa para operadores sin especificar apoyos económicos para la transición digital."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes exportadores (fortalecimiento de la Marca España)",
+        "Consumidores (mayor garantía teórica de autenticidad)",
+        "Ministerio de Agricultura (mayor control de datos en tiempo real)"
+      ],
+      "perdedores": [
+        "Pequeños productores (mayor peso de gestión administrativa)",
+        "Importadores de terceros países (controles más rígidos y definición de responsabilidad clara)",
+        "Operadores con infraestructuras digitales precarias"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa de Calidad Alimentaria / Control de Mercados",
+    "banderas_rojas": [
+      "Ambigüedad en el término 'documento asimilado' frente al boletín de análisis oficial.",
+      "Discrecionalidad en la valoración de riesgos por parte de las autoridades al aceptar documentos no normalizados.",
+      "Aumento de la carga administrativa para operadores sin especificar apoyos económicos para la transición digital."
+    ]
+  },
+  "tweeted": false
+}
