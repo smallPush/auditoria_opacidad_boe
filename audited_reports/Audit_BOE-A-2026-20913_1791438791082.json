@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-20913",
+  "timestamp": "2026-10-08T05:53:11.082Z",
+  "title": "Real Decreto 811/2026, de 7 de octubre, por el que se regula la concesión directa de una subvención al Observatorio de Derecho Público IDP Barcelona, para la realización de actividades para el estudio del modelo territorial español.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 811/2026 utiliza la figura de la 'concesión directa' amparándose en el artículo 22.2.c de la Ley General de Subvenciones para evitar la concurrencia competitiva. La justificación de que el Observatorio IDP Barcelona es 'insustituible' y posee 'características únicas' es un argumento circular que blinda financieramente a una entidad específica frente al resto del ecosistema académico. Aunque se detalla el destino (seminarios e informes), el periodo de ejecución es preventivo (todo el 2027), lo que sugiere una externalización del pensamiento estratégico territorial para legitimar políticas gubernamentales mediante el sello de 'rigor académico' sin permitir que otras universidades u observatorios oferten mejores servicios o precios.",
+    "resumen_ciudadano": "El Gobierno ha otorgado una subvención directa (sin concurso público) a un observatorio vinculado a la Universidad de Barcelona para realizar estudios, congresos y publicaciones sobre el modelo autonómico español durante el año 2027. El dinero cubrirá desde sueldos y dietas hasta gastos de publicidad y edición de informes. Al no haber competencia, no se garantiza que el coste sea el más bajo posible para el contribuyente ni que otras instituciones no pudieran realizar el mismo trabajo con mayor neutralidad o eficiencia.",
+    "resumen_tweet": "🚨 ¡Adjudicación a dedo! El Gobierno otorga subvención directa al IDP Barcelona para 'estudiar' el modelo territorial en 2027. Sin concurso público, pagamos dietas, conferencias y propaganda. ¿Ciencia o red clientelar? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva bajo el pretexto de 'singularidad'",
+      "Inclusión de conceptos vagos como 'cualquier otra actuación' supeditada a una memoria interna",
+      "Financiación de dietas y gastos de locomoción de conferenciantes del Grupo 1 (máxima categoría)",
+      "Subvención de gastos corrientes y personal sin desglose presupuestario previo en el texto legal",
+      "Limitación de la transparencia al evitar que otras universidades compitan por los mismos fondos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Observatorio de Derecho Público IDP Barcelona (financiación asegurada)",
+        "Catedráticos y ponentes habituales del Foro de las Autonomías",
+        "Ministerio de Política Territorial (externaliza la legitimación de su modelo)"
+      ],
+      "perdedores": [
+        "Resto de universidades públicas españolas (excluidas del proceso)",
+        "Contribuyentes (por falta de licitación competitiva)",
+        "Principio de igualdad en el acceso a fondos públicos de investigación"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva bajo el pretexto de 'singularidad'",
+      "Inclusión de conceptos vagos como 'cualquier otra actuación' supeditada a una memoria interna",
+      "Financiación de dietas y gastos de locomoción de conferenciantes del Grupo 1 (máxima categoría)",
+      "Subvención de gastos corrientes y personal sin desglose presupuestario previo en el texto legal",
+      "Limitación de la transparencia al evitar que otras universidades compitan por los mismos fondos"
+    ]
+  },
+  "tweeted": false
+}
