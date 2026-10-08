@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20926",
+  "timestamp": "2026-10-08T18:54:16.433Z",
+  "title": "Resolución 430/38407/2026, de 29 de septiembre, de la Subsecretaría, por la que se modifica la Resolución 430/38142/2026, de 10 de marzo, por la que se nombra personal estatutario fijo en la categoría de Celador/a en la Red Hospitalaria de la Defensa.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja la gestión de vacantes en la Red Hospitalaria de la Defensa tras la renuncia o falta de documentación de tres aspirantes. Lo más llamativo es la opacidad en la redistribución de plazas: se anuncian tres bajas (Anexo I) pero solo se nombra a una persona sustituta (Anexo II). Esto se debe a la conversión de plazas del 'Cupo de Reserva Militar' a 'Cupo General' al quedar desiertas, una práctica técnica que diluye la claridad sobre cuántos puestos quedan realmente sin cubrir. El lenguaje es puramente procedimental, lo que dificulta al ciudadano rastrear si la Red Hospitalaria está perdiendo capacidad operativa real por falta de cobertura de estas plazas de celador.",
+    "resumen_ciudadano": "Defensa actualiza la lista de celadores fijos para sus hospitales porque tres personas seleccionadas no han llegado a ocupar su puesto. Se ha nombrado a una nueva persona de la lista de espera para Madrid. El proceso incluye un movimiento técnico donde plazas reservadas para militares pasan a ser de acceso general por falta de candidatos internos.",
+    "resumen_tweet": "🏥 Baile de plazas en hospitales de Defensa. 3 aspirantes pierden su derecho a plaza y solo entra 1 nueva por el turno general. El #BOE revela plazas de reserva militar que quedan desiertas. ¿Eficiencia o falta de interés? 🤔 #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Desfase numérico entre renuncias (3) y nuevos nombramientos (1)",
+      "Plazas de reserva militar desiertas transferidas a cupo general",
+      "Falta de explicación sobre el destino de las plazas restantes no cubiertas en esta resolución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Noemi Rubio Rodriguez Madridejos (obtiene plaza fija en Madrid)",
+        "Ministerio de Defensa (logra cubrir al menos una vacante de apoyo hospitalario)"
+      ],
+      "perdedores": [
+        "Aspirantes militares (pierden plazas reservadas por no presentarse o no cumplir requisitos)",
+        "Los 3 aspirantes que pierden todos los derechos derivados del proceso selectivo",
+        "Usuarios de la Red Hospitalaria de Zaragoza (el texto sugiere que plazas allí quedaron desiertas)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público y Personal",
+    "banderas_rojas": [
+      "Desfase numérico entre renuncias (3) y nuevos nombramientos (1)",
+      "Plazas de reserva militar desiertas transferidas a cupo general",
+      "Falta de explicación sobre el destino de las plazas restantes no cubiertas en esta resolución"
+    ]
+  },
+  "tweeted": false
+}
