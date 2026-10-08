@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-20927",
+  "timestamp": "2026-10-08T06:05:45.872Z",
+  "title": "Resolución de 2 de octubre de 2026, del Instituto de la Cinematografía y de las Artes Audiovisuales, O.A., por la que se dispone el cese y nombramiento de vocales en la Comisión de Calificación de Películas Cinematográficas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion detalla el relevo mecanico de vocales en la Comision de Calificacion de Peliculas, un organo con poder de 'soft-censorship' que afecta directamente a la viabilidad comercial de las obras. La opacidad reside en la falta de transparencia sobre el perfil profesional o meritos del nuevo vocal, Jose Maria Flores Miranda, quien pasara a decidir el acceso del publico a contenidos audiovisuales bajo criterios que el BOE no desglosa. Se cita el cumplimiento de la ley (renovacion cada dos años), pero se ignora la explicacion de idoneidad.",
+    "resumen_ciudadano": "El Ministerio de Cultura ha sustituido a uno de los responsables de decidir la calificacion por edades de las peliculas en España. Sale Gabriel Pico Blanco y entra Jose Maria Flores Miranda. Aunque es un tramite legal obligatorio cada dos años, el documento no explica quien es el nuevo vocal ni por que ha sido elegido para este puesto clave en la industria del cine.",
+    "resumen_tweet": "Nuevas caras en la Comision de Calificacion de Peliculas 🎬. Sale Gabriel Pico Blanco, entra Jose Maria Flores Miranda. ¿Quienes son? ¿Bajo que meritos? La cultura se gestiona en despachos sin perfiles publicos claros. 🧐 #BOE #Opacidad #Cine #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de curriculum o meritos del nombrado",
+      "Falta de informacion sobre remuneracion o dietas",
+      "Nombramiento discrecional sin concurso publico visible"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jose Maria Flores Miranda (nuevo cargo)",
+        "Ministerio de Cultura (control administrativo)"
+      ],
+      "perdedores": [
+        "Sector audiovisual (falta de claridad en perfiles calificadores)",
+        "Transparencia de meritos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (España)",
+    "tipologia": "Nombramientos y ceses",
+    "banderas_rojas": [
+      "Ausencia de curriculum o meritos del nombrado",
+      "Falta de informacion sobre remuneracion o dietas",
+      "Nombramiento discrecional sin concurso publico visible"
+    ]
+  },
+  "tweeted": false
+}
