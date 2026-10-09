@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20976",
+  "timestamp": "2026-10-09T18:03:44.678Z",
+  "title": "Acuerdo internacional administrativo en aplicación del instrumento de ratificación del Convenio de la Organización para la Cooperación y Desarrollo Económico, firmado en París el 14 de diciembre de 1960, entre la Agencia Española de Cooperación Internacional para el Desarrollo del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación del Reino de España y la Organización para la Cooperación y Desarrollo Económico, hecho en Madrid y París el 28 de noviembre y 18, 19 y 22 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo instrumenta una transferencia de 750.000€ a la OCDE bajo la figura de 'contribución voluntaria'. A pesar de desglosar las partidas, el texto presenta una asimetría jurídica notable: la versión francesa prevalece sobre la española en caso de disputa y la OCDE retiene la propiedad exclusiva de los resultados (propiedad intelectual) financiados con fondos públicos españoles. Llama la atención la cláusula de retroactividad que permite cubrir gastos del Club del Sahel desde enero de 2025, meses antes de la formalización del acuerdo, y la capacidad de la OCDE para prorrogar plazos unilateralmente hasta seis meses sin autorización previa de la AECID.",
+    "resumen_ciudadano": "España entrega 750.000 euros a la OCDE para diversos proyectos de desarrollo en África y el Sahel. De esta cantidad, un 6,23% se destina directamente a cubrir costes administrativos de la organización. Aunque el dinero es público y español, la OCDE se queda con los derechos de autor de todos los informes que se generen, y si hay discrepancias en la interpretación del contrato, el texto en francés es el que manda.",
+    "resumen_tweet": "💸 750.000€ de la AECID a la OCDE. El 'club de los ricos' gestionará fondos para África, pero se queda con la propiedad de los estudios y un 6,23% en gastos de gestión. ¡Ojo! Si hay dudas, el francés manda sobre el español. 🇫🇷🇪🇸 #BOE #Opacidad #Cooperacion",
+    "banderas_red_flags": [
+      "Prevalencia jurídica del idioma francés sobre el español",
+      "Propiedad intelectual exclusiva para la OCDE de trabajos pagados por España",
+      "Financiación con efectos retroactivos a enero de 2025",
+      "Prórrogas de ejecución automáticas sin permiso de la AECID",
+      "6,23% de comisión por gestión indirecta (Gastos Fantasma)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "OCDE (recibe fondos, retiene IP y cobra comisión de gestión)",
+        "Estructuras burocráticas del Club del Sahel y la Plataforma de Inversiones en África"
+      ],
+      "perdedores": [
+        "Contribuyente español (financia estudios cuya propiedad no retiene el Estado)",
+        "Transparencia lingüística (supeditación del castellano en el BOE)"
+      ]
+    },
+    "comunidad_autonoma": "No aplicable (Ámbito Internacional/Estatal)",
+    "tipologia": "Acuerdo Internacional Administrativo / Cooperación al Desarrollo",
+    "banderas_rojas": [
+      "Prevalencia jurídica del idioma francés sobre el español",
+      "Propiedad intelectual exclusiva para la OCDE de trabajos pagados por España",
+      "Financiación con efectos retroactivos a enero de 2025",
+      "Prórrogas de ejecución automáticas sin permiso de la AECID",
+      "6,23% de comisión por gestión indirecta (Gastos Fantasma)"
+    ]
+  },
+  "tweeted": false
+}
