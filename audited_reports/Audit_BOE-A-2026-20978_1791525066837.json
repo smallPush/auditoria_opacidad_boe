@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-20978",
+  "timestamp": "2026-10-09T05:51:06.837Z",
+  "title": "Orden DEF/1064/2026, de 2 de octubre, por la que se modifica la Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden ministerial intenta modernizar la estructura laboral militar equiparándola a la Administración General del Estado con las 35 horas semanales. Sin embargo, el texto mantiene una opacidad estructural al otorgar al 'jefe de unidad' la potestad de decidir sobre horarios especiales, lo que perpetúa una jerarquía de privilegios frente a derechos. La falta de una memoria económica que explique cómo se mantendrá la operatividad con menos horas de trabajo efectivo sugiere una sobrecarga de tareas o una reducción encubierta de la disponibilidad operativa sin debate público previo.",
+    "resumen_ciudadano": "El Ministerio de Defensa actualiza el horario de los militares a 35 horas semanales y amplía el derecho a flexibilizar la entrada/salida para quienes cuidan de niños o dependientes. Aunque parece un avance en conciliación, la norma deja en manos de los mandos superiores la decisión final de aplicar estos horarios según 'necesidades del servicio', un término ambiguo que a menudo se usa para limitar derechos.",
+    "resumen_tweet": "🪖 El Ejército pasa a las 35h y mejora la conciliación para cuidados. Pero ¡ojo! ⚠️ La 'necesidad del servicio' y el criterio del jefe siguen siendo el filtro. ¿Derechos reales o discrecionalidad al mando? #BOE #Opacidad #Transparencia #FuerzasArmadas",
+    "banderas_red_flags": [
+      "Cláusula de escape bajo el concepto indeterminado de 'necesidades del servicio'",
+      "Discrecionalidad absoluta de los Jefes de Unidad para denegar horarios especiales",
+      "Ausencia de evaluación de impacto económico por la reducción de horas efectivas",
+      "Posible colisión entre operatividad militar y derechos de conciliación no resuelta en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Militares con hijos menores de 12 años",
+        "Personal administrativo en destinos de baja operatividad",
+        "Cuidadores de familiares dependientes convivientes"
+      ],
+      "perdedores": [
+        "Personal en unidades de combate con alta disponibilidad",
+        "Soldados bajo mandos tradicionales refractarios a la flexibilidad",
+        "La transparencia presupuestaria (no se aclara el coste de la medida)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Derechos Laborales y Defensa",
+    "banderas_rojas": [
+      "Cláusula de escape bajo el concepto indeterminado de 'necesidades del servicio'",
+      "Discrecionalidad absoluta de los Jefes de Unidad para denegar horarios especiales",
+      "Ausencia de evaluación de impacto económico por la reducción de horas efectivas",
+      "Posible colisión entre operatividad militar y derechos de conciliación no resuelta en el texto"
+    ]
+  },
+  "tweeted": false
+}
