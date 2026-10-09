@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-20990",
+  "timestamp": "2026-10-09T06:12:39.600Z",
+  "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad a don Salvador Conesa Tejada.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de un funcionario de carrera (Profesor Titular). Se cita correctamente la base legal (Ley Orgánica 2/2023) y la plaza específica (211627). La opacidad es baja en lo formal, aunque como es habitual en estos procesos, no se publican en el BOE las actas de baremación ni los méritos comparativos que justifican la elección del candidato sobre otros posibles aspirantes, una práctica común que blinda las decisiones de las comisiones de selección.",
+    "resumen_ciudadano": "La Universidad de Murcia ha formalizado el nombramiento de Salvador Conesa Tejada como Profesor Titular en el área de Pintura. Este es el paso final de un proceso de concurso público iniciado en mayo de 2026. El nuevo profesor tiene 20 días para tomar posesión de su cargo de funcionario.",
+    "resumen_tweet": "🎨 Nuevo funcionario en la Universidad de Murcia: Salvador Conesa Tejada es nombrado Profesor Titular de Pintura. El #BOE cumple el trámite legal pero sigue sin desglosar méritos en los nombramientos directos. 🏛️ #Opacidad #Transparencia #Murcia",
+    "banderas_red_flags": [
+      "Ausencia de puntuaciones detalladas en la resolución pública",
+      "Limitación de la información a un mero acto administrativo final"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Salvador Conesa Tejada (obtiene plaza vitalicia)",
+        "Universidad de Murcia (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (exclusión del proceso selectivo)",
+        "Ciudadanía (desconocimiento del baremo real de méritos aplicados)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de puntuaciones detalladas en la resolución pública",
+      "Limitación de la información a un mero acto administrativo final"
+    ]
+  },
+  "tweeted": false
+}
