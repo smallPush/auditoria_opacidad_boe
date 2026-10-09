@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-20977",
+  "timestamp": "2026-10-09T05:55:45.783Z",
+  "title": "Real Decreto 809/2026, de 7 de octubre, por el que se modifica el Real Decreto 1907/1995, de 24 de noviembre, por el que se regula la tramitación de las subvenciones estatales anuales y por gastos electorales a las formaciones políticas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 809/2026 introduce una barrera administrativa mediante una declaración jurada para que los partidos políticos accedan a subvenciones estatales. Aunque se presenta como una medida de integridad, la norma traslada la responsabilidad de la vigilancia a la propia formación política (autorresponsabilidad). La eficacia de la medida depende de que la Administración decida o no ejercer su facultad de requerir documentación adicional, lo cual deja un margen de discrecionalidad política importante. Además, la cláusula que permite la redención mediante el 'rechazo público de fines y medios' es jurídicamente ambigua y difícil de fiscalizar objetivamente.",
+    "resumen_ciudadano": "A partir de ahora, para que los partidos políticos puedan cobrar las subvenciones por gastos electorales y funcionamiento, su representante debe firmar un documento oficial asegurando que no incluyen a personas condenadas por terrorismo, rebelión o delitos contra las instituciones en sus listas o directivas. Si el Estado tiene dudas, podrá pedir pruebas, y si no se presenta esta declaración, el dinero público queda bloqueado.",
+    "resumen_tweet": "💸 ¿Dinero público para partidos con condenados? El #BOE publica el RD 809/2026: los partidos deberán 'jurar' que no tienen en sus listas a condenados por terrorismo o rebelión para cobrar subvenciones. ¿Autocontrol o transparencia real? 🧐🚫 #Opacidad",
+    "banderas_red_flags": [
+      "Declaración de parte (el partido se audita a sí mismo)",
+      "Discrecionalidad administrativa en la verificación de pruebas",
+      "Ambigüedad en la cláusula de 'rechazo público' de medios violentos",
+      "Posible uso político del bloqueo de fondos en periodos electorales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mayor control sobre el desembolso)",
+        "Partidos políticos sistémicos sin historial judicial",
+        "Percepción pública de rigor institucional"
+      ],
+      "perdedores": [
+        "Partidos con listas electorales polémicas o procesos judiciales abiertos",
+        "Formaciones pequeñas con menor estructura administrativa para gestionar trámites previos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiación de Partidos Políticos",
+    "banderas_rojas": [
+      "Declaración de parte (el partido se audita a sí mismo)",
+      "Discrecionalidad administrativa en la verificación de pruebas",
+      "Ambigüedad en la cláusula de 'rechazo público' de medios violentos",
+      "Posible uso político del bloqueo de fondos en periodos electorales"
+    ]
+  },
+  "tweeted": false
+}
