@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-20988",
+  "timestamp": "2026-10-09T18:20:32.726Z",
+  "title": "Resolución de 28 de septiembre de 2026, de la Universidad de Almería, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución cumple con la normativa de transparencia administrativa al identificar claramente a los beneficiarios y sus áreas. No obstante, se detecta un sesgo de género latente (75% hombres frente a 25% mujeres) en los nombramientos de alto nivel docente. Desde una perspectiva presupuestaria, el documento oculta el impacto económico a largo plazo que supone la consolidación de estas plazas como funcionarios de carrera, un gasto recurrente estructural que no se cuantifica en el texto.",
+    "resumen_ciudadano": "La Universidad de Almería ha nombrado a cuatro nuevos Profesores Titulares en las áreas de Ingeniería, Derecho, Historia y Educación. Estos nombramientos otorgan estabilidad funcionarial a los seleccionados tras superar el proceso de concurso-oposición bajo la nueva Ley Orgánica del Sistema Universitario (LOSU).",
+    "resumen_tweet": "🎓 La Univ. de Almería consolida 4 nuevos Profesores Titulares. Brecha de género detectada: solo 1 de cada 4 nombramientos es para una mujer. Se formaliza gasto público estructural sin detalle presupuestario. 🏛️📉 #BOE #Opacidad #Transparencia #UAL #Universidad",
+    "banderas_red_flags": [
+      "Brecha de género en nombramientos de alto nivel (1F/3M)",
+      "Ausencia de memoria económica sobre el coste salarial de por vida",
+      "Falta de visibilidad de los criterios específicos de mérito en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 4 docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad de Almería (consolidación de plantilla estructural)"
+      ],
+      "perdedores": [
+        "Investigadores precarios (limitación de nuevas plazas)",
+        "Equidad de género (infrarepresentación femenina en esta tanda)",
+        "Contribuyente (falta de desglose del coste de la estructura funcionarial)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Brecha de género en nombramientos de alto nivel (1F/3M)",
+      "Ausencia de memoria económica sobre el coste salarial de por vida",
+      "Falta de visibilidad de los criterios específicos de mérito en el extracto"
+    ]
+  },
+  "tweeted": false
+}
