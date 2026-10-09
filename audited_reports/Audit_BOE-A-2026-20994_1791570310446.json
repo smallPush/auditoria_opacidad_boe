@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-20994",
+  "timestamp": "2026-10-09T18:25:10.446Z",
+  "title": "Resolución de 29 de septiembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Maider Vidal Postigo.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la estabilización de personal docente e investigador bajo la LOSU 2/2023. Aunque el proceso es formalmente transparente, la publicación en el BOE oculta el impacto presupuestario real (sueldo base más complementos) del nuevo funcionario de carrera. El perfil trilingüe (euskera/inglés/castellano) actúa como barrera de entrada meritocrática, alineada con la política lingüística autonómica pero que restringe la competencia nacional.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado formalmente a Maider Vidal Postigo como Profesora Titular en el área de Química Analítica tras superar un concurso público. La plaza es de dedicación completa y requiere dominio de tres idiomas.",
+    "resumen_tweet": "🎓 Nombramiento en la UPV/EHU: Maider Vidal Postigo es nueva Profesora Titular de Química Analítica. Proceso trilingüe bajo la nueva Ley de Universidades. Transparencia procedimental alta, transparencia salarial nula. 🧪 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de información sobre la cuantía del gasto público anual vinculado a la plaza",
+      "Referencia a códigos internos de plaza (TUC8/1-D00221-25) inaccesibles para el ciudadano común"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maider Vidal Postigo (Consolidación de carrera funcionarial)",
+        "Universidad del País Vasco (Refuerzo de plantilla en Química)",
+        "Modelo lingüístico trilingüe"
+      ],
+      "perdedores": [
+        "Candidatos externos sin perfil lingüístico específico",
+        "Transparencia presupuestaria (el BOE no detalla el coste de estas estructuras de personal)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de información sobre la cuantía del gasto público anual vinculado a la plaza",
+      "Referencia a códigos internos de plaza (TUC8/1-D00221-25) inaccesibles para el ciudadano común"
+    ]
+  },
+  "tweeted": false
+}
