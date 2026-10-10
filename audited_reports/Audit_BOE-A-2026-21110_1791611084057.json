@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-21110",
+  "timestamp": "2026-10-10T05:44:44.057Z",
+  "title": "Resolución de 30 de septiembre de 2026, de la Universidad de León, por la que se nombra Profesora Titular de Universidad a doña Ana María de Benito Trigueros.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para el nombramiento de personal funcionario docente. Aunque el procedimiento sigue la Ley Organica 2/2023 (LOSU), el BOE actua solo como notario de un proceso previo cuya transparencia real (meritos y puntuaciones) queda fuera del alcance del ciudadano en este extracto. No se detectan gastos fantasma directos, pero se consolida una plaza de funcionario con cargo a presupuestos publicos de forma vitalicia sin especificar el impacto economico anual en el documento.",
+    "resumen_ciudadano": "La Universidad de Leon ha nombrado oficialmente a Ana Maria de Benito Trigueros como Profesora Titular en el area de Educacion Fisica y Deportiva. Este nombramiento le otorga la condicion de funcionaria de carrera tras haber superado el concurso correspondiente.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad de Leon: Ana Maria de Benito es nombrada Profesora Titular de Educacion Fisica. Un tramite rutinario que consolida gasto publico en personal docente. 🏛️⚖️ #BOE #Transparencia #Universidad #Leon",
+    "banderas_red_flags": [
+      "Invisibilidad del coste salarial total para el erario publico en la publicacion",
+      "Remision a una comision de seleccion cuyos criterios no se detallan en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Maria de Benito Trigueros (estabilidad laboral y estatus de funcionaria)",
+        "Universidad de Leon (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el concurso previo",
+        "Sistema de transparencia directa (por la fragmentacion de la informacion de meritos)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y Leon",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Invisibilidad del coste salarial total para el erario publico en la publicacion",
+      "Remision a una comision de seleccion cuyos criterios no se detallan en el extracto"
+    ]
+  },
+  "tweeted": false
+}
