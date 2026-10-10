@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21109",
+  "timestamp": "2026-10-10T05:47:19.734Z",
+  "title": "Resolución de 30 de septiembre de 2026, de la Universidad de León, por la que se nombra Profesor Titular de Universidad a don Jorge Cano Sánchez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento de funcionario de carrera de manual. La transparencia formal es alta al citar la Ley Orgánica 2/2023 (LOSU), pero el documento oculta la competitividad real del proceso. En la universidad española, estos 'concursos' a menudo presentan una baja tasa de concurrencia externa, lo que podría indicar una consolidación de personal interno más que una captación de talento abierto. No se especifica el coste salarial plurianual que asume la administración por esta plaza vitalicia.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado a Jorge Cano Sánchez como Profesor Titular en Anatomía y Embriología Humana. Este es un cargo permanente (funcionario) tras haber superado un proceso selectivo iniciado en junio de 2026. El nuevo profesor tiene 20 días para tomar posesión de su plaza.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de León: Jorge Cano Sánchez logra plaza vitalicia en Anatomía. Un nombramiento estándar que consolida gasto público estructural sin detallar el coste total para el ciudadano. 🏛️ #BOE #Opacidad #Universidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la concurrencia real del concurso",
+      "Ausencia de memoria económica sobre el impacto presupuestario de la plaza DF001267",
+      "Riesgo de endogamia académica estructural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Cano Sánchez (estabilidad laboral y estatus de funcionario)",
+        "Universidad de León (consolidación de plantilla)",
+        "Departamento de Biología Molecular"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información interna",
+        "Contribuyentes (compromiso de gasto a largo plazo sin desglose)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Opacidad en la concurrencia real del concurso",
+      "Ausencia de memoria económica sobre el impacto presupuestario de la plaza DF001267",
+      "Riesgo de endogamia académica estructural"
+    ]
+  },
+  "tweeted": false
+}
