@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21116",
+  "timestamp": "2026-10-10T17:21:37.832Z",
+  "title": "Resolución de 1 de octubre de 2026, de la Agencia Estatal Agencia Espacial Española, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación', lo que permite una elección discrecional por parte de la dirección. Aunque se detallan requisitos técnicos elevados (índice h igual o superior a 55), la combinación de un plazo de presentación extremadamente corto (10 días naturales) y la naturaleza del contrato (alta dirección) sugiere un proceso diseñado para un candidato ya identificado. Se ampara en el Plan de Recuperación para justificar la urgencia, pero elude los principios de concurrencia competitiva real.",
+    "resumen_ciudadano": "La Agencia Espacial Española busca un Director de Ciencia mediante un sistema de elección 'a dedo' legalizado. Se exigen méritos científicos excepcionales que muy pocos en España poseen, y se otorga un plazo de solo 10 días para presentarse, lo que dificulta que profesionales cualificados que no estén ya en el entorno de la Agencia puedan competir en igualdad de condiciones.",
+    "resumen_tweet": "🚀 ¿Ciencia o dedazo en la Agencia Espacial? Convocado puesto de Director con requisitos híper-específicos (Índice h>55) y solo 10 días de plazo. La 'libre designación' sigue blindando la opacidad en la élite administrativa. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Plazo de 10 días naturales (insuficiente para misiones de este calibre)",
+      "Requisitos técnicos extremos (Índice h >= 55) que limitan el pool de candidatos",
+      "Uso de contrato de alta dirección fuera del régimen funcionarial común"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del subgrupo A1",
+        "Científicos de élite con perfil ya vinculado a la administración",
+        "Estructuras de mando con capacidad de elección discrecional"
+      ],
+      "perdedores": [
+        "Investigadores de prestigio sin antigüedad administrativa",
+        "Científicos jóvenes o en el extranjero con dificultad para tramitar en 10 días",
+        "Principios de mérito y capacidad frente a la discrecionalidad política"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Plazo de 10 días naturales (insuficiente para misiones de este calibre)",
+      "Requisitos técnicos extremos (Índice h >= 55) que limitan el pool de candidatos",
+      "Uso de contrato de alta dirección fuera del régimen funcionarial común"
+    ]
+  },
+  "tweeted": false
+}
