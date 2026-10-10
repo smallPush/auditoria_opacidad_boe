@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21098",
+  "timestamp": "2026-10-10T05:37:27.648Z",
+  "title": "Acuerdo entre el Reino de España y la República de Angola, sobre cooperación en materia de seguridad y lucha contra la delincuencia, hecho en Madrid el 5 de noviembre de 2018.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Este acuerdo binacional destaca por su alarmante vaguedad y la delegación de detalles operativos a 'protocolos adicionales' (Art. 4), una técnica recurrente para evitar el escrutinio parlamentario sobre costes y métodos. Resulta sospechoso el lapso de 8 años entre la firma (2018) y su entrada en vigor (2026), lo que sugiere una reactivación por intereses geopolíticos o de control migratorio no explicitados. El artículo 9.2 permite solicitudes de información 'orales' en casos urgentes, una puerta abierta a la falta de trazabilidad y a la vulneración de garantías procesales. Además, se equipara la 'inmigración ilegal' con el terrorismo y el tráfico de armas, profundizando en la criminalización de los movimientos migratorios bajo una lógica puramente policial. El artículo 13 deja el gasto al arbitrio de disponibilidades presupuestarias futuras, convirtiéndolo en un cheque en blanco para el asesoramiento técnico y suministro de equipos.",
+    "resumen_ciudadano": "España y Angola establecen un marco de cooperación para compartir datos policiales, tecnología y formación. El tratado cubre desde terrorismo hasta control de fronteras y gestión penitenciaria. Sin embargo, no especifica cuánto costará a los contribuyentes y permite que los ministerios del interior firmen pactos secretos adicionales para ejecutar la cooperación, permitiendo incluso peticiones de datos verbales sin registro escrito inmediato.",
+    "resumen_tweet": "🚨 Nuevo pacto de seguridad España-Angola en el #BOE: ¡tras 8 años de espera! Peticiones de datos 'orales', costes sin cifras y protocolos secretos. Se equipara migración con terrorismo. 👮‍♂️🛂 ¿Seguridad o control sin límites? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Retraso de 8 años en la ratificación",
+      "Peticiones de información orales (Art. 9.2)",
+      "Delegación en protocolos adicionales no publicados (Art. 4)",
+      "Ausencia de memoria económica concreta (Art. 13)",
+      "Securitización de la migración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (mayor margen de maniobra)",
+        "Empresas de equipamiento policial y vigilancia",
+        "Gobierno de Angola (acceso a tecnología española)"
+      ],
+      "perdedores": [
+        "Colectivos migrantes (criminalizados en el texto)",
+        "Contribuyentes (por opacidad de costes)",
+        "Garantías de privacidad ciudadana"
+      ]
+    },
+    "comunidad_autonoma": "No aplicable (Ámbito Estatal)",
+    "tipologia": "Acuerdo Internacional de Seguridad",
+    "banderas_rojas": [
+      "Retraso de 8 años en la ratificación",
+      "Peticiones de información orales (Art. 9.2)",
+      "Delegación en protocolos adicionales no publicados (Art. 4)",
+      "Ausencia de memoria económica concreta (Art. 13)",
+      "Securitización de la migración"
+    ]
+  },
+  "tweeted": false
+}
