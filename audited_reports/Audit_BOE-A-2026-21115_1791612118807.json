@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21115",
+  "timestamp": "2026-10-10T06:01:58.807Z",
+  "title": "Resolución de 9 de octubre de 2026, de la Subsecretaría, por la que se modifica la fecha y el lugar de celebración del primer ejercicio o ejercicio único de la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M3, M2, M1, E2 y E1, sujetos al IV Convenio Colectivo Único de la Administración General del Estado, convocado por Resolución de 3 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "La resolución justifica el cambio de fechas basándose en la coincidencia con las elecciones generales del 29 de noviembre de 2026. Sin embargo, recurre al comodín burocrático de 'motivos organizativos' para el cambio de sedes, sin detallar si esto implica un sobrecoste en el alquiler de espacios universitarios o policiales. Existe una incongruencia temporal: se disuelven las cámaras el 5 de octubre y solo 4 días después se altera el calendario de miles de opositores, lo que denota una falta de previsión logística ante el escenario electoral.",
+    "resumen_ciudadano": "El Ministerio del Interior ha modificado las fechas y lugares de los exámenes para personal laboral fijo (desde enfermería y ciencias ambientales hasta cocina y mantenimiento). Debido a las elecciones generales, las pruebas que estaban previstas para finales de noviembre se trasladan a los domingos 13 y 20 de diciembre de 2026 en diversas facultades y centros policiales de Madrid.",
+    "resumen_tweet": "⚠️ El Ministerio del Interior retrasa exámenes de oposiciones al 13 y 20 de diciembre por el adelanto electoral del #29N. 🗳️ Miles de aspirantes afectados en plenas fechas navideñas por 'motivos organizativos'. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en los costes de reubicación de sedes",
+      "Uso de conceptos jurídicos indeterminados (motivos organizativos)",
+      "Impacto en la salud mental y planificación del opositor a corto plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración General del Estado (despeja la logística electoral)",
+        "Instituciones universitarias (percepción de tasas por uso de instalaciones)"
+      ],
+      "perdedores": [
+        "Opositores de grupos E1, E2 y M1 (clases trabajadoras con menor margen para costear cambios de viajes)",
+        "Conciliación familiar (exámenes en vísperas de Navidad)",
+        "Aspirantes de fuera de Madrid (incertidumbre logística)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Gestión de Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Opacidad en los costes de reubicación de sedes",
+      "Uso de conceptos jurídicos indeterminados (motivos organizativos)",
+      "Impacto en la salud mental y planificación del opositor a corto plazo"
+    ]
+  },
+  "tweeted": false
+}
