@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21099",
+  "timestamp": "2026-10-10T05:33:39.242Z",
+  "title": "Resolución de 9 de octubre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque la resolución es técnicamente clara en cuanto a los precios finales, oculta la proporción de impuestos frente a los márgenes de beneficio de las tabacaleras. El Estado actúa como mero intermediario oficial para un oligopolio, legalizando el control de precios bajo una apariencia administrativa. Existe una disparidad fiscal flagrante entre la Península y Ceuta/Melilla, lo que fomenta indirectamente desequilibrios territoriales en el consumo y la recaudación.",
+    "resumen_ciudadano": "Se han actualizado oficialmente los precios de venta al público de diversas marcas de cigarrillos, cigarros y picaduras (incluyendo tabaco para dispositivos tipo Glo). Estas subidas son propuestas por los fabricantes y aprobadas por el Comisionado para el Mercado de Tabacos, afectando directamente al bolsillo del consumidor final en estancos.",
+    "resumen_tweet": "🚬 Nueva subida de precios en el tabaco según el #BOE. Hacienda publica los nuevos costes de marcas como Lucky Strike y Coronas. El monopolio se mantiene y el consumidor paga más. ¿Salud pública o afán recaudatorio? 💸📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en el desglose de la carga impositiva real",
+      "Persistencia de un modelo de Monopolio de Estado en el siglo XXI",
+      "Arbitrariedad en los precios propuestos por fabricantes e importadores",
+      "Brecha de precios extrema entre territorios (Península vs Ceuta/Melilla)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mayor recaudación vía impuestos especiales)",
+        "Fabricantes de tabaco (ajuste de márgenes comerciales)",
+        "Expendedurías (mantenimiento de comisión sobre PVP más alto)"
+      ],
+      "perdedores": [
+        "Clases medias y bajas (el tabaco es un impuesto regresivo)",
+        "Salud pública (no hay mención a desincentivación del consumo)",
+        "Consumidores de la Península frente a territorios con fiscalidad reducida"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa de Precios",
+    "banderas_rojas": [
+      "Opacidad en el desglose de la carga impositiva real",
+      "Persistencia de un modelo de Monopolio de Estado en el siglo XXI",
+      "Arbitrariedad en los precios propuestos por fabricantes e importadores",
+      "Brecha de precios extrema entre territorios (Península vs Ceuta/Melilla)"
+    ]
+  },
+  "tweeted": false
+}
