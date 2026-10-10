@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21097",
+  "timestamp": "2026-10-10T17:05:29.063Z",
+  "title": "Acuerdo internacional administrativo en aplicación del Acuerdo de colaboración entre el Reino de España y el Programa de las Naciones Unidas para los asentamientos humanos a través de su División de Programa Regional y el Ayuntamiento de Castellón de la Plana del Reino de España, hecho en Nairobi y Castellón de la Plana el 9 de julio y 10 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El acuerdo presenta una estructura de opacidad técnica habitual en convenios internacionales. Se externaliza la ejecución de políticas locales de agenda urbana a un organismo internacional (ONU-Habitat) bajo sus propias reglas financieras, eludiendo la fiscalización directa de la administración pública española. Destaca el envío de fondos a una cuenta en Alemania (JP Morgan) y la retención del 13% en concepto de 'costos indirectos' (overhead), lo cual es una detracción significativa para un presupuesto de 70.000 euros. Además, la propiedad de cualquier equipo o propiedad intelectual derivado del dinero del contribuyente de Castellón recae legalmente en la ONU, no en el ayuntamiento.",
+    "resumen_ciudadano": "El Ayuntamiento de Castellón paga 70.000 euros a la ONU para el programa 'Ciudades que se superan'. El dinero se transfiere a una cuenta en Frankfurt. La ONU se queda con el 13% para sus gastos internos y será la dueña de todo lo que se compre o cree con ese dinero, aunque el ayuntamiento podrá usarlo previa comunicación.",
+    "resumen_tweet": "⚠️ El Ayto. de Castellón envía 70.000€ a una cuenta en Alemania para que la ONU gestione su agenda urbana. 💸 Un 13% se pierde en 'gestión' y la ONU se queda con la propiedad de lo pagado por los vecinos. #BOE #Opacidad #Transparencia #Castellón 🧐",
+    "banderas_red_flags": [
+      "Transferencia de fondos públicos a cuenta bancaria en el extranjero (Alemania)",
+      "Comisión del 13% por gastos de gestión administrativa",
+      "Propiedad de bienes y propiedad intelectual para el ente ejecutor, no para el pagador",
+      "Sometimiento exclusivo a auditoría interna de la ONU, limitando el control municipal",
+      "Cláusula de inmunidad y privilegios que dificulta reclamaciones legales locales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "ONU-Habitat (obtiene financiación, activos y propiedad intelectual)",
+        "JP Morgan Chase (entidad depositaria)"
+      ],
+      "perdedores": [
+        "Contribuyentes de Castellón (financian activos que no les pertenecerán)",
+        "Control administrativo local (pierde soberanía sobre la fiscalización del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Transferencia de fondos públicos a cuenta bancaria en el extranjero (Alemania)",
+      "Comisión del 13% por gastos de gestión administrativa",
+      "Propiedad de bienes y propiedad intelectual para el ente ejecutor, no para el pagador",
+      "Sometimiento exclusivo a auditoría interna de la ONU, limitando el control municipal",
+      "Cláusula de inmunidad y privilegios que dificulta reclamaciones legales locales"
+    ]
+  },
+  "tweeted": false
+}
