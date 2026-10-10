@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21103",
+  "timestamp": "2026-10-10T17:18:15.491Z",
+  "title": "Orden ECM/1066/2026, de 7 de octubre, por la que se proponen y designan vocales del Pleno de la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden formaliza una estructura plutocrática en el seno de un organismo público-administrativo. Al amparo de la Ley 4/2014, se reserva el Pleno de la Cámara de España a las empresas de 'mayor contribución', lo que equivale a un sistema de representación censitaria donde la voz institucional se compra con aportaciones económicas. Existe una incongruencia democrática: mientras se habla de 'representación económica española', se excluye por diseño al 99% del tejido empresarial (PYMES y autónomos), otorgando a 28 gigantes (IBEX-35 y similares) un acceso directo y privilegiado al diseño de políticas comerciales del Ministerio.",
+    "resumen_ciudadano": "El Ministerio de Economía ha renovado los asientos del Pleno de la Cámara de España, asignándolos directamente a las 28 mayores empresas del país (como Banco Santander, Inditex, Iberdrola o Telefónica). El criterio de selección es puramente económico: entran quienes más dinero aportan. Esto garantiza que las grandes corporaciones mantengan su influencia legal sobre la estrategia comercial y económica del Estado, dejando a las pequeñas empresas sin representación en este órgano clave.",
+    "resumen_tweet": "🚨 ¿Quién decide la política comercial en España? El #BOE publica las 28 empresas del Pleno de la Cámara de España: Santander, Inditex, Iberdrola... Los gigantes mandan, las PYMES ni aparecen. 🏛️💸 Influencia legalizada. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Representación institucional vinculada a capacidad económica",
+      "Exclusión estructural de PYMES y autónomos",
+      "Concentración de poder en sectores oligopólicos (Banca/Energía)",
+      "Nombramientos de perfil político en delegaciones exteriores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones del IBEX-35",
+        "Sector bancario (Santander, BBVA, CaixaBank, Sabadell)",
+        "Sector energético (Iberdrola, Naturgy)",
+        "Altos cargos ministeriales"
+      ],
+      "perdedores": [
+        "Pequeñas y medianas empresas (PYMES)",
+        "Autónomos",
+        "Sectores económicos emergentes sin gran capital",
+        "Transparencia en la toma de decisiones económicas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Organización",
+    "banderas_rojas": [
+      "Representación institucional vinculada a capacidad económica",
+      "Exclusión estructural de PYMES y autónomos",
+      "Concentración de poder en sectores oligopólicos (Banca/Energía)",
+      "Nombramientos de perfil político en delegaciones exteriores"
+    ]
+  },
+  "tweeted": false
+}
