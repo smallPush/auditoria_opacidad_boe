@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21100",
+  "timestamp": "2026-10-10T05:40:10.190Z",
+  "title": "Corrección de errores del Decreto 105/2026, de 3 de julio, del Consell, por el que se aprueban los Estatutos de la Universidad de Alicante.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque se presenta como una simple 'corrección de errores', el texto revela una falta de rigor inicial en la redacción de los Estatutos de la Universidad de Alicante. Los cambios no son solo ortográficos: se reorganiza la jerarquía normativa al mover 'Adaptaciones normativas' de una disposición transitoria a una final, lo que altera su carácter de temporalidad. Asimismo, destaca una corrección masiva en el orden del lenguaje inclusivo, anteponiendo el género femenino ('la secretaria general'), lo que sugiere una revisión política post-publicación bajo la apariencia de error material.",
+    "resumen_ciudadano": "Se corrigen errores técnicos y lingüísticos en los nuevos estatutos de la Universidad de Alicante. Se ajusta la estructura de las disposiciones legales y se modifica la terminología para asegurar el uso de lenguaje inclusivo en cargos de responsabilidad, además de subsanar omisiones en la versión en valenciano.",
+    "resumen_tweet": "🔄 El #BOE publica correcciones a los estatutos de la Univ. de Alicante. Más que erratas, vemos cambios en la estructura legal y un blindaje del lenguaje inclusivo que se les pasó en la primera versión. 🧐 #Transparencia #Alicante #Universidad",
+    "banderas_red_flags": [
+      "Reestructuración de disposiciones legales camuflada como corrección de errores",
+      "Inconsistencias previas entre la versión en castellano y valenciano",
+      "Falta de revisión lingüística previa en cargos institucionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Colectivos que impulsan el lenguaje inclusivo",
+        "Cargos directivos femeninos (mayor visibilidad en la norma)"
+      ],
+      "perdedores": [
+        "Responsables de la redacción original (evidencia de descuido)",
+        "Eficiencia administrativa (necesidad de republicar por errores evitables)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Administrativa/Educativa",
+    "banderas_rojas": [
+      "Reestructuración de disposiciones legales camuflada como corrección de errores",
+      "Inconsistencias previas entre la versión en castellano y valenciano",
+      "Falta de revisión lingüística previa en cargos institucionales"
+    ]
+  },
+  "tweeted": false
+}
