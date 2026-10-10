@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21102",
+  "timestamp": "2026-10-10T05:41:24.024Z",
+  "title": "Resolución 430/38415/2026, de 2 de octubre, de la Secretaría de Estado de Defensa, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 430/38371/2026, de 5 de agosto.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se trata de un nombramiento por 'libre designación', un mecanismo legal que permite la discrecionalidad política bajo un barniz de profesionalización. Aunque cita el Real Decreto-ley 6/2023 para la gestión de personal directivo, la resolución no detalla la puntuación ni los méritos específicos comparados con otros candidatos, limitándose a mencionar un informe de expertos no vinculante. El INTA es un organismo estratégico con presupuestos millonarios; la colocación de un Secretario General por confianza política y no por concurso puro genera riesgos de clientelismo en la gestión aeroespacial.",
+    "resumen_ciudadano": "El Ministerio de Defensa ha nombrado a Luis Cortés Delgado como Secretario General del INTA. El proceso se ha realizado mediante 'libre designación', es decir, a dedo entre candidatos que cumplen requisitos básicos, en lugar de un proceso abierto de méritos. Este puesto es clave para la gestión administrativa de la tecnología aeroespacial militar en España.",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en Defensa. Luis Cortés Delgado, nombrado Secretario General del INTA mediante libre designación. Menos transparencia y más control político en la tecnología aeroespacial. ¿Y el mérito? 🕵️‍♂️📉 #BOE #Opacidad #Transparencia #Defensa",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Falta de transparencia en los méritos del candidato",
+      "Invisibilidad de otros aspirantes",
+      "Uso de cargos directivos para control político"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Luis Cortés Delgado (puesto de alta dirección)",
+        "Ministerio de Defensa (control directo del INTA)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor mérito académico/técnico",
+        "Transparencia pública",
+        "Ciudadanía (por falta de procesos selectivos objetivos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Situaciones e Incidencias",
+    "banderas_rojas": [
+      "Libre designación",
+      "Falta de transparencia en los méritos del candidato",
+      "Invisibilidad de otros aspirantes",
+      "Uso de cargos directivos para control político"
+    ]
+  },
+  "tweeted": false
+}
