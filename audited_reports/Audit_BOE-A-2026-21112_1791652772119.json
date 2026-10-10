@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21112",
+  "timestamp": "2026-10-10T17:19:32.119Z",
+  "title": "Acuerdo de 5 de octubre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se aprueba y publica el Acuerdo de 2 de octubre de 2026, del Tribunal calificador del proceso de promoción y especialización en los asuntos propios de los órganos de lo mercantil, convocado por Acuerdo de 26 de mayo de 2026, relativo al desarrollo del proceso.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un acuerdo procedimental estándar del CGPJ para la especialización de magistrados en el área mercantil. Aunque el proceso parece reglado, la 'opacidad' reside en la gestión indirecta de recursos: se conceden licencias (permisos retribuidos) para el estudio y desplazamiento sin un desglose del coste que esto supone para la administración de justicia o cómo afecta a la carga de trabajo de los juzgados de origen. La centralización de las pruebas en Madrid (Tribunal Supremo y sede del CGPJ) refuerza el centralismo institucional judicial.",
+    "resumen_ciudadano": "Se han fijado las fechas y lugares para los exámenes de 12 plazas de jueces especialistas en temas mercantiles (empresas y comercio). Los aspirantes tendrán permisos pagados para asistir a las pruebas en Madrid en noviembre de 2026 y enero de 2027.",
+    "resumen_tweet": "⚖️ El CGPJ activa la especialización de jueces en lo Mercantil. 12 plazas en juego con licencias pagadas y exámenes centralizados en Madrid. ¿Cómo afecta esto a la saturación de los juzgados de origen? #BOE #Opacidad #Transparencia #Justicia 👁️‍🗨️",
+    "banderas_red_flags": [
+      "Coste oculto de las licencias retribuidas para los aspirantes",
+      "Centralización absoluta de las pruebas en Madrid",
+      "Ausencia de mención a criterios de evaluación específicos en este acuerdo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrados aspirantes (obtienen especialización y mejora de estatus)",
+        "Consejo General del Poder Judicial (mantiene el control de la carrera judicial)",
+        "Grandes empresas (interesadas en una justicia mercantil especializada)"
+      ],
+      "perdedores": [
+        "Justiciables de provincias (por la ausencia de sus jueces durante las licencias)",
+        "Contribuyentes (asumen el coste de los desplazamientos y permisos sin cuantificar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Carrera Judicial y Especialización",
+    "banderas_rojas": [
+      "Coste oculto de las licencias retribuidas para los aspirantes",
+      "Centralización absoluta de las pruebas en Madrid",
+      "Ausencia de mención a criterios de evaluación específicos en este acuerdo"
+    ]
+  },
+  "tweeted": false
+}
