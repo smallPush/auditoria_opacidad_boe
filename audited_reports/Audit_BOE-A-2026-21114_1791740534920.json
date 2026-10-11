@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21114",
+  "timestamp": "2026-10-11T17:42:14.920Z",
+  "title": "Resolución de 1 de octubre de 2026, de la Dirección General de la Policía, por la que se publica la relación definitiva de personas admitidas y excluidas a la oposición libre para cubrir plazas de alumnos/as de la Escuela Nacional de Policía, de la División de Formación y Perfeccionamiento, aspirantes a ingreso en la Escala Ejecutiva, categoría de Inspector/a, de la Policía Nacional, convocada por Resolución de 7 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución oculta la lista completa de aspirantes admitidos bajo el pretexto de una 'consulta personalizada', limitando la auditoría pública del proceso selectivo. Se observa una fiscalización extrema sobre los ciudadanos de rentas bajas (causas I y J), mientras que el destino de las tasas de examen recaudadas (causa F) permanece en la opacidad presupuestaria. La burocracia digital actúa como un filtro de clase, excluyendo a candidatos por meros errores de firma técnica.",
+    "resumen_ciudadano": "El Ministerio del Interior publica quiénes han sido excluidos de la oposición para Inspector de Policía. La mayoría de los descartes se deben a errores en la firma electrónica, impago de tasas o fallos al presentar certificados de desempleo y renta. La lista de los que sí han pasado no es pública, solo se puede consultar de forma individual.",
+    "resumen_tweet": "🚨 ¿Transparencia o barrera burocrática? El #BOE publica las exclusiones para Inspector de Policía: firmas digitales y certificados de pobreza dejan fuera a decenas. La lista de admitidos no es pública. ¿Quién vigila el proceso? 🧐 #Opacidad #Policia",
+    "banderas_red_flags": [
+      "Opacidad en la lista de admitidos (acceso restringido)",
+      "Filtro socioeconómico mediante validación de rentas y SEPE",
+      "Exclusión masiva por defectos de forma (firma digital)",
+      "Recaudación de tasas sin desglose de aplicación de fondos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio del Interior (recaudación por derechos de examen)",
+        "Candidatos con alto soporte técnico/digital"
+      ],
+      "perdedores": [
+        "Aspirantes con dificultades económicas (excluidos por trámites SEPE/SMI)",
+        "Ciudadanía general (privada de una auditoría completa del censo de aspirantes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Procesos Selectivos",
+    "banderas_rojas": [
+      "Opacidad en la lista de admitidos (acceso restringido)",
+      "Filtro socioeconómico mediante validación de rentas y SEPE",
+      "Exclusión masiva por defectos de forma (firma digital)",
+      "Recaudación de tasas sin desglose de aplicación de fondos"
+    ]
+  },
+  "tweeted": false
+}
