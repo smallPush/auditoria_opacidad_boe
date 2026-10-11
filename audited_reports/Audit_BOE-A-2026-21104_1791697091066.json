@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21104",
+  "timestamp": "2026-10-11T05:38:11.066Z",
+  "title": "Orden ISM/1067/2026, de 8 de octubre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden ISM/1001/2026, de 23 de septiembre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza un nombramiento mediante el procedimiento de 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de altos cargos. Se adjudica un puesto de Nivel 30, el escalafón más alto de la función pública, lo que suele consolidar redes de confianza política por encima de la meritocracia competitiva pura. Aunque se cita la normativa vigente, no se detallan los méritos específicos que han hecho a la candidata superior a otros posibles aspirantes, manteniendo la tradición de 'cargos de confianza' en la cúpula administrativa.",
+    "resumen_ciudadano": "El Ministerio de Inclusión ha nombrado a una nueva directora para el Instituto Social de la Marina en Madrid. El cargo ha sido otorgado por 'libre designación', es decir, a elección directa de los superiores entre funcionarios de alto rango, en lugar de por un concurso abierto basado estrictamente en puntos por méritos objetivos.",
+    "resumen_tweet": "🚩 Adjudicado 'a dedo' el puesto de máxima responsabilidad (Nivel 30) en el Instituto Social de la Marina. La Libre Designación sigue siendo la norma para las cúpulas ministeriales. ¿Confianza o mérito? 🏛️🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Procedimiento de Libre Designación (discrecionalidad)",
+      "Adjudicación de Nivel 30 (máximo nivel administrativo)",
+      "Ausencia de desglose de méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eva Suarez Mendez (ascenso a Nivel 30)",
+        "Cuerpo Superior de Técnicos de la Administración de la Seguridad Social"
+      ],
+      "perdedores": [
+        "Candidatos externos al círculo de confianza",
+        "Sistema de concurso público de méritos",
+        "Cultura de transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Procedimiento de Libre Designación (discrecionalidad)",
+      "Adjudicación de Nivel 30 (máximo nivel administrativo)",
+      "Ausencia de desglose de méritos comparativos"
+    ]
+  },
+  "tweeted": false
+}
