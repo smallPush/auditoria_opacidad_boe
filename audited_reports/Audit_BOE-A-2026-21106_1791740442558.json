@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21106",
+  "timestamp": "2026-10-11T17:40:42.558Z",
+  "title": "Resolución de 30 de septiembre de 2026, de la Universidad Carlos III de Madrid, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se formaliza el nombramiento de seis funcionarios de carrera (Titulares de Universidad) en un solo departamento (Comunicación). Aunque cumple la legalidad bajo la LOSU, el BOE omite el impacto fiscal a largo plazo (salarios de por vida) que estos nombramientos suponen para las arcas públicas. Existe una concentración de plazas en una sola área, lo que suele indicar procesos de estabilización interna tras años de precariedad, más que una expansión estratégica competitiva.",
+    "resumen_ciudadano": "La Universidad Carlos III de Madrid nombra oficialmente a seis nuevos profesores titulares en el área de Comunicación Audiovisual y Publicidad. Estos profesionales pasan a ser personal funcionario permanente del Estado tras superar los concursos de acceso previstos.",
+    "resumen_tweet": "📢 Seis nuevos funcionarios de carrera en la UC3M. El #BOE publica nombramientos de por vida en Comunicación Audiovisual. Transparencia en nombres, pero opacidad en el coste salarial total para el ciudadano. 📉🏛️ #Transparencia #Universidad #GastoPublico",
+    "banderas_red_flags": [
+      "Gasto estructural consolidado a largo plazo",
+      "Falta de desglose presupuestario por plaza",
+      "Concentración de plazas en un único departamento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad Carlos III (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Investigadores noveles (menor rotación de plazas)",
+        "Contribuyentes (asunción de costes salariales sin auditoría de eficiencia pública)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Gasto estructural consolidado a largo plazo",
+      "Falta de desglose presupuestario por plaza",
+      "Concentración de plazas en un único departamento"
+    ]
+  },
+  "tweeted": false
+}
