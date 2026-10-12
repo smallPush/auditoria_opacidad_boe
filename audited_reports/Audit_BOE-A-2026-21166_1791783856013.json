@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21166",
+  "timestamp": "2026-10-12T05:44:16.013Z",
+  "title": "Orden TRM/1072/2026, de 30 de septiembre, por la que se regulan el ámbito de actuación y las funciones de la Subdirección General de Control de Calidad e Inspección Técnica.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La Orden TRM/1072/2026 presenta una dualidad técnica: bajo la bandera de modernización y control de los fondos Next Generation, introduce mecanismos que diluyen la vigilancia directa en contratos de menor cuantía. Al transformar la Inspección de Obras en una Subdirección de Control de Calidad, se expande su competencia a todos los contratos de transporte, pero se justifica la ausencia física de inspectores en actos críticos como el 'replanteo' en contratos que no alcancen ciertos umbrales, alegando 'eficiencia'. Esto crea una zona gris de 'muestreo' donde la discrecionalidad técnica podría ocultar irregularidades en contratos medianos y pequeños, que sumados representan un volumen de gasto masivo.",
+    "resumen_ciudadano": "El Ministerio de Transportes cambia su sistema de vigilancia de obras públicas. A partir de ahora, se centrarán en auditar a fondo los contratos multimillonarios, pero dejarán de vigilar presencialmente las obras más pequeñas para ahorrar trámites. Aunque dicen que es para ser más eficientes, esto reduce la supervisión real sobre cómo se gasta el dinero en proyectos locales o de menor escala.",
+    "resumen_tweet": "🏗️ Nueva reforma en la Inspección de Obras de @transportesgob. Se priorizan grandes contratos pero se relaja la vigilancia presencial en los pequeños por 'eficiencia'. ¿Más control o más opacidad en la obra pública? ⚠️ #BOE #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Establecimiento de umbrales presupuestarios para eludir controles integrales",
+      "Sustitución de inspección sistemática por 'muestreo' en contratos menores",
+      "Reducción de la presencia física obligatoria en actos de replanteo",
+      "Ampliación de funciones sin especificación de aumento de recursos humanos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones de infraestructuras (foco de control predecible)",
+        "Altos cargos del Ministerio (mayor centralización de informes de riesgo)"
+      ],
+      "perdedores": [
+        "PYMES del sector construcción (sujetas a criterios de muestreo variables)",
+        "Contribuyentes (menor fiscalización en contratos de escala media)",
+        "Transparencia local (menor presencia técnica en el terreno)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Organizativa y Control de Gasto",
+    "banderas_rojas": [
+      "Establecimiento de umbrales presupuestarios para eludir controles integrales",
+      "Sustitución de inspección sistemática por 'muestreo' en contratos menores",
+      "Reducción de la presencia física obligatoria en actos de replanteo",
+      "Ampliación de funciones sin especificación de aumento de recursos humanos"
+    ]
+  },
+  "tweeted": false
+}
