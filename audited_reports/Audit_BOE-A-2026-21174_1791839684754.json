@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21174",
+  "timestamp": "2026-10-12T21:14:44.754Z",
+  "title": "Resolución de 29 de septiembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja un nombramiento estándar de catedrático mediante promoción interna. Aunque legalmente impecable bajo la LOSU y la normativa catalana, este tipo de resoluciones ocultan la realidad de la endogamia académica española, donde las plazas suelen estar diseñadas para candidatos específicos ya presentes en la institución. No se especifica el coste salarial para el erario público ni los criterios de puntuación frente a otros posibles aspirantes.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili de Tarragona ha nombrado formalmente al Dr. Jorge de Andrés Sánchez como Catedrático de Universidad en el área de Economía Financiera y Contabilidad tras un proceso de promoción interna.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la @URV: Jorge de Andrés Sánchez logra la plaza en Economía Financiera. Un proceso de promoción interna que cumple la ley pero perpetúa el modelo de acceso cerrado en la universidad. #BOE #Opacidad #Transparencia #Tarragona",
+    "banderas_red_flags": [
+      "Promoción interna con perfil muy específico",
+      "Opacidad en el coste presupuestario del ascenso",
+      "Ausencia de información sobre otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dr. Jorge de Andrés Sánchez (ascenso y estabilidad)",
+        "Universidad Rovira i Virgili (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos por el sistema de promoción interna)",
+        "Contribuyentes (por falta de transparencia en el impacto económico)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Promoción interna con perfil muy específico",
+      "Opacidad en el coste presupuestario del ascenso",
+      "Ausencia de información sobre otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
