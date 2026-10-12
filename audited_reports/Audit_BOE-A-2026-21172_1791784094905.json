@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21172",
+  "timestamp": "2026-10-12T05:48:14.905Z",
+  "title": "Resolución de 18 de septiembre de 2026, de la Secretaría de Estado de Seguridad, por la que se nombra personal funcionario de carrera de la Policía Nacional, Escala Básica, categoría de Policía, a los/as Policías Alumnos/as, que han superado el proceso selectivo establecido reglamentariamente.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Este documento es un testimonio de la ineficiencia administrativa del Ministerio del Interior. El hecho de que el 50% de los nombramientos (4 de 8) se realicen por 'ejecución de sentencia judicial' evidencia fallos previos en los procesos selectivos de 2018, 2019 y 2020 que obligaron a los ciudadanos a litigar contra el Estado para obtener su plaza. Aunque se intenta barnizar la resolución con un lenguaje de 'conciliación y corresponsabilidad' bajo el RD 853/2022, la realidad es que el Estado está reparando tardíamente exclusiones que los tribunales consideraron injustas. La concesión de antigüedades retroactivas (hasta 5 años atrás) implica un coste presupuestario en salarios y cotizaciones no detallado pero sustancial.",
+    "resumen_ciudadano": "El Gobierno nombra finalmente a 8 policías nacionales de la Escala Básica. Lo llamativo es que la mitad de ellos han tenido que acudir a los tribunales para que se les reconozca el derecho a ser funcionarios tras años de espera por errores en convocatorias antiguas (desde 2018). Se les reconoce la antigüedad que les correspondía en su momento, lo que conlleva pagos retroactivos por parte del Estado. Solo hay una mujer entre los ocho nombrados.",
+    "resumen_tweet": "👮‍♂️ ¡Justicia tardía en el #BOE! El Ministerio del Interior nombra nuevos policías, pero el 50% entra tras GANAR JUICIOS al Estado por procesos de 2018-2020. Solo 1 mujer entre 8. ¿Eficiencia o parche judicial? ⚖️ #Transparencia #Opacidad #Policia",
+    "banderas_red_flags": [
+      "Nombramientos por ejecución de sentencia judicial tras años de litigio",
+      "Reconocimiento de antigüedad retroactiva desde 2021 para nombramientos en 2026",
+      "Uso de términos vagos como 'circunstancias sobrevenidas' para justificar retrasos",
+      "Fuerte desequilibrio de género (12,5% de representación femenina)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Policías que ganaron recursos judiciales (recuperan antigüedad y derechos)",
+        "Bufetes de abogados especializados en procesos selectivos",
+        "Sindicatos policiales que impulsaron los recursos"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen los costes de retroactividad y procesos judiciales)",
+        "Ministerio del Interior (expuesta su mala gestión en convocatorias previas)",
+        "Igualdad de género en las Fuerzas y Cuerpos de Seguridad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Nombramientos por ejecución de sentencia judicial tras años de litigio",
+      "Reconocimiento de antigüedad retroactiva desde 2021 para nombramientos en 2026",
+      "Uso de términos vagos como 'circunstancias sobrevenidas' para justificar retrasos",
+      "Fuerte desequilibrio de género (12,5% de representación femenina)"
+    ]
+  },
+  "tweeted": false
+}
