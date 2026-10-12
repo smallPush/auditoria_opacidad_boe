@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21181",
+  "timestamp": "2026-10-12T05:53:46.464Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Universidad de León, por la que se nombra Profesora Titular de Universidad a doña Sara Mayo Prieto.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de una plaza de funcionaria de carrera. Si bien el proceso sigue la Ley Orgánica 2/2023 (LOSU), el BOE actúa como un simple tablón de anuncios que valida decisiones tomadas en comisiones internas universitarias, donde la transparencia real sobre la baremación de méritos frente a otros candidatos es inexistente para el ciudadano común. El lenguaje es puramente procedimental, ocultando la competitividad o posible endogamia del proceso bajo un manto de formalismo legalista.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado formalmente a Sara Mayo Prieto como Profesora Titular en el área de Edafología y Química Agrícola. Este es el paso final tras un concurso de oposición, otorgándole una plaza permanente (código DF001258) financiada con fondos públicos en el Departamento de Ingeniería y Ciencias Agrarias.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad de León. Sara Mayo Prieto es nombrada Profesora Titular de Edafología. Un proceso técnico que consolida empleo público pero mantiene la opacidad sobre los méritos específicos evaluados. 🧐 #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la puntuación obtenida en el concurso",
+      "Ausencia de información sobre el número de aspirantes que compitieron por la plaza",
+      "Uso de códigos internos (DF001258) que dificultan el rastreo presupuestario directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sara Mayo Prieto (obtiene estabilidad laboral vitalicia)",
+        "Universidad de León (cubre estructuralmente su área de Ciencias Agrarias)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada al sistema universitario)",
+        "Transparencia pública (se publica el resultado pero no el proceso de selección detallado)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de funcionario/a de carrera",
+    "banderas_rojas": [
+      "Falta de desglose de la puntuación obtenida en el concurso",
+      "Ausencia de información sobre el número de aspirantes que compitieron por la plaza",
+      "Uso de códigos internos (DF001258) que dificultan el rastreo presupuestario directo"
+    ]
+  },
+  "tweeted": false
+}
