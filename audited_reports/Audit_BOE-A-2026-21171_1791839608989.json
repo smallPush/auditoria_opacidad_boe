@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-21171",
+  "timestamp": "2026-10-12T21:13:28.989Z",
+  "title": "Acuerdo de 7 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña Susana Salvador Gutiérrez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado del Consejo General del Poder Judicial. Aunque el proceso es transparente en su ejecucion, la situacion de 'servicios especiales' indica que la magistrada ocupaba cargos fuera de la judicatura manteniendo su plaza, una practica que permite la acumulacion de privilegios administrativos. Los 'derechos pasivos' mencionados representan un coste a largo plazo para el Estado derivado de regimenes de jubilacion superiores a la media ciudadana.",
+    "resumen_ciudadano": "Declaracion de jubilacion forzosa de la magistrada Susana Salvador Gutierrez al cumplir la edad legal. Este movimiento libera una plaza en el Registro Civil Numero 4 de Madrid y activa su pension como funcionaria de alto nivel.",
+    "resumen_tweet": "⚖️ Jubilacion forzosa en la alta judicatura: la magistrada Susana Salvador deja su plaza en Madrid tras años en 'servicios especiales'. Un tramite ordinario que activa pensiones blindadas por ley. #BOE #Transparencia #Justicia 🏛️",
+    "banderas_red_flags": [
+      "Derechos pasivos de cuantía opaca",
+      "Situación de servicios especiales previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La magistrada (pension consolidada)",
+        "Nuevas promociones (vacante libre)"
+      ],
+      "perdedores": [
+        "Erario publico (coste prestacion)",
+        "Ciudadania (opacidad en la cuantia de pensiones judiciales)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Situaciones de Personal",
+    "banderas_rojas": [
+      "Derechos pasivos de cuantía opaca",
+      "Situación de servicios especiales previa"
+    ]
+  },
+  "tweeted": false
+}
