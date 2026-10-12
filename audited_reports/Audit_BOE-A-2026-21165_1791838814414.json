@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21165",
+  "timestamp": "2026-10-12T21:00:14.414Z",
+  "title": "Acuerdo internacional administrativo entre el Ministerio de Educación, Formación Profesional y Deportes del Reino de España y las Escuelas Europeas para regular la implantación y financiación del catalán como otra lengua nacional (ONL) en el Sistema de Escuelas Europeas, hecho en Bruselas y Madrid el 27 y 31 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo establece un compromiso financiero unilateral donde el Estado español asume el 100% de los costes de implantación del catalán en las Escuelas Europeas, bajo el principio de 'neutralidad de costes' para la organización internacional. Se detecta una falta de cuantificación económica previa; el gasto queda supeditado a una 'demanda' variable que determinarán las propias escuelas, lo que funciona como un cheque en blanco presupuestario. Aunque se cita la partida 18.08.144B.480.02, no hay un límite máximo de gasto anual detallado en el cuerpo del acuerdo.",
+    "resumen_ciudadano": "España pagará íntegramente las clases de catalán para los hijos de funcionarios y diplomáticos en las Escuelas Europeas (principalmente en Bruselas y Luxemburgo). El acuerdo incluye el sueldo de profesores y sus complementos. Se empezará con contratos locales para luego pasar a funcionarios. Si no hay suficientes alumnos (mínimo 6), se agruparán niveles. El sistema de Escuelas Europeas no pondrá dinero extra, todo sale de los impuestos de los ciudadanos españoles.",
+    "resumen_tweet": "⚠️ España asume el 100% del coste para enseñar catalán en las Escuelas Europeas de élite. El acuerdo garantiza 'coste cero' para la UE mientras el #BOE revela que el dinero saldrá íntegramente de las arcas públicas. 💸 #Opacidad #Transparencia #Catalán",
+    "banderas_red_flags": [
+      "Cláusula de neutralidad de costes para la UE (España paga todo)",
+      "Ausencia de cifra presupuestaria total estimada",
+      "Gasto condicionado a 'demanda' externa no controlada por el MEFD",
+      "Posibilidad de contratar profesorado local sin pasar por oposiciones estatales",
+      "Asunción de gastos de seguridad social y complementos en el extranjero"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Hijos de funcionarios europeos y diplomáticos",
+        "Profesorado de catalán con opción a contratación local en el extranjero",
+        "Entidades de promoción lingüística"
+      ],
+      "perdedores": [
+        "Contribuyente general (asume la financiación de un sistema educativo de élite)",
+        "Presupuesto de educación pública nacional (desvío de fondos a centros privados/internacionales)",
+        "Otras lenguas cooficiales (el acuerdo prioriza inicialmente solo el catalán)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional Administrativo",
+    "banderas_rojas": [
+      "Cláusula de neutralidad de costes para la UE (España paga todo)",
+      "Ausencia de cifra presupuestaria total estimada",
+      "Gasto condicionado a 'demanda' externa no controlada por el MEFD",
+      "Posibilidad de contratar profesorado local sin pasar por oposiciones estatales",
+      "Asunción de gastos de seguridad social y complementos en el extranjero"
+    ]
+  },
+  "tweeted": false
+}
