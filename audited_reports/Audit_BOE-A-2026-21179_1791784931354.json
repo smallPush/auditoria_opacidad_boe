@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21179",
+  "timestamp": "2026-10-12T06:02:11.354Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña Carolina Soler García.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Nombramiento administrativo de funcionaria docente bajo la LOSU. Aunque formalmente correcto, el BOE actúa como simple registro de una decisión tomada en comités internos universitarios cuya transparencia es limitada para el ciudadano. No se especifica el coste salarial anual ni la composición de la comisión que decidió el nombramiento.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de doña Carolina Soler García como Profesora Titular de Derecho Internacional Público en la Universidad de Alicante tras superar el proceso selectivo.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Universidad de Alicante. Carolina Soler es nombrada Profesora Titular de Derecho Internacional. Se consolida empleo público, pero la transparencia en las comisiones de selección sigue en la sombra. 🏛️ #BOE #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la puntuación obtenida",
+      "Opacidad en el coste presupuestario de la plaza",
+      "Sistema de selección propenso a la endogamia académica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carolina Soler García (plaza vitalicia)",
+        "Universidad de Alicante (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (anonimato total)",
+        "Contribuyentes (falta de transparencia en el uso de fondos para personal)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de desglose de la puntuación obtenida",
+      "Opacidad en el coste presupuestario de la plaza",
+      "Sistema de selección propenso a la endogamia académica"
+    ]
+  },
+  "tweeted": false
+}
