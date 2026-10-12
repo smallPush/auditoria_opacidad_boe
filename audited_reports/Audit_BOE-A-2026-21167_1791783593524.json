@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21167",
+  "timestamp": "2026-10-12T05:39:53.524Z",
+  "title": "Orden EFD/1073/2026, de 5 de octubre, por la que se actualizan determinados estándares de competencias profesionales de las familias profesionales Agraria; Artes Gráficas; Artes y Artesanías; Energía y Agua; Edificación y Obra Civil; Fabricación Mecánica; Industrias Alimentarias; Madera, Mueble y Corcho; Química; Textil, Confección y Piel; y Vidrio y Cerámica recogidos en el Catálogo Nacional de Estándares de Competencias Profesionales.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden EFD/1073/2026 actúa como un parche técnico para la modernización del sistema de Formación Profesional. Aunque se ampara en la transparencia, utiliza una técnica legislativa de 'desplazamiento de contenido' donde reales decretos antiguos mantienen vigencia formal pero sus anexos quedan vacíos de efecto. Esto genera un laberinto jurídico para el ciudadano común que intenta rastrear qué competencias están vigentes. No se detallan los costes de consultoría o personal técnico que han llevado a cabo estas 'actualizaciones de redacción', lo que podría ocultar gastos operativos bajo el pretexto de eficiencia administrativa.",
+    "resumen_ciudadano": "El Gobierno ha actualizado las reglas que definen qué debe saber hacer un profesional en sectores como la agricultura, artes gráficas, mecánica o industria alimentaria. Si estudias o trabajas en estos sectores, los requisitos oficiales para que te reconozcan tu experiencia han cambiado de nombre y detalle técnico para adaptarse a la nueva Ley de FP.",
+    "resumen_tweet": "🚨 Nueva Orden en el #BOE: El Gobierno actualiza los estándares de competencias en 11 familias profesionales. ¿Modernización o laberinto burocrático? 🧐 Más tecnicismos y normas que anulan a otras sin derogarlas. #Transparencia #FP #Opacidad 📑⚖️",
+    "banderas_red_flags": [
+      "Vigencia formal de decretos con contenido desplazado (limbo legal)",
+      "Uso excesivo de remisiones a disposiciones transitorias",
+      "Ausencia de memoria económica sobre el coste de la re-estandarización"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros de formación (capacidad de adaptación rápida)",
+        "Empresas de certificación y consultoría",
+        "Administración Pública (centralización de criterios)"
+      ],
+      "perdedores": [
+        "Pequeñas academias de barrio (costes de actualización de currículos)",
+        "Trabajadores veteranos (barreras terminológicas)",
+        "Ciudadanía (complejidad para auditar los cambios reales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Actualización de Cualificaciones Profesionales",
+    "banderas_rojas": [
+      "Vigencia formal de decretos con contenido desplazado (limbo legal)",
+      "Uso excesivo de remisiones a disposiciones transitorias",
+      "Ausencia de memoria económica sobre el coste de la re-estandarización"
+    ]
+  },
+  "tweeted": false
+}
