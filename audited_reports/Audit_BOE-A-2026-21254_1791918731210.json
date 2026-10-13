@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21254",
+  "timestamp": "2026-10-13T19:12:11.210Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Dirección General de Trabajo, por la que se publica relación de fiestas laborales para el año 2027.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "La resolucion es un ejercicio de transparencia administrativa rutinaria que consolida la descentralizacion de los periodos de descanso en Espana. Aunque el texto es claro en su funcion de inventario, elude cualquier analisis sobre el coste de oportunidad economico o el impacto en la conciliacion real. Destaca la inclusion de festividades religiosas diversas como el Eid Fitr en Melilla, lo cual refleja una adaptacion a la realidad sociodemografica, aunque el marco legal general sigue anclado en un Real Decreto de 1983 (2001/1983), evidenciando una falta de actualizacion en la normativa de base tras cuatro decadas.",
+    "resumen_ciudadano": "Se publica oficialmente el calendario de festivos para el ano 2027. Este documento detalla que dias seran no laborables en cada Comunidad Autonoma, permitiendo a los trabajadores y empresas conocer sus derechos de descanso y organizar la actividad economica con antelacion.",
+    "resumen_tweet": "📅 Ya esta aqui el calendario laboral 2027 en el #BOE. Transparencia administrativa clara, pero bajo leyes de 1983. El sector servicios vuelve a ser el motor que no para mientras el resto descansa. #Opacidad economica en los costes. #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Uso de normativa base con mas de 40 anos de antiguedad",
+      "Fragmentacion administrativa que dificulta la logistica empresarial interestatal",
+      "Ausencia de evaluacion de impacto economico en el sector retail"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores asalariados con jornada ordinaria",
+        "Sector Turistico y Hosteleria (por aumento de demanda)",
+        "Administraciones Publicas"
+      ],
+      "perdedores": [
+        "Pequeño comercio y autonomos (costes de cierre)",
+        "Trabajadores de servicios esenciales y hosteleria (mayor carga laboral)",
+        "Logistica industrial por disparidad de calendarios regionales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Multiterritorial",
+    "tipologia": "Resolucion Administrativa Laboral",
+    "banderas_rojas": [
+      "Uso de normativa base con mas de 40 anos de antiguedad",
+      "Fragmentacion administrativa que dificulta la logistica empresarial interestatal",
+      "Ausencia de evaluacion de impacto economico en el sector retail"
+    ]
+  },
+  "tweeted": false
+}
