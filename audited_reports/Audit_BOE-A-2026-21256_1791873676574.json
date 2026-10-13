@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21256",
+  "timestamp": "2026-10-13T06:41:16.574Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Universidad Rovira i Virgili, por la que se nombra personal funcionario de cuerpos docentes universitarios.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución cumple con la legalidad vigente de la LOSU y la normativa catalana, pero evidencia la inercia de la 'promoción interna' en el sistema universitario español. Aunque se publica el nombre y la plaza, no se explicita la partida presupuestaria específica ni el incremento de coste para las arcas públicas que supone el ascenso de categoría. Este tipo de nombramientos, si bien son transparentes en su forma, suelen ocultar procesos donde la competencia real es limitada frente al candidato de la propia institución.",
+    "resumen_ciudadano": "Se oficializa el nombramiento del Dr. Aurelio Fernández Bariviera como Catedrático de Universidad en la Universidad Rovira i Virgili (Tarragona). La plaza pertenece al área de Economía Financiera y Contabilidad y se otorga tras un proceso de promoción interna.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Rovira i Virgili por vía de promoción interna. La burocracia avanza, pero la apertura al talento externo sigue siendo la asignatura pendiente de nuestras universidades. 🏛️📉 #BOE #Opacidad #Transparencia #Universidades",
+    "banderas_red_flags": [
+      "Promoción interna preferente",
+      "Ausencia de desglose del coste salarial público",
+      "Potencial endogamia institucional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Dr. Aurelio Fernández Bariviera",
+        "Estructura administrativa de la Universidad Rovira i Virgili"
+      ],
+      "perdedores": [
+        "Candidatos externos cualificados",
+        "Eficiencia presupuestaria estatal"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Promoción interna preferente",
+      "Ausencia de desglose del coste salarial público",
+      "Potencial endogamia institucional"
+    ]
+  },
+  "tweeted": false
+}
