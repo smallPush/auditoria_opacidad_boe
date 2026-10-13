@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21251",
+  "timestamp": "2026-10-13T05:47:53.356Z",
+  "title": "Orden HAC/1080/2026, de 7 de octubre, por la que se modifica la Orden HAC/66/2024, de 25 de enero, por la que se aprueban las normas de desarrollo de las marcas fiscales previstas para todas las labores del tabaco.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la apariencia de una actualizacion tecnica y estetica de las marcas fiscales (sellos), la Orden HAC/1080/2026 prepara la infraestructura de control para gravar proximamente liquidos de vapeo y bolsas de nicotina. Se observa una 'colonizacion normativa' al invocar directivas europeas de 2028 para justificar cambios inmediatos en 2026. La designacion de la FNMT como proveedor unico blinda un monopolio estatal de seguridad sin desglosar costes de fabricacion o el impacto en los precios finales que asume el consumidor.",
+    "resumen_ciudadano": "Hacienda cambia los sellos de las cajetillas de tabaco para incluir mas medidas de seguridad y trazabilidad. Aunque parece un tramite, el cambio busca integrar bajo el mismo control fiscal a los cigarrillos electronicos y nuevos productos de nicotina, facilitando que el Estado pueda vigilarlos y cobrar impuestos sobre ellos de forma mas rigurosa en el futuro proximo.",
+    "resumen_tweet": "Hacienda blinda el control del tabaco y vapeo 🚭. Actualiza marcas fiscales con la FNMT como proveedor unico bajo el pretexto de 'seguridad europea'. Preparan el terreno para nuevos impuestos a cigarrillos electronicos. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Monopolio de suministro por la FNMT (Real Casa de la Moneda)",
+      "Urgencia alegada para cambios tecnologicos no detallados tecnicamente",
+      "Adaptacion anticipada a una normativa europea aun en tramite",
+      "Falta de transparencia en los costes de implementacion de los nuevos elementos de seguridad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fabrica Nacional de Moneda y Timbre (contrato de suministro asegurado)",
+        "Ministerio de Hacienda (mayor trazabilidad y control recaudatorio)",
+        "Grandes tabaqueras (capacidad de adaptacion tecnologica rapida)"
+      ],
+      "perdedores": [
+        "Pequeños distribuidores (cargas administrativas por devolucion de marcas antiguas)",
+        "Usuarios de vapeo (la infraestructura para el proximo hachazo fiscal ya esta lista)",
+        "Libre competencia en el sector de soluciones de seguridad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificacion Fiscal/Trazabilidad",
+    "banderas_rojas": [
+      "Monopolio de suministro por la FNMT (Real Casa de la Moneda)",
+      "Urgencia alegada para cambios tecnologicos no detallados tecnicamente",
+      "Adaptacion anticipada a una normativa europea aun en tramite",
+      "Falta de transparencia en los costes de implementacion de los nuevos elementos de seguridad"
+    ]
+  },
+  "tweeted": false
+}
