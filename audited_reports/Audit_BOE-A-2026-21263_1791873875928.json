@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21263",
+  "timestamp": "2026-10-13T06:44:35.928Z",
+  "title": "Resolución de 29 de septiembre de 2026, del Ayuntamiento de El Molar (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una estructura estándar de convocatoria de empleo público, pero adolece de 'transparencia fragmentada'. Al no incluir las bases íntegras y remitir al BOCM, obliga al ciudadano a un rastreo burocrático adicional. El sistema de 'oposición pura' en turno libre es teóricamente meritocrático, pero suele ocultar barreras de entrada para clases trabajadoras que no pueden costearse años de estudio sin ingresos, favoreciendo a quienes poseen colchón económico.",
+    "resumen_ciudadano": "El Ayuntamiento de El Molar convoca una plaza de Administrativo mediante oposición libre. El plazo para apuntarse es de 20 días hábiles. Es una oportunidad de empleo fijo, pero los detalles sobre qué estudiará el examen y cómo se puntuará no están en este anuncio, sino en el Boletín de la Comunidad de Madrid.",
+    "resumen_tweet": "📢 ¡Ojo al #BOE! El Molar convoca 1 plaza de administrativo. Oposición pura (turno libre) pero con bases 'escondidas' en el boletín regional. ¿Transparencia real o laberinto burocrático? 🏛️⚖️ #Opacidad #EmpleoPúblico #Transparencia",
+    "banderas_red_flags": [
+      "Fragmentación de información (remisión al BOCM)",
+      "Plaza única (mayor susceptibilidad a procesos dirigidos)",
+      "Falta de desglose presupuestario del coste de la plaza a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores a tiempo completo con recursos económicos",
+        "Academias de preparación de oposiciones",
+        "Ayuntamiento de El Molar (cobertura de estructura administrativa)"
+      ],
+      "perdedores": [
+        "Trabajadores con cargas familiares/laborales (falta de tiempo para oposición pura)",
+        "Candidatos sin acceso fácil a boletines autonómicos",
+        "Presupuesto municipal (gasto estructural consolidado)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Resolución de Empleo Público",
+    "banderas_rojas": [
+      "Fragmentación de información (remisión al BOCM)",
+      "Plaza única (mayor susceptibilidad a procesos dirigidos)",
+      "Falta de desglose presupuestario del coste de la plaza a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
