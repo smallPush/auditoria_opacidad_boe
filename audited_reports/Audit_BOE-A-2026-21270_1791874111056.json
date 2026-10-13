@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21270",
+  "timestamp": "2026-10-13T06:48:31.056Z",
+  "title": "Resolución de 7 de octubre de 2026, del Ayuntamiento de Viladecans (Barcelona), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolucion presenta una transparencia administrativa formal pero una opacidad practica al remitir los criterios de seleccion (bases) al Boletin Oficial de la Provincia de Barcelona (BOPB). El uso del sistema de concurso-oposicion para plazas de turno libre en puestos de Oficial de primera suele ser un mecanismo de consolidacion de personal interino, donde los meritos por años de servicio actuan como una barrera de entrada para candidatos externos. No se detallan los costes salariales ni el impacto presupuestario de la creacion o consolidacion de estas plazas fijas.",
+    "resumen_ciudadano": "El Ayuntamiento de Viladecans convoca 2 plazas fijas de Oficial/a de primera. El proceso de seleccion es mediante concurso-oposicion, lo que significa que se puntuara tanto el examen como la experiencia previa. Los interesados disponen de 20 dias habiles para inscribirse. Las condiciones detalladas no aparecen aqui, sino en el boletin provincial de Barcelona.",
+    "resumen_tweet": "📢 Viladecans abre 2 plazas de Oficial de 1ª mediante concurso-oposicion. ¡Atencion! El sistema de puntos suele favorecer a quienes ya estan dentro. 🧐 Consulta las bases en el BOPB. #BOE #Opacidad #EmpleoPublico #Viladecans #Transparencia 💼🛠️",
+    "banderas_red_flags": [
+      "Remision externa para bases de seleccion",
+      "Sistema de concurso-oposicion en acceso libre",
+      "Falta de informacion sobre retribuciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral temporal del ayuntamiento",
+        "Candidatos con experiencia previa en administracion local"
+      ],
+      "perdedores": [
+        "Tecnicos externos sin puntos por experiencia",
+        "Jovenes aspirantes al primer empleo publico"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolucion de Empleo Público",
+    "banderas_rojas": [
+      "Remision externa para bases de seleccion",
+      "Sistema de concurso-oposicion en acceso libre",
+      "Falta de informacion sobre retribuciones"
+    ]
+  },
+  "tweeted": false
+}
