@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21253",
+  "timestamp": "2026-10-13T06:36:00.022Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Sociedad Estatal de Promoción Industrial y Desarrollo Empresarial, E.P.E., por la que se crea la sede electrónica de la entidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución formaliza la sede electrónica de SEPIDES tras su transformación de sociedad mercantil a Entidad Pública Empresarial (E.P.E.). Aunque se ampara en la Ley 40/2015 para mejorar la eficiencia, destaca la recurrente cláusula de 'no incremento de gasto público'. Esta afirmación es técnicamente cuestionable: la creación, mantenimiento y securización de una sede electrónica que gestionará fondos, créditos y avales industriales requiere recursos de infraestructura y ciberseguridad que, si bien se detraen de presupuestos existentes, ocultan el coste real de la transición tecnológica del organismo.",
+    "resumen_ciudadano": "Se crea oficialmente el portal web (sede electrónica) para que la Sociedad Estatal de Promoción Industrial (SEPIDES) gestione de forma digital sus trámites, ayudas y subvenciones industriales. A partir de abril de 2027, las empresas que busquen apoyo público de esta entidad deberán hacerlo obligatoriamente a través de esta nueva plataforma.",
+    "resumen_tweet": "🕵️‍♂️ ¿Gasto cero? Hacienda crea la sede electrónica de SEPIDES para gestionar ayudas industriales. Dicen que no hay coste extra, pero la digitalización de fondos públicos requiere recursos que no siempre son visibles. #BOE #Opacidad #Transparencia 🖥️📉",
+    "banderas_red_flags": [
+      "Cláusula de no incremento de gasto en proyectos tecnológicos complejos",
+      "Fragmentación administrativa al crear sedes específicas fuera del punto de acceso general",
+      "Opacidad en los costes de mantenimiento de sistemas de interoperabilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes grupos industriales con capacidad de gestión digital",
+        "Consultoras de IT encargadas de la implementación de sistemas estatales",
+        "Presidencia de SEPIDES al centralizar el control de la información"
+      ],
+      "perdedores": [
+        "Pequeñas empresas con brecha digital",
+        "Contribuyentes (por el uso de recursos internos no desglosados)",
+        "Transparencia presupuestaria real sobre el coste de la transformación a E.P.E."
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administración Electrónica y Promoción Industrial",
+    "banderas_rojas": [
+      "Cláusula de no incremento de gasto en proyectos tecnológicos complejos",
+      "Fragmentación administrativa al crear sedes específicas fuera del punto de acceso general",
+      "Opacidad en los costes de mantenimiento de sistemas de interoperabilidad"
+    ]
+  },
+  "tweeted": false
+}
