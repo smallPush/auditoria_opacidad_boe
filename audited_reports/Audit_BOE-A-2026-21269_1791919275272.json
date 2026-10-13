@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21269",
+  "timestamp": "2026-10-13T19:21:15.272Z",
+  "title": "Resolución de 7 de octubre de 2026, de la Diputación Provincial de Córdoba, referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa un patrón de endogamia administrativa: de las 14 plazas convocadas, el 93% (13 plazas) están reservadas exclusivamente para promoción interna. El sistema de 'concurso-oposición' en estos casos suele actuar como un mecanismo de blindaje para el personal ya vinculado, dificultando el acceso al empleo público de ciudadanos externos y jóvenes talentos. Llama la atención el decalaje temporal, con bases publicadas en 2025 para una convocatoria en 2026.",
+    "resumen_ciudadano": "La Diputación de Córdoba convoca 14 plazas de administrativo. Sin embargo, casi todas están destinadas a ascensos internos de quienes ya trabajan allí. Solo hay una plaza reservada para personas con discapacidad y ninguna para el turno libre general en esta resolución específica.",
+    "resumen_tweet": "🕵️‍♂️ ¿Oposición o promoción encubierta? En Córdoba, 13 de 14 plazas de administrativo son para promoción interna. La puerta al empleo público sigue blindada para el ciudadano de a pie. 📉 #BOE #Opacidad #Transparencia #Córdoba",
+    "banderas_red_flags": [
+      "Predominio casi absoluto de promoción interna",
+      "Dilatación temporal de casi un año entre las bases y la convocatoria efectiva",
+      "Falta de desglose presupuestario del coste de estas nuevas plazas fijas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o fijo de la Diputación de Córdoba",
+        "Sindicatos con acuerdos de promoción interna"
+      ],
+      "perdedores": [
+        "Opositores libres",
+        "Jóvenes graduados sin experiencia previa en la administración",
+        "Sociedad civil (limitación de renovación de perfiles públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Oferta de Empleo Público (OEP)",
+    "banderas_rojas": [
+      "Predominio casi absoluto de promoción interna",
+      "Dilatación temporal de casi un año entre las bases y la convocatoria efectiva",
+      "Falta de desglose presupuestario del coste de estas nuevas plazas fijas"
+    ]
+  },
+  "tweeted": false
+}
