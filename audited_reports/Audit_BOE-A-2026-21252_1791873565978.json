@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21252",
+  "timestamp": "2026-10-13T06:39:25.978Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Sociedad Estatal de Promoción Industrial y Desarrollo Empresarial, E.P.E., por la que se crea y regula el registro electrónico de la entidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución formaliza la digitalización de SEPIDES tras su transformación en Entidad Pública Empresarial (E.P.E.). Aunque cumple con el mandato legal de interoperabilidad, destaca la exclusión explícita de la gestión de subvenciones y ayudas financieras de este registro general, derivándolas a portales específicos. Esto genera una fragmentación administrativa que aumenta la carga cognitiva y burocrática del ciudadano, quien debe identificar qué 'puerta digital' usar según el trámite. Asimismo, la habilitación permanente a la Secretaría General para modificar el anexo de trámites sin pasar por una nueva resolución pública reduce la fiscalización externa sobre qué procesos son realmente accesibles.",
+    "resumen_ciudadano": "SEPIDES habilita su buzón digital oficial para trámites, quejas y recursos. No obstante, este registro es una trampa de confusión: no sirve para pedir subvenciones o préstamos, los cuales siguen dispersos en otras plataformas. Es un avance técnico que no necesariamente simplifica la vida del emprendedor.",
+    "resumen_tweet": "SEPIDES estrena registro electrónico 🖱️ pero ¡cuidado! prohíben usarlo para subvenciones y ayudas, obligando a usar otros portales 🤯. Más burocracia digital fragmentada que complica la vida al ciudadano. ¿Simplificación o laberinto? 🧐 #BOE #Opacidad #SEPIDES",
+    "banderas_red_flags": [
+      "Exclusión de subvenciones del registro general",
+      "Delegación de cambios normativos (anexos) a órganos internos sin nueva publicidad BOE",
+      "Transferencia total de responsabilidad por fallos de firma al usuario",
+      "Uso de una entidad pública empresarial para funciones que podrían ser centralizadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura administrativa de SEPIDES (agilidad interna)",
+        "Proveedores de servicios tecnológicos y certificación"
+      ],
+      "perdedores": [
+        "Autónomos y PYMES (obligados a navegar por múltiples sedes electrónicas)",
+        "Personas afectadas por la brecha digital",
+        "Transparencia en la gestión de ayudas financieras"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación Administrativa Digital",
+    "banderas_rojas": [
+      "Exclusión de subvenciones del registro general",
+      "Delegación de cambios normativos (anexos) a órganos internos sin nueva publicidad BOE",
+      "Transferencia total de responsabilidad por fallos de firma al usuario",
+      "Uso de una entidad pública empresarial para funciones que podrían ser centralizadas"
+    ]
+  },
+  "tweeted": false
+}
