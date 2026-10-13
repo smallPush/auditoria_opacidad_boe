@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21264",
+  "timestamp": "2026-10-13T19:13:38.264Z",
+  "title": "Resolución de 2 de octubre de 2026, del Consorcio de Extinción de Incendios y Salvamento de Alicante (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria presenta un desequilibrio estructural severo que favorece la endogamia administrativa: el 83% de las plazas (10 de 12) están blindadas para promoción interna mediante concurso-oposición, dejando apenas 2 plazas para el acceso libre. Además, se detecta una maniobra de presión temporal; el plazo de presentación es de solo 10 días hábiles, la mitad del estándar habitual de 20 días en la administración pública, lo que dificulta la concurrencia competitiva de ciudadanos externos. Existe un desfase temporal injustificado entre la publicación de las bases (marzo) y el anuncio en el BOE (octubre), generando una ventana de opacidad informativa de siete meses.",
+    "resumen_ciudadano": "El Consorcio de Bomberos de Alicante convoca 12 plazas de administrativo. Sin embargo, 10 de estas plazas son para ascensos internos y solo 2 están abiertas al público general. El plazo para apuntarse es extremadamente corto (solo 10 días), lo que da muy poco margen de maniobra a quienes no trabajen ya en la institución.",
+    "resumen_tweet": "🚨 ¿Oportunidad o blindaje? El Consorcio de Bomberos de Alicante lanza 12 plazas: 10 para ascenso interno y solo 2 para ciudadanos. ¡Ojo! Solo dan 10 días para solicitar. La meritocracia en entredicho. 🚒✂️ #BOE #Opacidad #Transparencia #Alicante",
+    "banderas_red_flags": [
+      "Plazo de solicitud reducido (10 días en lugar de 20)",
+      "Alta desproporción entre promoción interna y turno libre (83% vs 17%)",
+      "Dilación excesiva entre publicación de bases y anuncio en BOE",
+      "Posible consolidación de empleo encubierta bajo sistema de concurso-oposición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino o con plaza previa en el Consorcio de Alicante",
+        "Sindicatos con acuerdos de promoción interna"
+      ],
+      "perdedores": [
+        "Opositores libres con alta preparación",
+        "Ciudadanos externos al sistema administrativo local",
+        "Principio de igualdad y libre concurrencia"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Plazo de solicitud reducido (10 días en lugar de 20)",
+      "Alta desproporción entre promoción interna y turno libre (83% vs 17%)",
+      "Dilación excesiva entre publicación de bases y anuncio en BOE",
+      "Posible consolidación de empleo encubierta bajo sistema de concurso-oposición"
+    ]
+  },
+  "tweeted": false
+}
