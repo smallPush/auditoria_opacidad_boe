@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21267",
+  "timestamp": "2026-10-13T06:45:50.951Z",
+  "title": "Resolución de 7 de octubre de 2026, del Ayuntamiento de La Gineta (Albacete), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolucion sigue el patron clasico de opacidad administrativa local al remitir las bases detalladas a un Boletin Provincial (BOP), dificultando el escrutinio inmediato. El uso del sistema 'concurso-oposicion' para una plaza de Auxiliar de Gestion Administrativa en turno libre es una señal de alerta recurrente: a menudo se utiliza para consolidar a personal interino que ya ocupa el puesto, otorgando un peso determinante a los 'meritos' previos (fase de concurso) sobre la capacidad demostrada en el examen (fase de oposicion).",
+    "resumen_ciudadano": "El Ayuntamiento de La Gineta convoca una plaza de auxiliar administrativo. Se usara un sistema mixto de examen y valoracion de experiencia previa. El plazo para apuntarse es de 30 dias habiles desde el 14 de octubre de 2026.",
+    "resumen_tweet": "📢 ¡Ojo a la letra pequeña! La Gineta (#Albacete) convoca plaza de Auxiliar Administrativo mediante concurso-oposicion. ¿Oportunidad real o consolidacion encubierta de interinos? 🧐 El baremo esta oculto en el BOP. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposicion en plaza base",
+      "Remision a bases en boletin provincial de dificil acceso directo",
+      "Falta de desglose de la valoracion de meritos en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antiguedad en el Ayuntamiento de La Gineta",
+        "Candidatos con experiencia previa en la administracion local de la zona"
+      ],
+      "perdedores": [
+        "Opositores jovenes sin experiencia previa",
+        "Ciudadanos fuera de la red de administracion local de Albacete"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Empleo Publico Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposicion en plaza base",
+      "Remision a bases en boletin provincial de dificil acceso directo",
+      "Falta de desglose de la valoracion de meritos en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
