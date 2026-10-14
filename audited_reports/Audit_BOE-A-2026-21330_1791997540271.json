@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21330",
+  "timestamp": "2026-10-14T17:05:40.271Z",
+  "title": "Decreto de 30 de septiembre de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada de Delitos contra la Administración Pública de la Fiscalía Provincial de Huesca a doña Teresa Duerto Argemi.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un nombramiento discrecional dentro de la estructura jerárquica del Ministerio Fiscal. Aunque se cita el cumplimiento del artículo 62.2 del Reglamento del Ministerio Fiscal, el texto adolece de la 'opacidad de méritos': se afirma que la candidata posee los méritos necesarios pero no se detallan frente a posibles alternativas. El puesto es de alta sensibilidad política (Delitos contra la Administración Pública), lo que exige una transparencia máxima en la idoneidad del perfil para evitar la percepción de cooptación institucional.",
+    "resumen_ciudadano": "La Fiscal General del Estado ha nombrado a Teresa Duerto Argemi como Fiscal Delegada en Huesca para investigar delitos de corrupción y mala praxis en la administración pública. El proceso fue interno, basado en una convocatoria para la plantilla y una propuesta del Fiscal Jefe local.",
+    "resumen_tweet": "⚖️ Nueva fiscal contra la corrupción en Huesca. El #BOE publica el nombramiento de Teresa Duerto. Proceso legal cumplido, pero la falta de detalle en los méritos comparados mantiene la sombra de la discrecionalidad. #Opacidad #Fiscalía #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Motivación de méritos genérica",
+      "Ausencia de datos sobre otros candidatos descartados",
+      "Nombramiento en área sensible de corrupción administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Teresa Duerto Argemi (ascenso profesional)",
+        "Ministerio Fiscal (cobertura de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados (falta de feedback público)",
+        "Ciudadanía (desconocimiento de los criterios específicos de selección para perseguir corrupción)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Motivación de méritos genérica",
+      "Ausencia de datos sobre otros candidatos descartados",
+      "Nombramiento en área sensible de corrupción administrativa"
+    ]
+  },
+  "tweeted": false
+}
