@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21333",
+  "timestamp": "2026-10-14T17:09:50.118Z",
+  "title": "Resolución de 2 de octubre de 2026, de la Universidad de Vigo, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es una resolución administrativa estándar para el nombramiento de profesorado titular bajo la Ley Orgánica 2/2023 (LOSU). Aunque la transparencia nominal es alta, la opacidad reside en la estructura de costes: se omiten las retribuciones específicas y el impacto presupuestario a largo plazo de estos puestos vitalicios. Se detecta una modificación previa de la convocatoria original (mayo 2026), lo que sugiere correcciones en el proceso administrativo inicial. Destaca una fuerte presencia femenina (80%), lo que indica un avance en la reducción de la brecha de género en la titularidad universitaria.",
+    "resumen_ciudadano": "La Universidad de Vigo formaliza la incorporación definitiva de cinco docentes como Profesores Titulares en las áreas de Tecnología Electrónica, Derecho Mercantil y Didáctica. Estos nombramientos otorgan estabilidad laboral y estatus de funcionario a los seleccionados tras superar el proceso de concurso-oposición.",
+    "resumen_tweet": "🎓 La Universidad de Vigo nombra 5 nuevos profesores titulares. 80% son mujeres en áreas como tecnología y derecho. Se consolida el empleo público bajo la #LOSU, pero persisten dudas sobre el coste total de estas plazas. 🏛️ #BOE #Transparencia #Vigo",
+    "banderas_red_flags": [
+      "Modificación de la resolución de convocatoria original",
+      "Falta de desglose presupuestario por plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fernando Machado Domínguez",
+        "Sara Louredo Casado",
+        "María Cristina Sánchez Martínez",
+        "Almudena Alonso Ferreiro",
+        "María Ainoa Zabalza Cerdeiriña",
+        "Universidad de Vigo (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados en el concurso",
+        "Personal docente investigador (PDI) en precario",
+        "Sector privado (pérdida de talento hacia la función pública)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Modificación de la resolución de convocatoria original",
+      "Falta de desglose presupuestario por plaza"
+    ]
+  },
+  "tweeted": false
+}
