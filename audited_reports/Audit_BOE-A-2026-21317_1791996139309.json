@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21317",
+  "timestamp": "2026-10-14T16:42:19.309Z",
+  "title": "Ley Orgánica 4/2026, de 13 de octubre, por la que se modifica el artículo ochenta de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria para reconocer, a efectos legales, el carácter de agentes de la autoridad a los funcionarios de la Administración Penitenciaria.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La Ley Orgánica 4/2026 otorga el estatus de 'agente de la autoridad' a los funcionarios de prisiones, una demanda histórica del colectivo. No obstante, el punto crítico reside en la presunción de veracidad ('base suficiente para adoptar la resolución') en procesos disciplinarios, lo que altera el equilibrio de poder en las cárceles y podría debilitar las garantías de defensa de los internos. Asimismo, el principio de indemnidad traslada el coste de los daños causados por reclusos insolventes directamente al erario público. El texto utiliza un lenguaje técnico que disfraza una transferencia de responsabilidad patrimonial del delincuente al Estado (Gasto Fantasma potencial por falta de memoria económica clara).",
+    "resumen_ciudadano": "A partir de ahora, los guardias de prisiones tienen el mismo rango legal que la policía (agentes de la autoridad). Sus informes serán considerados prueba suficiente para sancionar a presos, salvo que se demuestre lo contrario. Además, si un preso causa daños a un funcionario y no tiene dinero para pagar, será el Estado quien indemnice al trabajador. También se garantiza que, si un funcionario va a la cárcel, esté separado de los presos comunes para su seguridad.",
+    "resumen_tweet": "👮‍♂️ Nueva Ley Orgánica 4/2026: Funcionarios de prisiones ya son Agentes de Autoridad. Su palabra valdrá más en sanciones y el Estado pagará sus daños si el preso es insolvente. ¿Más seguridad o menos defensa para el interno? 🛡️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Presunción de veracidad como base suficiente para sancionar (vulnerabilidad del interno)",
+      "Remisión a desarrollo reglamentario para indemnizaciones (indefinición presupuestaria)",
+      "Asunción estatal de deudas de terceros (insolvencia de internos)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de la Administración Penitenciaria (mayor estatus y protección económica)",
+        "Personal laboral de prisiones (equiparación de protección penal)",
+        "Sindicatos de prisiones"
+      ],
+      "perdedores": [
+        "Población reclusa (mayor dificultad para impugnar sanciones)",
+        "Contribuyentes (asumen el coste de indemnizaciones por daños de terceros)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma de Seguridad y Seguridad Pública",
+    "banderas_rojas": [
+      "Presunción de veracidad como base suficiente para sancionar (vulnerabilidad del interno)",
+      "Remisión a desarrollo reglamentario para indemnizaciones (indefinición presupuestaria)",
+      "Asunción estatal de deudas de terceros (insolvencia de internos)"
+    ]
+  },
+  "tweeted": false
+}
