@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21257",
+  "timestamp": "2026-10-14T04:43:20.516Z",
+  "title": "Acuerdo de 5 de octubre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se aprueba la relación definitiva de las personas admitidas y excluidas para participar en el concurso para la provisión de plaza de Letrado/a del Gabinete Técnico al servicio del Tribunal Supremo, convocado por Acuerdo de 21 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Se trata de un procedimiento administrativo para cubrir plazas de asesoramiento técnico en la cúpula judicial (Tribunal Supremo). El uso de remisiones a tablones de anuncios externos y páginas web en lugar de publicar los nombres en el propio BOE dificulta la trazabilidad inmediata y el control social sobre posibles casos de nepotismo o endogamia en la selección de letrados del gabinete técnico.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha aprobado la lista final de candidatos admitidos para trabajar como abogados expertos en el Tribunal Supremo. Curiosamente, no hay nadie excluido en esta fase definitiva, lo que sugiere un proceso previo ya muy filtrado o poca concurrencia competitiva real.",
+    "resumen_tweet": "⚖️ ¿Quién asesora a la cúpula judicial? El CGPJ publica la lista de candidatos para el Tribunal Supremo pero sin incluir nombres en el #BOE, remitiendo a su web. ¿Transparencia o blindaje de la élite judicial? 🧐🔍 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Externalización de la información (nombres no publicados en el BOE)",
+      "Ausencia total de excluidos en la relación definitiva",
+      "Alta discrecionalidad potencial en la selección de Gabinetes Técnicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatos seleccionados (acceso a la élite de la administración de justicia)",
+        "CGPJ (mantiene control sobre sus órganos técnicos)"
+      ],
+      "perdedores": [
+        "Ciudadanía (opacidad en el perfil de los asesores del Supremo)",
+        "Candidatos externos con menos recursos para procesos de selección altamente especializados"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Externalización de la información (nombres no publicados en el BOE)",
+      "Ausencia total de excluidos en la relación definitiva",
+      "Alta discrecionalidad potencial en la selección de Gabinetes Técnicos"
+    ]
+  },
+  "tweeted": false
+}
