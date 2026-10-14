@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21265",
+  "timestamp": "2026-10-14T04:57:09.351Z",
+  "title": "Resolución de 5 de octubre de 2026, del Ayuntamiento de Xàbia/Jávea (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convocatoria de una plaza estructural de Técnico/a de Gestión de Fiestas mediante el sistema de concurso-oposición sugiere una posible maniobra de consolidación de personal interino bajo un epígrafe muy específico. Al derivar los detalles técnicos y los baremos de puntuación al Boletín Oficial de la Provincia (BOP), se crea una barrera de acceso a la información que dificulta la fiscalización ciudadana inmediata. Este tipo de plazas, en el ámbito local, suelen estar ligadas a redes clientelares o a la estabilización de puestos creados 'ad hoc'.",
+    "resumen_ciudadano": "El Ayuntamiento de Xàbia ha convocado una plaza fija para gestionar fiestas. Se usará un sistema donde no solo cuenta el examen, sino también los méritos previos (experiencia), lo cual suele favorecer a personas que ya están trabajando dentro del ayuntamiento. Esto limita la competencia real y el acceso de nuevos profesionales sin contactos en la administración local.",
+    "resumen_tweet": "🚩 ¿Plaza fija de 'Gestión de Fiestas' en Xàbia? El sistema de concurso-oposición huele a consolidación de interinos a medida. Menos transparencia al remitir a bases externas. ¿Mérito o red clientelar? 🧐📉 #BOE #Opacidad #Transparencia #Jávea",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Remisión de bases a un boletín de menor rango (BOP)",
+      "Plaza de gestión técnica altamente específica para un área lúdica",
+      "Uso de la subescala de Gestión para funciones que podrían ser administrativas generales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos del Ayuntamiento de Xàbia",
+        "Perfiles con experiencia previa en la administración local",
+        "Estructura política local (fidelización de personal)"
+      ],
+      "perdedores": [
+        "Opositores libres sin puntos por experiencia",
+        "Ciudadanos que financian una plaza fija para eventos",
+        "Transparencia en el empleo público"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Oferta de Empleo Público Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición en lugar de oposición libre",
+      "Remisión de bases a un boletín de menor rango (BOP)",
+      "Plaza de gestión técnica altamente específica para un área lúdica",
+      "Uso de la subescala de Gestión para funciones que podrían ser administrativas generales"
+    ]
+  },
+  "tweeted": false
+}
