@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21260",
+  "timestamp": "2026-10-14T04:46:31.092Z",
+  "title": "Resolución de 5 de octubre de 2026, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas, y se anuncia fecha, hora y lugar de celebración del primer ejercicio de la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 6 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución se ampara en la burocracia digital para externalizar la transparencia: la lista de admitidos no figura en el BOE, obligando al ciudadano a navegar por webs externas que pueden fallar o cambiar. Se observa una marcada segregación de género por especialidades; por ejemplo, en Educación Infantil el 100% de las exclusiones analizadas son mujeres, mientras que en Control de Proyectos de Construcción predominan hombres. El uso de códigos de exclusión (A, B, D, E...) sin una leyenda explicativa inmediata en este documento genera una opacidad terminológica que dificulta la defensa del aspirante.",
+    "resumen_ciudadano": "El Ministerio de Transportes publica la lista provisional de admitidos y excluidos para plazas de personal laboral fijo (grupos M2 a E1). Si has solicitado participar, tienes 10 días hábiles para subsanar errores. Los exámenes serán el 22 y 23 de enero de 2027 en Madrid.",
+    "resumen_tweet": "⚠️ ¡Atención opositores! Publicada lista de admitidos y excluidos en @transportesgob. Solo 10 días para reclamar. 🧐 Detectamos alta segregación de género por especialidades y falta de claridad en códigos de exclusión. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de listas (admitidos fuera del BOE)",
+      "Opacidad en códigos de exclusión sin leyenda adjunta",
+      "Segregación ocupacional de género evidente en especialidades",
+      "Plazos de subsanación ajustados tras publicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes admitidos que ya tienen fecha y lugar de examen",
+        "Soportes digitales del Ministerio que centralizan la información fuera del control del BOE"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos bajo códigos crípticos",
+        "Candidatas de Educación Infantil (sector altamente feminizado con múltiples exclusiones)",
+        "Ciudadanos sin acceso fluido a internet para consultar listas externas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Oposiciones y Empleo Público",
+    "banderas_rojas": [
+      "Externalización de listas (admitidos fuera del BOE)",
+      "Opacidad en códigos de exclusión sin leyenda adjunta",
+      "Segregación ocupacional de género evidente en especialidades",
+      "Plazos de subsanación ajustados tras publicación"
+    ]
+  },
+  "tweeted": false
+}
