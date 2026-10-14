@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21319",
+  "timestamp": "2026-10-14T17:00:47.352Z",
+  "title": "Orden APA/1082/2026, de 7 de octubre, por la que se establecen medidas específicas de protección en relación con la lengua azul.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden APA/1082/2026 externaliza el coste de la sanidad animal hacia el sector privado bajo una apariencia de flexibilidad normativa. Al reclasificar la península como 'zona sin estatus' y establecer la vacunación como 'voluntaria', el Estado se exime de la obligación de financiar campañas masivas, trasladando la responsabilidad económica y burocrática (registro en RIIA en 7 días) exclusivamente a los ganaderos. Existe una incongruencia entre la declaración de 'no contemplar cargas administrativas' y la imposición de obligaciones de notificación electrónica individualizada. El texto utiliza la normativa europea para justificar una desregulación que beneficia la fluidez del mercado pero pone en riesgo la bioseguridad a largo plazo al depender de la capacidad económica individual de cada explotación para vacunar.",
+    "resumen_ciudadano": "Se establecen nuevas reglas para combatir la lengua azul en ganado ovino y bovino. En la península, vacunar será opcional pero el gasto correrá a cargo del dueño del ganado. En Baleares es obligatorio. Se permiten los movimientos de animales en la península con menos restricciones si no tienen síntomas, pero se endurece la vigilancia digital de cada dosis administrada.",
+    "resumen_tweet": "💉 El #BOE de hoy traslada el coste de las vacunas contra la #LenguaAzul a los ganaderos. Menos ayudas públicas y más burocracia digital bajo una falsa 'flexibilidad'. ¿Quién paga la sanidad animal? 🐂 #Opacidad #Transparencia #Ganadería",
+    "banderas_red_flags": [
+      "Privatización de costes de sanidad pública animal",
+      "Contradicción entre 'sin cargas' y obligación de registro en 7 días",
+      "Riesgo epidemiológico por voluntariedad supeditada a recursos del ganadero",
+      "Falta de mención a partidas presupuestarias de apoyo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laboratorios farmacéuticos veterinarios",
+        "Grandes empresas de transporte de ganado",
+        "Administración Central (ahorro en vacunas)"
+      ],
+      "perdedores": [
+        "Pequeños y medianos ganaderos (PYMES)",
+        "Explotaciones familiares de ovino",
+        "Consumidores (posible repercusión de costes en origen)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad Animal / Normativa Agropecuaria",
+    "banderas_rojas": [
+      "Privatización de costes de sanidad pública animal",
+      "Contradicción entre 'sin cargas' y obligación de registro en 7 días",
+      "Riesgo epidemiológico por voluntariedad supeditada a recursos del ganadero",
+      "Falta de mención a partidas presupuestarias de apoyo"
+    ]
+  },
+  "tweeted": false
+}
