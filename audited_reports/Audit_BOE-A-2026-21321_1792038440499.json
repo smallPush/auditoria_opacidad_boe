@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21321",
+  "timestamp": "2026-10-15T04:27:20.499Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 6 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para un puesto de 'Técnico Especialista Informática' en un área tan crítica como Seguridad Nacional y el Gabinete de Presidencia subraya la prevalencia de la confianza política sobre la competencia técnica pura y abierta. Aunque legal, este mecanismo permite el 'besamanos' administrativo, evitando el concurso de méritos tradicional. Se observa un trasvase desde el Ministerio de Defensa (Regimiento de Guerra Electrónica) hacia la Presidencia, consolidando un núcleo de seguridad con personal preseleccionado en lugar de evaluado por tribunales independientes.",
+    "resumen_ciudadano": "Se ha adjudicado a dedo (libre designación) una plaza de especialista en informática para el Departamento de Seguridad Nacional en la Presidencia del Gobierno. El seleccionado proviene del ámbito militar (Defensa). Este método de selección no garantiza que se haya elegido al candidato más cualificado, sino al que cuenta con la confianza de la dirección.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? Se resuelve otra 'Libre Designación' para informática en Seguridad Nacional. Menos concurso público y más adjudicaciones directas en el corazón de la Moncloa. #BOE #Opacidad #Transparencia #Enchufismo",
+    "banderas_red_flags": [
+      "Libre designación en puestos técnicos",
+      "Falta de comparativa de méritos pública",
+      "Procedencia militar para puesto civil en Presidencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Lucas Montes Jaimez (promoción a Presidencia)",
+        "Gabinete de la Presidencia (control sobre el personal técnico)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (pérdida de oportunidades por mérito)",
+        "Transparencia institucional",
+        "Ciudadanía (incapacidad de auditar la idoneidad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Libre designación en puestos técnicos",
+      "Falta de comparativa de méritos pública",
+      "Procedencia militar para puesto civil en Presidencia"
+    ]
+  },
+  "tweeted": false
+}
