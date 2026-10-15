@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21318",
+  "timestamp": "2026-10-15T04:23:27.236Z",
+  "title": "Real Decreto-ley 30/2026, de 13 de octubre, por el que se aprueban medidas extraordinarias y urgentes de apoyo financiero a la Ciudad de Ceuta.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El Real Decreto-ley utiliza la narrativa de 'situación de interés para la seguridad nacional' para justificar una inyección financiera mediante concesión directa, saltándose la concurrencia pública. Lo más alarmante es el Artículo 3, que otorga una 'bula fiscal' a la Ciudad de Ceuta, exonerándola de presentar planes económico-financieros en 2026 y 2027 ante incumplimientos de déficit o regla de gasto. Se legaliza la opacidad contable al permitir un registro separado de gastos que 'desaparecen' de la fiscalización ordinaria bajo la etiqueta de crisis migratoria.",
+    "resumen_ciudadano": "El Gobierno aprueba fondos urgentes para Ceuta tras la crisis migratoria de julio de 2026. Sin embargo, la norma permite a la ciudad gastar dinero sin cumplir las reglas de estabilidad presupuestaria habituales y sin tener que rendir cuentas si gasta más de lo que debe (regla de gasto). El dinero se entregará 'a dedo' (concesión directa) para una lista muy genérica de servicios que van desde cementerios hasta ferias y lonjas.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! El RDL 30/2026 da 'cheque en blanco' a Ceuta: subvenciones directas y suspensión de reglas fiscales hasta 2027. ¿Emergencia o excusa para saltarse el control del gasto? 💸🚫 #Opacidad #Transparencia #Ceuta",
+    "banderas_red_flags": [
+      "Subvención de concesión directa sin concurrencia",
+      "Suspensión de la obligatoriedad de planes económico-financieros",
+      "Exención de medidas coercitivas por incumplimiento de estabilidad",
+      "Ambigüedad en la partida para 'ferias y mercados' bajo crisis migratoria",
+      "Uso de legislación de emergencia para eludir la Ley de Estabilidad Presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración local de Ceuta (mayor autonomía de gasto sin control)",
+        "Contratistas de servicios de emergencia",
+        "Secretaría de Estado de Hacienda (discrecionalidad en pagos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (menor fiscalización del destino del dinero)",
+        "Transparencia institucional",
+        "Ciudadanía de Ceuta (riesgo de gestión ineficiente de recursos sin plan financiero)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Real Decreto-ley de Medidas Extraordinarias Financieras",
+    "banderas_rojas": [
+      "Subvención de concesión directa sin concurrencia",
+      "Suspensión de la obligatoriedad de planes económico-financieros",
+      "Exención de medidas coercitivas por incumplimiento de estabilidad",
+      "Ambigüedad en la partida para 'ferias y mercados' bajo crisis migratoria",
+      "Uso de legislación de emergencia para eludir la Ley de Estabilidad Presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
