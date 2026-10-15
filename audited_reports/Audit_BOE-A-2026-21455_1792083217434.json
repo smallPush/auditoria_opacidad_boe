@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21455",
+  "timestamp": "2026-10-15T16:53:37.434Z",
+  "title": "Real Decreto 833/2026, de 14 de octubre, por el que se regula la concesión directa de subvenciones del Ministerio de Juventud e Infancia a entidades y organizaciones para la protección de los derechos de la infancia y la juventud vulnerable frente a la violencia, la pobreza y la exclusión social.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 833/2026 utiliza de forma extensiva la clausula de excepcionalidad del artículo 22.2.c) de la Ley General de Subvenciones para evitar la concurrencia competitiva. La narrativa legislativa justifica la 'concesion directa' basándose en una supuesta exclusividad de las entidades seleccionadas (UNRWA, CEAS-Sahara, etc.), lo cual bloquea la entrada de otros actores del tercer sector y perpetúa un ecosistema de clientelismo institucional bajo la bandera de la urgencia humanitaria. No se presentan métricas de eficiencia ni comparativas de costes, asumiendo que solo estas entidades pueden gestionar dichos fondos.",
+    "resumen_ciudadano": "El Ministerio de Juventud e Infancia ha aprobado un paquete de ayudas directas, concedidas 'a dedo' (sin concurso público), a organizaciones específicas para proyectos sociales y de ayuda internacional. Aunque los fines (pobreza infantil, ayuda en Gaza o el Sáhara) son de alto impacto social, el método de adjudicación evita que otras asociaciones puedan competir por los fondos, reduciendo el control sobre el uso del dinero público.",
+    "resumen_tweet": "🚨 ¡Fondos a dedo en el #BOE! El Gobierno adjudica subvenciones directas a ONGs y la FEMP esquivando el concurso público bajo la excusa de 'excepcionalidad'. Menos transparencia, más discrecionalidad ministerial. 💸🧐 #Opacidad #Transparencia #Juventud",
+    "banderas_red_flags": [
+      "Adjudicación sin concurrencia competitiva",
+      "Uso de 'razones de interés público' como concepto jurídico indeterminado",
+      "Justificación de exclusividad de entidades difícilmente verificable",
+      "Fragmentación de la gestión mediante subvenciones directas a la FEMP"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "UNRWA",
+        "CEAS-Sáhara",
+        "Fundación Mundubat",
+        "Asociación Mujeres libres, mujeres en paz",
+        "FEMP"
+      ],
+      "perdedores": [
+        "Pequeñas asociaciones sin acceso directo al Ministerio",
+        "Transparencia en el gasto público",
+        "Libre concurrencia en el Tercer Sector"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones",
+    "banderas_rojas": [
+      "Adjudicación sin concurrencia competitiva",
+      "Uso de 'razones de interés público' como concepto jurídico indeterminado",
+      "Justificación de exclusividad de entidades difícilmente verificable",
+      "Fragmentación de la gestión mediante subvenciones directas a la FEMP"
+    ]
+  },
+  "tweeted": false
+}
