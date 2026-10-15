@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21320",
+  "timestamp": "2026-10-15T04:24:50.748Z",
+  "title": "Resolución de 6 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa el uso del procedimiento de libre designación para puestos de Operador de Seguridad (Nivel 16) en Patrimonio Nacional. Aunque legalmente permitido, este método otorga una discrecionalidad total a la autoridad convocante, orillando el principio de mérito y capacidad propio de un concurso público. La opacidad reside en que no se detallan las razones técnicas que justifican por qué estos candidatos son más idóneos que otros, más allá de la 'confianza'. Es un ejemplo de cómo la administración pública puede blindar puestos técnicos bajo criterios de elección política o personal.",
+    "resumen_ciudadano": "El Gobierno ha cubierto dos plazas de seguridad en El Pardo (Madrid) y Segovia mediante nombramientos 'a dedo' (libre designación). Los seleccionados, procedentes de la Guardia Civil, ocuparán puestos en Patrimonio Nacional. Este sistema evita la competencia abierta entre funcionarios, favoreciendo la discrecionalidad administrativa en la elección del personal encargado de la seguridad institucional.",
+    "resumen_tweet": "🚩 ¿Mérito o confianza? El BOE publica nuevos nombramientos por 'Libre Designación' en Patrimonio Nacional. Dos plazas de seguridad adjudicadas de forma discrecional. Menos competencia abierta, más opacidad administrativa. 🏛️👤 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos de nivel técnico (16)",
+      "Falta de criterios objetivos de selección en el texto",
+      "Adjudicación basada en discrecionalidad administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Manuel Molinero Navarro",
+        "Juan Ángel Sanz Méndez",
+        "Ministerio de la Presidencia (por control directo del personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no evaluados",
+        "Sistema de transparencia en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Madrid y Castilla y León",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos de nivel técnico (16)",
+      "Falta de criterios objetivos de selección en el texto",
+      "Adjudicación basada en discrecionalidad administrativa"
+    ]
+  },
+  "tweeted": false
+}
