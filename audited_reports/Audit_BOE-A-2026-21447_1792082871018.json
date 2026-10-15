@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21447",
+  "timestamp": "2026-10-15T16:47:51.018Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Secretaría General Técnica-Secretariado del Gobierno, por la que se publica la parte dispositiva del Auto de 12 de octubre de 2026, de la Sala Tercera del Tribunal Supremo, que desestima el recurso de reposición interpuesto por la Administración General del Estado y el Instituto Nacional de Estadística contra el Auto de 10 de septiembre de 2026, dictado en la pieza separada de medidas cautelares correspondiente al recurso contencioso-administrativo 1013/2026, interpuesto por el partido político Iustitia Europa contra el Acuerdo núm. 204/2026, de 16 de julio, de la Junta Electoral Central, recaído en el Expediente núm. 209/361.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento revela un conflicto de alto nivel entre el Poder Judicial y la Administración General del Estado sobre la integridad del censo electoral. El Tribunal Supremo frena la táctica del Gobierno de utilizar 'presunciones' administrativas para otorgar derechos electorales automáticos a descendientes de españoles bajo la Ley de Memoria Democrática. La opacidad reside en cómo una instrucción técnica de 2022 intentó dilatar el concepto de 'exiliado' para incluir a personas que no pueden acreditar individualmente dicha condición, afectando directamente al equilibrio del voto exterior (CERA) en un año electoral (2026).",
+    "resumen_ciudadano": "El Tribunal Supremo ha confirmado la suspensión del derecho a voto para las próximas elecciones generales de 2026 de aquellas personas que obtuvieron la nacionalidad española por la Ley de Memoria Democrática basándose en presunciones generales y no en pruebas individuales de exilio. Solo podrán votar si los consulados certifican específicamente que sus antepasados huyeron por motivos políticos, ideológicos o de identidad sexual. Esto supone un bloqueo masivo de nuevos votantes en el extranjero debido a irregularidades en la interpretación de la ley por parte del Gobierno.",
+    "resumen_tweet": "🛑 El Supremo frena el 'voto exprés' exterior: suspende el derecho a voto de miles de nuevos nacionalizados por la Ley de Memoria Democrática que no acrediten exilio real. Pulso total entre Justicia y Gobierno. ⚖️🗳️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión de derechos fundamentales de voto a pocos días de procesos electorales.",
+      "Uso de 'presunciones' administrativas para saltarse requisitos legales de nacionalidad.",
+      "Choque institucional directo entre el Tribunal Supremo, el INE y el Ministerio de Justicia.",
+      "Habilitación de días festivos (12 de octubre) para actuaciones judiciales urgentes, indicando gravedad extrema."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partido político Iustitia Europa (logra paralizar el censo de nuevos nacionalizados)",
+        "Poder Judicial (reafirma el control sobre la legalidad de las instrucciones del Gobierno)",
+        "Defensores de la ortodoxia en el Censo Electoral"
+      ],
+      "perdedores": [
+        "Administración General del Estado e INE (derrotados judicialmente)",
+        "Nuevos ciudadanos españoles en el extranjero que no podrán votar en 2026",
+        "Descendientes que se acogieron a la 'vía rápida' de la Instrucción de 2022 sin pruebas de exilio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Judicial / Electoral",
+    "banderas_rojas": [
+      "Suspensión de derechos fundamentales de voto a pocos días de procesos electorales.",
+      "Uso de 'presunciones' administrativas para saltarse requisitos legales de nacionalidad.",
+      "Choque institucional directo entre el Tribunal Supremo, el INE y el Ministerio de Justicia.",
+      "Habilitación de días festivos (12 de octubre) para actuaciones judiciales urgentes, indicando gravedad extrema."
+    ]
+  },
+  "tweeted": false
+}
