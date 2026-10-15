@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21457",
+  "timestamp": "2026-10-15T16:56:07.315Z",
+  "title": "Resolución de 11 de octubre de 2026, de la Secretaría de Estado de Justicia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 15 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un eufemismo legal para la designación discrecional o 'a dedo'. Lo más relevante es que el adjudicatario proviene del propio Gabinete del Secretario de Estado que firma la resolución, lo que sugiere una consolidación en la estructura administrativa de personal de confianza política (puerta giratoria interna). Se utiliza el marco del Plan de Recuperación, Transformación y Resiliencia para justificar la urgencia y la idoneidad, una práctica común para revestir de tecnocracia decisiones de confianza personal.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha asignado un puesto de Subdirector General (Nivel 30, el más alto para un funcionario) a un miembro del gabinete del Secretario de Estado. Aunque legal, este método de 'libre designación' evita el concurso público de méritos, favoreciendo la colocación de perfiles cercanos a la cúpula política en puestos clave de la Administración de Justicia.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' en el Ministerio de Justicia. Se adjudica un puesto Nivel 30 (máximo) mediante libre designación a un miembro del propio Gabinete del Secretario de Estado. ¿Mérito técnico o confianza política? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Procedencia del Gabinete (cercanía política)",
+      "Nivel 30 (máximo complemento de destino)",
+      "Uso del Plan de Recuperación para justificar nombramientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Manuel Durá Sempere (adjudicatario)",
+        "Cúpula política del Ministerio de Justicia"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios de carrera (sin opción a concurso de méritos)",
+        "Ciudadanía (por falta de meritocracia objetiva en la alta dirección pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal / Discrecionalidad Administrativa",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Procedencia del Gabinete (cercanía política)",
+      "Nivel 30 (máximo complemento de destino)",
+      "Uso del Plan de Recuperación para justificar nombramientos"
+    ]
+  },
+  "tweeted": false
+}
