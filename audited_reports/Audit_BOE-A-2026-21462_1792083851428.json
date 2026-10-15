@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21462",
+  "timestamp": "2026-10-15T17:04:11.428Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 4 de junio de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución cumple con los requisitos formales de publicidad, revela una preocupante tasa de vacantes (plazas desiertas) en las Jefaturas Provinciales de Inspección de Telecomunicaciones. Esto evidencia un fallo en el diseño de incentivos para la 'España Vaciada'. Además, se observa que funcionarios aceptan descensos de categoría (de nivel 18 a 14) para lograr movilidad geográfica, lo que penaliza el talento a cambio de conciliación.",
+    "resumen_ciudadano": "Se han asignado nuevos puestos de trabajo en el Ministerio para la Transformación Digital, pero la mayoría de las plazas en provincias como Soria, Cuenca, Almería o Teruel han quedado vacías. El proceso muestra que los funcionarios prefieren las sedes centrales o que las condiciones en provincias no son atractivas, dejando la supervisión tecnológica regional bajo mínimos.",
+    "resumen_tweet": "🚩 ¡Alerta de vacantes! El concurso de Transformación Digital deja desiertas la mayoría de plazas de inspección en provincias. ¿Cómo digitalizaremos el país con oficinas vacías? 📉 La periferia vuelve a perder. 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas en servicios periféricos",
+      "Incapacidad de atraer personal a las Jefaturas de Inspección de Telecomunicaciones",
+      "Degradación voluntaria de nivel administrativo para obtener traslado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios que logran retorno a su provincia (aunque sea perdiendo nivel)",
+        "Estructuras centrales de Madrid que mantienen el peso burocrático"
+      ],
+      "perdedores": [
+        "Provincias de la periferia (Soria, Palencia, Cuenca, Teruel) que no cubren sus plazas de inspección",
+        "Eficiencia administrativa (coste de convocatoria para resultados nulos)",
+        "Ciudadanos rurales con menor supervisión de infraestructuras digitales"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico / Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas en servicios periféricos",
+      "Incapacidad de atraer personal a las Jefaturas de Inspección de Telecomunicaciones",
+      "Degradación voluntaria de nivel administrativo para obtener traslado"
+    ]
+  },
+  "tweeted": false
+}
