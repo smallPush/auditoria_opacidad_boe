@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21446",
+  "timestamp": "2026-10-16T04:18:19.252Z",
+  "title": "Real Decreto 825/2026, de 14 de octubre, por el que se modifica el Estatuto Orgánico de la Comisión Nacional de los Mercados y la Competencia, aprobado por Real Decreto 657/2013, de 30 de agosto.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 825/2026 introduce cambios significativos en la estructura de la CNMC bajo una retórica de 'modernización tecnológica'. La creación de las figuras del Economista Jefe y la Subdirección de Inteligencia Económica, que dependen directamente de la Presidencia, sugiere una recentralización del poder técnico y una posible politización de los informes económicos. Resulta alarmante que se haya prescindido de la consulta pública previa y del trámite de audiencia, escudándose en que es una 'norma organizativa'. El uso de la IA y la digitalización como pretexto técnico para crear puestos directivos de libre designación ('a dedo') reduce la independencia real del organismo frente al poder ejecutivo.",
+    "resumen_ciudadano": "El Gobierno ha modificado el estatuto de la CNMC para crear dos nuevos altos cargos: un Economista Jefe y una unidad de Inteligencia Económica. Estos puestos serán nombrados directamente a propuesta del Presidente de la CNMC. Aunque se justifica por la necesidad de analizar mejor los datos y la IA, la medida aumenta el control de la directiva sobre los expedientes de competencia sin haber consultado a la ciudadanía o expertos externos durante su redacción.",
+    "resumen_tweet": "🕵️‍♂️ Alerta de opacidad en la #CNMC: se crean cargos de 'Economista Jefe' y 'Subdirección de Inteligencia' dependientes de Presidencia. Sin consulta pública y con la IA como excusa para blindar nombramientos a dedo. 📉🚫 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de consulta pública previa",
+      "Nombramientos discrecionales por la Presidencia",
+      "Creación de puestos directivos (personal directivo) con impacto presupuestario no detallado",
+      "Concentración de funciones de inteligencia y datos en órganos de confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Presidencia de la CNMC (mayor control jerárquico)",
+        "Tecnócratas de alto nivel (nuevos puestos de 'personal directivo')",
+        "Empresas de consultoría de datos con acceso a la nueva Subdirección"
+      ],
+      "perdedores": [
+        "Independencia técnica horizontal de la CNMC",
+        "Transparencia democrática (por falta de audiencia pública)",
+        "Cuerpos de funcionarios de carrera (ante el avance de la libre designación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (España)",
+    "tipologia": "Modificación de Estatuto Orgánico / Regulación de Mercados",
+    "banderas_rojas": [
+      "Ausencia de consulta pública previa",
+      "Nombramientos discrecionales por la Presidencia",
+      "Creación de puestos directivos (personal directivo) con impacto presupuestario no detallado",
+      "Concentración de funciones de inteligencia y datos en órganos de confianza"
+    ]
+  },
+  "tweeted": false
+}
