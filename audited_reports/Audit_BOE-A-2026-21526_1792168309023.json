@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-21526",
+  "timestamp": "2026-10-16T16:31:49.023Z",
+  "title": "Real Decreto 830/2026, de 14 de octubre, por el que se regula la concesión directa de una subvención a la Fundación Minería y Vida para el impulso de la sostenibilidad en la industria de las materias primas minerales.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "Se trata de una concesión directa de subvención, un mecanismo que elude la concurrencia pública y la competencia. Bajo el pretexto de la 'concienciación' y la 'sostenibilidad', el Ministerio financia directamente a una entidad (Fundación Minería y Vida) compuesta por la propia patronal y colegios profesionales del sector extractivo. Es un caso paradigmático de 'regulación capturada' donde el lobby minero recibe fondos públicos para elaborar sus propios informes de sostenibilidad y guías de buenas prácticas, lo que podría derivar en un ejercicio de lavado de imagen (greenwashing) financiado por el contribuyente. La justificación de 'entidad única idónea' es cuestionable dada la existencia de múltiples ONGs ambientales y centros de investigación independientes que podrían realizar labores de concienciación sobre materias primas sin conflicto de intereses.",
+    "resumen_ciudadano": "El Gobierno ha concedido una subvención a dedo (sin concurso público) a la Fundación Minería y Vida, una organización formada por las propias empresas y profesionales del sector minero. El dinero se usará para que ellos mismos hagan campañas de sensibilización, manuales de sostenibilidad y eventos. En lugar de que el Estado supervise de forma independiente, paga a la industria para que se promocione a sí misma bajo el sello de la transición ecológica.",
+    "resumen_tweet": "🚩 ¡Subvención 'a dedo' detectada! El Gobierno financia directamente al lobby minero para que haga sus propios informes de 'sostenibilidad'. ¿Dinero público para lavar la imagen de la industria extractiva? 💸⛏️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de actividades de lobby con fondos públicos",
+      "Objetivos vagos y de difícil cuantificación (concienciación, sensibilización)",
+      "Conflicto de interés: el evaluado es financiado para autoevaluarse",
+      "Justificación de excepcionalidad genérica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación Minería y Vida",
+        "Patronales del sector minero",
+        "Colegios de ingenieros de minas y geólogos",
+        "Consultoras de comunicación corporativa"
+      ],
+      "perdedores": [
+        "Contribuyentes (pérdida de eficiencia por falta de concurso pública)",
+        "ONGs ambientales independientes",
+        "Empresas del sector no integradas en la fundación beneficiaria"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Subvención de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de actividades de lobby con fondos públicos",
+      "Objetivos vagos y de difícil cuantificación (concienciación, sensibilización)",
+      "Conflicto de interés: el evaluado es financiado para autoevaluarse",
+      "Justificación de excepcionalidad genérica"
+    ]
+  },
+  "tweeted": false
+}
