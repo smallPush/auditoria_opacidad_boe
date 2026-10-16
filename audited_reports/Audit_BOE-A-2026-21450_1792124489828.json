@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21450",
+  "timestamp": "2026-10-16T04:21:29.828Z",
+  "title": "Real Decreto 827/2026, de 14 de octubre, por el que se regula la concesión directa de subvenciones a la Asociación de Familias de Alumnos de la Escuela de Educación Infantil del Ministerio de Transportes y Movilidad Sostenible y a la Asociación Aula Cultural de Fomento, para el desarrollo de sus actividades durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Este Real Decreto instrumenta una concesión directa de subvenciones eludiendo el principio de concurrencia competitiva bajo la premisa de 'interés público'. Sin embargo, se observa una clara endogamia institucional: los beneficiarios son asociaciones integradas por el propio personal del Ministerio de Transportes (la guardería del complejo de Nuevos Ministerios y un club cultural de empleados). Mientras que la ley se justifica en la conciliación, en la práctica crea un sistema de bienestar corporativista exclusivo para funcionarios, financiado con impuestos generales pero inaccesible para la población externa. La denominación de 'interés social' para subvencionar las excursiones y coloquios del 'Aula Cultural de Fomento' resulta cuestionable frente a las promesas de austeridad y transparencia en el gasto público.",
+    "resumen_ciudadano": "El Gobierno ha aprobado entregar dinero público directamente a dos asociaciones formadas por trabajadores del Ministerio de Transportes para costear la guardería de sus hijos y las actividades de su club cultural. Al hacerlo por decreto directo, se evita que otras entidades puedan competir por esos fondos, consolidando beneficios privados para los empleados públicos de este ministerio específico.",
+    "resumen_tweet": "🧐 ¡Alerta #BOE! El Ministerio de Transportes otorga subvenciones directas (a dedo) a la guardería y club cultural de sus propios empleados. ¿Interés público o privilegios internos? 🚫🤝 #Opacidad #Transparencia #GastosPrivilegiados",
+    "banderas_red_flags": [
+      "Adjudicación directa sin concurso público",
+      "Beneficiarios vinculados directamente al organismo que concede el dinero",
+      "Justificación de interés público ambigua para fines de ocio (Aula Cultural)",
+      "Falta de indicadores de impacto social fuera del propio funcionariado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empleados públicos del Ministerio de Transportes y Movilidad Sostenible",
+        "Asociación de Familias de la Escuela Infantil (AFA)",
+        "Socios de la Asociación Aula Cultural de Fomento"
+      ],
+      "perdedores": [
+        "Contribuyentes generales sin acceso a servicios exclusivos",
+        "Otras asociaciones culturales y educativas excluidas del presupuesto",
+        "Principio de igualdad y libre concurrencia en ayudas públicas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Adjudicación directa sin concurso público",
+      "Beneficiarios vinculados directamente al organismo que concede el dinero",
+      "Justificación de interés público ambigua para fines de ocio (Aula Cultural)",
+      "Falta de indicadores de impacto social fuera del propio funcionariado"
+    ]
+  },
+  "tweeted": false
+}
