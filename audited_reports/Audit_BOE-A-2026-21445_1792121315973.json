@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21445",
+  "timestamp": "2026-10-16T03:28:35.973Z",
+  "title": "Real Decreto 824/2026, de 14 de octubre, por el que se modifica el Reglamento de asistencia jurídica gratuita, aprobado por el Real Decreto 141/2021, de 9 de marzo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 824/2026 presenta una dualidad técnica. Por un lado, actualiza baremos obsoletos y amplía la cobertura a colectivos vulnerables (trata, terrorismo, discapacidad), lo cual es un avance en derechos. No obstante, la 'Incongruencia Ideológica' surge al incentivar económicamente el acuerdo extrajudicial (pagando un 125% de la cuantía frente al 100% de un juicio estándar), lo que podría presionar a los profesionales a evitar el litigio por razones puramente económicas, sacrificando potencialmente la tutela judicial efectiva. Además, la derogación de una Orden de 2025 apenas un año después de su publicación evidencia una falta de planificación legislativa y una volatilidad que genera inseguridad jurídica en el sector.",
+    "resumen_ciudadano": "Se han actualizado los pagos que reciben los abogados y procuradores del turno de oficio. Ahora cobrarán más por los casos de especial complejidad y se les premiará económicamente si logran cerrar un caso con un acuerdo extrajudicial sin llegar a juicio. Además, se garantiza asistencia gratuita inmediata a víctimas de delitos sexuales, trata y terrorismo, y se extiende el derecho a empresas en quiebra bajo procesos penales.",
+    "resumen_tweet": "⚖️ El #BOE reforma la Justicia Gratuita: se paga más a abogados por evitar juicios (125%) que por celebrarlos. ¿Eficiencia o ahorro a costa de derechos? 🚩 Se amplía a empresas pero se frena ante 'disponibilidad presupuestaria'. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de 'disponibilidad presupuestaria' como filtro discrecional para los pagos",
+      "Incentivo financiero superior (125%) para transacciones extrajudiciales frente al procedimiento ordinario",
+      "Derogación exprés de la Orden PJC/281/2025 (poca estabilidad normativa)",
+      "Ampliación del derecho a personas jurídicas (empresas) en un sistema ya tensionado para personas físicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Profesionales de la Abogacía y Procura (actualización de baremos)",
+        "Víctimas de trata y violencia sexual (asistencia inmediata)",
+        "Administración de Justicia (reducción de litigiosidad por el incentivo al acuerdo)"
+      ],
+      "perdedores": [
+        "Ciudadanos que busquen sentencia (incentivo al pacto sobre el juicio)",
+        "Erario público (mayor carga por la inclusión de personas jurídicas)",
+        "Seguridad jurídica (por la rapidez en los cambios normativos de 2025 a 2026)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ámbito Ministerio de Justicia)",
+    "tipologia": "Real Decreto de Modificación Reglamentaria",
+    "banderas_rojas": [
+      "Cláusula de 'disponibilidad presupuestaria' como filtro discrecional para los pagos",
+      "Incentivo financiero superior (125%) para transacciones extrajudiciales frente al procedimiento ordinario",
+      "Derogación exprés de la Orden PJC/281/2025 (poca estabilidad normativa)",
+      "Ampliación del derecho a personas jurídicas (empresas) en un sistema ya tensionado para personas físicas"
+    ]
+  },
+  "tweeted": false
+}
