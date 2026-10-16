@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21529",
+  "timestamp": "2026-10-16T16:33:10.820Z",
+  "title": "Acuerdo de 5 de octubre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se adscribe a la Magistrada doña Verónica María Marcos Rodríguez a la Presidenta del Tribunal Superior de Justicia de Castilla y León.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo utiliza el mecanismo del artículo 355 bis.2 de la LOPJ para gestionar el excedente de personal tras la reincorporación de una magistrada a su plaza reservada. Aunque legal, este sistema de adscripción crea una figura de 'magistrada a disposición' de la Presidencia del TSJ, lo que puede derivar en una discrecionalidad organizativa donde las funciones y la carga de trabajo real no son fiscalizables por la ciudadanía. La adjudicación automática de la primera vacante en Valladolid bloquea de facto esa plaza para futuros concursos de traslados basados estrictamente en escalafón o méritos en el momento de la vacante.",
+    "resumen_ciudadano": "Se recoloca a la magistrada Verónica María Marcos Rodríguez como adjunta a la Presidencia del Tribunal Superior de Justicia de Castilla y León debido a que la titular de su plaza anterior ha regresado. El acuerdo le garantiza directamente la próxima plaza que quede libre en los juzgados penales de Valladolid, asegurando su permanencia en la ciudad sin pasar por un proceso de concurso público abierto en ese momento futuro.",
+    "resumen_tweet": "⚖️ ¿Sillas musicales en la justicia? El CGPJ adscribe a una Magistrada a la Presidencia del TSJ de CyL y le garantiza la 'primera vacante' en Valladolid. Movimientos internos que blindan plazas antes de que salgan a concurso. #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Adjudicación anticipada de vacantes inexistentes",
+      "Falta de definición de funciones durante la adscripción",
+      "Potencial bloqueo de la carrera judicial para otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Verónica María Marcos Rodríguez (blindaje de plaza en Valladolid)",
+        "Eva Platero Aranda (recuperación de su plaza original)"
+      ],
+      "perdedores": [
+        "Magistrados que aspiren a plazas penales en Valladolid por concurso ordinario",
+        "Transparencia en la gestión de recursos humanos del Poder Judicial"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos y Personal Judicial",
+    "banderas_rojas": [
+      "Adjudicación anticipada de vacantes inexistentes",
+      "Falta de definición de funciones durante la adscripción",
+      "Potencial bloqueo de la carrera judicial para otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
