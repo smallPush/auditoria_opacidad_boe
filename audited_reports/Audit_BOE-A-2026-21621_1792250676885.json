@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21621",
+  "timestamp": "2026-10-17T15:24:36.885Z",
+  "title": "Orden ECM/1092/2026, de 7 de octubre, por la que se acuerda la emisión, acuñación y puesta en circulación de monedas de colección de la XIV Serie Iberoamericana «Encuentro de Dos Mundos».",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de una emisión de moneda de colección bajo el paraguas del 'Patrimonio Iberoamericano'. Aunque el proceso técnico y los materiales están detallados, existe una opacidad intrínseca en la justificación del precio de venta (60,33 €) frente a su valor facial (5 €). El Estado utiliza la Fábrica Nacional de Moneda y Timbre (FNMT) para generar un producto de lujo con un margen de beneficio superior al 1000%, donde el 'derecho de señoreaje' se convierte en una herramienta de recaudación indirecta. No se especifica el destino de los beneficios obtenidos más allá de su ingreso en el Tesoro Público.",
+    "resumen_ciudadano": "El Gobierno ha autorizado la acuñación de 4.000 monedas de plata dedicadas a la Catedral de Toledo dentro de la XIV Serie Iberoamericana. Estas monedas, aunque tienen un valor legal de 5 euros, se venderán al público por un precio inicial de 60,33 euros más IVA. Es un producto destinado exclusivamente a coleccionistas e inversores, donde el Estado actúa como empresa comercializadora de objetos de lujo bajo motivos culturales.",
+    "resumen_tweet": "🪙 El Estado lanza 4.000 monedas de plata: valor real 5€, precio de venta 60,33€ (+IVA). ¿Cultura o negocio de lujo del Tesoro Público? El 'Patrimonio Iberoamericano' convertido en activo para coleccionistas. #BOE #Opacidad #Transparencia #Numismática",
+    "banderas_red_flags": [
+      "Margen de beneficio gubernamental excesivo sobre el valor facial",
+      "Cláusula de revisión de precios basada en fluctuaciones de metales con informes no públicos",
+      "Comercialización a través de entidades privadas no especificadas",
+      "Falta de destino final social para los beneficios generados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tesoro Público (recaudación)",
+        "FNMT-RCM (gestión y comercialización)",
+        "Coleccionistas y numismáticos con capacidad de inversión"
+      ],
+      "perdedores": [
+        "Ciudadano medio (excluido por el elevado precio de venta)",
+        "Transparencia sobre el coste real de producción versus beneficio estatal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera / Patrimonio",
+    "banderas_rojas": [
+      "Margen de beneficio gubernamental excesivo sobre el valor facial",
+      "Cláusula de revisión de precios basada en fluctuaciones de metales con informes no públicos",
+      "Comercialización a través de entidades privadas no especificadas",
+      "Falta de destino final social para los beneficios generados"
+    ]
+  },
+  "tweeted": false
+}
