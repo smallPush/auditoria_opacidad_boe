@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21528",
+  "timestamp": "2026-10-17T04:12:21.741Z",
+  "title": "Sentencia de 17 de septiembre de 2026, de la Sala Tercera del Tribunal Supremo, que estima parcialmente el recurso contencioso-administrativo 425/2023, interpuesto en nombre y representación de la Comunidad de Regantes del Campo de Cartagena contra el Real Decreto 35/2023, de 24 de enero, por el que se aprueba la revisión de los planes hidrológicos de las demarcaciones hidrográficas del Cantábrico Occidental, Guadalquivir, Ceuta, Melilla, Segura y Júcar, y de la parte española de las demarcaciones hidrográficas del Cantábrico Oriental, Miño-Sil, Duero, Tajo, Guadiana y Ebro.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La sentencia revela un fallo en la precision tecnica de la administracion al definir superficies de riego en la Demarcacion del Segura. Al anularse referencias especificas del articulo 13.13.d y sus anexos, se evidencia que el Gobierno intento legislar sobre el suelo regable con una base juridica o tecnica insuficiente, lo que genera inseguridad en la gestion de un recurso critico como el agua. La opacidad reside en que el impacto real de esta nulidad sobre el acuifero y la produccion agricola queda oculto tras tecnicismos cartograficos.",
+    "resumen_ciudadano": "El Tribunal Supremo ha dado la razon a los regantes de Cartagena, anulando los parrafos del Plan Hidrologico Nacional que delimitaban las zonas de riego en su region. Basicamente, el Gobierno central calculo mal o sin base suficiente cuanta tierra se podia regar, y la justicia le ha obligado a borrar esas cifras del mapa oficial, lo que da mas margen de maniobra a los agricultores frente a las restricciones estatales.",
+    "resumen_tweet": "⚖️ ¡Varapalo judicial! El Supremo tumba parte del Plan Hidrologico del Segura. Anuladas las mediciones de zonas regables en Cartagena por falta de rigor administrativo. El agua sigue en disputa legal. 💧🚜 #BOE #Opacidad #Transparencia #Regantes",
+    "banderas_red_flags": [
+      "Nulidad de anexos tecnicos por defecto de forma o fondo",
+      "Conflictividad recurrente en la demarcacion del Segura",
+      "Incongruencia en la delimitacion de superficies de riego oficiales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Comunidad de Regantes del Campo de Cartagena",
+        "Industria agroalimentaria de la Region de Murcia"
+      ],
+      "perdedores": [
+        "Ministerio para la Transicion Ecologica",
+        "Planificacion hidrologica estatal",
+        "Ecologistas (por la potencial expansion de riego no controlada)"
+      ]
+    },
+    "comunidad_autonoma": "Region de Murcia",
+    "tipologia": "Sentencia Judicial / Gestion de Recursos Hidricos",
+    "banderas_rojas": [
+      "Nulidad de anexos tecnicos por defecto de forma o fondo",
+      "Conflictividad recurrente en la demarcacion del Segura",
+      "Incongruencia en la delimitacion de superficies de riego oficiales"
+    ]
+  },
+  "tweeted": false
+}
