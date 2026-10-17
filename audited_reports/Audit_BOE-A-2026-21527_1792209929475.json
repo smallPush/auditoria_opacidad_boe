@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-21527",
+  "timestamp": "2026-10-17T04:05:29.475Z",
+  "title": "Orden CNU/1088/2026, de 8 de octubre, por la que se crea el órgano interadministrativo encargado de la ejecución del programa de apoyo a la celebración del acontecimiento de excepcional interés público «Año de Investigación contra el Cáncer 2026».",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La norma utiliza una causa socialmente indiscutible (la lucha contra el cáncer) para activar el mecanismo de 'acontecimiento de excepcional interés público', lo que permite las deducciones fiscales más altas del ordenamiento español (Art. 27.3 Ley 49/2002). Existe una opacidad intrínseca en la gestión de estos fondos, ya que aunque se afirma que 'no deriva incremento del gasto público', la pérdida de ingresos por beneficios fiscales a grandes empresas es masiva. La inclusión de fundaciones privadas específicas (CRIS, AECC, GEPAC) en el órgano de decisión les otorga una posición de ventaja competitiva sobre otras ONGs de investigación.",
+    "resumen_ciudadano": "Se crea el comité que decidirá qué empresas se ahorran impuestos por donar al 'Año del Cáncer 2026'. El Ministerio de Hacienda tiene la última palabra sobre qué gastos son válidos, priorizando el control fiscal sobre el criterio científico. Se otorga a tres fundaciones privadas el poder de gestionar las donaciones y ejecutar las actividades, centralizando el apoyo estatal en entidades concretas.",
+    "resumen_tweet": "🚨 ¿Ciencia o ingeniería fiscal? El #BOE crea el órgano para el 'Año de Investigación contra el Cáncer 2026'. Se activan beneficios fiscales MÁXIMOS para donantes. ¿Quién gana? Grandes empresas y fundaciones elegidas. #Opacidad #Transparencia 🎗️📉",
+    "banderas_red_flags": [
+      "Activación de beneficios fiscales máximos sin informe previo de impacto en la recaudación",
+      "Exención de consulta pública por ser calificada como norma 'meramente organizativa'",
+      "Voto de calidad del Ministerio de Hacienda (veto absoluto sobre certificaciones económicas)",
+      "Designación directa de entidades privadas receptoras de donaciones (CRIS, AECC, GEPAC)",
+      "Opacidad en la 'realización material de actos' que queda fuera del control administrativo directo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones (máximo ahorro fiscal por mecenazgo)",
+        "Fundación CRIS",
+        "AECC",
+        "GEPAC",
+        "Ministerio de Hacienda (control de flujo de capitales privados)"
+      ],
+      "perdedores": [
+        "Erario Público (menor recaudación por IRPF y Sociedades)",
+        "Pequeños grupos de investigación sin acceso a estas fundaciones",
+        "Transparencia presupuestaria (gasto indirecto no cuantificado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Incentivos Fiscales y Organización Administrativa",
+    "banderas_rojas": [
+      "Activación de beneficios fiscales máximos sin informe previo de impacto en la recaudación",
+      "Exención de consulta pública por ser calificada como norma 'meramente organizativa'",
+      "Voto de calidad del Ministerio de Hacienda (veto absoluto sobre certificaciones económicas)",
+      "Designación directa de entidades privadas receptoras de donaciones (CRIS, AECC, GEPAC)",
+      "Opacidad en la 'realización material de actos' que queda fuera del control administrativo directo"
+    ]
+  },
+  "tweeted": false
+}
