@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21619",
+  "timestamp": "2026-10-17T15:06:13.357Z",
+  "title": "Enmiendas de 2024 al Anexo del Convenio internacional sobre normas de formación, titulación y guardia para el personal de los buques pesqueros, 1995 Anexo revisado del Convenio de formación para pescadores de 1995, adoptadas en Londres el 23 de mayo de 2024 por Resolución MSC.561(108), y Código sobre normas de formación, titulación y guardia para el personal de los buques pesqueros (Código de formación para pescadores) adoptado en Londres el 23 de mayo de 2024 por Resolución MSC.562(108).",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una estructura técnica sólida bajo estándares internacionales (OMI), pero incurre en una opacidad operativa mediante la 'Regla I/9 (Dispensas)'. Esta regla permite que personal sin la titulación idónea asuma cargos de responsabilidad por hasta 6 meses en 'circunstancias excepcionales', un concepto jurídico indeterminado que puede ser utilizado por armadores para reducir costes salariales o cubrir vacantes de forma precaria. Además, la 'Regla I/2' permite a la Administración ignorar requisitos de seguridad en buques de menos de 45 metros, creando un sistema de seguridad de dos velocidades que desprotege a la flota de bajura y media distancia frente a la gran flota industrial.",
+    "resumen_ciudadano": "Se actualizan los requisitos de formación y títulos para los trabajadores del mar en barcos pesqueros. Aunque el objetivo declarado es mejorar la seguridad, la ley incluye 'cláusulas de escape' que permiten a los capitanes y dueños de barcos contratar a personas no tituladas para puestos técnicos en situaciones especiales, y relaja las exigencias para barcos de tamaño mediano y pequeño.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Nueva norma para pescadores. 🛳️ Ojo a la Regla I/9: ¡permite personal SIN título en puestos clave por 'excepciones'! ¿Seguridad o ahorro para armadores? 📉 Exenciones en barcos <45m generan dudas. #Opacidad #Transparencia #Pesca",
+    "banderas_red_flags": [
+      "Regla I/9: Uso de personal no cualificado por periodos de 6 meses",
+      "Regla I/2: Discrecionalidad de la Administración para eximir del uso del inglés y otras normas",
+      "Falta de memoria económica sobre el coste de las nuevas certificaciones para el trabajador"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas de formación marítima (nuevos certificados obligatorios)",
+        "Grandes armadores (flexibilidad en contrataciones excepcionales)",
+        "Fabricantes de simuladores de navegación"
+      ],
+      "perdedores": [
+        "Pescadores tradicionales (aumento de burocracia y costes de titulación)",
+        "Seguridad Marítima (riesgo por dispensas de personal no cualificado)",
+        "Trabajadores cualificados (posible presión a la baja en salarios por competencia de personal con dispensa)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional de Regulación Laboral y Seguridad Marítima",
+    "banderas_rojas": [
+      "Regla I/9: Uso de personal no cualificado por periodos de 6 meses",
+      "Regla I/2: Discrecionalidad de la Administración para eximir del uso del inglés y otras normas",
+      "Falta de memoria económica sobre el coste de las nuevas certificaciones para el trabajador"
+    ]
+  },
+  "tweeted": false
+}
