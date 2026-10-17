@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21633",
+  "timestamp": "2026-10-17T15:38:26.211Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Silvestre García de Jalón González del Tanago.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera en el ámbito universitario. Aunque el proceso sigue la LOSU (Ley Orgánica 2/2023), existe una opacidad intrínseca sobre el coste real para el erario público, ya que no se especifica el nivel retributivo ni el impacto presupuestario de la plaza TUC8/1-D00036-60. El requisito de perfil trilingüe (euskera/inglés/castellano) actúa como un filtro de acceso que, si bien es legal en la comunidad, limita competitivamente la movilidad nacional frente a la regional.",
+    "resumen_ciudadano": "La Universidad del País Vasco ha nombrado oficialmente a Silvestre García de Jalón González del Tanago como Profesor Titular en el área de Economía Aplicada. El puesto es de dedicación completa y requiere el dominio de tres idiomas.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la UPV/EHU: Silvestre García de Jalón es ya Profesor Titular de Economía Aplicada. Perfil trilingüe y dedicación completa. ¿Y el detalle del coste público? 💸 La opacidad presupuestaria persiste. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial",
+      "Filtro lingüístico trilingüe",
+      "Falta de información sobre la composición de la comisión evaluadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Silvestre García de Jalón González del Tanago (estabilidad laboral vitalicia)",
+        "Universidad del País Vasco (cobertura de plaza)"
+      ],
+      "perdedores": [
+        "Candidatos externos sin perfil trilingüe",
+        "Contribuyente (por falta de transparencia en el coste de la plaza)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial",
+      "Filtro lingüístico trilingüe",
+      "Falta de información sobre la composición de la comisión evaluadora"
+    ]
+  },
+  "tweeted": false
+}
