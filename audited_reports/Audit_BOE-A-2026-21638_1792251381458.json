@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21638",
+  "timestamp": "2026-10-17T15:36:21.458Z",
+  "title": "Resolución de 13 de octubre de 2026, del Ayuntamiento de Canet de Mar (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La resolucion presenta una opacidad procedimental tipica de la administracion local española. Al publicar solo un extracto en el BOE y remitir las bases completas al Boletin Oficial de la Provincia de Barcelona (BOPB), se obliga al ciudadano a realizar una gincana burocratica para conocer los requisitos reales. El sistema de concurso-oposicion suele beneficiar a interinos ya presentes, lo que podria enmascarar una consolidacion encubierta frente al libre acceso meritocratico real.",
+    "resumen_ciudadano": "El Ayuntamiento de Canet de Mar ofrece una plaza de personal laboral fijo para un educador o educadora social. El proceso incluye examen y valoracion de meritos. Tienes 20 dias naturales desde hoy para solicitarla, pero tendras que buscar las reglas detalladas de la evaluacion en el boletin de la provincia de Barcelona del 2 de octubre.",
+    "resumen_tweet": "🚨 ¿Transparencia o gincana? Canet de Mar convoca plaza de Educador Social, pero oculta los detalles de puntuacion en boletines provinciales. El sistema de concurso-oposicion favorece a los de siempre. 🕵️‍♂️📉 #BOE #Opacidad #Transparencia #CanetDeMar",
+    "banderas_red_flags": [
+      "Fragmentacion de la informacion publica",
+      "Sistema de concurso-oposicion propenso al amiguismo",
+      "Plazo de inscripcion reducido en dias naturales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos con puntos acumulados por antiguedad",
+        "Candidatos locales con acceso directo a la informacion municipal"
+      ],
+      "perdedores": [
+        "Nuevos graduados con excelente formacion pero sin experiencia previa",
+        "Opositores de otras regiones debido a la dispersion de las bases"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Publico / Administracion Local",
+    "banderas_rojas": [
+      "Fragmentacion de la informacion publica",
+      "Sistema de concurso-oposicion propenso al amiguismo",
+      "Plazo de inscripcion reducido en dias naturales"
+    ]
+  },
+  "tweeted": false
+}
