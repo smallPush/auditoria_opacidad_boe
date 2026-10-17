@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-21525",
+  "timestamp": "2026-10-17T03:19:11.475Z",
+  "title": "Corrección de errores del Real Decreto 707/2026, de 2 de septiembre, por el que se aprueba el Reglamento de las condiciones básicas de accesibilidad cognitiva.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La modificacion de 'oido el Consejo de Estado' por 'de acuerdo con el Consejo de Estado' no es una correccion menor; es un ajuste de la base de legalidad de la norma. Mientras que 'oido' implica que el dictamen no era vinculante para el Gobierno, 'de acuerdo con' indica que el ejecutivo debio seguir obligatoriamente el criterio del organo consultivo. Esta rectificacion tardia (un mes despues) sugiere que el Gobierno intento inicialmente proyectar una autonomia decisoria que no tenia o incurrio en una negligencia tecnica severa al omitir el caracter vinculante de la supervision legal.",
+    "resumen_ciudadano": "Se ha corregido un error de peso en el reglamento de accesibilidad cognitiva. El Gobierno ha tenido que admitir que la ley se aprobo siguiendo obligatoriamente el dictamen del Consejo de Estado, y no simplemente escuchandolo. Este matiz cambia la validacion juridica del texto original y refuerza el control externo sobre la normativa.",
+    "resumen_tweet": "⚠️ ¡Ojo al #BOE! Una 'simple' correccion en accesibilidad cognitiva esconde un cambio clave: de solo 'oir' al Consejo de Estado a actuar 'de acuerdo' con el. ¿Falta de rigor o intento de esquivar controles? 🏛️⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cambio semantico-juridico critico",
+      "Subsanacion de jerarquia consultiva",
+      "Retraso en la correccion de un elemento nuclear"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejo de Estado (reafirma su autoridad vinculante)",
+        "Ciudadanos con discapacidad (mayor seguridad juridica)"
+      ],
+      "perdedores": [
+        "Ministerio de la Presidencia (por falta de rigor tecnico en la redaccion inicial)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Correccion de errores / Accesibilidad",
+    "banderas_rojas": [
+      "Cambio semantico-juridico critico",
+      "Subsanacion de jerarquia consultiva",
+      "Retraso en la correccion de un elemento nuclear"
+    ]
+  },
+  "tweeted": false
+}
