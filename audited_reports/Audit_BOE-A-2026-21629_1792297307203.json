@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21629",
+  "timestamp": "2026-10-18T04:21:47.203Z",
+  "title": "Resolución de 7 de octubre de 2026, de la Universidad Rey Juan Carlos, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolucion cumple con la formalidad legal exigida por la LOSU (Ley Organica del Sistema Universitario). No obstante, se detecta una falta de transparencia presupuestaria, ya que no se especifica el impacto economico que suponen estos nombramientos vitalicios para las arcas publicas. La URJC, instituida bajo el foco mediatico por casos previos de endogamia, publica los nombres pero omite las actas de las comisiones evaluadoras que justifican por que estos perfiles son superiores a otros candidatos. El lenguaje es puramente administrativo, ocultando la competitividad real del proceso tras referencias a decretos.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos ha otorgado plazas fijas de maxima jerarquia (Catedraticos) a Ismael Sanz Labrador (Economia) y Ana Isabel de la Llave Rincon (Fisioterapia). Estos puestos son para toda la vida y pagados con fondos publicos, pero el anuncio no explica cuanto nos costara ni los motivos especificos por los que fueron elegidos frente a otros posibles aspirantes.",
+    "resumen_tweet": "🎓 Nuevos catedraticos en la URJC. Aunque hay paridad de genero en los nombres, el proceso de seleccion en comisiones sigue siendo una caja negra. 💸 Sueldos vitalicios con cargo a tus impuestos sin detalle de coste real. #BOE #Transparencia #URJC",
+    "banderas_red_flags": [
+      "Falta de desglose presupuestario individualizado",
+      "Opacidad en los criterios de seleccion de las comisiones",
+      "Ausencia de justificacion de merito y capacidad en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ismael Sanz Labrador",
+        "Ana Isabel de la Llave Rincon",
+        "Universidad Rey Juan Carlos"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el coste salarial no detallado)",
+        "Candidatos externos (excluidos del proceso de seleccion interno)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Academico",
+    "banderas_rojas": [
+      "Falta de desglose presupuestario individualizado",
+      "Opacidad en los criterios de seleccion de las comisiones",
+      "Ausencia de justificacion de merito y capacidad en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
