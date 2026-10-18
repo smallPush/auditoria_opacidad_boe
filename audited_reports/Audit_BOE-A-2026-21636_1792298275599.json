@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21636",
+  "timestamp": "2026-10-18T04:37:55.599Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla una convocatoria para el puesto de Subdirector Adjunto mediante el sistema de 'libre designación'. Este mecanismo es legalmente válido pero democráticamente cuestionable, ya que permite el nombramiento discrecional ('a dedo') de altos cargos dentro de la Administración Pública. La tabla de méritos y funciones en el anexo aparece vacía de requisitos técnicos específicos, lo que aumenta el riesgo de arbitrariedad y clientelismo institucional bajo la apariencia de un proceso administrativo reglado.",
+    "resumen_ciudadano": "El Ministerio de Sanidad ha abierto una vacante para un cargo de alto nivel (Nivel 29) en salud digital. En lugar de un concurso de méritos objetivo, se utiliza la libre designación, permitiendo que los directivos elijan al candidato según su confianza personal, lo que limita la igualdad de oportunidades para otros funcionarios cualificados.",
+    "resumen_tweet": "🚩 Nueva vacante de alto nivel en @sanidadgob por 'libre designación'. Un puesto clave en salud digital que se elegirá de forma discrecional. Sin méritos específicos detallados en el #BOE. ¿Transparencia o dedazo? 🕵️‍♂️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 29) con alta retribución específica",
+      "Ausencia de méritos específicos y funciones detalladas en el Anexo I",
+      "Uso de lenguaje administrativo técnico para normalizar la designación arbitraria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con perfiles políticos o de confianza del Ministerio",
+        "Estructuras de mando que buscan personal leal sobre perfiles técnicos independientes"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin conexiones políticas",
+        "La ciudadanía, que financia puestos de alta responsabilidad sin garantías de que se elija al mejor profesional",
+        "El principio de meritocracia en la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Provisión de Puestos",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 29) con alta retribución específica",
+      "Ausencia de méritos específicos y funciones detalladas en el Anexo I",
+      "Uso de lenguaje administrativo técnico para normalizar la designación arbitraria"
+    ]
+  },
+  "tweeted": false
+}
