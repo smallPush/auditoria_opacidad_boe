@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21620",
+  "timestamp": "2026-10-18T04:16:21.863Z",
+  "title": "Resolución de 16 de octubre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Aunque la resolución es técnicamente clara sobre los precios, es un ejemplo de cómo el Estado español utiliza el BOE como un mero tablón de anuncios para intereses comerciales privados. El Comisionado para el Mercado de Tabacos actúa como validador de los márgenes de beneficio de fabricantes e importadores, perpetuando un sistema de precios intervenidos que disfraza la recaudación fiscal bajo el pretexto de la salud pública o la ordenación del mercado. No existe desglose de cuánto de esos 37 euros son impuestos y cuánto es beneficio industrial, manteniendo la opacidad en la estructura de costes.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios oficiales de venta al público para marcas específicas de tabaco de pipa (Tangiers). A partir de hoy, estos productos tienen un precio fijo de 37 euros en todos los estancos de la Península y Baleares. El Estado interviene directamente para asegurar que no haya competencia de precios entre establecimientos.",
+    "resumen_tweet": "🚬 ¿Sabías que el #BOE sirve de catálogo de precios para tabaqueras? Hacienda publica hoy nuevos precios de 37€ para tabaco de pipa. El Estado actúa como gestor de márgenes comerciales privados bajo un velo de regulación. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Intervencionismo de precios en favor de importadores específicos",
+      "Uso de recursos públicos para fines de marketing comercial",
+      "Falta de desglose tributario en el precio final",
+      "Ausencia de justificación técnica sobre el impacto en salud"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (recaudación por impuestos especiales)",
+        "Importadores de Tangiers (blindaje de precios ante la competencia)",
+        "Expendedurías de Tabaco (margen de beneficio garantizado)"
+      ],
+      "perdedores": [
+        "Consumidores (precios cautivos y regulados)",
+        "Libre mercado (sistema de monopolio estatal)",
+        "Transparencia presupuestaria (coste administrativo de gestionar precios privados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Península e Illes Balears)",
+    "tipologia": "Resolución de Control de Precios",
+    "banderas_rojas": [
+      "Intervencionismo de precios en favor de importadores específicos",
+      "Uso de recursos públicos para fines de marketing comercial",
+      "Falta de desglose tributario en el precio final",
+      "Ausencia de justificación técnica sobre el impacto en salud"
+    ]
+  },
+  "tweeted": false
+}
