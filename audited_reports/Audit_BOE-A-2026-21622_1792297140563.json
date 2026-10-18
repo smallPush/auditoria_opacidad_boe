@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21622",
+  "timestamp": "2026-10-18T04:19:00.563Z",
+  "title": "Orden CNU/1093/2026, de 8 de octubre, por la que se crea el órgano interadministrativo encargado de la ejecución del programa de apoyo a la celebración del acontecimiento de excepcional interés público «Trío de Eclipses 2026-2027-2028».",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Aunque la orden se presenta bajo un halo de divulgación científica, su núcleo es la gestión de beneficios fiscales masivos mediante la figura de 'Acontecimiento de Excepcional Interés Público'. Se afirma que 'no hay incremento de gasto público', lo cual es técnicamente cierto en términos presupuestarios directos, pero falso en términos de recaudación: el Estado deja de ingresar millones de euros vía impuestos (gasto fiscal) al permitir deducciones de hasta el 90% en gastos publicitarios a grandes corporaciones. El mecanismo de 'silencio administrativo positivo' (Art. 6.6) para la obtención de certificaciones de beneficios fiscales es un riesgo crítico para la transparencia, ya que permite que gastos potencialmente injustificados obtengan ventajas tributarias por la simple inacción de la administración.",
+    "resumen_ciudadano": "El Gobierno ha creado un comité especial para gestionar los incentivos fiscales vinculados a los eclipses de 2026-2028. Este comité decidirá qué empresas pueden pagar menos impuestos a cambio de patrocinar o publicitar eventos relacionados con los eclipses. Básicamente, se facilita una vía para que el dinero privado financie actividades a cambio de fuertes rebajas tributarias controladas por altos cargos ministeriales.",
+    "resumen_tweet": "🌒 ¿Ciencia o ingeniería fiscal? El #BOE activa incentivos para el 'Trío de Eclipses'. Las empresas podrán deducirse millonadas en publicidad mientras un comité decide qué es 'interés público'. ¡Cuidado con el gasto fiscal invisible! 🕵️‍♂️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Silencio administrativo positivo para la obtención de beneficios fiscales",
+      "Opacidad en la cuantificación del gasto fiscal indirecto (impuestos no recaudados)",
+      "Alta discrecionalidad del órgano colegiado para aprobar planes de publicidad deducibles",
+      "Uso de una fundación (FECYT) como pantalla para asumir posibles pérdidas financieras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones con presupuestos de marketing (beneficios fiscales)",
+        "FECYT (centraliza el control de fondos de mecenazgo)",
+        "Altos cargos de los Ministerios de Ciencia y Hacienda (control discrecional)"
+      ],
+      "perdedores": [
+        "Contribuyentes generales (pérdida de ingresos para el Tesoro Público)",
+        "Pequeñas asociaciones de astronomía sin capacidad de lobby corporativo",
+        "Transparencia pública (al externalizar la ejecución en programas de actividades aún no definidos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Incentivos Fiscales y Organización Administrativa",
+    "banderas_rojas": [
+      "Silencio administrativo positivo para la obtención de beneficios fiscales",
+      "Opacidad en la cuantificación del gasto fiscal indirecto (impuestos no recaudados)",
+      "Alta discrecionalidad del órgano colegiado para aprobar planes de publicidad deducibles",
+      "Uso de una fundación (FECYT) como pantalla para asumir posibles pérdidas financieras"
+    ]
+  },
+  "tweeted": false
+}
