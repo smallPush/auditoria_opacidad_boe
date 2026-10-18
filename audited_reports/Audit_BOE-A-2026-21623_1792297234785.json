@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-21623",
+  "timestamp": "2026-10-18T04:20:34.785Z",
+  "title": "Real Decreto 832/2026, de 14 de octubre, por el que se regula la concesión directa de una subvención a la Fundación Círculo de Tecnologías para la Defensa y Seguridad.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 832/2026 utiliza la figura de la 'concesión directa' para otorgar 30.000€ a la Fundación Círculo de Tecnologías para la Defensa y Seguridad, eludiendo la concurrencia pública mediante una interpretación laxa del artículo 22.2.c de la Ley General de Subvenciones. Aunque la cuantía es modesta, la justificación de 'singularidad' y 'ausencia de competencia' resulta cuestionable en un sector tecnológico pujante. El texto incluye menciones genéricas a la brecha de género y atracción de talento femenino (Art. 3.1.e) que parecen cláusulas estéticas sin indicadores de cumplimiento claros, funcionando más como un blindaje ideológico que como una política de impacto real. Se observa un riesgo de 'gasto fantasma' en la partida de gastos de personal y logística sin desglose pormenorizado.",
+    "resumen_ciudadano": "El Gobierno entrega 30.000 euros sin concurso público a una fundación vinculada a la industria de defensa para organizar cuatro jornadas sobre 5G, IA y cables submarinos. Se justifica por razones de interés público y geoestratégico, permitiendo que la subvención cubra sueldos y gastos de transporte de la entidad.",
+    "resumen_tweet": "🚩 30.000€ a dedo para la Fundación Círculo de Tecnologías de Defensa. Se evita el concurso público alegando 'singularidad'. ¿El objetivo? Charlas y sueldos. El lobby de defensa asegura su financiación un año más. 🛡️💻 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de excepcionalidad ambigua",
+      "Inclusión de gastos de personal genéricos",
+      "Ausencia de métricas para los objetivos de género mencionados",
+      "Continuidad de actividades preexistentes financiadas con fondos nuevos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación Círculo de Tecnologías para la Defensa y Seguridad",
+        "Empresas del sector tecnológico-militar (espacio de lobby)",
+        "Altos cargos de la administración con presencia en foros privados"
+      ],
+      "perdedores": [
+        "Otras entidades tecnológicas (excluidas de la financiación pública)",
+        "Contribuyentes (falta de eficiencia por ausencia de licitación)",
+        "Transparencia administrativa (uso recurrente de la vía excepcional)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de excepcionalidad ambigua",
+      "Inclusión de gastos de personal genéricos",
+      "Ausencia de métricas para los objetivos de género mencionados",
+      "Continuidad de actividades preexistentes financiadas con fondos nuevos"
+    ]
+  },
+  "tweeted": false
+}
