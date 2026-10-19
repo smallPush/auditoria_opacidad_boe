@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21668",
+  "timestamp": "2026-10-19T18:26:26.176Z",
+  "title": "Resolución de 7 de octubre de 2026, del Instituto Nacional de Seguridad y Salud en el Trabajo, O.A., M.P., por la que se crea y se regula su sede electrónica.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución oficializa la independencia digital del INSST respecto al Ministerio de Trabajo, justificándolo por un aumento en el volumen de gestiones. Aunque se mencionan principios de transparencia y rendición de cuentas para las 'actuaciones administrativas automatizadas' (algoritmos), el texto utiliza la fórmula estándar de 'no incremento de gasto público', lo cual es una ambigüedad administrativa: mantener una sede independiente implica costes de seguridad, servidores y personal que se absorben de presupuestos generales sin ser detallados.",
+    "resumen_ciudadano": "El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST) tendrá su propia oficina virtual (sede electrónica) separada de la del Ministerio de Trabajo. Esto permitirá realizar trámites específicos sobre seguridad laboral en una web propia (sede.insst.gob.es). Se promete que el sistema explicará cómo funcionan sus procesos automáticos y mantendrá canales de ayuda telefónica y presencial.",
+    "resumen_tweet": "El INSST se independiza digitalmente del Ministerio de Trabajo con sede propia 🖥️. Prometen transparencia en el uso de algoritmos 🤖 pero la cláusula de 'coste cero' es cuestionable 💸. ¿Facilidad o nueva barrera digital? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de no incremento de gasto: omite el coste de oportunidad y el mantenimiento técnico de infraestructura independiente.",
+      "Opacidad algorítmica: aunque se menciona la transparencia en diseños automatizados, no se define un mecanismo de auditoría externa.",
+      "Desconexión de canales: la exclusión de servicios de asesoramiento como 'quejas' (apartado Octavo) limita el feedback directo sobre la usabilidad."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos del INSST (mayor autonomía administrativa)",
+        "Gestorías y usuarios con altas competencias digitales",
+        "Empresas de ciberseguridad y servicios IT (mantenimiento de la nueva plataforma)"
+      ],
+      "perdedores": [
+        "Trabajadores de sectores precarios con brecha digital",
+        "Ciudadanos sin acceso a firma electrónica cualificada",
+        "Presupuesto general (por la fragmentación de infraestructuras digitales)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Administrativa / Digitalización",
+    "banderas_rojas": [
+      "Cláusula de no incremento de gasto: omite el coste de oportunidad y el mantenimiento técnico de infraestructura independiente.",
+      "Opacidad algorítmica: aunque se menciona la transparencia en diseños automatizados, no se define un mecanismo de auditoría externa.",
+      "Desconexión de canales: la exclusión de servicios de asesoramiento como 'quejas' (apartado Octavo) limita el feedback directo sobre la usabilidad."
+    ]
+  },
+  "tweeted": false
+}
