@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21683",
+  "timestamp": "2026-10-19T18:42:26.015Z",
+  "title": "Resolución de 9 de octubre de 2026, de la Universidad de Salamanca, por la que se nombra Profesor Titular de Universidad a don Eduardo José Fernández Rodríguez.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El documento presenta un nombramiento estándar de funcionario de carrera bajo la LOSU 2/2023. No obstante, existe una opacidad presupuestaria inherente: se adjudica una plaza (G079B/D17926) sin detallar el coste salarial bruto anual ni el impacto fiscal a largo plazo para el contribuyente. El lenguaje administrativo blinda el proceso bajo la 'propuesta de la Comisión', un mecanismo históricamente señalado por falta de competitividad externa y endogamia académica. La resolución se limita a la legalidad formal, ignorando la transparencia proactiva sobre los méritos que justifican la elección frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado a un nuevo Profesor Titular de Fisioterapia. Se trata de una plaza fija y vitalicia dentro del cuerpo de funcionarios del Estado, financiada con dinero público, tras un proceso de selección interno de la universidad.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la @usal. Eduardo José Fernández ocupará plaza fija en Fisioterapia. El #BOE cumple la ley pero olvida informar sobre el coste real para el bolsillo ciudadano y los méritos del proceso. #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Inexistencia de métricas de rendimiento vinculadas al nombramiento",
+      "Uso de fórmulas genéricas para referirse a la selección ('Comisión correspondiente')",
+      "Publicación en el BOE como mero trámite sin rendición de cuentas sobre el proceso selectivo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eduardo José Fernández Rodríguez (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Salamanca (mantenimiento de su estructura de profesorado)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos institucional",
+        "Contribuyentes (desconocen el coste exacto de la plaza y la calidad del proceso de selección)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Inexistencia de métricas de rendimiento vinculadas al nombramiento",
+      "Uso de fórmulas genéricas para referirse a la selección ('Comisión correspondiente')",
+      "Publicación en el BOE como mero trámite sin rendición de cuentas sobre el proceso selectivo"
+    ]
+  },
+  "tweeted": false
+}
