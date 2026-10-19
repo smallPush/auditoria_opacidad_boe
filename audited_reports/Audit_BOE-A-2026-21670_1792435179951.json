@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21670",
+  "timestamp": "2026-10-19T18:39:39.951Z",
+  "title": "Real Decreto 843/2026, de 14 de octubre, por el que se adjudica en propiedad la plaza número 18 de la Sección de lo Penal del Tribunal de Instancia de Barcelona a doña Emma Benavides Costa.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "El documento presenta un acto administrativo de adjudicacion de plaza judicial bajo una formula juridica que prioriza el escalafon sobre la transparencia de meritos. El uso del termino 'en propiedad' refleja una estructura corporativista donde el cargo se percibe como un activo personal. No se detallan los criterios de seleccion ni los posibles oponentes en el concurso de traslado, limitandose a citar la Ley Organica del Poder Judicial sin mayor rendicion de cuentas ante la ciudadania.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de doña Emma Benavides Costa para ocupar de forma definitiva la plaza numero 18 en la Seccion de lo Penal del Tribunal de Instancia de Barcelona. Es un tramite estandar del Consejo General del Poder Judicial que consolida la carrera de la magistrada en esa plaza especifica.",
+    "resumen_tweet": "📢 Adjudicada plaza fija en lo Penal de Barcelona a Emma Benavides Costa. El lenguaje de 'propiedad' del cargo revela la rigidez del sistema judicial. ¿Donde queda el detalle de los meritos en el #BOE? ⚖️🧐 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Falta de exposicion de meritos y capacidad en el texto",
+      "Opacidad en el proceso competitivo previo",
+      "Lenguaje arcaico ('en propiedad') que sugiere patrimonializacion del cargo publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Emma Benavides Costa (obtiene seguridad y plaza fija)",
+        "CGPJ (ejerce su funcion de nombramiento sin escrutinio publico detallado)"
+      ],
+      "perdedores": [
+        "Ciudadania (desconoce el perfil profesional de quien juzgara delitos penales)",
+        "Otros magistrados candidatos (invisibilizados en el extracto)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Falta de exposicion de meritos y capacidad en el texto",
+      "Opacidad en el proceso competitivo previo",
+      "Lenguaje arcaico ('en propiedad') que sugiere patrimonializacion del cargo publico"
+    ]
+  },
+  "tweeted": false
+}
