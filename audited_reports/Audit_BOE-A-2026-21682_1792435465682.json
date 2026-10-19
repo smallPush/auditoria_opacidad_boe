@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21682",
+  "timestamp": "2026-10-19T18:44:25.682Z",
+  "title": "Resolución de 9 de octubre de 2026, de la Universidad de Salamanca, por la que se nombra Catedrático de Universidad a don Francisco Javier García Criado.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento de cátedra de universidad estándar bajo la Ley Orgánica 2/2023 (LOSU). La resolución es técnicamente correcta pero mantiene la opacidad habitual de la administración académica: se menciona una 'Comisión correspondiente' y 'trámites reglamentarios' sin desglosar los criterios de evaluación ni la puntuación obtenida frente a otros candidatos. El gasto público derivado de este puesto vitalicio no se cuantifica en el documento.",
+    "resumen_ciudadano": "La Universidad de Salamanca ha nombrado oficialmente a Francisco Javier García Criado como Catedrático de Cirugía. Este es el paso final tras un concurso público para consolidar una plaza permanente de alto nivel en la Facultad de Medicina.",
+    "resumen_tweet": "🎓 Nuevo Catedrático de Cirugía en la @usal. El #BOE publica el nombramiento de Francisco Javier García Criado. Trámite legal superado, pero se mantiene la opacidad sobre el coste salarial para el contribuyente. 💸 #Opacidad #Transparencia #CastillayLeon",
+    "banderas_red_flags": [
+      "Ausencia de transparencia presupuestaria sobre el coste de la plaza",
+      "Falta de publicidad de las actas de la comisión evaluadora en el extracto",
+      "Mención a 'propuesta formulada' sin detalles del baremo de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier García Criado (plaza vitalicia consolidada)",
+        "Universidad de Salamanca (cobertura de puesto en Medicina)"
+      ],
+      "perdedores": [
+        "Candidatos descartados (proceso cerrado)",
+        "Ciudadanía (desconocimiento del impacto económico real en las arcas públicas)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de transparencia presupuestaria sobre el coste de la plaza",
+      "Falta de publicidad de las actas de la comisión evaluadora en el extracto",
+      "Mención a 'propuesta formulada' sin detalles del baremo de méritos"
+    ]
+  },
+  "tweeted": false
+}
