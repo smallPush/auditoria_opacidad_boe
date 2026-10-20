@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21806",
+  "timestamp": "2026-10-20T17:08:55.524Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 2 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla la resolución de una convocatoria de 'libre designación', un sistema legal pero criticado por permitir el nombramiento discrecional de funcionarios (dedazo administrativo). Se observa que varios adjudicatarios en Cáceres, Las Palmas y Murcia pasan de un nivel 22 a un nivel 26 de golpe, lo que representa un ascenso salarial y jerárquico significativo basado en la confianza y no necesariamente en una comparativa de méritos pública. La opacidad es estructural: se informa quién es elegido pero nunca por qué fue mejor que los otros aspirantes.",
+    "resumen_ciudadano": "El Ministerio para la Transformación Digital ha nombrado a seis nuevos Jefes Provinciales de Inspección de Telecomunicaciones en diversas provincias. Aunque son funcionarios de carrera, han sido seleccionados mediante el sistema de libre elección (a dedo) en lugar de un concurso de méritos abierto, lo que facilita que la administración coloque a perfiles de su confianza en puestos clave de inspección regional.",
+    "resumen_tweet": "🚨 Nueva tanda de 'dedazos' legales en el Ministerio de Transformación Digital. 6 jefaturas provinciales adjudicadas por libre designación. Saltos del nivel 22 al 26 sin concurso de méritos transparente. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación discrecional",
+      "Saltos de nivel administrativo de 22 a 26",
+      "Falta de justificación de idoneidad de los elegidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 funcionarios nombrados (especialmente los que suben 4 niveles)",
+        "Ministerio para la Transformación Digital (control regional)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos pero sin perfil de confianza política",
+        "Ciudadanía (pérdida de objetividad en la inspección de telecomunicaciones)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación discrecional",
+      "Saltos de nivel administrativo de 22 a 26",
+      "Falta de justificación de idoneidad de los elegidos"
+    ]
+  },
+  "tweeted": false
+}
