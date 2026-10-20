@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21676",
+  "timestamp": "2026-10-20T04:39:46.769Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesora Titular de Universidad a doña María del Rocío Ortuño Casanova.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado bajo la LOSU (Ley Orgánica 2/2023). Aunque el proceso sigue la legalidad, el BOE actúa como un registro de hechos consumados donde el ciudadano no tiene acceso a las actas de la comisión evaluadora ni a la baremación real. El 'Gasto Fantasma' aquí es el compromiso de recursos públicos de por vida (funcionariado) sin que se especifique la cuantía salarial ni los complementos en este extracto. La transparencia es formal, pero no material respecto al uso del presupuesto público.",
+    "resumen_ciudadano": "La UNED ha nombrado oficialmente a una nueva Profesora Titular en el área de Literatura Española tras un concurso de oposición. Este es un trámite habitual para consolidar personal docente investigador como funcionarios del Estado.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la UNED: María del Rocío Ortuño es nombrada Profesora Titular de Literatura Española. Un paso más en la estructura docente, pero sin transparencia salarial directa en el #BOE. 🏛️ #Transparencia #Universidad #Oposiciones",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario de la plaza",
+      "Falta de enlace directo a las puntuaciones del concurso",
+      "Dependencia de criterios de comisiones internas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María del Rocío Ortuño Casanova (estabilidad laboral)",
+        "Departamento de Literatura Española y Teoría de la Literatura"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor capital relacional en la institución",
+        "Contribuyentes (por la opacidad en el coste real de las plazas públicas)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (UNED)",
+    "tipologia": "Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario de la plaza",
+      "Falta de enlace directo a las puntuaciones del concurso",
+      "Dependencia de criterios de comisiones internas"
+    ]
+  },
+  "tweeted": false
+}
