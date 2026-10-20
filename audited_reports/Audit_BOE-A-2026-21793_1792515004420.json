@@ -1,0 +1,29 @@
+{
+  "boe_id": "BOE-A-2026-21793",
+  "timestamp": "2026-10-20T16:50:04.420Z",
+  "title": "Resolución de 9 de octubre de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se declara la jubilación de la notaria de Chiclana de la Frontera doña María Lourdes Zaragoza Tafalla.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "El documento es una resolucion administrativa estandar para la jubilacion de una notaria. Aunque utiliza terminos como 'jubilacion forzosa' debido a la legislacion vigente, el proceso es transparente y responde a una solicitud previa de la interesada. No se detectan partidas presupuestarias ocultas ni incongruencias ideologicas, tratandose de un tramite de gestion de personal de la fe publica.",
+    "resumen_ciudadano": "Se oficializa la jubilacion de Doña Maria Lourdes Zaragoza Tafalla como notaria en Chiclana de la Frontera, tras finalizar el periodo de prolongacion de servicio activo que ella misma habia solicitado previamente.",
+    "resumen_tweet": "📜 Tramite de jubilacion en el #BOE: La notaria de Chiclana de la Frontera finaliza su servicio activo. Un proceso transparente que abre la puerta a la renovacion de la fe publica en la zona. 🖋️🏛️ #Transparencia #Notaria #Chiclana",
+    "banderas_red_flags": [
+      "Uso de terminologia juridica contradictoria (jubilacion forzosa a peticion de parte)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Nuevos aspirantes a la plaza de notaria en Chiclana de la Frontera",
+        "La notaria que accede a su derecho de retiro"
+      ],
+      "perdedores": [
+        "Usuarios locales que pierden la continuidad del servicio con esta profesional especifica"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Personal y Recursos Humanos",
+    "banderas_rojas": [
+      "Uso de terminologia juridica contradictoria (jubilacion forzosa a peticion de parte)"
+    ]
+  },
+  "tweeted": false
+}
