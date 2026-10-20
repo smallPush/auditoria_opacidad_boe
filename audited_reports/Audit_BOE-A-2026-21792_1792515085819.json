@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-21792",
+  "timestamp": "2026-10-20T16:51:25.819Z",
+  "title": "Acuerdo de 7 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Fernando Carlos de Valdivia González.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo rutinario de la carrera judicial bajo la apariencia de transparencia, pero que encubre el impacto económico real. La mención genérica a 'derechos pasivos' oculta la cuantía de la pensión de un Magistrado de Audiencia Provincial, un gasto recurrente para el Estado que no se fiscaliza en el texto. Existe además un desfase temporal notable entre el acuerdo (julio) y su publicación (octubre), una demora administrativa que afecta a la gestión de vacantes.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial declara la jubilación obligatoria por edad de un Magistrado en Barcelona. Esto implica su salida del servicio activo y el inicio del cobro de su pensión pública vitalicia.",
+    "resumen_tweet": "⚖️ El CGPJ jubila forzosamente a un Magistrado de la Audiencia de Barcelona. Se activan sus 'derechos pasivos' sin detallar el coste real para el ciudadano. ¿Por qué el #BOE oculta las cifras de pensiones de élite? 💸 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía de la prestación pública",
+      "Desfase trimestral entre acuerdo y publicación oficial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrado Fernando Carlos de Valdivia (jubilación con régimen especial)",
+        "Candidatos a la vacante en la Audiencia Provincial de Barcelona"
+      ],
+      "perdedores": [
+        "Ciudadanía (falta de información sobre el coste de las clases pasivas)",
+        "Sistema judicial (pérdida de experiencia técnica sin detalle de relevo)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Opacidad en la cuantía de la prestación pública",
+      "Desfase trimestral entre acuerdo y publicación oficial"
+    ]
+  },
+  "tweeted": false
+}
