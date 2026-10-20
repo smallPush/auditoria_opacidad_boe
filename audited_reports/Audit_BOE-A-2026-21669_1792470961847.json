@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21669",
+  "timestamp": "2026-10-20T04:36:01.847Z",
+  "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios de venta, antes de impuestos, de los gases licuados del petróleo por canalización.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion utiliza un lenguaje tecnico y formulas de 'actualizacion automatica' que, si bien aportan una apariencia de objetividad, ocultan la falta de control real del ciudadano sobre los margenes de comercializacion. Se traslada directamente la volatilidad de los mercados internacionales de propano y butano, asi como la fluctuacion del dolar, al bolsillo del consumidor final sin mecanismos de amortiguacion social visibles en el texto. La transparencia es parcial: publican los datos de entrada (cotizaciones) pero no el desglose del beneficio industrial de las distribuidoras.",
+    "resumen_ciudadano": "El Gobierno ha actualizado los precios del gas licuado (propano/butano) que llega por tuberia a las casas. A partir del 20 de octubre de 2026, el coste fijo sera de 1,60 euros al mes y el consumo variable sera de aproximadamente 1,02 euros por kilo (antes de impuestos). Estos precios se ajustan segun lo que cuesta el gas en el mercado internacional y el valor del dolar frente al euro.",
+    "resumen_tweet": "📉 Nuevos precios del gas por canalización desde el 20 de oct. Fijo: 1,60€/mes. Variable: 1,018€/kg. La factura queda a merced de los mercados internacionales y el dólar. 💸 ¿Protección al consumidor? Poca. #BOE #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Determinacion automatica de precios sin debate publico",
+      "Dependencia total de la divisa dolar/euro",
+      "Opacidad en los costes de comercializacion anuales",
+      "Impacto directo en bienes de primera necesidad sin mencion a colectivos vulnerables"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas distribuidoras de GLP (aseguran sus costes de comercializacion)",
+        "Estado (mayor recaudacion de IVA/Impuestos si el precio base se mantiene alto)"
+      ],
+      "perdedores": [
+        "Consumidores domesticos cautivos de la red de canalizacion",
+        "Familias en zonas frias con alta dependencia de este suministro",
+        "Pequeños negocios locales"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Regulación de Precios Energéticos",
+    "banderas_rojas": [
+      "Determinacion automatica de precios sin debate publico",
+      "Dependencia total de la divisa dolar/euro",
+      "Opacidad en los costes de comercializacion anuales",
+      "Impacto directo en bienes de primera necesidad sin mencion a colectivos vulnerables"
+    ]
+  },
+  "tweeted": false
+}
