@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21789",
+  "timestamp": "2026-10-20T16:46:32.383Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 13 de octubre de 2026, por el que se establece el carácter oficial de determinados títulos de Máster y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una formalización masiva de títulos de Máster, destacando una sobrerrepresentación de universidades privadas (UDIMA, Nebrija, UCJC, Alfonso X) frente a las públicas. Se observa una tendencia a la mercantilización educativa con títulos altamente nicho y orientados al mercado (Moda, Gemelos Digitales, Vehículos de Competición) que plantean una barrera de clase por sus elevados costes. Persiste además una anomalía democrática: el mantenimiento de procedimientos especiales para las universidades de la Iglesia Católica basados en acuerdos de 1962 y 1979, lo que supone una pervivencia de privilegios eclesiásticos en la validación de estudios civiles.",
+    "resumen_ciudadano": "El Gobierno oficializa una nueva tanda de títulos de Máster para diversas universidades. Aunque parece un trámite técnico, el listado revela que la mayoría de la nueva oferta proviene de centros privados y se enfoca en sectores de alto coste, mientras las universidades de la Iglesia mantienen sus propios procesos especiales de reconocimiento.",
+    "resumen_tweet": "🎓 El #BOE oficializa nuevos Másters, pero la balanza se inclina hacia la universidad privada y títulos 'premium'. ¿Educación o mercado? 📉 Se mantienen privilegios de la Iglesia en pleno 2026. #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Predominio de centros privados en la nueva oferta oficial",
+      "Privilegios procedimentales para universidades eclesiásticas",
+      "Hiperespecialización de títulos enfocada a élites económicas",
+      "Ausencia de mención a la financiación o becas asociadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (UDIMA, Alfonso X, Europea de Madrid)",
+        "Instituciones de la Iglesia Católica",
+        "Sectores de consultoría y marketing"
+      ],
+      "perdedores": [
+        "Estudiantes de rentas bajas (acceso limitado a centros privados)",
+        "Universidad pública (menor volumen de nuevos títulos en este listado)",
+        "Laicidad del sistema educativo"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Multiautonómica)",
+    "tipologia": "Resolución de Oficialidad de Títulos",
+    "banderas_rojas": [
+      "Predominio de centros privados en la nueva oferta oficial",
+      "Privilegios procedimentales para universidades eclesiásticas",
+      "Hiperespecialización de títulos enfocada a élites económicas",
+      "Ausencia de mención a la financiación o becas asociadas"
+    ]
+  },
+  "tweeted": false
+}
