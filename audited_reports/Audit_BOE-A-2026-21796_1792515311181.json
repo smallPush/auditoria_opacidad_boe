@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21796",
+  "timestamp": "2026-10-20T16:55:11.181Z",
+  "title": "Resolución de 13 de octubre de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 8 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se observa un fenómeno de endogamia administrativa donde diversos funcionarios promocionan o se mueven dentro de la misma subdirección general (casos I/5, I/10 e I/17), lo que sugiere una rotación de sillas interna más que una captación de nuevo talento. Resulta alarmante el elevado número de puestos declarados desiertos (8 de 17 analizados), especialmente en áreas técnicas y de laboratorio en Algete y Santander, lo que indica una falta de atractivo de estas plazas o requisitos excesivamente rígidos que dejan sin cubrir servicios esenciales de sanidad animal y control de calidad alimentaria.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha publicado la lista de quiénes ocuparán nuevos puestos de trabajo tras el último concurso. Aunque se han asignado plazas en Madrid y Cantabria, casi la mitad de los puestos ofrecidos han quedado vacíos porque nadie los ha solicitado o los aspirantes no daban el perfil. La mayoría de los movimientos son de empleados que ya estaban en el ministerio y simplemente cambian de negociado.",
+    "resumen_tweet": "Auditamos el #BOE: El Ministerio de Agricultura resuelve su concurso de personal 🚜. ¡Alerta! Casi el 50% de las plazas de laboratorio quedan vacías 🧪. ¿Puestos poco atractivos o burocracia paralizante? Mucho movimiento interno de sillas. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta tasa de puestos desiertos (47% en la muestra)",
+      "Endogamia administrativa en puestos de control de calidad",
+      "Falta de cobertura en laboratorios periféricos (Algete, Santander)",
+      "Incongruencia entre oferta de empleo y capacidad de atracción de talento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de los cuerpos C1 y A2 con movilidad interna",
+        "Estructura administrativa central en Madrid",
+        "Perfiles femeninos en la gestión técnica (predominancia en adjudicaciones)"
+      ],
+      "perdedores": [
+        "Servicios de sanidad animal y vegetal (puestos sin cubrir)",
+        "Eficiencia del gasto público (procesos de selección fallidos)",
+        "Laboratorios de Cantabria y Algete (infrainstitucionalizados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Alta tasa de puestos desiertos (47% en la muestra)",
+      "Endogamia administrativa en puestos de control de calidad",
+      "Falta de cobertura en laboratorios periféricos (Algete, Santander)",
+      "Incongruencia entre oferta de empleo y capacidad de atracción de talento"
+    ]
+  },
+  "tweeted": false
+}
