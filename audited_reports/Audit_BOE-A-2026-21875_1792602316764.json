@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21875",
+  "timestamp": "2026-10-21T17:05:16.764Z",
+  "title": "Resolución de 12 de octubre de 2026, de la Secretaría de Estado de Función Pública, por la que se actualiza el modelo del anexo IV de la Orden PCM/1384/2021, de 9 de diciembre, por la que se regula el Registro Electrónico de Apoderamientos en el ámbito de la Administración General del Estado.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución se presenta bajo la narrativa de la 'simplificación administrativa', pero oculta un desplazamiento del control jurídico tradicional. Al eliminar el 'bastanteo' individualizado por parte de servicios jurídicos en favor de un modelo estandarizado, la Administración traslada la responsabilidad de la veracidad y validez del apoderamiento al sistema automatizado. Aunque agiliza procesos, incrementa la dependencia tecnológica y reduce la supervisión humana directa en actos de representación legal, lo que podría generar vulnerabilidades si los sistemas de identificación electrónica son comprometidos.",
+    "resumen_ciudadano": "El Gobierno ha actualizado el formulario para autorizar a otras personas a realizar trámites en nuestro nombre ante la Administración General del Estado. A partir de ahora, ya no será necesario presentar siempre un poder ante notario para ciertos trámites electrónicos; bastará con que la persona que nos va a representar rellene un formulario online y nosotros lo firmemos digitalmente o en una oficina de registro. El objetivo es que los trámites sean más rápidos y no tengan que pasar por una revisión jurídica manual cada vez.",
+    "resumen_tweet": "📑 El #BOE agiliza los apoderamientos: menos trámites notariales y más rapidez gracias a formularios normalizados. Menos burocracia, pero más dependencia digital. ¿Y la brecha digital? 💻🚫 #Transparencia #Administración #Digitalización",
+    "banderas_red_flags": [
+      "Eliminación de la supervisión jurídica individualizada (bastanteo) en favor de validación automática",
+      "Aumento de la exclusión para ciudadanos sin competencias digitales avanzadas",
+      "Concentración de la gestión funcional en la Dirección General de Gobernanza Pública y la Agencia Estatal de Administración Digital"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadanos con alta competencia digital",
+        "Gestores administrativos (ahorro de tiempos)",
+        "Administración Pública (reducción de carga de trabajo jurídica)"
+      ],
+      "perdedores": [
+        "Notarías (reducción de trámites de poderes notariales para estos fines)",
+        "Personas mayores o con brecha digital",
+        "Garantía de supervisión jurídica humana previa"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización Administrativa",
+    "banderas_rojas": [
+      "Eliminación de la supervisión jurídica individualizada (bastanteo) en favor de validación automática",
+      "Aumento de la exclusión para ciudadanos sin competencias digitales avanzadas",
+      "Concentración de la gestión funcional en la Dirección General de Gobernanza Pública y la Agencia Estatal de Administración Digital"
+    ]
+  },
+  "tweeted": false
+}
