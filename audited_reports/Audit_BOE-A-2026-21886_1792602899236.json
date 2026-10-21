@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21886",
+  "timestamp": "2026-10-21T17:14:59.236Z",
+  "title": "Real Decreto 866/2026, de 20 de octubre, por el que se nombra Delegada del Gobierno en la Comunidad Autónoma del Principado de Asturias a doña Cecilia Pérez Sánchez.",
+  "report": {
+    "nivel_transparencia": 2,
+    "analisis_critico": "El Real Decreto 866/2026 ejemplifica la opacidad administrativa en los nombramientos de alto nivel. Aunque se cita la Ley 40/2015, el texto carece de cualquier exposicion de motivos, curriculum vitae o justificacion de idoneidad para el cargo de Delegada del Gobierno. Se trata de un nombramiento de libre designacion que prioriza la confianza politica sobre el merito publico comprobable, manteniendo la estructura de poder territorial sin rendicion de cuentas previa sobre la eleccion del perfil profesional.",
+    "resumen_ciudadano": "Se ha designado a Cecilia Perez Sanchez como la nueva representante del Gobierno de Espana en Asturias. Este puesto es un cargo de confianza politica con un salario de alta escala pagado con fondos publicos, pero el documento no explica por que ella es la persona mas capacitada para el cargo ni que objetivos se le han asignado.",
+    "resumen_tweet": "🏛️ Nuevo 'dedazo' en el #BOE: Cecilia Perez Sanchez nombrada Delegada en Asturias. Cero transparencia sobre sus meritos o sueldo. ¿Confianza politica o capacidad tecnica? La opacidad manda en los altos cargos. 📉 #Transparencia #Asturias #Opacidad",
+    "banderas_red_flags": [
+      "Nombramiento discrecional sin concurso de meritos",
+      "Ausencia de justificacion tecnica o profesional",
+      "Falta de desglose de costes salariales asociados",
+      "Opacidad en el proceso de seleccion previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cecilia Perez Sanchez (acceso a alto cargo y salario publico)",
+        "Gobierno Central (asegura lealtad politica en la region)"
+      ],
+      "perdedores": [
+        "Ciudadania (paga un cargo sin conocer la idoneidad de la persona)",
+        "Funcionariado de carrera (relegado por nombramientos politicos)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Nombramiento de Alto Cargo",
+    "banderas_rojas": [
+      "Nombramiento discrecional sin concurso de meritos",
+      "Ausencia de justificacion tecnica o profesional",
+      "Falta de desglose de costes salariales asociados",
+      "Opacidad en el proceso de seleccion previa"
+    ]
+  },
+  "tweeted": false
+}
