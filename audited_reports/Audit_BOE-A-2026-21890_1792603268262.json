@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21890",
+  "timestamp": "2026-10-21T17:21:08.262Z",
+  "title": "Resolución de 6 de octubre de 2026, de la Dirección General para la Eficiencia del Servicio Público de Justicia, por la que se declara la jubilación de doña María Pilar Cavero Moreno, Fiscal con destino en la Fiscalía Provincial de Zaragoza.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "Se trata de una resolución administrativa estándar para la jubilación forzosa de una fiscal. Aunque el procedimiento cumple con la legalidad, el lenguaje se apoya en una maraña de referencias cruzadas (Ley 6/1985, RD 305/2022, Ley 50/1981) que dificultan al ciudadano medio entender las condiciones económicas reales de la salida. No se especifica la cuantía de los 'derechos pasivos' (pensión de la élite judicial), manteniendo la opacidad tradicional sobre el coste real de estas jubilaciones de alto rango.",
+    "resumen_ciudadano": "La Dirección General para la Eficiencia del Servicio Público de Justicia oficializa el retiro de la Fiscal de Zaragoza, María Pilar Cavero Moreno, tras alcanzar la edad o condiciones legales de jubilación forzosa, garantizando su derecho a pensión del Estado.",
+    "resumen_tweet": "⚖️ Trámite en el #BOE: Jubilación de una fiscal en Zaragoza. Mucho tecnicismo legal pero CERO transparencia en la cuantía de la pensión pública que recibirá. ¿Cuándo sabremos el coste real de los 'derechos pasivos'? 🤔 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de términos vagos como 'derechos pasivos' sin desglose económico",
+      "Acumulación de cinco marcos normativos para un solo trámite",
+      "Falta de mención al coste para el sistema de Clases Pasivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Pilar Cavero Moreno (mantiene sus derechos pasivos consolidados)",
+        "Ministerio de Justicia (libera una plaza en la estructura jerárquica)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento del impacto presupuestario de la pensión)",
+        "Transparencia pública (lenguaje jurídico-burocrático inaccesible)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Recursos Humanos y Pensiones del Estado",
+    "banderas_rojas": [
+      "Uso de términos vagos como 'derechos pasivos' sin desglose económico",
+      "Acumulación de cinco marcos normativos para un solo trámite",
+      "Falta de mención al coste para el sistema de Clases Pasivas"
+    ]
+  },
+  "tweeted": false
+}
