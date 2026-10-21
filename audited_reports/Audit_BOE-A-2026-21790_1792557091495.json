@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21790",
+  "timestamp": "2026-10-21T04:31:31.495Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Secretaría General de Universidades, por la que se publica el Acuerdo de Consejo de Ministros de 13 de octubre de 2026, por el que se establece el carácter oficial de determinados títulos de Grado y su inscripción en el Registro de Universidades, Centros y Títulos.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se observa una proliferación masiva de títulos oficiales en universidades de gestión privada (UDIMA, Nebrija, CEU, ESIC) frente a una representación más discreta de la universidad pública. Existe una tendencia clara hacia la mercantilización de la educación superior con nomenclaturas en inglés ('Bachelor') y grados altamente especializados en nichos de rentabilidad como el 'Liderazgo Biofarmacéutico' o 'Inteligencia y Analítica de Mercados'. El BOE actúa aquí como el validador administrativo de un modelo educativo que pivota hacia el sector privado bajo una apariencia de tecnocracia neutral.",
+    "resumen_ciudadano": "El Gobierno oficializa una larga lista de nuevos títulos universitarios de Grado que entrarán en vigor. La mayoría de estos títulos pertenecen a universidades privadas y se centran en áreas de marketing, ciberseguridad, diseño y negocios. Esto significa que estos títulos ya son válidos legalmente en toda España y permiten el ejercicio profesional donde sea necesario.",
+    "resumen_tweet": "📢 El #BOE publica nuevos grados universitarios para 2026. Alerta: gran predominio de centros PRIVADOS 🏫💰. Se imponen títulos en inglés y nichos de mercado. ¿Y la universidad pública? La educación superior sigue su deriva hacia el negocio. #Opacidad",
+    "banderas_red_flags": [
+      "Desequilibrio entre oferta pública y privada",
+      "Nomenclaturas anglosajonas que sugieren elitismo académico",
+      "Concentración de títulos de alta demanda tecnológica en manos privadas",
+      "Falta de detalle sobre el impacto presupuestario de las validaciones en las comunidades autónomas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grupos educativos privados (UDIMA, Nebrija, CEU)",
+        "Sector de consultoría y marketing digital",
+        "Estudiantes de rentas altas con acceso a especializaciones de nicho"
+      ],
+      "perdedores": [
+        "Universidad pública (en términos de volumen de nuevos títulos innovadores)",
+        "Clase trabajadora (barreras económicas para acceder a los grados más modernos)",
+        "Equidad educativa territorial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Títulos Universitarios",
+    "banderas_rojas": [
+      "Desequilibrio entre oferta pública y privada",
+      "Nomenclaturas anglosajonas que sugieren elitismo académico",
+      "Concentración de títulos de alta demanda tecnológica en manos privadas",
+      "Falta de detalle sobre el impacto presupuestario de las validaciones en las comunidades autónomas"
+    ]
+  },
+  "tweeted": false
+}
