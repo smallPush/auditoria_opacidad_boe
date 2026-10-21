@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21874",
+  "timestamp": "2026-10-21T17:03:22.790Z",
+  "title": "Orden EFD/1098/2026, de 15 de octubre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La Orden EFD/1098/2026 formaliza administrativamente una práctica que se venía regulando mediante resoluciones anuales, otorgándole mayor seguridad jurídica pero también consolidando una estructura educativa de doble velocidad. Si bien la transparencia en las tablas de equivalencia (Anexo I-C) es alta, la norma introduce un control centralizado de datos de alumnado y centros bajo el Artículo 12, cuya utilidad para el ciudadano no es tan clara como para el aparato administrativo. Se detecta una falta de mención a recursos económicos adicionales para apoyar a los centros públicos en la obtención del nivel B2 por parte de su profesorado, lo que podría derivar en una elitización de estas plazas docentes.",
+    "resumen_ciudadano": "Esta norma actualiza las reglas para los estudiantes que cursan el bachillerato doble (español y francés). Se establecen las tablas definitivas de qué materias españolas equivalen a las francesas y se fija por ley que los profesores que impartan estas materias deben tener, como mínimo, un nivel B2 de francés. También se obliga a los centros a enviar informes detallados de sus alumnos al Ministerio cada mes de octubre.",
+    "resumen_tweet": "🇫🇷🎓 El #BOE actualiza el programa #Bachibac. Se consolidan las equivalencias con Francia y se exige nivel B2 al profesorado. ¿Más oportunidades o brecha educativa por falta de inversión docente? Transparencia técnica con control estatal. 🧐🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Recolección centralizada de datos específicos de alumnado y materias sin detalle de protección adicional",
+      "Exigencia de nivel B2 al profesorado sin previsión de partidas para formación pública",
+      "Posible discriminación indirecta hacia centros con menor presupuesto para idiomas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alumnado bilingüe (acceso simplificado a títulos internacionales)",
+        "Ministerio de Educación (mayor control estadístico y normativo)",
+        "Administración francesa (proyección cultural del Baccalauréat)"
+      ],
+      "perdedores": [
+        "Profesorado sin acreditación B2 (riesgo de desplazamiento o exclusión)",
+        "Centros educativos en zonas vulnerables (dificultad para competir con programas de excelencia)",
+        "Alumnado de vías artísticas con menos opciones de correspondencia frente a ciencias"
+      ]
+    },
+    "comunidad_autonoma": "España (Ámbito Estatal)",
+    "tipologia": "Orden Ministerial / Educación",
+    "banderas_rojas": [
+      "Recolección centralizada de datos específicos de alumnado y materias sin detalle de protección adicional",
+      "Exigencia de nivel B2 al profesorado sin previsión de partidas para formación pública",
+      "Posible discriminación indirecta hacia centros con menor presupuesto para idiomas"
+    ]
+  },
+  "tweeted": false
+}
