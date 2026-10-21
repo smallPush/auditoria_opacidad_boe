@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-21872",
+  "timestamp": "2026-10-21T16:45:20.521Z",
+  "title": "Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto-ley 31/2026 presenta una expansión significativa de la acción protectora bajo el pretexto de la 'urgencia'. Si bien aborda deudas históricas con colectivos vulnerables (menores con cáncer, víctimas de terrorismo y violencia de género), la norma utiliza la técnica del fraccionamiento de gasto en las indemnizaciones por terrorismo (pagos en tres anualidades) para maquillar el impacto presupuestario inmediato. Se detecta una exclusión deliberada de los derechohabientes de víctimas fallecidas antes de la norma, lo que genera una brecha de equidad entre víctimas según su longevidad. La introducción de bajas por 'trastorno menopáusico' y 'violencia de género' como situaciones especiales de IT supone un avance en perspectiva de género, pero su implementación por RDL evita el debate parlamentario sobre la sostenibilidad financiera a largo plazo de estas nuevas contingencias.",
+    "resumen_ciudadano": "Esta ley amplía los derechos sociales en varios frentes: reconoce bajas laborales específicas por menopausia y violencia de género, facilita el cobro de la pensión de viudedad a parejas de hecho y mejora las ayudas para el cuidado de hijos con enfermedades graves. Además, aumenta las indemnizaciones a víctimas del terrorismo, equiparando a quienes no tienen sentencia firme, y eleva a 300 euros el anticipo del Fondo de Alimentos para menores.",
+    "resumen_tweet": "🚨 Más protección pero con 'letra pequeña' presupuestaria. El #BOE anuncia bajas por menopausia y mejoras en ayudas por hijos enfermos. Pero ojo: las indemnizaciones por terrorismo se pagarán en 3 años para no disparar el déficit. ⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Fraccionamiento de pagos de indemnizaciones en tres ejercicios presupuestarios para diluir el impacto en el déficit.",
+      "Exclusión del derecho de cobro a herederos de víctimas de terrorismo fallecidas antes de la entrada en vigor.",
+      "Uso sistemático del Real Decreto-ley para reformas que no presentan una urgencia sobrevenida sino estructural.",
+      "Discrecionalidad en la actualización del Fondo de Garantía de Alimentos que llevaba congelado desde 2007."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres trabajadoras (bajas por menopausia)",
+        "Parejas de hecho (facilidad en viudedad)",
+        "Víctimas del terrorismo vivas sin sentencia penal",
+        "Menores extranjeros con residencia reducida (acceso a fondo de alimentos)"
+      ],
+      "perdedores": [
+        "Herederos de víctimas de terrorismo fallecidas (excluidos)",
+        "Tesoro Público (incremento del gasto consolidado)",
+        "Autónomos y empresas (posible incremento de costes indirectos por nuevas bajas IT)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Social y de Seguridad Social",
+    "banderas_rojas": [
+      "Fraccionamiento de pagos de indemnizaciones en tres ejercicios presupuestarios para diluir el impacto en el déficit.",
+      "Exclusión del derecho de cobro a herederos de víctimas de terrorismo fallecidas antes de la entrada en vigor.",
+      "Uso sistemático del Real Decreto-ley para reformas que no presentan una urgencia sobrevenida sino estructural.",
+      "Discrecionalidad en la actualización del Fondo de Garantía de Alimentos que llevaba congelado desde 2007."
+    ]
+  },
+  "tweeted": false
+}
