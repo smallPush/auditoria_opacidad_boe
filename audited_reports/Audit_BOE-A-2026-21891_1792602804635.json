@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-21891",
+  "timestamp": "2026-10-21T17:13:24.635Z",
+  "title": "Resolución de 12 de octubre de 2026, de la Agencia Española de Supervisión de Inteligencia Artificial, por la que se corrigen errores en la de 1 de octubre de 2026, por la que se resuelve el concurso específico, convocado por Resolución de 23 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre un concurso de personal en la AESIA. Aunque la transparencia formal es alta, el documento revela la pesada herencia burocrática en un organismo que debería ser puntero en eficiencia: se consume espacio en el BOE y recursos administrativos solo para corregir el título del cargo del firmante de 'Director General' a 'Director'. No existen gastos fantasma directos, pero sí un coste de oportunidad y de gestión administrativa por falta de rigor en la redacción original.",
+    "resumen_ciudadano": "La Agencia Española de Supervisión de Inteligencia Artificial corrige un error formal en el nombramiento de puestos de trabajo. El único cambio es la denominación oficial del cargo de quien firma el documento (de Director General a Director). Es un trámite burocrático sin impacto en políticas públicas o presupuestos.",
+    "resumen_tweet": "🤖 ¿IA o Burocracia? El #BOE publica una corrección solo para cambiar 'Director General' por 'Director' en la Agencia de Inteligencia Artificial. Un recordatorio de que hasta la tecnología más avanzada se choca con el papeleo. 📑📉 #Transparencia #AESIA",
+    "banderas_red_flags": [
+      "Ineficiencia administrativa",
+      "Consumo de recursos públicos por errores de forma",
+      "Excesiva rigidez burocrática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La seguridad jurídica formal (evita impugnaciones por defectos de forma en la firma)"
+      ],
+      "perdedores": [
+        "El contribuyente (por el coste de gestión de una nueva resolución)",
+        "La agilidad administrativa del Ministerio para la Transformación Digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Sede en A Coruña)",
+    "tipologia": "Administrativa / Recursos Humanos",
+    "banderas_rojas": [
+      "Ineficiencia administrativa",
+      "Consumo de recursos públicos por errores de forma",
+      "Excesiva rigidez burocrática"
+    ]
+  },
+  "tweeted": false
+}
