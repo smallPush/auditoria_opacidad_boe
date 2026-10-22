@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-21873",
+  "timestamp": "2026-10-22T04:27:11.923Z",
+  "title": "Resolución de 13 de octubre de 2026, de la Secretaría General Técnica, en virtud del artículo 24.2 de la Ley 25/2014, de 27 de noviembre, de Tratados y otros Acuerdos Internacionales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el BOE cumple su función de registro, la publicación de estas comunicaciones internacionales oculta tras un lenguaje burocrático y técnico la suspensión masiva de derechos fundamentales en varios países. Se observa una tendencia a la 'normalización de la excepción', donde crisis energéticas (Moldavia) o de seguridad interna (Perú) se utilizan para suspender derechos de reunión, tránsito e inviolabilidad del domicilio. La opacidad no reside en la ocultación del texto, sino en la falta de análisis sobre cómo estas derogaciones de tratados afectan a ciudadanos españoles o residentes en dichas zonas.",
+    "resumen_ciudadano": "Este documento informa que varios países han notificado formalmente a España que dejarán de garantizar ciertos derechos humanos temporalmente. Moldavia declara emergencia por crisis energética y el agua; Ucrania extiende la ley marcial por la guerra; y Perú suspende libertades en múltiples provincias para combatir la criminalidad y el tráfico de drogas. Esto permite a sus gobiernos registrar domicilios o prohibir reuniones sin las garantías habituales.",
+    "resumen_tweet": "🚨 ¡Alerta de derechos! El #BOE publica que Moldavia, Ucrania y Perú suspenden libertades fundamentales (reunión, tránsito, domicilio) bajo estados de emergencia. Lo que parece burocracia es el recorte de derechos humanos. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Suspensión del artículo 15 del Convenio Europeo de Derechos Humanos por crisis energética",
+      "Prórrogas sistemáticas de la ley marcial sin fecha clara de fin",
+      "Restricción de derechos constitucionales en Perú vinculada a 'control migratorio'",
+      "Uso de 'déficit hidrológico' como justificación para medidas de excepción política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poderes ejecutivos nacionales (mayor control social)",
+        "Comisiones de Gestión de Crisis",
+        "Cuerpos y fuerzas de seguridad en zonas de emergencia"
+      ],
+      "perdedores": [
+        "Población civil en distritos fronterizos de Perú",
+        "Consumidores domésticos en Moldavia ante posibles cortes",
+        "Colectivos migrantes (sujetos a mayor control bajo estado de emergencia)",
+        "Derecho a la protesta y reunión pacífica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Tratados y Acuerdos Internacionales",
+    "banderas_rojas": [
+      "Suspensión del artículo 15 del Convenio Europeo de Derechos Humanos por crisis energética",
+      "Prórrogas sistemáticas de la ley marcial sin fecha clara de fin",
+      "Restricción de derechos constitucionales en Perú vinculada a 'control migratorio'",
+      "Uso de 'déficit hidrológico' como justificación para medidas de excepción política"
+    ]
+  },
+  "tweeted": false
+}
