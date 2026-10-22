@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-21963",
+  "timestamp": "2026-10-22T17:11:29.068Z",
+  "title": "Resolución de 13 de octubre de 2026, de la Universidad de León, por la que se nombra Catedrática de Universidad a doña Ana Isabel Fernández Abia.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "La resolución es un acto administrativo reglado que formaliza un ascenso en la jerarquía académica (Cátedra). Aunque cumple estrictamente con la legalidad vigente (LOSU 2/2023), el documento es un eslabón final de un proceso previo cuya competitividad y transparencia en la baremación de méritos no son visibles directamente en el BOE. Representa la consolidación de puestos funcionariales de élite dentro del sistema universitario público.",
+    "resumen_ciudadano": "La Universidad de León ha nombrado oficialmente a doña Ana Isabel Fernández Abia como Catedrática de Universidad en el área de Ingeniería de los Procesos de Fabricación. Este nombramiento es el resultado de un concurso de acceso iniciado en junio de 2026 y otorga a la interesada la máxima categoría docente e investigadora dentro de la función pública universitaria.",
+    "resumen_tweet": "🎓 Nueva Cátedra en la Univ. de León. Ana Isabel Fernández Abia asciende a Catedrática en Ingeniería. Avance en la visibilidad de mujeres en áreas STEM, pero el #BOE sigue publicando solo el resultado final sin datos del proceso. #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la puntuación obtenida en el concurso",
+      "Escasa visibilidad de la concurrencia de otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Isabel Fernández Abia",
+        "Universidad de León",
+        "Representación femenina en ingeniería (STEM)"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados",
+        "Ciudadanía que no puede auditar el proceso de méritos por falta de datos en la resolución"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Nombramientos de personal",
+    "banderas_rojas": [
+      "Falta de desglose de la puntuación obtenida en el concurso",
+      "Escasa visibilidad de la concurrencia de otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
