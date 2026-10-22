@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-21960",
+  "timestamp": "2026-10-22T17:08:37.097Z",
+  "title": "Orden EFD/1103/2026, de 14 de octubre, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, se modifican la Orden EFD/1274/2025, de 31 de octubre, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional de la Comunidad Autónoma de Andalucía, en estimación de recurso, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Artes Plásticas y Diseño, Maestros y Profesores Especialistas en Sectores Singulares de Formación Profesional, a personas seleccionadas en los procedimientos selectivos extraordinarios de estabilización, convocados por Resolución de 14 de noviembre de 2022; y la Orden EFD/375/2024, de 18 de abril, por la que, a propuesta de la Consejería de Educación de la Comunidad de Castilla y León, se nombra personal funcionario de carrera de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores Especialistas en Sectores Singulares de Formación Profesional, Catedráticos de Música y Artes Escénicas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, Maestros de Taller de Artes Plásticas y Diseño y de Maestros, a las personas seleccionadas en los procedimientos selectivos extraordinarios de estabilización convocados por Orden EDU/1554/2022, de 10 de noviembre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento revela un fallo administrativo significativo en el proceso de estabilización docente. Un ciudadano tuvo que recurrir a la vía judicial (TSJ de Castilla y León) para que se incluyera una plaza de 'Viola da Gamba' en Salamanca que la administración omitió inicialmente. La orden actual es un ejercicio de 'deshacer lo hecho': se anula un nombramiento previo en Andalucía para dar cumplimiento a la sentencia en Castilla y León. Esto evidencia una falta de coordinación inicial en el Acuerdo de la Conferencia Sectorial de Educación y una gestión ineficiente de los recursos públicos, obligando a procesos judiciales para corregir errores de bulto en la oferta de empleo público.",
+    "resumen_ciudadano": "Tras una sentencia judicial, el Ministerio de Educación rectifica el nombramiento de un profesor de música. Originalmente, se le asignó una plaza en Andalucía, pero el tribunal reconoció su derecho a una plaza en el Conservatorio de Salamanca que no había sido convocada correctamente. Ahora, se le cesa administrativamente en una comunidad para nombrarlo en la otra con efectos retroactivos desde 2023.",
+    "resumen_tweet": "⚖️ ¡Un músico gana al BOE! Un profesor de Viola da Gamba tuvo que ir a juicio porque Castilla y León 'olvidó' su plaza en Salamanca. Tras años de líos entre CCAA, el Ministerio rectifica. ¿Eficiencia o caos? 🎻 #BOE #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Omisión de plazas en convocatorias oficiales",
+      "Efectos retroactivos prolongados (desde 2023)",
+      "Complejidad burocrática interautonómica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Javier Aguirre Gonzalo (recupera su plaza legítima)",
+        "Sistema judicial (corrige la arbitrariedad administrativa)"
+      ],
+      "perdedores": [
+        "Consejería de Educación de Castilla y León (por el error inicial)",
+        "Contribuyentes (costes de litigiosidad y burocracia correctiva)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León / Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial por error administrativo",
+      "Omisión de plazas en convocatorias oficiales",
+      "Efectos retroactivos prolongados (desde 2023)",
+      "Complejidad burocrática interautonómica"
+    ]
+  },
+  "tweeted": false
+}
