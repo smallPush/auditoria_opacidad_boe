@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21953",
+  "timestamp": "2026-10-22T17:05:57.034Z",
+  "title": "Real Decreto 853/2026, de 21 de octubre, por el que se modifica el Real Decreto 902/2025, de 7 de octubre, por el que se establecen las normas reguladoras para la prestación de sistemas de ayuda visual a personas menores de edad de hasta dieciséis años.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto evidencia una subestimación masiva en la planificación original del Plan Veo, con un error de cálculo del 67% en el número de beneficiarios (130.000 niños más de lo previsto). Aunque se presenta como un éxito de ejecución, revela una falta de diagnóstico previo sobre la salud visual infantil en España. Destaca la externalización de la gestión de 141 millones de euros a través del Consejo General de Colegios de Ópticos-Optometristas como entidad colaboradora, lo que desplaza la gestión pública a una corporación de derecho privado. El límite de 100 euros es lineal y no considera la progresividad por renta ni el coste real de lentes para patologías severas, funcionando más como un subsidio al consumo que como una prestación sanitaria integral.",
+    "resumen_ciudadano": "Se amplía el presupuesto del Plan Veo hasta los 141 millones de euros para garantizar que los menores de 16 años reciban hasta 100 euros para gafas o lentillas. El Gobierno rectifica las condiciones para incluir más tipos de lentes y facilitar que las ópticas tramiten la ayuda directamente, tras verse desbordados por la demanda en 2026.",
+    "resumen_tweet": "👓 ¡El #PlanVeo se desborda! Sanidad inyecta 141M€ tras subestimar la necesidad de gafas en menores. Ayuda de 100€ gestionada por colegios profesionales. ¿Suficiente o parche ante la falta de salud visual en el SNS? #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Subestimación técnica del 67% en la previsión de beneficiarios",
+      "Gestión de fondos públicos delegada en una entidad privada (Colegio de Ópticos)",
+      "Cuantía de ayuda fija sin criterios de renta familiar",
+      "Modificación presupuestaria 'ex post' para cubrir el déficit generado por el éxito de la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Establecimientos de óptica (garantizan flujo de clientes y ventas)",
+        "Familias de clase media (ayuda directa de 100€)",
+        "Colegio de Ópticos (centralidad en la gestión de fondos públicos)"
+      ],
+      "perdedores": [
+        "Familias en exclusión social (100€ es insuficiente para cubrir el coste total)",
+        "Cartera de servicios del SNS (se consolida el modelo de ayuda externa en lugar de integración pública)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones",
+    "banderas_rojas": [
+      "Subestimación técnica del 67% en la previsión de beneficiarios",
+      "Gestión de fondos públicos delegada en una entidad privada (Colegio de Ópticos)",
+      "Cuantía de ayuda fija sin criterios de renta familiar",
+      "Modificación presupuestaria 'ex post' para cubrir el déficit generado por el éxito de la convocatoria"
+    ]
+  },
+  "tweeted": false
+}
