@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-21962",
+  "timestamp": "2026-10-22T17:18:21.992Z",
+  "title": "Resolución de 13 de octubre de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Jaime Aja Valle.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento de funcionario. Sin embargo, la opacidad reside en la falta de información sobre los criterios de puntuación finales y el impacto presupuestario anual que supone esta plaza para las arcas públicas de la Universidad de Córdoba. Aunque se cita la Ley Orgánica 2/2023 (LOSU), la resolución no detalla la composición de la Comisión Calificadora, lo que impide un escrutinio ciudadano sobre posibles conflictos de interés en el proceso de selección.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Jaime Aja Valle como Profesor Titular en el área de Sociología en la Universidad de Córdoba tras superar un concurso de acceso.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la Universidad de Córdoba: Jaime Aja Valle, Profesor Titular de Sociología. Trámite estándar, pero el #BOE sigue sin detallar la inversión pública exacta de cada plaza. ¿Meritocracia o burocracia? 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose del coste salarial total para el contribuyente",
+      "Omitida la composición nominal de la comisión evaluadora",
+      "Ausencia de puntuación desglosada del candidato frente a otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jaime Aja Valle",
+        "Universidad de Córdoba",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Aspirantes no seleccionados",
+        "Ciudadanía (por falta de detalle presupuestario)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Funcionarios",
+    "banderas_rojas": [
+      "Falta de desglose del coste salarial total para el contribuyente",
+      "Omitida la composición nominal de la comisión evaluadora",
+      "Ausencia de puntuación desglosada del candidato frente a otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
