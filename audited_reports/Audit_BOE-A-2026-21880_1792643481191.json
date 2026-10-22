@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21880",
+  "timestamp": "2026-10-22T04:31:21.191Z",
+  "title": "Real Decreto 860/2026, de 20 de octubre, por el que se dispone el cese de doña María Pilar Bernabé García como Delegada del Gobierno en la Comunitat Valenciana.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 860/2026 representa un acto administrativo discrecional típico de la estructura del Estado. La opacidad no reside en la forma, sino en el fondo: la ausencia total de motivaciones para el cese en el texto legal. No se especifica si es una dimisión voluntaria, una pérdida de confianza o un ajuste estratégico. Este tipo de ceses a menudo conllevan indemnizaciones por cese de altos cargos que no se reflejan en el documento, generando un 'gasto fantasma' potencial en diferido. La falta de un sucesor inmediato en el mismo diario sugiere una interinidad o un ajuste político de última hora.",
+    "resumen_ciudadano": "Se ha publicado oficialmente el cese de María Pilar Bernabé como Delegada del Gobierno en la Comunidad Valenciana. Es un trámite habitual para cambiar a los representantes del Estado en las regiones, aunque el documento no explica por qué se produce el cambio en este momento ni quién ocupará el cargo a partir de ahora.",
+    "resumen_tweet": "📢 Cambio de cromos en Valencia: El #BOE publica el cese de María Pilar Bernabé como Delegada del Gobierno. 🧐 ¿Transparencia? Escasa. No se explican los motivos ni el coste de la salida de este alto cargo. #Opacidad #Política #Valencia",
+    "banderas_red_flags": [
+      "Falta de motivación del acto administrativo",
+      "Ausencia de desglose de posibles indemnizaciones",
+      "Opacidad en la causa del relevo político"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura central del Gobierno (libertad de reajuste político)",
+        "Futuro sucesor"
+      ],
+      "perdedores": [
+        "María Pilar Bernabé (pierde el cargo)",
+        "Ciudadanía (por falta de transparencia en los motivos del relevo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Nombramientos y ceses de altos cargos",
+    "banderas_rojas": [
+      "Falta de motivación del acto administrativo",
+      "Ausencia de desglose de posibles indemnizaciones",
+      "Opacidad en la causa del relevo político"
+    ]
+  },
+  "tweeted": false
+}
