@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-21878",
+  "timestamp": "2026-10-22T04:29:58.384Z",
+  "title": "Real Decreto 858/2026, de 20 de octubre, por el que se dispone el cese de don Pedro Fernández Peñalver como Delegado del Gobierno en la Comunidad Autónoma de Andalucía.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 858/2026 personifica la opacidad administrativa mediante la fórmula del cese 'agradeciendo los servicios prestados'. Este lenguaje codificado impide a la ciudadanía conocer si la destitución de Pedro Fernández Peñalver responde a una mala gestión, a una reubicación política o a un desacuerdo estratégico en Andalucía. La ausencia de una memoria justificativa convierte la gestión de altos cargos en un agujero negro de rendición de cuentas.",
+    "resumen_ciudadano": "Se oficializa el despido o salida del representante del Gobierno de España en Andalucía. No se explica el motivo ni se detalla el balance de su gestión, a pesar de ser un cargo con gran responsabilidad territorial.",
+    "resumen_tweet": "🚨 Nueva salida opaca en el #BOE: Cese del Delegado del Gobierno en #Andalucía. Cero explicaciones sobre los motivos del relevo y posibles indemnizaciones de 'salida' pagadas con tus impuestos. 🕵️‍♂️💸 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Falta de motivación del acto administrativo",
+      "Opacidad sobre indemnizaciones por cese de alto cargo",
+      "Uso de lenguaje protocolario para evitar la rendición de cuentas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "El nuevo cargo entrante (acceso a presupuesto y poder)",
+        "Maquinaria política del Gobierno (reajuste de piezas)"
+      ],
+      "perdedores": [
+        "Ciudadanos andaluces (falta de información sobre el cambio de liderazgo)",
+        "Erario público (potencial coste de liquidación por cese)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y ceses de altos cargos",
+    "banderas_rojas": [
+      "Falta de motivación del acto administrativo",
+      "Opacidad sobre indemnizaciones por cese de alto cargo",
+      "Uso de lenguaje protocolario para evitar la rendición de cuentas"
+    ]
+  },
+  "tweeted": false
+}
