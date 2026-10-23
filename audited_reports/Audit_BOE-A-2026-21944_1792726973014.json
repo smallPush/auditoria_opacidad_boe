@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-21944",
+  "timestamp": "2026-10-23T03:42:53.014Z",
+  "title": "Acuerdo internacional administrativo entre la Organización Internacional del Trabajo, a través del Equipo de apoyo técnico sobre trabajo decente y Oficina de país de la Oficina Internacional del Trabajo (OIT) para los Países Andinos (DWT/CO-Lima), y el Principado de Asturias (Reino de España), hecho en Lima y Oviedo el 16 y 23 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El acuerdo externaliza fondos públicos asturianos (80.000€) hacia la OIT para un proyecto en Colombia. Aunque el objetivo es la 'economía del cuidado', se detecta opacidad estructural al someterse exclusivamente a las auditorías internas de la OIT, limitando el control fiscal directo por parte del Principado o del Estado español. La transferencia se realiza a una cuenta en Suiza (UBS), lo cual, aunque legal para organismos internacionales, dificulta el rastreo ciudadano del gasto real en terreno frente a costes operativos de gestión.",
+    "resumen_ciudadano": "Asturias financia con 80.000 euros un programa de formación y fortalecimiento de cooperativas de cuidados en Cali (Colombia). La gestión recae en la OIT, que aplicará sus propios criterios de supervisión y retendrá una parte no especificada para gastos de gestión administrativa.",
+    "resumen_tweet": "Asturias envía 80.000€ a la OIT para cooperativas en Colombia 🇨🇴. El dinero irá a una cuenta en Suiza 🇨🇭 y el control fiscal queda fuera de España. ¿Gasto social o externalización sin lupa? 🧐 #BOE #Opacidad #Transparencia #Asturias",
+    "banderas_red_flags": [
+      "Cláusula de auditoría exclusiva externa (OIT), blindando el acceso a la fiscalización española.",
+      "Transferencia de fondos a banca suiza (UBS Suiza AG).",
+      "Presupuesto de 'Gestión y supervisión' sin desglose de porcentaje máximo sobre el total.",
+      "Capacidad de la OIT para prorrogar unilateralmente el proyecto hasta 6 meses."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "OIT (obtiene fondos para estructura y gestión)",
+        "Organizaciones de la Economía Social en Cali (beneficiarios directos de la formación)",
+        "Banca Suiza (entidad depositaria)"
+      ],
+      "perdedores": [
+        "Contribuyentes asturianos (pérdida de control directo sobre el destino final de los impuestos)",
+        "ONGs locales de Asturias (excluidas de estos fondos de cooperación en favor de un ente multilateral)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Cooperación Internacional para el Desarrollo",
+    "banderas_rojas": [
+      "Cláusula de auditoría exclusiva externa (OIT), blindando el acceso a la fiscalización española.",
+      "Transferencia de fondos a banca suiza (UBS Suiza AG).",
+      "Presupuesto de 'Gestión y supervisión' sin desglose de porcentaje máximo sobre el total.",
+      "Capacidad de la OIT para prorrogar unilateralmente el proyecto hasta 6 meses."
+    ]
+  },
+  "tweeted": false
+}
