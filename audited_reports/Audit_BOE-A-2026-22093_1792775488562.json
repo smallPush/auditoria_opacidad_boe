@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22093",
+  "timestamp": "2026-10-23T17:11:28.562Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 13 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento refleja la adjudicación de un puesto mediante el sistema de 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de personal sin una comparativa pública de méritos. En este caso, se traslada a un funcionario del Ministerio de Transformación Digital (MUFACE) al Ministerio para la Transición Ecológica para actuar como Secretario de un Director General. Aunque el cambio de nivel es mínimo (de 16 a 17), este tipo de nombramientos refuerza la red de 'personal de confianza' en la administración pública, alejándose de los principios de igualdad, mérito y capacidad que deberían regir el acceso a puestos pagados con fondos públicos. No hay justificación de por qué este candidato es el idóneo frente a otros.",
+    "resumen_ciudadano": "Se ha formalizado el nombramiento de un nuevo secretario para la Dirección General de Política Energética y Minas. La elección no ha sido por concurso de méritos, sino por designación directa ('a dedo') por parte de los superiores. El elegido procede de la oficina de MUFACE en Madrid.",
+    "resumen_tweet": "🚩 Nueva adjudicación 'a dedo' en el #BOE. El Ministerio para la Transición Ecológica elige secretario por libre designación. ¿Mérito o confianza política? La opacidad en los nombramientos públicos sigue bajo la lupa. 🏛️🔎 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Falta de justificación de méritos",
+      "Nombramiento discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ignacio Díaz Contreras (obtiene puesto de confianza)",
+        "Altos cargos (mantienen control sobre su equipo cercano)"
+      ],
+      "perdedores": [
+        "Cuerpo General Administrativo (excluidos de procesos basados puramente en mérito)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Libre designación",
+      "Falta de justificación de méritos",
+      "Nombramiento discrecional"
+    ]
+  },
+  "tweeted": false
+}
