@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21945",
+  "timestamp": "2026-10-23T04:32:31.381Z",
+  "title": "Modificación del Anexo I del Acuerdo entre las Autoridades Nacionales de Seguridad de la República Francesa y del Reino de España, sobre cooperación en materia de seguridad operacional e interoperabilidad de las actividades ferroviarias, hecha en Madrid y Amiens el 17 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una transparencia técnica elevada pero una transparencia social nula. Se limita a una descripción ultra-técnica de vías y nomenclaturas ferroviarias (ancho ibérico, ancho estándar, CSU, APM) que resulta ininteligible para el ciudadano común. La opacidad reside en la remisión constante a normas externas no publicadas en este acuerdo (como el 'arrêté du 14 avril 2008' francés o consignas privadas de administradores de infraestructuras), lo que impide conocer el alcance real de las responsabilidades civiles en caso de incidentes en estas 'secciones fronterizas'. No hay mención a presupuestos, solo a la delimitación de competencias operativas.",
+    "resumen_ciudadano": "España y Francia han actualizado el listado exacto de vías y estaciones en la frontera (Irún, Portbou, Puigcerdà y Figueres) donde los trenes de ambos países pueden operar bajo reglas comunes de seguridad. Es un ajuste técnico para que los sistemas ferroviarios sean compatibles y los trenes puedan cruzar sin problemas de señalización o seguridad, definiendo qué vía pertenece a cada jurisdicción operativa.",
+    "resumen_tweet": "🚂 España y Francia actualizan el mapa de vías fronterizas en el #BOE. Mucho tecnicismo sobre raíles y 'anchos ibéricos', pero ni una palabra sobre el coste o mejoras para el usuario. 🇪🇸🇫🇷 ¿Burocracia técnica o avance real? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Remisión a normativas externas no accesibles (normas locales SNCF Réseau)",
+      "Uso de siglas técnicas sin glosario (CSU, APM)",
+      "Ausencia de memoria económica asociada a la gestión de estas secciones",
+      "Falta de claridad en el impacto sobre los tiempos de viaje del ciudadano"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadoras ferroviarias (Renfe, SNCF, LFP)",
+        "Administradores de infraestructuras (Adif)",
+        "Empresas de logística y transporte de mercancías transfronterizo"
+      ],
+      "perdedores": [
+        "Usuarios de cercanías en zonas fronterizas (sin mejoras de servicio prometidas)",
+        "Transparencia pública (lenguaje excesivamente hermético)",
+        "Contribuyentes (los costes de mantenimiento de estas 'zonas mixtas' quedan diluidos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña, País Vasco",
+    "tipologia": "Acuerdo Internacional / Seguridad Ferroviaria",
+    "banderas_rojas": [
+      "Remisión a normativas externas no accesibles (normas locales SNCF Réseau)",
+      "Uso de siglas técnicas sin glosario (CSU, APM)",
+      "Ausencia de memoria económica asociada a la gestión de estas secciones",
+      "Falta de claridad en el impacto sobre los tiempos de viaje del ciudadano"
+    ]
+  },
+  "tweeted": false
+}
