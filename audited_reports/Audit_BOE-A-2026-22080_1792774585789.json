@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22080",
+  "timestamp": "2026-10-23T16:56:25.789Z",
+  "title": "Real Decreto 846/2026, de 21 de octubre, por el que se modifican el Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo, y el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 846/2026 transpone la Directiva UE 2024/869 para reducir la exposición al plomo y diisocianatos. Aunque el objetivo es loable, presenta una técnica de 'parcheo' legislativo constante (sexta modificación del RD 665/1997). Se admite que el plomo es un 'agente reprotóxico sin umbral' (ninguna dosis es segura para la descendencia), pero se permite un periodo de gracia hasta 2028 con límites más laxos. Esta 'ventana de riesgo' prioriza la adaptación técnica empresarial sobre la salud biológica inmediata. La redacción es altamente técnica, ocultando tras fórmulas químicas la realidad de sectores industriales precarizados.",
+    "resumen_ciudadano": "Se endurecen las normas de seguridad para trabajadores que manejan plomo y productos químicos (diisocianatos). Se obliga a dar 10 minutos para aseo antes de comer y al salir para evitar intoxicaciones. Sin embargo, las empresas tienen hasta finales de 2028 para cumplir totalmente con los niveles de seguridad más estrictos, lo que deja a los trabajadores actuales en un limbo de protección a medias.",
+    "resumen_tweet": "🛡️ Nueva ley contra tóxicos: bajan los límites de plomo y diisocianatos en el trabajo. ⚠️ ¡OJO! Dan de margen hasta 2028 para cumplirlo totalmente. ¿La salud de los trabajadores puede esperar 4 años? 🏭 #BOE #Opacidad #Transparencia #SaludLaboral",
+    "banderas_red_flags": [
+      "Disposiciones transitorias que retrasan la protección total hasta el 31 de diciembre de 2028",
+      "Admisión de 'agente sin umbral' para el plomo mientras se sigue permitiendo su exposición técnica",
+      "Falta de memoria económica detallada sobre el coste de implementación para PYMES",
+      "Externalización de la vigilancia de salud a protocolos de 'autoridades sanitarias' no especificados en el texto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mutuas de accidentes de trabajo",
+        "Empresas de prevención de riesgos laborales",
+        "Trabajadores de gran industria con capacidad de inversión tecnológica"
+      ],
+      "perdedores": [
+        "Trabajadores en edad fértil (expuestos a agentes sin umbral seguro)",
+        "PYMES del sector metalúrgico y químico (altos costes de adaptación)",
+        "Descendencia de trabajadores expuestos durante el periodo transitorio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Salud Laboral / Transposición Directiva Europea",
+    "banderas_rojas": [
+      "Disposiciones transitorias que retrasan la protección total hasta el 31 de diciembre de 2028",
+      "Admisión de 'agente sin umbral' para el plomo mientras se sigue permitiendo su exposición técnica",
+      "Falta de memoria económica detallada sobre el coste de implementación para PYMES",
+      "Externalización de la vigilancia de salud a protocolos de 'autoridades sanitarias' no especificados en el texto"
+    ]
+  },
+  "tweeted": false
+}
