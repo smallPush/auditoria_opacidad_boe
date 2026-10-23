@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22094",
+  "timestamp": "2026-10-23T17:01:34.517Z",
+  "title": "Orden CLT/1110/2026, de 15 de octubre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden CLT/1008/2026, de 21 de septiembre, en el Instituto Nacional de las Artes Escénicas y de la Música.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento detalla un nombramiento mediante el sistema de 'libre designación', un mecanismo que permite la discrecionalidad política en la elección de altos cargos en lugar de basarse exclusivamente en méritos competitivos y ciegos. Se adjudica una Subdirección General con un nivel 30 (el máximo en la escala funcionarial) y un complemento específico que supera los 30.000 euros anuales. Llama la atención que el adjudicatario proviene de un cuerpo técnico del Ministerio de Medio Ambiente para gestionar áreas económicas en Cultura, lo que refuerza la percepción de una burocracia de élite circular donde los puestos de confianza se rotan entre un grupo reducido de altos funcionarios.",
+    "resumen_ciudadano": "Se ha designado a dedo a un nuevo Subdirector General para el Instituto Nacional de las Artes Escénicas y de la Música (INAEM). El puesto tiene una retribución extra de 30.436 euros al año, además del sueldo base. Aunque legal, este sistema de elección no ofrece garantías de transparencia sobre por qué se eligió a esta persona frente a otros candidatos.",
+    "resumen_tweet": "🎭 ¿Cultura o dedocracia? El Ministerio adjudica una Subdirección General en el INAEM mediante 'libre designación'. 30.436€ de complemento anual extra. Un sistema que premia la confianza sobre la oposición abierta. 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (puesto a dedo)",
+      "Nivel 30 (máxima jerarquía)",
+      "Complemento específico superior a 30k euros",
+      "Procedencia de cuerpo técnico ajeno al sector cultural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ignacio Isidro Gasset Peinado (adjudicatario del puesto de alta dirección)",
+        "Ministerio de Cultura (mantiene control sobre cargos estratégicos)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitados por la discrecionalidad del cargo)",
+        "Ciudadanía (paga salarios de directivos elegidos sin concurso público abierto)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento Directivo",
+    "banderas_rojas": [
+      "Libre designación (puesto a dedo)",
+      "Nivel 30 (máxima jerarquía)",
+      "Complemento específico superior a 30k euros",
+      "Procedencia de cuerpo técnico ajeno al sector cultural"
+    ]
+  },
+  "tweeted": false
+}
