@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-21950",
+  "timestamp": "2026-10-23T04:35:00.859Z",
+  "title": "Real Decreto 850/2026, de 21 de octubre, por el que se regula la concesión directa de subvenciones en materia de alojamientos universitarios durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto 850/2026 recurre a la figura de la 'concesión directa' para repartir fondos públicos a siete entidades específicas sin pasar por un proceso de concurrencia competitiva. Aunque se justifica bajo el paraguas del 'interés público', esta modalidad elude la fiscalización de si otras universidades o municipios tenían proyectos más urgentes o eficientes. Existe una contradicción temporal flagrante: se tramita por urgencia para coincidir con el inicio del curso académico, pero el decreto se firma el 21 de octubre, cuando el curso ya ha comenzado en toda España, lo que sugiere una planificación deficiente o una reacción legislativa a posteriori. El texto delega los detalles técnicos y financieros a resoluciones posteriores, manteniendo la opacidad sobre las cuantías exactas en el texto matriz.",
+    "resumen_ciudadano": "El Gobierno ha seleccionado 'a dedo' a 6 universidades y al Ayuntamiento de Lleida para otorgarles subvenciones destinadas a vivienda universitaria. El objetivo teórico es bajar el precio del alquiler al sacar a los estudiantes del mercado inmobiliario común. Sin embargo, no ha habido concurso público para que otras universidades participen, y la ayuda llega tarde para el curso escolar 2026.",
+    "resumen_tweet": "🚨 Subvenciones 'a dedo' para residencias universitarias en el #BOE. Se evita el concurso público alegando una urgencia que llega con el curso ya empezado. 🎓🏠 ¿Gestión eficiente o discrecionalidad política? #Opacidad #Vivienda #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva (Art. 22.2.c)",
+      "Incongruencia temporal entre la 'urgencia' y la fecha de publicación",
+      "Falta de desglose presupuestario por entidad en el cuerpo del decreto",
+      "Selección discrecional de beneficiarios territoriales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidad Autónoma de Madrid",
+        "Universidad de Burgos",
+        "Universidad de Jaén",
+        "Universidad de Castilla-La Mancha",
+        "Universitat Jaume I",
+        "Universidad Pablo de Olavide",
+        "Ayuntamiento de Lleida"
+      ],
+      "perdedores": [
+        "Universidades de regiones no incluidas",
+        "Estudiantes en ciudades con mercados de alquiler saturados no beneficiadas",
+        "Principio de igualdad de oportunidades entre instituciones públicas"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (Madrid, Castilla y León, Castilla-La Mancha, Andalucía, Cataluña, Comunidad Valenciana)",
+    "tipologia": "Subvención Directa / Vivienda",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva (Art. 22.2.c)",
+      "Incongruencia temporal entre la 'urgencia' y la fecha de publicación",
+      "Falta de desglose presupuestario por entidad en el cuerpo del decreto",
+      "Selección discrecional de beneficiarios territoriales"
+    ]
+  },
+  "tweeted": false
+}
