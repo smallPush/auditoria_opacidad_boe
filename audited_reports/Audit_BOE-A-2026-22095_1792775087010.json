@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22095",
+  "timestamp": "2026-10-23T17:04:47.010Z",
+  "title": "Resolución de 15 de octubre de 2026, de la Dirección de la Agencia Estatal de Investigación, por la que se resuelve el concurso específico, convocado por Resolución de 14 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución revela una preocupante disonancia en la Agencia Estatal de Investigación (AEI). Mientras que los niveles altos (A1/A2) de gestión y áreas económicas se cubren con éxito, existe un vacío sistemático en los puestos técnicos y de apoyo (Niveles 16 al 22). De los puestos analizados en el anexo, un alto porcentaje (40% de los primeros listados) queda 'desierto', lo que indica o una falta de atractivo de la carrera administrativa en la base de la Agencia o requisitos excesivamente rígidos para el personal disponible. Esto crea un embudo: mucha dirección pero poco personal ejecutor para gestionar las ayudas a la ciencia.",
+    "resumen_ciudadano": "Se han adjudicado plazas de funcionarios en la Agencia Estatal de Investigación. La mayoría de los puestos de jefatura han sido cubiertos por mujeres de alta cualificación, pero muchos puestos de apoyo técnico y secretaría se han quedado vacíos porque nadie se ha presentado o no cumplían los requisitos. Esto puede retrasar la tramitación de becas y proyectos científicos.",
+    "resumen_tweet": "🕵️‍♂️ Auditando la Agencia Estatal de Investigación: Los altos cargos se consolidan, pero los puestos técnicos base (N16-N22) quedan VACÍOS. ¿Quién gestionará la ciencia si falta el personal operativo? 🧪❌ #BOE #Opacidad #Transparencia #CienciaEspaña",
+    "banderas_red_flags": [
+      "Alta tasa de puestos declarados desiertos",
+      "Centralismo total en Madrid (0% de descentralización)",
+      "Falta de desglose de las puntuaciones obtenidas por los candidatos",
+      "Posible endogamia: varios candidatos ya ocupaban el mismo puesto en comisión de servicios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de nivel A1 y A2 (mayoría femenina)",
+        "Estructuras burocráticas de Madrid",
+        "Candidatos consolidados en áreas de gestión económica"
+      ],
+      "perdedores": [
+        "Personal administrativo de escalas bajas (puestos C1/C2 vacantes)",
+        "Científicos e investigadores (sufrirán la falta de personal de apoyo para gestionar sus ayudas)",
+        "Cualquier provincia fuera de la capital"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Alta tasa de puestos declarados desiertos",
+      "Centralismo total en Madrid (0% de descentralización)",
+      "Falta de desglose de las puntuaciones obtenidas por los candidatos",
+      "Posible endogamia: varios candidatos ya ocupaban el mismo puesto en comisión de servicios"
+    ]
+  },
+  "tweeted": false
+}
