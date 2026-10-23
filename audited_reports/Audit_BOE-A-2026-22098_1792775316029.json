@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-22098",
+  "timestamp": "2026-10-23T17:08:36.029Z",
+  "title": "Resolución de 13 de octubre de 2026, de la Universidad de Murcia, por la que se nombra Catedrática de Universidad a doña Virginia Villaplana Ruiz.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento refleja un acto administrativo estándar de nombramiento tras un concurso de acceso a la función pública docente. Se observa cumplimiento de la Ley Orgánica 2/2023 (LOSU). No se detectan 'gastos fantasma' directos, ya que la plaza (código 110782) responde a una estructura presupuestaria preexistente. No obstante, la opacidad reside en el proceso previo: la resolución no enlaza a las actas de la comisión de selección ni detalla la baremación, dificultando la fiscalización ciudadana sobre la meritocracia frente a la endogamia universitaria.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado formalmente a doña Virginia Villaplana Ruiz como Catedrática de Universidad en la especialidad de Comunicación Audiovisual y Publicidad. Este es el último paso tras un concurso convocado en abril de 2026.",
+    "resumen_tweet": "🎓 Virginia Villaplana Ruiz, nueva Catedrática en la Universidad de Murcia. Un nombramiento que sigue la normativa, pero ¿cuándo veremos procesos selectivos 100% abiertos y detallados en el #BOE? 🏛️ #Transparencia #Universidad #Murcia",
+    "banderas_red_flags": [
+      "Ausencia de enlace a la baremación pública del concurso",
+      "Falta de desglose del impacto presupuestario anual de la plaza consolidada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Virginia Villaplana Ruiz (consolidación de estatus laboral y salarial)",
+        "Departamento de Comunicación de la Universidad de Murcia (estabilidad de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras sistémicas en el acceso a cátedras)",
+        "Transparencia ciudadana (proceso de selección no detallado en el extracto publicado)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de enlace a la baremación pública del concurso",
+      "Falta de desglose del impacto presupuestario anual de la plaza consolidada"
+    ]
+  },
+  "tweeted": false
+}
