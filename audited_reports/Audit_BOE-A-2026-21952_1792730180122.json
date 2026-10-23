@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-21952",
+  "timestamp": "2026-10-23T04:36:20.122Z",
+  "title": "Orden ECM/1101/2026, de 16 de octubre, por la que se crea y regula el Consejo Nacional para la Prevención del Blanqueo de Capitales, la Financiación del Terrorismo y la Financiación de la Proliferación de Armas de Destrucción Masiva.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden ECM/1101/2026 formaliza una estructura de vigilancia masiva bajo el pretexto de la seguridad financiera. Aunque se presenta como un 'grupo de trabajo', la creación de un Pleno, un Comité Ejecutivo y múltiples Comisiones Técnicas sugiere una burocracia paralela con acceso a datos sensibles. La Disposición Adicional Segunda afirma que no habrá incremento del gasto público, lo cual es una 'incongruencia administrativa' habitual: el tiempo del personal de alto nivel de 18 departamentos y agencias de inteligencia (CNI, CITCO, etc.) tiene un coste de oportunidad real que no se fiscaliza. El artículo 3.2 abre la puerta a un intercambio de inteligencia estratégica y operativa entre banca y fuerzas de seguridad que, bajo el velo del secreto profesional, podría eludir el control judicial ordinario sobre la privacidad de los ciudadanos.",
+    "resumen_ciudadano": "Se crea un nuevo super-consejo que une a los ministerios, la policía, el CNI y los grandes bancos para vigilar el movimiento de dinero en España. Su objetivo es detectar blanqueo y financiación del terrorismo compartiendo información de forma más rápida. Aunque dicen que no costará dinero extra, moviliza a decenas de altos cargos y representantes de la banca privada.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo Consejo Nacional contra el blanqueo: CNI, Policía y Banca unidos para compartir tu info financiera. Dicen que el coste es €0, pero crean una red de comités sin control claro. ¿Seguridad o vigilancia absoluta? 🏦🚫 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusula de 'coste cero' ante una estructura de tres niveles (Pleno, Ejecutivo, Técnicos)",
+      "Ambigüedad en el intercambio de 'inteligencia operativa' entre entidades privadas y agencias de inteligencia",
+      "Composición con vocales no permanentes elegidos por asociaciones patronales, facilitando el 'lobbismo' regulatorio",
+      "Potestad de la Presidencia para invitar a 'expertos' privados sin criterios de selección públicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes entidades bancarias (asiento permanente en el diseño de estrategias de riesgo)",
+        "Agencias de Inteligencia (CNI y CITCO) con mayor flujo de datos del sector privado",
+        "Altos cargos de la Administración (creación de nuevos puestos de relevancia política)"
+      ],
+      "perdedores": [
+        "Pequeños sujetos obligados (menos capacidad de influir en las guías y recomendaciones)",
+        "Privacidad del ciudadano común (aumento de la capilaridad en el intercambio de datos financieros)",
+        "Transparencia presupuestaria (se oculta el coste real de horas/hombre de los funcionarios implicados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Creación de Órgano Consultivo / Vigilancia Financiera",
+    "banderas_rojas": [
+      "Cláusula de 'coste cero' ante una estructura de tres niveles (Pleno, Ejecutivo, Técnicos)",
+      "Ambigüedad en el intercambio de 'inteligencia operativa' entre entidades privadas y agencias de inteligencia",
+      "Composición con vocales no permanentes elegidos por asociaciones patronales, facilitando el 'lobbismo' regulatorio",
+      "Potestad de la Presidencia para invitar a 'expertos' privados sin criterios de selección públicos"
+    ]
+  },
+  "tweeted": false
+}
