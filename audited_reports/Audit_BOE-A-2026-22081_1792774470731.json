@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22081",
+  "timestamp": "2026-10-23T16:54:30.731Z",
+  "title": "Real Decreto 847/2026, de 21 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El Real Decreto 847/2026 representa una actualización técnica necesaria para transponer la Directiva (UE) 2023/2668. Lo más relevante es el giro desde el 'control' hacia la 'eliminación' del amianto. No obstante, existe una 'opacidad técnica' en la disposición transitoria tercera, que permite seguir usando métodos de medición obsoletos (microscopía óptica) hasta diciembre de 2029, lo que supone un riesgo residual para los trabajadores durante tres años más bajo el pretexto de adaptación tecnológica. Además, el texto impone la obligación de identificar amianto en edificios antiguos pero no detalla la procedencia de los fondos para financiar estas auditorías en el sector privado, lo que podría derivar en costes ocultos para los propietarios.",
+    "resumen_ciudadano": "Esta norma obliga a que cualquier edificio construido antes de la prohibición del amianto sea inspeccionado por personal cualificado antes de hacer obras. Reduce drásticamente los límites de exposición permitidos para los trabajadores y exige métodos de análisis más precisos. También establece que las empresas deben inscribirse de nuevo en un registro oficial y que los trabajadores deben tener 10 minutos para lavarse antes de cada comida si están expuestos al material.",
+    "resumen_tweet": "⚠️ Nueva ley #amianto: Se prioriza la retirada sobre el mantenimiento. 👷‍♂️ Mejores equipos y más higiene, pero... ¡el método de medición más preciso se retrasa hasta 2029! ⏳ ¿Quién paga las inspecciones en casas viejas? #BOE #Opacidad #SaludLaboral",
+    "banderas_red_flags": [
+      "Moratoria tecnológica: Permite métodos de medición menos precisos hasta finales de 2029",
+      "Falta de memoria económica explícita para la identificación de amianto en locales privados",
+      "Potencial cuello de botella administrativo en la reinscripción obligatoria de todas las empresas (RERA) en 6 meses",
+      "Indefinición técnica de la 'cualificación' exigida para el personal que identifica el amianto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Laboratorios especializados en microscopía electrónica",
+        "Empresas de desamiantado de gran escala",
+        "Trabajadores de mantenimiento (mayor protección e higiene)"
+      ],
+      "perdedores": [
+        "Propietarios de viviendas y locales construidos antes de 2002",
+        "Pequeñas empresas de reformas (costes de cumplimiento)",
+        "Administraciones autonómicas (aumento de carga inspectora)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Seguridad y Salud Laboral",
+    "banderas_rojas": [
+      "Moratoria tecnológica: Permite métodos de medición menos precisos hasta finales de 2029",
+      "Falta de memoria económica explícita para la identificación de amianto en locales privados",
+      "Potencial cuello de botella administrativo en la reinscripción obligatoria de todas las empresas (RERA) en 6 meses",
+      "Indefinición técnica de la 'cualificación' exigida para el personal que identifica el amianto"
+    ]
+  },
+  "tweeted": false
+}
