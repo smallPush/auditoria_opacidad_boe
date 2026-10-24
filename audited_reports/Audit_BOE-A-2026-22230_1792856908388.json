@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22230",
+  "timestamp": "2026-10-24T15:48:28.388Z",
+  "title": "Acuerdo de 14 de octubre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombra Juez sustituto para el año judicial 2026/2027, en el ámbito del Tribunal Superior de Justicia de la Andalucía, Ceuta y Melilla.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El acuerdo revela una practica sistematica de interinidad en la carrera judicial. Se nombra a un unico juez sustituto para cubrir 14 partidos judiciales en la provincia de Cadiz, lo que sugiere una carga de trabajo inasumible o una gestion de recursos humanos basada en el parcheo estructural. No se especifican los meritos ni la retribucion asociada, ocultando el coste real de mantener la justicia operativa mediante personal no titular bajo el pretexto del Reglamento 2/2011. Existe una incongruencia entre la promesa de una justicia agil y la realidad de una justicia dependiente de figuras temporales itinerantes.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha designado a Roberto Carlos Perez Montero como juez sustituto para el periodo 2026/2027. Este juez debera atender las necesidades de tribunales en 14 localidades de Cadiz, incluyendo Algeciras, Jerez y San Fernando, actuando como refuerzo temporal ante la falta de jueces titulares en la zona.",
+    "resumen_tweet": "⚖️ Nuevo parche en la Justicia: El CGPJ nombra un solo juez sustituto para 14 juzgados en Cadiz. ¿Eficacia o precariedad? Se cubre el expediente pero no las plazas fijas. Menos interinidad y mas transparencia. 🏛️🔍 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Uso de interinidad para cubrir necesidades estructurales",
+      "Concentracion geografica excesiva (14 localidades)",
+      "Ausencia de informacion sobre costes salariales y dietas de itinerancia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CGPJ (evita convocar oposiciones a plazas fijas)",
+        "Administracion (reduccion de costes fijos)"
+      ],
+      "perdedores": [
+        "Ciudadanos de Cadiz (justicia atendida por personal temporal y saturado)",
+        "Profesionales de la carrera judicial (precarizacion del acceso)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Judicial",
+    "banderas_rojas": [
+      "Uso de interinidad para cubrir necesidades estructurales",
+      "Concentracion geografica excesiva (14 localidades)",
+      "Ausencia de informacion sobre costes salariales y dietas de itinerancia"
+    ]
+  },
+  "tweeted": false
+}
