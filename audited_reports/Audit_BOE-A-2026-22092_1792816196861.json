@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22092",
+  "timestamp": "2026-10-24T04:29:56.861Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Delegación del Gobierno en la Comunidad Autónoma del País Vasco, por la que se dispone el cese de doña María del Mar Dabán Aguayo como Subdelegada del Gobierno en Araba/Álava.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se observa un movimiento de rotación de cargos dentro de la élite política regional. Aunque el BOE es inusualmente transparente al citar el motivo del cese (promoción a Diputada Foral), esto confirma la naturaleza de estos puestos como trampolines políticos o piezas de un ajedrez institucional entre la Administración General del Estado y la Foral. No hay mención a los costes de indemnización por cese si los hubiera, ni al proceso de selección del sustituto.",
+    "resumen_ciudadano": "La Subdelegada del Gobierno en Álava deja su cargo para ser nombrada Diputada Foral de Empleo, Comercio y Turismo en la misma provincia. Se trata de un cambio de puesto entre administraciones públicas para la misma persona.",
+    "resumen_tweet": "🚨 ¿Ascenso o puertas giratorias? Cesa la Subdelegada del Gobierno en Álava para saltar directamente a la Diputación Foral como Diputada de Empleo. Transparencia en el motivo, pero ¿mérito o cuota política? 🔄🇪🇸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Rotación de cargos de confianza",
+      "Endogamia institucional",
+      "Ausencia de mención a liquidaciones económicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María del Mar Dabán Aguayo (promoción profesional)",
+        "Administración Foral (capta perfiles de la estatal)"
+      ],
+      "perdedores": [
+        "Meritocracia (puestos de libre designación)",
+        "Transparencia en procesos de selección competitiva"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Rotación de cargos de confianza",
+      "Endogamia institucional",
+      "Ausencia de mención a liquidaciones económicas"
+    ]
+  },
+  "tweeted": false
+}
