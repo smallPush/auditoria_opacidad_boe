@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22248",
+  "timestamp": "2026-10-24T15:58:12.627Z",
+  "title": "Resolución de 16 de octubre de 2026, del Ayuntamiento de Òrrius (Barcelona), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria emplea el sistema de concurso-oposición para una plaza técnica de nivel superior en un municipio de reducidas dimensiones (Òrrius, Barcelona). Este sistema, al incluir una fase de valoración de méritos, suele estar diseñado para consolidar a personal interino que ya ejerce la función, limitando la competencia real de profesionales externos que, aun obteniendo mejores notas en los exámenes, no pueden competir con los puntos de antigüedad otorgados 'ad hoc'. La opacidad reside en remitir a bases publicadas en boletines inferiores, dificultando el escrutinio directo de los criterios de puntuación.",
+    "resumen_ciudadano": "El Ayuntamiento de Òrrius convoca una plaza para arquitecto/a (clase superior). El proceso de selección no será solo por examen, sino que contará la experiencia previa, lo que facilita que el puesto sea para alguien que ya trabaje allí. El plazo para apuntarse es de 20 días hábiles.",
+    "resumen_tweet": "🏗️ ¿Plaza a medida en Òrrius? Convocan arquitecto mediante concurso-oposición. En pueblos pequeños, este sistema suele blindar a interinos y frena el acceso a nuevos talentos sin 'puntos' previos. 🧐 ¡Ojo a los baremos! #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de concurso-oposición para plaza única",
+      "Alta probabilidad de plaza para consolidación de interino",
+      "Remisión a bases externas para ocultar criterios de baremación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino que ya ocupa la plaza",
+        "Candidatos con experiencia previa exclusiva en administración local"
+      ],
+      "perdedores": [
+        "Arquitectos del sector privado",
+        "Jóvenes licenciados sin méritos por antigüedad",
+        "Principio de igualdad de oportunidades"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Uso de concurso-oposición para plaza única",
+      "Alta probabilidad de plaza para consolidación de interino",
+      "Remisión a bases externas para ocultar criterios de baremación"
+    ]
+  },
+  "tweeted": false
+}
