@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22242",
+  "timestamp": "2026-10-24T15:52:23.859Z",
+  "title": "Resolución de 16 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución presenta un sistema de provisión de puestos que, si bien cumple con la legalidad vigente, mantiene mecanismos de blindaje para el personal interno. La obligatoriedad del uso del Portal Funciona bajo amenaza de exclusión impone una barrera digital administrativa severa. Destaca la 'endogamia formativa': solo se valoran cursos de un listado cerrado del propio Departamento, dificultando la movilidad interministerial. Además, existe una incongruencia en la conciliación: los puntos por cuidado de hijos o cónyuge se anulan si el funcionario intenta promocionar a un nivel superior, obligando a elegir entre carrera profesional o familia.",
+    "resumen_ciudadano": "El Ministerio de Justicia convoca un concurso para cubrir puestos de trabajo, pero el sistema de puntos favorece claramente a quienes ya están dentro. Se utilizan 'listas cerradas' de cursos de formación y se imponen trabas digitales para participar. La conciliación familiar tiene 'truco': si pides un puesto de mayor nivel para ascender, pierdes los puntos de ayuda familiar.",
+    "resumen_tweet": "🚨 Nuevo concurso en el Ministerio de Justicia. ¿Transparencia? A medias. El sistema de cursos 'a medida' y el castigo a la promoción para quienes concilian crean un muro para los de fuera. #BOE #Opacidad #Transparencia #FunciónPública 🏛️⚖️",
+    "banderas_red_flags": [
+      "Endogamia formativa por catálogo cerrado de cursos",
+      "Exclusión por brecha digital en la presentación de solicitudes",
+      "Penalización de la promoción profesional en supuestos de conciliación",
+      "Discrecionalidad en las autorizaciones para personal de la AEAT"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con alta antigüedad en el Ministerio",
+        "Personal con acceso previo a formación interna específica",
+        "Cargos con grados altos ya consolidados"
+      ],
+      "perdedores": [
+        "Funcionarios de otros ministerios (movilidad externa)",
+        "Personal que busca promoción y conciliación familiar simultánea",
+        "Funcionarios de nuevo ingreso"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Endogamia formativa por catálogo cerrado de cursos",
+      "Exclusión por brecha digital en la presentación de solicitudes",
+      "Penalización de la promoción profesional en supuestos de conciliación",
+      "Discrecionalidad en las autorizaciones para personal de la AEAT"
+    ]
+  },
+  "tweeted": false
+}
