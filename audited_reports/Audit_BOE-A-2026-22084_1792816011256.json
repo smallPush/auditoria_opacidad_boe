@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22084",
+  "timestamp": "2026-10-24T04:26:51.256Z",
+  "title": "Real Decreto 917/2026, de 21 de octubre, por el que se nombra Presidente del Tribunal de Instancia de Arganda del Rey (Madrid) al Magistrado don David Pérez García-Patrón.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El nombramiento formaliza el control administrativo en la estructura de Arganda del Rey mediante el modelo de Tribunal de Instancia. Aunque se basa en una eleccion interna de la Junta de Jueces, la ausencia de datos sobre el proceso electivo (votos, candidatos descartados) mantiene la opacidad corporativista tipica del sistema judicial espanol. Este tipo de cargos consolida jerarquias dentro de la carrera judicial que a menudo responden a equilibrios entre asociaciones judiciales no explicitados al ciudadano.",
+    "resumen_ciudadano": "Se oficializa que el magistrado David Perez Garcia-Patron asumira la direccion del nuevo Tribunal de Instancia en Arganda del Rey tras ser elegido por sus propios companeros y ratificado por el CGPJ. Este cargo tiene un peso administrativo y de gestion clave en la organizacion de la justicia local.",
+    "resumen_tweet": "⚖️ Nuevo mando judicial en Arganda del Rey. David Perez Garcia-Patron asume la presidencia del Tribunal de Instancia. Una estructura mas jerarquica que el #BOE publica sin detalles de la votacion interna. #Justicia #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose del acta de la Junta de Jueces",
+      "Modelo de Tribunal de Instancia que centraliza poder administrativo",
+      "Ausencia de impacto presupuestario detallado por el cambio de rango"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "David Perez Garcia-Patron (ascenso administrativo)",
+        "CGPJ (ejercicio de autoridad ratificadora)",
+        "Ministerio de Justicia (avance en la implementacion de tribunales de instancia)"
+      ],
+      "perdedores": [
+        "Candidatos no electos (anonimos para el publico)",
+        "Ciudadania (que desconoce los criterios de idoneidad mas alla del formalismo legal)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento Judicial",
+    "banderas_rojas": [
+      "Falta de desglose del acta de la Junta de Jueces",
+      "Modelo de Tribunal de Instancia que centraliza poder administrativo",
+      "Ausencia de impacto presupuestario detallado por el cambio de rango"
+    ]
+  },
+  "tweeted": false
+}
