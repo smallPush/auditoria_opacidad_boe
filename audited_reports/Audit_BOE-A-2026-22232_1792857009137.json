@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22232",
+  "timestamp": "2026-10-24T15:50:09.137Z",
+  "title": "Acuerdo de 14 de octubre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Magistrada suplente y Juez sustituto para el año judicial 2026/2027, en el ámbito del Tribunal Superior de Justicia de Extremadura.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El acuerdo presenta una transparencia procedimental básica al citar la normativa, pero oculta la justificación de idoneidad y el impacto económico. Destaca la asignación de un solo Juez sustituto para cubrir catorce partidos judiciales en Badajoz, lo que sugiere una saturación del sistema judicial en la región y un uso de personal no permanente para cubrir carencias estructurales. La figura del sustituto, aunque legal, perpetúa la interinidad en puestos clave de la administración de justicia.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a dos jueces sustitutos para Extremadura durante el curso 2026/2027. Mientras que una magistrada se encargará de la Audiencia de Cáceres, el juez designado para Badajoz deberá rotar entre catorce localidades diferentes, lo que plantea dudas sobre la eficacia y agilidad del servicio ante tal dispersión geográfica.",
+    "resumen_tweet": "⚖️ ¿Justicia eficiente o parches temporales? El CGPJ nombra un juez sustituto para 14 juzgados en Badajoz. El #BOE no aclara el coste ni los méritos específicos frente a otros candidatos. 🔍 #Opacidad #Transparencia #Extremadura #Justicia",
+    "banderas_red_flags": [
+      "Dispersión geográfica extrema (14 sedes para un juez)",
+      "Ausencia de desglose presupuestario por nombramiento",
+      "Falta de transparencia en los criterios de selección competitiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejo General del Poder Judicial (mantenimiento del servicio sin ampliar plantilla fija)",
+        "Personas nombradas (acceso a cargos en la carrera judicial)"
+      ],
+      "perdedores": [
+        "Ciudadanos de Badajoz (potencial lentitud por dispersión del juez)",
+        "Modelo de carrera judicial (dependencia de la figura del sustituto)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Nombramientos de Personal Judicial",
+    "banderas_rojas": [
+      "Dispersión geográfica extrema (14 sedes para un juez)",
+      "Ausencia de desglose presupuestario por nombramiento",
+      "Falta de transparencia en los criterios de selección competitiva"
+    ]
+  },
+  "tweeted": false
+}
