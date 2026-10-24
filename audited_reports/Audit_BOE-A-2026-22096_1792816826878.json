@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22096",
+  "timestamp": "2026-10-24T04:40:26.878Z",
+  "title": "Resolución de 8 de octubre de 2026, de la Dirección General de Infraestructuras Judiciales y Recursos Humanos, de la Consejería de Turismo, Justicia, Desregulación y Administración Local, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 23 de junio de 2026, de la Secretaría General de Servicios Judiciales, en la Oficina de la Secretaría de Gobierno del Tribunal Superior de Justicia de Andalucía.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos en la Administración de Justicia representa una zona gris en la meritocracia pública. Aunque legalmente amparado, este mecanismo permite la elección subjetiva de funcionarios ('dedazo'), lo que debilita el principio de igualdad en el acceso a cargos de responsabilidad. Llama la atención que las plazas de Almería y Jaén queden desiertas, lo que podría indicar una falta de incentivos o la ausencia de candidatos que encajen en el perfil de confianza buscado, dejando estas sedes judiciales con infrautilización de recursos humanos.",
+    "resumen_ciudadano": "La Junta de Andalucía ha resuelto el nombramiento de secretarios personales en el Tribunal Superior de Justicia mediante libre designación. Solo se han cubierto dos de los cuatro puestos previstos (Cádiz y Málaga), mientras que Almería y Jaén se quedan sin cubrir. Este sistema de elección no se basa exclusivamente en un concurso de méritos objetivo, sino en la confianza de los superiores.",
+    "resumen_tweet": "⚖️ Dedazo legal en el TSJA: La Junta de Andalucía adjudica plazas por 'libre designación'. Solo 2 de 4 puestos cubiertos. ¿Criterios? Discrecionales. La meritocracia se diluye entre nombramientos a dedo. #BOE #Opacidad #Andalucía #Justicia",
+    "banderas_red_flags": [
+      "Sistema de libre designación (elección discrecional)",
+      "Plazas declaradas desiertas sin explicación técnica",
+      "Baja concurrencia o idoneidad en provincias periféricas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Haro Iglesias",
+        "M.ª Eugenia Luque Díaz",
+        "Consejería de Justicia (mayor control mediante personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos pero sin perfiles de 'confianza'",
+        "Justicia en Almería y Jaén (puestos vacantes)",
+        "Transparencia administrativa"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Sistema de libre designación (elección discrecional)",
+      "Plazas declaradas desiertas sin explicación técnica",
+      "Baja concurrencia o idoneidad en provincias periféricas"
+    ]
+  },
+  "tweeted": false
+}
