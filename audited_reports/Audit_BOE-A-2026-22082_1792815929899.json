@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22082",
+  "timestamp": "2026-10-24T04:25:29.899Z",
+  "title": "Real Decreto 852/2026, de 21 de octubre, por el que se regula la concesión directa de subvenciones para gastos de funcionamiento de fundaciones y asociaciones vinculadas con partidos políticos con representación en las Cortes Generales que realicen actividades de estudio y desarrollo del pensamiento político y social.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 852/2026 utiliza la figura de la 'concesión directa' para evitar el régimen ordinario de concurrencia competitiva, amparándose en una supuesta excepcionalidad por razones de interés público. En la práctica, esto supone un blindaje financiero para las fundaciones vinculadas a los partidos del arco parlamentario, transformando fondos del Ministerio de Cultura en una extensión de la financiación de partidos para cubrir 'gastos de funcionamiento' (alquileres, nóminas, suministros), un concepto altamente opaco que dificulta el rastreo del retorno social real. Se instrumentaliza el concepto de 'pensamiento político y social' para justificar transferencias discrecionales de dinero público.",
+    "resumen_ciudadano": "El Gobierno ha aprobado entregar subvenciones directas (sin concurso público) a las fundaciones y asociaciones de los partidos políticos con representación en el Congreso. El dinero se destina a pagar sus gastos de oficina y funcionamiento diario bajo la etiqueta de 'estudio del pensamiento político'. El reparto se hace de forma proporcional a los votos de 2023, asegurando que los grandes partidos reciban la mayor parte del pastel cultural.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad! El #BOE publica subvenciones DIRECTAS 'a dedo' para las fundaciones de partidos políticos. Se saltan la competencia pública para pagar gastos de oficina bajo el sello de 'Cultura'. 💸 #Transparencia #Opacidad #GastosFantasma",
+    "banderas_red_flags": [
+      "Uso sistemático de la concesión directa para evitar competencia",
+      "Vigencia de gastos de funcionamiento como concepto vago",
+      "Autoadjudicación de fondos por parte de la élite política",
+      "Justificación de 'interés público' poco fundamentada en beneficios ciudadanos tangibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundaciones vinculadas a grandes partidos políticos",
+        "Estructuras burocráticas de formaciones parlamentarias",
+        "Consultores y asesores de partidos"
+      ],
+      "perdedores": [
+        "Asociaciones culturales independientes sin vinculación partidista",
+        "Contribuyentes (financiación indirecta de partidos)",
+        "Pequeñas formaciones políticas sin representación estatal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Uso sistemático de la concesión directa para evitar competencia",
+      "Vigencia de gastos de funcionamiento como concepto vago",
+      "Autoadjudicación de fondos por parte de la élite política",
+      "Justificación de 'interés público' poco fundamentada en beneficios ciudadanos tangibles"
+    ]
+  },
+  "tweeted": false
+}
