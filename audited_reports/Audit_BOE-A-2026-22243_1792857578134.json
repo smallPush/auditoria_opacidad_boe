@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-22243",
+  "timestamp": "2026-10-24T15:59:38.134Z",
+  "title": "Resolución de 19 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo en la Abogacía General del Estado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución articula un proceso competitivo estándar bajo la apariencia de objetividad, pero mantiene estructuras de control burocrático rígidas. Aunque invoca el IV Plan para la igualdad de género, el baremo de valoración (Base Cuarta) sigue premiando masivamente la antigüedad (25 puntos) y el grado consolidado (10 puntos) frente a la formación específica o el desempeño real. Se detecta un mecanismo de control de movilidad en la base primera, donde organismos como la AEAT pueden vetar la salida de funcionarios, limitando la libertad profesional por 'necesidades del servicio' no especificadas.",
+    "resumen_ciudadano": "Se convocan plazas para trabajar en la Abogacía General del Estado. El proceso está reservado exclusivamente a funcionarios de carrera. La evaluación para obtener una plaza depende principalmente de cuántos años lleves en el cuerpo y tu nivel actual, más que de tus capacidades actuales. Se incluyen cláusulas que permiten a ciertos departamentos prohibir que sus trabajadores se marchen a otros puestos.",
+    "resumen_tweet": "⚖️ Publicada convocatoria para la Abogacía del Estado. ¿Transparencia? A medias. La antigüedad pesa más que el mérito y la AEAT se reserva el derecho de 'vetar' la movilidad de sus empleados. La burocracia se blinda. 🛡️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Veto a la movilidad: La AEAT puede denegar traslados por criterios subjetivos de 'necesidades del servicio'",
+      "Endogamia formativa: Solo puntúan cursos de una lista cerrada del propio organismo",
+      "Puestos en exclusiva: Restricción de acceso a funcionarios de otros cuerpos sin autorización discrecional",
+      "Privilegio de antigüedad: El factor tiempo domina la puntuación total sobre la capacitación técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con alta antigüedad",
+        "Cargos con grado personal ya consolidado",
+        "Personal en excedencia por cuidado de familiares (bien protegido por la norma)"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con alta formación pero poca antigüedad",
+        "Personal interino (totalmente excluido)",
+        "Funcionarios de la AEAT (sujetos a posible veto de salida)",
+        "Ciudadanía (por el mantenimiento de un sistema de ascenso basado en el tiempo y no en la eficiencia)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Veto a la movilidad: La AEAT puede denegar traslados por criterios subjetivos de 'necesidades del servicio'",
+      "Endogamia formativa: Solo puntúan cursos de una lista cerrada del propio organismo",
+      "Puestos en exclusiva: Restricción de acceso a funcionarios de otros cuerpos sin autorización discrecional",
+      "Privilegio de antigüedad: El factor tiempo domina la puntuación total sobre la capacitación técnica"
+    ]
+  },
+  "tweeted": false
+}
