@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22229",
+  "timestamp": "2026-10-25T15:40:53.979Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución actúa como un mero trámite administrativo que traslada la voluntad de las multinacionales tabaqueras al consumidor. Aunque la publicación de precios es obligatoria, el mecanismo de 'propuesta por fabricantes' sugiere un poder de mercado significativo de las grandes marcas, donde el Estado actúa como validador de márgenes. No existe un desglose de qué porcentaje del PVP corresponde a impuestos especiales, lo que oculta al ciudadano el impacto real de la fiscalidad en cada producto específico.",
+    "resumen_ciudadano": "Hacienda ha publicado la lista actualizada de precios para cigarrillos, puros y picaduras en la Península y Baleares. Estos precios entran en vigor de manera inmediata y han sido decididos por los propios fabricantes e importadores, afectando directamente al bolsillo del consumidor en las expendedurías.",
+    "resumen_tweet": "🚬 Nuevos precios del tabaco en el #BOE. De los 35€ por un cigarro premium a los 2,40€ de los cigarritos. El Estado valida los precios que proponen las marcas sin desglosar impuestos. 💸🏛️ #Tabaco #Hacienda #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Fijación de precios liderada por fabricantes",
+      "Ausencia de desglose tributario",
+      "Entrada en vigor inmediata el día de publicación",
+      "Segmentación de precios por canales de distribución"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mantiene la recaudación vía impuestos indirectos)",
+        "Grandes marcas tabaqueras (controlan sus márgenes comerciales)"
+      ],
+      "perdedores": [
+        "Consumidores (especialmente de rentas bajas ante la subida de picaduras)",
+        "Pequeños estancos (sujetos a cambios de precios constantes)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Península e Illes Balears)",
+    "tipologia": "Regulación de Precios",
+    "banderas_rojas": [
+      "Fijación de precios liderada por fabricantes",
+      "Ausencia de desglose tributario",
+      "Entrada en vigor inmediata el día de publicación",
+      "Segmentación de precios por canales de distribución"
+    ]
+  },
+  "tweeted": false
+}
