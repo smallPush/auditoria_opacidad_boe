@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22234",
+  "timestamp": "2026-10-25T04:30:35.952Z",
+  "title": "Orden PJC/1114/2026, de 15 de octubre, por la que se dispone el cese de doña Carmen Patricia Gimeno Sierra como Vocal del Consejo del Secretariado y se nombra a don José Joaquín Fernández Graña.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un relevo burocrático ordinario en el Consejo del Secretariado. La opacidad reside en la naturaleza del cese: 'haber dejado de pertenecer a la tercera categoría', un tecnicismo que no aclara si es por ascenso, jubilación o sanción, manteniendo la tradición de hermetismo en la carrera de Letrados de la Administración de Justicia. No se detectan gastos fantasma directos, pero sí la perpetuación de un sistema de suplencias preestablecidas que limita la renovación democrática del órgano.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha cesado a Carmen Patricia Gimeno como vocal del Consejo del Secretariado tras cambiar su estatus profesional. En su lugar, entra automáticamente su suplente, José Joaquín Fernández Graña. Es un ajuste interno de personal dentro de la élite administrativa de los juzgados.",
+    "resumen_tweet": "🔄 Cambio de fichas en la cúpula de los Letrados de la Administración de Justicia. Sale Carmen Gimeno y entra José Fernández Graña como vocal. Ajustes internos en el Consejo del Secretariado firmados por Bolaños. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Automatismo en la sucesión",
+      "Ambigüedad en la causa técnica del cese",
+      "Endogamia corporativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Joaquín Fernández Graña (ascenso a Vocal titular)",
+        "Cuerpo de Letrados de la Administración de Justicia (mantenimiento de cuotas)"
+      ],
+      "perdedores": [
+        "Carmen Patricia Gimeno Sierra (pierde la vocalía)",
+        "Ciudadanía (ajena a los criterios de idoneidad del relevo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Automatismo en la sucesión",
+      "Ambigüedad en la causa técnica del cese",
+      "Endogamia corporativa"
+    ]
+  },
+  "tweeted": false
+}
