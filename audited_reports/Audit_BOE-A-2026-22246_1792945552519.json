@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22246",
+  "timestamp": "2026-10-25T16:25:52.519Z",
+  "title": "Resolución de 20 de octubre de 2026, de la Subsecretaría, por la que se publica la relación de personas aprobadas en la fase de oposición de los procesos selectivos para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Diplomados en Estadística del Estado, convocados por Resolución de 22 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolución publica resultados definitivos para el Cuerpo de Diplomados en Estadística del Estado. Se detecta una brecha significativa entre la promoción interna (4 aptos) y el acceso libre (70 aptos), lo que indica una estructura que prioriza la captación de talento externo sobre la progresión de la carrera administrativa. Aunque la transparencia en las notas es alta, el proceso de asignación de destinos se posterga a una fase posterior no detallada, manteniendo la incertidumbre sobre la distribución territorial del gasto en personal.",
+    "resumen_ciudadano": "El Ministerio de Economía ha publicado la lista de aprobados para ser diplomados en estadística. Hay 70 nuevos ingresos frente a solo 4 ascensos internos. Los seleccionados deberán esperar ahora a que el Gobierno les ofrezca plazas concretas, un proceso que suele ser menos transparente que el examen mismo.",
+    "resumen_tweet": "📊 Solo 4 plazas de promoción interna frente a 70 de acceso libre en el Cuerpo de Estadística. ¿Se ignora la experiencia interna? El proceso de selección es público, pero la adjudicación de destinos sigue en la sombra. 🔍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desproporción extrema entre acceso libre y promoción interna",
+      "Postergación de la oferta de destinos específicos",
+      "Falta de desglose sobre el coste presupuestario de las nuevas incorporaciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "70 aspirantes de acceso libre",
+        "Academias de preparación de oposiciones (modelo de negocio)",
+        "Ministerio de Economía (renovación de cuadros técnicos)"
+      ],
+      "perdedores": [
+        "Personal interino o de niveles inferiores (baja movilidad vertical)",
+        "Candidatos con menores recursos económicos para sostener largos periodos de estudio"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Desproporción extrema entre acceso libre y promoción interna",
+      "Postergación de la oferta de destinos específicos",
+      "Falta de desglose sobre el coste presupuestario de las nuevas incorporaciones"
+    ]
+  },
+  "tweeted": false
+}
