@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22245",
+  "timestamp": "2026-10-25T04:37:51.170Z",
+  "title": "Resolución de 19 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en el Instituto de la Cinematografía y de las Artes Audiovisuales.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución sigue el estándar de concursos de la Administración General del Estado, presenta puntos críticos de opacidad. La remisión a una URL externa (cultura.gob.es) para conocer el listado de cursos valorables introduce inseguridad jurídica, ya que dicho listado puede ser modificado sin rastro en el BOE. Además, la obligatoriedad de tramitación electrónica bajo amenaza de exclusión si no se 'demuestra' la imposibilidad técnica supone una barrera burocrática excesiva para el administrado. Los 'méritos específicos' de la segunda fase suelen ser el refugio de los 'trajes a medida' en la función pública.",
+    "resumen_ciudadano": "Convocatoria para cubrir puestos de trabajo en el Instituto de la Cinematografía (ICAA). Se valorará la experiencia previa, el grado personal y la formación. Se incluyen criterios de conciliación familiar y méritos por cursos en igualdad de género. La participación es casi exclusivamente telemática a través del portal Funciona.",
+    "resumen_tweet": "🎬 El Ministerio de Cultura convoca puestos para el ICAA. Cuidado: los cursos puntuables dependen de una web externa, no del #BOE. La burocracia digital se vuelve obligatoria bajo pena de exclusión. ¿Transparencia o barreras? 🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Externalización de criterios de valoración a una URL fuera del BOE",
+      "Exigencia de prueba de carga al ciudadano por fallos técnicos en la sede electrónica",
+      "Posible reclasificación de puestos durante la tramitación del concurso",
+      "Alta discrecionalidad en la fase de méritos específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con amplia antigüedad en el ICAA",
+        "Personal con formación específica en planes de igualdad",
+        "Funcionarios con competencias digitales avanzadas"
+      ],
+      "perdedores": [
+        "Funcionarios de otras administraciones con dificultades de movilidad",
+        "Candidatos con formación externa no incluida en los catálogos específicos del Ministerio",
+        "Personal con brecha digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Externalización de criterios de valoración a una URL fuera del BOE",
+      "Exigencia de prueba de carga al ciudadano por fallos técnicos en la sede electrónica",
+      "Posible reclasificación de puestos durante la tramitación del concurso",
+      "Alta discrecionalidad en la fase de méritos específicos"
+    ]
+  },
+  "tweeted": false
+}
