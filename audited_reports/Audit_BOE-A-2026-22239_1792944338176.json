@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22239",
+  "timestamp": "2026-10-25T16:05:38.176Z",
+  "title": "Resolución de 14 de octubre de 2026, de la Universidad Pompeu Fabra, por la que se nombra Catedrática de Universidad a doña Núria Bou Sala.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento detalla un nombramiento de Catedrática mediante 'promoción interna' bajo el perfil ultra-específico de 'Star Studies en la Historia del Cine'. Aunque el proceso es legalmente sólido y cita toda la normativa vigente (LOSU y leyes catalanas), el uso de perfiles tan nicho en promociones internas es una práctica común en la academia española que, si bien premia la especialización, limita de facto la competitividad externa y consolida estructuras de endogamia universitaria al 'teledirigir' las plazas hacia candidatos ya presentes en la institución.",
+    "resumen_ciudadano": "La Universidad Pompeu Fabra ha nombrado formalmente a Núria Bou Sala como Catedrática de Universidad en el área de Comunicación Audiovisual. Este nombramiento es el resultado de un proceso de promoción interna para personal que ya formaba parte de la universidad, especializado en el estudio de las estrellas de cine.",
+    "resumen_tweet": "🎓 Nueva cátedra en la @UPFBarcelona: Núria Bou Sala asciende con un perfil ultra-específico en 'Star Studies'. ¿Especialización necesaria o blindaje de plazas mediante promoción interna? 🏛️⚖️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Promoción interna (restricción de competencia)",
+      "Perfil de plaza hiper-especializado",
+      "Endogamia académica potencial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Núria Bou Sala (ascenso profesional y consolidación salarial)",
+        "Universitat Pompeu Fabra (estabilización de su cuadro docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos por la modalidad de promoción interna)",
+        "Movilidad académica entre comunidades autónomas"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramiento de Personal Docente Investigador",
+    "banderas_rojas": [
+      "Promoción interna (restricción de competencia)",
+      "Perfil de plaza hiper-especializado",
+      "Endogamia académica potencial"
+    ]
+  },
+  "tweeted": false
+}
