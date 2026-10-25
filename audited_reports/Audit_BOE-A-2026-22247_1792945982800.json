@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22247",
+  "timestamp": "2026-10-25T16:33:02.800Z",
+  "title": "Resolución de 15 de octubre de 2026, del Ayuntamiento de Daya Nueva (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La convocatoria para una plaza única de Policía Local mediante el sistema de oposición libre en un municipio pequeño como Daya Nueva presenta el riesgo clásico de 'perfilado' de la plaza. Aunque formalmente cumple con la ley, la remisión a bases publicadas en el boletín provincial (BOPA) obliga al ciudadano a un doble esfuerzo de búsqueda para conocer los criterios de exclusión o baremos específicos. La ausencia de un desglose del coste salarial anual en la resolución es una práctica habitual que oculta el impacto presupuestario real a largo plazo.",
+    "resumen_ciudadano": "El Ayuntamiento de Daya Nueva abre el proceso para contratar a un nuevo Policía Local. El sistema elegido es la oposición pura (exámenes), lo que sobre el papel beneficia a quienes estudian sin necesidad de tener experiencia previa. Los interesados tienen 20 días hábiles para presentar su solicitud tras esta publicación.",
+    "resumen_tweet": "🚔 Nueva plaza de Policía Local en Daya Nueva (Alicante). Oposición libre, pero la letra pequeña sobre requisitos y pruebas se esconde en el boletín provincial. ¿Transparencia o burocracia? 🧐 #BOE #Opacidad #Transparencia #Alicante",
+    "banderas_red_flags": [
+      "Plaza única con alto potencial de discrecionalidad",
+      "Información fragmentada entre BOE y BOP",
+      "Ausencia de memoria económica asociada en el extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores sin experiencia previa (beneficiados por el turno libre)",
+        "Academias de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Personal interino que no ve valorada su experiencia",
+        "Ciudadanos que exigen máxima claridad presupuestaria en el BOE"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Seguridad",
+    "banderas_rojas": [
+      "Plaza única con alto potencial de discrecionalidad",
+      "Información fragmentada entre BOE y BOP",
+      "Ausencia de memoria económica asociada en el extracto"
+    ]
+  },
+  "tweeted": false
+}
