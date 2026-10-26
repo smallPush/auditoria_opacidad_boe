@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22302",
+  "timestamp": "2026-10-26T18:21:57.464Z",
+  "title": "Acuerdo de 20 de octubre de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se resuelve el concurso convocado por Acuerdo de 2 de junio de 2026, en la Escuela Judicial.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento formaliza un nombramiento de libre concurrencia técnica dentro del CGPJ. Aunque se menciona una comisión de valoración, el BOE solo publica el resultado final sin desglosar la baremación de méritos que llevó a la selección de Purificación Sánchez frente a los suplentes. Existe un riesgo de opacidad corporativa en la Escuela Judicial al no detallarse los criterios de idoneidad específicos para esta Jefatura de Unidad.",
+    "resumen_ciudadano": "Se ha resuelto el concurso para la Jefatura de Unidad en el Servicio de Formación Continua de la Escuela Judicial. La plaza ha sido adjudicada a Purificación Sánchez Criado, funcionaria de carrera, con dos suplentes designados por orden de puntuación. El proceso sigue la normativa de delegación de competencias del CGPJ.",
+    "resumen_tweet": "⚖️ Adjudicada la Jefatura de Formación en la Escuela Judicial. Purificación Sánchez Criado se impone en un concurso de méritos donde los detalles de la puntuación brillan por su ausencia. ¿Mérito o inercia institucional? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de baremación detallada de méritos en el texto publicado",
+      "Delegación de competencias del Pleno a la Permanente para nombramientos clave",
+      "Opacidad en el criterio de selección de la comisión de valoración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Purificación Sánchez Criado",
+        "Cuerpo de Gestión de la Administración Civil del Estado"
+      ],
+      "perdedores": [
+        "Juan Antonio Lozano Pastilla (Reserva 1)",
+        "Marta Marín Pérez (Reserva 2)",
+        "Candidatos externos al funcionariado estatal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de baremación detallada de méritos en el texto publicado",
+      "Delegación de competencias del Pleno a la Permanente para nombramientos clave",
+      "Opacidad en el criterio de selección de la comisión de valoración"
+    ]
+  },
+  "tweeted": false
+}
