@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-22303",
+  "timestamp": "2026-10-26T18:38:07.662Z",
+  "title": "Resolución de 15 de octubre de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 12 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento refleja la adjudicación de un puesto mediante 'libre designación', un eufemismo legal para la elección discrecional (dedocracia). Se asigna una jefatura de negociado de visados en un punto migratorio crítico como Dakar (Senegal) a una funcionaria proveniente de la Agencia Tributaria. Aunque legal bajo la Ley 30/1984, este sistema elude el concurso de méritos, priorizando la confianza política o personal sobre la competencia técnica evaluable públicamente. La 'resolución parcial' contribuye a una fiscalización ciudadana fragmentada y opaca.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha nombrado discretamente a la nueva responsable de visados en el Consulado de Dakar, Senegal. En lugar de un proceso donde gane el mejor currículum, se ha utilizado el sistema de libre designación para trasladar a una funcionaria desde la Agencia Tributaria de Barcelona a una posición sensible en el extranjero.",
+    "resumen_tweet": "🚨 Nueva adjudicación 'a dedo' en el #BOE. El Ministerio de Exteriores asigna la gestión de visados en Dakar mediante libre designación. ¿Por qué se evita el concurso de méritos en puestos tan sensibles? 📉🔎 #Opacidad #Transparencia #Exteriores",
+    "banderas_red_flags": [
+      "Sistema de Libre Designación (Discrecionalidad)",
+      "Resolución parcial de convocatoria",
+      "Puesto de sensibilidad migratoria asignado sin concurso de méritos",
+      "Opacidad en los criterios de selección específicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adjudicataria (traslado a puesto internacional de libre designación)",
+        "Ministerio de Asuntos Exteriores (mantiene control discrecional sobre el personal)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera (excluidos de un proceso de méritos transparente)",
+        "Ciudadanía (pérdida de confianza en la neutralidad de los nombramientos públicos)",
+        "Candidatos con mejores méritos técnicos no valorados"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de Libre Designación (Discrecionalidad)",
+      "Resolución parcial de convocatoria",
+      "Puesto de sensibilidad migratoria asignado sin concurso de méritos",
+      "Opacidad en los criterios de selección específicos"
+    ]
+  },
+  "tweeted": false
+}
