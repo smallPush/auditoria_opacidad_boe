@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-22313",
+  "timestamp": "2026-10-26T18:39:10.071Z",
+  "title": "Orden CLT/1117/2026, de 13 de octubre, por la que renuevan, cesan y nombran vocales del Real Patronato del Museo Nacional Centro de Arte Reina Sofía.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden CLT/1117/2026 ejecuta una renovacion significativa en el Real Patronato del Museo Reina Sofia. Aunque se ampara en la Ley 34/2011, la designacion de vocales bajo el criterio de 'reconocido prestigio' o 'servicios al Museo' es inherentemente subjetiva. Un punto critico es el articulo 6.2.b del Estatuto citado, que permite el nombramiento de vocales por realizar 'aportaciones economicas', lo que abre la puerta a una gobernanza de elite basada en la capacidad financiera mas que en el merito intelectual o tecnico. En esta ocasion, se observa una clara apuesta por perfiles femeninos, lo que podria responder a una correccion de desequilibrios previos, pero el cese de una exministra y la incorporacion de nuevos nombres se realiza sin una memoria justificativa publica sobre los perfiles seleccionados.",
+    "resumen_ciudadano": "El Ministerio de Cultura ha cambiado a parte de los directivos (vocales) del Museo Reina Sofia. Ha cesado a la exministra Angeles Gonzalez-Sinde y ha nombrado a siete nuevas mujeres expertas en arte. Estos puestos son clave porque deciden el futuro del museo mas importante de arte contemporaneo de España. La ley permite que personas que donan dinero al museo puedan ocupar estos asientos, lo que genera dudas sobre si se prima el talento o la billetera.",
+    "resumen_tweet": "🏛️ Renovacion en el @museoreinasofia: Ernest Urtasun nombra a 7 nuevas vocales. ¿Criterios claros o discrecionalidad? La ley permite el acceso al Patronato por 'donaciones economicas'. ¡Vigilancia ante la elite cultural! 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Acceso a cargos publicos condicionado a aportaciones economicas",
+      "Ambiguedad en el concepto de 'reconocido prestigio'",
+      "Falta de transparencia en los meritos especificos de los nuevos nombramientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Tania Ballo Colell",
+        "Laura Garcia de los Rios",
+        "Concepcion Lomba Serrano",
+        "Eva Lootz Pater",
+        "Maria Lopez-Fanjul",
+        "Cristina de Middel",
+        "Maria Fuensanta Nieto"
+      ],
+      "perdedores": [
+        "Angeles Gonzalez-Sinde Reig",
+        "Transparencia en procesos de seleccion publica"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Acceso a cargos publicos condicionado a aportaciones economicas",
+      "Ambiguedad en el concepto de 'reconocido prestigio'",
+      "Falta de transparencia en los meritos especificos de los nuevos nombramientos"
+    ]
+  },
+  "tweeted": false
+}
