@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22471",
+  "timestamp": "2026-10-27T18:06:09.114Z",
+  "title": "Resolución de 19 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza la relevancia de la negociación de la Política Agrícola Común (PAC) como pretexto para acelerar un nombramiento por el sistema de 'libre designación'. Este mecanismo, aunque legal, es la forma más opaca de provisión de puestos, permitiendo la selección discrecional (el conocido 'dedazo') para un Nivel 29, el escalafón más alto antes de los cargos electos o de confianza directa. Se detecta una falta de criterios de baremación públicos, limitándose a enumerar méritos subjetivos que el órgano competente valorará a su arbitrio.",
+    "resumen_ciudadano": "El Ministerio de Agricultura convoca un puesto de Consejero en Bruselas con un complemento específico de 24.549,84 euros anuales (además del sueldo base y dietas por residencia en el extranjero). La selección no se hará por examen ni méritos objetivos puntuables, sino por elección directa del Ministerio entre funcionarios del subgrupo A1 que lo soliciten.",
+    "resumen_tweet": "🚨 ¡Puesto de Nivel 29 en Bruselas a dedo! El Ministerio de Agricultura convoca plaza con +24.500€ de complemento específico mediante 'libre designación'. La PAC sirve de excusa para la discrecionalidad. 🇪🇺💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (nombramiento discrecional)",
+      "Nivel de alta dirección (29)",
+      "Complemento específico elevado (24.549,84€)",
+      "Justificación de urgencia política para evitar vacantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del subgrupo A1 con perfil político/diplomático",
+        "Círculo de confianza de la Subsecretaría de Agricultura"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos superiores pero sin red de contactos",
+        "Ciudadanía, que sufraga puestos de alta dirección sin procesos de mérito y capacidad competitivos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Servicios en el Exterior - Bruselas)",
+    "tipologia": "Provisión de puestos de trabajo por libre designación",
+    "banderas_rojas": [
+      "Libre designación (nombramiento discrecional)",
+      "Nivel de alta dirección (29)",
+      "Complemento específico elevado (24.549,84€)",
+      "Justificación de urgencia política para evitar vacantes"
+    ]
+  },
+  "tweeted": false
+}
