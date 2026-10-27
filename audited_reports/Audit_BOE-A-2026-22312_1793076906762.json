@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-22312",
+  "timestamp": "2026-10-27T04:55:06.762Z",
+  "title": "Resolución de 16 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 27 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla adjudicaciones de puestos de alta dirección (niveles 29 y 30) mediante el sistema de 'libre designación', un mecanismo legal que permite la elección discrecional de personal basándose en la confianza y no estrictamente en el mérito competitivo. Se observa una endogamia corporativa, ya que todos los seleccionados pertenecen al Cuerpo de Ingenieros Agrónomos del Estado y ya ocupaban puestos de alto nivel en el mismo ministerio. La declaración de un puesto de Jefe de Gabinete como 'desierto' es una táctica habitual cuando el candidato deseado no cumple los requisitos temporales o se reserva la plaza para un perfil externo específico en el futuro.",
+    "resumen_ciudadano": "El Ministerio de Agricultura ha asignado puestos de asesoría y coordinación con los sueldos más altos de la administración (Nivel 30) a tres funcionarias. Aunque el proceso es público, la elección es 'a dedo' entre funcionarios, favoreciendo la continuidad de las mismas élites técnicas en los puestos de poder del Ministerio.",
+    "resumen_tweet": "🚨 Dedazos legales en el Ministerio de Agricultura. Se adjudican puestos de nivel 30 mediante 'libre designación'. Todo queda en casa: Ingenieros Agrónomos del Estado rotando en la cúpula. ¿Meritocracia o confianza política? #BOE #Opacidad #Transparencia 🚜",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 30) declarado desierto sin justificación",
+      "Endogamia en la procedencia de los candidatos",
+      "Concentración de poder en el Cuerpo de Ingenieros Agrónomos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Elena Boy Carmona",
+        "Catalina Sanz Sanz",
+        "Maria Lopez de la Calle",
+        "Cuerpo de Ingenieros Agrónomos del Estado"
+      ],
+      "perdedores": [
+        "Candidatos externos al círculo de confianza ministerial",
+        "Transparencia en el mérito y capacidad",
+        "Funcionarios de otros cuerpos técnicos de la administración"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 30) declarado desierto sin justificación",
+      "Endogamia en la procedencia de los candidatos",
+      "Concentración de poder en el Cuerpo de Ingenieros Agrónomos"
+    ]
+  },
+  "tweeted": false
+}
