@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-22310",
+  "timestamp": "2026-10-27T04:52:12.116Z",
+  "title": "Resolución de 20 de octubre de 2026, de la Dirección de la Agencia Estatal Boletín Oficial del Estado, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de altos cargos. La posición es un Nivel 29, el penúltimo escalón de la administración pública, con un complemento específico superior a los 24.500 euros anuales, que se suma al sueldo base de un A1. Aunque se especifican los datos de la adjudicataria, el sistema no explica los méritos específicos comparativos frente a otros candidatos, perpetuando el modelo de 'puestos de confianza' en áreas técnicas como la seguridad informática.",
+    "resumen_ciudadano": "Se ha nombrado de forma directa a una nueva Subdirectora Adjunta para el Departamento de Tecnologías de la Información del BOE. Este cargo es de alta dirección, con un nivel de responsabilidad casi máximo (Nivel 29) y un sobresueldo específico de 24.549 euros al año. El proceso se realiza 'a dedo' entre funcionarios del grupo A1, sin una competición pública basada puramente en méritos objetivos evaluables.",
+    "resumen_tweet": "🚨 ¿Meritocracia o dedazo? El #BOE adjudica un puesto Nivel 29 con +24.500€ de complemento específico mediante 'libre designación'. Otro cargo de alta dirección decidido de forma discrecional. 📉 #Opacidad #Transparencia #AdministraciónPública",
+    "banderas_red_flags": [
+      "Libre designación (elección discrecional)",
+      "Nivel 29 (rango superior)",
+      "Complemento específico de alta cuantía",
+      "Falta de justificación de méritos comparativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Josefa Vizoso Villares",
+        "Élite funcionarial (Grupo A1)"
+      ],
+      "perdedores": [
+        "Candidatos por concurso de méritos",
+        "Transparencia en el gasto público",
+        "Igualdad de oportunidades competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Libre designación (elección discrecional)",
+      "Nivel 29 (rango superior)",
+      "Complemento específico de alta cuantía",
+      "Falta de justificación de méritos comparativos"
+    ]
+  },
+  "tweeted": false
+}
