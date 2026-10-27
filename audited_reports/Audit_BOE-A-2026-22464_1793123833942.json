@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22464",
+  "timestamp": "2026-10-27T17:57:13.942Z",
+  "title": "Resolución de 16 de octubre de 2026, de la Universidad de Málaga, por la que se nombra Catedrática de Universidad a doña Aurora Garrido Moreno.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal docente tras concurso-oposición. El texto sigue la estandarización de la LOSU 2023, pero incurre en la habitual opacidad sobre el coste real de la plaza al citar 'emolumentos correspondientes' sin detallar el impacto presupuestario anual. El área de 'Organización de Empresas' es estratégica para la transferencia de conocimiento al sector privado, aunque no se especifica si la plaza conlleva dotación extra para investigación.",
+    "resumen_ciudadano": "La Universidad de Málaga ha oficializado el nombramiento de doña Aurora Garrido Moreno como Catedrática en el área de Organización de Empresas tras superar el proceso selectivo correspondiente. Es un trámite habitual de promoción en la carrera académica funcionarial.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la Universidad de Málaga: Aurora Garrido Moreno. El #BOE publica su nombramiento tras el concurso de julio. Seguimos con la opacidad habitual: ¿cuánto nos cuesta esta plaza? Sin cifras en el boletín. #Transparencia #UMA #BOE",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía exacta del salario y complementos",
+      "Falta de desglose de la partida presupuestaria específica",
+      "Ausencia de información sobre el tribunal evaluador en este extracto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aurora Garrido Moreno (ascenso profesional)",
+        "Universidad de Málaga (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso",
+        "Ciudadanía (desconocimiento del coste público del puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de funcionario docente",
+    "banderas_rojas": [
+      "Opacidad en la cuantía exacta del salario y complementos",
+      "Falta de desglose de la partida presupuestaria específica",
+      "Ausencia de información sobre el tribunal evaluador en este extracto"
+    ]
+  },
+  "tweeted": false
+}
