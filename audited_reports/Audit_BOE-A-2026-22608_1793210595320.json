@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-22608",
+  "timestamp": "2026-10-28T18:03:15.320Z",
+  "title": "Real Decreto 949/2026, de 28 de octubre, por el que se declara luto oficial por los fallecidos en el accidente ferroviario acaecido en Urda (Toledo).",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "Aunque la declaración de luto es un acto protocolario estándar, el documento adolece de una total falta de transparencia operativa. Se centra en el simbolismo (banderas a media asta) para canalizar el duelo público, pero omite cualquier referencia a partidas presupuestarias extraordinarias para las víctimas, fondos para la investigación del siniestro o planes de contingencia para la infraestructura ferroviaria en Toledo.",
+    "resumen_ciudadano": "El Gobierno declara oficialmente tres días de luto nacional (del 29 al 31 de octubre de 2026) por las víctimas del accidente de tren en Urda, Toledo. Durante este periodo, las banderas en edificios públicos y barcos de la Armada ondearán a media asta.",
+    "resumen_tweet": "🚩 El #BOE publica luto oficial por la tragedia ferroviaria en Urda. 3 días de banderas a media asta 🇪🇸. Mucho simbolismo institucional, pero 0 menciones a ayudas económicas o seguridad ferroviaria. ¿Protocolo o cortina de humo? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica",
+      "Falta de mención a comisiones de investigación técnica",
+      "Inexistencia de medidas de reparación inmediata a las familias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Instituciones del Estado (proyectan imagen de empatía y control mediante protocolo)"
+      ],
+      "perdedores": [
+        "Ciudadanos y víctimas (reciben simbolismo en lugar de compromisos financieros o mejoras en seguridad de infraestructuras)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Real Decreto de Luto Oficial",
+    "banderas_rojas": [
+      "Ausencia de memoria económica",
+      "Falta de mención a comisiones de investigación técnica",
+      "Inexistencia de medidas de reparación inmediata a las familias"
+    ]
+  },
+  "tweeted": false
+}
