@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22466",
+  "timestamp": "2026-10-28T05:32:48.151Z",
+  "title": "Resolución de 19 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en la Abogacía General del Estado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de una convocatoria para la provisión de puestos en la Abogacía General del Estado. Aunque formalmente cumple con la normativa, presenta la estructura clásica de opacidad administrativa mediante el uso de 'méritos específicos' (Fase II), que permiten un margen de discrecionalidad técnica superior a los méritos generales. La obligación de tramitación exclusivamente electrónica, salvo excepciones muy rígidas, supone una barrera de acceso. Además, el sistema de puntuación para conciliación penaliza la promoción profesional, ya que solo se otorga si el puesto solicitado es de igual o menor nivel al actual, obligando al funcionario a elegir entre cuidar a su familia o ascender.",
+    "resumen_ciudadano": "Convocatoria para cubrir 34 plazas fijas y 6 vacantes adicionales en la Abogacía General del Estado. El proceso se divide en dos fases: una de méritos generales (antigüedad, grado) y otra de méritos específicos. Se incluyen puntos por conciliación familiar y por formación en igualdad, aunque el diseño del concurso favorece la continuidad de quienes ya están en puestos similares.",
+    "resumen_tweet": "⚖️ ¿Movilidad o estancamiento? El #BOE publica 40 plazas para la Abogacía del Estado. El sistema de 'méritos específicos' y las trabas en conciliación familiar dificultan la verdadera promoción. ¡La burocracia sigue blindada! 🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la valoración de méritos específicos",
+      "Exclusión de puntos de conciliación para promociones de nivel",
+      "Dependencia de certificaciones expedidas por jefes directos (Anexo IV)",
+      "Barreras de acceso por tramitación electrónica obligatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con antigüedad en el Ministerio de Justicia",
+        "Personal con buena relación jerárquica para la firma de certificados específicos",
+        "Candidatos con cursos realizados en los últimos 10 años en centros oficiales"
+      ],
+      "perdedores": [
+        "Funcionarios externos de otras Administraciones que deseen movilidad",
+        "Mujeres o hombres que busquen ascenso profesional simultáneo a la conciliación",
+        "Personal con dificultades técnicas para el uso del Portal Funciona"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público y Provisión de Puestos",
+    "banderas_rojas": [
+      "Discrecionalidad en la valoración de méritos específicos",
+      "Exclusión de puntos de conciliación para promociones de nivel",
+      "Dependencia de certificaciones expedidas por jefes directos (Anexo IV)",
+      "Barreras de acceso por tramitación electrónica obligatoria"
+    ]
+  },
+  "tweeted": false
+}
