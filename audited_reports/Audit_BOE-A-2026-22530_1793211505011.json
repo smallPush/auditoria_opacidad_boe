@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22530",
+  "timestamp": "2026-10-28T18:18:25.011Z",
+  "title": "Real Decreto 935/2026, de 27 de octubre, por el que se dispone el cese de don Francisco Martín Aguirre como Delegado del Gobierno en la Comunidad de Madrid.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El cese de un Delegado del Gobierno en una plaza tan estratégica como Madrid se presenta bajo una fórmula protocolaria que oculta cualquier motivación política o de rendimiento. La ausencia de una justificación técnica o política en el texto evidencia la naturaleza discrecional de estos cargos, donde la rendición de cuentas ante el ciudadano es nula. Este tipo de movimientos suelen preceder a crisis institucionales o reestructuraciones de cara a ciclos electorales, sin que se informe del impacto económico en términos de indemnizaciones por cese.",
+    "resumen_ciudadano": "Se oficializa la salida de Francisco Martín Aguirre de su cargo como Delegado del Gobierno en la Comunidad de Madrid. El documento no explica las razones del cese ni quién asumirá las funciones de coordinación de seguridad y representación estatal en la región, limitándose a un agradecimiento formal.",
+    "resumen_tweet": "🔴 Cese en el #BOE: Francisco Martín Aguirre deja la Delegación del Gobierno en Madrid. ¿Reestratificación política o crisis de gestión? Silencio absoluto sobre los motivos. La transparencia brilla por su ausencia. 🕵️‍♂️⚖️ #Opacidad #Madrid #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de motivación del cese",
+      "Opacidad en la transición de poder",
+      "Falta de desglose de posibles indemnizaciones post-cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura interna del partido (renovación de perfiles)",
+        "Futuro sucesor en la plaza estratégica de Madrid"
+      ],
+      "perdedores": [
+        "Ciudadanía (falta de información sobre el relevo)",
+        "Francisco Martín Aguirre (pérdida de cuota de poder ejecutivo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Ausencia de motivación del cese",
+      "Opacidad en la transición de poder",
+      "Falta de desglose de posibles indemnizaciones post-cargo"
+    ]
+  },
+  "tweeted": false
+}
