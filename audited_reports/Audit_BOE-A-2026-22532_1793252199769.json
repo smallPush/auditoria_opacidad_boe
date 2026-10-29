@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22532",
+  "timestamp": "2026-10-29T05:36:39.769Z",
+  "title": "Real Decreto 937/2026, de 27 de octubre, por el que se nombra Delegada del Gobierno en la Comunidad de Madrid a doña María Pilar Trinidad Núñez.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento es un ejemplo de nombramiento discrecional basado en la libre designación conforme a la Ley 40/2015. Existe una opacidad absoluta sobre los méritos específicos de la nombrada en el texto publicado, lo que imposibilita la fiscalización ciudadana sobre la idoneidad técnica frente a la lealtad política. No hay rastro de proceso competitivo ni transparencia en los criterios de selección.",
+    "resumen_ciudadano": "Se ha designado a María Pilar Trinidad Núñez como la nueva representante del Gobierno central en Madrid. Este cargo es de confianza política y se otorga sin que el BOE explique por qué ella es la persona más capacitada para el puesto.",
+    "resumen_tweet": "🚨 Nuevo dedazo en el #BOE. María Pilar Trinidad Núñez, nombrada Delegada del Gobierno en Madrid sin mención a méritos ni proceso público. La 'libre designación' sigue blindando la opacidad en altos cargos. 📉 #Transparencia #Opacidad #Madrid",
+    "banderas_red_flags": [
+      "Nombramiento discrecional (dedocracia)",
+      "Ausencia de justificación técnica",
+      "Falta de CV o méritos en la publicación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Pilar Trinidad Núñez (acceso a puesto de alta dirección pública)",
+        "Presidencia del Gobierno (consolidación de cuadros de confianza)"
+      ],
+      "perdedores": [
+        "Cuerpo de funcionarios (limitación de carrera por mérito)",
+        "Ciudadanía (desconocimiento de la idoneidad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos y ceses de altos cargos",
+    "banderas_rojas": [
+      "Nombramiento discrecional (dedocracia)",
+      "Ausencia de justificación técnica",
+      "Falta de CV o méritos en la publicación"
+    ]
+  },
+  "tweeted": false
+}
