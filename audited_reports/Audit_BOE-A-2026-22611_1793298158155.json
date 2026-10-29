@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-22611",
+  "timestamp": "2026-10-29T18:22:38.155Z",
+  "title": "Real Decreto 920/2026, de 28 de octubre, por el que se regula la concesión directa de subvenciones a Administraciones Públicas y otras entidades para la ejecución de actuaciones de relevancia deportiva y de interés público durante el ejercicio 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 920/2026 utiliza la figura de la 'concesión directa' de forma extensiva, lo que constituye un bypass sistemático a los principios de concurrencia competitiva y publicidad. Bajo el paraguas de 'excepcionalidad' y 'razones de interés público', se financian desde infraestructuras críticas como el Hospital de Parapléjicos hasta entidades privadas como Unipublic (organizadora de La Vuelta) y la Fundación Real Club de Polo. Se detecta una 'autosubvención' encubierta al Grupo Recreativo Cultural del CSD, lo cual supone que el propio organismo estatal se concede fondos a su club social interno. Si bien la profesionalización del deporte femenino es un eje ideológico fuerte y legítimo, el uso recurrente de la asignación directa erosiona la transparencia presupuestaria.",
+    "resumen_ciudadano": "El Gobierno ha aprobado el reparto de subvenciones directas para 2026 a diversas entidades deportivas sin concurso público. Los fondos cubren desde los gastos de viaje de deportistas insulares hasta el mantenimiento del CAR de Sant Cugat y la profesionalización del fútbol y baloncesto femenino. Sin embargo, también se incluyen partidas para empresas privadas y para el club recreativo de los propios empleados del Consejo Superior de Deportes.",
+    "resumen_tweet": "🚨 Nueva lluvia de subvenciones 'a dedo' en el #BOE. Bajo la excusa de la excepcionalidad, se reparten fondos a empresas privadas y hasta al club social del CSD. Menos competencia y más opacidad en el gasto deportivo. 📉 #Opacidad #Transparencia #Deporte",
+    "banderas_red_flags": [
+      "Uso abusivo de la concesión directa sin competencia",
+      "Autosubvención a entidades vinculadas al propio CSD",
+      "Financiación directa a sociedades anónimas con ánimo de lucro (Unipublic SAU)",
+      "Falta de desglose presupuestario exacto por partida en el texto base"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Unipublic SAU",
+        "Liga Femenina de Fútbol",
+        "Fundación Real Club de Polo de Barcelona",
+        "Federación Española de Baloncesto",
+        "Personal del CSD"
+      ],
+      "perdedores": [
+        "Clubes deportivos de base sin acceso a subvenciones directas",
+        "Contribuyentes por falta de licitación competitiva",
+        "Federaciones pequeñas no incluidas en el decreto"
+      ]
+    },
+    "comunidad_autonoma": "España (Multiautonómico)",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Uso abusivo de la concesión directa sin competencia",
+      "Autosubvención a entidades vinculadas al propio CSD",
+      "Financiación directa a sociedades anónimas con ánimo de lucro (Unipublic SAU)",
+      "Falta de desglose presupuestario exacto por partida en el texto base"
+    ]
+  },
+  "tweeted": false
+}
