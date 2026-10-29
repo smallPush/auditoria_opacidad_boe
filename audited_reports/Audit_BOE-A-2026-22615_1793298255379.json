@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22615",
+  "timestamp": "2026-10-29T18:24:15.379Z",
+  "title": "Real Decreto 926/2026, de 28 de octubre, por el que se regulan determinados aspectos relativos a los biocarburantes, biolíquidos y combustibles de biomasa utilizados para la producción de energía, y por el que se modifican diversos reales decretos en la materia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 926/2026 presenta una dualidad técnica y política. Bajo el barniz de la sostenibilidad europea y el 'uso en cascada', oculta un blindaje de subsidios para la quema de biomasa en territorios políticamente sensibles (Zonas de Transición Justa). La reducción del umbral de control a 7.5 MW aumenta la carga administrativa para pequeños operadores mientras mantiene privilegios para grandes instalaciones eléctricas en regiones específicas. El concepto de 'uso en cascada' es teóricamente impecable pero flexible en la práctica mediante excepciones por 'condiciones de mercado local', lo que permite seguir quemando madera de calidad si no hay industria cerca, desincentivando la creación de valor añadido.",
+    "resumen_ciudadano": "Esta norma regula cómo se puede usar la madera y otros restos orgánicos para generar energía. Aunque dice priorizar el reciclaje sobre la quema, permite excepciones para seguir dando dinero público a plantas eléctricas de biomasa en zonas de minería de carbón cerrada (Asturias, León, etc.) y Canarias. Además, obliga a instalaciones más pequeñas a cumplir controles de emisiones que antes solo pasaban las grandes.",
+    "resumen_tweet": "⚠️ ¿Sostenibilidad o parche político? El nuevo RD de Biomasa reduce controles a 7.5MW pero blinda ayudas para quemar madera en 'zonas de transición'. El 'uso en cascada' tiene letra pequeña. 🪵🔥 #BOE #Opacidad #Transparencia #Biomasa",
+    "banderas_red_flags": [
+      "Excepciones geográficas discrecionales para ayudas financieras",
+      "Concepto ambiguo de 'industria local' a 100km para permitir quema de madera industrial",
+      "Mecanismos de 'apoyo financiero directo' sin cuantía máxima especificada en el texto",
+      "Riesgo de fraude en los sistemas de verificación de sostenibilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes eléctricas en zonas de Transición Justa (Asturias, León, Teruel, Cádiz)",
+        "Empresas de captura y almacenamiento de CO2",
+        "Entidades de verificación y auditoría de sostenibilidad"
+      ],
+      "perdedores": [
+        "Pequeñas plantas de biomasa (nuevas exigencias desde 7.5 MW)",
+        "Industria del mueble y tableros (competencia por la materia prima)",
+        "Biodiversidad forestal en zonas con 'excepciones por plagas'"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (con impacto específico en Asturias, Castilla y León, Galicia, Aragón, Andalucía, Canarias e Islas Baleares)",
+    "tipologia": "Regulación energética y Transposición de Directiva Europea",
+    "banderas_rojas": [
+      "Excepciones geográficas discrecionales para ayudas financieras",
+      "Concepto ambiguo de 'industria local' a 100km para permitir quema de madera industrial",
+      "Mecanismos de 'apoyo financiero directo' sin cuantía máxima especificada en el texto",
+      "Riesgo de fraude en los sistemas de verificación de sostenibilidad"
+    ]
+  },
+  "tweeted": false
+}
