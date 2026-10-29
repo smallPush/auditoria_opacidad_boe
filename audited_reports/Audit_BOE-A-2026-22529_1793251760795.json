@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22529",
+  "timestamp": "2026-10-29T05:29:20.795Z",
+  "title": "Real Decreto 934/2026, de 27 de octubre, por el que se dispone el cese de don Alfonso Luis Rodríguez Badal como Delegado del Gobierno en la Comunidad Autónoma de las Illes Balears.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa el uso recurrente de la formula protocolaria 'agradeciéndole los servicios prestados', la cual funciona como una cortina de humo legislativa que impide conocer la causa real del cese (dimisión, destitución por mala gestión o reestructuración política). La falta de una memoria de desempeño adjunta vulnera el principio de rendición de cuentas ante la ciudadanía de las Illes Balears.",
+    "resumen_ciudadano": "El Gobierno ha oficializado la salida de Alfonso Luis Rodríguez Badal como su representante en Baleares. Como es habitual en estos decretos, no se explican los motivos del relevo ni se detalla el coste que suponen las posibles indemnizaciones por cese para las arcas públicas.",
+    "resumen_tweet": "🕵️‍♂️ Nuevo cese en el #BOE: Alfonso Luis Rodríguez Badal deja de ser Delegado del Gobierno en Baleares. Sin explicaciones ni rendición de cuentas sobre su gestión. ¿Cuánto nos cuesta este baile de sillas? 💸 #Opacidad #Transparencia #Baleares",
+    "banderas_red_flags": [
+      "Ausencia de motivación del acto administrativo",
+      "Opacidad en el coste de indemnizaciones por cese (cesantías)",
+      "Uso de lenguaje protocolario para evitar la rendición de cuentas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructura política central (capacidad de reestructuración sin dar explicaciones)",
+        "Próximo designado para el cargo"
+      ],
+      "perdedores": [
+        "Ciudadanía balear (desconocimiento del balance de gestión)",
+        "Contribuyentes (asunción de costes de transición de altos cargos)"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears",
+    "tipologia": "Nombramientos y Ceses de Altos Cargos",
+    "banderas_rojas": [
+      "Ausencia de motivación del acto administrativo",
+      "Opacidad en el coste de indemnizaciones por cese (cesantías)",
+      "Uso de lenguaje protocolario para evitar la rendición de cuentas"
+    ]
+  },
+  "tweeted": false
+}
