@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22541",
+  "timestamp": "2026-10-29T05:51:52.185Z",
+  "title": "Orden PJC/1128/2026, de 19 de octubre, por la que se otorga destino a personal funcionario del Cuerpo de Auxilio Judicial de la Administración de Justicia, que superó el proceso selectivo extraordinario para el acceso, por el sistema de concurso-oposición, turno libre, convocado por Orden JUS/1327/2022, de 28 de diciembre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla la adjudicación de plazas para el Cuerpo de Auxilio Judicial derivadas de una convocatoria de 2022, lo que revela una demora administrativa de 4 años para formalizar nombramientos de nivel básico. Si bien la lista de adjudicatarios es pública y detallada, el sistema perpetúa una rigidez burocrática notable al obligar a un periodo de carencia de dos años antes de permitir traslados. Se observa el uso del sistema de estabilización para reducir la interinidad, pero a costa del cese inmediato de trabajadores temporales sin periodos de transición claros.",
+    "resumen_ciudadano": "Se han asignado destinos definitivos a los nuevos funcionarios del Cuerpo de Auxilio Judicial que aprobaron las oposiciones convocadas en 2022. Estos trabajadores se incorporarán principalmente a órganos centrales como el Tribunal Supremo y la Fiscalía General en Madrid. El proceso implica que las personas que ocupaban estos puestos de forma interina deben dejar su empleo el mismo día que lleguen los nuevos titulares.",
+    "resumen_tweet": "⚖️ ¡Por fin! 4 años después de la convocatoria, el #BOE publica los destinos para Auxilio Judicial. Estabilidad para unos, cese para los interinos que ocupaban las plazas. La justicia es lenta hasta para su propio personal. 🐢🏢 #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Lentitud administrativa extrema (Convocatoria 2022 - Resolución 2026)",
+      "Cese automático de personal interino sin preaviso compensatorio en el texto",
+      "Bloqueo de movilidad geográfica por un periodo de dos años (carácter forzoso)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera recién nombrados",
+        "Tribunal Supremo (estabilización de plantilla)",
+        "Ministerio de Justicia (reducción de tasa de interinidad)"
+      ],
+      "perdedores": [
+        "Personal interino cesado",
+        "Funcionarios con deseos de movilidad geográfica inmediata",
+        "Administración Pública por la excesiva duración del proceso selectivo"
+      ]
+    },
+    "comunidad_autonoma": "Madrid (Órganos Centrales)",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Lentitud administrativa extrema (Convocatoria 2022 - Resolución 2026)",
+      "Cese automático de personal interino sin preaviso compensatorio en el texto",
+      "Bloqueo de movilidad geográfica por un periodo de dos años (carácter forzoso)"
+    ]
+  },
+  "tweeted": false
+}
