@@ -1,0 +1,43 @@
+{
+  "boe_id": "BOE-A-2026-22620",
+  "timestamp": "2026-10-29T18:25:35.582Z",
+  "title": "Real Decreto 932/2026, de 28 de octubre, por el que se regula la concesión directa de subvenciones a determinadas entidades para actuaciones en el área de igualdad de trato y no discriminación y al Grupo Cooperativo Tangente para el desarrollo de actuaciones en el área de igualdad efectiva de mujeres y hombres.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' amparándose en una supuesta excepcionalidad por 'razones de interés público y humanitario'. Sin embargo, las actividades financiadas —asistencia en asentamientos, apoyo LGTBI+ y emprendimiento femenino— responden a problemas estructurales y crónicos, no a una emergencia sobrevenida. Esta técnica legislativa permite eludir los principios de publicidad y concurrencia competitiva, consolidando un ecosistema de entidades del Tercer Sector afines que reciben fondos sin competir con otros proyectos. Se detecta una 'ideologización del presupuesto' al seleccionar arbitrariamente a las entidades beneficiarias bajo el pretexto de que son las únicas capacitadas, sin ofrecer métricas objetivas que lo avalen.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la entrega de subvenciones directas (sin concurso público) a una lista específica de ONGs y asociaciones. El motivo alegado es la urgencia de atender a víctimas de racismo, personas LGTBI+ y fomentar el autoempleo femenino a través de la Escuela de Emprendedoras Juana Millán. Al ser una adjudicación a dedo, no se permite que otras asociaciones presenten mejores propuestas o presupuestos más ajustados.",
+    "resumen_tweet": "🚩 ¿Urgencia o dedazo? El Gobierno reparte subvenciones directas sin concurso público a entidades seleccionadas para temas de igualdad y racismo. Se usa la 'concesión directa' para evitar la competencia entre ONGs. 💸 #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso del concepto de 'urgencia' para problemas estructurales",
+      "Ausencia de desglose presupuestario en el preámbulo",
+      "Selección discrecional de entidades beneficiarias",
+      "Justificación de 'unicidad' de las entidades no demostrada"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cruz Roja Española",
+        "FELGTBI+",
+        "Federación Plataforma por los Derechos Trans",
+        "Grupo Cooperativo Tangente",
+        "Fundación CEPAIM",
+        "Andalucía Acoge"
+      ],
+      "perdedores": [
+        "Otras ONGs del sector sin acceso a financiación directa",
+        "Principios de eficiencia administrativa",
+        "Contribuyentes (por falta de comparación de costes)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso del concepto de 'urgencia' para problemas estructurales",
+      "Ausencia de desglose presupuestario en el preámbulo",
+      "Selección discrecional de entidades beneficiarias",
+      "Justificación de 'unicidad' de las entidades no demostrada"
+    ]
+  },
+  "tweeted": false
+}
