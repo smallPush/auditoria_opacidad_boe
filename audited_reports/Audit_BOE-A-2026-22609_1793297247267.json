@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22609",
+  "timestamp": "2026-10-29T18:07:27.267Z",
+  "title": "Enmienda al Anexo A del Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes, adoptada en Ginebra el 9 de mayo de 2025, mediante la Decisión SC-12/14.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el texto se presenta como una medida de protección ambiental bajo el Convenio de Estocolmo, el análisis revela una 'cláusula de escape' para la industria aeroespacial. La inclusión del UV-328 (un contaminante orgánico persistente) en la lista de sustancias prohibidas se ve socavada por una exención específica hasta 2030. Este tipo de enmiendas técnicas suelen ocultar la presión de lobbies industriales que consiguen prórrogas plurianuales para seguir utilizando compuestos químicos tóxicos bajo el argumento de la falta de alternativas en sistemas críticos de navegación y seguridad.",
+    "resumen_ciudadano": "Se ha oficializado la prohibición del contaminante tóxico UV-328, pero con una letra pequeña importante: las empresas de aviación tienen permiso para seguir usándolo en sus aviones (en pegamentos, aislantes y sistemas de control) hasta finales del año 2030. Mientras el ciudadano percibe un avance ecologista, la industria pesada asegura 4 años más de uso de sustancias peligrosas.",
+    "resumen_tweet": "✈️☣️ ¿Protección real o maquillaje verde? El #BOE publica una prórroga que permite a la industria aérea usar el contaminante tóxico UV-328 hasta 2030. La salud ambiental espera, los privilegios industriales no. #Opacidad #Transparencia #MedioAmbiente",
+    "banderas_red_flags": [
+      "Exención específica para un sector industrial de alto impacto",
+      "Dilatación de plazos hasta el año 2030",
+      "Uso de terminología química opaca para camuflar el impacto en la salud"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria aeronáutica",
+        "Fabricantes de componentes químicos",
+        "Mantenimiento militar y civil de aeronaves"
+      ],
+      "perdedores": [
+        "Salud pública (exposición a contaminantes persistentes)",
+        "Ecosistemas acuáticos y terrestres",
+        "Compromisos de eliminación inmediata de tóxicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional / Medio Ambiente",
+    "banderas_rojas": [
+      "Exención específica para un sector industrial de alto impacto",
+      "Dilatación de plazos hasta el año 2030",
+      "Uso de terminología química opaca para camuflar el impacto en la salud"
+    ]
+  },
+  "tweeted": false
+}
