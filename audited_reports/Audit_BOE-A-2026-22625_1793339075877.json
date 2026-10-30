@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22625",
+  "timestamp": "2026-10-30T05:44:35.877Z",
+  "title": "Orden TMD/1133/2026, de 26 de octubre, por la que se resuelve el proceso de selección para la designación de vocalías del Pleno del Consejo Superior de Fundaciones en representación de las fundaciones y se dispone su nombramiento.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La orden formaliza el nombramiento de vocales en el Consejo Superior de Fundaciones, un órgano consultivo clave para la regulación del sector. Se observa una persistente opacidad en los criterios de mérito específicos que llevaron a la selección de estos nombres sobre otros. Además, existe una notable falta de paridad de género en las vocalías titulares (100% hombres en esta resolución), relegando a la mujer a puestos de suplencia. El uso de fundaciones vinculadas a personalidades específicas sugiere una continuidad de las redes de influencia tradicionales en los órganos de asesoramiento estatal.",
+    "resumen_ciudadano": "El Gobierno ha designado a los nuevos representantes de las fundaciones que asesorarán al Ministerio en materia de políticas territoriales y memoria democrática. Estos cargos, con una duración de cuatro años, influyen en cómo se supervisan y regulan las fundaciones en España. El proceso se cierra tras haber quedado vacantes en convocatorias anteriores.",
+    "resumen_tweet": "🚨 Nuevos nombramientos en el Consejo Superior de Fundaciones. Poca transparencia en los méritos y 0% de mujeres entre los nuevos vocales titulares seleccionados. Las redes de influencia privada siguen marcando la agenda pública. 🧐💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de paridad de género en los nombramientos titulares",
+      "Falta de publicación de las puntuaciones o baremos comparativos de los candidatos",
+      "Concentración de influencia en fundaciones de perfil personalista o de élite",
+      "Reiteración de procesos por vacantes previas sin explicar el desinterés inicial o rechazos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundación Comunicando Futuro Alejandro Echevarría",
+        "Fundación Para la Protección de Personas con Minusvalía",
+        "Redes de influencia masculina en el sector fundacional"
+      ],
+      "perdedores": [
+        "Paridad de género en órganos consultivos estatales",
+        "Fundaciones pequeñas o de base sin representación en el Pleno",
+        "Ciudadanía que demanda procesos de selección basados en concurrencia competitiva visible"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Ausencia de paridad de género en los nombramientos titulares",
+      "Falta de publicación de las puntuaciones o baremos comparativos de los candidatos",
+      "Concentración de influencia en fundaciones de perfil personalista o de élite",
+      "Reiteración de procesos por vacantes previas sin explicar el desinterés inicial o rechazos"
+    ]
+  },
+  "tweeted": false
+}
