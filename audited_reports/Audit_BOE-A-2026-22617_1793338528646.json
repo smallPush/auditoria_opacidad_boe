@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-22617",
+  "timestamp": "2026-10-30T05:35:28.646Z",
+  "title": "Real Decreto 928/2026, de 28 de octubre, por el que se regula la concesión directa de subvenciones destinadas a la financiación de los contratos de concesión de obra para la promoción de vivienda destinada al alquiler asequible licitados por CASA 47 Entidad Pública Empresarial en el marco del Plan de Vivienda para el Alquiler Asequible del Ministerio de Vivienda y Agenda Urbana.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' de subvenciones (Art. 22.2.c Ley 38/2003) para evitar la concurrencia competitiva, amparándose en una 'urgencia' que parece más administrativa que social. Aunque se justifica como el 'quinto pilar del bienestar', el modelo profundiza en la privatización de la gestión del suelo público mediante concesiones de hasta 80 años. El uso de la figura del SIEG (Servicio de Interés Económico General) para rentas medias diluye el enfoque en los colectivos más vulnerables, priorizando la viabilidad económica de las constructoras sobre el impacto social directo. La exclusión expresa de estas ayudas del Plan Estratégico de Subvenciones 2025-2027 es una señal de alarma sobre la improvisación o la falta de control presupuestario previo.",
+    "resumen_ciudadano": "El Gobierno entregará 201,7 millones de euros en ayudas directas a empresas privadas para que construyan y gestionen 2.425 viviendas de alquiler 'asequible' en suelos públicos. Estas empresas podrán explotar el negocio durante 80 años. Se utiliza una vía de urgencia para saltarse los plazos habituales y los controles de publicidad en la concesión de las subvenciones, vinculándolas directamente a los contratos de obra de la nueva entidad CASA 47.",
+    "resumen_tweet": "🚨 Alerta #BOE: El Gobierno inyecta 201M€ en subvenciones DIRECTAS a constructoras para alquiler 'asequible'. Gestión privada de suelo público por 80 años. ¿Vivienda social o negocio garantizado? 🏗️📉 #Opacidad #Transparencia #Vivienda #CASA47",
+    "banderas_red_flags": [
+      "Concesión directa sin convocatoria pública",
+      "Tramitación administrativa de urgencia injustificada",
+      "Exclusión del Plan Estratégico de Subvenciones vigente",
+      "Plazo de concesión extraordinario de 80 años",
+      "Subvención vinculada a riesgo operacional mínimo para el privado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Constructoras y promotoras privadas",
+        "CASA 47 (Entidad Pública con nueva capacidad de gasto)",
+        "Hogares de rentas medias (beneficiarios del SIEG)"
+      ],
+      "perdedores": [
+        "Colectivos en exclusión extrema (se prioriza renta media)",
+        "Transparencia pública (por adjudicación directa)",
+        "Generaciones futuras (suelo bloqueado por 80 años)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Concesión directa sin convocatoria pública",
+      "Tramitación administrativa de urgencia injustificada",
+      "Exclusión del Plan Estratégico de Subvenciones vigente",
+      "Plazo de concesión extraordinario de 80 años",
+      "Subvención vinculada a riesgo operacional mínimo para el privado"
+    ]
+  },
+  "tweeted": false
+}
