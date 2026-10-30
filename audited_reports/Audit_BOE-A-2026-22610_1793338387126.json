@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22610",
+  "timestamp": "2026-10-30T05:33:07.126Z",
+  "title": "Orden PJC/1129/2026, de 28 de octubre, por la que se publica el Acuerdo del Consejo de Ministros de 27 de octubre de 2026, por el que se modifica el Acuerdo de 2 de diciembre de 2025, por el que se establecen obligaciones de servicio público al prestador del servicio postal universal en las elecciones a la Asamblea de Extremadura, que se celebrarán el día 21 de diciembre de 2025 y en las elecciones que se convoquen durante 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La orden introduce una nueva tarifa de 28,0667 euros por mesa electoral en concepto de 'entrega y recogida' de dispositivos de lectura QR para el sistema MiDNI. Resulta llamativo que este coste se desvincule de la tarifa general de recogida de documentación (52,54 euros), generando un posible sobrecoste logístico por un dispositivo que viaja en el mismo envío. Bajo la apariencia de modernización digital, se consolida una nueva partida de gasto para Correos sin detallar el volumen total de dispositivos ni su origen de fabricación, lo que podría ocultar un 'gasto fantasma' distribuido en miles de mesas.",
+    "resumen_ciudadano": "El Gobierno ha actualizado el contrato con Correos para las elecciones de Extremadura y las de 2026 para permitir el uso del DNI digital (MiDNI). A partir de ahora, Correos llevará y recogerá lectores de códigos QR en cada mesa electoral. Sin embargo, este servicio se cobrará de forma separada a un precio de 28 euros por mesa, lo que supone un incremento en el gasto público para implementar una tecnología que, en teoría, debería simplificar procesos.",
+    "resumen_tweet": "🗳️ ¿DNI digital con peaje? El #BOE publica que Correos cobrará 28,06€ extra por mesa solo por llevar y traer el lector de QR para #MiDNI. La digitalización suma costes en lugar de restarlos. 💸 ¿Eficiencia o sobrecoste? #Opacidad #Transparencia #Elecciones",
+    "banderas_red_flags": [
+      "Desglose tarifario sospechoso para logística unificada",
+      "Posible duplicidad en gastos de transporte",
+      "Ausencia de estimación del impacto presupuestario total",
+      "Implementación de tecnología MiDNI condicionada a hardware externo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sociedad Estatal Correos y Telégrafos (nueva vía de ingresos)",
+        "Proveedores de hardware de lectura QR",
+        "Ministerio del Interior (modernización aparente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el sobrecoste por mesa)",
+        "Ciudadanos afectados por la brecha digital",
+        "Presupuestos autonómicos de Extremadura"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Modificación de Obligaciones de Servicio Público y Tarifas Postales",
+    "banderas_rojas": [
+      "Desglose tarifario sospechoso para logística unificada",
+      "Posible duplicidad en gastos de transporte",
+      "Ausencia de estimación del impacto presupuestario total",
+      "Implementación de tecnología MiDNI condicionada a hardware externo"
+    ]
+  },
+  "tweeted": false
+}
