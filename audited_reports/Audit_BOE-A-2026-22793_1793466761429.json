@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22793",
+  "timestamp": "2026-10-31T17:12:41.429Z",
+  "title": "Orden SND/1150/2026, de 21 de octubre, por la que se corrigen errores en la Orden SND/1053/2026, de 1 de octubre, por la que se procede a la actualización en 2026 del sistema de precios de referencia de medicamentos en el Sistema Nacional de Salud.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Bajo la apariencia de una simple 'corrección de errores', el Ministerio de Sanidad eleva significativamente los precios de referencia de fármacos clave. El Metilfenidato (para el TDAH) pasa de 10,98€ a 19,43€, un incremento del 77%. Asimismo, el Timolol (para el glaucoma) sube un 38%. Utilizar la figura de la corrección de errores para realizar ajustes económicos de este calibre elude un debate público profundo sobre la fijación de precios con las farmacéuticas.",
+    "resumen_ciudadano": "Sanidad ha publicado una corrección que, en la práctica, es una subida de precios oficiales para medicamentos usados en el tratamiento del TDAH y el glaucoma. Lo que se presenta como un error tipográfico supone que el Estado y, potencialmente, los ciudadanos paguen más por los mismos fármacos.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Sanidad 'corrige errores' que disparan el precio del Metilfenidato (+77%) y el Timolol. Lo que llaman errata es en realidad un encarecimiento de fármacos esenciales. ¿Transparencia o ajuste encubierto? 💊📉 #Opacidad #Sanidad #Transparencia",
+    "banderas_red_flags": [
+      "Aumento de precio mediante corrección de errores",
+      "Incremento porcentual desproporcionado en fármacos de uso común",
+      "Falta de memoria justificada para el cambio de cuantías"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria farmacéutica (mayores márgenes de beneficio)",
+        "Titulares de la autorización de comercialización"
+      ],
+      "perdedores": [
+        "Presupuesto del Sistema Nacional de Salud",
+        "Pacientes (en caso de variaciones en el copago o precios de mercado)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad y Precios Farmacéuticos",
+    "banderas_rojas": [
+      "Aumento de precio mediante corrección de errores",
+      "Incremento porcentual desproporcionado en fármacos de uso común",
+      "Falta de memoria justificada para el cambio de cuantías"
+    ]
+  },
+  "tweeted": false
+}
