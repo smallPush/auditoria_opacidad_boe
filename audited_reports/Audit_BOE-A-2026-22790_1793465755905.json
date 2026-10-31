@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22790",
+  "timestamp": "2026-10-31T16:55:55.905Z",
+  "title": "Resolución de 30 de octubre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento es una actualización técnica de precios, pero revela la estructura de un monopolio estatal que prioriza la recaudación fiscal sobre la salud pública. Se observa la comercialización de labores de tabaco bajo nombres de iconos populares ('Maradona Tribute') y ediciones de lujo, lo cual busca sofisticar el consumo. La opacidad reside en la falta de desglose entre el coste de fabricación y la carga impositiva real en esta resolución, así como la persistente brecha fiscal entre la Península y las ciudades autónomas de Ceuta y Melilla.",
+    "resumen_ciudadano": "Hacienda ha publicado los nuevos precios oficiales para diversas marcas de puros, cigarrillos y tabaco de liar. Esta lista es de obligado cumplimiento para todos los estancos de la Península, Baleares, Ceuta y Melilla. Los precios varían desde labores económicas hasta ediciones limitadas de lujo que superan los 20 euros por unidad.",
+    "resumen_tweet": "🚬 Nueva subida de precios del #tabaco en el #BOE. De puros 'Maradona' a ediciones de lujo de 21€. Se mantiene la enorme brecha fiscal en Ceuta y Melilla. ¿Recaudación o salud? #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Uso de marcas de celebridades para incentivar consumo de lujo",
+      "Diferencial impositivo significativo entre territorios nacionales",
+      "Ausencia de mención al impacto en salud pública en la fijación de precios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (estabilidad recaudatoria)",
+        "Grandes importadores de tabaco premium",
+        "Comisionado para el Mercado de Tabacos"
+      ],
+      "perdedores": [
+        "Consumidores finales (pérdida de poder adquisitivo)",
+        "Políticas de prevención del tabaquismo (por normalización de marcas aspiracionales)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Regulación de Precios / Monopolio de Estado",
+    "banderas_rojas": [
+      "Uso de marcas de celebridades para incentivar consumo de lujo",
+      "Diferencial impositivo significativo entre territorios nacionales",
+      "Ausencia de mención al impacto en salud pública en la fijación de precios"
+    ]
+  },
+  "tweeted": false
+}
