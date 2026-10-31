@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-22792",
+  "timestamp": "2026-10-31T17:09:58.087Z",
+  "title": "Orden TED/1149/2026, de 30 de octubre, por la que se establecen los cargos del sistema gasista y la retribución y los cánones de los almacenamientos subterráneos básicos para el año de gas 2027.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden Ministerial perpetúa la opacidad estructural del sistema gasista mediante el uso de 'cargos' para cubrir costes no asociados al uso real de la infraestructura. Destaca el mantenimiento de la retribución por el déficit acumulado de 2014, una deuda histórica que los ciudadanos siguen pagando doce años después. La reducción del límite de oxígeno para el biometano (del 1% al 0,4%) se presenta como una mejora técnica, pero actúa como una barrera de entrada para pequeños productores, favoreciendo a los operadores de red ya establecidos. Además, se garantiza una tasa de retribución del 6,46% para almacenamientos subterráneos, una rentabilidad segura muy superior a otros productos financieros, blindando los beneficios de las grandes energéticas frente al riesgo de mercado.",
+    "resumen_ciudadano": "Esta norma fija lo que pagaremos en la factura del gas en 2027 por conceptos que no son el consumo real: incluye pagos por deudas de hace más de una década, subvenciones al suministro en Tenerife y beneficios garantizados del 6,46% para las empresas dueñas de almacenes de gas. También endurece los requisitos para el gas renovable (biometano), lo que podría encarecer su producción.",
+    "resumen_tweet": "🚨 Nueva factura del gas 2027: Seguimos pagando la deuda de 2014 y garantizando beneficios del 6,46% a grandes energéticas. Más trabas al biometano y 'gastos fantasma' en el sistema. ¡La opacidad energética continúa! 💸⛽ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Déficit acumulado a 31 de diciembre de 2014 (pago de deuda histórica)",
+      "Exención de consulta pública previa bajo justificación técnica",
+      "Tasa de retribución garantizada del 6,46% (rentabilidad blindada)",
+      "Conceptos vagos como 'medidas de fomento de la liquidez'",
+      "Arbitrariedad en el reconocimiento de costes por suministro a tarifa en Canarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas titulares de almacenamientos subterráneos básicos (Enagás y otros)",
+        "Gasificadora Regional Canaria, SA",
+        "Operador del Mercado Organizado (MIBGAS)"
+      ],
+      "perdedores": [
+        "Consumidores finales de gas (pagan los cargos y el déficit heredado)",
+        "Pequeños productores de biometano (mayores costes de inversión por límites de O2)",
+        "Instalaciones industriales sensibles sin registro previo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial (Energía)",
+    "banderas_rojas": [
+      "Déficit acumulado a 31 de diciembre de 2014 (pago de deuda histórica)",
+      "Exención de consulta pública previa bajo justificación técnica",
+      "Tasa de retribución garantizada del 6,46% (rentabilidad blindada)",
+      "Conceptos vagos como 'medidas de fomento de la liquidez'",
+      "Arbitrariedad en el reconocimiento de costes por suministro a tarifa en Canarias"
+    ]
+  },
+  "tweeted": false
+}
