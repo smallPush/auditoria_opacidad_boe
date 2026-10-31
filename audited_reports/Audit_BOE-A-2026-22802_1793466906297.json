@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22802",
+  "timestamp": "2026-10-31T17:15:06.297Z",
+  "title": "Resolución de 20 de octubre de 2026, de la Universidad de Sevilla, por la que se integra en el Cuerpo de Profesoras y Profesores Titulares de Universidad a don Francisco Javier Gamero Rojas.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo reglado que aplica la Ley Orgánica 2/2023 (LOSU). La 'integración' es un mecanismo que permite a antiguos Profesores Titulares de Escuela Universitaria (TEU) convertirse en Profesores Titulares de Universidad (TU) sin pasar por un concurso de oposición abierto, siempre que tengan la acreditación. Si bien es legal, este proceso perpetúa la endogamia universitaria al consolidar plazas de forma interna, limitando la entrada de talento externo o investigadores jóvenes que no forman parte de la estructura previa de la institución.",
+    "resumen_ciudadano": "La Universidad de Sevilla ha ascendido a un profesor de su centro al cuerpo de Profesores Titulares de Universidad. Este cambio de rango no implica una nueva contratación, sino la transformación de su plaza actual de 'Escuela Universitaria' a 'Universidad' tras haber obtenido la acreditación necesaria. Es un trámite habitual de consolidación de carrera docente bajo la nueva ley de universidades.",
+    "resumen_tweet": "🎓 Nueva integración 'en su propia plaza' en la Univ. de Sevilla. La LOSU facilita que el personal interno ascienda sin competir con candidatos externos. ¿Consolidación o barrera al talento joven? 🧐 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Integración en 'propia plaza' (limita competencia externa)",
+      "Uso de códigos de plaza internos (DF006458) sin desglose presupuestario",
+      "Trámite basado en disposiciones adicionales que esquivan el régimen general de acceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Gamero Rojas (promoción profesional y salarial)",
+        "Universidad de Sevilla (mantenimiento de paz social interna)"
+      ],
+      "perdedores": [
+        "Investigadores externos (sin posibilidad de optar a esa plaza)",
+        "Sistema de mérito competitivo abierto"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Integración en 'propia plaza' (limita competencia externa)",
+      "Uso de códigos de plaza internos (DF006458) sin desglose presupuestario",
+      "Trámite basado en disposiciones adicionales que esquivan el régimen general de acceso"
+    ]
+  },
+  "tweeted": false
+}
