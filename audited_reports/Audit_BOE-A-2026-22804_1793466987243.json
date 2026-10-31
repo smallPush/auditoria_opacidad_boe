@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22804",
+  "timestamp": "2026-10-31T17:16:27.243Z",
+  "title": "Acuerdo de 28 de octubre de 2026, de la Comisión de Selección prevista en el artículo 305 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, por el que se publica la puntuación mínima necesaria para superar el primer ejercicio del proceso selectivo convocado por Acuerdo de 4 de junio de 2026, y se dispone la apertura del plazo para formular impugnaciones contra las preguntas y respuestas del primer ejercicio.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El acuerdo establece una nota de corte de 73,68 puntos para el acceso a las Carreras Judicial y Fiscal. Aunque se detalla el número de aprobados (1.653), la metodología para fijar el decimal exacto de la nota de corte permanece en una 'caja negra' administrativa, citando criterios vagos como el 'nivel de conocimiento'. Este sistema de oposiciones tradicionales sigue representando una barrera de clase, ya que premia la capacidad financiera para sostener años de estudio sin ingresos, limitando la diversidad socioeconómica en la cúpula judicial. El plazo de 5 días para impugnaciones es extremadamente breve para la complejidad técnica del examen.",
+    "resumen_ciudadano": "Se ha publicado la nota mínima para aprobar el primer examen de las oposiciones a Juez y Fiscal (73,68 puntos). Han pasado 1.653 personas para un total de 575 plazas. Se abre un plazo muy corto, de solo 5 días, para que los aspirantes puedan reclamar contra preguntas o respuestas del examen a través de las webs oficiales de Justicia y el CGPJ.",
+    "resumen_tweet": "⚖️ Publicada la nota de corte para Jueces y Fiscales: 73,68 puntos. 1.653 aspirantes pasan a la siguiente fase para 575 plazas. ⏳ ¡Solo 5 días para impugnar! Un sistema que sigue blindado por barreras de clase. #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Criterio de nota de corte con decimales sin desglose metodológico",
+      "Plazo de impugnación reducido (5 días hábiles)",
+      "Alta discrecionalidad del Tribunal en la fijación del nivel de conocimiento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "1.653 aspirantes que superan el corte",
+        "Academias privadas de preparación",
+        "Élites socioeconómicas con capacidad de ahorro"
+      ],
+      "perdedores": [
+        "Aspirantes con recursos limitados",
+        "Candidatos con puntuación cercana al corte (73,67)",
+        "Pluralidad social en el acceso a la judicatura"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Proceso Selectivo / Justicia",
+    "banderas_rojas": [
+      "Criterio de nota de corte con decimales sin desglose metodológico",
+      "Plazo de impugnación reducido (5 días hábiles)",
+      "Alta discrecionalidad del Tribunal en la fijación del nivel de conocimiento"
+    ]
+  },
+  "tweeted": false
+}
