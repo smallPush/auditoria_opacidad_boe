@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22805",
+  "timestamp": "2026-11-01T17:55:23.172Z",
+  "title": "Orden PJC/1151/2026, de 27 de octubre, por la que se modifica la Orden PJC/930/2026, de 2 de septiembre, por la que se nombran los Tribunales calificadores n.º 2 y n.º 3 del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Letrados de la Administración de Justicia, convocado por la Orden PJC/144/2026, de 24 de febrero.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La Orden PJC/1151/2026 rectifica la composición del Tribunal Calificador n.º 3 para Letrados de la Administración de Justicia. El punto más controvertido es la admisión explícita de la administración de que no ha sido posible cumplir con las condiciones de paridad de género exigidas legalmente, alegando una limitación en las propuestas del Consejo General de la Abogacía Española. Esto evidencia una desconexión entre la normativa de igualdad y la realidad de las designaciones corporativas, donde la 'falta de perfiles' se usa como excusa para excepcionar principios democráticos de representatividad.",
+    "resumen_ciudadano": "El Ministerio de Justicia modifica la lista de jueces/evaluadores para las oposiciones de Letrados de la Administración de Justicia. Se sustituye a un abogado (Jesús Jiménez) por una abogada (Ana Álvarez). El texto reconoce que no se han podido cumplir las normas de igualdad de género en este tribunal específico debido a que el Consejo de la Abogacía no ofreció alternativas que lo permitieran.",
+    "resumen_tweet": "⚖️ Rectificación en el #BOE: El Ministerio cambia miembros en tribunales de oposiciones de Letrados de Justicia. Admiten que NO pueden cumplir la paridad de género por falta de candidatos del Consejo de la Abogacía. 📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Incumplimiento declarado de criterios de paridad",
+      "Falta de justificación sobre la salida del miembro anterior",
+      "Dependencia de organismos externos para validar la legalidad de la composición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Álvarez Gómez (nueva integrante)",
+        "Consejo General de la Abogacía Española (mantiene su capacidad de propuesta sobre el criterio de paridad)"
+      ],
+      "perdedores": [
+        "Principio de paridad institucional",
+        "Jesús Jiménez Gómez (cesado)",
+        "Candidatos que esperan tribunales formados bajo criterios de estricta igualdad"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Ceses",
+    "banderas_rojas": [
+      "Incumplimiento declarado de criterios de paridad",
+      "Falta de justificación sobre la salida del miembro anterior",
+      "Dependencia de organismos externos para validar la legalidad de la composición"
+    ]
+  },
+  "tweeted": false
+}
