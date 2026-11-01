@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-22791",
+  "timestamp": "2026-11-01T05:48:14.499Z",
+  "title": "Real Decreto 923/2026, de 28 de octubre, por el que se regula la concesión directa de subvenciones a favor de determinadas entidades y asociaciones para proyectos dirigidos a la población joven con el fin de reforzar su adhesión a los valores democráticos, la confianza en las instituciones públicas, frenar la polarización, combatir la desinformación y promover su participación como sujetos activos de la sociedad.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto utiliza la 'concesión directa' (Art. 22.2.c de la Ley General de Subvenciones) para evitar la concurrencia competitiva, alegando una 'excepcionalidad' y 'singularidad' de las entidades que es altamente subjetiva. Se observa una terminología vaga (resiliencia, gobernanza multinivel, confabular democracia) que dificulta la fiscalización de resultados tangibles. Destaca la financiación de centros de pensamiento y asociaciones de reciente creación (como EPA! en 2025) con fondos públicos para 'reforzar la confianza en las instituciones', lo que bordea la propaganda institucional encubierta bajo el marco de la Memoria Democrática.",
+    "resumen_ciudadano": "El Gobierno otorga subvenciones directas (sin concurso público) a 10 asociaciones seleccionadas para proyectos juveniles de arte, debate y memoria. El objetivo declarado es combatir la desinformación y la desafección política, pero el método de selección 'a dedo' genera dudas sobre la equidad y la transparencia en el reparto de fondos públicos.",
+    "resumen_tweet": "🚨 El Gobierno reparte subvenciones 'a dedo' a entidades afines para 'combatir la polarización' y 'reforzar instituciones'. Se esquiva el concurso público alegando que estas asociaciones son 'únicas'. ¿Transparencia o red clientelar? 💸🤔 #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Concesión directa sin concurso público",
+      "Subvención a entidades de muy reciente creación (2025)",
+      "Uso de conceptos abstractos de difícil medición (confabular democracia, resiliencia)",
+      "Justificación de excepcionalidad basada en 'trayectoria' no detallada cuantitativamente",
+      "Potencial uso de fondos para promoción de la imagen gubernamental ante jóvenes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Concomitentes",
+        "Asociación EPA!-Jóvenes Rurales",
+        "ZEMOS98",
+        "Asociación Ideas en Guerra",
+        "Ruta al Exilio"
+      ],
+      "perdedores": [
+        "Otras asociaciones juveniles sin acceso a subvenciones directas",
+        "Contribuyentes (por ausencia de comparativa de costes/beneficios)",
+        "Principios de publicidad y concurrencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvención Directa de Memoria Democrática y Juventud",
+    "banderas_rojas": [
+      "Concesión directa sin concurso público",
+      "Subvención a entidades de muy reciente creación (2025)",
+      "Uso de conceptos abstractos de difícil medición (confabular democracia, resiliencia)",
+      "Justificación de excepcionalidad basada en 'trayectoria' no detallada cuantitativamente",
+      "Potencial uso de fondos para promoción de la imagen gubernamental ante jóvenes"
+    ]
+  },
+  "tweeted": false
+}
