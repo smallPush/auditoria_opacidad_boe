@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22807",
+  "timestamp": "2026-11-01T06:10:39.372Z",
+  "title": "Resolución de 28 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso para la provisión de puestos de personal docente en el exterior.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución detalla meticulosamente el procedimiento para que personal funcionario acceda a plazas en el exterior, reflejando la reciente reestructuración del profesorado técnico de FP (Ley Orgánica 3/2022). Sin embargo, la transparencia se limita a la forma y no al fondo económico: no se publican los complementos retributivos ni las dietas asociadas a estos destinos internacionales, que suelen ser significativamente superiores a los nacionales. El sistema de 'méritos' favorece una estructura burocrática cerrada, donde la experiencia previa en puestos de 'libre designación' computa positivamente, lo que puede perpetuar una élite administrativa en la acción educativa exterior. La exclusión del personal interino es total, ignorando la realidad de una parte masiva del colectivo docente.",
+    "resumen_ciudadano": "Se convoca concurso de méritos para profesores que quieran trabajar en centros españoles o internacionales (como Escuelas Europeas) en el extranjero. Los candidatos deben ser funcionarios de carrera con al menos 3 años de antigüedad, tener un nivel C1 de idiomas y carecer de antecedentes penales por delitos sexuales. El proceso es exclusivamente electrónico y busca cubrir plazas en diversos países, incluyendo EE. UU. y el Reino Unido.",
+    "resumen_tweet": "✈️🍎 ¿Quieres enseñar fuera de España? El #BOE convoca plazas en el extranjero pero con barreras: solo para funcionarios con antigüedad y C1 de idiomas. Un proceso que olvida a los interinos y oculta los pluses económicos. 🌍 #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Exclusión absoluta de personal interino o sustituto",
+      "Opacidad en las cuantías de las dietas y complementos por destino internacional",
+      "Valoración de puestos previos de 'libre designación' como mérito",
+      "Complejidad extrema en la integración de especialidades de FP que podría causar errores en las baremaciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con alta antigüedad",
+        "Docentes con certificaciones de idiomas de alto nivel (C1/C2)",
+        "Personal previamente seleccionado para puestos de confianza"
+      ],
+      "perdedores": [
+        "Profesores interinos (sin posibilidad de participar)",
+        "Docentes jóvenes con menos de 3 años de carrera",
+        "Profesores sin recursos para obtener certificaciones de idiomas privadas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Educación",
+    "banderas_rojas": [
+      "Exclusión absoluta de personal interino o sustituto",
+      "Opacidad en las cuantías de las dietas y complementos por destino internacional",
+      "Valoración de puestos previos de 'libre designación' como mérito",
+      "Complejidad extrema en la integración de especialidades de FP que podría causar errores en las baremaciones"
+    ]
+  },
+  "tweeted": false
+}
