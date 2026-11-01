@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22798",
+  "timestamp": "2026-11-01T17:54:20.858Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Universidad de Córdoba, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento formaliza el acceso a la funcionariado de carrera de dos individuos en la Universidad de Córdoba. Bajo la apariencia de un trámite rutinario, se consolida un gasto estructural a largo plazo (salarios de funcionarios) sin desglosar el impacto presupuestario directo en la resolución. Se observa una paridad de género exacta (un hombre y una mujer), lo que sugiere un cumplimiento de las cuotas de igualdad en el acceso, aunque el proceso selectivo previo queda fuera del escrutinio de este texto.",
+    "resumen_ciudadano": "Nombramiento oficial de dos nuevos Profesores Titulares de Universidad en Córdoba: uno en Economía Aplicada y otra en Bioquímica. Este acto administrativo cierra el proceso de oposición, otorgándoles plazas permanentes financiadas con fondos públicos.",
+    "resumen_tweet": "🎓 Nuevos catedráticos en la Univ. de Córdoba: Salvador Moral y Lara Sáez. Un paso más en la burocracia académica. ¿Sabemos cuánto nos cuesta cada plaza de funcionario a largo plazo? La transparencia económica brilla por su ausencia. #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica del nombramiento",
+      "Falta de detalle sobre la puntuación obtenida en el concurso",
+      "Referencia a estatutos modificados hace casi una década"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Salvador Moral Cuadra",
+        "Lara Paloma Sáez Melero",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el proceso de mayo",
+        "Contribuyentes (por falta de desglose de costes)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Funcionarios",
+    "banderas_rojas": [
+      "Ausencia de memoria económica del nombramiento",
+      "Falta de detalle sobre la puntuación obtenida en el concurso",
+      "Referencia a estatutos modificados hace casi una década"
+    ]
+  },
+  "tweeted": false
+}
