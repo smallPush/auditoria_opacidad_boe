@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22794",
+  "timestamp": "2026-11-01T05:52:30.060Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Subsecretaría, por la que se resuelve el concurso general, convocado por Resolución de 4 de junio de 2026, en el Fondo de Garantía Salarial.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución presenta la adjudicación de puestos en el Fondo de Garantía Salarial (FOGASA), un organismo crítico para la protección de trabajadores ante insolvencias empresariales. Se observa una preocupante cantidad de puestos técnicos estratégicos (como la Jefatura de Sección de Sistemas Informáticos) que quedan 'desiertos'. Esto sugiere una incapacidad de la administración para atraer talento técnico o una rigidez estructural que deja vacantes puestos clave para la digitalización y eficiencia del servicio público. Además, el lenguaje administrativo oculta tras una apariencia de normalidad la movilidad interna que, en muchos casos, son promociones automáticas sin renovación real del capital humano.",
+    "resumen_ciudadano": "El Gobierno ha reorganizado los puestos de trabajo internos del FOGASA (el fondo que paga los salarios cuando una empresa quiebra). Muchos empleados han cambiado de cargo o subido de nivel, pero puestos fundamentales para que los ordenadores y sistemas funcionen se han quedado vacíos porque nadie ha cumplido los requisitos o solicitado la plaza. Esto puede significar retrasos futuros en el cobro de indemnizaciones para los trabajadores.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el FOGASA: Se resuelven las plazas de oficina pero el puesto de Jefe de Sistemas queda DESIERTO. 📉 Más burocracia, menos eficiencia técnica. ¿Quién garantiza el cobro rápido si no hay informáticos? #BOE #Opacidad #Transparencia #FOGASA",
+    "banderas_red_flags": [
+      "Puestos estratégicos de informática declarados desiertos",
+      "Alta endogamia: muchos funcionarios promocionan dentro de la misma unidad",
+      "Plazos de toma de posesión extremadamente dilatados (hasta 3 meses)",
+      "Opacidad en los criterios de valoración de la Comisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera (escalas C1/C2) que logran promociones internas",
+        "Personal con movilidad geográfica que obtiene plazas en provincias de menor coste de vida"
+      ],
+      "perdedores": [
+        "Trabajadores en espera de pagos del FOGASA (la falta de técnicos informáticos ralentiza procesos)",
+        "Candidatos externos (el sistema de concurso general favorece la inmovilidad del sistema)"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómica",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Puestos estratégicos de informática declarados desiertos",
+      "Alta endogamia: muchos funcionarios promocionan dentro de la misma unidad",
+      "Plazos de toma de posesión extremadamente dilatados (hasta 3 meses)",
+      "Opacidad en los criterios de valoración de la Comisión"
+    ]
+  },
+  "tweeted": false
+}
