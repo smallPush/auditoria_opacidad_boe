@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22809",
+  "timestamp": "2026-11-01T17:56:51.516Z",
+  "title": "Resolución 253/2026, de 28 de octubre, de la Dirección del Servicio de Selección y Provisión de Personal Docente, del Departamento de Educación, por la que se publican los procedimientos selectivos de ingreso y de acceso al Cuerpo de Profesores de Enseñanza Secundaria, de ingreso a los Cuerpos de Profesores de Escuelas Oficiales de Idiomas y de Profesores Especialistas en Sectores Singulares de Formación Profesional y procedimiento de adquisición de nuevas especialidades.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento presenta una estructura clara en el desglose de plazas por especialidad e idioma, lo cual es positivo. Sin embargo, existe una dependencia de la remisión al Boletín Oficial de Navarra (BON) para los detalles técnicos de las bases, lo que obliga al ciudadano a un 'salto' documental. Se observa un volumen significativo de plazas reservadas para 'Acceso' (promoción interna), lo que podría limitar la renovación de plantillas con personal externo. No se especifican costes de gestión ni tasas de examen en este extracto.",
+    "resumen_ciudadano": "Navarra convoca 722 plazas para profesores de Secundaria, Escuelas de Idiomas y FP. El plazo para apuntarse es corto: del 28 de octubre al 16 de noviembre de 2026. La mayoría de las plazas son para Secundaria en castellano, aunque hay una oferta importante en euskera y para sectores singulares de Formación Profesional.",
+    "resumen_tweet": "Navarra lanza 722 plazas para docentes 🍎📚. ¡Atención! Plazo breve: hasta el 16 de noviembre. Muchos puestos para FP y Secundaria, repartidos entre castellano y euskera. El diablo está en los detalles del BON 🔍 #BOE #Navarra #Oposiciones #Transparencia",
+    "banderas_red_flags": [
+      "Plazo de solicitud reducido (menos de 20 días naturales)",
+      "Opacidad sobre las tasas de examen en el anuncio del BOE",
+      "Alta proporción de plazas de 'Acceso' frente a 'Libre' en ciertas especialidades"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino (por las plazas de acceso/promoción)",
+        "Especialistas en Soldadura y Mecanizado (alta oferta en FP)",
+        "Candidatos bilingües en Navarra"
+      ],
+      "perdedores": [
+        "Nuevos aspirantes externos (por la competencia con promoción interna)",
+        "Candidatos sin competencias en Euskera (opciones reducidas en ciertas áreas)",
+        "Personas con brecha digital (obligatoriedad telemática total)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Foral de Navarra",
+    "tipologia": "Oferta de Empleo Público / Educación",
+    "banderas_rojas": [
+      "Plazo de solicitud reducido (menos de 20 días naturales)",
+      "Opacidad sobre las tasas de examen en el anuncio del BOE",
+      "Alta proporción de plazas de 'Acceso' frente a 'Libre' en ciertas especialidades"
+    ]
+  },
+  "tweeted": false
+}
