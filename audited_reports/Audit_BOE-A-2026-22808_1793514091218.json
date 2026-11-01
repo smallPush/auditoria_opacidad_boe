@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-22808",
+  "timestamp": "2026-11-01T06:21:31.218Z",
+  "title": "Corrección de errores de la Resolución de 7 de octubre de 2026, de la Presidencia del Tribunal de Cuentas, por la que publica la relación de aspirantes que han superado las pruebas selectivas, por el sistema de concurso oposición, para la provisión de plazas de personal laboral fijo, por promoción interna, en la categoría profesional Técnico/a Superior de Gestión y Servicios Comunes, convocado por Resolución de 16 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una correccion técnica de apellidos en la relación de aprobados para plazas de personal laboral fijo en el Tribunal de Cuentas. Aunque el error es puramente administrativo (intercambio de apellidos de una aspirante), resulta paradójico que el órgano supremo encargado de fiscalizar la precisión de las cuentas y la legalidad del sector público cometa errores en sus propias resoluciones de personal. Este documento refuerza la endogamia administrativa mediante la promoción interna, un sistema que premia la permanencia sobre la apertura competitiva al ciudadano externo.",
+    "resumen_ciudadano": "El Tribunal de Cuentas ha corregido el nombre de una trabajadora que ha superado el proceso de ascenso interno. El cambio es nominal: de 'Muñoz Herrero' a 'Herrero Muñoz'. No afecta a presupuestos ni crea nuevas plazas, solo rectifica un error en la publicación anterior del listado de aprobados.",
+    "resumen_tweet": "🧐 El @TribunalCuentas corrige errores en sus propios listados de personal. Aunque es un trámite menor, la precisión debe ser máxima en el órgano que nos audita a todos. La burocracia no descansa. 📝⚖️ #BOE #Opacidad #Transparencia #TribunalDeCuentas",
+    "banderas_red_flags": [
+      "Error formal en el órgano fiscalizador",
+      "Fomento de la promoción interna sobre el acceso libre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral del Tribunal de Cuentas (consolidación de carrera)",
+        "Amparo Herrero Muñoz (rectificación de su identidad oficial)"
+      ],
+      "perdedores": [
+        "Ciudadanos externos (excluidos por ser un proceso de promoción interna)",
+        "Imagen de infalibilidad del Tribunal de Cuentas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administración de Personal / Corrección de Errores",
+    "banderas_rojas": [
+      "Error formal en el órgano fiscalizador",
+      "Fomento de la promoción interna sobre el acceso libre"
+    ]
+  },
+  "tweeted": false
+}
