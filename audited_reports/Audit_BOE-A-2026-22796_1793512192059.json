@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-22796",
+  "timestamp": "2026-11-01T05:49:52.059Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña María Soledad Villarrubia Zúñiga.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un nombramiento rutinario de funcionaria de carrera (Profesora Titular) bajo el marco de la Ley Orgánica 2/2023 (LOSU). Aunque el proceso sigue la legalidad vigente, la resolución mantiene la opacidad salarial clásica de la administración: se otorga una plaza vitalicia con cargo al erario público sin mencionar el nivel de complemento de destino ni la cuantía bruta anual. El código de plaza DF03286 es una referencia interna opaca para el ciudadano común.",
+    "resumen_ciudadano": "La Universidad de Alicante formaliza el cargo permanente de María Soledad Villarrubia Zúñiga como Profesora Titular tras superar el proceso selectivo. Se le asigna al área de Didáctica de la Lengua y la Literatura.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la Univ. de Alicante. Se nombra a una Profesora Titular en Didáctica de la Lengua. Proceso estándar según la LOSU, pero con el habitual silencio sobre el coste salarial real para el contribuyente 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ocultación de retribuciones económicas asociadas al cargo",
+      "Utilización de códigos de plaza (DF03286) sin enlace a transparencia presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Soledad Villarrubia Zúñiga (Consolidación laboral vitalicia)",
+        "Universidad de Alicante (Cubre vacante estructural)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el proceso",
+        "Ciudadanía (por falta de información sobre el impacto presupuestario a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ocultación de retribuciones económicas asociadas al cargo",
+      "Utilización de códigos de plaza (DF03286) sin enlace a transparencia presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
