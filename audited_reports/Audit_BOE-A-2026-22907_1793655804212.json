@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22907",
+  "timestamp": "2026-11-02T21:43:24.212Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso de la 'libre designación' para un cargo de carácter técnico como la Dirección de Biblioteca en la UNED representa una zona gris en la administración pública. Aunque legalmente amparado por los Estatutos de la UNED y la Ley de la Función Pública, este mecanismo permite la elección discrecional del candidato por parte del Rectorado, eludiendo el concurso de méritos abierto y transparente. No se especifican los criterios cualitativos que hicieron a este candidato superior a otros posibles aspirantes de la Escala de Facultativos.",
+    "resumen_ciudadano": "Se ha nombrado al nuevo Director de Biblioteca de la UNED mediante un proceso de elección directa (a dedo) permitido por la ley para puestos de confianza. Este sistema, denominado 'libre designación', es criticado por sindicatos y observadores de transparencia porque prioriza la afinidad personal o política sobre la competencia técnica objetiva demostrada en oposiciones o concursos.",
+    "resumen_tweet": "🚨 ¡Dedazo legal en la UNED! Nombran Director de Biblioteca mediante 'libre designación'. Un sistema que prioriza la confianza sobre el mérito objetivo. Menos transparencia, más control interno. 📉 #BOE #Opacidad #Transparencia #UNED",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de memoria justificativa del mérito del candidato",
+      "Puesto de alta responsabilidad técnica cubierto por confianza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aléxis Moreno Pulido (nombrado)",
+        "Rectorado de la UNED (mayor control sobre la estructura)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no seleccionados",
+        "Ciudadanía (menor garantía de meritocracia en instituciones públicas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Personal / Nombramiento Discrecional",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Falta de memoria justificativa del mérito del candidato",
+      "Puesto de alta responsabilidad técnica cubierto por confianza"
+    ]
+  },
+  "tweeted": false
+}
