@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-22890",
+  "timestamp": "2026-11-02T21:39:19.442Z",
+  "title": "Acuerdo de 28 de octubre de 2026, del Pleno del Consejo General del Poder Judicial, por el que se nombran Jueces y Juezas sustitutos/as para el año judicial 2026/2027, en el ámbito del Tribunal Superior de Justicia del País Vasco.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento presenta una transparencia procedimental alta pero una transparencia sustantiva baja. Aunque se publican nombres y base legal, se oculta la realidad de la precariedad judicial: el uso de jueces sustitutos como 'parche' ante la falta de creación de plazas estructurales. No se menciona el coste económico de estas sustituciones ni los baremos específicos de puntuación que llevaron a elegir a estas personas frente a otros candidatos, perpetuando un sistema de designación técnica que el ciudadano no puede fiscalizar.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha nombrado a dos jueces sustitutos (Santos Puga Gómez y Miren Abaitua Martínez de Aguirre) para cubrir juzgados en Vitoria-Gasteiz y Amurrio durante el próximo año. Este movimiento es una solución temporal para el funcionamiento de los tribunales en Álava que evita la contratación de personal fijo.",
+    "resumen_tweet": "⚖️ ¿Justicia estable o parches temporales? El CGPJ nombra jueces sustitutos en Álava para 2026/27. Se publica el 'quién' pero no el 'cuánto' nos cuesta esta interinidad estructural. #BOE #Opacidad #Transparencia #Justicia #PaísVasco 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Interinidad estructural en el poder judicial",
+      "Ausencia de desglose presupuestario por nombramiento",
+      "Falta de transparencia en los criterios de idoneidad comparativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santos Puga Gómez",
+        "Miren Abaitua Martínez de Aguirre",
+        "Administración Pública (ahorro inmediato al evitar plazas de carrera)"
+      ],
+      "perdedores": [
+        "Ciudadanía (menor continuidad en los procesos judiciales)",
+        "Opositores a plazas fijas (bloqueo de la carrera judicial estable)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Interinidad estructural en el poder judicial",
+      "Ausencia de desglose presupuestario por nombramiento",
+      "Falta de transparencia en los criterios de idoneidad comparativa"
+    ]
+  },
+  "tweeted": false
+}
