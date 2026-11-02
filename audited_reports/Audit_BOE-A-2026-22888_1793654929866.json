@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-22888",
+  "timestamp": "2026-11-02T21:28:49.866Z",
+  "title": "Orden TED/1152/2026, de 27 de octubre, por la que se modifica la Orden TED/526/2024, de 31 de mayo, por la que se establece la metodología de actualización de la retribución a la operación de las instalaciones tipo de generación de energía eléctrica cuyos costes de explotación dependan esencialmente del precio del combustible y se actualizan sus valores de retribución a la operación de aplicación a partir del 1 de enero de 2024.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La Orden TED/1152/2026 introduce un cambio procedimental alarmante desde la perspectiva de la fiscalización: se elimina el informe previo del Ministerio de Hacienda para las actualizaciones trimestrales de retribución, sustituyéndolo por una simple 'comunicación'. Esto debilita el control sobre el gasto público destinado a subvencionar el régimen retributivo específico de plantas de biomasa y cogeneración. El texto se ampara en tecnicismos matemáticos y fórmulas complejas que actúan como barrera cognitiva para el ciudadano medio, mientras que las variables 'propias de cada instalación' (V_c, V_AC, etc.) no se desglosan, permitiendo una discrecionalidad técnica que puede favorecer a grupos industriales específicos. Se garantiza la rentabilidad de estas empresas ante las fluctuaciones de mercado (gas, CO2, biomasa), blindando sus beneficios frente al riesgo empresarial habitual.",
+    "resumen_ciudadano": "El Gobierno ha modificado la forma en que se paga a las empresas que generan electricidad mediante cogeneración y biomasa. El cambio principal es que ahora el Ministerio para la Transición Ecológica podrá ajustar estos pagos cada tres meses sin necesidad de esperar el visto bueno del Ministerio de Hacienda. Se utilizan fórmulas matemáticas muy difíciles de entender para calcular cuánto dinero público reciben estas plantas basándose en lo que les cuesta el combustible y cuánto ganan vendiendo energía. En la práctica, se asegura que estas empresas mantengan sus beneficios aunque cambien los precios del mercado, dinero que finalmente proviene de los cargos que pagamos todos en la factura eléctrica o de los presupuestos del Estado.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! El Gobierno elimina el control previo de Hacienda sobre los pagos trimestrales a las eléctricas de biomasa y cogeneración. Menos fiscalización y más fórmulas indescifrables para blindar beneficios privados. 💸⚡ #Opacidad",
+    "banderas_red_flags": [
+      "Eliminación del informe preceptivo de Hacienda",
+      "Uso de parámetros discrecionales por instalación",
+      "Lenguaje técnico excesivamente opaco",
+      "Ajuste retroactivo de facto en las metodologías"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas propietarias de plantas de cogeneración",
+        "Grandes industriales del sector de la biomasa",
+        "Gestores de residuos con generación eléctrica"
+      ],
+      "perdedores": [
+        "Consumidores finales de electricidad",
+        "Ministerio de Hacienda (pérdida de capacidad de control)",
+        "Transparencia pública"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Energía y Subsidios",
+    "banderas_rojas": [
+      "Eliminación del informe preceptivo de Hacienda",
+      "Uso de parámetros discrecionales por instalación",
+      "Lenguaje técnico excesivamente opaco",
+      "Ajuste retroactivo de facto en las metodologías"
+    ]
+  },
+  "tweeted": false
+}
