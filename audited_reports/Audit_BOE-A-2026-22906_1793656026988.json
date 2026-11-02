@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-22906",
+  "timestamp": "2026-11-02T21:47:06.988Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Universidad de Granada, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para la consolidacion de plazas docentes. Aunque se citan los nombres y areas de conocimiento, existe una desconexion habitual entre el nombramiento y el desglose de la partida presupuestaria que financiara estas plazas vitalicias. No hay indicios de irregularidad, pero la opacidad reside en la falta de transparencia sobre el coste real para el contribuyente de estos puestos de por vida en el extracto publicado.",
+    "resumen_ciudadano": "La Universidad de Granada ha nombrado oficialmente a dos nuevos Profesores Titulares en las areas de Pintura y Arquitectura de Computadores, tras finalizar sus respectivos concursos de acceso.",
+    "resumen_tweet": "🎓 Nombramientos en la Univ. de Granada. Se consolidan plazas en Pintura y Computacion. Proceso estandar, pero con la habitual falta de desglose de coste publico directo en el extracto. 💸 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de informacion sobre el impacto presupuestario plurianual",
+      "Remision a bases de convocatoria externas para entender la seleccion"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Vicenta Caro Cabrera",
+        "Francisco Manuel Ortuño Guzman",
+        "Universidad de Granada (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados",
+        "Contribuyente (por falta de visibilidad del coste salarial acumulado)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de informacion sobre el impacto presupuestario plurianual",
+      "Remision a bases de convocatoria externas para entender la seleccion"
+    ]
+  },
+  "tweeted": false
+}
