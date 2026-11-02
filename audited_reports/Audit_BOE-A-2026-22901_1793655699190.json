@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-22901",
+  "timestamp": "2026-11-02T21:41:39.190Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Universidad de Zaragoza, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento cumple con la formalidad de publicar nombramientos tras un concurso público, ajustándose a la LOSU 2/2023. Sin embargo, existe una opacidad intrínseca sobre el coste real de estas plazas de por vida para el erario público. La estructura burocrática se perpetúa mediante la remisión a múltiples leyes y decretos que dificultan al ciudadano medio entender los criterios de mérito específicos que llevaron a estos nombramientos frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad de Zaragoza ha hecho oficiales los nombramientos de 6 nuevos profesores titulares en diversas áreas (desde Enfermería hasta Filología Inglesa). Estos profesionales pasan a ser personal funcionario con plaza fija tras superar los procesos de selección interna.",
+    "resumen_tweet": "🎓 6 nuevos profesores titulares logran plaza fija en la @unizar. Un proceso legalmente blindado que garantiza estabilidad vitalicia, pero que omite el impacto presupuestario a largo plazo. ¿Mérito o inercia administrativa? 🧐⚖️ #BOE #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de información sobre la cuantía salarial consolidada",
+      "Remisión a estatutos autonómicos y leyes estatales cruzadas",
+      "Falta de detalle sobre el número total de aspirantes rechazados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 6 docentes nombrados (estabilidad laboral vitalicia)",
+        "Universidad de Zaragoza (consolidación de estructura administrativa)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor red de contactos institucional",
+        "Contribuyentes (compromiso de gasto público sin métricas de rendimiento asociadas)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de información sobre la cuantía salarial consolidada",
+      "Remisión a estatutos autonómicos y leyes estatales cruzadas",
+      "Falta de detalle sobre el número total de aspirantes rechazados"
+    ]
+  },
+  "tweeted": false
+}
