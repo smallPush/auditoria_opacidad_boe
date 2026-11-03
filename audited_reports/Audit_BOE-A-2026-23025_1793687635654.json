@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23025",
+  "timestamp": "2026-11-03T06:33:55.654Z",
+  "title": "Resolución de 28 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para puestos de altísima responsabilidad técnica en la Intervención General de la Administración del Estado (IGAE). Este método, aunque legal, permite la discrecionalidad en el nombramiento de auditores que deben supervisar fondos públicos y el Mecanismo de Recuperación y Resiliencia (MRR). Existe un riesgo de 'captura institucional' donde los auditores son elegidos por los mismos órganos a los que deben fiscalizar, debilitando la independencia del control financiero.",
+    "resumen_ciudadano": "El Ministerio de Hacienda convoca 11 puestos de alta dirección (niveles 28 y 29) para auditores y subdirectores con sueldos extra (complemento específico) de hasta 39.574 euros anuales. Al ser puestos de 'libre designación', no se eligen por un examen u oposición ciega, sino por currículum y confianza, lo que genera dudas sobre la imparcialidad en el control de las cuentas públicas y los fondos europeos.",
+    "resumen_tweet": "🚨 ¿Quién audita a los auditores? Hacienda convoca 11 puestos de élite mediante 'libre designación' (a dedo). Puestos nivel 28-29 con pluses de hasta 39k€ para vigilar fondos europeos. Menos transparencia, más discrecionalidad. 🕵️‍♂️💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puestos de control técnico",
+      "Alta concentración de poder en niveles 28 y 29",
+      "Posibles requisitos 'teledirigidos' en la experiencia específica solicitada",
+      "Complementos específicos muy elevados (hasta 39.574,50€)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del Cuerpo Superior de Interventores y Auditores del Estado con perfil político o de confianza",
+        "Altos cargos de la Subsecretaría de Hacienda"
+      ],
+      "perdedores": [
+        "Independencia de la auditoría pública",
+        "Funcionarios de carrera con méritos pero sin conexiones políticas",
+        "Ciudadanía (por el riesgo de una supervisión menos imparcial)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Provisión de puestos de trabajo por libre designación",
+    "banderas_rojas": [
+      "Sistema de libre designación en puestos de control técnico",
+      "Alta concentración de poder en niveles 28 y 29",
+      "Posibles requisitos 'teledirigidos' en la experiencia específica solicitada",
+      "Complementos específicos muy elevados (hasta 39.574,50€)"
+    ]
+  },
+  "tweeted": false
+}
