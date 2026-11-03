@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-22896",
+  "timestamp": "2026-11-03T19:29:11.250Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y por promoción interna, de la Escala de Titulados Superiores del Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla nombramientos de nivel A1 en la escala de Titulados Superiores del INSST. Aunque la información salarial técnica (Nivel 26 y Complemento Específico de 13.829,34€) es pública, destaca la lentitud burocrática: un proceso iniciado en diciembre de 2024 que culmina en octubre de 2026. Existe un sesgo geográfico evidente hacia Madrid y Sevilla, dejando gran parte del territorio sin estos especialistas de alto nivel.",
+    "resumen_ciudadano": "Se formaliza el contrato de 26 nuevos funcionarios de carrera especializados en seguridad y salud laboral. El BOE muestra sus nombres, sueldos base de nivel directivo intermedio y sus destinos finales, mayoritariamente en Madrid y Sevilla, tras casi dos años de oposición.",
+    "resumen_tweet": "📋 Nuevos funcionarios de élite en el #BOE. 26 plazas de Titulados Superiores del INSST con sueldos nivel 26. Proceso de casi 2 años: ¿Burocracia lenta o control excesivo? Madrid y Sevilla ganan, el resto de España espera. #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Dilación excesiva: 22 meses desde la convocatoria hasta el nombramiento",
+      "Concentración territorial: Madrid y Sevilla acaparan la mayoría de plazas",
+      "Falta de desglose de las puntuaciones de la fase de concurso en el texto principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 26 seleccionados (estabilidad laboral y sueldo nivel 26)",
+        "Madrid (concentra el 50% de las nuevas plazas)",
+        "Sevilla (refuerza su Centro Nacional de Medios de Protección)"
+      ],
+      "perdedores": [
+        "Regiones periféricas sin nuevos técnicos superiores",
+        "Opositores no seleccionados tras 2 años de proceso",
+        "Eficiencia administrativa (proceso extremadamente lento)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Dilación excesiva: 22 meses desde la convocatoria hasta el nombramiento",
+      "Concentración territorial: Madrid y Sevilla acaparan la mayoría de plazas",
+      "Falta de desglose de las puntuaciones de la fase de concurso en el texto principal"
+    ]
+  },
+  "tweeted": false
+}
