@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23035",
+  "timestamp": "2026-11-03T19:37:37.080Z",
+  "title": "Resolución de 28 de octubre de 2026, del Ayuntamiento de Carmona (Sevilla), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria muestra una alarmante lentitud burocrática: las bases originales datan de diciembre de 2024 y no llegan al BOE hasta noviembre de 2026. Esta dilación de casi dos años para tres plazas de personal laboral básico sugiere una gestión administrativa ineficiente. El uso del término 'Limpiadora-Lavandera' en femenino refuerza estereotipos de género en el sector público, y el sistema de concurso-oposición suele estar diseñado para favorecer la consolidación de personal interino ya presente en el consistorio, dificultando el acceso real en igualdad de condiciones para ciudadanos externos.",
+    "resumen_ciudadano": "El Ayuntamiento de Carmona convoca 3 plazas fijas de limpieza y lavandería tras un retraso de dos años desde la publicación de las bases. Se utilizará un sistema de puntos por experiencia y examen, lo que facilita que quienes ya están trabajando allí consigan el puesto de forma definitiva.",
+    "resumen_tweet": "🚩 ¡2 años de espera! Carmona publica hoy una convocatoria cuyas bases son de 2024. 3 plazas de limpieza bajo lupa por lentitud administrativa y sesgo de género. ¿Consolidación encubierta o gestión ineficiente? 🧹📉 #BOE #Opacidad #Transparencia #Carmona",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (2024-2026)",
+      "Nomenclatura de puesto con sesgo de género",
+      "Sistema de concurso-oposición para puestos de baja cualificación técnica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad acumulada",
+        "Administración local por estabilización de plantilla"
+      ],
+      "perdedores": [
+        "Jóvenes aspirantes sin experiencia previa en la administración",
+        "Ciudadanía por la lentitud extrema del proceso burocrático"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Convocatoria de Empleo Público Local",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (2024-2026)",
+      "Nomenclatura de puesto con sesgo de género",
+      "Sistema de concurso-oposición para puestos de baja cualificación técnica"
+    ]
+  },
+  "tweeted": false
+}
