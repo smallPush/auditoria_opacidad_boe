@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23021",
+  "timestamp": "2026-11-03T06:35:53.274Z",
+  "title": "Orden TES/1156/2026, de 26 de octubre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden TES/832/2026, de 29 de julio.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de un nombramiento de alto nivel (Nivel 30) mediante el sistema de 'libre designación', que es la forma técnica de referirse a una adjudicación discrecional o 'a dedo'. Aunque el texto alude a un 'informe de valoración de competencias' y al cumplimiento de requisitos según el Real Decreto-ley 6/2023, no se hacen públicos los criterios específicos de puntuación ni se comparan los perfiles de otros posibles candidatos. El adjudicatario ya ostentaba un Nivel 30 en la Subdirección General de Gestión Financiera, lo que sugiere un movimiento circular dentro de la élite burocrática (Cuerpo Superior de Interventores y Auditores) para controlar áreas estratégicas de información y estadística en el SEPE.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha asignado un puesto de alta dirección en el Servicio Público de Empleo Estatal (SEPE). El puesto de Subdirector General de Estadística ha sido entregado a un funcionario que ya ocupaba un cargo de máximo nivel. El proceso se ha realizado por designación directa de los superiores, lo que limita la competencia real y la transparencia sobre por qué esa persona es la más idónea frente a otras.",
+    "resumen_tweet": "🚨 ¿Mérito o confianza? El SEPE adjudica 'a dedo' la Subdirección General de Estadística. Un puesto de Nivel 30 que se queda en la élite interna. La libre designación sigue siendo el muro contra la meritocracia pura. 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial y de poder)",
+      "Adjudicación interna circular",
+      "Opacidad en el informe de expertos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jaime Noguerales Wandelmer",
+        "Cuerpo Superior de Interventores y Auditores de la Administración de la Seguridad Social",
+        "Ministerio de Trabajo y Economía Social"
+      ],
+      "perdedores": [
+        "Candidatos externos por mérito",
+        "Principio de publicidad y concurrencia",
+        "Ciudadanía (por falta de detalle en la idoneidad)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de personal directivo",
+    "banderas_rojas": [
+      "Libre designación (discrecionalidad)",
+      "Nivel 30 (máximo nivel salarial y de poder)",
+      "Adjudicación interna circular",
+      "Opacidad en el informe de expertos"
+    ]
+  },
+  "tweeted": false
+}
