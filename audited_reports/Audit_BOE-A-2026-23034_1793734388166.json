@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23034",
+  "timestamp": "2026-11-03T19:33:08.166Z",
+  "title": "Resolución de 29 de octubre de 2026, del Ayuntamiento de Motril (Granada), referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'concurso', un método que prioriza los méritos previos y la antigüedad sobre el examen de conocimientos, lo cual es habitual para blindar la promoción interna frente al talento externo. Existe una fragmentación informativa: el BOE solo actúa como anuncio formal, remitiendo los detalles críticos (baremación y criterios) al Boletín Provincial de Granada, lo que genera una barrera de acceso para el ciudadano medio que busca transparencia inmediata. El plazo de 15 días es legalmente justo pero operativamente estrecho para quienes no pertenecen al entorno de la administración local.",
+    "resumen_ciudadano": "El Ayuntamiento de Motril ha convocado tres plazas de jefatura (Procedimientos, Registro y Población). El acceso no será por examen abierto, sino por valoración de méritos (concurso). Los criterios específicos de selección están fuera del BOE, dificultando el control público de la igualdad de oportunidades en estas vacantes.",
+    "resumen_tweet": "📉 Opacidad en #Motril: Convocan 3 jefaturas de negociado vía concurso. Los detalles clave se relegan al boletín provincial, dificultando el acceso y el escrutinio. ¿Meritocracia o blindaje interno? 🧐 #BOE #Opacidad #Transparencia #Granada",
+    "banderas_red_flags": [
+      "Remisión a boletines externos para las bases",
+      "Sistema de concurso para puestos de jefatura",
+      "Plazo de inscripción reducido",
+      "Bajo detalle de requisitos en el anuncio principal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios internos con antigüedad",
+        "Personal con méritos acumulados en la misma administración"
+      ],
+      "perdedores": [
+        "Opositores externos cualificados",
+        "Jóvenes profesionales sin puntos previos",
+        "Transparencia pública directa"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Resolución de Empleo Público Local",
+    "banderas_rojas": [
+      "Remisión a boletines externos para las bases",
+      "Sistema de concurso para puestos de jefatura",
+      "Plazo de inscripción reducido",
+      "Bajo detalle de requisitos en el anuncio principal"
+    ]
+  },
+  "tweeted": false
+}
