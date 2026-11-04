@@ -1,0 +1,41 @@
+{
+  "boe_id": "BOE-A-2026-23122",
+  "timestamp": "2026-11-04T06:40:33.300Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Universitat Politècnica de València, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Nombramientos de alto rango en la UPV que evidencian la brecha de género estructural en las cátedras técnicas: de 7 plazas, solo el 28.5% son mujeres. Aunque se cumple la formalidad legal de la Ley Orgánica 2/2023, persiste la opacidad sobre el coste salarial incremental que estos nombramientos suponen para las arcas públicas y no se detallan las puntuaciones obtenidas por los candidatos en las Comisiones de Selección.",
+    "resumen_ciudadano": "La Universitat Politècnica de València ha oficializado el nombramiento de siete nuevos catedráticos y catedráticas de universidad en áreas técnicas como ingeniería hidráulica, cartografía e informática, tras procesos de concurso internos iniciados en julio de 2026.",
+    "resumen_tweet": "🎓 El #BOE publica 7 nuevos catedráticos en la @UPV. 📊 Solo 2 son mujeres (28%), reflejando el techo de cristal en la élite técnica. 🏛️ Consolidación de cargos sin desglose de impacto presupuestario real. #Transparencia #Universidad #Igualdad #Opacidad",
+    "banderas_red_flags": [
+      "Baja representación femenina en el nivel máximo académico",
+      "Opacidad en el impacto presupuestario por plaza",
+      "Falta de acceso directo a las actas de méritos desde el BOE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Meliá Martí",
+        "José Carlos Martínez Llario",
+        "Modesto Pérez Sánchez",
+        "Ángel Esteban Martín Furones",
+        "Eduardo Fabián Cassiraga",
+        "Apolonia Begoña Serrano Lanzarote",
+        "José Antonio Gil Gómez",
+        "Cuerpo de Catedráticos de la UPV"
+      ],
+      "perdedores": [
+        "Paridad de género en STEM",
+        "Transparencia económica inmediata para el contribuyente",
+        "Candidatos externos no seleccionados"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Baja representación femenina en el nivel máximo académico",
+      "Opacidad en el impacto presupuestario por plaza",
+      "Falta de acceso directo a las actas de méritos desde el BOE"
+    ]
+  },
+  "tweeted": false
+}
