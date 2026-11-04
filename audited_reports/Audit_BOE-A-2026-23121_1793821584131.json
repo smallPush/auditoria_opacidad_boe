@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23121",
+  "timestamp": "2026-11-04T19:46:24.131Z",
+  "title": "Resolución de 23 de octubre de 2026, de la Universidad de Vigo, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "La resolución de la Universidad de Vigo formaliza la consolidación de cuatro plazas de catedrático mediante promoción interna. Aunque cumple con la legalidad vigente de la LOSU, el mecanismo de promoción interna suele ser menos transparente que el acceso libre, limitando la entrada de talento externo. Se observa una asimetría de género en este grupo específico (75% hombres frente a 25% mujeres), lo cual contrasta con el discurso de igualdad institucional. No se especifica el coste salarial total que estas promociones suponen para el erario público en el documento.",
+    "resumen_ciudadano": "La Universidad de Vigo ha nombrado a cuatro nuevos catedráticos en el área de Organización de Empresas y Marketing. Los seleccionados son Antonio Sartal, Carlos Ferro, María Jesús López y Manuel Guisado. Este proceso permite a docentes que ya formaban parte de la institución ascender al máximo escalafón académico, garantizándoles mejores condiciones laborales y mayor autoridad académica.",
+    "resumen_tweet": "🚨 Nueva tanda de cátedras en la Universidad de Vigo vía promoción interna. Aunque legal, el proceso refuerza el 'club privado' académico: 75% hombres en este grupo. ¿Se garantiza realmente la paridad y la excelencia externa? 🏛️🎓 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sesgo de género (3 hombres vs 1 mujer)",
+      "Falta de desglose del impacto presupuestario anual",
+      "Endogamia potencial mediante promoción interna"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes promocionados (estabilidad y mejora salarial)",
+        "Universidad de Vigo (consolidación de estructura administrativa)",
+        "Área de Organización de Empresas"
+      ],
+      "perdedores": [
+        "Candidatos externos cualificados (sin acceso a plazas de promoción)",
+        "Políticas de paridad (minoría femenina en este lote)",
+        "Contribuyentes (por falta de transparencia en el coste total del ascenso)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sesgo de género (3 hombres vs 1 mujer)",
+      "Falta de desglose del impacto presupuestario anual",
+      "Endogamia potencial mediante promoción interna"
+    ]
+  },
+  "tweeted": false
+}
