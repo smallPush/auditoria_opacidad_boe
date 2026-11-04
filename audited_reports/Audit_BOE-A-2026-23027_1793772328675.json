@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23027",
+  "timestamp": "2026-11-04T06:05:28.675Z",
+  "title": "Resolución de 26 de octubre de 2026, de la Subsecretaría, por la que se declara desierta la convocatoria de libre designación, efectuada por Resolución de 10 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'libre designación' para puestos de apoyo como una Secretaría de Subdirector General (Nivel 16) evidencia la persistencia de mecanismos de elección discrecional en niveles administrativos donde debería primar el concurso de méritos. La resolución declara el puesto desierto alegando 'informes desfavorables' de los departamentos de origen de los aspirantes, lo que sugiere un bloqueo burocrático interno o una falta de idoneidad que no se detalla, manteniendo la opacidad sobre los criterios reales de rechazo.",
+    "resumen_ciudadano": "El Ministerio de Transportes no ha logrado cubrir una plaza de secretario/a para un Subdirector General. A pesar de ser un cargo de confianza (libre designación), los candidatos presentados recibieron informes negativos de sus actuales departamentos o no hubo suficientes interesados, dejando la gestión administrativa en ese área sin el refuerzo previsto.",
+    "resumen_tweet": "🧐 ¿Nadie para el puesto? El Ministerio de Transportes deja desierta una plaza de secretario/a por 'informes desfavorables' en un proceso de libre designación. La discrecionalidad y la burocracia interna frenan la gestión. 🏛️❌ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en niveles administrativos bajos",
+      "Falta de detalle en los informes desfavorables",
+      "Ineficiencia en la provisión de puestos públicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Departamentos de origen que retienen a su personal mediante informes negativos"
+      ],
+      "perdedores": [
+        "Ciudadanía (coste de procesos administrativos baldíos)",
+        "Candidatos bloqueados por criterios subjetivos",
+        "Eficiencia del Ministerio de Transportes"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Sistema de libre designación en niveles administrativos bajos",
+      "Falta de detalle en los informes desfavorables",
+      "Ineficiencia en la provisión de puestos públicos"
+    ]
+  },
+  "tweeted": false
+}
