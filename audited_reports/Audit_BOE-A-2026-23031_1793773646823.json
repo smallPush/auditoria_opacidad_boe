@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23031",
+  "timestamp": "2026-11-04T06:27:26.823Z",
+  "title": "Resolución de 26 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para puestos de niveles administrativos intermedio-bajos (16 y 17). Aunque es legal para puestos de secretaría de altos cargos, este mecanismo elude el concurso de méritos, permitiendo el nombramiento discrecional o 'a dedo'. Es alarmante que en las tablas de los anexos, las columnas de 'Méritos' y 'Funciones' aparezcan totalmente vacías, lo que reduce la transparencia al no objetivar qué se busca exactamente en el candidato, más allá de la confianza personal del directivo.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales busca cubrir 4 puestos de secretaría para sus directores generales y gabinetes en Madrid. En lugar de un proceso donde gane el que más sabe, eligen a quien el jefe decida directamente. Los sueldos incluyen complementos específicos de más de 8.800 euros anuales financiados con dinero público, pero sin detallar las tareas específicas que realizarán.",
+    "resumen_tweet": "🚨 ¿Meritocracia o dedo? El Ministerio de @MSocialGob convoca secretarías por 'libre designación'. Puestos nivel 16/17 elegidos sin detallar méritos ni funciones en el #BOE. Menos transparencia, más discrecionalidad. 📉 #Opacidad #Transparencia #España",
+    "banderas_red_flags": [
+      "Uso de libre designación en niveles administrativos bajos (C1/C2)",
+      "Tablas de méritos y funciones completamente vacías",
+      "Plazo de solicitud de solo 15 días hábiles",
+      "Sistema que favorece el clientelismo sobre la carrera profesional objetiva"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos (capacidad de elegir personal de confianza)",
+        "Candidatos con conexiones personales o políticas",
+        "Estructuras de gabinete con personal afín"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin contactos directos",
+        "Ciudadanía (pérdida de eficiencia por falta de criterios de mérito objetivos)",
+        "Principio de igualdad en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos - Provisión de puestos",
+    "banderas_rojas": [
+      "Uso de libre designación en niveles administrativos bajos (C1/C2)",
+      "Tablas de méritos y funciones completamente vacías",
+      "Plazo de solicitud de solo 15 días hábiles",
+      "Sistema que favorece el clientelismo sobre la carrera profesional objetiva"
+    ]
+  },
+  "tweeted": false
+}
