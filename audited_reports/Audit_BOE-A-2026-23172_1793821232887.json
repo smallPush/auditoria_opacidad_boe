@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23172",
+  "timestamp": "2026-11-04T19:40:32.887Z",
+  "title": "Real Decreto 975/2026, de 4 de noviembre, por el que se dispone que el Vicepresidente Primero del Gobierno y Ministro de Economía, Comercio y Empresa asuma el despacho ordinario de los asuntos del Ministerio de Transportes y Movilidad Sostenible.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La acumulacion de carteras en el Vicepresidente Primero tras una renuncia no motivada sugiere una crisis de gestion interna. Al fusionar de facto Economia y Transportes, se elimina el sistema de contrapesos presupuestarios entre ambos departamentos, permitiendo un control absoluto sobre las inversiones en infraestructuras y movilidad sin el escrutinio especifico de un titular dedicado exclusivamente al sector. La falta de un motivo publico para la vacante en el BOE oculta posibles discrepancias politicas o de gestion de fondos publicos.",
+    "resumen_ciudadano": "El Ministro de Transportes ha dimitido y sus funciones pasan a manos del Vicepresidente de Economia. Esto significa que una sola persona controla ahora dos de los ministerios con mayor presupuesto de España. No se explica por que se ha ido el ministro anterior ni cuanto tiempo durara esta situacion de interinidad, lo que genera incertidumbre sobre proyectos de trenes y carreteras.",
+    "resumen_tweet": "🚨 Alerta de concentracion de poder: Economia absorbe Transportes tras una dimision sin explicaciones. Un solo despacho controla ahora las carteras mas inversoras del Estado. ¿Gestion o control total? 🧐📉 #BOE #Opacidad #Transparencia #Gobierno",
+    "banderas_red_flags": [
+      "Renuncia de alto cargo sin motivacion explicitada",
+      "Concentracion de funciones ejecutivas en una sola persona",
+      "Riesgo de paralisis en proyectos de movilidad sostenible por exceso de carga de trabajo",
+      "Potencial conflicto de intereses entre estabilidad economica y gasto en infraestructuras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Vicepresidencia Primera (mayor control sobre contratos publicos)",
+        "Ministerio de Hacienda (control directo sobre el gasto de transporte)"
+      ],
+      "perdedores": [
+        "Sector del transporte (pierde interlocutor exclusivo)",
+        "Ciudadanos (menor transparencia en la gestion de infraestructuras)",
+        "Personal tecnico de Transportes"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reorganizacion de la Administracion General del Estado",
+    "banderas_rojas": [
+      "Renuncia de alto cargo sin motivacion explicitada",
+      "Concentracion de funciones ejecutivas en una sola persona",
+      "Riesgo de paralisis en proyectos de movilidad sostenible por exceso de carga de trabajo",
+      "Potencial conflicto de intereses entre estabilidad economica y gasto en infraestructuras"
+    ]
+  },
+  "tweeted": false
+}
