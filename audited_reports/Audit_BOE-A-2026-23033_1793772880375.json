@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23033",
+  "timestamp": "2026-11-04T06:14:40.375Z",
+  "title": "Resolución de 27 de octubre de 2026, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convocatoria utiliza el sistema de 'libre designación' para un puesto de Intervención, cuya función principal es la fiscalización y control de las cuentas públicas. Este mecanismo permite una elección discrecional por parte de los responsables políticos sobre la persona que debe supervisar su legalidad presupuestaria, lo que supone una vulnerabilidad estructural a la independencia del control interno. Además, el complemento específico de 79.388,68 euros es notablemente elevado, situando la retribución total estimada muy por encima de la media de la administración pública.",
+    "resumen_ciudadano": "Se publica la plaza para Interventor de la Diputación de Lleida. Aunque es un puesto técnico de control financiero, se elegirá 'a dedo' (libre designación) en lugar de por concurso de méritos. El puesto incluye un plus salarial de casi 80.000 euros anuales adicionales al sueldo base, lo que refuerza el perfil de alta élite funcionarial vinculada a la confianza política.",
+    "resumen_tweet": "🚩 ¿Quién vigila al que gasta? La Diputación de Lleida busca Interventor por LIBRE DESIGNACIÓN (a dedo) con un plus de 79.388€. El supervisor elegido por el supervisado. Poca transparencia, mucha discrecionalidad. #BOE #Opacidad #Transparencia #Lleida 💸🕵️‍♂️",
+    "banderas_red_flags": [
+      "Elección discrecional en funciones de fiscalización",
+      "Elevado complemento salarial específico",
+      "Potencial conflicto de intereses por sistema de provisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cargos políticos de la Diputación (eligen a su auditor)",
+        "Candidato con perfil de confianza política"
+      ],
+      "perdedores": [
+        "Independencia técnica del control financiero",
+        "Funcionarios de carrera sin vínculos políticos",
+        "Ciudadanía (menor garantía de fiscalización imparcial)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Elección discrecional en funciones de fiscalización",
+      "Elevado complemento salarial específico",
+      "Potencial conflicto de intereses por sistema de provisión"
+    ]
+  },
+  "tweeted": false
+}
