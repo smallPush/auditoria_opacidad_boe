@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23036",
+  "timestamp": "2026-11-04T06:24:16.763Z",
+  "title": "Resolución de 28 de octubre de 2026, del Ayuntamiento de Altea (Alicante/Alacant), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria para una única plaza de Técnico/a de Sanidad de escala superior mediante el sistema de concurso-oposición. Este método, al incluir una fase de concurso (méritos), suele reducir la competitividad real para candidatos externos frente a personal interino que ya ocupa el puesto. Existe una fragmentación informativa, ya que las bases completas residen en el Boletín Provincial y no en el BOE, dificultando el acceso rápido a la información sobre los criterios de baremación.",
+    "resumen_ciudadano": "El Ayuntamiento de Altea ha abierto el plazo para una plaza de alto nivel en el área de Sanidad. Aunque es de turno libre, el proceso incluye valoración de méritos previos, lo que habitualmente beneficia a quienes ya trabajan para la administración local. Los interesados tienen 20 días hábiles para inscribirse tras la publicación.",
+    "resumen_tweet": "🚩 ¡Alerta en Altea! Convocada plaza de Técnico de Sanidad (Clase Superior) por concurso-oposición. Este sistema suele blindar a interinos, limitando la meritocracia pura para el ciudadano externo. 🏥⚖️ #BOE #Opacidad #Transparencia #Altea",
+    "banderas_red_flags": [
+      "Sistema de concurso-oposición para plaza única",
+      "Opacidad en la descripción de funciones en el extracto",
+      "Dependencia de boletines periféricos para consultar baremos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino del Ayuntamiento de Altea",
+        "Administración local (estabilización de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores noveles sin experiencia previa",
+        "Talento externo de otras regiones",
+        "Igualdad de oportunidades absoluta"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Sistema de concurso-oposición para plaza única",
+      "Opacidad en la descripción de funciones en el extracto",
+      "Dependencia de boletines periféricos para consultar baremos"
+    ]
+  },
+  "tweeted": false
+}
