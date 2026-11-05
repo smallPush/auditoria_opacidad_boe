@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23186",
+  "timestamp": "2026-11-05T06:36:33.532Z",
+  "title": "Resolución de 26 de octubre de 2026, de la Universidad de La Laguna, por la que se nombra Catedrático de Universidad a don Pedro Carlos Esparza Ferrera.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento cumple con la formalidad administrativa estándar, pero perpetúa la opacidad estructural de la universidad pública española. Aunque se citan las leyes (LOSU y reglamentos internos), el BOE actúa como un simple tablón de anuncios sin exponer los méritos específicos ni la puntuación del candidato. La falta de mención al impacto presupuestario anual que supone un cargo de catedrático es una omisión habitual que impide el control fiscal ciudadano directo.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de Pedro Carlos Esparza Ferrera como Catedrático de Química Inorgánica en la Universidad de La Laguna. Este es un puesto de funcionario de máximo nivel tras superar un concurso de acceso convocado meses antes.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la Univ. de La Laguna: Pedro Carlos Esparza Ferrera accede a la élite docente en Química Inorgánica. Proceso legal cumplido, pero sin transparencia sobre el coste real para el contribuyente 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial o coste total de la plaza",
+      "Falta de visibilidad sobre los criterios de evaluación de la comisión",
+      "Proceso de concurso de acceso potencialmente endogámico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Pedro Carlos Esparza Ferrera",
+        "Universidad de La Laguna",
+        "Departamento de Química"
+      ],
+      "perdedores": [
+        "Candidatos descartados no identificados",
+        "Contribuyentes (falta de transparencia en gasto de personal)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial o coste total de la plaza",
+      "Falta de visibilidad sobre los criterios de evaluación de la comisión",
+      "Proceso de concurso de acceso potencialmente endogámico"
+    ]
+  },
+  "tweeted": false
+}
