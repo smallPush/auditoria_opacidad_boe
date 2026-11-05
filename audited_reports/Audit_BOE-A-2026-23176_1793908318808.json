@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-23176",
+  "timestamp": "2026-11-05T19:51:58.808Z",
+  "title": "Real Decreto 957/2026, de 4 de noviembre, de desarrollo del régimen jurídico de la prestación económica por cuidado de menores afectados por cáncer u otra enfermedad grave en el sistema de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 957/2026 moderniza la prestación por cuidado de menores con enfermedades graves, adaptándola a la realidad de la 'hospitalización a domicilio'. Aunque amplía derechos (incluye TEA y extiende cobertura hasta los 26 años o más en casos de gran discapacidad), introduce un nuevo 'embudo' burocrático: un informe vinculante de la Inspección Médica cada dos años. Este mecanismo, bajo la bandera de la 'transparencia', actúa como un control de gasto encubierto que puede generar inseguridad jurídica en familias con situaciones crónicas ya consolidadas. La 'Guía Técnica' mencionada es un documento para-legal que podría condicionar la autonomía de los facultativos.",
+    "resumen_ciudadano": "Se actualiza el subsidio para padres de niños con cáncer o enfermedades graves. Se incluyen nuevas patologías como el Autismo, se permite que ambos padres cobren la ayuda simultáneamente y se elimina el mínimo de jornada del 25% para poder solicitarla. Sin embargo, se endurece el control médico cada dos años.",
+    "resumen_tweet": "🏥 Actualizado el subsidio por cuidado de menores con cáncer y enfermedades graves. Se incluye el Autismo y se extiende a mayores de 26 años con discapacidad. ¡Ojo! 👁️ Control médico cada 2 años: ¿trámite o recorte? #BOE #Opacidad #Sanidad ⚖️",
+    "banderas_red_flags": [
+      "Informe vinculante de la Inspección Médica cada 2 años (potencial barrera de acceso)",
+      "Creación de una 'Guía Técnica' orientativa que puede imponer criterios económicos sobre los clínicos",
+      "Ambigüedad en la acreditación de convivencia en casos de divorcios conflictivos",
+      "Dependencia de una orden ministerial posterior para la actualización del listado de enfermedades"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias con hijos con Trastorno del Espectro Autista (nueva inclusión)",
+        "Trabajadores con contratos de muy pocas horas (menos del 25% de jornada)",
+        "Padres que buscan corresponsabilidad (permite cobro simultáneo)",
+        "Adultos con discapacidad mayor al 65% que antes perdían la ayuda al crecer"
+      ],
+      "perdedores": [
+        "Presupuesto de la Seguridad Social (mayor presión de gasto)",
+        "Familias en procesos crónicos que enfrentarán revisiones bienales estresantes",
+        "Médicos de atención primaria con mayor carga de gestión de informes"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Desarrollo",
+    "banderas_rojas": [
+      "Informe vinculante de la Inspección Médica cada 2 años (potencial barrera de acceso)",
+      "Creación de una 'Guía Técnica' orientativa que puede imponer criterios económicos sobre los clínicos",
+      "Ambigüedad en la acreditación de convivencia en casos de divorcios conflictivos",
+      "Dependencia de una orden ministerial posterior para la actualización del listado de enfermedades"
+    ]
+  },
+  "tweeted": false
+}
