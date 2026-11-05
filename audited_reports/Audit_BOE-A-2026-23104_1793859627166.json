@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23104",
+  "timestamp": "2026-11-05T06:20:27.166Z",
+  "title": "Real Decreto-ley 32/2026, de 3 de noviembre, de ayudas a las víctimas del accidente ferroviario de Urda (Toledo) y por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto-ley utiliza la tragedia ferroviaria de Urda como catalizador para introducir una modificación estructural en la Ley General para la Defensa de los Consumidores (TRLGVC). Se observa una 'cláusula de oportunidad' al vincular ayudas directas a víctimas con una potestad discrecional del Consejo de Ministros para intervenir precios de transporte y alojamiento en situaciones de emergencia. Aunque se justifica como protección ante la vulnerabilidad, la redacción permite una interpretación amplia de qué constituye una 'situación de demanda anómala'. Además, la subrogación del Estado en los derechos de crédito de las víctimas implica que el erario público asume el riesgo financiero inmediato frente a las operadoras privadas (Renfe e ILSA), sin garantía plena de recuperación total de los anticipos concedidos.",
+    "resumen_ciudadano": "Se aprueban ayudas urgentes para las víctimas del choque de trenes en Urda (69 fallecidos). Estas ayudas incluyen pagos directos y anticipos de indemnizaciones que el Estado pagará primero para luego reclamar a las empresas ferroviarias. Paralelamente, la ley prohíbe que hoteles y transportes suban los precios aprovechando futuras emergencias o catástrofes, obligándoles a mantener las tarifas previas al suceso salvo que justifiquen costes mayores.",
+    "resumen_tweet": "⚠️ El #BOE publica ayudas por la tragedia de Urda pero ojo: incluye un 'caballo de Troya' legislativo para intervenir precios de transporte y hoteles en emergencias. El Estado adelanta el dinero que deben pagar las operadoras. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Subrogación estatal de créditos privados",
+      "Intervención de precios mediante Real Decreto-ley (urgencia)",
+      "Modificación permanente de la Ley de Consumidores vía decreto de emergencia",
+      "Ambigüedad en la duración de 'condiciones de demanda anómala'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas y familiares (liquidez inmediata)",
+        "Gobierno (capacidad de control de precios de mercado)",
+        "Sector público (imagen de respuesta rápida)"
+      ],
+      "perdedores": [
+        "Operadores privados de transporte (ILSA/Iryo)",
+        "Sector hotelero (limitación de márgenes en picos de demanda)",
+        "Contribuyentes (asunción de riesgos de impago de indemnizaciones por parte de las empresas)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Ayudas por Catástrofe y Regulación Económica",
+    "banderas_rojas": [
+      "Subrogación estatal de créditos privados",
+      "Intervención de precios mediante Real Decreto-ley (urgencia)",
+      "Modificación permanente de la Ley de Consumidores vía decreto de emergencia",
+      "Ambigüedad en la duración de 'condiciones de demanda anómala'"
+    ]
+  },
+  "tweeted": false
+}
