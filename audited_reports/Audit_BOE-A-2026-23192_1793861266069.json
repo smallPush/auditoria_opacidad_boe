@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-23192",
+  "timestamp": "2026-11-05T06:47:46.069Z",
+  "title": "Resolución de 27 de octubre de 2026, de la Universidad de Málaga, por la que se nombra Catedrática de Universidad a doña Alicia Triviño Cabrera.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo de nombramiento de funcionaria de carrera tras superar un proceso selectivo de concurso. Destaca positivamente el acceso de una mujer a una cátedra en el área de Ingeniería Eléctrica, un campo tradicionalmente masculinizado. No obstante, la resolución utiliza la fórmula estándar de 'emolumentos vigentes' sin especificar el impacto presupuestario anual que supone este ascenso de nivel en la escala funcionarial, dificultando la fiscalización ciudadana del gasto en personal de alta dirección académica.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado oficialmente a Alicia Triviño Cabrera como Catedrática de Universidad en Ingeniería Eléctrica tras ganar un concurso público. La nueva catedrática tiene 20 días para tomar posesión de su cargo.",
+    "resumen_tweet": "🎓 Nueva Catedrática en la @InfoUMA: Alicia Triviño Cabrera liderará Ingeniería Eléctrica. Un avance para la mujer en áreas STEM, aunque el #BOE oculte el sueldo real tras la frase 'emolumentos vigentes'. ⚡️📈 #Transparencia #Universidad #Málaga",
+    "banderas_red_flags": [
+      "Opacidad en la cuantía exacta de los emolumentos",
+      "Remisión a normas externas para el cálculo salarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alicia Triviño Cabrera (ascenso profesional)",
+        "Universidad de Málaga (consolidación de personal)",
+        "Representación de género en áreas STEM"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el concurso previo",
+        "Contribuyentes (por falta de transparencia en el coste salarial específico)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos y Recursos Humanos",
+    "banderas_rojas": [
+      "Opacidad en la cuantía exacta de los emolumentos",
+      "Remisión a normas externas para el cálculo salarial"
+    ]
+  },
+  "tweeted": false
+}
