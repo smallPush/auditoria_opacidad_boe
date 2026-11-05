@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23175",
+  "timestamp": "2026-11-05T19:49:48.021Z",
+  "title": "Orden CLT/1162/2026, de 30 de octubre, por la que se establece la obligatoriedad de comunicaciones y notificaciones por medios electrónicos en los procedimientos de concesión de subvenciones y ayudas de la Dirección General de Artes Escénicas y Música.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La orden impone la obligatoriedad digital basándose en una presunción de 'capacidad técnica' de las personas físicas (autónomos del RETA) que no siempre se corresponde con la realidad del sector cultural precario. Aunque se vende como eficiencia, elimina la opción de atención presencial, lo que puede actuar como una barrera de entrada para artistas individuales frente a grandes estructuras corporativas. El punto más opaco es la inclusión de 'subvenciones nominativas' (asignadas a dedo) en este régimen simplificado, lo que facilita la gestión interna de fondos discrecionales sin aumentar necesariamente la fiscalización pública del destino real de los fondos.",
+    "resumen_ciudadano": "Si eres músico, bailarín o trabajas en teatro y quieres pedir una ayuda al Ministerio de Cultura, olvídate del papel. A partir de ahora, toda gestión, desde la solicitud hasta la notificación, será obligatoriamente electrónica. Esto afecta incluso a los autónomos, a quienes la administración ya presupone con medios y conocimientos técnicos suficientes para manejar certificados digitales y sedes electrónicas complejas.",
+    "resumen_tweet": "🚨 ¡Atención artistas! El Ministerio de Cultura impone el fin del papel. Obligatorio tramitar ayudas de música y teatro solo por vía electrónica 💻. ¿Eficiencia o barrera digital para los autónomos del RETA? #BOE #Opacidad #Transparencia 🎭🎶",
+    "banderas_red_flags": [
+      "Presunción de capacidad técnica para autónomos sin estudio previo de brecha digital",
+      "Inclusión de subvenciones nominativas (discrecionales) en procesos automatizados",
+      "Posible exclusión indirecta de perfiles artísticos con bajos recursos tecnológicos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (ahorro en gestión física)",
+        "Grandes productoras culturales (con gestorías propias)",
+        "Empresas de software y certificación digital"
+      ],
+      "perdedores": [
+        "Pequeños artistas independientes",
+        "Autónomos del RETA en zonas rurales o con brecha digital",
+        "Artistas de avanzada edad con dificultades tecnológicas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Digitalización Administrativa y Subvenciones",
+    "banderas_rojas": [
+      "Presunción de capacidad técnica para autónomos sin estudio previo de brecha digital",
+      "Inclusión de subvenciones nominativas (discrecionales) en procesos automatizados",
+      "Posible exclusión indirecta de perfiles artísticos con bajos recursos tecnológicos"
+    ]
+  },
+  "tweeted": false
+}
