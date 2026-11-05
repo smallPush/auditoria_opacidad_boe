@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23178",
+  "timestamp": "2026-11-05T06:31:45.859Z",
+  "title": "Resolución de 29 de octubre de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo del Pleno de 29 de octubre de 2026, por el que se aprueba la Instrucción relativa a la fiscalización de las contabilidades de las elecciones a las Cortes Generales de 29 de noviembre de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion establece un marco procedimental estricto para evitar que los partidos aleguen desconocimiento de los criterios tecnicos, una tactica comun para eludir sanciones. Sin embargo, se mantiene el 'punto ciego' de los gastos menores de 1.000 euros, que no requieren presentacion automatica de facturas, facilitando el fraccionamiento de contratos. Ademas, la validacion de intereses de creditos bancarios hasta un año despues de los comicios actua como una transferencia indirecta de fondos publicos al sector financiero, ya que el Estado acaba subvencionando el coste del endeudamiento de los partidos.",
+    "resumen_ciudadano": "El Tribunal de Cuentas ha publicado las normas para auditar el dinero que los partidos gastaran en las elecciones generales de 2026. Se exige el uso de sede electronica y se detallan que gastos de propaganda (mailing) pueden ser subvencionados. Se vigilaran especialmente los microcreditos y las aportaciones privadas para evitar financiacion ilegal, aunque se permite cierta flexibilidad en los gastos de menor cuantía.",
+    "resumen_tweet": "🔍 Auditamos el #BOE: El Tribunal de Cuentas fija las reglas para las elecciones de 2026. ¡Ojo! 👁️ Los gastos <1.000€ no requieren factura inmediata y los intereses bancarios se pagan con tu dinero. ¿#Transparencia o burocracia para los grandes? 💸🏛️",
+    "banderas_red_flags": [
+      "Umbral de 1.000 euros para omision de entrega de facturas",
+      "Inclusion de intereses bancarios post-electorales como gasto subvencionable",
+      "Complejidad tecnica que dificulta la fiscalizacion de partidos pequeños",
+      "Diferenciacion arbitraria entre buzoneo y mailing para obtener subvenciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes partidos con estructura contable",
+        "Banca (por intereses garantizados de creditos)",
+        "Empresas de logistica electoral"
+      ],
+      "perdedores": [
+        "Agrupaciones de electores sin recursos tecnicos",
+        "Pequeños proveedores locales",
+        "Contribuyentes (por el coste de intereses de deuda de partidos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolucion de Control Financiero",
+    "banderas_rojas": [
+      "Umbral de 1.000 euros para omision de entrega de facturas",
+      "Inclusion de intereses bancarios post-electorales como gasto subvencionable",
+      "Complejidad tecnica que dificulta la fiscalizacion de partidos pequeños",
+      "Diferenciacion arbitraria entre buzoneo y mailing para obtener subvenciones"
+    ]
+  },
+  "tweeted": false
+}
