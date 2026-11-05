@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23173",
+  "timestamp": "2026-11-05T19:37:14.340Z",
+  "title": "Entrada en vigor del Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por una parte, y el Reino de España, por otra, relativo al establecimiento del Centro Común de Investigación de la Comisión Europea en Sevilla, hecho en Sevilla el 30 de junio de 2025.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una resolución que formaliza la entrada en vigor de un acuerdo internacional para establecer el Centro Común de Investigación (JRC) en Sevilla. La opacidad reside en la fragmentación de la información: el texto remite a un BOE de 2025 para conocer los detalles, obligando al ciudadano a un rastreo arqueológico legislativo. Además, las materias indexadas revelan la concesión de 'privilegios e inmunidades', un eufemismo legal que suele implicar exenciones fiscales y regímenes jurídicos especiales para funcionarios internacionales, cuyos costes indirectos para las arcas públicas españolas nunca se detallan en estas resoluciones.",
+    "resumen_ciudadano": "España ratifica definitivamente la sede del Centro Común de Investigación de la UE en Sevilla. Si bien supone un impulso científico para la región, el acuerdo conlleva cláusulas de inmunidad y privilegios para el personal del centro que no se explican en el documento actual, ocultando el impacto fiscal real de la operación.",
+    "resumen_tweet": "🏢 Sevilla ya es sede oficial del Centro Común de Investigación de la UE. Pero ¡ojo! 👁️ El acuerdo incluye 'privilegios e inmunidades' que huelen a opacidad fiscal para las élites europeas. ¿Quién paga los costes? 💸 #BOE #Opacidad #Transparencia #Sevilla",
+    "banderas_red_flags": [
+      "Referencia a privilegios e inmunidades no detallados",
+      "Fragmentación documental (remisión a publicaciones de 2025)",
+      "Falta de memoria económica adjunta",
+      "Uso de terminología técnica para enmascarar acuerdos fiscales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios de la Comisión Europea (inmunidad y ventajas fiscales)",
+        "Sector de la construcción e infraestructuras en Sevilla",
+        "Élite científica vinculada a proyectos de Euratom"
+      ],
+      "perdedores": [
+        "Contribuyentes locales (asumen el coste de servicios sin recaudación fiscal del centro)",
+        "Ciudadanos de a pie (por la opacidad en las condiciones de soberanía cedidas)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Tratado Internacional / Investigación Científica",
+    "banderas_rojas": [
+      "Referencia a privilegios e inmunidades no detallados",
+      "Fragmentación documental (remisión a publicaciones de 2025)",
+      "Falta de memoria económica adjunta",
+      "Uso de terminología técnica para enmascarar acuerdos fiscales"
+    ]
+  },
+  "tweeted": false
+}
