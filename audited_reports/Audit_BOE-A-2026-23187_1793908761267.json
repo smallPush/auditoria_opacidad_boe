@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23187",
+  "timestamp": "2026-11-05T19:59:21.267Z",
+  "title": "Resolución de 26 de octubre de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad a don Javier Cerezo Bastida.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento tras un concurso de acceso. Aunque se cita la Ley Orgánica 2/2023 (LOSU) y se identifica el código de la plaza (211636), existe la opacidad habitual sobre la cuantía económica que esta plaza detraerá de los presupuestos públicos a largo plazo. No se detalla la escala salarial ni los complementos asociados. En términos de género, se observa la consolidación de un perfil masculino en el área de Química Física, una disciplina STEM donde la brecha de género en niveles de titularidad sigue siendo un desafío legislativo no resuelto por la LOSU a pesar de su retórica.",
+    "resumen_ciudadano": "La Universidad de Murcia ha nombrado oficialmente a Javier Cerezo Bastida como Profesor Titular de Universidad en el área de Química Física. Este es un puesto de funcionario de carrera que otorga estabilidad laboral de por vida tras haber superado el proceso selectivo iniciado en mayo de 2026.",
+    "resumen_tweet": "🎓 Nuevo profesor titular en la Univ. de Murcia. El #BOE publica el nombramiento pero mantiene la #Opacidad sobre el coste salarial real de la plaza 211636. ¿Transparencia o burocracia de siempre? 🧐📉 #Transparencia #Murcia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de información sobre el número de aspirantes en el proceso selectivo",
+      "Persistencia de perfiles masculinos en áreas STEM"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Javier Cerezo Bastida (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Murcia (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocen el coste total del compromiso financiero)",
+        "Candidatos descartados (opacidad sobre la competencia en el proceso)"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario asociado a la plaza",
+      "Falta de información sobre el número de aspirantes en el proceso selectivo",
+      "Persistencia de perfiles masculinos en áreas STEM"
+    ]
+  },
+  "tweeted": false
+}
