@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23185",
+  "timestamp": "2026-11-05T06:38:28.198Z",
+  "title": "Resolución de 26 de octubre de 2026, conjunta de la Universidad de Málaga y el Servicio Andaluz de Salud, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Gabriel María Olveira Fuster.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolucion oficializa una plaza vinculada, figura juridica que permite a un mismo individuo ostentar cargos en la Universidad y en el Servicio Andaluz de Salud simultaneamente. Aunque el procedimiento sigue la Ley Organica 2/2023, existe una opacidad intrinseca al no desglosar la carga presupuestaria dual (universitaria y asistencial), protegiendose en la frase estandar de 'emolumentos segun disposiciones vigentes' para evitar la transparencia salarial directa.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Catedratico en la Universidad de Malaga que, al mismo tiempo, trabajara como medico especialista en el Hospital Regional. Esta doble funcion une los presupuestos de educacion y sanidad en una sola persona, consolidando a una figura de elite dentro del sistema publico andaluz sin especificar el coste total para el contribuyente.",
+    "resumen_tweet": "🏥🎓 Nuevo catedratico vinculado en Malaga: una sola persona para docencia y medicina clinica. Aunque legal, la opacidad salarial persiste bajo el velo de 'disposiciones vigentes'. ¿Eficiencia o acumulacion de cargos? #BOE #Transparencia #Malaga #SAS",
+    "banderas_red_flags": [
+      "Opacidad en la cuantia de emolumentos",
+      "Dualidad de cargos publicos vinculados",
+      "Lenguaje administrativo que dificulta la fiscalizacion economica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gabriel Maria Olveira Fuster",
+        "Universidad de Malaga",
+        "Servicio Andaluz de Salud"
+      ],
+      "perdedores": [
+        "Transparencia presupuestaria",
+        "Candidatos externos al sistema de plazas vinculadas"
+      ]
+    },
+    "comunidad_autonoma": "Andalucia",
+    "tipologia": "Nombramiento de Personal Docente y Sanitario",
+    "banderas_rojas": [
+      "Opacidad en la cuantia de emolumentos",
+      "Dualidad de cargos publicos vinculados",
+      "Lenguaje administrativo que dificulta la fiscalizacion economica"
+    ]
+  },
+  "tweeted": false
+}
