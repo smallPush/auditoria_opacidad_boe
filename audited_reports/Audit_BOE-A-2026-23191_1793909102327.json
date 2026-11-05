@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23191",
+  "timestamp": "2026-11-05T20:05:02.327Z",
+  "title": "Resolución de 27 de octubre de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Eduardo Espinosa Víctor.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario docente. Aunque el texto cumple con la legalidad formal (LOSU y RD 678/2023), presenta la opacidad intrínseca de los procesos de concurso-oposición donde los méritos específicos y la deliberación de la Comisión Calificadora no son públicos en el BOE, derivando la transparencia a boletines autonómicos o tablones internos. No hay gastos fantasma, pero sí una consolidación de gasto público estructural de larga duración.",
+    "resumen_ciudadano": "La Universidad de Córdoba ha nombrado oficialmente a Eduardo Espinosa Víctor como Profesor Titular de Ingeniería Química tras superar el proceso selectivo correspondiente. Este nombramiento otorga la condición de funcionario de carrera al interesado.",
+    "resumen_tweet": "🎓 Nuevo nombramiento en la @UnivCordoba: Eduardo Espinosa Víctor accede a una plaza de Profesor Titular de Ingeniería Química. Un trámite de consolidación de empleo público bajo la LOSU que carece de desglose salarial en el #BOE. #Transparencia #Cátedra",
+    "banderas_red_flags": [
+      "Opacidad en la baremación final de méritos en el extracto",
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Remisión a documentos externos (BOJA) para detalles de la convocatoria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Eduardo Espinosa Víctor (estabilidad laboral y estatus de funcionario)",
+        "Universidad de Córdoba (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados en el concurso previo",
+        "Ciudadanía (por la falta de transparencia salarial directa en el nombramiento)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal",
+    "banderas_rojas": [
+      "Opacidad en la baremación final de méritos en el extracto",
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Remisión a documentos externos (BOJA) para detalles de la convocatoria"
+    ]
+  },
+  "tweeted": false
+}
