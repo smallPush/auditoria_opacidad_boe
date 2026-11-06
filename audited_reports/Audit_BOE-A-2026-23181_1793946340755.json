@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23181",
+  "timestamp": "2026-11-06T06:25:40.755Z",
+  "title": "Real Decreto 947/2026, de 28 de octubre, por el que se nombra Presidenta del Tribunal de Instancia de Santander a la Magistrada doña María Rosa Martínez López.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento formaliza un nombramiento judicial basado en una eleccion interna de la Junta de Jueces. Aunque cumple la legalidad, el proceso de 'eleccion' interna suele carecer de exposicion publica de meritos comparados, manteniendo el hermetismo de la carrera judicial. Se trata de una estructura de autogobierno que blinda la promocion interna frente al escrutinio ciudadano.",
+    "resumen_ciudadano": "Se nombra a la Magistrada Maria Rosa Martinez Lopez como nueva Presidenta del Tribunal de Instancia de Santander. El cargo se otorga tras una votacion realizada por sus propios companeros jueces y la ratificacion del Consejo General del Poder Judicial.",
+    "resumen_tweet": "⚖️ Maria Rosa Martinez Lopez es la nueva Presidenta del Tribunal de Instancia de Santander. Un nombramiento por votacion interna entre jueces que refuerza el autogobierno judicial. ¿Mas transparencia o mas endogamia? #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de publicidad de baremos de merito",
+      "Decision basada en procesos internos de juntas cerradas",
+      "Falta de informacion sobre el impacto presupuestario del nuevo cargo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Rosa Martinez Lopez",
+        "Cuerpo de la Magistratura",
+        "Consejo General del Poder Judicial"
+      ],
+      "perdedores": [
+        "Transparencia meritocratica publica",
+        "Candidatos externos al circulo de confianza de la Junta de Jueces"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramiento de Alto Cargo Judicial",
+    "banderas_rojas": [
+      "Ausencia de publicidad de baremos de merito",
+      "Decision basada en procesos internos de juntas cerradas",
+      "Falta de informacion sobre el impacto presupuestario del nuevo cargo"
+    ]
+  },
+  "tweeted": false
+}
