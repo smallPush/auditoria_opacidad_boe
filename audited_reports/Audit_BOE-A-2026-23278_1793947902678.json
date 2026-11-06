@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-23278",
+  "timestamp": "2026-11-06T06:51:42.678Z",
+  "title": "Real Decreto 962/2026, de 4 de noviembre, por el que se adjudica plaza vacante de segunda categoría de la Fiscalía Provincial de Madrid a doña Elena Ortiz García.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento representa un acto administrativo ordinario de gestion de personal dentro de la carrera fiscal. Aunque cumple con la legalidad formal (Art. 83.3 del Reglamento del Ministerio Fiscal), la publicacion carece de informacion sobre los meritos comparativos de la adjudicataria frente a otros posibles candidatos, limitandose a citar la propuesta de la Fiscalia General del Estado. No se detectan gastos fantasma directos, pero el proceso refuerza la estructura de nombramientos donde la discrecionalidad de la propuesta interna es absoluta.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de doña Elena Ortiz Garcia como fiscal de segunda categoria en la Fiscalia Provincial de Madrid. Es un movimiento interno de personal judicial que consolida una plaza que ya venia ocupando de forma provisional o adscrita.",
+    "resumen_tweet": "⚖️ Nombramiento en la Fiscalia de Madrid: Elena Ortiz Garcia consolida plaza de 2ª categoria. Un tramite ordinario que mantiene la estructura judicial sin cambios de calado presupuestario. #BOE #Justicia #Transparencia #Madrid",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de seleccion de la propuesta de la FGE",
+      "Ausencia de justificacion de meritos en el texto publico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Ortiz Garcia (estabilidad laboral en 2ª categoria)",
+        "Ministerio de Justicia (control administrativo)"
+      ],
+      "perdedores": [
+        "Otros aspirantes a la plaza (invisibilizados)",
+        "Ciudadania (por falta de detalle en la idoneidad del cargo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Opacidad en los criterios de seleccion de la propuesta de la FGE",
+      "Ausencia de justificacion de meritos en el texto publico"
+    ]
+  },
+  "tweeted": false
+}
