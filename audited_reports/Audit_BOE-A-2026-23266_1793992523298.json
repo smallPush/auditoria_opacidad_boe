@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23266",
+  "timestamp": "2026-11-06T19:15:23.298Z",
+  "title": "Real Decreto 951/2026, de 4 de noviembre, por el que se modifica el Real Decreto 1146/2006, de 6 de octubre, por el que se regula la relación laboral especial de residencia para la formación de especialistas en Ciencias de la Salud.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque el decreto establece límites claros (35h jornada ordinaria, 45h total), detectamos opacidad en la 'voluntariedad' de las guardias adicionales. En la práctica clínica, el consentimiento suele ser tácito o forzado por la jerarquía. Además, existe un 'Gasto Fantasma' potencial al no concretar las cuantías retributivas, delegándolas a leyes de presupuestos futuras. La entrada en vigor diferida hasta 2027 en puntos clave sugiere una falta de urgencia real frente al agotamiento del personal.",
+    "resumen_ciudadano": "Nueva regulación para médicos y sanitarios residentes: se fija una jornada de 35 horas semanales y un máximo de 45 horas incluyendo guardias. Se garantiza el descanso de 12 horas tras una guardia y se exige un registro horario para evitar abusos. Sin embargo, se permite ampliar guardias de 4 a 7 al mes si el residente 'acepta', lo que mantiene la puerta abierta a la sobreexplotación en centros saturados.",
+    "resumen_tweet": "🚨 ¡Ojo al nuevo #BOE! Se limitan las guardias y jornada de 35h para residentes 🏥 pero se abre la puerta a 'ampliaciones voluntarias' que huelen a presión asistencial 🚩 ¿Protección o parche? El sueldo real sigue en el aire. ⚖️ #Opacidad #Sanidad",
+    "banderas_red_flags": [
+      "Consentimiento 'voluntario' para ampliar guardias (riesgo de coacción jerárquica)",
+      "Cláusula de 'emergencia asistencial' que permite saltarse descansos",
+      "Retribuciones no cuantificadas remitidas a futuras leyes",
+      "Implementación diferida hasta 2027 para artículos críticos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Médicos Internos Residentes (MIR) y otros especialistas en formación (mejor marco legal)",
+        "Sindicatos sanitarios (por la consolidación de las 35h)",
+        "Seguridad del paciente (menor fatiga del profesional)"
+      ],
+      "perdedores": [
+        "Gerencias de hospitales (necesitarán contratar más personal)",
+        "Administraciones Públicas (por el incremento de costes de atención continuada)",
+        "Equipos de supervisión (por la carga del nuevo registro horario)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Modificación Laboral",
+    "banderas_rojas": [
+      "Consentimiento 'voluntario' para ampliar guardias (riesgo de coacción jerárquica)",
+      "Cláusula de 'emergencia asistencial' que permite saltarse descansos",
+      "Retribuciones no cuantificadas remitidas a futuras leyes",
+      "Implementación diferida hasta 2027 para artículos críticos"
+    ]
+  },
+  "tweeted": false
+}
