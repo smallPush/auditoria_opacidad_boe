@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23282",
+  "timestamp": "2026-11-06T19:30:58.198Z",
+  "title": "Resolución de 29 de octubre de 2026, de la Presidencia del Consejo Superior de Deportes, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 11 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El documento refleja un nombramiento por el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite a la administración elegir candidatos basándose en la confianza política más que en el concurso puro de méritos. Destaca que la adjudicataria asciende desde un nivel 24 en la Oficina Española de Patentes y Marcas a un nivel 28 en el Consejo Superior de Deportes, lo que representa un salto significativo de estatus y retribución dentro de la carrera funcionarial, sin que se motiven las razones específicas de su idoneidad técnica sobre otros posibles aspirantes.",
+    "resumen_ciudadano": "El Consejo Superior de Deportes ha asignado 'a dedo' la jefatura del Área de Asesoría Técnica a una funcionaria proveniente del Ministerio de Industria. A pesar de ser un puesto de alta responsabilidad (Nivel 28), el proceso se realiza por libre designación, evitando un concurso público donde se comparen objetivamente los méritos de todos los candidatos interesados.",
+    "resumen_tweet": "🚨 ¿Meritocracia o confianza? El CSD otorga una jefatura de nivel 28 mediante 'libre designación'. Una funcionaria salta desde un nivel 24 sin una explicación pública de méritos. El sistema de cargos a dedo sigue vigente. 🏛️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación (procedimiento discrecional)",
+      "Salto de nivel administrativo (de 24 a 28)",
+      "Falta de motivación en la elección del candidato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Pérez López (ascenso de categoría y nivel salarial)",
+        "Presidencia del CSD (colocación de personal de confianza)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con mayores méritos no evaluados",
+        "Ciudadanía (incertidumbre sobre la eficiencia basada en méritos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal de Alta Dirección",
+    "banderas_rojas": [
+      "Libre designación (procedimiento discrecional)",
+      "Salto de nivel administrativo (de 24 a 28)",
+      "Falta de motivación en la elección del candidato"
+    ]
+  },
+  "tweeted": false
+}
