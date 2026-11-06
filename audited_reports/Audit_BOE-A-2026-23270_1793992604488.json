@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23270",
+  "timestamp": "2026-11-06T19:16:44.488Z",
+  "title": "Orden VAU/1167/2026, de 4 de noviembre, por la que se regulan los mecanismos de seguimiento, control y evaluación de las actuaciones y suministro de información del Plan Estatal de Vivienda 2026-2030, de acuerdo con el Real Decreto 326/2026, de 22 de abril, por el que se regula el Plan Estatal de Vivienda 2026-2030.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden VAU/1167/2026 establece un marco técnico avanzado para el seguimiento del Plan Estatal de Vivienda mediante la automatización de datos 'máquina a máquina'. No obstante, el análisis detecta una excesiva delegación en las 'Instrucciones Técnicas' que no se publican en el BOE, creando una zona de sombra sobre qué datos específicos se están fiscalizando. El sistema de 'autocertificación' por parte de las CCAA presenta un riesgo de validación circular donde el propio gestor certifica su cumplimiento sin auditoría ciudadana externa obligatoria.",
+    "resumen_ciudadano": "El Gobierno ha diseñado un nuevo sistema informático centralizado para controlar cómo las Comunidades Autónomas gastan el dinero del Plan Estatal de Vivienda 2026-2030. Las CCAA deberán informar mensualmente sobre a quién conceden ayudas y cuánto pagan. Aunque se busca evitar el extravío de fondos, el enfoque es puramente administrativo y pospone la medición del impacto real en la vida de los ciudadanos a informes futuros.",
+    "resumen_tweet": "🏠 ¿Dónde va el dinero del Plan de Vivienda 2026? El nuevo #BOE centraliza el control digital pero deja el impacto social 'para el futuro'. Mucho dato técnico 'máquina a máquina' y poca fiscalización vecinal. #Opacidad #Transparencia #Vivienda 🔍",
+    "banderas_red_flags": [
+      "Opacidad en los criterios de desagregación de datos de los convenios bilaterales",
+      "Postergación de indicadores de impacto social a 'futuras notas metodológicas'",
+      "Sistema de control basado en autocertificaciones de los propios órganos gestores",
+      "Uso de 'Instrucciones Técnicas' externas al cuerpo de la ley para definir obligaciones sustantivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Vivienda (por la centralización del control de datos)",
+        "Empresas de consultoría y servicios IT (por la implementación de sistemas de interoperabilidad)",
+        "Grandes administraciones con alta capacidad técnica de reporte"
+      ],
+      "perdedores": [
+        "Ciudadanos en lista de espera (la norma agiliza el dato, no necesariamente la construcción)",
+        "CCAA con brecha digital o menores recursos administrativos",
+        "Transparencia pública (al derivar detalles técnicos a circulares no legislativas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (afecta a todas las CCAA y Ciudades Autónomas)",
+    "tipologia": "Regulación de control presupuestario y seguimiento administrativo",
+    "banderas_rojas": [
+      "Opacidad en los criterios de desagregación de datos de los convenios bilaterales",
+      "Postergación de indicadores de impacto social a 'futuras notas metodológicas'",
+      "Sistema de control basado en autocertificaciones de los propios órganos gestores",
+      "Uso de 'Instrucciones Técnicas' externas al cuerpo de la ley para definir obligaciones sustantivas"
+    ]
+  },
+  "tweeted": false
+}
