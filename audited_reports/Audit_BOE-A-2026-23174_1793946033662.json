@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23174",
+  "timestamp": "2026-11-06T06:20:33.662Z",
+  "title": "Orden HAC/1161/2026, de 4 de noviembre, por la que se desarrollan para el año 2027 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden HAC/1161/2026 perpetúa el sistema de estimación objetiva (módulos), un modelo que prioriza la facilidad recaudatoria sobre la equidad tributaria real. Se observa una inercia legislativa al 'mantener la estructura' de años anteriores, lo que sugiere una falta de revisión de si estos índices corresponden a la realidad económica actual. Las reducciones específicas para el sector agrario (gasóleo y fertilizantes) actúan como parches ante la inflación de insumos, pero no abordan la opacidad intrínseca de un sistema donde no se tributa por ingresos reales, permitiendo potenciales bolsas de fraude o infrautilización fiscal en sectores de alta facturación en efectivo.",
+    "resumen_ciudadano": "Hacienda fija cómo pagarán impuestos los autónomos y agricultores en 2027 bajo el sistema de módulos. Se mantiene el descuento general del 5% y se dan ayudas extra al campo (hasta 35% de descuento en gastos de gasóleo) para compensar precios altos. Este sistema permite pagar una cantidad fija en lugar de declarar beneficios reales.",
+    "resumen_tweet": "📢 Hacienda mantiene el sistema de módulos para 2027. Una prórroga que beneficia al sector primario con rebajas en gasóleo 🚜, pero perpetúa un modelo opaco frente a la tributación por beneficios reales. ¿Simplificación o falta de reforma? 🤔 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Inercia normativa por remisión a estructuras de 2025",
+      "Desfase potencial entre índices fijos y beneficios reales",
+      "Uso de reducciones fiscales como herramienta de contención de protestas sectoriales (agricultura)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Autónomos de hostelería y pequeño comercio",
+        "Explotaciones agrícolas y ganaderas (por rebajas en insumos)",
+        "Gestorías administrativas (por mantenimiento de un sistema complejo)"
+      ],
+      "perdedores": [
+        "Hacienda Pública (pérdida de recaudación potencial)",
+        "Contribuyentes en estimación directa (agravio comparativo)",
+        "Transparencia del sistema tributario"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Normativa Tributaria",
+    "banderas_rojas": [
+      "Inercia normativa por remisión a estructuras de 2025",
+      "Desfase potencial entre índices fijos y beneficios reales",
+      "Uso de reducciones fiscales como herramienta de contención de protestas sectoriales (agricultura)"
+    ]
+  },
+  "tweeted": false
+}
