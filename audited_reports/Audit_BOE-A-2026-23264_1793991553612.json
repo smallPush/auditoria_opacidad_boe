@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23264",
+  "timestamp": "2026-11-06T18:59:13.612Z",
+  "title": "Acuerdo entre el Principado de Andorra y el Reino de España en materia de acceso a la educación secundaria postobligatoria y a la educación superior no universitaria, hecho en Madrid y Andorra la Vella el 23 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El acuerdo es técnicamente preciso en su equivalencia de títulos (Anexos I y II), lo cual es positivo para la seguridad jurídica. Sin embargo, presenta dos puntos de opacidad clásica: primero, el Artículo 3.2 actúa como una 'cláusula de escape' que permite a los centros denegar el acceso efectivo a pesar del reconocimiento del título, manteniendo barreras de entrada arbitrarias. Segundo, el Artículo 6 crea un 'Grupo de Trabajo' con 8 representantes que genera gastos de desplazamiento y dietas no cuantificados ni sometidos a fiscalización previa específica en este texto.",
+    "resumen_ciudadano": "España y Andorra han firmado un acuerdo para que los títulos de Bachillerato, Formación Profesional y enseñanzas artísticas de un país sean válidos en el otro. Esto facilita que estudiantes de ambos lados de la frontera puedan continuar sus estudios. No obstante, tener el título reconocido no asegura una plaza si hay mucha competencia en el centro educativo elegido.",
+    "resumen_tweet": "🎓 ¿Vives entre España y Andorra? Nuevo acuerdo de reconocimiento de títulos de FP y Bachillerato. ✅ Facilidad para estudiar fuera, ⚠️ pero el título NO garantiza plaza en centros demandados. Más burocracia con 'grupos de trabajo'. #BOE #Opacidad #Educación",
+    "banderas_red_flags": [
+      "Artículo 3.2: El reconocimiento no garantiza la admisión efectiva",
+      "Artículo 6: Creación de grupo de trabajo sin desglose presupuestario de dietas/viajes",
+      "Artículo 7: Prórroga tácita automática que dificulta la revisión de resultados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estudiantes con alta movilidad geográfica",
+        "Centros de enseñanza privada en zonas fronterizas",
+        "Funcionarios designados para el Grupo de Trabajo"
+      ],
+      "perdedores": [
+        "Estudiantes de clases bajas con imposibilidad de sufragar movilidad transfronteriza",
+        "Transparencia presupuestaria (gastos de gestión del acuerdo no detallados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Internacional",
+    "tipologia": "Acuerdo Internacional de Cooperación Educativa",
+    "banderas_rojas": [
+      "Artículo 3.2: El reconocimiento no garantiza la admisión efectiva",
+      "Artículo 6: Creación de grupo de trabajo sin desglose presupuestario de dietas/viajes",
+      "Artículo 7: Prórroga tácita automática que dificulta la revisión de resultados"
+    ]
+  },
+  "tweeted": false
+}
