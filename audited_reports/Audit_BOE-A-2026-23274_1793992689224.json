@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23274",
+  "timestamp": "2026-11-06T19:18:09.224Z",
+  "title": "Ley 3/2026, de 8 de octubre, por la que se regulan los Bienes de Interés Turístico de la Región de Murcia y se modifica la Ley 12/2013, de 20 de diciembre, de Turismo de la Región de Murcia.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Ley 3/2026 de Murcia presenta una estructura de 'falsa apertura'. Aunque define criterios para los Bienes de Interés Turístico, centraliza un poder excesivo en la figura del Consejero, quien podrá otorgar 'premios y menciones' de forma discrecional (Disposición Final Primera), lo que constituye un riesgo de gasto fantasma o clientelismo. La modificación de la Ley 12/2013 endurece las sanciones para el alojamiento colaborativo, favoreciendo indirectamente al lobby hotelero tradicional bajo la bandera de la 'clandestinidad'. Se detecta una vaguedad peligrosa en la exigencia de habilitación 'pertinente' para guías, un adjetivo subjetivo que puede usarse para excluir a profesionales independientes.",
+    "resumen_ciudadano": "Esta ley crea una nueva etiqueta de protección para sitios turísticos en Murcia, pero también endurece las reglas para alquilar alojamientos en plataformas como Airbnb, obligando a poner el número de registro en cada anuncio bajo amenaza de multas graves. Además, permite a la administración dar premios económicos o de reconocimiento sin criterios de presupuesto detallados en este texto.",
+    "resumen_tweet": "🕵️‍♂️ Murcia crea los Bienes de Interés Turístico, pero cuidado: abre la puerta a premios a dedo por el Consejero y endurece la persecución al pequeño alquiler online. ¿Más turismo o más control dirigido? 🏛️🚩 #BOE #Opacidad #Transparencia #Murcia",
+    "banderas_red_flags": [
+      "Discrecionalidad en la concesión de premios y menciones por el Consejero",
+      "Actualización de seguros de responsabilidad civil mediante orden administrativa (riesgo de barrera de entrada)",
+      "Uso del término subjetivo 'habilitación pertinente' para sancionar guías",
+      "Presupuesto para promoción de nuevos bienes no especificado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes cadenas hoteleras (reducción de competencia)",
+        "Entidades eclesiásticas y gestores de grandes monumentos",
+        "Administración Regional (mayor capacidad recaudatoria por sanciones)"
+      ],
+      "perdedores": [
+        "Pequeños propietarios de viviendas turísticas",
+        "Guías turísticos independientes",
+        "Plataformas digitales de economía colaborativa"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Legislación Turística y Administrativa",
+    "banderas_rojas": [
+      "Discrecionalidad en la concesión de premios y menciones por el Consejero",
+      "Actualización de seguros de responsabilidad civil mediante orden administrativa (riesgo de barrera de entrada)",
+      "Uso del término subjetivo 'habilitación pertinente' para sancionar guías",
+      "Presupuesto para promoción de nuevos bienes no especificado"
+    ]
+  },
+  "tweeted": false
+}
