@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23281",
+  "timestamp": "2026-11-06T19:27:21.667Z",
+  "title": "Resolución de 29 de octubre de 2026, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de mayo de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución detalla nombramientos por el sistema de 'Libre Designación', un mecanismo que permite la discrecionalidad en la elección de altos cargos en la Agencia Tributaria. Aunque se publican los nombres y salarios adicionales (Complementos Específicos), el proceso carece de una comparativa de méritos pública, lo que fomenta la endogamia administrativa. Se observa que en casi todos los casos, el puesto de procedencia es idéntico al adjudicado, lo que sugiere una formalización de puestos ya ocupados 'a dedo' o una rotación interna cerrada en la élite burocrática.",
+    "resumen_ciudadano": "La Agencia Tributaria ha confirmado a varios altos cargos en sus puestos mediante un sistema de elección directa en lugar de un concurso público de méritos. Estos cargos, que incluyen inspectores y asesores jurídicos, percibirán pluses salariales que oscilan entre los 21.000 y los 56.000 euros anuales, adicionales a su sueldo base, en áreas críticas como la lucha contra el blanqueo de capitales (SEPBLAC) y apoyo a la Fiscalía.",
+    "resumen_tweet": "🚨 ¡Dedo digital en Hacienda! El #BOE publica adjudicaciones de 'libre designación' con complementos de hasta 56.000€. Puestos clave en SEPBLAC y Fiscalía decididos sin concurso público. ¿Mérito o conveniencia? 🧐💸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso sistemático de la Libre Designación para puestos de alta responsabilidad",
+      "Complementos específicos extremadamente altos (hasta 56.713€)",
+      "Coincidencia total entre puesto de origen y adjudicado (puestos 'ad hoc')",
+      "Nombramientos en unidades de control de fraude y blanqueo bajo criterios discrecionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo de Inspectores de Hacienda",
+        "Élite administrativa en Madrid, Sevilla y Barcelona",
+        "Personal con perfiles jurídicos y de recursos humanos vinculados a la dirección"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin conexiones en la alta dirección",
+        "Contribuyentes (que financian salarios de alta dirección sin transparencia en los criterios de selección)",
+        "Principio de mérito y capacidad en el acceso a la función pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso sistemático de la Libre Designación para puestos de alta responsabilidad",
+      "Complementos específicos extremadamente altos (hasta 56.713€)",
+      "Coincidencia total entre puesto de origen y adjudicado (puestos 'ad hoc')",
+      "Nombramientos en unidades de control de fraude y blanqueo bajo criterios discrecionales"
+    ]
+  },
+  "tweeted": false
+}
