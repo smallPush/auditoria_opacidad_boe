@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-23183",
+  "timestamp": "2026-11-06T06:29:51.511Z",
+  "title": "Acuerdo de 28 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María del Prado Villanueva Cueva.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento es un acto administrativo estándar de jubilación forzosa por edad. Sin embargo, destaca que la magistrada se encuentra en situación de 'servicios especiales', lo que habitualmente implica el desempeño de cargos políticos o administrativos fuera de la judicatura mientras se reserva la plaza. Este tipo de transiciones bajo el régimen de 'Clases Pasivas' subraya la existencia de sistemas de protección social diferenciados para la élite judicial frente al régimen general de los trabajadores.",
+    "resumen_ciudadano": "Se formaliza la jubilación obligatoria por edad de una magistrada destinada en el Registro Civil de Madrid. Es un procedimiento rutinario que libera una plaza en la carrera judicial y activa el pago de su pensión pública bajo un régimen especial.",
+    "resumen_tweet": "⚖️ Jubilación forzosa en la cúpula judicial: la Magistrada Villanueva Cueva deja su puesto tras años en 'servicios especiales'. Se activa el régimen de Clases Pasivas. ¿Cómo afecta la rotación judicial a la agilidad de la justicia? #BOE #Justicia #Transparencia",
+    "banderas_red_flags": [
+      "Servicios especiales: posición que suele vincularse a cargos políticos o institucionales",
+      "Régimen de Clases Pasivas: sistema de pensiones diferenciado de la Seguridad Social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Magistrada jubilada (acceso a derechos pasivos)",
+        "Candidatos en la carrera judicial (vacante disponible)"
+      ],
+      "perdedores": [
+        "Sistema de Seguridad Social General (por el mantenimiento de regímenes especiales)",
+        "Ciudadanía (opacidad sobre los costes reales de las pensiones de altos cargos)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Servicios especiales: posición que suele vincularse a cargos políticos o institucionales",
+      "Régimen de Clases Pasivas: sistema de pensiones diferenciado de la Seguridad Social"
+    ]
+  },
+  "tweeted": false
+}
