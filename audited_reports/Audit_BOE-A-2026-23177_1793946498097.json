@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-23177",
+  "timestamp": "2026-11-06T06:28:18.097Z",
+  "title": "Real Decreto 958/2026, de 4 de noviembre, por el que se adoptan medidas de impulso de la tecnología DAB+ en el servicio de radiodifusión sonora digital terrestre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El decreto presenta una fachada de modernización técnica bajo el estándar DAB+, pero oculta una centralización del espectro. La red FU-E se reserva para 'usos experimentales' bajo discreción del Ministerio, lo que constituye un 'Gasto Fantasma' de recursos públicos (espectro) sin criterios de adjudicación competitivos claros. Además, la norma permite que hasta el 20% de la capacidad se use para 'servicios adicionales', una vía de escape para monetizar el espacio público con fines no periodísticos.",
+    "resumen_ciudadano": "El Gobierno actualiza la radio digital para que quepan más emisoras en el mismo espacio. Mientras la radio estatal pasa obligatoriamente al formato moderno (DAB+), las autonómicas y locales pueden quedarse atrás, creando una radio de dos velocidades. Se abre la puerta a 'experimentos' con frecuencias públicas sin explicar quién los pagará ni quién se beneficiará de ellos.",
+    "resumen_tweet": "📻 Nueva regulación de Radio Digital: ¿Impulso o control? Se duplica la capacidad de canales pero se reservan redes para 'experimentos' opacos. Cuidado con la obsolescencia de tu viejo receptor. 🧐📡 #BOE #Opacidad #Transparencia #DABPlus",
+    "banderas_red_flags": [
+      "Uso discrecional de la red FU-E para 'pruebas experimentales'",
+      "Posible obsolescencia programada de receptores actuales",
+      "Riesgo de concentración de medios al permitir 12 canales por red",
+      "Ambigüedad en la financiación de la transición tecnológica de RTVE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "RTVE (control total de la red MF-I)",
+        "Grandes grupos de comunicación con licencias estatales actuales",
+        "Fabricantes de tecnología de automoción y receptores",
+        "Empresas de infraestructura de telecomunicaciones"
+      ],
+      "perdedores": [
+        "Pequeñas emisoras locales (riesgo de asfixia técnica)",
+        "Ciudadanos con receptores de radio antiguos",
+        "Diversidad informativa (mayor control estatal del espectro)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Reglamentación Técnica / Telecomunicaciones",
+    "banderas_rojas": [
+      "Uso discrecional de la red FU-E para 'pruebas experimentales'",
+      "Posible obsolescencia programada de receptores actuales",
+      "Riesgo de concentración de medios al permitir 12 canales por red",
+      "Ambigüedad en la financiación de la transición tecnológica de RTVE"
+    ]
+  },
+  "tweeted": false
+}
