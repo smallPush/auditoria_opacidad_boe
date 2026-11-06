@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-23283",
+  "timestamp": "2026-11-06T19:25:38.247Z",
+  "title": "Resolución de 4 de noviembre de 2026, de la Delegación del Gobierno en la Comunidad de Madrid, por la que se corrigen errores en la de 26 de octubre de 2026, por la que se dispone el cese de doña María Pilar Trinidad Núñez como Subdelegada del Gobierno en Madrid.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "La resolución se presenta como una simple corrección de errores materiales, una práctica recurrente en el BOE para modificar fechas de efectos administrativos sin dar explicaciones sustantivas. En este caso, se retrasa un día el cese de la Subdelegada del Gobierno en Madrid. Este tipo de ajustes 'ex post' suelen estar vinculados a la liquidación de haberes, cotizaciones a la Seguridad Social o el cumplimiento de plazos legales para otros nombramientos, permitiendo al alto cargo percibir un día extra de salario y beneficios de alta dirección. Resulta llamativo que la propia interesada, María Pilar Trinidad Núñez, firme la resolución de corrección referida a su propio cese como Subdelegada, actuando ahora como Delegada.",
+    "resumen_ciudadano": "La administración ha corregido la fecha de salida de la Subdelegada del Gobierno en Madrid, extendiendo oficialmente su cargo un día más. Lo que parece un simple error de escritura garantiza que el cargo se mantenga en nómina y con plenos derechos hasta el 27 de octubre en lugar del 26.",
+    "resumen_tweet": "⚖️ ¿Error técnico o un día extra de sueldo? El #BOE retrasa 24h el cese de la Subdelegada en Madrid mediante una 'corrección de errores'. La micro-burocracia que ajusta privilegios de altos cargos. #Opacidad #Transparencia #Madrid",
+    "banderas_red_flags": [
+      "Modificación retroactiva de efectos económicos",
+      "Uso de la corrección de errores para ajustes de personal",
+      "Confusión de cargos en la firma del documento"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "María Pilar Trinidad Núñez (un día adicional de antigüedad y salario como alta dirección)"
+      ],
+      "perdedores": [
+        "Erario público (coste de gestión administrativa y jornada extra)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos, situaciones e incidencias",
+    "banderas_rojas": [
+      "Modificación retroactiva de efectos económicos",
+      "Uso de la corrección de errores para ajustes de personal",
+      "Confusión de cargos en la firma del documento"
+    ]
+  },
+  "tweeted": false
+}
