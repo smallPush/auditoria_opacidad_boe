@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23345",
+  "timestamp": "2026-11-07T17:43:34.793Z",
+  "title": "Resolución de 28 de octubre de 2026, de la Universidad de La Laguna, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la estabilización de personal docente. Aunque el proceso sigue la LOSU (Ley Orgánica 2/2023), el BOE solo muestra el resultado final, ocultando los costes salariales consolidados a largo plazo y la ponderación de méritos específicos. La endogamia universitaria es un riesgo latente en estos procesos de 'provisión de plazas' que a menudo funcionan como una regularización de facto de personal interno.",
+    "resumen_ciudadano": "La Universidad de La Laguna nombra a dos nuevos Profesores Titulares en Filología Inglesa. Esto implica que dos personas pasan a ser funcionarios de carrera con plaza vitalicia, lo cual asegura la estabilidad del departamento pero incrementa el gasto público fijo sin un desglose presupuestario directo en este anuncio.",
+    "resumen_tweet": "🎓 La Universidad de La Laguna suma 2 nuevos funcionarios en Filología Inglesa. Estabilidad laboral asegurada, pero ¿cuánto nos cuesta esto a largo plazo? El #BOE sigue publicando nombres sin números presupuestarios. 🏛️ #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de acceso directo a las actas de baremación de las comisiones",
+      "Riesgo de estabilización de plazas diseñadas a medida (endogamia)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Isabel González Díaz (estabilidad laboral)",
+        "Pedro Miguel Carmona Rodríguez (estabilidad laboral)",
+        "Universidad de La Laguna (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información interna",
+        "Investigadores precarios en espera de plazas de estabilización",
+        "Contribuyentes (por la falta de transparencia en el gasto de personal a perpetuidad)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de acceso directo a las actas de baremación de las comisiones",
+      "Riesgo de estabilización de plazas diseñadas a medida (endogamia)"
+    ]
+  },
+  "tweeted": false
+}
