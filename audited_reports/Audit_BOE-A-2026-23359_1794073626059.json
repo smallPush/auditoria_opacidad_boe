@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23359",
+  "timestamp": "2026-11-07T17:47:06.059Z",
+  "title": "Resolución de 30 de octubre de 2026, del Ayuntamiento de El Espinar (Segovia), referente a la convocatoria para proveer varias plazas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria estándar de empleo público que, si bien cumple con la legalidad, presenta la opacidad habitual de la administración local al externalizar los detalles técnicos a boletines autonómicos (BOCYL). El sistema de 'oposición libre' garantiza el mérito teórico, pero ignora la barrera de clase: solo quienes poseen colchón económico pueden costearse los años de preparación que exigen estas plazas de Técnico de Gestión. No hay mención al impacto presupuestario a largo plazo de estas tres plazas estructurales en las arcas municipales de El Espinar.",
+    "resumen_ciudadano": "El Ayuntamiento de El Espinar (Segovia) abre el proceso para contratar a tres técnicos de gestión mediante examen (oposición). El plazo para inscribirse es de 20 días naturales tras la publicación en el BOE.",
+    "resumen_tweet": "📢 El Espinar busca 3 Técnicos de Gestión. Sistema de oposición pura: ¿mérito o barrera para quien no puede permitirse años de estudio? 🏛️ Información fragmentada entre BOCYL y BOE. ¡Ojo a los plazos! ⏱️ #BOE #Opacidad #Transparencia #CastillayLeon",
+    "banderas_red_flags": [
+      "Fragmentación de información (remisión a bases en BOCYL)",
+      "Plazo de inscripción breve (20 días naturales)",
+      "Ausencia de desglose de costes salariales previstos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores a tiempo completo con recursos económicos",
+        "Academias de preparación de oposiciones"
+      ],
+      "perdedores": [
+        "Trabajadores sin tiempo para el estudio intensivo",
+        "Contribuyentes locales (por el gasto estructural no detallado)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Empleo Público Local",
+    "banderas_rojas": [
+      "Fragmentación de información (remisión a bases en BOCYL)",
+      "Plazo de inscripción breve (20 días naturales)",
+      "Ausencia de desglose de costes salariales previstos"
+    ]
+  },
+  "tweeted": false
+}
