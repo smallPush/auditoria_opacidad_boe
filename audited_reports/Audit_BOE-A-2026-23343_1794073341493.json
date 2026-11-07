@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23343",
+  "timestamp": "2026-11-07T17:42:21.493Z",
+  "title": "Resolución de 29 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza el mecanismo de 'libre designación' para cubrir un puesto de nivel 16 (C1), una categoría administrativa base que normalmente debería regirse por concurso de méritos. Al emplear este sistema en el Gabinete de la Secretaría de Estado, se prioriza la confianza política sobre la idoneidad técnica auditable. Se observa un trasvase de personal desde el SEPE (gestión operativa) hacia la estructura política en Madrid, lo que refuerza la endogamia en los gabinetes ministeriales.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha nombrado directamente a la secretaria del Director de Gabinete mediante el sistema de 'libre designación' (elección discrecional). Aunque legal, este método evita que otros funcionarios con posibles mayores méritos compitan por el puesto, basándose únicamente en la 'confianza' del cargo superior.",
+    "resumen_tweet": "📑 El Ministerio de Trabajo adjudica 'a dedo' una secretaría de nivel 16 en el Gabinete de la Secretaría de Estado. Menos mérito técnico y más confianza política en el corazón del ministerio. ¿Transparencia? Escasa. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Falta de criterios objetivos de valoración de idoneidad",
+      "Nombramiento en estructura de gabinete político"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Jose Pelegrina Romera (promoción/traslado a puesto de confianza)",
+        "Director del Gabinete (obtiene personal de su elección directa)"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera del cuerpo administrativo con mayor antigüedad/mérito",
+        "Ciudadanía (merma en la neutralidad de la administración pública)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Uso de libre designación para niveles administrativos medios",
+      "Falta de criterios objetivos de valoración de idoneidad",
+      "Nombramiento en estructura de gabinete político"
+    ]
+  },
+  "tweeted": false
+}
