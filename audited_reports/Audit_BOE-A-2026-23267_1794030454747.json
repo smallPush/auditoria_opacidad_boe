@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23267",
+  "timestamp": "2026-11-07T05:47:34.747Z",
+  "title": "Real Decreto 952/2026, de 4 de noviembre, por el que se regula el registro y las condiciones de autorización, fabricación, comercialización y uso de biocidas.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "El Real Decreto 952/2026 busca armonizar la normativa nacional con el Reglamento (UE) 528/2012, eliminando el anacrónico Libro Oficial de Movimientos por una trazabilidad digital. No obstante, presenta una 'Incongruencia Ideológica' al imponer la obligatoriedad electrónica absoluta a personas físicas, ignorando la brecha digital en sectores rurales o de pequeños autónomos de desratización. Destaca la 'Bandera Roja' de la excepción formativa para el Ministerio de Defensa, creando un espacio de opacidad en la capacitación de personal que maneja sustancias peligrosas bajo tutela militar, fuera del control educativo civil estándar.",
+    "resumen_ciudadano": "Esta ley regula cómo se fabrican y usan los biocidas (desinfectantes, pesticidas, etc.). Se crea un registro unificado para que el Estado sepa quién vende qué. Se digitaliza todo el proceso de control, pero se prohíbe el uso de papel incluso para trabajadores autónomos, y se permite que los militares tengan sus propios criterios de formación interna para aplicar estos productos químicos.",
+    "resumen_tweet": "Analizamos el RD 952/2026 sobre biocidas 🧪. Se digitaliza el control de pesticidas, pero ojo: ¡Excepción de formación para Defensa! 🛡️ y fin de la relación en papel para autónomos. ¿Modernización o barrera de clase? #BOE #Opacidad #Transparencia 🔍",
+    "banderas_red_flags": [
+      "Excepción de estándares de formación para el Ministerio de Defensa",
+      "Obligatoriedad de medios electrónicos para personas físicas (Art. 14.3 Ley 39/2015)",
+      "Ambigüedad en el cronograma de traspaso de registros nacionales al europeo",
+      "Derogación de normativas históricas sin periodo de adaptación flexible para pequeños comercios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales químicas (armonización UE)",
+        "Empresas de software de gestión y trazabilidad",
+        "Ministerio de Defensa (autonomía normativa)"
+      ],
+      "perdedores": [
+        "Pequeños aplicadores autónomos con brecha digital",
+        "Centros de formación civil (excluidos de la formación militar)",
+        "Vendedores de lejías tradicionales (por derogación de su reglamentación específica)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sanidad Pública y Protección Medioambiental",
+    "banderas_rojas": [
+      "Excepción de estándares de formación para el Ministerio de Defensa",
+      "Obligatoriedad de medios electrónicos para personas físicas (Art. 14.3 Ley 39/2015)",
+      "Ambigüedad en el cronograma de traspaso de registros nacionales al europeo",
+      "Derogación de normativas históricas sin periodo de adaptación flexible para pequeños comercios"
+    ]
+  },
+  "tweeted": false
+}
