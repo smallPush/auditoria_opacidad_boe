@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23357",
+  "timestamp": "2026-11-07T17:44:59.626Z",
+  "title": "Resolución de 30 de octubre de 2026, del Ayuntamiento de Las Rozas de Madrid (Madrid), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una convocatoria para una única plaza bajo la modalidad de concurso-oposición. Aunque el procedimiento es legal, el uso del sistema de 'concurso' (valoración de méritos previos) en plazas individuales de la administración local suele actuar como una barrera de entrada para candidatos externos, favoreciendo la consolidación de personal interino ya presente en el consistorio. La fragmentación de la información (remitiendo al BOCM para las bases) dificulta el escrutinio ciudadano inmediato desde el BOE.",
+    "resumen_ciudadano": "El Ayuntamiento de Las Rozas abre el proceso para contratar a un Técnico/a de Sanidad con carácter fijo. El sistema de selección combina examen y valoración de méritos. Los interesados disponen de 20 días hábiles para presentar su solicitud tras la publicación en el BOE.",
+    "resumen_tweet": "🔍 ¿Plaza fija o traje a medida? Las Rozas convoca una vacante de Técnico de Sanidad por concurso-oposición. Solo una plaza y baremos que suelen premiar al que ya está dentro. La meritocracia pura, en duda. 🏥 #BOE #Opacidad #Transparencia #LasRozas",
+    "banderas_red_flags": [
+      "Convocatoria de plaza única",
+      "Sistema de concurso-oposición (meritocracia condicionada)",
+      "Fragmentación informativa entre BOE y BOCM"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con antigüedad en el municipio",
+        "Administración local (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Opositores externos sin experiencia previa en esta administración",
+        "Jóvenes profesionales sanitarios"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Empleo Público",
+    "banderas_rojas": [
+      "Convocatoria de plaza única",
+      "Sistema de concurso-oposición (meritocracia condicionada)",
+      "Fragmentación informativa entre BOE y BOCM"
+    ]
+  },
+  "tweeted": false
+}
