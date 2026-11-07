@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23272",
+  "timestamp": "2026-11-07T05:48:56.963Z",
+  "title": "Ley del Principado de Asturias 8/2026, de 15 de octubre, de Infancia y Adolescencia.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Ley 8/2026 actualiza un marco normativo de hace 30 años, destacando la inclusión de menores de 16 años en la iniciativa legislativa popular. Sin embargo, presenta el riesgo habitual de 'norma programática': crea estructuras como el Observatorio de la Infancia y planes estratégicos a 6 años sin blindaje presupuestario directo en el texto, lo que puede derivar en 'gastos fantasma' o inacción por falta de fondos. La descentralización de la gestión de riesgo hacia los ayuntamientos es un arma de doble filo: acerca la protección al ciudadano pero puede colapsar a los consistorios más pequeños sin la transferencia económica adecuada.",
+    "resumen_ciudadano": "Asturias aprueba una nueva ley de infancia que permite a los mayores de 16 años proponer leyes y participar activamente en la política regional. La norma traslada la gestión de los casos de riesgo de menores a los ayuntamientos y obliga al gobierno a crear planes de protección cada seis años, aunque no detalla cuánto dinero real se invertirá en estos nuevos servicios.",
+    "resumen_tweet": "📢 Asturias lanza ley de Infancia: ¡Menores de 16 ya pueden proponer leyes! 👁️ Pero ojo: se delegan funciones a Ayuntamientos sin aclarar el presupuesto. ¿Derechos reales o promesas de papel? 💸 #BOE #Opacidad #Transparencia #Asturias #Infancia",
+    "banderas_red_flags": [
+      "Falta de cuantificación económica en la creación del Consejo de Participación",
+      "Delegación de competencias ejecutivas a entidades locales sin garantía de suficiencia financiera",
+      "Plazos de evaluación de 6 años que exceden las legislaturas, dificultando la rendición de cuentas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Adolescentes (ganan derechos políticos)",
+        "Ayuntamientos (mayor peso competencial)",
+        "Estructuras burocráticas (nuevos observatorios)"
+      ],
+      "perdedores": [
+        "Familias en municipios pequeños (posible falta de medios técnicos locales)",
+        "Contribuyentes (opacidad en el coste real de los nuevos órganos)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Ley de Infancia y Adolescencia",
+    "banderas_rojas": [
+      "Falta de cuantificación económica en la creación del Consejo de Participación",
+      "Delegación de competencias ejecutivas a entidades locales sin garantía de suficiencia financiera",
+      "Plazos de evaluación de 6 años que exceden las legislaturas, dificultando la rendición de cuentas"
+    ]
+  },
+  "tweeted": false
+}
