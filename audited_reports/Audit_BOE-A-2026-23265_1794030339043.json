@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-23265",
+  "timestamp": "2026-11-07T05:45:39.043Z",
+  "title": "Real Decreto 950/2026, de 4 de noviembre, por el que se establecen criterios para el fomento de una alimentación saludable y sostenible en centros de titularidad pública y en centros para personas en situación de dependencia o personas con necesidades especiales de titularidad privada.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 950/2026 establece una ambiciosa hoja de ruta para la alimentación en centros públicos y de dependencia, priorizando la salud sobre el coste. Sin embargo, incurre en 'gastos fantasma' al no desglosar la dotación presupuestaria necesaria para que los centros asuman el sobrecoste de productos frescos y locales. Existe un riesgo de 'Incongruencia Ideológica' al imponer criterios de sostenibilidad que podrían chocar con la normativa de competencia europea, aunque el texto intenta blindarse legalmente. La normativa identifica correctamente la brecha de clase en la obesidad, pero delega la carga financiera en las entidades gestoras sin mecanismos de compensación claros.",
+    "resumen_ciudadano": "Nueva normativa que obliga a colegios, hospitales y residencias (públicas y privadas de dependencia) a ofrecer menús más saludables, reduciendo grasas, sal y azúcares. Se priorizan los alimentos de proximidad y temporada, y se prohíbe considerar 'cocina propia' al simple recalentamiento de ultraprocesados industriales.",
+    "resumen_tweet": "🍎 El nuevo #BOE impone menús saludables en colegios y residencias. Menos azúcar y más producto local para frenar la obesidad en clases vulnerables. ¿Pero quién paga el sobrecoste de la calidad? 💸 #Opacidad #Transparencia #Alimentación",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica específica en el texto analizado",
+      "Posible aumento de costes operativos en residencias privadas de dependencia",
+      "Ambigüedad en la fiscalización de los circuitos cortos de comercialización",
+      "Exclusión de responsabilidad financiera directa del Estado en la implementación"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Productores locales y agricultura de proximidad",
+        "Salud pública a largo plazo",
+        "Colectivos vulnerables (niños y personas mayores)",
+        "Empresas de catering de productos frescos"
+      ],
+      "perdedores": [
+        "Industria de alimentos ultraprocesados",
+        "Empresas de catering de bajo coste basadas en precocinados",
+        "Presupuestos operativos de residencias privadas sin plazas concertadas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Regulación de Consumo y Salud Pública",
+    "banderas_rojas": [
+      "Ausencia de memoria económica específica en el texto analizado",
+      "Posible aumento de costes operativos en residencias privadas de dependencia",
+      "Ambigüedad en la fiscalización de los circuitos cortos de comercialización",
+      "Exclusión de responsabilidad financiera directa del Estado en la implementación"
+    ]
+  },
+  "tweeted": false
+}
