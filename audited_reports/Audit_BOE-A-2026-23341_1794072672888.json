@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23341",
+  "timestamp": "2026-11-07T17:31:12.888Z",
+  "title": "Resolución de 6 de noviembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Esta resolucion actua como un mero tramite administrativo donde el Estado valida los precios propuestos por la industria tabacalera. Se observa una notable disparidad en la oferta, incluyendo puros de lujo de 62 euros por unidad (Davidoff Year of the Sheep), lo que refleja un mercado de nicho de alto nivel adquisitivo frente a los cigarrillos convencionales. No existe mencion al impacto en la salud publica ni al destino de la recaudacion tributaria asociada.",
+    "resumen_ciudadano": "Actualizacion oficial de los precios de venta de tabaco en estancos para la Peninsula y Baleares. Los precios son establecidos por los fabricantes e importadores y publicados por el Comisionado para el Mercado de Tabacos.",
+    "resumen_tweet": "🚬 El #BOE publica nuevos precios del tabaco: desde cajetillas a 5€ hasta puros de lujo de 62€/unidad. Hacienda valida las tarifas de las tabacaleras sin mencionar el coste social o sanitario. 💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Fijacion de precios liderada por la industria privada",
+      "Validacion estatal de productos nocivos sin contexto sanitario",
+      "Gran brecha de precios entre productos de consumo y de lujo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industria tabacalera (fijacion de margenes)",
+        "Estado (recaudacion impositiva)"
+      ],
+      "perdedores": [
+        "Consumidores (asumen alzas de precios)",
+        "Salud Publica (externalidades negativas no compensadas en el texto)"
+      ]
+    },
+    "comunidad_autonoma": "Peninsula e Illes Balears",
+    "tipologia": "Resolucion Administrativa de Precios",
+    "banderas_rojas": [
+      "Fijacion de precios liderada por la industria privada",
+      "Validacion estatal de productos nocivos sin contexto sanitario",
+      "Gran brecha de precios entre productos de consumo y de lujo"
+    ]
+  },
+  "tweeted": false
+}
