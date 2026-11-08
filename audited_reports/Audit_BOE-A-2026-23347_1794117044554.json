@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23347",
+  "timestamp": "2026-11-08T05:50:44.554Z",
+  "title": "Orden PJC/1175/2026, de 29 de octubre, por la que se publica la relación de personas aprobadas en el proceso selectivo extraordinario para acceso por el sistema general de acceso libre, por el sistema de concurso de méritos, reservado a personas con discapacidad, al Cuerpo de Auxilio Judicial de la Administración de Justicia, convocado por Orden PJC/1357/2024, de 19 de noviembre.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se audita la publicación de resultados de un proceso selectivo extraordinario de estabilización mediante concurso de méritos para el acceso al Cuerpo de Auxilio Judicial, específicamente reservado a personas con discapacidad. La transparencia es alta al detallar DNI parciales y puntuaciones por ámbito territorial. Sin embargo, el carácter 'extraordinario' y la modalidad de 'concurso de méritos' suele favorecer la consolidación de personal interino ya presente en la administración, dificultando el acceso de nuevo talento externo, a pesar del cumplimiento legal de cuotas de discapacidad.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha publicado el listado de personas con discapacidad que han obtenido plaza como funcionarios de Auxilio Judicial tras evaluar sus méritos. Los candidatos aprobados en comunidades como Andalucía, Canarias o Cataluña disponen de 10 días hábiles para presentar su documentación y solicitar destino. Es un procedimiento de regularización laboral en el sector público.",
+    "resumen_tweet": "⚖️ Publicadas las listas de aprobados para Auxilio Judicial (cupo discapacidad) vía méritos. ¡Atención! Solo 10 días para presentar papeles. 🏛️ ¿Inclusión real o blindaje de interinos? Analizamos la transparencia en el #BOE #Opacidad #Justicia #Discapacidad",
+    "banderas_red_flags": [
+      "Sistema de concurso de méritos sin examen (barrera para nuevos opositores)",
+      "Plazo administrativo reducido (10 días) para recopilar certificados médicos y de discapacidad",
+      "Dependencia de la veracidad de declaraciones responsables de incompatibilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Interinos con discapacidad que consolidan su plaza",
+        "Ministerio de Justicia (cumplimiento de cuotas de inclusión)",
+        "Administración Pública (reducción de tasas de temporalidad)"
+      ],
+      "perdedores": [
+        "Aspirantes noveles sin puntos por experiencia previa",
+        "Candidatos con dificultades de movilidad o gestión para cumplir el plazo de 10 días en Madrid"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Andalucía, Aragón, Asturias, Canarias, Cantabria, Cataluña, Comunidad Valenciana)",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Sistema de concurso de méritos sin examen (barrera para nuevos opositores)",
+      "Plazo administrativo reducido (10 días) para recopilar certificados médicos y de discapacidad",
+      "Dependencia de la veracidad de declaraciones responsables de incompatibilidad"
+    ]
+  },
+  "tweeted": false
+}
