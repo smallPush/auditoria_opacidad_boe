@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23349",
+  "timestamp": "2026-11-08T05:51:46.523Z",
+  "title": "Orden PJC/1177/2026, de 29 de octubre, por la que se publica la relación de personas aprobadas en el proceso selectivo extraordinario para acceso por el sistema general de acceso libre, por el sistema de concurso de méritos, reservado a personas con discapacidad, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, convocado por Orden PJC/1357/2024, de 19 de noviembre.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden PJC/1177/2026 regula la estabilización de empleo en la Administración de Justicia mediante un sistema de concurso de méritos. Este mecanismo, etiquetado como 'proceso selectivo extraordinario', es frecuentemente utilizado para regularizar a trabajadores interinos, lo que puede limitar el acceso efectivo de ciudadanos con talento pero sin experiencia previa en el sector público. Aunque el enfoque en discapacidad es un avance en inclusión, la falta de desglose de los puntos obtenidos por cada mérito específico en este listado final impide una fiscalización ciudadana total sobre posibles sesgos en la valoración.",
+    "resumen_ciudadano": "Se publica la lista definitiva de personas con discapacidad que han obtenido plaza fija en el Cuerpo de Tramitación Procesal y Administrativa de la Justicia tras un proceso basado en méritos. Los seleccionados tienen ahora 10 días para presentar títulos, certificados médicos y declaraciones de compatibilidad.",
+    "resumen_tweet": "🏛️ El #BOE publica los aprobados en Justicia por el sistema de méritos (discapacidad). Un proceso 'extraordinario' que consolida plazas pero ¿garantiza igualdad de oportunidades? ⚖️ Solo 10 días para el papeleo final. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de 'concurso de méritos' en lugar de oposición abierta, lo que favorece a interinos previos.",
+      "Plazo de 10 días para documentación administrativa, un tiempo ajustado para personas con discapacidad que requieran certificados médicos específicos.",
+      "Falta de detalle en el BOE sobre la puntuación desglosada (experiencia vs. formación)."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal interino con años de servicio acumulados",
+        "Personas con discapacidad que acceden a la estabilidad laboral",
+        "Ministerio de Justicia (reducción de tasa de temporalidad por mandato legal)"
+      ],
+      "perdedores": [
+        "Nuevos opositores sin experiencia previa en la administración",
+        "Aspirantes con alta formación académica pero pocos 'puntos' de antigüedad"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía, Aragón, Asturias, Canarias, Cataluña, Comunidad Valenciana, Madrid",
+    "tipologia": "Recursos Humanos y Estabilización de Empleo Público",
+    "banderas_rojas": [
+      "Uso del sistema de 'concurso de méritos' en lugar de oposición abierta, lo que favorece a interinos previos.",
+      "Plazo de 10 días para documentación administrativa, un tiempo ajustado para personas con discapacidad que requieran certificados médicos específicos.",
+      "Falta de detalle en el BOE sobre la puntuación desglosada (experiencia vs. formación)."
+    ]
+  },
+  "tweeted": false
+}
