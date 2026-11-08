@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23360",
+  "timestamp": "2026-11-08T17:56:41.640Z",
+  "title": "Resolución de 30 de octubre de 2026, del Ayuntamiento de Logroño (La Rioja), referente a la convocatoria para proveer una plaza.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "Se detecta una anomalía temporal significativa: las bases se publicaron en el Boletín Regional en diciembre de 2025, pero la convocatoria oficial en el BOE no se ha producido hasta noviembre de 2026. Este desfase de 11 meses genera una barrera de entrada para candidatos externos que no realicen un seguimiento exhaustivo de la administración local de Logroño. El sistema de 'oposición pura' en el sector de Aguas, aunque legal, suele ocultar una falta de valoración de méritos profesionales previos, favoreciendo a quienes tienen recursos económicos para dedicarse exclusivamente al estudio a largo plazo.",
+    "resumen_ciudadano": "El Ayuntamiento de Logroño abre el plazo para una plaza de Técnico Superior de Aguas. El proceso es por oposición libre, pero llega con casi un año de retraso administrativo desde que se definieron las reglas, lo que complica la libre concurrencia y la transparencia del proceso de selección.",
+    "resumen_tweet": "⚠️ Casi un año de retraso en Logroño para convocar 1 plaza de Técnico de Aguas. ¿Eficiencia o barrera de entrada? La asincronía entre boletines dificulta la igualdad de oportunidades para el ciudadano. 💧🏛️ #BOE #Opacidad #Transparencia #Logroño",
+    "banderas_red_flags": [
+      "Desfase temporal extremo (11 meses) entre bases y convocatoria",
+      "Opacidad en la justificación de la urgencia de la plaza",
+      "Información fragmentada entre boletines autonómicos y estatales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Opositores con red de información local",
+        "Estructura administrativa que mantiene procesos lentos"
+      ],
+      "perdedores": [
+        "Talento técnico externo",
+        "Candidatos con menor capacidad económica para esperas burocráticas",
+        "Contribuyentes riojanos (coste de ineficiencia administrativa)"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Empleo Público / Administración Local",
+    "banderas_rojas": [
+      "Desfase temporal extremo (11 meses) entre bases y convocatoria",
+      "Opacidad en la justificación de la urgencia de la plaza",
+      "Información fragmentada entre boletines autonómicos y estatales"
+    ]
+  },
+  "tweeted": false
+}
