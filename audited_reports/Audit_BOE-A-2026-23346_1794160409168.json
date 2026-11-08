@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23346",
+  "timestamp": "2026-11-08T17:53:29.168Z",
+  "title": "Resolución de 28 de octubre de 2026, de la Universidad Rey Juan Carlos, por la que se nombra Catedrático de Universidad a don Joaquín Vaquero López.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Aunque el acto administrativo cumple con la legalidad formal bajo la LOSU, el documento refleja la persistente hegemonía masculina en las cátedras de áreas STEM (Tecnología Electrónica). La resolución no ofrece visibilidad sobre la competitividad del proceso ni sobre el número de aspirantes, manteniendo la opacidad tradicional de la endogamia académica. No se detectan gastos fantasma directos, pero sí una falta de transparencia en la exposición de méritos públicos.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de Joaquín Vaquero López como Catedrático de Universidad en la Universidad Rey Juan Carlos (URJC) en el área de Tecnología Electrónica, tras una resolución previa de junio de 2026.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la URJC. La Tecnología Electrónica sigue bajo mando masculino. Aunque el proceso cumple la LOSU, la transparencia sobre los méritos reales queda en la sombra. ¿Y la paridad en la ciencia? 📉 #BOE #Opacidad #Transparencia #URJC",
+    "banderas_red_flags": [
+      "Sesgo de género estructural en altos cargos de ingeniería",
+      "Opacidad en el desglose de méritos comparativos",
+      "Persistencia de la estructura de poder tradicional en la URJC"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Joaquín Vaquero López",
+        "Cuerpo de Catedráticos de la URJC"
+      ],
+      "perdedores": [
+        "Representación femenina en niveles A1 universitarios",
+        "Transparencia en los procesos de selección competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramiento de personal funcionario docente",
+    "banderas_rojas": [
+      "Sesgo de género estructural en altos cargos de ingeniería",
+      "Opacidad en el desglose de méritos comparativos",
+      "Persistencia de la estructura de poder tradicional en la URJC"
+    ]
+  },
+  "tweeted": false
+}
