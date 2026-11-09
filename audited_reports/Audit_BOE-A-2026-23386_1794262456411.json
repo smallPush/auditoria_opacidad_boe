@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23386",
+  "timestamp": "2026-11-09T22:14:16.411Z",
+  "title": "Sentencia de 8 de septiembre de 2026, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo interpuesto por la representación de Fundación Proa (Proactiva Open Arms), contra el Real Decreto 186/2023, de 21 de marzo, por el que se aprueba el Reglamento de Ordenación de la Navegación Marítima.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La sentencia revela un intento del Ejecutivo por restringir la navegacion a traves del Real Decreto 186/2023, cuya clausula 10.b ha sido declarada nula de pleno derecho. Esto sugiere un exceso de poder reglamentario que buscaba obstaculizar las actividades de salvamento de ONGs como Open Arms. La imposicion de costas a la Administracion evidencia una mala praxis legislativa que termina costando dinero al contribuyente por defender normativas ilegales.",
+    "resumen_ciudadano": "El Tribunal Supremo ha anulado una parte del Reglamento de Ordenacion de la Navegacion Maritima tras una demanda de Open Arms. El Gobierno habia aprobado normas que el tribunal considera ilegales, obligando ahora al Estado a pagar los gastos del juicio.",
+    "resumen_tweet": "⚖️ ¡Varapalo judicial! El Tribunal Supremo anula el Art. 10.b del reglamento de navegacion que afectaba a @openarms_fund. 🛑 El Estado, condenado a pagar costas por legislar contra derecho. Dinero publico perdido en burocracia. #BOE #Opacidad #Transparencia 🌊",
+    "banderas_red_flags": [
+      "Nulidad de pleno derecho de articulado reglamentario",
+      "Uso de la potestad reglamentaria para limitar derechos de navegacion",
+      "Gasto publico derivado de condena en costas por mala defensa juridica",
+      "Falta de detalle en el BOE sobre el motivo tecnico de la nulidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fundacion Proa (Open Arms)",
+        "Entidades de salvamento maritimo civil",
+        "Estado de Derecho y seguridad juridica"
+      ],
+      "perdedores": [
+        "Ministerio de Transportes (Administracion demandada)",
+        "Contribuyentes (pagan las costas judiciales)",
+        "Estrategia gubernamental de control maritimo restrictivo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sentencia Judicial",
+    "banderas_rojas": [
+      "Nulidad de pleno derecho de articulado reglamentario",
+      "Uso de la potestad reglamentaria para limitar derechos de navegacion",
+      "Gasto publico derivado de condena en costas por mala defensa juridica",
+      "Falta de detalle en el BOE sobre el motivo tecnico de la nulidad"
+    ]
+  },
+  "tweeted": false
+}
