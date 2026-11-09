@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23399",
+  "timestamp": "2026-11-09T22:16:31.277Z",
+  "title": "Orden EFD/1186/2026, de 29 de octubre, por la que, a propuesta de la Consejería de Educación de la Comunidad Autónoma del Principado de Asturias, se nombran funcionarias de carrera del Cuerpo de Maestros a aspirantes seleccionadas en los procedimientos selectivos convocados por Resolución de 19 de diciembre de 2022.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento formaliza el nombramiento de funcionarias de carrera tras un proceso de estabilización iniciado en 2022. Se observa una demora administrativa significativa, culminando en 2026 un proceso de hace cuatro años. Lo más llamativo es la retroactividad de efectos al 31 de diciembre de 2024 para algunas aspirantes bajo el concepto ambiguo de 'otras causas', lo que genera una opacidad moderada sobre los criterios de priorización en la resolución de expedientes individuales.",
+    "resumen_ciudadano": "Se nombran oficialmente tres nuevas maestras de carrera en Asturias (especialidades de Primaria, Música y Pedagogía Terapéutica) que superaron las oposiciones de 2022. El retraso en su nombramiento se debe a aplazamientos en las prácticas o demoras administrativas, reconociéndoles a algunas la antigüedad desde finales de 2024.",
+    "resumen_tweet": "🎓 Asturias nombra por fin a funcionarias de carrera tras un proceso iniciado en 2022. La estabilización docente avanza a ritmo de tortuga 🐢 con efectos retroactivos que denotan retrasos burocráticos. #BOE #Transparencia #Educación #Asturias",
+    "banderas_red_flags": [
+      "Dilación excesiva del proceso (2022-2026)",
+      "Ambigüedad en la cláusula 'otras causas' para el retraso del nombramiento",
+      "Diferencia de años en la fecha de efectos económicos y administrativos entre seleccionadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sara Vigil Fernández",
+        "María Inés Rojo Santamaría",
+        "Celia Salinero Alonso",
+        "Consejería de Educación de Asturias (por reducir interinidad)"
+      ],
+      "perdedores": [
+        "Aspirantes que no obtuvieron plaza en el proceso de estabilización",
+        "Sistema educativo (por la excesiva lentitud burocrática en la gestión de personal)"
+      ]
+    },
+    "comunidad_autonoma": "Principado de Asturias",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Dilación excesiva del proceso (2022-2026)",
+      "Ambigüedad en la cláusula 'otras causas' para el retraso del nombramiento",
+      "Diferencia de años en la fecha de efectos económicos y administrativos entre seleccionadas"
+    ]
+  },
+  "tweeted": false
+}
