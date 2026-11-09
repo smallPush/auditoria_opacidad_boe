@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23401",
+  "timestamp": "2026-11-09T22:25:07.337Z",
+  "title": "Orden CLT/1187/2026, de 30 de octubre, por la que se designa vocal de la Junta de Calificación, Valoración y Exportación de Bienes del Patrimonio Histórico Español.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "Se trata de un nombramiento discrecional en un órgano clave para la tasación de patrimonio y la exportación de bienes culturales. La opacidad radica en la ausencia de un perfil profesional o méritos que justifiquen el cambio. Al ser una propuesta de la Dirección General de Tributos (Hacienda), se prioriza el control fiscal sobre el valor cultural. Existe un riesgo de opacidad en la valoración de bienes para la dación en pago de impuestos, un mecanismo que a menudo beneficia a grandes fortunas y coleccionistas.",
+    "resumen_ciudadano": "El Gobierno ha cambiado a uno de los responsables de decidir qué obras de arte pueden salir de España y cuánto valen aquellas que se entregan para pagar impuestos. El nuevo vocal, Iván Mesón García, entra a propuesta del Ministerio de Hacienda, lo que refuerza el control económico sobre el patrimonio histórico nacional sin dar detalles sobre su experiencia en la materia.",
+    "resumen_tweet": "🎨 Hacienda mueve ficha en el control del Patrimonio Histórico. Se nombra nuevo vocal para decidir qué arte sale de España y cómo se tasa para pagar impuestos. ¿Criterio técnico o puramente fiscal? 🧐 #BOE #Opacidad #Transparencia #Cultura",
+    "banderas_red_flags": [
+      "Ausencia de currículum o méritos del designado",
+      "Propuesta directa de Hacienda en organismo cultural",
+      "Falta de motivación del cese de la predecesora",
+      "Opacidad en criterios de valoración de bienes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (aumenta control sobre tasaciones)",
+        "Iván Mesón García (nueva cuota de poder en patrimonio)"
+      ],
+      "perdedores": [
+        "Sector académico artístico (pérdida de peso técnico)",
+        "Transparencia pública (se desconoce el perfil del tasador)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento en Órgano Colegiado de Tasación",
+    "banderas_rojas": [
+      "Ausencia de currículum o méritos del designado",
+      "Propuesta directa de Hacienda en organismo cultural",
+      "Falta de motivación del cese de la predecesora",
+      "Opacidad en criterios de valoración de bienes"
+    ]
+  },
+  "tweeted": false
+}
