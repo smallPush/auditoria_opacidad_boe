@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23402",
+  "timestamp": "2026-11-09T06:49:47.495Z",
+  "title": "Resolución de 30 de octubre de 2026, de la Dirección General de la Función Pública, por la que se publica la adjudicación de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La adjudicación de una Viceintervención mediante el sistema de 'libre designación' es una técnica legal que permite al poder político elegir a sus propios fiscalizadores. Al tratarse de un puesto de clase 1.ª en un ayuntamiento de gran tamaño como Zaragoza, la independencia del control financiero se ve potencialmente comprometida. No hay rastro de la baremación de otros candidatos, convirtiendo la fiscalización económica en un espacio de confianza política en lugar de mérito técnico puro.",
+    "resumen_ciudadano": "Se ha nombrado a un nuevo Viceinterventor para el Ayuntamiento de Zaragoza. En lugar de un concurso abierto basado exclusivamente en puntos, se ha utilizado la 'libre designación', lo que permite al ayuntamiento elegir directamente al funcionario que supervisará sus cuentas entre los habilitados nacionales disponibles.",
+    "resumen_tweet": "🚩 ¿Quién vigila al vigilante? El Ayuntamiento de Zaragoza elige a su Viceinterventor 'a dedo' (libre designación). La fiscalización de los fondos públicos queda bajo la sombra de la elección política. 🕵️‍♂️💸 #BOE #Opacidad #Transparencia #Zaragoza",
+    "banderas_red_flags": [
+      "Uso de libre designación para puestos de fiscalización económica",
+      "Riesgo de subordinación del interventor al cargo político",
+      "Opacidad en la comparativa de méritos de otros aspirantes"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Vázquez Fernández (adjudicatario del puesto)",
+        "Equipo de Gobierno del Ayuntamiento de Zaragoza (capacidad de elección del supervisor)"
+      ],
+      "perdedores": [
+        "Ciudadanía (posible pérdida de imparcialidad en el control del gasto)",
+        "Candidatos alternativos con mayores méritos técnicos pero sin sintonía política"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos y Adjudicaciones de la Función Pública",
+    "banderas_rojas": [
+      "Uso de libre designación para puestos de fiscalización económica",
+      "Riesgo de subordinación del interventor al cargo político",
+      "Opacidad en la comparativa de méritos de otros aspirantes"
+    ]
+  },
+  "tweeted": false
+}
