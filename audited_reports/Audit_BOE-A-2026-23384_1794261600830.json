@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23384",
+  "timestamp": "2026-11-09T22:00:00.830Z",
+  "title": "Real Decreto 954/2026, de 4 de noviembre, por el que se aprueba el Reglamento de desarrollo de la Ley 40/2006, de 14 de diciembre, del Estatuto de la ciudadanía española en el exterior.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 954/2026 moderniza el marco de protección para los 3.2 millones de españoles en el exterior, pero mantiene estructuras de poder que pueden fomentar el clientelismo. Aunque introduce avances en violencia de género y lenguaje inclusivo (eliminando el término 'ancianidad'), perpetúa la opacidad en la concesión de subvenciones a asociaciones y centros (Art. 11 y 77). La creación de la 'Oficina Española del Retorno' y el enfoque en 'atracción de talento' (Art. 102) sugiere un sesgo de clase donde se prioriza a científicos y técnicos sobre retornados con menor cualificación. Las 'ayudas de protección consular' (Art. 65) siguen siendo altamente discrecionales bajo el concepto de 'extraordinaria necesidad', lo que dificulta la fiscalización ciudadana.",
+    "resumen_ciudadano": "Este reglamento regula cómo el Estado ayuda a los españoles que viven fuera o deciden volver. Cubre desde pensiones por necesidad y asistencia sanitaria hasta ayudas para víctimas de violencia de género. Establece la creación de un certificado oficial de retornado para acceder a beneficios y organiza los consejos que representan a los emigrantes ante el Gobierno.",
+    "resumen_tweet": "📜 Nuevo #BOE: El Estatuto de Ciudadanía en el Exterior regula ayudas para 3.2M de españoles. 🧐 Cuidado con la discrecionalidad en subvenciones a centros y las 'compensaciones' a consejeros. ¿Derechos o clientelismo? 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Compensación económica a miembros del Consejo General (Art. 28) sin baremos definidos en el texto.",
+      "Concepto ambiguo de 'Situaciones de extraordinaria necesidad' para ayudas consulares.",
+      "Uso recurrente de subvenciones de concesión directa a centros en el exterior.",
+      "Discrecionalidad en la 'evaluación de servicios prestados' por convenios sanitarios (Art. 64)."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociaciones y Centros Españoles en el exterior (mantenimiento de red de influencia)",
+        "Científicos e investigadores (programas específicos de atracción de talento)",
+        "Víctimas de violencia de género en el exterior (reconocimiento expreso de protección)"
+      ],
+      "perdedores": [
+        "Emigrantes sin cualificación técnica (menor énfasis en su retorno)",
+        "Ciudadanos en el exterior en países sin convenios sanitarios sólidos",
+        "Retornados vulnerables que enfrentan burocracia para el 'Certificado de Persona Retornada'"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Exterior",
+    "tipologia": "Desarrollo Reglamentario / Derechos Sociales",
+    "banderas_rojas": [
+      "Compensación económica a miembros del Consejo General (Art. 28) sin baremos definidos en el texto.",
+      "Concepto ambiguo de 'Situaciones de extraordinaria necesidad' para ayudas consulares.",
+      "Uso recurrente de subvenciones de concesión directa a centros en el exterior.",
+      "Discrecionalidad en la 'evaluación de servicios prestados' por convenios sanitarios (Art. 64)."
+    ]
+  },
+  "tweeted": false
+}
