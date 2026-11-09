@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23389",
+  "timestamp": "2026-11-09T22:15:26.404Z",
+  "title": "Ley 3/2026, de 30 de abril, de modificación de la Ley 3/2019, de 22 de marzo, del Estatuto de las Personas Consumidoras en Castilla-La Mancha.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Ley 3/2026 intenta armonizar la normativa de Castilla-La Mancha con la estatal, pero introduce matices de opacidad en la ejecución. Destaca la 'protección de datos personales' de los inspectores (Art. 109.2), lo cual, si bien es legal, puede dificultar la identificación de responsabilidades en casos de mala praxis administrativa. Se observa una delegación de poder hacia el Consejo de Gobierno para revisar cuantías de infracciones muy graves mediante decreto, lo que resta control parlamentario sobre la dureza de las sanciones futuras.",
+    "resumen_ciudadano": "Esta reforma actualiza las multas y derechos de los consumidores en la región. Obliga a bancos a informar sobre la venta de hipotecas a terceros, protege contra cortes de suministros básicos sin previo aviso y sanciona la publicidad sexista. Además, intenta fomentar la compra de alimentos directamente a productores locales para apoyar el mundo rural.",
+    "resumen_tweet": "🛡️ Nueva Ley de Consumo en #CastillaLaMancha: se refuerza la protección ante cortes de suministros y se exige transparencia en hipotecas. 🍎 Apoyo a productores locales pero ojo a la opacidad en la identificación de inspectores. #BOE #Transparencia",
+    "banderas_red_flags": [
+      "Anonimato administrativo: El uso de la protección de datos para la identificación de inspectores puede limitar el derecho ciudadano a la fiscalización.",
+      "Delegación de sanciones: La facultad del Consejo de Gobierno para revisar agravantes económicos mediante decreto en lugar de ley.",
+      "Vigencia presupuestaria indeterminada: Se menciona una Junta Arbitral con 'presupuesto independiente' sin detallar cuantías ni origen de fondos."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consumidores vulnerables (protección contra cortes de luz/agua)",
+        "Productores agroecológicos (creación de redes locales)",
+        "Administración regional (mayor potestad sancionadora y discrecionalidad)"
+      ],
+      "perdedores": [
+        "Entidades financieras (nuevas obligaciones de información en titulización)",
+        "Empresas de servicios básicos (restricciones para suspender suministros)",
+        "Agencias de publicidad con sesgos sexistas"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Protección de los Consumidores / Régimen Sancionador",
+    "banderas_rojas": [
+      "Anonimato administrativo: El uso de la protección de datos para la identificación de inspectores puede limitar el derecho ciudadano a la fiscalización.",
+      "Delegación de sanciones: La facultad del Consejo de Gobierno para revisar agravantes económicos mediante decreto en lugar de ley.",
+      "Vigencia presupuestaria indeterminada: Se menciona una Junta Arbitral con 'presupuesto independiente' sin detallar cuantías ni origen de fondos."
+    ]
+  },
+  "tweeted": false
+}
