@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23528",
+  "timestamp": "2026-11-10T19:25:23.218Z",
+  "title": "Acuerdo Multilateral M 371, en virtud del apartado 1.5.1 del Anexo A del ADR, relativo al número de remolques en una unidad de transporte de mercancías peligrosas.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Acuerdo M 371 representa una flexibilización técnica significativa en el transporte de materiales peligrosos (explosivos, inflamables, etc.) al permitir configuraciones de 'megacamiones' (más de un remolque). Aunque se justifica bajo la eficiencia logística, la opacidad reside en la remisión constante a anexos técnicos del ADR que el ciudadano medio no puede auditar. No hay un análisis de impacto de seguridad vial pública frente al ahorro de costes de las grandes distribuidoras. La redacción es puramente administrativa, ocultando el riesgo inherente de aumentar la masa de sustancias peligrosas en una sola unidad de transporte.",
+    "resumen_ciudadano": "A partir de ahora, los camiones que transportan mercancías peligrosas por carretera en España podrán llevar más de un remolque a la vez (como trenes de carretera). Esta medida busca reducir costes logísticos al permitir mover más carga con un solo vehículo, siempre que se cumplan requisitos específicos de enganche y seguridad para explosivos. La normativa estará vigente hasta finales de 2031.",
+    "resumen_tweet": "🚚 ¡Más carga peligrosa en carretera! El #BOE publica el Acuerdo M 371: se permite que camiones con explosivos o químicos lleven más de un remolque. 🧨 ¿Gana la logística o pierde la seguridad vial? 🧐 #Transparencia #Opacidad #SeguridadVial",
+    "banderas_red_flags": [
+      "Derogación de estándares de seguridad previos (sección 8.1.1 ADR)",
+      "Externalización de riesgos viales a favor de la eficiencia logística",
+      "Alta dependencia de tecnicismos (convertidores Dolly, EX/III) que dificultan la vigilancia civil",
+      "Vigencia prolongada hasta 2031 sin revisiones intermedias obligatorias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones logísticas (ahorro en combustible y conductores)",
+        "Industria química y petrolera",
+        "Fabricantes de remolques y convertidores Dolly"
+      ],
+      "perdedores": [
+        "Seguridad vial ciudadana (mayor complejidad en maniobras de emergencia)",
+        "Conductores profesionales (mayor responsabilidad y estrés por la misma carga salarial)",
+        "Mantenimiento de infraestructuras públicas (mayor desgaste de carreteras)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Seguridad Industrial y Transportes",
+    "banderas_rojas": [
+      "Derogación de estándares de seguridad previos (sección 8.1.1 ADR)",
+      "Externalización de riesgos viales a favor de la eficiencia logística",
+      "Alta dependencia de tecnicismos (convertidores Dolly, EX/III) que dificultan la vigilancia civil",
+      "Vigencia prolongada hasta 2031 sin revisiones intermedias obligatorias"
+    ]
+  },
+  "tweeted": false
+}
