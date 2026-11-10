@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23546",
+  "timestamp": "2026-11-10T07:29:09.467Z",
+  "title": "Resolución de 30 de octubre de 2026, del Instituto Nacional de Gestión Sanitaria, por la que se convoca proceso selectivo, por concurso oposición, por el sistema general de acceso libre y promoción interna, para acceso a la condición de personal estatutario fijo en plazas de la categoría de Técnico/a Superior Oficios, Jefe/a de Taller y Encargado/a.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una convocatoria de empleo publico extremadamente reducida (5 plazas) que, sin embargo, se ampara en una compleja arquitectura legal que mezcla normas de 1984 con decretos modernos del Plan de Recuperacion. Se detecta una 'opacidad por fragmentacion': la gestion de solo 2 plazas de acceso libre frente a 3 de promocion interna sugiere un proceso diseñado para la estabilizacion de personal interno mas que para la renovacion del servicio publico. Ademas, se externaliza la proteccion de datos a una entidad privada (Ayesa Ibermatica), lo cual es una tendencia de privatizacion de la gestion administrativa de datos sensibles.",
+    "resumen_ciudadano": "El INGESA convoca oposiciones para 5 puestos de tecnicos superiores y jefes de taller. Lo mas relevante es que hay mas plazas reservadas para los que ya trabajan dentro que para el publico general. Si vives en Ceuta o Melilla, el sistema tiene fallos para verificar tus datos automaticamente, por lo que tendras que presentar mas papeles que el resto. La inscripcion es exclusivamente por internet.",
+    "resumen_tweet": "🔍 Auditoría #BOE: El INGESA convoca 5 plazas de técnico superior. ¡Solo 2 son para acceso libre! 📉 La burocracia interna gana a la transparencia externa. Residentes de Ceuta y Melilla con más trabas que el resto. 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Desequilibrio en favor de promocion interna (60% de las plazas)",
+      "Externalizacion del Delegado de Proteccion de Datos a empresa privada",
+      "Fallo reconocido en la interoperabilidad de datos para Ceuta y Melilla",
+      "Uso de normativa de 'medidas urgentes' para un proceso ordinario minimo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal estatutario actual del INGESA (promocion interna)",
+        "Ayesa Ibermatica (gestora de datos)",
+        "Candidatos con alta competencia digital"
+      ],
+      "perdedores": [
+        "Ciudadanos en desempleo (solo 2 plazas de acceso libre)",
+        "Aspirantes con brecha digital",
+        "Residentes en Ceuta y Melilla (mayor carga burocratica manual)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla (Gestion Estatal)",
+    "tipologia": "Oferta de Empleo Público - Personal Estatutario",
+    "banderas_rojas": [
+      "Desequilibrio en favor de promocion interna (60% de las plazas)",
+      "Externalizacion del Delegado de Proteccion de Datos a empresa privada",
+      "Fallo reconocido en la interoperabilidad de datos para Ceuta y Melilla",
+      "Uso de normativa de 'medidas urgentes' para un proceso ordinario minimo"
+    ]
+  },
+  "tweeted": false
+}
