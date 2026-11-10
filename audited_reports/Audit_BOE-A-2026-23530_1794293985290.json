@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23530",
+  "timestamp": "2026-11-10T06:59:45.290Z",
+  "title": "Resolución de 26 de octubre de 2026, de la Secretaría de Estado de Seguridad, por la que se nombra funcionario de carrera de la Policía Nacional, Escala Básica, categoría de Policía, al Policía Alumno don José Antonio Carretero Gómez.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se trata de un nombramiento individual que esconde una batalla judicial de seis años. El texto técnico oculta el hecho de que la Administración inicialmente rechazó al aspirante de forma indebida, obligándole a acudir al TSJ de Madrid (P.O. 559/2022). Bajo la etiqueta de 'causas sobrevenidas' se encubre un error administrativo o una exclusión injusta que ha costado recursos públicos en litigios y ahora obliga a reconocer una antigüedad retroactiva desde 2023 para una convocatoria de 2020. Es una victoria ciudadana sobre la opacidad del Estado.",
+    "resumen_ciudadano": "Un aspirante a la Policía Nacional ha logrado su plaza tras ganar un juicio contra el Ministerio del Interior. Aunque la convocatoria fue en 2020, el Estado ha tardado 6 años en formalizar su entrada tras ser forzado por los tribunales, reconociéndole ahora los derechos de antigüedad que le correspondían.",
+    "resumen_tweet": "🚨 ¡Victoria judicial contra la opacidad! ⚖️ El #BOE publica el nombramiento de un policía tras 6 años de pleitos con el Estado. ¿Por qué se obliga a los opositores a ir al tribunal para ser aptos? 🏛️ #Transparencia #Justicia #PoliciaNacional",
+    "banderas_red_flags": [
+      "Ejecución de sentencia judicial firme",
+      "Reconocimiento de antigüedad retroactiva",
+      "Litigio de 6 años desde la convocatoria original",
+      "Opacidad en el término causas sobrevenidas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "José Antonio Carretero Gómez (justicia tardía)",
+        "Seguridad jurídica individual"
+      ],
+      "perdedores": [
+        "Tesoro Público (costas procesales y atrasos)",
+        "Ministerio del Interior (por error administrativo previo)",
+        "Eficiencia del sistema selectivo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Personal y Nombramientos",
+    "banderas_rojas": [
+      "Ejecución de sentencia judicial firme",
+      "Reconocimiento de antigüedad retroactiva",
+      "Litigio de 6 años desde la convocatoria original",
+      "Opacidad en el término causas sobrevenidas"
+    ]
+  },
+  "tweeted": false
+}
