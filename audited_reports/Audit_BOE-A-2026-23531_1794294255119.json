@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-23531",
+  "timestamp": "2026-11-10T07:04:15.119Z",
+  "title": "Resolución de 30 de octubre de 2026, de la Dirección de la Agencia Estatal de Seguridad Aérea, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución incluye una inusual 'motivación' detallada para descartar a otros candidatos (especialmente contra Rhania Gutiérrez), el sistema de 'libre designación' sigue siendo un mecanismo de discrecionalidad técnica. El texto utiliza la descalificación explícita de la competencia para blindar nombramientos que, en la práctica, son promociones internas de perfiles ya consolidados en la estructura (nivel 30). Se observa un fenómeno de endogamia administrativa donde la experiencia previa en la misma agencia es el factor determinante, limitando el acceso a talento externo incluso dentro del cuerpo de Ingenieros Aeronáuticos.",
+    "resumen_ciudadano": "La Agencia Estatal de Seguridad Aérea (AESA) ha nombrado a tres nuevos directores para Seguridad de Operaciones, Cooperación Técnica y Servicios Jurídicos. Los tres elegidos ya ocupaban puestos de alta responsabilidad en la misma agencia. Lo llamativo de este BOE es que describe con dureza los fallos de los candidatos rechazados en sus entrevistas para justificar que los elegidos eran los mejores.",
+    "resumen_tweet": "✈️ El #BOE publica 3 nuevos directivos en AESA vía libre designación. Llama la atención la dureza con la que el texto señala el 'desconocimiento' de los candidatos rechazados para justificar los ascensos internos. 🔎 #Opacidad #Transparencia #AESA",
+    "banderas_red_flags": [
+      "Uso del sistema de Libre Designación para puestos directivos",
+      "Descalificación explícita en documento público de candidatos no seleccionados",
+      "Consolidación de la élite administrativa interna (Nivel 30)",
+      "Fraccionamiento de direcciones previas para crear nuevas estructuras"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Elena Carrera Toucedo (Directora)",
+        "Pablo Hernández-Coronado (Director)",
+        "Juan Manuel López del Saz (Subdirector)",
+        "Élite funcionarial del Grupo A1"
+      ],
+      "perdedores": [
+        "Rhania Gutiérrez Meseguer (señalada públicamente por falta de idoneidad)",
+        "Pablo Lanuza Lagunilla",
+        "Candidatos externos a la estructura actual de AESA",
+        "Principio de igualdad y mérito frente a la discrecionalidad del dedo"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del sistema de Libre Designación para puestos directivos",
+      "Descalificación explícita en documento público de candidatos no seleccionados",
+      "Consolidación de la élite administrativa interna (Nivel 30)",
+      "Fraccionamiento de direcciones previas para crear nuevas estructuras"
+    ]
+  },
+  "tweeted": false
+}
