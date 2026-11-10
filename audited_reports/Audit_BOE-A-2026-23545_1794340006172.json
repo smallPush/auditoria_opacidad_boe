@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23545",
+  "timestamp": "2026-11-10T19:46:46.172Z",
+  "title": "Resolución de 30 de octubre de 2026, del Instituto Nacional de Gestión Sanitaria, por la que se convoca proceso selectivo, por concurso oposición, por el sistema general de acceso libre, para acceso a la condición de personal estatutario fijo en plazas de la categoría de Ingeniero/a Superior.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se observa una desproporción administrativa significativa: se activa toda la maquinaria del Estado para la convocatoria de una única plaza (1) de Ingeniero/a Superior. Aunque el texto cumple con la legalidad, la eficiencia en el uso de recursos públicos para un proceso selectivo tan complejo por un solo puesto sugiere una opacidad de gestión indirecta. Existe un sesgo de clase implícito, ya que el proceso de concurso-oposición para una sola vacante favorece a quienes poseen el capital económico para sostener una preparación larga frente a una probabilidad de éxito mínima.",
+    "resumen_ciudadano": "El Ministerio de Sanidad convoca una oposición para cubrir una única plaza de Ingeniero/a Superior en el INGESA (Ceuta y Melilla). El proceso incluye un examen tipo test, supuestos prácticos y valoración de méritos. Los aspirantes deben poseer el título de Ingeniería Industrial y pagar tasas de examen, a menos que cumplan condiciones de exención.",
+    "resumen_tweet": "🚨 ¡Solo UNA plaza! El #BOE convoca oposición de Ingeniero Superior para INGESA. ¿Es eficiente movilizar recursos estatales por una única vacante? 🏗️ Mucha burocracia para tan poca oferta. #Opacidad #Transparencia #EmpleoPúblico 🧐⚖️",
+    "banderas_red_flags": [
+      "Desproporción entre coste administrativo y oferta (1 sola plaza)",
+      "Barrera de entrada por alta especialización técnica frente a escasa oferta",
+      "Ambigüedad en la ubicación geográfica específica de la vacante hasta el final del proceso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Perfiles con alto nivel de formación técnica y recursos para opositar a largo plazo",
+        "Empresas de gestión de datos y protección de datos (Ayesa Ibermática mencionada como DPD)"
+      ],
+      "perdedores": [
+        "Ciudadanos con formación técnica pero sin recursos para competir por una única vacante",
+        "Contribuyentes (por el alto coste de gestión del proceso selectivo para una sola incorporación)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ceuta y Melilla)",
+    "tipologia": "Oposiciones y Empleo Público",
+    "banderas_rojas": [
+      "Desproporción entre coste administrativo y oferta (1 sola plaza)",
+      "Barrera de entrada por alta especialización técnica frente a escasa oferta",
+      "Ambigüedad en la ubicación geográfica específica de la vacante hasta el final del proceso"
+    ]
+  },
+  "tweeted": false
+}
