@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23544",
+  "timestamp": "2026-11-10T07:13:57.869Z",
+  "title": "Resolución de 3 de noviembre de 2026, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Aunque la resolución se ampara en la normativa de Función Pública, se detectan mecanismos de control que limitan la libertad de movimiento del trabajador. Especialmente alarmante es la 'autorización previa' necesaria para personal de la AEAT y cuerpos exclusivos, otorgando a la administración un poder discrecional para denegar traslados basándose en genéricas 'necesidades del servicio'. El sistema de puntuación favorece excesivamente el 'grado consolidado' sobre la competencia técnica real, creando una estructura de castas administrativas donde la veteranía pesa más que la eficiencia.",
+    "resumen_ciudadano": "El Ministerio de Economía convoca plazas de trabajo, pero con 'letra pequeña'. Si trabajas en Hacienda o en ciertos cuerpos especiales, tu jefe puede prohibirte participar. Además, el sistema de puntos está diseñado para que los que ya tienen altos cargos (grado consolidado) sigan ganando, dificultando que funcionarios más jóvenes o de otras regiones puedan acceder a estos puestos.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el #BOE: Concurso de puestos en Economía. ¿Transparencia? A medias. Cláusulas de 'retención' discrecionales bloquean la movilidad en la AEAT y otros cuerpos. ¡El amiguismo se esconde en los méritos específicos! 🚩 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Autorización discrecional de la AEAT para concursar",
+      "Poder de veto ministerial sobre cuerpos exclusivos",
+      "Exclusión por falta de certificado electrónico sin flexibilidad real",
+      "Subjetividad latente en la valoración de méritos específicos de la Fase 2"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios veteranos con grado consolidado alto",
+        "Personal interno del Ministerio de Economía",
+        "Funcionarios con hijos menores de 12 años (por puntos de conciliación)"
+      ],
+      "perdedores": [
+        "Funcionarios jóvenes con poco tiempo de servicio",
+        "Personal de la Agencia Tributaria (sujetos a veto)",
+        "Funcionarios en excedencia reciente (barrera de 2 años)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Autorización discrecional de la AEAT para concursar",
+      "Poder de veto ministerial sobre cuerpos exclusivos",
+      "Exclusión por falta de certificado electrónico sin flexibilidad real",
+      "Subjetividad latente en la valoración de méritos específicos de la Fase 2"
+    ]
+  },
+  "tweeted": false
+}
