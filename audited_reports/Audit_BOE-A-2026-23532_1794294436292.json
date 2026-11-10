@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-23532",
+  "timestamp": "2026-11-10T07:07:16.292Z",
+  "title": "Orden EFD/1194/2026, de 29 de octubre, por la que, a propuesta de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, se nombra funcionaria de carrera del Cuerpo de Catedráticos de Música y Artes Escénicas a doña Soledad Pilar Garre Rubio.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento de funcionaria de carrera. La transparencia es elevada debido a que referencia cronológicamente todos los boletines previos (BOCM y BOE). No se detectan 'gastos fantasma' ya que es una plaza estructural. El dato más llamativo es la puntuación de '10,0000', una cifra perfecta que sugiere un baremo de méritos agotado o un proceso de acceso muy específico. La publicación llega con un retraso administrativo de dos meses respecto a la fecha de efectos económicos y administrativos (1 de septiembre), una práctica común que genera retroactividad en las nóminas del Estado.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de doña Soledad Pilar Garre Rubio como catedrática de Música y Artes Escénicas en la Comunidad de Madrid, tras superar el proceso selectivo en la especialidad de Interpretación en el Teatro del Gesto.",
+    "resumen_tweet": "🎓 Nueva catedrática en la Comunidad de Madrid. El #BOE oficializa el nombramiento de Soledad Garre Rubio con una puntuación perfecta de 10.0000 en Teatro del Gesto. 🎭 Un paso más en la consolidación del cuerpo docente. #Transparencia #Educación #Madrid",
+    "banderas_red_flags": [
+      "Puntuación máxima perfecta (10,0000)",
+      "Efectos retroactivos desde el 1 de septiembre",
+      "Brecha temporal entre resolución (septiembre) y publicación (noviembre)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Soledad Pilar Garre Rubio (estabilidad laboral y ascenso al cuerpo de catedráticos)",
+        "Sistema educativo madrileño (especialización en artes escénicas)"
+      ],
+      "perdedores": [
+        "Aspirantes que no obtuvieron la plaza en el proceso selectivo de acceso"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramiento de funcionarios de carrera",
+    "banderas_rojas": [
+      "Puntuación máxima perfecta (10,0000)",
+      "Efectos retroactivos desde el 1 de septiembre",
+      "Brecha temporal entre resolución (septiembre) y publicación (noviembre)"
+    ]
+  },
+  "tweeted": false
+}
