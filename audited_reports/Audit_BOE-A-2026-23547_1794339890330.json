@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23547",
+  "timestamp": "2026-11-10T19:44:50.330Z",
+  "title": "Resolución de 30 de octubre de 2026, de la Subsecretaría, por la que se corrigen errores en la de 26 de diciembre de 2025, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y por promoción interna, en la Escala de Técnicos Superiores Especializados de los Organismos Públicos de Investigación.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución se presenta bajo el barniz técnico de una 'corrección de errores' según la Ley 39/2015, pero oculta una deficiencia estructural en la planificación de recursos humanos del CSIC. La anomalía reside en el desfase entre plazas convocadas y destinos ofertados: por ejemplo, en el área V1 se convocan 19 plazas para 34 destinos posibles. Esto genera un espacio de discrecionalidad administrativa opaco donde la administración puede decidir a posteriori qué centros se dotan de personal y cuáles quedan vacíos, afectando la equidad del proceso y la capacidad de elección de los opositores basándose en méritos claros.",
+    "resumen_ciudadano": "El Gobierno ha publicado una corrección para las oposiciones de técnicos del CSIC admitiendo que 'olvidó' detallar que hay muchos más destinos (laboratorios y centros) que personas contratadas. Esto significa que un opositor puede ganar su plaza pero no tiene garantía de qué centro se le asignará realmente entre una lista inflada, permitiendo a la administración mover las piezas a su antojo tras el examen.",
+    "resumen_tweet": "⚠️ ¡Ojo a la opacidad en el #BOE! El @CienciaGob 'corrige' oposiciones del CSIC: hay más destinos que plazas. ¿Quién decide qué centros se quedan vacíos? Menos transparencia y más incertidumbre para los científicos. 🧪💼 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Desfase cuantitativo entre plazas y destinos",
+      "Corrección de errores tardía (casi un año después de la convocatoria original)",
+      "Discrecionalidad en la asignación final de centros",
+      "Omisión de datos esenciales en la convocatoria inicial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (obtiene flexibilidad absoluta para cubrir huecos según conveniencia política o interna)",
+        "Direcciones de centros con mayor influencia política"
+      ],
+      "perdedores": [
+        "Opositores (mayor incertidumbre geográfica y familiar)",
+        "Centros de investigación en zonas rurales o menos competitivas que pueden ser descartados arbitrariamente"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Investigación",
+    "banderas_rojas": [
+      "Desfase cuantitativo entre plazas y destinos",
+      "Corrección de errores tardía (casi un año después de la convocatoria original)",
+      "Discrecionalidad en la asignación final de centros",
+      "Omisión de datos esenciales en la convocatoria inicial"
+    ]
+  },
+  "tweeted": false
+}
