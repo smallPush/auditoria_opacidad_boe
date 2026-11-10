@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-23529",
+  "timestamp": "2026-11-10T07:02:12.645Z",
+  "title": "Corrección de errores de la Ley 2/2024, de 15 de febrero, de Infancia y Adolescencia.",
+  "report": {
+    "nivel_transparencia": 0.4,
+    "analisis_critico": "Se trata de una corrección de errores técnica sobre la Ley 2/2024 de Infancia y Adolescencia del País Vasco. El ajuste modifica una referencia interna en el artículo 236.5 sobre programas para menores con problemas de conducta. Lo más alarmante es el desfase temporal: la ley es de febrero de 2024 y la corrección se publica en el BOE a finales de 2026. Este retraso de más de dos años en subsanar un error de referencia en un área tan sensible como la salud mental y conducta de menores genera una zona de sombra sobre la seguridad jurídica con la que se han aplicado estos programas durante el periodo intermedio.",
+    "resumen_ciudadano": "El Gobierno Vasco corrige un error de referencia en la Ley de Infancia. El cambio es puramente técnico y afecta a la organización de los programas para menores con problemas de conducta. Sin embargo, la corrección llega con dos años de retraso respecto a la publicación original de la ley.",
+    "resumen_tweet": "🕒 2 años han tardado en corregir un error técnico en la Ley de Infancia del País Vasco. Afecta a programas para menores con problemas de conducta. ¿Cómo se ha aplicado la ley mientras tanto? 📑 #BOE #Opacidad #Transparencia #Infancia",
+    "banderas_red_flags": [
+      "Retraso administrativo extremo (más de 2 años)",
+      "Inseguridad jurídica en normativa de protección de menores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Burocracia administrativa (que se auto-corrige sin asunción de responsabilidades por el retraso)"
+      ],
+      "perdedores": [
+        "Menores con problemas de conducta (potencial confusión legal en la aplicación de sus programas)",
+        "Operadores jurídicos"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Corrección de errores legislativos",
+    "banderas_rojas": [
+      "Retraso administrativo extremo (más de 2 años)",
+      "Inseguridad jurídica en normativa de protección de menores"
+    ]
+  },
+  "tweeted": false
+}
