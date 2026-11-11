@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23602",
+  "timestamp": "2026-11-11T19:19:21.111Z",
+  "title": "Real Decreto-ley 33/2026, de 10 de noviembre, por el que se adoptan medidas urgentes en respuesta a los daños causados por las inundaciones y otros sucesos acaecidos entre los días 17 y 19 de octubre de 2026, como consecuencia de la Depresión Aislada en Niveles Altos (DANA), denominada Adam.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El RDL 33/2026 emplea la narrativa de la catástrofe DANA 'Adam' para habilitar el uso masivo del procedimiento de emergencia (Art. 120 de la Ley 9/2017), lo que permite adjudicaciones directas sin concurso público bajo la etiqueta de 'urgencia'. Destaca una partida de 70 millones de euros para costas con una descripción excesivamente genérica ('resiliencia del litoral'), lo que podría encubrir gastos estructurales preexistentes no relacionados directamente con la inundación. El sistema de ayudas a seguros agrarios beneficia indirectamente a las entidades aseguradoras al garantizar el cobro de primas mediante subvenciones estatales de hasta el 70%, actuando el Estado como un colchón financiero para el sector privado.",
+    "resumen_ciudadano": "El Gobierno aprueba medidas de auxilio por la DANA de octubre de 2026. Se incluyen ayudas directas a agricultores (especialmente cítricos y hortalizas), exenciones en el IBI y el IAE para inmuebles dañados, y fondos para reparar ríos y costas. Las reparaciones de infraestructuras se harán por vía de urgencia, agilizando las obras pero reduciendo el control sobre quién recibe los contratos.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El RDL 33/2026 libera 70M€ para costas mediante 'procedimientos de emergencia' 🏗️. Menos control en contratos públicos y ayudas que blindan a las aseguradoras agrarias. ¿Transparencia o cheque en blanco? 🧐 #Opacidad #DANA #Adam",
+    "banderas_red_flags": [
+      "Uso sistemático del procedimiento de emergencia para evitar licitación pública",
+      "Ambigüedad en el destino de los 70 millones de euros para la protección de la costa",
+      "Excepciones a la Ley Orgánica de Estabilidad Presupuestaria para el uso de superávit municipal",
+      "Condicionamiento de ayudas a una 'afectación directa' que puede ser de difícil probanza para el pequeño comercio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes empresas constructoras (adjudicaciones directas)",
+        "Sector asegurador agrario (Agroseguro)",
+        "Grandes propietarios de explotaciones de cítricos y caquis"
+      ],
+      "perdedores": [
+        "Pequeños comercios sin capacidad técnica para certificar daños",
+        "Contribuyentes (por el riesgo de sobrecostes en obras de emergencia)",
+        "Organizaciones ambientales (obras en dominio público sin evaluación de impacto ordinaria)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana, Región de Murcia, Illes Balears y Andalucía",
+    "tipologia": "Real Decreto-ley de medidas urgentes por catástrofe natural",
+    "banderas_rojas": [
+      "Uso sistemático del procedimiento de emergencia para evitar licitación pública",
+      "Ambigüedad en el destino de los 70 millones de euros para la protección de la costa",
+      "Excepciones a la Ley Orgánica de Estabilidad Presupuestaria para el uso de superávit municipal",
+      "Condicionamiento de ayudas a una 'afectación directa' que puede ser de difícil probanza para el pequeño comercio"
+    ]
+  },
+  "tweeted": false
+}
