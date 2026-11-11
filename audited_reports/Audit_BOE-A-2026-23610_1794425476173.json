@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23610",
+  "timestamp": "2026-11-11T19:31:16.173Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Subsecretaría, por la que se resuelve el concurso, convocado por Resolución de 3 de julio de 2026, en el Organismo Estatal Inspección de Trabajo y Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque la resolución cumple con los estándares formales de publicación de adjudicaciones, se observa un fenómeno de 'vaciamiento administrativo' en la periferia. Mientras las plazas en A Coruña y Madrid se cubren con normalidad, provincias como Albacete y Álava presentan múltiples puestos desiertos (IA/7 a IA/11, IA/13 a IA/15). Esto sugiere una falta de incentivos para cubrir zonas críticas, lo que deriva en una Inspección de Trabajo de dos velocidades. La discrecionalidad para retrasar ceses hasta tres meses en Cataluña y País Vasco por 'necesidades del servicio' introduce una variable de opacidad en la movilidad real de los funcionarios.",
+    "resumen_ciudadano": "Se han asignado nuevos destinos a inspectores de trabajo de alto nivel (Grupo A1). No obstante, la auditoría revela que muchas plazas en provincias del interior han quedado vacantes porque nadie las ha solicitado o no se ha alcanzado la puntuación. Esto significa que habrá menos ojos vigilando los derechos laborales en esas zonas.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos la Inspección de Trabajo: mientras se mueven los altos niveles (A1), provincias como Albacete se quedan sin inspectores por plazas desiertas. ¿Derechos laborales según el código postal? 🚩 #BOE #Opacidad #Transparencia #InspeccionTrabajo",
+    "banderas_red_flags": [
+      "Alta tasa de plazas desiertas en provincias específicas (Albacete)",
+      "Poder discrecional para prorrogar ceses hasta 3 meses",
+      "Falta de desglose de las puntuaciones finales en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo 1502 (Cuerpo Superior de Inspectores de Trabajo)",
+        "Zonas urbanas con alta demanda (A Coruña, Madrid, Alicante)"
+      ],
+      "perdedores": [
+        "Trabajadores de Albacete (4 plazas de inspección desiertas)",
+        "Empresas en zonas rurales (menor supervisión y competencia desleal)",
+        "Movilidad funcional (puestos declarados irrenunciables)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de plazas desiertas en provincias específicas (Albacete)",
+      "Poder discrecional para prorrogar ceses hasta 3 meses",
+      "Falta de desglose de las puntuaciones finales en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
