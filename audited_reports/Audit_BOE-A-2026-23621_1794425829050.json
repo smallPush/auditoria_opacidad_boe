@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23621",
+  "timestamp": "2026-11-11T19:37:09.050Z",
+  "title": "Resolución de 3 de noviembre de 2026, de la Subsecretaría, por la que se publica la relación de aspirantes que han superado el proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo Administrativo de la Administración de la Seguridad Social, convocado por Resolución de 22 de diciembre de 2025.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El documento es una resolución estándar de publicación de aprobados. Presenta una alta transparencia en cuanto a méritos y puntuaciones (Anexo I), pero mantiene una barrera de acceso técnica al exigir obligatoriamente el uso de certificado electrónico de la FNMT o DNI-e en un plazo estricto de 20 días. Se observa una notable feminización en los puestos logrados, lo que impacta positivamente en la brecha de género en la administración pública. No obstante, el tiempo transcurrido desde la convocatoria (diciembre 2025) hasta la resolución (noviembre 2026) evidencia una lentitud burocrática que penaliza la eficiencia del sistema.",
+    "resumen_ciudadano": "Se publica la lista definitiva de personas que han aprobado las oposiciones para el Cuerpo Administrativo de la Seguridad Social. Los seleccionados deben presentar su documentación (títulos, DNI, declaración jurada) de forma exclusivamente electrónica en los próximos 20 días hábiles para poder ser nombrados funcionarios.",
+    "resumen_tweet": "✅ Publicada la lista de aprobados para Administrativos de la Seguridad Social. Alta transparencia en notas, pero ojo: ¡solo 20 días para el papeleo digital! 📑 ¿Brecha digital o eficiencia? 🏛️ #BOE #Oposiciones #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Obligatoriedad exclusiva de trámites electrónicos (brecha digital técnica)",
+      "Plazo perentorio de 20 días bajo amenaza de anulación de actuaciones",
+      "Dilación de casi un año entre convocatoria y publicación de resultados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "90 aspirantes seleccionados (gran presencia femenina)",
+        "Ministerio de Inclusión (refuerzo de plantilla administrativa)",
+        "FNMT (por el uso obligatorio de certificados electrónicos)"
+      ],
+      "perdedores": [
+        "Aspirantes con dificultades de acceso a medios electrónicos",
+        "Candidatos en posiciones de reserva que no logran plaza por estrecho margen",
+        "Eficiencia administrativa (proceso de selección de larga duración)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Obligatoriedad exclusiva de trámites electrónicos (brecha digital técnica)",
+      "Plazo perentorio de 20 días bajo amenaza de anulación de actuaciones",
+      "Dilación de casi un año entre convocatoria y publicación de resultados"
+    ]
+  },
+  "tweeted": false
+}
