@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23617",
+  "timestamp": "2026-11-11T19:32:45.150Z",
+  "title": "Resolución de 3 de noviembre de 2026, de la Secretaría de Estado de Educación, por la que se convoca procedimiento de renovación de directores y directoras en los centros docentes públicos no universitarios en las ciudades de Ceuta y Melilla.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución perpetúa un modelo de gestión educativa donde la continuidad del cargo recae excesivamente en la Inspección Educativa frente al Consejo Escolar. Aunque se menciona la 'audiencia' al Consejo, su papel es deliberativo y no vinculante, dejando la decisión final de renovación (que puede sumar hasta 12 años de mandato) en manos de informes técnicos de la administración. La existencia de una disposición transitoria que permite una 'segunda renovación' a quienes ya llevan 8 años sugiere una tendencia a la profesionalización del cargo directivo que puede bloquear el relevo generacional y la innovación pedagógica en Ceuta y Melilla.",
+    "resumen_ciudadano": "Se convoca el proceso para que los actuales directores de colegios e institutos públicos en Ceuta y Melilla puedan renovar sus cargos por otros cuatro años. El proceso depende de una evaluación de la Inspección de Educación y de la presentación de una actualización de su proyecto. Si la evaluación es negativa, la administración puede nombrar a dedo a un director accidental por un año.",
+    "resumen_tweet": "🏫 ¿Democracia escolar o burocracia? Nueva convocatoria para renovar directores en Ceuta y Melilla. El poder se concentra: hasta 12 años en el cargo con el aval de la Inspección. El Consejo Escolar solo opina, no decide. 🕵️‍♂️ #BOE #Opacidad #Educación",
+    "banderas_red_flags": [
+      "Concentración de poder: mandatos de hasta 12 años",
+      "Evaluación subjetiva: binomio favorable/desfavorable decidido por un inspector designado",
+      "Peso limitado de la comunidad educativa: el Consejo Escolar es 'oído' pero no decide",
+      "Nombramientos extraordinarios a discreción si la evaluación falla"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Directores actuales (incumbencia)",
+        "Inspección Educativa (control del proceso)",
+        "Ministerio de Educación (centralización del poder en Ceuta y Melilla)"
+      ],
+      "perdedores": [
+        "Candidatos alternativos (barreras a la renovación)",
+        "Consejos Escolares (pérdida de soberanía real)",
+        "Transparencia en méritos competitivos"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta y Melilla",
+    "tipologia": "Educación y Empleo Público",
+    "banderas_rojas": [
+      "Concentración de poder: mandatos de hasta 12 años",
+      "Evaluación subjetiva: binomio favorable/desfavorable decidido por un inspector designado",
+      "Peso limitado de la comunidad educativa: el Consejo Escolar es 'oído' pero no decide",
+      "Nombramientos extraordinarios a discreción si la evaluación falla"
+    ]
+  },
+  "tweeted": false
+}
