@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23541",
+  "timestamp": "2026-11-11T06:03:56.661Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación, en los Servicios Periféricos de la Secretaría General de Instituciones Penitenciarias.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La resolución utiliza el sistema de 'libre designación' para cubrir puestos críticos de dirección y seguridad en centros penitenciarios. Este mecanismo, aunque legal, permite la adjudicación de plazas por criterios de confianza política y discrecionalidad en lugar de méritos objetivos contrastables. Los complementos específicos (CE) que oscilan entre 15.000€ y 30.000€ anuales, sumados a la falta de baremos de puntuación públicos, generan un riesgo elevado de clientelismo en la gestión de la seguridad del Estado.",
+    "resumen_ciudadano": "Interior convoca plazas de directores y subdirectores para prisiones en toda España. Lo hace mediante el sistema de 'a dedo' (libre designación), lo que significa que el ministerio elige a quien quiera sin necesidad de que sea el candidato con más méritos. Algunos de estos puestos incluyen pluses salariales de más de 30.000 euros anuales.",
+    "resumen_tweet": "🚨 ¡Alerta de Opacidad! Interior convoca puestos clave en prisiones por 'Libre Designación' (a dedo) 🖐️. Plus salarial de hasta 30.000€. ¿Mérito técnico o confianza política? La transparencia bajo mínimos. 🏛️🔓 #BOE #Opacidad #Transparencia #Dedazo",
+    "banderas_red_flags": [
+      "Uso de libre designación en puestos de gestión técnica",
+      "Falta de criterios de valoración objetivos en las bases",
+      "Complementos salariales elevados sin justificación de desempeño",
+      "Plazo de 15 días muy breve para procesos de alta responsabilidad"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios con vínculos de confianza o afinidad política con la actual administración",
+        "Perfiles de gestión que buscan movilidad con altos complementos específicos"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera con méritos técnicos pero sin conexiones políticas",
+        "Ciudadanía, por la posible politización de la gestión penitenciaria",
+        "Transparencia pública al evitarse el concurso de méritos"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Uso de libre designación en puestos de gestión técnica",
+      "Falta de criterios de valoración objetivos en las bases",
+      "Complementos salariales elevados sin justificación de desempeño",
+      "Plazo de 15 días muy breve para procesos de alta responsabilidad"
+    ]
+  },
+  "tweeted": false
+}
