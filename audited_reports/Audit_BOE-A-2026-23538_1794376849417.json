@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23538",
+  "timestamp": "2026-11-11T06:00:49.417Z",
+  "title": "Resolución de 29 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesor Titular de Universidad a don Ignacio Javier Navarro Soria.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un acto administrativo de nombramiento de personal funcionario docente (PDI) tras un proceso selectivo. Si bien cumple con la normativa de citación (LOSU 2/2023), el documento es un ejemplo de 'transparencia procedimental' que no permite al ciudadano auditar la competitividad real del proceso o el coste salarial plurianual que esta plaza de funcionario supone para las arcas públicas valencianas.",
+    "resumen_ciudadano": "La Universidad de Alicante nombra formalmente a un nuevo Profesor Titular en el área de Psicología Evolutiva tras superar el concurso correspondiente. Es un trámite final para consolidar a un docente como funcionario de carrera.",
+    "resumen_tweet": "🎓 Nueva plaza fija de funcionario en la Universidad de Alicante. Se nombra Profesor Titular en Psicología Evolutiva. ¿Sabemos el coste real para el contribuyente o los méritos frente a otros? El #BOE informa pero no detalla. 🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Inexistencia de desglose del coste presupuestario de la plaza",
+      "Ausencia de información sobre el número de aspirantes en el proceso selectivo",
+      "Falta de enlace directo a la resolución de méritos del tribunal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ignacio Javier Navarro Soria (obtiene plaza fija)",
+        "Universidad de Alicante (cubre vacante estructural)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos o sin plaza)",
+        "Contribuyente (por falta de visibilidad sobre la eficiencia del gasto en personal)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Inexistencia de desglose del coste presupuestario de la plaza",
+      "Ausencia de información sobre el número de aspirantes en el proceso selectivo",
+      "Falta de enlace directo a la resolución de méritos del tribunal"
+    ]
+  },
+  "tweeted": false
+}
