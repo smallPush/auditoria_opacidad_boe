@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23618",
+  "timestamp": "2026-11-11T19:34:10.544Z",
+  "title": "Resolución de 31 de octubre de 2026, de la Subsecretaría, por la que se publica la relación definitiva de personas admitidas y excluidas del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 6 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se observa una incongruencia ideológica profunda: el Ministerio encargado del 'Reto Demográfico' suprime la sede de examen en Illes Balears alegando 'reducido número de solicitudes', centralizando el proceso en Madrid. Esta medida ignora la realidad de la insularidad y el coste de desplazamiento, contradiciendo las políticas de descentralización que el propio ministerio debería promover. Además, el uso de remisiones a enlaces externos para las listas de admitidos, en lugar de su publicación íntegra en el BOE, fragmenta la información y dificulta la fiscalización ciudadana inmediata.",
+    "resumen_ciudadano": "El Ministerio para la Transición Ecológica publica la lista de excluidos para plazas de personal laboral. La noticia negativa es la eliminación de la sede de examen en Baleares, obligando a los aspirantes de las islas a viajar a Madrid para poder examinarse, lo que supone una barrera económica y geográfica para el acceso al empleo público.",
+    "resumen_tweet": "🚨 ¡El @mitecogob olvida el #RetoDemográfico! Suprime la sede de examen en Baleares y obliga a los opositores a viajar a Madrid ✈️💸. Menos descentralización y más trabas para el ciudadano de las islas. #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Supresión de sede territorial en Illes Balears",
+      "Centralización forzosa en Madrid",
+      "Opacidad en la lista de admitidos (redirección a web externa)",
+      "Criterios de exclusión mediante códigos alfanuméricos sin desglose inmediato"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes residentes en Madrid",
+        "Administración central (reducción de costes operativos)"
+      ],
+      "perdedores": [
+        "Opositores de las Islas Baleares (costes de viaje y alojamiento)",
+        "Principio de equidad territorial",
+        "Aspirantes con rentas bajas excluidos por causas económicas"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Empleo Público / Recursos Humanos",
+    "banderas_rojas": [
+      "Supresión de sede territorial en Illes Balears",
+      "Centralización forzosa en Madrid",
+      "Opacidad en la lista de admitidos (redirección a web externa)",
+      "Criterios de exclusión mediante códigos alfanuméricos sin desglose inmediato"
+    ]
+  },
+  "tweeted": false
+}
