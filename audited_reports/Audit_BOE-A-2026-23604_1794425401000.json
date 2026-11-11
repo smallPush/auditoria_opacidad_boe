@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23604",
+  "timestamp": "2026-11-11T19:30:01.000Z",
+  "title": "Real Decreto-ley 35/2026, de 10 de noviembre, de medidas urgentes para el reconocimiento y protección a las familias monoparentales y otras medidas de apoyo a familias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El RDL 35/2026 utiliza la figura de la 'urgencia' para realizar cambios estructurales en la Ley de Familias Numerosas que no entrarán en vigor hasta 2027, lo que sugiere una urgencia política más que técnica. Aunque reconoce la brecha de inversión respecto a la UE (1.4% vs 2.4% del PIB), el texto no concreta las partidas presupuestarias exactas que respaldarán estas nuevas categorías, delegando el gasto a futuros desarrollos. Se observa una 'Incongruencia Ideológica' al intentar equiparar realidades distintas (monoparentalidad vs. familias numerosas) para ahorrar en la creación de una infraestructura de apoyo específica e independiente.",
+    "resumen_ciudadano": "Se crea oficialmente el título de familia monoparental a nivel nacional. Las familias con un solo progenitor y dos hijos ahora tendrán los mismos beneficios que las familias numerosas. También se mejora el Fondo de Garantía de Pago de Alimentos para asegurar que los hijos reciban pensiones alimenticias impagadas, incluyendo a mayores con discapacidad.",
+    "resumen_tweet": "📢 ¡Novedades en el #BOE! El RDL 35/2026 equipara familias monoparentales (2 hijos) a numerosas. ¿Avance social o parche presupuestario? La inversión sigue por debajo de la media europea. 💸🔍 #Transparencia #Opacidad #Familias",
+    "banderas_red_flags": [
+      "Diferimiento de la vigencia de cambios clave hasta enero de 2027.",
+      "Falta de desglose de cuantías específicas en el Fondo de Garantía de Alimentos.",
+      "Uso de decreto-ley para reformas de carácter estructural y no meramente coyuntural.",
+      "Ambigüedad en la financiación de las competencias transferidas a CCAA."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Madres solteras (colectivo mayoritario en monoparentalidad)",
+        "Niños en situación de pobreza infantil",
+        "Personas mayores con discapacidad (nuevos beneficiarios de fondos de alimentos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el incremento de gasto sin reforma fiscal)",
+        "Administraciones autonómicas (que deben gestionar el nuevo título sin financiación clara)",
+        "Familias numerosas tradicionales (que compiten por recursos con nuevos colectivos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Social / Protección a la Familia",
+    "banderas_rojas": [
+      "Diferimiento de la vigencia de cambios clave hasta enero de 2027.",
+      "Falta de desglose de cuantías específicas en el Fondo de Garantía de Alimentos.",
+      "Uso de decreto-ley para reformas de carácter estructural y no meramente coyuntural.",
+      "Ambigüedad en la financiación de las competencias transferidas a CCAA."
+    ]
+  },
+  "tweeted": false
+}
