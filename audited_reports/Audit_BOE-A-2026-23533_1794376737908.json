@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23533",
+  "timestamp": "2026-11-11T05:58:57.908Z",
+  "title": "Resolución de 30 de octubre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento detalla la adjudicación de tres puestos de trabajo mediante el sistema de 'libre designación', un mecanismo legal pero intrínsecamente opaco que permite la elección discrecional de personal. Se observa que las tres adjudicatarias ya pertenecían al mismo Ministerio y departamento, y curiosamente mantienen el mismo nivel administrativo que en sus puestos de procedencia (18, 17 y 17 respectivamente). Esto sugiere un proceso de consolidación interna de personal de confianza bajo la apariencia de una convocatoria abierta, lo que debilita la percepción de competencia basada puramente en méritos.",
+    "resumen_ciudadano": "El Ministerio de Derechos Sociales ha formalizado el nombramiento de tres empleadas para puestos de secretaría y apoyo técnico. Estos cargos se han otorgado 'a dedo' (libre designación) en lugar de por concurso de méritos. Las seleccionadas ya trabajaban en el propio Ministerio, lo que indica una promoción o estabilización interna de puestos de confianza.",
+    "resumen_tweet": "🕵️‍♂️ Auditamos el #BOE: El Ministerio de Derechos Sociales adjudica puestos de 'libre designación' (a dedo). 3 funcionarias consolidan sus puestos de confianza en secretaría. ¿Transparencia o burocracia de confianza? 🏛️⚖️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso del sistema de libre designación (discrecionalidad)",
+      "Endogamia administrativa (adjudicatarias del mismo centro directivo)",
+      "Niveles de destino idénticos a los de procedencia (posible regularización de situaciones de facto)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "M. Dolores Muñoz Hernández",
+        "Sagrario Martín de Pablo",
+        "Paula Acosta Gallegos",
+        "Cúpula del Ministerio (asegura personal de su confianza directa)"
+      ],
+      "perdedores": [
+        "Candidatos externos al departamento",
+        "Principios de igualdad, mérito y capacidad en el acceso a puestos públicos",
+        "Transparencia en la gestión de personal"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Uso del sistema de libre designación (discrecionalidad)",
+      "Endogamia administrativa (adjudicatarias del mismo centro directivo)",
+      "Niveles de destino idénticos a los de procedencia (posible regularización de situaciones de facto)"
+    ]
+  },
+  "tweeted": false
+}
