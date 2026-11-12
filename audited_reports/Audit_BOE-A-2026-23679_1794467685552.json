@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23679",
+  "timestamp": "2026-11-12T07:14:45.552Z",
+  "title": "Resolución de 2 de noviembre de 2026, de la Universidad Rovira i Virgili, por la que se nombra Profesora Titular de Universidad a doña Marta Romeu Ferran.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento estandarizado de funcionaria de carrera en el ámbito universitario. Aunque el proceso cita la normativa legal vigente (LOSU 2/2023), el documento peca de la opacidad habitual en la administración española: el uso de códigos internos (DF000859) que impiden al ciudadano conocer la partida presupuestaria exacta y el salario bruto asociado. No existe mención a los méritos específicos ni al acta de la comisión, delegando toda confianza en procesos internos que históricamente han sido cuestionados por riesgos de endogamia académica.",
+    "resumen_ciudadano": "La Universidad Rovira i Virgili nombra a Marta Romeu Ferran como Profesora Titular en el área de Farmacología. Es un trámite administrativo rutinario tras un concurso público de acceso a plazas docentes.",
+    "resumen_tweet": "⚖️ Nueva plaza de Profesora Titular en la URV. Se cumple la norma, pero la opacidad financiera persiste: el código DF000859 oculta el coste real para el contribuyente. ¿Transparencia o burocracia académica? 🎓 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ocultación de retribución económica asociada",
+      "Uso de codificación de plaza no vinculada a presupuesto público visible",
+      "Falta de acceso directo a las actas de evaluación de la comisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Marta Romeu Ferran (estabilidad laboral y estatus de funcionaria)",
+        "Universidad Rovira i Virgili (cobertura de plaza estructural)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de acceso en procesos con tendencia a la endogamia)",
+        "Ciudadanía (desconocimiento del coste salarial de la nueva plaza)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Ocultación de retribución económica asociada",
+      "Uso de codificación de plaza no vinculada a presupuesto público visible",
+      "Falta de acceso directo a las actas de evaluación de la comisión"
+    ]
+  },
+  "tweeted": false
+}
