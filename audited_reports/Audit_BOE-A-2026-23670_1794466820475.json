@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23670",
+  "timestamp": "2026-11-12T07:00:20.475Z",
+  "title": "Orden de 3 de noviembre de 2026, por la que se destina a los Jueces y Juezas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Aunque el documento detalla los traslados de la carrera judicial, presenta anomalías significativas en la ejecución temporal de los ceses. La vinculación explícita del cese de la jueza Natalia Rey Moreno a la celebración de las Elecciones Generales del 29 de noviembre de 2026 es altamente irregular y sugiere una subordinación del calendario judicial a los intereses políticos o electorales. Asimismo, el retraso de casi nueve meses otorgado a la jueza Vanesa Fernández Álvarez (hasta julio de 2027) bajo una genérica 'conciliación' genera un agravio comparativo y afecta a la operatividad de los tribunales de Ribeira y Tui.",
+    "resumen_ciudadano": "El Consejo General del Poder Judicial ha ordenado el traslado de 10 jueces a nuevos destinos en diversas provincias. Sin embargo, dos de estos traslados no se realizarán de forma inmediata: uno se ha pospuesto hasta después de las próximas Elecciones Generales y otro se retrasará casi un año. Esto implica que las plazas originales y de destino estarán en una situación de transitoriedad inusual, afectando a la gestión de los juzgados implicados.",
+    "resumen_tweet": "⚖️ ¿Justicia o estrategia? El #CGPJ traslada jueces con fechas bajo sospecha: una jueza no cesará hasta pasar las Elecciones Generales 🗳️ y otra esperará 9 meses. ¿Por qué se vinculan ceses judiciales al calendario político? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sincronización del cese administrativo con el calendario de Elecciones Generales",
+      "Plazo de cese extendido de forma extraordinaria (9 meses) sin justificación técnica detallada",
+      "Posible interinidad prolongada en juzgados con competencia en Violencia sobre la Mujer"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jueces que logran plazas en Madrid (San Lorenzo de El Escorial) o destinos de su preferencia",
+        "Magistrados con beneficios temporales excepcionales para su cese"
+      ],
+      "perdedores": [
+        "Ciudadanos de Zafra y Ribeira que sufrirán la interinidad de sus jueces durante meses",
+        "Principio de independencia judicial frente a cronogramas electorales"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional",
+    "tipologia": "Nombramientos y traslados de la Carrera Judicial",
+    "banderas_rojas": [
+      "Sincronización del cese administrativo con el calendario de Elecciones Generales",
+      "Plazo de cese extendido de forma extraordinaria (9 meses) sin justificación técnica detallada",
+      "Posible interinidad prolongada en juzgados con competencia en Violencia sobre la Mujer"
+    ]
+  },
+  "tweeted": false
+}
