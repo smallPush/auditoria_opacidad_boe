@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23668",
+  "timestamp": "2026-11-12T19:50:11.585Z",
+  "title": "Orden ISM/1198/2026, de 10 de noviembre, por la que se regulan las operaciones de cierre del ejercicio 2026 para las entidades que integran el sistema de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Bajo la apariencia de una orden técnica de cierre de ejercicio, la norma establece un 'embudo' burocrático que limita el gasto ordinario desde noviembre, pero habilita una amplísima lista de excepciones (Art. 2.4) que permiten al Ejecutivo y a las Mutuas movilizar fondos hasta el último minuto del año sin la fiscalización preventiva estándar. La posibilidad de registrar operaciones hasta el 5 de marzo de 2027 con efectos de 2026 (Art. 2.5) facilita el 'maquillaje' contable del déficit real, ya que permite imputar retroactivamente ingresos y gastos que deberían ser transparentes en tiempo real.",
+    "resumen_ciudadano": "Esta orden regula cuándo y cómo se dejan de pagar facturas y gestionar ayudas en la Seguridad Social para terminar el año 2026. Aunque pone fechas límite estrictas para el ciudadano y los proveedores comunes, deja vía libre para que ciertos gastos del Gobierno y de las Mutuas se realicen fuera de plazo, dificultando el control público de cuánto dinero queda realmente en la caja al finalizar el año.",
+    "resumen_tweet": "🚨 ¿A dónde va el dinero al final de año? El #BOE dicta el cierre contable 2026 de la Seguridad Social. Ojo: hay 'puertas traseras' para gastos de última hora que esquivan el control ordinario. 📉 #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Uso excesivo de excepciones a los plazos de fiscalización (Art. 2.4)",
+      "Periodo de 'gracia' contable hasta marzo de 2027 para operaciones de 2026",
+      "Ambigüedad en la gestión de 'pagos a justificar' en el extranjero",
+      "Riesgo de concentración de gasto sin intervención previa en la última quincena de diciembre"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mutuas Colaboradoras (tienen plazos de cierre más laxos que otros organismos)",
+        "Ministerio de Inclusión y Seguridad Social (por discrecionalidad en gastos exceptuados)",
+        "Grandes gestoras sanitarias con convenios de incapacidad temporal"
+      ],
+      "perdedores": [
+        "Proveedores ordinarios (bloqueados por plazos tempranos en noviembre)",
+        "Ciudadanía (por la opacidad en el registro de gastos devengados y no contabilizados)",
+        "Transparencia presupuestaria (por el uso de ajustes retroactivos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera y Presupuestaria",
+    "banderas_rojas": [
+      "Uso excesivo de excepciones a los plazos de fiscalización (Art. 2.4)",
+      "Periodo de 'gracia' contable hasta marzo de 2027 para operaciones de 2026",
+      "Ambigüedad en la gestión de 'pagos a justificar' en el extranjero",
+      "Riesgo de concentración de gasto sin intervención previa en la última quincena de diciembre"
+    ]
+  },
+  "tweeted": false
+}
