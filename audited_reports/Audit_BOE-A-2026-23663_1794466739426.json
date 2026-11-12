@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-23663",
+  "timestamp": "2026-11-12T06:58:59.426Z",
+  "title": "Real Decreto 976/2026, de 11 de noviembre, por el que se regula la concesión directa de subvenciones para la cooperación internacional al desarrollo sostenible por la Secretaría de Estado de Cooperación Internacional del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 976/2026 utiliza la figura de la 'concesión directa' para eludir el principio de concurrencia competitiva, amparándose en una supuesta 'singularidad' de los beneficiarios. Resulta alarmante el uso de presupuestos prorrogados de 2023 para financiar actividades en 2026, lo que denota una planificación financiera estancada o la voluntad de mantener subvenciones nominativas sin pasar por el debate parlamentario de nuevas cuentas. Se justifica la entrega de fondos a patronales (CEOE), sindicatos (UGT, CCOO) y redes (REDS) para tareas que en muchos casos parecen administrativas (bases de datos, informes internos o seminarios) bajo el paraguas de la Agenda 2030, consolidando un ecosistema de 'socios estratégicos' que cierra el paso a nuevos actores en la cooperación internacional.",
+    "resumen_ciudadano": "El Gobierno ha otorgado subvenciones directas (sin concurso público) a grandes organizaciones como sindicatos, patronales y asociaciones universitarias para proyectos de cooperación internacional. La justificación es que solo estas entidades pueden realizar dichas tareas, como recopilar datos de ayuda al desarrollo o realizar seminarios. Los fondos provienen de presupuestos antiguos prorrogados, lo que evita el control de un nuevo presupuesto actual.",
+    "resumen_tweet": "🚨 El Gobierno reparte subvenciones 'a dedo' a los de siempre: CEOE, UGT, CCOO y FEMP 💸. Se justifica por 'singularidad' usando presupuestos prorrogados de 2023. ¿Cooperación real o mantenimiento de estructuras? 🧐📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia pública",
+      "Uso de presupuestos prorrogados de hace 3 años (2023)",
+      "Justificación de 'singularidad' basada en la propia estructura de la entidad",
+      "Financiación de gastos operativos disfrazados de proyectos de desarrollo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Sindicatos mayoritarios (UGT, CCOO)",
+        "Patronales (CEOE, CEPES)",
+        "Estructuras burocráticas (FEMP, CRUE)",
+        "Red Española para el Desarrollo Sostenible (REDS)"
+      ],
+      "perdedores": [
+        "Pequeñas ONGs de cooperación",
+        "Nuevos actores sociales sin acceso a subvenciones nominativas",
+        "Transparencia pública por falta de licitación competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia pública",
+      "Uso de presupuestos prorrogados de hace 3 años (2023)",
+      "Justificación de 'singularidad' basada en la propia estructura de la entidad",
+      "Financiación de gastos operativos disfrazados de proyectos de desarrollo"
+    ]
+  },
+  "tweeted": false
+}
