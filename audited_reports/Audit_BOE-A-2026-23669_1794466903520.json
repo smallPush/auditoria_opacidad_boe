@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23669",
+  "timestamp": "2026-11-12T07:01:43.520Z",
+  "title": "Real Decreto 987/2026, de 11 de noviembre, por el que se regula la concesión directa de una subvención a la Asociación Española de Normalización (UNE) destinada a impulsar la actividad de normalización y estandarización, así como el soporte a secretaría y acción internacional en comités, tanto en el ámbito de las tecnologías digitales y la digitalización, como de las telecomunicaciones e infraestructuras digitales.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 987/2026 evidencia la institucionalización de la 'excepcionalidad' mediante el uso recurrente del artículo 22.2.c de la Ley General de Subvenciones. Se justifica la concesión directa a la Asociación Española de Normalización (UNE) basándose en una prórroga presupuestaria de 2023, lo que permite eludir la concurrencia competitiva para financiar actividades ordinarias de una entidad privada con funciones de monopolio de facto. La falta de detalle en las cuantías exactas dentro del texto (remitiendo a leyes previas) y la financiación de gastos de personal genéricos constituyen una opacidad administrativa que favorece el sostenimiento de estructuras burocráticas privadas con fondos públicos bajo el pretexto de la digitalización.",
+    "resumen_ciudadano": "El Gobierno ha otorgado una subvención directa a la entidad privada UNE para sus actividades de estandarización digital y telecomunicaciones, evitando un concurso público. La excusa legal es que no hay nuevos presupuestos y que UNE es la única organización autorizada para estas tareas. En la práctica, se está financiando con dinero público el funcionamiento habitual, viajes y sueldos de una asociación privada que decide las normas técnicas que rigen el mercado español.",
+    "resumen_tweet": "📢 ¡Alerta de opacidad en el #BOE! Se otorga una subvención directa a UNE (entidad privada) eludiendo el concurso público bajo la excusa de 'interés público' y presupuestos prorrogados. 💸 ¿Hasta cuándo la excepción será la regla? #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Adjudicación sin competencia mediante concesión directa",
+      "Uso de presupuestos prorrogados de 2023 para justificar urgencia en 2026",
+      "Financiación recurrente de gastos de personal y dietas de una entidad privada",
+      "Monopolio de facto en la representación internacional de estándares"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Española de Normalización (UNE)",
+        "Grandes empresas tecnológicas con presencia en los Comités Técnicos",
+        "Estructuras burocráticas del Ministerio para la Transformación Digital"
+      ],
+      "perdedores": [
+        "PYMES con barreras de acceso a la normalización técnica",
+        "Contribuyentes (financiación de actividades privadas sin retorno claro)",
+        "Nuevos actores tecnológicos excluidos de la subvención competitiva"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ámbito Nacional)",
+    "tipologia": "Real Decreto de Concesión Directa de Subvención",
+    "banderas_rojas": [
+      "Adjudicación sin competencia mediante concesión directa",
+      "Uso de presupuestos prorrogados de 2023 para justificar urgencia en 2026",
+      "Financiación recurrente de gastos de personal y dietas de una entidad privada",
+      "Monopolio de facto en la representación internacional de estándares"
+    ]
+  },
+  "tweeted": false
+}
