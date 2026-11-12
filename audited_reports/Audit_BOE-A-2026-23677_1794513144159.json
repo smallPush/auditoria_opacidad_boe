@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23677",
+  "timestamp": "2026-11-12T19:52:24.159Z",
+  "title": "Resolución de 2 de noviembre de 2026, de la Universidad de las Illes Balears, por la que se nombra Profesor Titular de Universidad a don Francisco Javier Rosselló Lozano.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un nombramiento administrativo estándar de un Profesor Titular de Universidad en el área de Medicina. El documento cumple con la legalidad vigente (LOSU 2/2023), pero mantiene la opacidad sistémica del sistema universitario español: se cita el código de plaza (239182) sin detallar la dotación presupuestaria exacta ni los méritos específicos que llevaron a la elección, dificultando la fiscalización ciudadana sobre la meritocracia real frente a la endogamia universitaria.",
+    "resumen_ciudadano": "La Universidad de las Illes Balears ha nombrado oficialmente a Francisco Javier Rosselló Lozano como Profesor Titular de Medicina tras superar un concurso de acceso convocado en mayo de 2026.",
+    "resumen_tweet": "🎓 Nombramiento de nuevo Profesor Titular de Medicina en la @UIBuniversitat. Un paso administrativo habitual que oculta la complejidad y el coste real de las plazas públicas. ¿Meritocracia o inercia burocrática? 🏥 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Opacidad en la retribución económica asociada a la plaza 239182",
+      "Ausencia de información sobre el proceso selectivo previo",
+      "Posible sesgo de promoción interna no detallado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Francisco Javier Rosselló Lozano (estabilidad laboral y estatus)",
+        "Universidad de las Illes Balears (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos con menor acceso a información interna",
+        "Ciudadanía (desconocimiento del coste total del puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Islas Baleares",
+    "tipologia": "Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Opacidad en la retribución económica asociada a la plaza 239182",
+      "Ausencia de información sobre el proceso selectivo previo",
+      "Posible sesgo de promoción interna no detallado"
+    ]
+  },
+  "tweeted": false
+}
