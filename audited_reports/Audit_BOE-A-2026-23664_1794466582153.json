@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-23664",
+  "timestamp": "2026-11-12T06:56:22.153Z",
+  "title": "Real Decreto 982/2026, de 11 de noviembre, por el que se modifica el Real Decreto 1009/2022, de 5 de diciembre, por el que se establecen las normas reguladoras de la concesión directa de un préstamo a la empresa Airbus Helicopters España, S.A.U., para el programa de los helicópteros Tigre MKIII.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una modificación legislativa para favorecer a un único actor privado (Airbus) mediante la flexibilización de un préstamo masivo de 707,5 millones de euros. Bajo la apariencia de 'modernización tecnológica', el Estado asume el coste de oportunidad y el riesgo financiero al otorgar el préstamo al 0% de interés y, lo más alarmante, 'sin exigencia de garantías'. La ley se modifica específicamente para adaptarse a un retraso de 18 meses imputable a la empresa, demostrando una relación de dependencia donde lo público se pliega a los ritmos de lo privado. Además, se utiliza el Ministerio de Industria para canalizar gasto militar, una práctica habitual para maquillar las cifras totales de Defensa.",
+    "resumen_ciudadano": "El Gobierno ha modificado las condiciones de un préstamo de más de 707 millones de euros a la empresa Airbus para helicópteros de combate. El dinero se entrega sin intereses y sin pedir avales o garantías. Debido a que la empresa lleva 18 meses de retraso en sus trabajos, el Estado ha decidido cambiar la ley para que los pagos públicos se ajusten a la demora de la compañía, moviendo además los detalles de la devolución del dinero a órdenes ministeriales menos transparentes.",
+    "resumen_tweet": "🚁 707 millones de € para Airbus: interés al 0%, SIN GARANTÍAS y la ley se cambia para adaptarse a sus retrasos de 18 meses. El Estado asume el riesgo mientras la empresa recibe financiación gratis. ¿Quién vigila esto? 🚩 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Tipo de interés al 0% (subvención encubierta)",
+      "Ausencia total de garantías financieras exigidas",
+      "Modificación normativa a medida por retrasos de la empresa",
+      "Externalización de detalles de amortización fuera del Real Decreto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Airbus Helicopters España S.A.U. (obtiene liquidez sin coste)",
+        "Complejo militar-industrial (asegura flujo de caja)",
+        "OCCAR (gestor internacional del programa)"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el riesgo de impago sin garantías)",
+        "PYMES industriales (sin acceso a condiciones de financiación similares)",
+        "Transparencia pública (gastos militares camuflados en Industria)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Defensa e Industria",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Tipo de interés al 0% (subvención encubierta)",
+      "Ausencia total de garantías financieras exigidas",
+      "Modificación normativa a medida por retrasos de la empresa",
+      "Externalización de detalles de amortización fuera del Real Decreto"
+    ]
+  },
+  "tweeted": false
+}
