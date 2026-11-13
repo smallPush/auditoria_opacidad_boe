@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23756",
+  "timestamp": "2026-11-13T19:31:08.706Z",
+  "title": "Real Decreto 977/2026, de 11 de noviembre, por el que se regula la concesión directa de subvenciones a las confesiones religiosas minoritarias firmantes de acuerdos de cooperación con el Estado.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 977/2026 utiliza la figura de la 'concesión directa' para otorgar 1.200.000 euros a tres federaciones religiosas (FEREDE, FCJE y CIE). Aunque se justifica mediante una recomendación del Tribunal de Cuentas para 'simplificar' la gestión, esta modalidad elimina la concurrencia competitiva, permitiendo que fondos públicos financien gastos estructurales como suministros (agua, gas, luz) y pequeñas reparaciones de entidades privadas. El texto presenta una ambigüedad calculada en conceptos como 'visibilización' o 'asesoramiento', que funcionan como cajones de sastre presupuestarios.",
+    "resumen_ciudadano": "El Estado otorga 1,2 millones de euros directamente, sin concurso público, a las federaciones evangélica, judía e islámica. El dinero se destina a pagar sus gastos de funcionamiento, sueldos de personal y actividades de comunicación. Se argumenta que es necesario para garantizar la libertad religiosa, pero supone una financiación estructural de estas organizaciones con dinero del contribuyente.",
+    "resumen_tweet": "⚠️ El Gobierno otorga 1.2M€ 'a dedo' a confesiones religiosas minoritarias. Se financian sueldos y facturas de luz/gas sin concurso público. ¿Promoción de la libertad o subvención estructural opaca? 🧐⛪️🕌🕍 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva bajo la excusa de interés público",
+      "Financiación de gastos de mantenimiento ordinario (luz, agua, reparaciones) con subvenciones",
+      "Conceptos vagos como 'apoyo a actividades de visibilización'",
+      "Uso de una Fundación (Pluralismo y Convivencia) para intermediar la entrega de fondos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructuras burocráticas de FEREDE, FCJE y CIE",
+        "Fundación Pluralismo y Convivencia",
+        "Ministerio de la Presidencia"
+      ],
+      "perdedores": [
+        "Confesiones minoritarias sin acuerdo de cooperación",
+        "Contribuyentes partidarios de la laicidad estatal",
+        "Asociaciones civiles que deben competir en procesos abiertos para obtener fondos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva bajo la excusa de interés público",
+      "Financiación de gastos de mantenimiento ordinario (luz, agua, reparaciones) con subvenciones",
+      "Conceptos vagos como 'apoyo a actividades de visibilización'",
+      "Uso de una Fundación (Pluralismo y Convivencia) para intermediar la entrega de fondos"
+    ]
+  },
+  "tweeted": false
+}
