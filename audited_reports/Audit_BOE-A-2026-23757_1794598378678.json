@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23757",
+  "timestamp": "2026-11-13T19:32:58.678Z",
+  "title": "Real Decreto 978/2026, de 11 de noviembre, por el que se modifican el Real Decreto 1106/2020, de 15 de diciembre, por el que se regula el Estatuto de los consumidores electrointensivos, y el Real Decreto 309/2022, de 3 de mayo, por el que se establece el mecanismo de compensación de costes indirectos para los sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de fuga de carbono durante el periodo 2021-2030.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 978/2026 desmantela silenciosamente las contrapartidas ecológicas de la gran industria. Bajo la narrativa de 'racionalización administrativa', se eliminan obligaciones críticas: ya no es obligatorio acreditar un 10% de energía renovable a largo plazo ni presentar informes detallados de eficiencia energética para recibir subvenciones. Se introduce una nueva partida de 'Gasto Fantasma' mediante la compensación del SNOEE, transfiriendo fondos del sistema a grandes empresas sin exigir mejoras de sostenibilidad a cambio. Esto supone una incongruencia ideológica flagrante: se subvenciona la ineficiencia mientras se pregona la transición verde.",
+    "resumen_ciudadano": "El Gobierno ha decidido aumentar las ayudas económicas a las industrias que más electricidad consumen (electrointensivas), permitiéndoles además que dejen de informar sobre sus ahorros de energía y eliminando la obligación de comprar electricidad renovable. En la práctica, esto significa más dinero público para grandes empresas con menos controles ambientales y menos transparencia sobre cómo usan esa energía.",
+    "resumen_tweet": "🚨 El nuevo #BOE facilita más ayudas a la gran industria eliminando exigencias verdes. 📉 Menos control ambiental y menos burocracia para las grandes empresas, pero la factura la pagamos todos. ¿Transparencia o cheque en blanco? 🤔 #Opacidad #Industria",
+    "banderas_red_flags": [
+      "Eliminación de la obligación de contratos renovables (PPA)",
+      "Supresión de informes de eficiencia energética y emisiones",
+      "Nueva subvención por costes de eficiencia energética (SNOEE) sin contrapartidas",
+      "Opacidad en el impacto real del 'nuevo coste subvencionable' en el presupuesto público"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes industrias electrointensivas (Siderurgia, Química, Cemento)",
+        "Sectores con riesgo de fuga de carbono",
+        "Departamentos de cumplimiento corporativo (menos burocracia)"
+      ],
+      "perdedores": [
+        "Consumidores domésticos (que siguen financiando el sistema sin exenciones)",
+        "Transparencia medioambiental",
+        "Objetivos de descarbonización real de la industria"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Modificación de Ayudas Industriales y Energéticas",
+    "banderas_rojas": [
+      "Eliminación de la obligación de contratos renovables (PPA)",
+      "Supresión de informes de eficiencia energética y emisiones",
+      "Nueva subvención por costes de eficiencia energética (SNOEE) sin contrapartidas",
+      "Opacidad en el impacto real del 'nuevo coste subvencionable' en el presupuesto público"
+    ]
+  },
+  "tweeted": false
+}
