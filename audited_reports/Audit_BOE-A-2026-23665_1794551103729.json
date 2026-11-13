@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23665",
+  "timestamp": "2026-11-13T06:25:03.729Z",
+  "title": "Real Decreto 983/2026, de 11 de noviembre, por el que se regula la concesión directa de una subvención destinada a la Fundación para la Transformación de La Rioja para contribuir al proyecto de creación del Centro Nacional de Tecnologías del Envase (CENTIDE), con cargo al ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza el artículo 22.2.c) de la Ley General de Subvenciones para saltarse la concurrencia competitiva, justificándolo en una supuesta 'excepcionalidad' y 'autonomía estratégica'. Se observa una maniobra administrativa para sortear la prórroga presupuestaria de 2026, transformando lo que debería ser una partida nominativa en una concesión directa por decreto. Esto reduce el control parlamentario y la igualdad de oportunidades para otros centros tecnológicos nacionales que podrían desarrollar funciones similares.",
+    "resumen_ciudadano": "El Gobierno ha otorgado una subvención directa a la Fundación para la Transformación de La Rioja para financiar equipos del Centro Nacional de Tecnologías del Envase (CENTIDE). En lugar de abrir un concurso para que el mejor proyecto gane, se ha elegido a dedo a esta fundación pública regional alegando que es un proyecto único. El dinero se pagará por adelantado y de una sola vez.",
+    "resumen_tweet": "⚠️ ¡Alerta de dedazo! El Gobierno otorga subvención directa a una fundación en La Rioja para el CENTIDE. Usan el truco de 'excepcionalidad' para evitar el concurso público alegando presupuestos prorrogados. 📦💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia pública",
+      "Uso de la prórroga presupuestaria como justificante de urgencia",
+      "Pago anticipado del 100% sin garantías exigidas",
+      "Externalización a una fundación pública con capacidad de contratar a terceros sin el mismo rigor que la administración central"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de La Rioja",
+        "Fundación para la Transformación de La Rioja",
+        "Empresas del sector packaging riojano"
+      ],
+      "perdedores": [
+        "Contribuyentes (por falta de eficiencia en la licitación)",
+        "Otros centros tecnológicos de I+D+i en envases",
+        "Principio de igualdad y concurrencia competitiva"
+      ]
+    },
+    "comunidad_autonoma": "La Rioja",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Ausencia de concurrencia pública",
+      "Uso de la prórroga presupuestaria como justificante de urgencia",
+      "Pago anticipado del 100% sin garantías exigidas",
+      "Externalización a una fundación pública con capacidad de contratar a terceros sin el mismo rigor que la administración central"
+    ]
+  },
+  "tweeted": false
+}
