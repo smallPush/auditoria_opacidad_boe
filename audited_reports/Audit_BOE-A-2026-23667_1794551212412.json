@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23667",
+  "timestamp": "2026-11-13T06:26:52.412Z",
+  "title": "Real Decreto 985/2026, de 11 de noviembre, por el que se regula la Cámara Oficial de Comercio, Industria, Servicios y Navegación de Melilla.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La reapertura de la Cámara de Melilla tras 8 años de inactividad se realiza mediante un procedimiento de urgencia que elude la consulta pública ordinaria. El texto justifica esta aceleración basándose en la proximidad de unas elecciones generales (noviembre 2026) para evitar el bloqueo de un Gobierno en funciones, lo que supone un uso estratégico del calendario legislativo. Si bien se menciona un 'plan de viabilidad', no se detallan las cuantías exactas de la dotación inicial pública, lo que genera una zona de sombra sobre el coste real para el contribuyente melillense.",
+    "resumen_ciudadano": "El Gobierno reactiva por decreto la Cámara de Comercio de Melilla, extinguida desde 2018. Se establece una estructura provisional (Comisión Gestora) para gestionar ayudas y fondos europeos hasta que se celebren elecciones internas en 2027. La Ciudad Autónoma se compromete a poner el local y los fondos iniciales, aunque la sostenibilidad futura dependerá de cuotas voluntarias de las empresas.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! Se reabre la Cámara de Melilla tras 8 años mediante vía de URGENCIA. 📉 Sin consulta pública y justificando el 'carpetazo' por las elecciones de 2026. ¿Transparencia o control institucional exprés? 🧐🏛️ #Opacidad #Transparencia #Melilla",
+    "banderas_red_flags": [
+      "Uso del procedimiento de urgencia para evitar el trámite de consulta pública",
+      "Justificación de la norma basada en el riesgo de un 'Gobierno en funciones' tras elecciones",
+      "Falta de desglose económico de la 'dotación de recursos iniciales' comprometida",
+      "Reapertura exprés tras un vacío institucional de ocho años sin explicación de la demora previa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de la Ciudad Autónoma de Melilla (recupera control institucional)",
+        "Élites empresariales locales (acceso a gestión de subvenciones y fondos UE)",
+        "Personal directivo de la futura Comisión Gestora"
+      ],
+      "perdedores": [
+        "Ciudadanía general (excluida del proceso de consulta pública)",
+        "Pequeños autónomos (presión para realizar 'aportaciones voluntarias' para mantener la entidad)",
+        "Transparencia administrativa (por el uso de atajos legislativos)"
+      ]
+    },
+    "comunidad_autonoma": "Melilla",
+    "tipologia": "Real Decreto de Carácter Organizativo",
+    "banderas_rojas": [
+      "Uso del procedimiento de urgencia para evitar el trámite de consulta pública",
+      "Justificación de la norma basada en el riesgo de un 'Gobierno en funciones' tras elecciones",
+      "Falta de desglose económico de la 'dotación de recursos iniciales' comprometida",
+      "Reapertura exprés tras un vacío institucional de ocho años sin explicación de la demora previa"
+    ]
+  },
+  "tweeted": false
+}
