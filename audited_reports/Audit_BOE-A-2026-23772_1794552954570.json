@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-23772",
+  "timestamp": "2026-11-13T06:55:54.570Z",
+  "title": "Resolución de 4 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 17 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolucion formaliza un nombramiento de Nivel 29 (el segundo mas alto en la Administracion) mediante el sistema de 'libre designacion'. Este metodo permite la eleccion discrecional de altos funcionarios bajo criterios de 'idoneidad' subjetiva, alejandose de la meritocracia pura del concurso publico. En un organismo tan sensible como el FOGASA, que gestiona fondos publicos para trabajadores de empresas insolventes, la designacion 'a dedo' de adjuntos a la secretaria general genera dudas sobre la independencia tecnica frente a la confianza politica. No se especifican los meritos concretos que hicieron al candidato superior a otros aspirantes, amparandose en la legalidad de la libre eleccion.",
+    "resumen_ciudadano": "Se ha adjudicado un puesto de alta direccion (Adjunto al Secretario General) en el Fondo de Garantia Salarial (FOGASA) a Oscar Lerma Diaz. La eleccion no ha sido por oposicion o concurso de meritos abierto, sino por designacion directa del Ministerio de Trabajo. El puesto es de Nivel 29, lo que implica una de las remuneraciones y responsabilidades mas altas dentro del cuerpo de funcionarios del Estado.",
+    "resumen_tweet": "🧐 El @empleogob asigna un puesto Nivel 29 en el FOGASA mediante 'libre designacion'. ¿Meritocracia o confianza politica? Otra adjudicacion a dedo en las altas esferas del Estado que esquiva el concurso publico. #BOE #Opacidad #Transparencia 🚩",
+    "banderas_red_flags": [
+      "Libre designacion (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 29)",
+      "Falta de detalle en los criterios de idoneidad",
+      "Organismo gestor de fondos sensibles (FOGASA)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Oscar Lerma Diaz (ascenso/consolidacion en elite burocratica)",
+        "Ministerio de Trabajo (control directo sobre el FOGASA)"
+      ],
+      "perdedores": [
+        "Meritocracia administrativa",
+        "Cuerpo de funcionarios (limitacion de carrera por concurso)",
+        "Transparencia en la gestion de fondos salariales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Alto Rango",
+    "banderas_rojas": [
+      "Libre designacion (discrecionalidad)",
+      "Puesto de alto nivel (Nivel 29)",
+      "Falta de detalle en los criterios de idoneidad",
+      "Organismo gestor de fondos sensibles (FOGASA)"
+    ]
+  },
+  "tweeted": false
+}
