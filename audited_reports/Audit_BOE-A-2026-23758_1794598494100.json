@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23758",
+  "timestamp": "2026-11-13T19:34:54.100Z",
+  "title": "Real Decreto 979/2026, de 11 de noviembre, por el que se modifica el Real Decreto 278/1995, de 24 de febrero, por el que se crea en España el Registro previsto en el Convenio de 12 de noviembre de 1974 de la Asamblea General de las Naciones Unidas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 979/2026 actualiza una normativa de 1995 para adaptarla a la era del 'New Space' y las constelaciones de satélites privados. Aunque invoca leyes de transparencia (19/2013), el punto crítico reside en el Artículo 6.2, que permite 'exceptuar' datos si afectan a la seguridad y defensa nacional, creando una zona de sombra sobre la actividad militar en el espacio. La transición de competencias desde el Ministerio de Industria hacia la nueva Agencia Espacial Española (AEE) centraliza el poder administrativo, pero mantiene una estructura dual compleja con el Ministerio de Asuntos Exteriores para el reporte a la ONU.",
+    "resumen_ciudadano": "España moderniza el registro de todo lo que lanza al espacio (satélites, cohetes). Ahora, las empresas privadas tienen la obligación estricta de registrar sus objetos y notificar si los venden a otros países. La Agencia Espacial Española será la nueva gestora de estos datos, aunque el Gobierno se guarda la potestad de no publicar información que considere sensible para la defensa nacional.",
+    "resumen_tweet": "🚀 España actualiza el control de objetos espaciales. La Agencia Espacial Española asume el mando, pero ¡cuidado! 👁️ el Art. 6.2 permite ocultar datos bajo el sello de 'seguridad nacional'. ¿Transparencia o agujero negro? #BOE #Opacidad #Espacio",
+    "banderas_red_flags": [
+      "Cláusula de exclusión de datos por seguridad nacional (Art. 6.2)",
+      "Complejidad burocrática por la bicefalia AEE y Ministerio de Exteriores",
+      "Falta de especificación de sanciones por el incumplimiento del plazo de 3 meses para el registro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Agencia Espacial Española (consolida su rol institucional)",
+        "Sector aeroespacial privado (obtiene un marco jurídico claro para licencias)",
+        "Ministerio de Asuntos Exteriores (mantiene el control de la diplomacia espacial)"
+      ],
+      "perdedores": [
+        "Transparencia pública (por las excepciones de seguridad nacional)",
+        "Ministerio de Industria y Turismo (pierde la gestión directa del registro)",
+        "Ciudadanía (limitado acceso a información sobre objetos de defensa en órbita)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Actividades Espaciales y Organización Administrativa",
+    "banderas_rojas": [
+      "Cláusula de exclusión de datos por seguridad nacional (Art. 6.2)",
+      "Complejidad burocrática por la bicefalia AEE y Ministerio de Exteriores",
+      "Falta de especificación de sanciones por el incumplimiento del plazo de 3 meses para el registro"
+    ]
+  },
+  "tweeted": false
+}
