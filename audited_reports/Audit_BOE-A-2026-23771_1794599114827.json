@@ -1,0 +1,31 @@
+{
+  "boe_id": "BOE-A-2026-23771",
+  "timestamp": "2026-11-13T19:45:14.827Z",
+  "title": "Orden INT/1211/2026, de 10 de noviembre, por la que se dispone el cese del General de Brigada don Juan Hernández Mosquera en el Mando de la 16.ª Zona de la Guardia Civil, Comunidad Autónoma de Canarias.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado donde se formaliza el cese por el paso a la situación de reserva tras cumplir el máximo legal de cuatro años en el rango de General de Brigada. Aunque el lenguaje es técnico, la transparencia es aceptable al citar los artículos específicos que obligan al cese. No se detectan gastos fantasma, pero sí la opacidad habitual en cuanto a la valoración del desempeño del mando saliente en una zona de alta sensibilidad como Canarias.",
+    "resumen_ciudadano": "El General de la Guardia Civil en Canarias, Juan Hernández Mosquera, deja su cargo de mando. No es un despido por mala gestión, sino un paso obligatorio a la reserva tras agotar el tiempo legal de permanencia en su rango actual según la Ley de Régimen del Personal de la Guardia Civil.",
+    "resumen_tweet": "🔄 Relevo en la @guardiacivil de Canarias: el General Hernández Mosquera pasa a la reserva tras 4 años de servicio. Proceso legal estándar sin sorpresas presupuestarias, pero clave en la frontera sur. 🛡️🏝️ #BOE #Transparencia #Seguridad #Canarias",
+    "banderas_red_flags": [
+      "Relevo en zona migratoria y fronteriza sensible",
+      "Automatismo administrativo en la renovación de cúpulas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Próximo General en el escalafón de mando",
+        "Estructura orgánica de la Secretaría de Estado de Seguridad"
+      ],
+      "perdedores": [
+        "No se identifican perdedores directos dado que es un retiro legal programado"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos y Ceses de Personal",
+    "banderas_rojas": [
+      "Relevo en zona migratoria y fronteriza sensible",
+      "Automatismo administrativo en la renovación de cúpulas"
+    ]
+  },
+  "tweeted": false
+}
