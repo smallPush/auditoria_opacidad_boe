@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23672",
+  "timestamp": "2026-11-13T06:30:33.098Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 24 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento refleja un proceso de consolidación interna en el Ministerio de la Presidencia y organismos dependientes (CIS, Patrimonio Nacional). Se observa un patrón de 'endogamia administrativa': la mayoría de los adjudicatarios ya ocupaban el mismo puesto o desempeñaban funciones en la misma unidad (ej. casos IA/1, IA/5, IA/9, IA/10, IA/11). Esto sugiere que el concurso funciona más como una regularización de situaciones previas que como un mecanismo de movilidad real. Además, la declaración de plazas desiertas en niveles técnicos y de gestión (IA/2, IA/7, IA/14, IA/16) indica una posible desconexión entre los requisitos exigidos y el capital humano disponible o interesado.",
+    "resumen_ciudadano": "Resolución de un concurso de traslados para funcionarios en el Ministerio de la Presidencia y entidades como el CIS o Patrimonio Nacional. El proceso sirve principalmente para que el personal que ya estaba trabajando en estos centros obtenga su plaza de forma definitiva. Varias plazas de secretaría y programación han quedado vacías por falta de candidatos idóneos.",
+    "resumen_tweet": "🏛️ Movimientos en el corazón del poder: El @boegob publica la adjudicación de plazas en Presidencia y el CIS. Mucha 'autoprevisión': funcionarios que consolidan donde ya estaban. 🧐 Varias plazas técnicas quedan desiertas. #BOE #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Alta tasa de adjudicación a ocupantes previos",
+      "Plazas de niveles altos (A1/A2) concentradas en organismos de influencia política (CIS)",
+      "Inexistencia de movilidad real entre departamentos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios del Patrimonio Nacional",
+        "Personal del Centro de Investigaciones Sociológicas (CIS)",
+        "Cuerpos de Gestión de la Administración Civil en Madrid"
+      ],
+      "perdedores": [
+        "Funcionarios de provincias que buscan traslado a la capital",
+        "Candidatos externos al círculo de confianza de los subsectores ministeriales",
+        "Eficiencia del gasto público (plazas vacantes por falta de atractivo o exceso de celo burocrático)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Alta tasa de adjudicación a ocupantes previos",
+      "Plazas de niveles altos (A1/A2) concentradas en organismos de influencia política (CIS)",
+      "Inexistencia de movilidad real entre departamentos"
+    ]
+  },
+  "tweeted": false
+}
