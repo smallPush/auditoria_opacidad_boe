@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23666",
+  "timestamp": "2026-11-13T06:28:49.996Z",
+  "title": "Real Decreto 984/2026, de 11 de noviembre, por el que se regula la concesión directa de una subvención a la Comunidad Autónoma de las Illes Balears y otra a la Comunidad Autónoma de Canarias para financiar inversiones en actuaciones relativas al ciclo integral del agua.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una adjudicación directa de 40 millones de euros (20M por comunidad) bajo la figura de 'concesión directa', lo que elude la concurrencia pública competitiva. Aunque se detallan proyectos específicos, el Artículo 1.2 introduce la 'fungibilidad' de los fondos, permitiendo reasignar el dinero entre actuaciones sin necesidad de nueva aprobación ministerial, lo que diluye la trazabilidad exacta del gasto original. Se justifica en la insularidad, pero el uso recurrente de decretos excepcionales para inversiones estructurales debilita la ley de subvenciones.",
+    "resumen_ciudadano": "El Gobierno entrega 40 millones de euros a Baleares y Canarias para infraestructuras de agua (desaladoras, depuradoras y tuberías) de forma directa, sin que otras empresas o regiones puedan competir por esos fondos. Se permite a los gobiernos insulares mover el dinero entre los proyectos listados según su criterio, siempre que gasten el total.",
+    "resumen_tweet": "🚨 ¡40M€ a dedo! El Gobierno usa la 'concesión directa' para obras de agua en Baleares y Canarias. Ojo: el dinero es 'fungible', permitiendo mover fondos entre obras sin control externo. ¿Urgencia o falta de planificación? 💧📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurso público",
+      "Presupuesto conjunto de carácter fungible (movilidad de fondos)",
+      "Justificación de excepcionalidad para inversiones que deberían ser estructurales",
+      "Uso de presupuestos prorrogados para gasto discrecional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de las Illes Balears",
+        "Gobierno de Canarias",
+        "Grandes constructoras de infraestructuras hídricas en los archipiélagos"
+      ],
+      "perdedores": [
+        "Otras Comunidades Autónomas con estrés hídrico (Murcia, Andalucía)",
+        "Pymes locales excluidas de un proceso de licitación pública abierta",
+        "Principio de transparencia en la contratación pública"
+      ]
+    },
+    "comunidad_autonoma": "Illes Balears y Canarias",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurso público",
+      "Presupuesto conjunto de carácter fungible (movilidad de fondos)",
+      "Justificación de excepcionalidad para inversiones que deberían ser estructurales",
+      "Uso de presupuestos prorrogados para gasto discrecional"
+    ]
+  },
+  "tweeted": false
+}
