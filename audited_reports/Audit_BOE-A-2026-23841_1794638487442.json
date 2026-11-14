@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23841",
+  "timestamp": "2026-11-14T06:41:27.442Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Aitor Albaina Vivanco.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento refleja un proceso administrativo estándar de nombramiento docente (Zoología) en la UPV/EHU. Sin embargo, la opacidad reside en la codificación de la plaza (TUC8L1-D00076-21), que oculta al ciudadano el coste salarial real y las cargas presupuestarias a largo plazo. Se observa una barrera de acceso mediante el perfil lingüístico trilingüe (eus/ing/cas), que aunque legal, restringe drásticamente la competencia a un nicho geográfico y educativo específico.",
+    "resumen_ciudadano": "Se formaliza el puesto de Profesor Titular para Aitor Albaina Vivanco en la Facultad de Ciencia y Tecnología del País Vasco. Se trata de una plaza pública vitalicia con dedicación completa, obtenida tras un proceso de concurso-oposición iniciado en febrero de 2026.",
+    "resumen_tweet": "📝 Nuevo catedrático en la UPV: Aitor Albaina logra plaza de Zoología. Se publica el nombramiento, pero el coste real para el contribuyente se oculta tras códigos internos. ¿Transparencia o burocracia? 🏛️🔍 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Cripticismo presupuestario mediante códigos de plaza",
+      "Perfil lingüístico trilingüe restrictivo",
+      "Ausencia de información sobre la terna de candidatos finalistas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aitor Albaina Vivanco (Titularidad vitalicia)",
+        "UPV/EHU (Consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos no trilingües",
+        "Contribuyentes (desconocimiento del impacto económico exacto)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramiento de Funcionario de Carrera",
+    "banderas_rojas": [
+      "Cripticismo presupuestario mediante códigos de plaza",
+      "Perfil lingüístico trilingüe restrictivo",
+      "Ausencia de información sobre la terna de candidatos finalistas"
+    ]
+  },
+  "tweeted": false
+}
