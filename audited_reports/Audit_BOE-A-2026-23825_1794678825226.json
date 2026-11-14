@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23825",
+  "timestamp": "2026-11-14T17:53:45.226Z",
+  "title": "Resolución de 27 de octubre de 2026, de la Dirección General de Planificación y Coordinación Energética, por la que se modifica el documento uniforme del anexo del Real Decreto 243/2009, de 27 de febrero, por el que se regula la vigilancia y control de traslados de residuos radioactivos y combustible nuclear gastado entre Estados miembros o procedentes o con destino al exterior de la Comunidad.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución se presenta como una simple actualización técnica del 'documento uniforme' para el control de residuos radiactivos, alineándose con la Decisión (UE) 2026/2209. Sin embargo, la opacidad reside en la naturaleza ultra-especializada del lenguaje; aunque se añade un 'número de registro de autorización inicial' para mejorar la trazabilidad, el texto evita mencionar los costes logísticos y de seguridad asociados a estos traslados. La transparencia es procedimental pero no informativa sobre el impacto real: no se especifican rutas, frecuencias ni el coste público de la vigilancia de estos materiales peligrosos.",
+    "resumen_ciudadano": "El Gobierno ha modificado los formularios oficiales que deben rellenarse para mover basura nuclear y combustible gastado entre países. El cambio principal es que ahora cada traslado debe incluir obligatoriamente el número de registro de la autorización original. Esto busca evitar errores de identificación y mejorar el seguimiento que hacen las autoridades sobre quién mueve qué y con qué permiso legal exactamente.",
+    "resumen_tweet": "☢️ Más control burocrático para la basura nuclear. El #BOE actualiza el documento de rastreo de residuos radiactivos para incluir números de registro obligatorios. Mejora la trazabilidad, pero la opacidad sobre rutas y costes persiste. #Transparencia #Nuclear",
+    "banderas_red_flags": [
+      "Referencia a documentos técnicos (anexos) que no detallan el impacto económico de la gestión",
+      "Uso de terminología Euratom que aleja el contenido del escrutinio ciudadano común",
+      "Ausencia de mención a protocolos de información pública en caso de incidentes durante los traslados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Operadores nucleares (obtienen mayor seguridad jurídica en sus procesos de transporte)",
+        "Ministerio para la Transición Ecológica (cumple con los plazos de armonización de la UE)",
+        "Empresas de logística especializada (estandarización de procesos europeos)"
+      ],
+      "perdedores": [
+        "Plataformas ciudadanas antinucleares (la tecnificación del proceso dificulta la fiscalización social)",
+        "Entidades locales de zonas de tránsito (no se especifican mejoras en su acceso a la información sobre los residuos que cruzan sus territorios)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Seguridad Nuclear y Protección Radiológica",
+    "banderas_rojas": [
+      "Referencia a documentos técnicos (anexos) que no detallan el impacto económico de la gestión",
+      "Uso de terminología Euratom que aleja el contenido del escrutinio ciudadano común",
+      "Ausencia de mención a protocolos de información pública en caso de incidentes durante los traslados"
+    ]
+  },
+  "tweeted": false
+}
