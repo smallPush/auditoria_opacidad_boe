@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23824",
+  "timestamp": "2026-11-14T17:55:13.901Z",
+  "title": "Orden EFD/1213/2026, de 6 de noviembre, por la que se regula la asignación de materias optativas en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria, en el ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La Orden EFD/1213/2026 establece una jerarquía administrativa en el reparto de la carga lectiva que revela tensiones corporativistas bajo un lenguaje técnico. Al priorizar a la especialidad de Informática sobre Tecnología para impartir 'Inteligencia Artificial', el Ministerio toma partido en una histórica disputa gremial. Lo mismo ocurre en 'Psicología', donde Filosofía desplaza a Orientación Educativa. El texto presume de 'eficiencia' sin aportar una memoria económica que detalle el coste de la transición curricular hacia el curso 2027-2028, lo que podría ocultar una falta de inversión en formación docente.",
+    "resumen_ciudadano": "Esta norma decide qué profesores darán las nuevas materias optativas en institutos de Ceuta, Melilla y centros en el extranjero. Define, por ejemplo, que si un alumno elige Psicología, el profesor de Filosofía tiene preferencia para darla frente al orientador. También establece que la Inteligencia Artificial debe ser dada prioritariamente por informáticos. Es un reparto de poder y horas de clase entre los distintos departamentos de los centros educativos.",
+    "resumen_tweet": "🤖 Nueva orden del #BOE reparte el pastel de las optativas: Informática le gana el pulso a Tecnología en IA, y Filosofía se queda con Psicología. ¿Garantiza esto la mejor educación o es solo un reparto de horas entre gremios? 🏫 #Educación #Opacidad",
+    "banderas_red_flags": [
+      "Jerarquías de preferencia entre especialidades sin justificación pedagógica basada en evidencia.",
+      "Falta de mención al coste de formación para las especialidades que quedan como segundas opciones en materias técnicas.",
+      "Vacío informativo sobre cómo afectará este reparto a la movilidad del profesorado interino."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Especialidad de Informática (prioridad en IA y Medios Digitales)",
+        "Especialidad de Filosofía (prioridad en Psicología e Introducción a la Filosofía)",
+        "Cuerpos de Catedráticos (blindaje de sus competencias)"
+      ],
+      "perdedores": [
+        "Especialidad de Tecnología (subordinada en el ámbito digital)",
+        "Especialidad de Orientación Educativa (desplazada en la docencia de Psicología)",
+        "Alumnado en centros con plantillas descompensadas que dependerán del 'orden de prelación' administrativo."
+      ]
+    },
+    "comunidad_autonoma": "Ámbito nacional (Territorio gestionado directamente por el Ministerio)",
+    "tipologia": "Regulación de Recursos Humanos y Currículo Educativo",
+    "banderas_rojas": [
+      "Jerarquías de preferencia entre especialidades sin justificación pedagógica basada en evidencia.",
+      "Falta de mención al coste de formación para las especialidades que quedan como segundas opciones en materias técnicas.",
+      "Vacío informativo sobre cómo afectará este reparto a la movilidad del profesorado interino."
+    ]
+  },
+  "tweeted": false
+}
