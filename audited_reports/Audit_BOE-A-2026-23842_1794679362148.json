@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23842",
+  "timestamp": "2026-11-14T18:02:42.148Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Universidad Politécnica de Cartagena, por la que se nombra Catedrático de Universidad a don Antonio Tomás Espín.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El nombramiento responde a la normativa LOSU (2/2023), pero evidencia la continuidad de la hegemonía masculina en las cátedras STEM (Ingeniería de la Construcción). Aunque el proceso es legal, el BOE actúa como notario de una estructura de poder académico cerrada donde los criterios de mérito y capacidad específicos de la comisión de selección no son accesibles al ciudadano sin recurrir a portales de transparencia específicos, manteniendo una opacidad funcional sobre por qué este candidato fue superior a otros.",
+    "resumen_ciudadano": "Se oficializa el nombramiento de un nuevo Catedrático de Universidad en la Politécnica de Cartagena. Este cargo conlleva una plaza funcionarial de por vida financiada con dinero público en el área de Ingeniería de la Construcción. El proceso se basa en un concurso de acceso convocado en julio de 2026.",
+    "resumen_tweet": "🎓 Nuevo catedrático en la UPCT: Antonio Tomás Espín accede a la élite docente en Ingeniería. Pese a la legalidad, el techo de cristal en las STEM sigue intacto. ¿Para cuándo la paridad real en la alta academia? 🏛️⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sesgo de género persistente en cátedras de ingeniería",
+      "Ausencia de desglose de costes salariales asociados a la plaza CU706",
+      "Falta de transparencia en la ponderación de méritos del concurso 26CU06 en el texto publicado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Antonio Tomás Espín",
+        "Universidad Politécnica de Cartagena (consolidación de plantilla)",
+        "Departamento de Ingeniería Minera y Civil"
+      ],
+      "perdedores": [
+        "Paridad de género en la alta jerarquía universitaria",
+        "Aspirantes externos con menores redes institucionales",
+        "Transparencia directa sobre el coste presupuestario a largo plazo"
+      ]
+    },
+    "comunidad_autonoma": "Región de Murcia",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sesgo de género persistente en cátedras de ingeniería",
+      "Ausencia de desglose de costes salariales asociados a la plaza CU706",
+      "Falta de transparencia en la ponderación de méritos del concurso 26CU06 en el texto publicado"
+    ]
+  },
+  "tweeted": false
+}
