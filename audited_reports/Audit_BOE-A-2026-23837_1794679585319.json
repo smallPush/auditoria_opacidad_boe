@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23837",
+  "timestamp": "2026-11-14T18:06:25.319Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, de designación de los Vocales no judiciales de las Juntas Electorales Provinciales a los que se refiere el artículo 10.1.b) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en relación con las elecciones al Congreso de los Diputados y al Senado de 29 de noviembre de 2026.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "La resolución se limita a listar nombres bajo el amparo de la LOREG, pero oculta los criterios de idoneidad, los méritos profesionales o las posibles vinculaciones partidistas de los vocales no judiciales. Estos perfiles son propuestos por los partidos en las Juntas Electorales, lo que introduce un componente de subjetividad política en un órgano que debería ser puramente técnico y neutral. La 'delegación' de la JEC a su presidencia para estos nombramientos acelera el proceso pero reduce el escrutinio colegiado.",
+    "resumen_ciudadano": "Se han designado los 'expertos' (no jueces) que formarán parte de las Juntas Electorales Provinciales para las elecciones generales de 2026. Estos vocales participan en decisiones críticas sobre la validez de votos y reclamaciones electorales, pero sus currículums no son públicos en este documento.",
+    "resumen_tweet": "🗳️ ¿Quién vigila tus votos? El #BOE publica los vocales 'expertos' para el 29-N. Sin CVs ni criterios de mérito públicos, solo nombres. La neutralidad electoral requiere luz sobre quiénes arbitran los resultados. 🧐🛑 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de justificación de méritos o CV",
+      "Nombramiento por delegación de presidencia",
+      "Opacidad en la vinculación política de los propuestos",
+      "Falta de desglose de dietas o retribuciones asociadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Partidos políticos mayoritarios (capacidad de proponer perfiles afines)",
+        "Vocales designados (acceso a dietas y cuotas de poder en la administración electoral)"
+      ],
+      "perdedores": [
+        "Ciudadanía (desconocimiento de la imparcialidad de los árbitros electorales)",
+        "Partidos minoritarios con menor peso en las propuestas de las juntas"
+      ]
+    },
+    "comunidad_autonoma": "España (Nacional)",
+    "tipologia": "Nombramientos de Administración Electoral",
+    "banderas_rojas": [
+      "Ausencia de justificación de méritos o CV",
+      "Nombramiento por delegación de presidencia",
+      "Opacidad en la vinculación política de los propuestos",
+      "Falta de desglose de dietas o retribuciones asociadas"
+    ]
+  },
+  "tweeted": false
+}
