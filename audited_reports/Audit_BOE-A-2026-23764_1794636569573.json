@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23764",
+  "timestamp": "2026-11-14T06:09:29.573Z",
+  "title": "Real Decreto 993/2026, de 11 de noviembre, por el que se nombra Presidente del Tribunal de Instancia Exclusivo de Las Palmas de Gran Canaria al Magistrado don Mariano López Molina.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Se trata de un nombramiento discrecional derivado de una elección interna en la Junta de Jueces. Aunque se cita la normativa legal (LOPJ), existe una opacidad intrínseca en el proceso de votación de los órganos de gobierno judicial, donde los criterios de mérito y capacidad quedan eclipsados por decisiones corporativas de la propia judicatura, sin escrutinio público de las alternativas descartadas.",
+    "resumen_ciudadano": "El Gobierno ratifica el nombramiento del Magistrado Mariano López Molina como Presidente del Tribunal de Instancia en Las Palmas tras ser elegido por sus propios compañeros jueces. Este cargo implica una mayor coordinación administrativa y poder jerárquico dentro de la nueva estructura judicial de la provincia.",
+    "resumen_tweet": "⚖️ Nuevo mando en la justicia canaria. Mariano López Molina presidirá el Tribunal de Instancia de Las Palmas. ¿Elección por mérito o inercia judicial? Los detalles del voto siguen bajo llave. 🤐 #BOE #Transparencia #Justicia #Canarias",
+    "banderas_red_flags": [
+      "Hermetismo en las actas de la Junta de Jueces",
+      "Ausencia de comparativa de méritos con otros candidatos",
+      "Consolidación de estructuras de poder jerárquico en tribunales de instancia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mariano López Molina (ascenso jerárquico)",
+        "Sector mayoritario de la Junta de Jueces de Las Palmas"
+      ],
+      "perdedores": [
+        "Transparencia ciudadana (proceso de selección interno no auditable)",
+        "Candidatos alternativos omitidos en la publicación"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de alto cargo judicial",
+    "banderas_rojas": [
+      "Hermetismo en las actas de la Junta de Jueces",
+      "Ausencia de comparativa de méritos con otros candidatos",
+      "Consolidación de estructuras de poder jerárquico en tribunales de instancia"
+    ]
+  },
+  "tweeted": false
+}
