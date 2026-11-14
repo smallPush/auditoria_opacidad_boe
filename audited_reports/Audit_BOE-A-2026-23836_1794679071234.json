@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23836",
+  "timestamp": "2026-11-14T17:57:51.234Z",
+  "title": "Orden TES/1214/2026, de 6 de noviembre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden TES/1032/2026, de 25 de septiembre.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una adjudicación por el sistema de 'libre designación', un eufemismo legal para el nombramiento discrecional o 'a dedo'. Aunque el texto intenta blindarse mencionando el Real Decreto-ley 6/2023 y supuestos 'informes de valoración de expertos', estos criterios y evaluaciones no son públicos, lo que mantiene la opacidad sobre por qué esta candidata es más idónea que otros. Se observa una profesionalización técnica (Cuerpo Superior de Inspectores), pero bajo un control político directo en un puesto de Nivel 30, el máximo escalafón salarial y de poder en la administración pública.",
+    "resumen_ciudadano": "El Ministerio de Trabajo ha nombrado a Ana García Torres como Subdirectora General de Inspección de Trabajo. Aunque se menciona un proceso de evaluación por expertos, la decisión final es discrecional del Ministerio. El puesto es un Nivel 30, lo que implica la mayor remuneración y responsabilidad administrativa posible, consolidando la estructura directiva con personal de confianza.",
+    "resumen_tweet": "⚖️ ¿Meritocracia o dedazo? Trabajo adjudica una Subdirección General (Nivel 30) mediante 'libre designación'. Pese a citar informes de expertos, el proceso sigue siendo opaco y discrecional. #BOE #Opacidad #Transparencia 🚩",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Opacidad en los informes de expertos mencionados",
+      "Adjudicación de Nivel 30 sin concurso público abierto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana García Torres (ascenso a Nivel 30)",
+        "Cuerpo Superior de Inspectores de Trabajo y S.S. (mantenimiento de cuota de poder)",
+        "Cúpula del Ministerio de Trabajo"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin afinidad política",
+        "Principio de mérito y capacidad en procesos competitivos",
+        "Transparencia administrativa real"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecionalidad)",
+      "Opacidad en los informes de expertos mencionados",
+      "Adjudicación de Nivel 30 sin concurso público abierto"
+    ]
+  },
+  "tweeted": false
+}
