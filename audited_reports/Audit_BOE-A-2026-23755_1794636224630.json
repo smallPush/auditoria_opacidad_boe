@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23755",
+  "timestamp": "2026-11-14T06:03:44.630Z",
+  "title": "Resolución de 12 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento es una convalidación parlamentaria de un Real Decreto-ley de alta complejidad técnica. Bajo el título de 'función social', el texto entrelaza reformas en materias tan dispares como el Mercado de Valores, Sociedades de Inversión Inmobiliaria (SOCIMIs), e Impuestos (IVA/IRPF). El uso de la 'urgencia' para modificar el régimen de Instituciones de Inversión Colectiva y la Ley de Enjuiciamiento Civil sugiere una técnica legislativa que dificulta el debate público pausado sobre el impacto a largo plazo en la propiedad privada y la fiscalidad.",
+    "resumen_ciudadano": "El Congreso ha ratificado una ley de emergencia que busca frenar la crisis de vivienda. Las medidas principales incluyen un mayor control sobre los alquileres turísticos, cambios en los impuestos que pagan los propietarios y nuevos avales públicos a través del ICO. También se endurecen las sanciones y la inspección fiscal para asegurar que las viviendas cumplan su fin social y no se queden vacías o se usen solo para especulación.",
+    "resumen_tweet": "🏠 El Congreso ratifica el RDL 29/2026: ¿Reforma social o ingeniería fiscal? Se tocan IRPF, IVA y SOCIMIs bajo el paraguas de 'urgencia'. Mucha atención a la letra pequeña sobre avales y desahucios. 🕵️‍♂️ #BOE #Opacidad #Transparencia #Vivienda",
+    "banderas_red_flags": [
+      "Uso de decreto-ley para reformas profundas en el Mercado de Valores",
+      "Posible invasión de competencias en Haciendas Locales mediante la regulación de precios",
+      "Falta de detalle sobre el origen de los 'Fondos de dinero' mencionados en las materias",
+      "Riesgo de opacidad en la adjudicación de avales a través del ICO"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (mayor capacidad sancionadora)",
+        "Inquilinos de zonas tensionadas (protección teórica)",
+        "Sector público inmobiliario (gestión de nuevos fondos)"
+      ],
+      "perdedores": [
+        "Propietarios de alojamientos turísticos (mayor control e impuestos)",
+        "Sociedades de Inversión Inmobiliaria (nuevas obligaciones sociales)",
+        "Pequeños propietarios (incertidumbre por cambios en IRPF)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Vivienda y Sistema Tributario",
+    "banderas_rojas": [
+      "Uso de decreto-ley para reformas profundas en el Mercado de Valores",
+      "Posible invasión de competencias en Haciendas Locales mediante la regulación de precios",
+      "Falta de detalle sobre el origen de los 'Fondos de dinero' mencionados en las materias",
+      "Riesgo de opacidad en la adjudicación de avales a través del ICO"
+    ]
+  },
+  "tweeted": false
+}
