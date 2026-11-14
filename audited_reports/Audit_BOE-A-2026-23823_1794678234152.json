@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23823",
+  "timestamp": "2026-11-14T17:43:54.152Z",
+  "title": "Resolución de 13 de noviembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque la resolución cumple con la formalidad de publicar precios, el mecanismo subyacente revela una colusión institucionalizada donde el Estado actúa como mero notario de los intereses comerciales de fabricantes e importadores. Destaca la inclusión de productos de lujo extremo, como el Cohiba Edición Limitada 2027 a 275 euros, lo que evidencia un mercado de tabaco segmentado donde el Estado asegura los márgenes de beneficio de la industria privada bajo el paraguas de una resolución pública.",
+    "resumen_ciudadano": "El Ministerio de Hacienda actualiza los precios oficiales de venta al público para diversas marcas de tabaco, cigarros y picaduras en la Península y Baleares. Estos precios son propuestos directamente por las empresas tabaqueras y validados por el Comisionado para el Mercado de Tabacos, entrando en vigor de forma inmediata tras su publicación.",
+    "resumen_tweet": "🏛️ El #BOE actualiza precios del tabaco: desde puros de 1,45€ hasta ediciones de lujo de 275€. El Estado actúa como gestor de precios para la industria privada. ¿Recaudación o salud pública? 🚬💸 #Opacidad #Transparencia #Hacienda",
+    "banderas_red_flags": [
+      "Fijación de precios liderada por intereses privados (propuesta de fabricantes)",
+      "Entrada en vigor inmediata sin margen de adaptación",
+      "Validación estatal de artículos de lujo extremo bajo normativa tributaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes tabaqueras (controlan sus márgenes de beneficio con respaldo legal)",
+        "Ministerio de Hacienda (asegura la base imponible para impuestos especiales)",
+        "Expendedurías (mantenimiento de comisión sobre PVP actualizado)"
+      ],
+      "perdedores": [
+        "Consumidores (aceptan precios fijados sin competencia real)",
+        "Sistema de salud pública (el tabaco sigue siendo un bien regulado pro-ingresos)"
+      ]
+    },
+    "comunidad_autonoma": "Península e Illes Balears",
+    "tipologia": "Resolución de Precios",
+    "banderas_rojas": [
+      "Fijación de precios liderada por intereses privados (propuesta de fabricantes)",
+      "Entrada en vigor inmediata sin margen de adaptación",
+      "Validación estatal de artículos de lujo extremo bajo normativa tributaria"
+    ]
+  },
+  "tweeted": false
+}
