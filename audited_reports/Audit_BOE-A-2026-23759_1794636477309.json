@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23759",
+  "timestamp": "2026-11-14T06:07:57.309Z",
+  "title": "Real Decreto 980/2026, de 11 de noviembre, por el que se desarrolla el régimen jurídico de la obligación de promoción de obra audiovisual europea y de la diversidad lingüística.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 980/2026 establece un marco de proteccionismo cultural que, si bien favorece la diversidad lingüística y de género, crea estructuras de inversión obligatoria cuya trazabilidad es compleja. La posibilidad de derivar obligaciones de inversión hacia fondos públicos (Fondo de Protección a la Cinematografía) centraliza recursos en el Estado, diluyendo la capacidad del ciudadano para rastrear el destino final de esos 'Gastos Fantasma'. Se detecta una incongruencia ideológica: se defiende la libertad de empresa mientras se imponen cuotas estrictas de catálogo, y se utilizan conceptos vagos como 'baja audiencia' para otorgar exenciones discretas, lo que podría derivar en un trato de favor hacia ciertos grupos mediáticos establecidos.",
+    "resumen_ciudadano": "Esta ley obliga a plataformas como Netflix, HBO o Movistar y a canales de TV a emitir y financiar más cine europeo y en lenguas españolas distintas al castellano. También les obliga a invertir específicamente en películas dirigidas por mujeres para reducir la brecha de género en el sector.",
+    "resumen_tweet": "🎬 El nuevo Real Decreto de Comunicación Audiovisual impone cuotas de cine europeo y lenguas cooficiales. Mucha regulación, pero ¿quién vigila las exenciones por 'bajo volumen'? Ojo al dinero que irá a fondos estatales opacos 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de conceptos subjetivos como 'bajo volumen de negocios' para eximir a empresas de cumplir la ley.",
+      "Conversión de obligaciones de inversión privada en contribuciones a fondos públicos de gestión opaca.",
+      "Ambigüedad en la definición de 'prominencia' de contenido, lo que permite a las plataformas manipular qué ve el usuario bajo criterios arbitrarios."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes productoras audiovisuales europeas",
+        "Sectores culturales de Comunidades Autónomas con lengua propia",
+        "Mujeres cineastas (por cuotas específicas de financiación)"
+      ],
+      "perdedores": [
+        "Pequeños operadores de nicho (riesgo de inviabilidad por cuotas)",
+        "Usuarios que prefieren catálogos de cine internacional no europeo",
+        "Autonomía editorial de las plataformas de streaming"
+      ]
+    },
+    "comunidad_autonoma": "Todo el Estado",
+    "tipologia": "Regulación del Sector Audiovisual y Cultural",
+    "banderas_rojas": [
+      "Uso de conceptos subjetivos como 'bajo volumen de negocios' para eximir a empresas de cumplir la ley.",
+      "Conversión de obligaciones de inversión privada en contribuciones a fondos públicos de gestión opaca.",
+      "Ambigüedad en la definición de 'prominencia' de contenido, lo que permite a las plataformas manipular qué ve el usuario bajo criterios arbitrarios."
+    ]
+  },
+  "tweeted": false
+}
