@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23839",
+  "timestamp": "2026-11-14T17:58:59.275Z",
+  "title": "Resolución de 3 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesor Titular de Universidad a don Héctor Melero Sánchez.",
+  "report": {
+    "nivel_transparencia": 80,
+    "analisis_critico": "El documento detalla un nombramiento ordinario de personal docente e investigador (PDI) de carrera. Cumple con la Ley Orgánica 2/2023 (LOSU). No se detectan 'gastos fantasma' directos, ya que es una plaza estructural. La opacidad es sistémica: el BOE solo publica el resultado, ocultando las actas de puntuación y los méritos comparativos del proceso selectivo, limitando el escrutinio público sobre la meritocracia real del acceso a la función pública.",
+    "resumen_ciudadano": "Nombramiento de Héctor Melero Sánchez como Profesor Titular de Universidad en la UNED, dentro del área de Métodos de Investigación y Diagnóstico en Educación, tras superar el concurso convocado en abril de 2026.",
+    "resumen_tweet": "🎓 Nueva plaza fija en la UNED: Héctor Melero Sánchez es nombrado Profesor Titular. Proceso legal bajo la #LOSU, pero la transparencia sobre los méritos específicos queda fuera del alcance ciudadano. 🏛️ #BOE #Transparencia #Universidad #Oposiciones",
+    "banderas_red_flags": [
+      "Ausencia de publicación de baremos de puntuación en el extracto",
+      "Endogamia potencial no verificable mediante el extracto",
+      "Falta de desglose presupuestario del coste de la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Héctor Melero Sánchez (estabilidad laboral)",
+        "UNED (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos externos no seleccionados",
+        "Transparencia pública (por acceso limitado a los detalles del concurso)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de publicación de baremos de puntuación en el extracto",
+      "Endogamia potencial no verificable mediante el extracto",
+      "Falta de desglose presupuestario del coste de la plaza"
+    ]
+  },
+  "tweeted": false
+}
