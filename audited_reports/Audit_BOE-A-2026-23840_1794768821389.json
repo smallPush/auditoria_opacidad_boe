@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23840",
+  "timestamp": "2026-11-15T18:53:41.389Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Universidad de Málaga, por la que se nombran Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "La resolución se ajusta a la legalidad vigente (LOSU 2/2023), pero perpetúa la opacidad sobre el coste real para el contribuyente al referirse vagamente a 'emolumentos vigentes'. En términos de impacto de clase y género, se observa una consolidación de perfiles masculinos en áreas STEM (Matemáticas e Ingeniería), lo cual evidencia que el techo de cristal en la Universidad de Málaga para alcanzar la categoría de Catedrático sigue vigente a pesar de los discursos de paridad institucional.",
+    "resumen_ciudadano": "La Universidad de Málaga ha nombrado a dos nuevos Catedráticos en Matemáticas e Ingeniería. Aunque el proceso es público, no se especifica cuánto cobrarán exactamente estos funcionarios de alto rango, remitiendo a tablas salariales complejas.",
+    "resumen_tweet": "📉 El #BOE publica nuevos catedráticos en la @InfoUMA: 2 hombres en áreas STEM. La brecha de género en la alta academia persiste y los sueldos se ocultan tras el lenguaje técnico de 'emolumentos vigentes'. 🏛️ #Opacidad #Transparencia #Málaga",
+    "banderas_red_flags": [
+      "Ausencia de desglose salarial directo",
+      "Sesgo de género en áreas técnicas (STEM)",
+      "Lenguaje administrativo autorreferencial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Don Tomás Morales de Luna",
+        "Don Robert Halir",
+        "Universidad de Málaga (Consolidación de plazas)"
+      ],
+      "perdedores": [
+        "Representación femenina en cátedras STEM",
+        "Ciudadano (por falta de transparencia presupuestaria inmediata)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose salarial directo",
+      "Sesgo de género en áreas técnicas (STEM)",
+      "Lenguaje administrativo autorreferencial"
+    ]
+  },
+  "tweeted": false
+}
