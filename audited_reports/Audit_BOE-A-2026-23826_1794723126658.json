@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23826",
+  "timestamp": "2026-11-15T06:12:06.658Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Secretaría de Estado de Función Pública, por la que se establece a efectos de cómputo de plazos, el calendario de días inhábiles en el ámbito de la Administración General del Estado para el año 2027.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque se trata de una resolución técnica estándar para el cómputo de plazos administrativos, la opacidad reside en la fragmentación. El documento evidencia la complejidad del Estado autonómico donde los plazos legales del ciudadano dependen de festividades insulares o locales específicas (ej. Canarias o Valle de Arán). Se detecta una desconexión potencial en el Artículo 30.8, que separa los 'días inhábiles' de la apertura real de oficinas, lo que puede generar confusión y desprotección jurídica al ciudadano de a pie que asuma que la oficina física sigue el mismo calendario que el registro electrónico.",
+    "resumen_ciudadano": "Este documento establece qué días de 2027 no cuentan para los plazos de tus trámites con el Estado (como entregar documentos o recibir respuestas). Incluye fines de semana y festivos nacionales y regionales. Es vital revisarlo si tienes un plazo legal que cumplir para evitar que se te pase la fecha por un festivo local que no conocías.",
+    "resumen_tweet": "🗓️ ¿Tienes trámites con el Estado en 2027? Publicado el calendario de días inhábiles. Ojo: que un día no cuente para plazos NO significa que la oficina esté abierta. ¡Cuidado con los festivos regionales! 🛑📑 #BOE #Transparencia #Administración",
+    "banderas_red_flags": [
+      "Fragmentación normativa regional y local",
+      "Dualidad entre día inhábil y cierre físico de oficinas",
+      "Complejidad en el cómputo para ciudadanos fuera de su comunidad de origen"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gestorías y asesorías jurídicas (planificación de plazos)",
+        "Cuerpo de funcionarios (claridad en el calendario laboral)"
+      ],
+      "perdedores": [
+        "Ciudadanos sin asesoría legal (riesgo de pérdida de plazos por desconocimiento de festivos locales)",
+        "Pymes con actividad interterritorial"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Administrativa",
+    "banderas_rojas": [
+      "Fragmentación normativa regional y local",
+      "Dualidad entre día inhábil y cierre físico de oficinas",
+      "Complejidad en el cómputo para ciudadanos fuera de su comunidad de origen"
+    ]
+  },
+  "tweeted": false
+}
