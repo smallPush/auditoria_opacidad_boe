@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-23833",
+  "timestamp": "2026-11-15T06:16:15.962Z",
+  "title": "Real Decreto 998/2026, de 13 de noviembre, por el que se nombra Director del Gabinete del Ministro de Transportes y Movilidad Sostenible a don Jorge Fabra Portela.",
+  "report": {
+    "nivel_transparencia": 2.5,
+    "analisis_critico": "Se trata de un nombramiento discrecional ('a dedo') típico de la estructura de personal eventual del Estado. La opacidad es sistémica: no se adjunta currículum vitae, no se justifica la idoneidad del candidato ni se detalla la retribución económica asociada al cargo de Director de Gabinete. El uso de la 'suplencia' por parte del Ministro de Economía para firmar un cargo de Transportes añade una capa de complejidad burocrática que difumina la responsabilidad directa del titular de la cartera sobre su propio equipo.",
+    "resumen_ciudadano": "El Gobierno ha nombrado a Jorge Fabra Portela como nuevo Director del Gabinete del Ministro de Transportes. Es un puesto de confianza política de alto nivel, financiado con dinero público, cuya elección no responde a un concurso de méritos profesional, sino a una designación directa del Ministro (en este caso gestionada por suplencia).",
+    "resumen_tweet": "🚩 Nuevo 'dedazo' en el #BOE: Jorge Fabra Portela, nombrado Director de Gabinete en Transportes. Sin CV, sin méritos públicos y con sueldo opaco a cargo del contribuyente. La confianza política prima sobre la meritocracia. #Opacidad #Transparencia 💸",
+    "banderas_red_flags": [
+      "Cargo de libre designación sin concurso público",
+      "Ausencia de memoria económica del coste del gabinete",
+      "Falta de justificación técnica o profesional en el texto",
+      "Firma por suplencia que diluye la titularidad de la decisión"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jorge Fabra Portela (acceso a puesto de alta dirección pública)",
+        "Ministerio de Transportes (refuerzo de estructura política)"
+      ],
+      "perdedores": [
+        "Ciudadanía (paga un sueldo de alto cargo sin conocer los méritos)",
+        "Funcionarios de carrera (excluidos de estos puestos de élite por designación política)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado)",
+    "tipologia": "Nombramiento de Personal Eventual / Alto Cargo",
+    "banderas_rojas": [
+      "Cargo de libre designación sin concurso público",
+      "Ausencia de memoria económica del coste del gabinete",
+      "Falta de justificación técnica o profesional en el texto",
+      "Firma por suplencia que diluye la titularidad de la decisión"
+    ]
+  },
+  "tweeted": false
+}
