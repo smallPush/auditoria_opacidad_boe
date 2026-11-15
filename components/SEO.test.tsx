@@ -62,4 +62,19 @@ describe("SEO component", () => {
     expect(descriptions.length).toBe(1);
     expect(descriptions[0].getAttribute("content")).toBe("New Description");
   });
+
+  test("injects Article JSON-LD schema when type is article and removes it for website", () => {
+    const { rerender } = render(
+      <SEO title="Audit BOE-A-2026-1" description="Summary" canonicalPath="/audit/BOE-A-2026-1" type="article" />
+    );
+    const schemaEl = document.getElementById("dynamic-article-schema");
+    expect(schemaEl).not.toBeNull();
+    const parsed = JSON.parse(schemaEl?.textContent || "{}");
+    expect(parsed["@type"]).toBe("Article");
+    expect(parsed.headline).toBe("Audit BOE-A-2026-1");
+    expect(parsed.mainEntityOfPage).toBe("https://radarboe.es/audit/BOE-A-2026-1");
+
+    rerender(<SEO title="Home" description="Home Desc" canonicalPath="/" type="website" />);
+    expect(document.getElementById("dynamic-article-schema")).toBeNull();
+  });
 });

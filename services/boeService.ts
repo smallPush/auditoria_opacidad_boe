@@ -1,14 +1,21 @@
 import { ScrapedLaw } from "../types";
 
-export const fetchAndParseBOE = async (url: string): Promise<ScrapedLaw[]> => {
+export const fetchAndParseBOE = async (
+  url: string,
+  timeoutMs = 5000,
+): Promise<ScrapedLaw[]> => {
   try {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
     const response = await fetch(url, {
       headers: {
         Accept: "application/xml",
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AuditoriaCívica/1.0",
       },
+      signal: controller.signal,
     });
+    clearTimeout(timeoutId);
+
     if (!response.ok) return [];
 
     const text = await response.text();
@@ -50,27 +57,26 @@ export const fetchAndParseBOE = async (url: string): Promise<ScrapedLaw[]> => {
   }
 };
 
-export const getLatestBOEUrls = (): string[] => {
-  const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
-  const yesterday = new Date(Date.now() - 86400000)
-    .toISOString()
-    .slice(0, 10)
-    .replace(/-/g, "");
+export const getLatestBOEUrls = (referenceDate = new Date(), days = 5): string[] => {
+  const urls: string[] = [];
+  const baseTime = referenceDate.getTime();
+  const ONE_DAY = 86400000;
 
-  return [
-    `https://www.boe.es/datosabiertos/api/boe/sumario/${today}`,
-    `https://www.boe.es/datosabiertos/api/boe/sumario/${yesterday}`,
-    "https://www.boe.es/diario_boe/xml.php",
-  ];
+  for (let i = 0; i < days; i++) {
+    const d = new Date(baseTime - i * ONE_DAY);
+    const dateStr = d.toISOString().slice(0, 10).replace(/-/g, "");
+    urls.push(`https://www.boe.es/datosabiertos/api/boe/sumario/${dateStr}`);
+  }
+
+  return urls;
 };
 
 export const fetchLatestBOEArticles = async (): Promise<ScrapedLaw[]> => {
   const urls = getLatestBOEUrls();
-  const fetchPromises = urls.map((url) => fetchAndParseBOE(url));
 
-  // Process results in priority order
-  for (const promise of fetchPromises) {
-    const articles = await promise;
+  // Try URLs in priority order (most recent first) until articles are found
+  for (const url of urls) {
+    const articles = await fetchAndParseBOE(url);
     if (articles.length > 0) {
       return articles;
     }
@@ -78,3 +84,4 @@ export const fetchLatestBOEArticles = async (): Promise<ScrapedLaw[]> => {
 
   return [];
 };
+

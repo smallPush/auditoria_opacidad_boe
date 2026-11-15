@@ -66,6 +66,32 @@ const SEO: React.FC<SEOProps> = ({
     }
     canonicalLink.setAttribute('href', currentCanonicalUrl);
 
+    // 6. Dynamic Article JSON-LD Schema
+    const existingSchema = document.getElementById('dynamic-article-schema');
+    if (type === 'article') {
+      const schemaScript = existingSchema || document.createElement('script');
+      schemaScript.id = 'dynamic-article-schema';
+      schemaScript.setAttribute('type', 'application/ld+json');
+      schemaScript.textContent = JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: title,
+        description,
+        mainEntityOfPage: currentCanonicalUrl,
+        image,
+        publisher: {
+          '@type': 'Organization',
+          name: 'Radar BOE - Civic Intelligence Lab',
+          url: baseUrl,
+        },
+      });
+      if (!existingSchema) {
+        document.head.appendChild(schemaScript);
+      }
+    } else if (existingSchema) {
+      existingSchema.remove();
+    }
+
   }, [title, description, keywords, image, canonicalPath, type]);
 
   return null;

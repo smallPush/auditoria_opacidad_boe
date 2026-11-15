@@ -34,7 +34,7 @@ export default defineConfig(({ mode }) => {
           const indexHtml = await fs.readFile(path.join(outputDir, 'index.html'), 'utf8');
           const files = await fs.readdir(reportsDir);
 
-          const auditMetaMap = new Map<string, { title: string; score: number; summary: string }>();
+          const auditMetaMap = new Map<string, { title: string; score: number; summary: string; timestamp?: string }>();
           for (const file of files) {
             const match = file.match(/^Audit_(BOE-[A-Z]-\d+-\d+)_/);
             if (match && !auditMetaMap.has(match[1])) {
@@ -46,6 +46,7 @@ export default defineConfig(({ mode }) => {
                     title: parsed.title || match[1],
                     score: parsed.report.nivel_transparencia ?? 50,
                     summary: (parsed.report.resumen_ciudadano || '').slice(0, 200),
+                    timestamp: parsed.timestamp,
                   });
                 }
               } catch {
@@ -65,26 +66,52 @@ export default defineConfig(({ mode }) => {
 
           await Promise.all(routes.map(async route => {
             const routeDir = path.join(outputDir, route);
-            const canonicalUrl = `https://radarboe.es/${route}`;
+            const auditIdMatch = route.match(/^(?:audit|a)\/(BOE-[A-Z]-\d+-\d+)$/);
+            // Canonicalize short /a/:boeId URLs to /audit/:boeId to avoid duplicate content
+            const canonicalRoute = auditIdMatch ? `audit/${auditIdMatch[1]}` : route;
+            const canonicalUrl = `https://radarboe.es/${canonicalRoute}`;
             let routeHtml = indexHtml
               .replace('<link rel="canonical" href="https://radarboe.es/">', `<link rel="canonical" href="${canonicalUrl}">`)
               .replace('<meta property="og:url" content="https://radarboe.es/">', `<meta property="og:url" content="${canonicalUrl}">`)
               .replace(/\s*<script id="homepage-faq-schema" type="application\/ld\+json">[\s\S]*?<\/script>/, '');
 
-            const auditIdMatch = route.match(/^(?:audit|a)\/(BOE-[A-Z]-\d+-\d+)$/);
             if (auditIdMatch) {
-              const meta = auditMetaMap.get(auditIdMatch[1]);
+              const boeId = auditIdMatch[1];
+              const meta = auditMetaMap.get(boeId);
               if (meta) {
-                const escapeAttr = (str: string) => str.replace(/"/g, '&quot;');
-                const pageTitle = `Auditoría ${auditIdMatch[1]} (${meta.score}% transparencia) | Radar BOE`;
-                const pageDesc = escapeAttr(meta.summary || meta.title);
+                const escapeHtml = (str: string) =>
+                  str
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;');
+                const pageTitle = `Auditoría ${boeId} (${meta.score}% transparencia) | Radar BOE`;
+                const pageDesc = escapeHtml(meta.summary || meta.title);
+                const escapedTitle = escapeHtml(pageTitle);
+
+                const articleSchema = JSON.stringify({
+                  '@context': 'https://schema.org',
+                  '@type': 'Article',
+                  headline: pageTitle,
+                  description: meta.summary || meta.title,
+                  mainEntityOfPage: canonicalUrl,
+                  ...(meta.timestamp ? { datePublished: meta.timestamp } : {}),
+                  publisher: {
+                    '@type': 'Organization',
+                    name: 'Radar BOE - Civic Intelligence Lab',
+                    url: 'https://radarboe.es/',
+                  },
+                });
+
                 routeHtml = routeHtml
-                  .replace(/<title>.*?<\/title>/, `<title>${pageTitle}</title>`)
+                  .replace(/<title>.*?<\/title>/, `<title>${escapedTitle}</title>`)
                   .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${pageDesc}">`)
-                  .replace(/<meta property="og:title" content=".*?">/, `<meta property="og:title" content="${escapeAttr(pageTitle)}">`)
+                  .replace(/<meta property="og:type" content=".*?">/, '<meta property="og:type" content="article">')
+                  .replace(/<meta property="og:title" content=".*?">/, `<meta property="og:title" content="${escapedTitle}">`)
                   .replace(/<meta property="og:description" content=".*?">/, `<meta property="og:description" content="${pageDesc}">`)
-                  .replace(/<meta name="twitter:title" content=".*?">/, `<meta name="twitter:title" content="${escapeAttr(pageTitle)}">`)
-                  .replace(/<meta name="twitter:description" content=".*?">/, `<meta name="twitter:description" content="${pageDesc}">`);
+                  .replace(/<meta name="twitter:title" content=".*?">/, `<meta name="twitter:title" content="${escapedTitle}">`)
+                  .replace(/<meta name="twitter:description" content=".*?">/, `<meta name="twitter:description" content="${pageDesc}">`)
+                  .replace('</head>', `    <script id="dynamic-article-schema" type="application/ld+json">${articleSchema}</script>\n</head>`);
               }
             }
 

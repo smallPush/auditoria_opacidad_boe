@@ -8,6 +8,7 @@ global.screen = ((window as any).screen || { width: 1920, height: 1080, orientat
 global.HTMLElement = window.HTMLElement as any;
 global.Node = window.Node as any;
 global.Element = window.Element as any;
+global.DOMParser = (window as any).DOMParser;
 global.HTMLMetaElement = window.HTMLMetaElement as any;
 global.HTMLHeadElement = window.HTMLHeadElement as any;
 global.Event = window.Event as any;

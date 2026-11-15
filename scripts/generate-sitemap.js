@@ -15,25 +15,44 @@ const publicDir = path.join(__dirname, '../public');
 const targetFile = fs.existsSync(publicDir) ? OUTPUT_FILE : path.join(__dirname, '../sitemap.xml');
 
 const staticRoutes = [
-  '',
+  { path: '/', changefreq: 'daily', priority: '1.0' },
+  { path: '/history', changefreq: 'daily', priority: '0.9' },
+  { path: '/tags', changefreq: 'weekly', priority: '0.7' },
+  { path: '/related-tags', changefreq: 'weekly', priority: '0.7' },
+  { path: '/privacy', changefreq: 'monthly', priority: '0.3' },
 ];
 
-function getAuditIds() {
+function getAuditEntries() {
   if (!fs.existsSync(AUDITED_REPORTS_DIR)) return [];
   const files = fs.readdirSync(AUDITED_REPORTS_DIR);
-  const ids = new Set();
-  
+  const entriesMap = new Map();
+  const today = new Date().toISOString().split('T')[0];
+
   files.forEach(file => {
     const match = file.match(/^Audit_(BOE-[A-Z]-\d+-\d+)_/);
-    if (match) {
-      ids.add(match[1]);
+    if (match && !entriesMap.has(match[1])) {
+      let lastmod = today;
+      try {
+        const fullPath = path.join(AUDITED_REPORTS_DIR, file);
+        const raw = fs.readFileSync(fullPath, 'utf8');
+        const parsed = JSON.parse(raw);
+        if (parsed?.timestamp) {
+          const parsedDate = new Date(parsed.timestamp);
+          if (!Number.isNaN(parsedDate.getTime())) {
+            lastmod = parsedDate.toISOString().split('T')[0];
+          }
+        }
+      } catch {
+        // Fallback to today on parse error
+      }
+      entriesMap.set(match[1], { id: match[1], lastmod });
     }
   });
-  return Array.from(ids);
+  return Array.from(entriesMap.values());
 }
 
 function generateSitemap() {
-  const auditIds = getAuditIds();
+  const auditEntries = getAuditEntries();
   const today = new Date().toISOString().split('T')[0];
 
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -43,19 +62,19 @@ function generateSitemap() {
   // Static routes
   staticRoutes.forEach(route => {
     xml += `  <url>
-    <loc>${BASE_URL}${route}</loc>
+    <loc>${BASE_URL}${route.path}</loc>
     <lastmod>${today}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>${route === '' ? '1.0' : '0.8'}</priority>
+    <changefreq>${route.changefreq}</changefreq>
+    <priority>${route.priority}</priority>
   </url>
 `;
   });
 
   // Dynamic audit routes
-  auditIds.forEach(id => {
+  auditEntries.forEach(entry => {
     xml += `  <url>
-    <loc>${BASE_URL}/audit/${id}</loc>
-    <lastmod>${today}</lastmod>
+    <loc>${BASE_URL}/audit/${entry.id}</loc>
+    <lastmod>${entry.lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -65,7 +84,7 @@ function generateSitemap() {
   xml += `</urlset>`;
 
   fs.writeFileSync(targetFile, xml);
-  console.log(`✅ Sitemap generated at ${targetFile} with ${auditIds.length} audit pages.`);
+  console.log(`✅ Sitemap generated at ${targetFile} with ${auditEntries.length} audit pages and ${staticRoutes.length} static routes.`);
 }
 
 generateSitemap();

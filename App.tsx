@@ -106,12 +106,24 @@ const App: React.FC = () => {
 
   const fetchLatestBOE = async () => {
     setIsFetchingLatest(true);
-    const foundArticles = await fetchLatestBOEArticles();
+    try {
+      const foundArticles = await fetchLatestBOEArticles();
 
-    if (foundArticles.length > 0) {
-      setLatestArticles(foundArticles);
-    } else {
-      console.warn("Using sources as fallback");
+      if (foundArticles.length > 0) {
+        setLatestArticles(foundArticles);
+      } else {
+        console.warn("Using sources as fallback");
+        setLatestArticles(
+          BOE_SOURCES.map((s) => ({
+            id: s.id,
+            titulo: s.title,
+            departamento: s.category,
+            seccion: "I",
+          })),
+        );
+      }
+    } catch (err) {
+      console.warn("Error fetching latest BOE, using fallback:", err);
       setLatestArticles(
         BOE_SOURCES.map((s) => ({
           id: s.id,
@@ -120,8 +132,9 @@ const App: React.FC = () => {
           seccion: "I",
         })),
       );
+    } finally {
+      setIsFetchingLatest(false);
     }
-    setIsFetchingLatest(false);
   };
 
   const loadHistory = async () => {
@@ -774,9 +787,18 @@ const App: React.FC = () => {
                     </div>
 
                     <div className="space-y-3 max-h-[700px] overflow-y-auto pr-2 custom-scrollbar">
-                      {filteredArticles.length === 0 ? (
+                      {isFetchingLatest ? (
+                        <div className="py-16 flex flex-col items-center justify-center gap-3 text-slate-500">
+                          <Loader2 className="animate-spin text-blue-500" size={32} />
+                          <span className="text-xs font-mono text-slate-400">
+                            {t.loadingArticles}
+                          </span>
+                        </div>
+                      ) : filteredArticles.length === 0 ? (
                         <div className="text-center py-12 text-slate-500 italic">
-                          {t.noResultsFound} "{radarSearchQuery}"
+                          {radarSearchQuery
+                            ? `${t.noResultsFound} "${radarSearchQuery}"`
+                            : t.noArticlesAvailable}
                         </div>
                       ) : (
                         filteredArticles
