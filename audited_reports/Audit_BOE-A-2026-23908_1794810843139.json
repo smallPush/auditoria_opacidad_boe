@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-23908",
+  "timestamp": "2026-11-16T06:34:03.139Z",
+  "title": "Resolución de 4 de noviembre de 2026, de la Universidad Jaume I, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento cumple con la formalidad de publicar nombramientos tras un concurso-oposición, pero falla en la transparencia económica. No existe un desglose del impacto presupuestario que suponen estas plazas de Cátedra de Universidad (nivel A1 de la administración pública) a largo plazo. Se observa una delegación de firma (P.D.) del Rector en el Vicerrector, una práctica que, aunque legal, aleja la responsabilidad directa de la máxima autoridad universitaria. La descripción de los méritos es inexistente en el texto publicado, remitiendo a expedientes no accesibles directamente por el ciudadano.",
+    "resumen_ciudadano": "La Universidad Jaume I (Castellón) ha nombrado oficialmente a dos nuevos catedráticos en las áreas de Enfermería y Comercialización e Investigación de Mercados. Estos nombramientos son el resultado de concursos convocados en julio de 2026. Aunque el proceso sigue la Ley Orgánica del Sistema Universitario, no se informa sobre cuántas personas compitieron por estas plazas ni cuál es el coste salarial exacto que asumirá la universidad pública.",
+    "resumen_tweet": "🎓 Nuevos catedráticos en la Universitat Jaume I: Enfermería y Márketing. Se blindan plazas vitalicias pero el #BOE no aclara el coste para el contribuyente ni el detalle de los méritos. ¿Transparencia real o trámite opaco? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de datos sobre concurrencia competitiva",
+      "Delegación de firma que diluye la responsabilidad institucional"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mena Tudela, Desirée (Acceso a Cátedra)",
+        "Callarisa Fiol, Luis José (Acceso a Cátedra)",
+        "Sector de la Enfermería (Reconocimiento académico)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos (sin visibilidad en el proceso)",
+        "Contribuyentes (desconocen el impacto en la masa salarial pública)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de memoria económica asociada al nombramiento",
+      "Falta de datos sobre concurrencia competitiva",
+      "Delegación de firma que diluye la responsabilidad institucional"
+    ]
+  },
+  "tweeted": false
+}
