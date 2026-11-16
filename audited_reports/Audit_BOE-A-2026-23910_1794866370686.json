@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-23910",
+  "timestamp": "2026-11-16T21:59:30.686Z",
+  "title": "Resolución de 6 de noviembre de 2026, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se observa un cumplimiento técnico de la normativa LOSU, pero persiste una incongruencia ideológica respecto a la igualdad efectiva: el 80% de los nombramientos son varones. La resolución omite el impacto presupuestario individualizado, convirtiendo la masa salarial de estas plazas vitalicias en un gasto consolidado sin transparencia directa en el texto del BOE sobre el coste total para el contribuyente.",
+    "resumen_ciudadano": "La Universidad de Sevilla nombra oficialmente a cinco nuevos profesores titulares en áreas técnicas y jurídicas. Aunque es un trámite estándar, refleja la consolidación de puestos fijos en la función pública sin detallar sus salarios asociados.",
+    "resumen_tweet": "Auditando el #BOE: 5 nuevos profesores titulares en la @unisevilla. 🧐 Persiste la brecha: solo 1 mujer frente a 4 hombres (20%). 📉 Falta detalle del coste público de estas plazas vitalicias. #Opacidad #Transparencia #Universidad #Andalucía",
+    "banderas_red_flags": [
+      "Brecha de género manifiesta (80% hombres)",
+      "Invisibilidad del coste presupuestario por plaza",
+      "Jerga administrativa que dificulta el rastreo de méritos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los cinco docentes nombrados (funcionariado vitalicio)",
+        "Departamentos de ingeniería y física"
+      ],
+      "perdedores": [
+        "Objetivos de paridad de género en la academia",
+        "Transparencia presupuestaria inmediata"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Brecha de género manifiesta (80% hombres)",
+      "Invisibilidad del coste presupuestario por plaza",
+      "Jerga administrativa que dificulta el rastreo de méritos"
+    ]
+  },
+  "tweeted": false
+}
