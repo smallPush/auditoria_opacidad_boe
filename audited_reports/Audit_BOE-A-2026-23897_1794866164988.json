@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23897",
+  "timestamp": "2026-11-16T21:56:04.988Z",
+  "title": "Sentencia de 15 de octubre de 2026, de la Sala Tercera del Tribunal Supremo, que estima el recurso contencioso-administrativo 396/2025, interpuesto en nombre y representación de la Asociación Regional Andaluza de Productores de Ganado Porcino y de la Dehesa Española contra el Real Decreto 809/2025, de 16 de septiembre, por el que se modifica el Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "La sentencia del Tribunal Supremo revela una práctica sistemática de 'legislación apresurada' por parte del Ejecutivo. Al declarar la nulidad de pleno derecho del Real Decreto 809/2025, el tribunal pone de manifiesto que el Gobierno ignoró los requisitos de la Memoria de Análisis de Impacto Normativo (MAIN). Esto no es un mero error administrativo; es una vulneración de la transparencia económica y social, ya que se pretendía imponer regulaciones al sector ganadero sin cuantificar costes ni evaluar alternativas. La opacidad en la fase de elaboración privó a los ciudadanos y sectores afectados de conocer las verdaderas motivaciones y el impacto real de la norma.",
+    "resumen_ciudadano": "El Tribunal Supremo ha anulado una ley sobre protección de cerdos (RD 809/2025) porque el Gobierno no explicó correctamente sus consecuencias económicas y sociales. La asociación de productores porcinos (ARAPORC) ganó el caso demostrando que el proceso de creación de la norma fue defectuoso y falto de rigor técnico, lo que invalida los cambios que se intentaron introducir.",
+    "resumen_tweet": "🐷 El Tribunal Supremo tumba el RD 809/2025 sobre protección de cerdos por falta de rigor. El Gobierno intentó legislar sin justificar el impacto económico real. ¡Un golpe a la opacidad normativa! ⚖️ #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Nulidad de pleno derecho por defecto de forma",
+      "Incumplimiento sustancial de la Memoria de Impacto Normativo",
+      "Falta de transparencia en el análisis de costes",
+      "Arbitrariedad en el procedimiento administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación Regional Andaluza de Productores de Ganado Porcino (ARAPORC)",
+        "Sector de la Dehesa Española",
+        "Garantismo procesal frente a la arbitrariedad ejecutiva"
+      ],
+      "perdedores": [
+        "Ministerio/Gobierno (por defecto en la técnica legislativa)",
+        "Administración Pública (costes de gestión de un decreto anulado)",
+        "Estándares de bienestar animal (cuya reforma queda en el limbo por errores de forma)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Sentencia Judicial",
+    "banderas_rojas": [
+      "Nulidad de pleno derecho por defecto de forma",
+      "Incumplimiento sustancial de la Memoria de Impacto Normativo",
+      "Falta de transparencia en el análisis de costes",
+      "Arbitrariedad en el procedimiento administrativo"
+    ]
+  },
+  "tweeted": false
+}
