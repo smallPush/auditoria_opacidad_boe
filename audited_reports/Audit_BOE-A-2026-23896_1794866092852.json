@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-23896",
+  "timestamp": "2026-11-16T21:54:52.852Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Dirección General de Política Energética y Minas, por la que se publican los nuevos precios máximos de venta, antes de impuestos, del butano comercial envasado en envases de carga igual o superior a 8 kg, e inferior a 20 kg, excluidos los envases de mezcla para usos de los gases licuados del petróleo como carburante.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución utiliza una ingeniería técnica compleja para ocultar un 'déficit de tarifa' en el butano. Aunque el precio se mantiene artificialmente bajo para cumplir con el RDL 25/2026 debido a la crisis en Oriente Medio, se genera un 'desajuste' (deuda) de 31,53 cts.€/kg que los ciudadanos pagarán en el futuro. Es una medida paliativa de corto plazo que traslada el coste real de la energía (un 15% superior al aplicado) a futuras revisiones, comprometiendo la transparencia del ahorro real anunciado por el Gobierno.",
+    "resumen_ciudadano": "El Gobierno ha fijado el precio del butano por debajo de su coste real para evitar subidas bruscas. Sin embargo, la diferencia entre el precio real (146,49 cts) y el precio que pagas (127,78 cts) no desaparece: se acumula como una deuda que se te cobrará en las próximas facturas. Además, el precio incluye un recargo oculto de 3 cts/kg para el Fondo Nacional de Eficiencia Energética.",
+    "resumen_tweet": "📉 El #BOE maquilla el precio del butano. Se impone un tope por la crisis, pero ojo: se genera una 'deuda' de +31 cts/kg que pagaremos más tarde. ¡Pan para hoy y deuda energética para mañana! 💸 #Opacidad #Transparencia #Energía #Butano",
+    "banderas_red_flags": [
+      "Déficit de tarifa encubierto (desajuste unitario)",
+      "Diferencia del 14.6% entre precio teórico y aplicado",
+      "Costes de comercialización opacos (60,8 cts/kg)",
+      "Traslado de deuda a bimestres futuros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consumidores actuales (ahorro ficticio inmediato)",
+        "Grandes operadoras de GLP (recuperación garantizada de costes vía desajustes)",
+        "Gobierno (evita el impacto político de la subida internacional del gas)"
+      ],
+      "perdedores": [
+        "Consumidores futuros (heredan la deuda del desajuste)",
+        "Hogares de clase baja dependientes de la bombona (vulnerables a la volatilidad futura)",
+        "Transparencia pública (lenguaje técnico que oculta el encarecimiento real)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Precios de Energía",
+    "banderas_rojas": [
+      "Déficit de tarifa encubierto (desajuste unitario)",
+      "Diferencia del 14.6% entre precio teórico y aplicado",
+      "Costes de comercialización opacos (60,8 cts/kg)",
+      "Traslado de deuda a bimestres futuros"
+    ]
+  },
+  "tweeted": false
+}
