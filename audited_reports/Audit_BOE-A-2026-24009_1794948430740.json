@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24009",
+  "timestamp": "2026-11-17T20:47:10.740Z",
+  "title": "Ley 13/2026, de 3 de agosto, de modificación del Código civil de Cataluña en materia de apoyos al ejercicio de la capacidad jurídica de las personas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La ley culmina la transición del modelo de sustitución (donde un tutor decidía por la persona) al modelo de apoyo (donde se respeta la voluntad de la persona con discapacidad). Aunque el lenguaje es garantista y busca la autonomía, el texto delega una gran responsabilidad en el estamento notarial y judicial sin detallar la dotación presupuestaria necesaria para la supervisión de estas medidas. Se observa una 'Incongruencia Ideológica' potencial al desjudicializar procesos para agilizarlos, pero cargar a los juzgados con la revisión de planes de asistencia complejos. El impacto de clase es relevante: quienes posean patrimonio requerirán trámites notariales constantes, beneficiando a estos profesionales, mientras que los apoyos no formalizados (familiares) operan en una zona gris de protección.",
+    "resumen_ciudadano": "Esta reforma elimina el concepto de 'incapacitación' en Cataluña. Ahora, las personas que necesiten ayuda para tomar decisiones legales (por discapacidad o edad) no pierden sus derechos, sino que cuentan con 'asistentes'. Estos pueden ser familiares o profesionales designados ante notario o juez. La ley obliga a respetar siempre los deseos y preferencias de la persona asistida, prohibiendo que otros decidan por ella 'por su propio bien' si no es estrictamente necesario.",
+    "resumen_tweet": "⚖️ Cataluña entierra la 'incapacitación' con la Ley 13/2026. Del control a la autonomía: apoyos a medida para personas con discapacidad. ¡Ojo a la falta de memoria económica y al poder otorgado a los notarios! 📜✨ #BOE #Transparencia #Derechos #Cataluña",
+    "banderas_red_flags": [
+      "Ausencia de partidas presupuestarias específicas para el funcionamiento de las entidades de apoyo públicas.",
+      "Potencial conflicto de intereses en la gestión de patrimonios por entidades jurídicas privadas.",
+      "Discrecionalidad en el concepto de 'influencia indebida' para saltarse la voluntad de la persona.",
+      "Carga burocrática adicional para familias sin recursos que ahora deben formalizar acuerdos ante notario."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personas con discapacidad (recuperan autonomía jurídica)",
+        "Notarios (se convierten en figura clave para la formalización de apoyos)",
+        "Entidades jurídicas de protección (amplían su ámbito de actuación)"
+      ],
+      "perdedores": [
+        "Sistema Judicial (posible colapso por la revisión de planes de asistencia)",
+        "Familias de rentas bajas (barreras económicas para trámites notariales)",
+        "Modelo tradicional de tutela (queda derogado)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Reforma del Derecho Civil y Derechos Humanos",
+    "banderas_rojas": [
+      "Ausencia de partidas presupuestarias específicas para el funcionamiento de las entidades de apoyo públicas.",
+      "Potencial conflicto de intereses en la gestión de patrimonios por entidades jurídicas privadas.",
+      "Discrecionalidad en el concepto de 'influencia indebida' para saltarse la voluntad de la persona.",
+      "Carga burocrática adicional para familias sin recursos que ahora deben formalizar acuerdos ante notario."
+    ]
+  },
+  "tweeted": false
+}
