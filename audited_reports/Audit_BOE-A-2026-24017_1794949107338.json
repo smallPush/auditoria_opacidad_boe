@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24017",
+  "timestamp": "2026-11-17T20:58:27.338Z",
+  "title": "Resolución de 5 de noviembre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña Diana Jareño Ruiz.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de personal funcionario docente. Aunque el proceso sigue la normativa de la Ley Orgánica 2/2023 (LOSU), el BOE actúa meramente como un tablón de anuncios de resultados finales, omitiendo la justificación de méritos o los costes salariales específicos asociados a la plaza estructural creada. La opacidad reside en la naturaleza cerrada de las comisiones de selección universitarias, cuyos criterios internos no son expuestos al escrutinio ciudadano en esta resolución.",
+    "resumen_ciudadano": "La Universidad de Alicante formaliza el nombramiento de una nueva Profesora Titular en el área de Sociología tras superar el proceso de concurso-oposición. Este acto consolida una plaza permanente en la administración pública estatal.",
+    "resumen_tweet": "📝 Nueva plaza fija en la Universidad de Alicante: Diana Jareño Ruiz nombrada Profesora Titular de Sociología. Se consolida gasto público estructural sin desglose salarial directo en el documento. 🎓🏛️ #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Falta de transparencia en los baremos de puntuación de la comisión en el extracto",
+      "Referencia a procesos de selección cerrados hace meses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Diana Jareño Ruiz (estabilidad laboral vitalicia)",
+        "Cuerpo de Profesores Titulares de Universidad (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos en el proceso previo",
+        "Contribuyentes (asumen el compromiso de gasto estructural sin acceso a las métricas de eficiencia del puesto)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario del coste de la plaza",
+      "Falta de transparencia en los baremos de puntuación de la comisión en el extracto",
+      "Referencia a procesos de selección cerrados hace meses"
+    ]
+  },
+  "tweeted": false
+}
