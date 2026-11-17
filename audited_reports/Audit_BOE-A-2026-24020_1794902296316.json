@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24020",
+  "timestamp": "2026-11-17T07:58:16.316Z",
+  "title": "Orden PJC/1228/2026, de 6 de noviembre, por la que se modifica la Orden PJC/294/2026, de 20 de marzo, por la que se publica la relación de personas aprobadas en el proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, al Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, convocado por Orden PJC/64/2024, de 25 de enero.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque la resolución es clara en cuanto a nombres y puntuaciones, el proceso exhala la lentitud crónica de la Administración de Justicia: una convocatoria de enero de 2024 se resuelve definitivamente a finales de 2026. La 'Eficiencia' que lleva por nombre la Dirección General firmante queda en entredicho ante un ciclo de casi tres años para incorporar personal. Se observa una modificación de una orden previa (marzo de 2026), lo que sugiere errores en la fase de verificación documental inicial o vacantes no cubiertas que obligan a reajustar el anexo de aprobados.",
+    "resumen_ciudadano": "El Ministerio de Justicia ha publicado la lista definitiva corregida de las personas que han superado las oposiciones para el Cuerpo de Gestión Procesal. Los aspirantes que aparecen en el listado ahora deben solicitar su destino geográfico. Aquellos que no hayan presentado la documentación correctamente han sido eliminados del proceso, permitiendo que corra la lista hacia los siguientes candidatos con mejor nota.",
+    "resumen_tweet": "📋 Nueva actualización de aprobados en Gestión Procesal tras revisar documentación. Casi 3 años después de la convocatoria, el #BOE pone nombres a las plazas. La justicia es lenta hasta para contratar a su propio personal. ⚖️🏛️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Dilación excesiva: 34 meses desde la convocatoria hasta la resolución de destinos",
+      "Modificación de resolución previa: indica posibles fallos en la fiscalización documental de marzo",
+      "Falta de transparencia en el coste total del proceso selectivo para el contribuyente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con alta puntuación (destacando Gonzalo Arias Ruiz con 80.7)",
+        "Sector femenino: clara mayoría de mujeres en los primeros puestos de los listados analizados",
+        "Academias de oposiciones que mantienen cautivos a alumnos durante años"
+      ],
+      "perdedores": [
+        "Aspirantes excluidos por defectos de forma o falta de documentación en el tramo final",
+        "Ciudadanos que sufren el colapso judicial mientras los procesos de contratación se eternizan",
+        "Candidatos con menos recursos económicos para sostener 3 años de preparación"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial (Andalucía, Aragón, Asturias, Canarias, Cantabria, Cataluña)",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Dilación excesiva: 34 meses desde la convocatoria hasta la resolución de destinos",
+      "Modificación de resolución previa: indica posibles fallos en la fiscalización documental de marzo",
+      "Falta de transparencia en el coste total del proceso selectivo para el contribuyente"
+    ]
+  },
+  "tweeted": false
+}
