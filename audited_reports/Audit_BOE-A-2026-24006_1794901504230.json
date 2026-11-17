@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24006",
+  "timestamp": "2026-11-17T07:45:04.230Z",
+  "title": "Ley 10/2026, de 9 de julio, de presupuestos de la Generalitat de Catalunya para 2026.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El presupuesto de la Generalitat para 2026 presenta una estructura formalmente correcta pero con nodos de opacidad significativa. Destacan las Disposiciones Adicionales 24 y 25, que crean fondos genéricos para 'Mejora de Políticas Públicas' y 'Fortalecer el Liderazgo de Cataluña' sin desglosar indicadores de éxito ni partidas concretas, lo que constituye un escenario clásico de 'Gastos Fantasma'. Asimismo, se observa una asimetría en el trato al personal: mientras se habla de contención, se mantienen mecanismos flexibles para las retribuciones de 'Alta Dirección' (Art. 30 y 35). La mención a la perspectiva de género e infancia aparece en el preámbulo como declaración de intenciones, pero carece de un blindaje presupuestario específico en el articulado analizado.",
+    "resumen_ciudadano": "La Generalitat aprueba un presupuesto de 56.937 millones de euros. Si bien se priorizan servicios públicos, la ley incluye 'bolsas de dinero' poco claras para proyectos de 'liderazgo' y 'clima' que permiten un uso discrecional de los fondos. Se garantiza la financiación de centros privados concertados y se protege el estatus salarial de los altos cargos, mientras que el ciudadano medio asume una estructura de deuda pública que requiere autorizaciones masivas de endeudamiento a corto y largo plazo.",
+    "resumen_tweet": "🚨 ¡Alerta! El #BOE publica los presupuestos de Cataluña 2026: €56.900M. Detectamos 'fondos adicionales' vagos para 'liderazgo' y discrecionalidad en sueldos de alta dirección. ¿Transparencia o cheque en blanco? 🧐 #Opacidad #Transparencia #Cataluña",
+    "banderas_red_flags": [
+      "Fondo Adicional para el Liderazgo de Cataluña sin desglose",
+      "Flexibilidad retributiva para personal de alta dirección",
+      "Autorizaciones de endeudamiento masivo sin plan de amortización detallado",
+      "Uso recurrente de decretos ley previos para parchear presupuestos prorrogados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal de alta dirección pública",
+        "Centros educativos privados concertados",
+        "Consorcios y fundaciones del sector público"
+      ],
+      "perdedores": [
+        "Contribuyentes de clase media (presión por deuda)",
+        "Pequeños autónomos (sin ayudas directas específicas en el texto principal)",
+        "Transparencia pública (por fondos genéricos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Ley de Presupuestos",
+    "banderas_rojas": [
+      "Fondo Adicional para el Liderazgo de Cataluña sin desglose",
+      "Flexibilidad retributiva para personal de alta dirección",
+      "Autorizaciones de endeudamiento masivo sin plan de amortización detallado",
+      "Uso recurrente de decretos ley previos para parchear presupuestos prorrogados"
+    ]
+  },
+  "tweeted": false
+}
