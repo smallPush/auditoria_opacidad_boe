@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24021",
+  "timestamp": "2026-11-17T08:05:43.236Z",
+  "title": "Orden PJC/1229/2026, de 6 de noviembre, por la que se publica la relación de plazas correspondientes al ámbito del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, que se ofrecen a las personas aprobadas en el proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, en el Cuerpo de Gestión Procesal y Administrativa de la Administración de Justicia, convocado por por Orden PJC/64/2024, de 25 de enero.",
+  "report": {
+    "nivel_transparencia": 65,
+    "analisis_critico": "Aunque la orden detalla las plazas, la opacidad reside en la gestión del 'capital humano'. Se observa una desconexión entre la oferta de plazas en zonas de altísimo coste de vida (como Eivissa) y la realidad salarial de un funcionario del Cuerpo de Gestión. El sistema de 'adjudicación forzosa' y el escaso plazo de 5 días para decidir el destino de los próximos dos años ignora la conciliación familiar. Además, el método de solicitud vía correo electrónico con un formato de asunto rígido es un arcaísmo administrativo impropio de una 'Eficiencia del Servicio Público'.",
+    "resumen_ciudadano": "El Ministerio de Justicia ofrece las plazas vacantes a los aprobados en las oposiciones de Gestión Procesal. Los futuros funcionarios deben elegir destino rápidamente o serán asignados a la fuerza. Una vez aceptado el puesto, no podrán moverse durante dos años.",
+    "resumen_tweet": "⚖️ ¡Alerta Opositores! Publicadas plazas de Gestión Procesal. Solo 5 días para elegir destino. ¡Ojo! 👁️ Te pueden mandar forzoso a Ibiza con sueldo base. ¿Conciliación? Olvídalo en 2 años. 🏗️🏠 #BOE #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Plazo extremadamente corto (5 días hábiles)",
+      "Riesgo de adjudicación forzosa por error en el número de plazas pedidas",
+      "Bloqueo de movilidad de 2 años (art. 529.3 LOPJ)",
+      "Incompatibilidad salarial en destinos con crisis de vivienda (Eivissa)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con altos ahorros previos",
+        "Administración (cubre vacantes en zonas geográficas poco atractivas)"
+      ],
+      "perdedores": [
+        "Opositores con cargas familiares",
+        "Funcionarios destinados a Baleares (sueldo insuficiente para el alquiler)",
+        "Candidatos con brecha digital (proceso vía email con firma electrónica rígida)"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (Ámbito Ministerio)",
+    "tipologia": "Recursos Humanos y Empleo Público",
+    "banderas_rojas": [
+      "Plazo extremadamente corto (5 días hábiles)",
+      "Riesgo de adjudicación forzosa por error en el número de plazas pedidas",
+      "Bloqueo de movilidad de 2 años (art. 529.3 LOPJ)",
+      "Incompatibilidad salarial en destinos con crisis de vivienda (Eivissa)"
+    ]
+  },
+  "tweeted": false
+}
