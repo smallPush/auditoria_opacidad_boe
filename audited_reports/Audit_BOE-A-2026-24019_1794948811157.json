@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24019",
+  "timestamp": "2026-11-17T20:53:31.157Z",
+  "title": "Orden PJC/1227/2026, de 6 de noviembre, por la que se publica la relación de plazas correspondientes al ámbito del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, que se ofrecen a las personas aprobadas en el proceso selectivo para ingreso, por el sistema general de acceso libre, mediante oposición, en el Cuerpo de Auxilio Judicial de la Administración de Justicia, convocado por Orden PJC/64/2024, de 25 de enero.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque la orden detalla 36 plazas para el Cuerpo de Auxilio Judicial, existe una asimetría técnica sospechosa: mientras las plazas en provincias cuentan con su 'ID de puesto' específico, las plazas en los órganos de élite (Tribunal Supremo, Fiscalía General y Audiencia Nacional) carecen de dicho identificador en la tabla. Esta falta de codificación dificulta la trazabilidad y el control público sobre quién ocupa exactamente estos puestos en la cúpula judicial. Además, el plazo de 5 días hábiles para decidir un destino del que no podrán moverse en 2 años impone una presión administrativa excesiva sobre el trabajador frente a la rigidez del Estado.",
+    "resumen_ciudadano": "El Ministerio de Justicia ofrece las últimas 36 plazas a los aprobados de las oposiciones de Auxilio Judicial de 2024. Los candidatos deben elegir destino obligatoriamente según su nota. Los destinos van desde conserjerías en el Tribunal Supremo en Madrid hasta agrupaciones rurales en pueblos pequeños como Checa o Almorox. Una vez asignados, no podrán pedir traslado durante los siguientes dos años.",
+    "resumen_tweet": "⚖️ ¿Transparencia selectiva? El #BOE publica plazas para Auxilio Judicial, pero oculta los ID de puestos en el Tribunal Supremo y la Audiencia Nacional. 🕒 Solo 5 días para elegir destino forzoso por 2 años. #Justicia #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Omisión de identificadores de puesto (ID) en órganos centrales de Madrid",
+      "Plazo de elección extremadamente breve (5 días hábiles)",
+      "Bloqueo de movilidad geográfica forzoso durante 24 meses"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con mejores notas que acceden a puestos en el Tribunal Supremo y la Audiencia Nacional en Madrid",
+        "Administración Central por cubrir vacantes en zonas de baja demanda"
+      ],
+      "perdedores": [
+        "Opositores con menor puntuación destinados forzosamente a municipios rurales aislados (Ej: Checa, Aldeadávila)",
+        "Conciliación familiar debido a la prohibición de concursar en 2 años"
+      ]
+    },
+    "comunidad_autonoma": "Multiautonómico (Castilla-La Mancha, Castilla y León, Madrid, Illes Balears)",
+    "tipologia": "Recursos Humanos y Función Pública",
+    "banderas_rojas": [
+      "Omisión de identificadores de puesto (ID) en órganos centrales de Madrid",
+      "Plazo de elección extremadamente breve (5 días hábiles)",
+      "Bloqueo de movilidad geográfica forzoso durante 24 meses"
+    ]
+  },
+  "tweeted": false
+}
