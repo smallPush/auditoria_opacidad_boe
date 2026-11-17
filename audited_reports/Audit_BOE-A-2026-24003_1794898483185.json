@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24003",
+  "timestamp": "2026-11-17T06:54:43.185Z",
+  "title": "Real Decreto 995/2026, de 16 de noviembre, por el que se amplía y modifica la plantilla orgánica del Ministerio Fiscal para adecuarla a las necesidades existentes.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 995/2026 orquestado por el Ministerio de la Presidencia y Justicia supone una expansión estructural de la Carrera Fiscal con 200 nuevas plazas de segunda categoría. El uso del 'procedimiento de urgencia' y la omisión deliberada de la consulta pública, bajo el pretexto de que 'regula aspectos parciales', limita la capacidad de la sociedad civil para auditar el crecimiento de la administración pública. Aunque se vincula a la eficiencia y a la violencia de género, el grueso de las plazas refuerza una burocracia judicial centralizada y territorial en núcleos de alta conflictividad sin un desglose detallado del coste presupuestario a largo plazo en este documento.",
+    "resumen_ciudadano": "El Gobierno aprueba la creación de 200 plazas de fiscales adicionales que entrarán en funciones a finales de 2027. La medida se justifica por la creación de 500 nuevas unidades judiciales y la necesidad de especialistas en violencia de género. Sin embargo, el proceso se ha tramitado por vía rápida, evitando la opinión pública y consolidando un aumento permanente del gasto en personal judicial.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad! El Gobierno crea 200 plazas de fiscales mediante trámite de URGENCIA y sin consulta pública. ⚖️ Justificado en la lucha contra la violencia de género, pero ocultando el debate sobre el coste estructural. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Tramitación administrativa urgente sin justificación de fuerza mayor externa",
+      "Omisión del trámite de consulta pública",
+      "Creación masiva de plazas de segunda categoría (posible clientelismo interno o tapón en la carrera)",
+      "Diferimiento de efectos a 2027, comprometiendo presupuestos futuros"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio Fiscal (aumento de plantilla a 3.204 plazas)",
+        "Fiscalía de Barcelona y Madrid (concentran el mayor volumen de nuevas plazas)",
+        "Cargos de libre designación en Inspección y Unidad de Apoyo"
+      ],
+      "perdedores": [
+        "Contribuyentes (asunción de costes estructurales permanentes)",
+        "Mecanismos de control ciudadano (excluidos por la vía de urgencia)",
+        "Tercera categoría de la carrera fiscal (sin apenas nuevas plazas frente a la segunda)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Multiterritorial)",
+    "tipologia": "Modificación de Plantilla Orgánica y Gasto Público",
+    "banderas_rojas": [
+      "Tramitación administrativa urgente sin justificación de fuerza mayor externa",
+      "Omisión del trámite de consulta pública",
+      "Creación masiva de plazas de segunda categoría (posible clientelismo interno o tapón en la carrera)",
+      "Diferimiento de efectos a 2027, comprometiendo presupuestos futuros"
+    ]
+  },
+  "tweeted": false
+}
