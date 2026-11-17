@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24010",
+  "timestamp": "2026-11-17T07:47:28.360Z",
+  "title": "Corrección de errores del Decreto-ley 4/2026, de 28 de julio, de actuaciones urgentes en materia de urbanismo para la agilización de la aprobación del planeamiento y su ejecución para el impulso a la promoción de vivienda.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Aunque se presenta como una simple corrección técnica de una referencia interna (del apartado 4 al 5), este documento valida el Decreto-ley 4/2026 de Extremadura, el cual utiliza la 'urgencia' para sortear trámites ordinarios en urbanismo. El punto crítico es el Artículo 10, que otorga 'primas de edificabilidad' (permitir construir más de lo previsto inicialmente) y concede al Consejero un poder discrecional amplio para prorrogar plazos de licencias hasta por 4 años. Este mecanismo de 'agilización' reduce los tiempos de exposición pública y supervisión, favoreciendo la densificación urbana bajo el pretexto del impulso a la vivienda.",
+    "resumen_ciudadano": "La Junta de Extremadura corrige un error técnico en su ley de urbanismo urgente. Esta ley permite a promotores construir más metros cuadrados de lo normal si se destinan a vivienda protegida, y otorga al gobierno regional el poder de ampliar los plazos para solicitar estas licencias de forma discrecional.",
+    "resumen_tweet": "🏘️ Extremadura 'corrige' su decreto de urbanismo exprés. Bajo la excusa de agilizar la vivienda, se consolidan las primas de edificabilidad y el poder discrecional del Consejero sobre los plazos de licencias. ¿Vivienda o ladrillazo? #BOE #Opacidad",
+    "banderas_red_flags": [
+      "Uso de Decreto-ley para evitar el debate parlamentario largo",
+      "Primas de edificabilidad: posible sobreexplotación del suelo",
+      "Poder discrecional del Consejero para prorrogar plazos sin criterios objetivos claros",
+      "Agilización como eufemismo de reducción de controles ciudadanos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Promotoras inmobiliarias (mayor aprovechamiento del suelo)",
+        "Altos cargos de la Consejería (mayor capacidad de decisión directa)"
+      ],
+      "perdedores": [
+        "Ciudadanía (menor control sobre el crecimiento urbano)",
+        "Medio ambiente urbano (impacto por el aumento de densidad edificable)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Urbanismo y Vivienda",
+    "banderas_rojas": [
+      "Uso de Decreto-ley para evitar el debate parlamentario largo",
+      "Primas de edificabilidad: posible sobreexplotación del suelo",
+      "Poder discrecional del Consejero para prorrogar plazos sin criterios objetivos claros",
+      "Agilización como eufemismo de reducción de controles ciudadanos"
+    ]
+  },
+  "tweeted": false
+}
