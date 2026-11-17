@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24005",
+  "timestamp": "2026-11-17T07:40:56.932Z",
+  "title": "Orden PJC/1225/2026, de 16 de noviembre, por la que se determina el importe económico de las actuaciones previstas en el Anexo II del Reglamento de asistencia jurídica gratuita aprobado por Real Decreto 141/2021, de 9 de marzo, modificado por el Real Decreto 824/2026, de 14 de octubre.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La Orden PJC/1225/2026 actualiza las cuantías de la justicia gratuita bajo el pretexto de la modernización y la eficiencia. Si bien se presume un incremento general del 8%, se detecta una clara intención política de desviar la carga de trabajo judicial hacia medios de solución extrajudiciales (MASC), incentivando económicamente el pacto (125%) sobre el litigio. La inclusión de defensa gratuita para personas jurídicas insolventes abre una nueva vía de gasto público para salvar costes procesales de sociedades mercantiles. La cláusula de 'disponibilidades presupuestarias' sigue actuando como un techo de cristal que supedita derechos fundamentales a la caja del Estado.",
+    "resumen_ciudadano": "El Gobierno sube un 8% lo que paga a abogados y procuradores del Turno de Oficio. Como novedad, se pagará más a los abogados si consiguen que las partes lleguen a un acuerdo sin ir a juicio. También se garantiza asistencia inmediata y gratuita a víctimas de violencia sexual, terrorismo y trata, y se permite que empresas que han quebrado tengan abogado gratis en procesos penales.",
+    "resumen_tweet": "⚖️ Nueva actualización del #BOE para la Justicia Gratuita. Subida del 8% en tarifas y premio del 125% si hay acuerdo extrajudicial. ¿Eficiencia o ahorro a costa del derecho al juicio? 94€ por 24h de guardia sigue siendo precario. #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Condicionamiento del pago a 'disponibilidades presupuestarias'",
+      "Baja retribución por disponibilidad de 24h (94,64€) que roza la precariedad",
+      "Ampliación del derecho a personas jurídicas insolventes, diluyendo recursos destinados a personas físicas",
+      "Incentivo económico desproporcionado para evitar juicios mediante transacciones extrajudiciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración de Justicia (menor saturación por desvío a mediación)",
+        "Empresas insolventes (acceso a defensa gratuita)",
+        "Víctimas de delitos sexuales y trata (mayor cobertura de servicios)"
+      ],
+      "perdedores": [
+        "Abogados del Turno de Oficio (subida del 8% que podría no compensar la inflación real)",
+        "Ciudadanía que prefiere el juicio frente a la mediación presionada por incentivos de honorarios"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial de Retribuciones",
+    "banderas_rojas": [
+      "Condicionamiento del pago a 'disponibilidades presupuestarias'",
+      "Baja retribución por disponibilidad de 24h (94,64€) que roza la precariedad",
+      "Ampliación del derecho a personas jurídicas insolventes, diluyendo recursos destinados a personas físicas",
+      "Incentivo económico desproporcionado para evitar juicios mediante transacciones extrajudiciales"
+    ]
+  },
+  "tweeted": false
+}
