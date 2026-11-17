@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24004",
+  "timestamp": "2026-11-17T07:43:14.698Z",
+  "title": "Real Decreto 996/2026, de 16 de noviembre, de creación de quinientas unidades judiciales correspondientes a la programación de 2027 y de adecuación de la planta judicial.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 996/2026 implementa una expansion masiva de la planta judicial bajo el amparo de la Ley de Eficiencia del Servicio Publico de Justicia. Se detecta una 'Opacidad de Procedimiento' al haberse tramitado por la via de urgencia, lo que ha permitido prescindir de la consulta publica y la audiencia ciudadana. El analisis revela una tendencia a la centralizacion mediante la creacion de Tribunales de Instancia que, si bien prometen flexibilidad, diluyen la especializacion previa. Resulta especialmente polemica la 'Incongruencia Ideologica' de transformar plazas dedicadas exclusivamente a Violencia sobre la Mujer en plazas de lo Civil o Familia en demarcaciones como Barakaldo o L'Hospitalet, bajo el argumento de la agrupacion de partidos judiciales, lo que podria suponer un retroceso en la atencion directa.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la creacion de 500 nuevas plazas de jueces y magistrados para el ano 2027. La reforma cambia la estructura de los juzgados hacia un modelo de Tribunales de Instancia, centralizando recursos por partido judicial. Aunque se refuerzan areas como lo Social (despidos y bajas) y la Violencia de Genero en algunas zonas, el uso de la via de urgencia ha evitado que la sociedad civil pueda opinar sobre la reorganizacion de juzgados criticos en sus municipios.",
+    "resumen_tweet": "🚨 ¡Alerta #BOE! El Gobierno aprueba por via URGENTE 500 nuevas plazas judiciales para 2027. Se centraliza la justicia y se reasignan juzgados de Violencia de Genero. ¿Mas eficiencia o menos cercania? ⚖️🧐 #Opacidad #Transparencia #Justicia",
+    "banderas_red_flags": [
+      "Tramitacion administrativa urgente sin consulta ni audiencia publica",
+      "Transformacion de unidades de Violencia sobre la Mujer en secciones de Derecho Civil",
+      "Falta de memoria economica detallada sobre el coste total por plaza en el texto analizado",
+      "Uso de 'eficiencia' como eufemismo para la centralizacion de servicios judiciales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jurisdiccion de lo Social (agilizacion de pleitos laborales)",
+        "Audiencias Provinciales (refuerzo de 96 plazas de magistrado)",
+        "Ministerio de Justicia (mayor control centralizado de los recursos)"
+      ],
+      "perdedores": [
+        "Ciudadania de municipios menores (perdida de juzgados de proximidad)",
+        "Especializacion exclusiva en Violencia de Genero (en partidos con plazas transformadas)",
+        "Participacion democratica (por exclusion de tramites de consulta)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Impacto en todas las CC.AA.)",
+    "tipologia": "Real Decreto de Demarcación y Planta Judicial",
+    "banderas_rojas": [
+      "Tramitacion administrativa urgente sin consulta ni audiencia publica",
+      "Transformacion de unidades de Violencia sobre la Mujer en secciones de Derecho Civil",
+      "Falta de memoria economica detallada sobre el coste total por plaza en el texto analizado",
+      "Uso de 'eficiencia' como eufemismo para la centralizacion de servicios judiciales"
+    ]
+  },
+  "tweeted": false
+}
