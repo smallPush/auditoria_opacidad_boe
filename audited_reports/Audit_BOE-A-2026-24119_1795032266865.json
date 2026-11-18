@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24119",
+  "timestamp": "2026-11-18T20:04:26.865Z",
+  "title": "Real Decreto-ley 37/2026, de 17 de noviembre, por el que se aprueban medidas urgentes en materia de retribuciones del personal al servicio del sector público.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El RDL 37/2026 instrumentaliza la 'extraordinaria y urgente necesidad' para eludir el debate parlamentario sobre el gasto de 4.965 millones de euros, aprovechando la disolución de las Cortes. Se observa un riesgo de 'Gasto Fantasma' en el Artículo 2.2, que permite transferencias de crédito sin las limitaciones de la Ley General Presupuestaria, otorgando una discrecionalidad excesiva al Ministerio de Hacienda en periodo electoral. La medida blinda un acuerdo sindical previo para evitar que la prórroga presupuestaria desgaste el apoyo del funcionariado.",
+    "resumen_ciudadano": "El Gobierno ha aprobado por decreto una subida salarial del 4,5% para todos los empleados públicos en 2027. Al no haber nuevos presupuestos por la convocatoria de elecciones, se han habilitado casi 5.000 millones de euros de forma urgente, saltándose el control habitual del Congreso de los Diputados.",
+    "resumen_tweet": "🚨 El Gobierno blinda una subida del 4,5% para funcionarios vía Decreto-ley, saltándose el debate parlamentario ante las elecciones. 💸 ¡4.965M€ en créditos extraordinarios sin control ordinario! ¿Estrategia electoral? 🧐 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Aprobación de crédito extraordinario masivo de 4.965 millones de euros",
+      "Suspensión de límites legales a las transferencias de crédito (Art. 2.2)",
+      "Vinculación de la subida a un contexto de disolución de cámaras y elecciones",
+      "Indeterminación en el destino de los incrementos de 'acción social'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empleados públicos (aseguran subida por encima de la inflación prevista)",
+        "Sindicatos firmantes (UGT, CSIF, CC.OO.)",
+        "Gobierno (fidelización de voto de un colectivo de 3 millones de personas)"
+      ],
+      "perdedores": [
+        "Contribuyentes del sector privado (asumen el coste sin mejoras equivalentes)",
+        "Parlamento (anulado en su función de control presupuestario)",
+        "Sostenibilidad presupuestaria a largo plazo"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estado, CCAA y Entidades Locales)",
+    "tipologia": "Real Decreto-ley de medidas retributivas y presupuestarias",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Aprobación de crédito extraordinario masivo de 4.965 millones de euros",
+      "Suspensión de límites legales a las transferencias de crédito (Art. 2.2)",
+      "Vinculación de la subida a un contexto de disolución de cámaras y elecciones",
+      "Indeterminación en el destino de los incrementos de 'acción social'"
+    ]
+  },
+  "tweeted": false
+}
