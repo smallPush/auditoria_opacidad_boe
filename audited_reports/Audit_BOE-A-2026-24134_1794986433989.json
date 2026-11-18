@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24134",
+  "timestamp": "2026-11-18T07:20:33.989Z",
+  "title": "Resolución de 6 de noviembre de 2026, de la Dirección de la Agencia Española de Cooperación Internacional para el Desarrollo, por la que se aprueban las bases y se convoca la provisión de plaza de Coordinador/a de la Cooperación Española en Senegal.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La convocatoria se presenta bajo la modalidad de 'Alta Dirección', lo cual reduce la rigidez del mérito y capacidad frente a la discrecionalidad técnica. Se observa un blindaje institucional: la puntuación premia excesivamente la experiencia previa dentro de la propia AECID (15 puntos) y la Administración Pública española (15 puntos), sumando un 30% del total de puntos solo por pertenecer al sistema. Esto crea una barrera de entrada para expertos externos. Además, aunque se publica el salario base de 80.364,08€, los gastos de vivienda se declaran a cargo de la Agencia sin especificar un techo de gasto público en este documento, dejando una ventana a la opacidad presupuestaria.",
+    "resumen_ciudadano": "Se busca un coordinador para la cooperación en Senegal con un sueldo de 80.364€ anuales más vivienda pagada por el Estado. El proceso está diseñado para favorecer a quienes ya trabajan en la administración pública, dificultando que profesionales de fuera puedan acceder al puesto, a pesar de que se vende como una convocatoria abierta e igualitaria.",
+    "resumen_tweet": "🚨 ¡80.364€ + VIVIENDA pagada! El @AECID_es busca coordinador en Senegal. Aunque hablan de igualdad, el sistema de puntos premia con creces a quienes YA están dentro del sistema. ¿Transparencia o dedocracia? 🤔💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Contrato de Alta Dirección (mayor discrecionalidad que una oposición reglada)",
+      "Gastos de vivienda no cuantificados (gasto fantasma potencial)",
+      "Puntuación dirigida a perfiles internos (15 puntos por experiencia previa en AECID)",
+      "Incongruencia entre la 'apertura' de la convocatoria y los requisitos de experiencia en administración española"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral de alta dirección",
+        "Funcionarios de la carrera diplomática",
+        "Cuerpo Superior de Administradores Civiles del Estado"
+      ],
+      "perdedores": [
+        "Expertos en cooperación internacional del sector privado",
+        "ONGs locales que compiten con salarios públicos hipertrofiados",
+        "Contribuyentes (por falta de límite claro en gastos de representación y vivienda)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de plazas directivas",
+    "banderas_rojas": [
+      "Contrato de Alta Dirección (mayor discrecionalidad que una oposición reglada)",
+      "Gastos de vivienda no cuantificados (gasto fantasma potencial)",
+      "Puntuación dirigida a perfiles internos (15 puntos por experiencia previa en AECID)",
+      "Incongruencia entre la 'apertura' de la convocatoria y los requisitos de experiencia en administración española"
+    ]
+  },
+  "tweeted": false
+}
