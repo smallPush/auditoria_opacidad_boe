@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24132",
+  "timestamp": "2026-11-18T20:26:20.114Z",
+  "title": "Resolución de 6 de noviembre de 2026, de la Universidad de Alicante, por la que se nombra Catedrático de Universidad a don Rafael Molina Carmona.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento administrativo estándar para una cátedra de universidad. Aunque cumple con la legalidad vigente (LOSU), el proceso de selección y los méritos específicos evaluados por la comisión no son públicos en este extracto, manteniendo la opacidad tradicional de los procesos de endogamia o promoción interna universitaria. El área de conocimiento, Inteligencia Artificial, es crítica para el desarrollo nacional, pero el documento no detalla la dotación presupuestaria exacta vinculada a esta plaza.",
+    "resumen_ciudadano": "La Universidad de Alicante nombra a Rafael Molina Carmona como Catedrático en el área de Ciencia de la Computación e Inteligencia Artificial tras superar un proceso de oposición/concurso.",
+    "resumen_tweet": "🔍 Auditoría #BOE: Nombramiento de Catedrático en IA en la @UA_Universidad. 🎓 Procedimiento legal estándar, pero persiste la falta de transparencia en méritos y coste salarial detallado. Continúa el dominio masculino en áreas STEM. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Falta de desglose del coste salarial anual para el erario público",
+      "Ausencia de información sobre los criterios de mérito específicos del candidato",
+      "Sesgo de género persistente en nombramientos de alto nivel en áreas técnicas (STEM)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rafael Molina Carmona",
+        "Departamento de Ciencia de la Computación e Inteligencia Artificial (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de transparencia en el retorno social de la inversión)",
+        "Representación femenina en puestos de alta jerarquía académica"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Falta de desglose del coste salarial anual para el erario público",
+      "Ausencia de información sobre los criterios de mérito específicos del candidato",
+      "Sesgo de género persistente en nombramientos de alto nivel en áreas técnicas (STEM)"
+    ]
+  },
+  "tweeted": false
+}
