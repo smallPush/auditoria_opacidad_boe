@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24136",
+  "timestamp": "2026-11-18T07:33:16.119Z",
+  "title": "Resolución de 12 de noviembre de 2026, del Consorcio de la Ciudad de Santiago de Compostela, por la que se aprueba y publica la relación provisional de personas admitidas y excluidas del proceso selectivo para la provisión, por el sistema general de acceso libre, de plazas de personal laboral fijo en la Orquesta Real Filharmonía de Galicia, convocado por Resolución de 21 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El documento presenta una transparencia procedimental estandarizada, pero revela una fricción significativa en los criterios de evaluacion previa. Un alto porcentaje de aspirantes (marcados con asterisco) declararon cumplir los requisitos para eximirse de la primera fase de audición, pero la administración ha desestimado dicha declaración, obligándoles a realizarla. Esto sugiere o bien una redacción ambigua en las bases de la convocatoria o un intento sistemático de los candidatos por evitar las fases iniciales de cribado. Además, las exclusiones por falta de homologación de títulos extranjeros suponen una barrera burocrática para el talento internacional en un sector globalizado como la música clásica.",
+    "resumen_ciudadano": "Se han publicado las listas provisionales de músicos admitidos y excluidos para la Orquesta Real Filharmonía de Galicia. Los aspirantes tienen 10 días para corregir errores. Se observa que muchos músicos intentaron acceder directamente a la segunda fase de audición sin cumplir realmente los requisitos exigidos por el Consorcio de Santiago.",
+    "resumen_tweet": "🎻 ¿Confusión o picaresca en la Filharmonía de Galicia? El #BOE publica listas para plazas fijas, pero advierte: decenas de músicos intentaron saltarse la 1ª fase sin cumplir requisitos. ¿Bases poco claras? #Opacidad #Transparencia #Galicia 📑🧐",
+    "banderas_red_flags": [
+      "Discrepancia masiva en la autodeclaración de méritos para saltar fases de audición",
+      "Exclusiones por barreras burocráticas en homologación de títulos internacionales",
+      "Exigencia estricta de registro electrónico del Consorcio que limita la accesibilidad",
+      "Falta de detalle sobre la composición de los Tribunales Calificadores en esta fase"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Aspirantes con titulaciones obtenidas en España",
+        "Candidatos con experiencia administrativa previa que dominan la sede electrónica del Consorcio"
+      ],
+      "perdedores": [
+        "Músicos con formación internacional enfrentados a la burocracia de homologación",
+        "Aspirantes excluidos por no acreditar correctamente su representación"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Empleo Público / Cultura",
+    "banderas_rojas": [
+      "Discrepancia masiva en la autodeclaración de méritos para saltar fases de audición",
+      "Exclusiones por barreras burocráticas en homologación de títulos internacionales",
+      "Exigencia estricta de registro electrónico del Consorcio que limita la accesibilidad",
+      "Falta de detalle sobre la composición de los Tribunales Calificadores en esta fase"
+    ]
+  },
+  "tweeted": false
+}
