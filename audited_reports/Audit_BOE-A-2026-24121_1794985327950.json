@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24121",
+  "timestamp": "2026-11-18T07:02:07.950Z",
+  "title": "Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre; el Real Decreto 902/2020, de 13 de octubre, de igualdad retributiva entre mujeres y hombres; la Ley 3/2023, de 28 de febrero, de Empleo; y el Real Decreto 723/2026, de 9 de septiembre, por el que se transpone la Directiva (UE) 2019/1152 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a unas condiciones laborales transparentes y previsibles en la Unión Europea.",
+  "report": {
+    "nivel_transparencia": 75,
+    "analisis_critico": "El texto presenta una aparente victoria para la transparencia laboral al trasponer directivas europeas de 2019 y 2023, pero utiliza la figura del Real Decreto-ley para acelerar un proceso que debió ser debatido con mayor profundidad. Aunque prohíbe el secreto salarial y las preguntas sobre el historial retributivo —puntos clave para la igualdad—, introduce una 'Comisión para el seguimiento de la transparencia retributiva' bajo la etiqueta de 'coste cero'. Esta es una bandera roja clásica de 'gasto fantasma' operativo: se movilizan recursos públicos existentes sin desglosar el impacto real en la eficiencia de los ministerios implicados. Además, la carga administrativa para las PYMES se delega a futuras 'guías técnicas', lo que genera una zona gris de inseguridad jurídica.",
+    "resumen_ciudadano": "Esta ley obliga a las empresas a ser transparentes con los sueldos: deberán informar del salario en las ofertas de empleo y no podrán preguntarte cuánto ganabas antes. Se prohíben las cláusulas de confidencialidad que impedían a los empleados hablar de sus sueldos. También se refuerzan las multas por discriminación salarial y se permite a los trabajadores con contratos cortos o inestables solicitar puestos más seguros de forma reglada.",
+    "resumen_tweet": "💸 ¡Adiós al secreto salarial! El nuevo #BOE obliga a publicar sueldos en ofertas y prohíbe preguntar tu salario previo. Más multas para empresas que paguen menos a mujeres por el mismo trabajo. ¡Ojo a la nueva Comisión de seguimiento! ⚖️ #Transparencia",
+    "banderas_red_flags": [
+      "Creación de una Comisión interministerial con 'coste cero' (opacidad en el uso de recursos públicos preexistentes)",
+      "Uso del Real Decreto-ley para materias que no presentan una urgencia sobrevenida sino un retraso en trasposición",
+      "Ambigüedad en la 'adecuación de recursos' para que las PYMES cumplan con las auditorías retributivas",
+      "Plazo de prescripción de 3 años para reclamaciones que puede ser insuficiente en entornos laborales coercitivos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mujeres trabajadoras (por el refuerzo contra la brecha salarial)",
+        "Candidatos a empleo (por la transparencia en ofertas)",
+        "Trabajadores temporales (nuevos derechos de información)",
+        "Inspección de Trabajo (nuevas tipificaciones de infracciones graves)"
+      ],
+      "perdedores": [
+        "Empresas con políticas de opacidad retributiva",
+        "PYMES (por el incremento de burocracia en registros y auditorías)",
+        "Contratistas públicos con incumplimientos en igualdad (riesgo de resolución de contrato)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de Reforma Laboral e Igualdad Retributiva",
+    "banderas_rojas": [
+      "Creación de una Comisión interministerial con 'coste cero' (opacidad en el uso de recursos públicos preexistentes)",
+      "Uso del Real Decreto-ley para materias que no presentan una urgencia sobrevenida sino un retraso en trasposición",
+      "Ambigüedad en la 'adecuación de recursos' para que las PYMES cumplan con las auditorías retributivas",
+      "Plazo de prescripción de 3 años para reclamaciones que puede ser insuficiente en entornos laborales coercitivos"
+    ]
+  },
+  "tweeted": false
+}
