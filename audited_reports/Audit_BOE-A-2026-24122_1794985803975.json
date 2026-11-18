@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24122",
+  "timestamp": "2026-11-18T07:10:03.975Z",
+  "title": "Acuerdo sobre Transporte Aéreo entre el Reino de España y la República Oriental del Uruguay, hecho en Kuala Lumpur el 22 de octubre de 2024.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Este acuerdo internacional, firmado en Kuala Lumpur para regular el tráfico entre España y Uruguay, destaca por su agresivo blindaje fiscal a favor de las operadoras aéreas. El Artículo 5 establece una 'zona franca' encubierta, eximiendo de derechos de aduana e impuestos especiales no solo al combustible, sino también a provisiones de lujo como tabaco y alcohol a bordo. El Artículo 9 garantiza la repatriación de beneficios netos sin trabas, priorizando la movilidad de capital sobre el retorno social. Existe una flagrante incongruencia ideológica con las políticas de transición ecológica de la UE, al incentivar el transporte aéreo mediante subsidios indirectos (exenciones fiscales) mientras se penalizan otros sectores.",
+    "resumen_ciudadano": "España y Uruguay acuerdan facilitar los vuelos entre ambos países otorgando a las aerolíneas privilegios económicos significativos. Estos incluyen no pagar impuestos por el combustible ni por los productos vendidos a bordo, además de facilidades para llevarse sus ganancias fuera del país. Aunque se vende como desarrollo comercial, el acuerdo blinda los beneficios empresariales frente a la recaudación pública y los objetivos climáticos.",
+    "resumen_tweet": "✈️ Nuevo acuerdo España-Uruguay: barra libre fiscal para aerolíneas. Exenciones en combustible, tabaco y alcohol mientras se facilita la fuga de beneficios. ¿Y la transición ecológica? Los de siempre ganan, el clima pierde. 🌍💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exenciones fiscales masivas en combustible y suministros de a bordo",
+      "Garantía de transferencia de fondos netos al extranjero sin gravámenes locales",
+      "Firma del acuerdo en un tercer país (Malasia) para asuntos bilaterales",
+      "Trato de favor a aerolíneas frente a otros medios de transporte más sostenibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Iberia y otras aerolíneas designadas",
+        "Grandes grupos turísticos",
+        "Operadores de logística transnacional",
+        "Élites diplomáticas"
+      ],
+      "perdedores": [
+        "Hacienda Pública (pérdida de ingresos por exenciones)",
+        "Contribuyentes (subvencionan indirectamente el sector aéreo)",
+        "Objetivos de descarbonización",
+        "Sector ferroviario de larga distancia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Exenciones fiscales masivas en combustible y suministros de a bordo",
+      "Garantía de transferencia de fondos netos al extranjero sin gravámenes locales",
+      "Firma del acuerdo en un tercer país (Malasia) para asuntos bilaterales",
+      "Trato de favor a aerolíneas frente a otros medios de transporte más sostenibles"
+    ]
+  },
+  "tweeted": false
+}
