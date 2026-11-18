@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24127",
+  "timestamp": "2026-11-18T07:11:23.475Z",
+  "title": "Resolución de 12 de noviembre de 2026, la Subsecretaría, por la que se resuelve concurso específico, convocado por Resolución de 2 de marzo de 2026.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Se observa un fenómeno de inmovilismo administrativo. La mayoría de las adjudicaciones (I/1, I/2, I/3, I/4, I/7, I/9, I/10, I/12, I/13, I/15, I/16, I/17) coinciden exactamente con el puesto de cese, lo que sugiere que el concurso es un mero trámite de consolidación para personal que ya ejercía las funciones de forma provisional. Además, preocupa la existencia de 5 plazas desiertas en áreas críticas como la Dirección General del Patrimonio del Estado y Contratación Electrónica, lo que indica una falta de perfiles cualificados o falta de incentivos en la carrera administrativa técnica.",
+    "resumen_ciudadano": "El Ministerio de Hacienda ha finalizado el reparto de puestos de trabajo internos. Aunque parece una renovación, la realidad es que casi todos los empleados se quedan en el mismo escritorio donde ya estaban trabajando. Se han quedado vacantes varios puestos importantes relacionados con la gestión de edificios públicos y sistemas informáticos de contratación.",
+    "resumen_tweet": "🏢 Hacienda resuelve su concurso de personal: ¿Competencia o puro trámite? 🖋️ La gran mayoría simplemente mantiene su puesto previo. 🕳️ Varias plazas técnicas clave quedan vacantes. El inmovilismo burocrático reina en Madrid. #BOE #Opacidad #Transparencia 🇪🇸",
+    "banderas_red_flags": [
+      "Adjudicaciones circulares: el ganador ya ocupaba el puesto",
+      "Plazas desiertas en gestión de Patrimonio del Estado",
+      "Ausencia de movilidad real entre departamentos",
+      "Concentración absoluta de poder administrativo en Madrid"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios ya posicionados en la Subsecretaría",
+        "Continuismo administrativo",
+        "Personal de niveles altos (N22 a N30) en Madrid"
+      ],
+      "perdedores": [
+        "Funcionarios de otras provincias sin opciones de movilidad",
+        "Nuevos talentos que buscan ascenso por méritos",
+        "Agilidad administrativa (debido a puestos que quedan vacantes)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Adjudicaciones circulares: el ganador ya ocupaba el puesto",
+      "Plazas desiertas en gestión de Patrimonio del Estado",
+      "Ausencia de movilidad real entre departamentos",
+      "Concentración absoluta de poder administrativo en Madrid"
+    ]
+  },
+  "tweeted": false
+}
