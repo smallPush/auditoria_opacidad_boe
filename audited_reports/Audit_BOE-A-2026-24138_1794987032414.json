@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24138",
+  "timestamp": "2026-11-18T07:30:32.414Z",
+  "title": "Resolución de 21 de octubre de 2026, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Aunque el proceso sigue la normativa estándar, existe una desconexión entre la retórica de igualdad y la práctica: los cursos de igualdad solo computan 1 punto frente a los 25 de antigüedad o los 10 de grado personal. Se observa una barrera de entrada para funcionarios noveles frente a una élite administrativa consolidada. El lenguaje técnico oculta que la movilidad real está limitada por autorizaciones discrecionales (como en el caso de la AEAT).",
+    "resumen_ciudadano": "El Ministerio de Transportes convoca un concurso para que funcionarios cambien de puesto. Se premia principalmente haber estado muchos años en el mismo nivel y tener antigüedad, más que la formación específica reciente. Incluye medidas de conciliación familiar, pero con requisitos muy estrictos de residencia y convivencia previa.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Concurso de traslados en Transportes. Mucha burocracia para mover funcionarios. La igualdad solo suma 1 punto frente a 25 de antigüedad. ¿Postureo o meritocracia real? 🧐 #Opacidad #Transparencia #Funcionarios 🇪🇸",
+    "banderas_red_flags": [
+      "Ponderación mínima en materia de género (1%)",
+      "Discrecionalidad en autorizaciones de movilidad externa",
+      "Exclusiones de participación por cuerpos especiales",
+      "Complejidad en la acreditación de imposibilidad telemática"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios de carrera con alto grado consolidado",
+        "Sindicatos firmantes de la Mesa General",
+        "Funcionarios con hijos menores de 12 años"
+      ],
+      "perdedores": [
+        "Funcionarios noveles (poca antigüedad)",
+        "Personal en suspensión firme",
+        "Personal de la AEAT (sujeto a vetos por necesidades del servicio)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Ponderación mínima en materia de género (1%)",
+      "Discrecionalidad en autorizaciones de movilidad externa",
+      "Exclusiones de participación por cuerpos especiales",
+      "Complejidad en la acreditación de imposibilidad telemática"
+    ]
+  },
+  "tweeted": false
+}
