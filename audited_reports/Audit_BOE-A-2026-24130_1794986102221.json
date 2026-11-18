@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-24130",
+  "timestamp": "2026-11-18T07:15:02.221Z",
+  "title": "Resolución de 11 de noviembre de 2026, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 2 de julio de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa un fenómeno de inmovilismo burocrático bajo la apariencia de concurrencia competitiva. Al auditar las tablas de adjudicación, el 100% de los funcionarios listados en el extracto han sido adjudicados al mismo puesto que ya venían ocupando (coinciden denominación, nivel e ID de puesto). Esto sugiere un proceso de consolidación de plazas que ya estaban asignadas 'a dedo' o en comisión de servicios, transformando la provisionalidad en permanencia sin una rotación real ni apertura efectiva a nuevos perfiles. No hay 'gastos fantasma' directos, pero sí un gasto en recursos de gestión para un proceso cuyos resultados ya estaban predeterminados por la situación de hecho.",
+    "resumen_ciudadano": "El Ministerio de Economía ha formalizado la permanencia de varios funcionarios en sus puestos actuales mediante un concurso que no ha generado cambios reales. Los adjudicados ya trabajaban en las mismas áreas (Tesoro Público, Seguros y Política Financiera), manteniendo niveles salariales altos (niveles 16 al 28). Es un trámite administrativo para blindar posiciones ya ocupadas.",
+    "resumen_tweet": "¿Concurso público o fotocopiadora? 📄 En el Ministerio de Economía todos ganan el puesto que ya tenían. Movilidad cero, burocracia máxima para blindar a la élite administrativa. 💼💸 #BOE #Opacidad #Transparencia #FunciónPública",
+    "banderas_red_flags": [
+      "Adjudicaciones idénticas al puesto de cese",
+      "Inmovilismo estructural",
+      "Falsa movilidad laboral"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Cuerpo de Inspectores de Seguros",
+        "Cuerpo de Gestión de la Administración Civil (A2)",
+        "Jefaturas del Tesoro Público"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera que buscan movilidad real",
+        "Principios de mérito y capacidad frente al 'ocupismo' institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Provisión de Puestos",
+    "banderas_rojas": [
+      "Adjudicaciones idénticas al puesto de cese",
+      "Inmovilismo estructural",
+      "Falsa movilidad laboral"
+    ]
+  },
+  "tweeted": false
+}
