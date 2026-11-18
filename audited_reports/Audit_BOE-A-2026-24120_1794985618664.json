@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24120",
+  "timestamp": "2026-11-18T07:06:58.664Z",
+  "title": "Real Decreto-ley 38/2026, de 17 de noviembre, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial y medidas fiscales urgentes para evitar la tributación del salario mínimo interprofesional de 2027 en el Impuesto sobre la Renta de las Personas Físicas.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto-ley 38/2026 actúa como un parche financiero ante la incapacidad política de aprobar unos Presupuestos Generales del Estado para 2027. Se utiliza la figura de 'urgente necesidad' para actualizar entregas a cuenta que deberían debatirse en sede parlamentaria. Aunque protege a los perceptores del SMI del impacto fiscal (evitando el error de salto), el texto funciona como un 'cajón de sastre' legislativo, mezclando financiación autonómica con ayudas directas por la crisis migratoria en El Hierro y promoción comercial en Ceuta, lo que dificulta la fiscalización ciudadana de cada partida por separado.",
+    "resumen_ciudadano": "Esta norma asegura que las Comunidades Autónomas y Ayuntamientos reciban su dinero actualizado en 2027 pese a no haber nuevos presupuestos. Además, ajusta el IRPF para que quienes cobren el Salario Mínimo (€18.004 anuales) no paguen impuestos por él. También desbloquea fondos para que las regiones gasten su superávit en inversiones y otorga ayudas directas a Canarias (El Hierro) y Ceuta para emergencias y formación.",
+    "resumen_tweet": "🚨 El Gobierno parchea la falta de Presupuestos con el RD-ley 38/2026. Evita que el SMI de 2027 pague IRPF y actualiza fondos para CCAA, pero recurre a subvenciones 'a dedo' para El Hierro y Ceuta. ¿Transparencia o urgencia? 📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para sortear el trámite parlamentario de unos Presupuestos",
+      "Subvenciones de concesión directa (sin concurso público) a Canarias y Ceuta",
+      "Ambigüedad en el término 'inversiones financieramente sostenibles' para el uso del superávit",
+      "Fragmentación legislativa: mezcla fiscalidad del SMI con infraestructuras portuarias y migración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores que perciben el SMI de 2027 (protección frente a retenciones)",
+        "Gobiernos autonómicos y locales (actualización de liquidez)",
+        "Empresas exportadoras de Ceuta (exención de cuotas)",
+        "Administración Canaria (fondos para El Hierro)"
+      ],
+      "perdedores": [
+        "Poder Legislativo (se reduce su capacidad de debate presupuestario)",
+        "Contribuyentes de clase media-alta (no hay deflactación de la tarifa para ellos)",
+        "Principio de concurrencia competitiva (por las ayudas directas)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con impacto específico en Canarias y Ceuta)",
+    "tipologia": "Decreto de Urgencia Financiera y Fiscal",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para sortear el trámite parlamentario de unos Presupuestos",
+      "Subvenciones de concesión directa (sin concurso público) a Canarias y Ceuta",
+      "Ambigüedad en el término 'inversiones financieramente sostenibles' para el uso del superávit",
+      "Fragmentación legislativa: mezcla fiscalidad del SMI con infraestructuras portuarias y migración"
+    ]
+  },
+  "tweeted": false
+}
