@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24135",
+  "timestamp": "2026-11-18T07:23:47.502Z",
+  "title": "Orden PJC/1235/2026, de 10 de noviembre, por la que se convoca concurso para la provisión de plaza de notario/a, adscrito a la Dirección General de Seguridad Jurídica y Fe Pública.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Aunque el proceso se presenta bajo la apariencia de un concurso de méritos estándar, existe una endogamia técnica latente. El baremo otorga 5 puntos por pertenecer a un 'cuerpo extinguido' y premia específicamente haber redactado propuestas de resolución para la propia Dirección General entre 2024 y 2026. Esto crea una ventaja competitiva insalvable para quienes ya están integrados en la estructura del Ministerio, penalizando al notario de carrera que ejerce fuera del ámbito de influencia de Madrid. Se detecta una 'puerta giratoria interna' donde el mérito no es la capacidad jurídica general, sino la proximidad previa al órgano convocante.",
+    "resumen_ciudadano": "El Ministerio de Justicia convoca una plaza de notario para trabajar directamente en su Dirección General. Aunque dicen seguir leyes de igualdad, el sistema de puntos está diseñado para que ganen quienes ya han trabajado allí como 'colaboradores' o pertenecen a cuerpos de élite antiguos, dificultando que notarios de provincias sin contactos en el Ministerio puedan acceder al puesto.",
+    "resumen_tweet": "⚖️ ¿Transparencia o traje a medida? El Ministerio convoca plaza de Notario con méritos que premian a quienes ya están 'dentro'. Se puntúa haber redactado borradores para ellos mismos. ¡Endogamia en el corazón de la Justicia! #BOE #Opacidad #Transparencia 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Baremo de méritos altamente específico (ad hoc)",
+      "Ventaja por servicios previos en el mismo órgano convocante",
+      "Puntuación por pertenencia a cuerpo extinguido (sesgo de clase/antigüedad)",
+      "Plazo de resolución breve que sugiere candidatos ya identificados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Notarios con vínculos previos en la DGSJFP",
+        "Miembros del extinguido Cuerpo Especial Facultativo",
+        "Notarios de 'primera clase' con red de contactos en el Ministerio"
+      ],
+      "perdedores": [
+        "Notarios jóvenes sin experiencia en la administración central",
+        "Candidatos de provincias alejadas de los círculos de poder madrileños",
+        "El principio de igualdad de oportunidades real"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Provisión de puestos de trabajo",
+    "banderas_rojas": [
+      "Baremo de méritos altamente específico (ad hoc)",
+      "Ventaja por servicios previos en el mismo órgano convocante",
+      "Puntuación por pertenencia a cuerpo extinguido (sesgo de clase/antigüedad)",
+      "Plazo de resolución breve que sugiere candidatos ya identificados"
+    ]
+  },
+  "tweeted": false
+}
