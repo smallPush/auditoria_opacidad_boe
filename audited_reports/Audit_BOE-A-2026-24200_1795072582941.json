@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24200",
+  "timestamp": "2026-11-19T07:16:22.941Z",
+  "title": "Resolución de 6 de noviembre de 2026, de la Universitat de València, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 0.7,
+    "analisis_critico": "La resolución oficializa la funcionarización de 30 académicos en la Universitat de València basándose en la Ley Orgánica 2/2023 (LOSU). La opacidad reside en la estructura de los 'concursos de acceso' mencionados (2026), que operan como una caja negra donde no se detallan los méritos específicos ni la procedencia de los candidatos, facilitando dinámicas de endogamia académica. No hay mención al impacto presupuestario plurianual que suponen estos sueldos públicos blindados de por vida.",
+    "resumen_ciudadano": "Se han nombrado 30 nuevos Profesores Titulares (funcionarios) en la Universitat de València. Los nombramientos cubren diversas áreas como Derecho, Física, Óptica y Enfermería. Esto supone la consolidación de personal en el sector público universitario tras procesos de selección internos.",
+    "resumen_tweet": "🎓 30 nuevos profesores funcionarios blindan su plaza en la Universitat de València. Casi un 50% de mujeres, pero persisten dudas sobre la endogamia y el coste total para las arcas públicas. ¿Mérito o inercia? 🏛️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de transparencia en los criterios de baremación de los concursos",
+      "Potencial endogamia al no detallar la movilidad de los seleccionados"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "30 académicos que obtienen estabilidad laboral de por vida",
+        "Universitat de València (reducción de interinidad formal)",
+        "Cuerpo de funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Investigadores precarios y asociados sin acceso a plaza",
+        "Aspirantes externos con menor red de contactos interna",
+        "Ciudadanía (desconocimiento del coste salarial total)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose presupuestario por plaza",
+      "Falta de transparencia en los criterios de baremación de los concursos",
+      "Potencial endogamia al no detallar la movilidad de los seleccionados"
+    ]
+  },
+  "tweeted": false
+}
