@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-24196",
+  "timestamp": "2026-11-19T20:29:15.368Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, en el Cuerpo Superior de Interventores y Auditores de la Administración de la Seguridad Social.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento detalla los nombramientos del Cuerpo Superior de Interventores y Auditores de la Seguridad Social, una élite técnica fundamental para el control del gasto. Se observa una notable disparidad en el Complemento Específico: mientras que la mayoría de los interventores en provincias perciben 13.360,20€, el puesto de 'Jefa de Servicio A' en Madrid (Ministerio de Hacienda) asciende a 17.092,74€, evidenciando una jerarquía salarial centralista. Es relevante la alta presencia femenina en estos puestos de alta dirección técnica, lo que sugiere un cambio de clase en el control económico estatal.",
+    "resumen_ciudadano": "Publicación oficial del nombramiento de nuevos auditores e interventores para supervisar las cuentas de la Seguridad Social. Incluye nombres, destinos y los complementos salariales específicos que percibirán en sus nuevos puestos en diversas provincias de España.",
+    "resumen_tweet": "Nuevos guardianes para las cuentas de la #SeguridadSocial 👮💰. Mayoría femenina en la élite de interventores. Se detectan brechas en complementos: Madrid cobra hasta 4.000€ más que provincias. #BOE #Transparencia #Opacidad #GastoPúblico",
+    "banderas_red_flags": [
+      "Disparidad salarial entre puestos del mismo nivel (26) según la ubicación geográfica",
+      "Diferencia de 3.732€ en complemento específico para el puesto en Madrid frente a los territoriales",
+      "Falta de desglose sobre el coste total anualizado por plaza para el contribuyente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Candidatas mujeres (amplia mayoría en la lista)",
+        "Altos funcionarios del Grupo A1 con plazas consolidadas",
+        "Administración Central en Madrid (mejores retribuciones específicas)"
+      ],
+      "perdedores": [
+        "Interventores en destinos periféricos (menor retribución por funciones similares)",
+        "Sistema de transparencia (no se justifican los criterios de asignación de los complementos más altos)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Disparidad salarial entre puestos del mismo nivel (26) según la ubicación geográfica",
+      "Diferencia de 3.732€ en complemento específico para el puesto en Madrid frente a los territoriales",
+      "Falta de desglose sobre el coste total anualizado por plaza para el contribuyente"
+    ]
+  },
+  "tweeted": false
+}
