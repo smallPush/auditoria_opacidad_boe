@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-24188",
+  "timestamp": "2026-11-19T07:07:48.788Z",
+  "title": "Real Decreto 1002/2026, de 18 de noviembre, por el que se regula la concesión directa de subvenciones en materia de cooperación para el desarrollo sostenible por la Agencia Española de Cooperación Internacional para el Desarrollo.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El Real Decreto 1002/2026 instrumentaliza la 'concesión directa' para eludir la concurrencia competitiva, alegando una excepcionalidad que parece ser la norma en la AECID. Al etiquetar a entidades como la FEMP o ISGlobal como 'socios singulares', se crea un circuito cerrado de financiación que bloquea la entrada a nuevos actores con posibles soluciones más eficientes. Especialmente crítico es el uso de presupuestos prorrogados de 2023 para el ejercicio 2026, lo que evidencia una gestión inercial y una falta de planificación financiera actualizada, diluyendo el control parlamentario sobre el gasto real.",
+    "resumen_ciudadano": "El Gobierno ha aprobado el reparto directo de fondos públicos a un grupo seleccionado de fundaciones y asociaciones sin permitir que otras organizaciones compitan por ellos. Bajo la justificación de 'interés social', se financian desde el fortalecimiento de burocracias locales hasta becas de máster y exposiciones culturales. El uso de la adjudicación 'a dedo' y la prórroga de presupuestos antiguos reduce la capacidad de fiscalizar si este dinero realmente llega a quienes más lo necesitan o si solo mantiene estructuras institucionales.",
+    "resumen_tweet": "🚨 Alerta #BOE: El Gobierno reparte subvenciones 'a dedo' para cooperación. Sin concurso público y con presupuestos de 2023 prorrogados a 2026, se riega a 'socios estratégicos' con fondos opacos. ¿Y la competencia? 💸 #Opacidad #Transparencia #CeroMérito",
+    "banderas_red_flags": [
+      "Uso sistemático de la concesión directa para evitar concursos públicos",
+      "Presupuesto prorrogado de 2023 aplicado en 2026 (desactualización fiscal)",
+      "Justificación de excepcionalidad genérica y poco probada",
+      "Financiación de gastos de gestión y estructuras burocráticas (fortalecimiento institucional)",
+      "Conceptos vagos como 'sensibilización' y 'diálogo' que dificultan la auditoría de impacto"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes fundaciones consolidadas (ISGlobal, IECAH)",
+        "Burocracia de la FEMP",
+        "Élite académica (Fundación UAM)",
+        "Agencia Española de Cooperación (AECID) por mantener su statu quo"
+      ],
+      "perdedores": [
+        "Pequeñas ONGs sin convenios históricos",
+        "Contribuyentes (falta de optimización de fondos)",
+        "Transparencia democrática",
+        "Meritocracia en el acceso a recursos públicos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvenciones Directas",
+    "banderas_rojas": [
+      "Uso sistemático de la concesión directa para evitar concursos públicos",
+      "Presupuesto prorrogado de 2023 aplicado en 2026 (desactualización fiscal)",
+      "Justificación de excepcionalidad genérica y poco probada",
+      "Financiación de gastos de gestión y estructuras burocráticas (fortalecimiento institucional)",
+      "Conceptos vagos como 'sensibilización' y 'diálogo' que dificultan la auditoría de impacto"
+    ]
+  },
+  "tweeted": false
+}
