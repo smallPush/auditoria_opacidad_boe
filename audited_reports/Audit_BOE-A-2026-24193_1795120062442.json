@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24193",
+  "timestamp": "2026-11-19T20:27:42.442Z",
+  "title": "Orden EFD/1236/2026, de 6 de noviembre, por la que, a propuesta del Departamento de Educación de la Comunidad Foral de Navarra, se nombran funcionarias de carrera del Cuerpo de Maestros, a aspirantes seleccionadas en el procedimiento selectivo convocado por Resolución 286/2023, de 27 de octubre.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "El documento detalla el nombramiento de funcionarias de carrera tras un proceso selectivo iniciado en 2023. Aunque los datos individuales (puntuación, DNI parcial, especialidad) son públicos, destaca la lentitud administrativa: un proceso convocado en 2023 se resuelve definitivamente a finales de 2026 con efectos retroactivos a 2025. El uso de términos como 'otras causas' para justificar el retraso en la evaluación de la fase de prácticas mantiene una opacidad técnica sobre la gestión de recursos humanos.",
+    "resumen_ciudadano": "Se oficializa el nombramiento como funcionarias fijas de siete maestras en Navarra (especialidades de Infantil, Primaria y Pedagogía Terapéutica) que tenían pendiente su fase de prácticas desde la convocatoria de 2023. Sus derechos como funcionarias cuentan desde el 1 de septiembre de 2025.",
+    "resumen_tweet": "🐌 Tres años para consolidar una plaza docente. El #BOE publica hoy nombramientos de maestras en Navarra de la convocatoria de 2023. Estabilidad laboral con retraso administrativo. #Educación #Navarra #Oposiciones #Transparencia",
+    "banderas_red_flags": [
+      "Dilación administrativa extrema (2023-2026)",
+      "Ambigüedad en 'otras causas' para el aplazamiento de prácticas",
+      "Efectos retroactivos que complican la fiscalización de nóminas pasadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Las 7 docentes nombradas (obtienen estabilidad laboral de por vida)",
+        "Sistema educativo navarro (consolidación de plantillas)"
+      ],
+      "perdedores": [
+        "Interinos desplazados por estas plazas fijas",
+        "Agilidad administrativa (proceso de 3 años de duración)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Nombramientos de funcionarios",
+    "banderas_rojas": [
+      "Dilación administrativa extrema (2023-2026)",
+      "Ambigüedad en 'otras causas' para el aplazamiento de prácticas",
+      "Efectos retroactivos que complican la fiscalización de nóminas pasadas"
+    ]
+  },
+  "tweeted": false
+}
