@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24195",
+  "timestamp": "2026-11-19T07:12:40.144Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre y promoción interna, del Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "La resolución oficializa el nombramiento de una élite técnica (Cuerpo Superior TIC) tras dos años de proceso selectivo. Si bien el documento es transparente en nombres y retribuciones técnicas, destaca una centralización geográfica extrema: la gran mayoría de los puestos de alta responsabilidad se concentran en Madrid, perpetuando la brecha con la España periférica. No se detectan 'gastos fantasma' directos, pero sí una consolidación de gasto estructural fijo con complementos específicos de 13.829,34€ por cabeza, sin métricas de rendimiento asociadas.",
+    "resumen_ciudadano": "El Gobierno nombra formalmente a los nuevos funcionarios de carrera especializados en informática y sistemas. Estos profesionales, con nivel 26 (uno de los más altos en la administración), se encargarán de la digitalización del Estado en ministerios como Defensa, Hacienda y Seguridad Social, principalmente desde oficinas en Madrid.",
+    "resumen_tweet": "🚀 Nueva élite digital en el Estado: El #BOE publica los nombramientos del Cuerpo Superior de Sistemas. Puestos nivel 26 con complementos de 13.820€. ⚠️ Ojo: 90% de las plazas se quedan en Madrid. ¿Digitalización descentralizada? 💻🏢 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Macrocefalia administrativa: Concentración casi total de talento y gasto en la capital",
+      "Rigidez salarial: Complementos específicos idénticos independientemente de la carga de trabajo real del ministerio",
+      "Dilación temporal: El proceso se inició en 2024 para culminar en 2026"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "28 nuevos funcionarios de carrera con sueldo garantizado",
+        "Madrid (concentra el poder de decisión tecnológico)",
+        "Agencia Española de Supervisión de Inteligencia Artificial (A Coruña)"
+      ],
+      "perdedores": [
+        "Candidatos descartados en el proceso de dos años",
+        "Administración periférica (falta de técnicos de alto nivel fuera de la capital)",
+        "Contribuyente (aumento de la masa salarial estructural sin revisión por objetivos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal / Madrid",
+    "tipologia": "Nombramientos de Función Pública",
+    "banderas_rojas": [
+      "Macrocefalia administrativa: Concentración casi total de talento y gasto en la capital",
+      "Rigidez salarial: Complementos específicos idénticos independientemente de la carga de trabajo real del ministerio",
+      "Dilación temporal: El proceso se inició en 2024 para culminar en 2026"
+    ]
+  },
+  "tweeted": false
+}
