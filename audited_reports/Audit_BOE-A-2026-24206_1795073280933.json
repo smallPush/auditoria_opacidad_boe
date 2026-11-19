@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-24206",
+  "timestamp": "2026-11-19T07:28:00.933Z",
+  "title": "Resolución de 9 de noviembre de 2026, de la Universidad de La Laguna, por la que se nombran Profesoras Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un nombramiento rutinario de funcionarias de carrera bajo la nueva Ley Orgánica del Sistema Universitario (LOSU). El texto presenta una 'opacidad estructural' común: se omiten las retribuciones asociadas y el impacto presupuestario a largo plazo de estas plazas vitalicias. Ideológicamente, se observa una consolidación de la autonomía universitaria, pero sin rendición de cuentas inmediata sobre los méritos específicos que llevaron a estas candidatas por encima de otros aspirantes, derivando el detalle a resoluciones previas menos accesibles.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha nombrado formalmente a dos nuevas profesoras titulares en las áreas de Filología Inglesa y Música. Aunque el proceso es legalmente correcto, el ciudadano no puede conocer a través de este documento cuánto costarán estas plazas al erario público ni los detalles de la competición por dichos puestos.",
+    "resumen_tweet": "🎓 Nueva resolución en la ULL: nombramiento de profesoras titulares. Aunque hay paridad, persiste la opacidad sobre el coste real a largo plazo para las arcas públicas y el detalle de méritos. 💸 #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste salarial y seguridad social",
+      "Remisión a resoluciones previas para consultar méritos (dificulta el escrutinio)",
+      "Falta de mención al impacto de género en el departamento específico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana Candelaria Díaz Galán (estabilidad laboral)",
+        "Almudena González Brito (plaza fija)",
+        "Universidad de La Laguna (consolidación de plantilla docente)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocimiento del gasto estructural)",
+        "Candidatos externos (opacidad en la baremación pública directa)"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramiento de Personal Funcionario / Educación Superior",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste salarial y seguridad social",
+      "Remisión a resoluciones previas para consultar méritos (dificulta el escrutinio)",
+      "Falta de mención al impacto de género en el departamento específico"
+    ]
+  },
+  "tweeted": false
+}
