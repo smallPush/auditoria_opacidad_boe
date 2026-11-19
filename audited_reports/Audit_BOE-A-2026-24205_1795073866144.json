@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-24205",
+  "timestamp": "2026-11-19T07:37:46.144Z",
+  "title": "Resolución de 9 de noviembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Asier López Eiguren.",
+  "report": {
+    "nivel_transparencia": 9,
+    "analisis_critico": "El documento refleja un procedimiento administrativo estándar para el nombramiento de funcionarios de carrera en el ámbito universitario. Se ajusta a la Ley Orgánica 2/2023 (LOSU). No se detectan gastos fantasma directos, aunque el nombramiento conlleva una obligación presupuestaria plurianual inherente a la condición de funcionario. Es notable la ausencia de una perspectiva de clase o género en la selección de áreas de conocimiento, manteniendo la inercia de perfiles tradicionales en ciencias puras.",
+    "resumen_ciudadano": "La Universidad del País Vasco (UPV/EHU) ha oficializado el nombramiento de un nuevo Profesor Titular en el área de Física Teórica tras el concurso público correspondiente. El nuevo docente tendrá dedicación completa y perfil bilingüe en la Facultad de Ciencia y Tecnología.",
+    "resumen_tweet": "⚖️ Nueva plaza fija en la Universidad del País Vasco: Asier López Eiguren nombrado Profesor Titular de Física Teórica. Proceso reglado bajo la LOSU, sin anomalías, pero manteniendo el sesgo de género en áreas STEM. 🧬🔬 #BOE #Transparencia #UPV",
+    "banderas_red_flags": [
+      "Firma por delegación (P.D.) del Vicerrector en lugar del Rectorado",
+      "Consolidación de gasto público estructural de larga duración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asier López Eiguren (obtiene plaza vitalicia)",
+        "UPV/EHU (estabilización de personal docente)"
+      ],
+      "perdedores": [
+        "Aspirantes descartados en el concurso de acceso",
+        "Equidad de género (el nombramiento refuerza la mayoría masculina en Física Teórica)"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Firma por delegación (P.D.) del Vicerrector en lugar del Rectorado",
+      "Consolidación de gasto público estructural de larga duración"
+    ]
+  },
+  "tweeted": false
+}
