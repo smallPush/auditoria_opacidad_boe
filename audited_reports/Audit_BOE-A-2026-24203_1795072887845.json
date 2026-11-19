@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24203",
+  "timestamp": "2026-11-19T07:21:27.845Z",
+  "title": "Resolución de 6 de noviembre de 2026, la Universitat de València, por la que se nombran Catedráticas y Catedráticos de Universidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolucion presenta una opacidad presupuestaria tipica de los nombramientos funcionariales, omitiendo el impacto economico a largo plazo de las plazas vitalicias. Se detecta una falta de paridad absoluta: tres hombres nombrados y ninguna mujer, lo que refuerza el techo de cristal en la cuspide academica (Catedráticos). La plaza desierta en Bioquimica sugiere o bien una excesiva rigidez en los criterios de seleccion o una fuga de talento en areas cientificas criticas.",
+    "resumen_ciudadano": "La Universitat de València formaliza el nombramiento de tres catedraticos en las areas de Quimica, Derecho e Informatica. No se ha logrado cubrir la plaza de Bioquimica, que queda vacante.",
+    "resumen_tweet": "⚠️ Techo de cristal en la Universidad: 3 plazas de catedratico, 3 hombres nombrados. 📉 Bioquimica se queda sin lider. ¿Donde queda el compromiso con la paridad y el talento cientifico? #BOE #Opacidad #Transparencia #Universidad #Igualdad",
+    "banderas_red_flags": [
+      "Ausencia total de mujeres en los nombramientos",
+      "Plaza vacante en area de alta demanda (Bioquimica)",
+      "Falta de informacion sobre el coste salarial de las plazas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Carlos Vila Descals",
+        "Jose Manuel Sanchez Patron",
+        "Vicente Arnau Llombart",
+        "Cuerpo de funcionarios de elite"
+      ],
+      "perdedores": [
+        "Igualdad de genero en la academia",
+        "Investigacion en Bioquimica y Biologia Molecular",
+        "Contribuyente (por falta de transparencia en costes)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia total de mujeres en los nombramientos",
+      "Plaza vacante en area de alta demanda (Bioquimica)",
+      "Falta de informacion sobre el coste salarial de las plazas"
+    ]
+  },
+  "tweeted": false
+}
