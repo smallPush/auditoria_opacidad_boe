@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24294",
+  "timestamp": "2026-11-20T19:59:14.238Z",
+  "title": "Resolución de 18 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 33/2026, de 10 de noviembre, por el que se adoptan medidas urgentes en respuesta a los daños causados por las inundaciones y otros sucesos acaecidos entre los días 17 y 19 de octubre de 2026, como consecuencia de la Depresión Aislada en Niveles Altos (DANA), denominada Adam.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "La convalidación de este Real Decreto-ley bajo el paraguas de la 'extrema y urgente necesidad' (Art. 86.2 CE) permite al Ejecutivo eludir el control parlamentario previo sobre partidas masivas de gasto. El análisis detecta una alta dependencia de 'Créditos Extraordinarios y Suplementarios', terminología que suele ocultar la falta de una planificación presupuestaria real, moviendo fondos hacia entes como las Cámaras de Comercio cuya fiscalización ciudadana es deficiente. Las medidas fiscales en IRPF e Impuesto sobre Sociedades son herramientas de doble filo: aunque alivian la carga, tienden a beneficiar más a quienes poseen activos preexistentes de mayor valor, dejando a los arrendatarios o trabajadores precarios con ayudas directas de ejecución más lenta y compleja.",
+    "resumen_ciudadano": "El Congreso ratifica el plan de ayudas por la inundación DANA 'Adam' (octubre 2026). Incluye exenciones de impuestos (IBI, IRPF, Sociedades), ayudas directas a la agricultura, hostelería y comercio, y financiación para reparar infraestructuras. Se centra geográficamente en la Comunidad Valenciana y moviliza al Consorcio de Compensación de Seguros.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Convalidado el plan de ayudas por la DANA Adam. Ojo a los 'créditos extraordinarios' y la gestión vía Cámaras de Comercio. ¿Ayuda real o laberinto burocrático? 🔎📉 #Opacidad #Transparencia #DANAAdam #ComunidadValenciana",
+    "banderas_red_flags": [
+      "Uso sistemático de créditos extraordinarios sin desglose de beneficiario final",
+      "Opacidad en los criterios de reparto a través de las Cámaras de Comercio",
+      "Beneficios fiscales aplicables a Impuesto sobre el Patrimonio (sesgo de clase alta)",
+      "Procedimiento de urgencia que limita el debate de enmiendas ciudadanas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consorcio de Compensación de Seguros",
+        "Grandes explotaciones agrarias",
+        "Cámaras de Comercio e Industria",
+        "Empresas de obras públicas e ingeniería hidráulica"
+      ],
+      "perdedores": [
+        "Pequeños inquilinos sin propiedad raíz",
+        "Autónomos sin capacidad de gestión burocrática",
+        "Sostenibilidad de las arcas públicas por falta de auditoría en tiempo real"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Resolución de Convalidación de Medidas de Emergencia",
+    "banderas_rojas": [
+      "Uso sistemático de créditos extraordinarios sin desglose de beneficiario final",
+      "Opacidad en los criterios de reparto a través de las Cámaras de Comercio",
+      "Beneficios fiscales aplicables a Impuesto sobre el Patrimonio (sesgo de clase alta)",
+      "Procedimiento de urgencia que limita el debate de enmiendas ciudadanas"
+    ]
+  },
+  "tweeted": false
+}
