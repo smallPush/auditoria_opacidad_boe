@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24299",
+  "timestamp": "2026-11-20T07:00:44.853Z",
+  "title": "Real Decreto 1003/2026, de 18 de noviembre, por el que se aprueba el Estatuto de la Agencia Estatal de Salud Pública.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Estatuto de la AESAP intenta blindar la independencia técnica separando la 'evaluación del riesgo' de la 'gestión política'. Sin embargo, la disposición adicional cuarta punto cinco abre la puerta a 'gastos fantasma' mediante incentivos discrecionales para el traslado de personal a una sede cuya ubicación no se explicita en el texto. Existe una contradicción entre la autonomía de la agencia y su absoluta dependencia tecnológica del Ministerio de Sanidad (DA 5), lo que podría comprometer la agilidad en crisis. La estructura administrativa es pesada, con múltiples órganos colegiados que podrían diluir responsabilidades en lugar de agilizarlas.",
+    "resumen_ciudadano": "Se formaliza la estructura de la nueva Agencia Estatal de Salud Pública (AESAP), que hereda las funciones de vigilancia del Centro de Coordinación de Alertas y Emergencias Sanitarias (CCAES). Su función es detectar y responder a crisis sanitarias de forma técnica y científica, independiente de las decisiones políticas del Ministerio de Sanidad, aunque seguirá dependiendo de este para sus servicios informáticos y presupuesto.",
+    "resumen_tweet": "🚨 Nueva Agencia de Salud Pública (AESAP) en el #BOE. Promete ciencia independiente, pero incluye 'incentivos' de traslado opacos 💸 y dependencia digital del Ministerio. ¿Transparencia real o nueva capa burocrática? 🏛️💉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Incentivos económicos para traslado de personal no cuantificados",
+      "Subrogación de contratos y convenios previos sin auditoría detallada",
+      "Dependencia tecnológica externa (Ministerio de Sanidad) que limita la autonomía operativa",
+      "Omisión de la sede física de la Agencia en el texto estatutario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altas escalas del funcionariado técnico-sanitario",
+        "Ministerio de Sanidad (mantiene control digital y político)",
+        "Redes de investigación internacionales"
+      ],
+      "perdedores": [
+        "Contribuyentes (por duplicidad de estructuras y costes de traslado)",
+        "Instituto de Salud Carlos III (pierde competencias de vigilancia)",
+        "Soberanía de las Comunidades Autónomas en la vigilancia local"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estatuto Orgánico de Organismo Público",
+    "banderas_rojas": [
+      "Incentivos económicos para traslado de personal no cuantificados",
+      "Subrogación de contratos y convenios previos sin auditoría detallada",
+      "Dependencia tecnológica externa (Ministerio de Sanidad) que limita la autonomía operativa",
+      "Omisión de la sede física de la Agencia en el texto estatutario"
+    ]
+  },
+  "tweeted": false
+}
