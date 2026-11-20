@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24308",
+  "timestamp": "2026-11-20T07:20:33.823Z",
+  "title": "Real Decreto 1018/2026, de 18 de noviembre, por el que se modifica el Real Decreto 197/2017, de 3 de marzo, por el que se establece el Programa nacional de control y erradicación de Tecia (Scrobipalpopsis) solanivora (Povolny).",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto 1018/2026 introduce una modificación crítica en la gestión de plagas: la eliminación de plazos temporales. Al modificar el artículo 19, el programa de control de la polilla guatemalteca pasa de tener una duración definida a una vigencia indefinida 'hasta la completa erradicación'. Si bien esto responde a una necesidad biológica, desde la perspectiva de la fiscalización supone un 'gasto fantasma' potencial al no establecer hitos de revisión presupuestaria ni memorias económicas que limiten el gasto público en el tiempo. La norma se autoproclama 'eficiente' y 'sin cargas', pero perpetúa una estructura administrativa de control sin fecha de caducidad.",
+    "resumen_ciudadano": "El Gobierno ha decidido que el plan de lucha contra la polilla de la patata ya no tendrá una fecha de finalización prevista. Ahora, las medidas de control y los fondos asociados se mantendrán activos por tiempo ilimitado hasta que la plaga desaparezca por completo. Esto afecta directamente a los agricultores, que seguirán bajo restricciones fitosanitarias de forma indefinida.",
+    "resumen_tweet": "⚠️ El Gobierno hace indefinido el programa contra la polilla de la patata. ¿Control necesario o gasto sin fin? Sin plazos de evaluación, la lucha fitosanitaria se vuelve perpetua. 🥔🚫 #BOE #Opacidad #Agricultura #Transparencia",
+    "banderas_red_flags": [
+      "Vigencia temporal indeterminada",
+      "Ausencia de desglose presupuestario en la modificación",
+      "Cláusula de 'erradicación completa' como condición ambigua para el cese de fondos",
+      "Falta de mecanismos de rendición de cuentas intermedios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estructuras administrativas (continuidad institucional)",
+        "Grandes empresas de sanidad vegetal",
+        "Grandes distribuidores (garantía de mercado libre de plagas)"
+      ],
+      "perdedores": [
+        "Pequeños agricultores (restricciones prolongadas)",
+        "Contribuyentes (compromiso de gasto sin fecha de cierre)",
+        "Transparencia presupuestaria (cheque en blanco operativo)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional",
+    "tipologia": "Sanidad Vegetal",
+    "banderas_rojas": [
+      "Vigencia temporal indeterminada",
+      "Ausencia de desglose presupuestario en la modificación",
+      "Cláusula de 'erradicación completa' como condición ambigua para el cese de fondos",
+      "Falta de mecanismos de rendición de cuentas intermedios"
+    ]
+  },
+  "tweeted": false
+}
