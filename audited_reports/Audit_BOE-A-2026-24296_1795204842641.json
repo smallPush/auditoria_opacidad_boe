@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24296",
+  "timestamp": "2026-11-20T20:00:42.641Z",
+  "title": "Resolución de 18 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 35/2026, de 10 de noviembre, de medidas urgentes para el reconocimiento y protección a las familias monoparentales y otras medidas de apoyo a familias.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución convalida el RDL 35/2026 utilizando el procedimiento de urgencia, lo que evita un debate parlamentario exhaustivo sobre reformas que afectan estructuralmente a la Seguridad Social y los Presupuestos Generales. El uso de la 'Diputación Permanente' sugiere una aprobación en periodo no ordinario, limitando la capacidad de enmienda de la oposición. Aunque el título apela a la protección social, los metadatos vinculan la norma con 'Fondos de dinero' y 'Presupuestos Generales del Estado', lo que indica una movilización de recursos cuya fiscalización inmediata es compleja bajo este formato legislativo.",
+    "resumen_ciudadano": "El Congreso ha dado luz verde definitiva a nuevas ayudas y protecciones para familias monoparentales, incluyendo beneficios en transporte público y asistencia social. Sin embargo, al hacerse mediante Real Decreto-ley, se prioriza la rapidez sobre la transparencia en el origen y destino exacto de las partidas presupuestarias utilizadas.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Convalidada la ley de familias monoparentales por vía de urgencia 🏃💨. Se movilizan fondos públicos bajo un paraguas de 'necesidad social' pero con escasa fiscalización parlamentaria. ¿Derechos o estrategia? 🧐🏛️ #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Uso de Real Decreto-ley para reformas de calado estructural",
+      "Aprobación por la Diputación Permanente restringiendo el debate plural",
+      "Vinculación a fondos presupuestarios no detallados en el cuerpo de la resolución",
+      "Ambigüedad en el concepto de 'otras medidas de apoyo a familias'"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Familias monoparentales (nuevos derechos)",
+        "Sector del transporte público (subvenciones)",
+        "Ministerio de Inclusión y Seguridad Social (ejecución de fondos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (opacidad en el coste real)",
+        "Familias con modelos tradicionales o compartidos no incluidos",
+        "Calidad democrática del proceso legislativo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convalidación Legislativa",
+    "banderas_rojas": [
+      "Uso de Real Decreto-ley para reformas de calado estructural",
+      "Aprobación por la Diputación Permanente restringiendo el debate plural",
+      "Vinculación a fondos presupuestarios no detallados en el cuerpo de la resolución",
+      "Ambigüedad en el concepto de 'otras medidas de apoyo a familias'"
+    ]
+  },
+  "tweeted": false
+}
