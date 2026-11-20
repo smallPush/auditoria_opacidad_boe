@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24307",
+  "timestamp": "2026-11-20T07:10:21.905Z",
+  "title": "Real Decreto 1017/2026, de 18 de noviembre, por el que se regula el acceso y la gestión de los recursos pesqueros.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 1017/2026 consolida la gestión de las cuotas pesqueras bajo un marco de 'optimización' que otorga una discrecionalidad técnica considerable a la Secretaría General de Pesca. Aunque se invoca la sostenibilidad, la norma facilita la mercantilización de los derechos de pesca mediante transmisiones temporales y definitivas, lo que históricamente favorece la concentración de cuotas en grandes armadores en detrimento de la pesca artesanal. La obligatoriedad de trámites 100% electrónicos ignora la brecha digital en un sector envejecido.",
+    "resumen_ciudadano": "Esta norma regula quién puede pescar, cuánto y cómo se pueden vender o prestar los derechos de captura en España. Establece que si un barco deja de operar por dos años, pierde sus derechos en favor del Estado y obliga a todos los pescadores a relacionarse con el Gobierno exclusivamente de forma digital.",
+    "resumen_tweet": "🚨 El nuevo RD de Pesca centraliza el control de cuotas y acelera la digitalización forzosa del sector. Ojo con la pérdida de derechos tras 2 años de inactividad y la posible concentración de capturas en grandes flotas. 🎣📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso discrecional de 'reservas de posibilidades' por parte de la Administración.",
+      "Exclusión del mercado de derechos tras solo 2 años en situación de baja provisional.",
+      "Barrera de entrada digital para pescadores tradicionales sin infraestructura tecnológica.",
+      "Falta de detalle en los criterios de 'función social' frente al rendimiento económico."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes Organizaciones de Productores Pesqueros (OPP) con capacidad administrativa",
+        "Empresas de gestión digital de flotas",
+        "Administración Central (mayor control y recuperación de activos/cuotas)"
+      ],
+      "perdedores": [
+        "Pescadores artesanales con baja formación digital",
+        "Pequeños armadores en dificultades técnicas que superen los 2 años de inactividad",
+        "Comunidades locales dependientes de barcos con baja rentabilidad inmediata"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Gestión de Recursos Naturales y Pesca",
+    "banderas_rojas": [
+      "Uso discrecional de 'reservas de posibilidades' por parte de la Administración.",
+      "Exclusión del mercado de derechos tras solo 2 años en situación de baja provisional.",
+      "Barrera de entrada digital para pescadores tradicionales sin infraestructura tecnológica.",
+      "Falta de detalle en los criterios de 'función social' frente al rendimiento económico."
+    ]
+  },
+  "tweeted": false
+}
