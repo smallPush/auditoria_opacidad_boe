@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24293",
+  "timestamp": "2026-11-20T06:55:33.525Z",
+  "title": "Resolución de 18 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 32/2026, de 3 de noviembre, de ayudas a las víctimas del accidente ferroviario de Urda (Toledo) y por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La convalidación de este Real Decreto-ley muestra un patrón de legislación 'ómnibus' donde se mezcla una respuesta legítima a una tragedia ferroviaria con la creación de marcos regulatorios vagos sobre la 'accesibilidad equitativa a bienes'. Este lenguaje permite una intervención discrecional en el mercado bajo el pretexto de emergencias, sin especificar criterios técnicos ni controles parlamentarios adicionales sobre el gasto derivado de dicha accesibilidad.",
+    "resumen_ciudadano": "El Congreso aprueba ayudas para las víctimas del accidente de Urda, pero aprovecha para otorgar poderes al Ejecutivo para gestionar bienes y servicios en cualquier 'emergencia' futura, usando un lenguaje que dificulta saber cuánto dinero se gastará y bajo qué reglas exactas.",
+    "resumen_tweet": "🚨 El Congreso usa la tragedia de Urda para colar normativa ambigua sobre control de bienes en emergencias. ¿Ayuda necesaria o cheque en blanco al Ejecutivo? 🧐 La transparencia no debe ser víctima de la urgencia. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Conceptos jurídicos indeterminados (accesibilidad equitativa)",
+      "Aprovechamiento de situaciones críticas para cambios normativos estructurales",
+      "Falta de desglose preventivo de los gastos fantasma en gestión de emergencias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Víctimas directas (ayudas urgentes)",
+        "Poder Ejecutivo (mayor rango de maniobra en crisis)"
+      ],
+      "perdedores": [
+        "Rigor legislativo (trámite de urgencia)",
+        "Sector privado (incertidumbre sobre el acceso a servicios)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Resolución de Emergencia",
+    "banderas_rojas": [
+      "Conceptos jurídicos indeterminados (accesibilidad equitativa)",
+      "Aprovechamiento de situaciones críticas para cambios normativos estructurales",
+      "Falta de desglose preventivo de los gastos fantasma en gestión de emergencias"
+    ]
+  },
+  "tweeted": false
+}
