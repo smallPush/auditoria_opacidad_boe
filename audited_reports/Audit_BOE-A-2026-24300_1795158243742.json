@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24300",
+  "timestamp": "2026-11-20T07:04:03.742Z",
+  "title": "Real Decreto 1004/2026, de 18 de noviembre, por el que se modifica el Real Decreto 988/2022, de 29 de noviembre, por el que se regula el Registro General de las Mejores Técnicas Disponibles en Explotaciones y el soporte para el cálculo, seguimiento y notificación de las emisiones en ganadería, y se modifican diversas normas en materia agraria.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1004/2026 supone un endurecimiento de las obligaciones administrativas para el sector ganadero. Bajo el pretexto de 'mejorar la calidad de la información', se elimina la excepción de no declarar si no hay cambios, obligando a todos los titulares a una comunicación anual sistemática. Esto contradice el principio de 'mínimas cargas administrativas' mencionado en el texto. La inclusión del sector bovino, que carece de una lista de Mejores Técnicas Disponibles (MTD) a nivel europeo, traslada la presión regulatoria de una resolución nacional directamente al ganadero con un régimen sancionador actualizado y más estricto vinculado a la PAC.",
+    "resumen_ciudadano": "A partir de ahora, todas las granjas (incluyendo las de vacas, que antes estaban exentas de este registro específico) deben informar anualmente al Gobierno sobre sus técnicas de reducción de emisiones y gestión de estiércol antes del 1 de marzo. Ya no basta con informar solo cuando hay cambios; la declaración pasa a ser obligatoria cada año. El incumplimiento de estos trámites burocráticos conlleva sanciones económicas vinculadas a la normativa de la PAC y de calidad del aire.",
+    "resumen_tweet": "🚜 Más burocracia para el campo: el #BOE obliga a ganaderos (ahora también de vacuno) a declarar sus técnicas de emisión cada año, aunque no haya cambios. ¿Eficiencia o control asfixiante? 📉 #Opacidad #Ganadería #Transparencia #PAC",
+    "banderas_red_flags": [
+      "Aumento de la carga administrativa sin cambio sustancial en la actividad",
+      "Obligatoriedad de declaración anual incluso sin modificaciones técnicas",
+      "Vínculo directo de errores de notificación con sanciones de la PAC",
+      "Asimetría regulatoria: sector bovino regulado nacionalmente sin marco previo UE"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Pública (obtención de datos masivos sin coste de campo)",
+        "Empresas de consultoría y gestión agraria (aumento de demanda de servicios burocráticos)",
+        "Ministerio para la Transición Ecológica"
+      ],
+      "perdedores": [
+        "Pequeños ganaderos de vacuno (nuevas obligaciones y costes de gestión)",
+        "Sector porcino y avícola (pérdida de la exención de declarar solo cambios)",
+        "Autónomos agrarios con menos recursos digitales"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Normativa Agraria y Medioambiental",
+    "banderas_rojas": [
+      "Aumento de la carga administrativa sin cambio sustancial en la actividad",
+      "Obligatoriedad de declaración anual incluso sin modificaciones técnicas",
+      "Vínculo directo de errores de notificación con sanciones de la PAC",
+      "Asimetría regulatoria: sector bovino regulado nacionalmente sin marco previo UE"
+    ]
+  },
+  "tweeted": false
+}
