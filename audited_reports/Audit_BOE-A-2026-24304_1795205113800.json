@@ -1,0 +1,42 @@
+{
+  "boe_id": "BOE-A-2026-24304",
+  "timestamp": "2026-11-20T20:05:13.800Z",
+  "title": "Real Decreto 1014/2026, de 18 de noviembre, por el que se establecen las normas reguladoras de la concesión directa de anticipos reembolsables en la forma de préstamos a varias empresas para el desarrollo tecnológico e industrial de varios programas especiales de modernización de múltiples capacidades para las Fuerzas Armadas.",
+  "report": {
+    "nivel_transparencia": 0.35,
+    "analisis_critico": "Este Real Decreto es un ejemplo paradigmático de la 'excepción de seguridad' utilizada para evitar la concurrencia competitiva. Bajo el amparo del artículo 346 del TFUE, el Estado adjudica de forma directa más de 6.400 millones de euros en 'anticipos reembolsables' a un oligopolio industrial predefinido (Indra, Airbus, GMV). La opacidad reside en la justificación de 'carácter singular' y en el uso de presupuestos prorrogados de 2023 para financiar programas de 2026. Se observa un riesgo de 'gastos fantasma' en el concepto de 'apoyo logístico integrado' (ILS) y 'evolución digital', términos vagos que permiten el drenaje de fondos hacia estructuras corporativas sin entregables civiles tangibles.",
+    "resumen_ciudadano": "El Gobierno ha aprobado la entrega de préstamos directos por valor de más de 6.400 millones de euros a grandes empresas de defensa (como Indra y Airbus) para modernizar armamento y sistemas militares. Estas ayudas se han dado 'a dedo', sin concurso público, argumentando razones de seguridad nacional. Aunque se llaman préstamos, funcionan como una prefinanciación masiva con dinero público para programas que incluyen helicópteros, el caza Eurofighter y sistemas de ciberseguridad.",
+    "resumen_tweet": "🚨 ¡6.400 MILLONES a dedo! El #BOE publica préstamos directos a gigantes armamentísticos (Airbus, Indra) esquivando la libre competencia. Bajo el escudo de 'seguridad nacional', se hipoteca el presupuesto con créditos opacos. 💸🛡️ #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Adjudicación directa sin concurso público",
+      "Uso sistemático de la excepción por seguridad nacional para evitar transparencia",
+      "Financiación plurianual basada en presupuestos prorrogados (2023 en 2026)",
+      "Conceptos de gasto ambiguos como 'Evolución Digital' y 'Soporte Logístico'",
+      "Concentración de capital en un grupo reducido de entidades beneficiarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Indra Sistemas y filiales",
+        "Airbus Defence and Space / Helicopters",
+        "Consorcio CEDIEF (Eurofighter)",
+        "GMV Aerospace",
+        "Escribano Mechanical & Engineering"
+      ],
+      "perdedores": [
+        "PYMES tecnológicas (excluidas por la adjudicación directa)",
+        "Contribuyentes (asunción de riesgo financiero por préstamos de largo plazo)",
+        "Inversión en servicios públicos civiles (coste de oportunidad frente al gasto militar)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Concesión Directa de Préstamos",
+    "banderas_rojas": [
+      "Adjudicación directa sin concurso público",
+      "Uso sistemático de la excepción por seguridad nacional para evitar transparencia",
+      "Financiación plurianual basada en presupuestos prorrogados (2023 en 2026)",
+      "Conceptos de gasto ambiguos como 'Evolución Digital' y 'Soporte Logístico'",
+      "Concentración de capital en un grupo reducido de entidades beneficiarias"
+    ]
+  },
+  "tweeted": false
+}
