@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24301",
+  "timestamp": "2026-11-20T20:02:22.750Z",
+  "title": "Real Decreto 1005/2026, de 18 de noviembre, por el que se regulan los términos y las condiciones de inclusión en el Régimen General de la Seguridad Social de los ministros de culto de la Iglesia Ortodoxa Rumana en España.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1005/2026 formaliza la inclusión de los clérigos ortodoxos rumanos en el sistema público, pero bajo un modelo de 'asimilación limitada'. Aunque se presenta como una medida de igualdad religiosa, introduce una distorsión en la protección social al excluir explícitamente el desempleo (Art. 4), tratando a estos ministros como trabajadores de segunda clase con obligaciones de primera. Lo más opaco reside en el Artículo 13, que establece la liquidación de un 'capital coste' para reconocer años de servicio previos. Este mecanismo financiero es altamente complejo y traslada la responsabilidad de financiar pensiones pasadas al propio individuo o a su entidad, ocultando el impacto real que tendrá en las arcas públicas a largo plazo frente a lo recaudado hoy.",
+    "resumen_ciudadano": "El Gobierno ha regulado cómo los sacerdotes de la Iglesia Ortodoxa Rumana en España pueden cotizar a la Seguridad Social para jubilarse. Se les permite 'comprar' años de cotización anteriores si pagan una cantidad de dinero calculada por el Estado. No obstante, a pesar de cotizar, no tendrán derecho a cobrar el paro si dejan de ejercer, y su iglesia será responsable de pagar su parte como si fuera una empresa.",
+    "resumen_tweet": "⛪️ El #BOE regula la jubilación de curas ortodoxos rumanos. Podrán 'comprar' años pasados, pero ¡ojo!: no tendrán derecho a paro y el cálculo de su pensión es un laberinto financiero. ¿Igualdad o parche recaudatorio? 🧐📉 #Opacidad #Transparencia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Exclusión selectiva de la protección por desempleo",
+      "Fórmula opaca para el cálculo del 'capital coste' de años previos",
+      "Incongruencia entre aportación obligatoria y protección social parcial",
+      "Asimilación forzada de una entidad religiosa a una estructura empresarial"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jerarquía de la Iglesia Ortodoxa Rumana (reconocimiento legal y estabilidad)",
+        "Tesorería de la Seguridad Social (entrada inmediata de liquidez por rescate de periodos pasados)"
+      ],
+      "perdedores": [
+        "Ministros de culto individuales (desprotegidos ante el desempleo)",
+        "Contribuyentes (asunción de riesgo por pensiones futuras)",
+        "Principio de Laicidad (se profundiza en el modelo de Seguridad Social segmentado por confesiones)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Inclusión en Seguridad Social",
+    "banderas_rojas": [
+      "Exclusión selectiva de la protección por desempleo",
+      "Fórmula opaca para el cálculo del 'capital coste' de años previos",
+      "Incongruencia entre aportación obligatoria y protección social parcial",
+      "Asimilación forzada de una entidad religiosa a una estructura empresarial"
+    ]
+  },
+  "tweeted": false
+}
