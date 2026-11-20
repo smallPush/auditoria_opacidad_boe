@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24302",
+  "timestamp": "2026-11-20T07:02:13.931Z",
+  "title": "Real Decreto 1006/2026, de 18 de noviembre, sobre el uso de los sistemas de limpieza de gases de escape de buques.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "El Real Decreto transpone la Decisión OSPAR 2025/01 con una técnica legislativa clara pero conservadora en tiempos. Aunque el texto justifica la medida por la toxicidad de metales pesados e hidrocarburos en los 'scrubbers', la entrada en vigor se demora hasta julio de 2027, otorgando un periodo de gracia de 1.5 años a la industria naviera para seguir vertiendo en aguas interiores. Existe una incongruencia de clase: mientras se endurece el control para buques civiles, el Artículo 2 excluye explícitamente a los buques de guerra y gubernamentales, permitiendo que el propio Estado sea el único exento de cumplir las normas de vertido que impone a los demás.",
+    "resumen_ciudadano": "Esta ley prohíbe que los barcos viertan al mar el agua contaminada resultante de limpiar sus gases de escape (humos de azufre) cuando estén en puertos o aguas costeras españolas. Se busca evitar la acidificación del agua y la acumulación de metales tóxicos en las zonas de baño y pesca. Sin embargo, la prohibición no será efectiva hasta el verano de 2027 y no se aplicará a los barcos de la Armada o buques oficiales del Estado.",
+    "resumen_tweet": "🚢🚫 El #BOE prohíbe los vertidos tóxicos de filtros de barcos ('scrubbers') en puertos, pero el cambio no llega hasta 2027. El Estado se auto-exime: los barcos militares podrán seguir contaminando. ¿Salud pública o privilegio? #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Exclusión de buques de guerra y gubernamentales de la normativa ambiental",
+      "Entrada en vigor diferida a largo plazo (julio 2027)",
+      "Ausencia de dotación presupuestaria específica para las nuevas labores de inspección",
+      "Riesgo de desplazamiento del vertido a aguas abiertas no protegidas por esta norma"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ecosistemas marinos litorales",
+        "Sector turístico de costa",
+        "Población residente en ciudades portuarias",
+        "Fabricantes de combustibles de bajo contenido en azufre"
+      ],
+      "perdedores": [
+        "Navieras de buques civiles (aumento de costes operativos)",
+        "Operadores de sistemas de ciclo abierto",
+        "Administración Marítima (mayor carga de inspección sin nuevos recursos)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional (con impacto en CCAA litorales)",
+    "tipologia": "Regulación Medioambiental y Marina Mercante",
+    "banderas_rojas": [
+      "Exclusión de buques de guerra y gubernamentales de la normativa ambiental",
+      "Entrada en vigor diferida a largo plazo (julio 2027)",
+      "Ausencia de dotación presupuestaria específica para las nuevas labores de inspección",
+      "Riesgo de desplazamiento del vertido a aguas abiertas no protegidas por esta norma"
+    ]
+  },
+  "tweeted": false
+}
