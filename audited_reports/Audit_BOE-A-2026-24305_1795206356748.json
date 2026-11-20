@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24305",
+  "timestamp": "2026-11-20T20:25:56.748Z",
+  "title": "Real Decreto 1015/2026, de 18 de noviembre, por el que se modifica el Real Decreto 1008/2022, de 5 de diciembre, por el que se establecen las normas reguladoras de la concesión directa de un préstamo a la empresa Airbus Defence and Space, S.A.U., para el programa Euromale RPAS.",
+  "report": {
+    "nivel_transparencia": 3.5,
+    "analisis_critico": "El Real Decreto 1015/2026 representa un caso de 'captura del regulador' donde la empresa beneficiaria (Airbus) solicita y obtiene una modificación del calendario de pagos a su conveniencia. Se otorga un préstamo de 1.429 millones de euros al 0% de interés y 'sin exigencia de garantías', lo que constituye una subvención encubierta masiva al sector militar bajo la apariencia de apoyo tecnológico. La utilización de la 'tramitación urgente' y el desplazamiento de detalles cruciales (como el calendario de amortización) a órdenes ministeriales reduce drásticamente el control parlamentario y ciudadano sobre una de las mayores partidas de gasto del Estado.",
+    "resumen_ciudadano": "El Gobierno ha modificado un megacontrato de 1.429 millones de euros para que Airbus fabrique drones militares (Euromale). El dinero se entrega como préstamo al 0% de interés, lo que significa que el Estado no gana nada por prestarlo. La empresa pidió cambiar los plazos porque no cumplía el ritmo previsto, y el Estado ha aceptado de forma urgente, permitiendo que los detalles de la devolución se decidan fuera del control directo de la ley.",
+    "resumen_tweet": "🚩 ¡Alerta! El Gobierno da 1.429M€ a Airbus para drones militares al 0% de interés y sin garantías. Se modifica el plan 'por urgencia' a petición de la empresa. Menos control, más gasto militar opaco. 💸🛡️ #BOE #Opacidad #Transparencia #GastoMilitar",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Tipo de interés del 0% fijo (subvención implícita)",
+      "Ausencia explícita de garantías financieras exigidas",
+      "Tramitación de urgencia solicitada por la propia empresa beneficiaria",
+      "Remisión de detalles de amortización a órdenes ministeriales de menor rango legislativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Airbus Defence and Space S.A.U.",
+        "Consorcios industriales de Alemania, Francia e Italia",
+        "Industria del armamento de alta tecnología"
+      ],
+      "perdedores": [
+        "Contribuyentes (asumen el riesgo y el coste de oportunidad del capital)",
+        "Pymes (excluidas de condiciones de financiación tan ventajosas)",
+        "Sectores sociales (el gasto militar detrae recursos de servicios públicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación de Préstamo Industrial-Militar",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Tipo de interés del 0% fijo (subvención implícita)",
+      "Ausencia explícita de garantías financieras exigidas",
+      "Tramitación de urgencia solicitada por la propia empresa beneficiaria",
+      "Remisión de detalles de amortización a órdenes ministeriales de menor rango legislativo"
+    ]
+  },
+  "tweeted": false
+}
