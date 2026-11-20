@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24309",
+  "timestamp": "2026-11-20T20:34:04.327Z",
+  "title": "Real Decreto 1019/2026, de 18 de noviembre, por el que se modifica el Real Decreto 267/2017, de 17 de marzo, por el que se desarrolla la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico, en relación con el reconocimiento de las agrupaciones de productores.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El Real Decreto utiliza la armonización con el Reglamento (UE) 2024/1143 como 'caballo de Troya' para blindar el poder de las corporaciones de derecho público (Consejos Reguladores) y realizar ajustes presupuestarios ajenos al objeto principal. Se detecta una 'técnica legislativa de parcheo' donde se aprovecha la norma para prorrogar el etiquetado de leche hasta 2029 y, lo más alarmante, conceder una subvención directa de 150.000 euros a la Fundación Grupo Cajamar para un foro tecnológico, eludiendo la concurrencia competitiva bajo la apariencia de una corrección de errores materiales.",
+    "resumen_ciudadano": "Esta norma adapta las reglas de las Denominaciones de Origen (DOP) e Indicaciones Geográficas (IGP) a la normativa europea. Sin embargo, impone por ley que todos los productores paguen obligatoriamente a estas agrupaciones. Además, el texto incluye 'regalos' presupuestarios de última hora, como 150.000€ para una fundación bancaria y la extensión de las normas de etiquetado de leche, mezclando temas que deberían tratarse por separado para mayor claridad.",
+    "resumen_tweet": "⚠️ El #BOE de hoy: Bajo el pretexto de armonizar normas 🇪🇺, se imponen cuotas obligatorias a agricultores y se 'cuela' una subvención directa de 150k€ a la Fundación Cajamar. ¿Transparencia o dedazo? 💸 #Opacidad #Transparencia #Agricultura",
+    "banderas_red_flags": [
+      "Subvención directa a dedo sin concurrencia competitiva",
+      "Legislación ómnibus (mezcla temas de vino, leche y riego en una sola norma)",
+      "Imposición de contribuciones financieras obligatorias a operadores",
+      "Uso de la 'fe de erratas' para modificar cuantías y beneficiarios de ayudas",
+      "Aplicación supletoria estatal que invade competencias autonómicas silenciosamente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejos Reguladores (obtienen estatus de 'agrupación reconocida' y exclusividad de funciones)",
+        "Fundación Grupo Cajamar (recibe 150.000€ directos)",
+        "Grandes estructuras de producción (controlan el umbral del 50%)"
+      ],
+      "perdedores": [
+        "Pequeños productores independientes (obligados a financiar entidades aunque no participen en su gestión)",
+        "Comunidades Autónomas (pierden soberanía normativa por la aplicación supletoria)",
+        "Contribuyentes (por el uso de subvenciones directas a entidades privadas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (Ámbito supraautonómico)",
+    "tipologia": "Real Decreto de modificación normativa y concesión de subvenciones",
+    "banderas_rojas": [
+      "Subvención directa a dedo sin concurrencia competitiva",
+      "Legislación ómnibus (mezcla temas de vino, leche y riego en una sola norma)",
+      "Imposición de contribuciones financieras obligatorias a operadores",
+      "Uso de la 'fe de erratas' para modificar cuantías y beneficiarios de ayudas",
+      "Aplicación supletoria estatal que invade competencias autonómicas silenciosamente"
+    ]
+  },
+  "tweeted": false
+}
