@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24310",
+  "timestamp": "2026-11-20T07:17:04.125Z",
+  "title": "Resolución de 16 de noviembre de 2026, de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución establece los límites de tipos de interés que las Comunidades Autónomas y Ayuntamientos pueden pagar por su deuda. Aunque se presenta bajo el barniz técnico del 'principio de prudencia financiera', en la práctica centraliza el control del gasto local en el Ministerio de Economía. Un punto crítico de opacidad es la autorización a ciertas administraciones para usar 'asesoramiento externo independiente' para determinar sus costes, lo cual es una vía para la contratación discrecional de consultoras privadas que operan fuera de las tablas estándar publicadas. Los tipos de interés de hasta el 4,44% a largo plazo garantizan márgenes de beneficio a la banca mientras detraen recursos de los presupuestos sociales locales.",
+    "resumen_ciudadano": "El Gobierno actualiza el precio máximo que pueden pagar tus gobernantes locales por pedir dinero prestado. Si los intereses suben hasta los topes marcados (hasta 4,44%), habrá menos dinero disponible para parques, sanidad o servicios municipales, ya que el pago de la deuda es prioritario.",
+    "resumen_tweet": "📉 El Tesoro fija los topes de interés para la deuda de Ayuntamientos y CCAA. ¡Hasta un 4,44%! Menos dinero para servicios públicos y más para beneficios bancarios. ¿Prudencia o asfixia financiera? 💸🏛️ #BOE #Opacidad #Transparencia #Deuda",
+    "banderas_red_flags": [
+      "Uso de asesores externos privados para sortear tablas oficiales",
+      "Elevado coste de financiación a largo plazo (4,44%)",
+      "Control centralizado del crédito local que erosiona la autonomía política"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Entidades financieras (Bancos)",
+        "Consultoras de asesoramiento financiero externo",
+        "Ministerio de Economía (control central)"
+      ],
+      "perdedores": [
+        "Contribuyentes locales",
+        "Presupuestos de servicios sociales",
+        "Administraciones pequeñas con baja capacidad de negociación"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Afecta a todas las CCAA y Entidades Locales)",
+    "tipologia": "Regulación de Endeudamiento Público",
+    "banderas_rojas": [
+      "Uso de asesores externos privados para sortear tablas oficiales",
+      "Elevado coste de financiación a largo plazo (4,44%)",
+      "Control centralizado del crédito local que erosiona la autonomía política"
+    ]
+  },
+  "tweeted": false
+}
