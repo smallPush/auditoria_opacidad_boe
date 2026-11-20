@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24291",
+  "timestamp": "2026-11-20T19:40:59.479Z",
+  "title": "Resolución de 18 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 30/2026, de 13 de octubre, por el que se aprueban medidas extraordinarias y urgentes de apoyo financiero a la Ciudad de Ceuta.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución convalida medidas financieras de carácter 'extraordinario y urgente', un mecanismo recurrente que elude el debate parlamentario ordinario. Al vincular créditos suplementarios con materias de inmigración y Hacienda mediante la Diputación Permanente, se prioriza la inyección de liquidez sobre la rendición de cuentas detallada. Existe un riesgo elevado de 'Gastos Fantasma' al ampararse en la excepcionalidad para canalizar subvenciones sin un desglose pormenorizado de los beneficiarios finales en este nivel de publicación.",
+    "resumen_ciudadano": "El Congreso ha ratificado por la vía rápida un paquete de ayuda financiera urgente para Ceuta. Este dinero se gestiona a través de créditos extraordinarios, lo que significa que el Gobierno está movilizando fondos fuera del presupuesto ordinario para cubrir necesidades relacionadas con la gestión migratoria y la estabilidad financiera de la ciudad autónoma.",
+    "resumen_tweet": "🚨 Alerta #BOE: Convalidada ayuda 'urgente' para Ceuta vía créditos extraordinarios. ¿Gestión de crisis o falta de previsión estructural? La opacidad en subvenciones bajo la etiqueta de emergencia preocupa. #Transparencia #Ceuta #Opacidad 🕵️‍♂️",
+    "banderas_red_flags": [
+      "Uso de créditos extraordinarios y suplementarios",
+      "Tramitación por la Diputación Permanente (vía de urgencia)",
+      "Ausencia de desglose detallado de las partidas de subvención",
+      "Vínculo genérico entre apoyo financiero e inmigración"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Gobierno de la Ciudad de Ceuta (liquidez inmediata)",
+        "Ministerio de Hacienda (control presupuestario centralizado)",
+        "Entidades receptoras de subvenciones discrecionales"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de debate sobre la eficiencia del gasto)",
+        "Ciudadanía de Ceuta (dependencia de parches financieros)",
+        "Transparencia democrática (procedimiento de urgencia)"
+      ]
+    },
+    "comunidad_autonoma": "Ceuta",
+    "tipologia": "Resolución de convalidación de Real Decreto-ley",
+    "banderas_rojas": [
+      "Uso de créditos extraordinarios y suplementarios",
+      "Tramitación por la Diputación Permanente (vía de urgencia)",
+      "Ausencia de desglose detallado de las partidas de subvención",
+      "Vínculo genérico entre apoyo financiero e inmigración"
+    ]
+  },
+  "tweeted": false
+}
