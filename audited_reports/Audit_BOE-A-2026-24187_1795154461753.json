@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24187",
+  "timestamp": "2026-11-20T06:01:01.753Z",
+  "title": "Real Decreto 1001/2026, de 18 de noviembre, por el que se regula la concesión directa de una subvención al CEI-Fundación Privada Centro de Estudios Internacionales durante el ejercicio presupuestario 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 1001/2026 utiliza la figura de la 'concesión directa' para eludir el principio de concurrencia competitiva, amparándose en una supuesta excepcionalidad por 'interés público'. El argumento de que es la única institución fuera de Madrid que prepara diplomáticos es débil en un entorno educativo digitalizado. Resulta especialmente chirriante el uso de fondos públicos para financiar gastos de 'SEO, optimización web y gestión de redes sociales' de una fundación privada, lo cual no parece una prioridad de interés social urgente, sino una subvención al marketing corporativo de una entidad específica.",
+    "resumen_ciudadano": "El Gobierno entrega 59.310 euros directamente a la Fundación CEI (Barcelona) sin permitir que otras academias compitan por ese dinero. La excusa es que son los únicos fuera de Madrid que forman a diplomáticos. El dinero de los impuestos pagará no solo a los profesores, sino también la publicidad, las redes sociales y el posicionamiento en Google de esta entidad privada.",
+    "resumen_tweet": "🚨 ¡Dedo digital en el #BOE! El Gobierno otorga 59.310€ por concesión directa a la Fundación CEI para preparar diplomáticos. ¿La excusa? No hay competencia fuera de Madrid. ¡Pagamos hasta su SEO con dinero público! 💸🧐 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Adjudicación directa sin concurso público",
+      "Financiación de marketing y posicionamiento web privado",
+      "Justificación de exclusividad geográfica cuestionable en la era digital",
+      "Uso de fondos de emergencia/excepcionales para gastos ordinarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "CEI-Fundación Privada Centro de Estudios Internacionales",
+        "Opositores a la carrera diplomática (perfil socioeconómico alto)"
+      ],
+      "perdedores": [
+        "Contribuyentes",
+        "Academias de formación online o de otras CC.AA.",
+        "Principio de igualdad de oportunidades en la licitación pública"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Adjudicación directa sin concurso público",
+      "Financiación de marketing y posicionamiento web privado",
+      "Justificación de exclusividad geográfica cuestionable en la era digital",
+      "Uso de fondos de emergencia/excepcionales para gastos ordinarios"
+    ]
+  },
+  "tweeted": false
+}
