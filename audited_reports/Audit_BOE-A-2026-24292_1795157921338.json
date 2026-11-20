@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24292",
+  "timestamp": "2026-11-20T06:58:41.338Z",
+  "title": "Resolución de 18 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Se observa un uso recurrente de la técnica legislativa de convalidación por decreto-ley, lo que limita el debate parlamentario exhaustivo. Bajo el epígrafe genérico de 'mejora de la acción protectora', el Estado suele introducir modificaciones técnicas que pueden alterar la sostenibilidad del sistema de pensiones o subsidios sin un desglose presupuestario inmediato en el acto de convalidación. La coletilla 'y de otras normas sociales' es un síntoma de opacidad técnica que permite la inclusión de reformas de carácter heterogéneo que pasan desapercibidas para el ciudadano medio.",
+    "resumen_ciudadano": "El Congreso ha validado formalmente una serie de cambios urgentes en la Seguridad Social. Aunque el título sugiere beneficios sociales, el procedimiento evita el proceso legislativo ordinario, impidiendo una fiscalización detallada de dónde saldrán los fondos y qué colectivos específicos podrían verse afectados por la letra pequeña de 'otras normas sociales'.",
+    "resumen_tweet": "🚨 El Congreso valida por vía rápida el RDL 31/2026 sobre Seguridad Social. ¿Mejora real o ajuste encubierto? La coletilla 'otras normas sociales' oculta cambios sin debate profundo. 🔍 #BOE #Opacidad #Transparencia #SeguridadSocial ⚖️",
+    "banderas_red_flags": [
+      "Uso de la Diputación Permanente para convalidación urgente",
+      "Vigencia inmediata sin desglose de partidas presupuestarias específicas",
+      "Términos jurídicos indeterminados en el título de la norma",
+      "Posible técnica de ómnibus legislativo bajo apariencia de mejora social"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Poder Ejecutivo (por la agilidad en la imposición de su agenda)",
+        "Beneficiarios inmediatos de prestaciones urgentes"
+      ],
+      "perdedores": [
+        "Escrutinio parlamentario (debate limitado)",
+        "Contribuyentes (por falta de detalle en el impacto presupuestario a largo plazo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convalidación de Real Decreto-ley",
+    "banderas_rojas": [
+      "Uso de la Diputación Permanente para convalidación urgente",
+      "Vigencia inmediata sin desglose de partidas presupuestarias específicas",
+      "Términos jurídicos indeterminados en el título de la norma",
+      "Posible técnica de ómnibus legislativo bajo apariencia de mejora social"
+    ]
+  },
+  "tweeted": false
+}
