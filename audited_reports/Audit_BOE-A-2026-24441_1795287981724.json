@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24441",
+  "timestamp": "2026-11-21T19:06:21.724Z",
+  "title": "Resolución de 13 de noviembre de 2026, de la Tesorería General de la Seguridad Social, por la que se publica el fallo de la Sentencia de 1 de diciembre de 2025 del Juzgado Central de lo Contencioso-Administrativo n.º 6, relativa a la cuestión de ilegalidad número 1/2025, en relación con la Resolución de 26 de diciembre de 2014, por la que se autoriza la utilización de tarjetas, tanto de débito como de crédito, como medio de pago de las deudas con la Seguridad Social en vía voluntaria no ingresadas dentro del plazo reglamentario, de las deudas en vía ejecutiva y de las deudas que hayan sido objeto de reclamación de deuda.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento revela una vulneración sistemática del principio de jerarquía normativa por parte de la Tesorería General de la Seguridad Social (TGSS). Durante más de una década, la TGSS aplicó una resolución administrativa que contradecía un Real Decreto superior, perjudicando al ciudadano al no reconocer el pago de deudas en el momento del uso de la tarjeta, sino en el momento del asiento bancario. Este 'truco' administrativo permitía a la administración cobrar recargos por mora injustos debido a los tiempos de procesamiento bancario, trasladando el riesgo operativo al contribuyente.",
+    "resumen_ciudadano": "La justicia ha anulado una norma ilegal de la Seguridad Social. Antes, si pagabas una deuda con tarjeta el último día del plazo, podían multarte si el dinero tardaba en llegar a su cuenta. Ahora, el pago es válido legalmente desde el momento en que usas tu tarjeta en una entidad colaboradora, protegiéndote de recargos injustos.",
+    "resumen_tweet": "⚖️ ¡Victoria ciudadana! El juzgado tumba la norma de la Seguridad Social que no aceptaba pagos con tarjeta hasta que el dinero llegaba a su cuenta. Se acabó cobrar recargos injustos por retrasos bancarios. #BOE #Transparencia #JusticiaCívica 💳🚫",
+    "banderas_red_flags": [
+      "Vulneración del principio de jerarquía normativa",
+      "Persistencia de una norma ilegal desde 2014",
+      "Traslado de responsabilidad bancaria al ciudadano",
+      "Opacidad en la rectificación de actos administrativos previos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ciudadanos con deudas en vía ejecutiva",
+        "Autónomos y pymes",
+        "Seguridad jurídica ciudadana"
+      ],
+      "perdedores": [
+        "Tesorería General de la Seguridad Social (TGSS)",
+        "Afán recaudatorio arbitrario",
+        "Administración pública ineficiente"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución Judicial de Ilegalidad",
+    "banderas_rojas": [
+      "Vulneración del principio de jerarquía normativa",
+      "Persistencia de una norma ilegal desde 2014",
+      "Traslado de responsabilidad bancaria al ciudadano",
+      "Opacidad en la rectificación de actos administrativos previos"
+    ]
+  },
+  "tweeted": false
+}
