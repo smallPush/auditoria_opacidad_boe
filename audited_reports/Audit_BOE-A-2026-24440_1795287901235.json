@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24440",
+  "timestamp": "2026-11-21T19:05:01.235Z",
+  "title": "Resolución de 20 de noviembre de 2026, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Aunque la resolución es transparente en cuanto a los precios finales, oculta el desglose real entre costes de producción, margen de beneficio de las multinacionales y la carga impositiva final. El Estado actúa meramente como un gestor administrativo que valida los precios 'propuestos' por la industria tabaquera bajo un régimen de monopolio heredado. Se observa una disparidad de precios significativa entre la Península y Ceuta/Melilla (un 30-40% más barato en las ciudades autónomas), lo que fomenta indirectamente asimetrías fiscales y potenciales riesgos de mercado gris. Además, se permite la comercialización de productos de ultra-lujo (envases de hasta 187€) frente a incrementos en marcas populares, consolidando el tabaco como un instrumento de recaudación regresiva.",
+    "resumen_ciudadano": "El Gobierno ha publicado los nuevos precios oficiales del tabaco (cigarrillos, puros y picadura) que entran en vigor hoy mismo. Las marcas más comunes como Camel o Winston ajustan sus precios en estancos de la Península, Baleares, Ceuta y Melilla. Los precios son propuestos por los fabricantes y el Estado se limita a publicarlos para asegurar el cumplimiento del monopolio estatal.",
+    "resumen_tweet": "📉 Nuevos precios en el #BOE para el tabaco. El Estado actúa como notario de las tabaqueras en un monopolio que penaliza el bolsillo del ciudadano. ¿Recaudación fiscal o salud pública? 🚬💰 #Transparencia #Opacidad #Impuestos",
+    "banderas_red_flags": [
+      "Precios fijados por la industria y validados por el Estado",
+      "Opacidad en el porcentaje de impuestos vs beneficio empresarial",
+      "Asimetría fiscal extrema entre Península y Ceuta/Melilla",
+      "Falta de mención al destino de la recaudación para salud pública"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (mayor recaudación vía impuestos indirectos)",
+        "Multinacionales tabaqueras (control de márgenes comerciales)",
+        "Expendedurías de Tabaco (mantenimiento del monopolio)"
+      ],
+      "perdedores": [
+        "Consumidores de clases socioeconómicas bajas (impuesto regresivo)",
+        "Salud pública (el precio no desincentiva el consumo de forma clara)",
+        "Equidad territorial (diferencias de precios por códigos postales)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (con regímenes específicos para Ceuta y Melilla)",
+    "tipologia": "Regulación de Precios / Fiscalidad Indirecta",
+    "banderas_rojas": [
+      "Precios fijados por la industria y validados por el Estado",
+      "Opacidad en el porcentaje de impuestos vs beneficio empresarial",
+      "Asimetría fiscal extrema entre Península y Ceuta/Melilla",
+      "Falta de mención al destino de la recaudación para salud pública"
+    ]
+  },
+  "tweeted": false
+}
