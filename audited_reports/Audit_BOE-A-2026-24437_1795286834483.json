@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24437",
+  "timestamp": "2026-11-21T18:47:14.483Z",
+  "title": "Real Decreto-ley 40/2026, de 20 de noviembre, de medidas urgentes para el impulso de la competitividad y la soberanía tecnológica en el ámbito científico e investigador.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Bajo el pretexto de la 'soberanía tecnológica', este Real Decreto-ley crea un régimen de excepcionalidad jurídica para 20 centros de investigación. La exención de la Ley de Contratos del Sector Público y la Ley de Patrimonio permite la venta directa de resultados de investigación y la creación de empresas privadas con capital público saltándose los controles ordinarios. Se detecta una opacidad deliberada en la justificación de 'costes indirectos' del 30% sin necesidad de documentación, lo que constituye un potencial agujero para el desvío de fondos. El uso del Decreto-ley evita el debate parlamentario sobre la transferencia de activos tecnológicos públicos a manos privadas.",
+    "resumen_ciudadano": "El Gobierno establece un sistema de 'centros de élite' que podrán gestionar dinero público y vender sus descubrimientos científicos a empresas privadas sin los controles de transparencia habituales. Además, se facilitan pagos directos a empresas que no tengan beneficios para que cobren sus deducciones fiscales en efectivo y se aumentan los sueldos de investigadores estrella por encima de los límites legales del funcionariado.",
+    "resumen_tweet": "🚨 ¡Alerta de #Opacidad en el #BOE! El RDL 40/2026 crea centros VIP exentos de la Ley de Contratos. 🔬 Ciencia pública que podrá pasar a manos privadas sin licitación y gastos del 30% sin justificar. ¿Soberanía o descontrol? 💸 #Transparencia",
+    "banderas_red_flags": [
+      "Exención de la Ley 9/2017 de Contratos del Sector Público",
+      "Adjudicación directa de derechos de investigación al sector privado",
+      "Justificación de costes indirectos del 30% sin facturas",
+      "Creación de sociedades mercantiles sin sujeción a legislación patrimonial",
+      "Monetización de deducciones fiscales para empresas sin cuota tributaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros de supercomputación y tecnología",
+        "Empresas tecnológicas vinculadas a AIE",
+        "Investigadores internacionales de alto nivel (fichajes estrella)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por el riesgo de gasto no auditado)",
+        "Pequeños grupos de investigación excluidos del 'top 20'",
+        "Cuerpo administrativo de control y fiscalización pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de medidas urgentes",
+    "banderas_rojas": [
+      "Exención de la Ley 9/2017 de Contratos del Sector Público",
+      "Adjudicación directa de derechos de investigación al sector privado",
+      "Justificación de costes indirectos del 30% sin facturas",
+      "Creación de sociedades mercantiles sin sujeción a legislación patrimonial",
+      "Monetización de deducciones fiscales para empresas sin cuota tributaria"
+    ]
+  },
+  "tweeted": false
+}
