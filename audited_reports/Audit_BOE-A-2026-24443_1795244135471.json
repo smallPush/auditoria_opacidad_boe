@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24443",
+  "timestamp": "2026-11-21T06:55:35.471Z",
+  "title": "Resolución de 18 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 25 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso sistemático de la 'libre designación' para puestos de nivel 17 (C1/C2) en unidades de apoyo y comunicación enmascara la selección discrecional bajo un marco legal. Aunque es un procedimiento ordinario, la falta de criterios de mérito públicos en este tipo de resoluciones parciales alimenta la percepción de clientelismo en ministerios estratégicos como Exteriores. Se adjudican puestos en áreas de Derechos Humanos y Comunicación Digital, donde la 'confianza' prima sobre la competencia técnica evaluable.",
+    "resumen_ciudadano": "El Ministerio de Asuntos Exteriores ha finalizado la selección de dos personas para puestos de secretaría en Madrid. Estos puestos se han asignado mediante el método de 'libre designación', lo que significa que los responsables del ministerio eligen directamente a los candidatos sin necesidad de un concurso de méritos abierto y comparativo entre todos los funcionarios interesados.",
+    "resumen_tweet": "🕵️‍♂️ Nueva adjudicación 'a dedo' en el Ministerio de Exteriores. Se cubren puestos en Derechos Humanos y Comunicación vía Libre Designación. ¿Mérito o confianza? La opacidad administrativa continúa. ⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Resolución parcial",
+      "Discrecionalidad en puestos técnicos de nivel medio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Daniel Cuesta Capellán",
+        "Iván Montavez Martínez",
+        "Subsecretaría de Asuntos Exteriores (control de equipo)"
+      ],
+      "perdedores": [
+        "Funcionarios con méritos técnicos sin afinidad política",
+        "Transparencia administrativa",
+        "Igualdad de oportunidades en el acceso a puestos de nivel 17"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación",
+      "Resolución parcial",
+      "Discrecionalidad en puestos técnicos de nivel medio"
+    ]
+  },
+  "tweeted": false
+}
