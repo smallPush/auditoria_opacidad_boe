@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24450",
+  "timestamp": "2026-11-21T06:58:59.623Z",
+  "title": "Resolución de 11 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrático de Universidad a don Didac Llorens Cubedo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El documento presenta una resolucion de nombramiento de catedratico siguiendo la Ley Organica 2/2023 (LOSU). Aunque el proceso es formalmente legal, el BOE actua como un mero validador de decisiones tomadas en comisiones internas universitarias que suelen carecer de escrutinio publico real. Se detecta un 'Gasto Fantasma' relativo al compromiso presupuestario vitalicio que supone un catedratico de universidad, el cual no se cuantifica ni se justifica en terminos de retorno social o eficiencia en la resolucion. Existe una brecha de transparencia sobre los meritos especificos que superaron a otros candidatos, perpetuando una cultura de cooptacion administrativa.",
+    "resumen_ciudadano": "La Universidad Nacional de Educacion a Distancia (UNED) ha nombrado a Didac Llorens Cubedo como Catedratico de Filologia Inglesa. Este es un paso administrativo final tras un concurso de acceso. El ciudadano debe saber que este nombramiento implica un aumento en la estructura de gasto publico en salarios de alto nivel de forma permanente.",
+    "resumen_tweet": "🏛️ Nueva catedra en la #UNED para Didac Llorens. Un proceso administrativo mas que consolida gastos de personal sin detallar el impacto presupuestario real ni los meritos especificos frente a la competencia. #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Ausencia de desglose del impacto presupuestario plurianual",
+      "Falta de informacion sobre los miembros de la comision juzgadora en este extracto",
+      "Opacidad en la puntuacion final obtenida en el concurso"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Didac Llorens Cubedo (estabilidad laboral y aumento de rango)",
+        "UNED (consolidacion de plantilla docente)"
+      ],
+      "perdedores": [
+        "Candidatos externos (barreras de entrada en promociones internas)",
+        "Contribuyentes (falta de transparencia en la eficiencia del gasto educativo)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Ausencia de desglose del impacto presupuestario plurianual",
+      "Falta de informacion sobre los miembros de la comision juzgadora en este extracto",
+      "Opacidad en la puntuacion final obtenida en el concurso"
+    ]
+  },
+  "tweeted": false
+}
