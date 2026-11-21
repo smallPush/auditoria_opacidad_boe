@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24438",
+  "timestamp": "2026-11-21T06:53:26.190Z",
+  "title": "Real Decreto-ley 41/2026, de 20 de noviembre, por el que se modifica la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El Real Decreto-ley 41/2026 introduce el nuevo sistema de comercio de derechos de emisión para edificios y transporte por carretera (ETS 2), lo que supone una carga fiscal indirecta sobre consumos básicos de la ciudadanía. El texto utiliza una retórica de 'transición justa' para enmascarar que los costes de emisión serán trasladados por las 'entidades reguladas' (distribuidoras de combustible) directamente al consumidor final. Si bien se anuncia un Plan Social por el Clima de 9.000 millones de euros, existe una opacidad significativa sobre los mecanismos de reparto y la cuantía que se perderá en la gestión de 'ventanillas únicas' y 'oficinas de proximidad', configurando lo que podrían ser gastos fantasma en burocracia bajo el paraguas de la vulnerabilidad.",
+    "resumen_ciudadano": "Esta norma encarecerá el precio de la calefacción y el combustible para el transporte privado al incluir estos sectores en el mercado de derechos de emisión. Como contrapartida, el Gobierno promete ayudas por valor de 9.000 millones para rehabilitar viviendas y renovar vehículos, gestionadas a través del nuevo Plan Social por el Clima. Sin embargo, el acceso a estas ayudas dependerá de complejos requisitos técnicos y auditorías, lo que puede dejar fuera a quienes no tengan recursos para pagar la consultoría previa.",
+    "resumen_tweet": "⚠️ Nuevo #BOE: El transporte y la calefacción entran en el mercado de emisiones. Se prometen 9.000M€ para paliar el impacto, pero la factura subirá antes que lleguen las ayudas. ¿Justicia climática o nueva presión fiscal? 🚗🔥 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso de la figura de Real Decreto-ley para reformas estructurales de largo plazo alegando crisis en Oriente Medio",
+      "Falta de desglose presupuestario detallado para los 4.700 millones destinados a vivienda",
+      "Posible duplicidad de funciones en las nuevas 'ventanillas únicas' y 'oficinas de proximidad'",
+      "Reducción de asignaciones gratuitas a la industria vinculada a auditorías que pueden ser subjetivas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Empresas de rehabilitación energética y construcción",
+        "Sector de energías renovables y electrificación",
+        "Consultoras encargadas de la gestión de fondos y auditorías"
+      ],
+      "perdedores": [
+        "Hogares de rentas bajas con sistemas de calefacción antiguos",
+        "Usuarios de vehículos de combustión sin capacidad de renovación",
+        "Pequeñas y medianas empresas de transporte por carretera"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Modificación Legislativa / Fiscalidad Ambiental",
+    "banderas_rojas": [
+      "Uso de la figura de Real Decreto-ley para reformas estructurales de largo plazo alegando crisis en Oriente Medio",
+      "Falta de desglose presupuestario detallado para los 4.700 millones destinados a vivienda",
+      "Posible duplicidad de funciones en las nuevas 'ventanillas únicas' y 'oficinas de proximidad'",
+      "Reducción de asignaciones gratuitas a la industria vinculada a auditorías que pueden ser subjetivas"
+    ]
+  },
+  "tweeted": false
+}
