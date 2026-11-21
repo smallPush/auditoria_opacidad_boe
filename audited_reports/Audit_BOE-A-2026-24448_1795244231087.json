@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24448",
+  "timestamp": "2026-11-21T06:57:11.087Z",
+  "title": "Resolución de 10 de noviembre de 2026, de la Universidad de Sevilla, por la que se nombra Profesor Titular de Universidad a don Santiago José Castroviejo Fisher.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de un acto administrativo reglado para el nombramiento de un funcionario de carrera tras un concurso de acceso. Aunque el proceso sigue la LOSU (Ley 2/2023), la opacidad no reside en el nombramiento, sino en los baremos de las comisiones evaluadoras que suelen favorecer la endogamia universitaria. No se especifican costes salariales asociados ni el desglose de méritos del candidato en este extracto, perpetuando el hermetismo sobre por qué este candidato fue superior a otros.",
+    "resumen_ciudadano": "La Universidad de Sevilla formaliza el nombramiento de Santiago José Castroviejo Fisher como Profesor Titular en el área de Zoología tras superar un proceso selectivo iniciado en junio de 2026.",
+    "resumen_tweet": "📢 Plaza fija en la Universidad de Sevilla: Santiago José Castroviejo Fisher nombrado Titular de Zoología. ¿Son estos concursos realmente abiertos o pura inercia burocrática? 🏛️💸 #BOE #Opacidad #Transparencia #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de puntuaciones en el extracto",
+      "Riesgo sistémico de endogamia en concursos de acceso",
+      "Ausencia de impacto presupuestario a largo plazo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Santiago José Castroviejo Fisher (estabilidad laboral vitalicia)",
+        "Universidad de Sevilla (consolidación de plantilla)"
+      ],
+      "perdedores": [
+        "Personal docente precario (sustitutos/asociados)",
+        "Candidatos externos sin redes en la institución"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramiento de personal docente e investigador",
+    "banderas_rojas": [
+      "Falta de desglose de puntuaciones en el extracto",
+      "Riesgo sistémico de endogamia en concursos de acceso",
+      "Ausencia de impacto presupuestario a largo plazo"
+    ]
+  },
+  "tweeted": false
+}
