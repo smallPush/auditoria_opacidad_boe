@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24453",
+  "timestamp": "2026-11-21T07:02:58.618Z",
+  "title": "Resolución de 11 de noviembre de 2026, de la Universidad Rey Juan Carlos, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolucion administrativa estandar para la consolidacion de funcionarios de carrera en la URJC. Aunque cumple con la legalidad formal, el documento mantiene la opacidad habitual sobre el coste economico real a largo plazo de estas plazas. Es reseñable el equilibrio de genero (50/50) en este bloque de nombramientos, cumpliendo con la paridad, y la inclusion de una plaza en Inteligencia Artificial, sector estrategico. Sin embargo, no hay rastro de la baremacion o meritos que justifican la eleccion frente a otros candidatos.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos ha nombrado oficialmente a cuatro nuevos profesores titulares en las areas de Derecho Penal, Economia, Traduccion e Inteligencia Artificial. Estos docentes pasan a ser personal funcionario de carrera tras superar los procesos de seleccion correspondientes.",
+    "resumen_tweet": "🎓 La URJC suma 4 nuevos Profesores Titulares. Paridad de genero (2♀️/2♂️) en areas clave como IA y Derecho. Aunque formalmente correcto, persiste la opacidad sobre el coste publico total de estas plazas fijas. #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de informacion sobre la carga presupuestaria anual",
+      "Opacidad en la puntuacion final obtenida por los candidatos",
+      "Falta de acceso directo a las actas de las comisiones de seleccion desde el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Alvaro Alzina Lozano",
+        "Luis Matosas Lopez",
+        "Maria Fernandez de Casadevante",
+        "Victoria Ruiz Parrado",
+        "Sindicatos universitarios"
+      ],
+      "perdedores": [
+        "Candidatos excluidos del proceso",
+        "Ciudadania (por falta de datos sobre eficiencia de gasto en personal)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Ausencia de informacion sobre la carga presupuestaria anual",
+      "Opacidad en la puntuacion final obtenida por los candidatos",
+      "Falta de acceso directo a las actas de las comisiones de seleccion desde el anuncio"
+    ]
+  },
+  "tweeted": false
+}
