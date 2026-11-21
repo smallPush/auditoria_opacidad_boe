@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-24454",
+  "timestamp": "2026-11-21T07:18:12.758Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Universidad de Alicante, por la que se anula la de 30 de octubre de 2026, por la que se nombra Profesora Titular de Universidad a doña Elena Gutiérrez Pérez.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolución revela una negligencia administrativa en la Universidad de Alicante al remitir duplicados de nombramientos al BOE con fechas inconsistentes. Este 'ruido burocrático' no solo consume recursos públicos en la gestión de fe de erratas y anulaciones, sino que demuestra una falta de protocolos de verificación en el Rectorado. Aunque el texto es explícito sobre el error, la existencia del mismo subraya la ineficiencia en la comunicación entre la institución educativa y el diario oficial.",
+    "resumen_ciudadano": "La Universidad de Alicante ha tenido que anular una resolución publicada en noviembre porque ya había publicado el mismo nombramiento de Profesora Titular (Elena Gutiérrez Pérez) con una fecha distinta en octubre. Se trata de una corrección por un envío erróneo de documentos oficiales.",
+    "resumen_tweet": "⚠️ ¡Descontrol en el #BOE! La Univ. de Alicante anula un nombramiento de Profesora Titular por haberlo enviado dos veces por error. 📉 La ineficiencia administrativa también es opacidad: ¿Quién paga el coste de estos fallos? 💸 #Transparencia #Opacidad",
+    "banderas_red_flags": [
+      "Duplicidad en la publicación oficial",
+      "Falta de supervisión en la remisión de documentos",
+      "Inconsistencia en fechas de resoluciones de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Burocracia administrativa (autoperpetuación del trámite)"
+      ],
+      "perdedores": [
+        "Contribuyente (coste de publicación y gestión de errores)",
+        "Eficiencia de la administración pública"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad Valenciana",
+    "tipologia": "Anulación de Resolución de Nombramiento de Personal",
+    "banderas_rojas": [
+      "Duplicidad en la publicación oficial",
+      "Falta de supervisión en la remisión de documentos",
+      "Inconsistencia en fechas de resoluciones de personal"
+    ]
+  },
+  "tweeted": false
+}
