@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24439",
+  "timestamp": "2026-11-21T06:50:39.759Z",
+  "title": "Real Decreto 1032/2026, de 20 de noviembre, por el que se regulan los requisitos de sostenibilidad energética, medioambiental y de resiliencia y soberanía digital aplicables a los centros de datos.",
+  "report": {
+    "nivel_transparencia": 5.5,
+    "analisis_critico": "El Real Decreto establece una regulación técnica necesaria para frenar el acaparamiento de la red eléctrica por parte de grandes centros de datos (CPD), que actualmente demandan 15GW frente a una necesidad real de 4GW. Sin embargo, bajo la retórica de la 'soberanía digital', se permite la intervención de terceros países en sistemas de categoría ALTA si es 'técnicamente imprescindible', una cláusula de escape que diluye la protección real. El texto admite implícitamente que estos centros pueden encarecer la factura eléctrica de los hogares al forzar el uso de gas como tecnología marginal si no se cumple la 'adicionalidad' renovable, trasladando el riesgo sistémico al ciudadano común mientras se garantiza infraestructura para las grandes tecnológicas.",
+    "resumen_ciudadano": "El Gobierno impone nuevas reglas a los centros de datos: para conectarse a la red eléctrica deberán demostrar que usan energía renovable propia y no malgastan agua. Se busca proteger los datos sensibles del Estado dentro de la UE y evitar que el consumo masivo de estas instalaciones colapse la red o suba el precio de la luz para las familias.",
+    "resumen_tweet": "⚠️ El nuevo Real Decreto sobre Centros de Datos busca evitar que las tecnológicas colapsen la red eléctrica y suban tu factura de la luz 💡. Exige renovables y 'soberanía digital', pero deja puertas abiertas a terceros países 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Cláusulas de escape para acceso a datos desde fuera de la UE por 'necesidad técnica'",
+      "Riesgo de incremento de precios eléctricos para el consumidor doméstico por presión sobre la red",
+      "Asignación de capacidad de red como 'bien escaso' sujeta a discrecionalidad administrativa",
+      "Uso de declaraciones responsables que posponen el control real a revisiones posteriores"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes proveedores de servicios en la nube (Hyperscalers)",
+        "Empresas de energías renovables y almacenamiento",
+        "Sector de la construcción de infraestructura digital"
+      ],
+      "perdedores": [
+        "Consumidores eléctricos residenciales (riesgo de precios marginales altos)",
+        "Pequeña industria electrointensiva (competencia por acceso a la red)",
+        "Poblaciones en zonas con estrés hídrico"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Regulación de Infraestructuras y Energía",
+    "banderas_rojas": [
+      "Cláusulas de escape para acceso a datos desde fuera de la UE por 'necesidad técnica'",
+      "Riesgo de incremento de precios eléctricos para el consumidor doméstico por presión sobre la red",
+      "Asignación de capacidad de red como 'bien escaso' sujeta a discrecionalidad administrativa",
+      "Uso de declaraciones responsables que posponen el control real a revisiones posteriores"
+    ]
+  },
+  "tweeted": false
+}
