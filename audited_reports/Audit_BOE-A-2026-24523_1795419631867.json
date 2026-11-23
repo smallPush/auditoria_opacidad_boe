@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-24523",
+  "timestamp": "2026-11-23T07:40:31.867Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesor Titular de Universidad a don Jon Asier Bárcena Petisco.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Se trata de un acto administrativo reglado para la consolidación de una plaza de funcionario de carrera (Profesor Titular). Aunque el procedimiento cumple con la legalidad vigente (LOSU), se observa la persistencia de perfiles masculinos en áreas STEM (Matemáticas), lo que perpetúa la brecha de género en los niveles más altos de la academia. No se detectan 'gastos fantasma' inmediatos, pero sí un compromiso de gasto público vitalicio sin desglosar el coste salarial anual en este documento.",
+    "resumen_ciudadano": "La Universidad del País Vasco (UPV/EHU) ha nombrado a Jon Asier Bárcena Petisco como Profesor Titular de Universidad en el área de Matemática Aplicada tras superar un concurso de acceso. La plaza es de dedicación completa, bilingüe y se ubica en la Facultad de Ciencia y Tecnología en Leioa.",
+    "resumen_tweet": "⚖️ Nueva plaza fija en la UPV/EHU: Jon Asier Bárcena es nombrado Profesor Titular de Matemáticas Aplicadas. El sistema sigue blindando puestos permanentes en STEM, donde la brecha de género persiste. #BOE #Transparencia #Universidad #Euskadi 🏛️",
+    "banderas_red_flags": [
+      "Persistencia de sesgo de género en áreas STEM",
+      "Opacidad en la cuantía del salario público de por vida asociado a la plaza"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Jon Asier Bárcena Petisco (obtiene estabilidad laboral y estatus de funcionario)",
+        "Departamento de Matemáticas de la UPV/EHU (consolida plantilla)"
+      ],
+      "perdedores": [
+        "Mujeres investigadoras (infrarrepresentación en áreas de matemáticas)",
+        "Personal docente e investigador en precariedad que no accede a plazas fijas"
+      ]
+    },
+    "comunidad_autonoma": "País Vasco",
+    "tipologia": "Nombramientos de Personal Docente e Investigador",
+    "banderas_rojas": [
+      "Persistencia de sesgo de género en áreas STEM",
+      "Opacidad en la cuantía del salario público de por vida asociado a la plaza"
+    ]
+  },
+  "tweeted": false
+}
