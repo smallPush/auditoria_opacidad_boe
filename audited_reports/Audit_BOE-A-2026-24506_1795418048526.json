@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24506",
+  "timestamp": "2026-11-23T07:14:08.526Z",
+  "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se resuelve el concurso para la provisión de notarías vacantes, convocado por Resolución de 14 de octubre de 2026, y se dispone su publicación y comunicación a las comunidades autónomas para que se proceda a los nombramientos.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La resolución detalla la provisión de plazas notariales, un sector de alta relevancia económica y jurídica. Se observa un patrón de 'huida' de la periferia rural hacia los grandes centros de negocios (Madrid, Valencia, Bilbao). Resalta la presencia de apellidos vinculados a dinastías jurídicas y políticas, lo que alimenta la percepción de endogamia en el cuerpo. El dato más alarmante es la cantidad de plazas en municipios pequeños que permanecen 'desiertas', lo que supone una degradación del servicio público en la España rural, obligando a los ciudadanos de estas zonas a desplazarse para trámites básicos.",
+    "resumen_ciudadano": "Publicación de los nuevos notarios asignados a diversas localidades. Mientras las ciudades principales cubren sus vacantes rápidamente, varios pueblos de León, Palencia, Asturias y Galicia siguen sin notario asignado, dejando a sus habitantes con menos acceso a servicios jurídicos esenciales.",
+    "resumen_tweet": "⚖️ El #BOE reparte notarías: las grandes capitales se llenan mientras la #EspañaVaciada (Bande, Valderas, Villada) sigue sin servicio. ¿Es la justicia un derecho o un negocio de proximidad? #Opacidad #Transparencia #Notarios",
+    "banderas_red_flags": [
+      "Concentración de plazas en zonas de alta renta",
+      "Persistencia de plazas desiertas en municipios rurales (desierto jurídico)",
+      "Apellidos recurrentes vinculados a élites tradicionales",
+      "Opacidad en la puntuación de méritos que justifica cada adjudicación específica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Notarios adjudicatarios en Madrid y Valencia (alta rentabilidad)",
+        "Nuevos opositores que logran entrar en el sistema",
+        "Grandes despachos y centros financieros"
+      ],
+      "perdedores": [
+        "Zonas rurales (Bande, Valderas, Villada, Trevias) que quedan desiertas",
+        "Ciudadanos de la periferia con movilidad reducida",
+        "Equilibrio territorial del Estado"
+      ]
+    },
+    "comunidad_autonoma": "Multiterritorial / Estatal",
+    "tipologia": "Nombramientos y Provisión de Plazas",
+    "banderas_rojas": [
+      "Concentración de plazas en zonas de alta renta",
+      "Persistencia de plazas desiertas en municipios rurales (desierto jurídico)",
+      "Apellidos recurrentes vinculados a élites tradicionales",
+      "Opacidad en la puntuación de méritos que justifica cada adjudicación específica"
+    ]
+  },
+  "tweeted": false
+}
