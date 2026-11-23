@@ -1,0 +1,32 @@
+{
+  "boe_id": "BOE-A-2026-24508",
+  "timestamp": "2026-11-23T07:23:42.385Z",
+  "title": "Orden EFD/1259/2026, de 13 de noviembre, por la que, a propuesta del Departamento de Educación, Cultura y Deporte, de la Comunidad Autónoma de Aragón, se nombran funcionarias de carrera del Cuerpo de Maestros, a aspirantes seleccionadas en el procedimiento selectivo convocado por Orden ECU/117/2024, de 30 de enero.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "El documento es un acto administrativo estándar de nombramiento de funcionarias de carrera en el Cuerpo de Maestros. No se detectan 'gastos fantasma' ya que se trata de la regularización de plazas ganadas por oposición. Sin embargo, se observa una notable lentitud burocrática: el proceso se inició en enero de 2024 y los efectos del nombramiento se retrotraen a septiembre de 2026, evidenciando un ciclo administrativo de casi tres años para casos con aplazamiento de prácticas.",
+    "resumen_ciudadano": "Se formaliza el nombramiento definitivo como funcionarias de carrera de dos maestras en la Comunidad Autónoma de Aragón (especialidades de Francés y Primaria). Estas profesionales ya habían superado las pruebas y el periodo de prácticas tras el proceso selectivo convocado en 2024.",
+    "resumen_tweet": "👩‍🏫 Aragón suma nuevas funcionarias de carrera en el Cuerpo de Maestros. El #BOE formaliza plazas tras procesos iniciados en 2024. Estabilidad para la educación pública, aunque la burocracia sigue sus lentos ritmos. 🐌 #Aragón #Educación #Transparencia",
+    "banderas_red_flags": [
+      "Dilatación temporal excesiva entre convocatoria (2024) y nombramiento definitivo (2026)",
+      "Uso de delegación de firma (P.D.) para actos de trámite ordinario"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes nombradas (estabilidad laboral)",
+        "Sistema educativo público de Aragón (reducción de interinidad)"
+      ],
+      "perdedores": [
+        "Candidatos en lista de espera",
+        "Agilidad administrativa (tiempos de resolución largos)"
+      ]
+    },
+    "comunidad_autonoma": "Aragón",
+    "tipologia": "Nombramientos de personal",
+    "banderas_rojas": [
+      "Dilatación temporal excesiva entre convocatoria (2024) y nombramiento definitivo (2026)",
+      "Uso de delegación de firma (P.D.) para actos de trámite ordinario"
+    ]
+  },
+  "tweeted": false
+}
