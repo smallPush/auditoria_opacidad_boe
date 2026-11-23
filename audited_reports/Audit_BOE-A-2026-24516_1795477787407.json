@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24516",
+  "timestamp": "2026-11-23T23:49:47.407Z",
+  "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Derecho, Entidades Jurídicas y Gestión Adecuada de Conflictos, del Departamento de Justicia y Calidad Democrática, por la que se resuelve el concurso para la provisión de notarías vacantes, convocado por Resolución de 14 de octubre de 2026.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "La resolucion revela un sistema de 'sillas musicales' dentro de la elite juridica catalana. Aunque la transparencia nominal es correcta al publicar los nombres, el documento omite los baremos de puntuacion especificos. Se observa una tendencia preocupante de plazas 'desiertas en concurso precedente' en municipios fuera del area metropolitana de Barcelona (Sort, La Pobla de Segur, Calaf), lo que sugiere que el sistema de fe publica prioriza el beneficio economico del notario sobre la cobertura del servicio en la periferia. Ademas, la presencia de apellidos vinculados a dinastias juridicas tradicionales subraya la barrera de entrada por clase social.",
+    "resumen_ciudadano": "La Generalitat ha asignado nuevas plazas de notarios en Cataluña. Mientras que Barcelona y Sant Cugat cubren sus vacantes con perfiles de alta categoria, muchos pueblos pequeños siguen sufriendo la falta de notarios porque las plazas no son atractivas para los candidatos, obligando a los vecinos a desplazarse para gestiones basicas.",
+    "resumen_tweet": "🏛️ ¿Servicio público o negocio privado? El nuevo reparto de notarías en Cataluña deja plazas desiertas en la periferia mientras la élite se concentra en BCN y Sant Cugat. La brecha territorial en la fe pública aumenta. 📜⚖️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Alta incidencia de plazas desiertas en zonas rurales",
+      "Concentracion de notaros de 1ª categoria en nucleos de alto poder adquisitivo",
+      "Opacidad en los meritos especificos de los traslados",
+      "Posible endogamia profesional por linajes de apellidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Notarios que logran traslado a zonas premium (Barcelona, Sant Cugat, El Masnou)",
+        "Elites economicas urbanas con acceso garantizado al servicio"
+      ],
+      "perdedores": [
+        "Ciudadanos de Sort, Calaf y La Pobla de Segur (plazas desiertas)",
+        "Aspirantes de clase trabajadora sin red economica para opositar durante años"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Resolución de Provisión de Plazas de Personal",
+    "banderas_rojas": [
+      "Alta incidencia de plazas desiertas en zonas rurales",
+      "Concentracion de notaros de 1ª categoria en nucleos de alto poder adquisitivo",
+      "Opacidad en los meritos especificos de los traslados",
+      "Posible endogamia profesional por linajes de apellidos"
+    ]
+  },
+  "tweeted": false
+}
