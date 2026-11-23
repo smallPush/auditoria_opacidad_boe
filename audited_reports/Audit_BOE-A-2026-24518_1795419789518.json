@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24518",
+  "timestamp": "2026-11-23T07:43:09.518Z",
+  "title": "Resolución de 17 de noviembre de 2026, del Departamento de Justicia y Calidad Democrática, por la que se resuelve el concurso específico de puestos de trabajo singularizados, efectuado por Resolución de 6 de octubre de 2026, en la Oficina Fiscal en la Fiscalía Superior de Cataluña y en la Fiscalía Provincial de Barcelona.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución adjudica puestos 'singularizados' en la estructura de la Fiscalía en Cataluña, una categoría que a menudo permite una mayor discrecionalidad en la selección. Se observa una notable cantidad de puestos declarados 'desiertos' en áreas críticas como Menores, Cooperación Internacional y Civil/Familia. Esto sugiere o bien una falta de perfiles cualificados interesados bajo las condiciones actuales, o un diseño de plazas excesivamente rígido que deja vacantes servicios esenciales para la ciudadanía. Aunque se publican los nombres de los adjudicatarios, el BOE no detalla los méritos específicos ni la puntuación de los candidatos, limitando la fiscalización pública de la idoneidad técnica.",
+    "resumen_ciudadano": "Se han asignado nuevos jefes y coordinadores en las oficinas de la Fiscalía de Barcelona y Cataluña. Sin embargo, áreas muy sensibles como la de protección de menores y la de cooperación internacional se han quedado sin responsable asignado porque nadie ha cumplido los requisitos o nadie se ha presentado, lo que podría afectar al funcionamiento de estos servicios judiciales.",
+    "resumen_tweet": "⚠️ ¿Quién vigila la Justicia? El Departamento de Justicia de Cataluña nombra nuevos cargos en la Fiscalía, pero deja VACANTES áreas críticas: Menores y Cooperación Internacional se quedan sin jefe. 🧐 ¿Falta de medios o de interés? #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Puestos desiertos en áreas de alta sensibilidad social (Menores y Familia)",
+      "Falta de publicidad de las puntuaciones obtenidas por los candidatos",
+      "Uso de puestos 'singularizados' que permiten perfiles de selección más estrechos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Raga Cid",
+        "Rosa Maria Ezequiel Montull",
+        "Estructura administrativa de la Fiscalía Superior",
+        "Predominio femenino en cargos de gestión intermedia"
+      ],
+      "perdedores": [
+        "Servicio de Menores de la Fiscalía (sin jefe de equipo)",
+        "Cooperación Internacional (sin responsable)",
+        "Ciudadanos dependientes de procesos de familia y capacidades por la vacancia de puestos"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Nombramientos y Adjudicaciones de Personal",
+    "banderas_rojas": [
+      "Puestos desiertos en áreas de alta sensibilidad social (Menores y Familia)",
+      "Falta de publicidad de las puntuaciones obtenidas por los candidatos",
+      "Uso de puestos 'singularizados' que permiten perfiles de selección más estrechos"
+    ]
+  },
+  "tweeted": false
+}
