@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24510",
+  "timestamp": "2026-11-23T07:21:56.097Z",
+  "title": "Orden EFD/1261/2026, de 13 de noviembre, por la que, a propuesta de la Consejería de Educación y Formación Profesional de la Comunidad Autónoma de Extremadura, se nombra funcionaria de carrera del Cuerpo de Profesores de Enseñanza Secundaria a doña Carmen Clara Balmaseda Valverde.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El documento refleja una correccion de una injusticia administrativa mediante el sistema judicial. La ciudadana fue excluida indebidamente de un proceso selectivo en 2023 y ha necesitado una sentencia del Tribunal Superior de Justicia de Extremadura (92/2025) para ser reconocida. Esto evidencia una falla en los procesos de evaluacion inicial de la Consejeria de Educacion. Aunque el BOE es transparente al citar la sentencia, no detalla el origen del error administrativo original que forzo el litigio. Los efectos retroactivos al 1 de septiembre de 2024 implican un desembolso economico acumulado que el Estado asume por su propia ineficacia procesal.",
+    "resumen_ciudadano": "Una profesora de Lengua Castellana y Literatura en Extremadura ha sido nombrada funcionaria de carrera con efecto retroactivo tras ganar un juicio contra la Administracion, que inicialmente la habia excluido de las listas de aprobados en las oposiciones de 2023.",
+    "resumen_tweet": "⚖️ ¡Justicia en el #BOE! Una docente en Extremadura recupera su plaza tras ganar en los tribunales lo que la Administracion le nego indebidamente. Los errores administrativos los pagamos todos con intereses. #Opacidad #Transparencia #Extremadura #Educacion",
+    "banderas_red_flags": [
+      "Ejecucion de sentencia judicial",
+      "Efectos retroactivos economicos",
+      "Exclusion previa injustificada",
+      "Litigiosidad administrativa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Doña Carmen Clara Balmaseda Valverde",
+        "Poder Judicial como garante de derechos"
+      ],
+      "perdedores": [
+        "Consejeria de Educacion de Extremadura (por error administrativo)",
+        "Contribuyentes (costes legales y retroactividad)"
+      ]
+    },
+    "comunidad_autonoma": "Extremadura",
+    "tipologia": "Personal y nombramientos por ejecucion de sentencia",
+    "banderas_rojas": [
+      "Ejecucion de sentencia judicial",
+      "Efectos retroactivos economicos",
+      "Exclusion previa injustificada",
+      "Litigiosidad administrativa"
+    ]
+  },
+  "tweeted": false
+}
