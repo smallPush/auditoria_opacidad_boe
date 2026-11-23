@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24521",
+  "timestamp": "2026-11-23T23:56:36.119Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad a doña María Aránzazu Martínez Pérez.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo reglado de nombramiento de funcionaria de carrera en la Universidad de Zaragoza. Aunque el texto cumple con la legalidad vigente (LOSU 2/2023), el proceso de seleccion previa en comisiones universitarias suele ser un agujero negro de transparencia para la ciudadania, con riesgos de endogamia. No se detallan los costes salariales asociados ni el desglose presupuestario de la plaza 2026-263.",
+    "resumen_ciudadano": "La Universidad de Zaragoza nombra oficialmente a una Profesora Titular en el area de Ingenieria Mecanica tras un concurso convocado en junio de 2026. Es un tramite de consolidacion de personal docente e investigador.",
+    "resumen_tweet": "🎓 Nueva Profesora Titular en la Univ. de Zaragoza: Maria Aranzazu Martinez Perez se incorpora a Ingenieria Mecanica. ¿Son los concursos universitarios realmente abiertos o pura burocracia interna? 🧐 #BOE #Opacidad #Transparencia #Aragon",
+    "banderas_red_flags": [
+      "Opacidad en la deliberacion de la comision juzgadora",
+      "Falta de informacion sobre el coste total de la plaza para el erario publico",
+      "Posible sesgo de endogamia estructural en la provision de plazas universitarias"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Aranzazu Martinez Perez (estabilidad laboral vitalicia)",
+        "Universidad de Zaragoza (consolidacion de plantilla)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (barreras de acceso a la funcion publica universitaria)",
+        "Contribuyentes (costes estructurales sin auditoria de rendimiento publica)"
+      ]
+    },
+    "comunidad_autonoma": "Aragon",
+    "tipologia": "Nombramiento de Personal Funcionario",
+    "banderas_rojas": [
+      "Opacidad en la deliberacion de la comision juzgadora",
+      "Falta de informacion sobre el coste total de la plaza para el erario publico",
+      "Posible sesgo de endogamia estructural en la provision de plazas universitarias"
+    ]
+  },
+  "tweeted": false
+}
