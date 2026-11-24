@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-24522",
+  "timestamp": "2026-11-24T00:01:57.447Z",
+  "title": "Resolución de 12 de noviembre de 2026, de la Universidad de Zaragoza, por la que se nombra Profesora Titular de Universidad a doña María Teresa Baquedano Morales.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un nombramiento estandarizado de funcionaria de carrera tras un concurso de acceso. Aunque se citan las bases legales (LOSU 2/2023), el BOE solo muestra el resultado final, no los criterios de puntuacion ni la composicion detallada de la comision evaluadora en este extracto. El gasto publico derivado de la plaza es vitalicio y no se cuantifica en el documento.",
+    "resumen_ciudadano": "La Universidad de Zaragoza nombra a Maria Teresa Baquedano Morales como Profesora Titular de Filologia Francesa. Este es un cargo publico permanente de nivel universitario.",
+    "resumen_tweet": "📢 Nueva plaza fija en la Universidad de Zaragoza. Maria Teresa Baquedano es nombrada Profesora Titular de Filologia Francesa. Consolidacion de empleo publico docente, pero sin detalle de costes a largo plazo. 🎓🇫🇷 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de memoria economica sobre el coste salarial de la plaza",
+      "Opacidad sobre los criterios especificos que determinaron la eleccion frente a otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Maria Teresa Baquedano Morales",
+        "Universidad de Zaragoza",
+        "Cuerpo de Profesores Titulares"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados en el concurso",
+        "Contribuyentes (gasto estructural sin desglose)"
+      ]
+    },
+    "comunidad_autonoma": "Aragon",
+    "tipologia": "Nombramiento de personal funcionario",
+    "banderas_rojas": [
+      "Ausencia de memoria economica sobre el coste salarial de la plaza",
+      "Opacidad sobre los criterios especificos que determinaron la eleccion frente a otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
