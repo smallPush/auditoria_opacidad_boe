@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24607",
+  "timestamp": "2026-11-24T08:46:07.410Z",
+  "title": "Cuestión de inconstitucionalidad n.º 5770-2026, en relación con el apartado 6 de la disposición adicional trigésima de la Ley del Parlamento de Cataluña 12/2009, de 10 de julio, de educación, en la redacción dada por el artículo 172.3 de la Ley del Parlamento de Cataluña 5/2020, de 29 de abril, en el inciso «prorrateada en un plazo de diez años», por posible vulneración de los artículos 24.1, 117.3 y 149.1.6 CE.",
+  "report": {
+    "nivel_transparencia": 35,
+    "analisis_critico": "El texto es un ejemplo de 'ingenieria financiera legislativa'. Bajo un lenguaje procesal arido, se oculta la admision a tramite de una cuestion sobre la legalidad de aplazar deudas educativas durante una decada. El uso del inciso 'prorrateada en un plazo de diez años' sugiere una estrategia de la Generalitat para demorar pagos obligatorios a centros de educacion infantil, lo que podria constituir una vulneracion del derecho a la tutela judicial efectiva y una invasion de competencias estatales. Se detecta una clara tension entre la autonomia financiera autonoma y la obligacion de ejecutar sentencias judiciales de forma inmediata.",
+    "resumen_ciudadano": "El Tribunal Constitucional investiga si es legal que la Generalitat de Cataluña pague sus deudas pendientes en materia de guarderias y educacion en un plazo de 10 años. El Tribunal Supremo sospecha que esta ley catalana permite al gobierno regional ignorar sentencias judiciales que le obligan a pagar de inmediato, dejando a las instituciones educativas en una situacion de precariedad financiera prolongada.",
+    "resumen_tweet": "🚨 ¿10 años para pagar la educación? El TC investiga el impago prorrateado en guarderías de Cataluña. ¿Es una ley o una trampa financiera para no cumplir sentencias? ⚖️ La opacidad legislativa asfixia a los centros. #BOE #Opacidad #Transparencia #Educacion",
+    "banderas_red_flags": [
+      "Dilatacion extrema de pagos obligatorios (10 años)",
+      "Posible vulneracion de la tutela judicial efectiva",
+      "Uso de leyes de presupuestos o acompañamiento para eludir ejecuciones de sentencias",
+      "Conflicto de competencias entre Estado y Comunidad Autonoma"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administracion Autonomica (retencion de liquidez y postergacion de deuda)",
+        "Gestores de tesorería publica regional"
+      ],
+      "perdedores": [
+        "Ayuntamientos y centros de educacion infantil (infrafinanciacion)",
+        "Familias (deterioro indirecto de servicios educativos)",
+        "Sistema Judicial (impotencia ante el retraso legalizado de pagos)"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Cuestion de Inconstitucionalidad / Educacion y Hacienda",
+    "banderas_rojas": [
+      "Dilatacion extrema de pagos obligatorios (10 años)",
+      "Posible vulneracion de la tutela judicial efectiva",
+      "Uso de leyes de presupuestos o acompañamiento para eludir ejecuciones de sentencias",
+      "Conflicto de competencias entre Estado y Comunidad Autonoma"
+    ]
+  },
+  "tweeted": false
+}
