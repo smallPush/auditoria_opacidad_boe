@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24625",
+  "timestamp": "2026-11-24T10:03:49.420Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, en el Cuerpo de Oficiales de Arsenales de la Armada.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "La resolución es un acto administrativo estándar de nombramiento, pero presenta puntos críticos en su ejecución. Primero, la exclusión de cinco aspirantes por motivos puramente documentales ('no presentar documentación') tras haber aprobado la oposición sugiere una burocracia rígida que penaliza al ciudadano. Segundo, el apartado tercero es alarmante: se deniegan de forma genérica las solicitudes de alteración de destino para personas con discapacidad alegando falta de 'acreditación', sin detallar los criterios de suficiencia exigidos, lo que roza la opacidad en la protección de este colectivo.",
+    "resumen_ciudadano": "Se formaliza el nombramiento de nuevos funcionarios de carrera en los Arsenales de la Armada. El proceso destaca por la expulsión de 5 personas que, tras aprobar, no completaron el papeleo a tiempo, y por la negativa de la Administración a facilitar destinos específicos a personas con discapacidad que lo solicitaron.",
+    "resumen_tweet": "⚓️ El #BOE nombra nuevos oficiales para la Armada. Lo oscuro: 5 aprobados pierden su plaza por 'falta de papeles' y se deniegan traslados por discapacidad por falta de 'acreditación'. ¿Burocracia o exclusión? 🧐🇪🇸 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Denegación sistemática de adaptaciones por discapacidad",
+      "Pérdida de plazas por fallos en la fase documental",
+      "Unificación de complementos específicos sin considerar el coste de vida por provincia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Los 30 aspirantes nombrados",
+        "Ministerio de Defensa (refuerzo de personal técnico)"
+      ],
+      "perdedores": [
+        "Ignacio Fernando, Álvaro, Mónica, José Alejandro y Francisco Manuel (excluidos por documentación)",
+        "Aspirantes con discapacidad cuyas necesidades de destino fueron ignoradas"
+      ]
+    },
+    "comunidad_autonoma": "Multiterrorial (Madrid, Andalucía, Galicia, Murcia, Canarias, Castilla-La Mancha)",
+    "tipologia": "Nombramientos de Personal Funcionario",
+    "banderas_rojas": [
+      "Denegación sistemática de adaptaciones por discapacidad",
+      "Pérdida de plazas por fallos en la fase documental",
+      "Unificación de complementos específicos sin considerar el coste de vida por provincia"
+    ]
+  },
+  "tweeted": false
+}
