@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24610",
+  "timestamp": "2026-11-24T09:42:59.413Z",
+  "title": "Cuestión de inconstitucionalidad n.º 7413-2026, en relación con el artículo 175.2 de la Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra, en la redacción introducida por la Ley Foral 19/2017, de 27 de diciembre, vigente en diciembre de 2020, por posible vulneración del artículo 31.1 de la CE.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se audita una providencia del Tribunal Constitucional que admite a trámite una cuestión de inconstitucionalidad contra la 'Plusvalía' navarra (Ley Foral 2/1995). El fondo del asunto es la posible vulneración del artículo 31.1 de la CE, lo que implica que el sistema de cálculo del impuesto podría estar gravando rentas inexistentes o actuando de forma confiscatoria. La opacidad reside en la demora procesal (hechos de 2020 analizados en 2026) y en el uso de terminología técnica que oculta un posible cobro indebido masivo por parte de las entidades locales navarras.",
+    "resumen_ciudadano": "El Tribunal Constitucional investiga si el impuesto de plusvalía en Navarra se calculó de forma injusta en 2020. Se sospecha que la ley foral obligaba a los ciudadanos a pagar impuestos incluso cuando no existía una ganancia real por la venta de terrenos, lo que iría en contra del deber constitucional de contribuir según la capacidad económica real.",
+    "resumen_tweet": "⚖️ ¿Impuestos fantasma en Navarra? El Constitucional admite a trámite la posible inconstitucionalidad del impuesto de plusvalía de 2020. Se cuestiona si el cobro fue injusto y confiscatorio. #BOE #Opacidad #Transparencia #Navarra #Plusvalia 🛡️",
+    "banderas_red_flags": [
+      "Posible vulneración del principio de capacidad económica",
+      "Inseguridad jurídica prolongada desde 2020",
+      "Riesgo de devoluciones millonarias por parte de ayuntamientos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Contribuyentes que impugnaron el impuesto en 2020",
+        "Grandes despachos de abogados especialistas en fiscalidad"
+      ],
+      "perdedores": [
+        "Ayuntamientos de Navarra que podrían enfrentarse a devoluciones masivas",
+        "Ciudadanos que no reclamaron en plazo y no se beneficiarán del fallo"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Cuestión de Inconstitucionalidad",
+    "banderas_rojas": [
+      "Posible vulneración del principio de capacidad económica",
+      "Inseguridad jurídica prolongada desde 2020",
+      "Riesgo de devoluciones millonarias por parte de ayuntamientos"
+    ]
+  },
+  "tweeted": false
+}
