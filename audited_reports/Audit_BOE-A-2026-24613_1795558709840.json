@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24613",
+  "timestamp": "2026-11-24T22:18:29.840Z",
+  "title": "Real Decreto 1009/2026, de 19 de noviembre, por el que se establece el título de Técnico Superior de Artes Plásticas y Diseño en Encuadernación artística, perteneciente a la familia profesional artística de Artes del libro, y se fijan sus enseñanzas mínimas.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto actualiza un perfil profesional estancado desde 1995, integrando la digitalización y la sostenibilidad. Sin embargo, la 'opacidad' reside en la delegación de la financiación y la implementación técnica a las Comunidades Autónomas sin una memoria económica detallada en el texto. Se observa una 'Incongruencia Ideológica' al promover una enseñanza de alto componente tecnológico y material en un marco de austeridad educativa, lo que podría generar brechas entre centros bien dotados y centros precarios. La perspectiva de género se menciona de forma transversal pero carece de medidas concretas de fomento en un sector históricamente masculinizado en los talleres de gran escala y feminizado en la restauración artesanal de base.",
+    "resumen_ciudadano": "Se crea oficialmente el título de Técnico Superior en Encuadernación Artística. Este nuevo plan de estudios de 2.000 horas sustituye al de 1995 e incluye por primera vez formación en diseño digital, gestión de talleres y conservación del patrimonio bibliográfico. El título es válido en toda España y busca profesionalizar el sector del libro de lujo y la restauración.",
+    "resumen_tweet": "📖 El #BOE renueva el título de Encuadernación Artística tras 30 años. Se integran diseño digital y sostenibilidad 🌿. Pero ojo: no se aclara la inversión para nuevos talleres en los centros públicos. #Opacidad #Transparencia #Educación #ArtesdelLibro",
+    "banderas_red_flags": [
+      "Ausencia de memoria económica específica para la actualización de maquinaria en centros públicos.",
+      "Ambigüedad en la financiación de la 'fase de formación práctica' en empresas.",
+      "Carga administrativa elevada para los centros al tener que desarrollar el currículo autonómico sin guías estatales claras de coste.",
+      "Dependencia de materiales costosos (pieles, adhesivos especiales) no subvencionados expresamente."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Industrias culturales especializadas",
+        "Sector de la restauración de patrimonio",
+        "Estudiantes de artes plásticas que buscan hibridación digital-artesanal"
+      ],
+      "perdedores": [
+        "Centros educativos con presupuestos limitados para materiales",
+        "Artesanos tradicionales con dificultades de adaptación al marco digital",
+        "Alumnado de entornos rurales con difícil acceso a talleres de alta especialización"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación y Cualificación Profesional",
+    "banderas_rojas": [
+      "Ausencia de memoria económica específica para la actualización de maquinaria en centros públicos.",
+      "Ambigüedad en la financiación de la 'fase de formación práctica' en empresas.",
+      "Carga administrativa elevada para los centros al tener que desarrollar el currículo autonómico sin guías estatales claras de coste.",
+      "Dependencia de materiales costosos (pieles, adhesivos especiales) no subvencionados expresamente."
+    ]
+  },
+  "tweeted": false
+}
