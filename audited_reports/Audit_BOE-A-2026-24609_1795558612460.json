@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24609",
+  "timestamp": "2026-11-24T22:16:52.460Z",
+  "title": "Cuestión de inconstitucionalidad n.º 6961-2026, en relación con el art. 49.b) de la Ley del Parlamento de Cataluña 2/2021, de 29 de diciembre, de medidas fiscales, financieras, administrativas y del sector público.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "Se trata de una providencia de admisión de una cuestión de inconstitucionalidad sobre el art. 49.b) de la Ley 2/2021 de Cataluña. La opacidad reside en la falta de contexto dentro del edicto; el ciudadano medio no sabe que este artículo regula aspectos críticos de la Función Pública y procesos de selección. La judicialización de las medidas fiscales y administrativas de 2021 sugiere un posible exceso competencial o vulneración del principio de igualdad en el acceso al empleo público, lo que genera una inseguridad jurídica latente para los empleados del sector público catalán.",
+    "resumen_ciudadano": "El Tribunal Constitucional ha decidido investigar si un apartado específico de la ley catalana de medidas administrativas (sobre personal y sector público) es contrario a la Constitución Española. Esto significa que la forma en que Cataluña está gestionando ciertos aspectos de sus funcionarios o empleados públicos está bajo sospecha legal y podría ser anulada.",
+    "resumen_tweet": "⚠️ El Tribunal Constitucional pone bajo la lupa la gestión del sector público en Cataluña. Admitida a trámite la inconstitucionalidad del art. 49.b de la Ley 2/2021. ¿Inseguridad para los funcionarios? ⚖️ #BOE #Opacidad #Transparencia #Cataluña",
+    "banderas_red_flags": [
+      "Inseguridad jurídica para empleados públicos",
+      "Conflicto competencial Estado-Autonomía",
+      "Judicialización de la normativa administrativa",
+      "Falta de detalle sobre el motivo de la duda constitucional en el anuncio"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado Central (refuerza control constitucional)",
+        "Recurrentes que cuestionan la legalidad del proceso administrativo"
+      ],
+      "perdedores": [
+        "Generalitat de Catalunya (su marco normativo queda en entredicho)",
+        "Funcionarios y aspirantes afectados por la incertidumbre legal del art. 49.b"
+      ]
+    },
+    "comunidad_autonoma": "Cataluña",
+    "tipologia": "Constitucional",
+    "banderas_rojas": [
+      "Inseguridad jurídica para empleados públicos",
+      "Conflicto competencial Estado-Autonomía",
+      "Judicialización de la normativa administrativa",
+      "Falta de detalle sobre el motivo de la duda constitucional en el anuncio"
+    ]
+  },
+  "tweeted": false
+}
