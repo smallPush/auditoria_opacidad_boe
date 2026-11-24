@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24622",
+  "timestamp": "2026-11-24T09:47:05.182Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 30 de septiembre de 2026.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "El documento detalla un proceso de 'libre designación' para un puesto de nivel 17 (Secretaría de Dirección General). Este sistema, aunque legal bajo la Ley 30/1984, es el mecanismo estándar para eludir la meritocracia pura en favor de la confianza personal. Se menciona un 'informe motivado' por la Dirección General de la Marina Mercante, pero el contenido de dicho informe que justifica el 'interés general' no es público, lo que constituye un punto de opacidad estructural. No hay incongruencia ideológica directa, pero sí una persistencia en el uso de nombramientos 'a dedo' dentro de la administración pública.",
+    "resumen_ciudadano": "El Ministerio de Transportes ha asignado un puesto de secretaría mediante el sistema de libre designación (elección directa por parte de superiores) en lugar de un concurso de méritos abierto. La persona elegida ya pertenecía al mismo ministerio y mantendrá su nivel administrativo en la Dirección General de la Marina Mercante en Madrid.",
+    "resumen_tweet": "🕵️‍♂️ Auditando el #BOE: Adjudicación por 'Libre Designación' en el Ministerio de Transportes. ¿Confianza o mérito? La opacidad del 'interés general' sigue permitiendo decisiones discrecionales en la administración. #Opacidad #Transparencia #España 🏛️",
+    "banderas_red_flags": [
+      "Libre designación",
+      "Informe motivado no vinculante",
+      "Opacidad en criterios de interés general"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rubio Cuevas, Maria Jose (adjudicataria)",
+        "Dirección General de la Marina Mercante (control sobre su personal de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos con méritos técnicos superiores sin red de confianza",
+        "Sistema de meritocracia abierta de la Función Pública"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Personal / Recursos Humanos",
+    "banderas_rojas": [
+      "Libre designación",
+      "Informe motivado no vinculante",
+      "Opacidad en criterios de interés general"
+    ]
+  },
+  "tweeted": false
+}
