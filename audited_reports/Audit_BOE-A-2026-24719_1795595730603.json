@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24719",
+  "timestamp": "2026-11-25T08:35:30.603Z",
+  "title": "Resolución de 13 de noviembre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se nombra Catedrática de Universidad a doña Inmaculada Senra Silva.",
+  "report": {
+    "nivel_transparencia": 8,
+    "analisis_critico": "Se trata de un acto administrativo de nombramiento de personal funcionario de carrera tras un concurso de acceso. Aunque se citan las bases legales (LOSU 2/2023 y RD 678/2023), existe una opacidad característica en la administración universitaria: no se detalla el impacto presupuestario de la nueva plaza ni la composición de la comisión que juzgó el concurso, limitándose a remitir a resoluciones anteriores. La transparencia es procedimental pero no económica ni meritocrática en el cuerpo del texto.",
+    "resumen_ciudadano": "La UNED ha nombrado oficialmente a Inmaculada Senra Silva como Catedrática de Filología Inglesa. Este es el rango más alto en la jerarquía docente universitaria, lo que implica una plaza fija como funcionaria del Estado y un incremento en la escala salarial pública.",
+    "resumen_tweet": "🎓 Nueva cátedra en la @UNED: Inmaculada Senra Silva accede al máximo nivel docente en Filología Inglesa. El #BOE cumple la forma, pero oculta el coste total de la plaza para el contribuyente. 🏛️📉 #Transparencia #Opacidad #Universidad",
+    "banderas_red_flags": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Ausencia de información sobre el número de aspirantes en el concurso",
+      "Remisión a convocatorias previas para ocultar detalles de la comisión evaluadora"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Inmaculada Senra Silva (estabilidad laboral y estatus de élite académica)",
+        "Departamento de Filologías Extranjeras (consolidación de poder interno)"
+      ],
+      "perdedores": [
+        "Contribuyentes (desconocen el coste exacto de la plaza)",
+        "Candidatos externos (barreras habituales por endogamia estructural en el sistema de cátedras)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal (UNED)",
+    "tipologia": "Nombramientos de Personal Docente",
+    "banderas_rojas": [
+      "Falta de desglose de la partida presupuestaria específica",
+      "Ausencia de información sobre el número de aspirantes en el concurso",
+      "Remisión a convocatorias previas para ocultar detalles de la comisión evaluadora"
+    ]
+  },
+  "tweeted": false
+}
