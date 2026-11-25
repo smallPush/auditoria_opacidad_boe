@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24702",
+  "timestamp": "2026-11-25T08:13:14.570Z",
+  "title": "Real Decreto-ley 44/2026, de 24 de noviembre, de contratos de créditos al consumo y de protección de los prestatarios en la cesión de carteras de créditos dudosos.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "El decreto utiliza una retórica de 'escudo social' para encubrir la formalización de un mercado de deuda potencialmente agresivo. Al crear la figura legal del 'prestamista de alto coste autorizado', el Estado está legitimando modelos de negocio basados en intereses elevados que antes operaban en una zona gris, bajo el pretexto de la 'profesionalización'. La transposición de directivas europeas mediante Real Decreto-ley, bajo una supuesta urgencia, hurta el debate parlamentario pausado sobre los límites de la usura y la ética de los fondos de titulización de deuda. Se delega un poder técnico inmenso al Banco de España para supervisar un sector que históricamente ha generado exclusión financiera.",
+    "resumen_ciudadano": "Esta norma regula los préstamos al consumo y qué sucede cuando tu banco vende tu deuda a un tercero (comúnmente llamados 'fondos buitre'). Establece que estas empresas de recobro deben estar autorizadas por el Banco de España y respetar ciertos límites de intereses. Aunque dice proteger al vulnerable, en realidad legaliza a las empresas de microcréditos rápidos de alto coste siempre que se registren, y permite que la gestión de deudas impagadas pase a manos de especialistas en recuperación cuya prioridad es el cobro.",
+    "resumen_tweet": "📉 El nuevo #BOE regula los créditos de consumo y la venta de deuda a 'fondos buitre'. Se legalizan los prestamistas de 'alto coste' bajo el ala del @BancoDeEspana. ¿Escudo social o maquillaje para la usura? 💸 #Opacidad #Transparencia #Finanzas",
+    "banderas_red_flags": [
+      "Legalización de prestamistas de 'alto coste'",
+      "Uso de Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Ambigüedad en los límites máximos de tipos de interés remitidos a desarrollo posterior",
+      "Posible pérdida de interlocución directa del ciudadano ante la cesión de carteras de deuda"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Fondos de inversión extranjeros (compradores de deuda)",
+        "Empresas de recobro y gestión de activos",
+        "Prestamistas de microcréditos digitales"
+      ],
+      "perdedores": [
+        "Hogares con rentas en el 20% inferior",
+        "Consumidores sobreendeudados sin capacidad de negociación frente a grandes fondos",
+        "Familias vulnerables con baja alfabetización digital"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Financiera y Protección al Consumidor",
+    "banderas_rojas": [
+      "Legalización de prestamistas de 'alto coste'",
+      "Uso de Real Decreto-ley para evitar el trámite legislativo ordinario",
+      "Ambigüedad en los límites máximos de tipos de interés remitidos a desarrollo posterior",
+      "Posible pérdida de interlocución directa del ciudadano ante la cesión de carteras de deuda"
+    ]
+  },
+  "tweeted": false
+}
