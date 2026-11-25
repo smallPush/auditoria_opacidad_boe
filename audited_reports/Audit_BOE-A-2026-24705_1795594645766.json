@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24705",
+  "timestamp": "2026-11-25T08:17:25.766Z",
+  "title": "Resolución de 23 de noviembre de 2026, de la Delegación del Gobierno en la Comunidad Autónoma de Galicia, por la que, en ejecución de sentencia, se deja sin efecto la de 13 de septiembre de 2024, por la que se nombra Subdelegado del Gobierno en Ourense a don Eladio Santos Martínez.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento revela un fallo en la 'libre designación' (sistema de libre elección de cargos), que suele ser un mecanismo de opacidad para el clientelismo político. La justicia, mediante sentencia del TSJ de Galicia, ha tenido que intervenir para anular un nombramiento que no cumplía con la legalidad. Este 'reverso judicial' expone cómo la Administración intentó imponer un perfil (Eladio Santos Martínez) ignorando los derechos de otros candidatos o los requisitos del puesto, resultando en una pérdida de tiempo y recursos públicos durante dos años.",
+    "resumen_ciudadano": "La justicia anula el nombramiento del Subdelegado del Gobierno en Ourense tras dos años en el cargo. El Tribunal Superior de Justicia de Galicia ha dado la razón a un demandante (Manuel Vázquez Neira), obligando al Gobierno a dar marcha atrás en una decisión que ha resultado ser ilegal, evidenciando un uso irregular de la libre designación de cargos.",
+    "resumen_tweet": "🚨 ¡Varapalo judicial al 'dedazo'! El TSJ de Galicia anula el nombramiento del Subdelegado del Gobierno en Ourense. Dos años después, la justicia frena la discrecionalidad política. #BOE #Opacidad #Transparencia #Justicia ⚖️",
+    "banderas_red_flags": [
+      "Nombramiento anulado por los tribunales",
+      "Abuso de la libre designación",
+      "Gasto en litigios judiciales pagado por el ciudadano",
+      "Opacidad sobre la irregularidad específica cometida"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Manuel Vázquez Neira (demandante que recupera sus derechos)",
+        "La integridad del sistema judicial"
+      ],
+      "perdedores": [
+        "Eladio Santos Martínez (cesado por ilegalidad)",
+        "Delegación del Gobierno en Galicia (por mala praxis administrativa)",
+        "Contribuyentes (pago de salarios y costas procesales de un cargo nulo)"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Resolución de Personal / Revocación Judicial",
+    "banderas_rojas": [
+      "Nombramiento anulado por los tribunales",
+      "Abuso de la libre designación",
+      "Gasto en litigios judiciales pagado por el ciudadano",
+      "Opacidad sobre la irregularidad específica cometida"
+    ]
+  },
+  "tweeted": false
+}
