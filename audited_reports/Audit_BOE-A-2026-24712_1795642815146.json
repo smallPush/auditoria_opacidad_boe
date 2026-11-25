@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24712",
+  "timestamp": "2026-11-25T21:40:15.146Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, para el cambio de régimen jurídico del personal laboral fijo incluido en el Anexo II del IV Convenio Único para el personal laboral de la Administración General del Estado, en la Escala de Gestión de Organismos Autónomos.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El documento formaliza un proceso de 'funcionarización', transformando personal laboral fijo en funcionarios de carrera. Aunque el proceso es legal bajo el IV Convenio Único, perpetúa una estructura de 'insiders' donde se blindan puestos existentes. Se observa una disparidad significativa en los 'Complementos Específicos': un técnico del SEPE (Nivel 20) percibe 6.315,96€ frente a los 4.489,10€ de un Jefe de Sección en otros ministerios con el mismo nivel de CD. Esta opacidad en la valoración de los puestos genera agravios comparativos entre departamentos.",
+    "resumen_ciudadano": "La Secretaría de Estado nombra a 30 nuevos funcionarios de carrera que anteriormente eran personal laboral. Estos trabajadores aseguran su plaza de por vida en diversos ministerios como Trabajo, Ciencia o Transición Ecológica. El proceso incluye el desglose de sus destinos y salarios complementarios, revelando diferencias de hasta 2.000 euros anuales en complementos para puestos de similar responsabilidad según el organismo de destino.",
+    "resumen_tweet": "📝 El #BOE publica el blindaje de plazas: personal laboral pasa a ser funcionario de carrera. Llama la atención la brecha de 2.000€ en complementos salariales entre ministerios para el mismo nivel (CD20). ¿Mérito o discrecionalidad? 🧐💼 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Disparidad injustificada en complementos específicos entre ministerios",
+      "Consolidación de plazas sin mención a la optimización de recursos digitales",
+      "Concentración de adjudicaciones en servicios centrales de Madrid frente a la periferia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal laboral fijo (obtienen blindaje estatutario)",
+        "Ministerio de Trabajo (mayor cuantía en complementos específicos)"
+      ],
+      "perdedores": [
+        "Aspirantes externos (procesos cerrados a personal interno)",
+        "Contribuyentes (aumento del gasto público fijo e inflexible)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos y Nombramientos",
+    "banderas_rojas": [
+      "Disparidad injustificada en complementos específicos entre ministerios",
+      "Consolidación de plazas sin mención a la optimización de recursos digitales",
+      "Concentración de adjudicaciones en servicios centrales de Madrid frente a la periferia"
+    ]
+  },
+  "tweeted": false
+}
