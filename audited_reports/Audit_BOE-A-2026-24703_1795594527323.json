@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24703",
+  "timestamp": "2026-11-25T08:15:27.323Z",
+  "title": "Real Decreto-ley 45/2026, de 24 de noviembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje en el año 2027 y de medidas financieras para la renovación de la flota española por razones medioambientales.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto-ley 45/2026 recurre nuevamente a la urgencia para prorrogar medidas que, por su naturaleza recurrente, deberían formar parte de una planificación presupuestaria ordinaria. Se detecta una 'opacidad técnica' severa al excluir estas ayudas del ámbito de aplicación de la Ley 38/2003 General de Subvenciones (Capítulo VI), lo que reduce significativamente los controles de fiscalización. Además, la norma justifica su necesidad basándose en una inestabilidad geopolítica futura (un supuesto conflicto en Oriente Medio en 2026) para blindar el uso del decreto-ley. Existe una incongruencia en la bonificación del 20%, cuya continuidad en el segundo semestre de 2027 queda a discreción política del Consejo de Ministros, generando incertidumbre ciudadana.",
+    "resumen_ciudadano": "Se prorrogan para 2027 los descuentos en transporte público y la gratuidad en cercanías para Asturias, Cantabria e islas. No obstante, el Gobierno se reserva el derecho de eliminar parte de las ayudas en julio de 2027 y ha diseñado la ley para evitar los controles habituales de transparencia en subvenciones.",
+    "resumen_tweet": "🚂 El Gobierno prorroga las ayudas al transporte para 2027, pero con letra pequeña: se saltan la Ley General de Subvenciones para evitar controles y los descuentos de julio quedan en el aire. ¿Transparencia o discrecionalidad? 🧐 #BOE #Opacidad #Movilidad",
+    "banderas_red_flags": [
+      "Exclusión de la Ley General de Subvenciones",
+      "Uso de créditos extraordinarios para deudas de años anteriores no detalladas",
+      "Discrecionalidad del Consejo de Ministros para decidir ayudas a mitad de año",
+      "Uso del Real Decreto-ley para evitar el debate parlamentario de medidas previsibles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Usuarios recurrentes de transporte público",
+        "Residentes en Canarias y Baleares (100% de descuento)",
+        "Empresas navieras (ampliación de avales estatales)",
+        "Usuarios de Cercanías en Asturias y Cantabria"
+      ],
+      "perdedores": [
+        "Contribuyentes (por menor fiscalización de fondos)",
+        "Calidad democrática (uso abusivo del Decreto-ley)",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto-ley de Medidas Económicas",
+    "banderas_rojas": [
+      "Exclusión de la Ley General de Subvenciones",
+      "Uso de créditos extraordinarios para deudas de años anteriores no detalladas",
+      "Discrecionalidad del Consejo de Ministros para decidir ayudas a mitad de año",
+      "Uso del Real Decreto-ley para evitar el debate parlamentario de medidas previsibles"
+    ]
+  },
+  "tweeted": false
+}
