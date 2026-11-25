@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-24710",
+  "timestamp": "2026-11-25T21:36:45.139Z",
+  "title": "Resolución de 18 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de octubre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso del sistema de 'Libre Designación' para un puesto de Nivel 17 (Secretaría de Director General) es legal pero éticamente cuestionable en términos de meritocracia pura. Aunque se publica la adjudicataria, los criterios de idoneidad que la diferencian de otros funcionarios no son públicos ni auditables, amparándose en el concepto de 'confianza'. Esto perpetúa una estructura de 'círculos de confianza' dentro del Ministerio de Cultura, donde la cercanía al cargo político prevalece sobre el concurso de méritos tradicional.",
+    "resumen_ciudadano": "Se ha formalizado la contratación 'a dedo' (dentro de la legalidad) de una secretaria para la Dirección General del Libro. El puesto incluye un sobresueldo de 8.831,48 euros anuales adicionales al salario base. No se detallan las razones técnicas para elegir a esta persona frente a otros posibles candidatos, lo cual es típico de los puestos de confianza en la administración española.",
+    "resumen_tweet": "🚨 Nuevo 'dedazo' legal en el Ministerio de Cultura. Adjudicado un puesto de confianza con un plus de 8.831€/año mediante libre designación. La meritocracia queda en segundo plano frente a la 'confianza'. 🧐 #BOE #Opacidad #Transparencia #Cultura",
+    "banderas_red_flags": [
+      "Libre designación (provisión discrecional)",
+      "Opacidad en los criterios de selección final",
+      "Uso de recursos públicos para puestos de confianza personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "La adjudicataria seleccionada",
+        "El Director General (obtiene personal de su elección personal)"
+      ],
+      "perdedores": [
+        "Funcionarios con mayor antigüedad o méritos sin perfil político",
+        "Sistema de mérito y capacidad",
+        "Transparencia institucional"
+      ]
+    },
+    "comunidad_autonoma": "Madrid",
+    "tipologia": "Nombramientos y Personal",
+    "banderas_rojas": [
+      "Libre designación (provisión discrecional)",
+      "Opacidad en los criterios de selección final",
+      "Uso de recursos públicos para puestos de confianza personal"
+    ]
+  },
+  "tweeted": false
+}
