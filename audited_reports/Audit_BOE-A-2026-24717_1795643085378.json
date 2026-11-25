@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24717",
+  "timestamp": "2026-11-25T21:44:45.378Z",
+  "title": "Resolución de 9 de noviembre de 2026, de la Universidad Pública de Navarra, por la que se nombra Catedrático de Universidad a don Robinson Ramírez Vélez.",
+  "report": {
+    "nivel_transparencia": 85,
+    "analisis_critico": "Se trata de un nombramiento por promocion interna en la Universidad Publica de Navarra (UPNA). Aunque el procedimiento sigue la legalidad vigente (Ley Organica del Sistema Universitario), este tipo de plazas de promocion interna suelen ser criticadas por limitar la concurrencia competitiva externa, favoreciendo la endogamia universitaria al estar diseñadas para personal que ya forma parte de la institucion. No se aprecian gastos fantasma, pero el coste salarial derivado del ascenso a catedratico recae sobre los presupuestos publicos de educacion sin una convocatoria abierta al talento internacional.",
+    "resumen_ciudadano": "La Universidad Publica de Navarra ha nombrado formalmente a Robinson Ramirez Velez como Catedratico en el area de Fisioterapia en el Campus de Tudela. Este ascenso es fruto de un concurso de meritos interno iniciado en mayo de 2026.",
+    "resumen_tweet": "📢 Nuevo catedratico en la UPNA mediante promocion interna. Aunque el proceso es transparente, este sistema limita la entrada de talento externo a la universidad publica. Ascenso en el area de Fisioterapia (Tudela). 🏛️🔍 #BOE #Opacidad #Transparencia #Navarra",
+    "banderas_red_flags": [
+      "Promocion interna (barrera a la competencia externa)",
+      "Endogamia universitaria potencial",
+      "Gasto estructural consolidado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Robinson Ramirez Velez (ascenso y mejora salarial)",
+        "UPNA (estabilizacion de cuadros docentes)"
+      ],
+      "perdedores": [
+        "Candidatos externos (excluidos por el formato de promocion interna)",
+        "Contribuyentes (incremento de gasto publico en nomina sin apertura de plaza abierta)"
+      ]
+    },
+    "comunidad_autonoma": "Navarra",
+    "tipologia": "Nombramientos de personal docente",
+    "banderas_rojas": [
+      "Promocion interna (barrera a la competencia externa)",
+      "Endogamia universitaria potencial",
+      "Gasto estructural consolidado"
+    ]
+  },
+  "tweeted": false
+}
