@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24701",
+  "timestamp": "2026-11-25T21:35:03.306Z",
+  "title": "Real Decreto-ley 43/2026, de 24 de noviembre, por el que se prorroga para 2027 la aplicación del Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras, se adoptan medidas de naturaleza tributaria para incentivar la actividad económica llevada a cabo por los trabajadores autónomos y medidas urgentes para el impulso de la competitividad económica.",
+  "report": {
+    "nivel_transparencia": 6.2,
+    "analisis_critico": "El Real Decreto-ley 43/2026 presenta una técnica legislativa de 'amalgama', mezclando la prórroga de un impuesto sectorial (banca) con alivios burocráticos para autónomos. La justificación de la prórroga del impuesto bancario se basa en la 'rentabilidad persistente' según datos del Banco de España, lo cual roza la arbitrariedad al no definir qué umbral de rentabilidad justifica la excepcionalidad impositiva. La mayor opacidad reside en la canalización de estos fondos hacia 'políticas de vivienda' a través de Conferencias Sectoriales, un mecanismo de reparto discrecional entre CCAA que dificulta el rastreo del euro final. Por otro lado, la subida de deducciones por 'gastos de difícil justificación' es una confesión de la incapacidad de la administración para gestionar una fiscalidad real basada en ingresos y gastos verificables.",
+    "resumen_ciudadano": "El Gobierno extiende un año más el impuesto especial a los bancos con la promesa de usar ese dinero para vivienda pública. Para compensar, facilita la vida a los autónomos que ganen menos de 85.000€, permitiéndoles declarar el IVA solo una vez al año y dándoles un margen extra en sus deducciones de gastos. También se retrasa la obligación tecnológica de la factura electrónica para dar más tiempo a las pequeñas empresas.",
+    "resumen_tweet": "🏦 Prórroga del hachazo a la banca hasta 2027 bajo la excusa de la vivienda, pero sin reglas claras de reparto. 🛠️ Parches fiscales para autónomos: menos papeleo y más deducciones 'a ojo'. ¿Transparencia o electoralismo? #BOE #Opacidad #Transparencia ⚖️",
+    "banderas_red_flags": [
+      "Uso de la Conferencia Sectorial para repartir fondos de vivienda (opacidad en el destino final)",
+      "Falta de umbrales técnicos de rentabilidad para justificar la prórroga impositiva",
+      "Arbitrariedad en el incremento del 5% en gastos de difícil justificación",
+      "Uso de un Real Decreto-ley para medidas que no parecen de extrema urgencia sino de planificación presupuestaria"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores autónomos de baja facturación (menos de 85.000€)",
+        "Comunidades Autónomas (recibirán fondos de vivienda)",
+        "Gestorías (simplificación de trámites recurrentes)"
+      ],
+      "perdedores": [
+        "Entidades financieras (extensión de carga tributaria)",
+        "Proveedores de software de facturación (retraso en la obligatoriedad)",
+        "Ciudadanos demandantes de vivienda (incertidumbre sobre el impacto real del gasto)"
+      ]
+    },
+    "comunidad_autonoma": "Todo el territorio nacional",
+    "tipologia": "Real Decreto-ley de medidas tributarias y económicas",
+    "banderas_rojas": [
+      "Uso de la Conferencia Sectorial para repartir fondos de vivienda (opacidad en el destino final)",
+      "Falta de umbrales técnicos de rentabilidad para justificar la prórroga impositiva",
+      "Arbitrariedad en el incremento del 5% en gastos de difícil justificación",
+      "Uso de un Real Decreto-ley para medidas que no parecen de extrema urgencia sino de planificación presupuestaria"
+    ]
+  },
+  "tweeted": false
+}
