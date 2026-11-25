@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-24714",
+  "timestamp": "2026-11-25T08:39:23.941Z",
+  "title": "Decreto de 6 de noviembre de 2026, de la Fiscal General del Estado, por el que se nombra Fiscal Delegada contra los Delitos de Odio y Discriminación en la Fiscalía Provincial de Ciudad Real a doña Rocío Bernal Monteagudo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El decreto formaliza el nombramiento de una fiscal delegada en una materia de alta sensibilidad politica como son los delitos de odio. Aunque el procedimiento cumple con el Reglamento del Ministerio Fiscal, el hecho de que solo haya existido una candidata para la plaza sugiere una falta de competencia interna o de incentivos para estos cargos especializados. Se observa una continuidad funcional, ya que la candidata ya realizaba estas tareas, lo que podria indicar un nombramiento de caracter inercial bajo la apariencia de una convocatoria abierta. No se detalla el impacto presupuestario ni las dietas asociadas a la delegacion.",
+    "resumen_ciudadano": "Se ha nombrado oficialmente a Rocio Bernal Monteagudo como Fiscal Delegada contra los Delitos de Odio en Ciudad Real. Fue la unica persona que solicito el puesto y ya tenia experiencia previa en el area. El proceso ha sido validado por la Fiscal General del Estado y el Consejo Fiscal.",
+    "resumen_tweet": "⚖️ Ciudad Real tiene nueva Fiscal de Delitos de Odio. Rocio Bernal fue la unica candidata al puesto. ¿Especializacion real o falta de interes en la carrera fiscal? La transparencia exige mas que candidaturas unicas. #BOE #Opacidad #Justicia 🧐",
+    "banderas_red_flags": [
+      "Candidatura unica sin competencia",
+      "Ausencia de desglose presupuestario para la delegacion",
+      "Continuismo administrativo"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rocio Bernal Monteagudo (consolidacion de plaza)",
+        "Ministerio Fiscal (cobertura administrativa)"
+      ],
+      "perdedores": [
+        "Ciudadania (por falta de pluralidad en la seleccion)",
+        "Candidatos potenciales (por desincentivos en la especialidad)"
+      ]
+    },
+    "comunidad_autonoma": "Castilla-La Mancha",
+    "tipologia": "Nombramiento de Personal",
+    "banderas_rojas": [
+      "Candidatura unica sin competencia",
+      "Ausencia de desglose presupuestario para la delegacion",
+      "Continuismo administrativo"
+    ]
+  },
+  "tweeted": false
+}
