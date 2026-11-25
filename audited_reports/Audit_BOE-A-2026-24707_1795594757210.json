@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24707",
+  "timestamp": "2026-11-25T08:19:17.210Z",
+  "title": "Resolución de 13 de noviembre de 2026, de la Dirección de la Agencia Estatal de Meteorología, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 27 de agosto de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Esta resolución formaliza el nombramiento de tres altos cargos (Nivel 30, el máximo en la escala funcionarial) en la AEMET bajo el sistema de 'libre designación'. Este mecanismo permite la selección discrecional por 'confianza' en lugar de un concurso de méritos puro, lo que debilita la meritocracia administrativa. Los perfiles seleccionados pertenecen al grupo A1 y provienen de otros ministerios, lo que sugiere una rotación de élites administrativas protegida por el Real Decreto-ley 6/2023, el cual agiliza estos procesos bajo el pretexto de la ejecución del Plan de Recuperación.",
+    "resumen_ciudadano": "La Agencia Estatal de Meteorología ha cubierto tres puestos directivos clave en Tecnología, Informática y Gestión. Estos puestos han sido asignados mediante libre designación (elección directa), una práctica legal pero que reduce la competitividad y la transparencia en el acceso a las funciones públicas de mayor nivel salarial y responsabilidad.",
+    "resumen_tweet": "🚨 ¡Más cargos 'a dedo'! La AEMET adjudica 3 puestos de Nivel 30 (el máximo) por libre designación. Áreas clave de Tecnología y Gestión decididas por confianza, no por concurso abierto. ¿Meritocracia o red de favores? ☁️📉 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Sistema de libre designación en puestos técnicos",
+      "Nombramiento de máximo nivel (Nivel 30)",
+      "Resolución parcial de convocatoria previa",
+      "Uso de decretos de urgencia para gestión de personal"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del grupo A1",
+        "Dirección de la AEMET (consolidación de equipo afín)",
+        "Ministerio para la Transición Ecológica"
+      ],
+      "perdedores": [
+        "Sistema de concurso-oposición",
+        "Transparencia en la función pública",
+        "Ciudadanía (por potencial falta de imparcialidad en cargos técnicos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Nombramientos por Libre Designación",
+    "banderas_rojas": [
+      "Sistema de libre designación en puestos técnicos",
+      "Nombramiento de máximo nivel (Nivel 30)",
+      "Resolución parcial de convocatoria previa",
+      "Uso de decretos de urgencia para gestión de personal"
+    ]
+  },
+  "tweeted": false
+}
