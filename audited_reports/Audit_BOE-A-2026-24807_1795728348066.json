@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24807",
+  "timestamp": "2026-11-26T21:25:48.066Z",
+  "title": "Real Decreto 1070/2026, de 25 de noviembre, por el que se regula la concesión directa de una subvención a la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España para financiar el ejercicio de sus funciones como Organismo Intermedio de los fondos de la Unión Europea.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto recurre a la figura de la 'concesión directa' para evitar la concurrencia competitiva, amparándose en una supuesta excepcionalidad por la naturaleza de la Cámara de España. Se detectan 'Gastos Fantasma' potenciales en el artículo 5.2.c, donde se autorizan 'otros costes humanos y materiales' de forma genérica, lo que permite el desvío de fondos a estructuras administrativas no detalladas. Existe una incongruencia ideológica al delegar funciones de control de fondos públicos (FEDER/FSE+) en una entidad que, aunque de derecho público, representa intereses corporativos privados, lo que difumina la línea de la fiscalización pública rigurosa.",
+    "resumen_ciudadano": "El Gobierno otorga una subvención directa a la Cámara de España para que gestione fondos europeos. En lugar de realizar un concurso público para estos servicios de gestión y auditoría, se entrega el dinero a dedo alegando que solo esta entidad puede hacerlo. El texto permite pagar sueldos y equipos informáticos sin especificar límites claros ni controles externos adicionales.",
+    "resumen_tweet": "🚨 ¡Alerta de Opacidad! El Gobierno otorga subvención directa a la Cámara de España para gestionar fondos UE. ¿Por qué sin concurso? El concepto 'otros costes' es un cheque en blanco. 💸🔎 #BOE #Opacidad #Transparencia #FondosEuropeos",
+    "banderas_red_flags": [
+      "Adjudicación sin concurso público",
+      "Definición ambigua de gastos subvencionables (otros costes)",
+      "Externalización de funciones de control estatal",
+      "Posible conflicto de intereses corporativos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Cámara de Comercio de España (financiación garantizada)",
+        "Consultoras tecnológicas (contratación de sistemas)",
+        "Altos cargos de la corporación cameral"
+      ],
+      "perdedores": [
+        "Administración Pública (pérdida de competencias directas)",
+        "Pequeñas empresas (excluidas de la gestión de estos fondos)",
+        "Ciudadanía (menor transparencia en el uso del dinero público)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Adjudicación sin concurso público",
+      "Definición ambigua de gastos subvencionables (otros costes)",
+      "Externalización de funciones de control estatal",
+      "Posible conflicto de intereses corporativos"
+    ]
+  },
+  "tweeted": false
+}
