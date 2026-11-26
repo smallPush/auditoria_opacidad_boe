@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24799",
+  "timestamp": "2026-11-26T21:20:21.406Z",
+  "title": "Real Decreto 1045/2026, de 25 de noviembre, por el que se regula la concesión directa de una subvención al Colegio de Ingenieros de Caminos, Canales y Puertos para la realización de actividades de promoción de la ingeniería de Caminos, Canales y Puertos.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto utiliza la figura de 'concesión directa' para evitar la concurrencia competitiva, amparándose en una supuesta exclusividad competencial del Colegio de Ingenieros de Caminos (CICCP) que es cuestionable desde el punto de vista de la libre competencia. El texto justifica la ayuda alegando la falta de egresados y opositores al Estado, trasladando la responsabilidad de captación de talento público a una corporación de derecho privado mediante fondos públicos. La ausencia de una cuantía económica específica en el cuerpo del decreto remite a un presupuesto posterior, lo que dificulta el control ciudadano inmediato sobre el gasto real.",
+    "resumen_ciudadano": "El Ministerio de Transportes otorga una subvención a dedo al Colegio de Ingenieros de Caminos para que realicen actividades de promoción de su propia carrera y atraigan a jóvenes hacia las oposiciones del Estado. Se excluye a otros profesionales de la ingeniería civil bajo el argumento de que solo los de 'Caminos' tienen competencias plenas, consolidando un privilegio gremial financiado con dinero público sin que otras entidades hayan podido optar a estos fondos.",
+    "resumen_tweet": "🚩 ¡Alerta de dedazo en el #BOE! Subvención directa al Colegio de Ingenieros de Caminos para 'promocionar la profesión'. ¿Por qué no hay concurso público? 💸 Financiando lobbies con dinero de todos bajo la excusa de buscar opositores. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Ausencia de cuantía económica exacta en el decreto",
+      "Justificación de exclusividad basada en jerarquía académica",
+      "Uso de presupuestos prorrogados para gastos no urgentes",
+      "Subvención con fines de captación para el propio cuerpo de funcionarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Colegio de Ingenieros de Caminos, Canales y Puertos (CICCP)",
+        "Altos cargos del Cuerpo de Ingenieros del Estado",
+        "Lobbies de la ingeniería civil de élite"
+      ],
+      "perdedores": [
+        "Ingenieros Técnicos de Obras Públicas (discriminados explícitamente)",
+        "Contribuyentes (por falta de licitación competitiva)",
+        "Otras asociaciones profesionales del sector transporte"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Ausencia de cuantía económica exacta en el decreto",
+      "Justificación de exclusividad basada en jerarquía académica",
+      "Uso de presupuestos prorrogados para gastos no urgentes",
+      "Subvención con fines de captación para el propio cuerpo de funcionarios"
+    ]
+  },
+  "tweeted": false
+}
