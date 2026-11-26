@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24798",
+  "timestamp": "2026-11-26T21:21:58.486Z",
+  "title": "Real Decreto 1033/2026, de 25 de noviembre, por el que se regula la concesión directa de una subvención de la Secretaría de Estado para la Unión Europea al Consejo Federal Español del Movimiento Europeo y a la Liga Europea de Cooperación Económica para el fomento de los valores sociales y culturales en el proceso de integración europea.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 1033/2026 recurre a la figura de la 'concesión directa' alegando una excepcionalidad discutible. Se justifica la falta de concurso público argumentando que CFEME y LECE son las únicas entidades capaces de realizar estas actividades, lo cual crea un monopolio de facto en la promoción del 'europeísmo'. Bajo una retórica de 'valores sociales y culturales', se canalizan 84.560 € a entidades privadas para eventos conmemorativos y 'sesiones de trabajo' cuyos indicadores de impacto real son vagos. Además, el uso de presupuestos prorrogados de 2023 para financiar actividades en 2026 erosiona el control parlamentario sobre el gasto corriente.",
+    "resumen_ciudadano": "El Gobierno ha otorgado directamente y sin concurso público un total de 84.560 euros a dos asociaciones privadas (el Consejo Federal Español del Movimiento Europeo y la Liga Europea de Cooperación Económica). El dinero se destina a organizar seminarios, cursos de verano y actos por el 40 aniversario de la entrada de España en la UE. Al no ser un proceso abierto, otras organizaciones no han podido optar a estos fondos, justificándose en que estas dos entidades tienen una 'posición privilegiada' histórica.",
+    "resumen_tweet": "⚠️ ¡DEDAZO en el #BOE! El Gobierno adjudica 84.560€ a dedo a dos asociaciones para 'fomentar valores europeos' 🇪🇺. Sin concurso público ni competencia, alegando 'excepcionalidad'. ¿Transparencia o red de favores? 🤔💸 #Opacidad #Transparencia #GastoPúblico",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de excepcionalidad basada en la trayectoria histórica y no en criterios técnicos actuales",
+      "Financiación de gastos de personal 'específico y total' difícilmente auditables",
+      "Uso de presupuestos prorrogados para evitar el debate presupuestario nuevo",
+      "Falta de métricas de éxito objetivas para las actividades financiadas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Consejo Federal Español del Movimiento Europeo (CFEME)",
+        "Liga Europea de Cooperación Económica (LECE)",
+        "Élites académicas y diplomáticas participantes en seminarios y cursos de verano"
+      ],
+      "perdedores": [
+        "Otras asociaciones europeístas de la sociedad civil excluidas del acceso a fondos públicos",
+        "Contribuyentes, debido a la ausencia de competencia que asegure la eficiencia del gasto",
+        "Sistema de transparencia pública al normalizar la subvención nominativa fuera de presupuestos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvención de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Justificación de excepcionalidad basada en la trayectoria histórica y no en criterios técnicos actuales",
+      "Financiación de gastos de personal 'específico y total' difícilmente auditables",
+      "Uso de presupuestos prorrogados para evitar el debate presupuestario nuevo",
+      "Falta de métricas de éxito objetivas para las actividades financiadas"
+    ]
+  },
+  "tweeted": false
+}
