@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24803",
+  "timestamp": "2026-11-26T21:24:11.403Z",
+  "title": "Real Decreto 1057/2026, de 25 de noviembre, por el que se regula la concesión directa a la Comunitat Valenciana de una subvención para la implementación de un instrumento de apoyo al establecimiento de plantas de ensamblaje de baterías para el sector de automoción.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El uso recurrente de la 'concesión directa' mediante el artículo 22.2.c de la Ley General de Subvenciones erosiona el principio de concurrencia competitiva. Aunque se justifica bajo el paraguas de la transición energética y el interés público, la norma no identifica a las empresas finales, delegando en la Comunitat Valenciana la creación de un 'instrumento' ad hoc. La tramitación de urgencia y la cofinanciación forzada de 4 millones adicionales por parte de la autonomía plantean dudas sobre la planificación financiera real y la equidad territorial frente a otras regiones industriales.",
+    "resumen_ciudadano": "El Gobierno central entrega 4 millones de euros a la Comunitat Valenciana, obligándola a aportar otros 4 millones de sus fondos propios, para crear un programa de ayudas a plantas de baterías. El dinero se otorga 'a dedo' a la administración regional sin concurso público, con el objetivo de atraer grandes inversiones industriales en el sector del coche eléctrico.",
+    "resumen_tweet": "🚨 ¡Alerta de opacidad en el #BOE! Subvención DIRECTA de 4M€ para plantas de baterías en Valencia 🔋. Se evita el concurso público y se tramita por 'urgencia'. ¿A qué empresas irá realmente el dinero? 🤔 #Transparencia #Opacidad #Automoción",
+    "banderas_red_flags": [
+      "Ausencia de concurrencia competitiva (dedazo administrativo)",
+      "Tramitación de urgencia para reducir plazos de fiscalización",
+      "Falta de concreción de los beneficiarios finales (grandes empresas industriales)",
+      "Carga financiera impuesta a la administración autonómica como condición"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales de la automoción",
+        "Gobierno de la Comunitat Valenciana (rédito político)",
+        "Sector de componentes de alta tecnología"
+      ],
+      "perdedores": [
+        "PYMES que no acceden a proyectos de gran escala",
+        "Otras Comunidades Autónomas con proyectos similares sin apoyo directo",
+        "Ciudadanía (por menor eficiencia del gasto sin competencia)"
+      ]
+    },
+    "comunidad_autonoma": "Comunitat Valenciana",
+    "tipologia": "Real Decreto de Concesión Directa de Subvenciones",
+    "banderas_rojas": [
+      "Ausencia de concurrencia competitiva (dedazo administrativo)",
+      "Tramitación de urgencia para reducir plazos de fiscalización",
+      "Falta de concreción de los beneficiarios finales (grandes empresas industriales)",
+      "Carga financiera impuesta a la administración autonómica como condición"
+    ]
+  },
+  "tweeted": false
+}
