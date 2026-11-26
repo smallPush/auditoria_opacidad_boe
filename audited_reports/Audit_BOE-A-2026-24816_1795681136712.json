@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24816",
+  "timestamp": "2026-11-26T08:18:56.712Z",
+  "title": "Resolución de 18 de noviembre de 2026, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 8 de octubre de 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El documento revela la adjudicacion de puestos de maxima responsabilidad (niveles 28 y 29) en la AEMPS mediante el sistema de libre designacion, caracterizado por su discrecionalidad. Es critico observar que todos los adjudicatarios provienen de la misma agencia y del mismo departamento donde consiguen el puesto, lo que sugiere una estructura de endogamia administrativa o un proceso de consolidacion de plazas para personal ya afin a la cupula directiva. No hay ahorro presupuestario, sino blindaje de la elite funcionarial Grupo A1.",
+    "resumen_ciudadano": "Sanidad formaliza la eleccion a dedo de cuatro altos directivos para la Agencia Espanola de Medicamentos. Estos cargos, con los salarios mas altos de la administracion, han sido otorgados a personas que ya trabajaban en los mismos departamentos, lo que cuestiona la apertura y la meritocracia real del proceso frente al favoritismo institucional.",
+    "resumen_tweet": "🚨 Nuevo dedazo en Sanidad. La AEMPS reparte puestos de Nivel 29 por libre designacion. ¿Meritocracia? Todos los elegidos ya estaban dentro en los mismos departamentos. El sistema de confianza blinda a la elite administrativa. 🏥💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Libre designacion (nombramiento discrecional)",
+      "Endogamia institucional",
+      "Puestos de nivel maximo salarial",
+      "Adjudicacion interna sin renovacion de perfiles"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos funcionarios del Grupo A1",
+        "Cuerpo de Farmaceuticos de la Sanidad Nacional",
+        "Elite administrativa de la AEMPS"
+      ],
+      "perdedores": [
+        "Funcionarios de carrera sin red de contactos",
+        "Transparencia en el acceso a la funcion publica",
+        "Ciudadania (por falta de competencia en seleccion)"
+      ]
+    },
+    "comunidad_autonoma": "Madrid (Sede Estatal)",
+    "tipologia": "Nombramientos por Libre Designacion",
+    "banderas_rojas": [
+      "Libre designacion (nombramiento discrecional)",
+      "Endogamia institucional",
+      "Puestos de nivel maximo salarial",
+      "Adjudicacion interna sin renovacion de perfiles"
+    ]
+  },
+  "tweeted": false
+}
