@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24797",
+  "timestamp": "2026-11-26T07:09:55.003Z",
+  "title": "Modificaciones al Reglamento del Tratado de cooperación en materia de patentes (PCT) adoptadas el 17 de julio de 2024 por la Asamblea de la Unión Internacional de Cooperación en materia de patentes (Unión PCT) en su 56.º periodo de sesiones (32.º extraordinario).",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "Las modificaciones al Reglamento del PCT reflejan una transición agresiva hacia la digitalización obligatoria (Regla 89 bis), eliminando la flexibilidad del papel bajo amenaza de considerar la solicitud como retirada. Aunque se vende como eficiencia, esto traslada la carga administrativa y de costes al ciudadano. Además, la expansión del concepto de 'Estado de la técnica' (Reglas 33 y 64) para incluir divulgaciones 'por cualquier medio' (incluyendo orales o uso previo) aumenta la inseguridad jurídica para pequeños inventores que no cuentan con equipos legales para monitorizar bases de datos globales de divulgaciones no escritas.",
+    "resumen_ciudadano": "España adopta cambios internacionales en la gestión de patentes. Lo más relevante es que las oficinas podrán obligar a que todo se presente por internet; si envías papeles y no los digitalizas en dos meses, perderás tu solicitud. Además, ahora será más difícil patentar algo, ya que se considerará que una idea ya existe si ha sido mencionada incluso de forma oral o usada en cualquier parte del mundo antes de tu solicitud.",
+    "resumen_tweet": "🚨 ¡Atención inventores! El #BOE anuncia cambios en patentes: la digitalización pasa a ser obligatoria y el papel puede suponer el rechazo de tu idea. 🌍 Cualquier mención oral previa en el mundo anulará tu patente. #Opacidad #Transparencia #Patentes",
+    "banderas_red_flags": [
+      "Digitalización forzosa sin considerar la brecha digital",
+      "Caducidad de solicitudes por defecto de formato electrónico",
+      "Ampliación del 'Estado de la técnica' a medios no escritos (inseguridad jurídica)",
+      "Costes indirectos de traducción para el solicitante"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones con departamentos legales internacionales",
+        "Administraciones públicas (reducción de costes de archivo físico)",
+        "Traductores técnicos especializados"
+      ],
+      "perdedores": [
+        "Pequeños inventores independientes",
+        "Pymes con baja digitalización",
+        "Innovadores de entornos con lenguas no oficiales en la Unión PCT"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Acuerdo Internacional",
+    "banderas_rojas": [
+      "Digitalización forzosa sin considerar la brecha digital",
+      "Caducidad de solicitudes por defecto de formato electrónico",
+      "Ampliación del 'Estado de la técnica' a medios no escritos (inseguridad jurídica)",
+      "Costes indirectos de traducción para el solicitante"
+    ]
+  },
+  "tweeted": false
+}
