@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24800",
+  "timestamp": "2026-11-26T08:02:56.312Z",
+  "title": "Real Decreto 1046/2026, de 25 de noviembre, por el que se regula la concesión directa de una subvención a la Asociación Foro de Nuevas Tecnologías en el Transporte, ITS España, para el impulso de las nuevas tecnologías en el sector del transporte.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto 1046/2026 utiliza la figura de la 'concesión directa' para otorgar 36.000 euros a la asociación privada ITS España, esquivando el procedimiento ordinario de concurrencia competitiva. El texto justifica esta excepcionalidad alegando una 'especialización técnica' que resulta cuestionable, ya que las actividades financiadas (organizar talleres, pagar el alquiler de la oficina o la luz) podrían ser realizadas por otras entidades del sector. Se observa una transferencia de fondos públicos para sufragar gastos estructurales de un ente privado bajo una retórica de innovación y sostenibilidad que actúa como pantalla de humo. El uso de términos vagos como 'interés general' para evitar la libre competencia es un síntoma claro de opacidad administrativa.",
+    "resumen_ciudadano": "El Gobierno ha entregado 36.000€ a dedo a una asociación privada llamada ITS España. En lugar de abrir un concurso para que otras asociaciones o empresas participen, el Ministerio de Transportes afirma que solo ellos son capaces de hacer el trabajo. Lo más llamativo es que el dinero se usará para pagar los gastos básicos de la asociación: sus sueldos, el alquiler de sus oficinas, la factura del teléfono y la luz, además de viajes a congresos. Básicamente, el Estado está manteniendo la estructura de una entidad privada con dinero público sin permitir que nadie más compita por esos fondos.",
+    "resumen_tweet": "🚨 ¡Nuevo 'dedazo' en el #BOE! 36.000€ directos a una asociación privada para pagar su luz, alquiler y sueldos. El Gobierno evita el concurso público alegando 'interés general' 💸 ¿Innovación o subvención encubierta? #Opacidad #Transparencia #Transporte",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes (luz, alquiler, telefonía)",
+      "Justificación de singularidad débilmente fundamentada",
+      "Retroactividad de los gastos (cubre todo el año 2026)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Asociación ITS España (obtiene financiación estructural sin competir)",
+        "Cúpula directiva de la asociación (sueldos garantizados por el Estado)"
+      ],
+      "perdedores": [
+        "Otras asociaciones tecnológicas (excluidas del acceso a fondos)",
+        "Contribuyentes (financian costes operativos de una entidad privada)",
+        "Principio de libre mercado y competencia"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Subvención Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Financiación de gastos corrientes (luz, alquiler, telefonía)",
+      "Justificación de singularidad débilmente fundamentada",
+      "Retroactividad de los gastos (cubre todo el año 2026)"
+    ]
+  },
+  "tweeted": false
+}
