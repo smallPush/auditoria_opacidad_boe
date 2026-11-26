@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24804",
+  "timestamp": "2026-11-26T08:04:53.555Z",
+  "title": "Real Decreto 1058/2026, de 25 de noviembre, por el que se regula la concesión directa a la Comunidad de Castilla y León de una subvención para la implementación de un instrumento de apoyo al establecimiento de plantas o líneas de fabricación o ensamblaje de baterías para el sector de automoción.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "Se trata de una concesión directa de 3 millones de euros que elude el principio de concurrencia competitiva basándose en el artículo 22.2.c de la Ley General de Subvenciones. Aunque se justifica por la importancia estratégica del sector automotriz en Castilla y León, el mecanismo de 'concesión directa' reduce la fiscalización social y la igualdad de oportunidades para otros actores. El texto establece un 'instrumento de apoyo' intermedio, lo que genera una capa de opacidad adicional: el dinero público estatal se entrega a una comunidad para que esta, a su vez, lo reparta, diluyendo el rastro de la responsabilidad administrativa sobre el beneficiario final privado.",
+    "resumen_ciudadano": "El Gobierno entrega 3 millones de euros a Castilla y León, que deberá aportar otros 3 millones de su bolsillo, para crear un fondo de ayudas a fábricas de baterías. Esta ayuda se da 'a dedo', sin concurso público, justificándolo como una urgencia estratégica para no perder competitividad en el sector del coche eléctrico.",
+    "resumen_tweet": "🚨 ¡3M€ a dedo! El Gobierno usa la 'concesión directa' para financiar plantas de baterías en CyL sin concurso público. Dinero para grandes industrias bajo el paraguas de 'interés estratégico'. ¿Y la libre competencia? 🧐💼 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de excepciones legales para evitar el concurso público",
+      "Tramitación administrativa urgente",
+      "Inexistencia de beneficiarios finales identificados en el texto",
+      "Condicionamiento de gasto regional (cofinanciación obligatoria)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes multinacionales del sector automotriz (OEMs)",
+        "Gobierno Regional de Castilla y León (gestión de fondos)",
+        "Sector de la construcción industrial pesada"
+      ],
+      "perdedores": [
+        "Pequeñas y medianas empresas (PYMEs) sin acceso a subvenciones ad-hoc",
+        "Contribuyentes (por la falta de optimización de fondos vía subasta o concurso)",
+        "Sectores tecnológicos no vinculados a la automoción"
+      ]
+    },
+    "comunidad_autonoma": "Castilla y León",
+    "tipologia": "Subvención Industrial de Concesión Directa",
+    "banderas_rojas": [
+      "Concesión directa sin concurrencia competitiva",
+      "Uso de excepciones legales para evitar el concurso público",
+      "Tramitación administrativa urgente",
+      "Inexistencia de beneficiarios finales identificados en el texto",
+      "Condicionamiento de gasto regional (cofinanciación obligatoria)"
+    ]
+  },
+  "tweeted": false
+}
