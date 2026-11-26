@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24815",
+  "timestamp": "2026-11-26T21:42:42.824Z",
+  "title": "Resolución de 20 de noviembre de 2026, de la Subsecretaría, por la que se resuelve parcialmente la convocatoria de libre designación, efectuada por Resolución de 8 de octubre de 2026.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El documento formaliza un nombramiento mediante el sistema de 'Libre Designación', un mecanismo legal pero intrínsecamente opaco que permite a la administración elegir cargos de alta responsabilidad por criterios de confianza en lugar de un concurso de méritos puro. Se observa un ascenso significativo para la adjudicataria, pasando de un nivel 26 a un nivel 29 (Director/a de Área), lo que conlleva un incremento salarial y de poder administrativo sustancial en la Delegación del Gobierno en Cantabria.",
+    "resumen_ciudadano": "El Ministerio de Política Territorial ha designado a dedo a la nueva Directora del Área de Sanidad y Política Social en Cantabria. Aunque la ley permite este sistema para puestos de confianza, este método limita las oportunidades de otros funcionarios que podrían estar mejor cualificados pero no cuentan con el respaldo directo del órgano convocante.",
+    "resumen_tweet": "🚩 Nuevo dedazo en el #BOE: Nombramiento por 'libre designación' para la Dirección de Sanidad en Cantabria (Nivel 29). ¿Mérito o confianza política? La opacidad de estos puestos sigue limitando la meritocracia real. #Transparencia #Opacidad 🕵️‍♂️🏛️",
+    "banderas_red_flags": [
+      "Sistema de libre designación (discrecional)",
+      "Salto salarial y jerárquico de nivel 26 a nivel 29",
+      "Falta de desglose de méritos específicos frente a otros candidatos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ana María Portero Capdevila",
+        "Cuerpo de élite administrativa (A1)",
+        "Ministerio de Política Territorial (consolida mando de confianza)"
+      ],
+      "perdedores": [
+        "Candidatos excluidos del proceso discrecional",
+        "Ciudadanía (por falta de transparencia en la elección)",
+        "Criterio de mérito y capacidad frente al de confianza"
+      ]
+    },
+    "comunidad_autonoma": "Cantabria",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Sistema de libre designación (discrecional)",
+      "Salto salarial y jerárquico de nivel 26 a nivel 29",
+      "Falta de desglose de méritos específicos frente a otros candidatos"
+    ]
+  },
+  "tweeted": false
+}
