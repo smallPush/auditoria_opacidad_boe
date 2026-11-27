@@ -1,0 +1,37 @@
+{
+  "boe_id": "BOE-A-2026-24906",
+  "timestamp": "2026-11-27T20:46:09.232Z",
+  "title": "Real Decreto 1034/2026, de 25 de noviembre, por el que se regula la Comisión Asesora de Libertad Religiosa.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "El Real Decreto 1034/2026 moderniza la Comisión Asesora de Libertad Religiosa, pero bajo una apariencia de paridad esconde un sistema de control estatal rígido. La red flag más relevante es el voto ponderado: el poder se divide en tercios independientemente del número de miembros, lo que garantiza que la Administración y sus expertos designados siempre sumen mayoría frente a las confesiones. Además, los criterios para asignar representantes religiosos (presencia social, implantación) son subjetivos, permitiendo al Gobierno moldear el interlocutor a su conveniencia. Aunque declara coste cero, la estructura de grupos de trabajo y secretarías sugiere gastos operativos indirectos que no aparecen en la memoria económica.",
+    "resumen_ciudadano": "Se reorganiza el órgano que asesora al Gobierno en temas religiosos. Los puntos clave son: el Estado mantiene el control de las votaciones aunque haya más representantes religiosos, se exige por primera vez paridad de género y se establecen normas de incompatibilidad para que los expertos no tengan conflictos de intereses. Las religiones con mas historia en España mantienen su estatus privilegiado frente a las nuevas.",
+    "resumen_tweet": "⚖️ Nueva regulación de la Comisión de Libertad Religiosa: se blinda el poder del Estado con votos ponderados. ¿Paridad real o control disfrazado? ⛪️ Las confesiones con raigambre ganan, las minorías siguen fuera. 🕵️‍♂️ #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Voto ponderado que neutraliza la representatividad numérica de las confesiones",
+      "Criterios de representatividad basados en conceptos jurídicos indeterminados",
+      "Inexistencia de mención a entidades laicas o no creyentes en un órgano de libertad de conciencia",
+      "Cláusula de eficiencia sin desglose de dietas de asistencia"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Confesiones religiosas con estatus de notorio arraigo",
+        "Dirección General de Libertad Religiosa (Gana peso jerárquico)"
+      ],
+      "perdedores": [
+        "Minorías religiosas emergentes",
+        "Asociaciones de defensa del laicismo (Excluidas)",
+        "Transparencia presupuestaria (Gastos operativos difusos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Organización Administrativa",
+    "banderas_rojas": [
+      "Voto ponderado que neutraliza la representatividad numérica de las confesiones",
+      "Criterios de representatividad basados en conceptos jurídicos indeterminados",
+      "Inexistencia de mención a entidades laicas o no creyentes en un órgano de libertad de conciencia",
+      "Cláusula de eficiencia sin desglose de dietas de asistencia"
+    ]
+  },
+  "tweeted": false
+}
