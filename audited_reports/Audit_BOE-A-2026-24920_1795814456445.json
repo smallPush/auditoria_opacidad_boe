@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24920",
+  "timestamp": "2026-11-27T21:20:56.445Z",
+  "title": "Real Decreto 1051/2026, de 26 de noviembre, por el que se modifican diversos reales decretos que establecen las especialidades de los cuerpos docentes a los que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en relación con las lenguas no oficiales que gocen de protección legal en las comunidades autónomas.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 1051/2026 formaliza la creación de especialidades docentes para lenguas no oficiales con protección legal. Si bien el texto se ampara en la Carta Europea de Lenguas Minoritarias, se detecta una transferencia de responsabilidad financiera y organizativa hacia las Comunidades Autónomas sin una asignación presupuestaria estatal directa que garantice la equidad. La norma introduce una 'potestatividad' que puede generar disparidades en los derechos lingüísticos de los alumnos y en las condiciones laborales de los docentes según el territorio, creando un mercado laboral educativo fragmentado.",
+    "resumen_ciudadano": "Este decreto permite que lenguas que no son totalmente oficiales pero tienen protección (como el asturiano o el aragonés) cuenten con profesores especialistas reconocidos en Primaria, Secundaria y Escuelas de Idiomas. Las regiones podrán ahora convocar oposiciones y contratar personal específico para estas lenguas, igualando su estatus administrativo al de idiomas como el catalán o el gallego en la gestión de personal docente.",
+    "resumen_tweet": "📢 El #BOE abre paso a profesores especialistas en lenguas protegidas (como el asturiano) 🗣️. El Estado da el marco legal, pero las CCAA asumen el coste y la decisión. ¿Igualdad lingüística o fragmentación? 🏛️⚖️ #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Externalización de la memoria económica a las arcas autonómicas",
+      "Carácter potestativo: desigualdad de derechos según la residencia",
+      "Ambigüedad en la homologación de títulos para las nuevas especialidades",
+      "Falta de mención al impacto en la movilidad nacional del profesorado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Docentes interinos de lenguas minoritarias",
+        "Administraciones autonómicas con agenda de identidad lingüística",
+        "Sindicatos de enseñanza regionales"
+      ],
+      "perdedores": [
+        "Opositores de otras regiones (nuevas barreras lingüísticas)",
+        "Contribuyentes autonómicos (nuevos gastos estructurales)",
+        "Sistema educativo nacional (mayor fragmentación normativa)"
+      ]
+    },
+    "comunidad_autonoma": "Multirregional (Afecta a CCAA con lenguas protegidas)",
+    "tipologia": "Real Decreto de Modificación de Especialidades Docentes",
+    "banderas_rojas": [
+      "Externalización de la memoria económica a las arcas autonómicas",
+      "Carácter potestativo: desigualdad de derechos según la residencia",
+      "Ambigüedad en la homologación de títulos para las nuevas especialidades",
+      "Falta de mención al impacto en la movilidad nacional del profesorado"
+    ]
+  },
+  "tweeted": false
+}
