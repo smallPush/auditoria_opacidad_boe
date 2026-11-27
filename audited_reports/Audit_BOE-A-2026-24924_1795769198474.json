@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24924",
+  "timestamp": "2026-11-27T08:46:38.474Z",
+  "title": "Real Decreto 1062/2026, de 26 de noviembre, por el que se modifican determinadas disposiciones normativas para adoptar medidas urgentes para la integración de la generación renovable y la agilización de los procedimientos de acceso, conexión y autorización en el sector energético y la información a los consumidores.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "Bajo la narrativa de emergencia por la crisis geopolítica de 2026, el decreto facilita una 'vía rápida' para la consolidación de los actores energéticos dominantes. La exención de informes de la CNMC para empresas con 10 años de experiencia crea una barrera de entrada implícita para nuevos competidores, blindando el oligopolio actual. Aunque se amplía el plazo de audiencia pública, la liberalización de capacidad en 'nudos de concurso' para repotenciación eólica beneficia directamente a los propietarios de activos antiguos (grandes eléctricas), en detrimento de subastas abiertas y competitivas.",
+    "resumen_ciudadano": "El Gobierno modifica las normas para que las grandes eléctricas puedan renovar sus molinos de viento y conectar industrias pesadas con menos trámites. Se eliminan controles técnicos para empresas veteranas y se promete más información en la factura del gas mediante códigos QR. El objetivo declarado es reducir la dependencia del gas extranjero, pero en la práctica facilita que las empresas que ya controlan la red tengan prioridad sobre nuevos proyectos ciudadanos o pequeñas empresas.",
+    "resumen_tweet": "🚨 Alerta #BOE: El Gobierno agiliza trámites eléctricos por la crisis de 2026. ⚡️ Grandes eléctricas se libran de informes de la CNMC y ganan prioridad en la red. Menos burocracia para los de siempre, ¿más ahorro real? #Opacidad #Transparencia #Energía 🧐",
+    "banderas_red_flags": [
+      "Exención de informes de capacidad legal y técnica para transportistas y distribuidores tradicionales",
+      "Priorización de repotenciación eólica sobre nuevos proyectos en nudos de red saturados",
+      "Exención de evaluación ambiental para la tecnología DLR en líneas de alta tensión",
+      "Uso de un Real Decreto para cambios estructurales bajo justificación de coyuntura bélica"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones eléctricas (facilitación de trámites)",
+        "Industria electrointensiva (acceso prioritario a autoconsumo)",
+        "Empresas de tecnología de sensores (DLR)"
+      ],
+      "perdedores": [
+        "Nuevos operadores energéticos (menores facilidades administrativas)",
+        "Pymes y cooperativas energéticas (excluidas de las exenciones de informes)",
+        "Consumidores vulnerables (el ahorro depende de un QR informativo, no de una bajada de peajes)"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Reforma del Sector Energético y Procedimiento Administrativo",
+    "banderas_rojas": [
+      "Exención de informes de capacidad legal y técnica para transportistas y distribuidores tradicionales",
+      "Priorización de repotenciación eólica sobre nuevos proyectos en nudos de red saturados",
+      "Exención de evaluación ambiental para la tecnología DLR en líneas de alta tensión",
+      "Uso de un Real Decreto para cambios estructurales bajo justificación de coyuntura bélica"
+    ]
+  },
+  "tweeted": false
+}
