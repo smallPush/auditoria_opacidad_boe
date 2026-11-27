@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-24922",
+  "timestamp": "2026-11-27T08:24:00.977Z",
+  "title": "Real Decreto 1053/2026, de 26 de noviembre, por el que se regula la concesión directa de una subvención a la Real Federación Española de Automovilismo para la organización del Rally Islas Canarias WRC 2026.",
+  "report": {
+    "nivel_transparencia": 3,
+    "analisis_critico": "El Real Decreto utiliza la figura de la 'concesión directa' (Artículo 22.2.c de la Ley General de Subvenciones) para evitar el régimen de concurrencia competitiva, alegando una excepcionalidad difícil de justificar para un evento deportivo programado con años de antelación. Se adjudican 1,2 millones de euros a una entidad privada (RFEDA) mediante un procedimiento que erosiona la igualdad de oportunidades para otras federaciones o eventos. La norma justifica el 'interés público' basándose en el impacto turístico, pero no desglosa métricas objetivas de retorno social comparado con la inversión en servicios básicos.",
+    "resumen_ciudadano": "El Gobierno ha otorgado directamente 1.200.000 euros a la Real Federación Española de Automovilismo para organizar el Rally Islas Canarias de 2026. Al usar un decreto especial, se salta el concurso público habitual. El dinero se entrega por adelantado y cubrirá desde montajes hasta viajes y sueldos de personal de la federación. Aunque se promociona como motor económico para Canarias, el proceso carece de la transparencia que daría una convocatoria abierta a otros proyectos.",
+    "resumen_tweet": "🚨 ¡1,2 MILLONES a dedo! El Gobierno usa la 'concesión directa' para financiar el Rally Islas Canarias WRC 2026 🏎️💨. Se evita el concurso público alegando 'excepcionalidad'. ¿Dinero público para élites del motor? #BOE #Opacidad #Transparencia #Canarias",
+    "banderas_red_flags": [
+      "Adjudicación sin concurso público (dedazo legislativo)",
+      "Pago anticipado del 100% de la subvención",
+      "Exoneración de presentar garantías financieras por la entidad",
+      "Inclusión de 'costes indirectos' sin desglose detallado en el texto",
+      "Justificación de excepcionalidad para un evento previsible y recurrente"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Real Federación Española de Automovilismo (RFEDA)",
+        "Promotores internacionales del WRC",
+        "Sector hotelero de lujo en Canarias"
+      ],
+      "perdedores": [
+        "Contribuyentes (falta de eficiencia en gasto)",
+        "Deportes de base (sin acceso a fondos directos equivalentes)",
+        "Otras disciplinas deportivas con menor visibilidad mediática"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Subvención Directa por Real Decreto",
+    "banderas_rojas": [
+      "Adjudicación sin concurso público (dedazo legislativo)",
+      "Pago anticipado del 100% de la subvención",
+      "Exoneración de presentar garantías financieras por la entidad",
+      "Inclusión de 'costes indirectos' sin desglose detallado en el texto",
+      "Justificación de excepcionalidad para un evento previsible y recurrente"
+    ]
+  },
+  "tweeted": false
+}
