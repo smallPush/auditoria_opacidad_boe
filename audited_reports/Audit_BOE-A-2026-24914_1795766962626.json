@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24914",
+  "timestamp": "2026-11-27T08:09:22.626Z",
+  "title": "Real Decreto 1042/2026, de 25 de noviembre, por el que se regula la concesión y utilización del distintivo «Igualdad en la empresa y por una sociedad libre de violencia de género».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1042/2026 realiza una maniobra de 'rebranding' institucional integrando leyes previas (Libertad Sexual y Paridad) bajo un nuevo sello de excelencia. Aunque alega simplificación administrativa, el paso a un régimen de concurrencia NO competitiva y vigencia indefinida genera el riesgo de convertir el distintivo en un mero trámite burocrático de 'compliance' en lugar de un incentivo de mejora real. Existe una ambigüedad latente sobre el coste real de supervisión para la Administración tras eliminar las renovaciones periódicas, lo que podría derivar en un 'laissez-faire' regulatorio donde el sello se mantiene por inercia administrativa.",
+    "resumen_ciudadano": "Se crea un nuevo sello oficial para empresas que cumplen con planes de igualdad y medidas contra la violencia de género. A diferencia de antes, ya no habrá un límite de empresas premiadas (todas las que cumplan el mínimo lo obtienen) y el sello no caducará, aunque el Gobierno podrá retirarlo si detecta infracciones. Se facilita el acceso a cooperativas y se simplifican los papeles necesarios para solicitarlo.",
+    "resumen_tweet": "📢 ¿Premios por cumplir la ley? El nuevo distintivo de #Igualdad será indefinido y no competitivo. Cuidado con el #PurpleWashing: sin renovaciones periódicas, el control real puede diluirse. 💼🚫 #BOE #Opacidad #Transparencia #Igualdad",
+    "banderas_red_flags": [
+      "Concurrencia no competitiva: riesgo de devaluación del estándar de excelencia",
+      "Vigencia indefinida: reduce los hitos de auditoría obligatoria por parte del Estado",
+      "Externalización de la validación: se permite que la propia Comisión de Seguimiento de la empresa avale la candidatura",
+      "Opacidad en el gasto: no se detalla el presupuesto asignado para la supervisión continua del registro indefinido"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones (facilidad para mantener el sello sin renovaciones constantes)",
+        "Consultoras de igualdad (nuevo mercado de asesoría para la obtención del sello único)",
+        "Cooperativas de trabajo asociado (se les abre la puerta explícitamente)"
+      ],
+      "perdedores": [
+        "PYMES (la carga de demostrar 'excelencia' sigue siendo desproporcionada frente a grandes empresas)",
+        "Sindicatos (su capacidad de veto se matiza al permitirse avales internos de comisiones de seguimiento)",
+        "Transparencia pública (se pierde el control que daban las convocatorias cerradas y limitadas)"
+      ]
+    },
+    "comunidad_autonoma": "Nacional (Estatal)",
+    "tipologia": "Real Decreto de regulación de distintivo empresarial",
+    "banderas_rojas": [
+      "Concurrencia no competitiva: riesgo de devaluación del estándar de excelencia",
+      "Vigencia indefinida: reduce los hitos de auditoría obligatoria por parte del Estado",
+      "Externalización de la validación: se permite que la propia Comisión de Seguimiento de la empresa avale la candidatura",
+      "Opacidad en el gasto: no se detalla el presupuesto asignado para la supervisión continua del registro indefinido"
+    ]
+  },
+  "tweeted": false
+}
