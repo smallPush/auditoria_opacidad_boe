@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24918",
+  "timestamp": "2026-11-27T08:18:39.425Z",
+  "title": "Real Decreto 1049/2026, de 26 de noviembre, por el que se califica como Centro de Referencia Nacional de Confección en Textil y Piel al Centro Integrado de Formación Profesional Paseo das Pontes, perteneciente a la Xunta de Galicia, en el área profesional de Confección en Textil y Piel, de la familia profesional de Textil, Confección y Piel, en el ámbito de la formación profesional.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1049/2026 presenta una dualidad técnica común en la administración: declara formalmente un 'no incremento del gasto' en materia de personal, pero habilita en su cláusula cuarta la financiación estatal mediante 'subvenciones de concesión directa'. Esta fórmula permite inyectar fondos públicos sin concurrencia competitiva bajo el paraguas de la innovación. La elección de A Coruña para el sector Textil y Piel refuerza el eje industrial de Galicia, pero el texto es opaco sobre qué empresas específicas participarán en los proyectos de I+D+i, lo que podría derivar en una transferencia de costes formativos de las grandes corporaciones textiles hacia el erario público.",
+    "resumen_ciudadano": "El Gobierno nombra al centro Paseo das Pontes de A Coruña como sede nacional para la formación en el sector textil y cuero. Aunque se afirma que esto no supone un gasto extra en sueldos, el Ministerio entregará dinero directamente para actividades y equipamiento. Esto convierte al centro en un laboratorio de formación e innovación financiado con dinero público que trabajará estrechamente con la industria de la zona.",
+    "resumen_tweet": "🧵 Nuevo Centro de Referencia Nacional en Galicia para Textil y Piel. ¿Austeridad? Dicen que no hay gasto extra en sueldos, pero habrá subvenciones a dedo ☝️💰. Formación pública al servicio del sector industrial. #BOE #Opacidad #Transparencia #Galicia",
+    "banderas_red_flags": [
+      "Uso de subvenciones de concesión directa (sin competencia)",
+      "Contradicción entre 'no incremento de gasto' y 'recursos económicos suficientes' garantizados",
+      "Falta de especificación de los criterios de selección de empresas colaboradoras",
+      "Externalización encubierta de la formación técnica de grandes grupos industriales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Xunta de Galicia (prestigio y fondos estatales)",
+        "Gran industria textil gallega (formación a medida e I+D subvencionada)",
+        "Ministerio de Educación (cumplimiento de hitos legislativos)"
+      ],
+      "perdedores": [
+        "Contribuyentes (por la opacidad en el coste real de las subvenciones directas)",
+        "Centros de formación profesional privados (competencia desleal financiada)",
+        "Otras regiones con industria textil menos favorecidas políticamente"
+      ]
+    },
+    "comunidad_autonoma": "Galicia",
+    "tipologia": "Real Decreto de Calificación de Centro de Referencia Nacional",
+    "banderas_rojas": [
+      "Uso de subvenciones de concesión directa (sin competencia)",
+      "Contradicción entre 'no incremento de gasto' y 'recursos económicos suficientes' garantizados",
+      "Falta de especificación de los criterios de selección de empresas colaboradoras",
+      "Externalización encubierta de la formación técnica de grandes grupos industriales"
+    ]
+  },
+  "tweeted": false
+}
