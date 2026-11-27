@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24913",
+  "timestamp": "2026-11-27T21:06:59.673Z",
+  "title": "Real Decreto 1041/2026, de 25 de noviembre, por el que se modifica el Estatuto de la Agencia Estatal de Evaluación de Políticas Públicas, aprobado por el Real Decreto 65/2026, de 3 de febrero.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1041/2026 modifica una estructura creada apenas meses antes (febrero de 2026), lo que sugiere una falta de planificación inicial o la necesidad de ajustar el control sobre los datos públicos. Bajo la apariencia de 'modernización', la norma habilita la adscripción temporal de personal externo bajo la Ley de Ciencia, lo que podría derivar en contrataciones paralelas fuera del cuerpo funcionario estándar. La tramitación por vía de urgencia y la supresión de la consulta pública por ser una 'norma organizativa' limitan la fiscalización ciudadana sobre un ente que, irónicamente, nace para evaluar la transparencia de los demás.",
+    "resumen_ciudadano": "Se reforma la recién creada Agencia Estatal de Evaluación de Políticas Públicas. Los cambios principales son: renombrar departamentos, centralizar el acceso a datos estratégicos junto al Instituto Nacional de Estadística y permitir que 'expertos' científicos externos trabajen temporalmente para la agencia. El Gobierno ha acelerado este proceso por vía urgente, evitando que la ciudadanía pueda opinar sobre estos cambios estructurales.",
+    "resumen_tweet": "🚨 El Gobierno retoca la Agencia de Evaluación a meses de su creación. Más control de datos y 'expertos' externos mediante adscripciones temporales. Tramitación URGENTE y sin consulta pública. 🧐📉 #BOE #Opacidad #Transparencia #Fiscalización",
+    "banderas_red_flags": [
+      "Tramitación urgente para cambios de nomenclatura y estructura interna",
+      "Supresión del trámite de audiencia e información pública",
+      "Uso de 'adscripciones temporales' de personal externo en una agencia de control",
+      "Reforma de un Estatuto con menos de un año de vigencia (inestabilidad normativa)"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Personal directivo público profesional (nuevas categorías blindadas)",
+        "Ministerio para la Transformación Digital (mayor peso en el control de datos)",
+        "Colaboradores y expertos externos (adscripciones temporales)"
+      ],
+      "perdedores": [
+        "Cuerpos de funcionarios de carrera (potencial desplazamiento por adscritos)",
+        "Ciudadanía (pérdida de cauces de consulta pública en la reforma)",
+        "Seguridad jurídica (modificación exprés de normas recién aprobadas)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Organizativa / Administración Pública",
+    "banderas_rojas": [
+      "Tramitación urgente para cambios de nomenclatura y estructura interna",
+      "Supresión del trámite de audiencia e información pública",
+      "Uso de 'adscripciones temporales' de personal externo en una agencia de control",
+      "Reforma de un Estatuto con menos de un año de vigencia (inestabilidad normativa)"
+    ]
+  },
+  "tweeted": false
+}
