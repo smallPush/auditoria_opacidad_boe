@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24925",
+  "timestamp": "2026-11-27T21:18:04.332Z",
+  "title": "Real Decreto 1063/2026, de 26 de noviembre, por el que se modifican determinados aspectos relativos al autoconsumo de energía eléctrica y de impulso al almacenamiento distribuido.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1063/2026 intenta desatascar el cuello de botella administrativo del autoconsumo colectivo, pero introduce figuras de mediación como el 'gestor de autoconsumo' que podrían añadir capas de opacidad si no se regulan sus honorarios. Aunque se justifica en la crisis energética de 2026, la norma delega en 'desarrollos reglamentarios futuros' el régimen de peajes y cargos para el almacenamiento, manteniendo una incertidumbre técnica clave. Destaca la creación de un panel de autoconsumo para 'entrenar modelos', lo que implica un uso masivo de datos ciudadanos con fines de operación sistémica sin una contraprestación clara en la factura para el cedente de dichos datos.",
+    "resumen_ciudadano": "Esta norma facilita que compartas energía solar con tus vecinos hasta en un radio de 5 kilómetros. Ya no necesitarás la firma de todo el edificio para hacer cambios en el reparto y se reconoce oficialmente el uso de baterías y coches eléctricos para guardar energía y usarla cuando sea más cara. También aparece la figura del 'Gestor', una persona o empresa que hará el papeleo por ti ante la eléctrica.",
+    "resumen_tweet": "⚡️ ¡Más sol para todos! El #BOE amplía a 5km el autoconsumo y crea el 'gestor' para simplificar trámites. Pero ojo: los datos de tu batería servirán para 'entrenar modelos'. ¿Transparencia o control? 🧐 #Opacidad #Transparencia #Energía",
+    "banderas_red_flags": [
+      "Creación de la figura del gestor de autoconsumo sin límites de intermediación claros",
+      "Uso de datos de consumo privado para alimentar modelos de inteligencia artificial del operador",
+      "Remisión sistemática a futuros reglamentos para definir costes reales de peajes",
+      "Ambigüedad en la financiación de los nuevos paneles de seguimiento del sistema"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes comunidades de propietarios",
+        "Empresas de gestión energética",
+        "Industria con capacidad de almacenamiento",
+        "Propietarios de vehículos eléctricos"
+      ],
+      "perdedores": [
+        "Pequeños consumidores sin capacidad de inversión en baterías",
+        "Usuarios en zonas rurales con baja densidad de red distribuida",
+        "Ciudadanos celosos de la privacidad de sus datos de generación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de modificación normativa",
+    "banderas_rojas": [
+      "Creación de la figura del gestor de autoconsumo sin límites de intermediación claros",
+      "Uso de datos de consumo privado para alimentar modelos de inteligencia artificial del operador",
+      "Remisión sistemática a futuros reglamentos para definir costes reales de peajes",
+      "Ambigüedad en la financiación de los nuevos paneles de seguimiento del sistema"
+    ]
+  },
+  "tweeted": false
+}
