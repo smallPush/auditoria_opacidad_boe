@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24908",
+  "timestamp": "2026-11-27T21:01:05.768Z",
+  "title": "Real Decreto 1036/2026, de 25 de noviembre, por el que se aprueba el Estatuto de la Agencia estatal «Agencia Española de Medicamentos y Productos Sanitarios».",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1036/2026 moderniza la AEMPS adaptándola a la Ley 40/2015, lo cual es un paso necesario pero tardío. Lo más relevante es el aumento de la estructura jerárquica con la creación de dos nuevas Subdirecciones Generales (Dirección Adjunta y Departamento de TI). Aunque se justifica por la digitalización y la coordinación internacional, esto incrementa el gasto estructural en cargos de confianza. La nota más discordante es la omisión del trámite de audiencia e información pública, amparándose en una excepción legal para regulaciones administrativas, lo que limita la participación ciudadana real en una entidad que gestiona la seguridad de los medicamentos de todos.",
+    "resumen_ciudadano": "Se aprueban los nuevos estatutos de la Agencia Española de Medicamentos. Se crean nuevos departamentos de alto nivel para gestionar la tecnología y las relaciones internacionales. Se incluyen comités para luchar contra la resistencia a los antibióticos y para que pacientes e industria tengan voz. Sin embargo, el Gobierno decidió no abrir la norma a consulta pública general antes de aprobarla.",
+    "resumen_tweet": "🚨 Auditoría #BOE: Nueva estructura para la Agencia del Medicamento (AEMPS). Más cargos de alta dirección y digitalización, pero ¡OJO! se han saltado la consulta pública amparándose en tecnicismos. ¿Participación o fachada? 💊📉 #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Omisión del trámite de audiencia e información pública",
+      "Creación de nuevas plazas de rango Subdirección General (aumento de burocracia)",
+      "Riesgo de lobby en el nuevo Comité de Partes Interesadas si no se regula el conflicto de intereses",
+      "Uso de conceptos vagos como 'optimización de recursos' para justificar expansión estructural"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos de la administración (nuevas plazas)",
+        "Industria farmacéutica (mejor interlocución institucional)",
+        "Empresas de ciberseguridad y servicios digitales"
+      ],
+      "perdedores": [
+        "Ciudadanía (privada del trámite de consulta pública)",
+        "Contribuyente (aumento del gasto en personal directivo)",
+        "Personal de escalas bajas (la reforma se centra en la cúpula directiva)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Estructura Orgánica",
+    "banderas_rojas": [
+      "Omisión del trámite de audiencia e información pública",
+      "Creación de nuevas plazas de rango Subdirección General (aumento de burocracia)",
+      "Riesgo de lobby en el nuevo Comité de Partes Interesadas si no se regula el conflicto de intereses",
+      "Uso de conceptos vagos como 'optimización de recursos' para justificar expansión estructural"
+    ]
+  },
+  "tweeted": false
+}
