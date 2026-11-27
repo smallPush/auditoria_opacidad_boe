@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24910",
+  "timestamp": "2026-11-27T08:12:06.014Z",
+  "title": "Real Decreto 1038/2026, de 25 de noviembre, por el que se modifica el Estatuto del Organismo Autónomo Consejo Superior de Deportes, aprobado por Real Decreto 460/2015, de 5 de junio.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1038/2026 formaliza una estructura de gobernanza centralizada bajo el pretexto de la modernización. La creación del 'Comité Ejecutivo del Deporte Español' institucionaliza un triunvirato (CSD, COE y CPE) que otorga un estatus casi orgánico a entidades privadas (Comités Olímpico y Paralímpico) dentro de la gestión pública estatal. Aunque se invoca la Ley 39/2022 para justificar la inclusión social y la igualdad, el texto refuerza el enfoque en el 'deporte de alto nivel' como interés público, lo que en la práctica prioriza la inversión en la élite sobre el deporte base. La cláusula de 'no incremento del gasto' es una formalidad burocrática que oculta el coste operativo de la reestructuración de personal y la burocratización de nuevos órganos de gobierno como el Consejo Rector.",
+    "resumen_ciudadano": "El Gobierno modifica el funcionamiento del Consejo Superior de Deportes (CSD) para crear un nuevo centro de poder: el Comité Ejecutivo del Deporte Español. En este comité, el CSD colaborará permanentemente con el Comité Olímpico y el Paralímpico para diseñar la estrategia deportiva de España. Se eliminan órganos anteriores (Comisión Directiva) y se refuerza el control económico sobre federaciones y ligas profesionales. Aunque se menciona la igualdad y sostenibilidad, el cambio busca blindar el liderazgo del Estado y las grandes instituciones deportivas en la toma de decisiones estratégicas.",
+    "resumen_tweet": "🚨 Nueva estructura en el deporte: El #BOE publica el nuevo estatuto del CSD. Se crea un Comité Ejecutivo con el COE y CPE para dirigir la estrategia estatal. ¿Más eficiencia o más control centralizado? 🏟️📉 #Opacidad #Transparencia #Deporte",
+    "banderas_red_flags": [
+      "Institucionalización de entes privados en la toma de decisiones públicas",
+      "Cláusula de gasto público cero que ignora costes indirectos de gestión",
+      "Concentración de facultades punitivas y de control económico en la Presidencia del CSD",
+      "Posible desplazamiento de federaciones minoritarias al priorizar el eje Olímpico/Paralímpico"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Presidencia del CSD (más poderes de ratificación y control)",
+        "Comité Olímpico Español (presencia estable en la planificación estratégica)",
+        "Comité Paralímpico Español (reconocimiento institucional al mismo nivel que el COE)"
+      ],
+      "perdedores": [
+        "Federaciones no olímpicas (menor peso en el núcleo de decisión)",
+        "Ciudadanía de a pie (enfoque presupuestario hacia el alto rendimiento sobre el deporte base)",
+        "Transparencia directa (los acuerdos del nuevo Comité Ejecutivo son cerrados, aunque pueden invitar a expertos)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Reforma Organizativa y Administrativa",
+    "banderas_rojas": [
+      "Institucionalización de entes privados en la toma de decisiones públicas",
+      "Cláusula de gasto público cero que ignora costes indirectos de gestión",
+      "Concentración de facultades punitivas y de control económico en la Presidencia del CSD",
+      "Posible desplazamiento de federaciones minoritarias al priorizar el eje Olímpico/Paralímpico"
+    ]
+  },
+  "tweeted": false
+}
