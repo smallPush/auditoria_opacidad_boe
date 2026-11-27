@@ -1,0 +1,39 @@
+{
+  "boe_id": "BOE-A-2026-24912",
+  "timestamp": "2026-11-27T08:07:23.162Z",
+  "title": "Real Decreto 1040/2026, de 25 de noviembre, por el que se aprueba el Estatuto del Instituto de Crédito Oficial.",
+  "report": {
+    "nivel_transparencia": 5,
+    "analisis_critico": "Este Real Decreto utiliza la 'urgencia' legislativa para evitar la consulta pública en una reestructuración que moviliza 13.691 millones de euros (Fondo España Crece). La creación de la 'Cartera de Financiación Promocional' permite una segregación contable que, si bien se vende como transparencia, facilita la discrecionalidad en el reparto de 2.800 millones en transferencias no reembolsables. Se observa una contradicción entre la proclamada 'independencia' del ICO y su obligación de seguir instrucciones directas del Consejo de Ministros en situaciones de crisis, lo que lo convierte de facto en una herramienta de intervención económica con criterios políticos bajo apariencia bancaria.",
+    "resumen_ciudadano": "El Gobierno ha reformado los estatutos del ICO para gestionar los nuevos fondos europeos. Se inyectan casi 14.000 millones de euros destinados a sectores 'estratégicos' como IA, espacio y defensa. La norma se ha aprobado por vía rápida, eliminando el trámite de audiencia ciudadana. El banco se divide ahora en dos partes: una para su actividad habitual y otra para ejecutar las prioridades políticas del Gobierno con fondos públicos.",
+    "resumen_tweet": "🚨 AUDITORÍA BOE: 13.691M€ inyectados al ICO mediante 'tramite urgente' saltándose la consulta pública. Se crea una estructura para repartir 2.800M€ en subvenciones con criterios difusos. ¿Banco público o caja política? 💸 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Tramitación de urgencia para evitar consulta pública (Art. 26.2 Ley Gobierno)",
+      "Asignación de 2.800 millones de euros no reembolsables sin criterios de adjudicación detallados",
+      "Ambigüedad en la definición de 'interés estratégico' (incluye desde espacio hasta cuidados)",
+      "Clasificación de operaciones como 'promocionales' sujeta a decisiones del Consejo General nombrado por el Gobierno"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes corporaciones de sectores tecnológicos (IA, Semiconductores)",
+        "Industria de defensa y doble uso",
+        "Fondos de capital riesgo privados (como co-inversores)",
+        "Ministerio de Economía (refuerza su control sobre el crédito)"
+      ],
+      "perdedores": [
+        "Pequeñas y medianas empresas (PYMES) sin acceso a programas de 'escala'",
+        "Transparencia democrática (por la vía de urgencia)",
+        "Contribuyentes (asunción de riesgos en sectores de alta incertidumbre)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Estatuto / Reestructuración de Entidad Pública",
+    "banderas_rojas": [
+      "Tramitación de urgencia para evitar consulta pública (Art. 26.2 Ley Gobierno)",
+      "Asignación de 2.800 millones de euros no reembolsables sin criterios de adjudicación detallados",
+      "Ambigüedad en la definición de 'interés estratégico' (incluye desde espacio hasta cuidados)",
+      "Clasificación de operaciones como 'promocionales' sujeta a decisiones del Consejo General nombrado por el Gobierno"
+    ]
+  },
+  "tweeted": false
+}
