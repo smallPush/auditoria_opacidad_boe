@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24919",
+  "timestamp": "2026-11-27T08:16:46.318Z",
+  "title": "Real Decreto 1050/2026, de 26 de noviembre, por el que se establece la ordenación de las enseñanzas artísticas superiores y los procedimientos de garantía de su calidad.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El Real Decreto 1050/2026 intenta modernizar las enseñanzas artísticas integrándolas plenamente en el Espacio Europeo de Educación Superior. Sin embargo, lo hace replicando la pesada arquitectura burocrática del sistema universitario (verificación, acreditación, seguimiento). Esta 'universitarización' de las artes impone una estructura administrativa que puede asfixiar la flexibilidad creativa. Se detecta una falta de concreción presupuestaria para el despliegue del 'aplicativo informático' y la gestión de las nuevas agencias de calidad, lo que abre la puerta a gastos derivados no auditados.",
+    "resumen_ciudadano": "Este decreto equipara oficialmente los estudios de arte, música y diseño a los títulos universitarios (Grado, Máster y Doctorado). Se introducen las prácticas externas obligatorias y la formación dual. No obstante, establece pruebas de acceso específicas que pueden suponer una barrera para quienes no tienen recursos para preparación previa, y crea una estructura de control de calidad muy compleja que los centros pequeños tendrán difícil gestionar.",
+    "resumen_tweet": "🎨 El #BOE formaliza los títulos de Arte como universitarios. Pero ¡ojo! 👁️ Se crea una red de burocracia y 'agencias de calidad' que huele a gasto oculto. ¿Más papel y menos arte? 🎭 #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Artículo 49: Creación de un aplicativo informático sin presupuesto asignado ni transparencia en su adjudicación.",
+      "Capítulo VIII: Dependencia extrema de agencias de calidad externas, cuyos costes operativos no se detallan.",
+      "Artículos 19-21: Las pruebas específicas de acceso siguen favoreciendo a quienes pueden costearse formación privada previa.",
+      "Disposición Transitoria Tercera: Ambigüedad en el plazo y coste del desarrollo tecnológico necesario."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grandes centros educativos privados con capacidad administrativa",
+        "Empresas de consultoría y auditoría de calidad",
+        "Estudiantes de rentas altas con formación artística extraescolar"
+      ],
+      "perdedores": [
+        "Centros públicos pequeños con escaso personal administrativo",
+        "Estudiantes de entornos socioeconómicos vulnerables",
+        "Flexibilidad docente frente a la estandarización burocrática"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto de Ordenación Educativa",
+    "banderas_rojas": [
+      "Artículo 49: Creación de un aplicativo informático sin presupuesto asignado ni transparencia en su adjudicación.",
+      "Capítulo VIII: Dependencia extrema de agencias de calidad externas, cuyos costes operativos no se detallan.",
+      "Artículos 19-21: Las pruebas específicas de acceso siguen favoreciendo a quienes pueden costearse formación privada previa.",
+      "Disposición Transitoria Tercera: Ambigüedad en el plazo y coste del desarrollo tecnológico necesario."
+    ]
+  },
+  "tweeted": false
+}
