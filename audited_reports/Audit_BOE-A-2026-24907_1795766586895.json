@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-24907",
+  "timestamp": "2026-11-27T08:03:06.895Z",
+  "title": "Real Decreto 1035/2026, de 25 de noviembre, por el que se regula la Seguridad Social de las personas acogedoras especializadas de dedicación exclusiva.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "El Real Decreto 1035/2026 formaliza una demanda histórica de profesionalización del acogimiento, pero lo hace bajo una estructura de 'convenio especial'. Esto traslada la responsabilidad del pago de la cotización al propio acogedor (sujeto responsable), quien debe detraerla de la compensación económica que recibe. Se observa una ambigüedad en la financiación: el Estado permite que las CCAA asuman el pago de forma 'voluntaria', lo que generará desigualdades territoriales. No hay una partida presupuestaria estatal directa, delegando la carga real a las autonomías o al eslabón más débil: el ciudadano cuidador.",
+    "resumen_ciudadano": "Si eres un acogedor especializado con dedicación exclusiva (cuidando menores con necesidades especiales), ya puedes cotizar para tu jubilación y pensión. Sin embargo, por defecto, la cuota de la Seguridad Social la pagas tú de tu propio bolsillo, a menos que tu Comunidad Autónoma decida pagarla por ti. Además, estas compensaciones ya no te impedirán pedir pensiones no contributivas en el futuro.",
+    "resumen_tweet": "📢 ¿Eres acogedor especializado? El #BOE regula tu Seguridad Social, PERO ¡ojo! 👁️ Tú eres el responsable de pagar la cuota de tu bolsillo a menos que tu CCAA quiera asumirlo. ¿Derecho o carga económica? 💸 #Transparencia #Opacidad #Infancia #SeguridadSocial",
+    "banderas_red_flags": [
+      "Externalización del coste: El acogedor es el sujeto responsable del pago de la cuota.",
+      "Desigualdad territorial: La asunción del pago por las CCAA es voluntaria, no obligatoria.",
+      "Incompatibilidad estricta: Se prohíbe el convenio si se realiza cualquier otra actividad mínima por cuenta ajena.",
+      "Silencio administrativo: Se establece un plazo de 6 meses para resolver, lo cual es excesivo para un alta de seguridad social."
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Estado (aumenta la cifra de cotizantes sin coste directo inmediato)",
+        "Administraciones Autonómicas (pueden profesionalizar el servicio sin obligación legal de pagar las cuotas)"
+      ],
+      "perdedores": [
+        "Acogedores familiares (ven reducido su ingreso neto si la CCAA no asume la cotización)",
+        "Menores acogidos (la precariedad del cuidador impacta en la calidad del servicio)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Real Decreto / Seguridad Social",
+    "banderas_rojas": [
+      "Externalización del coste: El acogedor es el sujeto responsable del pago de la cuota.",
+      "Desigualdad territorial: La asunción del pago por las CCAA es voluntaria, no obligatoria.",
+      "Incompatibilidad estricta: Se prohíbe el convenio si se realiza cualquier otra actividad mínima por cuenta ajena.",
+      "Silencio administrativo: Se establece un plazo de 6 meses para resolver, lo cual es excesivo para un alta de seguridad social."
+    ]
+  },
+  "tweeted": false
+}
