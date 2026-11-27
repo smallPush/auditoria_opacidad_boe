@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24911",
+  "timestamp": "2026-11-27T08:10:54.292Z",
+  "title": "Real Decreto 1039/2026, de 25 de noviembre, por el que se modifica el Real Decreto 2033/2009, de 30 de diciembre, por el que se determinan los puestos tipo adscritos al Cuerpo de Secretarios Judiciales a efectos del complemento general de puesto, la asignación inicial del complemento específico y las retribuciones por sustituciones que impliquen el desempeño conjunto de otra función.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "El Real Decreto 1039/2026 intenta restaurar un régimen retributivo previamente anulado por el Tribunal Supremo por falta de negociación. Aunque detalla tablas salariales, introduce una opacidad preocupante mediante la 'cláusula de disponibilidad presupuestaria', lo que convierte derechos retributivos en concesiones graciables según el estado de las arcas públicas. Se prioriza el ahorro económico (eficiencia) sobre la salud laboral, incentivando que un solo funcionario asuma el trabajo de dos (desempeño conjunto) para evitar contrataciones externas. Además, se penaliza la sustitución corta (menos de 10 días), que no se paga salvo prueba de carga extraordinaria, lo que bordea el enriquecimiento injusto por parte de la Administración.",
+    "resumen_ciudadano": "El Gobierno actualiza cómo pagan a los Letrados de la Administración de Justicia cuando tienen que cubrir a compañeros. El objetivo principal es ahorrar dinero reduciendo las contrataciones externas y obligando a los que ya están a hacer el doble de trabajo. Se incluyen pluses por objetivos y mejoras para destinos en Baleares, pero se advierte que muchos de estos pagos solo se harán si hay presupuesto suficiente en ese momento.",
+    "resumen_tweet": "⚖️ Nuevo Real Decreto para Letrados de Justicia: se fomenta el '2x1' en funciones para ahorrar costes. 🚩 Red flags: sustituciones de menos de 10 días podrían no cobrarse y todo queda sujeto a 'disponibilidad presupuestaria'. #BOE #Opacidad #Justicia",
+    "banderas_red_flags": [
+      "Pago condicionado a disponibilidad presupuestaria (Disposición adicional cuarta)",
+      "Trabajo no remunerado en sustituciones inferiores a 10 días sin intervención de fe pública",
+      "Arbitrariedad en la definición de 'programas por objetivos' por parte del Ministerio",
+      "Riesgo de sobrecarga laboral al limitar el uso de sustitutos externos para priorizar el ahorro"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Ministerio de Hacienda (ahorro en contrataciones externas)",
+        "Letrados destinados en Illes Balears (mejora del complemento de insularidad)",
+        "Cuerpo de Gestión Procesal (preferencia para sustituciones largas sobre personal externo)"
+      ],
+      "perdedores": [
+        "Letrados de la Administración de Justicia titulares (mayor acumulación de tareas)",
+        "Candidatos a sustitutos externos (quedan relegados por criterios de ahorro)",
+        "Ciudadanos (posible pérdida de calidad en la justicia por saturación de los letrados)"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Retribuciones y Régimen de Personal de la Administración de Justicia",
+    "banderas_rojas": [
+      "Pago condicionado a disponibilidad presupuestaria (Disposición adicional cuarta)",
+      "Trabajo no remunerado en sustituciones inferiores a 10 días sin intervención de fe pública",
+      "Arbitrariedad en la definición de 'programas por objetivos' por parte del Ministerio",
+      "Riesgo de sobrecarga laboral al limitar el uso de sustitutos externos para priorizar el ahorro"
+    ]
+  },
+  "tweeted": false
+}
