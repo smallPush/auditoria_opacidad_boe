@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-24916",
+  "timestamp": "2026-11-27T08:14:30.763Z",
+  "title": "Real Decreto 1047/2026, de 26 de noviembre, de garantía de calidad de los centros privados del Sistema de Formación Profesional integrados en el sistema educativo, y por el que se regulan los centros asociados, los centros de segunda oportunidad en el Sistema de Formación Profesional, la Red Estatal de Centros de Excelencia de Formación Profesional, y se modifican el Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional, el Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional, y el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "Bajo la apariencia de 'garantía de calidad', el Real Decreto 1047/2026 institucionaliza un sistema de Formación Profesional de dos velocidades. Se otorga un estatus privilegiado a la 'Red de Excelencia' (potencialmente privada) mientras se segrega a los colectivos vulnerables en 'Centros de Segunda Oportunidad'. La norma introduce conceptos elásticos como 'adaptación proporcionada de requisitos', lo que en la práctica permite a la administración relajar exigencias de forma discrecional. Además, el rol de los 'Centros Asociados' sugiere una estrategia de externalización de la formación pública hacia entidades privadas mediante convenios cuya financiación no queda detallada de forma transparente en el texto.",
+    "resumen_ciudadano": "Este decreto regula cómo deben funcionar los centros privados de FP y crea diferentes categorías: centros de élite (Excelencia), centros para personas en riesgo de exclusión (Segunda Oportunidad) y centros colaboradores (Asociados). Establece las normas para la FP online y semipresencial, endureciendo algunos controles de calidad pero permitiendo excepciones ambiguas en ciertos territorios o situaciones.",
+    "resumen_tweet": "🚨 ¿FP de primera y de segunda? El nuevo RD 1047/2026 crea redes de 'Excelencia' y 'Segunda Oportunidad', blindando el negocio de los centros privados con cláusulas de 'adaptación' poco claras. 🧐📉 #BOE #Opacidad #Transparencia #Educación",
+    "banderas_red_flags": [
+      "Uso de 'adaptación proporcionada' como comodín para eximir de requisitos",
+      "Falta de memoria económica detallada para la Red de Excelencia",
+      "Indeterminación en los criterios de financiación de centros asociados",
+      "Riesgo de segregación sistémica del alumnado según el centro asignado"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Grupos de inversión en educación privada",
+        "Centros tecnológicos de alto rendimiento",
+        "Empresas de formación virtual"
+      ],
+      "perdedores": [
+        "Alumnado con menos recursos (confinado a 'Segunda Oportunidad')",
+        "Pequeños centros públicos que no alcancen el sello de 'Excelencia'",
+        "Transparencia presupuestaria en el reparto de fondos de formación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Educación / Formación Profesional",
+    "banderas_rojas": [
+      "Uso de 'adaptación proporcionada' como comodín para eximir de requisitos",
+      "Falta de memoria económica detallada para la Red de Excelencia",
+      "Indeterminación en los criterios de financiación de centros asociados",
+      "Riesgo de segregación sistémica del alumnado según el centro asignado"
+    ]
+  },
+  "tweeted": false
+}
