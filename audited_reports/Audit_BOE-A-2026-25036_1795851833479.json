@@ -1,0 +1,35 @@
+{
+  "boe_id": "BOE-A-2026-25036",
+  "timestamp": "2026-11-28T07:43:53.479Z",
+  "title": "Resolución de 18 de noviembre de 2026, de la Universidad de Málaga, por la que se nombran Catedráticas de Universidad.",
+  "report": {
+    "nivel_transparencia": 7.5,
+    "analisis_critico": "Se trata de un acto administrativo estándar para la consolidación de plazas de alto nivel académico. Aunque el texto cumple con la legalidad de la LOSU (2/2023), incurre en la opacidad financiera habitual al referirse a 'emolumentos según disposiciones vigentes' sin cuantificar el impacto presupuestario a largo plazo de estos puestos vitalicios. Desde una perspectiva de género, el documento muestra un impacto positivo al elevar a dos mujeres a la categoría de catedráticas, un estrato históricamente masculinizado, aunque no detalla los méritos que justifican la elección frente a otros candidatos del concurso previo.",
+    "resumen_ciudadano": "La Universidad de Málaga formaliza el nombramiento de dos nuevas catedráticas en las áreas de Psicología y Derecho Internacional. Esto representa el nivel más alto de la carrera docente pública, lo que conlleva un aumento salarial y estatus administrativo financiado por el erario público tras un proceso selectivo interno.",
+    "resumen_tweet": "🎓 La Univ. de Málaga nombra nuevas Catedráticas en Psicología y Derecho. Avance en igualdad de género en la academia, pero persiste la opacidad en el coste real para el contribuyente tras la frase 'emolumentos vigentes'. #BOE #Opacidad #Transparencia 🏛️",
+    "banderas_red_flags": [
+      "Ausencia de cuantificación económica de las plazas",
+      "Referencia genérica a méritos evaluados en comisiones privadas",
+      "Gasto público estructural sin desglose de partidas específicas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Rosario Cabello González",
+        "María Isabel Torres Cazorla",
+        "Universidad de Málaga (estabilidad docente)"
+      ],
+      "perdedores": [
+        "Candidatos no seleccionados",
+        "Contribuyentes (por falta de transparencia en el coste salarial total)"
+      ]
+    },
+    "comunidad_autonoma": "Andalucía",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Ausencia de cuantificación económica de las plazas",
+      "Referencia genérica a méritos evaluados en comisiones privadas",
+      "Gasto público estructural sin desglose de partidas específicas"
+    ]
+  },
+  "tweeted": false
+}
