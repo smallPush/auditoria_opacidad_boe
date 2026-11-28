@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-25020",
+  "timestamp": "2026-11-28T06:39:15.927Z",
+  "title": "Resolución de 26 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 37/2026, de 17 de noviembre, por el que se aprueban medidas urgentes en materia de retribuciones del personal al servicio del sector público.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "La resolución valida el Real Decreto-ley 37/2026 mediante la Diputación Permanente, un mecanismo de urgencia que limita el debate parlamentario profundo. Aunque se titula como medidas retributivas urgentes, el uso de este cauce legislativo para el sector público suele ocultar ajustes desiguales entre las escalas administrativas altas y las bases, sin una memoria económica detallada accesible de forma directa en el anuncio de convalidación.",
+    "resumen_ciudadano": "El Congreso ha confirmado por vía rápida una ley que modifica los sueldos de los empleados públicos. El proceso se ha realizado sin el debate parlamentario completo, lo que dificulta saber qué cuerpos del Estado reciben más dinero y si la subida es equitativa para los trabajadores con salarios más bajos.",
+    "resumen_tweet": "🚨 ¡Ojo! El Congreso aprueba por vía de urgencia cambios en los sueldos públicos sin debate parlamentario completo. 📉 Poca claridad sobre quiénes son los verdaderos beneficiados. ¿Equidad o privilegios? #BOE #Opacidad #Transparencia #GastoPúblico 💸",
+    "banderas_red_flags": [
+      "Uso del Real Decreto-ley para materias no extraordinarias",
+      "Validación por la Diputación Permanente eludiendo el Pleno",
+      "Falta de desglose retributivo por niveles en el extracto",
+      "Ausencia de justificación de la 'extrema urgencia' para salarios"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Altos cargos con complementos específicos",
+        "Poder Ejecutivo (evita el control legislativo ordinario)",
+        "Personal administrativo beneficiado por ajustes de última hora"
+      ],
+      "perdedores": [
+        "Contribuyentes (opacidad en el destino final del gasto)",
+        "Transparencia democrática (procedimiento acelerado)",
+        "Escalas bajas del sector público con menor poder de negociación"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convalidación Legislativa",
+    "banderas_rojas": [
+      "Uso del Real Decreto-ley para materias no extraordinarias",
+      "Validación por la Diputación Permanente eludiendo el Pleno",
+      "Falta de desglose retributivo por niveles en el extracto",
+      "Ausencia de justificación de la 'extrema urgencia' para salarios"
+    ]
+  },
+  "tweeted": false
+}
