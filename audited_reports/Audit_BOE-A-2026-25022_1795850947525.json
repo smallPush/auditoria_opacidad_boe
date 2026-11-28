@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-25022",
+  "timestamp": "2026-11-28T07:29:07.525Z",
+  "title": "Resolución de 26 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 39/2026, de 17 de noviembre, por el que se modifican el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre; el Real Decreto 902/2020, de 13 de octubre, de igualdad retributiva entre mujeres y hombres; la Ley 3/2023, de 28 de febrero, de Empleo; y el Real Decreto 723/2026, de 9 de septiembre, por el que se transpone la Directiva (UE) 2019/1152 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a unas condiciones laborales transparentes y previsibles en la Unión Europea.",
+  "report": {
+    "nivel_transparencia": 40,
+    "analisis_critico": "La convalidación del Real Decreto-ley 39/2026 bajo el procedimiento de urgencia del artículo 86.2 de la Constitución supone un 'cheque en blanco' legislativo que amalgama cuatro reformas estructurales distintas (Estatuto de los Trabajadores, Igualdad Retributiva, Ley de Empleo y Directiva Europea) en un solo bloque. Esta técnica de 'ley ómnibus' reduce la capacidad de debate pormenorizado y diluye la responsabilidad política. Se utiliza el paraguas de la transposición de la Directiva (UE) 2019/1152 como caballo de Troya para introducir modificaciones en el sistema retributivo de género y empleo sin el sosiego de un proyecto de ley ordinario. No se detallan las partidas económicas para la inspección de estas nuevas obligaciones retributivas, lo que podría generar 'gastos fantasma' o, peor aún, leyes que son papel mojado por falta de dotación presupuestaria.",
+    "resumen_ciudadano": "El Congreso ha aprobado de forma rápida un paquete de cambios legales que afectan directamente a tu contrato de trabajo y a la igualdad de salario entre hombres y mujeres. Aunque se hace para cumplir con Europa y prometer condiciones laborales más claras, el uso de la vía de urgencia impide que se discutan los detalles de cómo se va a controlar que las empresas cumplan realmente con la igualdad de sueldos y la previsibilidad de los horarios.",
+    "resumen_tweet": "🚨 ¡Alerta BOE! El Congreso valida una reforma laboral 'exprés' que afecta desde tu sueldo hasta tu contrato. ¿Cumplimiento europeo o parche legislativo sin debate? Menos transparencia, más complejidad técnica. 🧐💼 #BOE #Opacidad #Transparencia #Derechos",
+    "banderas_red_flags": [
+      "Uso de la figura de Real Decreto-ley para reformas de calado estructural",
+      "Técnica legislativa de amalgama (ley ómnibus)",
+      "Opacidad en la memoria económica para el control de la igualdad retributiva",
+      "Transposición europea utilizada para acelerar agendas políticas internas"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Administración Central (evita sanciones de la UE)",
+        "Grandes plataformas de datos laborales",
+        "Sector de consultoría de igualdad"
+      ],
+      "perdedores": [
+        "PYMES (aumento de burocracia sin apoyo directo)",
+        "Ciudadanía (imposibilidad de seguir el rastro de los cambios legales)",
+        "Debate parlamentario profundo"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Resolución de Convalidación Legislativa",
+    "banderas_rojas": [
+      "Uso de la figura de Real Decreto-ley para reformas de calado estructural",
+      "Técnica legislativa de amalgama (ley ómnibus)",
+      "Opacidad en la memoria económica para el control de la igualdad retributiva",
+      "Transposición europea utilizada para acelerar agendas políticas internas"
+    ]
+  },
+  "tweeted": false
+}
