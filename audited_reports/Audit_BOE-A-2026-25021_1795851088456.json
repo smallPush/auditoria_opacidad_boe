@@ -1,0 +1,34 @@
+{
+  "boe_id": "BOE-A-2026-25021",
+  "timestamp": "2026-11-28T07:31:28.456Z",
+  "title": "Resolución de 26 de noviembre de 2026, del Congreso de los Diputados, la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 38/2026, de 17 de noviembre, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial y medidas fiscales urgentes para evitar la tributación del salario mínimo interprofesional de 2027 en el Impuesto sobre la Renta de las Personas Físicas.",
+  "report": {
+    "nivel_transparencia": 4.5,
+    "analisis_critico": "Nos encontramos ante una técnica legislativa de 'empaquetamiento'. Bajo la bandera social de evitar que los perceptores del Salario Mínimo Interprofesional (SMI) de 2027 pierdan poder adquisitivo por el IRPF, se convalida el Real Decreto-ley 38/2026 que incluye partidas de 'financiación territorial'. Esta amalgama de medidas fiscales directas con ajustes de recursos autonómicos suele ocultar concesiones políticas específicas o parches presupuestarios de difícil rastreo ciudadano. La urgencia del Real Decreto-ley elude un debate parlamentario profundo sobre el reparto de fondos entre comunidades.",
+    "resumen_ciudadano": "Se confirma la ley que protege a los trabajadores que cobran el sueldo mínimo, impidiendo que Hacienda les retenga IRPF en 2027. Sin embargo, el texto también aprueba movimientos de dinero hacia las comunidades autónomas que no están detallados en esta resolución, lo que genera dudas sobre el destino final de esos fondos.",
+    "resumen_tweet": "🚨 ¡Ojo al #BOE! Se evita que el SMI de 2027 pague IRPF (bien 👍), pero el Gobierno aprovecha para colar ajustes en la financiación territorial sin detalle claro. ¿Medida social o moneda de cambio política? 🧐 #Opacidad #Transparencia #SMI 💸",
+    "banderas_red_flags": [
+      "Mezcla de medidas heterogéneas (Omnibus)",
+      "Falta de desglose en los recursos territoriales",
+      "Uso de la vía de urgencia para ajustes financieros estructurales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Trabajadores con salario mínimo (alivio fiscal directo)",
+        "Gobiernos Autonómicos (recepción de recursos adicionales)"
+      ],
+      "perdedores": [
+        "Contribuyentes medios (soportan la carga recaudatoria neta)",
+        "Transparencia pública (por la opacidad en el reparto territorial)"
+      ]
+    },
+    "comunidad_autonoma": "España (Estatal)",
+    "tipologia": "Fiscal y Financiación Territorial",
+    "banderas_rojas": [
+      "Mezcla de medidas heterogéneas (Omnibus)",
+      "Falta de desglose en los recursos territoriales",
+      "Uso de la vía de urgencia para ajustes financieros estructurales"
+    ]
+  },
+  "tweeted": false
+}
