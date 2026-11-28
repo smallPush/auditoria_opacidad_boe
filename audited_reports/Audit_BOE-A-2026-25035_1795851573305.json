@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-25035",
+  "timestamp": "2026-11-28T07:39:33.305Z",
+  "title": "Resolución de 18 de noviembre de 2026, de la Universidad Rey Juan Carlos, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 6,
+    "analisis_critico": "La resolucion se ajusta a la legalidad vigente (LOSU), pero mantiene el patron de opacidad tipico de los nombramientos academicos en España. Aunque se publican los nombres y areas, no se ofrece informacion sobre la composicion de las comisiones evaluadoras ni los baremos especificos de puntuacion que justifican estos nombramientos sobre otros aspirantes. La Universidad Rey Juan Carlos, con un historial complejo en materia de transparencia, sigue sin desglosar el impacto economico a largo plazo que suponen estas plazas de funcionario de carrera para el erario publico, tratandose de un compromiso de gasto vitalicio.",
+    "resumen_ciudadano": "La Universidad Rey Juan Carlos (URJC) ha formalizado el nombramiento de cuatro nuevos profesores titulares con plaza fija en las areas de Ingenieria Aeroespacial, Matematica Aplicada, Psicologia Social y Derecho Civil. Estos nombramientos cierran un proceso iniciado en septiembre de 2026 y otorgan estabilidad laboral permanente a los seleccionados dentro de la estructura funcionarial del Estado.",
+    "resumen_tweet": "🎓 Cuatro nuevos profesores titulares en la @URJC. Aunque destaca la presencia femenina (75%), persiste la opacidad en los costes reales y los criterios de seleccion de las comisiones internas. ¿Meritocracia o inercia? 📑 #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Ausencia de desglose del coste presupuestario anual por plaza",
+      "Falta de transparencia en los criterios de baremacion de las comisiones",
+      "Inexistencia de informacion sobre el numero de candidatos rechazados",
+      "Concentracion de poder de nombramiento en el Rectorado sin auditoria externa"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Xin Chen",
+        "Marta Latorre Balado",
+        "María Felisa Latorre Navarro",
+        "María de los Desamparados Núñez Núñez",
+        "Cuerpo de Funcionarios del Estado"
+      ],
+      "perdedores": [
+        "Candidatos externos excluidos del proceso",
+        "Contribuyentes (por falta de detalle en la eficiencia del gasto publico)",
+        "Sistema de transparencia universitaria (por formalismo excesivo)"
+      ]
+    },
+    "comunidad_autonoma": "Comunidad de Madrid",
+    "tipologia": "Nombramientos de Personal Docente e Investigador (PDI)",
+    "banderas_rojas": [
+      "Ausencia de desglose del coste presupuestario anual por plaza",
+      "Falta de transparencia en los criterios de baremacion de las comisiones",
+      "Inexistencia de informacion sobre el numero de candidatos rechazados",
+      "Concentracion de poder de nombramiento en el Rectorado sin auditoria externa"
+    ]
+  },
+  "tweeted": false
+}
