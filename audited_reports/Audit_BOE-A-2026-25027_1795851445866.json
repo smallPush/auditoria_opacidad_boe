@@ -1,0 +1,38 @@
+{
+  "boe_id": "BOE-A-2026-25027",
+  "timestamp": "2026-11-28T07:37:25.866Z",
+  "title": "Orden TED/1275/2026, de 30 de octubre, por la que se establecen las normas generales para la exención de autorización del tratamiento de residuos biodegradables mediante compostaje doméstico y comunitario.",
+  "report": {
+    "nivel_transparencia": 7,
+    "analisis_critico": "La Orden TED/1275/2026 intenta simplificar la burocracia sustituyendo la autorizacion previa por una comunicacion responsable, siguiendo directrices europeas. Sin embargo, introduce una 'opacidad técnica' al delegar en las entidades locales la verificacion constante y el suministro de material, sin detallar la financiacion para estas nuevas cargas. Existe una clara brecha de clase: los beneficios fiscales y la exencion solo son accesibles para quienes poseen suelo (jardines o huertos) o viven en comunidades con infraestructura verde, dejando fuera a la poblacion urbana de alta densidad. Ademas, la figura de la 'persona técnica' abre la puerta a la externalizacion de servicios de supervision que antes eran publicos.",
+    "resumen_ciudadano": "Si haces compost en casa o con tus vecinos, ya no necesitas un permiso industrial, solo avisar a la comunidad autonoma. Los ayuntamientos podran bajarte las tasas de basura si compostas, pero estaran obligados a vigilarte y a darte formacion. Es un avance para el reciclaje en origen, pero dificil de aplicar si vives en un piso pequeño en la ciudad sin acceso a zonas verdes comunitarias.",
+    "resumen_tweet": "🌿 Menos papeleo para el compostaje casero en el #BOE, pero ¿quien lo controla? Se elimina la autorizacion previa por una comunicacion, aunque se excluye de facto a quienes no tienen jardin. ¡Cuidado con la letra pequeña de las tasas! #Opacidad #Transparencia ♻️",
+    "banderas_red_flags": [
+      "Desplazamiento de costes operativos a Ayuntamientos sin partida presupuestaria definida",
+      "Ambiguedad en los requisitos para ser 'persona técnica' de supervision",
+      "Riesgo de brecha digital y administrativa en la comunicacion previa obligatoria",
+      "Posible desigualdad en la aplicacion de beneficios fiscales locales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Propietarios de viviendas unifamiliares con jardin",
+        "Entidades locales que reduzcan costes de transporte de basura",
+        "Fabricantes de compostadoras y material estructurante"
+      ],
+      "perdedores": [
+        "Inquilinos de pisos pequeños en zonas urbanas densas",
+        "Administraciones locales pequeñas sin personal técnico",
+        "Empresas tradicionales de recogida y tratamiento de residuos urbanos"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Orden Ministerial / Economia Circular",
+    "banderas_rojas": [
+      "Desplazamiento de costes operativos a Ayuntamientos sin partida presupuestaria definida",
+      "Ambiguedad en los requisitos para ser 'persona técnica' de supervision",
+      "Riesgo de brecha digital y administrativa en la comunicacion previa obligatoria",
+      "Posible desigualdad en la aplicacion de beneficios fiscales locales"
+    ]
+  },
+  "tweeted": false
+}
