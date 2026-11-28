@@ -1,0 +1,40 @@
+{
+  "boe_id": "BOE-A-2026-25028",
+  "timestamp": "2026-11-28T07:34:49.452Z",
+  "title": "Real Decreto 1073/2026, de 26 de noviembre, por el que se regula la concesión directa de diversas subvenciones a las universidades españolas integradas en Alianzas Europeas de Universidades seleccionadas por la Comisión Europea.",
+  "report": {
+    "nivel_transparencia": 4,
+    "analisis_critico": "El Real Decreto 1073/2026 utiliza la figura de la 'concesión directa', eludiendo la concurrencia competitiva bajo el argumento de que las universidades ya fueron seleccionadas por la Comisión Europea. Sin embargo, esto traslada la soberanía de la fiscalización presupuestaria nacional a un ente externo. Llama la atención la inclusión de fundaciones privadas (Abat Oliba CEU, Francisco de Vitoria) recibiendo fondos públicos directos en un contexto de prórroga presupuestaria sistemática (desde 2023 hasta 2026), lo que indica una gestión económica inercial y poco adaptada a nuevas realidades sociales.",
+    "resumen_ciudadano": "El Gobierno otorga ayudas directas a un grupo selecto de universidades (tanto públicas como privadas) para participar en redes europeas. Al ser concesión directa, no hay posibilidad de que otras universidades compitan por estos fondos ahora. Se financian viajes, dietas, servicios externos y gastos de personal para proyectos de digitalización e internacionalización.",
+    "resumen_tweet": "📢 ¡Subvenciones a dedo en el #BOE! El Gobierno reparte fondos directos a universidades, incluidas privadas de élite, sin concurso público nacional 🏛️. Se justifica en alianzas europeas pero falta transparencia en el uso del dinero. #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Uso recurrente de la concesión directa eliminando la competencia",
+      "Financiación a universidades privadas mediante decreto excepcional",
+      "Presupuestos prorrogados desde 2023 (gestión de hace 3 años)",
+      "Gastos de difícil fiscalización como 'servicios externos' y 'transferencia interna'",
+      "Admite que no estaba previsto en el Plan Estratégico de Subvenciones"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Universidades privadas (Francisco de Vitoria, Abat Oliba CEU, Europea de Valencia)",
+        "Gestores de proyectos de internacionalización",
+        "Empresas de auditoría externa y consultoría"
+      ],
+      "perdedores": [
+        "Universidades públicas no integradas en redes europeas",
+        "Principio de concurrencia competitiva",
+        "Control parlamentario del gasto sobre presupuestos actualizados"
+      ]
+    },
+    "comunidad_autonoma": "España (Multirregional)",
+    "tipologia": "Subvenciones de concesión directa",
+    "banderas_rojas": [
+      "Uso recurrente de la concesión directa eliminando la competencia",
+      "Financiación a universidades privadas mediante decreto excepcional",
+      "Presupuestos prorrogados desde 2023 (gestión de hace 3 años)",
+      "Gastos de difícil fiscalización como 'servicios externos' y 'transferencia interna'",
+      "Admite que no estaba previsto en el Plan Estratégico de Subvenciones"
+    ]
+  },
+  "tweeted": false
+}
