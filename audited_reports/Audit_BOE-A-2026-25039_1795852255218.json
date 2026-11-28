@@ -1,0 +1,36 @@
+{
+  "boe_id": "BOE-A-2026-25039",
+  "timestamp": "2026-11-28T07:50:55.218Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se convoca concurso específico para la provisión de puestos de trabajo.",
+  "report": {
+    "nivel_transparencia": 6.5,
+    "analisis_critico": "El proceso de provisión de puestos en la CNMC presenta una estructura formalmente correcta pero con mecanismos que favorecen la endogamia institucional. Al otorgar una puntuación adicional de 1 punto por haber desempeñado puestos en la misma área funcional y restringir la validez de los cursos de formación a un listado cerrado publicado por el propio organismo, se crean barreras de entrada para perfiles transversales de otros ministerios. Además, la movilidad de los funcionarios de la AEAT queda sujeta a una autorización discrecional por 'necesidades del servicio', lo que limita la libertad de movimiento laboral de ciertos cuerpos técnicos.",
+    "resumen_ciudadano": "La CNMC busca cubrir vacantes entre funcionarios de carrera mediante un sistema de puntos. Se valora la experiencia, el grado y la formación. El sistema beneficia significativamente a quienes ya conocen el funcionamiento interno de la regulación de mercados y penaliza a quienes intentan cambiar de departamento, especialmente si vienen de la Agencia Tributaria.",
+    "resumen_tweet": "🕵️‍♂️ ¿Movilidad o endogamia en la CNMC? El nuevo concurso de méritos premia con puntos extra a los que ya están 'dentro' y limita los cursos válidos a su propia lista. 🛡️ Barreras para los de fuera, alfombra roja para los de casa. #BOE #Opacidad #Transparencia",
+    "banderas_red_flags": [
+      "Endogamia funcional mediante puntos adicionales por área previa",
+      "Limitación de cursos de formación a un listado interno del organismo",
+      "Restricción a la movilidad de funcionarios de la AEAT bajo criterios discrecionales"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Funcionarios actuales de la CNMC",
+        "Cónyuges de funcionarios destinados en la misma localidad",
+        "Personal con antigüedad en regulación de mercados"
+      ],
+      "perdedores": [
+        "Funcionarios de la Agencia Tributaria (veto potencial)",
+        "Perfiles transversales de la Administración General del Estado",
+        "Candidatos con formación externa no homologada por la CNMC"
+      ]
+    },
+    "comunidad_autonoma": "Estatal",
+    "tipologia": "Recursos Humanos / Función Pública",
+    "banderas_rojas": [
+      "Endogamia funcional mediante puntos adicionales por área previa",
+      "Limitación de cursos de formación a un listado interno del organismo",
+      "Restricción a la movilidad de funcionarios de la AEAT bajo criterios discrecionales"
+    ]
+  },
+  "tweeted": false
+}
