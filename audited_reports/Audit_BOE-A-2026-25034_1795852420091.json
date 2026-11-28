@@ -1,0 +1,33 @@
+{
+  "boe_id": "BOE-A-2026-25034",
+  "timestamp": "2026-11-28T07:53:40.091Z",
+  "title": "Resolución de 17 de noviembre de 2026, de la Universidad de La Laguna, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+  "report": {
+    "nivel_transparencia": 8.5,
+    "analisis_critico": "Se trata de una resolucion administrativa de nombramiento de personal funcionario de carrera en la Universidad de La Laguna. El documento cumple con la legalidad vigente (LOSU 2/2023) pero mantiene la opacidad intrinseca de los procesos universitarios donde no se publican las puntuaciones ni el numero de aspirantes en el extracto del BOE. El gasto es estructural, comprometiendo presupuestos publicos durante decadas sin una evaluacion de desempeño posterior visible para el ciudadano.",
+    "resumen_ciudadano": "La Universidad de La Laguna ha nombrado formalmente a dos nuevos Profesores Titulares en el area de Didactica y Organizacion Escolar. Los seleccionados tienen 20 dias para tomar posesion de sus cargos como funcionarios.",
+    "resumen_tweet": "🎓 Nuevos profesores titulares en la Universidad de La Laguna. Mas funcionarios en el area de Educacion. Proceso legal pero sin visibilidad sobre la competencia real en el concurso. 🏛️ #BOE #Opacidad #Transparencia #Universidad #Canarias",
+    "banderas_red_flags": [
+      "Gasto publico estructural permanente",
+      "Falta de detalle sobre el numero de candidatos excluidos"
+    ],
+    "vencedores_vencidos": {
+      "ganadores": [
+        "Mirian Catalina Gonzalez Afonso",
+        "Fulgencio Sanchez Vera",
+        "Estructura administrativa de la ULL"
+      ],
+      "perdedores": [
+        "Personal docente e investigador precario",
+        "Candidatos externos al sistema de promocion interna"
+      ]
+    },
+    "comunidad_autonoma": "Canarias",
+    "tipologia": "Nombramientos de Personal",
+    "banderas_rojas": [
+      "Gasto publico estructural permanente",
+      "Falta de detalle sobre el numero de candidatos excluidos"
+    ]
+  },
+  "tweeted": false
+}
